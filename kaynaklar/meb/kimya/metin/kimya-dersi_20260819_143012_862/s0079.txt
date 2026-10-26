@@ -1,0 +1,29 @@
+79
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: SÜRDÜRÜLEBİLİRLİK
+Bu tema, Nanoteknoloji ve Sürdürülebilirlik bölümünden oluşmaktadır. Bu temada öğren-
+cilerin yeşil hidrojen enerjisi eldesine yönelik hipotez oluşturmaları, nanoteknolojik ürün-
+lerin seçimine yönelik eleştirel düşünmeleri, mikroplastik ve nanoplastiklerin etkilerini 
+sorgulamaları amaçlanmaktadır.
+DERS SAATİ 20
+ALAN 
+BECERİLERİ FBAB6. Hipotez Oluşturma 
+KAVRAMSAL 
+BECERİLER KB2.8. Sorgulama, KB3.3. Eleştirel Düşünme
+EĞİLİMLER E3.7. Sistematiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sos-
+yal Farkındalık, SDB3.3. Sorumlu Karar Verme
+Değerler D2. Aile Bütünlüğü, D3. Çalışkanlık, D5. Duyarlılık, D13. Sağlıklı Yaşam, D14. Saygı, 
+D18. Temizlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel 
+Okuryazarlık, OB6. Vatandaşlık Okuryazarlığı, OB7. Veri Okuryazarlığı, OB8. Sürdürülebilirlik 
+Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Coğrafya, Fizik
+BECERİLER ARASI 
+İLİŞKİLER FBAB7. Deney Yapma, KB2.2. Gözlemleme, KB2.10. Çıkarım Yapma, KB2.14. Yorumlama, 
+KB2.16. Muhakeme (Akıl Yürütme) (KB2.16.1. Tümevarımsal Akıl Yürütme)

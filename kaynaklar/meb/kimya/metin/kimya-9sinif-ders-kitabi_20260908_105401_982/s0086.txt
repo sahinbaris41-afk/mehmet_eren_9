@@ -1,0 +1,22 @@
+1. Tema/Etkileşim
+86
+2. Periyodik tablodaki bazı elementlerin 1. iyonlaşma enerjisi değerleri aşağıdaki tabloda verilmiştir.
+Bu elementlerin atom numarası-iyonlaşma enerjisi grafiğini aşağıdaki boş alana çizerek iyonlaşma ener-
+jisi değerindeki azalma nedenini açıklayınız.
+3. • H−F bağındaki elektronlar F ,
+    • H−Cl bağındaki elektronlar Cl,
+    • F−Cl bağındaki elektronlar F atomu tarafından daha çok çekilmektedir. 
+  H, F ve Cl atomlarının elektronegatifliklerini karşılaştırınız  ve elektronegatifliğin tanımını yazınız.
+4. • X atomunun iyonlaşma enerjisi değeri en büyüktür.
+    • Y atomunun atom yarıçapı en büyüktür.
+    • K atomunun valans elektron sayısı Y atomuna eşittir.
+    • Z atomunun valans elektron sayısı ve valans elektronlarının bulunduğu enerji seviyesi K ve X atomlarından  
+   farklıdır.
+ V erilen özelliklerden hareketle X, Y, Z ve K elementlerini aşağıdaki periyodik tablo kesitine yerleştiriniz. 
+Gerekçelerinizi ilgili alana yazınız.
+Element 1. İyonlaşma Enerjisi(kJ/mol) Element 1. İyonlaşma Enerjisi(kJ/mol)
+10Ne 2080 15P 1012
+11Na 496 16S 1000
+12Mg 738 17Cl 1255
+13Al 577 18Ar 1520
+14Si 786 19K 419

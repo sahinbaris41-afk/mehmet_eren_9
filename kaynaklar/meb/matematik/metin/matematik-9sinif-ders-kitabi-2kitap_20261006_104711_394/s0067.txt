@@ -1,0 +1,66 @@
+67
+4. Tema / Eşlik ve Benzerlik
+24. ÖRNEK
+Yandaki	 görselde	 yer	 alan	 evin	 çatısı	 üçgen	 şek-
+linde	 tasarlanmıştır.	ABC	 üçgeninde	 BA CA ,=77 AA  
+AD BC=77 AA ,	 BD ,, DC m m18 5== 	olarak	veril-
+miştir.
+Buna	göre	
+a) AD 	nun	kaç	m	olduğunu	bulunuz.
+b) AB 	nun	yaklaşık	değerinin	kaç	m	olduğunu	bu-
+lunuz.
+c) AC 	nun	kaç	m	olduğunu	bulunuz.	
+Çözüm
+ABC	üçgeninde	Öklid	teoreminden	 AD hm=  
+olmak	üzere	 AD BD DC2 $= 	olduğundan
+,hh h m18 59 9322 &&$== ==_i 	olarak	
+bulunur.
+ ABC	ve	ABD	üçgenleri	incelendiğinde
+ABD ABC , BAD ACDmm mm ==`` `` jj jj%% %% 	ve
+BAC ADBmm =`` jj%% 	olduğundan	DBA ABC+&&  dir	
+(A.A.).	
+Buradan	
+BC
+AB
+AB
+BD
+AC
+AD
+.olur==
+BC
+AB
+AB
+BD
+AB BD BC .oldu undan olurğ 2 $==
+AB BD BC AB ,, AB ,A B, m18 68 12 24 3522 2&& &$$ .== =__ ii 	bulunur.
+ABC	ve	DAC	üçgenleri	incelendiğinde
+ABC DAC , BAC ADCmm mm ==`` `` jj j j%% %% 	ve
+ACB ACDmm =`` j j%% 	olduğundan	DAC ABC+&& 	dir
+(A.A.).	
+Buradan	
+CB
+AC
+AC
+CD
+AB
+AD
+.olur==
+ 
+CB
+AC
+AC
+CD
+AC CD CB .oldu undan olurğ $== 2  
+AC ,A CA Cm56 83 43 4&&$== =22 _i 	olarak	bulunur.
+b)
+a)
+c)
+A
+B CD
+A
+B CD
+A
+B CD
+AA
+BB DD CC
+h

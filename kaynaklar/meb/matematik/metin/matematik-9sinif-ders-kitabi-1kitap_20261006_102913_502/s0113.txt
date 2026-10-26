@@ -1,0 +1,69 @@
+113
+2. Tema /  Nicelikler ve Değişimler
+4.  Parçalı gösterimli fonksiyonların cebirsel temsillerinin nasıl oluşturulabileceğini açıklayınız.
+5.  Parçalı gösterimli fonksiyonların hangi problem durumlarında ve nasıl kullanılabileceğini açıklayınız.
+4. ÖRNEK
+Bir genel ağ servis sağlayıcısı, kullanılan ilk 100 GB (cigabayt) veri için aylık 200 Türk lirası sabit ücret al-
+maktadır. 100 GB aşıldığında ise ücret düzenli olarak artmakta ve bu artış 1 GB için 0,5 Türk lirasına karşılık 
+gelmektedir. Kullanılan veri miktarına (GB) bağlı aylık ücret (TL), aşağıda elektronik tablo ve fonksiyon 
+grafiğiyle gösterilmiştir.
+Kullanılan Veri 
+Miktarı (GB)
+Aylık 
+Ücret (TL)
+0 200
+10 200
+20 200
+30 200
+40 200
+50 200
+60 200
+70 200
+80 200
+90 200
+100 200
+110 205
+120 210
+130 215
+140 220
+150 225
+160 230
+170 235
+180 240
+190 245
+O
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200
+Kullanılan	veri	miktarı	(GB)
+x
+y	A ylık 	 ücret 	 (TL)
+Kullanılan	Veri	Miktarına	(GB)	Bağlı	A ylık 	 Ücretin 	 (TL) 	 Değişimi
+Buna göre aşağıdaki soruları cevaplayınız.
+a)		Fonksiyonun tablo ve grafik temsilini inceleyiniz. Kullanılan veri miktarı hangi değeri geçtiğinde fonk-
+siyonun değişim gösterdiğini bulunuz.
+b)		Fonksiyonun hangi tanım aralıklarında kaç farklı cebirsel temsil ile ifade edilebileceğini açıklayınız.
+c)		Kullanılan veri miktarına (GB) bağlı olarak aylık ücreti (TL) veren fonksiyonun cebirsel temsilini parçalı 
+gösterimli fonksiyon şeklinde ifade ediniz. Grafik üzerinde gösteriniz.
+Çözüm
+a) T ablo ve grafik temsiline göre kullanılan veri miktarı 100 GB’ı geçtiğinde fonksiyon, değişim gös -
+termiştir.
+b) Kullanılan veri miktarına (GB) bağlı olarak aylık ücreti (TL) ifade eden fonksiyon f olsun. Kullanı -
+lan veri miktarı 100 GB’ı geçtiğinde fonksiyon değişim gösterdiğinden f fonksiyonu, ,01 007A  ve 
+(100,∞)   nda iki farklı cebirsel temsil ile ifade edilmelidir.
+c) T anım kümeleri ,01 007A  ve (100,∞) olan fonksiyonlar sırasıyla g ve h olsun. ,01 007A  nda aylık sabit 
+ücret 200 Türk lirası olduğundan g(x) = 200 olur.
+100 GB’ın üzerindeki kullanımlarda fazladan kullanılan verinin ücreti 0,5   (x − 100) Türk lirası 
+olur. Bu durumda h(x) = 200 + 0,5  (x − 100) bulunur.
+ 

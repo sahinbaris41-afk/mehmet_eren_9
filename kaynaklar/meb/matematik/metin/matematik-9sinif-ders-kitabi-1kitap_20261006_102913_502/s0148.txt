@@ -1,0 +1,36 @@
+148
+2. Tema /  Nicelikler ve Değişimler
+10. ÖRNEK
+Yukarıdaki görselde masaya tutturulmuş bir yayın ucuna asılı bir kap verilmiştir. Başlangıçta boş olan 
+kaba boya ilave edilerek masanın alt kısmı ile kabın üst kısmı arasındaki mesafe ölçülmüştür. Kabın 
+içine eklenen boya miktarına (dI) bağlı olarak ölçülen mesafenin (cm) değişim grafiği yukarıda verilmiştir.
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Kabın hacmi 50 dl’den az olduğuna göre kap tam dolu iken ölçülen mesafenin kaç cm’den az olaca -
+ğını bulunuz.
+b)  Masanın alt kısmı ile zemin arasındaki mesafenin 102 cm’den az olduğu bilindiğine göre 15 cm uzun -
+luğundaki kabın yere değmemesi için kaba ilave edilebilecek boya miktarının (dl) alabileceği değer 
+aralığını bulunuz.
+Çözüm
+a)		Kaba ilave edilen boya miktarı x dl olmak üzere kap tam dolu iken x  50 olur. Masanın alt kısmı 
+ile kovanın üst kısmı arasındaki ölçülen mesafeyi ifade eden eşitlik ,yx 10 22=+  olduğundan   
+,,xx x50 20 21 010 10 21 2&&11 1+  bulunur. 
+ Buna göre k ap tamamen dolu iken ölçülen mesafe 110,2 cm’den azdır.
+b)  Masanın alt kısmı ile kabın üst kısmı arasındaki ölçülen mesafe (cm) y olmak üzere kabın zemine değ -
+memesi için y  y102 15 87& 1-  olmalıdır. Buradan ,, xx10 22 87 28 71 02&11+-
+                                                                                                                           
+, x28 76& 1
+,.x olur 38 4& 1
+ Kabın yere değmemesi için kaba ilave edilebilecek boya miktarının (dl) alabileceği değerlerin aralığı 
+4 ,0, 38 i8  olur.
+15 cm
+Ölçülen 
+mesafe 
+(cm)
+y Ölçülen mesafe (cm)
+x Eklenen boya miktarı (dl)O
+4
+y = 10,2+2x
+2
+10,2
+14,2
+18,2

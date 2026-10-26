@@ -1,0 +1,39 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+76 77
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+• Tasarım bittikten sonra bir ipi gövdenin üst kısmına aşağıda yer alan şekildeki gibi 
+bağlayınız.
+• Uçak, yatayda dengeye gelene kadar gövdenin ucuna bağladığınız ağırlığı ayarlayınız.
+• Uçağın yatay dengede kalması, ipin bağlandığı noktanın ağırlık merkezi olarak ayar -
+lanmış olmasından kaynaklandığını belirtiniz.
+• Ağırlık merkezinin ayarlanmasının uçağın uçuş için hazır olduğu anlamına geldiğini ifa -
+de ediniz.
+8
+• Aşağıdaki şekli inceleyiniz ve şeklin yanındaki açıklamayı okuyunuz.
+9
+Uçağın kanat profilinin aerodinamik yapısı, 
+hareket yönünün tersinden esen rüzgârın ka -
+nat altındaki basıncını artırırken üst kısmında 
+basıncın azalmasına neden olur. Bu basınç 
+farkı Bernoulli İlkesi’ne dayanır. Uçağın ka -
+natlarındaki basınç farkı uçağa yukarı yönde 
+bir kaldırma kuvveti uygular. Kaldırma kuvveti 
+uçağın ağırlığından büyükken uçağın hava -
+lanmasını, kaldırma kuvveti uçağın ağırlığına 
+eşitken ise yere paralel uçmasını sağlar.
+1. Her bir grubun hazırladığı model uçaklar için en uzun menzil yarışması düzenleneceğini belirtiniz.
+2. Her bir grubun tasarımlarını test edip yarıştırabilmesi için okul idaresi tarafından açık bir alan ay -
+rılmasını sağlayınız. 
+3. Yarışma tamamlandıktan sonra etkinliğin yapıldığı sınıfların katılımıyla ve imkânlar dâhilinde en ya-
+kın Bilim ve Sanat Merkezine bir gezi düzenleneceğini ifade ediniz.
+1. Öğrencilerden Bernoulli İlkesi'ne dayanan bir oyuncak tasarlamasını isteyiniz.
+2. Öğrencilerin tasarladığı oyuncağın okuldaki fizik köşesinde sergileneceğini bildiriniz.
+3. Oyuncağın hangi prensibe göre çalıştığını ve oyuncakla oynama kurallarını açıklayan bir kâğıdın 
+yanında bulunması gerektiğini hatırlatınız.
+Düşük basınç
+Yüksek basınç
+Kanat profili
+ip
+Yarışma
+Performans Görevi

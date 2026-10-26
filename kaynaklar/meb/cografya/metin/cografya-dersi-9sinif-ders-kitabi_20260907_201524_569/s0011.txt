@@ -1,0 +1,269 @@
+11
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+131
+Öz 
+Değerlendirme 
+Formu
+Analitik
+Dereceli Puanlama 
+Anahtarı
+DEĞERLENDİRME
+Yapmış olduğunuz çalışmada ortaya koyduğunuz performansı değerlen-
+dirmek için verilen öz değerlendirme formunu doldurunuz. Performans 
+görevi; amaç belirleme, bilgi toplama, bilgileri düzenlenme ve görselleş-
+tirme, sunum yapma ölçütlerine göre karekodda verilen analitik dereceli 
+puanlama anahtarı ile değerlendirilecektir.
+Bir sonraki derse kadar farklı iklim türlerine sahip yerlerdeki küresel iklim değişikliğinin yansımalarına 
+ilişkin bilgi görseli hazırlamayı içeren performans görevi için aşağıdaki hazırlıkları yapınız.
+1. Hazırlayacağınız bilgi görselinin amacını belirleyiniz. 
+2. Hazırlayacağınız bilgi görseli için farklı iklim türlerine sahip yerlerde küresel iklim değişikliğine bağlı 
+ortaya çıkan değişimlerin neler olduğuna ilişkin gerekli bilgilere ulaşmak için edu, gov ve org uzantılı 
+(ulusal ve uluslararası kuruluşlar) genel ağ, kütüphane vb. kaynaklardan bilgi toplayınız. 
+3. Topladığınız bilgileri hazırlayacağınız bilgi görseli için düzenleyiniz.
+Beceri Değişim ve Sürekliliği Algılama, Kendini Düzenleme (Öz Düzenleme)
+PERFORMANS GÖREVİ
+Farklı iklim türlerine sahip yerlerdeki küresel iklim değişikliğinin yansımalarına ilişkin bilgi görseli çalış-
+masını yapınız.
+Bilgi Görseli Hazırlama
+Yönerge 
+Yaptığınız araştırmalardan yararlanarak bilgi görseli çalışması için istenen işlem adımlarını uygulayınız. 
+1. Adım: Düzenlediğiniz bilgileri grafik, şekil, diyagram, görsel, harita vb. materyallerle görselleştirerek kâğıt 
+üzerinde ya da dijital ortamda bilgi görseli oluşturunuz.
+2. Adım: Hazırladığınız bilgi görseli çalışmasını arkadaşlarınızla paylaşınız.
+GELECEK DERSE HAZIRLIK
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+89
+Meteoroloji Genel Müdürlüğünün genel ağ adresindeki kaynakları kullanarak aşağıdaki uygulamaları yapınız. 
+Hava Tahminlerinde Mekânsal Bilgi Teknolojilerinden Yararlanma
+1. Hava durumundaki değişimler nelerdir? 
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+2. Hava durumu, beş günlük gözlem süresince günlük hayatı nasıl etkilemiş olabilir? Tespitlerinizi yazınız. 
+................................................................................................................................................................................................................................................ 
+................................................................................................................................................................................................................................................ 
+................................................................................................................................................................................................................................................
+3. Yaşadığınız yerin beş günlük hava durumu verileri ile iklim özelliklerini karşılaştırınız. Hava durumu ve iklim 
+özellikleri arasındaki benzerlik ve farklılıkları yazınız. 
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................ 
+................................................................................................................................................................................................................................................
+1. Yaşadığınız yere ait uydu ve radar görüntülerini inceleyerek uzaktan algılama görüntüleri ile yaşadığınız 
+yerin hava durumunu ilişkilendiriniz. 
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+2. Hava durumu tahminlerinin yapılmasında uydu ve radar görüntülerinden nasıl yararlanılabileceğini açıklayınız. 
+................................................................................................................................................................................................................................................ 
+................................................................................................................................................................................................................................................ 
+................................................................................................................................................................................................................................................
+Yaşadığınız yerin 5 günlük hava durumu verilerini Meteoroloji Genel Müdürlüğünün (MGM) genel ağ adresinden elde 
+ediniz. Verileri günlük olarak aşağıdaki tabloya işleyiniz. Aynı genel ağ adresinden yararlanarak rüzgârın yönünü ve 
+hava durumunu (açık, parçalı bulutlu, bulutlu vb.) gösteren ikonları ilgili yerlere renkli kalemlerle çiziniz.
+Günler Pazartesi Salı Çarşamba Perşembe Cuma
+Tarih
+En Yüksek Sıcaklık
+En Düşük Sıcaklık
+Nemlilik (%)
+Rüzgârın Yönü ve Hızı (km/sa.)
+Hava Basıncı (hPa)
+Hava Durumu (açık, parçalı 
+bulutlu, bulutlu vb.) 
+Tablodaki bilgilerden hareketle soruları cevaplayınız.
+Amaç Hava durumunu takip ederek hava olaylarını günlük hayatla ilişkilendirebilme
+Beceri Çözümleme, Gözleme Dayalı Tahmin Etme
+ETKİNLİK Hava Olaylarının Gözlenmesi
+UYGULAMA
+DEĞERLENDİRME: Öğretmeninizin rehberliğinde çalışmanızı kontrol edip varsa eksik cevaplarınızı 
+düzenleyiniz. 
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+88
+Meteoroloji Genel Müdürlüğü
+T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığına bağlı olan Meteoroloji Genel 
+Müdürlüğü; silahlı kuvvetler, tarım, orman, turizm, enerji, sağlık, ulaştırma, bayın-
+dırlık gibi alanlara meteorolojik destek sağlamaktadır.  Meteoroloji Genel Müdürlü-
+ğünün görevleri şunlardır:
+• Türkiye genelinde hava gözlemleri yapmak
+• Hava tahmini yaparak ilgili kurumları ve halkı bilgilendirmek
+• Afete neden olabilecek hava olaylarını erken uyarı sistemiyle bildirmek
+• İklim değişikliğini izlemek
+Meteoroloji Genel Müdürlüğünün www.mgm.gov.tr genel ağ adresinden ulaşılabile-
+cek başlıca hizmetler şunlardır:
+• İl ve ilçe hava tahmini
+• Kuraklık ve yağış analizleri
+• İllere ait resmî istatistik veriler
+• Taşkın erken uyarı sistemi
+• Radar ve uydu görüntüleri
+• Hezarfen (havacılık sayfası) ve Piri Reis (denizcilik sayfası)
+Görsel 3.6   
+MGM’nin otomatik 
+meteoroloji gözlem 
+istasyonu, İstanbul, Kartal
+Hava Tahminleri Nasıl Yapılır?
+Hava durumu, herhangi bir yer ve zamandaki atmosfer koşullarının kısa süreli 
+durumudur. Yeryüzünün herhangi bir yerindeki sıcaklık, hava basıncı, rüzgâr, 
+nem, sis, bulut, yağış gibi hava olaylarıyla ilgili değişiklikleri ifade eder. Mevcut 
+hava koşulları, her gün hava raporlarıyla ilgililere bildirilir. Hava raporları; mete-
+oroloji istasyonlarından alınan sıcaklık, bağıl nem, rüzgâr hızı ve yönü, bulutlu-
+luk (kapalılık oranı), yağış gibi unsurlara ait verilerle hazırlanır (Görsel 3.6).  
+Uydular, sensörler vasıtasıyla kaydettikleri verileri belirli aralıklarla yer istas-
+yonlarına göndererek hava olaylarının küresel olarak incelenmesini kolaylaş-
+tırır. Radar teknolojisi, meteoroloji uyduları ve ölçüm cihazları aracılığıyla elde 
+edilen verilerin incelenmesi ve yorumlanması sonucunda bir ülke, bölge veya 
+merkezde, belirli bir zaman dilimi içinde etkili olabilecek hava koşullarıyla ilgili 
+öngörüde bulunmaya hava tahmini denir. 
+Atmosferik olayların gelişimi çoğu zaman yerel ölçekte olmadığından hava 
+tahmini yapılırken uluslararası meteoroloji istasyonlarından elde edilen veriler 
+kullanılır.
+Aşırı Hava Olaylarından Nasıl Korunabilirsiniz?
+Amaç İnsanları aşırı hava olaylarının oluşturabileceği risklere karşı bilinçlendirebilme
+Beceri Görsel Okuryazarlık, İş Birliği, Esneklik
+SINIF DIŞI ETKİNLİK
+Yönerge: Bir aşırı hava olayının (sıcak hava dalgası, soğuk hava dalgası, fırtına, yıldırım düşmesi, dolu, kuraklık, 
+aşırı yağış) risklerine karşı insanları bilgilendirmek için iş birlikli çalışmayla kamu spotu hazırlayınız.
+1. Adım: Çalışma grubunuzu oluşturup çalışmasını yapacağınız aşırı hava olayını belirleyiniz.
+2. Adım: Bilimsel kaynaklardan yararlanarak çalışmanızın konusu olan aşırı hava olayının ne olduğunu, etkilerini 
+ve o aşırı hava olayından korunmak için alınması gereken tedbirleri araştırınız.
+3. Adım: Elde ettiğiniz bilgileri kullanarak bilgi görseli hazırlayınız.
+4. Adım: İnsanları aşırı hava olayları konusunda bilinçlendirmek için çalışmanızı paylaşınız.
+Bilgi Kutusu 
+DEĞERLENDİRME: Yapılan etkinlik, karekodda verilen öz 
+değerlendirme formundaki ölçütlere göre değerlendirilecektir.
+ 
+Meteoroloji Genel 
+Müdürlüğü logosu
+Öz Değerlendirme 
+Formu
+Öğrencilere rehberlik 
+eden, ihtiyaç duyulan 
+konularda ek bilgiler 
+veren, içinde önemli 
+kelime, kavram veya 
+tanımların yer aldığı 
+metin alanı
+Öğrencilerin konuyla 
+ilgili ek bilgilerinin 
+veya kısa soruların 
+bulunduğu alan
+Ders öncesi öğrenci ve 
+öğretmenler tarafından 
+yapılması gereken 
+hazırlıkları hatırlatan 
+“Gelecek Derse Hazır-
+lık” alanı
+Öğrenilen bilgi ve be-
+cerileri etkinlikler ara-
+cılığıyla yeni olay ve 
+durumlara aktarmak 
+için hazırlanan, öğre-
+tim yöntem-teknikleri 
+ile ölçme araçlarının 
+bulunduğu “Etkinlik” 
+alanı
+Öğrenme çıktılarının 
+değerlendirilmesi için 
+sınıf içinde yapılması 
+gereken “Performans 
+Görevi” alanı
+Öğrenme çıktılarının 
+değerlendirilmesi, sınıf 
+içinde kazanılan bilgi 
+ve becerilerin pekiş-
+tirilebilmesi amacıyla 
+hazırlanan “Sınıf Dışı 
+Etkinlik” alanı
+Öğrencilere ek bilgi 
+verilmesi amacıyla 
+hazırlanan “Bilgi 
+Kutusu Alanı”
+Öğrenilen bilgi ve be-
+cerileri etkinlikler ara-
+cılığıyla yeni olay-du-
+rumlara aktarmak için 
+hazırlanan “Uygulama” 
+alanı
+SEMBOLLERİN 
+AÇIKLAMASI
+Çalışmanın bittiği yer
+“Başlarken” alanı
+“Konuya Başlarken” 
+alanı
+Etkinliğin başladığı yer
+“Anahtar Kavramlar” 
+alanı
+Etkinliğin bittiği yer
+Bireysel etkinlik
+Grup etkinliği
+Rehberli etkinlik
+Sonraki sayfada de-
+vam eden çalışma
+Önceki sayfadan de-
+vam eden çalışma
+Ders öncesi hazırlık 
+gerektiren çalışma
+Etkileşimli içerik
+Video/Animasyon
+2. ÜniTe: MeKÂnSAL BiLGi TeKnOLOJiLeRi
+56
+Bilgi Kutusu 
+Harita Genel Müdürlüğü, T.C. Millî Savunma Bakanlığına bağlıdır. Ulusal harita-
+cılık kurumu olan Harita Genel Müdürlüğü hem kalkınma amaçlı kamu kurum ve 
+kuruluşlarına hem de savunma ve güvenlik amaçlı olarak Türk Silahlı Kuvvetlerine 
+hizmet vermektedir. Bunun yanında bilimsel araştırmalar ve eğitim öğretim faaliyet-
+lerinde kullanılacak haritalar da üretmektedir.
+Harita Genel Müdürlüğünün www.harita.gov.tr genel ağ adresinden ulaşılabilecek 
+başlıca harita ve uygulamalar şunlardır:
+• Türkiye siyasi ve fiziki haritaları
+• Dünya siyasi ve fiziki haritaları
+• İllerin mülki idare ve fiziki haritaları
+• Piri Reis Haritası
+• HGM-KÜRE: Millî sanal küre uygulaması
+• HGM-ATLAS: Millî haritacılık uygulaması
+Harita Genel 
+Müdürlüğü logosu
+Harita Genel Müdürlüğü
+Aşağıdaki adımları izleyerek harita becerinizi geliştirmeye yönelik saha çalışması yapınız.
+• Çalışmada kullanılacak araç gerecin belirlenmesi (pusula, farklı ölçeklerde 
+şehir planı, topoğrafya haritası vb.)
+• Risklerin analiz edilerek güvenlik önlemlerinin alınması
+• Hava durumunun incelenerek arazi şartlarına uygun giysi seçilmesi
+• Arazi çalışması güzergâhının belirlenmesi ve iş akış planının yapılması
+• Gidilecek yerle ilgili bilgi toplanması
+1. Ön Hazırlık ve    
+    Planlama
+• Yakın çevrede harita elemanlarından yararlanarak harita kullanabilme
+• Yakın çevrede arazi gözlemlerine göre harita oluşturabilme
+• Yakın çevredeki yer şekilleriyle topoğrafya haritasını eşleştirebilme
+Saha Çalışmasının 
+Amacı
+• Çalışma alanında harita kullanılarak konum, yön, lejant ve uzaklıkla ilgili 
+çıkarım yapılması
+• Gözlem veya ölçme sonuçlarının kaydedilmesi
+• Topoğrafya haritasındaki tepe, vadi gibi yer şekillerinin arazide fotoğraflanması
+2. Sahada Çalışma
+• Gözlem veya ölçme sonucunda toplanan coğrafi bilgilerin haritaya aktarılması
+• Verilerin sınıflandırılması3. Toplanan Bilgileri          Düzenleme
+• Çizilen haritadan çıkarım yapılması 5. Tahminde         Bulunma
+• Arazide üretilen haritaların ve elde edilen görsellerin çözümlenmesi
+• Yer şekilleri ile topoğrafya haritasının ilişkilendirilmesi
+ 4. Bilgileri   
+    Çözümleme
+• Rapor hazırlanması
+• Arazi çalışmasının sonuçlarının sunulması6. Raporlama
+SAHA ÇALIŞMASI
+Becerilerin sahada uy-
+gulanabilmesi amacıyla 
+hazırlanan “Coğrafi 
+Gözlem ve Saha Çalış-
+ması” alanı
+Kitap genelinde kullanılan tüm karekodlar 
+akıllı cihazlarla okutularak ya da kitabın dijital 
+kopyalarındaki karekod üzerine tıklanarak 
+kitaba ait e-içeriklere ulaşılabilmektedir.
+Bitki örtüsü hangi hayvan-
+cılık faaliyetleri üzerinde 
+etkilidir? Örnekler üzerin-
+den açıklayınız.
+Atmosferde sıcaklık ve 
+nem özellikleri benzer -
+lik gösteren geniş hava 
+parçalarına hava küt-
+lesi adı verilir.

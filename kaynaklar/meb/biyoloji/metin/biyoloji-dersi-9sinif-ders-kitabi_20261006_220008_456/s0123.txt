@@ -1,0 +1,49 @@
+123
+Organizasyon
+11. Farklı ortamlarda kullanılan patates örneklerinde meydana gelen değişim sonuçlarına göre bu ortamların 
+hangilerinin patates örneklerine göre hipotonik, izotonik veya hipertonik olabileceğini yorumlayınız.
+Değerlendirme
+1. Farklı ortamlarda bekletilen patateslerin dokusal özelliklerinde ve ağırlığında meydana gelen değişimlerden 
+hareketle suyun hangi ortamda nasıl yer değiştirdiğiyle ilgili çıkarımlar yapınız. 
+2. Grup arkadaşlarınızla farklı bekleme sürelerinden elde edilen sonuçları tartışınız.
+3. Tasarlayıp uyguladığınız deneyin sonuçlarından hareketle diyaliz makinesinde kanın temizlenmesi, kuru or -
+tamda sebzelerin buruşması, çiçeğin kokusunun yayılması gibi olayların difüzyon ve ozmozun etkisiyle nasıl 
+gerçekleştiğini açıklayınız.
+ 
+Deney 
+Tasarlama Formu
+Kontrol Noktası
+Yönerge: Aşağıda verilen deneyi inceleyiniz. Deney sonuçlarından yola çıkarak verilen soruları yanıtlayınız.
+Aşağıdaki görselde içinde %5’lik şeker çözeltisi bulunan üç beher verilmiştir. Her beherin içerisine üç özdeş 
+huni, ters yerleştirilmiştir. Hunilerin içine farklı derişimde şeker içeren eş hacimde çözeltiler koyulmuştur. 
+Beher ve huni içindeki şeker çözeltileri birbirlerinden seçici geçirgen bir zar ile ayrılmıştır. Bu deney düze-
+neğinde meydana gelecek madde yer değişimleri hakkında çıkarım yaparak deneyle ilgili verilen soruları 
+yanıtlayınız.
+1. Deney düzeneğindeki bağımlı ve bağımsız değişkenleri yazınız.
+• Bağımlı değişken: ……………………………
+• Bağımsız değişken: ……………………………
+2. Hunilerin sıvı yüksekliğinde meydana gelecek değişimleri ve bunun nedenlerini yazınız. 
+• A Hunisi: Sıvı yüksekliğindeki değişim: ……………………………
+Nedeni: ……………………………
+• B Hunisi: Sıvı yüksekliğindeki değişim: ……………………………
+Nedeni: ……………………………
+• C Hunisi: Sıvı yüksekliğindeki değişim: ……………………………
+Nedeni: ……………………………
+Şeker çözeltisi
+(%5)
+Şeker çözeltisi
+(%2)
+Yarı geçirgen zar
+A
+Şeker çözeltisi
+(%5)
+Şeker çözeltisi
+(%20)
+Yarı geçirgen zar
+B
+Şeker çözeltisi
+(%5)
+Şeker çözeltisi
+(%50)
+Yarı geçirgen zar
+C

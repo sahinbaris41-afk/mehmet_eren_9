@@ -1,0 +1,36 @@
+79
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+kullanarak öğrencilerin keşfetmelerini sağlar. Öğrenciler ışınların merceklerde kırıldıktan 
+sonra izledikleri yolları çizimler yaparak belirler (OB4). Merceklerin yapılarına ve mercek-
+lerde kırılma yasalarına ilişkin özellikleri belirler. Öğrenciler nitelik sıralama, anlam çö-
+zümleme tablosu veya sınıflandırma tablosu kullanarak yakınsak ve ıraksak merceklerin 
+benzerlik ve farklılıklarını listeler (OB4, OB7). Öğretmen, yapılan çizim ve listeleri dereceli 
+puanlama anahtarı kullanarak değerlendirebilir. 
+FİZ.11.3.10
+Öğrenciler öğretmen rehberliğinde gruplara ayrılarak (SDB2.2) merceklerde cismin yerine 
+göre görüntünün yeri ve özelliklerini bulabilecekleri bir deney tasarlar (SDB1.2). Öğretmen 
+simülasyon veya animasyon kullanarak ışınlarla görüntü oluşumunu gösterebilir. Öğrenci-
+ler deney düzeneklerindeki cisimlerin bulunduğu yere göre görüntü çizimlerini yapar. Elde 
+edilen sonuçları kullanarak tablo oluşturur (E3.7). Öğrenciler deney düzenekleri, simülas-
+yon, animasyon veya tablo üzerinden merceklerde görüntü oluşumunu analiz eder (E3.6, 
+KB2.14, OB7). Öğretmen merceklerde asal eksen üzerinde ve herhangi bir noktadaki ci-
+simlerin görüntülerinin özelliklerini içeren farklı madde türlerinden oluşan testi kullanarak 
+değerlendirme yapabilir.
+FARKLILAŞTIRMA
+Zenginleştirme Kırılma olayında paralel ortamlarda kayma miktarını belirleyen değişkenler incelenebilir. 
+Aydınlatma sistemlerinde kırılmanın kullanımı, refraktometre cihazının çalışma prensibi 
+ve kullanım alanları araştırılabilir. Fiber optik hatlarda yaşanan sorunlara ilişkin araştırma 
+yaparak çözüm önerileri geliştirilebilir. İbnülheysem'in optik bilimi adına yapmış olduğu 
+çalışmalar ve “optik ve mekanik analojisi” araştırılabilir.
+*Mercek ve ayna sistemlerinin bütünleşik kullanıldığı sistemler araştırılarak bu sistemlere 
+ilişkin bir model geliştirilebilir. 
+*Teleskop, mikroskop, dürbün gibi optik sistemlerden birini belirleyerek bunların tarihsel 
+serüvenleri, diğer bilim alanlarındaki kullanımları ve çalışma ilkeleri hakkında sunum ha-
+zırlanabilir. Sunumlarda Kemâleddin el-Fârisî  ile Freibergli Theodoric'in yaptıkları çalış-
+malara yer vermeleri istenebilir.
+Destekleme Küresel aynalarda hazır verilen model üzerinde incelemeler yapılabilir. Kırılma yasalarına 
+ilişkin hazır deney düzeneği verilebilir. Fiber optik sistemler için bilgiler öğretmen tarafın-
+dan verilebilir. Prizmalar ve merceklerde hazır modeller üzerinden incelemeler yapılabilir. 
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

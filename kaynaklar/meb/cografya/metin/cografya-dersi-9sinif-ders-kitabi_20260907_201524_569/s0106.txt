@@ -1,0 +1,68 @@
+2. Basınç
+Hava basıncı, yatay yönlü hava hareketlerinin meydana gelmesinde etkili olan 
+iklim değişkenidir. Yere ve zamana göre değişim gösterir. Bir yerdeki hava 
+basıncı standart olarak kabul edilen 1013 mb’dan fazla veya az olabilir. Bu 
+değerin üstünde olan basınca yüksek basınç, altında olan basınca da alçak 
+basınç denir. Basınç sistemleri, birbirlerine göre yüksek basınç ya da alçak 
+basınç olarak da değerlendirilebilir. Yeryüzündeki farklı basınç değerleri izobar 
+eğrileri kullanılarak haritalanır. Aynı basınç değerine sahip noktaların birleştiril-
+mesiyle oluşturulan eğrilere izobar (eş basınç) adı verilir. İzobar eğrileri, iç içe 
+kapalı eğriler oluşturuyorsa basınç değerlerine göre yüksek basınç (antisiklon) 
+veya alçak basınç (siklon) merkezi olarak adlandırılır. (Harita 3.5).
+Basıncın Dağılışını Etkileyen Faktörler
+1. Yer Çekimi
+Atmosferi oluşturan gazlar, yer çekiminin etkisiyle 
+Dünya’nın etrafını sarar. Dünya’nın geoit şekli nede -
+niyle yer çekimi Ekvator’dan kutuplara doğru artar. 
+Buna bağlı olarak Ekvator’dan kutuplara doğru hava 
+basıncı artar. 
+2. Yükselti
+Atmosferdeki gazların yoğunluğu, yer çekiminin de 
+etkisiyle yerden yükseldikçe azalır. Bu nedenle yük-
+selti arttıkça basınç azalır. Yüksek kesimlerinde ha-
+vanın yoğunluğu ve basıncı daha azdır (Grafik 3.2).  
+3. Sıcaklık
+Hava ısındıkça genleşir, hafifler ve yükselir. Böylece 
+basınç azalır. Soğumanın etkisiyle havanın yoğun-
+luğu artar ve hava alçalır. Bunun sonucunda basınç 
+artar. Isınma veya soğuma etkisiyle oluşan basınç 
+merkezlerine termik basınç merkezi denir. Ekva-
+tor’da sürekli alçak basınç, kutuplarda sürekli yüksek 
+basınç olması termik nedenlere bağlıdır.
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+106
+50
+40
+30
+20
+10
+100 300 500 700 900
+Basınç (mb)
+Yükselti (km)
+0
+Grafik 3.2 
+Yükselti-basınç ilişkisi
+Basınç Merkezleri ve Yatay Hava Hareketleri
+Yatay hava hareketi
+İzobar (hPa)A
+Y
+Alçak basınç merkezi
+Yüksek basınç merkezi
+Harita 3.5  
+Kuzey yarım kürede yer 
+alan alçak ve yüksek 
+basınç merkezlerine ait 
+izobarların ve yatay hava 
+hareketinin gösterimi
+A
+1000
+1004
+992
+988 984
+996
+1008
+1012
+Y
+K
+0       50    100
+km

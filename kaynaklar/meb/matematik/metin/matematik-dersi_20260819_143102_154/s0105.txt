@@ -1,0 +1,45 @@
+105
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+e) Varsayımlarına dayalı olarak karekök fonksiyonlarının nitel özelliklerine ilişkin örüntüle-
+ri (cebirsel, sayısal veya grafiksel) geneller.
+f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerinden elde ettiği önermeleri uygun sözel veya cebirsel dil ile sunar.
+ğ) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını  değerlendirir.
+h) Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.
+ı) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını değer-
+lendirir.
+MAT.10.4.4.  Gerçek sayılarda f(x) = 1x (x ≠ 0) şeklinde tanımlı rasyonel referans fonksiyonun 
+nitel özellikleri ile bu fonksiyondan türetilen (g(x) = a ∙ f(x ± r) ± k (a, r , k ∈ ℝ, a ≠ 0)) 
+rasyonel fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme
+a)  Rasyonel referans fonksiyonun nitel özelliklerini (tanım kümesi, görüntü kümesi, işare-
+ti, artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği, tekliği-çiftli-
+ği, örtenliği) matematiksel temsilleri kullanarak belirler.
+b)  Rasyonel referans fonksiyonun nitel özellikleri ile matematiksel temsilleri arasındaki 
+ilişkileri belirler.
+c)  Rasyonel referans fonksiyonu grafik ve cebirsel temsili üzerinde yapılan işlemlerle di-
+ğer rasyonel fonksiyonlara dönüştürür.
+ç)  Rasyonel referans fonksiyon ile elde ettiği rasyonel fonksiyonların grafik ve cebirsel 
+temsilleri arasındaki ilişkiyi ifade eder.
+d) Rasyonel referans fonksiyonun nitel özelliklerinden hareketle diğer rasyonel fonksiyon-
+ların nitel özellikleri hakkında varsayımlarda bulunur.
+e) Varsayımlarına dayalı olarak rasyonel fonksiyonların nitel özelliklerine ilişkin örüntüleri 
+(cebirsel, sayısal veya grafiksel) geneller.
+f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerinden elde ettiği önermeleri uygun sözel veya cebirsel dil ile sunar.
+ğ) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını değerlendirir.
+h)  Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.
+ı) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını değer-
+lendirir.
+MAT.10.4.5. Doğrusal, karesel, karekök ve rasyonel referans fonksiyonlar ile bu fonksiyonlar-
+dan türetilebilen fonksiyonların ters fonksiyonlarına dair çıkarım yapabilme 
+a) Referans fonksiyonlar ve bunlardan türetilebilen fonksiyonlar üzerinden bir fonksiyo -
+nun ters fonksiyonuna ilişkin varsayımlarda bulunur. 
+b) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek referans 
+fonksiyonlar ve bunlardan türetilen fonksiyonların ters fonksiyonlarına ilişkin genelle-
+meler yapar.
+c) Referans fonksiyonlar ve bunlardan türetilen fonksiyonların ters fonksiyonlarıyla ilişki-
+sine dair varsayımları ile genellemelerini karşılaştırır.
+ç) Referans fonksiyonlar ve bunlardan türetilen fonksiyonların ters fonksiyon ilişkisine ait 
+önermeleri matematiksel olarak doğrulanabilecek şekilde sunar.
+d) Referans fonksiyonlar ve bunlardan türetilen fonksiyonların ters fonksiyonlarına ait 
+elde edilen önermeleri fonksiyonların nitel özellikleri bağlamında değerlendirir.

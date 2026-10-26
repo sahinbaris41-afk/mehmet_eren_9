@@ -1,0 +1,31 @@
+129
+2. Tema/Çeşitlilik
+r = 45
+r = 74-432
+r0 Çekirdekler arası mesafe, r (pm)
+İtme kuvvetleri çekme kuvvetlerinden büyük
+İtme kuvvetleri çekme kuvvetlerine eşit
+Çekme kuvvetleri itme kuvvetlerinden büyük
+Potansiyel enerji (kJ/mol)
+0
+r = 300
+r = 150 H
+H H
+H H
+H H
+H
+Hidrojen Molekülünün OluşumuEtkinlik-2.8
+Aşağıda iki hidrojen atomunun çekirdekleri arasındaki mesafeye göre potansiyel enerjideki değişim grafiği 
+verilmiştir. Grafiği inceleyerek aşağıdaki soruları cevaplayınız.
+1. Birbirine 300 pm uzaklıktaki iki H atomu arasında etkileşim var mıdır? Nedenini açıklayınız.
+2. İki H atomu birbirine yaklaşırken hangi kuvvetlerin etkisindedir ve bu atomların potansiyel enerjileri 
+nasıl değişir? Açıklayınız
+3. İki H atomu arasındaki uzaklık 74 pm olduğunda itme ve çekme kuvvetleri atomların hangi tanecikleri 
+arasında oluşmaktadır? Bu durum potansiyel enerjiyi nasıl etkilemektedir? 
+4. İki H atomu birbirine en yakın olduğu durumda hangi kuvvetlerin etkisindedir ve bu atomların potansiyel 
+enerjileri nasıl değişir? Açıklayınız.
+Atomların çekirdekleri arasındaki mesafenin uzak olduğu durumda atomlar 
+arasında herhangi bir etkileşim bulunmadığı için bu mesafede sistemin po-
+tansiyel enerjisinin sıfıra eşit olduğu kabul edilir. Atomlar birbirine yaklaştıkça 
+elektron bulutları yavaş yavaş üst üste binmeye başlar. Bu durum atomlar 
+arasında üç farklı türde etkileşim oluşmasına yol açar.

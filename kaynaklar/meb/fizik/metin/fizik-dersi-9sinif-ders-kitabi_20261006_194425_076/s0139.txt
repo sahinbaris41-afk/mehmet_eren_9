@@ -1,0 +1,51 @@
+139
+AKIŞKANLAR
+Bilgi Notu
+Cisimler, üzerine uygulanan kuvveti yönünü ve büyük lüğünü değiştirmeden aynen 
+iletir.
+Görseldeki çiviye uygulanan F kuvveti, çivinin uç kısmına yönü ve büyüklüğü değiş­
+meden aynen iletilir. Yüzeyler arasındaki ilişki A1 > A2 olduğundan P2 > P1 olur.
+ 
+A2
+P2
+A1
+P1
+F F
+Çiviye uygulanan kuvvet
+Toprak, çamurlu veya sert zeminlerde iş makinelerinin (Görsel 3.1) ağırlıkları 
+nedeniyle batmadan, devrilmeden ilerleyebilmesi için zemine uyguladıkları 
+basınç azaltılmalıdır. Bunun için geniş lastik tekerlekler veya paletli sistem -
+ler kullanılır. Paletler asfalt gibi zeminlerin aşınmasına neden olacağından 
+paletli iş makinelerinin bu zeminler üzerinde uzun süre hareket etmesi isten -
+mez. Bu makineler, ağırlıkları nedeniyle asfalt yollara zarar verdiğinden tra -
+fiğe çıkarılmaz. Görsel 3.2’de bir tırın üzerinde taşınan paletli bir iş makinesi 
+görülmektedir. Tırın lastik sayısı ve genişliği, üzerinde taşıdığı ağırlığa göre 
+değişmektedir. 
+Görsel 3.1: Dere yatağını temizleyen iş 
+makinesi
+Görsel 3.2: Paletli iş makinesini taşıyan 
+tır
+Birim yüzeye etki eden dik kuvvetin büyüklüğüne basınç denir. Basınç, skaler 
+bir büyüklüktür ve P sembolü ile gösterilir. SI’da basıncın birimi pascaldır (Pa).
+F büyüklüğündeki bir kuvvet A yüzey alanına dik bir şekilde etki ettiğinde 
+(Görsel 3.3) bu yüzeyde oluşan basınç, 
+Bas n Y z ey alanKuvvetı ç ü ı =  P AF=  matematiksel modeli ile bulunur.
+SI’da kuvvetin birimi N ve yüzey alanının birimi m 2dir. Pa biriminin karşılığı 
+olarak N/m2 de kullanılabilir.
+Bir cismin bir yüzeye uyguladığı kuvvetin büyüklüğü ağırlığı kadardır. Bu 
+nedenle cisimler, ağırlıklarının bir sonucu olarak bulundukları yüzeye basınç 
+uygular. Kesit alanı A olan ve küp şeklinde (Görsel 3.4) tasvir edilen bir cismin 
+yatay düzleme uyguladığı kuvvetin büyüklüğü (F) cismin ağırlığına (G) eşittir. 
+Cismin kütlesi m, yer çekimi ivmesi g alındığında cismin ağırlığı mG g $=  
+olur. G ağırlığındaki cismin  yatay düzlemde oluşturduğu basınç,
+P AF A A mG g$= = =  matematiksel modeli ile bulunur.
+F
+A
+Görsel 3.3: A yüzey ala-
+nında basıncı oluşturan F 
+büyüklüğünde kuvvet
+A
+G
+Görsel 3.4: Kesit alanı A 
+olan küpün ağırlığından 
+dolayı oluşan basınç

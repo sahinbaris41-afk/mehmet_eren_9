@@ -1,0 +1,43 @@
+53
+1. Tema /  Sayılar
+Performans 	Görevi 	 	 	
+Aydınlatma	Ürünlerinin	Enerji	Verimliliği
+hTM, bir optik sistemdeki ışık geçiş verimliliğini ifade eden verimlilik katsayısıdır. Işığın optik sisteme 
+girişinden çıkışına kadar ışık enerjisinin ne kadarının sistemi geçtiği, ne kadarının sistemde kaybol-
+duğu bu verimlilik katsayısıyla ifade edilir. 1 Eylül 2021’de yürürlüğe giren yasa ile aydınlatma ürünleri 
+için enerji verimliliğini ifade eden sınıflama zorunlu hâle getirilmiştir. 
+Bu görevde sizden aydınlatma ürünlerinin verimlilik katsayılarına, enerji verimli  liği sınıfına, okulu -
+nuzda bulunan aydınlatma ürünlerinin enerji verimliliğine göre hangi sınıfta olduğuna dair bilgileri 
+araştırmanız, elde ettiğiniz verileri sınıfta farklı matematiksel temsillerle göstermeniz, araştırdığınız 
+bilgiler yardımıyla tabloyu doldurmanız ve çalışmanızı sınıfta poster şeklinde hazırlayarak sınıf arka-
+daşlarınıza sunmanız beklenmektedir.
+Göreve	başlamadan	önce	aşağıdaki	hususa	dikkat	ediniz.
+• Çalışmanın yapılış basamaklarını belirleyiniz.
+Görev	esnasında	aşağıdaki	hususlara	dikkat	ediniz.
+• Araştırmanız sonucunda elde ettiğiniz bilgilerden yararlanarak tabloyu uygun değerlerle dol-
+durunuz.
+Enerji	Verimliliği	
+Sınıfı
+hTM	Verimlilik	Katsayısının	Değer	Aralığı 	(Im/W)
+A
+B
+C
+D
+E
+F
+G
+• A, B, C, D, E, F ve G verimlilik sınıflarına ait hTM değer aralıklarını sayı doğrusu üzerinde, 
+cebirsel ve küme gösterimiyle ifade ediniz.
+• Aşağıda  hTM değerleri verilen aydınlatma ürünlerinin hangi enerji verimliliği sınıfında olabile-
+ceğini tablodaki bilgilerden yararlanarak bulunuz.
+	 	 a) h TM / lm W 35=
+	 	 b)  hTM /,l mW00 128 10 4$=
+	 	 c) h TM / lm W60 10=
+Görev	bitiminde	aşağıdaki	hususlara	dikkat	ediniz.
+•  Tabloyu ve elde ettiğiniz bilgileri sınıf ortamında poster şeklinde hazırlayarak arkadaşlarınıza 
+sununuz.
+• Çalışmanızı öğretmeninize zamanında teslim ediniz.
+Performans göreviniz, analitik dereceli puanlama anahtarı ile öğretmeniniz tarafından değerlen -
+dirilecektir.
+Analitik dereceli puanlama anahtarına 
+ulaşmak için karekodu okutunuz.

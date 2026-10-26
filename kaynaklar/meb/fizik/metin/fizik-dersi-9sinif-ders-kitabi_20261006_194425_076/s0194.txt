@@ -1,0 +1,40 @@
+194
+3. ÜNİTE 
+Kontrol Noktası
+Akışkanların hareket hâlindeyken oluşturdukları basınca akışkan 
+basıncı denir.
+Akışkanların sürati ile basıncı arasın­
+daki ilişkiyi ilk kez Daniel Bernoulli 
+ortaya koymuştur. 
+Bernoulli İlkesi
+“Bir boruda veya kanalda akmakta 
+olan akışkanın basıncı, durgun 
+hâldeki basıncından küçüktür. ” ifadesi 
+Bernoulli İlkesi olarak bilinir. Bernoulli 
+İlkesi'ne göre akışkanların sürati arttı­
+ğında basıncı azalır. 
+Akışkanlarla ilgili günlük hayatta karşılaşılan birçok olay Bernoulli İlkesi ile açıklanmaktadır.
+A1
+P1
+A2 A3
+P2 P3 o1 < o2 < o3
+A1 > A2 > A3
+P1 > P2 > P3
+o1 o2 o3
+Venturi tüpünün kesitleri arasındaki ilişki şu şekildedir: A1 > A2 > A3
+Tüpün kesitlerinden geçen akışkanın süratleri arasındaki ilişki şu şekildedir: o3 > o2 > o1
+Akışkanın çeperlerindeki basınçlar arasındaki ilişki şu şekildedir: P1 > P2 > P3
+Fırtınalı havada çatıların 
+uçması
+Dolaşım sırasında damarlarda 
+oluşan basınç (tansiyon)
+P0 > P1
+P0
+P0
+P1
+Hareket hâlindeki hızlı araçların yan yana geçerken birbirini çekmesi
+Rüzgârlı bir günde şemsiyenin 
+ters dönmesi
+Akışkanlarda Akış Sürati ile Akışkan Basıncı 
+Arasındaki İlişki
+ 

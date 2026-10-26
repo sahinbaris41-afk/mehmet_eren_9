@@ -1,0 +1,35 @@
+157
+2. Tema/Çeşitlilik
+2. Aşağıda su molekülüne ait molekül modeli ve molekül taneciklerinin arasındaki etkileşimler gösterilmiştir. 
+Modeli inceleyerek soruları cevaplayınız.
+3. DNA’nın yapısında birbirine dolanmış şekilde iki zincir bulunur. Zincirler; adenin (A), sitozin (C), guanin (G) ve 
+timin (T) olarak adlandırılan dört baz içerir. Aşağıda bu bazların yapısı DNA zincirinde olduğu gibi hizalanmıştır. 
+Kırmızı ile gösterilen kısım bu bazların zincire bağlandığı yeri ifade etmektedir.
+a) Kaç tane su molekülü modellenmiştir? 
+b) Suyun yapısında hangi etkileşimler vardır? 
+c) Suyun kaynama noktasında belirleyici olan etkileşim hangisidir?
+ç) Görseldeki moleküllerde atomlar arası kaç tane etkileşim vardır? 
+a) Bazlar arasında oluşacak hidrojen bağlarını yukarıdaki molekül yapıları arasına çizerek gösteriniz.
+b) DNA zincirinde A-T ve G-C çiftlerinden hangisi daha güçlü bağlanmıştır? Gerekçesi ile açıklayınız.
+CH3 O O
+O O
+N
+N
+N
+N
+N N N
+N
+N
+N
+N
+N
+N
+NN
+H H
+H
+H
+H
+H
+H
+Timin Adenin Guanin Sitozin
+H

@@ -1,0 +1,73 @@
+59
+1. Tema/Etkileşim
+Atomların elektron dağılımı, orbital şeması ile de gösteri  lebilir . Orbital şema-
+sında geometrik şekiller orbitalleri, şekillerin içindeki işaretler ise elektronları 
+temsil eder. Boş, yarı dolu ve tam dolu orbitallerin farklı orbital şemaları ile 
+gösterimi aşağıdaki gibi yapılabilir.
+Periyodik tabloda bulunan atomlardaki orbitallerin gerçek enerjileri ve elekt -
+ronların atom orbitallerine yerleşimindeki gerçek sıralama genellikle spekt-
+roskopik ve manyetik yöntemler gibi deneysel çalışmalar ile belirlenebilir. 
+Bununla birlikte pek çok atom için elektron dağılımı atom orbitallerinin bağıl 
+enerji sıralaması ile Aufbau (Aufbau) ilkesi, Pauli (Pauli) dışlama ilkesi ve 
+Hund (Hunt) kuralı uygulanarak tahmin edilebilir.
+Boş Orbital
+Yarı Dolu Orbital
+Tam Dolu Orbital
+Çok elektronlu atomlarda elektronların atom orbitallerine yerleşmesine ilişkin ilkeleri (Aufbau ilkesi, Pauli 
+dışlama ilkesi ve Hund kuralı) belirlemek için aşağıdaki soruları cevaplayınız.
+1. Aşağıda Aufbau ilkesine uyan ve uymayan bazı örnekler verilmiştir. Bu örnekleri inceleyiniz ve düşünceleri-
+nizi tartışınız. İncelediğiniz örnekleri esas alarak Aufbau ilkesini veren örüntüyü belirleyiniz. Belirlediğiniz 
+örüntüyü gerekçeleriyle açıklayarak aşağıya yazınız.
+1H
+1s
+1
+Aufbau ilkesine uyar.
+1s
+0
+2s
+1
+Aufbau ilkesine uymaz.
+6C
+1s
+2
+2s
+2
+2p
+2
+2p
+3
+2p
+6
+3s
+1
+3s
+2
+2p
+5
+Aufbau ilkesine uyar.
+1s
+2
+2s
+1
+2s
+2
+Aufbau ilkesine uymaz.
+2He
+1s
+2
+Aufbau ilkesine uyar.
+1s
+1
+2s
+1
+Aufbau ilkesine uymaz.
+11Na
+1s
+2
+Aufbau ilkesine uyar.
+1s
+2
+2s
+2
+Aufbau ilkesine uymaz.
+Etkinlik-1.9 Elektronlar Orbitallere Nasıl Yerleşir?

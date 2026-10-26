@@ -1,0 +1,36 @@
+252
+4. ÜNİTE 
+İnşaat mühendisleri ve mimarlar, binalarda ısı yalıtımı yaparken ısı iletim hı -
+zını etkileyen etmenleri göz önünde bulundurur. Binaların duvarları çoğun -
+lukla dıştan olmak üzere ısı iletim katsayısı düşük olan strafor ile kaplanır 
+(Görsel 4.24). Benzer şekilde çatı ile binanın tavanı arasına strafor veya cam 
+yünü kaplaması yapılır (Görsel 4.25). Isının etkileşim alanını azaltmak için 
+pencereler, iki veya üç katlı cam kullanılarak ve mümkün olduğunca küçük 
+boyutlarda üretilir. Pencerenin iki camı arasındaki hava kısmen boşaltılır. Bu 
+sayede ısı iletim hızı yavaşlatılır. İç ve dış ortamları ayıran duvarların kalın 
+olması istenir. Böylece iç ve dış ortam arasındaki ısı transferi azaltılmış olur.
+Görsel 4.24: Dış cephe 
+strafor uygulaması
+Görsel 4.25: Çatı içi cam 
+yünü uygulaması
+Günlük hayattaki bazı uygulamalarda ısının iletimi önemlidir. Örneğin kalorifer 
+peteklerinin içindeki sıcak suyun peteklere ve peteklerin de odaya ısıyı müm-
+kün olduğunca hızlı iletmesi için petek yapımında ısı iletim katsayısı büyük 
+olan malzemeler tercih edilir. Benzer şekilde çaydanlık, tencere gibi mutfak 
+gereçlerinin tabanı ve gövdeleri ısıyı hızlı iletmeleri için metalden; sapları ise 
+ısıyı yavaş iletmeleri için ısı yalıtkanı malzemelerden üretilir.
+Örnek
+Binalarda ısı yalıtımı amacıyla çift camlı pencere sistemleri kullanılır. Bu sis -
+temlerde iki cam arasında kuru ve seyreltilmiş hava bulunur. Çift camlı pencere 
+sistemlerindeki ısı kayıpları tek camlı sistemlere göre yaklaşık yarı yarıya daha 
+azdır.
+Tek camlı pencerelere göre çift camlı pencerelerin neden daha iyi ısı yalı-
+tımı sağladığını açıklayınız.
+Çözüm
+Çift cam uygulamasında iki cam arasında bulunan kuru havanın hem cama hem de nemli havaya göre 
+ısı iletim katsayısı küçüktür. Ayrıca camlar arasındaki kuru hava belli oranda vakumlanarak ısının kon -
+veksiyon yoluyla geçişi engellenmiş olur. Tüm bu uygulamalar sonucunda çift cam sistemlerinde ısının 
+aktarım hızı düşer ve ısı yalıtımı sağlanır.
+15. Alıştırma
+Aşağıda verilen cümlelerdeki boşluklara uygun ifadeleri yazınız.
+a) Duvar kalınlığı …………… olan binalar kışın sıcak, yazın serin kalır.

@@ -1,0 +1,10 @@
+50 51
+5.TEMA - ALGORITMA VE BILIŞIM
+Çözüm:
+Çözüm:
+Çözüm:
+4. Adım
+5. Adım
+Seçtiğiniz bir öz yinelemeli algoritmayı inceleyiniz (Faktoriyel Hesaplama, İkili Arama Ağacı  
+veya Hanoi Kuleleri gibi). Bu algoritmanın işleyişini açıklayınız ve bir akış şeması ile gösteriniz.
+Benzer öz yinelemeli algoritmalar araştırarak bulduğunuz örnekleri yazınız.

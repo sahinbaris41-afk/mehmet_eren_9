@@ -1,0 +1,52 @@
+116
+2. Tema
+Hücre zarı veya benzeri bir yapı üzerinde madde geçişi gerçekleşirken suda çözünen 
+büyük moleküllerin geçişi kısıtlanır ancak zar, suyun geçişine izin verir. Bunun sonu-
+cunda su, az yoğun ortamdan çok yoğun ortama doğru hareket eder (Görsel 2.19). 
+Hücre zarlarından suyun doğrudan geçişi, suyun polar bir molekül olması nedeniy-
+le oldukça sınırlıdır. Canlı hücrelerin zar yapısında bulunan kanal proteinleri, suyun 
+zarlar arasında hızlı hareket etmesini sağlar. Suyun az yoğun ortamdan çok yoğun 
+ortama geçişi (ozmoz) bir süre sonra dengelenir.  Denge durumunda başlangıçta 
+madde yoğunluğu fazla olan bölgedeki suyun zara yapmış olduğu kuvvet ozmo-
+tik basınç olarak adlandırılır. Çözünmüş maddeler nedeniyle bir çözeltinin su alma 
+isteği (ozmotik potansiyel) arttıkça ozmoz olayının gerçekleşmesi için gerekli güç 
+miktarı da artar. Bu çekim gücü ozmotik basınca eşittir.
+Hücre içindeki sıvı kısmın madde konsantrasyonu ile aynı konsantrasyona sahip 
+çözeltiler izotonik çözelti olarak adlandırılır.  İzotonik çözelti içerisine koyulan bir 
+hücrenin içindeki ve dışındaki çözücü konsantrasyonları dengede olduğu için hüc-
+reye net su geçişi olmaz. İzotonik çözeltiler, özellikle tıbbi uygulamalarda yaygın 
+olarak kullanılır. Örneğin insan vücudundaki kan plazması yaklaşık %0,9 sodyum 
+klorür (tuz) içeren bir izotonik çözeltiye sahiptir. Bu nedenle hastalara damar yoluy-
+la verilen serumlar genellikle %0,9 tuz çözeltisi (fizyolojik serum) içerir.
+Çözünmüş madde yoğunluğu hücre sitoplazması yoğunluğundan fazla olan çözel-
+tilere hipertonik çözelti denir. Hipertonik çözelti içine koyulan bir hücrede suyun 
+geçiş yönü su oranı az olan (hipertonik) çözeltiye doğrudur. Bu nedenle hipertonik 
+bir ortamda bulunan hücrelerde su çıkışı gerçekleşir (Görsel 2.20). Hücrenin bu şe -
+kilde su kaybetmesine plazmoliz adı verilir ve bu su kaybı hücrenin büzüşmesine 
+neden olur.
+Görsel 2.19
+Suyun yarı geçirgen zardan 
+geçişi 
+Görsel 2.20
+Farklı ortamlara koyulan 
+hayvan hücrelerinde su 
+geçişleri  
+Su
+molekülleri
+Büyük
+moleküller
+Su geçişi
+Yarı geçirgen 
+zar
+İzotonik çözelti
+içerisinde hücreler
+H2OH 2O
+H2O
+Hipertonik çözelti
+Hücreler
+büzüşür.
+H2O
+Hayvan
+hücreleri
+şişer ve patlar.
+Hipotonik çözelti

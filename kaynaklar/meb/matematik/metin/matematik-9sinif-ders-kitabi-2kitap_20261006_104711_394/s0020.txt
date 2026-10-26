@@ -1,0 +1,45 @@
+20
+4. Tema / Eşlik ve Benzerlik
+3. Tablo 2’de şekillere ait özellikler verilmiştir. Belirtilen özelliklerin şekillerin öteleme dönüşümü altındaki gö-
+rüntüleri olan şekillerde değişip değişmediğine ilişkin varsayımlarınızı tablonun ilgili alanına örnekteki gibi 
+yazınız. Şekil üzerindeki noktalar ile bu noktaların görüntülerine uzaklıkları arasında bir ilişki olup olmadığını 
+sözlü olarak ifade ediniz.
+Tablo 2
+Özellik Varsayım
+Şeklin kenar uzunlukları  Değişmez.
+Şeklin iç açı ölçüleri
+Şeklin çevre uzunluğu
+Şeklin alanı
+Şekil üzerindeki noktalar ile bu noktaların görüntüleri 
+arasındaki uzaklık
+Şeklin düzlemdeki yeri
+4. Verilen şekiller ile bu şekillerin öteleme dönüşümü altındaki görüntülerini karşılaştırarak varsayımlarınızı ince-
+leyiniz. Ulaştığınız sonuçları Tablo 3’ün ilgili alanına örnekteki gibi yazınız.
+Tablo 3
+Özellik Sonuçlar
+ABCD dörtgeninin kenar uzunlukları ve iç açı 
+ölçüleri
+,AB 7 birim, BC 42 birim, CD 3 birim AD 4 birim== ==  
+mA ,m B, mC ,m D90 45 135 90oo oo== ==_ __ _i ii iX WW X
+A'B'C'D' dörtgeninin kenar uzunlukları ve iç açı 
+ölçüleri
+EFGH dörtgeninin kenar uzunlukları ve iç açı 
+ölçüleri
+E'F'G'H' dörtgeninin kenar uzunlukları ve iç açı 
+ölçüleri
+PRS üçgeninin kenar uzunlukları ve iç açı              
+ölçüleri
+P'R'S' üçgeninin kenar uzunlukları ve iç açı            
+ölçüleri
+ABCD dörtgeninin çevre uzunluğu ve alanı
+A'B'C'D' dörtgeninin çevre uzunluğu ve alanı
+EFGH dörtgeninin çevre uzunluğu ve alanı
+E'F'G'H' dörtgeninin çevre uzunluğu ve alanı
+PRS üçgeninin çevre uzunluğu ve alanı
+P'R'S' üçgeninin çevre uzunluğu ve alanı
+ABCD dörtgeni üzerindeki A, B, C, D noktalarının 
+görüntüleri olan noktalara uzaklıkları
+EFGH dörtgeni üzerindeki E, F, G, H noktalarının 
+görüntüleri olan noktalara uzaklıkları
+PRS üçgeni üzerindeki P, R, S noktalarının 
+görüntüleri olan noktalara uzaklıkları

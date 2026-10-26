@@ -1,0 +1,55 @@
+228
+7. Tema / Veriden Olasılığa
+5.   ,, ;xy xy04 04N!# ## #  olan x ve y de -
+ğerlerinden rastgele seçilen (x, y) noktasının                
+yx 5=  veya yx2 =  doğrusu üzerinde olma ola-
+yına ait deneyin istatistik yazılımları yardımıyla 
+50, 150, 250, 500 ve 1000 tekrarında oluşan 
+sıklıkların bazıları aşağıdaki tabloda gösteril-
+miştir.
+ 
+ 
+Tekrar Sayısı 50 150 250 500 1000
+Seçilen Noktanın  
+y x 5=  veya y x 2=  
+Doğrusu Üzerinde 
+Olma Sıklığı
+7 57
+Seçilen Noktanın 
+y x 5=  veya y x 2=  
+Doğrusu Üzerinde 
+Olmama Sıklığı
+126 210 879
+ Seçilen (x, y) noktasının y = 5x veya 2y = x 
+doğrusu üzerinde olma olayına ait deney-
+sel ve teorik olasılık değerleri ile ilgili aşa-
+ğıdaki soruları cevaplayınız.
+a) Aşağıdaki tabloyu verilen tekrar sayıları-
+na göre hesaplama yaparak doldurunuz.
+ 
+   
+  
+Tekrar  
+Sayısı 50 150 250 500 1000
+Deneysel  
+Olasılık  Değeri
+Teorik Olasılık 
+Değeri
+Deneysel ve 
+Teorik Olasılık 
+Değerleri  
+Arasındaki Fark
+b)  Deneyin tekrar sayısı arttıkça verilen 
+olayın deneysel ve teorik olasılık değer-
+leri arasındaki fark hangi sayıya yaklaş-
+maktadır? Nedenleriyle açıklayınız.
+6. A Rh+ (A0Rr) kan grubuna ait bir anne ile 
+B Rh+ (B0Rr) kan grubuna ait bir babanın 
+çocuğunun AB Rh+ kan grubuna ait olma 
+olasılık değerini bulunuz (R geni r genine 
+baskın, A geni 0 genine baskın ve B geni 0 ge-
+nine baskındır.).
+Farklı Kaydet
+Bu temada öğrendiğiniz bilgileri kendi hatırlayacağınız şekilde bu alana kısaca not edebilirsiniz.
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

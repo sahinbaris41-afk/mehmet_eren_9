@@ -1,0 +1,20 @@
+MATEMATİK 9 
+80 81
+2. Adım
+3. Adım
+Ali ve Ozan’ın 2018-2023 yılları arasında sezon başına düşen ortalama gol ve asist sayısını hes -
+aplayınız.
+Her sezon için pas başarı oranlarını analiz ediniz ve yıllara göre değişimlerini yorumlayınız.
+Çözüm:
+Çözüm:
+Poisson dağılımı, belirli bir zaman dilimi veya mekânda nadir ve bağımsız olayların meydana 
+gelme olasılıklarını modellemek için kullanılır. Örneğin bir çağrı merkezine dakikada gelen arama 
+sayısı, belirli bir yol kesitinden geçen araç sayısı veya belirli bir bölgede görülen nadir bir hastalık 
+vakası gibi durumlar Poisson dağılımı ile modellenebilir.
+Poisson dağılımının formülü şu şekildedir:
+P(x=k) = 
+Burada :belirli bir zaman dilimi veya mekânda beklenen ortalama olay sayısı
+k:gerçekleşen olay sayısı
+e:Euler sabiti (yaklaşık olarak 2.71828)
+Bilgi
+4. Adım

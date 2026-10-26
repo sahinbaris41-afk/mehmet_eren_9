@@ -1,0 +1,31 @@
+149
+2. Tema /  Nicelikler ve Değişimler
+Doğrusal	Fonksiyonlarla	İfade	Edilebilen	Denklem	ve	Eşitsizlikler
+Bu projede sizden doğrusal fonksiyonlarla ifade edilebilen bir gerçek yaşam problemi belirlemeniz, be-
+lirlediğiniz problem için kullanılabilecek denklem veya eşitsizlikleri oluşturarak problemi çözmeniz, kul-
+landığınız denklem ve eşitsizliklerin farklı problem durumlarında nasıl kullanılabileceğini belirlemeniz ve 
+ödevinizi sınıfta sunmanız beklenmektedir.
+Projeye	başlamadan	önce	aşağıdaki	hususlara	dikkat	ediniz.
+• Doğrusal fonksiyonlar ile ifade edilebilen gerçek yaşam durumları belirleyiniz.
+• Çözümünde doğrusal fonksiyonlarla ifade edilebilen bir denklem veya eşitsizlik kullanılan bir 
+problem oluşturunuz.
+Projeyi	yaparken	aşağıdaki	hususlara	dikkat	ediniz.
+• Oluşturduğunuz problem durumunun çözümünde kullanacağınız denklem veya eşitsizlikleri be-
+lirleyiniz.
+• Belirlediğiniz denklem veya eşitsizliklerden yararlanarak probleminizi çözünüz.
+•  Probleminizin çözümünde denklem veya eşitsizlikleri ifade eden doğrusal fonksiyon grafiklerin -
+den nasıl yararlanabileceğinizi belirleyiniz.
+•  Problemin çözümünde kullandığınız denklem veya eşitsizliklerin başka hangi problem durumla-
+rında kullanılabileceğini belirleyerek projenizi raporlayınız.
+Proje	raporunun	aşağıdaki	alt	başlıkları	içermesine	dikkat	ediniz.
+• Projenin amacı
+•  Kullanılan yöntem
+Projenizi	sunmak	için	hazırlayacağınız	modelde	aşağıdaki	hususlara	dikkat	ediniz.
+• Gerçekleştirdiğiniz adımları sırasıyla anlatınız.
+•  Anlatımınızı ilgili görsellerle destekleyiniz.
+•  Türkçenin düzgün ve etkili biçimde kullanılmasına özen gösteriniz.
+Çalışmanız proje değerlendirme formu ile öğretmeniniz tarafından değerlendirilecektir.
+.
+Proje 	Ödevi   
+Proje değerlendirme formuna 
+ulaşmak için karekodu okutunuz.

@@ -1,0 +1,43 @@
+9
+ 1. BÖLÜM
+1.1. GİRİŞ
+Türkiye Yüzyılı Maarif Modeli (TYMM) ile eğitim sistemimizde gerçekleşen öğretim programı değişikliği, ölç-
+me ve değerlendirme yaklaşımlarında da yapısal bir dönüşümü zorunlu kılmıştır. Öğrencinin ne bildiğiyle 
+ilgilenmesinin yanında bildiğiyle ne yapabildiğini bütünleştiren bu modelin geçerli biçimde uygulanabilmesi 
+için öğrenme çıktılarının ölçülebilir göstergelere dayalı soru formatlarına dönüştürülmesi gerekmektedir. 
+Bu kılavuz, öğretim programlarında yer alan öğrenme çıktılarını ölçmeye yönelik bir kaynak oluşturmak ve 
+soru üretim sürecini standartlaştırmak amacıyla hazırlanmıştır. Bu doğrultuda kılavuzda bağlam temelli 
+çoktan seçmeli soru yazım süreci ele alınmıştır.
+Kılavuzun öncelikli hedeflerinden biri, soru ve ders kitabı yazarları ile öğretmenlerin TYMM’deki öğrenme 
+çıktılarının temelini oluşturan kavramsal beceriler ile alan becerilerinin doğru ve güvenilir bir şekilde ölçül -
+mesine yönelik soru yazma yeterliklerini geliştirmektir. Bu doğrultuda kılavuzda uygun bağlam seçiminden 
+günlük hayatta karşılaşılabilecek problem durumlarının kurgulanmasına uzanan çoktan seçmeli soru ya -
+zım aşamaları ele alınmıştır. Ayrıca sunulan formlar ve bağlamlar ile soru tasarım sürecinin kolaylaştırılma -
+sı amaçlanmıştır.
+Bu kılavuz, gerçekleştirilen pilot uygulamadan elde edilen veriler ile “bilişsel görüşme” (öğrencilerle ya -
+pılan sesli düşünme protokolleri) sonuçları temel alınarak oluşturulmuştur. Dokümanda yer alan öneriler 
+ve kontrol listeleri; sahadaki uygulamalarda karşılaşılan yapısal kusurları gidermek, soru yazma sürecini 
+standartlaştırmak ve ortak bir ölçme dili oluşturmak amacıyla hazırlanmış yönergelerdir. TYMM’de yer alan 
+bütün kavramsal beceriler ile alan becerilerine yönelik birer örnek oluşturulması kılavuzun içerik yükünü 
+artıracağından kılavuzda yer alan örnekler pilot sınav uygulamasında ele alınan problem çözme, sorgulama 
+ve seçilen alan becerileri üzerinden yapılandırılmıştır. Kılavuzda çeşitli alan becerilerine dayanan öğren -
+me çıktılarını bilgi bağımlı, problem çözme ve sorgulama becerilerine dayanan öğrenme çıktılarını ise bilgi 
+bağımsız ölçen çoktan seçmeli sorulara yer verilmiştir. Bununla beraber kılavuz, öğretim programlarının 
+hedeflediği tüm öğrenme çıktılarının ölçülmesi için yararlanılabilecek bir kaynak niteliğindedir.
+Kılavuzda yer alan uygulama adımları ve örnekler; pilot çalışmaları tamamlanmış ve psikometrik özellikleri 
+saha verileriyle kanıtlanmış olan problem çözme, sorgulama ve seçilen alan becerileri üzerine yoğunlaş -
+mıştır. Bununla birlikte TYMM beceri setinde yer alan eleştirel düşünme, karar verme ve diğer becerilerin 
+ölçülmesi de burada sunulan “Bağlam Temelli Soru Yazım Yaklaşımı”na dayandırılabilir. 
+Kılavuz, TYMM’nin önerdiği ölçme ve değerlendirme süreçlerine hâkim olmak isteyen tüm eğitim paydaşları 
+için yazılmıştır. Ölçme ve değerlendirme süreçlerinde bilgi odaklı yaklaşımların ötesine geçilmesini hedef -
+leyerek bağlam temelli, gerçek yaşamla ilişkili ve becerileri harekete geçiren nitelikli değerlendirme uygu -
+lamalarının geliştirilmesi noktasında kılavuzun bu paydaşlara rehberlik etmesi beklenmektedir. TYMM’nin 
+bütüncül çerçevesi ile öğrencilerin yalnızca ne bildiklerini değil bildiklerini gerçek yaşam durumlarını içe -
+ren bağlamlarda nasıl kullanabildiklerini ortaya koyan bir değerlendirme anlayışının eğitim ortamlarında 
+tutarlı ve sürdürülebilir biçimde hayata geçirilmesi amaçlanmaktadır. Bu yönüyle söz konusu yaklaşımın 
+materyal geliştirme, öğretim ve değerlendirme süreçlerinde görev alan farklı paydaş gruplarına rehberlik 
+etmesi hedeflenmektedir.
+Bu kapsamda öğretmenlerin kılavuzda sunulan ilke ve örnekler doğrultusunda sınıf içi değerlendirme 
+uygu lamalarını bağlam temelli bir yaklaşımla yapılandırma yetkinliğini artırması, soru yazarlarının bağlam 
+temelli çoktan seçmeli soru geliştirme sürecinde kılavuzu temel bir referans kaynağı olarak kullanması 
+beklenmektedir.

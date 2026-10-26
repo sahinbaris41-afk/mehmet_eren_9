@@ -1,0 +1,34 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+24
+2.6. SORU Y AZIM FORMU
+Bağlam temelli ölçme araçlarının geliştirilmesinde süreci doğru analiz etmek amacıyla oluşturulan soru 
+yazım formu, soru yazarının tasarım sürecini standartlaştırmayı hedefler. Yazarların bu formu doldurmaya 
+başlamadan önce öğrenme çıktısı, hedef beceri, bağlam analizi ve çeldirici kurgusunu içeren kontrol basa -
+maklarını titizlikle takip etmeleri gerekmektedir.
+Aşağıdaki örnek form, söz konusu sistematik süzgeçten geçen soruların kayıt altına alınması için kullanılır.
+Soru Yazım Formu
+Soru Özelliği
+Ders
+Sınıf Düzeyi
+Beceri
+Süreç Bileşenleri 
+Gerekçeleri/Kanıt 
+(Açıklayınız.)
+Bağlam Adı
+Yararlanılan Kaynak
+Güçlük Tahmini
+☐ Zor
+☐ Orta
+☐ Kolay
+Soru Yazarı
+Adı Soyadı
+e-posta
+1. Soru
+Süreç Bileşeni
+Sorunun Doğru Cevabı
+2. Soru
+Süreç Bileşeni
+Sorunun Doğru Cevabı
+3. Soru
+Süreç Bileşeni
+Sorunun Doğru Cevabı

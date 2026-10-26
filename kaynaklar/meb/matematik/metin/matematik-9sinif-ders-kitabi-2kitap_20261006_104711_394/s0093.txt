@@ -1,0 +1,64 @@
+93
+4. Tema/Ölçme ve Değerlendirme
+15. Bir	 hastane	 yön eticisi,	 ha sta	 yata ğı	 sip arişi	
+vemek	 istemektedir.	 Yöneticinin	 satın	 almak	
+istediği	 hast a	 yat ağı;	 AB7A 	 boyunca	 birbirine	
+sabitlenen, 	 iki	 parçadan	 oluşan	 ve	 sadece	
+Şekil	1	ile	Şekil	2’deki	gibi	 AB7A 	etrafında	dön-
+dürülerek	yükseltilebilen	bir	yataktır.
+	 Hasta 	 yatağı 	 Şekil 	 1’deki 	 konumdayken 	
+FD CE=77 A A 	 ve	 C,	 D,	 A,	 E	 doğrusaldır. 	
+FD cm 75= ,	 CD cm 25= ’dir.	 Hasta	 yatağı	
+Şekil	2’deki	konuma	getirildiğinde	 GH AE=77 A A  
+olmaktadır.	Yatakların	Şekil	1	ve	Şekil	2’deki	
+döndürülme	açıları	eşittir.
+ Buna göre aşağıdaki soruları cevaplayınız.  
+a)   GH7 A  nın uzunluğunu bulabilmek için bir 
+geometrik modelleme yapınız. Verilen 
+bilgileri ve istenenleri oluşturduğunuz  
+modelin üzerine yazınız.
+b)   GH7 A  nın uzunluğunu bulabilmek için 
+gerekli olan stratejiyi belirleyiniz.
+c)  Uygun stratejiyi kullanarak GH7 A  nın 
+uzunluğunun kaç cm olduğunu bulunuz.
+ç) Çözümünüzü arkadaşlarınızın çözümle-
+riyle karşılaştırarak farklı çözüm yolla -
+rını inceleyiniz.
+16. Nazlı	 AB birim 12= ,	 AC birim 9= 	ve	
+BACm9 0o=`j% 	olan	ABC	dik	üçgeni	biçimin-
+deki	kartondan	kenar	uzunlukları	oranı	 32 	olan 
+bir	dikdörtgeni	Şekil	1’deki	işaretli	yerlerden 
+keserek	Şekil	2’deki	üçgenleri	elde	ediyor.
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Şekil 2’deki üçgenlerin alanlarının 
+oranını bulabilmek için bir geometrik 
+modelleme yapınız. Verilen bilgileri ve 
+istenenleri oluşturduğunuz modelin 
+üzerine yazınız.
+b) Oluşturduğunuz modeli kullanarak Şekil 
+2’deki üçgenlerin alanlarının oranını 
+bulunuz.
+D
+B E C
+F
+Şekil 2
+A
+B CE
+F
+D
+Şekil 1
+A
+E
+B
+F
+C
+75
+25
+200
+Şekil 1
+E
+G
+HA
+B x
+Şekil 2
+D

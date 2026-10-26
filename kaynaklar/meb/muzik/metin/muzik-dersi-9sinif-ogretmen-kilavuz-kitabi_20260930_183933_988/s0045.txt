@@ -1,0 +1,56 @@
+4544
+MÜZİK
+Görsel 1.37: Çıkıcı ve İnici Mi Dizisi
+Görsel 1.38: Doğal Mi Minör Dizi
+Görsel 1.39: Armonik Mi Minör Dizi
+Görsel 1.40: Melodik Mi Minör Dizi
+Mi Dizisi
+Armonik Mi 
+Minör Dizi
+Melodik Mi 
+Minör Dizi
+Doğal Mi 
+Minör Dizi
+Sıra Sizde
+Öğrencilere “la minör” dışında diğer tüm seslerin üzerine minör dizi-
+lerinin oluşturulabileceğini, bunun için ses değiştirici işaretlerden ya-
+rarlanılması gerektiğini belirtiniz.
+Öğrencilerden çıkıcı ve inici mi dizisi (Görsel 1.37) oluşturmalarını is-
+teyiniz. Oluşturulan mi dizisini yandaki karekodda verilen içerikle bir -
+likte seslendiriniz. Seslendirdiğiniz mi dizisinin minör dizi etkisi verip 
+vermediğini sorarak öğrencilerin düşüncelerini ifade etmelerini iste-
+yiniz.
+Öğrencilerin oluşturdukları mi dizisini ses değiştirici işaretler yardı-
+mıyla mi minör diziye dönüştürmelerini sağlayınız. Yandaki karekodda 
+verilen içerikler yardımıyla mi minör dizisini çıkıcı ve inici olarak sıra-
+sıyla doğal (Görsel 1.38), armonik (Görsel 1.39) ve melodik (Görsel 1.40) 
+olarak seslendiriniz.
+Yarım Yarım
+Tam Tam TamT am TamT am Tam Tam
+Yarım Yarım
+Tam Tam
+&
+Mi Dizisi
+w w w w w w w ww w w w w w w w
+Tam TamT am Tam
+Yarım Yarım
+TamT am Tam Tam Tam Tam
+Yarım Yarım
+&
+Doğal Mi Minsr Diziöi
+w w #w w w w w ww w w w w w w #w
+Tam Buçuk Buçuk Tam
+Yarım Yarım
+Tam Tam Bir Tam Tam
+Yarım YarımYarımY arım
+Bir
+&
+Armonik Mi Minör Dizisi
+w w #w w w w w #ww w #w w w w w #w
+Tam Tam Tam
+Yarım Yarım
+TamT am TamT am Tam Tam Tam
+Yarım Yarım
+&
+Melodik Mi Minör Dizisi
+w w #w w w w #w #ww w n w nw w w w #w

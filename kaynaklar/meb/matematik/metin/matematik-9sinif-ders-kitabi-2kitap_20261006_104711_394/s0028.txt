@@ -1,0 +1,28 @@
+28
+4. Tema / Eşlik ve Benzerlik
+Şeklin	değişen	ve	değişmeyen	özelikleri	ile	dönme	dönüşümünün	özellikleri,	düzlemde	verilen	şekiller	
+ve	şekillerin	bir	nokta	etraf ında	belirli	bir	açıyla	ve	belirli	bir	yönde	dönme	dönüşümü	altı ndaki	görüntüleri	
+karşılaştırılarak	belirlenebilir.
+Dönme Dönüşümünün Özellikleri
+Matematik yazılımı kullanarak aşağıdaki adımları sırasıyla uygulayınız ve verilen soruları cevaplayınız.
+1. Araçlar bölümünden sırasıyla Çokgen ve Nokta araç-
+larını seçerek ABC üçgenini ve D noktasını oluşturunuz.
+2. Ölçüm bölümünden Sürgü aracını ve araç ayarların -
+dan da Açı simgesini seçerek a sürgüsünü oluşturunuz.
+3. Dönüşüm bölümünden Nokta Etrafında Döndür aracını seçiniz. ABC üçgenini D noktası etrafında saat yö-
+nünde a  kadar döndürerek A'B'C' üçgenini oluşturunuz.
+4. ABC üçgenine uygulanan dönme dönüşümü sonrasında ABC üçgeninin değişen ve değişmeyen özelliklerinin 
+neler olabileceğine ilişkin fikirlerinizi yazınız. Fikirlerinizi sınıf arkadaşlarınızla tartışınız.
+5. Tablo 1’de ABC üçgeni ile bu üçgenin dönme dönüşümü altındaki görüntüsüne dair özellikler verilmiştir. Be-
+lirtilen özelliklerin değişip değişmediğine ilişkin varsayımlarınızı tablonun ilgili alanına örnekteki gibi yazınız.
+Tablo 1
+Özellik Varsayım
+Şeklin kenar uzunlukları Değişmez.
+Şeklin iç açı ölçüleri
+Şeklin çevre uzunluğu
+Şeklin alanı
+Şekil üzerindeki noktalar ile bu noktaların görüntülerinin 
+dönme merkezine uzaklığı
+5. Uygulama
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.

@@ -1,0 +1,139 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+36
+K
+1.500500
+km
+1.0000
+BREZİLYA
+ARJANTİN
+ŞİLİ
+URUGUAY
+BOLİVYA
+EKVADOR
+KOLOMBİYA
+Kita
+Bogoto
+Karakas
+Brazilya
+La Paz
+Lima
+Buenos Aires
+Montevido
+San Tiago
+Asancion
+VENEZUELA
+PERU
+PARAGUAY
+Falkland Adaları
+SURİNAMGUYANAFR. GUYANASI
+0⁰ Ekvator
+Atlas 
+Okyanusu
+Büyük
+Okyanus
+20⁰ 
+23⁰ 27' 
+30⁰ 
+40⁰ 50⁰ 60⁰ 70⁰ 80⁰ 
+40⁰ 
+50⁰ 
+10⁰ 
+10⁰ 
+GÜNEY AMERİKA ÜLKELERİ NÜFUS HARİTASI
+Başlık
+Haritanın konusunu ve 
+gösterdiği yeri belirtir. 
+Başlık, haritanın kullanım 
+amacına göre konur. 
+Aynı zamanda başlık, 
+haritanın türüne (nüfus, 
+jeoloji, toprak, ulaşım 
+vb.) göre adlandırılır. 
+Ölçek 
+Haritada kullanılan 
+küçültme oranıdır. Ölçek 
+yardımıyla haritadaki 
+mesafe ve alanların 
+gerçek uzunluk ve 
+alan değeri bulunur.
+Coğrafi Koordinatlar 
+Harita üzerine paralel 
+ve meridyenler 
+çizilerek coğrafi 
+koordinatlar belirtilir. 
+Harita İşaretleri (Lejant)
+Haritada kullanılan 
+renk ve sembollerin 
+anlamlarını gösteren 
+listedir. Harita işaretleri;
+haritayı anlamayı,
+çözümlemeyi ve 
+haritadan çıkarım
+yapmayı sağlayan
+bilgiler içerir.
+Yön Oku
+Haritadaki coğrafi 
+yönleri gösteren 
+işarettir.
+Harita mekânsal bilgiyi iletmenin en etkili yoludur. Ayrıca Dünya'ya ait coğrafi  
+bilgileri öğrenmeyi de kolaylaştıran bir araçtır. Haritaları okuyabilmek, diğer bir 
+ifadeyle haritadan bilgi edinebilmek için haritanın sembolik dilini çözmek gere-
+kir. Haritadaki elemanların bilinmesi, bu sembolik dilin anlaşılmasını ve harita-
+ların kullanılabilmesini sağlar. Haritadaki başlıca elemanlar; başlık, çerçeve, 
+coğrafi koordinatlar, harita işaretleri (lejant), yön oku ve ölçektir (Görsel 2.1).    
+Haritalar Nasıl Okunur?
+a) Harita Türleri
+Bilgi edinme veya iletme amacıyla kullanılan farklı haritalar vardır. Haritaları bir-
+birinden farklı kılan ilk özellik, haritanın kullanım amacı ve buna bağlı olarak 
+içerdiği coğrafi bilgilerdir. Örneğin siyasi haritalarda ülke ve il sınırları yer alırken 
+jeomorfoloji haritalarında yer şekilleri hakkında bilgiler bulunur. Haritalar, kulla-
+nım amacına göre genel ve tematik olmak üzere iki gruba ayrılır (Şema 2.1).   
+Şema 2.1 
+Kullanım amacına göre 
+haritalar
+Kullanım Amacına Göre Haritalar 
+1. Genel Haritalar
+•  Jeoloji haritası
+•
+  
+Jeomorfoloji haritası
+•
+  
+İklim haritası
+•   Toprak haritası
+•
+  
+Bitki örtüsü haritası
+•
+  
+Nüfus haritası
+•   Ulaşım haritası
+•
+  
+Turizm haritası 
+•
+  
+Ekonomi haritası vb.
+2. Tematik Haritalar
+• Fiziki haritalar
+•
+ Siyasi haritalar
+•
+ Topoğrafya haritaları vb.
+Görsel 2.1 
+Haritadaki elemanların 
+gösterimi
+Harita 
+Elemanları
+Birleşmiş Milletler (2025)
+Akarsu
+Başkent
+NÜFUS (Milyon)
+212 ve üzeri
+28-55 
+3-20 
+0-1 
+30⁰ 
+60⁰ 
+Amazon
+Parana

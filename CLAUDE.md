@@ -56,6 +56,6 @@ Kaynaklar çelişirse üstteki kazanır. Çelişki `docs/dogrula.md` dosyasına 
 
 ## Önemli tarihler
 
-- 9. sınıf Matematik ortak yazılı: **6 Ocak 2027 Çarşamba** (`DOĞRULA:` sınıf düzeyi resmi PDF'ten teyit bekliyor).
+- 9. sınıf Matematik ortak yazılı: **6 Ocak 2027 Çarşamba** (ÖDSGM resmî takvimi ile teyitli).
 - 9. sınıf Türk Dili ve Edebiyatı ortak yazılı: **7 Nisan 2027 Çarşamba**.
 - Kaynaklar ve ayrıntı: `docs/takvim.md`.

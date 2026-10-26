@@ -1,0 +1,14 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+116
+3. NOAA’nın ölçümlerine göre tatlı su içinde aynı yatay düzlemde bulunan S ve T noktaları 10 m derinlik-
+tedir. S noktası dikey bir kaya yüzeyine çok yakın konumlanırken T noktası, çevresinde herhangi bir 
+yüzeye yakın değildir.
+Bu bilgilere göre hangi çıkarım bilimsel olarak doğrudur?  (FBAB8.SB3)
+A)  T noktasının çevresi açık olduğundan basıncı S noktasına göre biraz daha büyük ölçülür.
+B)  S noktasının kaya yüzeyine yakın olması bulunduğu noktadaki basıncı sınırlayarak daha düşük 
+olmasına yol açar.
+C)  S ve T noktaları aynı derinlikte bulundukları için her iki noktadaki basınç değerleri birbirine eşit olur.
+D)  Kaya yüzeyi S noktasındaki sıvı hareketini engellediğinden bu nokta T noktasına göre daha yüksek 
+basınç gösterir.
+E)  Basınç dağılımı derinliğe ve sıvının temas ettiği yüzeylere bağlı olduğundan S noktasındaki basınç T 
+noktasından farklıdır.

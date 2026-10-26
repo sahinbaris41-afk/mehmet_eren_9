@@ -1,0 +1,13 @@
+58 59
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+“Gösterim” sekmesine tıklayınız ve açılan menüden “Gölgelendirme ve Eş Yükseltiler” bölümünü 
+seçiniz.
+📌
+Açılan “Gölgelendirme ve Eş Yükselti Çizgileri” kutusunda “Renkler” kısmını “Yükseklik Haritası” 
+olarak seçip “Tamam” butonuna tıklayınız.
+📌
+3
+Yükseklik haritası oluşturmak için
+Haritanızda eş yükselti eğrilerinin görünmesini istiyorsanız bunu “Gölgelendirme ve Eş Yükselti 
+Çizgileri” kutusunda yer alan “Eş Yükselti Eğrileri” kısmından ayarlayınız. 
+📌

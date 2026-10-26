@@ -1,0 +1,42 @@
+173
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, doğru-yanlış soruları, tanılayıcı dallanmış ağaç ve perfor-
+mans görevi ile değerlendirilebilir.
+Öğrencilere çemberde kesen, kiriş, teğet, çap ve yay arasındaki ilişkilere yönelik çalışma kâ-
+ğıdı verilebilir. Yapılan çalışmalar, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.
+Öğrencilere çemberde açı, kiriş ve teğetin özelliklerini, dairenin alan bağıntısını  içeren ger-
+çek yaşam durumları üzerinden problemler çözmelerini gerektiren performans görevi veri-
+lebilir. Performans görevinde çözülen problemler; öz değerlendirme, akran değerlendirme 
+formları ve analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.
+Çemberde açı, kiriş ve teğetin özellikleri ile bunların problem durumlarında kullanımlarını 
+gerektiren açık uçlu sorulardan oluşan çalışma kâğıtları verilebilir. Cevaplar, analitik ya da 
+bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin önceden çemberin uzunluğu ile çapı arasındaki ilişkilere yönelik çıkarımlar 
+yapabildiği; çapı veya yarıçapı verilen bir çemberin uzunluğuyla ilgili problemler çözebil -
+diği; çemberde açılar ve yay uzunlukları arasındaki ilişkilere, daire ve daire diliminin ala -
+nına dair çıkarım yapabildiği ve çıkarımını yaptığı bu ilişkilere dair bilgilerini farklı prob -
+lem durumlarında kullanabildiği kabul edilmektedir.
+Bunun yanı sıra öğrencilerin çokgene, dörtgenin temel özelliklerine, üçgenin temel ve 
+yardımcı elemanlarına ilişkin özellikler ile üçgende eşlik ve benzerliğe dair çıkarımlarda 
+bulunabildiği; çıkarımlarına dair sonuçları farklı problem durumlarında kullanabildiği ka -
+bul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin temel kabullerde bahsedilen çember, merkez, çap, yarıçap, çemberin uzun -
+luğu, yay uzunluğu, dairenin alanı ve daire diliminin alanı gibi konularla ilgili bilgilerine ilişkin 
+değerlendirme yapılabilir. Bu süreçte soru cevap tekniği kullanılarak öğrencilerin çember ve 
+çemberin özelliklerine ilişkin bilgileri değerlendirilebilir. Benzer şekilde çokgen ve dörtgenin 
+temel özelliklerine, üçgenin temel ve yardımcı elemanlarına ilişkin özellikler ile üçgende eşlik 
+ve benzerliğe yönelik bilgileri de  öğrencilerin sorulara verdikleri cevaplar değerlendirilerek 
+kontrol edilebilir. Tüm ön değerlendirme süreci boyunca yapılan değerlendirmelerle öğren-
+cilerin eksik veya hatalı öğrenmelerinin giderilmesi için gerekli çalışmalar yapılabilir. 
+Köprü Kurma Üçgen ve dörtgende temel ve yardımcı elemanlara ilişkin özellikler ile üçgende eşlik ve ben -
+zerliğe dair çıkarım yapabilen öğrencilerin bu bilgileriyle çemberde çap, teğet, kiriş özellikle-
+rine ilişkin edinilmesi beklenen bilgiler arasında ilişki kurmaları sağlanabilir. Önceden öğren-
+dikleri çap kavramından hareketle öğrencilere kiriş kavramı hatırlatılır ve doğruların çemberi 
+iki noktada değil bir noktada kesme durumu inceletilebilir. Böylece teğet kavramını  fark et -
+meleri sağlanabilir.

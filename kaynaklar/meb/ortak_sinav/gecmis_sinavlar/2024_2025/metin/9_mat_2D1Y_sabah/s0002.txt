@@ -1,0 +1,33 @@
+2
+MATEMATİK 9
+2. Dik	kenar	uzunlukları	30	m	ve	40	m	olan	dik	üçgen	şeklindeki	bahçe	aşağıda	modellenmiştir.	Bu	bah-
+çenin	B	köşesinden	[AC]	kenarına	D	noktasında	dik	olacak	şekilde	bir	yol	yapılmıştır.
+B 30
+A
+D
+40
+C
+Buna göre, bu yolu ifade eden |BD| nun kaç metre olduğunu işlemlerinizi göstererek bulunuz. 
+(15 puan)
+B 30
+A
+D
+50
+18
+24
+40
+C
+ABC	dik	üçgeninde,			|AC|2 = |AB|2  +  |BC|2		(Pisagor	teoremi)
+  |AC| 2	 = 402 + 302     
+ |AC| 2  = 1600	+	900
+ |AC| 2  = 2500
+ |AC|  = 50	m’dir.
+ABC	dik	üçgeninde,			|BC|2  = |CD| $ |CA|					(Öklid	teoremi)
+	 302 = |CD| $	50		
+	 900	= |CD| $	50	
+ |CD| =	18	m’dir.
+BDC	dik	üçgeninde,			|BD|2 + |DC|2  =  |BC|2					(Pisagor	teoremi)
+ |BD|2 + 182  = 	3 02
+ |BD|2 + 324  = 	900
+ | BD|2 = 	576
+ |BD|  = 	24	m’dir.

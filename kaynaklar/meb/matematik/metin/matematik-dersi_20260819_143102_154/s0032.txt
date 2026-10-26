@@ -1,0 +1,27 @@
+32
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+4. TEMA: GEOMETRİK ŞEKİLLER
+Bu temada öğrencilerin geometrik kavram ve şekillerin inşa çalışmalarında matematik -
+sel araç ve teknolojiden yararlanabilmeleri; inşa edilen geometrik şekillerin özellikleri ile 
+ilgili çıkarım yapabilmeleri; süsleme, kaplama ve fraktalları çözümleyerek özgün desen ve 
+kaplamalar oluşturabilmeleri amaçlanmaktadır.
+DERS SAATİ 32
+ALAN 
+BECERİLERİ MAB5. Matematiksel Araç ve Teknoloji ile Çalışma (MAB5.1. Matematiksel Araç ve Tekno-
+lojiden Yararlanma)
+KAVRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.10. Çıkarım Yapma, KB2.20. Sentezleme
+EĞİLİMLER E1.1. Merak, E1.2. Bağımsızlık, E1.5. Kendine Güvenme (Öz Güven), E2.2. Sorumluluk, 
+E2.3. Girişkenlik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2. İş Birliği, 
+SDB3.2. Esneklik
+Değerler D7. Estetik, D14. Saygı, D16. Sorumluluk
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB5. Kültür Okuryazarlığı,
+OB9. Sanat Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Görsel Sanatlar, Mimari
+BECERİLER ARASI 
+İLİŞKİLER MAB2. Matematiksel Problem Çözme

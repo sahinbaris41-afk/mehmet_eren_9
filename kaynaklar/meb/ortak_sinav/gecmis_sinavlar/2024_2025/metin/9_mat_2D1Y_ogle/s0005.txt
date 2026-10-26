@@ -1,0 +1,50 @@
+5
+MATEMATİK 9
+5. Dört	eş	kare	şekildeki	gibi	kenarları	çakışacak	biçimde	yerleştirilerek	[AB]	ve	[BC] çizilmiştir.
+CA
+B
+Buna göre, BCAB  oranının kaç olduğunu işlemlerinizi göstererek bulunuz. (15 puan)
+CA
+B
+x
+xxx x
+Eş	karelerden	her	birinin	bir	kenar	uzunluğu	x	cm	olsun.
+Buna	göre,		 () ()
+'.
+xx Pisagor teoremi
+xx
+x
+xc md ir
+3
+9
+10
+10
+2 22
+2 22
+2 2
+=+
+=+
+=
+=
+AB
+AB
+AB
+AB
+ 
+()
+'.
+BC xx Pisagor teoremi
+BC x
+BC xc md ir
+2
+2
+2 22
+2 2
+=+
+=
+=
+Bu	durumda;		 .
+x
+x olur
+2
+10 5==BCAB

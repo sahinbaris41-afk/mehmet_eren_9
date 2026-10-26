@@ -1,0 +1,34 @@
+168
+6. Tema / İstatistiksel Araştırma Süreci
+Rastgeleliği	sağlamanın	en	kolay	yollarından	biri	basit	rastgele	örneklemedir.	Basit	rastgele	örnek-
+leme,	bir	evrenden	evreni	temsil	edecek	bir	örnekl em	grubu	belirl eme	yöntemi dir.	Basit	rastgele	örnek-
+lemede	örneklem	için	seçilen	her	birimin	seçilme	olasılığı	eşittir.	Rastgeleliği	sağlamak	için	izlenebile-
+cek	yöntemler	bulunmaktadır.	Örneğin	evrende	yer	alan	elemanların	isimlerinin	yazılı	olduğu	kâğıtlar	
+veya	elemanlara	numara	verilerek	bu	numaraların	yazılı	olduğu	kâğıtlar	bir	torbaya	konur.	Örneklem	
+için	belirlenen	sayı	kadar	kâğıt	çekilerek	örneklem	belirlenebilir.
+İstatistiksel	araştırmalarda	örneklemin	evreni	temsil	etmesi	gerekmektedir.	Evrenin	tamamına	ulaşmak	
+zaman,	maliyet	ve	iş	gücü	bakımından	zor	olabilir.	Ancak	evren	içinden	örneklem	belirlenirken	rastge-
+leliğin	sağlanması	önemlidir	çünkü	belirlenecek	örneklemden	elde	edilecek	sonuçların	evreni	temsil	
+etmesi	gerekmektedir.	Şekil	6.1’de	rastgele	örnekleme	temsil	edilmektedir.
+Şekil 6.1: Rastgele örnekleme
+Evren Örneklem
+Örneklem
+Çıkarım
+İstatistiksel Araştırma Sorusu Oluşturma ve Veri Toplama Planı Hazırlama
+Dörder kişilik gruplara ayrılınız ve aşağıdaki soruları cevaplayınız.
+1. Grup olarak ilgi duyduğunuz, merak ettiğiniz nicel veri toplamayı gerektiren bir gerçek yaşam durumu belir -
+leyiniz.
+Belirlediğiniz nicel veri toplamayı gerektiren gerçek yaşam durumu: 
+ 
+2. Grup olarak belirlediğiniz nicel veri toplamayı gerektiren gerçek yaşam durumunu diğer gruplarla paylaşınız 
+(Her grubun belirlediği gerçek yaşam durumu, liste hâlinde öğretmen tarafından tahtaya yazılacaktır.).
+3. Tahtada yazılı olan nicel veri toplamayı gerektiren gerçek yaşam durumlarından birini sınıfça oylama yoluyla 
+belirleyiniz.
+Sınıfça belirlenen nicel veri toplamayı gerektiren gerçek yaşam durumu:
+ 
+4. Grubunuzla sınıfça belirlenen nicel veri toplamayı gerektiren gerçek yaşam durumuna yönelik tek nicel değiş-
+kenli veri toplamayı gerektiren birer adet betimleyen ve karşılaştıran istatistiksel araştırma sorusu yazınız. 
+Sorularınızı yazarken istatistiksel araştırma sorusu ölçütlerini dikkate alınız.
+Betimleyen istatistiksel araştırma sorunuz:
+Karşılaştıran istatistiksel araştırma sorunuz: 
+3. Uygulama

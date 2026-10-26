@@ -1,0 +1,49 @@
+120
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.10.6.1. Dik koordinat sisteminde  iki nokta arasındaki uzaklık ve bir doğru parçasını 
+belli oranda bölen noktanın koordinatlarıyla  ilgili çıkarım yapabilme 
+a) Dik koordinat sisteminde iki nokta arasındaki uzaklık bağıntısı ve bir doğru parçasını 
+belli oranda bölen noktanın koordinatlarıyla ilgili varsayımda bulunur.
+b)  Farklı örnekler üzerinden varsayımlarına yönelik örüntüleri geneller.
+c) İki nokta arasındaki uzaklık bağıntısına ve bir doğru parçasını belli oranda bölen 
+noktanın koordinatlarına ilişkin genellemeleri ile varsayımlarını karşılaştırır.
+ç) İki nokta arasındaki uzaklık bağıntısına ve bir doğru parçasını belli oranda bölen 
+noktanın koordinatlarına yönelik önermeler sunar.
+d) Önermeleri gerçek yaşam problemleri bağlamında değerlendirir.
+MAT.10.6.2. Dik koordinat sistemini doğrunun özelliklerini incelemek ve doğru ile ilgili 
+problemleri çözebilmek için uygun bir temsil aracı olarak kullanabilme 
+a) Dik koordinat sistemini doğrunun eğim açısını, eğimini ve doğruların birbirlerine 
+göre konumlarını belirlemede araç olarak tanır.
+b) Karşılaştığı problem durumlarında dik koordinat sistemini doğrunun eğim açısını, 
+eğimini ve  doğruların birbirlerine göre konumlarını belirlemede uygun bir temsil 
+aracı olarak seçer.
+c) Dik koordinat sistemini  doğrunun eğim açısını, eğimini ve doğruların birbirlerine 
+göre konumlarını temsil etme aracı olarak kullanır.
+İÇERİK ÇERÇEVESİ • Dik Koordinat Sisteminde Noktanın Analitik İncelenmesi
+• Dik Koordinat Sisteminde Doğrunun Analitik İncelenmesi
+Genellemeler • Dik koordinat sistemi, geometrik özelliklerin cebirsel ve grafiksel bir yaklaşımla incelen -
+mesini sağlar.
+• İki doğrunun dik koordinat sisteminde birbirine göre konumlarını belirlemede bu doğrula-
+rın eğimlerinden yararlanılır.
+Anahtar Kavramlar çakışma, dik koordinat sistemi, doğru, eğim, eğim açısı, iki nokta arasındaki uzaklık, kesiş -
+me, paralellik 
+Sembol ve Gösterimler |AB|, A(x, y), m,  d1 // d2 , d1 ⊥ d2
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; performans görevi, çalışma kâğıdı ve proje ödevi ile değerlendirilebilir.
+Öğrencilerden performans görevi olarak bulundukları ilin ya da ilçenin ölçekli bir haritası -
+nı dik koordinat sistemi ile  ilişkilendirerek okulu orijin kabul edip ilin önemli merkezlerinin 
+ve kendi evlerinin koordinatlarını gösteren görsel bir materyal hazırlamaları istenir. Bu ma-
+teryal üzerindeki uzunlukları kullanarak herhangi iki nokta arasındaki uzaklığı koordinatlar 
+üzerinden hesaplamaları beklenir. Bu performans görevi, analitik veya bütüncül dereceli 
+puanlama anahtarı ile değerlendirilebilir. Ayrıca öğrencilerden öz değerlendirme formları ile 
+kendilerini, akran değerlendirme formları ile birbirlerini değerlendirmeleri istenebilir.
+Öğrencilere doğru parçasını belli oranda bölen noktanın koordinatlarını bulmayı gerektiren 
+gerçek yaşam problemleri içeren bir çalışma kâğıdı verilebilir. Bu çalışma kâğıdı, analitik de-
+receli puanlama anahtarı ile değerlendirilebilir.
+Gerçek yaşam durumlarında karşılaşılan problemler üzerinden doğrunun eğimini, doğrula -
+rın birbirlerine göre konumlarını kullanmayı gerektiren proje ödevi; analitik dereceli puanla-
+ma anahtarı kullanılarak değerlendirilebilir.

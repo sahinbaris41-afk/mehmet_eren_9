@@ -1,0 +1,49 @@
+236
+4. ÜNİTE 
+Kontrol Noktası
+Q = m : L
+Isı
+Hâl değiştirme sıcaklığında olan 
+maddenin tamamen hâl değiştir­
+mesi için gereken ısıdır.
+Saf maddelerde maddenin tamamı 
+hâl değiştirinceye kadar sıcaklık 
+sabit kalır.
+Kütle
+Hâl değişimi süresince kütle 
+korunur.
+Hâl Değiştirme Isısı
+Hâl değişim sıcaklığındaki bir 
+maddenin birim kütlesinin tama­
+men hâl değiştirmesi için gereken 
+ısı miktarıdır.
+Birimi J/kg’ dır.
+Maddeler için ayırt edici bir 
+özelliktir.
+ 
+Karekoddan yararlanarak maddelerin hâl değişim sürecinde atom ve molekül düzeyinde neler olduğunu 
+gösteren videoya ulaşabilirsiniz.
+ 
+ 4.4. ISIL DENGE
+Konuya Başlarken
+Günlük hayatta ısıtma ve soğutma sistemleri sıkça kul ­
+lanılmaktadır. Isı makineleri, kalorifer sistemleri  ve 
+elektrikli fırınlar; içinde bulundukları ortamı sıcaklığın 
+yüksek olduğu ortamdan düşük olduğu ortama doğru 
+enerji aktararak ısıtır. Soğutma sistemleri ise soğutulmak 
+istenen bölgeden ısıyı alır ve dış ortama aktarır. Buzdo­
+labı, klima, ısı pompası gibi sistemler buna örnektir. 
+Isıtma ve soğutma sistemlerinde gerçekleşen ısı akta-
+rımına doğa olaylarından hangileri örnek verilebili r? 
+Aralarında ısı alışverişi yapan sistemler, bu durumu 
+ne zamana kadar sürdürebilir?
+4. Etkinlik Isıl Denge   
+Amaç Isıl denge durumuna ilişkin bilimsel gözlem yapabilme
+Süre 30 + 30 dk.
+Araç Gereç Beherglas, Erlenmayer kabı, termometre ve ısıtıcı ocak; bunların dışında tasarlayacağınız deney için gerek­
+li araç gereç, deneyin özelliğine göre grubunuz tarafından belirlenecektir.
+Yönerge Aşağıda verilen basamakları takip ederek etkinliği gerçekleştiriniz. Etkinliği tamamladıktan sonra “ Akran 
+Değerlendirme Formu”nu doldurunuz. Etkinlik sonunda hazırlayacağınız rapor, “Dereceli Puanlama 
+Anahtarı” ile öğretmeniniz tarafından değerlendirilecektir.
+1. Tahmin et­gözle­açıkla tekniğiyle ısıl dengeyi, denge sıcaklığını ve ısıl dengeye ilişkin nitelikleri tanımlayınız.
+Isı pompası sisteminin dış ünitesi

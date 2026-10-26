@@ -1,0 +1,33 @@
+6
+MATEMATİK 9
+6. Aşağıda,	kare	şeklinde	bir	kartonun	üzerine	kısa	kenar	uzunluğu	4	cm	olan	11	cm’lik	bir	cetvel	ile	ABC	
+ve	FED	dik	üçgenleri	yerleştirilmiştir.	 ABC DEF,&& ,		[AB] = [BC],		[FE] = [ED] ve	üçgenlerin	A	ile	F	
+köşeleri	kartonun	kenarları	üzerindedir.
+A
+B
+F
+C
+E D
+4
+E
+11109876543210
+11109876543210
+Buna göre, kartonun bir kenar uzunluğunun kaç santimetre olduğunu işlemlerinizi göstererek 
+bulunuz. (15 puan)
+A
+B
+F
+C
+E D
+4
+E
+11109876543210
+11109876543210
+9
+9
+6
+6
+Görselde,	cetvel	kullanılarak		|CB|  =	 	9	cm,	|ED|  =	 	6	cm	bulunur.	
+ABC DEF,&& 	olduğuna	göre,	|AB|  =  |DE|	ve	|BC|  =  |EF|’tir.		
+Buna	göre,		|AB|  =		6	cm,  |EF|  =		9	cm	ve	cetvelin	kısa	kenar	uzunluğu	4	cm	olduğundan	kartonun	bir	
+kenar	uzunluğu	|FE| +	4	+ |BA|  =  9  +		4		+ 	6 =		19	cm	olur.	 	

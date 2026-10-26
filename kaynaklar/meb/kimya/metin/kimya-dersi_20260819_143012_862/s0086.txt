@@ -1,0 +1,49 @@
+86
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI VE 
+SÜREÇ BİLEŞENLERİ
+KİM.12.1.1. İndirgenme-yükseltgenme (redoks) tepkime sürecine ilişkin bilimsel gözlem 
+yapabilme
+a) Bazı metallerin oksijen gazı/hava, seyreltik hidroklorik asit ve metal tuzlarının sulu 
+çözeltileriyle olan tepkimelerindeki kimyasal değişimleri gösteren nitelikleri tanım-
+lar. 
+b) İndirgenme-yükseltgenme tepkimelerinde kimyasal değişimleri gösteren kanıtlar 
+toplar. 
+c) İndirgenme-yükseltgenme tepkime sürecini topladığı makro seviyede kanıtları 
+kullanarak alt mikro ve sembolik seviyelerde gösterimlerle açıklar.   
+KİM.12.1.2. Metallerin aktiflik sıralamasını belirlemeye ilişkin bilimsel sorgulama yapabilme 
+a) Metallerin aktiflik sıralamasının belirlenmesine ilişkin araştırma soruları oluşturur. 
+b) Metallerin aktiflik sıralamasına ilişkin seçtiği araştırma sorusunu cevaplamak için 
+bir hipotez oluşturur. 
+c) Metallerin aktiflik sıralamasını belirlemek üzere bir deneyi planlayarak gerçekleştirir. 
+ç) Deney sonuçlarından elde ettiği verileri metallerin aktiflik sıralamasına ilişkin 
+önerdiği hipotez ile ilişkilendirerek yorumlar. 
+d) Metallerin aktiflik sıralamasını açıklarken tepkimelere ilişkin alt mikro ve sembolik 
+seviyelerde gösterimleri kullanır. 
+e) Metallerin aktifliğine ilişkin gösterimlerini bilimsel gösterimlerle karşılaştırır. 
+KİM.12.1.3. Galvanik bir hücrenin özelliklerini bilimsel gözleme dayalı tahmin edebilme 
+a) İstemli indirgenme-yükseltgenme tepkimelerinden elektrik enerjisi üretilmesine 
+ilişkin önermeler oluşturur.
+b) İstemli indirgenme-yükseltgenme tepkimelerinden elektrik enerjisi üretilmesine 
+ilişkin gözleme dayalı olan ve olmayan önermeleri karşılaştırır. 
+c) Galvanik hücrelere ilişkin ulaştığı makro, alt mikro ve sembolik seviyelerde gözlem 
+verilerinden sonuç çıkarır. 
+ç) Galvanik hücrelerin gözlem yapılamayan özelliklerine ilişkin tahminlerde bulunur.
+d) Galvanik bir hücrenin özelliklerine ilişkin tahminlerinin geçerliliğini bilimsel bilgilere 
+dayalı sorgular. 
+KİM.12.1.4. Standart hücre potansiyelinin hesaplanmasına ilişkin tümevarımsal akıl yürü-
+tebilme
+a) Standart hücre potansiyelinin hesaplanmasına ilişkin keşfettiği örüntüyü mate -
+matiksel olarak modelleyerek modelini farklı elektrokimyasal hücrelerin standart 
+potansiyellerinin hesaplanmasında kullanır. 
+b) Keşfettiği örüntüyü matematiksel modeller üzerinden geneller.
+KİM.12.1.5. Galvanik hücrelerin potansiyelini etkileyen faktörlere ilişkin hipotez oluştura -
+bilme
+a) Galvanik hücrelerin potansiyelini etkileyen faktörleri belirler. 
+b) Galvanik hücrelerin potansiyelindeki değişimlerin neden-sonuç ilişkisini belirler. 
+c) Galvanik hücrelerin potansiyelini etkileyen bağımlı-bağımsız değişkenleri ve kontrol 
+değişkenlerini belirler.
+ç) Belirlediği bağımsız değişkenlerin hücre potansiyeli üzerindeki etkisine ilişkin de -
+nemeler yapar.
+d) Belirlediği faktörlerin galvanik hücrelerin potansiyeline etkisine ilişkin Le Chatelier 
+ilkesi temelinde önermeler oluşturur.

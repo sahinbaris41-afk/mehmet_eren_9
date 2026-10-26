@@ -1,0 +1,43 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+13
+oluşturmaktadır. TYMM’de karar verme, problem çözme ve eleştirel düşünme olmak üzere üç üst düzey 
+düşünme becerisi tanımlanmıştır.
+Alan becerileri, kavramsal becerileri ve/veya alana özgü bütünleşik becerileri kapsayacak şekilde yapılan -
+dırılmıştır. Bu yönüyle alan becerileri, kavramsal becerileri ve/veya alana özgü bütünleşik becerileri kapsar 
+ve bu becerilerin süreç bileşenlerini de içerir.
+TYMM’de öğrenme çıktıları, bilgi ve becerinin birbirinden ayrılmaz bir bütün oluşturduğu dinamik yapılardır. 
+Öğretim programlarının temel bileşenlerinden olan içerik çerçevesi, öğrencinin sahip olması gereken sağ -
+lam, güvenilir ve geçerli bilgi kümesini temsil eder. Bu çerçeve disipline özgü, disiplinler arası, epistemik 
+ve işlemsel bilgi türlerini bir arada barındıran zengin bir yapıdır. Modelde bilgi, beceri kazanmak için gerekli 
+zemini hazırlarken beceriler de bu bilgiye ulaşmada ve yeni bilgiyi üretmede temel bir araç olarak kullanılır.
+2.3. BAĞLAM TEMELLİ SORU NEDİR?
+Bağlam temelli sorular, eğitimde son yıllarda daha sık kullanılmaya başlanmış olsa da yeni bir soru türü 
+değildir. Bu tür soruların kökeni 20. yüzyılın ortalarına kadar uzanmaktadır. Eğitimde bağlama dayalı soru 
+kullanımı ilk olarak 1940’lı ve 1950’li yıllarda yorumlayıcı alıştırmalar, metne dayalı sorular ve problem senar -
+yoları biçiminde ortaya çıkmıştır (Ebel, 1951). Bu dönemde araştırmacılar, öğrencilerin yalnızca hatırlamaya 
+dayalı sorularla öğrenmeyi yeterince yansıtamadıklarını öne sürmüşlerdir. Bunun yerine öğrencinin bilgi -
+yi anlamlandırmasını ve kullanmasını sağlayan ölçme araçlarının geliştirilmesi gerektiğini savunmuşlardır 
+(Ebel, 1951; Szeberenyi & Tigyi, 1987; Wainer & Kiely, 1971). Buna bağlı olarak da farklı soru tasarımları ortaya 
+çıkmıştır. Özellikle 1950’lerden itibaren
+• metin temelli okuduğunu anlama soruları,
+• fen ve matematikte problem durumuna dayalı sorular,
+• mesleki alanlardaki uygulama testleri
+bağlam temelli soru anlayışının erken örnekleri olarak kullanılmaya başlanmıştır.
+Bağlam temelli soruları ifade etmek için araştırmacılar tarafından kullanılan farklı adlandırmalar bulun -
+maktadır. Literatürde bu sorular tek bir kavram altında toplanmamıştır. Araştırmacılar, bağlam temelli soru 
+tasarımını kendi kuramsal anlayışlarına ve ölçme amaçlarına göre farklı adlarla ifade etmişlerdir. Haladyna 
+(1992), “Context-Dependent Item Sets” başlıklı çalışmasında konuyla ilgili literatüre (Ebel, 1951; Cureton, 
+1965; Wesman 1971; Wainer & Kiely, 1971; Lee & Frisbie, 1999; Szeberenyi & Tigyi, 1987) belirli bir bağlama 
+özgü soru grubunu/kümesini ifade etmek için kullanılan terimleri şöyle sıralamaktadır: “yorumlama alıştır -
+maları”, “senaryolar”, “madde takımları”, “süper maddeler” ve “uygulama testi”. Bunlarla birlikte bazı araştır -
+macılar (Wilson & Adams, 1995; Yen, 1993; Ferrara, Huynh, & Baghi, 1997) tarafından ise “madde demetleri”, 
+“pasajlar” ve “soru kümeleri” gibi adlandırmalar kullanılmıştır. Bu çeşitlilik, bağlam temelli soru tasarımının 
+tek bir disipline, amaç türüne ya da ölçme formatına indirgenemeyecek kadar esnek bir yapıya sahip ol -
+duğunu göstermektedir. Bu kavramların farklı biçimlerde adlandırılmasının temel nedeni, araştırmacıların 
+bağlam temelli soruyu farklı açılardan ele almalarıdır. Bazı araştırmacılar bu soruları bilişsel yapısına (yo -
+rumlama, sorgulama, problem çözme), bazıları format yapısına (soru kümesi, madde takımı), bazıları ise 
+ölçme ve analiz varsayımlarına (yerel bağımlılık, madde gruplama, puanlama) odaklanarak adlandırmıştır. 
+Bu nedenle farklı terimler kullanılmış olsa da söz konusu adlandırmaların ortak özelliği, anlamlı bir bağlam 
+içinde farklı soru formatlarıyla birden fazla bilişsel işlemin birlikte yapılmasını gerektirmesidir.
+Bağlam temelli soruların günümüzde daha çok öne çıkmasının nedeni, ülkelerin eğitim sistemlerindeki he -
+deflerin değişmesidir. Günümüzde eğitimden beklenen yalnızca bilgi aktarımı değil öğrencilere eleştirel 

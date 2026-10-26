@@ -1,0 +1,72 @@
+169
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.12.1.3
+Öğrencilerden doğrusal ve karesel fonksiyonların cebirsel ve grafik temsillerini inceleyerek 
+ne gibi ortak özellikleri olduğuna dair gözlemlerini ifade etmeleri istenir. “Bu tür fonksiyon-
+ların cebirsel temsillerinde bağımsız değişkenin kuvvetleri doğal sayı, katsayıları ise gerçek 
+sayıdır.” gibi sonuçlar elde etmeleri beklenir. Doğrusal ve karesel fonksiyonların cebirsel 
+temsilleri ile yapılan toplama, çıkarma ve çarpma işlemleri sonucu elde edilen cebirsel tem-
+sillerin yine gerçek sayılarda fonksiyon ifade edeceğini fark etmeleri sağlanır. Bu gözlemler-
+den hareketle bu tür fonksiyonların cebirsel temsillerinin genelleştirmesi olarak
+p(x) = an xn + an-1 xn-1 + ... + a1 x1+ a0 (n∈ℕ) formu tanıtılır (MAB3). Bu cebirsel formların 
+polinom olarak adlandırıldığı belirtilerek polinomun derecesi, başkatsayısı, sabit terimi tanı-
+tılır. Genellenen bu cebirsel forma sahip fonksiyonlar, gerçek sayılarda tanımlı n. dereceden 
+tek değişkenli polinom fonksiyonlar olarak ifade edilir ve öğrencilerden bu fonksiyonların 
+derecelerini belirleyebilmeleri beklenir. Bu bağlamda öğrencilerin doğrusal ve karesel fonk-
+siyonların tanım ve değer kümesi ile işlem özelliklerini, birinci ve ikinci dereceden polinom 
+fonksiyonların tanım ve değer kümesi ile işlem özelliklerini inceleyip karşılaştırması sağlanır. 
+Öğrencilerden bu fonksiyonların polinom fonksiyonlarla aynı aileden olmasına ve benzer nitel 
+özelliklerine yönelik çıkarımlarda bulunmaları beklenir. Öğrencilere bu çıkarımları yapmaları-
+nı sağlayacak performans görevi verilir.
+karşılaştırılması sağlanır. Örneğin “ An ∈ ℕ için p(x) = x2n  polinom fonksiyonları ve bu fonk-
+siyonların toplam, fark ve çarpımları ile elde edilen fonksiyonlar çift fonksiyonlardır. ” v e y a   
+“n ∈ ℕ için p(x) = x2n+1 polinom fonksiyonları tek fonksiyonlardır. ”  önermeleri oluşturulur. 
+Benzer şekilde “p(x) polinom fonksiyonunun sıfırları  k, m ise p(k) = p(m) = 0 olur.”, “p(x) 
+polinom fonksiyonunun sıfırları  k, m (k, m∈ℝ) iken a > 0 olmak üzere p(x - a) polinom fonk-
+siyonunun sıfırları k + a ve m + a olur.” gibi önermeler elde edilir  (MAB3). Elde edilen öner -
+meler polinom fonksiyonlarla modellenebilen gerçek yaşam durumlarında değerlendirilir. 
+Bu fonksiyonlar fizik ve mühendislik bağlamında hareket, ivme, kuvvet, enerji, sürtünme 
+gibi alanlarda incelenir. Örneğin yer çekimi etkisinde belirli bir hızla belirli bir yükseklikten 
+aşağı bırakılan bir cismin zamana bağlı yerden yüksekliği polinom fonksiyonlarla  modelle -
+nebilir. Ekonomi bağlamında ürün adedine bağlı maliyet ve kâr fonksiyonları, polinom fonk -
+siyonlar  kullanılarak oluşturulabilir  (OB3). Biyoloji ve tıp bağlamında kandaki glikoz, üre ve 
+oksijen miktarındaki veya kan basıncındaki zamana bağlı değişim polinom fonksiyonlarla 
+modellenerek  incelenebilir  (D13.4). Öğrencilere polinom fonksiyonların derecesinin, işa -
+retinin, sıfırlarının, tekliğinin-çiftliğinin ve sonsuzdaki davranışının incelendiği sorulardan 
+oluşan çalışma kâğıdı verilebilir.
+Harizmi, Ömer Hayyam, Ali Kuşçu ve Cahit Arf gibi matematikçilerin polinom fonksiyonlarla 
+ilgili çalışmaları ve Kereci ’nin bazı algoritmaları cebirsel ifadelerde (özellikle de polinomlar -
+da) uygulamayı hedefleyen projesi incelenir  (OB5). Polinom fonksiyonların tarihî gelişiminin 
+incelendiği  araştırma ödevi verilerek öğrencilerin  sistematik bir şekilde konunun gelişimini 
+incelemesi teşvik edilebilir (E3.7).
+MAT.12.1.5
+Rasyonel fonksiyonların iki polinom fonksiyonun birbirine bölümünden oluştuğu ifade edilir. 
+Gerçek yaşam durumlarında polinom veya rasyonel fonksiyonlarla modellenebilen prob -
+lemler incelenir. Problem durumlarında geçen polinom veya rasyonel fonksiyonların ax + b               
+(a, b∈ℝ, a ≠ 0) veya ax2 + bx + c (a, b, c∈ℝ, a ≠ 0) şeklindeki cebirsel ifadelerin çarpımı veya 
+bölümü şeklinde olmasına dikkat edilir. Bu fonksiyonları içeren denklem ve eşitsizliklerin 
+çözümlerine ulaşabilmek için deneme yanılma, fonksiyonun nitel özellikleri ve grafik tem -
+silinden yararlanma,  tablo oluşturma gibi yöntemler kullanılır (OB4, E3.7) .  Verilen farklı 
+problem durumlarında uygun bir strateji seçilerek denklem ve eşitsizliklerin çözüm küme -
+leri elde edilir. Cebirsel yöntemle f(x) < g(x) gibi polinom veya rasyonel fonksiyon içeren 
+eşitsizliklerin çözümünde h(x) = f(x) - g(x) fonksiyonunun işaretini birinci dereceden çar -
+panlarının işaretine göre belirlemeyi sağlayan işaret tablosu adım adım oluşturulur. Elde 
+edilen çözüm kümelerinin doğruluğu, sayısal değerleri deneme yoluyla veya matematik ya -
+zılımları kullanılarak kontrol edilir  (MAB5). Öğrencilere polinom ve rasyonel fonksiyonlarla 
+ifade edilebilen denklem ve eşitsizlikleri içeren problemlere ilişkin çalışma kâğıdı verilebilir. 
+Çalışma sonunda öğrencilerin kendilerini değerlendirebilecekleri öz değerlendirme formu 
+hazırlanabilir  (SDB1.2).
+Öğrencilerin polinom ve rasyonel fonksiyonları içeren denklem ve eşitsizlik çözümleri ile ilgili 
+olası farklı çözüm stratejilerini analitik ve sistematik bir şekilde incelemeleri sağlanır (E3.6, 
+E3.7). Öğrenciler, problemlerde çözüme ulaştıran stratejilerin başka problem durumlarına 
+uyarlanabilmesi için fonksiyonda sıfırlarının birbirine eşit olması veya ikinci dereceden çarpa-
+nının gerçek kökünün olmaması durumlarında fonksiyonun işaretine dikkat edilmesi gerekli-
+liği gibi çıkarımlarda bulunur. Öğrencilerin bu çıkarımları matematiksel bir modele dönüştür-
+meleri sağlanır. Örneğin belirli bir fiyata alınan kartondan küp şeklinde bir kutu oluşturulduğu 
+ve bu kutunun belirli bir birim küp fiyatı üzerinden satıldığı durumda satıcının kâr elde ede-
+bilmesi için kutunun ayrıt uzunluğunun en az kaç birim olabileceğine ilişkin matematiksel 
+modelleme yapılabilir (OB3, D17.3). Elde edilen matematiksel modeller sınırlılık, kullanışlılık 
+ve verimlilik açısından değerlendirilir. Öğrencilere polinom ve rasyonel fonksiyonları içeren 
+denklem ve eşitsizliklerin kullanıldığı gerçek yaşam problemlerinden oluşan proje ödevi ve -
+rilebilir.

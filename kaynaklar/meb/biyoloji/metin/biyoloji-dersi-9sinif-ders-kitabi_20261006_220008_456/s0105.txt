@@ -1,0 +1,36 @@
+105
+Organizasyon
+Görsel 2.7
+Golgi aygıtı ve hücre içindeki 
+zarlı yapılar arasındaki ilişkiler
+Görsel 2.8
+Lizozomun yapısı 
+Golgi aygıtı; ökaryot hücrelerde ER’de üretilen proteinlerin, lipitlerin ve diğer hüc-
+resel maddelerin işlenmesi, depolanması, dağıtılması gibi önemli görevleri yerine 
+getirir. Hücre içinde sentezlenen proteinlerin doğru şekillerde katlanmasını ve iş -
+lenmesini sağlar. Ayrıca işlenmiş proteinleri ve lipitleri hücre içinde hedef bölgele-
+re taşıyan özelleştirilmiş vezikülleri oluşturur (Görsel 2.7). Üretilen maddelerin hüc-
+re dışına taşınmasını da gerçekleştirir. Bu sebeple salgı için özelleşmiş hücrelerde 
+bol miktarda Golgi aygıtı bulunur.
+Lizozomlar, hücre içi sindirimin gerçekleşmesi için gereken enzimleri içeren zarla 
+çevrili keseciklerdir (Görsel 2.8). Hücre içindeki yabancı partikülleri, yaşlı organelle-
+ri ve hücresel atıkları sindirerek hücrenin sağlığını korur. Sindirilen partiküllerden 
+elde edilen moleküller, hücrenin ihtiyaç duyduğu yeni malzemelerin sentezinde 
+kullanılır. Gelişmiş bitki ve mantar hücrelerinde lizozom bulunmaz.
+Lizozomlar programlanmış hücre ölümü (apoptoz) sürecinde hücrenin kendi ken-
+dini parçalamasına yardımcı olur. Bu süreç hücrelerin normal gelişimi ve doku 
+yenilenmesi için önemlidir. Bu süreçte yaşlı hücreler lizozomların yardımıyla par -
+çalanır ve yeni hücrelerin oluşturulmasıyla dokunun kendini yenilemesi sağlanır. 
+Ayrıca zararlı bakteri ve virüsleri parçalayarak hücreyi enfeksiyonlara karşı korur.
+İşlenmiş
+salgı proteinleri Golgi aygıtı
+Sentezlenen salgı 
+proteinleri
+Vezikül
+Vezikül
+GER
+ER
+Salgı
+Sindirim enzimleri
+Fosfolipit zar yapısı
+Çift katmanlı zar

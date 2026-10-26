@@ -1,0 +1,141 @@
+269
+2. FORM
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+Önerme 
+oluşturabilme
+ (25 puan)
+Aynı tür atom 
+orbitallerinin bü-
+yüklüğü ve enerjisi 
+arasındaki ilişkiye 
+yönelik önerme 
+oluşturmuştur.
+(1-6 puan)
+Farklı enerji 
+seviyesindeki aynı 
+tür atom orbitalle-
+rinin enerjilerine 
+yönelik önerme 
+oluşturmuştur.
+(7-12 puan)
+Aynı enerji sevi-
+yesinde bulunan 
+farklı tür atom orbi-
+tallerinin enerjileri-
+ne yönelik önerme 
+oluşturmuştur.
+(13-18 puan)
+Aynı enerji sevi-
+yesindeki ve farklı 
+enerji seviyesin-
+deki atom orbital-
+lerinin enerjilerine 
+yönelik önermeler 
+oluşturmuştur.
+(19-25 puan)
+Veriye dayalı 
+olan ve olmayan 
+önermeleri ayrış-
+tırabilme
+(25 puan)
+Oluşturduğu öner-
+meleri veriye daya-
+lı olan ve olmayan 
+şeklinde sınıflandı-
+ramamıştır.
+ (1-6 puan)
+Veriye dayalı 
+önermeleri kısmen 
+belirleyebilmiş, 
+veriye dayalı ol-
+mayan önermeleri 
+belirleyememiştir.
+(7-12 puan)
+Veriye dayalı 
+önermeleri belir-
+leyebilmiş, veriye 
+dayalı olmayan 
+önermeleri kısmen 
+belirleyememiştir.
+(13-18 puan)
+Veriye dayalı 
+olan ve olma-
+yan önermeleri 
+belirleyebilmiştir.
+(19-25 puan)
+Geçersiz  
+çıkarımlarını 
+ayıklayabilme
+(25 puan)
+Atom orbitallerine 
+ait bağıl enerji di-
+yagramından elde 
+ettiği verilerle ge-
+çersiz çıkarımlarını 
+ayıklayamamıştır. 
+(1-6 puan)
+Atom orbitallerine 
+ait bağıl enerji 
+diyagramından 
+elde ettiği verilerle 
+geçersiz çıka-
+rımlarını kısmen 
+ayıklayabilmiştir.
+(7-12 puan)
+Atom orbitallerine 
+ait bağıl enerji 
+diyagramından 
+elde ettiği verilerle 
+geçersiz çıkarımla-
+rını ayıklamıştır. 
+(13-18 puan)
+Atom orbitallerine 
+ait bağıl enerji 
+diyagramından 
+ve aynı enerji 
+seviyesindeki atom 
+orbitallerinin ener-
+jilerine ait grafikten 
+elde ettiği verilerle 
+geçersiz çıkarımla-
+rını ayıklamıştır.
+ (19-25 puan)
+Yargıya 
+varabilme
+(25 puan)
+Atom orbitallerinin 
+bağıl enerjilerine 
+ilişkin geçerli tah-
+minlerde buluna-
+mamıştır.
+ (1-6 puan)
+Atom orbitallerinin 
+bağıl enerjilerine 
+ilişkin kısmen 
+geçerli tahminlerde 
+bulunmuştur.
+ (7-12 puan)
+Atom orbitallerinin 
+bağıl enerjilerine 
+ilişkin geçer-
+li tahminlerde 
+bulunmuş ancak 
+doğru bir yargıya 
+ulaşamamıştır.
+(13-18 puan)
+Atom orbitallerinin 
+bağıl enerjilerine 
+ilişkin geçerli tah-
+minlerde bulunarak 
+orbitallerin bağıl 
+enerjilerine ilişkin 
+doğru bir yargıya 
+ulaşmıştır.
+ (19-25 puan)
+Tablo Puanı
+Öğretmen Geri Bildirimi:
+ETKİNLİK KÂĞIDI ÇALIŞMASI ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Bu form, öğrencilere “Atom Orbitallerinin Bağıl Enerjilerine İlişkin Veriye Dayalı Tahminde Bulunabilme” 
+konusuyla ilgili verilen etkinlik kâğıdını değerlendirmeniz amacıyla hazırlanmıştır. Öğrencinin belirtilen 
+ölçütlere ilişkin öğrenme düzeyini en doğru yansıtan seçeneği puanlayınız.
+Öğrencinin Adı Soyadı:        Numarası:   Sınıfı:

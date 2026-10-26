@@ -1,0 +1,53 @@
+4746
+1. TEMA: MÜZİK DİLİ
+Re Dizisi
+Armonik Re 
+Minör Dizi
+Melodik Re 
+Minör Dizi
+Doğal Re 
+Minör Dizi
+Öğrencilerden çıkıcı ve inici re dizisi oluşturmalarını isteyiniz (Görsel 
+1.41). Oluşturulan re dizisini yandaki karekodda verilen içerikle birlikte 
+seslendiriniz. Seslendirdiğiniz re dizisinin minör dizi etkisi verip ver -
+mediğini sorarak öğrencilerin düşüncelerini ifade etmelerini isteyiniz.
+Öğrencilerin oluşturdukları re dizisini ses değiştirici işaretler yardı-
+mıyla re minör diziye dönüştürmelerini sağlayınız ve yandaki kare-
+kodda verilen içerikler yardımıyla re minör dizisini çıkıcı ve inici olarak 
+sırasıyla doğal (Görsel 1.42), armonik (Görsel 1.43) ve melodik (Görsel 
+1.44) olarak seslendiriniz.
+Tam Tam
+Yarım Yarım
+Tam TamT am Tam Tam Tam Tam
+YarımY arım
+Tam
+&
+Re Dizisi
+w w w w w w w ww w w w w w w w
+Görsel 1.41: Çıkıcı ve İnici Re Dizisi
+Görsel 1.42: Doğal Re Minör Dizi
+Görsel 1.43: Armonik Re Minör Dizi
+Görsel 1.44: Melodik Re Minör Dizi
+Tam Tam Tam
+Yarım Yarım
+Tam TamT am Tam Tam Tam
+Yarım Yarım
+Tam
+&
+Doğal Rs zönir DöMöeö
+w w w w w w bw ww w w bw w w w w
+Tam Tam    Buçuk    Buçuk Tam
+Yarım Yarım
+Tam
+Yarım YarımY arım Yarım
+   Bir    Bir Tam Tam
+&
+Armonik Re Minör Dizisi
+w w w w w w b w #ww w # w bw w w w w
+Tam Tam Tam
+Yarım Yarım
+Tam Tam TamT am Tam Tam Tam
+Yarım Yarım
+&
+Melodik Re Minör Dizisi
+w w w w w w n w #ww w n w bw w w w w

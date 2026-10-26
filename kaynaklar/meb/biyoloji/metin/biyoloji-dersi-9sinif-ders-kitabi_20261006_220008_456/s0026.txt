@@ -1,0 +1,49 @@
+26
+1. Tema
+IV. Hipotez Oluşturma
+Bilimsel süreçteki bir sonraki aşama, gözlemlere dayalı bir hipotezin oluşturulmasıdır. Hi-
+potez, belirli bir durumun ya da olayın nedeninin, bağlantısının veya sonucunun açıklan-
+ması için sunulan bir önermedir. Hipotez; deneysel yöntemler veya gözlemler kullanılarak 
+test edilebilir, doğruluğu ya da yanlışlığı ispatlanabilir olmalıdır.
+Örnek biyolojik durumda bazı kuşların güveleri yediği ve baykuşların da diğer kuşları av-
+ladığı hakkında bilgiler elde ettiğinizi düşününüz. Bu bilgiden hareketle oluşturacağınız 
+“Göz desenleri güveyi yiyebilecek avcıları uzaklaştırır. ” cümlesi sizin hipotezinizdir.
+V. Hipoteze Dayalı Tahminler
+Hipotezlerin doğruluğu test edilmeden hipotezden akıl yürütme yoluyla çıkarılan 
+sonuçlara tahmin denir. Tahmin, çalışmalarda zaman kaybını önleyerek araştırmaları 
+kolaylaştırır. Bu süreç, bilimsel bilginin gelişmesine ve doğrulanabilir sonuçların elde 
+edilmesine katkıda bulunur. 
+Göz desenlerinin güveyi yiyebilecek avcıları uzaklaştırdığı hipotezinden yola çıkılarak 
+mevcut durumla ilgili şu tahmin yapılabilir: Bir güvenin kanatlarında göz desenleri varsa 
+avcı kuşlar güveyi yemekten kaçınır.
+VI. Deney Tasarlama
+Hipoteze dayalı tahminleri test etmek için genellikle kontrollü bir deney tasarlanır 
+veya bilimsel kaynaklardan kanıtlar toplanır. Deney sırasında ve kaynak araştırma -
+sında veriler ya da bilgiler toplanır ve analiz edilmek üzere kaydedilir. Kontrollü de -
+neylerde araştırmacı tarafından değiştirilen ve etkisi araştırılan değişkene bağımsız 
+değişken, bağımsız değişkene bağlı olarak değişen diğer değişkene ise bağımlı de-
+ğişken denir. 
+Verilen örnek biyolojik durumda göz desenleri olan güveleri daha fazla gözlem yaparak 
+avcı kuşların gerçekten de göz desenleri olan güveleri yemekten kaçındığını gözlemle -
+yebilir veya hipotezin test edilmesine yönelik kontrollü deney tasarımı yapabilirsiniz. Bu 
+süreçte eşit sayıda benekli ve beneksiz güvelerin, avcı kuşların olduğu ortamda bir süre 
+bekletildikten sonra kalan güvelerin sayıları karşılaştırılabilir. Yapılan bu işlem kontrollü 
+bir deneyin en basit örneklerindendir. Bu örnekte güvelerin göz desenleri bulundurma du-
+rumu bağımsız değişken, güve sayıları ise desen durumuna göre değişeceği için bağımlı 
+değişkendir.
+VII. Analiz ve Sonuç Çıkarma
+Bilimsel çalışma sürecinde elde edilen verilerin yorumlanmasına çıkarım denir. Elde 
+edilen bulgular veya çıkarımlar, kurulan hipotez ile çelişirse hipotez tekrar gözden ge-
+çirilir ve gerekiyorsa değiştirilir. Veriler hipotezi desteklemek için yeterli değilse yeni 
+gözlem veya deneyler yapılarak yeni veriler elde edilmeye çalışılır. Veriler hipotezi 
+destekliyorsa deney sonuçları raporlanarak bilim çevrelerine duyurulur.
+Detaylı gözlemler veya kontrollü deney sonucunda göz desenli kanat yapısına sahip gü -
+velerin avcı kuşlar tarafından daha az avlandığı tespit edilirse hipotezin desteklendiği bi-
+limsel kanıtlar elde edilmiş olur. Elde edilen veriler hipotezi desteklemek için yeterli değilse 
+farklı bir yöntem kullanılarak hipotezin test edilmesi için ilave veriler toplanması gereke -
+bilir. Gözlem ve deneyler sonucunda güvenin kanatlarında bulunan beneklerin avcıların 
+kaçmasına ve güvenin hayatta kalmasına yardımcı olduğu sonucunu çıkarırsınız.
+Fizik, kimya, biyoloji gibi bilim dallarında bilimsel sürecin benzer adımları izlenir. İlk 
+olarak gözlemler yapılır ve olgular dikkatlice incelenir. Ardından hipotezler oluşturu-
+lur ve deneyler tasarlanarak yürütülür. Elde edilen veriler veya bulgular analiz edilerek 
+çıkarımlar yapılır. Örneğin fizikte bir cismin hareketi, kimyada bir kimyasal reaksiyon, 

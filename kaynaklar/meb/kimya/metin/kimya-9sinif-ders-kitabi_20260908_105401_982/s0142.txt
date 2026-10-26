@@ -1,0 +1,54 @@
+142
+2. Tema/Çeşitlilik
+İyonik bileşiklerin adlandırılmasında bileşiği oluşturan katyon ve anyon adı 
+sırasıyla belirtilir. Formüldeki atom sayıları adlandırmada dikkate alınmaz. 
+Örneğin Na2S bileşiği “sodyum sülfür’’ olarak adlandırılır.
+Birden fazla katyon oluşturma olasılığına sahip metal içeren bileşiklerde me-
+tal iyonunun bileşikteki yükseltgenme basamağı Romen rakamıyla belirtilir. 
+Örneğin FeCl3 bileşiği “demir(III) klorür” olarak adlandırılır ve “demir üç klorür” 
+şeklinde okunur. Gümüş (Ag) elementinin adlandırılmasında ise yaygın yük-
+seltgenme basamağı Romen rakamıyla verilmez. Örneğin AgF bileşiği “gü -
+müş florür”, AgF2 bileşiği ise “gümüş(II) florür” şeklinde adlandırılır.
+Na2S
+Na
++ 
+iyonu
+Sodyum
+S
+2− 
+iyonu
+Sülfür
+Bileşik Formülü Bileşiğin Sistematik Adı
+N2O3 Diazot trioksit
+SO3 Kükürt trioksit
+CS2 Karbon disülfür
+CCl4 Karbon tetraklorür
+N2O Diazot monoksit
+CO Karbon monoksit
+Rakam Latince Adı
+1 Mono
+2 Di
+3 Tri
+4 Tetra
+5 Penta
+Bileşik Formülü Bileşikteki Elementlerin Elektronegatiflik Değerleri
+N2O3 N: 3,04 O: 3,44
+SO3 S: 2,58 O: 3,44
+CO C: 2,55 O: 3,44
+CCl4 C: 2,55 Cl: 3,16
+H2S H: 2,20 S: 2,58
+1. Yönerge: Aşağıdaki tablolarda bileşik formülleri ve bu bileşikleri oluşturan elementlerin elektronegatiflik 
+değerleri verilmiştir. Tablodaki bilgileri kullanarak soruları cevaplayınız.
+2. Yönerge: Aşağıdaki tablolarda rakamlar ve latince adları ile moleküler yapılı bileşiklerin formülü ve 
+sistematik adları verilmiştir. Tablolardaki bilgileri kullanarak aşağıdaki soruları cevaplayınız.
+1. Bileşikleri oluşturan elementlerin elektronegatiflik değerleri ile bileşik formülündeki konumları arasında 
+nasıl bir ilişki vardır? Açıklayınız.
+2. Aşağıdaki bileşik örneklerinde doğru yazılmış formülleri seçiniz. (6C, 7N, 15P,  16S 17Cl)
+NCl3
+Cl3N
+S2C
+CS2
+PCl3
+Cl3P
+3. Bileşik formüllerinde elementlerin konumu ile ilgili kurala yönelik genelleme oluşturunuz.
+Kuralları Keşfetme Yolculuğu IIEtkinlik-2.12

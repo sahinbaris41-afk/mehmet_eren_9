@@ -1,0 +1,42 @@
+10
+ 2. BÖLÜM
+2.1. TÜRKİYE YÜZYILI MAARİF MODELİ’NDE ÖLÇME VE 
+DEĞERLENDİRME Y AKLAŞIMI VE BECERİLERİN ÖLÇÜLMESİ
+Günümüzde toplumsal, ekonomik ve teknolojik dinamiklerin hızla dönüşmesi, eğitim sistemlerinin yalnızca 
+bilgi aktarımına odaklanan klasik yapısının yeniden şekillendirilmesini gerektirmiştir. Bireylerin toplum ve 
+iş hayatında başarılı olabilmeleri için problem çözme, eleştirel düşünme, iletişim, iş birliği gibi çağın gerek -
+tirdiği becerilere sahip olmaları bir zorunluluk hâline gelmiştir. Dijital dönüşüm, yapay zekâ gibi teknolojik 
+gelişmeler, öğrencilerin yalnızca ne bildiklerini değil bildiklerini nasıl kullandıklarını da ortaya koyabilmele -
+rini gerektirmektedir. Bu yönüyle eğitim, bireylerin bilgiye erişiminin ötesinde bilgiyi anlamlandırma ve ger -
+çek yaşam durumlarına transfer etme yeterliklerini geliştiren bir süreç olarak yeniden tanımlanmaktadır. 
+Bu anlayış değişimi, öğretim programlarının beceri temelli bir çerçeveye dönüşümünü zorunlu kılmıştır. 
+Ülkelerin politika belirleyicileri, araştırmacılar ve eğitim kuruluşları; öğrencilerin sahip olması gereken be -
+cerileri tanımlama, beceri çerçeveleri oluşturma ve bunları öğretim programlarıyla bütünleştirme yönün -
+de çeşitli çalışmalar yürütmektedir.
+Türkiye’de bu doğrultuda 2024 yılından itibaren hayata geçirilen TYMM, öğrencinin bilgiyi ürettiği, becerile -
+rini geliştirdiği ve topluma katkı sağladığı bütüncül bir yapı sunmaktadır. Bu modelde eğitim; zihinsel, sos -
+yal, duygusal ve fiziksel gelişimi kapsayan çok yönlü bir süreç olarak ele alınmaktadır (MEB, 2025). TYMM 
+kapsamında öğrencilerin çok yönlü gelişimini destekleyen eğilimler ve değerlerin yanı sıra kavramsal, sos -
+yal-duygusal öğrenme becerileri ile alan ve okuryazarlık becerileri esas alınmıştır. Bu modele dayalı olarak 
+K-12 düzeyinde tüm derslerde öğretim programları güncellenmiştir. TYMM öğretim programları; öğrenme 
+çıktıları ve süreç bileşenleri, içerik çerçevesi, öğrenme kanıtları (ölçme ve değerlendirme), öğrenme-öğ -
+retme yaşantıları, farklılaştırma ve öğretmen yansıtmaları olmak üzere altı temel bölümden oluşmaktadır.
+TYMM öğretim programlarında içerik ve becerinin bütünleştiği “öğrenme çıktıları” kavramı kullanılmıştır. 
+Öğrenme çıktıları, kavramsal veya alan becerileri ile içerik çerçevesinin birleştirilmesiyle oluşturulmuş ve 
+bu çıktılara ait süreç bileşenleri hazırlanmıştır (MEB, 2025). TYMM’de ölçme ve değerlendirme yaklaşımı, 
+TYMM Öğretim Programları Ortak Metni’nde açıklanmıştır. Ayrıca her alan için ölçme ve değerlendirme 
+yaklaşımına “Öğretim Programının Uygulanmasına İlişkin Esaslar” bölümünde yer verilmiştir. Tüm öğre -
+tim programlarında “Öğrenme Kanıtları (Ölçme ve Değerlendirme)” başlığı altında ilgili tema/ünite/öğren -
+me alanındaki öğrenme çıktılarına yönelik ölçme ve değerlendirme araçları önerilmiştir. Önerilen ölçme 
+ve değerlendirme araçlarının öğretim sürecinde nasıl uygulanacağı “Öğrenme-Öğretme Uygulamaları” alt 
+başlığında açıklanmıştır.
+TYMM ölçme ve değerlendirme yaklaşımında değerlendirme türleri arasında amaca uygun bir denge ku -
+rulması gerektiği vurgulanmıştır. Öğrencilerin programların temel kabullerinde belirtilen bilgi ve becerileri 
+yoklamak, ilgi ve ihtiyaçlarını belirlemek amacıyla ön değerlendirme sürecine yer verilmiştir. Öğrenmeleri 
+iyileştirmek amacıyla biçimlendirici değerlendirmenin kullanılması önerilmiştir (MEB, 2025). Biçimlendirici 
+değerlendirme, öğrencilerin öğrenmeleri hakkında bilgi veya kanıt toplamayı, bunları öğrencilerin ihtiyaç -
+ları açısından yorumlamayı ve mevcut durumu değiştirmek için kullanmayı içermektedir (William, 2006). 
+TYMM öğretim programlarında “Öğrenme Kanıtları” bölümü, içerik çerçevesi ile öğrenme yaşantıları ara -
+sında konumlandırılmıştır. Böylece ölçme ve değerlendirme, öğretim sürecinin sonunda not verme odak -
+lı olmaktan çıkarılarak öğrenme-öğretme sürecinin doğal ve planlı bir bileşeni hâline getirilmiştir. Temel 
+amaç; öğrenme süreçlerinin düzenli olarak izlenmesi, öğrenme çıktılarına ilişkin kanıtların toplanmasıyla 

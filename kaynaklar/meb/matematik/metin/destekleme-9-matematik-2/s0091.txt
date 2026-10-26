@@ -1,0 +1,23 @@
+90
+MATEMATİK 9 
+5. TEMA: ALGORİTMA VE BİLİŞİM
+2. ETKINLIK ADI HEDEFE DOĞRU: ALGORITMIK KOMUTLAR
+Etkinlik Öncesi
+ ► Bu etkinlikte algoritmik düşünme ve problem çözme adımlarından oluşan bir oyun yer almaktadır.
+ ► İkişer kişilik gruplar oluşturunuz. Etkinlik süresince öğrencilerinizin çalışmalarını yakından takip 
+ediniz. Algoritmaları çözümleyebilmeye ve yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildi-
+rimler veriniz.
+ ► Öğrencilerinizden oyunun kuralları ve oynanış şekli ile ilgili verilen bilgi kartını ve örnek uygulamayı 
+incelemelerini isteyiniz.
+ ► İşlem adımlarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+ETKINLIĞIN AMACI Algoritmik düşünme becerilerini geliştirebilme
+DESTEKLEME 
+UYGULAMASI
+Algoritmaların kullanıldığı gerçek yaşam durumu örnekleri, öğrencilerin 
+yakın çevresi dikkate alınarak çeşitlendirilir. Böylelikle öğrencilerin konuya 
+karşı olan ilgi ve motivasyonları artırılır.  Algoritmaları çözümleyebilmeye 
+ve yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek 
+değerlendirmeler yapılır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+• Çalışma kâğıtları

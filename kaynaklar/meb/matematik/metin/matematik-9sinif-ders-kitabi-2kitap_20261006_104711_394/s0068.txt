@@ -1,0 +1,50 @@
+68
+4. Tema / Eşlik ve Benzerlik
+14. Sıra Sizde      
+1. Yandaki	 görselde	 Atakan,	 Buse,	 Cemile	 ve	 Er-
+kan’ın	evlerinin	üstten	görünümü	sırasıyla	A,	B,	C		
+ ve	E	harfleriyle	gösterilmiştir. 
+Atakan’ın	evinin	Erkan’ın	evine	olan	en	kısa	uzak-
+lığı	12	m,	Buse’nin	evinin	Cemile’nin	evine	uzak-
+lığı	25	m’dir.	Cemile	ile	Atakan’ın	evleri	arasındaki	
+uzaklık	Buse	ile	Atakan’ın	evleri	arasındaki	uzak-
+lıktan	daha	fazladır.	 AE BC=77 A A ,	 BA CA=77 A A  ve		
+ B,	E,	C	noktaları	doğrusaldır.
+Buna göre Atakan’ın evinin Cemile’nin evine uzaklığını ifade eden AC  nun kaç m olduğunu 
+bulunuz. 
+2. Yandaki	şekilde	ABC	bir	dik	üçgen,	 BACm9 0o=`j%  
+ve	 AH BC=77 AA  dır.
+ EA H! 7A ,	 DB C! 7A ,	 BEDm9 0o=`j% ,	 BD DC=  
+ve	 BE cm 6= 	olarak	verilmiştir.
+Buna göre AB  nun kaç cm olduğunu bulunuz.
+A
+B E C
+A
+B H
+E
+D C
+6
+25. ÖRNEK
+Yandaki	ABC	ve	DBE	dik	üçgenlerinde	B,	F ,	E,	C	noktaları	doğ-
+rusaldır.	 BA CA ,=77 AA  AE BC=77 A A ,	 BD DE=77 AA ,	 DF BE ,=77 AA
+AC , cm 12=  CE cm 6= 	ve	 BF cm 3= 	olarak	verilmiştir.
+Buna	göre	 DB  nun	kaç	cm	olduğunu	bulunuz.
+Çözüm
+BAC	bir	dik	üçgen	ve	 AE7A 	hipotenüse	ait	yükseklik	olduğundan
+AC CE CB CB CB ve cm12 62 4&$$== =2 2 	bulunur.	
+Buradan	 BE CB CE cm24 61 8=-=- = 	olur.
+BDE	dik	üçgeninde	 DF7A 	hipotenüse	ait	yükseklik	olduğundan
+DB BF BE DB DB31 85 4&&$$== =22 2  
+ve	 DB cm54 36== 	bulunur.
+A
+B
+CD
+E
+F
+A
+B
+CD
+E
+F3
+6
+12

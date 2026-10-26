@@ -1,0 +1,42 @@
+120
+2. Tema /  Nicelikler ve Değişimler
+MUTLAK DEĞER FONKSİYONU VE NİTEL 
+ÖZELLİKLERİ
+2.2.
+Konuya Başlarken
+6.	Uygulama
+Gerçek Sayılarda gx x= !_i  Şeklinde Tanımlı Mutlak Değer Fonksiyonlarının Nitel Özellikleri
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız. 
+1.  Aşağıdaki görselde deniz seviyesinin altında ve üstünde yer alan A, B, C, D, E noktaları ile deniz seviyesine 
+dik olarak modellenen bir k doğrusu verilmiştir. 
+Deniz seviyesiO
+-2
+3
+5
+- 32
+4
+5
+D
+C
+E
+A
+B
+k
+Yüksek yapılarda bulunan evlere eşya ta-
+şımak veya evlerden eşya almak için yük 
+asansörleri kullanılmaktadır. Görseldeki 
+gibi yerden yaklaşık 30 metre yüksekliğe 
+kurulan, sabit hızla aşağı ve yukarı yönde 
+hareket eden bir yük asansörünün eşyayı 
+evin balkonundan alıp aşağıya indirmesi 
+10 saniye sürmektedir. 
+Yük asansörünün zamana bağlı hareketine dair aşağıdaki sorularla ilgili fikirlerinizi sınıf 
+arkadaşlarınızla paylaşınız.
+1.  Yük asansörü aşağıdan harekete başlayıp, 30 metre yükseklikteki balkondan eşya alıp tekrar 
+başladığı noktaya dönüyor. Yük asansörünün zamana bağlı yerden yüksekliği grafik temsili 
+ile nasıl gösterilebilir? (Asansörün eşyayı yüklediği süreyi ihmal ediniz.)
+2.  Oluşturulan grafik temsili hangi tür fonksiyonların cebirsel tem sili ile ifade edilebilir?
+3.  Yük asansörünün zamana bağlı yerden yüksekliği sadece bir cebirsel ifade ile gösterilebilir mi?
+Bir sayının başlangıç noktasına olan uzaklığı mutlak değer kavramıyla ifade edilmektedir. Mutlak değer kav-
+ramının farklı kullanım alanları bulunmaktadır. Örneğin iki farklı niceliğin birbirine bağlı olarak değişimini içe-
+ren bazı gerçek yaşam durumu problemlerine çözüm üretirken mutlak değer fonksiyonlarından yararlanılır.

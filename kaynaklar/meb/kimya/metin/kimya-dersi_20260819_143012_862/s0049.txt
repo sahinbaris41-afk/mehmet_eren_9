@@ -1,0 +1,44 @@
+49
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI VE 
+SÜREÇ BİLEŞENLERİ
+KİM.10.2.1. Çözünme sürecine ilişkin bilimsel model oluşturabilme 
+a)  Çözünme sürecini temsil etmek için basit tanecik modelleri geliştirir. 
+b)  Çözünme sürecine ilişkin modelleri bilimsel modellerle karşılaştırır. 
+KİM.10.2.2. Farklı maddelerin birbiri içinde çözünebilirliğini kanıt kullanarak açıklayabilme
+a)  Farklı maddelerin birbiri içinde çözünmesi ya da çözünmemesi durumuna ilişkin 
+ölçütler (çözücü ve çözünenin polar/apolar veya iyonik/moleküler olması) belirler. 
+b)  Çözünme sürecine yönelik verileri kullanarak çözünme ya da çözünmeme durum-
+larını açıklayacak şekilde veri seti oluşturur. 
+c)  Farklı maddelerin birbiri içinde çözünme ya da çözünmeme durumunu kanıtlara 
+dayalı olarak açıklar. 
+KİM.10.2.3. Çözünme olayını sınıflandırabilme 
+a)  Çeşitli maddelerin suda çözünme olayını ayırt etmek için ölçütler (çözücü ve çözü-
+nenin etkileşimleri ve sembolik gösterimleri) belirler. 
+b)  Çözünme olayını belirlediği ölçütlere (iyonik veya moleküler, fiziksel veya kimyasal)  
+göre ayrıştırır. 
+c)  Belirlediği ölçütleri kullanarak çözünme olaylarını  gruplandırır. 
+ç)  Oluşturduğu grup adlandırmalarını bilimsel karşılığı ile kıyaslar. 
+KİM.10.2.4. Çözünürlük kavramına ilişkin operasyonel tanımlama yapabilme
+a) Katıların saf sudaki çözünürlüğüne ilişkin ölçütler (maddde cinsi ve sıcaklık) be -
+lirler.
+b)  Çözünürlüğe ilişkin belirlediği ölçütleri test eder. 
+c)  Çözünürlüğün tanımını yaparak kendi tanımı ile bilimsel tanım arasındaki farkı 
+açıklar.
+KİM.10.2.5.  Çözünürlüğe etki eden faktörleri belirlemeye yönelik kanıt kullanabilme 
+a) Katı ve gazların saf sudaki çözünürlüğüne etki eden faktörlere ilişkin ölçütler 
+(madde cinsi, sıcaklık ve basınç) belirler.
+b)  Çözünürlük ile ilgili seçtiği verileri değişkenler arası ilişkileri belirleyecek şekilde dü-
+zenler. 
+c) Çözünürlüğe etki eden faktörleri veriye dayalı açıklar. 
+KİM.10.2.6. Çözeltileri sınıflandırabilme 
+a)  Çözeltileri ayırt etmek için ölçütler (içerdiği çözünenin miktarı üzerinden doymuş, 
+doymamış, aşırı doymuş; içerdiği çözünenin iyonik karakteri üzerinden elektrolit 
+olan, elektrolit olmayan) belirler. 
+b)  Çözeltileri belirlediği ölçütlere göre ayrıştırır. 
+c)  Çözeltileri farklı biçimlerde gruplandırır. 
+ç)  Oluşturduğu grup  adlandırmalarını bilimsel karşılığı ile kıyaslar.
+KİM.10.2.7. Çözeltilerin molar derişimine ilişkin tümevarımsal akıl yürütebilme 
+a)  Çözeltilerin molar derişimine ilişkin keşfettiği örüntüyü matematiksel olarak mo -
+delleyip bu modeli yeni çözeltilerin verileri üzerinde test eder. 
+b) Çözeltilerin molar derişimini, kurduğu matematiksel model üzerinden geneller. 

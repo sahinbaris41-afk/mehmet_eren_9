@@ -1,0 +1,27 @@
+43
+4. Tema / Eşlik ve Benzerlik
+Üçgenlerin Benzer Olma Şartları
+Aşağıdaki yönergeleri takip ederek soruları cevaplayınız.
+1. ABC ve DEF benzer üçgenlerini inceleyiniz. İki üçgenin benzerlik koşulları ile ilgili verilen aşağıdaki soruların 
+cevaplarına ilişkin varsayımlarınızı boş bırakılan alanlara yazınız. 
+A
+D
+B C
+E
+F
+a) Verilen üçgen çiftinin benzer olduğunu söyleyebilmek için bu üçgenlerin karşılıklı tüm açılarının eş ve 
+karşılıklı kenar uzunluklarının orantılı olduğu gösterilmeli midir? Fikirlerinizi arkadaşlarınızla paylaşarak 
+tartışınız.
+b)  İki üçgenin karşılıklı tüm kenar uzunluklarının orantılı olması, üçgenlerin benzer olduğunu söyleyebilmek 
+için yeterli midir? Fikirlerinizi açıklayınız.
+c)  İki üçgenin karşılıklı herhangi bir açısının eş ve bu açıyı oluşturan karşılıklı kenarların uzunlukları oranının 
+eşit olması, üçgenlerin benzer olduğunu söyleyebilmek için yeterli midir? Fikirlerinizi açıklayınız.
+ç)  İki üçgenin iki açı ölçüsünün eşit olması, üçgenlerin benzer olduğunu söyleyebilmek için yeterli midir?  
+Fikirlerinizi açıklayınız. Sizinle aynı fikirde olan arkadaşlarınızın kanıtları ile kendi kanıtlarınızı karşılaştı-
+rınız.
+7. Uygulama
+Kontrol Noktası
+• Kenar uzunlukları eşit olan iki üçgen eştir.
+• Karşılıklı iki açısının ölçüsü ve karşılıklı bir kenar uzunluğu eşit olan üçgenler eştir.
+• Karşılıklı iki kenar uzunluğu ve bu kenarların oluşturduğu açı ölçüleri eşit olan üçgenler eştir.
+Üçgenlerin	Benzer	Olma	Koşulları

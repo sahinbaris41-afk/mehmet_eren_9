@@ -1,0 +1,43 @@
+27
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Örneğin üç kişinin tiyatro, sinema ve müzik  branşlarını  ilgi düzeylerine göre puanladıkları 
+varsayılsın. Buna göre her bir kişinin bu üç branş içerisinden en çok hoşlandığına 3, daha 
+az hoşlandığına 2, en az hoşlandığına 1 puan verdiği kabul edilsin. 
+Bu kişilerin yaptıkları puanlamalarla ilgili aşağıdaki bilgiler verilsin.
+• Herkesin en az hoşlandığı branş, birbirinden farklı olmuştur.
+• Müzik, herhangi bir kişinin en çok hoşlandığı branş  olmamıştır.
+• Tiyatro branşına verilen puanlar, birbirinden farklıdır.
+Verilen bilgilere göre sinema branşına verilen toplam puan sorulduğunda öğrencilerin 
+problemin çözümü için tablo temsilinden yararlanmaları beklenir. Buna göre oluşturulacak 
+tablo, her bir kişinin branşlara verebileceği puanlar göz önünde tutulup öğrenciler 
+tarafından doldurulur. Doldurulan tablodan yararlanılarak problem çözülür. Aynı problemin 
+çözümü için diyagram da oluşturulabilir. Buna göre her bir kişinin branşlara verebileceği 
+puanlar göz önünde tutulup kişiler ile branşlar oklarla eşleştirilir. Bu şekilde elde edilen 
+diyagram yardımıyla problem çözülür. Elde edilen sonuç, tablo temsilinden yararlanılarak 
+bulunan sonuç ile karşılaştırılır. 
+Mantıksal çıkarım gerektiren problemlerin çözümlerinde öğrencilerden farklı yaklaşımlar 
+ortaya koymaları, argümanlar ve karşı argümanlar geliştirmeleri  istenir (SDB3.2). Aynı 
+problem farklı çözüm stratejileri ile çözüldükten sonra hangi çözüm stratejisinin daha 
+pratik, kolay ve anlaşılır olduğu hakkında her öğrencinin fikir yürütmesi için  öğrencilere 
+gerekli zaman tanınır (SDB1.1). Çözüm stratejisini bulan öğrencilerin diğer arkadaşlarının 
+da bir çözüm stratejisi geliştirmelerini beklemesi sağlanır. Öğrencilerin tüm fikirleri 
+mütevazı bir şekilde dikkate  alıp  arkadaşlarından gelen bilgi, öneri ve eleştirilere açık 
+olması sağlanarak sınıf içi tartışmalar yapılır  (SDB2.3, D10.3) . Bu sayede öğrencilerin 
+arkadaşlarının farklı fikirlerine saygı duymaları sağlanır (D14.1). Öğrencilerin hangi çözüm 
+stratejisinin kullanımının hangi durumlarda daha uygun olduğunu anlamaları beklenir. 
+Böylelikle öğrencilerin muhakeme, görselleştirme, ilişkilendirme, esneklik ve iletişim gibi 
+becerilerinin geliştirilmesi  desteklenir (SDB2.1, SDB3.2). Öğrencilere  mantıksal çıkarım  
+gerektiren problem durumlarına yönelik performans görevi verilebilir. 
+FARKLILAŞTIRMA
+Zenginleştirme Satranç, sudoku, rubik küp, jenga, mangala gibi oyunlar incelenebilir. Oyun sırasındaki belli 
+hamleler veya oyunda kullanılan taşlar üzerinden mantıksal çıkarım gerektiren problemler 
+çözülebilir. Öğrencilerden benzer oyunlar tasarlayarak bu oyunlar üzerinden mantıksal çı -
+karım gerektiren problem üretmeleri istenebilir. 
+Destekleme Öğrencilere akış şemaları oluşturma, sistematik liste yapma, tablo oluşturma gibi strate -
+jiler kullanmayı gerektiren çalışma kâğıtları verilebilir. Bununla ilgili dijital içerikler incele -
+nebilir. Bu stratejilerin kullanıldığı basit muhakemelere dayalı mantıksal çıkarım gerektiren 
+problemler tercih edilebilir. Benzer nitelikte daha fazla problem incelenerek öğrencilerin 
+zihin alışkanlıkları kazanmaları sağlanabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

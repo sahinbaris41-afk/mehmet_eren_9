@@ -1,0 +1,36 @@
+107
+5. Tema/Algoritma ve Bilişim  
+1. Sıra Sizde      
+1.  VKİ Aralığı Sağlık Durumu Kategorisi
+VKİ	#	18,5 Düşük	kilolu
+18,5	1	VKİ	# 25 Normal	kilolu
+25 1	VKİ	# 30 Fazla	kilolu
+VKİ	2 30 Obezite
+							Vücut	kitle	indeksi	(VKİ)	bir	kişinin	kilosunun	(kg)	
+boyunun	(m)	kar esine	bölünmes iyle	hesaplanan	
+bir	değerdir,	kategoriler	yardımıyla	genel	sağlık	
+durumu	hakkında	önemli	bilgiler	sunar.	Yandaki	
+tabloda	vücut	kitle	indeksi	değerlerine	göre	sağlık	
+durumu	kategorileri	verilmiştir.
+ Buna göre aşağıdaki soruları cevaplayınız.
+a) Aşağıda	vücut	kitle	inde ksini	bula n	ve	ilgi li	kategori yi	beli rleyen	algo ritmanın	işleyi şinin	ifade	
+edildiği	akış	şeması	verilmiştir.	
+ Şemada boş bırakılan alanları gerekli sembol, metin ve matematiksel ifadelerle tamamla-
+yınız.
+ 
+HayırHayır Hayır
+VKİ	=	kilo	/	(boy^2)
+Evet
+Düşük	kilolu
+Bitir
+, 18 51	VKİ	ve
+VKİ	 251=
+Evet Evet
+Fazla	kilolu
+Bitir
+Akış Şeması
+b) Algoritmanın işleyişini algoritmik doğal dil ve sözde kodla ifade ediniz.
+ 
+ 
+Algoritmik Doğal Dil
+ Sözde Kod

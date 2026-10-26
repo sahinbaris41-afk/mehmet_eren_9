@@ -1,0 +1,38 @@
+68
+1. Tema /  Sayılar
+Matematikte kavramlar, kavramlara ait özellikler, işlemlerden elde edilen sonuçlar sözel olarak veya 
+sembollerle ifade edilebilir. Bu ifadelerden bazıları kesin doğru ya da kesin yanlış bir hüküm bildirir. Kesin 
+doğru ya da kesin yanlış bir hüküm bildiren matematiksel örnekler veriniz.
+20.	Uygulama
+Önerme Kavramı
+Verilenlere göre aşağıdaki soruları cevaplayınız. 
+1. Aşağıdaki tabloda bazı matematiksel ifadeler verilmiştir. Verilen ifadelerin doğru veya yanlış olma durumlarını 
+belirleyerek tabloyu doldurunuz.
+ 
+İfadeler Doğru Yanlış Doğru ya da Yanlış Olduğu Belirlenemez
+Tabanları eşit olan üslü gösterimi verilen sayılar çarpılırken ortak 
+taban aynen yazılır, üsler toplanır.
+3 x5=  olduğuna göre x kaçtır?
+-1 sayısının 12. kuvveti kendisine eşittir.
+Doğal sayılar kümesi, gerçek sayılar kümesinin bir alt kümesidir.
+2 ve 4 arasındaki (2 ve 4 dâhil) gerçek sayılar kümesi ile 1 ve 2 arasın-
+daki gerçek sayılar kümesinin ortak elemanlarının oluşturduğu küme boş 
+kümedir.
+2. T abloda sözel olarak verilen “Tabanları eşit olan üslü ifadeler çarpılırken ortak taban aynen yazılır, üsler 
+toplanır.” ifadesi, uygun matematiksel semboller kullanılarak “ax . ay = ax + y dir.” biçiminde de yazılabilir.
+ T abloda sözel olarak verilen ifadeleri sembol kullanarak, sembolik olarak verilen ifadeleri sözel olarak yazınız. 
+Hangi gösterimlerin daha kullanışlı olduğunu tartışınız.
+3. Kesin doğru ya da kesin yanlış olan farklı ifadeler oluşturunuz. Bulduğunuz ifadeleri hem sözel olarak hem de 
+semboller kullanarak ifade ediniz.
+Bir önermenin değilini yazarken o önermede kullanılan sembollerin değilleri kullanılır.  Tablo 1.1’de bazı 
+semboller ve sembollerin değilleri gösterilmiştir.
+Tablo 1.1: Semboller ve Sembollerin Değilleri
+Sembol = ! ! g 1 2 # $
+	Sembolün	
+Değili ! = g ! $ # 2 1
+Örneğin “ ,,54 41 04+-=77 AA #-  dir.” önermesi doğrudur. Bu önermenin değili “ ,,54 41 04+ !-77 AA # -  dir.” 
+biçiminde yazılır. Bu önerme doğru bir hüküm bildirdiğinden değili yanlış hüküm bildirmektedir. Tam tersi de 
+olabilir. Bir önerme yanlış hüküm bildiriyorsa o önermenin değili doğru hüküm bildirir.
+Kesin doğru ya da kesin yanlış bir hüküm bildiren ifadelere önerme denir. Önermeler sözel olarak 
+veya sembollerle ifade edilebilir. Bir önermenin hükmü değiştirilerek elde edilen önermeye o önermenin 
+değili	(olumsuzu) denir.

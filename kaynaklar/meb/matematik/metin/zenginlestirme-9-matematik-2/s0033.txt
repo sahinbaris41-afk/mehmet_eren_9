@@ -1,0 +1,34 @@
+MATEMATİK 9 
+32 33
+Etkinliğin Amacı Üçgende iç açıların ölçüleri toplamının her durumda 180 ̊ olup olmadığını araştırabilme ve öklid dışı geometriyi fark edebilme
+Zenginleştirme 
+Uygulaması
+* Doğrulaması yapılan önerme ve teoremlerin ispatlarının nasıl olabileceği -
+ne dair fikir yürütmeleri, öğrencilerin eleştirel bakma eğilimlerinin gelişimini 
+sağlayacaktır. Ayrıca öğrencilerden bu tür ispatların nasıl yapılabileceğine 
+dair araştırmalar yapmaları istenir.
+* Üçgende iç açıların ölçüleri toplamının her durumda 180° olup olmadığına 
+ilişkin araştırma ödevi verilerek Öklid dışı geometriye ilişkin bilgi edinmele -
+rinin sağlanması, öğrencilerin soru sorma eğilimlerini artıracaktır. Öğrenci -
+lerden araştırma sürecinde planlı, aktif ve bilimsel bir yaklaşım sergileyerek 
+yeterliliklerini geliştirmeleri beklenir. Öğrencilerin araştırma görevleri sonu-
+cunda ürün oluşturmalarına ve ürünü uygun şekilde sunmalarına imkân ta -
+nınması, görev bilincine sahip olmalarına ve sorumluluk duygularının gelişi -
+mine katkı sağlayacaktır.
+Araç Gereç ve 
+Materyaller
+• Çalışma kâğıtları
+• Cetvel, pergel gibi matematiksel araç gereçler
+Yönerge Aşağıdaki işlem basamaklarını sırayla takip ederek etkinliği gerçekleştiriniz. Etkinlik sonunda “Değerlendirme’’ sorularını cevaplayınız.
+1. ETKINLIK Öklid Dışı Aksiyomlar
+1. Adım
+Aksiyom,teorem ve ispat yöntemlerini araştırınız.
+2. Adım
+Öklid'in aksiyomları, M.Ö. 300 civarın -
+da yazdığı "Elementler" adlı eserinde ortaya 
+koyduğu temel geometri  prensipleridir (Gör -
+sel 3.1). Öklid aksiyomlarından “İki noktadan  
+yalnız bir ve bir doğru geçer.” ifadesini açıklayınız.
+Görsel 3.1: Öklid ve Geometri
+Çözüm:
+Yıldızlı  Etkinlik 

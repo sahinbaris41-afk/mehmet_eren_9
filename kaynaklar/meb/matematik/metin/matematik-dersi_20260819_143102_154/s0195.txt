@@ -1,0 +1,22 @@
+195
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+4. TEMA: DEĞİŞİMİN MATEMATİĞİ (3)
+Bu temada öğrencilerin türev kavramı, türevin özellikleri ve türevin geometrik yorumuna 
+ilişkin çıkarımlar yapabilmeleri; bu çıkarımları kullanarak gerçek yaşam problemlerini çö -
+zebilmeleri amaçlanmaktadır.
+DERS SAATİ 28
+ALAN 
+BECERİLERİ MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D1. Adalet, D3. Çalışkanlık, D5. Duyarlılık, D16. Sorumluluk, D17. Tasarruf
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel Okuryazarlık 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Ekonomi, Fizik, Mühendislik
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma 

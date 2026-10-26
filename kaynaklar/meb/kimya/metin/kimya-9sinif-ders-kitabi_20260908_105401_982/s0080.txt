@@ -1,0 +1,55 @@
+1. Tema/Etkileşim
+80
+1. Nötr bir atomdan katyon oluşumu sırasında atom yarıçapında nasıl bir değişim olmaktadır? Bu değişimi 
+proton ve elektron sayısı ile ilişkilendirerek açıklayınız. 
+2. Nötr bir atomdan anyon oluşumu sırasında atom yarıçapında nasıl bir değişim olmaktadır? Bu değişimi 
+proton ve elektron sayısı ile ilişkilendirerek açıklayınız.
+3. 1 ve 2. görseldeki atom ve iyonların hangileri izoelektroniktir? Bu izoelektronik tanecikleri ve yarıçaplarını 
+aşağıya yazarak tanecik yarıçaplarının farklı olmasının nedenini proton ve elektron sayısı ile ilişkilendirerek 
+açıklayınız.
+4. Aşağıdaki cü mlelerde boş bırakılan yerleri uygun ifadelerle tamamlayınız.
+a) Bir …………….........................  yarıçapı oluştuğu atomun yarıçapından büyüktür çünkü …………….............................
+…………….........................……………........................…………….........................…………….................................................................................
+b) Bir ….....………….................... yarıçapı oluştuğu atomun yarıçapından küçüktür çünkü …………….............................
+…………….........................……………........................…………….........................…………….................................................................................
+c) İzoelektronik atom ve iyonlarda proton sayısı büyük olanın yarıçapı …………........….................................. olur.
+ç) 10Ne, 9F
+−
+, 12Mg
+2+
+ atom ve iyonlarının yarıçapları büyükten küçüğe doğuru …………….......................................  
+şeklinde sıralanır çünkü ……............................………....................................................................................................................
+…………….........................……………........................…………….........................……………........................................................................
+İyonlaşma	Enerjisi
+Gaz hâlindeki nötr bir atomdan elektron kopararak pozitif yüklü iyon oluş -
+turmak için gerekli olan enerjiye iyonlaşma enerjisi denir. Nötr bir atomdan 
+katyon oluşum süreci endotermik (ısıalan) bir olaydır (Görsel 1.27). Gaz hâ-
+lindeki nötr bir X atomundan bir elektron koparmak için gerekli olan enerjiye 
+1. iyonlaşma enerjisi adı verilir. Bir atomun elektron sayısı kadar iyonlaşma 
+enerjisi değeri teorik olarak ölçülebilir.
+Örnek: 2He
+X(g) + İE1  X
++
+(g) + e⁻
+(İE1 = 1. iyonlaşma enerjisi)
+X
++
+(g) + İE2  X
+2+
+(g) + e⁻
+(İE2 = 2. iyonlaşma enerjisi)
+He(g)+ İE1   He
++
+(g)+ e⁻
+  
+He
++
+(g)+ İE2   He
+2+
+(g)+ e⁻
+   
+Görsel 1.27
+Nötr bir atomdan katyon 
+oluşumu
+Enerji
+Serbest elektron

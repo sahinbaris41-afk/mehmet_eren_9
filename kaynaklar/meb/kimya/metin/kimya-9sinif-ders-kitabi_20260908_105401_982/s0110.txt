@@ -1,0 +1,29 @@
+110
+2. Tema/Çeşitlilik
+4. Yönerge: Aşağıdaki boşluklara öğrendiğiniz bilgileri kullanarak atomlar arasında bağ oluşurken hangi 
+etkileşimlerin rol oynadığını ve atomların bir arada durabilmeleri için hangi şartların sağlan-
+ması gerektiğini açıklayan kısa bir metin yazınız.
+Görsel 2.2’deki meşe ağacının kalın ve sert gövdesi kuvvetli bir rüzgârın et-
+kisiyle çatlayıp kırılabilirken Görsel 2.3’teki palmiye ağacının ince ve esnek 
+gövdesi kırılmadan bükülebilir. Metaller de kırılmadan bükülebilmeleri bakı-
+mından palmiye ağacına benzer. Bunun nedeni metallerde metal atomlarının 
+metalik bağ adı verilen özel bir bağ oluşturmasıdır.
+Metaller; ısı ve elektriği iyi ileten, parlak, dövülebilir ve şekillendirilebilir özel -
+liklere sahiptir. Oda koşullarında genellikle katı hâlde bulunur ve yüksek yo-
+ğunluklara sahiptir. Metalik özellikler, metallerin kristal yapılarının özgünlü -
+ğünden kaynaklanır. Bu özellikler sayesinde metaller, birçok alanda (elektrik 
+kabloları, ısı değişim ekipmanları, elektronik cihazlar gibi) ve endüstriyel uy-
+gulamalarda kullanılır. Elektrik kablolarının imalatında ve elektronik cihazlar-
+da bakırın kullanılması bu duruma örnek verilebilir. Yüksek mukavemet özelli-
+ği sayesinde yapı malzemeleri, araç gereç ve makine imalatında metallerden 
+faydalanılır. Bazıları parlak görünümleri nedeniyle estetik amaçlar için tercih 
+edilir. Altın, gümüş vb. kıymetli metaller de takı yapımında ve değerli eşya -
+ların üretilmesinde kullanılır. Demir metali inşaat sektöründe yapı malzemesi 
+olarak kullanılırken alüminyum gibi hafif metaller uçak ve arabaların bazı ak-
+samlarında ve içecek kutularında tercih edilir.
+Metal Atomları Nasıl Bir Arada Durur?Etkinlik-2.3
+1. Yönerge: Metallerdeki atomların nasıl bir arada durduğuna ilişkin tahminlerinizi yazınız. Açıklamaları -
+nızı desteklemek için metalik bağın oluşumunu gösteren bir modeli aşağıda boş bırakılan alana 
+çiziniz.
+Görsel 2.2: Meşe ağacı
+Görsel 2.3: Palmiye ağacı

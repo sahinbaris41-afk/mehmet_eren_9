@@ -1,0 +1,35 @@
+94
+Tema Ölçme ve Değerlendirme Soruları
+30. Tasarlanan bu deney ile hangi sorulara yanıt aranır? İlgili seçeneği veya seçenekleri daire içine alınız.
+A) Enzim aktivitesi sıcaklık değişiminden etkilenir mi?
+B) Enzimlerin çalışması için saf su gerekli midir?
+C) Enzim miktarındaki değişiklik, reaksiyonu etkiler mi?
+D) Substrat değişiminin enzim aktivitesine etkisi var mıdır?
+E) pH değerinin sabit tutulması enzim aktivitesini etkiler mi?
+31. Deney düzeneklerinin hangilerinde renk değişimi olmaz? Nedenini açıklayınız.
+Yönerge: Aşağıdaki tablo ve metinden yararlanarak 32, 33 ve 34. soruları cevaplayınız.
+Süt ve süt ürünlerini işleyen fabrikalar üreticilerden topladığı sütü özel olarak ta -
+sarlanmış araçlarla üretim tesislerine taşır. Çoğu zaman toplanan sütler işletmeler 
+tarafından hemen kullanılmaz ve belli bir süre bekletilir. Isı işlemi uygulanmadan 
+ya da pastörize edilmeden bekletilen sütte mikrobiyal üreme gerçekleşir. Çiğ sütte 
+gelişen bazı bakteri grupları sütteki yağları sindiren lipaz enzimi salgılar. Sütün yağ 
+bileşimi ve pH değeri enzimlerin aktivitesini değiştirir, ürün kalitesi bozulur.
+Aşağıda çiğ sütün taşınma ve depolanma koşullarına bağlı olarak belirli zaman ara-
+lıklarındaki mikrobiyal aktivitesini ve kimyasal bileşimindeki değişiklikleri ölçmeyi 
+amaçlayan bir araştırma örneği verilmiştir. Bu araştırmaya göre toplanan çiğ sütler 
+A (4 °C'ta saklanan grup) ve B (21 °C'ta saklanan grup) grubu olarak etiketlenmiştir. 
+Her iki gruptan 0, 2, 4, 6, 8, 10, 12, 24 ve 48. saatlerinde alınan örneklerde lipaz ak -
+tivitesi analiz edilmiş ve sonuçlar kaydedilmiştir. Ayrıca gruplarda meydana gelen 
+pH değişiklikleri ölçülmüş ve veri tablosuna eklenmiştir.
+Çiğ Sütte Belirlenen Mikroorganizmaların Kimyasal Analiz Bulguları Tablosu
+Gruplar
+Süreler
+0 2 4 6 8 10 12 24 48
+Lipaz
+Aktivitesi
+(U/L)
+A 13 58 98 112 130 132 131 141 156
+B 35 77 132 198 248 250 256 248 256
+pH
+A 6,7 6,6 6,6 6,6 6,5 6,5 6,2 6,0 5,8
+B 6,7 6,6 6,5 6,5 6,2 6,0 6,0 5,2 4,2

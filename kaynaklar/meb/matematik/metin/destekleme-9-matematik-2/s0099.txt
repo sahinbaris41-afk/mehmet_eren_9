@@ -1,0 +1,17 @@
+98
+MATEMATİK 9 
+6. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ
+3. Adım
+5. Adım
+4. Adım
+Topladığınız verileri sayısal olarak düzenleyiniz ve bir tablo oluşturunuz. Verileri analiz etmek için özet-
+leme [aritmetik ortalama, ortanca (medyan), tepe değer (mod), açıklık, çeyrekler açıklığı, standart sap-
+ma] araçlarından uygun olanı seçiniz. Gerekli işlem adımlarını gösterecek şekilde hesaplamalarınızı ve 
+analizlerinizi aşağıda verilen boşluğa yazınız.
+Grup arkadaşlarınızla ortaya çıkan temel analiz sonuçlarına dayanarak sonuç cümleleri vb. yazınız ve 
+çıkarımlar yapınız. Sonuç, çıkarım ve yorumlarınızı aşağıya yazınız.
+Elde ettiğiniz verileri nokta grafiği, histogram ve kutu grafiği araçlarından birini kullanarak görselleştiriniz.
+Çözüm:
+Çözüm:
+Çözüm:
+2. ETKINLIK ADI TÜRKIYE’DE EKMEK TÜKETIMI, OBEZITE VE DIYABET ARAŞTIRMASI

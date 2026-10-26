@@ -1,0 +1,49 @@
+19
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.9.1.8
+Atom yarıçapı kavramı tanımlanır. Öğrencilerden A grubu elementlerinin atom yarıçapla -
+rına ilişkin verileri kullanarak periyodik tablonun aynı periyot veya grubunda atom yarıça -
+pındaki (2 veya 3. periyot) değişim eğilimini ve bu eğilime neden olan etmenleri belirleme-
+leri istenir. Aynı gruptaki atom yarıçaplarının değişimi enerji seviyeleriyle, aynı periyottaki 
+atom yarıçaplarının değişimi ise proton-elektron sayısındaki değişimle ilişkilendirilir (OB7). 
+Öğrencilerden çalışma yaprağında atom numaraları verilen farklı atomların yarıçaplarını 
+periyodik tablodaki konumları ile ilişkilendirerek sıralaması istenir. Geometrik cisimlerdeki 
+yarıçap sabit bir uzaklık olarak düşünülürken atom yarıçapının çeşitli faktörlere bağlı ola -
+rak değişkenlik gösterdiği ve net bir ölçümünün yapılamadığı düşüncesi oluşturulur. Öğ -
+rencilerin izoelektronik taneciklerin atom veya iyon yarıçaplarındaki farklılıkların çekirdek 
+yükü ve elektron-elektron itme etkileşimlerinden kaynaklandığını fark etmeleri sağlanır 
+(OB7). 
+İyonlaşma enerjisi kavramı tanımlanır. Öğrencilerden A grubu elementlerinin 1. iyonlaş -
+ma enerjisi, atom numarası ve atom yarıçapına ilişkin verileri kullanarak periyodik tablo -
+nun aynı periyot (2 veya 3. periyot) veya grubunda 1. iyonlaşma enerjilerinin değişimini ve 
+bu değişime neden olan etmenleri belirlemeleri istenir. Öğrenciler, bir periyot veya grup 
+boyunca atom yarıçapı ve iyonlaşma enerjisi arasındaki ilişkinin geçerliliğini sorgulamak 
+üzere yönlendirilir. Aynı periyotta bazı atomların iyonlaşma enerjisinin değişimindeki dü -
+zensizliğin nedeninin küresel simetri kavramı ile ilişkilendirilmesi sağlanır (OB7). A gru -
+bu elementlerine ait ardışık iyonlaşma enerjileri bilgisi verilerek kararlı iyon oluşumu ve 
+valans elektron sayısı ilişkisinin belirlenmesi sağlanır. Öğrencilerden çalışma yaprağında 
+atom numaraları verilen farklı atomların iyonlaşma enerjilerini periyodik tablodaki konumu 
+ile ilişkilendirerek sıralamaları istenebilir.
+Elektronegatiflik tanımı verilerek bu tanımın göreceli bir kavram olduğu belirtilir. Elektro- 
+negatifliğin moleküllerin bazı özelliklerinin (polarlık, apolarlık) anlaşılmasında önemli bir 
+kavram olduğu vurgulanır. Periyodik tabloda elementlerin (ilk 20 element) Pauling ölçe -
+ğinde elektronegatiflik değerleri verilir. Öğrenciler, verilen elektronegatiflik değerleri üze-
+rinden periyodik tabloda periyot ve gruplardaki değişim eğilimini, bu eğilime neden olan 
+etmenleri belirlemeleri için yönlendirilir. Bu öğretim sürecinde öğrencilerin periyodik tab-
+loda gözlenen elektronegatiflik değişimlerini atom yarıçapı ile ilişkilendirmeleri sağlanır 
+(OB7). Öğrencilerden çalışma yaprağında atom numaraları verilen farklı atomların elekt -
+ronegatiflik değerlerini periyodik tablodaki konumu ile ilişkilendirerek sıralamaları iste -
+nebilir. Ayrıca çalışma yaprağındaki farklı atom numaralarına sahip elementlerin elektro -
+negatiflik değerlerini bu elementlerin periyodik tablodaki konumlarına göre analiz ederek 
+sıralamaları istenebilir. 
+KİM.9.1.7 
+Öğrencilere katyon ve anyon oluşumunda son katmandaki elektronların etkililiği ile ilgili 
+sorular sorulabilir. Elementlere (ilk 20 element) ait atomların elektron dizilimi kullanıla -
+rak valans elektronlarına göre oluşturulan katyon ve anyonların elektron dizilimleri hazır 
+veri seti ile sunulur (OB7). Hazır veri seti kullanılarak katyon ve anyon oluşumuna ilişkin 
+sorularla  öğrencilerin örüntü bulması sağlanır. Öğrenciler, belirlenen örüntülerden yola 
+çıkarak katyon ve anyon oluşumuna ilişkin genelleme yapmaları için yönlendirilir (OB1). 
+İzoelektronik taneciklere ilişkin örnekler verilerek öğrencilerin izoelektronik kavramını 
+tanımlamaları sağlanır (KB2.7, SDB2.1, OB1) . Öğrencilerden çalışma yaprağında verilen 
+atomların elektron dizilimlerini yazarak iyon oluşum sürecinde elektronların hangi orbital-
+lerden verileceği veya hangi orbitallere alınacağını belirlemeleri istenebilir.

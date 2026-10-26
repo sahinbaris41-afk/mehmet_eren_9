@@ -1,0 +1,48 @@
+81
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+“Renk körlüğü ve hemofili gibi bazı hastalıkların toplumda görülme sıklığı cinsiyete göre 
+neden değişir?” sorusu kullanılarak eşeye bağlı kalıtıma dikkat çekilebilir.
+Genetik testleri konu alan video, animasyon veya simülasyonlar izletilerek genetik mirasın 
+nasıl incelendiği ve farklı genotiplerin nasıl belirlendiği gösterilebilir.
+Öğrencilere Nobel Bilim Ödülü’ne layık görülmüş çalışmalara örnekler verilerek 
+biyoteknolojinin önemine dikkat çekilebilir.
+Öğrenme-Öğretme 
+Uygulamaları BİY.12.2.1
+a-b) Öğrencilere bir aile görseli sunulur. Öğrencilerin görselde yer alan aile üyelerinin 
+fiziksel olarak birbirine benzeyen ve benzemeyen yönlerini tespit ederek bu benzerlik 
+ve farklılıkların nedenleri üzerinde düşünmeleri sağlanır. Öğrencilerden tespitlerinden 
+hareketle nükleik asitlerin yapısı ve canlılıkta oynadığı rol ile ilgili merak ettikleri konuları 
+belirlemeleri ve konuyla ilgili “Bir toplumun atalarının genetik geçmişi, bireylerin genetik 
+geçmişini nasıl etkiler?”, “DNA’nın canlı organizmalardaki temel rolü nedir?”, “DNA ve RNA 
+moleküllerinin yapısal farklılıkları nelerdir?” gibi sorular sormaları beklenir. Bu sorular, 
+nükleik asitlerin günlük yaşamla olan ilişkisini somut hâle getirerek öğrencilerin konuyu 
+daha ilgi çekici bulmasına yardımcı olur (E1.1).
+c-ç) Öğrenciler, sordukları sorulara cevap bulabilmek amacıyla bilim dergileri, bilimsel 
+makaleler gibi güvenilir kaynaklardan bilgi toplar (OB1). Söz konusu kaynaklara 
+ulaşmanın mümkün olmadığı durumlarda ders kitabından yararlanılır. Topladıkları 
+bilgileri yorumlayarak nükleotitlerin üç ana bileşeninin nasıl bir araya geldiği, nükleik 
+asitlerin tek zincir yapısının nasıl meydana geldiği, nükleik asitlerin hücre bölünmesi, 
+kalıtım ve organizmanın işlevselliği üzerine etkisi konularında öğrencilerin tartışmaları ve 
+çıkarım yapmaları beklenir. Bu süreçte öğrencilerin birbirlerini etkin şekilde dinleyerek 
+düşüncelerini ifade etmeleri ve grup iletişimine katılmaları sağlanır (D14.1, SDB2.1). 
+Öğrencilerden nükleik asitlerin yapısı ve canlılıktaki rolünü tanımlayabileceği, konu 
+hakkında merak ettiği soruları sorup cevaplayabileceği, topladığı bilgilerin doğruluğunu 
+değerlendirerek çıkarım yapabileceği bireysel öğrenme günlüğü oluşturmaları istenebilir. 
+Öğrenme günlüğü, bütüncül dereceli puanlama anahtarı ile puanlanabilir.
+BİY.12.2.2
+a) Öğrencilere DNA replikasyonunun temel adımlarını gösteren kısa bir video veya 
+animasyon izletilebilir. Heterojen gruplar oluşturulduktan sonra gruplardan DNA 
+replikasyonunun yarı korunumlu (semi konservatif) modeli üzerinden kesintisiz ve kesikli 
+zincirde DNA eşlenmesinin nasıl gerçekleştiğini gösteren bir model önermeleri istenir. Bu 
+süreçte tek zincire bağlanan proteinler, topoizomeraz, helikaz, ligaz enzimlerinin isimleri 
+ve çeşitleri verilmez. Öğrencilerin grup çalışmalarına etkin bir şekilde katılmaları ve farklı 
+fikirleri tartışarak ortak bir anlayışa ulaşmaları beklenir (SDB2.2). Öğrencilerden diyagram, 
+şema, maket veya etkileşimli görsel iletişim uygulamalarını kullanarak tasarladıkları 
+modelleri sınıfta paylaşmaları istenir (OB2). Öğrencilerin birlikte çalışmanın hazırladıkları 
+modellere farklı yorumlar getirmelerine katkıda bulunduğunu fark etmeleri sağlanır 
+(D16.3, E3.3, E3.5).  
+b) Öğrencilerden bilimsel DNA replikasyonu modellerini güvenilir kaynaklardan 
+araştırmaları ve modeli oluşturan temel yapıları inceleyerek bu yapıları kendi modellerini 
+oluşturan bileşenler ile karşılaştırmaları istenir (E3.10). Kendi modellerinden hangisinin 
+şu an kabul gören modele en yakın olduğuna karar vermeleri ve elde ettiği kanıtlara göre 
+modellerini yenilemeleri beklenir (KB3.1).

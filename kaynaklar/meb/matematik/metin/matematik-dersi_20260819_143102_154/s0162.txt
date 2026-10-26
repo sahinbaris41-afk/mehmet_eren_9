@@ -1,0 +1,47 @@
+162
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.12.1.1. Aritmetik ve geometrik dizilerin özelliklerine ilişkin muhakeme yapabilme
+a) Sayı örüntülerinin ardışık terimlerini belirler.
+b) Ardışık terimler arasındaki ortak fark/oran (çarpan) ilişkisini belirler.
+c) Sayı örüntülerinin her bir terimini belirlediği ortak farkı/oranı kullanarak ifade eder.
+ç) Ortak farkı/oranı kullanarak örüntülerin genel terimini belirler.
+d) Aritmetik/geometrik dizilerin sonlu toplamlarına ilişkin varsayımlarda bulunur.
+e) Varsayımlarından yararlanıp aritmetik/geometrik dizilerin sonlu toplamları ile ilgili 
+örüntüleri geneller.
+f) Aritmetik/geometrik dizilerin sonlu toplamlarına ilişkin genellemeleri ile varsayım -
+larını karşılaştırır.
+g) Elde ettiği genellemelerden aritmetik/geometrik dizilerin sonlu toplamlarına ilişkin 
+önermeler sunar.
+ğ) Sunduğu önermelerin faydasını gerçek yaşam problemleri bağlamında değerlen -
+dirir.
+h) Aritmetik ve geometrik dizilerin sonlu toplamlarına ilişkin elde edilen önermeleri 
+görsel olarak doğrular ve cebirsel olarak ispatlar.
+ı) Aritmetik ve geometrik dizilerin sonlu toplamlarına ilişkin uyguladığı ispat yöntemle-
+rini  kullanışlılık açısından değerlendirir.
+MAT.12.1.2. Gerçek sayılarda tanımlı fonksiyonlar ile gerçek sayı dizilerini karşılaştırabilme 
+a) Gerçek sayı dizileri ve gerçek sayılarda tanımlı fonksiyonların özelliklerini belirler.
+b) Gerçek sayı dizileri ve gerçek sayılarda tanımlı fonksiyonların özelliklerine ilişkin 
+benzerlikleri listeler.
+c) Gerçek sayı dizileri ve gerçek sayılarda tanımlı fonksiyonların özelliklerine ilişkin 
+farklılıkları listeler.
+İÇERİK ÇERÇEVESİ • Aritmetik ve Geometrik Diziler 
+• Gerçek Sayı Dizileri
+Genellemeler • Aritmetik ve geometrik diziler, örüntü belirten fonksiyonlardır. 
+•  Dizi, örüntüleri incelemenin matematiksel araçlarından biridir.   
+Anahtar Kavramlar aritmetik dizi, dizi, genel terim, geometrik dizi, monoton artan, monoton azalan, ortak fark, 
+ortak oran (çarpan), terim 
+Sembol ve Gösterimler an , (an), Sn, d, r
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları, çalışma kâğıdı ve performans görevi ile değerlendirilebilir.
+Öğrencilere farklı aritmetik ve geometrik dizi örneklerinin sunulacağı ve bu dizilerin top -
+lamlarına ilişkin önermeler geliştirilip bu önermelerin gerçek yaşam durumları bağlamında 
+değerlendirileceği bir performans görevi verilebilir. Bu performans görevi, analitik dereceli 
+puanlama anahtarı ile değerlendirilebilir.
+Gerçek sayı dizileri ile gerçek sayılarda tanımlı fonksiyonlar birlikte incelenip ilişki kurulduk-
+tan sonra öğrencilere bu dizi ve fonksiyonların gerçek yaşam durumlarına yansımalarını 
+araştırmayı gerektiren bir performans görevi verilebilir. Performans görevleri, analitik dere-
+celi puanlama anahtarı kullanılarak değerlendirilebilir. 

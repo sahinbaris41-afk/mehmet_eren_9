@@ -1,0 +1,54 @@
+138
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+toiddir.” veya “Eşkenar dörtgen, tüm kenar uzunlukları birbirine eşit olan bir paralelkenardır.” gibi) 
+vurgulanmalıdır. Öğrencilere yöneltilecek açık uçlu sorular ve öğrenci cevaplarına verilen dönüt-
+lerle öğrencilerin deltoid ile diğer özel dörtgenler arasındaki benzerlikler (kenar, köşe sayısı gibi) ve 
+farklılıklarla (kenar uzunlukları, köşegenlerin kesişme durumları gibi) ilgili yeni fikirler geliştirmeleri 
+sağlanır (E3.5). Öğrencilerin fikirleri doğrultusunda ve simetri ekseni, kenarların paralelliği, kenar-
+ların uzunluklarının birbirine eşit olması gibi özellikler bağlamında dörtgenleri farklı hiyerarşik ya-
+pılarda sınıflandırmaları beklenir. Bu sınıflandırmalarda belirlenen hiyerarşik yapıya uygun olmayan 
+dörtgenlerin olup olmadığı da incelenir. Öğretmenin tüm çalışmalara ilişkin sürece soru, yönerge ve 
+açıklamalarıyla rehberlik etmesi beklenir. Öğrencilerin özel dörtgenlerin arasındaki ilişkilere dayalı 
+olarak gerçekleştirdiği yapılandırma süreci ve edindikleri bilgiler, kısa cevaplı sorular veya yapılandı-
+rılmış grid kullanılarak değerlendirilebilir.
+MAT.11.2.3
+Öğrencilere farklı kenar sayısına sahip içbükey ve dışbükey çokgen örneklerinin bulunduğu çalışma 
+kâğıtları verilerek örnekleri karşılaştırmaları istenir. Öğrencilerin farklı olduğunu düşündükleri çok-
+genleri gruplandırmaları istenerek farklı gruplara koydukları çokgenlerin bu görünümlerinin sebep-
+leri üzerine düşünmeleri sağlanır. Sınıf gruplara ayrılarak her bir gruba verilecek çalışma kâğıdıyla 
+öğrencilerin birlikte çalışmalarına da olanak verilir (SDB2.1, SDB2.2). Öğrencilerden çokgenleri sınıf-
+landırmalarını sağlayacak ölçütler belirlemeleri istenir ve öğrencilerin belirledikleri ölçütler sınıfça 
+tartışılır. Öne çıkan fikirlerden içbükey ve dışbükey çokgenleri ayırmak için kullanılabilecek ölçütler 
+(en az bir iç açının ölçüsünün 180°den büyük olması, çokgenlerin iç bölgesinde alınan herhangi iki 
+noktayı birleştiren doğru parçalarının tüm noktalarının her durumda çokgenin iç bölgesinde kalıp 
+kalmaması gibi) öğrencilerle beraber belirlenir ve gerekçelendirilir. Öğrencilerin grup çalışması için-
+de üzerine düşen görevleri yerine getirme çabası, sorumluluk bilincine sahip olmalarını ve öz gü-
+venlerinin gelişimini de destekler (D16.3, E1.5). Öğrencilerden belirlenen ölçütlere göre çokgenler 
+üzerinde ölçüm ve çizimler yaparak çokgenleri sınıflandırmaları ve oluşturdukları çokgen grupla-
+rını düzenlemeleri istenir (MAB5). Oluşturulan gruplarda bulunan çokgenlerin içbükey ve dışbükey 
+olarak adlandırıldığı ifade edilerek farklı çokgenlerin isimlendirilmesi (dışbükey beşgen, içbükey 
+dörtgen gibi) sağlanır. Öğrencilere farklı kültürlere ve Türk-İslam kültürüne ait dışbükey ve içbükey 
+çokgen çizimlerinin bulunduğu motif, süsleme ve dokuma örnekleri sunulur. Sunulan örneklerde-
+ki geometrik yapılar incelenerek öğrencilerin kültür ve sanat okuryazarlığı desteklenir (OB5, OB9). 
+Ayrıca sunulan bu örnekler aracılığıyla öğrencilerin kültürel mirasa değer vermeye ilişkin duyarlılık-
+larının artırılması sağlanır.
+MAT.11.2.4
+Öğrencilerde konuya dair merak uyandırmak için Farabi ’nin dışbükey dörtgen, beşgen ve çok -
+genleri parçalayarak incelemesiyle ilişkili geometri çalışmalarından bahsedilir (E1.1). Farklı kenar 
+sayısına sahip dışbükey çokgen örneklerini kullanarak öğrencilerin çokgenin bir köşesinden kaç 
+köşegen çizilebileceğine ve bir köşeden çizilen köşegenlerle çokgenin kaç üçgene ayrılabileceği-
+ne dair varsayımlarda bulunmaları sağlanır. Öğrencilerden örnekler üzerinde yapacakları çizim ve 
+incelemelerle varsayımlarını genellemelere dönüştürmeleri beklenir. Kenar sayısı verilen bir çok-
+genin bir köşesinden en fazla kaç köşegen çizilebileceği ve bu köşegenlerle çokgenin içinde kaç 
+tane üçgen oluşabileceğine ilişkin genellemelere sınıf içi tartışma yoluyla ulaşmaları desteklenir. 
+Öğrencilerin bir tablo oluşturmaları ve sırasıyla üçgen, dörtgen, beşgen, altıgen ve yedigen için 
+tespit ettikleri köşegen ve üçgen sayılarını belirlemeleri sağlanır (MAB3). Öğrencilerden ulaşılan 
+genellemeler ile varsayımlarını karşılaştırması ve ulaşılan genellemeleri önermeler (“Bir çokgenin 
+iç bölgesinde belirli bir köşeden en fazla çizilen köşegen sayısının bir fazlası kadar üçgen oluşur.” 
+gibi) olarak ifade etmesi istenir. Öncelikle çokgenin iç açılarının ölçüleri toplamını  kenar sayısına 
+bağlı olarak ifade etmeleri ve çokgenin dış açılarının ölçüleri toplamının kenar sayısından bağımsız 
+olarak 360° olduğu çıkarımını yapmaları beklenir. Daha sonra öğrencilere düzgün çokgen tanımı 
+hatırlatılır ve Ebu Sehl Kuhi ’nin bazı düzgün çokgenlerin çizimine ilişkin yaptığı çalışmalarla ilgi -
+li bilgi verilir. Bunun yanı sıra Türk -İslam mimarisine ait, yapımında düzgün çokgenlerin (düzgün 
+sekizgen ve düzgün altıgenin kullanımı gibi) kullanıldığı eserler incelenerek bu eserlerin yapımın -
+da kullanılan düzgün çokgenlerin nasıl ve neden kullanıldıklarına dair araştırma ödevi verilebilir. 

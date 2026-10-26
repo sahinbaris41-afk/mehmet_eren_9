@@ -1,0 +1,27 @@
+146
+2. Tema/Çeşitlilik
+Konuya Başlarken
+Gecko (geko) kertenkele türü yapışkan bir madde salgılamadan tüm yüzey-
+lere tutunabilme özelliğine sahiptir ve bu durum ayak yapısıyla ilgilidir. Bu 
+kertenkelelerin ayakları seta adı verilen mikroskopik tüyler ve bu tüylerin uç-
+larındaki küçük spatula benzeri yapılardan oluşur. Ayrıca her bir yapı 200 
+nanometre uzunluğunda ve 10 nanometre çapından daha küçük tüycüklerle 
+kaplıdır. Bu tüycüklerin uçları çok ince olduğundan kertenkelenin tutundu-
+ğu yüzey ile moleküler düzeyde bir etkileşim sağlar. Geckolar, benzersiz ayak 
+yapısı sayesinde düşey , ters duran ve cam vb. pürüzsüz yüzeylere etkili bir şe-
+kilde tutunabilir. Tek bir gecko, ayağındaki milyonlarca moleküler düzeydeki 
+etkileşimle yaklaşık 10 Newton (nivton) civarında güçlü bir yapışma kuvveti 
+üretir. 
+Araştırma ve endüstriyel uygulamalarda kullanılmak üzere geckoların bu özel-
+liklerinden esinlenen bilim insanları “GeckoBot” adı verdikleri robota, benzer 
+pürüzlü ve düz yüzeylere tutunabilme özelliği kazandırmışlardır. Cerrahi mü-
+dahalelerde dokulara hassas ve kont  rollü bir şekilde tutunmak önemlidir. Bu 
+nedenle geckoların ayaklarındaki mikro yapılardan ilham alınarak üretilen ya-
+pışkan malzemelerin cerrahi robotlar tarafından kullanılabilirliği konusunda 
+da araştırmalar devam etmektedir.
+1. Gecko kertenkelelerinin yüzeye tutunmasını sağlayan 10 Newton’luk 
+kuvvet, moleküler düzeydeki nispeten zayıf elektrostatik çekim ile nasıl 
+oluşmuştur?
+2. Toz parçacıklarının bilgisayar ekranına yapışması ile gecko kertenke-
+lelerinin yüzeye tutunmasını sağlayan çekim gücü arasında bir ilişki 
+olabilir mi? Neden?

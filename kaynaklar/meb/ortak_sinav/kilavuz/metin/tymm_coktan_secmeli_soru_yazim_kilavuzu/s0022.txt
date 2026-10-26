@@ -1,0 +1,59 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+22
+2.5.2. Soru Kökü Hataları
+Aşağıdaki tablo, soru yazım sürecinde soru kökü ile ilgili sıkça yapılan hataları önlemek amacıyla ha -
+zırlanmıştır. Tabloda hatalı ve doğru yaklaşımlar somut örnekler üzerinden gerekçeleri açıklanarak 
+karşılaştırılmıştır.
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM 
+“Aşağıdakilerden hangisinin... olmadığı söylene -
+mez?” şeklinde çift olumsuzluk içeren ifadelerin 
+kullanılması
+•  Zihni gereksiz yere yoran ve ölçme hatasına neden 
+olabilen ifadelerdir.
+Olumsuzluk ifadesinin tek ve net olması, altının çi -
+zilmesi veya kelimenin koyu yazılması
+Örnek: ”... değildir ?”
+•  Zihinsel karmaşayı önleyen net ve anlaşılır bir 
+ifadedir.
+“Sizce bu metnin ana fikri nedir?” gibi öznel ifadeler 
+kullanılması
+•  Cevabı kişiden kişiye değişebilecek, puanlama gü -
+venirliği düşük bir ifadedir.
+“Yazarın bu metinde vurguladığı temel düşünce 
+aşağıdakilerden hangisidir?” şeklinde metne refe -
+rans gösterilmesi
+•  Metne dayalı, tartışmaya kapalı bir nesnellik sağlar.
+Soru kökünde konunun anlatılmaya devam edilmesi
+Örnek: ”Hücre canlılığın temel birimidir, buna 
+göre...”
+•  Sorunun odağını dağıtan ve okuma yükünü artıran 
+gereksiz bir bilgidir.
+Bilgi kısmının bağlama yerleştirilmesi ve soru kökü -
+nün sadece öğrenciyi cevaplamaya yönlendirmesi
+•  Öğrenciyi doğrudan cevabı bulmaya sevk eden iş -
+levsel bir yapıdır.
+Aynı bağlamdan birden fazla soru soru sorulduğu 
+durumda, ikinci veya sonraki soruların kökünde “Bir 
+önceki soruda bulduğunuz sonuca göre...” ifadesi -
+nin kullanılması
+•  İlk soruyu yanlış cevaplayan öğrencinin zincirleme 
+olarak diğerini de yanlış yapmasına yol açar.
+“Verilen grafiğe göre...” denilerek her sorunun ortak 
+veriye dayalı ama birbirinden bağımsız çözülebil -
+mesinin sağlanması
+•  İlk soruyu cevaplayamayan öğrenci, grafiğe bakıp 
+ikinci soruyu cevaplayabilmelidir.
+2.5.3. Seçenek ve Çeldirici Hataları
+Aşağıdaki tablo, çoktan seçmeli sorularda şans başarısı ile test tekniği etkisini en aza indirmek ve çeldiri -
+cinin işlevselliğini artırmak amacıyla hazırlanmıştır. Tabloda seçenek kurgusundaki hatalı ve doğru yakla -
+şımlar somut örnekler üzerinden gerekçeleri açıklanarak karşılaştırılmıştır.
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM 
+“Hepsi”, “Hiçbiri”, “A ve B” gibi seçeneklerin 
+kullanılması
+•  Öğrenci seçeneklerden sadece birinin doğrulu -
+ğundan emin olduğunda diğerlerini analiz etme -
+den doğru cevabı bulabilir veya eleyebilir.
+Her seçeneğin bağımsız bir yargı veya veri içerme -
+si, “Hepsi” gibi kapsayıcı ifadelerden kaçınılması
+•  Test çözme tekniğini değil ilgili kazanımı ve bece -
+riyi ölçmeyi amaçlar.

@@ -1,0 +1,49 @@
+74
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.11.3.1. Işık şiddeti, ışık akısı ve aydınlanma kavramlarına ilişkin bilimsel çıkarım yapa-
+bilme
+a) Işık şiddeti, ışık akısı ve aydınlanma kavramlarının tanımlarını yapar. 
+b) Işık şiddeti, ışık akısı ve aydınlanma kavramları ile ilgili veri setlerini inceler.
+c) Veri setlerini kullanarak ışık şiddeti, ışık akısı ve aydınlanma kavramlarını yorumla-
+yarak değerlendirir.   
+FİZ.11.3.2. Düzlem aynaları kullanarak bilimsel model oluşturabilme
+a) Düzlem aynaları kullanarak bir model önerir. 
+b) Düzlem aynaları kullanarak önerdiği modeli yeni durumlara uyarlayarak geliştirir.
+FİZ.11.3.3. Küresel aynaların özelliklerine ilişkin karşılaştırma yapabilme
+a) Küresel aynaların fiziksel özelliklerini ve ışınların küresel aynalarda yansıdıktan 
+sonra izlediği yolu belirler.
+b) Çukur ve tümsek aynaların benzer özelliklerini listeler.
+c) Çukur ve tümsek aynaların farklı özelliklerini listeler.
+FİZ.11.3.4. Küresel aynalarda görüntü oluşumu ile ilgili deney yapabilme
+a) Küresel aynalarda görüntü oluşumu ile ilgili bir deney tasarlar.
+b) Küresel aynalarda görüntü oluşumu ile ilgili tasarladığı deney düzeneğinden veri 
+toplayarak analiz eder.
+FİZ.11.3.5. Işığın saydam ortamlardaki davranışını kullanarak deney yapabilme
+a) Işığın saydam ortamlardaki davranışı ile ilgili deney tasarlar.
+b) Işığın saydam ortamlardaki davranışı ile ilgili tasarladığı deney düzeneğinden veri 
+toplayarak analiz eder.
+FİZ.11.3.6. Saydam ortamlarda görünür derinliğin, gerçek derinlik ve ortamların ışığı kır -
+ma indislerine bağlı olarak değiştiğine ilişkin bilimsel gözlem yapabilme
+a) Görünür derinliği etkileyen gerçek derinlik ve ortamların ışığı kırma indisini tanım-
+lar.
+b) Görünür derinliğin gerçek derinlik ve ortamların ışığı kırma indisine bağlı olarak de-
+ğiştiğini gözlemleyerek kaydeder.
+c) Gözlemlerine dayalı olarak görünür derinliğin gerçek derinlik ve ortamların ışığı 
+kırma indisine bağlı olarak değişimini açıklar.
+FİZ.11.3.7. Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanlarına ilişkin 
+bilgi toplayabilme
+a) Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları ile ilgili bilgi-
+ye ulaşmak için kullanacağı kaynakları belirler.   
+b) Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları ile ilgili bilgi-
+ye ulaşmak için belirlediği araçları kullanarak bilgi toplar.  
+c) Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları hakkında 
+toplanan bilgiyi doğrular. 
+ç) Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları hakkında 
+ulaşılan bilgileri kaydeder.
+FİZ.11.3.8. Prizmalar ve prizmalar ile kurulan birleşik sistemlerde ışığın izlediği yola ilişkin 
+tümdengelimsel akıl yürütebilme
+a) Kırılma yasalarının prizmalar için kullanılabilir olduğuna dair hipotez kurarak test 
+eder.
+b) Geçerli hipotezleri kullanarak prizmalar ile oluşturulmuş birleşik sistemlerde tek 
+renkli ışığın izleyeceği yolu açıklar.  

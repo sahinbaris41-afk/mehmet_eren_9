@@ -1,0 +1,49 @@
+107
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI VE 
+SÜREÇ BİLEŞENLERİ
+KİM.12.3.1. Boyaya duyarlı güneş pillerinin verimliliklerine ilişkin bilimsel çıkarım yapabilme
+a) Geleneksel güneş pilleri ile boyaya duyarlı güneş pillerinin niteliklerini tanımlar.  
+b) Boyaya duyarlı güneş pillerinin verimliliğini belirlemek üzere hazır veri seti kullanır. 
+c) Boyaya duyarlı güneş pillerinin verimliliklerine ilişkin topladığı verileri değerlendirir. 
+KİM.12.3.2. Biyobozunur polimer eldesinde kullanılacak bileşenlere karar verebilme 
+a) Biyobozunur polimerin özelliğini düşünerek polimeri elde etme sürecine ilişkin 
+amacını belirler. 
+b) Biyobozunur polimer elde etme sürecine ilişkin belirlediği amaca uygun bilgi toplar. 
+c) Biyobozunur polimer elde etme sürecine ilişkin seçenekler belirler. 
+ç) Biyobozunur polimer elde etme sürecine ilişkin seçenekler üzerinde mantıksal de-
+netleme yapar. 
+d) İstediği özellikte biyobozunur polimer elde etme sürecinde kullanacağı bileşenle -
+rin seçimini yapar. 
+e) Seçimi doğrultusunda istediği özellikte biyobozunur polimer elde edip etmediğine 
+yönelik yansıtma yapar. 
+KİM.12.3.3. Yapay zekâ uygulamalarının sürdürülebilirliğe etkilerine yönelik eleştirel dü -
+şünebilme 
+a) Yapay zekâ uygulamalarının sürdürülebilirliğe etkilerini sorgular. 
+b) Yapay zekâ uygulamalarının sürdürülebilirliğe etkileri ile ilgili akıl yürütür. 
+c) Yapay zekâ uygulamalarının sürdürülebilirliğe etkilerine ilişkin ulaştığı çıkarımlar 
+üzerine yansıtma yapar. 
+İÇERİK ÇERÇEVESİ Nanobilim, Yeşil Kimya ve Sürdürülebilirlik: Boyaya Duyarlı Güneş Pili, Biyobozunur Poli -
+mer, Yapay Zekâ ve Sürdürülebilirlik
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, 
+performans görevi, sınıf içi tartışma ve yansıtma notu kullanılabilir.
+Öğrenciler performans görevi çerçevesinde biyobozunur polimer eldesinde kullanılabile -
+cek bileşenlere karar verebileceği bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. 
+Performans görevi “amaç belirleyebilme, bilgi toplayabilme, seçim yapabilme, seçenekler 
+oluşturabilme, kullanacağı malzemeye ilişkin mantıksal denetleme yapabilme ve yansıtma 
+yapabilme” ölçütlerini içeren bir dereceli puanlama anahtarı ile değerlendirilebilir.
+Sınav kâğıtları ve temanın işlenişi sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında 
+toplanarak değerlendirme amaçlı kullanılabilir.
+Genellemeler/İlkeler/
+Anahtar Kavramlar
+biyobozunur polimer, biyopolimer, boyaya duyarlı güneş pili, fotosentez, güneş hücresi, 
+nanoparçacıklı güneş pili, nanopolimer, yapay zekâ
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin organik bileşikler, polimerler, kimyasal tepkimelerde enerji, enerji kay -
+nakları, yenilenebilir enerji kaynakları, enerji taşıyan sistemler olarak piller ve hidrojen 
+gazına ilişkin kavramsal bilgileri edindiği kabul edilmektedir.

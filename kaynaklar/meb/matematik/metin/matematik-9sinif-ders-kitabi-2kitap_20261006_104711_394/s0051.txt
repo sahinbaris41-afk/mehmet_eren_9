@@ -1,0 +1,73 @@
+51
+4. Tema / Eşlik ve Benzerlik
+5.		 Aşağıdaki	ABCD	karesinde	ADF	ve	ABE	üçgen;	
+FA B! 7A ,	 EB C! 7A ,	 AF BE= ,	 DG cm 9= ,	
+FG cm 1= ,	 AG cm 3= ,	 DF AE G+ =77 AA # - 	ve	
+EG xc m= ’dir.	
+Buna göre
+a) x değerini bulunuz.
+b) EGD açısının ölçüsünün kaç derece ol-
+duğunu bulunuz.
+6.		 Akif, 	Şekil	1’deki	ABC	üçgeni	biçimindeki	kar-
+tonun	 8	 tanesini	 kenarları	 çakışacak	 şekilde	
+düzlem	 üzerinde	 birleştirerek	 Şekil	 2’deki	 de-
+seni	oluşturmuştur. 
+ ABC ACBmm 3 $=`` jj%%  olduğuna göre 
+BAC m`j%  nü bulunuz. 
+7.  Aşağıdaki	şekilde	ABC	üçgen,	DB C! 7A ,	
+AB , cm 12=  BD cm 4= 	ve	
+BAD ACDmm =`` j j%%  dür.
+ Buna göre DC  nun kaç cm olduğunu 
+bulunuz.
+3
+x
+9
+1
+A B
+C
+G
+F
+D
+E
+Şekil 2
+Şekil 1
+A
+B C
+C
+B
+A
+A
+DB
+C
+4
+12
+1.  AD BC=  ve AB DC=  olacak şekilde bir 
+ABCD dörtgeni çiziniz. DAB DCBmm =`` j j%%  
+ve dörtgenin karşılıklı kenarlarının paralel 
+olduğunu gösteriniz.  
+2.  Bir ikizkenar üçgenin tepe açısına ait açıor-
+tay uzunluğunun aynı zamanda üçgenin 
+yüksekliği ve kenarortayı olduğunu çizerek 
+gösteriniz.
+3.		 AB C	üçgeni	şeklindeki	bir	kâğıt	DB C! 7A  
+olmak	üzere	 AD7A 	boyunca	katlandığında	
+AB' BC'77 AA ,	 ADB'm7 0o=`j% 	ve	
+DAC CAB'mm =`` j j%% 	olmaktadır. 
+ Buna göre ACB m x=`j%  değerini bulunuz.
+4.		 Aşağıdaki 	şekilde	ABCD	ve	EFGH	birer	karedir	
+ve	 EFGH	 karesinin	 köşeleri	 ABCD	 karesinin	
+kenarları	üzerindedir. 
+ ED birim 7= , GC birim 4=  olduğuna göre 
+ABCD karesinin çevre uzunluğunun kaç 
+birim olduğunu bulunuz. 
+70o
+B D x C
+B'A
+A F
+7
+4
+E
+D H C
+G
+B
+Alıştırmalar

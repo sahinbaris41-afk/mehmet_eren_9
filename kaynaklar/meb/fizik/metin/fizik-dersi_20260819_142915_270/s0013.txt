@@ -1,0 +1,149 @@
+13
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-öğretme yaşantıları 
+sonunda öğrenciye 
+kazandırılması amaçlanan bilgi, 
+beceri ve becerilerin süreç 
+bileşenlerini ifade eder.
+Disipline ait başlıca ilke, anahtar 
+kavramlar,  deneyleri vb. ifade 
+eder. 
+Yeni bilgi ve becerilerin 
+öğrenilmesi için sahip olunması 
+gereken ön bilgileri ve/veya 
+becerileri ifade eden temel 
+kabullerin değerlendirilmesi 
+ile öğrenme sürecindeki ilgi ve 
+ihtiyaçların belirlenmesini ifade 
+eder.
+ÖĞRENME ÇIKTILARI 
+FİZ.9.2.2. Skaler ve vektörel nicelikleri karşılaş-
+tırabilme 
+a) Skaler ve vektörel niceliklerin özellik-
+lerini belirler.
+b) Skaler ve vektörel niceliklerin ben-
+zerliklerini listeler.
+c) Skaler ve vektörel niceliklerin farklı-
+lıklarını listeler.
+İÇERİK ÇERÇEVESİ Temel ve Türetilmiş Nicelikler, Skaler ve Vektö-
+rel Nicelikler, Vektörler, Doğadaki Temel Kuv -
+vetler, Hareket ve Hareket Türleri
+Anahtar Kavramlar temel nicelik, türetilmiş nicelik, skaler nicelik, 
+vektörel nicelik, bileşke vektör, kuvvet, refe-
+rans noktası, konum, alınan yol, yer değiştirme, 
+sürat, anlık sürat, ortalama sürat, hız, anlık hız, 
+ortalama hız, ivme, öteleme hareketi, dönme 
+hareketi, titreşim hareketi
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları;  yapılandırılmış grid, çalışma 
+yaprağı, açık uçlu sorulardan oluşan test, çıkış 
+kartı, poster, broşür, öz değerlendirme, akran 
+değerlendirme ve sanal pano ya da bülten pano-
+su kullanılarak değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin fen bilimleri ve matematik dersle-
+rinde geçen kuvvet, hareket, sürat, hız ve alınan 
+yol kavramlarını ve birimlerini bildiği kabul edil-
+mektedir.
+Ön Değerlendirme 
+Süreci Öğrencilere kuvvet, hareket, sürat, hız ve alınan 
+yol kavramlarına yönelik kelime ilişkilendirme 
+testi verilebilir. 
+Köprü Kurma Öğrencilere ön öğrenmelerinde yer alan fen bi-
+limleri, kimya, biyoloji ve matematik derslerinde 
+kullanılan fiziksel nicelikler ve birimleri soru ce-
+vap etkinliği ile hatırlatılabilir. Öğrencilerin gün-
+lük hayatlarında karşılaştıkları fiziksel nicelikleri 
+ve bu niceliklerin birimlerini kuvvet ve hareket 
+konusu ile ilişkilendirmeleri sağlanabilir ve bun-
+ların sınıflandırılmasına geçilebilir. 
+Öğrenme-Öğretme
+Uygulamaları FİZ.9.2.1
+Öğretmen SI birim sistemi ile ilgili bilgilendirme 
+yapar. Öğrenciler SI birim sistemi hakkında far -
+kındalık kazanır. Öğretmen soru cevap tekniği 
+kullanarak öğrencilerin fen bilimleri, fizik, kimya 
+ve biyoloji derslerinde görmüş olduğu fizik bilimi 
+ile ilgili nicelikleri ve bu niceliklerin birimlerini 
+tablo üzerinde listelemesini sağlar. 
+FARKLILAŞTIRMA
+Zenginleştirme *Bileşke vektör hesaplanırken gerçek sayı ile 
+çarpılmış vektörlerin toplanmasına yönelik uy -
+gulamalar yapılabilir. 
+Destekleme Bileşke vektörün bulunmasında iki vektörün 
+toplanması ile sınırlı kalınabilir.
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz 
+için karekodu akıllı cihazınıza okutunuz.
+Öğrenme profilleri bakımından 
+farklılık gösteren öğrencilere 
+yönelik çeşitli zenginleştirme ve 
+desteklemeye ilişkin öğrenme-
+öğretme yaşantılarını ifade 
+eder.
+Hedeflenen öğrenci profili ve
+temel öğrenme yaklaşımları
+ile uyumlu öğrenme-öğretme
+yaşantılarının hayata geçirildiği 
+uygulamaları ifade eder. 
+Öğrenme sürecinde daha 
+fazla zaman ve tekrara 
+ihtiyaç duyan öğrencilere 
+ortam, içerik, süreç 
+ve ürün bağlamında 
+uyarlanmış öğrenme-
+öğretme yaşantılarını 
+ifade eder.
+Öğrenme çıktıları, eğilim,
+programlar arası bileşenler
+ve öğrenme kanıtları arasında 
+kurulan ve anlamlı ilişkilere 
+dayanan öğrenme-öğretme 
+sürecini ifade eder. 
+Öğrenme-öğretme 
+sürecinde ele alınan 
+bilgi kümesini (konuya/
+alt konuya ilişkin sınırlar) 
+ifade eder.
+Dersin kodu
+Sınıf seviyesi
+Ünite numarası
+Öğrenme çıktısının 
+numarası
+Önceki öğrenme-öğretme 
+süreçlerinden getirildiği 
+kabul edilen bilgi ve 
+becerileri ifade eder.
+Öğrenme çıktılarının 
+değerlendirilmesi 
+ile uygun ölçme ve 
+değerlendirme
+araçlarını ifade eder. 
+Mevcut bilgi ve becerilerle 
+yeni edinilecek bilgi 
+ve beceriler arasında 
+bağlantı oluşturma 
+sürecinin yanı sıra 
+edinilecek bilgi ve 
+beceriler ile günlük hayat 
+deneyimleri arasında bağ 
+kurmayı ifade eder.
+Akranlarından daha ileri 
+düzeydeki öğrencilere 
+genişletilmiş ve 
+derinlemesine öğrenme 
+fırsatları sunan, onların 
+bilgi ve becerilerini 
+geliştiren öğrenme-
+öğretme yaşantılarını 
+ifade eder. 
+Öğretmenin ve programın 
+güçlü ve iyileştirilmesi gereken 
+yönlerinin öğretmenlerin 
+kendileri tarafından 
+değerlendirilmesini ifade eder.
+VE SÜREÇ BİLEŞENLERİ

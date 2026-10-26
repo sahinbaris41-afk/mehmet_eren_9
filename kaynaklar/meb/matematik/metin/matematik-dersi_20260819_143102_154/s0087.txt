@@ -1,0 +1,43 @@
+87
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları, çalışma kâğıdı ve performans görevi ile değerlendirilebilir.
+Öğrencilere trigonometrik oranlar, trigonometrik özdeşlikler, sinüs ve kosinüs teoremleri 
+kullanılarak yapılan hesaplamalar içeren gerçek yaşam problemlerine yönelik  performans 
+görevi verilir. Verilen bu performans görevi, analitik veya bütüncül dereceli puanlama anah-
+tarı ile değerlendirilebilir.
+Üçgenin yardımcı elemanları ve özellikleri ile ilgili verilen performans görevleri akran ve grup 
+değerlendirme formlarıyla, analitik veya bütüncül dereceli puanlama anahtarı ile değerlen -
+dirilebilir.
+Öğrencilere gerçek yaşam problemleri üzerinden üçgenin alanının herhangi bir taban ve o 
+tabana ait yüksekliğine göre nasıl değiştiğine ilişkin önermeleri ve buna yönelik hesaplama-
+ları içeren çalışma kâğıdı verilebilir. Çalışma kâğıdı, analitik dereceli puanlama anahtarı ile 
+değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin üçgenlerde temel elemanlar ve özellikleri hakkında çıkarım yapabildikleri, 
+daha sonraki geometri konularına temel teşkil edecek üçgenlerde eşlik ve benzerlik kavra -
+mını bildikleri, bunların uygulamalarını yapabildikleri, Pisagor teoremini uygulayabildikleri, 
+üçgenin yardımcı elemanlarını ve bir üçgenin ağırlık merkezini bildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere üçgenin temel elemanları (açı, kenar) ve bunlar arasındaki ilişkiler hakkında so -
+rular sorularak öğrencilerin bu kavramlarla ilgili bilgileri değerlendirilir. Üçgenlerde eşlik, 
+üçgenlerde benzerlik, üçgenlerin yardımcı elemanları, bir üçgenin ağırlık merkezi  ve Pisa -
+gor teoremi ile ilgili soru cevap, tartışma gibi teknikler kullanılarak hatırlatmalar yapılabilir. 
+Yapılacak etkinlikler, öğrencilerin iletişim becerilerini geliştirmelerine de olanak sağlayabilir.
+Öğrencilerin bu süreçte paylaştıkları bilgiler ve öğretmenin sorduğu sorulara verdikleri ce -
+vaplar üzerinden öğrencilerde görülen yanlış öğrenmeler fark edilir. Bunların giderilmesini 
+destekleyici açıklamalar yapılabilir.
+Köprü Kurma Dik üçgende trigonometrik oranların incelenebilmesi için öğrencilerin 9. sınıfta öğrendikle -
+ri üçgenlerde benzerliğe ilişkin ön bilgileri soru cevap tekniği ile işe koşulabilir. Öğrenciler, 
+benzerliğe ilişkin bilgilerinin yanı sıra eşlikle ilgili bilgilerini de kullanarak üçgenin yardımcı 
+elemanları ve özelliklerine ilişkin çıkarımlar yapabilecek; bu elemanlar arasındaki ilişkilere 
+ulaşabilecektir. Bunun yanı sıra öğrenciler; önceden öğrendikleri alan, oran-orantı bilgile -
+rini kullanarak üçgenlerin alanlarına ve farklı üçgenlerde alanların oranlarına dair çıkarımlar 
+yapabilecektir. Öğrencilere sinüs teoremini doğrulamaları için hangi bilgilerini kullanabile-
+cekleri sorulabilir. Bu doğrulamanın hangi bilgilere dayandırılabileceği hakkında öğrencilerin 
+görüşleri alınır. Kosinüs teoremini ispatlamada hangi bilgilerinden yararlanılabileceği tartı-
+şılabilir. Bu doğrulama ve ispatlama için doğruluğundan emin olunan ön bilgilerin önemine 
+vurgu yapılabilir. 

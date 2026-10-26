@@ -1,0 +1,174 @@
+127
+2. Tema/Çeşitlilik
+5. Aşağıda iki hidrojen atomu arasındaki etkileşim sürecini gösteren diyagramlar verilmiştir. Bu diyagram-
+ları inceleyerek iki hidrojen atomu arasındaki etkileşimin oluşumuyla ilgili daha önce yapmış olduğunuz 
+tahminlerden hangilerinin geçerli, hangilerinin geçersiz olduğunu ilgili tabloya yazarak açıklayınız.
+Atomlar ve Aralarındaki Etkileşimler Süreçte Gerçekleşen Olaylar
++
+-
+-
++
++
+-
+-
++
++
+-
+- +
++
+-
+-
++
++
+-
+-
++
++
+- -
++
++
+- -
++
+Birbirinden uzak iki hidrojen atomu arasında elektrostatik 
+etkileşimler oluşmaz.
++
+-
+-
++
++
+-
+-
++
++
+-
+- +
++
+-
+-
++
++
+-
+-
++
++
+- -
++
++
+- -
++
+İki hidrojen atomu birbirine yaklaşırken her bir hidrojen 
+atomundaki elektron, diğer atomun çekirdeğindeki proton 
+tarafından çekilir. Aynı zamanda iki hidrojen atomunun hem 
+çekirdekleri hem de elektronları arasında itme kuvvetleri 
+oluşur.
++
+-
+-
++
++
+-
+-
++
++
+-
+- +
++
+-
+-
++
++
+-
+-
++
++
+- -
++
++
+- -
++
++
+-
+-
++
++
+-
+-
++
++
+-
+- +
++
+-
+-
++
++
+-
+-
++
++
+- -
++
++
+- -
++
+Hidrojen atomları birbirine yeterince yaklaştığında her iki 
+atom arasındaki itme ve çekme kuvvetleri dengelenir. Bu 
+denge durumunda atomların valans elektronları ortaklaşa 
+kullanılabilir.
++
+-
+-
++
++
+-
+-
++
++
+-
+- +
++
+-
+-
++
++
+-
+-
++
++
+- -
++
++
+- -
++
++
+-
+-
++
++
+-
+-
++
++
+-
+- +
++
+-
+-
++
++
+-
+-
++
++
+- -
++
++
+- -
++
+Ortaklaşa kullanılan bu elektronlar çoğunlukla atom çekir-
+dekleri arasında sürekli hareket hâlinde olduğundan sabit bir 
+noktada bulunmaz. Dengelenmiş elektrostatik etkileşimler 
+atomların bir arada durmasını sağlar.
+Geçerli Tahminler Geçersiz Tahminler Açıklamalar
+6. Hidrojen (1H) ve flor (9F) atomlarının birbirine yeterince yaklaşması sırasında oluşan elektrostatik etkile-
+şimleri tahmin ediniz. Tahminlerinizi süreç aşamalı özgün  resimler çizerek açıklayınız.

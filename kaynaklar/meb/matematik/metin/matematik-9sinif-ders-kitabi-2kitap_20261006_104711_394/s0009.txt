@@ -1,0 +1,43 @@
+9
+Ulaşılan bilgi, kural, 
+önerme veya sonuçların 
+özetlendiği alan
+Tema ile ilgili araştırma 
+ödevlerinin verildiği alan
+Tema ile ilgili performans 
+görevlerinin verildiği alan
+Tema ile ilgili proje 
+ödevlerinin verildiği alan
+Öğrenme çıktısı ile ilgili 
+görevlerin bulunduğu alan
+Tema ile ilgili ölçme 
+ve değerlendirme 
+çalışmalarının yer aldığı alan
+Temada öğrenilenlerin not 
+edilmesi için ayrılan alan
+SEMBOLLER VE SEMBOLLERİN  AÇIKLAMALARI
+Bireysel Uygulama
+Grup Uygulaması
+Sonraki Sayfada 
+Devam Eden Çalışma
+Önceki Sayfadan 
+Devam Eden Çalışma
+Hesap Makinesi Gerektiren 
+Soru
+Ön Değerlendirme
+Alıştırmalar, Ölçme ve 
+Değerlendirme 
+Ders Öncesi Hazırlık 
+Gerektiren Çalışma
+Rehberli Uygulama
+Uygulamanın Bittiği Yer
+Uygulamanın Başladığı Yer
+Çalışmanın Bittiği Yer
+Başlarken
+Kontrol Noktası
+Farklı Kaydet 
+Konuya Başlarken 
+Konu ile ilgili kişi, kurum 
+ve olaylar hakkında önemli 
+tarihsel bilgilerin yer aldığı 
+alan

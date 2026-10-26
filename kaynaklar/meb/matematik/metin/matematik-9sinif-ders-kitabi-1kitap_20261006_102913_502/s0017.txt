@@ -1,0 +1,65 @@
+17
+1. Tema /  Sayılar
+3.	Uygulama
+Tabanları Aynı Olan Üslü Gösterimlerle Çarpma ve Bölme İşlemi
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız. 
+x sıfırdan farklı bir gerçek sayı, a ve b birer tam sayı olsun.
+1. Üslü gösterimlerle  xa . xb ve  xa
+xb  işlemlerinin sonuçları nasıl hesaplanabilir? Varsayımlarınızı sınıf arkadaşlarınızla 
+saygı çerçevesinde tartışarak oluşturunuz.
+2. Tabloda verilen işlemlerin sonuçlarını örneklerdeki gibi bularak ilgili yere yazınız. 
+ 
+İşlem İşlemin Açık Hâli Sonucun Üslü Gösterimi
+23 . 24 222 2 222$ $$$ $$3t ane 4t ane12 3444 444441 2344444 4444444 27
+(-6) 2 . (-6) 3 . (-6)
+5
+1
+5
+125
+$cc mm
+36 . 3-4 33 3 333 31 31 31 31$$ $$$$ $$ $ 32
+5-4 . 57
+3
+2
+3
+215
+$
+-
+cc mm
+xa . xb
+ 
+3. Tabloda elde ettiğiniz sonuçlardan yararlanarak tabanları aynı olan üslü gösterimlerle çarpma ve bölme işlem-
+lerine dair genellemeler oluşturunuz.
+4. Varsayımlarınızla genellemelerinizi karşılaştırarak üslü gösterimlerle çarpma ve bölme işlemlerine dair öner -
+melerinizi oluşturunuz.
+2
+2
+3
+5 22
+222
+222
+$$
+$ $$$
+22
+11
+11
+2
+6
+3
+3
+4
+7
+-
+-_
+_
+i
+i
+6
+6
+2
+3
+-
+x
+x
+b
+a

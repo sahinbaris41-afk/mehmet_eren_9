@@ -1,0 +1,45 @@
+188
+3. Tema /  Geometrik Şekiller
+11. ÖRNEK
+Yandaki şekilde ABC ve ACD üçgendir. AB 6=  cm, BC AD 8==  cm ve CD 13=  cm olduğuna göre 
+AC  nun alabileceği tam sayı değerlerinin aralığını bulunuz.
+Çözüm
+AC x=  cm olmak üzere üçgen eşitsizliği uygulanır. ABC üçgeninde üçgen eşitsizliği nedeniyle 
+x86 86 11-+  olduğundan x21 411  olur.
+ADC üçgeninde üçgen eşitsizliği nedeniyle x13 81 3811-+  olduğundan x52 111  elde edilir.
+AC  her iki üçgende üçgen eşitsizliğini sağlayacağı için bulunan aralıkların kesişiminden x in değer ara-
+lığı x51 411  bulunur.
+B
+C
+D
+A
+8
+13
+8
+6
+8.	Sıra	Sizde      
+1.     Yandaki	ş ekilde 	A BC	ve	B CD	üç gen, 	 AB 3= 	bir im, 	 AC 10= 	bir im, 	
+BD 7= 	birim 	ve 	 DC 4= 	birim 	olduğuna 	göre 	 BC  nun	birim 	cinsin-
+den	alabileceği	tam	sayı	değerlerinin	toplamını	bulunuz.
+ 
+DA
+B C
+4
+3
+7.	Sıra	Sizde      
+A B
+Şekil 1
+C
+E
+D
+Şekil 2
+Zeynep Şekil 1’de üstten görünümü verilen mutfak masasının bir kenarına 
+paralel olacak şekilde duran çubuk makarnayı masadan almaya çalışmış-
+tır. Bu esnada çubuk makarna kırılarak iki parçaya ayrılmıştır. Bu parçala-
+rın birer uçları C ve D noktalarına değmekte, diğer uçları ise E noktasında 
+birleşmektedir. 
+CE
+ED 5
+3=  ve CD 16=  cm’dir.
+Buna	g öre 	 ED  nun	cm 	ci nsinden 	al abileceği	kaç 	farkl ı	tam 	sayı	
+değeri	olduğunu	bulunuz.

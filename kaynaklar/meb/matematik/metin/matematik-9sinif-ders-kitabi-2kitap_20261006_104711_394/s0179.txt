@@ -1,0 +1,27 @@
+179
+6. Tema / İstatistiksel Araştırma Süreci
+c) 2023	Dünya	Atlet izm	Şampiyonası	erkekler	100	metre	yarış masına	katı lan	atlet lerin	koşu	derecelerine	
+ait	veri	dağılımının	merkezine	yığılan	performans	dereceleri	hangi	aralıklarda	yoğunlaşmaktadır?
+ç) 2023	Dünya	A tletizm	Şampiy onası	erkek ler	100	met re	yarı şmasına	kat ılan	atlet lerin	dereceleri	0,2	
+santisaniye	zaman	aralıklarında	nasıl	yoğunlaşmaktadır?	
+d) 2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	elde	ettiği	dere-
+celer,	tüm	atletlerin	derecelerinin	ortalama	değerine	göre	nasıl	yayılım	göstermektedir?
+e) Bulgularınızdan	hareketle	farklı	bir	organizasyon	olan	Olimpiyat	Oyunları	100	Metre	Atletizm	 	Müsa-
+bakaları'na	katılan	erkek	atletlerin	koşu	derecelerinin	eğilimi	hakkında	ne	söyleyebilirsiniz?	2023	
+Dünya	Atletizm	Şampiyonası'na	katılan	erkek	atletlerin	derecelerinin	eğilimiyle	benzerlik	ve	farklılık-
+larına	yönelik	ne	gibi	çıkarımlarda	bulunabilirsiniz?
+Çözüm
+a) 2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	koşu	dereceleri	
+değerlendirilirken	üst	uç	değer	olan	en	yüksek	performans	ile	alt	uç	değer	olan	en	düşük	performans	
+arasındaki	farkı	belirlemek	için	yayılım	ölçülerinden	açıklık	değerine	bakılması	gerekmektedir.	Grafik	
+1’de	atletlerin	en	düşük	ve	en	yüksek	performans	değeri	görülmektedir.	
+Derece (sn.)
+9,80 10,210 10,610,4 10,8 11 11,2 11,4 11,6
+Grafik 1  
+Grafik	1’de	görüldüğü	üzere	atletler	içinde	en	yüksek	performansı	göstererek	birinci	olan	atletin	dere-
+cesi	9,86	saniye	iken	en	düşük	performansı	göstererek	sonuncu	olan	atletin	derecesi	11,58	saniyedir.	
+Bu	verilerden	yola	çıkılarak	dağılımın	açıklığının	 ,, ,11 58 98 61 72-= 	saniye	olduğu	görülmektedir.	
+Bu	değer,	en	yüksek	performansa	sahip	atletle	en	düşük	performansa	sahip	atlet	arasındaki	derece	
+farkını	ve	atletlerin	performans	derecelerinin	1,72	saniyelik	bir	aralıkta	yer	aldığını	göstermektedir.
+İstatistik yazılımı ile ilgili videoya 
+ulaşmak  için karekodu okutunuz.

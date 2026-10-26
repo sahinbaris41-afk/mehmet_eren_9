@@ -1,0 +1,116 @@
+274
+7. FORM
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+Saf sıvıların 
+denge buhar 
+basıncını etki-
+leyen faktörleri 
+belirleyebilme
+(50 puan)
+Deney tasarımın-
+da bağımlı, bağım-
+sız değişkenleri ve 
+kontrol değişken-
+lerini doğru olarak 
+belirlemiştir.
+(1-15 puan)
+Deneyde sı-
+vı-buhar dengesi 
+kurulduğunda 
+manometrenin 
+kolları arasında 
+sabit kalan cıva 
+seviyeleri farkını 
+sıvının denge bu-
+har basıncı olarak 
+açıklar ve belir-
+lediği bağımsız 
+değişkenin sıvının 
+denge buhar ba-
+sıncına etkisiyle 
+ilgili gözlem ve 
+bulgularına dayalı 
+olarak çıkarımda 
+bulunur.
+(16-30 puan)
+Bağımsız değişke-
+nini değiştirdiğinde 
+gözlemlediği ma-
+nometrenin kolları 
+arasında sabit ka-
+lan cıva seviyeleri 
+farkını madde cinsi 
+ve sıcaklığın sıvı-
+nın denge buhar 
+basıncına etkisi 
+üzerinden açıklar.
+(31-40 puan)
+Sıvıların denge 
+buhar basıncını 
+etkileyen faktörleri 
+belirlemek için kul-
+landığı yöntemleri 
+diğer grupların kul-
+landığı yöntemler-
+le karşılaştırarak 
+benzer sonuçlara 
+ulaştığını fark 
+etmiştir.
+(41-50 puan)
+Saf sıvıların den-
+ge buhar basıncı-
+nı etkileyen fak-
+törleri moleküller 
+arası etkileşimleri 
+göz önüne alarak 
+açıklayabilme
+(50 puan)
+Deneyde kul-
+landığı sıvıların 
+kendi molekülleri 
+arasındaki çekim 
+kuvvetlerini tanı-
+mıştır.
+(1-15 puan)
+Deneyde kullandı-
+ğı sıvıların kendi 
+molekülleri arasın-
+daki çekim kuvveti 
+ile manometrenin 
+kolları arasında 
+sabit kalan cıva 
+seviyeleri farkı 
+arasındaki ilişkiyi 
+tahmin etmiştir.
+(16-30 puan)
+Bağımsız değişke-
+nin değiştirilmesi-
+nin manometrenin 
+kolları arasında 
+sabit kalan cıva 
+seviyeleri farkında 
+meydana getirdiği 
+değişimi ve bu 
+değişimin neden-
+lerini moleküller 
+arası etkileşimler 
+temelinde açıkla-
+mıştır.
+(31-40 puan)
+Sıvı cinsi ve sı-
+caklık değişiminin 
+denge buhar ba-
+sıncında meydana 
+getirdiği değişikliği 
+moleküller arası 
+etkileşimler teme-
+linde açıklamıştır. 
+(41-50 puan)
+Tablo Puanı
+Öğretmen Geri Bildirimi:
+DENEY ÇALIŞMASI
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Bu form, öğrencilere “Sıvıların Denge Buhar Basıncını Etkileyen Faktörler” konusunda tasarladığınız de-
+neyi değerlendirmeniz amacıyla hazırlanmıştır. Öğrencinin belirtilen ölçütlere ilişkin öğrenme düzeyini 
+tablodaki açıklamalardan hareketle puanlayınız.
+Öğrencini Adı Soyadı:        Numarası:   Sınıfı:

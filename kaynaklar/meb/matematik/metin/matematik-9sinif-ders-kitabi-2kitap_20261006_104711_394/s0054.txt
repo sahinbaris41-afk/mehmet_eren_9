@@ -1,0 +1,69 @@
+54
+4. Tema / Eşlik ve Benzerlik
+1. Hangi nokta çiftleri birleştirilirse oluşan üçgenler ile ABC üçgeninin benzer olacağını açıklayınız. 
+2. Benzer üçgenlerin hangi benzerlik koşuluna göre belirlendiğini yazınız.
+3. ABC üçgeninde LR7 A  çizildiğinde LR BC'77 A A  olmasının nedenini açıklayınız. 
+14. ÖRNEK
+Dikilen	direkler	ve	bu	direklerin	etrafına	sarılan	tellerin	oluşturduğu	
+üçgensel	bir	tarlanın	modellemesi	yanda	verilmiştir.	T oplam	16	di-
+rek	şekildeki	gibi	eşit	aralıklarla	dikilmiş	ve	harflendirilmiştir.
+Seçilen	 iki	 direk	 arasına	 tel	 çekilerek	 başka	 bir	 üçgensel	 bölge	
+oluşturulmak	 istenmektedir.	 A	 ve	 M	 direkleri	 arasındaki	 mesafe	
+108	metre	olduğuna	göre
+a) T el	uzunluğunun	ölçüm	yapılmadan	hesaplanabilmesi	için	seçilmesi	gereken	direkleri	bulunuz.	
+b) C	ve	J	direkleri	arasına	çekilecek	telin	kaç	metre	olması	gerektiğini	bulunuz.
+Çözüm
+a) 	 AF	kenarı	6,	FM	kenarı	9	eşit	aralığa	bölünmüştür.	T el	uzunluğunun	hesaplanabilmesi	için	
+Kenar-Açı-Kenar	benzerliğinden	hareketle	AFM	üçgenine	benzer	üçgenler	oluşturulmalıdır.	Bu	üç-
+genlerin	ortak	açısı	AFM% 	ve	kenar	uzunlukları	oranı	 96 	olmalıdır.	
+D	ve	H	noktaları	birleştirilirse 
+FH
+DF
+FM
+AF
+9
+6
+3
+2== = 	olduğundan	DFH AFM+&& 	olur.
+Ç	ve	Ğ	noktaları	birleştirilirse 
+F
+FĞ
+FM
+AF
+9
+6
+3
+2
+Ç
+== = 	olduğundan	 F AFMĞÇ +& & 	olur.
+C	ve	J	noktaları	birleştirilirse 
+FJ
+CF
+FM
+AF
+9
+6
+3
+2== = 	olduğundan	CFJ AFM+&& 	olur.
+A	ve	I	noktaları	birleştirilirse 
+AF
+FI
+FM
+AF
+9
+6
+3
+2== = 	olduğundan	IFA AFM+& & 	olur.
+b) C	ve	J	noktaları	birleştirilirse	CFJ AFM+&& 	olduğundan
+MA
+CJ CJ
+CJ m32 108 3 2 72&&== = 	bulunur.
+E
+D
+Ç
+C
+B
+A
+F G Ğ H I İ J K L M
+108
+	

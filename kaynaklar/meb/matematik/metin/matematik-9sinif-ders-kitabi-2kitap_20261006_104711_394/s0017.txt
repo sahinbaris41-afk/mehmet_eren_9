@@ -1,0 +1,48 @@
+17
+4. Tema / Eşlik ve Benzerlik
+ç)	 d	doğrusu	üzerindeki	K	ve	M	noktaları	ile	bu	noktaların	görüntülerine	dair	belirlediğiniz	ilişkiyi	sağla-
+yan	başka	noktaların	olup	olmadığını	açıklayınız.
+Çözüm
+a) ABC	üçgensel	bölgesinin	d	doğrusuna	göre	yansıma	dönüşümü	altın-
+daki	görüntüsü	yandaki	şekilde	gösterilen	A'B'C'	üçgensel	bölgesidir .
+b) ABC	üçgensel	bölgesindeki	bazı	noktaların	d	doğrusuna	göre	yansı-
+ma	dönüşümü	altındaki	görüntüsü	ABC	üçgeninin	iç	bölgesindedir .	
+Bu	 noktalar	 KLMN	 dörtgensel	 bölgesini	 oluşturur.	 Şekil	 üzerindeki	
+bazı	noktaların	görüntüsünün	yine	şekil	üzerinde	olmasının	nedeni	
+yansıma	doğrusu	ile	şeklin	kesişmesidir.	Şekil	üzerindeki	bazı	nok-
+taların	görüntüleri	ise	ABC	üçgeninin	dış	bölgesinde	yer	almaktadır.	
+Bu	noktalar,	ALK	ve	BMNC	bölgelerinde	yer	alan	noktalardır .
+c)	 K	 ve	 M	 noktalarının	 yansıma	 dönüşümü	 altındaki	 görüntüleri	 sıra-
+sıyla	K	ve	M noktalarıdır.	Noktalar	ve	bunların	yansıma	dönüşümü	altındaki	görüntüleri	çakışıktır.
+ç)	 d	doğrusu	üzerindeki	 KM7 A  nın	tüm	noktalarının	görüntüleri	kendileridir.
+B
+C
+K
+N
+L
+A
+A'
+C'
+B'
+d
+M
+1. Sıra Sizde      
+Yandaki	birim	kareli	zeminde	d	doğrusu	ve	ABCDEFG	çokgen-
+sel	bölgesi	verilmiştir.	
+Buna göre aşağıdaki soruları cevaplayınız. 
+a) Şeklin köşe noktalarının ve kenarlarının d doğrusuna 
+göre yansıma dönüşümü altındaki görüntüleri olan 
+nokta ve kenarları yazınız. 
+b) Çokgensel bölgenin d doğrusuna göre yansıma dö-
+nüşümü altındaki görüntüsünü yandaki birim kareli 
+zemine çiziniz.
+c) Şekil ile bu şeklin d doğrusuna göre yansıma dönüşü-
+mü altındaki görüntüsünü karşılaştırınız. Şekil ile bu 
+şeklin d doğrusuna göre yansıma dönüşümü altındaki 
+görüntüsü arasında nasıl bir ilişki olduğunu ve bu iliş-
+kinin nedenini açıklayınız.
+BC
+D E
+FG
+A
+d

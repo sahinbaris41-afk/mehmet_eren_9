@@ -1,0 +1,48 @@
+119
+2. Tema /  Nicelikler ve Değişimler
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.
+7.  f doğrusal fonksiyonu ile ilgili aşağıdaki bilgiler 
+veriliyor. 
+• f fonksiyonunu temsil eden doğrunun gra-
+fiği y ekseni boyunca pozitif yönde 5 birim 
+ötelendiğinde oluşan grafiği temsil eden 
+fonksiyon g olsun. g fonksiyonunun cebirsel 
+temsili gx ax 3=+_i  olarak ifade ediliyor 
+a R!_i . 
+•  f fonksiyonunun sıfırının -3 olduğu biliniyor.  
+• f fonksiyonunun maksimum değeri 2, mini -
+mum değeri -4ʼtür.
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)  f	 fonksiyonunun 	 cebirsel 	 temsilini 	 bu-
+lunuz.
+b)  f	fonksiyonunun	grafik	temsilini	çiziniz.
+c)  f	fonksiyonunun 	artan 	ya 	da 	azalanlığını 	
+inceleyiniz.
+ç) f	fonksiyonunun	işaretini	inceleyiniz.
+8.  Aşağıda bir hava aracının kalkış, seyir ve iniş 
+süreçlerinde zamana (sn.) bağlı olarak yerden 
+yüksekliğini (m) ifade eden f, g ve h doğrusal 
+fonksiyonlarının grafik temsili verilmiştir.
+ 
+y = f(x)
+y = g(x)
+y = h(x)
+x   Zaman 
+(sn.)
+  y   Yerden yükseklik (m)
+O 12
+10
+30 46
+	 Buna 	göre	aşağıdaki 	 soruları 	 cevaplayınız.
+a)  Hava	aracının 	yüksekliğindeki 	değişimin 	
+zamandaki	 değişime 	 oranlarını 	 kalkış, 	
+seyir	 ve 	 iniş 	 süreçleri 	 için 	 ayrı 	 ayrı 	 he-
+saplayınız.
+b)  İniş	sürecinin 	kalkış 	sürecine 	göre 	daha 	
+uzun	 sürmes i 	 f 	 ve 	 h 	 fonksiyonlarının 	
+hangi	nitel	özellikleri	ile	açıklanabilir?
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

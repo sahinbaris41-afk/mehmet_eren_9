@@ -1,0 +1,29 @@
+68
+MATEMATİK 9 
+4. TEMA: EŞLİK VE BENZERLİK
+1. Adım
+2. Adım
+Grup arkadaşınızla A4 kâğıdını yatay biçimde ortalayacak şekilde bir d1 doğrusunu cetvelle çiziniz. Bu 
+doğrunun üzerinde kâğıdın sol kenarından 10 cm uzaklıktaki noktayı O olarak isimlendiriniz.
+d1 doğrusu üzerine bir kenarı 4 cm olacak şekilde bir eşkenar üçgen çizip kırmızı renge boyayınız. Bu 
+üçgeni, d1 doğrusu üzerindeki kenarının orta noktası O noktası üzerinde olacak şekilde şekil 1’deki gibi 
+çiziniz. Üçgenin sağ köşesini B olarak isimlendiriniz.
+d1 doğrusu üzerindeki kırmızı üçgenin yanına bir kenarı 2 cm olacak şekilde cetvelle bir eşkenar üçgen 
+çiziniz ve maviye boyayınız. Bu üçgeni, bir köşesi B noktasına gelecek şekilde çizip şekil 2’yi elde ediniz.
+Etkinlik Aşaması
+Etkinlikte eş ve benzer üçgenlerle dönüşümleri kullanarak desenler oluşturacaksınız. Adımları sıra-
+sıyla uygulayınız.
+4 cm
+4 cm
+2 cm
+O
+O
+d1
+d1
+Şekil 1
+Şekil 2
+B
+B
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+O
+d1

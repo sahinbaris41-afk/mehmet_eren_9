@@ -1,0 +1,51 @@
+99
+KUVVET VE HAREKET
+X. Aşama
+Anlık hız kavramının tanımına ulaşmak için I ve II numaralı yollarda doğrusal bir yol izleyen K ve L araçlarının 
+hız büyüklüklerini inceleyiniz. 
+ 
+t = 0
+K
+L
+o = 0
+t = 1 s
+I numaralı yol
+t = 2 s t = 3 s t = 4 s
+o = 8 m/so = 6 m/so = 4 m/so = 2 m/s
+t = 0 t = 1 s t = 2 s t = 3 s t = 4 s
+o = 0
+II numaralı yol
+o = 16 m/so = 12 m/so = 8 m/so = 4 m/s
+1. K ve L araçlarının I ve II numaralı yollarda belirtilen zamandaki hız büyüklüğünü aşağıdaki tablolara yazınız. 
+K Aracı
+Zaman (s) Hız Büyüklüğü (m/s)
+0
+1 s
+2 s
+3 s
+4 s
+L Aracı
+Zaman (s) Hız Büyüklüğü (m/s)
+0
+1 s
+2 s
+3 s
+4 s
+2. Tabloya yazdığınız hız büyüklükleri anlık hız değerleridir. Zaman ve hız arasındaki ilişkiden yararlanarak 
+anlık hızın tanımını yazınız. 
+Anlık Hız
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+XI. Aşama
+İvme kavramının tanımına ulaşmak için aşağıda hız büyüklükleri ile ilk ve son konumları verilen K ve L araçlarının 
+hareketlerini inceleyiniz.
+o = 0
+K
+o = 8 m/s
+K
+o = 4 m/s
+L
+o = 0
+L
+− +
+1. K ve L araçlarının hız büyüklüklerindeki değişim kaç m/s’ dir? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       

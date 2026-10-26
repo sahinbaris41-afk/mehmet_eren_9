@@ -1,0 +1,46 @@
+197
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendirile -
+bilir.
+Öğrencilere aynı dik koordinat sisteminde çizilen iki fonksiyonun grafiğini incelemeyi içeren 
+çalışma kâğıdı verilebilir. İnceleme sonucunda bu fonksiyon ikililerinden hangilerinin f ve f ' 
+şeklinde iki fonksiyona ait olabileceğinin değerlendirilmesi istenir. Çalışma sonunda öğren-
+ciler, öz değerlendirme formuyla kendilerini değerlendirebilir.
+Öğrencilere gerçek yaşam problemlerinde matematiksel modelleme yapabilme becerileri -
+ni geliştirmelerine katkı sağlayacak yerel veya mutlak ekstremum değerlerini hesaplamayı 
+gerektiren performans görevi verilebilir. Görevin değerlendirilmesinde dereceli puanlama 
+anahtarı kullanılabilir.
+Şerefeddin Tusi’nin polinom fonksiyonların yerel ekstremum değerlerini bulma bağlamında 
+yapmış olduğu çalışmalara yönelik araştırma ödevi, dereceli puanlama anahtarı ile değer -
+lendirilebilir.
+Fizik, kimya, biyoloji, ekonomi ya da mühendislik alanlarına ilişkin yerel ekstremum değer 
+hesaplamayı, değişim oranı/hızı belirlemeyi gerektiren problemler performans görevi olarak 
+verilebilir. Problem çözümleri, dereceli puanlama anahtarı ile değerlendirilebilir.
+Türevdeki maksimum-minimum yaklaşımının kullanımına ilişkin farklı disiplinlerin incelendiği 
+araştırma ödevi; hazırlık, planlama ve sunum süreçlerini içeren derecelendirme ölçeği ile 
+değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin ortalama değişim, anlık değişim kavramlarını bildiği;  fonksiyonun belirli bir 
+noktasındaki türev değeri ile fonksiyon grafiğine bu noktada çizilen teğet doğrusunun 
+eğimini ilişkilendirebildiği; temel türev alma kurallarını bildiği; bu kuralları kullanarak bir 
+fonksiyonun belirli bir noktasındaki türev değerini bulabildiği; bir fonksiyonun süreksiz 
+veya türevsiz olduğu noktalarda türevini farklı matematiksel temsiller kullanarak incele -
+yebildiği; yaptığı incelemeler sonucunda türevsizliğe sebep olan durumları açıklayabildi -
+ği; iki fonksiyonun toplamının, farkının, çarpımının, bölümünün veya bileşkesinin türevini 
+alabildiği; birinci ve ikinci dereceden bir bilinmeyenli denklem ve eşitsizlikleri çözebildiği 
+kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere birinci ve ikinci dereceden bir bilinmeyenli denklem ve eşitsizlikler içeren soru -
+lardan oluşan bir test sunulabilir. Türev kavramı ve bu kavramın gerçek yaşam durumların -
+daki anlamı hakkında ilgi, ihtiyaç, beceri ve kavram yanılgılarını tespit etmek için açık uçlu ya 
+da kısa cevaplı sorulardan oluşan hazır bulunuşluk testi yapılabilir. Öğrencilerin temel türev 
+alma kurallarına  ilişkin öğrenme eksiklikleri, açık uçlu sorular sorularak belirlenebilir.
+Bir fonksiyonun limitinin olmadığı ve süreksiz olduğu noktalarda veya köşe noktalarında tü-
+revini inceleyebilme durumları açık uçlu sorularla değerlendirilebilir. İki fonksiyonun topla -
+mının, farkının, çarpımının, bölümünün veya bileşkesinin türevini almaya dair becerilerinin, 
+kavram yanılgılarının, ilgi ve ihtiyaçlarının belirlenmesi amacıyla açık uçlu ya da kısa cevaplı 
+sorulardan oluşan hazır bulunuşluk testi yapılabilir.

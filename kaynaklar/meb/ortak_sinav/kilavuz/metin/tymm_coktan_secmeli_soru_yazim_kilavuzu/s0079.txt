@@ -1,0 +1,37 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+79
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Bir deterjan firması, proteaz enzimi içeren çamaşır deterjanının yüksek sıcaklıklarda (60–80 °C) pro -
+tein temelli lekeleri (örneğin kan, yemek artığı, çimen vb.) çıkarma performansını test etmek iste -
+mektedir. Araştırma konusuyla ilgili yapılan çalışmada protein içerikli lekeler (örneğin kan ve çimen 
+lekesi vb.) özdeş kumaş parçalarına eşit miktarda uygulanmıştır. Kumaşlar, pH ve deterjan miktarının 
+sabit tutulduğu koşullarda, enzimli ve enzimsiz deterjan çözeltilerine farklı sıcaklıklarda eşit süreyle 
+bırakılmıştır. Elde edilen sonuçlar aşağıdaki tabloda özetlenmiştir. 
+Sıcaklık (°C) Enzim Aktivitesi (%) Enzimli Deterjan: Leke Çıkarma Oranı (%) Enzimsiz Deterjan: Leke Çıkarma Oranı (%)
+20 35 46 32
+30 75 63 36
+40 100 79 38
+60 15 49 41
+80 ~0 47 47
+1. Bu amaca yönelik bir araştırma planlayan firma yetkililerinin araştırma sürecini yönlendirecek araş-
+tırma sorusu aşağıdakilerden hangisi olamaz? (KB2.8.SB2.)
+A) Enzimli deterjan, enzimsiz deterjanlara göre her sıcaklıkta daha iyi sonuç verir mi?
+B) Sıcaklık arttıkça enzimli ve enzimsiz deterjanların leke çıkarma verimleri arasında nasıl bir fark 
+oluşur?
+C) Artan sıcaklığın enzimsiz deterjanın leke çıkarma verimi üzerindeki olumsuz etkisi nedir?
+D) Enzimli deterjanın leke çıkarma etkinliği, hangi sıcaklık aralığında en yüksek düzeye ulaşır?
+E) Yüksek sıcaklıklarda, enzimli deterjanların enzim etkinliğinin azalmasının biyokimyasal sebebi 
+nedir?
+2. Tablodaki veriler ve araştırma sonuçları dikkate alındığında, sıcaklık değişiminin deterjan için-
+deki enzimlerin performansı üzerindeki etkisine dair aşağıdaki çıkarımlardan hangisi yapılabilir? 
+(KB2.8.SB5.)
+A) Enzim aktivitesinin 40 °C’tan sonra hızla düşmesi, enzimli deterjanın her sıcaklıkta enzimsiz deter-
+jandan daha üstün performans sergilemesini engeller.
+B) Enzim aktivitesi azalsa bile leke çıkarma oranının belli bir seviyede kalması, deterjanın kendi temiz-
+leme gücünün yüksek ısıda enzimin yerini aldığını kanıtlar.
+C) Yüksek sıcaklıkta aktivitenin sıfırlanması ve temizleme oranlarının eşitlenmesi, enzimin yapısal 
+olarak bozularak işlevini tamamen yitirdiğini gösterir.
+D) Enzimler, 30 °C  altındaki sıcaklıklarda yapısal olarak en kararlı hâldedir ve bu durum leke çıkarma 
+verimliliğinin bu aralıkta maksimuma ulaşmasını sağlar.
+E) Sıcaklık artışının enzim aktivitesini düşürmesi, enzimli deterjanların sadece soğuk su ile yapılan 
+yıkamalarda kullanılmak üzere tasarlandığına dair kesin bir kanıttır.

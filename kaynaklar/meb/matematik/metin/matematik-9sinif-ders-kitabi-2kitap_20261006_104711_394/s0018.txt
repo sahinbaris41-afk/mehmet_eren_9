@@ -1,0 +1,24 @@
+18
+4. Tema / Eşlik ve Benzerlik
+2. Sıra Sizde      
+Etkileşimli tahta veya bilgisayarda matematik yazılımını açınız. Öğretmeninizin rehberliğinde 
+aşağıdaki adımları sırasıyla uygulayınız.
+1. Araçlar	bölümünden	sırasıyla	Çokgen ve Doğru	araçlarını	seçerek	bir	üçgen	ve	bir	doğru	oluşturunuz.
+2. Dönüşüm	bölümünden	Doğruda Yansıt	aracını	seçerek	oluşturduğunuz	üçgenin	doğruya	göre	yan-
+sıma	dönüşümü	altındaki	görüntüsünü	oluşturunuz.
+3. Araçlar	bölümünden	Doğru Parçası	aracını	seçerek	1.	adımda	oluşturduğunuz	üçgenin	köşe	nok-
+taları	ile	bu	noktaların	görüntülerini	birleştiriniz.
+4. Ölçüm	bölümünden	Açı	aracını	seçerek	3.	adımda	oluşturduğunuz	doğru	parçaları	ile	yansıma	doğ-
+rusu	arasındaki	açıların	ölçülerini	belirleyiniz.	
+5. Şeklin	köşe	noktaları	için	3	ve	4.	adımlarda	yaptığınız	işlem	ve	ölçümleri	şekil	üzerindeki	farklı	nok-
+talar	ve	görüntüleri	için	de	yapınız.
+6. Yaptığınız çizimden hareketle aşağıdaki soruları cevaplayınız.
+a) 4 ve 5. adımlarda belirlediğiniz açı ölçüleri arasındaki ilişkiyi yazınız.
+b) 3. adımda oluşturduğunuz doğru parçaları arasındaki ilişkiyi yazınız.
+c) 1. adımda oluşturduğunuz üçgeni sürükleyerek a ve b sorularında ifade ettiğiniz ilişkilerin 
+geçerli olup olmadığını açıklayınız. 
+ç) Yansıma doğrusunu hareket ettirerek a ve b sorularında ifade ettiğiniz ilişkilerin geçerli olup 
+olmadığını açıklayınız. 
+ç) Elde ettiğiniz ilişkiyi doğrulayan geometrik şekillere örnekler veriniz. Örnek verdiğiniz 
+geometrik şekilleri ve bu şekillere ait yansıma doğrularını aşağıda verilen birim kareli zemin 
+üzerine çiziniz.

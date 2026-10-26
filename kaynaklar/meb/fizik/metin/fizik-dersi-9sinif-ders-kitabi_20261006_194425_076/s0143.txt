@@ -1,0 +1,42 @@
+143
+AKIŞKANLAR
+Kontrol Noktası
+Cisimler, üzerine uygulanan kuvveti ­yönü ve büyüklüğünü değiştir­
+meden­ aynen iletir.
+P2 A2
+P1 A1
+F1
+F2
+Cisimler, ağırlıklarından dolayı bulundukları yüzeye basınç uygular. 
+A
+G
+Basıncın 
+birimi: Pa
+Kuvvetin 
+birimi: N
+Yüzey 
+alanının 
+birimi: m2
+Birim yüzeye etki eden 
+dik kuvvetin büyüklüğüne 
+basınç denir. 
+Basıncın azaltılması, belirli bir kuvvetin daha büyük bir 
+yüzey alanına uygulanmasıyla sağlanır ve bu durum, 
+çeşitli araçların ve teknolojilerin çalışma ilkelerinde 
+önemli bir yere sahiptir. 
+Basıncın matematiksel modeli:
+P AF=
+P AG Am g $= = 
+F1  = F2
+A1 ≠ A2
+P1 ≠ P2
+F
+A
+Basınç
+Günlük hayatı kolaylaştırmak için çeşitli alanlarda bilimsel çalışmalar yapılmaktadır. 
+Bunlardan biri de basıncın artırılması veya azaltılmasına yönelik çalışmalardır.
+Basıncın artırılması, belirli bir kuvvetin daha küçük bir 
+yüzey alanına uygulanmasıyla sağlanır ve bu durum, 
+çeşitli araçların ve teknolojilerin çalışma prensiplerinde 
+önemli bir yere sahiptir. 
+ 

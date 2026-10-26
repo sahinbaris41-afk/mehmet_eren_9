@@ -1,0 +1,45 @@
+90
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+oluştuğuna ulaşmaları beklenir. Elde edilen bu önermeler farklı problem durumlarında kullanı -
+larak değerlendirilir. Öğrencilere gerçek yaşam problemleri üzerinden üçgenin alanının taban 
+ve o tabana ait yüksekliğine göre nasıl değiştiğine ilişkin önermeleri ve buna yönelik hesaplama-
+ları içeren çalışma kâğıdı verilebilir.
+MAT.10.1.4
+Verilen sinüs teoreminin her üçgen için geçerli olup olmadığı sorgulanır ve teoremin doğrulu -
+ğunu göstermeye dair neler yapılabileceği hakkında öğrencilerin fikirleri alınır. Öğrencilerden 
+sinüs trigonometrik oranını içeren üçgende alan formülünü kullanarak yapılan doğrulamaları 
+değerlendirmeleri beklenir. Doğrulanan bu teoremin problem durumlarında kullanımı sağlanır 
+(MAB2). 
+Kosinüs teoreminin nasıl ispatlanacağına dair öğrenci fikirleri alınır. Bu ispatlama sürecinde öğ-
+rencilerin bu teoremin üçgenlerde geçerli olduğunu ve üçgenler üzerinde Pisagor teoremini 
+kullanmaları gerektiğini fark etmeleri beklenir. Bunu sağlamak için üçgen üzerinde ne tür ek çi-
+zimler yapılması gerektiğine dair tartışmalar yapılır. İspat adım adım ilerletilerek teoremlerin is-
+patları üzerindeki çalışmalar yoluyla öğrencilerin analitik düşünme ve sistematik olma eğilimleri 
+desteklenir (E3.6, E3.7) . Ek çizimler yardımıyla Pisagor teoreminden yararlanılarak teoremin 
+ispatı yapılır. Bu teorem, gerçek yaşam problemlerinin çözümünde kullanılır (MAB2). Problem-
+lerin çözümünde teoreme ilişkin ispat adımları kullanılır.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilerin üçgende yardımcı elemanların uzunluklarının nasıl hesaplanabileceğine dair çı-
+karım yapmaları istenebilir. 
+(*) Bir üçgende çevrel çemberin merkezi ile diklik ve ağırlık merkezlerinin doğrusal olup olmadığı 
+ile ilgili araştırma yapıp bu araştırmalarını planlı bir şekilde sunmaları sağlanabilir.
+(*) Üçgende öğrendikleri alan bağıntılarından daha farklı alan bağıntılarının olup olmadığı hak -
+kında araştırma yapmaları ve varsa bu bağıntıların üçgenin hangi özelliklerinden yararlanılarak 
+elde edilebileceğini ifade etmeleri istenebilir.
+Sinüs ve kosinüs teoremlerinin farklı ispatlarını araştırmaları istenerek öğrencilerin bu araş -
+tırmalarını sunmaları sağlanabilir. Ayrıca kosinüs teoremi ile Pisagor teoremi arasındaki ilişkiyi 
+ortaya çıkarmaları istenebilir.
+(*) 15° ve 75°lik açıların trigonometrik oranlarının bulunması ile ilgili araştırmalar yapılabilir. 
+(*) Morley (Morliy) üçgeni hakkında araştırma yapmaları istenebilir. Herhangi bir açının pergel ve 
+ölçüsüz cetvel kullanılarak iki eş parçaya bölünebileceği ancak üç eş parçaya bölmenin çözüle-
+memiş problemlerden birisi olduğu araştırma ödevi olarak verilebilir.
+Destekleme Ders içeriği; matematik yazılımlarıyla, pergel ve ölçüsüz cetvel gibi araç gereçle sunulabilir. 
+Öğrencilerin kendi hızlarında ilerlemelerine olanak tanıyan etkileşimli çevrim içi uygulamalar 
+kullanılabilir. Bu sayede genelleme, doğrulama ve ispatlama sürecindeki içeriğin daha kolay an-
+lamlandırılması ve dijital okuryazarlık becerilerinin geliştirilmesi sağlanabilir. Öğrencilerin kendi 
+aralarında çalışmalar yapmaları sağlanarak iş birlikli öğrenme ortamları oluşturulur ve akran 
+geri bildirimi sayesinde öğrencilerin birbirlerinden öğrenmelerine yönelik çalışmalar yaptırıla-
+bilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

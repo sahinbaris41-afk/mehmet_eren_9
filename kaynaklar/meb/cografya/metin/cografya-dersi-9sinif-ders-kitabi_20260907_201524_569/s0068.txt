@@ -1,0 +1,52 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+68
+Yönerge: Aşağıdaki bilgilerden yararlanarak soruları cevaplayınız.
+Uzaktan algılama teknolojisi ile beşer î ve ekonomik faaliyetler uzaydan göz-
+lemlenebilir, gelecek için mekânsal planlama yapılırken uydu verilerinden ya-
+rarlanılabilir. Farklı zamanlarda alınan uydu görüntülerinden doğal sistemdeki 
+değişimler veya insanın Dünya’yı nasıl değiştirdiği de takip edilebilir. 
+Bartın’da orman yangını açısından riskli alanların belirlenmesi amacıyla CBSʼden yararlanılarak bilimsel bir çalış-
+ma yapılmıştır. Çalışmada orman yangını risk haritasının oluşturulması için yangını etkileyen faktörler (arazi kulla-
+nımı, yükseklik, eğim, bakı, sıcaklık ve nem) ile acil durum müdahalelerine (itfaiye, gözetleme kulesi ve su kaynağı) 
+yakınlık başlıklarında veri toplanmıştır. Arazi kullanı-
+mının belirlenmesi için uydu görüntülerinden yarar -
+lanılmıştır. Buna göre bitki türleri ve su kaynakları 
+sınıflandırılmıştır. Meteoroloji Genel Müdürlüğünden 
+sıcaklık, nem ve yağış verileri alınmıştır.
+Toplanan verilerden hareketle CBS yazılımını kul-
+lanan uzman tarafından bilgisayar ortamında ha-
+ritalar üretilmiştir. Ayrıca CBS yazılımıyla acil 
+durum müdahaleleri için yakınlık analizi yapıl-
+mış ve analiz haritaları elde edilmiştir. Son olarak 
+hazırlanan haritaların birleştirilmesiyle Bartın ili-
+nin orman yangını risk haritası oluşturulmuştur.  
+K
+0 10
+km
+Karadeniz
+Risk Sınıfı
+Çok yüksek
+Yüksek
+Orta
+Düşük
+Zonguldak
+Karabük
+Kastamonu
+BartınBartın
+Kullanıcı
+1. Çalışmada geçen CBS bileşenlerini örnekteki gibi belirleyer ek açıklayınız.
+2.
+ Ç
+alışmada CBS’nin bileşenleri nasıl ilişkilendirilmiştir?  
+........................................................................................................................................................................................................................... 
+........................................................................................................................................................................................................................... 
+...........................................................................................................................................................................................................................
+3. Y ukarıdaki gibi bir çalışma yapılmadan önce CBS yönteminin belirlenmesi için hangi sorular sorulmalıdır? 
+........................................................................................................................................................................................................................... 
+........................................................................................................................................................................................................................... 
+...........................................................................................................................................................................................................................
+Amaç Mekânsal bilgi teknolojilerini oluşturan bileşenleri çözümleyebilme
+Beceri Çözümleme, Görsel Okuryazarlık
+ETKİNLİK Bartın’da Orman Yangını Riskinin CBS ile Belirlenmesi
+DEĞERLENDİRME: Öğretmeninizin rehberliğinde çalışmanızı kontrol edip varsa eksik cevaplarınızı 
+düzenleyiniz. 

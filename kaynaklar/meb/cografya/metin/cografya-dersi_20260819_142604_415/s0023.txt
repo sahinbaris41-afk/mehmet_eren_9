@@ -1,0 +1,31 @@
+23
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+Bu ünitede hava olaylarının günlük hayata etkisinin gözleme dayalı tahmin edilebilmesi, 
+iklim sisteminin bileşen ve değişkenlerinin çözümlenebilmesi, iklim türlerine yönelik tablo, 
+grafik, şekil ve/veya diyagram hazırlanabilmesi; iklim sistemindeki değişim ve sürekliliğin 
+algılanabilmesi amaçlanmaktadır.   
+DERS SAATİ 20
+ALAN 
+BECERİLERİ SBAB4. Değişim ve Sürekliliği Algılama, SBAB11. Tablo, Grafik, Şekil ve/veya Diyagram 
+(SBAB11.2. Tablo, Grafik, Şekil ve/veya Diyagram Hazırlama)
+KAVRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.11. Gözleme Dayalı Tahmin Etme
+EĞİLİMLER E3.4. Gerçeği Arama, E3.5. Açık Fikirlilik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.3. Sorumlu Karar 
+Verme
+Değerler D3. Çalışkanlık, D5. Duyarlılık, D9. Merhamet, D14. Saygı
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB5. Kültür Okuryazarlığı, OB7. Veri 
+Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER İklim, Çevre ve Yenilikçi Çözümler, Astronomi ve Uzay Bilimleri, Fizik 
+BECERİLER ARASI 
+İLİŞKİLER KB3.3. Eleştirel Düşünme, MAB4. Veri ile Çalışma ve Veriye Dayalı Karar Verme, FBAB3. 
+Bilimsel Gözleme Dayalı Tahmin, FBAB4. Bilimsel Veriye Dayalı Tahmin, FBAB8. Bilimsel 
+Çıkarım Yapma, SBAB1. Zamanı Algılama ve Kronolojik Düşünme (KB2.17. Değerlendirme), 
+SBAB2. Kanıta Dayalı Sorgulama ve Araştırma (SBAB2.5. Kaynağı Yorumlama), SBAB10. 
+Harita (SBAB10.2. Haritayı Çözümleme, SBAB10.3. Haritadan Çıkarım Yapma)

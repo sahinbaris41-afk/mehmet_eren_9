@@ -1,0 +1,32 @@
+ 
+1
+T .C.
+MİLLÎ EĞİTİM BAKANLIĞI
+ÖLÇME, DEĞERLENDİRME VE SINAV HİZMETLERİ GENEL MÜDÜRLÜĞÜ
+2025-2026 EĞİTİM VE ÖĞRETİM YILI
+I. DÖNEM I. YAZILI SINAVI (ÜLKE GENELİ ORTAK)
+MATEMATİK
+9. SINIF
+ÖĞRENCİLERİN DİKKATİNE!
+1.	 Bu	soru	kitapçığında	7	soru	bulunmaktadır	ve	sınav	süresi	40	dakikadır.
+2.	 Cevaplarınızı,	soruların	altında	boş	bırakılan	yerlere	yazınız.	
+3.	 Sınav	100	tam	puan	üzerinden	değerlendirilecektir.	1,	2,	3,	4,	5	ve	7.	sorular	15	puan;	6.	soru	10	puan	
+değerindedir.
+Adı	ve	Soyadı	 :	............................................................................
+Sınıfı	/	Şubesi	 :	............................................................................
+Öğrenci	Numarası	 :	............................................................................
+Aldığı	Puan
+ÖĞLE
+OTURUMU
+1. A, B ve C şehirlerinin doğrusal bir yol üzerindeki konumları aşağıda verilmiştir.
+A şehri B şehri C şehri
+A ve B şehirleri arasındaki uzaklık 0,24 · 106 m, B ve C şehirleri arasındaki uzaklık ise 36 · 104 m’dir.
+A ve C şehirleri arasındaki uzaklık K · 105 m olduğuna göre, K’nin değerini işlemlerinizi göste-
+rerek bulunuz. (15 puan)
+A ve C şehirleri arasındaki uzaklığı bulmak için üslü gösterimleri eşitleyelim.
+A ve B şehirleri arasındaki uzaklık 0,24 · 106 = 2,4 · 105 m,
+B ve C şehirleri arasındaki uzaklık 36 · 104 = 3,6 · 105 m’dir.
+A ve C şehirleri arasındaki uzaklık K · 105 m olduğundan 
+2,4 · 105 + 3,6 · 105 = K · 105
+         6 · 105 = K · 105
+                 K = 6 bulunur.

@@ -1,0 +1,43 @@
+149
+AKIŞKANLAR
+Sıvılar, ağırlıkları nedeniyle bulundukları yüzeye basınç uygular. Cisimler, yal-
+nızca üzerinde bulundukları yüzeye, sıvılar ise içinde bulunduğu kabın temas 
+ettiği tüm yüzeylerine basınç uygular.
+Taban alanı A olan Görsel 3.5’teki silindirik kabın içinde h yüksekliğinde sıvı 
+bulunmaktadır. Bu sıvının kabın tabanına uyguladığı kuvvetin büyüklüğü, 
+kabın yatay zemin üzerinde olması sebebiyle ağırlığına eşittir. Bu nedenle 
+sıvının kabın tabanına uyguladığı basınç,
+P AG=  matematiksel modeli ile ifade edilir.
+Silindirdeki sıvının hacmi = Taban alanı : Yükseklik olduğundan 
+V A h$=  olur (1).
+Silindirdeki sıvının kütlesi = Sıvının yoğunluğu  : Sıvının hacmi olduğundan 
+m d V$=  olur. 1 numaralı matematiksel model kullanıldığında m A h d $ $ =  
+olur (2).
+Silindirdeki sıvının ağırlığı = Sıvının kütlesi  : Yer çekimi ivmesi olduğundan 
+ağırlığın büyüklüğü G m g$=  olur. 2 numaralı matematiksel model kullanıl-
+dığında G A h d g $ $ $ =  bulunur (3).
+Basınç P AG=  matematiksel modeli ile ifade edilmektedir. Bu modelde 
+3 numaralı matematiksel model kullanıldığında sıvının kabın tabanına yaptığı 
+basınç P AA h d g h d g $ $ $ $ $ = =  olur.
+Bir sıvının belirli bir noktadaki basıncı; o sıvının yoğunluğuna (d), bulunduğu 
+bölgenin yer çekimi ivmesinin büyüklüğüne (g) ve o noktanın sıvının serbest 
+yüzeyinden olan dik uzaklığına, diğer bir deyişle derinliğine (h) bağlıdır.
+Yoğunluğun birimi kg/m3, yer çekimi ivmesinin birimi m/s2 ve derinliğin birimi m 
+alındığında basıncın birimi pascal (Pa) olur.
+Yer çekimi ivmesinin ve sıvının yoğunluğunun değişmediği durumda sıvı için-
+deki yüzeylere etki eden basınç, sadece sıvının derinliği ile doğru orantılı 
+olarak farklılık gösterir.
+Durgun hâldeki sıvının, içinde bulunduğu kabın tabanına uyguladığı basınç, 
+kabın şekline ve kesit alanına bağlı değildir. Farklı şekil ve büyüklüklere sahip 
+kap içinde bulunan aynı yükseklik, sıcaklık ve yoğunluğa sahip sıvıların kap-
+ların tabanında oluşturduğu basınç değerleri birbirine eşittir (Görsel 3.6). 
+3A 2A A
+h d d d
+Görsel 3.6: Şekilleri farklı, tabanlarına uygulanan sıvı basınçları eşit kaplar
+h
+A
+d
+Görsel 3.5: İçinde d yo-
+ğunluklu ve h yüksekliğin-
+de sıvı bulunan silindirik 
+kap

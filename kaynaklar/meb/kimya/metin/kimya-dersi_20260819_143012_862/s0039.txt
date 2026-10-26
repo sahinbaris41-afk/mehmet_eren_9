@@ -1,0 +1,34 @@
+39
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+10. SINIF TEMALARI
+1. TEMA: ETKİLEŞİM
+Bu tema, Kimyasal Tepkimeler ve Gazlar olmak üzere iki farklı bölümden oluşmaktadır. 
+Bu temada öğrencilerin kimyasal değişimlere ilişkin bilimsel gözlem yapmaları ve model 
+oluşturmaları, kimyasal tepkime türlerinin oluşum sürecine ilişkin bilimsel gözlem yapma-
+ları, mol kavramına ilişkin operasyonel tanımlama yapmaları, stokiyometrik hesaplama -
+lara ilişkin tümdengelimsel akıl yürütmeleri, gazların özelliklerine ilişkin bilimsel gözlem 
+ve bilimsel sorgulama yapmaları, ideal gaz denklemini tümevarımsal akıl yürütme yoluyla 
+oluşturmaları, gazların farklı ortamlarda yayılmasına ilişkin deney yapmaları amaçlanmak-
+tadır.
+DERS SAATİ 32
+ALAN 
+BECERİLERİ FBAB1. Bilimsel Gözlem, FBAB5. Operasyonel Tanımlama, FBAB7. Deney Yapma, FBAB9. 
+Bilimsel Model Oluşturma,  FBAB10. Tümevarımsal Akıl Yürütme, FBAB11. Tümdengelim-
+sel Akıl Yürütme, FBAB13. Bilimsel Sorgulama
+KAVRAMSAL 
+BECERİLER KB2.1. Çelişki Giderme, KB2.16. Muhakeme (Akıl Yürütme) (KB2.16.2. Tümdengelimsel Akıl 
+Yürütme)
+EĞİLİMLER E1.4. Kendine İnanma (Öz Yeterlilik), E1.5. Kendine Güvenme (Öz Güven), E1.6. Seçicilik, 
+E2.1. Empati, E3.5. Açık Fikirlilik, E3.6. Analitiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB3.2. Esneklik
+Değerler D1. Adalet, D3. Çalışkanlık, D4. Dostluk, D6. Dürüstlük, D11. Özgürlük, D14. Saygı, D16. So -
+rumluluk
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Coğrafya, Fizik, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.2. Gözlemleme, KB2.7, Karşılaştırma, KB2.8. Sorgulama, KB2. 14. Yorumlama

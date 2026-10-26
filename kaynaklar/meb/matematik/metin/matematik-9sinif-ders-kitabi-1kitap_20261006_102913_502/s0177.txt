@@ -1,0 +1,50 @@
+177
+3. Tema /  Geometrik Şekiller
+Üçgenin Dış Açılarının Ölçüleri Toplamı
+Aşağıda verilen teoremin ispatına yönelik adımları uygulayınız.
+1. T eoremi inceleyiniz.
+Teorem: Üçgenin dış açılarının ölçüleri toplamı 360° dir.
+Verilenler: ABC üçgeni, ABC üçgeninin dış açılarının ölçüleri x, y, z
+İspatlanacak ifade: xyz 360o++ =
+2. T eoremin ispatının üçgenin iç açılarının ölçüleri toplamı kullanılarak nasıl yapılabileceğine ilişkin fikirlerinizi 
+sınıf arkadaşlarınızla paylaşınız.
+3.  T eoremin ispat adımlarının yer aldığı tabloda boş bırakılan alanları aşağıdaki soruları cevaplayarak doldurunuz.
+a) Üçgenin aynı köşesine ait iç açı ve dış açılar arasındaki ilişkiyi açıklayınız. Bu ilişkiye dayanarak tablonun 
+I. adımının gerekçe kısmını doldurunuz. Gerekçenizden hareketle I. adımın ifadeler kısmında üçgenin her 
+bir iç açısının ölçüsünü o açıya komşu olan dış açının ölçüsü türünden matematiksel olarak ifade ediniz.
+b) İspatın II. adımında verilen gerekçeden hareketle bu adımda yer alması gereken matematiksel ifadeye iliş -
+kin fikirlerinizi açıklayarak II. adımın ifadeler bölümünü doldurunuz.
+c) T ablonun II. adımında yer alan matematiksel ifadeyi üçgenin dış açılarının ölçüleri toplamını ifade edecek 
+şekilde düzenleyerek III. adımın ifadeler bölümünü doldurunuz.
+Adım İfadeler Gerekçe
+I.
+ABC üçgeninin iç açılarının ölçüleri
+mA =_iX  .................
+mB =_iW  .................
+mC =_iW  ................. bulunur.
+II. Üçgenin iç açılarının ölçüleri toplamı 180o dir.
+III. II. adımda elde edilen eşitlik
+Siz de farklı doğrulama ve ispat yöntemleri bulmaya çalışarak bulduğunuz yöntemleri sınıfça tartışınız.
+2.	Uygulama
+Ax
+y
+zB
+C
+2. ÖRNEK
+Bir usta iş aletlerini asmak için üç parça çubuğu duvara D, B, C ve E noktalarından vidalamıştır. Zaman 
+içinde D ve E noktalarındaki vidalar yerlerinden çıkmıştır. I ve III numaralı çubuklar sırasıyla B ve C 
+noktaları etrafında döndüğünden D ve E noktaları Şekil 2’de pembe çizgiyle gösterilen yolları izleyerek 
+P noktasında çakışmıştır.
+D B
+I II III
+C E
+Şekil 1
+P
+D B
+I
+II
+III
+C E
+Şekil 2
+Çubukların çakıştığı andaki konumda mC Em BDPP23$$ =`` jj%%  ve mB CP6 0o=`j%  olduğuna göre I numa-
+ralı çubuk ok yönünde kaç derece dönmüştür? (Çubuk kalınlıkları dikkate alınmayacaktır.)

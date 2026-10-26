@@ -1,0 +1,52 @@
+28
+1. Tema /  Sayılar
+6. ÖRNEK
+2+25 16 02 74+- -3  işleminin sonucunu bulunuz.
+Çözüm
+,,25 55 51 62 22 002 2
+2
+4 44 4
+4
+== == == =
+27 33 33 33 3
+3
+-= -= -= -__ ii  ifadeleri işlemde yerine yazıldığında
+2+25 16 02 75 2023 76 1$+- -= +-+- =-=4 3 _i  bulunur.
+4.	Sıra	Sizde   
+75 21 25 27-+  işleminin	sonucunu	bulunuz.
+7. ÖRNEK
+4
+3
+24 5
+5
+5 $  işleminin sonucunu bulunuz.
+Çözüm
+Köklü gösterimlerin dereceleri eşit olduğundan çarpma ve bölme işlemleri aynı kök içinde yapılabilir.
+. bulunur
+3
+24 4
+3
+24 4 483 22 2555 5 55 5 5$ $ $== == =
+8. ÖRNEK
+58 1
+50 16
+43
+3
+-
++  işleminin sonucunu bulunuz.
+Çözüm
+50 16 50 45 04 543 2 3+= += +=33
+58 15 35 3243 443 33-- -== =  ifadeleri işlemde yerine yazıldığında
+. bulunur
+58 1
+50 16
+2
+54
+2
+54 23 37
+43
+3
+3
+3 3 3 33
+-
++ == == =

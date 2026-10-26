@@ -1,0 +1,53 @@
+55
+1. Tema/Etkileşim
+Aşağıda bazı atom orbitallerine ait görseller verilmiştir. Görsellerde aynı orbital türünün farklı enerji sevi-
+yelerindeki durumları ile aynı enerji seviyesindeki farklı orbital türlerinin durumları görülmektedir. Bu gör-
+selleri inceleyip aşağıdaki soruları cevaplayınız. (Bu etkinliğe ilişkin değerlendirme öğretmeniniz tarafından 
+kitabın sonunda “Ekler” bölümündeki 2. Form ile yapılacaktır.)
+x
+x
+x
+x
+x x x x x
+x x x x
+x
+x
+x
+x
+x x x
+y
+y
+y
+y
+y y y y
+y y y y y
+y
+y
+y
+y
+y y y
+z
+z
+z
+z
+z z z z z
+z z z z
+z
+z
+z
+z
+z z z
+1s 3s2s 4s
+3dxy
+4dxy
+3dyz
+4dyz
+3dxz
+4dxz
+2px 2py 2pz
+3px 3py 3pz
+3dz
+4dz
+3dx −y
+4dx −y
+Etkinlik-1.8 Atom Orbitallerinin Bağıl Enerjileri

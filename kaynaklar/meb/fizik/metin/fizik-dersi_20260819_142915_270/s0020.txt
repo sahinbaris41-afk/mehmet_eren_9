@@ -1,0 +1,50 @@
+20
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.9.2.1. Birimleri SI birim sisteminde verilen temel ve türetilmiş nicelikleri sınıflandıra-
+bilme
+a) Birimleri SI birim sisteminde verilen temel ve türetilmiş niceliklerin niteliklerini ta-
+nımlar.
+b) Birimleri SI birim sisteminde verilen temel ve türetilmiş nicelikleri niteliklerine göre 
+ayrıştırır.
+c) Birimleri SI birim sisteminde verilen temel ve türetilmiş nicelikleri niteliklerine göre 
+gruplandırır.
+ç) Birimleri SI birim sisteminde verilen nicelikleri temel ve türetilmiş nicelikler olarak 
+adlandırır.
+FİZ.9.2.2. Skaler ve vektörel nicelikleri karşılaştırabilme
+a) Skaler ve vektörel niceliklerin özelliklerini belirler.
+b) Skaler ve vektörel niceliklerin benzerliklerini listeler.
+c) Skaler ve vektörel niceliklerin farklılıklarını listeler.
+FİZ.9.2.3. Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerine yönelik 
+bilimsel çıkarım yapabilme
+a) Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerini tanımlar.
+b) Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklükleri ile ilgili verileri 
+toplayarak kaydeder.
+c) Verileri yorumlayarak eşit vektör, zıt vektör ve gerçek sayıyla çarpılmış vektörlere 
+ilişkin değerlendirmeler yapar.
+FİZ.9.2.4. Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralelkenar yöntemi 
+ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme
+a) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralelkenar yöntemi ile 
+bileşenlerine ayırma işlemini inceleyerek toplama yöntemlerinde kullanılan örün-
+tüleri bulur.
+b) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralelkenar yöntemi ile 
+bileşenlerine ayırma işlemine ilişkin genelleme yapar.
+FİZ.9.2.5. Doğadaki temel kuvvetleri karşılaştırabilme
+a) Doğadaki temel kuvvetlere ilişkin özellikleri belirler.
+b) Doğadaki temel kuvvetlere ilişkin benzerlikleri listeler.
+c) Doğadaki temel kuvvetlere ilişkin farklılıkları listeler.
+FİZ.9.2.6. Hareketin temel kavramlarının tanımlarına yönelik tümevarımsal akıl yürüte-
+bilme
+a) Hareketin temel kavramlarına yönelik örnekleri gözlemleyerek görseller arasında-
+ki benzerlikleri bulur.
+b) Hareketin temel kavramlarına ilişkin genellemeler yapar.  
+FİZ.9.2.7. Hareket türlerini sınıflandırabilme
+a) Hareket türlerinin niteliklerini belirler.
+b) Hareket türlerini ortak özelliklerine göre ayrıştırır.
+c) Hareket türlerini ortak özelliklerine göre gruplandırır.
+ç) Hareket türlerine göre oluşturduğu grupları adlandırır.
+İÇERİK ÇERÇEVESİ Temel ve Türetilmiş Nicelikler
+Skaler ve Vektörel Nicelikler
+Vektörler
+Doğadaki Temel Kuvvetler
+Hareket ve Hareket Türleri

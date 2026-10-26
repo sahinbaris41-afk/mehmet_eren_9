@@ -1,0 +1,51 @@
+89
+4. Tema/Ölçme ve Değerlendirme
+5.	 Müşterilerine 	daha	güvenli	ve	rahat	bir	eriş im	
+sağlamak	isteyen	bir	dükkân	sahibi,	dükkânı-
+nın	girişindeki	merdivenin	yanına	ölçüleri	gör-
+selde	belirtildiği	gibi	olan	bir	rampa	inşa	etmek	
+istemektedir.
+Yatay	uzunluğu	143	cm	olan	bu	rampayı	inşa	
+etmek	için	iki	metal	destek,	 	rampaya	A	ve	B	
+noktalarından	yer	düzlem ine	dik	olacak	şek ilde	
+yerleştirilecektir.	A	nokt asına	yerleş tirilen	des-
+teğin	uzunluğu	39	cm’dir.
+Buna göre aşağıdaki soruları cevaplayınız.
+a) B noktasına yerleştirilen desteğin uzun-
+luğu 9 cm olduğuna göre B noktasının 
+rampanın zemine değdiği C noktasına 
+uzaklığının kaç cm olduğunu bulunuz.
+b) Rampayı sağlamlaştırmak için rampanın 
+zemine değdiği C noktasından 66 cm 
+uzağa, yer düzlemine dik olacak şekilde 
+yerleştirilen metal desteğin uzunluğu -
+nun kaç cm olduğunu bulunuz.
+143143
+3939
+CC
+ BB
+AA
+6. Ayça,	bir	odanın	yüksekliğini	dolaylı	yoldan	ölç-
+mek	için	yeni	bir	yöntem	geliştirmeye	çalışmak-
+tadır.	
+Yönteminde	 ip	 ve	 cetvel	 kullanan	Ayça,	 gör-
+selde	ifade	edildiği	gibi	odanın	bir	duvarının	alt	
+köşesindeki	P	noktasına	bir	parça	ip	bağlar	ve	
+ipin	diğer	ucunu	sağ	eliyle	göz	hizasında	tuta-
+rak	duvardan	geriye	doğru	yürür.	Duvara	olan	
+mesafesini	ayarlamak	için	sol	eline	aldığı	15	
+cm	uzunluğundaki	cetveli	duvara	paralel	olacak	
+şekilde	tutar.	Cetvelin	alt	kısmı	P	noktasıyla,	
+cetvelin	 üst	 kısmı	 duvarın	 üst	 köşesindeki	 K	
+noktasıyla	aynı	hizaya	gelene	kadar	yürümeye	
+devam	ederek	duvara	olan	mesafesini	ayarlar.	 	
+Buna göre
+a) Ayça’nın odanın yüksekliğini hesaplaya-
+bilmek için kullandığı yöntemi açıklayınız.
+b) Ayça’nın gözü ile P noktası arasındaki 
+mesafe 572 cm ve cetvelin alt kenarı ile 
+Ayça’nın gözü arasındaki mesafe 26 cm 
+olduğuna göre odanın yüksekliğini ifade 
+eden PK  nun kaç cm olduğunu bulunuz.
+P
+K

@@ -1,0 +1,48 @@
+171
+BÜTÜNCÜL DERECELİ PUANLAMA ANAHTARI
+Puan Özellikler
+Mükemmel  (5)
+• Broşür, minerallerin eksikliğinin sağlık üzerindeki etkilerini kapsamlı bir şekilde açıklar ve dengeli 
+beslenmenin bu etkileri nasıl en aza indirebileceğini ayrıntılı olarak belirtir. Bilgiler doğru, güncel ve 
+güvenilir kaynaklara dayanır.
+• Broşür, dikkat çekici ve estetik bir tasarıma sahiptir. Renkler, yazı tipleri ve görseller dengeli bir 
+şekilde kullanılmıştır. Bilgi, kolayca anlaşılabilir ve takip edilebilir bir şekilde sunulmuştur.
+• Broşür, hedef kitlenin ilgi ve ihtiyaçlarına uygun olarak hazırlanmıştır. Dil ve terminoloji hedef kitle 
+tarafından kolayca anlaşılabilir düzeydedir.
+• Broşür, dengeli ve düzenli beslenme konusunda pratik ve uygulanabilir tavsiyeler sunar. Bu tavsiyeler 
+günlük yaşamda kolayca uygulanabilir ve takip edilebilir niteliktedir.
+İyi  (4)
+• Broşür, minerallerin eksikliğinin sağlık üzerindeki etkilerini açıklar ve dengeli beslenmenin önemini 
+belirtir. Bilgiler genel olarak doğru ve güvenilirdir ancak bazı ayrıntılar eksik olabilir.
+• Broşür, genel olarak iyi bir tasarıma sahiptir. Renkler, yazı tipleri ve görseller genellikle iyi 
+kullanılmıştır. Bilgi, nispeten anlaşılabilir ve takip edilebilir bir şekilde sunulmuştur.
+• Broşür, büyük ölçüde hedef kitlenin ilgi ve ihtiyaçlarına uygundur. Dil ve terminoloji genel olarak 
+anlaşılabilirdir.
+• Broşür, dengeli beslenme konusunda bazı pratik tavsiyeler sunar. Bu tavsiyeler genel olarak 
+uygulanabilir niteliktedir.
+Geliştirilebilir  (3)
+• Broşür, minerallerin eksikliğinin sağlık üzerindeki etkilerine yüzeysel bir şekilde değinir ve dengeli 
+beslenmenin önemini kısmen belirtir. Bilgiler doğru olabilir ancak yetersiz ve eksik bilgilendirme 
+mevcuttur.
+• Broşür, orta düzeyde bir tasarıma sahiptir. Renkler, yazı tipleri ve görseller bazen uyumsuz olabilir. 
+Bilgi, bazı yerlerde anlaşılması zor olabilir.
+• Broşür, hedef kitlenin ilgi ve ihtiyaçlarına kısmen uygundur. Dilin ve terminolojinin bazı yerlerde 
+anlaşılması zor olabilir.
+• Broşür, dengeli beslenme konusunda sınırlı sayıda pratik tavsiye sunar. Bu tavsiyeler kısmen 
+uygulanabilir.
+Zayıf  (2)
+• Broşür, minerallerin eksikliği ve dengeli beslenme konusunda çok az bilgi verir veya bilgiler eksik ve 
+yanlış olabilir.
+• Broşür, zayıf bir tasarıma sahiptir. Renkler, yazı tipleri ve görseller uyumsuz ve dikkat dağıtıcıdır. 
+Bilgi, takip edilmesi zor bir şekilde sunulmuştur.
+• Broşür, hedef kitlenin ilgi ve ihtiyaçlarına çok az uyum sağlar. Dilin ve terminolojinin anlaşılması 
+genellikle zordur.
+• Broşür, çok az pratik tavsiye sunar ve bu tavsiyeler genellikle uygulanamaz niteliktedir.
+Yetersiz  (1)
+• Broşür, minerallerin eksikliği ve dengeli beslenme konusunda hiçbir bilgi içermez veya tamamen 
+yanlış bilgiler sunar.
+• Broşür, görsel olarak düzensiz ve anlaşılması zordur. Renkler, yazı tipleri ve görseller uyumsuzdur ve 
+bilginin sunumu tamamen yetersizdir.
+• Broşür, hedef kitleye tamamen uygunsuzdur. Dil ve terminoloji anlaşılmaz.
+• Broşür, pratik ve uygulanabilir tavsiyeler sunmaz.
+FORM 9

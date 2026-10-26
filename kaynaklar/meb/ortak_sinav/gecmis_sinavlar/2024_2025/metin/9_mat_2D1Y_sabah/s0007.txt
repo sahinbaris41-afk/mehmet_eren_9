@@ -1,0 +1,32 @@
+7
+MATEMATİK 9
+7. Bir	spor	kulübünün	altyapı	takımına	oyuncu	seçmek	için	yaş,	kütle	ve	boy	değerlerine	göre	ölçütler	
+belirlenmiştir.	Bu	değerlere	göre	takıma	oyuncu	seçmek	için	kullanılan	algoritmanın	işleyişini	gösteren	
+akış	şeması	aşağıda	verilmiştir.
+Başla
+25 1= y 1= 4510 1= x 113
+Yaş (x), kütle (y) ve
+boy (z) gir
+Aday takıma 
+seçilmedi
+Bitir
+Bitir
+Evet Evet
+EvetHayır HayırHayır
+z 2= 140
+Aday takıma 
+seçildi
+Oyuncu	seçmelerine	katılan	adaylara	ilişkin	bilgiler	tabloda	verilmiştir.
+İsim Yaş Kütle (kg) Boy (cm)
+Aysu 10 38 145
+Banu 12 48 154
+Cem 11 41 139
+Deniz 12 34 159
+Buna göre, bu adaylardan hangilerinin takıma seçildiğini akış şeması yardımıyla bulunuz.  
+(15 puan)
+x	değeri	için	10,	y	değeri	için	38	ve	z	değeri	için	145	girildiğinde	10 10 131# ,	25 38 45## 	ve	
+1145 40$ 	olduğundan	Aysu	takıma	seçilmiştir.
+x	değeri	için	12,	y	değeri	in	34	ve	z	değeri	için	159	girildiğinde		10 11 32 1# ,	25 34 45## 	ve	
+140159 $ 	olduğundan	Deniz	takıma	seçilmiştir.
+SINAV BİTTİ.
+CEVAPLARINIZI KONTROL EDİNİZ.

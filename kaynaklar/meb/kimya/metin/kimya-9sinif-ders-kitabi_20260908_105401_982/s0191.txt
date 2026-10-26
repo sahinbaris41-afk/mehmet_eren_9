@@ -1,0 +1,46 @@
+191
+2. Tema/Çeşitlilik
+2. Deneyden eld e ettiğiniz örüntüleri kullanarak sıvıların akışkanlığını sıvının moleküller arası etkileşim 
+kuvveti ile ilişkilendirerek açıklayınız. 
+3.  Aşağıda benzen ve su moleküllerinin yapısı verilmiştir. Benzen ve suyun vizkozite değerleri ise Tablo 2.6’da veril-
+miştir.
+Benzenin viskozitesinin suya göre daha düşük, akışkanlığının daha yüksek olmasının nedenini moleküller 
+arası etkileşimleri kullanarak açıklayınız. 
+Moleküller arası etkileşim kuvveti büyük olan sıvıların akışkanlıkları azalır, 
+viskoziteleri artar. Örneğin su, etilen glikol ve gliserinin molekülleri arasında 
+oluşturduğu hidrojen bağı sayısı birbirinden farklıdır. Sıvıda hidrojen bağı sa-
+yısının artması, sıvı moleküllerinin öteleme hareketi yaparak birbirlerinin üze-
+rinden kolaylıkla kaymasını engeller. Bu durumda sıvının akışkanlığı azalır 
+ve viskozitesi artar. Gliserinin molekülleri arasındaki hidrojen bağı sayısı su 
+ve etilen glikolden daha fazla olduğu için gliserinin akışkanlığı bu sıvılardan 
+daha az, viskozitesi daha fazladır.
+Apolar moleküllerde elektron sayısı arttıkça London kuvvetlerinin etkisi arta-
+cağından sıvıların akışkanlığı azalır, viskoziteleri artar (Tablo 2.7).
+Tablo 2.7: 25 
+o
+C’ta Bazı Sıvı Hidrokarbonların Viskozite Değerleri
+Sıvı Molekül Formülü Molekül Yapısı Toplam Elektron Sayıları Viskozite  (Pa.s) x10−4
+Pentan C5H12 CH3 CH2 CH2− CH2 CH3 42 2,24
+Hekzan C6H14 CH3 CH2 CH2 CH2 CH2 CH3 50 3,00
+Heptan C7H16 CH3 CH2 CH2 CH2 CH2 CH2 CH3 58 3,87
+Oktan C8H18 CH3 CH2 CH2 CH2 CH2 CH2 CH2 CH3 66 5,08
+Moleküllerin geometrik şekli ve kütlesi de moleküller arası etkileşimleri do -
+layısıyla sıvıların akışkanlığını etkiler. Genellikle küçük ve küresel yapıdaki 
+moleküllerin akışkanlığı fazla, büyük ve uzun zincirli moleküllerin akışkanlığı 
+daha azdır. Benzer molekül yapısına sahip sıvılarda ise mol kütlesi büyük ola-
+nın akışkanlığı genellikle daha azdır. Örneğin propil alkolün (MA: 60 g/mol) 
+25°C’taki akışkanlığı etil alkolün (MA: 46 g/mol) akışkanlığından daha azdır.
+Su (H2O)
+H
+H
+H
+H
+H
+H C
+C C
+C
+C
+C
+Benzen (C6H6)
+O
+H H

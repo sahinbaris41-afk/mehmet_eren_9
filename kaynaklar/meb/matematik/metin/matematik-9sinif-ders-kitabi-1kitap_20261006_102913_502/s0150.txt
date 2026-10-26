@@ -1,0 +1,27 @@
+150
+2. Tema /  Nicelikler ve Değişimler
+11. ÖRNEK
+Şişme bot üreten bir fabrikanın kurulum maliyeti 300 000 Türk lirasıdır. Üretilen bir şişme botun maliyeti 
+1300 Türk lirası, satış fiyatı 2500 Türk lirasıdır.
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  x adet şişme bot üretmeni n maliyetini modelleyen fonksiyonu yazınız.
+b)  x adet şişme bot satışından elde edilen geliri modelleyen fonks iyonu yazınız.
+c)  Fabrikanın maliyet ve gelirinin eşit olması için kaç adet şişme bot satması gerektiğini bulunuz.
+ç)  Fabrikanın kâr edebilmesi için en az kaç adet şişme bot satması gerektiğini bulunuz.
+Çözüm
+a) Maliyet fonksiyonu m(x) = 300 000 + 1300x olur.
+b)	 Gelir fonksiyonu g(x) = 2500x olur.
+c)	 Maliyet ve gelir fonksiyonları birbirine eşitlenerek x değeri bulunur.
+ m(x) = g(x)
+   300 000 + 1300x = 2500x     300 000 = 2500x - 1300x    300 000 = 1200x
+   x = 1200300 000  = 250 adet şişme bot satıldığında gelir ve maliyet değerleri eşit olur.
+ç)	 x  250 için g(x)  m(x) olur ve buna göre fabrikanın kâr etmesi için en az 251 adet şişme bot sat-
+ması gerekir.
+6.	Sıra	Sizde      
+Spor ayakkabı üreten bir firmanın kurulum maliyeti 200 000 TL’dir. Bir çift spor ayakkabının üretim mali-
+yeti 1400 TL’dir. Firma, spor ayakkabıların çiftini 1800 TL’den satmaktadır.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a) x	çift	spor	ayakkabı	üretmenin	maliyetini	modelleyen	fonksiyonu	yazınız.
+b) x	çift	spor	ayakkabı	satışından	elde	edilen	geliri	modelleyen	fonksiyonu	yazınız.
+c) Kaç	çift	spor	ayakkabı	sattıktan	sonra	firma	gelirinin	toplam	maliyete	eşit	olacağını	bulunuz.
+ç) Firmanın	kâr	edebilmesi	için	en	az	kaç	çift	spor	ayakkabı	satması	gerektiğini	bulunuz.

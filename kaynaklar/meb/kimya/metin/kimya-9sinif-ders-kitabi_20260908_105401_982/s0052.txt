@@ -1,0 +1,35 @@
+1. Tema/Etkileşim
+52
+Sonuç olarak doğru olduğu düşünülen bilgiler, zamanın koşulları dâhilinde ve 
+o zamandaki bilgi birikimi ile oluşmuş yargılardır. Bilimde ilerleme sağlandık-
+ça yeni keşifler yapılabilir, yeni bakış açıları kazanılabilir ve yeni buluşlarla 
+farklı bulgular elde edilebilir. Bu süreç, eskiden doğru kabul edilen bir bilginin 
+değiştirilmesi veya geliştirilmesi için doğal bir ortam sağlar.
+1. Kronolojik sıra gözetilerek çizilen atom modellerini inceleyiniz. Çizimin hangi atom teorisine ait olduğu-
+nu ilgili boşluklara yazınız ve soruları cevaplayınız.
+a) Geçen zaman diliminde proton, nötron ve elektron hakkında değişen bilgileri görselden yararlanarak 
+listeleyiniz.
+Proton Nötron Elektron
+b) A tomda negatif yüklerin varlığı hangi atom teorisinden sonra ortaya konmuştur?
+c) Hang i atom teorisinden itibaren maddede atomdan daha küçük taneciklerin de var olduğu  kabul edil -
+miştir?
+Kontrol Noktası 1.3
+Modern atom teorisine göre atomda farklı bü  yüklük ve şekillerde orbitaller 
+vardır (Görsel 1.15).
+Görsel 1.15
+Bazı orbital türlerinin 
+olasılık dağılımları
+Atom teorileri ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.
+x
+y
+1s
+z
+2s
+x
+y
+z
+2pz
+x y
+z

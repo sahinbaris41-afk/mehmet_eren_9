@@ -1,0 +1,50 @@
+81
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin yenilenebilir enerji kaynaklarını ve nanoparçacıkların çevresel etkilerini; 
+su ayak izi, karbon ayak izi ve emisyon ayak izi kavramlarını; kimyasal tepkimelerde 
+enerji ve hız ile asitler-bazlar ve çözünürlüğe ilişkin kavramsal bilgileri edindikleri ka -
+bul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerden yenilenebilir ve yenilenemeyen enerji kaynaklarına örnekler vermeleri, ye -
+nilenebilir enerji kaynaklarının temel özelliğini açıklamaları istenir. Yenilenebilir enerji kay-
+naklarına “temiz enerji” veya “çevre dostu” denmesinin nedenleri sorulur.  
+Köprü Kurma Evsel atıkların değerlendirilmesi, çöplerin sürdürülebilir bir şekilde yönetilmesi ve kay -
+nakların daha etkin bir şekilde kullanılabilmesi için neler yapılabileceği ve evsel atıkların 
+hangi alanlarda değerlendirilebileceği gibi konularda tartışma ortamı oluşturulabilir. Evsel 
+atıklardan yeşil hidrojen enerjisi üretiminin sürdürülebilir bir çözüm ola rak önem kazandığı 
+vurgulanabilir. Öğrencilerden evsel atıklardan enerji üretiminin çevresel etkilerinin neler 
+olabileceğine ilişkin fikir yürütmeleri istenebilir. 
+Öğrenme-Öğretme 
+Uygulamaları KİM.11.3.1 
+Öğrenciler, Uluslararası Hidrojen Enerjisi Teknolojileri Merkezi (ICHET) tarafından  
+İstanbul’da uygulamaya konulan Gezici Hidrojen Evi, Yakıt Pilli Yolcu Taşıma Aracı, 
+Hidrojen Yakıt Pilli Forklift ve İDO Yakıt Pilli Kesintisiz Güç Kaynağı gibi projelerle ilgili 
+gazete haberlerini inceler ya da bu projeler hakkında bilgi toplar  (OB2, OB4) . Öğrenci-
+lerin bu projelerde hidrojen enerjisinin kullanım yollarına ilişkin fikir yürütmeleri sağlanır. 
+Hidrojen enerjisinin ne olduğu ve nasıl elde edilebileceğine ilişkin tanıtıcı bilgileri incele -
+yen öğrencilerden yanma tepkimesi sonucunda açığa çıkan ürünleri düşünerek hidrojen 
+enerjisinin çevresel etkilerini açıklamaları istenir. Sınıf içi tartışmalar sırasında öğrenci -
+lerin hidrojenin çevresel sorunlar oluşturmayacağı, sürdürülebilir gelişime uygun olarak 
+yenilenebilir kaynaklardan ve atıklardan elde edilebileceği için temiz enerji kaynağı olduğu 
+ve yeşil hidrojen olarak adlandırılabileceği sonucuna ulaşmaları sağlanarak çevreyi, can -
+lıları ve sürdürülebilirliği önemsemelerine, duyarlılık ve temizlik değerlerini kazanmalarına 
+katkıda bulunulur (SDB2.1, SDB2.3, D5.2, D18.3, OB8) . Öğrencilere fermantasyon hakkın-
+da sorular yöneltilir ve evsel atıklardan fermantasyon yöntemi ile hidrojen gazı elde edil -
+mesi, gösteri deneyi olarak yapılabilir. Deney sırasındaki fermantasyon çeşitli bakterilerle 
+gerçekleştirilebilir. Bu mümkün olmadığı takdirde maya kullanımı önerilir. Öğrencilerden 
+gruplara ayrılarak iş birliği içinde hidrojen eldesinde kullanacakları evsel atıklara karar ver-
+meleri istenir. Evsel atıklardan fermantasyon ile elde edilebilecek hidrojen gazı miktarını 
+etkileyen faktörlere yönelik araştırma sorularının belirlenmesi sağlanır (SDB2.2, OB3). Öğ-
+rencilerden evsel atık türlerinden üçünü seçmeleri ve yeşil hidrojen enerjisi elde etmek 
+üzere seçtikleri evsel atık türünün hidrojen gazı miktarının değişimine etkisine yönelik
+neden-sonuç ilişkilerini belirlemeleri istenir. Öğrenciler, oluşturdukları araştırma so -
+ruları bağlamında evsel atıklardan yeşil hidrojen gazı eldesine yönelik bağımlı-bağım -
+sız değişkenleri ve kontrol değişkenlerini belirler ve fermantasyon deneyini her bir evsel 
+atık için gerçekleştirir (KB2.2, FBAB7) . Gruplar, deney sonuçlarını diğer deney grupla -
+rıyla paylaşır ve deney verilerine dayanarak hidrojen gazı miktarının değişimine neden 
+olan faktörlere yönelik önermeler sunar (SDB2.1, SDB2.2) . Evsel atıkların içeriği ile fer -
+mantasyon sonucu elde edilen hidrojen gazı miktarı arasında ilişki kurulabilir. Öğrenci -
+lere fermantasyonun karanlık ortamda yapılmasının üretilen/elde edilen hidrojen gazı 
+miktarını etkileyip etkilemeyeceği sorulabilir. Öğrencilerden fermantasyon yönteminin 
+elde edilen hidrojen gazı miktarına olan etkisini belirlemek üzere hipotez oluşturmaları  

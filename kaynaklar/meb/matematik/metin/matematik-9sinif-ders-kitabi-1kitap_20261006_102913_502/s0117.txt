@@ -1,0 +1,46 @@
+117
+2. Tema /  Nicelikler ve Değişimler
+3.  Bir şirket özel bir sıvı temizlik maddesi üret -
+mektedir. Şirketin günlük sabit üretim maliyeti 
+40 000 Türk lirasıdır. Her 1 litre temizlik mad-
+desi üretmenin maliyeti 120 Türk lirasıdır. x litre 
+temizlik maddesi üretildiğinde günlük toplam 
+maliyet, ,05 07A  nda tanımlı m doğrusal fonksi -
+yonu ile ifade ediliyor.
+ Buna	göre 	m 	fonksiyonu nu 	cebirsel 	ve 	gra-
+fik	temsiliyle	ifade	ediniz.
+4.  20 cm boyundaki iki mum aynı anda yakılıyor. 
+Mumlardan biri 6 saatte, diğeri 8 saatte tamamen 
+eriyor.
+ Zamana	 (sa.) 	 bağlı 	 mumların 	 boyunu 	 (cm) 	
+veren	f 	ve 	g 	doğrusal 	fonksiyonlarına 	göre 	
+aşağıdaki	soruları	cevaplayınız.
+a)		 f 	 ve 	 g 	 fonksiyonlarının 	 cebirsel 	 temsillerini	
+oluşturunuz.  
+b)		f	 ve 	 g 	 fonksiyonlarının 	 grafik 	 temsillerini 	
+aynı	dik	koordinat	sisteminde	gösteriniz.
+c)		Fonksiyonların	 eğimlerini 	 bularak 	 bağlam-
+daki	anlamlarını	açıklayınız.
+ç)		Fonksiyonların	 eksenleri 	 kestiği 	 noktaları 	
+bularak	bağlamdaki	anlamlarını	açıklayınız.
+5.  m: R"R, m( x) =  x21 31-+  ve n: R"R, 
+n(x) = 6x şeklinde tanımlı doğrusal fonksiyon-
+lar veriliyor.
+	 Buna 	göre	aşağıdaki	soruları	cevaplayınız.
+a)		f: R"R,	f(x) = x	şeklinde 	tanımlı 	f 	doğrusal	
+referans	 fonksiyonunun 	 grafiğinden 	 yarar-
+lanarak	 m	 ve 	 n 	 fonksiyonlarının 	 grafiklerini	
+aşağıda	verilen 	dik 	koordinat 	sisteminde 	çi-
+ziniz.  
+O x
+y
+f(x) = x
+b)		Çizdiğiniz	grafiklerden 	yararlanarak 	m 	ve 	n 	
+fonksiyonlarını	 temsil 	 eden 	 doğruların 	 eği-
+mini	bulunuz. 	Bulduğunuz	eğim 	değerlerini 	
+f	 fonksiyonuna 	 ait 	 grafiğin 	 eğimi 	 ile 	 karşı-
+laştırınız.
+c)		m	ve 	n 	fonksiyonlarının 	grafiklerinin 	f 	doğ-
+rusal	 referans 	 fonksiyonunun 	 grafiğine 	
+hangi	 dönüşümler 	 uygulanarak 	 çizildiğini 	
+bulunuz.

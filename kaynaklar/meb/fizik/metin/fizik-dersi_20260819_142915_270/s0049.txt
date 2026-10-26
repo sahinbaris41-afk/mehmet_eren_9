@@ -1,0 +1,53 @@
+49
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+bu dirençlerin kaç farklı şekilde bağlanabileceğini sorar. Öğrenciler dirençlerin farklı bağ-
+landığı devrelerin şematik olarak çizimlerini yapar ve farklı bağlama türlerini tanımlar. 
+Grupların oluşturdukları farklı bağlamaların isimlerinin seri, paralel ve birleşik (seri ve pa-
+ralel bağlı dirençlerin bir arada bulunduğu devre) bağlama olduğu ifade edilir. Öğretmen, 
+dirençlerin seri veya paralel bağlandığı durumlarda devrenin eşdeğer dirence ve ana kol-
+daki akıma ilişkin öğrencilerin ön bilgilerine dayalı tahminlerini sorabilir. Gruplar, verdikle-
+ri cevaplar sonucunda kendi hipotezlerini oluşturabilir. Gruplara hipotezlerini test etme-
+leri için en az üç direnç, bağlantı kabloları, üreteç, ampermetre, voltmetre ve ohmmetre 
+verilebilir. Öğrenciler seri, paralel ve birleşik bağlanma türlerine yönelik deney tasarlar 
+(SDB1.2). Öğrenciler, deneysel gözlemlerden çıkardıkları sonuçlara dayanarak voltmetre 
+ve ampermetrenin bağlama şekillerinin ve kısa devre oluşmasının nedenlerini ifade eder 
+(E1.5, E3.4, KB2.11). Gruplar seri, paralel ve birleşik bağlı dirençlerin eşdeğer direncini, ana 
+koldaki akımı ve dirençlerin uçları arasındaki gerilimi ölçerek verileri toplayıp kaydeder. 
+Gruplarda aktif rol alan öğrenciler, elde ettikleri veriler ışığında çıkarım yapar. Eşdeğer di-
+rencin hesaplanması ile ilgili verilen matematiksel modelleri kullanarak çıkarımlarını test 
+eder (E3.6). Gruplar dirençlerin seri, paralel ve birleşik bağlama konusunda sorumlulukla-
+rını yerine getirirken özverili davranarak ve yardımlaşarak (D16.3, SDB2.2) hazırladıkları bilgi 
+görseli çalışmasını sınıfa sunar. Öğrencilerden açık uçlu sorularla eşdeğer direnç hesapla-
+mayla ilgili matematiksel işlem yapmaları istenir. Dirençli devrelerle ilgili yapılan hesaplama-
+larda Kirchoff'un potansiyel fark ile ilgili ikinci yasasına girilmez.  
+FİZ.10.3.5
+Kumanda, oyuncak, el feneri gibi üreteç kullanılan elektrikli aletler gösterilerek buradaki 
+üreteçlerin bağlanma şekilleri ile ilgili tartışma yapılabilir. Tartışmada öğrencilerin üre-
+teçlerin farklı şekilde bağlanmasının gerekçeleri hakkındaki düşüncelerini bağlama uygun 
+şekilde ifade ederek (SDB 2.1) beyin fırtınası yapmaları sağlanır. Öğrenciler, öğretmen 
+rehberliğinde gruplar oluşturabilir. Gruplardan üreteçlerin seri veya paralel bağlanma-
+sının gerekçelerini (E1.6) açıklayabilecekleri deney tasarlamaları (SDB1.2) istenir. Tasar-
+lanacak deneyde üreteçlerin seri olarak düz ve ters bağlanmasına da girileceği belirtilir. 
+Öğrenciler, üreteçlerin seri ve paralel bağlama türlerini tanımlar. Öğrenciler, tasarladıkları 
+deneyde akım ve potansiyel fark ölçümü yapar ve ölçümler sonucu elde ettikleri verileri 
+toplayarak kaydeder (E3.7). Toplanan verilerin analizine dayalı olarak devredeki potansiyel 
+fark ve üreteçlerin tükenme süreleri hakkında çıkarımlar yapar. Üreteçlerin farklı şekiller-
+de bağlanmaları ile ilgili matematiksel işlemler yapar. Üreteçlerin farklı bağlanmalarına 
+dayalı problem çözümlerinde üreteçlerin iç direnci ihmal edilir. Paralel bağlamalarda da 
+sadece özdeş üreteçler kullanılır. Öğrencilerden üreteçlerin seri ve paralel bağlanma ne-
+denlerini açıklamak için yapılan deney tasarımı hakkında sunum yapmaları istenebilir. Açık 
+uçlu sorular ile öğrencilerin üreteçlerin farklı şekillerde bağlanmaları ile ilgili matematik -
+sel işlemler yapması sağlanır.  
+FİZ.10.3.6
+Öğretmen elektrik akımının günlük hayattaki önemine vurgu yapabilir. Günlük hayatta 
+elektrik akımının ciddi tehlikeler oluşturabileceğini ifade edebilir. Bu tehlikelerin neler ola-
+bileceğini  sorarak konu ile ilgili tartışma ortamı oluşturabilir. Elektrik akımı ile ilgili şu tür so-
+rulardan faydalanılabilir: Elektrik kullanılırken ne gibi tehlikelerle karşılaşılabilir? Elektrik kul-
+lanılırken karşılaşılabilecek tehlikelere karşı ne tür tedbirler alınmalıdır? Elektrik çarpmasında 
+tehlikenin boyutunu elektrik potansiyeli mi yoksa elektrik akımı mı belirler? İnsan vücudunun 
+kuru, ıslak ya da terliyken direnci kaç ohmdur? Elektrik tesisatlarındaki kablolar tutuşabilir 
+mi? Bununla ilgili ne tür tedbirler alınmaktadır? Banyo gibi ıslak zeminlerle diğer ortamlarda 
+elektrik kullanımının tehlikeleri benzer midir (D13.4, D16.2)? Öğrenciler, öğretmen rehberli-
+ğinde gruplara ayrılır ve elektrik akımının oluşturabileceği tehlikelere karşı alınması gere-
+ken önlemler ile ilgili sunum hazırlar. Grupların konu hakkındaki bilgilere ulaşabilmek için 
+kullanacağı genel ağ, kütüphaneler, dergiler, uzmanlar gibi kaynakları belirlemesi sağlanır. 

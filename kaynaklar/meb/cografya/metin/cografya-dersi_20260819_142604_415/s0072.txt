@@ -1,0 +1,55 @@
+72
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ COĞ.11.2.1. Web tabanlı CBS aracılığı ile harita uygulamaları yapabilme 
+a) Web tabanlı CBS uygulamasını kullanarak harita okur.
+b) Web tabanlı CBS uygulamasını kullanarak harita çözümler.
+c) Web tabanlı CBS uygulamasını kullanarak haritadan çıkarım yapar.
+ç) Web tabanlı CBS uygulamasını kullanarak basit harita oluşturur. 
+İÇERİK ÇERÇEVESİ Web Tabanlı CBS Uygulamaları
+Anahtar Kavramlar bulut bilişim, detay, genelleme, katman, öz nitelik tablosu, sembol, sorgulama, veri girişi, 
+veri görüntüleme, yaşayan atlas, web CBS
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktısı; kontrol listesi, performans görevi, analitik dereceli puanlama anahtarı, öz de-
+ğerlendirme formu, grup değerlendirme formu kullanılarak değerlendirilebilir. 
+Performans görevi olarak öğrencilerden çeşitli mekânsal verileri kullanarak web tabanlı CBS 
+üzerinden basit bir harita oluşturmaları istenebilir. Performans görevi; harita okuma, haritayı 
+çözümleme, haritadan çıkarım yapma ve harita oluşturma ölçütlerine göre değerlendirilebilir. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin mekânsal bilgi teknolojileri ve bu teknolojilere ait temel bileşenler hakkında 
+bilgi sahibi olduğu kabul edilmektedir.
+Ön Değerlendirme Süreci Verilere genel ağ aracılığıyla kolayca ulaşabilmenin ve sistemdeki bilgilere bağlı olarak 
+sorgulamalar yapabilmenin avantajları üzerine bir liste oluşturulabilir.
+Köprü Kurma Web tabanlı CBS uygulamalarından yararlanılarak oluşturulan haritaların mobil cihazlara 
+aktarılması ile bunların günlük hayatta kullanıcılara sağladığı avantajlar arasında bağlantı 
+kurulabilir.
+Öğrenme-Öğretme 
+Uygulamaları
+COĞ.11.2.1
+Öğrencilerden web tabanlı CBS uygulamalarını incelemeleri ve web tabanlı CBS hakkında 
+bilgi sahibi olmaları istenir. Toplanan bilgiler aracılığıyla söz konusu uygulamaların özellik-
+leri ve kullanım alanlarını gösteren bir tablo oluşturulabilir (SBAB11.2, OB2). Bu süreçte iş 
+birlikli öğrenme yönteminden yararlanılabilir. Öğrencilerin kendi hazırladıkları tabloyu in -
+celemesi ve yorumlaması sağlanabilir. Web tabanlı CBS uygulamalarıyla hazırlanmış hari-
+talar üzerinden okuma, çözümleme ve çıkarım yapma aşamaları gerçekleştirilir (OB4). Bu 
+uygulamada kullanılan veri türleri örneklendirilir. Web tabanlı CBS’de kullanılacak mekân-
+sal veriler, resmî genel ağ sayfalarından (Türkiye İstatistik Kurumu, Meteoroloji Genel Mü-
+dürlüğü, Ulusal Akıllı Şehir Açık Veri Platformu, Türkiye Ulusal Coğrafi Bilgi Sistemi, Bulut 
+Kent Bilgi Sistemi vb.) amacına uygun şekilde temin edilir. Bilişim teknolojileri kullanıla-
+rak genel ağ üzerinden web tabanlı CBS uygulamasına giriş yapılır. Uygulamanın kullanıcı 
+arayüzünde bulunan araçlarla ilgili öğretmen rehberliğinde bilgi edinilir  (OB2). Öğrenciler 
+tarafından oluşturulacak haritayla ilgili kontrol listesi paylaşılır. Oluşturulacak harita se-
+çiminde resmî genel ağ sayfalarından elde edilen verilerle örneğin Türkiye’nin istatistiki 
+bölge birimleri sınıflandırmasını gösteren harita oluşturulabilir. Kullanıcı arayüzünden kat-
+man ekleme, görüntüleme, düzenleme vb. işlem basamakları takip edilerek basit düzeyde 
+harita oluşturulur (OB2, OB7, E1.4, E3.7, KB3.2, MAB4, BTY AB1, BTY AB4, D7.1). Mekân-
+sal veri toplama ve analiz süreçlerinde ulaşılan bilgilerin sadece teknik bir veri olmadığı, 
+kişilerin özel hayatına dair unsurlar içerebileceği vurgulanır. Öğrencilerin başkalarına ait 
+mekânsal verileri izinsiz kullanmama ve bu bilgilerin gizliliğini koruma konusunda yüksek 
+bir hassasiyet ve özveriyle davranmaları sağlanır (D8.2). Hazırlanan harita; amaca uygun 
+biçimde kullanılır, gerektiğinde zihinde canlandırılır, kontrol listesiyle değerlendirilebilir 
+(OB7, SDB1.2, SDB2.1, SDB2.2, E3.4, E3.8, D3.1).

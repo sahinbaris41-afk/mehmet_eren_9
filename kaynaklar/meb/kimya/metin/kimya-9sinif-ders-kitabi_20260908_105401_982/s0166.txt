@@ -1,0 +1,31 @@
+166
+2. Tema/Çeşitlilik
+2.2.3.	Sıvılar	ve	Özellikleri
+Buharlaşma	ve	Denge	Buhar	Basıncı
+Bir sıvının ısı alarak gaz veya buhar hâline geçmesine buharlaşma 
+denir. Gaz taneciklerinin, sıvısıyla temas hâlinde olması ise buhar olarak 
+adlandırılır. Herhangi bir sıcaklıkta kinetik enerjisi sıvının ortalama kinetik 
+enerjisinden daha yüksek olan sıvı molekülleri yüzeydeki diğer moleküllerden 
+ayrılır (Görsel 2.20). Birim zamanda sıvı hâlden gaz hâline geçen veya diğer 
+moleküllerden ayrılan moleküllerin sayısı buharlaşma hızı olarak tanımlanır.
+Aşağıdaki şekillerden faydalanarak soruları cevaplayınız. Şekillerde yer alan sıvıların tamamen buharlaşma-
+sı için geçen süre saat ikonlarındaki renkli alan ile temsil edilmiştir. 
+H HH HO O
+H2O(s)
+H HH HO O
+H2O(s)
+1. Şekil 1’de özdeş kaplarda aynı sıcaklıkta ve eşit hacimli iki farklı saf sıvı bulunmaktadır. Kaplardaki sı-
+vıların tamamen buharlaşması için geçen sürenin farklı olmasının nedeni nedir? Moleküller arası çekim 
+kuvvetleri temelinde açıklayınız. 
+2. Şekil 2’de aynı sıcaklıkta ve eşit hacimde suyla dolu kaplar bulunmaktadır. Buna göre 
+a) Hangi kaptaki su daha hızlı buharlaşmıştır? Kaplardaki suların buharlaşma hızlarının farklı olmasını 
+nasıl açıklarsınız? 
+Hangisi Erken Buharlaşır?Etkinlik-2.17
+Görsel 2.20 
+Sıvı yüzeyinden 
+ayrılan su buharı
+Şekil 2Şekil 1
+25 °C 25 °C 25 °C25 °C 25 °C 80 °C
+10 mL 10 mL 10 mL10 mL 10 mL 10 mL
+H2O H2O H2OH2O H2OC2H5OH
+Şekil 3

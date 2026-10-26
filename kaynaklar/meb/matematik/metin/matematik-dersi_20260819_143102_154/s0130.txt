@@ -1,0 +1,44 @@
+130
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin tek nicel değişkenli veri dağılımlarına yönelik betimleme ve karşılaştırma 
+gerektiren araştırma sorusu oluşturabildikleri, araştırma sorusu bağlamında toplanan/
+elde edilen nicel verileri analiz etmek için görselleştirme ve/veya özetleme araçları kul -
+lanabildikleri, nicel verileri analiz ederek yorumlayabildikleri kabul edilmektedir. 
+Öğrencilerin  iki kategorik değişkenin ilişkililiğine dair araştırma sorusu oluşturabildikleri 
+ve oluşturdukları sorular için veri toplayabildikleri/elde edebildikleri kabul edilmektedir. 
+Elde ettikleri/topladıkları iki kategorik değişkenli verilerden hareketle verileri görsel -
+leştirebildikleri ve/veya özetleyebildikleri (toplam satır veya sütunlardaki göreli sıklıkları 
+gösteren iki yönlü tablo, koşullu göreli sıklıkları gösteren sütun grafikleri, koşullu göreli 
+sıklıklar gibi), değişebilirlik ve dağılım kavramlarını bildikleri ve verileri yorumlayabildik -
+leri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerden tek nicel değişkenli veri toplamayı gerektiren istatistiksel bağlam sunularak 
+betimleme ve karşılaştırma gerektiren araştırma soruları yazmaları istenebilir. Öğrencilerin 
+tek nicel değişkenli veri dağılımına yönelik verilen nokta grafiği üzerinden uygun veri özet -
+leme araçları ile dağılımı yorumlamaları sağlanabilir. İki kategorik değişken verilerek iki ka -
+tegorik değişken arasındaki ilişkiyi incelemeye yönelik araştırma sorusu oluşturmaları iste -
+nebilir. Boş olarak verilen satır veya sütunlardaki göreli sıklıkları gösteren iki yönlü tabloyu 
+verilen bir veri setinden yola çıkarak doldurmaları sağlanabilir. Öğrencilere koşullu göreli sık-
+lıkları gösteren sütun grafikleri verilerek öğrencilerden grafikleri yorumlamaları istenebilir.
+Köprü Kurma Öğrencilerden iki nicel değişken arasındaki ilişkililiğe odaklanan araştırma sorularını ince -
+lemeleri ve bu sorulara nasıl cevap verilebileceği üzerine düşünmeleri istenebilir. Araştır-
+ma sorularına cevap vermek için ortaokul ve 9. sınıfta öğrenilen çizgi grafiği, nokta grafiği, 
+kök-yaprak gösterimi, histogram, kutu grafiği gibi araçların kullanılıp kullanılamayacağı tar-
+tışılabilir. Bu görselleştirme araçlarının her zaman yeterli olup olamayacağı ve yeni görsel -
+leştirme araçlarına ihtiyaç duyulacağı öğrencilere sorgulatılarak fark ettirilebilir.
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, kontrol listesi ve kavram haritası, performans görevi ile 
+değerlendirilebilir.
+Öğrencilerden istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir kav -
+ram haritası oluşturmaları istenebilir. Oluşturulan kavram haritası bir kontrol listesiyle de -
+ğerlendirilebilir.
+Öğrencilere iki nicel değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma süreç-
+lerinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans gö-
+revi, analitik dereceli puanlama anahtarı ile değerlendirilebilir.
+Bu performans görevinin sonunda öğrencilerin elde ettikleri sonuçların benzerlik veya fark-
+lılıklarının nedenleri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf 
+içi tartışma etkinlikleri, akran ve grup değerlendirme formları ile değerlendirilebilir.

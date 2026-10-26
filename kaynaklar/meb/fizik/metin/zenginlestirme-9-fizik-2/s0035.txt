@@ -1,0 +1,39 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+34 35
+FİZİK 9 
+ÜNITE 2: KUVVET VE HAREKET
+Örnek Olay 3
+Öğrencilere anlık hız radarları ile ortalama hız tespit radarları hakkında kısa bir bilgilendirme yapınız 
+(Görsel 2.6, Görsel 2.7). Öğrencilerden trafik yoğunluğu fazla olan bir ilin yöneticilerinin ildeki çevre 
+yoluna bir radar sistemi kurmak istediğini ve bunun için kendilerinin bulunduğu kuruma başvurdu -
+ğunu düşünmelerini isteyiniz. Öğrencilere iki radar türünün de çalışma ilkesi, kullanım kolaylığı, ma -
+liyeti gibi konuları içeren bir brifing senaryosu hazırlamalarını söyleyiniz. Hazırlayacakları senaryoda 
+konum, referans noktası, yer değiştirme, alınan yol,  hız, sürat, anlık sürat, anlık hız, ortalama sürat, 
+ortalama hız ve ivme kavramlarını kullanmalarını sağlayınız. Ülkemizde anlık hız radarlarının yerini 
+ortalama hız tespit radarlarının almaya başladığını belirtiniz. Öğrencilerden bu durumun nedenleri 
+üzerine araştırmalar yapmalarını isteyiniz. Araştırmalarından yola çıkarak gerekçeli bir şekilde orta -
+lama hız tespit radarlarını yöneticilere önermeleri gerektiğini öğrencilere belirtiniz.
+Görsel 2.6: Anlık hız radarı tabelası Görsel 2.7: Ortalama hız tespit radarı tabelası
+Örnek Olay 2
+Trafikteki akışın güvenli, hızlı ve düşük yakıt mali -
+yetiyle gerçekleşmesi için yeşil dalga sistemi kul -
+lanılmaktadır (Görsel 2.5). Bu sistem trafiğin yoğun 
+olduğu yerlerde birbirini takip eden sinyalize kav -
+şaklardaki kırmızı ışıklara yakalanmadan geçebil -
+meyi sağlar. Levhada bulunan hız değerine bağlı 
+kalarak gidildiğinde sinyalize kavşaklardaki ışıklar 
+yeşile döner. Öğrencilerden yaşadıkları çevredeki 
+bir yol güzergâhında yeşil dalga sistemi planlamala-
+rını isteyiniz. Yaptıkları planlamayı Karayolları Genel 
+Müdürlüğü yetkililerine sunmak üzere bir senaryoya 
+dönüştürmelerine yardım ediniz. Bu senaryoda gü -
+zergâhtaki trafik akışına olumlu etkisi olacak siste -
+mi, hareketin temel kavramlarından olan ortalama sürat, anlık sürat, alınan yol ve ivme gibi kavram -
+lardan yararlanarak açıklayabilmelerini sağlayınız. Trafik ışıklarında durmamak için süratini artıran ya 
+da ışık ihlali yapan araç sayısının bu sistem sayesinde azalacağını, böylece sistemin trafikte can gü -
+venliğinin korunmasına katkı sağlayacağını vurgulayınız. Sistemin yakıt ekonomisi ve çevre kirliliğinin 
+önlenmesi gibi konularda sağladığı önemin de senaryoda ön plana çıkarılması gerektiğini öğrencilere 
+hatırlatınız. Böylece senaryoda öğrencilerin planlamayı sundukları yetkilileri söz konusu sistemin uy-
+gulanmasına ikna etmelerinin önünü açınız. Ardından öğrencilerle yeşil dalga sisteminin avantajlarıy-
+la ilgili kısa bir beyin fırtınası etkinliği yapınız.
+Görsel 2.5: Y eşil dalga sistemi tabelası

@@ -1,0 +1,35 @@
+226
+2. Tema Ölçme ve Değerlendirme Soruları
+                     Değişken Denge Buhar Basıncı Sıcaklık Sıvı Türü Sıvı Miktarı Kabın Hacmi
+Mete
+Bağımlı
+Bağımsız
+Kontrol
+Defne
+Bağımlı
+Bağımsız
+Kontrol
+Doruk
+Bağımlı
+Bağımsız
+Kontrol
+Ada
+Bağımlı
+Bağımsız
+Kontrol
+Aşağıdaki tabloda yer alan kutucuklarda her bir öğrencinin belirlemesi gereken bağımlı, 
+bağımsız değişkenleri ve kontrol değişkenlerini işaretleyiniz.
+38.
+Buhar basıncı konusunu işleyen bir kimya öğretmeni derste öğrencilerinden sıvıların denge buhar 
+basıncını etkileyen faktörleri belirleyebilmek üzere sorular oluşturmalarını ister. Öğrencilerden birkaçı 
+şu soruları sorar:
+Mete: Aynı sıcaklıktaki tüm sıvıların denge buhar basınçları aynı mıdır?
+Defne: Bir sıvının farklı sıcaklıklardaki denge buhar basınçları aynı mıdır?
+Doruk: Kaptaki sıvı miktarı denge buhar basıncını etkiler mi?
+Ada: Kabın hacmi denge buhar basıncını etkiler mi?
+Öğretmen, öğrencilerin sorularına cevaplar bulabilmeleri için onlardan bağımlı, bağımsız değişkenleri 
+ve kontrol değişkenlerini belirleyerek birer deney tasarlamalarını ister.
+Her bir örneği metalik kristal, iyonik kristal, kovalent kristal veya moleküler kristal olarak 
+tanımlayınız. Tanımlamalarınızı gerekçelendiriniz.
+37.
+38-39. soruları aşağıdaki metne ve görsellere göre cevaplayınız.

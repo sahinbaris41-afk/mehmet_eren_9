@@ -1,0 +1,868 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+43
+Dijital Haritalarda 
+Uzunluk Ölçümü
+Dijital Haritalarda 
+Alan Ölçümü 
+Mekânsal Bilgi Teknolojilerinden Yararlanılarak Uzunluk ve Alan 
+Ölçümleri Nasıl Yapılır? 
+Yeryüzünde iki noktanın birbirine uzaklığı; haritalarda çizgiyle gösterilen yol, 
+akarsu, sınır gibi verilerin uzunluğu ve bina, tarla, şehir, göl gibi alanların yüz 
+ölçümü mekânsal bilgi teknolojileri kullanılarak kolayca hesaplanabilmektedir.
+II. Harita
+0 20
+km1 cm
+1
+2.000.000
+Haritada 1 cm ölçülen uzunluk ger-
+çekte 20 km’dir.
+I. haritaya göre büyük ölçekli 
+olan yandaki haritayla ilgili şunlar 
+söylenebilir: 
+•
+ Haritanın küçültme oranı azdır
+.
+•
+ Haritadaki coğrafi unsurlara ait 
+ayrıntı fazladır
+.
+•
+ Harita dar alanı gösterir
+. 
+¡
+¡ ¡ ¡ ¡ ¡
+¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡¡¡¡¡¡
+¡
+¡¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡ ¡ ¡ ¡
+¡
+¡ ¡ ¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡
+¡ ¡ ¡ ¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡
+¡
+¡ ¡ ¡
+¡
+¡
+¡ ¡ ¡ ¡ ¡
+¡ ¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡¡¡
+¡
+¡
+¡
+¡¡¡¡
+¡
+¡
+¡
+¡¡
+¡¡¡¡¡¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡¡¡¡
+¡
+¡¡¡¡¡¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡
+¡
+¡
+¡¡¡
+¡
+¡¡¡¡¡¡¡¡¡¡¡¡
+¡
+¡
+¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡ ¡ ¡
+¡
+¡
+¡
+¡ ¡ ¡
+¡
+¡¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡ ¡
+¡
+¡
+¡ ¡ ¡
+¡
+¡ ¡ ¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡
+¡ ¡
+¡¡¡¡¡
+¡¡
+¡¡¡
+¡¡¡¡¡
+¡
+¡¡¡¡¡¡¡¡¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡¡¡¡¡¡¡¡¡¡
+¡
+¡
+¡
+¡¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡¡
+¡
+¡
+¡
+¡¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡
+¡
+¡
+¡¡
+¡
+¡
+¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡
+¡¡¡¡¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡ ¡
+¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡ ¡¡¡¡¡¡
+¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡¡¡
+¡
+¡
+¡¡¡
+¡
+¡¡¡¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+KUZ EY KI BR IS TÜ RK CU MHURİYET İ
+GÜ NE YK IB RI SR UM YÖNE Tİ Mİ
+K
+Akdeniz
+Ülke sınırı
+Ara bölge (sınır)
+İlçe merkezi
+Göl
+Kuzey Kıbrıs Türk Cumhuriyeti Mülki İdare Bölümleri Haritası
+GazimağusaLefkoşa
+Girne
+Güzelyurt
+Lefke
+Larnaka
+Limasol
+Gazibaf
+İskele
+Ölçek
+Büyük ve Küçük Ölçekli Haritaların Karşılaştırılması 
+Haritanın ölçeği, kullanım amacına göre belirlenir. Coğrafi unsurlar ayrıntılı gös-
+terilmek istendiğinde küçültme oranı az olan büyük ölçekli bir harita tercih edilir. 
+Haritada geniş bir alanın gösterilmesi gerektiğinde ve daha az detaya ihtiyaç 
+duyulduğunda küçültme oranı fazla olan küçük ölçekli bir harita kullanılır. Aşa-
+ğıda iki harita karşılaştırılarak ölçek değişiminin harita üzerindeki etkilerine yer 
+verilmiştir.
+Erenköy Gazimağusa
+Körfezi
+Güzelyurt
+Körfezi
+Videolardaki örneklerden 
+yararlanarak uzunluk ve 
+alan ölçümü yapınız.
+0             20            40
+km
+I. Harita
+Haritada 1 cm ölçülen uzunluk ger-
+çekte 200 km’dir.
+0 200
+km1 cm
+1
+20.000.000
+II. haritaya göre küçük ölçekli 
+olan yandaki haritayla ilgili şunlar 
+söylenebilir: 
+•
+ Haritanın küçültme oranı fazladır
+.
+•
+ Haritadaki coğraf
+i unsurlara ait 
+ayrıntı azdır.
+•
+ Harita geniş alanı gösterir
+. 
+Ölçek
+Türkiye
+¡
+¡
+¡
+¡¡¡¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡¡
+¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡
+¡
+¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡ ¡ ¡
+¡
+¡ ¡ ¡ ¡
+¡ ¡
+¡ ¡ ¡ ¡
+¡ ¡
+¡
+¡
+¡
+¡¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡¡¡
+¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡ ¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡ ¡ ¡ ¡
+¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡¡
+¡¡¡
+¡¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡ ¡
+¡
+¡ ¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡
+¡¡
+¡
+¡
+¡
+¡
+¡
+¡
+K
+Akdeniz
+Karadeniz
+Ülke sınırı
+Akarsu
+Göl
+KKTC
+GKRY
+Türkiye
+Mısır
+Libya
+Suriye
+Yunanistan
+İran
+Irak
+Ürdün
+Bulgaristan
+Ege Denizi
+Filistin
+İsrail
+0           200        400
+km
+Kıbrıs Adası ve Çevresinin Siyasi Haritası
+Lübnan
+Arnavutluk
+K.Makedonya
+Kosova
+SırbistanBosna Hersek
+Romanya
+İtalya
+Karadağ

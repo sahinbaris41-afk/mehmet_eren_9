@@ -1,0 +1,53 @@
+101
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.12.2.8
+Öğrencilere alifatik hidrokarbonların yanma, katılma (H 2, X 2, HX, H 2O katılması) ve poli -
+merleşme tepkimesi verme eğilimleri, yaygın kullanım alanları, kaynama noktası, buhar 
+basıncı gibi kimyasal ve fiziksel özelliklerine ilişkin veriler verilir. Öğrencilerin alifatik hidro-
+karbonların dallanma ve içerdikleri karbon atomu sayısına göre değişen fiziksel özellikleri-
+ni, pi bağı bulundurmasına göre değişen kimyasal özelliklerini belirlemeleri sağlanır (OB1). 
+Alifatik hidrokarbonların benzer ve farklı fiziksel ve kimyasal özelliklerinin listelenmesi 
+öğrencilerden istenir (OB1). Venn diyagramı üzerinde alifatik hidrokarbonların fiziksel ve 
+kimyasal özelliklerinin benzerlik ve farklılıklarının listelenmesi de istenebilir.
+KİM.12.2.9
+Öğrencilerin günlük hayatta kullandıkları dezenfektanlar, aseton, sirke gibi maddelerin 
+kullanım alanları, fiziksel özellikleri (koku gibi), kimyasal özellikleri (yanıcılık gibi), benzerlik 
+ve farklılıklarıyla ilgili fikirleri alınarak konuya dikkatleri çekilebilir. Fonksiyonel gruba sahip 
+çeşitli organik bileşiklerin (alkol, eter, aldehit, keton, karboksilik asit ve ester) molekül ve 
+yarı açık formüllerinin olduğu kanıt kartları öğrencilere verilir. Öğrencilerden kanıt kartla -
+rında verilen organik bileşikleri fonksiyonel gruplarına göre sınıflandırabilmeleri için ölçüt-
+ler (-OH, -OR, -COR, -COOH, -COOR) belirlemeleri istenir. Öğrenciler inceledikleri organik 
+bileşikleri, yapısındaki fonksiyonel grubuna göre ayrıştırır. Öğrencilerin ayrıştırdığı organik 
+bileşikleri alkol, eter, aldehit, keton, karboksilik asit ve ester olarak gruplandırmaları sağ-
+lanır (OB7). Öğrenciler, fonksiyonel gruplarına göre oluşturdukları grup adlarını güvenilir 
+bilgiye ulaşarak bilimdeki karşılığı ile kıyaslar (D3.3). Yapılandırılmış grid ile öğrencilerden 
+farklı organik bileşikleri fonksiyonel gruplarına göre sınıflandırmaları istenebilir. 
+KİM.12.2.10
+Öğrencilere çeşitli alkol, eter, aldehit, keton, karboksilik asit ve ester bileşiklerinin yapı 
+formülleri, IUPAC sistemine göre adları, adlandırmada kullanılabilecek Latince ön ve son 
+eklerin bulunduğu etkinlik kâğıtları verilir. Etkinlik kâğıtları her bir organik bileşik türü için 
+ayrı ayrı hazırlanır. Öğrenciler; alkol, eter, aldehit, keton, karboksilik asit ve ester için hazır-
+lanan etkinlik kâğıdındaki her bir organik bileşiği inceler ve bileşiklerdeki fonksiyonel gru -
+bu, en uzun karbon zincirini ve varsa yan grupları belirler (OB7). Organik bileşikler üzerinde 
+belirledikleri kısımlar ile bileşiğin sistematik adı arasında ilişki kurar. Organik bileşiklerin 
+sistematik adlandırılma kurallarına ilişkin genelleme yapılması sağlanır (OB7). Alkollerin 
+adlandırılması etkinliğinde ayrıca hidroksi grubu sayısı farklı alkollerin molekül ve yarı açık 
+formüllerinin olduğu bir tablo verilir. Öğrencilerin etkili iletişim kurmaları, olaylar ve durum-
+lar karşısında farklı bakış açıları olabileceğini kabul etmeleri sağlanarak öğrencilere bu bi-
+leşikler arasında fark olup olmadığı ve bunları hangi ölçütü kullanarak ayırt edebilecekleri 
+sorulur (SDB2.1, D4.1, D10.3). Öğrenciler, karışık olarak verilen alkol moleküllerini hidroksi 
+grubu sayısına göre gruplandırır (OB1). Alkollerin adlarını içerdiği hidroksi grubu sayısına 
+göre  monoalkol ve polialkol (diol, triol) olarak belirler. Ardından alfa karbonundaki alkil gru-
+bu sayısı farklı alkollerin molekül ve açık formüllerinin olduğu tablo verilir. Öğrencilerden 
+karışık olarak verilen alkol moleküllerini inceleyerek alkolleri alfa karbonuna bağlı alkil gru-
+bu sayısına göre ayrıştırmaları istenir (OB7). Öğrenciler ayrıştırdıkları alkolleri alfa karbonu-
+na bir tane alkil grubu bağlı (birincil karbon atomu), iki tane alkil grubu bağlı (ikincil karbon 
+atomu) ve üç tane alkil grubu bağlı (üçüncül karbon atomu) şeklinde gruplandırır  (E3.7). 
+Alkolleri alfa karbonundaki alkil sayısına göre birincil (primer), ikincil (sekonder) ve üçüncül 
+(tersiyer) alkol olarak adlandırır (OB7). Öğrencilere aynı karbon atomunda birden fazla -OH 
+grubunun bağlı olduğu moleküller ile -OH grubunun bağlı olduğu karbon atomunda pi bağı 
+bulunan kimyasal türlerin alkol olmadığı bilgisi verilir. Öğrencilere çeşitli ester molekülle -
+rinin yarı açık formüllerinin, sistematik adlarının ve ilgili esteri oluşturan karboksilik asit ve 
+alkolün sistematik adının bulunduğu etkinlik kâğıdı verilir. Öğrenciler, ester molekülündeki 
+oksijen atomuna bağlı olan alkil grubunu -OR ve RCO- grubundaki karbon sayısına karşılık 
+gelen karboksilik asidi belirler. Ester molekülü üzerinde belirledikleri kısımlar ile bileşiğin 

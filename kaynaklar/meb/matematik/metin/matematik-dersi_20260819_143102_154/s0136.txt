@@ -1,0 +1,51 @@
+136
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ • Dörtgenlerin Özellikleri
+• Özel Dörtgenler Arasındaki İlişkiler 
+• Çokgenlerin Sınıflandırılması 
+• Dışbükey Çokgenlerin Özellikleri
+• Çokgenlerle İlgili Problemler
+Genellemeler • Çokgenlerin özellikleri ve çokgenlere ilişkin bağıntılar, çokgenlerin üçgenlere parçala -
+narak incelenmesi ile elde edilebilir.
+• Dörtgenler arasındaki ilişkiler, dörtgenlerin temel elemanları ya da köşegen ve simetri 
+gibi özellikleri kullanılarak oluşturulur.
+Anahtar Kavramlar alan, deltoid, dışbükey çokgen, dikdörtgen, düzgün çokgen, eşkenar dörtgen, içbükey 
+çokgen, kare, köşegen, paralelkenar, simetri, yamuk
+Sembol ve Gösterimler ⊥ , //, AB, [AB], |AB|, A(ABCD), Ç(ABCD)
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; açık uçlu sorular, doğru-yanlış soruları, kısa cevaplı sorular, çalışma kâ-
+ğıtları, kavram haritası, tanılayıcı dallanmış ağaç, yapılandırılmış grid, performans görevi 
+ve araştırma ödevi ile değerlendirilebilir.
+Üçgenlerde açı, benzerlik ve alan özelliklerinden yola çıkılarak dörtgenlerin özelliklerine 
+ilişkin bilgi ve çıkarımların değerlendirilmesi amacıyla verilen çalışma kâğıdı analitik dere-
+celi puanlama anahtarı ile değerlendirilebilir. Öğrencilerin çokgenler ve dörtgenlere ilişkin 
+yaptıkları sınıflandırma, yapılandırma ve çıkarımlara ilişkin bilgi ve becerilerini konuyla il -
+gili farklı problem durumlarının oluşturulması ve problemlerin çözümü için kullanmalarını 
+sağlayacak bir performans görevi verilebilir. Öğrencilerin çalışmaları,  analitik  dereceli  
+puanlama  anahtarı ile değerlendirilebilir.
+f) Çözümünü kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.
+g) Problemin olası farklı çözüm stratejilerini inceleyerek problemin çözümüne ilişkin de -
+neyimini gözden geçirir.
+ğ) Deneyimine dayalı olarak çözüme ulaştıran stratejilerin hangi problemlere uyarlanabile-
+ceğine ilişkin çıkarım yapar. 
+h) Ulaştığı çıkarımların geçerliliğini değerlendirir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin üçgenin temel elemanlarının özelliklerine ilişkin çıkarım yapabildikleri, üçge-
+nin yardımcı elemanlarına dair özellikler ve üçgenin alanıyla ilgili çıkarımlarda bulunarak 
+problem çözebildikleri kabul edilmektedir. Ayrıca öğrencilerin simetri ile  üçgende eşlik 
+ve benzerliğe dair çıkarımlarda bulunarak simetri, eşlik ve benzerlikle ilgili çıkarımlarını 
+geometrik problemlerin çözümünde kullanabildikleri kabul edilmektedir. Bunun yanı sıra 
+öğrencilerin önceki sınıflarda çokgen ve dörtgenlerin özellikleriyle ilgili edindiği bilgilerden 
+hareketle paralelkenar, eşkenar dörtgen, yamuk, dikdörtgen ve karenin alan bağıntılarına 
+ilişkin çıkarım yapabildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere yöneltilen sorularla onların çokgen ve dörtgenlerle ilgili önceki sınıflarda edin -
+dikleri bilgilere dair değerlendirme yapılabilir. Benzer şekilde üçgenin temel ve yardımcı 
+elemanları ile üçgende eşlik ve benzerliğe ilişkin sorularla da öğrencilerin bu konularla il -
+gili bilgileri değerlendirilebilir. Ayrıca öğrencilere simetri ile ilgili sorular sorularak simetri 
+hakkındaki bilgilerin hatırlanması sağlanabilir. Öğrencilerin sorulara verdikleri cevaplarla 
+öğrenme eksiklikleri ve yanlış anlamaları belirlenebilir, varsa giderilmesi için uygun görevler 
+ve yöntemler (soru cevap, karşıt örnek verme gibi) kullanılabilir.

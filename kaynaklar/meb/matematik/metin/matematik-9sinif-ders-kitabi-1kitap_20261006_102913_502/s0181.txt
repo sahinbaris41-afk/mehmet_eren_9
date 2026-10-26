@@ -1,0 +1,68 @@
+181
+3. Tema /  Geometrik Şekiller
+a)	 CP7  çizildiğinde oluşan ABC üçgeninde 
+m ABP x=`j%  alınırsa AB AC=  olduğundan 
+m ABC mA CB x 180 o== -`` jj%%  olur. 
+Üçgenin iç açılarının ölçüleri toplamından 
+xx1801 80 01 80 4oo oo-+ -+ =  olur. 
+Buradan x1 10o=  bulunur.
+b) EF7 A  çizildiğinde EF FK=77 A  olduğundan .mD FE dir90 28 62oo o=-=`j%   
+DE DF=  olduğundan mmDFED EF 62o==`` jj%%  dir. Üçgenin iç açıları -
+nın ölçüleri toplamından mE DF 62 62 180 ooo++ =`j%  olur. EDFm5 6o=`j%  
+olduğu için buradan merdivenin 56 40 16oo o-=  daha açıldığı bulunur. 28
+o
+FE
+D
+K
+40o
+A
+BP C
+x İkizkenar üçgenin taban 
+açılarının ölçüleri birbi-
+rine eşittir.
+Tepe açısı
+A
+B
+C Taban açısı
+Taban açısı
+Çözüm
+5. ÖRNEK
+Yandaki şekilde AB AC= , CBD B=  ve m BAC 50o=`j%  dir. A, D, C noktaları 
+doğrusal olduğuna göre mA xBD =`j%  değerinin kaç derece olduğunu bulunuz.
+Çözüm
+ABC üçgeninde AB AC=  olduğundan 
+mm AABC CB=`` jj%%  dür.
+Üçgenin iç açılarının ölçüleri toplamı 
+m ABC mA CB 0 50 18oo++ =`` jj%%  olduğundan 
+m ABC mA CB 65 o==`` jj%%  olur.
+BDC üçgeninde BD BC=  olduğundan 
+mB CD mB DC 65 o==`` jj%%  dir.
+Üçgenin iç açılarının ölçüleri toplamı mD BC65 65 180oo o++ =`j%  olduğun-
+dan mD BC 0 5o=`j%  olur. Buradan x6 55 50 1oo o=-=  bulunur.
+50o
+x
+A
+B C
+D
+4.	Sıra	Sizde      
+Yandaki şekilde CD7 A , BCA%  nın açıortayı ve  m BAC 36o=`j% ,	mB DC 72 o=`j% ,	
+BD xb irim= ,	 AC yb irim= ,	 BC 4=  birimdir. 
+A,	D	ve	B	noktaları	doğrusal	olduğuna	göre	yx- 	değerini	bulunuz.
+ 
+36o
+72o
+x
+4
+y
+A
+B
+D
+C
+50o
+65o
+65o
+x
+A
+B C
+D
+50o

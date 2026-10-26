@@ -1,0 +1,38 @@
+44
+4. Tema / Eşlik ve Benzerlik
+2. Aşağıdaki tabloda üçgen çiftleri ve bu üçgenlerin bazı kenar uzunlukları ile açı ölçüleri verilmiştir. Varsayımla-
+rınızı incelemek için bu üçgen çiftlerini matematik yazılım programı kullanarak çiziniz. Bu üçgenlerin karşılıklı 
+açılarının eş, karşılıklı kenar uzunluklarının orantılı olup olmadığını gözlemleyiniz. Gözlemlerinizden hareketle 
+tabloda boş bırakılan kısımları doldurunuz.
+3. Elde ettiğiniz sonuçlardan hareketle ulaştığınız genellemeleri örnekteki gibi yazınız.
+İki üçgenin iç açılarının ölçüleri eşit ise karşılıklı kenarlarının uzunluklarının oranı eşittir.
+4. Gruplara ayrılınız. Varsayımlarınızla genellemelerinizi karşılaştırmak için 2. adımda uyguladığınız yöntemi grup 
+arkadaşlarınızla birlikte daha fazla üçgen çifti üzerinde uygulayınız. Ulaştığınız sonuçları inceleyiniz. İncele-
+melerinizi geometri tahtası veya matematik yazılımından yararlanarak da yapabilir siniz. Grup arkadaşlarınızla 
+fikir alışverişi yaparak genellemeler oluşturunuz. Oluşturduğunuz genellemeleri bir önerme olarak örnekteki gibi 
+yazınız.
+İki üçgenin benzer olması için birer iç açılarının eş ve bu açıyı oluşturan kenar uzunluklarının oranının eşit 
+olması yeterlidir.
+5. Elde ettiğiniz önermeleri değerlendirmek amacıyla aşağıda verilen soruları cevaplayınız.
+a) Benzer üçgenlerle günlük hayatta nerelerde karşılaşabileceğinize ilişkin örnekler veriniz. Üçgenlerin benzer-
+liğini verdiğiniz örneklerden biri üzerinde benzerlik koşullarından yararlanarak açıklayınız.
+Üçgenler Verilenler
+Karşılıklı Açı 
+Ölçüleri
+Eşit/Eşit Değil
+Karşılıklı Kenar 
+Uzunluklarının 
+Oranı Eşit/Eşit Değil
+Üçgenler
+Benzer/Benzer 
+Değil
+ABC& AB 6 cm, BC 5 cm, AC 4c m== =
+DEF& DE 10 cm, EF 8 cm, DF 12 cm== =
+DHI& DH 6 cm, HI 15 cm,==  mH 120o=_iX
+JKL& JK 2 cm, JL 3 cm,==  mJ 120o=_iT
+MNO& MN 4 cm, MO 6c m,==  mM 40o=_iY
+PRS& PR 8 cm, RS 12 cm,==  mP 40o=_iW
+TUV& mT 80 ,m U7 0oo==_ _i iW X
+YZW& mY 80 ,m 70 Zoo==_ _i iX W
+NRU& NR 9c m, = mN 100o=_iX
+ADK& AK 3 cm, =  mA 100o=_iX

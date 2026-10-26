@@ -1,0 +1,26 @@
+89
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+gruplara ayrılıp bir cismi yüksek bir yere çıkarmak için basit makinelerin kullanıldığı verimli 
+bir düzenek tasarlar (SDB1.2). Tasarımlarında verimi artırmak için kullandıkları yöntemleri 
+gerekçelendirerek (E1.6) açıklar. Tasarımlarından yola çıkarak mekanik sistemlerin ve-
+rimi ile ilgili değişkenler arasındaki orantısal ilişkiyi belirler (KB2.4). Tasarımının ve farklı 
+sistemlerin verimini hesaplayarak genelleme yapar. Öğrenciler verim konusu ile ilgili yap-
+tıkları tasarımları akran değerlendirme formu ile tarafsız davranarak değerlendirip (D1.3, 
+D6.2) en verimli sistemi seçer veya tasarımlarını okulda sergiler. Öğretmen matematiksel 
+hesaplamalar için açık uçlu maddelerden oluşan test kullanabilir.
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerin yay sabitini incelediği deneyler yayların seri, paralel ve karışık bağlanması ile 
+genişletilebilir. Birden fazla yaydan oluşan sistemde esneklik potansiyel enerjisi hesapla-
+nabilir. Günümüzde sürtünme kuvveti ile ilgili çalışan Türk bilim insanları ve bunların çalış-
+maları araştırılarak rapor hazırlanabilir. Öğrencilerden enerji verimliliği ve eko-verimlilik ile 
+ilgili ulusal ve uluslararası alanda yapılan çalışmalara yönelik araştırma raporu hazırlama-
+ları istenebilir. Devridaim makineleri ile ilgili bir panel düzenlenebilir.
+*Elektrikli araçlar ile benzinli araçların enerji verimliliğinin karşılaştırıldığı bir görsel tasa-
+rım ürünü hazırlanarak sergilenebilir.
+*Öğrenciler enerji dönüşüm sistemleri ile ilgili dijital ortamda animasyon ya da simülasyon 
+tasarlayıp arkadaşlarına sunabilirler.
+Destekleme Öğrencilerin yay sabitini incelediği deneyler yerine hazır veri setleri üzerinden analizler 
+yapılabilir. Poster tasarımı, grup çalışmaları akran veya öğretmen rehberliğinde yapılabilir. 
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

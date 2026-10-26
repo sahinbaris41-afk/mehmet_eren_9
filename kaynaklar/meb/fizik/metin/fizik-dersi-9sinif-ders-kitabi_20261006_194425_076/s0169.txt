@@ -1,0 +1,48 @@
+169
+AKIŞKANLAR
+ 3.4. KALDIRMA KUVVETİ
+Konuya Başlarken
+Doğadaki sistem, model veya canlılar örnek alına  rak 
+tasarımlar yapılmasına ve teknolojiler geliştirilme sine 
+biyomimikri denir. Su altı araçlarının yapımında nau­
+tilus (nautilus), yayın balığı, yunus gibi deniz canlıları­
+nın sudaki hareketlerinden ilham alınmıştır. Nautil us, 
+kafadan bacaklı kabuklu bir deniz canlısıdır. Kıvrı mlı 
+kabuklarının içinde odacıklar bulunur. Nautilus, da lış 
+yaptığında odacıklar suyla dolar ve yüzeye çıkarken  
+odacıklara pompalanan özel bir gazla su boşaltılır. Aşa­
+ğıdaki görselde verilen denizaltı da aynı ilke ile çalışır. 
+Denizaltılarda bulunan safra tankları bir miktar hava ve 
+su ile doludur. Denizaltıyı daldırmak için safra tankları 
+su ile doldurulur ve bu durum denizaltının yoğunluğ unu artırır, denizaltı batmaya başlar. Tanklardaki 
+suyun boşaltılıp yerine hava pompalanmasıyla denizaltının yoğunluğu azalır ve denizaltı böylece yüzeye 
+çıkar.
+Denizaltının suya dalması ve çıkması
+Yüzeye çıkma
+Dalma
+Batma Yükselme
+Safra tankları açılır ve 
+tanklara su g/i.dotrer. Böylece 
+den/i.dotzaltı dalmaya başlar.
+Safra tankı kapalıdır ve 
+/i.dotç/i.dotnde su yoktur.
+Safra tankları dolduğunda 
+den/i.dotzaltının yoğunluğu artar 
+ve den/i.dotzaltı batar.
+Safra tanklarındak/i.dot suyun 
+boşaltılması /i.dotç/i.dotn tanklara 
+hava pompalanır.
+Den/i.dotzaltının yoğunluğu 
+azalır ve böylece den/i.dotzaltı 
+yüksel/i.dotr.
+Safra tankı
+Su altı araçları tasarlanırken nautilusun hidrodina mik özelliklerinden ilham alınmıştır. Hidrodinamik 
+özellikler, su altı araçlarının daha az dirençle hareket etmesini sağlar ve enerji verimliliğini artırır.
+Deniz canlılarından ilham alınarak tasarlanmış başka hangi teknolo jiler veya ürünler bulunmak -
+tadır? Bu teknolojiler günlük hayatı nasıl etkilemiştir?
+Kuşların kemiklerinin içinin boş olması, ağırlıklarının azalmasını ve bazı canlılardan daha az yoğunluğa 
+sahip olmalarını sağlar. Böylece kuşlar kolayca yükselir. Kemik yapıları, kanatları altında hava basıncı da 
+oluşturarak kuşların havalanmasına yardımcı olur.
+Uçma yeteneğine sahip canlılardan ilham alınarak ta sarlanmış hangi teknolojiler veya ürünler 
+bulunmaktadır? Bu teknolojilerin günlük hayata etkileri neler olab ilir?
+Deniz canlısı nautilus

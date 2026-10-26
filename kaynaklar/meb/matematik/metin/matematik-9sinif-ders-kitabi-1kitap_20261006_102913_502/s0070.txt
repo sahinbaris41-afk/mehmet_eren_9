@@ -1,0 +1,31 @@
+70
+1. Tema /  Sayılar
+22.	Uygulama
+Sayı Kümelerinin İşlem Özellikleri
+Aşağıdaki soruları cevaplayınız.
+1. a) Tablo 1ʼde verilen toplama ve çarpma işlemlerinin sonuçlarını bulunuz.
+      Tablo 1
+      
+Toplama İşlemi Çarpma İşlemi
+35 5+- =_i 53 5-+ =_i 35 5$ -=_i 53 5$-=_i
+2
+1 3+- =_i 3 21-+ =_i 31 2$ -=_i 2 31$-=_i
+26 36-+ -=__ ii 36 26-+ -=__ ii 26 2$-- =__ ii 22 6$-- =__ ii
+b)  A ynı satırdaki işlemlerde toplanan veya çarpılan sayıların yerlerinin değişmesi, sonuçları değiştirmiş midir? 
+Açıklayınız.
+2. a) Tablo 2ʼde verilen toplama ve çarpma işlemlerinin sonuçlarını bulunuz.
+      Tablo 2
+       
+Toplama İşlemi Çarpma İşlemi
+35 52 5++ =_i 35 52 5++ =_i 35 52 5$$ =_i 35 52 5$$ =_i
+,, ,21 36 25++ -=_i8B ,, ,21 36 25++ -=_ _i i ,,25 05 4$$ =_i ,,25 05 4$$ =_i
+b) A ynı satırdaki işlemlerde işlem sırasının değişmesi, sonuçları değiştirmiş midir? Açıklayınız.
+3. a) Tablo 3ʼte verilen toplama ve çarpma işlemlerinde verilmeyen sayıları bulunuz.
+     Tablo 3
+      
+Toplama İşlemi Çarpma İşlemi
+....35 35+= .... 35 35+= ....77 $-= -_i .... 77$ -= -_i
+, .... ,24 24-+ =-_i .... ,,24 24+- =-_i ....31 31$-= -cm .... 31 31$ -= -cm
+, ....aa aR! += , ....aa aR! += , ....aa aR $! = , ....aa aR $! =
+b)  Bulduğunuz sonuçlardan hareketle verilen işlemler, toplama ve çarpmanın hangi özelliği ile ilişkilendirile-
+bilir? Açıklayınız.

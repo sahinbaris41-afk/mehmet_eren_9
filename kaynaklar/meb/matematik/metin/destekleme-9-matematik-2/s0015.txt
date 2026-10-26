@@ -1,0 +1,36 @@
+14
+MATEMATİK 9 
+1. TEMA: SAYILAR
+2. Adım
+3. Adım
+Güneş’in, Dünya’nın, elektronun ve nötronun kütleleri yaklaşık değerleri ile aşağıdaki tabloda verilmiş-
+tir. Öncelikle tabloda verilen kütlelerin bilimsel gösterimlerinin doğruluğunu kontrol ediniz.
+Çok küçük ve çok büyük sayıların yer aldığı ölçüm sonuçlarının ifade edilmesinde işlem kolaylığı sağla-
+mak amacıyla ön ekler kullanılmaktadır. Uluslararası Birim Sistemi'nde (SI) yer alan ön eklerin bazıları 
+aşağıdaki tabloda verilmiştir.
+Tabloda verilen ön ekleri kullanarak aşağıdaki ifadelerin ölçüm sonuçlarını, verilen  örnekleri inceleye-
+rek düzenleyiniz. Yanıtlarınızı uygun boşluklara yazınız.
+Verilen bilgilere göre Güneş (G), Dünya (D), elektron (E) ve nötron (N)’ un kütleleri için          +          oranını 
+hesap makinesi veya çevrim içi araçlar kullanarak hesaplayınız.
+Güneş 2 000 000 000 000 000 000 000 000 000 000 kilogram 2 .1030 kg
+Dünya 6 000 000 000 000 000 000 000 000 kilogram 6 .1024 kg
+Elektron 0,00000000000000000000000000000091 kilogram 9,1 .10-31 kg
+Nötron 0,0000000000000000000000000017 kilogram 1,7 .10-27 kg
+G
+D
+E
+N
+Ön Ek tera- giga- mega- kilo- mili- mikro- nano- piko-
+Sayı 1012 109 106 103 10-3 10-6 10-9 10-12
+Ölçüm Sonuçları Bilimsel Gösterimi Okunuşu
+Kablosuz Sinyal Ölçümü
+0,000001 volt 1 . 10-6 V 1 mikrovolt
+Elektrik Direnci
+1 000 000 ohm 1 . 106 Ω 1 megaohm
+Elektrik Akımı
+0,000001 amper
+Zaman
+0,000000000001 saniye
+Bilgisayar Saatinin Frekansı
+3 000 000 000 hertz
+Çözüm:

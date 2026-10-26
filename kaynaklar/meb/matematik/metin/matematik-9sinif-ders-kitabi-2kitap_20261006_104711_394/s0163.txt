@@ -1,0 +1,57 @@
+163
+6. Tema / İstatistiksel Araştırma Süreci
+“Öğrencilerin	boyları	ne	kadardır?”	sorusunun	istatistiksel	araştırma	sorusu	ölçütlerinin	tamamını	
+yansıtmadığı	görülmektedir.	Soru	bu	ölçütlere	uygun	olarak	aşağıdaki	gibi	yeniden	oluşturulabilir.
+“A	ilkokulunda	öğrenim	gören	3.	sınıf	öğrencilerinin	santimetre	cinsinden	boyları	nasıl	bir	eğilim	gös-
+termektedir?”
+b)	 Bağlamda	verilen	amaç	doğrultusunda	“erkek	öğrencilerin	boyu,	kız	öğrencilerin	boyundan	daha	mı	
+uzundur?”	şeklinde	oluşturulan	istatistiksel	araştırma	sorusunun	ilgili	ölçütlere	göre	incelenmesi	aşa-
+ğıdaki	gibidir.
+Araştırma Sorusu 
+Ölçütleri Sorunun İlgili Ölçütü Karşılayıp Karşılamadığına Dair Fikirleriniz
+Amaç	açık	mıdır?	
+Amaç	açıktır.	Soru,	kız	ve	erkek	öğrencilerin	boylarını	karşılaştırmaya	yönelik	
+bir	istatistiksel	araştırma	sorusudur	ancak	soru,	erkek	öğrencilerin	boyunun	kız	
+öğrencilerin	boyundan	daha	uzun	olduğunu	öne	süren	bir	yapıdadır.	Soru,	eğilim	
+kavramı	kullanılarak	daha	uygun	şekilde	ifade	edilebilir.
+Araştırmaya	değer	
+midir?	
+Soru,	boyları	belirlenen	kız	ve	erkek	öğrencilerin	ilgili	spor	dallarına	yönlendirile-
+bilmesi	bakımından	düşünülürse	araştırmaya	değerdir.
+İlgilenilen	grup	(evren)	
+açıkça	görülmekte	
+midir?
+İlgilenilen	grup	öğ rencilerdir	an cak	soru da	bu	öğ rencilerin	tek	bi r	oku ldan	mı	be lir-
+leneceği,	farklı	sınıf	seviyelerinden	mi	olacağı	belli	değildir.	Bağlam	doğrultusunda	
+öğrencilerin	okulu	ve	sınıf	seviyeleri	soruda	belirtilmelidir.	Ayrıca	hangi	gruplarla	
+çalışılacağı	açık	olmalıdır.	Burada	kızların	ve	erkeklerin	boylarına	odaklanıldığı	
+için	gruplar	bellidir.
+(“A	ilkokulunda	okuyan	3.	sınıf	öğrencileri”	gibi)
+Değişken		açıkça	
+görülmekte	midir?
+Değişken	 açıkça	 görülmektedir.	Araştırma	 sorusundaki	 değişken	 öğrencilerin	
+boyudur.
+Veri	toplanarak	
+cevaplanabilir	mi?
+Soru	birincil	verilerle	cevaplanabilecek	yapıdadır.	Öğrencilerin	boyları	ölçülerek	
+verilerin	toplanması	durumu	söz	konusudur.	
+Ölçümün	nasıl	yapılacağı	görülmemektedir.	Örneğin	soruya	eklenecek	“...	kaç	
+cm’dir?”	ifadesi	ölçümle	ilgili	fikir	verecektir.
+Değişebilirliği	
+yansıtmakta	mıdır?
+Araştırma	sorusundaki	değişebilirlik,	doğal	ortamdan	kaynaklı	değişebilirlik	türün-
+dedir.
+Odaklanılan	grup	
+araştırma	yapılmasına	
+imkân	vermekte	midir?
+Soru,	kız	ve	erkek	öğrencilerin	boylarının	karşılaştırılması	için	boy	ölçümü	ile	elde	
+edilen	verilerin	tamamını	analiz	etmeye	yöneliktir.
+Nicel	veri	toplamayı	
+gerektirir	mi?
+Araştırma	sorusunda	toplanması	beklenen	veriler,	öğrencilerin	boy	ölçüm	verile-
+ridir.	Boy,	bir	ölçüm	sonucu	elde	edilen	veri	olduğundan	nicel	veridir.
+“Erkek	öğrencilerin	boyu,	kız	öğrencilerin	boyundan	daha	mı	uzundur?”	sorusunun	istatistiksel	araş-
+tırma	sorusu	ölçütlerinin	tamamını	yansıtmadığı	görülmektedir .	Soru,	bu	ölçütlere	uygun	olarak	aşa-
+ğıdaki	gibi	yeniden	oluşturulabilir.
+“A	ilkokulunda	öğrenim	gören	3.	sınıf	öğrencilerinin	boyları,	cinsiyete	göre	santimetre	cinsinden	nasıl	
+farklılık	göstermektedir?”

@@ -1,0 +1,26 @@
+60
+1. Ünite
+Öz Değerlendirme Formu
+Öğrencinin Adı ve Soyadı:
+Numarası ve Sınıfı:
+Aşağıdaki ifadeler, yaptığınız çalışmayla ilgili kendinizi değerlendirmeniz için düzenlenmiştir. Bu ifadeler 
+size uygun değilse “Hayır”ı biraz uygunsa “Kısmen”i çok uygunsa “Evet”i işaretleyiniz.
+Tüm ifadeleri işaretlemeyi unutmayınız.
+Değerlendirilecek İfadeler
+Dereceler
+Evet
+Kısmen
+Hayır
+1.   Konuyla ilgili bilgi edinmek için güvenilir kaynaklara ulaştım.
+2.  Konuyla ilgili görsel materyaller (harita, fotoğraf, resim vb.) buldum.
+3.  Ulaştığım bilgi kaynaklarını ve görsel materyalleri güncellik, güvenilirlik, 
+doğruluk, tarafsızlık, anlaşılırlık gibi ölçütlere göre değerlendirdim ve bu 
+ölçütlere uygun olanları seçtim.
+4.  Konuyla ilgili seçtiğim bilgilerden ulaştığım çıkarımları yazdım.
+5.  Telif ve fikrî mülkiyet haklarını (alıntı ve referansların kullanımı, yayımlanmış 
+gizli ve/veya özel bilgilerin kullanımına ilişkin etik ve yasal kısıtlamalar vb.) 
+dikkate alarak bir ağ günlüğü yazdım.
+Açıklama: Aşağıdaki alanlara sizden istenenler doğrultusunda uygun ifadeleri yazınız.
+Bu çalışmada en çok ilgimi çeken konular şunlardı:
+Bu çalışmayı yaparken en çok zorlandığım konular şunlardı:
+Öğretmenin geri bildirimi

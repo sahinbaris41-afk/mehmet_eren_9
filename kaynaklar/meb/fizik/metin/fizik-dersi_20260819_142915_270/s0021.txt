@@ -1,0 +1,50 @@
+21
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Anahtar Kavramlar temel nicelik, türetilmiş nicelik, skaler nicelik, vektörel nicelik, bileşke vektör, kuvvet, re-
+ferans noktası, konum, alınan yol, yer değiştirme, sürat, anlık sürat, ortalama sürat, hız, 
+anlık hız, ortalama hız, ivme, öteleme hareketi, dönme hareketi, titreşim hareketi
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; yapılandırılmış grid, çalışma yaprağı, açık uçlu sorulardan oluşan test, 
+çıkış kartı, poster, broşür, öz değerlendirme, akran değerlendirme ve sanal pano ya da 
+bülten panosu kullanılarak değerlendirilebilir.
+Öğrencilerin fiziksel nicelikleri temel-türetilmiş ve skaler-vektörel olarak sınıflandırmaları 
+için yapılandırılmış grid kullanılabilir. Öğrencilere vektörlerin toplanması ve gerçek sayı ile 
+çarpılması konularında bir çalışma yaprağı verilebilir. Doğadaki temel kuvvetler ile bunla-
+rın özellikleri, benzerlikleri ve farklılıkları konusunda çıkış kartları dağıtılıp ders sonunda 
+toplanabilir. Yapılandırılmış grid, açık uçlu sorulardan oluşan test, çalışma yaprağı ve çıkış 
+kartları puanlama anahtarı ile değerlendirilebilir. Hareketin temel kavramlarıyla ilgili bir 
+poster veya broşür hazırlama etkinliği performans görevi olarak verilebilir. Bu performans 
+görevi dereceli puanlama anahtarı ile değerlendirilebilir. Performans sonrasında bir sınıf 
+içi tartışma planlanıp gözlem formu, öz ve akran değerlendirme formu ile değerlendirme 
+yapılabilir. Öğrencilerden hareket türlerinin sınıflandırılması kapsamında sanal panoya ya 
+da bülten panosuna hareket örnekleri ve kısa açıklamalar gibi yazılar yazmaları istenebi-
+lir. Kısa açıklamalar dereceli puanlama anahtarı ile değerlendirme yapılabilir. Performans 
+görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin fen bilimleri ve matematik derslerinde geçen kuvvet, hareket, sürat, hız ve 
+alınan yol kavramlarını ve birimlerini bildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere kuvvet, hareket, sürat, hız ve alınan yol kavramlarına yönelik kelime ilişkilen-
+dirme testi verilebilir. Fen bilimleri dersindeki ön öğrenmelerinde bulunan kavramların 
+sembolleri ve birimleri arasında eşleştirme yapılabilir. Ön öğrenmelerde karşılaşılan kav -
+ramsal eksiklikler giderilebilir.
+Köprü Kurma Öğrencilere ön öğrenmelerinde yer alan fen bilimleri, kimya, biyoloji ve matematik ders-
+lerinde kullanılan fiziksel nicelikler ve birimleri soru cevap etkinliği ile hatırlatılabilir. Öğ-
+rencilerin günlük hayatlarında karşılaştıkları fiziksel nicelikler ve bu niceliklerin birimlerini 
+kuvvet ve hareket konusu ile ilişkilendirmeleri sağlanabilir ve bunların sınıflandırılmasına 
+geçilebilir. 
+Öğrenme-Öğretme 
+Uygulamaları FİZ.9.2.1
+Öğretmen SI birim sistemi ile ilgili bilgilendirme yapar. Öğrenciler SI birim sistemi hak -
+kında farkındalık kazanır. Öğretmen soru cevap tekniği kullanarak öğrencilerin fen bilim-
+leri, fizik, kimya ve biyoloji derslerinde görmüş olduğu fizik bilimi ile ilgili nicelikleri ve bu 
+niceliklerin birimlerini tablo üzerinde listelemesini sağlar. Öğrenciler, listelerde yer alan 
+birimleri ve nicelikleri SI birim sistemini kullanarak (E3.2) eşleştirir, temel ve türetilmiş 
+niceliklerin niteliklerini tanımlar. Düşün-eşleş-paylaş, vızıltı gibi küçük gruplarla sağla-
+nan tartışma ortamında akranlarıyla etkileşim kurarak (SDB2.1) listelenen nicelikleri ve 
+birimleri niteliklerine göre ayrıştırır ve gruplandırır. Elde edilen fiziksel niceliklere ilişkin 
+gruplamaları, temel ve türetilmiş nicelikler adlarıyla eşleştirir (OB1). Öğrencilerin temel ve 
+türetilmiş nicelikleri sınıflandırabilmeleri için yapılandırılmış grid kullanılabilir. 

@@ -1,0 +1,38 @@
+250
+3. Tema/Sürdürülebilirlik
+6. Deneylerden elde ettiğiniz verileri bulut teknolojileri gibi çevrim içi ortamlarda kişisel bilgilerin gizliliğine 
+dikkat ederek sınıf arkadaşlarınız ile paylaşınız. Arkadaşlarınızla paylaştığınız tüm deneysel verileri analiz 
+ederek hangi evsel atıktan ne kadar metal nanoparçacık elde edilebildiğine, ne kadar evsel atığın geri dö-
+nüştürülebildiğine ve ne kadar atığın önlenebileceğine ilişkin değerlendirmeler yapınız.
+ 
+7. Kitabın sonunda “Ekler” bölümündeki 13. Form’u doldurunuz.
+Yeşil kimyanın ilkeleri sürdürülebilir kalkınma üzerinde de etkilidir. Sanayinin 
+hızlı gelişmesi üretim ve tüketim artışına yol açmıştır. Bu hızlı üretim ve tüke-
+tim süreçleri zararlı olabilecek birçok endüstriyel atığı ortaya çıkarmıştır. Yeşil 
+kimya, bu atıkların önlenmesi yönünde edindiği temel ilkelerle sürdürülebilir 
+kalkınmanın 12. hedefi olan sorumlu tüketim ve üretim hedefine katkıda bulu-
+nur. Bu ilkeyle doğal kaynakların etkin kullanımı ve sürdürülebilir yönetimi, atık 
+üretimininin önlenmesi, yeniden kullanım ve geri kazanım yoluyla azaltılması, 
+ülke kaynaklarının sürdürülebilir bir şekilde kullanılması, kimyasal maddelerin 
+ve atıkların çevre dostu yönetimi, sürdürülebilir kalkınma bilincinin artırılması 
+hedeflenir. 
+Kontrol Noktası 3.1
+Aşağıda verilen metin ve tabloya göre soruları cevaplayınız.
+Gümüş nanoparçacıklar (AgNP) mikroorganizmaları öldürme veya bunların büyümelerini durdurma (inhibe etme) 
+özelliğinden dolayı sağlık alanında kullanılmaktadır. Örneğin AgNP emdirilmiş yara bantları, yarada bakteri üre-
+mesini engelleyerek yara enfeksiyonunu azaltır. Ancak bu yara bandının etkili bir şekilde çalışabilmesi için yarayla 
+doğrudan temas hâlinde olması gerekir. Nanoparçacıkların yüksek yüzey alanı/hacim oranı, yüzeyin daha fazlasının 
+kimyasal tepkimeye girmesine olanak tanır. Bu durumda nanoparçacıkların özelliklerinin daha etkili olmasını sağlar. 
+Öğretmen, laboratuvarda gruplar oluşturan öğrencilerden sağlık alanında kullanılmak üzere AgNP sentezlemelerini 
+ve gümüş nanoparçacıkların etkisini test etmelerini istemiştir. Öğrencilerin AgNP sentez deneyinde kullandıkları 
+maddeler, bu maddelerin miktarları ve elde edilen gümüş nanoparçacıkların boyutları aşağıdaki tabloda verilmiştir.
+Grup Numarası Deneyde Kullanılan Maddeler ve Miktarları Elde Edilen AgNP Boyutu (nm)
+1 20 mL gümüş nitrat çözeltisi, 2 mL sodyum sitrat çözeltisi 18
+2 50 mL gümüş nitrat çözeltisi, 125 mL üzüm bitkisi yaprak özütü 16
+3 50 mL gümüş nitrat çözeltisi, 150 mL üzüm bitkisi yaprak özütü 14
+4 10 mL gümüş nitrat çözeltisi, 25 mL sodyum borhidrür çözeltisi 20
+5 10 mL gümüş nitrat çözeltisi, 20 mL sodyum borhidrür çözeltisi 21
+6 25 mL gümüş nitrat çözeltisi, 5 mL nar kabuğu özütü  19
+1. Yeşil kimyanın “daha güvenli kimyasallar tasarlama” ilkesine uygun deneyi hangi grup veya gruplar yap-
+mıştır? Nedenini açıklayınız.
+  

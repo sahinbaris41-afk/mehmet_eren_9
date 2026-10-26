@@ -1,0 +1,28 @@
+140
+5. Tema/Algoritma ve Bilişim  
+1. ‟Çarpımı	sıfır	olan	iki	gerçek	sayıdan	en	az	biri	
+sıfırdır.”	önermesi	veriliyor.	
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Önermenin	doğruluğunu	ispatlayınız.
+b) Yaptığınız	cebirsel	ispatın	her	bir	adımını	
+sözel	olarak	ifade	ediniz.	Önermenin	doğ-
+ruluğunu	ispatlamak	için	kullandığınız	man-
+tık	bağlaçları	ve	niceleyicilere	yönelik	çıka-
+rımlarınız	ne	olur?	Açıklayınız.
+c) Elde	ettiğiniz	sözel	ifadelerden	faydalana-
+rak	ispatın	aşamalarını	ifade	eden	bir	algo-
+ritmanın	işleyişini	sözde	kod,	algoritmik	
+doğal	dil	ve	akış	şeması	yardımıyla	ifade	
+ediniz.
+ 
+Sözde Kod
+ 
+ 
+Algoritmik Doğal Dil
+Akış Şeması
+ 
+ Alıştırmalar
+Farklı Kaydet
+Bu temada öğrendiğiniz bilgileri kendi hatırlayacağınız şekilde bu alana kısaca not edebilirsiniz.
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

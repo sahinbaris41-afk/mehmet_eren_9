@@ -1,0 +1,33 @@
+115
+2. Tema /  Nicelikler ve Değişimler
+c)	 f	fonksiyonunun	cebirsel	temsilini	parçalı	gösterimli	fonksiyon	biçiminde	ifade	ediniz.	Grafik	
+üzerinde	gösteriniz.
+a, b ! R ve a ≠ 0 olmak üzere gerçek sayılarda g(x) = ax + b şeklinde tanımlı doğrusal fonksiyonların grafikleri 
+çizilirken aşağıdaki adımlar izlenir.
+f: R"R, f(x) = x olsun.
+• m(x) = ax şeklinde tanımlı m fonksiyonunun grafiği f fonksiyonunun tanım aralığındaki her elema -
+nı a katı ile eşleyecek şekilde çizilir.
+• g: R"R, g(x) = ax + b şeklinde tanımlı fonksiyonun grafiği çizilirken 
+ b ! R+ ise m fonksiyonunun grafiği y ekseni boyunca pozitif yönde b birim ötelenir.
+ b ! R- ise m fonksiyonunun grafiği y ekseni boyunca negatif yönde |b| birim ötelenir.
+a, b ! R ve a  0 olmak üzere g:  R"R, g(x) = ax + b şeklinde tanımlı g doğrusal fonksiyonu için aşağıdaki 
+sonuçlara varılır.
+• a > 0 ise g fonksiyonunu temsil eden doğrunun eğimi pozitiftir.
+• a < 0 ise g fonksiyonunu temsil eden doğrunun eğimi negatiftir.
+• g fonksiyonunun en geniş tanım ve görüntü kümesi, gerçek sayılardır.
+• n ! R olmak üzere g fonksiyonunun sıfırı n olsun gn 0=` _i j .
+• a > 0 veya a < 0 olmak üzere f fonksiyonunun işaret incelemesi aşağıdaki gibi iki farklı şekilde yapılabilir.
+g fonksiyonunun işareti a > 0 için n, 3_i  nda pozitif, ,n3-_i  nda negatif;
+a < 0 için ,n3-_i  nda pozitif, n, 3_i  nda negatiftir.
+• a = 0 ise g(x) = b biçimindeki g sabit fonksiyonu elde edilir. 
+• a  0 olduğunda g fonksiyonu bire birdir.
+•  a > 0 için g fonksiyonu artandır.
+•  a < 0 için g fonksiyonu azalandır.
+•  g fonksiyonunun maksimum ve minimum noktası yoktur.
+a > 0 için a < 0 için
+   x    -∞              n                ∞
+g(x)    -                +0
+   x    -∞              n                ∞
+g(x)    +                -0
+veya
+Kontrol Noktası

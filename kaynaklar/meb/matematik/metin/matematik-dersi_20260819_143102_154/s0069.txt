@@ -1,0 +1,53 @@
+69
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlen -
+dirilebilir.
+Programlama dillerindeki kodlamalarda yer alan algoritmaların (sıralama ve arama al -
+goritmaları gibi) çözümlenmesine ve bu kodlamalarla ilgili akış şemaları oluşturulması-
+na yönelik verilen performans görevi, analitik dereceli puanlama anahtarı kullanılarak 
+değerlendirilebilir.
+Akış şeması oluşturma, çizge oluşturma, kodlama yapma yöntemlerini kullanmayı ge -
+rektiren problemlerin yer aldığı çalışma kâğıtları analitik dereceli puanlama anahtarı 
+kullanılarak değerlendirilebilir. Öz değerlendirme formuyla öğrencilerin kendilerini de -
+ğerlendirmeleri istenebilir.
+Gerçek yaşam durumlarında ve bilişim sistemlerinde şifreleme algoritmalarının kulla -
+nımlarının araştırılmasına yönelik verilen araştırma ödevinin değerlendirilebilmesi için 
+hazırlık, içerik ve sunum süreçlerini içine alan derecelendirme ölçeği hazırlanabilir.
+Algoritmik yapılardaki, matematiksel önermelerdeki ve matematiksel ispatlardaki 
+mantık bağlaçları ve niceleyicilerin anlamlarını çözümleme ve yorumlamaya dönük ça -
+lışma kâğıdı; öz değerlendirme formuyla değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin tek, çift ve ardışık tam sayıları bildiği; bir doğal sayının asal olup olma -
+dığını ve asal çarpanlarını belirleyebildiği; bir doğal sayının çarpanlarını ve katlarını 
+belirleyebildiği; bir doğal sayıyı basamak değerlerine göre çözümleyebildiği; bölü -
+nen, bölen, bölüm ve kalan kavramlarını bildiği;  iki doğal sayının ortak bölenlerini ve 
+ortak katlarını belirleyebildiği; mantık bağlaçları ile niceleyicileri bildiği ve doğrusal 
+fonksiyonları tanıdığı kabul edilmektedir. Ayrıca öğrencilerin aritmetik ve cebirsel 
+işlemler içeren bir problem durumunun aşamalarını algoritmik olarak (doğal dil, akış 
+şeması ya da sözde kod) ifade edebildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin doğal sayıların ve tam sayıların özellikleri, bölme algoritması, doğal sayılarda 
+bölünebilme, bir doğal sayıyı basamak değerlerine göre çözümleyebilme, iki doğal sayının 
+ortak bölenlerini ve ortak katlarını belirleyebilme ile ilgili bilgi ve becerilerinin belirlenebil-
+mesi için soru cevap tekniği uygulanabilir. Gerçek yaşam durumu problemleri üzerinden 
+algoritma dilinin kullanımı ile ilgili ön bilgilerin ve ihtiyaçların tespit edilmesine yönelik ça-
+lışmalar yapılabilir. Ayrıca öğrencilere sözel matematik önermelerini mantık bağlaçları ve 
+niceleyiciler kullanarak ifade etmelerine yönelik açık uçlu sorular sorulabilir. 
+Köprü Kurma Öğrencilerin algoritma hakkındaki bilgilerini ve düşüncelerini ortaya çıkarmak için bi -
+lişim ve iletişim alanlarındaki günümüz teknolojik gelişmeleri bağlamında sınıf içi tar -
+tışma yapılabilir. Bilişim teknolojilerinin temelinde yatan matematiksel fikirlerin neler 
+oldu ğu, algoritmanın önemi, işlevi ve matematikle olan ilişkisi hakkında öğrencilerin 
+sunum yapması sağlanabilir. Bu şekilde öğrencilerin  teknolojide dünyayı etkileyen yeni 
+gelişmelerin (programlama dilleri, makine öğrenmesi, yapay zekâ gibi) arkasında yatan 
+matematiği fark etmeleri sağlanabilir. Akış şemalarının farklı alanlarda kullanımına yö -
+nelik örneklere yer verilebilir. Bu bağlamda sibernetik alanında Cezeri ’nin çalışmaları 
+örnek gösterilebilir. Euler ’in (Öyler) Königsberg (Könisberk) köprüsü problemi tarihî 
+bağlamı ile birlikte tanıtılarak öğrencilerin probleme dair fikir üretmeleri beklenebilir. 
+Gerçek yaşam durumlarında özel bilgilerin şifrelenerek  korunmasının algoritmayla na-
+sıl mümkün olabileceği sorgulanabilir. Ulusal güvenlik açısından şifreleme teknolojileri 
+ve siber güvenlik sistemlerinde (kimlik ve erişim yönetimi, bulut güvenliği gibi) ülkemizin 
+gelişmesinin önemi vurgulanabilir.

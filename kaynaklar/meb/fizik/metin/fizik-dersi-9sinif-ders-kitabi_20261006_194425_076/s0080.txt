@@ -1,0 +1,77 @@
+80
+2. ÜNİTE 
+a)  A  vektörünün başlangıç noktası, kartezyen 
+koordinat sisteminin merkezine getirilir.
+y
+xO
+A
+b)  A  vektörünün bitiş noktasından şekildeki gibi 
+eksenlere paralel çizgiler çizilerek düzgün 
+paralelkenar şekli oluşturulur.
+y
+xO
+A
+c)  Koordinat sisteminin orijininden paralel çizginin 
+x eksenini kestiği noktaya kadar yönlü bir doğru 
+çizilir ve bu doğru Ax bileşeni olarak işaretlenir. 
+Benzer şekilde koordinat sisteminin orijininden 
+paralel çizginin y eksenini kestiği noktaya kadar 
+yönlü bir doğru çizilir ve bu doğru Ay bileşeni 
+olarak işaretlenir. Bu şekilde A  vektörünün x 
+ekseni üzerindeki bileşeni Ax ve y ekseni üze-
+rindeki bileşeni Ay elde edilir.
+y
+x
+Ay
+O Ax
+A
+Dik Kartezyen Koordinat 
+Sistemi
+Koordinat eksenleri 
+birbirine dik olan sisteme 
+dik kartezyen koordinat 
+sistemi denir. Kartezyen 
+koordinat sistemi, bir 
+cismin bulunduğu yeri ta-
+nımlamak için kullanılır. 
+Eksenlerin kesiştiği nokta 
+orijin olarak adlandırılır 
+ve “O” harfi ile gösterilir. 
+Kartezyen koordinat 
+sisteminde A cisminin 
+bulunduğu yer A (x, y, z) 
+şeklinde işaretlenir. 
+y (+)
+x (+)
+y (-)
+x (-)
+z (+)
+z (-)
+A (x, y, z)
+Örnek 
+Yandaki şekilde kenar uzunlukları 1 birim olan eşit bölmelendirilmiş 
+düzlemde verilen A  vektörünün bileşenlerini x-y düzlemi üzerinde çizi-
+niz. Yaptığınız çizimin aşamalarını kısaca açıklayınız. A  vektörünün 
+bileşenlerinin yönlerini ve büyüklüklerini yazınız.
+Çözüm
+A  vektörünün başlangıç noktasına x-y koordinat sistemi çizilir. A  vektörü-
+nün bitiş noktasından x ve y eksenlerine paralel doğrular çizilir. Koordinat 
+sisteminin başlangıç noktasından çizilen paralellere kadar vektör çizilir. Bu 
+şekilde A  vektörünün x ve y eksenlerindeki bileşenleri Ax ve Ay bulunur. Bu 
+durumda “ Ax, -x ve Ay, +y yönündedir.” sonucuna varılır. Birim uzunluktan 
+yararlanılarak Ax ve Ay bileşenleri 3 birim olarak ölçülür.
+12. Alıştırma
+Şekildeki eşit bölmelendirilmiş düzlemde verilen A  vektörünü bileşen-
+lerine ayırınız.
+A
+1 birim
+1 birim
+}
+}
+-x
++y
+Ay
+Ax
+A
+O
+A

@@ -1,0 +1,52 @@
+178
+2. Tema/Çeşitlilik
+Aşağıda periyodik tablo kesiti ve kesitteki elementlerin hidrojenli bileşiklerinin kaynama sıcaklıkları grafiği 
+verilmiştir. Grafikteki verileri ve periyodik tablo kesitini kullanarak soruları cevaplayınız.
+1. 4A grubu elementlerinin hidrojenle oluşturduğu bileşiklerin kaynama sıcaklığı nasıl değişmiştir? Bu deği-
+şimin nedenini moleküller arası etkileşim kuvvetlerini kullanarak açıklayınız.
+2. Aynı grup elementleri olan oksijen (O) ve kükürt (S) elementlerinin hidrojenli bileşiklerinde suyun (H 2O) 
+normal kaynama sıcaklığının hidrojen sülfürden (H 2S) yüksek olmasının nedeni nedir? Moleküller arası 
+etkileşim kuvvetlerini kullanarak açıklayınız.
+400
+350
+300
+250
+200
+150
+100
+50
+0
+Kaynama sıcaklığı (K)
+4A 5A 6A 7A
+SnH4
+SiH4
+NH3
+H2O
+HF
+PH3
+H2S
+HCl
+AsH3
+H2Se
+HBr
+SbH3
+H2Te
+HI
+GeH4
+CH4
+4A 5A 6A 7A
+C
+6 7 8 9
+14 15 16 17
+32 33 34 35
+50 51 52 53
+N O F
+Si P S Cl
+Ge As Se Br
+Sn Sb Te I
+14 15 16 17
+Hidrojen Bağı ve Sıvıların Kaynama Noktası 
+Kaynama sırasında sıvı molekülleri birbirinden uzaklaşır. Bundan dolayı sıvı-
+ların kaynama sıcaklığı moleküller arası etkileşim kuvveti ile doğru orantılıdır.
+Kaynayan Sıvıların Sıcaklıkları Neden Farklıdır?Etkinlik-2.21
+Grup numarası

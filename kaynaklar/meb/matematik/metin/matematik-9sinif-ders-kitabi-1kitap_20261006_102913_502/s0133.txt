@@ -1,0 +1,27 @@
+133
+2. Tema /  Nicelikler ve Değişimler
+2.  Bir kurye, A noktasındaki dağıtım merkezinden yola çıkarak sabit hızla 5 km uzaklıkta bulunan B nok-
+tasındaki eve bir paket bırakıyor. Mola vermeden aynı sabit hızla A noktasına geri dönüyor. Kuryenin 
+giderken ve dönerken aynı doğrusal yolu kullandığı ve gidiş süresinin 20 dakika olduğu biliniyor. 
+Kuryenin zamana (dk.) bağlı olarak B noktasına mesafesini (km) ifade eden fonksiyon f olsun. 
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)	f	fonksiyonunun	cebirsel	temsilini	bulunuz.
+b)	f	fonksiyonunun	grafiğini	çiziniz.
+Araştırma	Ödevi
+Aşağıda verilen adımları gerçekleştirerek araştırma ödevini zamanında ve ek-
+siksiz olarak tamamlayınız.
+• Farklı alanlarda mutlak değer fonksiyonu yardımıyla ifade edilebilen ger -
+çek yaşam durumlarını araştırınız. 
+• Belirlediğiniz gerçek yaşam durumuna uygun bağımlı ve bağımsız değiş -
+kenleri içeren bir tablo oluşturunuz. 
+• Tablodaki veriler yardımıyla fonksiyonun cebirsel temsilini oluşturup grafi-
+ğini çiziniz. 
+• Gerçek yaşam durumunu yansıtması amacıyla oluşturduğunuz fonksiyo -
+nun cebirsel temsili için uygun tanım ve değer aralıkları belirleyiniz.
+• Yaptığınız çalışmanın tüm aşamalarını içeren bir rapor hazırlayıp arka -
+daşlarınıza sununuz.
+Çalışmanız derecelendirme ölçeği ile öğretmeniniz tarafından değerlendirile -
+cektir.
+Derecelendirme 
+ölçeğine ulaşmak için 
+karekodu okutunuz.

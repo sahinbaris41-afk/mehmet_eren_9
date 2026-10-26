@@ -1,0 +1,76 @@
+3130
+1. TEMA: MÜZİK DİLİ
+1.3.2. İki Vuruşlu Bileşik Ölçü
+Öğrencilere iki vuruşlu bileşik ölçüyle ilgili bilgiler veriniz.
+Bileşik Ölçü: Her bir vuruşu üç eşit parçaya bölünebilen ve iki vuruştan oluşan ölçüler, iki 
+vuruşlu bileşik ölçülerdir. Ölçü sayısındaki üstte bulunan “6” rakamı ölçü içinde üçerli iki 
+vuruş bulunduğunu, altta bulunan “8” rakamı ise birim vuruşun nota değerini gösterir.     ölçü 
+en basit hâliyle iki tane noktalı dörtlük süre değerinden (nota, sus) oluşur. 68
+1
+2
+.
+.
+ ölçüde birinci 
+noktalı dörtlük süre birinci vuruş, ikinci noktalı dörtlük süre de ikinci vuruştur (Görsel 1.19). 
+Ölçüler birim vuruşa uygun kuvvetli ve zayıf vuruşlardan oluşur. Birinci vuruş kuvvetli (K), 
+ikinci vuruş ise zayıftır (Z). 
+68
+1
+2
+.
+.
+  ölçünün vuruş şeklini gösteriniz (Görsel 1.20).
+Görsel 1.19: 68
+1
+2
+.
+.
+ Ölçü Sayısının Vuruşları
+Görsel 1.20:  68
+1
+2
+.
+.
+ Ölçü Sayısının Vuruş Şekli
+Sıra Sizde
+Öğrencilerden aşağıdaki      ritim cümlesini vuruşlarını yaparak okumalarını isteyiniz.
+68& œ™ œ™ œ œ œ œj œ œ œ œ œ œ œ œ™ Œ™
+68
+œ œ œ œ œ
+58
+œ. œ
+1. zaman 2. zaman 
+İkişerli Üçerli 
+œ œ œ œ œ
+58
+œ. œ
+1. zaman 2. zaman 
+İkişerli Üçerli 
+œ œ œ œ œ
+58
+œ œ .
+1. zaman 2. zaman 
+İkişerli Üçerli 
+œ œ œ œ œ
+58
+œ œ .
+1. zaman 2. zaman 
+İkişerli Üçerli 1. vuruş
+K
+2. vuruş
+Z
+68& œ™ œ œj œ œ œ œ™68
+1
+2
+.
+.
+68
+1
+2
+.
+.
+68
+1
+2
+.
+.

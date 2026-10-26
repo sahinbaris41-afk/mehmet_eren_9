@@ -1,0 +1,66 @@
+227
+7. Tema / Veriden Olasılığa
+Alıştırmalar
+1.   Valizinde üst giyim olarak 2 gömlek, 3 kazak; 
+alt giyim olarak 2 kot, 1 kumaş pantolonu olan 
+Yavuz 1 üst ve 1 alt giyimi rastgele seçip giye-
+cektir. 
+ Buna göre Yavuz’un bir gömlek veya bir ku-
+maş pantolon giyme olayının olasılık değe-
+rini bulunuz.
+2.  Aşağıda diyet yapan birinin dolabındaki besin-
+lerin 100 gramındaki kalori değerleri verilmiştir.   
+ 
+ 
+Meyve Sebze İçecek
+Kivi  
+(30 kcal)
+Siyah Turp  
+(30 kcal)
+Şalgam  
+(30 kcal)
+Kavun  
+(33 kcal)
+Pazı  
+(33 kcal)
+Ihlamur  
+(42 kcal)
+Nar  
+(63 kcal)
+Roka  
+(33 kcal)
+Limonata  
+(21 kcal)
+Tere  
+(33 kcal)
+Portakal Suyu  
+(45 kcal)
+Brüksel 
+Lahanası  
+(63 kcal)
+Haşlanmış Mısır  
+(91 kcal)
+ Buna göre listeden rastgele seçilen bir 
+besinin meyve olma veya kalori değerinin  
+33 kcal olma olayının olasılık değerini bu-
+lunuz. 
+3.  Futbol Hentbol
+Alfa Spor Kulübünün  
+Kazanma Sayısı 24 34
+Beta Spor Kulübünün  
+Kazanma Sayısı 32 47
+Berabere Bitme Sayısı 13 23
+ Yukarıdaki tabloda Alfa ve Beta spor kulüple -
+rinin geçmişte futbol ve hentbol branşlarında 
+yaptıkları maçların sonuçlarına göre hazırlan-
+mıştır.
+ Buna göre aynı anda yapılan futbol ve hent-
+bol maçlarının berabere bitme olasılık de-
+ğerini bulunuz.
+4. Galip Bey, arabasını aşağıda görseli verilen 10 
+araçlık otoparka park edecektir. 
+ 
+ 
+ Buna göre arabanın P yazan yerlerden biri-
+ne ve arka farlarının çim tarafına denk gel-
+mesinin olasılık değerini bulunuz.

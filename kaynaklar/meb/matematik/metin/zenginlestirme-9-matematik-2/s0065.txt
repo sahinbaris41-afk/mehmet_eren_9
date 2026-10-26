@@ -1,0 +1,120 @@
+MATEMATİK 9 
+64 65
+Dereceli Puanlama Anahtarı
+Ölçütler (4) Çok İyi (3) İyi (2) Orta (1) Geliştirilebilir Puan
+Araştırma Derinliği
+Derinlemesine ve 
+detaylı araştırma 
+yapılmıştır.
+İyi düzeyde araş-
+tırma yapılmıştır.
+Yeterli düzeyde 
+araştırma yapıl-
+mıştır.
+Yetersiz araştır-
+ma yapılmıştır.
+Rapor İçeriği
+İyi organize
+edilmiş ve kap-
+samlı karşılaştır-
+malar yapılmıştır.
+İyi organize 
+edilmiş ancak 
+karşılaştırma 
+kısımlarında bazı 
+eksiklikler vardır.
+Temel bilgiler var 
+ancak karşılaş-
+tırmalarda birçok 
+eksiklik
+mevcuttur.
+İçerik yetersiz 
+kalmıştır.
+Matematiksel  
+Yöntemler
+Matematiksel
+yöntemler
+doğru ve
+detaylı
+açıklanmıştır.
+Yöntemler doğru 
+ancak
+detaylandırılma-
+mıştır.
+Yöntemler
+kısmen doğru, 
+bazı hatalar
+mevcuttur.
+Yanlış veya
+eksik yöntemler
+kullanılmıştır.
+Görsel Materyaller
+Yeterince görsel 
+ögeler içermek-
+tedir ve görsel-
+lerle metinsel 
+bütünlük
+sağlanmıştır.
+Kısmen görsel 
+öge içermektedir 
+ve görsellerle 
+metinsel bütün-
+lük sağlanmıştır.
+Görsel ögeler 
+az sayıdadır ve 
+görsellerle metin 
+kısmen 
+uyumludur.
+Görsel ögeler 
+kullanılmamıştır.
+Sunum Becerisi
+Hazırlanan 
+sunum düzgün 
+bir Türkçe ile 
+etkili bir ses 
+tonu ve beden 
+dili kullanılarak 
+sunulmuştur.
+Hazırlanan su-
+num kısmen düz-
+gün bir Türkçe 
+ile etkili bir ses 
+tonu ve beden 
+dili kullanılarak 
+sunulmuştur.
+Hazırlanan 
+sunum kısmen 
+düzgün bir Türk-
+çe ile sunulmuş-
+tur. Ses tonu ve 
+beden dili etkili 
+kullanılmamıştır.
+Hazırlanan 
+sunumda düzgün 
+bir Türkçe, etkili 
+bir ses tonu ve 
+beden dili 
+kullanılmamıştır.
+Zamanın Etkili 
+Kullanımı
+Sunum için veri-
+len süre etkili bir 
+şekilde 
+kullanılmıştır.
+Sunum için veri-
+len süre kısmen 
+etkili bir şekilde 
+kullanılmıştır.
+Sunum için veri-
+len süre etkili bir 
+şekilde 
+kullanılmamıştır.
+Sunum için veri-
+len süre etkili bir 
+şekilde kullanıla-
+mamış ve verilen 
+süre aşılmıştır.
+Toplam Puan
+Öğretmen Geri Bildirimi:
+2. PERFORMANS 
+GÖREVI Euler Turu, Hamilton Turu ve Gezgin Satıcı

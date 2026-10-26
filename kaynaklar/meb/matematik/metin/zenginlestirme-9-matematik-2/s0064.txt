@@ -1,0 +1,38 @@
+5.TEMA - ALGORITMA VE BILIŞIM
+62 63
+Bilgisayar bilimlerinde yaygın olarak kullanılan sıralama algoritmaları ve diğer algoritmalar hakkında araş-
+tırma yapınız. Çeşitli sıralama algoritmalarının [örneğin Bubble Sort (Babıl Sort), Quick Sort (Kuik Sort), Mer-
+ge Sort (Merc Sort)] çalışma prensiplerini inceleyerek her bir algoritmanın avantajlarını ve dezavantajlarını 
+belirleyiniz. Algoritmaların verimliliklerini karşılaştırarak hangi durumlarda hangi algoritmanın daha uygun 
+olduğunu tespit ediniz. Elde ettiğiniz bulguları derleyip yazılı bir rapor hâline getirerek algoritmaların gerçek 
+dünya uygulamalarına dair örnekler veriniz. Hazırladığınız raporları görsel materyallerle destekleyerek sınıf 
+ortamında sunum yapınız.
+Çalışma Sürecinde Dikkat Edilecek Hususlar
+1. Araştırma Kalitesi:
+ ▶ Güvenilir kaynaklardan yararlandığınıza emin olunuz.
+ ▶ Yaygın olarak kullanılan sıralama algoritmaları ve diğer algoritmalar hakkında detaylı bilgi edininiz.
+2. Rapor Yazımı:
+ ▶ Rapor yazımında Türkçe dil bilgisi kurallarına dikkat ederek açık ve anlaşılır bir dille yazınız.
+ ▶ Her bölümde başlıklar kullanarak konuyu bölümlere ayırınız.
+ ▶ Kaynakça ekleyerek yararlandığınız kaynakları belirtiniz.
+ ▶ Çeşitli algoritmaların tanıtımına ayrılan süre kadar karşılaştırılmaları için de süre ayırınız.
+3. Sunum Hazırlığı:
+ ▶ Sunum sırasında konunun temel noktalarını açıklayınız.
+ ▶ Görsel materyaller (grafikler, şekiller, tablolar) kullanarak konuyu destekleyiniz.
+ ▶ Sunum sırasında anlaşılır bir dil kullanarak dinleyicilerin dikkatini çekiniz.
+Performans görevi, “Dereceli Puanlama Anahtarı” ile öğretmeniniz tarafından değerlendirilecektir.
+1. PERFORMANS 
+GÖREVI Sıralama Algoritmaları
+Beklenen 
+Performans Sıralama algoritmalarına ilişkin araştırma yapma ve sunma
+Zenginleştirme 
+Uygulaması
+* Öğrencilerden bilgisayar bilimine ait problemlerde kullanılan farklı al -
+goritmaların (sıralama algoritmaları gibi) sağladığı avantajlara yönelik 
+araştırma yapmaları ve sonuçlarını sınıf ortamında paylaşmaları istenir.
+Araç Gereç ve 
+Materyaller
+• Bilgisayar veya tablet
+• Genel ağ bağlantısı
+• Dinamik Çevrim İçi Yazılımlar
+Değerlendirme Dereceli Puanlama Anahtarı

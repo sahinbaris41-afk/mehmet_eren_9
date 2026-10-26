@@ -1,0 +1,52 @@
+81
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin olayları ayrık olma ve ayrık olmama durumuna göre ayırt edebildiği, bir ola -
+yın olasılığı ile tümleyeninin olasılığının toplamının "1" olduğunu bildiği, olayların olasılığını 
+deneysel ve teorik  olasılık ile inceleyebildiği, deneysel ve teorik olasılık arasındaki ilişkiyi 
+açıklayabildiği, “olay, deney, çıktı ve örnek uzay ” gibi temel kavramları bildiği kabul edil -
+mektedir.
+Ön Değerlendirme Süreci Günlük hayatta yer alan olaylardan örnekler verilerek öğrencilerin olasılıkla ilgili temel 
+kavramlara (olay, deney, çıktı ve örnek uzay) yönelik bilgileri, olayların olasılığını deneysel 
+ve teorik olasılık ile inceleyip inceleyemedikleri sorgulanabilir. Öğrencilere verilen olayları 
+ayrık olma ve ayrık olmama durumuna göre ayırt edip edemediklerini, bir olayın olasılığı 
+ile tümleyeninin olasılığının toplamının "1" olduğunu bilip bilmediklerini belirlemeye yönelik 
+açık uçlu sorular  sorulabilir. 
+Köprü Kurma Olayların olasılığı, öğrencilerin olasılığa dair ön bilgileri üzerine kurulabilir. Öğrencilere bir 
+olaylı deneyler ve iki olaylı deneyler içeren gerçek yaşam durumlarından örnekler sunulur.
+Öğrencilerin bu örnekler üzerinden verilen olayların olasılığına ilişkin tahminde bulunma -
+ları sağlanır. Sınıf içi tartışma yoluyla hangi durumlarda bir olay, hangi durumlarda birden 
+çok olay olduğunu öğrencilerin ayırt etmeleri beklenebilir.   
+Örnek durumlar, öğrenciler için anlamlı ve ilgilerini çekebilecek nitelikte belirlenir. Birden 
+çok olay içeren durumların olasılığının deneysel ve teorik olarak incelenmesi amacıyla öğ-
+rencilere bilgi toplamaya ihtiyaçları olduğu fark ettirilebilir. Ayrıca öğrencilerin, toplaya -
+cağı bilginin veriye dayalı olması gerektiğinin farkında olması sağlanabilir. Bu farkındalığın 
+öğrencilerde olayların olasılığını araştırmaya yönelik merak uyandırması beklenebilir.
+Öğrenme-Öğretme 
+Uygulamaları MAT.9.7.1
+Bu sınıf seviyesinde en çok üç olaylı deneylere yer verilmelidir. Verilen örnek durumlardan 
+hareketle öğrencilerden fikirler alınarak olayların olasılığına ilişkin sınıf içi tartışma süreci 
+yürütülür (SDB2.1). Öğrencilerin deneylerin bir olay veya birden çok olaydan oluşup oluş -
+madığını keşfetmeleri, sınıf içi tartışmalar yoluyla sağlanır. Öğrencilerin gözlem  yapabi -
+leceği, çıktıların eş olasılıklı olduğu bir olay seçilir. Seçilen olayın -sınıf ortamında deney 
+yapılmasını kolaylaştırması açısından- hilesiz iki sayı küpü atılması ve küplerin üst yüzey -
+lerine gelen sayıların toplamının alınması, eş parçalara ayrılmış ve bu parçaları farklı renk-
+lerde olan çarkların çevrilmesi, renklerin kaydedilmesi gibi deneyler olmasına dikkat edilir. 
+Sınıf ortamına ve imkânlara uygun başka deneyler de tasarlanabilir (OB7).
+Seçilen olaya ait, sınıf ortamında yapılan deneyde gözlenen olayın çıktı sayısı ve toplam 
+deneme sayısı not edilerek veri toplanır (OB7). Toplanan verilerin kaydedilmesi ve düzen-
+lenmesi için çetele ve sıklık tabloları kullanılır (OB7). Toplanan veriler sütun grafikleri ile 
+görselleştirilebilir veya toplam sıklıklar özetlenebilir (OB7). Öğrencilerin topladıkları verile-
+re dayanarak ele alınan olayın olasılık değerini tahmin etmeleri sağlanır.
+Bu çalışmalarda öğrenciler, gruplara ayrılır. Grup çalışmasında grup üyelerinin her birine 
+farklı görevler (deneyin yapılması, çıktı sayılarının kaydedilmesi, kaydedilen verilerin gör -
+selleştirilmesi gibi) verilerek ekip çalışması yoluyla iş birliği sağlanır (SDB2.2, D16.3). Elde 
+edilen veriler (olayın çıktı sayısı ve toplam deneme sayısı) oranlanarak olayların göreli sık -
+lıkları elde edilir. Öğrencilerden göreli sıklık değerleri ile daha önce yaptıkları tahminle -
+ri karşılaştırmaları istenir. Göreli sıklıklar sütun grafikleri gibi araçlarla görselleştirilerek 
+olasılık dağılımı oluşturulur. Sıklık dağılımı ile göreli sıklık dağılımı karşılaştırılır. Deneme 
+sayısının artması sonucunda dağılımların şeklinin, merkezinin ve değişebilirliğinin nasıl de-
+ğiştiği incelenir. Olayların deney sonucunda elde edilen olasılık değeri ile toplam deneme 
+sayısını öğrencilerin ilişkilendirmeleri sağlanır.
+Yapılan grup çalışmaları, grup ve akran değerlendirme formları ile değerlendirilebilir.

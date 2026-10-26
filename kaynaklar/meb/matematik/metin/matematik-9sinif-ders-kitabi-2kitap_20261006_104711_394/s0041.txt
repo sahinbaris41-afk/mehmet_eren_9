@@ -1,0 +1,42 @@
+41
+4. Tema / Eşlik ve Benzerlik
+6. Sıra Sizde
+1.
+     
+Yandaki	ABCD	dörtgeninde	 AD BC'77 AA 	ve	 AD BC=  dur.
+Buna göre ABC ve ADC üçgenlerinin eş olduğunu gösteriniz.
+ 
+2.  Yandaki KLM eşkenar üçgeninde PK M! 7 A , NL M! 7A , LN PM=   
+ ve KRP m x=`j%  olduğuna göre x in kaç derece olduğunu bulunuz.
+DA
+CB
+K
+L
+P
+R
+x
+N M
+x
+R
+Açı-Kenar-Açı	Eşliği
+Üç	açısının	ölçüsü	bilinen	sonsuz	tane	üçgen	çizilebileceğinden	iki	üçgenin	karşı lıklı	açıları nın	ölçülerinin	
+eşit	olması,	üçgenlerin	eş	olması	için	yeterli	değildir.	Karşılıklı	ikişer	açı	ölçüsünün	ve	bir	kenar	uzunlu-
+ğunun	eşit	olması,	iki	üçgenin	eş	olması	için	gereken	asgari	koşullardan	biridir.
+6. ÖRNEK
+Kare	şeklinde	bir	masa,	kare	bir	masa	örtüsü	ile	masanın	köşe-
+leri	 örtünün	 kenarları	 üzerinde	 olacak	 şekilde	 görseldeki	 gibi	
+tam	 olarak	 örtülmüştür.	 BK cm 30= ,	 BN cm 40= 	 olduğuna	
+göre
+a)	Masa	örtüsünün	alanının	kaç	cm2	olduğunu	bulunuz.
+b)	Masa	yüzeyinin	alanının	kaç	cm2	olduğunu	bulunuz.
+Çözüm
+a) Kare	şeklindeki	KLMN	masa	örtüsü	açıldığında	elde	edilen	şekilde	 KAB KBAmx ve my==`` jj%% 	alı-
+nırsa	AKB	üçgeninin	iç	açılarının	ölçüleri	toplamından	xy 90o+=  olur.
+KAB LADmm 90 180oo++ =`` jj%% 	olduğundan	 LADmy x 90o== -`j% 	olur.	ALD	üçgeninin	iç	açılarının	
+ölçüleri	toplamından	 ADL m x=`j%  olur.
+K
+B
+30
+40
+N
+A

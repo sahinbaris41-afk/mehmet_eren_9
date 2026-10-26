@@ -1,0 +1,23 @@
+209
+2. Tema/Çeşitlilik
+3. Yönerge: Deney sonuçlarınızı aşağıdaki görsel, tablo ve grafikte verilen bilimsel bilgilerle karşılaştırınız.  
+Faktör
+ Uyumlu
+değilUyumlu Nedeni
+Deney sonucu bilimsel bilgi ile
+Madde Su Su Sabunlu Su Etanol Etanol Etilen Glikol Etilen Glikol Gliserin Gliserin
+Sıcaklık 
+(°C) 20 50 20 20 50 20 50 20 50
+Yüzey 
+Gerilimi 
+(N/m)
+0,073 0,068 0,025 0,022 0,020 0,048 0,044 0,063 0,058
+Hidrojen bağı
+Hidrojen bağı
+Hidrojen bağı
+Hidrojen bağı
+Hidrojen atomu Oksijen atomu Karbon atomu
+Etil alkol
+Gliserin
+Su
+Etilen glikol

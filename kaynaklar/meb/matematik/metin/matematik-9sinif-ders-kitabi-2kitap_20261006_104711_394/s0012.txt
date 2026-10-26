@@ -1,0 +1,103 @@
+12
+1.	 Aşağıda 	ABCD	dörtgeni	dik	koordinat	sistemi	üzerinde	gösterilmiştir .
+Buna göre aşağıdaki ifadelerde boş bırakılan alanları tamamlayınız. 
+a) ABCD	dörtgeni	5	birim	sağa,	2	birim	aşağı	ötelenirse	A	noktasının	ötelenmesi	sonucunda	oluşan	
+A'	noktasının	koordinatları	(…,	…)	olur.
+b) ABCD	dörtgenine	y	eksenine	göre	yansıma	dönüşümü	uygulanırsa	C	noktasının	görüntüsü	olan	 	
+C'	noktasının	koordinatları	(…,	…)	olur.
+c) ABCD	dörtgenine	x	eksenine	göre	yansıma	dönüşümü	uygulandıktan	sonra	dörtgen	2	birim	sola	
+ve	1	birim	yukarıya	ötelenirse	B	noktasının	dönüşümler	sonucunda	oluşan	görüntüsünü	ifade	eden	 	 	 	 	
+B'	noktasının	koordinatları	(…,	…)	olur.
+2. Aşağıda	ABC,	DEF ,	KLM	üçgenleri	ve	kenar	uzunlukları	dik	koordinat	sistemi	üzerinde	gösterilmiştir.	
+ Buna göre yukarıdaki tabloda yer alan ifadelerden doğru olanların karşısına “D”, yanlış olan-
+ların karşısına “Y” yazınız. Yanlış olduğunu düşündüğünüz ifadenin doğru biçimini tablonun 
+ilgili sütununa yazınız.
+3. Aşağıdaki	dik	üçgenlerde	bazı	uzunlukların	değerleri	cm	cinsinden	verilmiştir. Verilenlere göre x 
+ile belirtilen kenar uzunluklarının kaç cm olduğunu bulunuz.
+1
+1
+O 4
+4
+A B
+C
+D
+7-3 2
+2
+5
+5
+-1
+-1
+-4
+-4
+-6 3
+3
+6
+6
+7
+-2
+-2
+-3
+-5-7 x
+y
+İfadeler D/Y Yanlış İfadelerin Doğru Biçimleri
+d
+a
+e
+b=
+ECmm =_ _i iW X
+DEF KLM,&&
+ABC DFE+&&
+1O 4
+D
+K
+M L
+C
+B
+AE
+F
+d
+m
+k
+l
+e
+f
+b
+a
+c
+7 8-3 2 5-1
+-1
+-4
+-4
+-5
+-6 3 6-2
+-2
+-5-7 x
+y
+-3
+1
+4
+2
+5
+3
+6
+7
+b)a) c)
+B Cx
+15
+9
+A
+L
+K
+20
+x
+29
+M
+E
+DC
+3
+4
+B
+A
+15
+x
+Ön Değerlendirme

@@ -1,0 +1,31 @@
+1. Tema/Etkileşim
+56
+3. Önermelerinizden yola çıkarak 3. enerji seviyesinde bulunacak orbitallerin bağıl enerjilerini düşükten yük-
+seğe sıralayınız.
+4. A tom orbitallerinin bağıl enerjilerine dair belirlediğiniz önermelerinizi arkadaşlarınızın önermeleriyle kar -
+şılaştırınız. Hangilerinin bilimsel verilere dayandığını çok yönlü bakış açısıyla değerlendirerek tartışınız. 
+Tartışmanın sonucuna göre kendi önermenizi değerlendirerek önermenizdeki zayıf ve güçlü tarafları belir-
+leyiniz. Önermenizde zayıf bulduğunuz tarafları nasıl geliştirebileceğinizi yazınız. 
+5. Aşağıda verilen atom orbitallerinin bağıl enerji diyagramını inceleyerek atom orbitallerinin bağıl enerji -
+leriyle ilgili önermelerinizi diyagramdaki verilerle karşılaştırınız. Geçerli olan ve olmayan önermelerinizi 
+listeleyiniz.
+2. Bir atomda elektronun temel enerji seviyesinden 2s ve 2p orbitallerine uyarılması için gereken enerji sıra -
+laması 2p > 2s şeklindedir. Buna göre aynı enerji seviyesindeki farklı tür orbitallerin enerjileri aynı mıdır? 
+Bu orbitallerin birbirlerine göre bağıl enerji seviyeleri hakkındaki önermelerinizi yazınız. Önermelerinizi 
+yazarken tüm orbital türlerini karşılaştırmanız ve gerekçeler sunmanız önemlidir.
+1. Enerji seviyesi artışına bağlı olarak atom orbitallerinin bağıl enerjileri nasıl değişmektedir? Bu soruya 
+verdiğiniz yanıtı gerekçelendirerek önerme şeklinde yazınız. Cevabınızı oluştururken atom orbitalleri gör-
+sellerini kullanınız.
+Geçerli Önermelerim
+Geçersiz Önermelerim
+Bağıl Enerji
+5s
+4s
+2s
+3s
+1s
+3p 3p 3p
+4p 4p 4p
+2p 2p 2p
+4d 4d 4d 4d 4d
+3d 3d 3d 3d 3d

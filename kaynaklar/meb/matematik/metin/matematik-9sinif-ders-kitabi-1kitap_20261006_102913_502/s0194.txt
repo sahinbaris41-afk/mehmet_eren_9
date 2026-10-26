@@ -1,0 +1,81 @@
+194
+3. Tema /  Geometrik Şekiller
+10.  Afrika’da gece safarisine çıkan bir grup; A nok -
+tasındaki kamp alanından başlayarak sırasıyla 
+B noktasındaki filleri, ardından C noktasındaki 
+aslanları görmüş ve tekrar kamp alanına dön-
+müştür. Grubun safaride izlediği yol Şekil 1’de 
+ABC üçgeninin kenarları olarak belirlenmiştir.
+ Grup, safari boyunca yönünü pusula ile belir -
+lemiştir. A noktasından B noktasına, B nokta-
+sından C noktasına gidilirken pusulanın daima 
+kuzeyi gösteren ibresi ile grubun izlediği yol 
+arasındaki açılar Şekil 2’de gösterilmiştir.
+K
+B
+G
+D
+B
+G
+D
+K
+Kuzey
+Doğu
+Güney
+Batı
+A
+BC
+A
+B B
+C
+150o
+100o
+Şekil 2
+ AC BC= 	olduğuna	göre	 ACB m`j%  nün	kaç	
+derece	olduğunu	bulunuz.
+K
+B
+G
+D
+B
+G
+D
+K
+Kuzey
+Doğu
+Güney
+Batı
+A
+BC
+Şekil 1
+Farklı Kaydet
+Bu temada öğrendiğiniz bilgileri kendi hatırlayacağınız şekilde bu alana kısaca not edebilirsiniz.
+8.  Aşağıda verilen ABC üçgeninde BC , cm 11=
+CAc m 8=  ve BAC AC Bmm 2`` j j%%  dür. 
+A
+B C
+8
+11
+ Verilenlere 	göre	 AB  nun	alabileceği 	kaç	
+farklı 	tam	sayı	değeri 	olduğunu 	bulunuz.
+9.  Şekil 1’de ABC üçgeni olarak gösterilen üçgen 
+biçimindeki kâğıdın ön yüzü sarı, arka yüzü tu-
+runcu renklidir. ABC üçgeninde BAC ,m7 0o=`j%  
+ABCm5 0o=`j%  ve ACBm0 6 o=`j%  dir. Bu kâğı-
+dın B köşesinin A köşesinin üzerine gelecek bi-
+çimde katlanmasıyla oluşan görüntü Şekil 2’de 
+verilmiştir. B, D, C noktaları doğrusaldır.
+70o
+60o50o
+A
+B C
+Şekil 1
+A
+B D
+E
+C
+Şekil 2
+ Buna	göre 	 AC ,	 AE 	ve 	 BD  nu	küçükten 	bü-
+yüğe	doğru	sıralayınız.
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

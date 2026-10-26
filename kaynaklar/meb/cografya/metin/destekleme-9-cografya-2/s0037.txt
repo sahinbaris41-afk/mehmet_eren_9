@@ -1,0 +1,7 @@
+Grafik 6: Çöl iklimi sıcaklık ve yağış grafiği
+Grafik 8: Muson iklimi sıcaklık ve yağış grafiği
+Grafik 10: Kutup iklimi sıcaklık ve yağış grafiği
+Grafik 7: Sert karasal iklim sıcaklık ve yağış 
+grafiği
+Grafik 9: Akdeniz iklimi sıcaklık ve yağış grafiği
+36 37

@@ -1,0 +1,42 @@
+94
+1. Tema Ölçme ve Değerlendirme Soruları
+15-21. soruları aşağıdaki tablo ve açıklamalara göre cevaplayınız.
+Ülkemizde öğretim programlarındaki değişim ile laboratuvar kazaları arasındaki ilişkiyi ortaya koyan 
+birçok araştırma yapılmaktadır. 2000 yılı öğretim programı incelendiğinde programda laboratuvar uygu-
+lamalarına çok fazla yer verilmediği, 2005’te değişen program ile yapılandırmacı yaklaşımın benimsen-
+diği ve 2013 öğretim programıyla da yapılandırmacı yaklaşımı temel alarak araştırma ve sorgulamaya 
+dayalı öğretim programının uygulanmaya başlandığı görülmektedir. Bu programlar ile ilköğretim birinci 
+kademede bağımlı araştırma sorgulama, ikinci kademede ise bağımsız araştırma sorgulama yapılmıştır. 
+Buna yönelik bir araştırmaya ilişkin aşağıda verilen tabloda laboratuvar uygulamalarında yıllar içerisinde 
+eğitim kademelerinde yaşanan kaza sayıları ve bu olaylardan örnekler yer almaktadır.
+Değişen Öğretim 
+Programları
+İlköğretim  
+1. Kademe
+İlköğretim  
+2. Kademe Lise Üniversite Toplam Kaza Sayısı
+2000-2004 2 − − − 2
+2005-2012 7 16 6 3 32
+2013-2016 8 10 9 2 29
+Toplam Kaza Sayısı 17 26 15 5 63
+Tarih: 29.11.2005
+Bir ilköğretim okulunda 4. sınıfa giden 34 öğrenci, uygulamalı fen bilgisi dersi esnasında laboratuvarda çözelti 
+hazırlarken çıkan buhar nedeniyle rahatsızlandı.
+Tarih: 09.10.2006
+Bir ilköğretim okulunda fen bilgisi öğretmeni 7. sınıf öğrencilerine kimyasal ve fiziksel değişim konusunu deneyle 
+anlatmaya çalıştığı sırada deney tüpü zarar gördü.
+Tarih: 14.12.2006
+Endüstri meslek lisesindeki 12. sınıf öğrencileri, baskı devre plaketleri yapımında kullanılan tuz ruhu ve perhid-
+rol maddelerini fazla kullandıkları için patlama meydana geldi.
+Tarih: 29.12.2010
+Fen ve teknoloji dersinin işlendiği laboratuvarda sabun yapımı deneyi için kullanılan tuz, su, sıvı yağ, alkol ve 
+sodyum florür gibi malzemelerin bulunduğu deney tüpünün alev alması sonucu patlama meydana geldi.
+Tarih: 07.03.2012
+Fen bilgisi dersi için laboratuvara giden 7. sınıf öğrencileri deney esnasında cıva tüpünü düşürüp kırdı.
+Tarih: 30.05.2012
+6. sınıf öğrencileri, teknoloji dersi için gittikleri okul laboratuvarında buldukları cıva tüpünü merak edip kurca-
+layınca tüpü ellerinden düşürerek kırdılar. Bu olaydan sonra Türkiye genelindeki okul laboratuvarlarında cıva 
+kullanımı yasaklandı.
+Tarih: 14.02.2013
+Bir ortaokulda 5. sınıf öğrencileri, bilim uygulamaları dersinde laboratuvarda deney yaparken beherdeki ispirto 
+alev aldı.

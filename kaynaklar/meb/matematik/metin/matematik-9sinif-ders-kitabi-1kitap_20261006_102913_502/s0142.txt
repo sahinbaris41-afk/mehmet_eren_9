@@ -1,0 +1,30 @@
+142
+2. Tema /  Nicelikler ve Değişimler
+  2. f ve g fonksiyonlarının grafikleri, 1. problemin çözümü için nasıl kullanılabilir? Fikirlerinizi sınıf arkadaşları -
+nızla paylaşınız.
+  3. 1. problemi fonksiyonların cebirsel temsillerinden yararlanarak nasıl çözebilirsiniz? Çözüm stratejinizi açıklaya-
+rak problemi çözünüz.
+  4. Matematik yazılımı yardımıyla f ve g fonksiyonlarına ait grafiklerin eksenleri kestiği noktaları aşağıdaki 
+adımları izleyerek bulunuz.
+a)  Kesiştir aracını seçip sırasıyla f doğrusunu ve x eksenini işaretleyiniz.
+b) Kesiştir aracını seçip sırasıyla g doğrusunu ve x eksenini işaretleyiniz.
+c)  Kesiştir aracını seçip sırasıyla f doğrusunu ve y eksenini işaretleyiniz.
+ç)  Kesiştir aracını seçip sırasıyla g doğrusunu ve y eksenini işaretleyiniz.
+  5. f ve g fonksiyonlarına ait grafiklerin eksenleri kestiği noktalardan yararlanarak 1. problemi nasıl çözebilirsi -
+niz? Çözüm stratejinizi açıklayarak problemi çözünüz.
+  6. 1. problemin çözümünde kullandığınız yöntemleri karşılaştırarak çözümlerinizi doğrulayınız.
+  7. 1. problemin çözümünde kullandığınız yöntemleri doğrusal fonksiyon içeren farklı problem durumları için 
+nasıl kullanabilirsiniz? Genellemenizi oluşturunuz.
+  8. Oluşturduğunuz genellemeyi sözel, cebirsel ve grafiksel olarak değerlendiriniz.
+  9. 2 ve 3. problemleri fonksiyonların cebirsel temsillerinden yararlanarak nasıl çözebilirsiniz? Çözüm stratejinizi 
+açıklayarak problemleri çözünüz.
+10. Matematik yazılımı yardımıyla f ve g fonksiyonlarına ait grafiklerin kesim noktasını aşağıdaki adımları izle -
+yerek bulunuz.
+ a) Kesiştir aracını seçiniz.
+ b) Sırasıyla f ve g doğrularını işaretleyiniz. 
+11. f ve g fonksiyonlarına ait grafiklerin kesim noktasından yararlanarak 2 ve 3. problemleri nasıl çözebilirsiniz? 
+Çözüm stratejinizi açıklayarak problemleri çözünüz.
+12. 2 ve 3. problemin çözümünde kullandığınız yöntemleri karşılaştırarak çözümlerinizi doğrulayınız.
+13. 2 ve 3. problemlerin çözümünde kullandığınız yöntemleri doğrusal fonksiyon içeren farklı problem durumları 
+için nasıl kullanabilirsiniz? Genellemenizi oluşturunuz.
+14. Oluşturduğunuz genellemeyi sözel, cebirsel ve grafiksel olarak değerlendiriniz.

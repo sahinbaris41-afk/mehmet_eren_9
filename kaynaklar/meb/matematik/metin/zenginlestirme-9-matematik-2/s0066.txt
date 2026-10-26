@@ -1,0 +1,40 @@
+5.TEMA - ALGORITMA VE BILIŞIM
+64 65
+2. PERFORMANS 
+GÖREVI Euler Turu, Hamilton Turu ve Gezgin Satıcı
+Beklenen 
+Performans Euler turu, hamilton turu ve gezgin satıcı problemini araştırma ve sunma
+Zenginleştirme 
+Uygulaması
+* Euler turu, Hamilton (Hemıltın) turu ve gezgin satıcı problemi hakkında 
+öğrencilere araştırma ödevi verilir. Öğrencilerin problem çözümüne yö -
+nelik elde ettikleri algoritmaları, bildikleri bir programlama diline aktara-
+rak bilgisayarda çalıştırmaları sağlanır.
+Araç Gereç ve 
+Materyaller
+• Bilgisayar veya tablet
+• Genel ağ bağlantısı
+• Dinamik Çevrim İçi Yazılımlar
+Değerlendirme Dereceli Puanlama Anahtarı
+Euler turu, Hamilton turu ve gezgin satıcı problemi hakkında araştırma yapınız. Bu problemler için çözüm 
+yollarını ve algoritmaları inceleyerek her bir problemin zorluk seviyelerini ve çözümlerini analiz ediniz. Elde 
+ettiğiniz algoritmaları bildiğiniz bir programlama diline aktararak bilgisayarda çalıştırınız. Çalışmalarınızı ya -
+zılı bir rapor hâline getirip sonuçlarınızı sınıf ortamında sununuz.
+Çalışma Sürecinde Dikkat Edilecek Hususlar
+1. Araştırma Kalitesi:
+ ▶ Güvenilir kaynaklardan yararlandığınıza emin olunuz.
+ ▶ Euler turu, Hamilton turu ve gezgin satıcı problemi hakkında detaylı bilgi edininiz.
+ ▶ Her problemin çözümüne yönelik kullanılan algoritmaları araştırınız.
+2. Algoritmaların Uygulaması:
+ ▶ Elde ettiğiniz algoritmaları bildiğiniz bir programlama diline aktarınız.
+ ▶ Algoritmaların doğru çalıştığını test ediniz ve sonuçlarını analiz ediniz.
+ ▶ Kodunuzun açıklamalarını satır sonlarına ekleyerek anlaşılır ve düzenli hâle getiriniz.
+3. Rapor Yazımı:
+ ▶ Raporunuzu Türkçe dil bilgisi kurallarına uyarak açık ve anlaşılır biçimde yazınız.
+ ▶ Başlıklar kullanarak konuyu bölümlere ayırınız.
+ ▶ Çalışmanızın sonuna kaynakça ekleyerek yararlandığınız kaynakları belirtiniz.
+4. Sunum Hazırlığı:
+ ▶ Sunum sırasında konunun temel noktalarını açıklayınız.
+ ▶ Görsel materyaller (grafikler, şekiller, tablolar) kullanarak konuyu destekleyiniz.
+ ▶ Sunum sırasında anlaşılır bir dil kullanarak dinleyicilerin dikkatini çekiniz.
+Performans görevi, “Dereceli Puanlama Anahtarı” ile öğretmeniniz tarafından değerlendirilecektir.

@@ -1,0 +1,16 @@
+138
+2. Tema/Çeşitlilik
+Kontrol Noktası 2.5
+1H, 5B, 6C, 7N, 8O, 9F,  15P,  16S, 17Cl ve 35Br atomlarından oluşan aşağıdaki CCl4, NCl3, CO2, BH3, H2S, HBr, PH3, 
+CF4, CS2 ve PF3 molekülleri için istenen bilgileri yazınız.
+Molekül Atomların Elektron Dizilimi Molekülün Lewis Nokta Yapısı Molekül Polarlığı/Apolarlığı ve Gerekçesi
+CCl4
+NCl3
+CO2
+BH3
+H2S
+HBr
+PH3
+CF4
+CS2
+PF3

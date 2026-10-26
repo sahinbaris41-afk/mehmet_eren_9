@@ -1,0 +1,60 @@
+157
+AKIŞKANLAR
+kabın taban basınçları eşitlenene kadar devam eder. Sıvı akışı sona erdiğinde 
+her iki kapta da sıvı seviyeleri eşitlenmiş olur (Görsel 3.12: b).
+A B
+a)
+A B
+b)
+h
+Görsel 3.12: a) Musluk kapalıyken birleşik kaptaki su seviyeleri b) Musluk açıldığında 
+birleşik kaptaki su seviyeleri
+En az iki kabın borularla birbirine bağlanması 
+yoluyla oluşturulan sisteme birleşik kaplar sis -
+temi adı verilir (Görsel 3.13). Birleşik kaplar siste-
+minde kapların şekli ve kesit alanları farklı olsa bile 
+aynı tür sıvı kullanıldığı sürece sıvı seviyeleri tüm 
+kaplarda aynı yükseklikte olur. 
+İçinde aynı tür sıvı bulunan U şeklindeki bir boruda 
+(Görsel 3.14: a) I. kolun sıvı yüksekliği II. kolunkine 
+göre daha fazla olduğundan I. kolun tabanındaki 
+sıvı basıncı (P 1), II. kolun tabanındaki sıvı basın -
+cından (P 2) daha büyüktür. Musluk açıldığında 
+sıvı I. koldan II. kola doğru akar. Sıvının akışı, 
+U borusunun her iki kolunun tabanındaki basınç -
+lar eşit oluncaya kadar sürer. Basınçlar eşitlendi -
+ğinde her iki kolun sıvı seviyesinin dengede ve eşit 
+olduğu görülür (Görsel 3.14: b).
+Pascal Yasası su cenderelerinin çalışma ilkesini 
+oluşturur. Su cendereleri, birleşik kaplar, sıvı ve 
+pistonlardan oluşan bir düzenektir. Bu düzenek, 
+küçük bir kuvvet kullanılarak büyük kütleli cisim -
+lerin hareket ettirilmesini sağlar. Su cenderesinde 
+iki piston yer alır. Bu pistonlar, bir boru ile birbi -
+rine bağlıdır ve borunun içinde sıvı bulunur. Küçük 
+pistonun üzerine bir kuvvet uygulanır. Bu kuvvet, 
+suyun basıncını artırır ve bu basınç sıvı aracılığıyla 
+her yöne eşit olarak dağılır. Bu da büyük piston 
+üzerinde küçük piston üzerindeki basınç ile aynı 
+büyüklükte bir basınç oluşmasını sağlar.
+Büyük pistonun yüzey alanı (A 2), küçük pistonun 
+yüzey alanından (A 1) daha büyük olduğundan 
+büyük piston üzerinde oluşan kuvvet (G), küçük 
+pistona uygulanan kuvvetten (F) daha büyük olur. 
+Bu ilke, hidrolik sistemlerde örneğin araba kaldırma 
+sistemlerinde kullanılır (Görsel 3.15).
+Görsel 3.13: Birleşik kaplar sistemi
+a) b)
+P1 = P2
+P2P1
+I II I II
+Musluk
+P1 > P2
+Görsel 3.14: a) İçinde aynı tür sıvı bulunan U boru-
+su b) Musluk açıldığında kollardaki sıvı seviyeleri-
+nin eşit olması
+Görsel 3.15: Su cenderesi
+K L
+A1 A2
+F
+G

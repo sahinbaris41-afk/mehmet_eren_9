@@ -1,0 +1,70 @@
+196
+3. Tema/Ölçme ve Değerlendirme
+4. Aşağıda harita üzerinde gösterilen ABC üç-
+geninin köşeleri, Çeşme ilçesinin  merkezi ile 
+Mykonos (Mikonos) ve Sisam adalarının mer-
+kezlerini belirtmektedir.
+ mmACBB AC>`` jj%% , Mykonos-Sisam ve Çeş -
+me-Sisam arası kuş uçuşu uzaklıklar sırasıyla 
+230 km ve 130 km’dir.  
+ Buna	göre 	Çeşme’den 	Mykonos’a 	kuş	uçu-
+şu	 uzaklığın 	 km 	 cinsinden 	 alabileceği 	 de-
+ğer	aralığını	bulunuz.
+5.  Pruvadaki açıyı ikiye katlama, denizcilikte kıyı-
+da sabit duran bir cisim ile gemi arasındaki me-
+safeyi tahmin etmek için kullanılan bir yöntem-
+dir. Aşağıdaki görselde B noktasında bir deniz 
+feneri bulunmaktadır. Görselde A, C ve D nokta-
+ları aynı doğru üzerindedir ve bu doğru boyunca 
+doğrusal hareket eden, saatteki hızı 15 deniz 
+mili olan bir geminin A noktasındaki görüntüsü 
+verilmiştir.
+ Kaptan, gemi A noktasındayken AC7A  ile AB7A
+arasındaki dar açının ölçüsünü 18 o olarak he-
+saplıyor. Gemi 2 saat doğrusal yol alıp C nok -
+tasına vardığında CB7A  ile CD7 A  arasındaki dar 
+açının ölçüsünü 36o olarak hesaplıyor. 
+ Buna	göre 	gemi, 	C 	noktasından 	deniz 	fene-
+rine	doğru 	saatte 	ortalama 	10 	deniz 	mili 	hız-
+la	 doğrusal 	 hareket 	 ederse 	 deniz 	 fenerine	
+kaç	saat	sonra	ulaşır?
+A (Çeşme)
+C (Sisam)
+B (Mykonos)
+B
+A
+C
+18o 36o
+D
+Hareket yönü
+6. Aşağıdaki görselde bir havaalanındaki pistlerin 
+yukarıdan görünümü verilmiştir. Her pistin ba -
+şında ve sonunda pist numaraları yazmakta-
+dır. Pist numaraları, pistin saat yönünde ku-
+zeyle yaptığı açıya göre belirlenmektedir. 
+Pistin kuzeyle yaptığı açının birler basamağın-
+daki 0 rakamı silindikten sonra oluşan numara, 
+pist numarası olarak pistin başına yazılmakta-
+dır. Havaalanı pistleri her zaman doğrusaldır. 
+Bu nedenle pistin başında ve sonunda bulu -
+nan sayılar arasındaki fark her zaman 18’dir. 
+ Görselde 3/21 pisti olarak adlandırılan pistin 
+kuzeyle yaptığı açıların ölçülerinin modelleme-
+si  verilmiştir. Modellemeye göre pistin 3 yazan 
+tarafı, kuzey yönü ile saat yönünde 30 o lik; 21 
+yazan tarafı ise 210o lik bir açı yapmaktadır ve 
+8/26 pisti ile x/y pistinin arasında kalan dar açı-
+nın ölçüsü 70o dir.
+ Buna	 göre 	 görseldeki 	 havaalanında 	 bulu-
+nan	 x/y 	 pistin in 	 adlandırılm asında 	 kullanı-
+lan	x	ve	y	sayılarının	toplamını	bulunuz.
+26
+21
+3
+A
+B 70o
+C
+K
+30o
+3
+21

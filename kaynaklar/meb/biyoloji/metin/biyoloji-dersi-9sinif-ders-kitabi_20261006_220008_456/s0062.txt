@@ -1,0 +1,86 @@
+62
+1. Tema
+İçeriğinde doymuş yağ asitlerinin çoğunlukta olduğu 
+tereyağı gibi hayvansal yağlar, oda sıcaklığında katıdır 
+fakat doymamış yağ asitlerinin ağırlıkta olduğu ayçiçe-
+ği yağı, zeytinyağı gibi bitkisel yağlar oda sıcaklığında 
+sıvıdır. Doymamış yağ asitleri içeren bitkisel yağlar, la-
+boratuvar ortamında hidrojen eklenerek doymuş yağ 
+hâline getirilebilir. Margarinler, oda sıcaklığında katı 
+olan ve hidrojenle doyurulmuş bitkisel yağlardır.
+Trigliseritler, bir gliserol molekülüne ester bağı ile bağlı 
+üç yağ asidinden oluşan lipit molekülleridir  (Görsel 1.41). 
+İnsan vücudunda en fazla bulunan lipit türüdür ve 
+enerjinin depolanması, yalıtım, fiziksel koruma gibi 
+işlevlere sahiptir. Gerektiğinde enzimlerle serbest bı-
+rakılan yağ asitleri, hücrelerin haberleşmesi ve enerji 
+ihtiyacı için kullanılır.
+Fosfolipitler, hücre zarlarının ana bileşenlerinden biri 
+ve hücrelerin yapısal bütünlüğünü sağlayan önemli li-
+pit molekülleridir. Trigliseritlerden farklı olarak gliserol 
+omurgasına iki yağ asidi ve bir fosfat grubu bağlıdır 
+(Görsel 1.42). Fosfat gruplarına bağlı olabilecek kimya-
+sal grupların çeşitliliği fosfolipitleri de çeşitlendirir. Yağ 
+asitlerinden oluşan kuyruk kısmı suyu sevmeyen (hid-
+rofobik), fosfat grubu ve diğer bağlı yan gruplardan 
+oluşan baş kısmı ise suyu seven (hidrofilik) özelliktedir.
+Fosfolipitler, sulu ortamlarda hidrofobik kuyruk kısımlarının su ile temasını en 
+aza indirecek şekilde ve hidrofilik baş kısımlarının su ile teması en fazla olacak 
+şekilde konumlanır. Bu, hücre zarlarının yapısının oluşmasını sağlar (Görsel 1.43).
+Görsel 1.43
+Hücre zarının genel yapısı
+Görsel 1.41
+Trigliseritler, gliserol 
+molekülüne bağlı üç yağ 
+asidinden oluşur. 
+Görsel 1.42
+Fosfolipitlerin genel yapısı
+a
+b
+CH3
+CH3
+H3C
+CH(CH2)3 CH(CH3)2
+HO
+Görsel 1.44
+a) Steroit halkasal yapısı,
+b) Kolesterol yapısı
+Hücre dışı Hidrofilik baş 
+(Fosfat grubu)
+Hidrofobik kuyruk
+(Yağ asiti)
+Sitoplazma
+Çift katmanlı 
+hücre zarı
+Gliserol
+Yağ asitleri
+Fosfat
+Steroitler, dört halkalı karbon yapısına sahip lipit türleridir (Görsel 1.44). 
+Dört halkalı yapı, tüm steroitlerde ortaktır ve farklı işlevsel grupların ek-
+lenmesiyle pek çok türevi oluşturulur. En bilinen steroit moleküller; ko-
+lesterol, steroit hormonları, safra asitleri ve D vitaminidir. Kolesterol; sı -
+caklığa bağlı olarak hücre zarının akışkanlığını ve bütünlüğünü düzenler. 
+Yüksek sıcaklıklarda zarın aşırı akışkanlığını önleyerek dayanıklılığını ve 
+dengesini artırır, düşük sıcaklıklarda ise fosfolipitlerin sıkı dizilimini boza-
+rak zarın akışkanlığını korur. Diğer steroitlerin sentezinde öncül madde 
+olarak kullanılır. Hücre zarındaki kolesterol miktarı arttığında zarın akış-
+kanlığı azalır. Bu özellik hücrelerin sıcak ve soğuk ortamlara uyumunu 
+kolaylaştırır. Steroit yapılı hormonlar; vücuttaki birçok fizyolojik sürecin 
+düzenlenmesine, safra asitleri ise yağların sindirilmesine yardımcı olur. D 
+vitamini kemik sağlığını korumada ve kalsiyum metabolizmasında görev-
+li önemli bir steroittir.
+Lipitler
+Gliserol
+OH OH OH
++
+Üç yağ asidi
+Ester
+bağı
+–O O
+C
+–O O
+C
+–O O
+C
+Gliserol
++3H2O

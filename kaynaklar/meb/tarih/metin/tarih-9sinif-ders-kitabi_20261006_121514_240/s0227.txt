@@ -1,0 +1,51 @@
+227
+ Orta Çağ Medeniyetleri
+Seçilen Ticaret Yolu: 
+Grup Üyelerinin Adı, Soyadı ve Numarası: 
+1. Üye:
+2. Üye:
+3. Üye:
+4. Üye:
+5. Üye:
+Bütüncül Dereceli Puanlama Anahtarı 
+Aşağıdaki Puanlama Anahtarı, zihin haritası çalışmasını değerlendirmek için hazırlanmıştır. 
+Performans 
+Düzeyi Ölçütler
+4
+(Çok İyi)
+Seçilen ticaret yolunun devletler ve toplumlar üzerindeki siyasi, ekonomik ve kültü-
+rel etkileri eksiksiz ve doğru şekilde gösterilmiştir. Zihin haritası çok düzenli, oku-
+naklı ve görsel açıdan ilgi çekicidir. Bilgiler arasındaki ilişkiler net bir şekilde göste-
+rilmiştir. Hazırlanan zihin haritası yalın, anlaşılır ve ilgi çekici bir şekilde sunulmuştur.
+3
+(İyi)
+Seçilen ticaret yolunun devletler ve toplumlar üzerindeki siyasi, ekonomik ve kül-
+türel etkileri büyük ölçüde doğru şekilde gösterilmiştir. Zihin haritası büyük ölçüde 
+düzenli, okunaklı ve görsel açıdan ilgi çekicidir. Bilgiler arasındaki ilişkiler genel 
+hatlarıyla gösterilmiştir. Hazırlanan zihin haritası genel itibariyle yalın, anlaşılır ve ilgi 
+çekici şekilde sunulmuştur.
+2
+(Kısmen Yeterli)
+Seçilen ticaret yolunun devletler ve toplumlar üzerindeki siyasi, ekonomik ve kültü-
+rel etkilerinden bazıları doğru şekilde gösterilmiştir. Zihin haritası kısmen düzenli, 
+okunaklı ve görsel olarak çekicidir. Bilgiler arasındaki ilişkiler sıklıkla hatalı olarak 
+gösterilmiştir, bazı önemli bağlantılar eksiktir. Hazırlanan zihin haritası kısmen yalın, 
+anlaşılır ve ilgi çekici bir şekilde sunulmuştur.
+1
+(Geliştirilmeli)
+Seçilen ticaret yolunun devletler ve toplumlar üzerindeki siyasi, ekonomik ve 
+kültürel etkileri büyük ölçüde eksik veya yanlış şekilde gösterilmiştir. Zihin haritası 
+düzenli, okunaklı ve görsel olarak çekici değildir. Bilgiler arasındaki ilişkiler zayıf bir 
+şekilde gösterilmiştir, birçok bağlantı eksiktir. Hazırlanan zihin haritası yalın, anlaşılır 
+ve ilgi çekici bir şekilde sunulmamıştır.
+0
+(Yetersiz)
+Seçilen ticaret yolunun devletler ve toplumlar üzerindeki siyasi, ekonomik ve kül-
+türel etkileri hiç gösterilmemiştir veya tamamen yanlış gösterilmiştir. Zihin haritası 
+düzensiz, okunaksız ve görsel olarak çekici değildir. Bilgiler arasındaki ilişkiler hiç 
+gösterilmemiştir veya tamamen yanlıştır. Hazırlanan zihin haritası sunulmamıştır.
+Değerlendirme Sistemi
+Yukarıdaki Puanlama Anahtarı Bütüncül Dereceli Puanlama Anahtarı biçiminde düzenlenmiştir. Burada “4” 
+düzeyi grubun çok iyi bir ürün ortaya koyduğunu gösterir. 0’a doğru gittikçe öğrencinin belirlenen ölçütler 
+bakımından yeteri kadar performans sergileyemediğini gösterir. Öğrenci özellikle 0, 1 ve 2 düzeyinde bir başarı 
+sergilemiş ise öğrenci başarısının geliştirilmesi için önlemler alınması yerinde olacaktır.

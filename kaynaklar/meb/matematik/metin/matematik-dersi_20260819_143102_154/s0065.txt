@@ -1,0 +1,54 @@
+65
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ve benzer üçgenlerle ilgili fikirleri, sınıfça değerlendirilir. Sınıf gruplara ayrılarak her bir grubun geometri 
+tahtası veya başka bir materyal yardımıyla üçgende eşlik ve benzerlik koşullarından birini incelemesi is-
+tenir. Öğrencilere iki üçgenin eş veya benzer olması için gerekli koşulları değerlendirebileceği bir perfor-
+mans görevi verilebilir.
+MAT.9.4.3 
+Üçgenlerin benzerliğinin geometrik problemlerin temelinde yer alması nedeniyle öğrencilerin bu prob-
+lemlere dair farklı bir bakış açısı kazanması için bir üçgene benzer başka üçgenlerin nasıl oluşturulabi-
+leceğine dair düşünmeleri sağlanır. Herhangi bir üçgene benzer üçgenler oluşturmak için o üçgen üze-
+rinde hangi çizimlerin nasıl yapılabileceği öğrencilere sorularak fikirlerin paylaşılması sağlanır. Böylelikle 
+öğrenciler görsel bir duruma ilişkin çözüm geliştirmek için akıl yürütür (OB4). Öğrencilerin benzerlik ko-
+şulları ve geometrik çizimlere ilişkin deneyimlerine dayalı fikirlerini açıklamaları, verilen üçgene benzer 
+bir üçgen oluşturmak için gerekli çizimleri yapmaları sağlanır. Öğrencilerden yaptıkları çizimler ile ben-
+zerlik koşulları arasında ilişki kurmaları istenir. Elde ettikleri bu ilişkiler yardımıyla farklı çizimlerin yapılıp 
+yapılamayacağı hakkında düşünmeleri beklenir. Seçilen tüm yolların ilk üçgen ile benzer bir üçgen oluş-
+turup oluşturmayacağı, farklı üçgen örnekleriyle çizimler yapılarak denenir. Yapılan denemeler sonu-
+cunda öğrencilerin bir üçgene benzer üçgenler oluşturan tüm durumlar hakkında çıkarımda bulunmaları 
+desteklenir. Yaptıkları çıkarımları farklı problem durumlarının çözülmesinde, bazı önerme ve teoremlerin 
+doğrulanmasında veya ispatlanmasında kullanarak öğrencilerin değerlendirmesi sağlanır. Öğrenciler-
+den bir üçgene benzer üçgenler oluşturmayı gerektirecek farklı durumlara ilişkin örnek ve problemleri 
+incelemesi beklenir. Bu problemlere çözüm üretirken öğrencilerin verilen görseli kullanarak yeni ve du-
+ruma uygun bir görsel oluşturma süreci desteklenir (OB4). Bir üçgene benzer üçgen oluşturma fikirleri 
+arasında yer alan, üçgenin herhangi bir kenarına paralel çizilerek üçgenin içinde veya dışında o üçgene 
+benzer bir üçgen oluşturulması fikri vurgulanır. Ayrıca bir dik üçgende dik açıdan yükseklik çizilerek üç-
+genin içinde oluşturulan üçgenler ile ilk dik üçgenin birbirine benzer olduğuna dikkat çekilir. Öğrencilere 
+benzer üçgenler oluşturma ile ilgili yansıtma yapabileceği bir çalışma kâğıdı verilebilir.
+MAT.9.4.4 
+Benzerlik koşullarına dair çıkarımda bulunan ve verilen bir üçgenin iç bölgesinde bir doğru parçası (para-
+lel veya dikme) çizerek benzer üçgen oluşturabilen öğrencilerin bu çıkarımlarından hareketle ifadelerine 
+ulaştıkları Tales ve Öklid teoremlerini ispatlayabilmeleri beklenir. Tales ve Öklid teoremleri tanıtıldıktan 
+sonra bu teoremlerin ispatının bir üçgenden benzer üçgenler oluşturma koşulları kullanılarak nasıl ya-
+pılabileceğine dair tartışma yapılır. Tartışma sonucunda benzerlikle ilişkili ispat yöntemi belirlendikten 
+sonra öğrencilerin bu teoremleri ispatlamaları sağlanır. Öğrencilerden ortaokulda tamkare uzunluklar 
+içeren problemler bağlamında kullandıkları Pisagor teoremini bu sınıf seviyesinde ispatlamaları beklenir. 
+Bir dik üçgenin kenar uzunlukları arasındaki ilişkiyi ifade eden Pisagor teoreminin ispatında Öklid teore-
+mini nasıl kullanabilecekleri üzerinde düşünmeleri sağlanır. Yapılacak tartışma sonucunda öğrencilerin 
+bir üçgenden benzer üçgenler oluşturma koşullarını ve Öklid teoreminde ifade edilen dik kenar bağıntı-
+larını kullanarak Pisagor teoremini ispatlamaları sağlanır. Teoremlerin ispatında seçilen yöntemin ispat 
+adımlarını takip ederek sistematik şekilde ilerlemek; öğrencilerin kararlılık, analitik düşünme ve siste-
+matik olma eğilimlerine katkı sağlar (E1.3, E3.6, E3.7). İspatlanan teoremlerin değerlendirilmesinde ben-
+zer üçgenlerin kullanılmasının önemi vurgulanır. Öğrencilerin ispat yaparken kullandıkları yöntemi farklı 
+problem durumlarına uyarlamaları beklenir. Öğretmenin teoremler ve bu teoremlerin sonuçlarına ilişkin 
+farklı problem durumlarını sunması, bu değerlendirmede önem taşır. Ayrıca bu noktada öğrencilerden 
+Pisagor teoreminin çeşitli dar ve geniş açılı üçgenlerin kenar uzunluklarıyla ilgili sonuçlarını (“Geniş açılı 
+bir üçgende geniş açının karşısındaki kenar uzunluğunun karesi, diğer kenarların uzunluklarının kareleri 
+toplamından büyüktür.” gibi) yorumlamaları beklenir. Öğrencilere Tales, Öklid ile Pisagor teoremlerini, 
+ispatlarını kullanabileceği ve farklı soru türlerinin bulunduğu çalışma kâğıdı verilebilir. 
+MAT.9.4.5 
+Öğrencilere eşlik ve benzerlikle ilgili çıkarımlarını ve ispatladıkları teoremleri (Tales, Öklid, Pisagor) kul-
+lanmayı gerektiren problem durumları sunulur. Öncelikle bu tür problemlerde verilen ve istenenler ile 
+bunlar arasındaki ilişkiler belirlenir (OB1). Bu süreç, öğrencilerin bilgiyi çözümleme becerilerini de des-
+tekler (OB1). Öğrenciler, özellikle gerçek yaşam durumlarını ifade eden problemleri matematiksel dile  
+dönüştürerek o durumu matematiksel olarak incelemeye çalışmalıdır (MAB3). Bu incelemeler esnasında 

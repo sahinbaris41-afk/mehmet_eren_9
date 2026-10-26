@@ -1,0 +1,23 @@
+175
+2. Tema/Çeşitlilik
+Buharlaşma, sıvının yüzeyindeki yeterli enerjiye sahip taneciklerin moleküller 
+arası etkileşimleri aşarak serbest hareket etmeye başlaması ve bu şekilde 
+sıvının gaz hâline dönüşmesidir. Buharlaşma her sıcaklıkta ve sıvının yüze-
+yinde gerçekleşir.
+Kaynama, sıvının sıcaklığının iç kısımdaki sıvı moleküllerinin gaz hâline geç-
+mesini ve yüzeye çıkan kabarcıklar oluşturmasını sağlayacak kadar yüksek 
+olduğunda gerçekleşir. Sıvının kaynadığı andaki sıcaklığa kaynama noktası 
+(sıcaklığı) denir. 
+Kaynama	Sıcaklığı
+1. Yönerge: Aşağıdaki görsellerde yer alan deneyi öğretmeniniz ile birlikte yaparak soruları cevaplayınız.
+Sıvıların Kaynama Sıcaklığını Etkileyen FaktörlerEtkinlik-2.20
+Deneyin Adı: Kaynama Sıcaklığı
+Deneyin Amacı:  
+Malzemeler: 250 mL’lik beherglas (1 adet), su, termometre, ispirto ocağı, üç ayak, amyant tel, şırınga, eldiven
+İşlem Basamakları
+100 mL suyu beherglasa koyunuz ve yaklaşık 50 °C’a kadar ısıtınız. Ardından bir şırınga ile suyun bir mik-
+tarını çekiniz. Şırınganın içindeki havayı boşaltarak şırınganın ucunu işaret parmağınızla sıkıca kapatınız.
+Kaynama noktası ile 
+ilgili deney videosuna 
+ulaşmak için karekodu 
+okutunuz.

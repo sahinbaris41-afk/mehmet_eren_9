@@ -1,0 +1,46 @@
+71
+1. Tema /  Sayılar
+4. a) Tablo 4ʼte verilen toplama ve çarpma işlemlerinin sonuçlarını bulunuz.
+     Tablo 4
+      
+Toplama İşlemi Çarpma İşlemi
+55+- =_i 55-+ =_i 5 51$ = 51 5$ =
+,,24 24-+ =_i ,,24 24+- =_i 3
+2
+2
+3$-- =e eo o
+2
+3
+3
+2
+$-- =e eo o
+,aa aR! +- =_i ,aa aR! -+ =_i ,a a a 01R $! -=#- ,aa a0 1R $! -=#-
+b) Tablo 4ʼte elde edilen sonuçlara göre toplanan veya çarpılan gerçek sayıların aralarında nasıl bir ilişki 
+    olduğunu açıklayınız.
+5. a) Tablo 5ʼteki çarpma işlemlerinin sonuçlarını ve verilmeyen sayıları bulunuz.
+     Tablo 5
+          
+Çarpma İşlemi
+2
+1 0$ = 0 21$ = 50$ = 05$ =
+,24 0$-=_i ,02 4$ -=_i
+3
+2
+0$-=eo 0 32$ -=eo
+, ....aa 0R $! = , ....aa 0R $! = , .... a a52 0R $! = , ....a a52 0R $! =
+b) Tablo 5ʼteki işlemler ve elde edilen sonuçlar, çarpma işleminin hangi özelliği ile ilişkilendirilebilir? Açıklayınız.
+6. a) Gerçek sayılar kümesinden m ve n gibi iki farklı sayı seçerek aşağıdaki işlemlerin sonuçlarını bulunuz.
+     Tablo 6
+      
+1. Sütun 2. Sütun
+1. Satır m =             n = mn3 $ +=_i
+mn33 +=
+2. Satır m =             n = mn32 $-=_i
+mn62 -=
+b) Tablo 6ʼnın 2. sütununda elde ettiğiniz işlemlerin sonuçlarını her satırı kendi içinde olacak şekilde karşılaştırınız.
+7. Gözlemlerin izden yararlanarak gerçek sayılarda hangi işlem özellikleri (değişme, birleşme, dağılma, ters ele -
+man, birim eleman, etkisiz eleman, yutan eleman) vardır? Tam sayılar ve rasyonel sayılarda dört işlem özellik-
+lerini dikkate alarak gerçek sayılarda dört işlem özelliklerini sözel olarak ifade ediniz.
+8. Sözel olarak ifade ettiğiniz önermeleri cebirsel olarak gösteriniz.
+9. Elde ettiğiniz özelliklerden yararlanarak iki cebirsel ifadenin çarpımının sıfıra eşit olması durumunda çarpılan 
+cebirsel ifadelerle ilgili çıkarımınızı örnek vererek açıklayınız.

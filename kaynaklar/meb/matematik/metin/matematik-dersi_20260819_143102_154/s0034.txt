@@ -1,0 +1,48 @@
+34
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Öğrencilerin üçgenin temel ve yardımcı elemanlarına, üçgenlerin eşliğine ve benzerliğine, 
+çokgenlere ve özel dörtgenlere ilişkin bilgileri soru cevap tekniği veya çalışma kâğıdı kul -
+lanılarak değerlendirilebilir. Öğrencilerin temel çizim, inşalar (doğru, orta nokta, kenar orta 
+dikme, açıortay, üçgen, çember gibi), yansıma ve öteleme dönüşümlerine ilişkin bilgileri de 
+sınanabilir. Tespit edilen hatalı ve eksik öğrenmelere yönelik uygun açıklamalar yapılır veya 
+dönütler verilir. Öğrencilerin bilgilerini doğru anlamlandırmaları ve eksikliklerini tamamla -
+maları sağlanır. 
+Köprü Kurma Öğrencilerin bu seviyede yapacakları çizim ve inşalar, önceden öğrendiği çizim ve inşalar 
+temelinde yapılandırılabilir. Öğrencilerden pergel, ölçüsüz cetvel ve matematik yazılımı kul-
+lanarak yaptıkları inşalara benzer süreçlerle yeni inşalar yapmaları istenebilir. Bu süreçte 
+öğrencilere özelliklerini bildikleri geometrik şekli inşa etmek için gerekli koşullar üzerinde 
+çalışılmasının yeterli olduğu ifade edilebilir.
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, kısa cevaplı sorular, tanılayıcı dallan -
+mış ağaç, araştırma ödevi, proje ödevi ve performans görevi ile değerlendirilebilir.
+Öğrencilere ortaokulda öğrendikleri bir inşa probleminin farklı inşa yöntemlerini araştır -
+malarına ve bu yöntemleri sunmalarına yönelik proje ödevi verilebilir. Proje ödevinin de -
+ğerlendirilmesinde hazırlık, içerik ve sunum süreçlerinin dikkate alındığı derecelendirme 
+ölçeği kullanılabilir. Öğrencilerin güçlü ve zayıf yanlarını tanıyarak ihtiyaçlarını belirleme -
+leri, öğrenme sürecinde ihtiyaçlarını karşılamaya yönelik hedefler ve bu hedeflere yönelik 
+eylemler belirlemeleri, motivasyonlarını artırmaları amacıyla proje ödevini öz değerlendir-
+me ve akran değerlendirme formları ile değerlendirmeleri istenebilir.
+Öğrencilere ön bilgilerini kullanabilecekleri, yamuk, paralelkenar, dikdörtgen, eşkenar 
+dörtgen ve karenin inşa adımları hakkında performans görevi verilebilir. Bu performans 
+görevleri, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. 
+Farklı fraktal örneklerinin [Koch (Koh) kar tanesi, Sierpinski (Zepinski) üçgeni gibi]  araş-
+tırılması, incelenmesi ve çözümlenmesine yönelik olarak öğrencilerin bireysel ve gruplar 
+hâlinde yapabilecekleri proje ödevi verilebilir. Proje ödevinin değerlendirilmesinde analitik 
+dereceli puanlama anahtarı kullanılabilir. 
+Öğrencilerin bireysel olarak veya gruplar hâlinde çalışmaları sağlanarak her bir gruba veya 
+öğrenciye farklı geometrik şekiller verilip özgün bir desen ve kaplama oluşturmalarına yö-
+nelik performans görevi verilebilir. Bunun yanı sıra farklı kültürlere ve millî kültüre ait, ge -
+ometrik şekillerin oluşturduğu süslemelerin araştırılması ve çözümlenmesine ilişkin araş-
+tırma ödevi verilebilir. Öğrencilerin çalışmaları sonucu elde ettikleri ürünleri sergilemeleri 
+sağlanır. Bu ödevler, dereceli puanlama anahtarı ile değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin pergel, ölçüsüz cetvel ve matematik yazılımı gibi araç gereci tanıdıkları; bu 
+araçlarla basit düzeyde çizim ve inşa (doğru, orta nokta, kenar orta dikme, açıortay, üç -
+gen, çember gibi) yapabildikleri; geometrik bir şeklin yansıma ve öteleme dönüşümü altın-
+daki görüntüsüne ilişkin çıkarım yapabildikleri; üçgenlerin eşliğine, benzerliğine, yardımcı 
+elemanlarına, çokgen ve özel dörtgenlerin özelliklerine dair çıkarımda bulunabildikleri ka-
+bul edilmektedir. 

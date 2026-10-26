@@ -1,0 +1,44 @@
+85
+1. Tema/Ölçme ve Değerlendirme
+7.  Aşağıda kare şeklindeki bir oyun kartı verilmiş -
+tir. Kartın yüzeyi kare ve dikdörtgen şeklindeki 
+parçalara ayrılmış, her bir parçanın bir kenarı -
+nın uzunluğu (cm) şekil üzerinde gösterilmiştir.
+2
+2
+3
+3
+D
+A
+C
+B
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		 Oyun 	 kartında 	 verilen 	 uzunluklardan 	
+yararlanarak	 32
+2
++_i 	 ifadesinin 	 eşi-
+tini	geometrik 	temsiller 	yardımıyla	bulu-
+nuz.
+b)		 32
+2
++_i 	 ifadesinin 	 eşitini 	 gerçek 	 sa-
+yılarda	 işlem 	 özelliklerini 	 kullanarak 	 bu-
+lunuz.	 Bulduğunuz 	 ifadeyi 	 a 	 maddesinde	
+bulduğunuz	sonuç	ile	karşılaştırınız.
+8.  Aşağıda verilen ABCD dikdörtgeni biçiminde -
+ki bir arsa, KLMN ve BCEL kareleri şeklinde 
+iki parsele ayrılacaktır. Kalan kısım yeşil alan, 
+KLMN karesel bölgesi çocuk parkı olarak dü-
+zenlenecektir.
+ AK ,birim 2x=  KL 21x=+_ i  birim ve 
+LB 2 x1= +  birimdir.
+ 
+A K2x 21x + 2 x1+L B
+CE
+MN
+D
+	 Buna 	göre	aşağıdaki 	 soruları 	 cevaplayınız.
+a)		 Çocuk 	parkı 	olarak 	belirlenen 	bölgenin 	
+alanını 	x	cinsinden 	ifade 	ediniz. 	
+b)		 Yeşil 	 alan 	 olarak 	 belirlenen 	 bölgenin 	
+alanını 	x	cinsinden 	ifade 	ediniz. 	

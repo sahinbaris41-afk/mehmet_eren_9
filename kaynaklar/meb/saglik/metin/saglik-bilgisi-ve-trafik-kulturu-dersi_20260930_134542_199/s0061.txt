@@ -1,0 +1,34 @@
+Sağlık Bilgisi ve Trafik Kültürü
+61
+5. Aşağıda halk sağlığı ve sağlık hizmetleriyle ilgili bilgi kaynaklarına dair ifadeler, numaralandırılmış 
+kutucuklarda (yapılandırılmış gridde) verilmiştir. Kutucuklarda yer alan rakamları kullanarak soruları 
+cevaplayınız. (Aynı kutucuk birden fazla sorunun cevabı olabilir.)
+a) Sıcak hava dalgalarının acil servis başvuruları üzerindeki etkisini araştırmak isteyen bir öğrenci, 
+kutucuklarda yer alan kaynaklardan hangisini/hangilerini kullanmalıdır?
+b) Sıcak hava dalgasının sıcaklık değerlerini ve iklimsel boyutunu incelemek için kutucuklarda yer alan 
+kaynaklardan hangisi/hangileri seçilmelidir?
+c) Sıcak hava dalgalarının küresel ölçekte sağlık etkileri hakkında bilimsel veri sağlamak için 
+kutucuklarda yer   alan kaynaklardan hangisi/hangileri kullanılabilir?
+ç) Sıcak hava dalgalarının uzun vadeli toplum sağlığı üzerine etkilerinin  istatistiklerini incelemek için 
+kutucuklarda yer alan kaynaklardan hangisi/hangileri uygundur?
+d) Sıcak hava dalgaları konusunda toplum bilincini artırmak amacıyla görsel ve işitsel bilgilendirme 
+yapmak için kutucuklarda yer alan kaynaklardan hangisi/hangileri uygundur?
+e) Sıcak hava dalgalarının neden olduğu sağlık üzerindeki etkilerini akademik düzeyde incelemek 
+isteyen bir öğrenci kutucuklarda yer alan kaynaklardan hangisini/hangilerini kullanmalıdır?
+f) Halk sağlığına yönelik ulusal düzeyde resmî bilgi edinmek isteyen bir araştırmacı kutucuklarda yer 
+alan kaynaklardan hangisine/hangilerine başvurmalıdır?
+6. Bir yerel halk sağlığı çalışmasında yetişkin insanların günlük hijyen alışkanlıkları incelenmiştir. Araştırma 
+sonucunda katılımcıların %42’sinin tuvalet sonrasında ellerini düzenli yıkamadığı, %28’inin etkinlik son-
+rasında duş almadığı, %31’inin ise dişlerini günde bir defa bile fırçalamadığı belirlenmiştir. Aynı dönemde 
+sağlık merkezine yapılan başvurularda üst solunum yolu enfeksiyonları, mide–bağırsak enfeksiyonları, 
+diş çürükleri ve cilt hastalıkları vakalarında artış olduğu tespit edilmiştir. 
+Bu bulgular üzerine sağlık ekibi, insanların hijyen alışkanlıklarını geliştirmek için bilgilendirici seminerler 
+ile afiş çalışmaları düzenlemeyi ve “Hijyen Gönüllüleri” adlı bir grup oluşturarak farkındalık çalışmaları 
+yapmayı planlamıştır.
+Metindeki verileri inceleyiniz. İnsanların hijyen eksiklikleri nedeniyle ortaya çıkan sağlık sorunları 
+arasındaki ilişkiyi açıklayınız.
+(1) İl Sağlık Müdürlüğü acil servis 
+kayıtları (2) Belediye broşürleri (3) Meteoroloji verileri
+(4) Ulusal ve uluslararası kuruluşların 
+iklim ve sağlık raporları (5) Sosyal medya içerikleri (6) TÜİK sağlık istatistikleri
+(7) Yerel televizyon haberleri (8) Üniversite araştırma raporları (9) Sağlık Bakanlığı web sitesi

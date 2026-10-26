@@ -1,0 +1,33 @@
+152
+Tema Ölçme ve Değerlendirme Soruları
+3. Karaciğer hücreleri sitoplazmalarına göre madde yoğunluğu düşük bir dış ortama koyulduğunda su 
+moleküllerinin kaç numaralı yöntemleri kullanarak hücre zarından geçtiğini yazınız.
+4. Hücre zarının küçülmesine ya da büyümesine neden olan geçiş yöntemleri hangileridir?
+Yönerge: Aşağıda verilen metin ve grafiklerden yararlanarak 5 ve 6. soruları cevaplayınız.                       
+Bir öğrenci, biyoloji dersinin proje ödevi için kuru incirleri kullanarak bir deney yap-
+mıştır. Yaptığı deneyde 10 gramlık kuru incirleri üç farklı derişimde sıvı içeren üç 
+farklı kap içinde 45 dakika bekletmiştir. İncirleri her 15 dakikada bir kaplardan çı -
+karıp ağırlıklarını ölçmüş ve ağırlık değişimlerini gösteren grafikleri oluşturmuştur.
+5. Öğrencinin hazırladığı kaplardaki sıvıların derişimlerini sıralayıp bu ortamları kuru incire göre ad -
+landırınız.
+I. Ortam 
+II. Ortam 
+II. Ortam 
+6. İncirler 45 dakika yerine 24 saat bekletilseydi sonuç ne olurdu? Açıklayınız.
+Kuru incir 
+ağırlığı (g)
+Zaman (dk.)
+13
+15 30 45
+10
+7
+Kuru incir 
+ağırlığı (g)
+Kuru incir 
+ağırlığı (g)
+Zaman (dk.) Zaman (dk.)
+13 13
+15 1530 3045 45
+10 10
+7 7
+I II III

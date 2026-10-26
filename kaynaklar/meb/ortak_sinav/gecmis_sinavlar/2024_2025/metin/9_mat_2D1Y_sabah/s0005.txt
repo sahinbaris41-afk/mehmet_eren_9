@@ -1,0 +1,32 @@
+5
+MATEMATİK 9
+5. Daire	şeklindeki	bir	havuza	C,	D	ve	E	noktalarındaki	merdivenler	kullanılarak	girilmektedir.	A	nokta-
+sında	Ayşe,	B	noktasında	Burak	bulunmaktadır.	A,	C,	D	ile	A,	E,	B	noktaları	kendi	aralarında	doğrusal	
+ve	[CE]	//	[DB]’dir.	Ayşe	ile	C	noktası	arasındaki	uzaklık	6	m,	Burak	ile	D	noktası	arasındaki	uzaklık	 
+10	m,	C	ile	E	noktaları	arasındaki	uzaklık	ise	4	m’dir.
+A (Ayşe)
+B (Burak)
+10
+6
+4
+D
+C E
+Buna göre, C ile D noktaları arasındaki uzaklık kaç metredir? İşlemlerinizi göstererek bulunuz. 
+(15 puan)
+Şekilde		[CE]	//	[DB]	olduğundan	temel	orantı	teoremine	göre	 =ADAC DBCE ’tir.
+Buna	göre,  
+.mo lur
+6
+10
+4
+46 0
+15
+$
+=
+=
+=
+AD
+AD
+AD
+ 
+Bu	durumda				|CD|  =  15	-	6	=	9	m’dir.

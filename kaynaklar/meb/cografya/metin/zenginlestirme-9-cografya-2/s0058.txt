@@ -1,0 +1,14 @@
+56 57
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+EK: HGM KÜRE UYGULAMASININ KULLANIMI
+Aşağıdaki adımları takip ediniz.
+HGM Küre uygulamasını https://kure.harita.gov.tr/   adresinden indiriniz ve bilgisayarınıza kurunuz.
+Uygulamayı açıp “Gösterim” butonuna tıklayınız.
+📌
+Arama çubuğuna okulunuzun adını yazıp 
+  butonuna tıklayınız.
+📌
+1
+Uygulamada okulunuzun coğrafi koordinatlarını bulmak için
+Okulunuzun yeri ekrana gelecek ve alt kısımda okulunuzun coğrafi koordinatları ile ölçek değeri 
+görünecektir.

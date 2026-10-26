@@ -1,0 +1,58 @@
+ 
+1
+Ölçme Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü (ÖDSGM)
+T.C.
+MİLLÎ EĞİTİM BAKANLIĞI
+ÖLÇME, DEĞERLENDİRME VE SINAV HİZMETLERİ GENEL MÜDÜRLÜĞÜ
+2023-2024 EĞİTİM VE ÖĞRETİM YILI
+I. DÖNEM II. YAZILI SINAVI (ÜLKE GENELİ ORTAK)
+MATEMATİK (ANADOLU LİSESİ)
+9. SINIF
+ÖĞLEN
+OTURUMU
+A
+KİTAPÇIK
+TÜRÜ
+ÖĞRENCİLERİN DİKKATİNE!
+1. Bu soru kitapçığında 20 soru bulunmaktadır ve sınav süresi 40 dakikadır.
+2. Cevap kâğıdındaki kimlik bilgilerinin doğruluğunu kontrol ediniz. Bilgiler size ait değilse veya cevap kâğıdı 
+kullanılamayacak durumdaysa öğretmeninize bildiriniz.
+3. Kitapçık türünü ve oturum bilgisini cevap kâğıdındaki ilgili alana kodlayınız.
+4. Bu kitapçıkta yer alan her bir sorunun sadece bir doğru cevabı vardır. Cevaplarınızı, cevap 
+kâğıdındaki ilgili yuvarlağın dışına taşırmadan siyah kurşun kalemle işaretleyiniz.
+5. Değiştirmek istediğiniz bir cevabı, yumuşak silgiyle cevap kâğıdını yıpratmadan siliniz.
+6. Soru kitapçığı üzerine yapılan işaretlemeler değerlendirmeye alınmayacaktır.
+7. Soru kitapçığındaki boş alanları soru çözümleri için kullanabilirsiniz.
+8. Her bir soru 5 puandır.
+9. Puanlama, yanlış cevaplarınız dikkate alınmadan sadece doğru cevaplarınız üzerinden yapılacaktır.
+Adı ve Soyadı : ............................................................................
+Sınıfı / Şubesi : ............................................................................
+Öğrenci Numarası : ............................................................................
+1. pq& y  bileşik önermesinin karşıt tersi aşa-
+ğıdakilerden hangisidir?
+A) qp& y
+B) pq&y
+C) qp&yy
+D) pq/
+E) pq/y
+2. pq p1// /y y^h  olduğuna göre aşağıdaki 
+önermelerden hangisinin doğruluk değeri 
+0’dır?
+A) pq0
+B) pq0y
+C) pq0 y
+D) pq/
+E) pq/y
+3. ,, ,Ac 25 1= "" ,,  kümesinin öz alt küme sa-
+yısı kaçtır?
+A) 127 B) 63 C) 31
+D) 15 E) 7
+4. p: Her tam sayının karesinin 5 fazlası 4’ten bü-
+yüktür.
+Bu önermenin sembolik mantık diliyle yazı-
+lışı aşağıdakilerden hangisidir?
+A) p: ,xx 54Z 27 2! -
+B) p: ,xx 54Z 27 2! +
+C) p: ,xx 54Z 26 2! -  
+D) p: ,xx 54Z 26 1! +
+E) p: ,xx 54Z 26 2! +

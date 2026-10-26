@@ -1,0 +1,49 @@
+187
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Uygun koşullarda   f(x) = sin( πx ) şeklinde tanımlı fonksiyonlar gibi salınım durumu içeren fonksiyonların grafikleri, matematik yazılım programları kullanılarak çizilebilir. Fonksiyonun 
+grafiğinin salınım yaptığı bölge incelenerek limit ve sürekliliğe ilişkin sınıf içi tartışma yapıla-
+bilir. Örneğin uygun koşullarda  f(x) = sin( πx )  şeklinde tanımlı fonksiyonun x = 0 noktasında limitinin olup olmadığı tartışılabilir. Gerçek sayıların sıralama ve tamlık özelliklerinin limit alma 
+işlemi için önemi üzerine araştırma ödevi verilebilir. 
+(*) Sıkıştırma teoreminin ispatı yapılabilir. Bu teoremin kullanıldığı sorular çözülebilir. Ara de-
+ğer teoremi, Bolzano (Bulzano) teoremi ve uç değer teoremleri hakkında değerlendirmeler 
+yapılarak bu teoremlere ilişkin açık uçlu sorular çözülür. 0/0 belirsizliği içeren limitlerde tri -
+gonometrik, logaritmik ve üstel fonksiyonlarla işlem yapılabilir.  f(x) = sinxx  fonksiyonunun 
+x = 0 noktasındaki limitinin  1 olduğu, sıkıştırma teoremi kullanılarak ispatlanabilir. Buradan 
+hareketle uygun koşullarda  f(x) = sinkxmx  (k, m∈ℝ, m ≠ 0), f(x)  = tankx mx  ve f(x) = sinkxtanmx  
+şeklinde tanımlı fonksiyonların x = 0 noktasındaki limitlerinin k/m olduğu gösterilebilir. 
+(*) 0/0 belirsizliğinin yanı sıra ∞/∞, ∞ - ∞, 1 ∞ belirsizlikleri limit alma kuralları yorumlanarak 
+çözülebilir. Euler sayısının ( e) elde edilmesini sağlayan f(x) = (1 + 1x )x fonksiyonunun son-
+suzdaki davranışı incelenebilir.  
+(*) Weierstrass'ın limit tanımı (epsilon-delta tanımı)  ile  ilgili  araştırma  ödevi  verilebilir.  
+(*) Uygun  koşullarda  f(x) = tanx,  f (x) = cotx,  f(x) = secx ve f(x) = cosecx şeklinde tanımlı 
+fonksiyonların sürekli olduğu aralıkları bulmaya yönelik çalışmalar yapılabilir. 
+Destekleme Limitin kullanıldığı gerçek yaşam durumu örnekleri (hız sınırı gibi), öğrencilerin yakın çevresi 
+dikkate alınarak çeşitlendirilebilir. Böylelikle öğrencilerin konuya karşı olan ilgi ve motivas -
+yonları artırılabilir.
+Öğrencilere bir fonksiyonun belirli bir noktadaki limitini cebirsel olarak ifade edebilmeye ve 
+grafik temsilde yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değer -
+lendirmeler yapılabilir.
+Limit ve süreklilik ile ilgili performans görevleri ve çalışma kâğıtları için daha fazla zaman ve-
+rilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam araçları (sözlü, yazılı, görsel gibi) 
+kullanılabilir.
+Öğrenciler için bireyselleştirilmiş öğrenme planları oluşturulabilir. Limit  ve süreklilik konu-
+sunda öğrencilerin bireysel  ihtiyaçlarına uygun hedefler belirlenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+x = a noktasındaki sürekliliğinin cebirsel ifadesi olarak limf xf a
+xa
+=
+"
+^^ hh = limf xf a
+xa
+=
+"
+^^ hh   verilir (MAB3) . Bu 
+cebirsel ifadeden hareketle fonksiyonların belirli bir x = a noktasında sürekli olabilmesi 
+için o noktadaki limit değeriyle fonksiyon değerinin birbirine eşit olması gerektiği ifade 
+edilir. Referans fonksiyonlar, polinom ve rasyonel fonksiyonlar incelenerek bu fonksi -
+yonların tanımlı olduğu aralıklardaki sürekliliği yorumlanır. Öğrencilere f + g, f - g, f . g, 
+f / g , f ° g ve g ° f  fonksiyonlarının sürekliliğinin incelenmesine yönelik bir performans 
+görevi verilebilir.

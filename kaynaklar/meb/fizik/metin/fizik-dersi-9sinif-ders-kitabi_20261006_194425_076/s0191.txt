@@ -1,0 +1,52 @@
+191
+AKIŞKANLAR
+dar şeritlerde daha belirgin hâle gelir. Araç sürücülerinin bu duruma dikkat 
+etmeleri gerekir çünkü ani ve beklenmedik bir yakınlaşma kazalara yol açabilir.
+Uçakların uçabilmesinde Bernoulli İlkesi’nin yanı sıra ağırlık, kaldırma kuvveti, 
+sürükleme ve itme kuvvetleri etkilidir. 
+Uçağın yerde hareket edip hızlanması için gerekli olan itme kuvveti motorlar 
+ile sağlanır. Uçak yerde hızlanmaya başlayınca hava, uçağın kanatlarına çar-
+parak kanatların üstünden ve altından akmaya başlar. Kuşların kanat yapısına 
+benzer şekilde tasarlanan uçak kanatlarının Görsel 3.32’de görüldüğü gibi 
+üst yüzeyi genellikle alt yüzeyine göre daha bombelidir. Bu tasarım; kanadın 
+üstünden geçen havanın, altından geçen havaya göre daha uzun bir yol kat 
+etmesini gerektirir. Kanatların üst yüzeyinden geçen havanın sürati alt yüzey-
+deki havadan daha fazladır. Bernoulli İlkesi’ne göre sürati artan bir akışkanın 
+basıncı düşer. Kanadın üst yüzeyinden geçen hava hızlandığı için buradaki 
+basınç azalır. Buna karşın kanadın alt yüzeyindeki hava daha yavaş hareket 
+ettiği için buradaki basınç daha yüksektir. Bu basınç farkı, kanadın altı ile üstü 
+arasında bir kaldırma kuvveti oluşturur. 
+Yüksek sürat, düşük basınç
+Hava
+Düşük sürat, yüksek basınç
+Kanat
+Alçak basınç 
+bölgesi
+Yüksek basınç 
+bölgesi
+Görsel 3.32: Uçağın kanat yapısı ve havanın akışı
+Kaldırma kuvveti, kanadın altındaki yüksek basınçlı hava ile üstündeki düşük 
+basınçlı hava arasındaki farktan kaynaklanır. Kaldırma kuvveti uçağın ağır -
+lığından fazla olduğunda uçak havada kalabilir. Uçağın hareketi sırasında 
+havanın gösterdiği direnç kuvveti olan sürükleme kuvveti motorlar sayesinde 
+sağlanan itme kuvvetinden küçük olduğunda uçak havada ileriye doğru hare-
+ket eder.
+Hareket hâlindeki suyun durgun suya oranla daha az basınç oluşturduğunu 
+fark eden Bernoulli, bu durumun insan vücuduna ve doğadaki birçok olaya 
+etkisi ile ilgili teorik araştırmalar yapmıştır. Bernoulli’nin boruların içindeki 
+suyun hareketi üzerine yaptığı çalışmalar, kanın insan bedenindeki akışını 
+anlamaya yönelik modern tıp araştırmalarına ilham vermiştir.
+Daniel Bernoulli, bir atardamarda meydana gelen daralma sonucunda kanın 
+akış süratinin arttığını ve bu artışın basınç düşüşlerine yol açtığını ortaya 
+koymuştur. Akışkanlar üzerine yaptığı çalışmalar, daralma bölgelerinde kanın 
+akışının daha karmaşık hâle geldiğini ve akış sırasında türbülansların olu -
+şabileceğini göstermiştir. Bu türbülansların özellikle kalbe yakın bölgelerde 
+potansiyel sağlık sorunlarına yol açabileceği daha sonra yapılan araştırma -
+larla ortaya konmuştur.
+Korku, heyecan, ruhsal gerilim (stres) veya egzersiz durumlarında kalp daha 
+fazla kanı vücuda pompalar, bu da damarlara yapılan basıncı artırır. Kalp 
+normal ritmine döndüğünde damarlardaki basınç da normale döner fakat bu 
+durumun sürekliliği ciddi kalp ve damar rahatsızlıklarına neden olabilir. 
+Tansiyon adı verilen bu basınç tansiyon aleti ile ölçülür (Görsel 3.33).
+ Görsel 3.33: Tansiyon 
+aleti ile ölçüm yapılması

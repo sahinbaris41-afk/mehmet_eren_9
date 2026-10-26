@@ -1,0 +1,170 @@
+1. Tema/Etkileşim
+68
+1. Bir elementin periyodik tablodaki yerini bulmak için gereken periyot ve grup numarası nasıl belirlenir?
+2. A grubu elementlerinin periyot ve gruplarını belirleyen kurallara yönelik bir örüntü oluşturunuz.
+3. B grubu elementlerinin periyot ve gruplarını belirleyen kurallara yönelik bir örüntü oluşturunuz.
+4. Oluşturduğunuz örüntüye göre aşağıda verilen her bir atomun periyodik tablodaki yerini belirleyiniz.
+20Ca: 
+16S: 
+25Mn: 
+33As: 
+5. Elementlerin periyodik tablodaki yerlerini belirleyen kurallara ilişkin genelleme oluşturunuz.
+1. Yönerge: Aşağıdaki tabloda bazı elementlerin atom numarası, elektron dizilimi ve periyodik tablodaki 
+konumu verilmiştir. Tablodaki örnekleri inceleyerek soruları cevaplayınız. (Bu etkinlikle ilgili 
+değerlendirme, kitabın sonunda “Ekler” bölümündeki 3. Form ile öğretmeniniz tarafından ya-
+pılacaktır.)
+Element Atom Numarası Elektron Dizilimi Periyodik Tablodaki Yeri
+Li 3 1s
+2
+ 2s
+1
+[He] 2s
+1 2. periyot 1A grubu
+Be 4 1s
+2
+ 2s
+2
+[He] 2s
+2 2. periyot 2A grubu
+C 6 1s
+2
+ 2s
+2
+ 2p
+2
+[He] 2s
+2
+ 2p
+2 2. periyot 4A grubu
+Se 34 1s
+2
+ 2s
+2
+ 2p
+6
+ 3s
+2
+ 3p
+6
+ 4s
+2
+ 3d
+10
+ 4p
+4
+[Ar] 4s
+2
+ 3d
+10
+ 4p
+4 4. periyot 6A grubu
+Sc 21 1s
+2
+ 2s
+2
+ 2p
+6
+ 3s
+2
+ 3p
+6
+ 4s
+2
+ 3d
+1
+[Ar] 4s
+2
+ 3d
+1 4. periyot 3B grubu
+Fe 26 1s
+2
+ 2s
+2
+ 2p
+6
+ 3s
+2
+ 3p
+6
+ 4s
+2
+ 3d
+6
+ 
+[Ar] 4s
+2
+ 3d
+6 4. periyot 8B grubu
+Co 27 1s
+2
+ 2s
+2
+ 2p
+6
+ 3s
+2
+ 3p
+6
+ 4s
+2
+ 3d
+7
+[Ar] 4s
+2
+ 3d
+7 4. periyot 8B grubu
+Ni 28 1s
+2
+ 2s
+2
+ 2p
+6
+ 3s
+2
+ 3p
+6
+ 4s
+2
+ 3d
+8
+[Ar] 4s
+2
+ 3d
+8 4. periyot 8B grubu
+Cu 29 1s
+2
+ 2s
+2
+ 2p
+6
+ 3s
+2
+ 3p
+6
+ 4s
+1
+ 3d
+10
+[Ar] 4s
+1
+ 3d
+10 4. periyot 1B grubu
+Zn 30 1s
+2
+ 2s
+2
+ 2p
+6
+ 3s
+2
+ 3p
+6
+ 4s
+2
+ 3d
+10
+[Ar] 4s
+2
+ 3d
+10 4. periyot 2B grubu
+Etkinlik-1.11 Periyodik Tabloda Yer Bulma

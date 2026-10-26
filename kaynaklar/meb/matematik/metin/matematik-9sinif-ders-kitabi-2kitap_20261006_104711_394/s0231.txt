@@ -1,0 +1,117 @@
+231
+7. Tema/Ölçme ve Değerlendirme
+5.  Aşağıdaki görselde üzerinde a, b, c ve d yazan 
+özdeş dört topun bulunduğu bir kutu ve üze-
+rinde 1, 2, 3 rakamlarının yazılı olduğu üç eş 
+dilime ayrılmış bir çark yer almaktadır.
+ 
+1
+2
+3
+     
+ 
+ Çekilen topun geri atılması şartıyla kutudan 
+bir top çekme ve çark çevirme deneyinin 
+5000 tekrarı sonucunda oluşan çıktıların 
+sıklık dağılımının aşağıdaki grafiklerden 
+hangisi gibi olmasını beklersiniz? 
+A) 
+0
+Sıklık
+Çıktılar
+a1 b1 c1 d1a3 b3 c3 d3a2 b2 c2 d2
+100
+200
+300
+400
+500
+ 
+ 
+ 
+ 
+ 
+ 
+B) 
+0
+Sıklık
+Çıktılar
+a1 b1 c1 d1a3 b3 c3 d3a2 b2 c2 d2
+100
+200
+300
+400
+500
+ 
+ 
+ 
+ 
+ 
+ 
+C) 
+0
+Sıklık
+Çıktılar
+a1 b1 c1 d1a3 b3 c3 d3a2 b2 c2 d2
+100
+200
+300
+400
+500
+ 
+ 
+ 
+ 
+ 
+ 
+D) 
+0
+Sıklık
+Çıktılar
+a1 b1 c1 d1a3 b3 c3 d3a2 b2 c2 d2
+100
+200
+300
+400
+500
+ 
+ 
+ 
+ 
+ 
+ 
+E) 
+0
+Sıklık
+Çıktılar
+a1 b1 c1 d1a3 b3 c3 d3a2 b2 c2 d2
+100
+200
+300
+400
+500
+ 
+ 
+ 
+ 
+ 
+6. Aşağıdaki tabloda Sibel Hanım’ın işe giderken 
+kullanabildiği caddeler ve o caddelerde bir yıl 
+boyunca (365 gün) trafiğin durma noktasına 
+geldiği gün sayıları verilmiştir. Sibel Hanım işe 
+gitmek için bu caddelerden herhangi ikisini kul-
+lanmak zorundadır.
+Cadde Gün
+Yalnız 1. Cadde 21
+Yalnız 2. Cadde 18
+Yalnız 3. Cadde 22
+Yalnız 1 ve 2. Cadde 7
+Yalnız 2 ve 3. Cadde 6
+Yalnız 1 ve 3. Cadde 8
+1, 2 ve 3. Cadde 4
+ 
+ Buna göre Sibel Hanım’ın kullanabileceği 
+cadde çiftlerinden hangisinde trafiğin dur-
+ma noktasına gelme olasılık değerinin en 
+çok olduğunu bulunuz.
+Tema ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

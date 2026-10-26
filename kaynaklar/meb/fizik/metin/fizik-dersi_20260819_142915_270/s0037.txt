@@ -1,0 +1,39 @@
+37
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.10.1.1. Yatay doğrultuda sabit hızlı hareket ile ilgili tümevarımsal akıl yürütebilme
+a) Yatay doğrultuda sabit hızlı hareket eden cisimlerin konum, yer değiştirme, hız ve 
+zaman değişkenlerine yönelik gözlemler yapar.
+b) Yatay doğrultuda sabit hızlı hareket eden cisimlerin hareket grafiklerinden yarar-
+lanarak hız, sürat, yer değiştirme ve alınan yol değişkenlerinin matematiksel mo-
+delini bulur.
+c) Yatay doğrultuda sabit hızlı hareket eden cisimlerin hız, sürat, yer değiştirme ve 
+alınan yol değişkenlerine ilişkin matematiksel modelleri geneller.
+FİZ.10.1.2. İvme ve hız değişimi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme 
+a) İvme ve hız değişimi arasındaki ilişkiyi keşfeder. 
+b) İvme ve hız değişimi arasındaki ilişkiyi geneller.
+FİZ.10.1.3. Yatay doğrultuda sabit ivmeyle hareket eden cisimlerin hareket grafiklerinden 
+elde edilen matematiksel modelleri yorumlayabilme
+a) Yatay doğrultuda sabit ivmeli hareket grafiklerini inceler.
+b) Yatay doğrultuda sabit ivmeli hareket grafiklerini birbirine dönüştürerek matema-
+tiksel modellere ulaşır. 
+c) Yatay doğrultuda sabit ivmeyle hareket eden cisimlerin hareketine ilişkin grafikleri 
+ve matematiksel modeller arasındaki ilişkiyi kendi cümleleriyle yeniden ifade eder.
+İÇERİK ÇERÇEVESİ Sabit Hızlı Hareket 
+Bir Boyutta Sabit İvmeli Hareket 
+Anahtar Kavramlar  -
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma yaprağı, çıkış kartı, bilgi görseli, poster ve kısa rapor kullanıla-
+rak değerlendirilebilir.
+Yatay doğrultuda sabit hızlı harekete yönelik konum, yer değiştirme, hız ve zaman he-
+saplamaları için açık uçlu maddelerden oluşan bir çalışma yaprağı verilebilir. Çalışma 
+yaprağı dereceli puanlama anahtarıyla değerlendirilebilir. Öğrencilere ivme ve hız deği-
+şimi arasındaki hesaplamalar ve bunların yorumları hakkında bir çıkış kartı verilebilir. Çı-
+kış kartı dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenciler grafik çizimi, grafik 
+dönüşümü, grafikten değer bulma ve matematiksel hesaplamaları içeren bir bilgi görseli 
+hazırlayarak sunabilir. Bilgi görsellerinin ve sunumların değerlendirilmesinde dereceli 
+puanlama anahtarı, öz değerlendirme ve akran değerlendirme formlarından biri kulla-
+nılabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir. 

@@ -1,0 +1,39 @@
+46
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+4. ETKINLIK ADI BUHARLAŞMAYI ETKİLEYEN FAKTÖRLER
+ ► Öğr encilerden Tablo 2.3'te verilen su, alkol ve yağ dolu beherlerin sıcaklıklarına göre hacimlerinin 
+değişimini incelemelerini isteyiniz. 
+ETKINLIĞIN AMACI Sıvıların buharlaşmasını e tkileyen faktörleri belirleyebilme
+DESTEKLEME 
+UYGULAMASI
+Öğrenciler, etkileşimlerin katı ve sıvı maddelere kazandırdığı özellikleri be-
+lirlerken farklı beceriler kullanır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+Su, alkol ve yağ dolu beherlerin sıcaklık ölçüm tablosu
+Bu etkinlikte kullanılması için Tablo 2.3'ü öğrenci sayısı kadar çoğaltarak öğrencilere 
+dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Beher
+Beherde 
+Bulunan Sıvı 
+Türü
+Sıcaklık  
+(
+o
+C)
+Başlangıç 
+Hacmi (mL)
+Gözlem 
+Süresi (dk.)
+Son Hacim 
+(mL)
+1. beher
+Su 25 50 10 45
+2. beher
+Alkol 25 50 10 35
+3. beher
+Yağ 25 50 10 48
+Tablo 2.3: Su, Alkol ve Yağ Dolu Beherlerin Sıcaklıklarına Göre Hacimlerinin Değişimi

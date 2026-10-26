@@ -1,0 +1,49 @@
+76
+2. ÜNİTE 
+Vektörlerin toplanmasında elde edilen sonuç, toplama sırasından bağımsızdır. 
+Başka bir ifadeyle A  ve B  vektörlerinin toplanması sonucu elde edilen bileşke 
+vektör, değişme özelliği kullanılarak R  = A  + B  ise R  = B  + A  şeklinde 
+bulunur.
+Örnek 
+Yandaki şekilde aynı düzlemde verilen A , B  ve C  vektörlerinin topla-
+mını uç uca ekleme yöntemi ile bulunuz.
+Çözüm
+Uç uca eklenecek vektörlerin sırası A , B  ve C  vektörleri şeklinde seçilmişse 
+A  vektörünün bittiği yere B  vektörü, B  vektörünün bittiği yere C  vektörü 
+yönleri ve büyüklükleri değiştirilmeden taşınır. Burada toplamada kullanılan ilk 
+vektör A  vektörü ve son vektör C  vektörü olarak belirlenmiş olur. Daha sonra 
+A  vektörünün başlangıç noktasından C  vektörünün bitiş noktasına yönlü 
+bir doğru parçası çizilir. Böylelikle bileşke vektör uç uca ekleme yöntemi ile 
+R  = A  + B  + C  şeklinde elde edilir.
+8. Alıştırma
+Yandaki şekilde aynı düzlemde verilen A , B  ve C  vektörlerinin topla-
+mını uç uca ekleme yöntemi ile bulunuz ve işlem basamaklarını kısaca 
+açıklayınız. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+2. Paralelkenar Yöntemi
+İki vektörün toplanmasında kullanılan diğer bir yöntem paralelkenar yöntemi-
+dir. Toplanacak vektörlerin sayısı ikiden fazla ise önce içlerinden ikisi seçile -
+rek paralelkenar yöntemiyle toplanır. Seçilen vektörlerin toplanmasından bir 
+bileşke vektör elde edilir. Bu bileşke vektöre seçilmeyen diğer vektör eklenerek 
+toplama işlemine devam edilir. Bu süreç, tüm vektörler işleme dâhil edilene 
+kadar devam eder ve sonucunda tüm vektörlerin bileşke vektörü bulunur. 
+Görsel 2.8’de verilen ve aynı düzlemde yer alan A  ve B  vektörlerinin paralel-
+kenar yöntemiyle toplanmasındaki işlem basamakları şu şekildedir:
+Görsel 2.8: Aynı düzlem 
+üzerindeki A  ve B  
+vektörleri
+A B
+A
+C
+B
+R
+A=
++
+B
++C
+A
+C
+B
+A
+C
+B

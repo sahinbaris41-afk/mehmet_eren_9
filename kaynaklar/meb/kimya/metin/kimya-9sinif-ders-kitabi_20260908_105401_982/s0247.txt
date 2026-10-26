@@ -1,0 +1,62 @@
+247
+3. Tema/Sürdürülebilirlik
+Nanoparçacıkların eldesi, özellikleri, verimliliği ve kullanım alanları kimya bili-
+minin güncel araştırma konuları arasındadır. Buna bağlı olarak metal nano -
+parçacıkların (metal NP) sentezi son yıllarda önemli ölçüde artmıştır. Metal 
+nanoparçacıklar, 1 ila 100 nanometre arasında değişen genellikle kolloidal 
+nanoparçacıklardır. Nanoparçacıklar malzeme, elektronik, kozmetik, kap -
+lama, paketleme, biyoteknoloji gibi alanlarda kullanılır. Örneğin ev aletlerinde 
+özellikle antibakteriyel özelliğinden dolayı sağlık endüstrisinde, gıda saklama 
+uygulamalarında ve tekstil ürünlerinde gümüş nanoparçacıklardan yararlanı-
+labilir. Bakır metaline kıyasla bakır nanoparçacıklar çok daha iletkendir. Bakır 
+metali ile yapılamayan iletken mürekkep bakır nanoparçacıklar (CuNP) ile 
+elde edilmektedir. Bu mürekkep; elektrik devrelerinin, elektronik malzemelerin, 
+çiplerin ve elektronik tekstillerin tasarımını kolaylaştırır. 
+Nanoparçacık sentezinde genellikle yukarıdan aşağıya ve aşağıdan yukarıya 
+olmak üzere iki farklı yaklaşım vardır (Görsel 3.11). Yukarıdan aşağıya yakla-
+şımında enerji kullanılarak yığınlar yavaş yavaş nanoboyuta ayrılır. Örneğin 
+kurşun kalem ucundan (grafit) elektrik enerjisi kullanılarak grafen (nanopar -
+çacık) eldesi bu yaklaşıma örnektir (Görsel 3.12). Aşağıdan yukarıya yaklaşı-
+mında ise atomik veya moleküler boyuttaki malzemeler tepkimeye sokularak 
+nanoparçacık oluşturulur. Bu yaklaşım nanoparçacıkların kimyasal ve biyolo-
+jik sentezlerinde yaygın olarak kullanılır. Nanoparçacık eldesi için uygulanan 
+fiziksel ve kimyasal sentez yöntemlerinde kullanılan kimyasalların çevresel 
+ve biyolojik risklerinin olduğu ve ekonomik olmadığı bilinmektedir. Bu sebeple 
+günümüzde nanoparçacıkların sentezinde daha ekonomik, çevre dostu, toksik 
+etkisi olmayan biyolojik yöntemler (yeşil sentez) tercih edilmektedir. Yeşil sen-
+tez için bakteri, maya, bitkilerin kök, gövde, yaprak ve çiçek gibi kısımları veya 
+evsel atıklar kullanılmaktadır. Bu sentezde inorganik metal iyonlarının metal 
+nanoparçacıklara dönüşmesi sırasında daha az kimyasal kullanılmaktadır.
+Görsel 3.12: Grafit ve  
+grafenin yapısı
+1 cm
+100 μm
+10 μm
+1 μm
+100 nm
+10 nm
+1 nm
+0,1 nm
+0,01 nm
+Nanometrik 
+ölçek
+Yığın
+Toz
+Nanoparçacıklar
+Kümeler
+Atom/Molekül/Y apı taşı
+Yukarıdan aşağıya  
+yaklaşım
+Aşağıdan yukarıya  
+yaklaşım
+Fiziksel sentez  
+yöntemleri
+Kimyasal sentez  
+yöntemleri
+Biyolojik sentez  
+yöntemleri Y eşil sentez
+Görsel 3.11
+Nanoparçacık sentezinde
+kullanılan yaklaşımlar 
+Grafit
+Grafen

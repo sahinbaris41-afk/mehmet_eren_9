@@ -1,0 +1,51 @@
+53
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+araçlarını kullanma becerilerini geliştirmek için matematik yazılımlarını veya diğer çevrim içi 
+araçları etkin şekilde kullanmaları sağlanır (OB2, MAB5). Öğrencilere doğrusal referans fonksi-
+yonun grafik temsiline uygulanan dönüşümler ve fonksiyonun cebirsel temsilindeki değişimine 
+yönelik inceleme içeren performans görevi verilebilir. Öğrencilerin performans görevini zama-
+nında ve eksiksiz olarak teslim etmeleri beklenir. Böylece sorumluluk değerini kazanmaları des-
+teklenir  (D16.3). 
+Öğrencilerin elde ettikleri varsayımlarını doğrusal fonksiyonun katsayılarının değerlerine göre 
+genellemeleri ve genellemelerini kontrol etmeleri sağlanır. Öğrencilerin genelledikleri her 
+varsayımdan yola çıkarak fonksiyonun katsayıları ile fonksiyonun niteliği arasındaki ilişkiler 
+hakkında önermelerde bulunmaları beklenir. Gerçek sayıların bir alt aralığında tanımlı doğrusal 
+fonksiyonların maksimum-minimum değerini belirleme uygulamalarında aralığın açık aralık 
+olması durumunun öğrenciler tarafından yorumlanması beklenir. Diğer nitel özelliklerin yanı 
+sıra öğrencilerin  fonksiyonun sıfırını ve tanımlı olduğu aralıklara bağlı olarak fonksiyonun 
+işaretini de doğrusal fonksiyonların cebirsel ve grafiksel özellikleri bağlamında fonksiyonun bir 
+özelliği olarak incelemeleri ve bu özelliklere yönelik önermelere ulaşmaları sağlanır. Gerçek 
+sayılarda h(x) = ax + b (a, b ∈ ℝ, a ≠ 0) şeklinde tanımlı fonksiyonun işareti incelenirken hem 
+grafik temsilinden hem de x = -b/a noktasına göre ayrılmış işaret tablosundan yararlanılır. Bu 
+önermelerde sembolik dil ve niceleyicilerin uygun biçimde kullanılması beklenir (a, b ∈ ℝ ve ∀a > 0 
+için gerçek sayılarda  h(x) = ax + b şeklinde tanımlı fonksiyon artandır.” gibi). Ardından doğrusal 
+fonksiyonların nitel özellikleri ile ilgili ulaşılan önermeler, kullanışlılık açısından değerlendirilir 
+(belli bir açılış ücreti ile başlayan taksi ücretinin yola bağlı değişiminin fonksiyonun artanlığı ile 
+ilişkilendirilmesi gibi). Ayrıca gerçek sayılar kümesinin aralıklara ayrılması ile her aralıkta başka 
+bir doğrusal fonksiyonun tanımlı olduğu parçalı gösterimli fonksiyon elde edilir. Fonksiyonun 
+parçalı gösteriminin anlamlandırılması için gerçek yaşam durumları incelenir. Örneğin kimya 
+disiplini bağlamında ısıtılan bir buz kütlesinin sıcaklık değişimine ilişkin bir deneyin zamana bağlı 
+sıcaklık verileri incelenir (OB7). Bu veriler elektronik tablolara yansıtılarak oluşan fonksiyonun 
+grafiği incelenir ve bu grafiğe ilişkin elde edilen parçalı gösterimli fonksiyonun cebirsel temsili 
+yapılır (MAB4, MAB5). 
+Sunulan her bir önerme için matematiksel doğrulama veya ispat sürecine gidilir. Doğrusal 
+fonksiyonların matematiksel temsilleri, grafik dönüşüm süreçleri ve nitel özellikleri 
+hakkında elde edilen önermelere ilişkin nasıl matematiksel doğrulama yapılabileceği sınıfça 
+tartışılır. Yapılan matematiksel doğrulamalar öncelikle öğrenciler tarafından çözümlenir 
+ve sonrasında kendi başlarına matematiksel doğrulama yapabilmeleri için öğrencilere 
+fırsatlar tanınır. Ö rneğin gerçek sayılarda h(x) = ax + b (a, b ∈ ℝ, a ≠ 0) şeklinde tanımlı 
+doğrusal fonksiyonda a > 0 veya a < 0 olması durumunun fonksiyonun artanlığı-azalanlığı 
+ile ilişkisi, tablo ve grafik temsilleri kullanılarak öğrenciler tarafından doğrulanır. Benzer 
+şekilde ulaşılan önermelerden bazıları, nitel özelliklerin tanımlarından hareketle öğrenciler 
+tarafından cebirsel olarak ispatlanır. Örneğin artanlığa ilişkin teorem  ( ∀a > 0  için gerçek 
+sayılarda h(x) = ax + b  (a, b ∈ ℝ)  şeklinde tanımlı doğrusal fonksiyonlar artandır.) ile “∀x1, x2 
+gerçek sayıları için x1 < x2 iken h(x1) < h(x2) dir.” ifadesi arasında ilişki kurulur ve teoremin 
+ispatı bu ifadeye dayalı olarak yapılır. Böylece muhakeme süreci, matematiğin sembolik 
+dili ve niceleyicilerle desteklenir. Doğrusal fonksiyonların nitel özellikleri  için matematiksel 
+doğrulamalar ve bazıları için (artanlık-azalanlık, bire birlik ) ispatlar yapıldıktan sonra 
+öğrencilerin doğrulama ve ispat için başvurdukları cebirsel ve grafiksel yöntemleri farklı 
+durumlarda nasıl kullanabileceklerini ve bu yöntemlerin kullanışlılıklarını değerlendirmeleri 
+sağlanır. Doğrusal fonksiyonların nitel özellikleriyle matematiksel temsilleri arasında 
+kurulan ilişkilere yönelik matematiksel doğrulama yapmaları için öğrencilere çalışma kâğıdı 
+verilebilir. Grafik ya da cebirsel temsili verilen bir doğrusal fonksiyona uygulanan dönüşümleri 
+ve doğrusal fonksiyonların nitel özelliklerini içeren performans görevi verilebilir. 

@@ -1,0 +1,32 @@
+51
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+4. ÜNİTE: DALGALAR
+Bu ünitede öğrencilerin periyodik hareketlere ilişkin deneyimlerini yansıtmaları, dalga-
+ların temel kavramlarını tanımlamaları, dalgaları özelliklerine göre sınıflandırmaları ve 
+dalgaların yayılma süratini etkileyen etmenleri gözlemlemeleri, su dalgalarında yansıma 
+ve kırılma olaylarına ilişkin çıkarımlar yapmaları, rezonans ve depreme ilişkin kavramları 
+sorgulamaları amaçlanmaktadır.
+DERS SAATİ 16
+ALAN 
+BECERİLERİ FBAB2. Sınıflandırma, FBAB3. Bilimsel Gözleme Dayalı Tahmin, FBAB5. Operasyonel Ta-
+nımlama, FBAB9. Bilimsel Model Oluşturma
+KA VRAMSAL 
+BECERİLER KB2.8. Sorgulama, KB2.15. Yansıtma, KB2.16. Muhakeme (Akıl Yürütme) (KB2.16.1. Tüme-
+varımsal Akıl Yürütme)
+EĞİLİMLER E1.1. Merak, E1.5. Kendine Güvenme (Öz Güven), E1.6. Seçicilik, E2.2. Sorumluluk, E2.5. 
+Oyunseverlik, E3.1. Muhakeme, E3.2. Odaklanma, E3.3. Yaratıcılık, E3.4. Gerçeği Arama, 
+E3.5. Açık Fikirlilik, E3.7. Sistematiklik, E3.8. Soru Sorma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sos-
+yal Farkındalık, SDB3.2. Esneklik, SDB3.3. Sorumlu Karar Verme
+Değerler D3. Çalışkanlık, D4. Dostluk, D5. Duyarlılık, D16. Sorumluluk, D20. Yardımseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB4. Görsel Okuryazarlığı, OB7. Veri Okuryazarlığı, OB9. Sanat 
+Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Coğrafya, Görsel Sanatlar, Matematik, Müzik
+BECERİLER ARASI 
+İLİŞKİLER KB2.6. Bilgi Toplama , KB2.7. Karşılaştırma, KB2.11. Gözleme Dayalı Tahmin Etme, KB2.12. 
+Mevcut Bilgiye/Veriye Dayalı Tahmin Etme, KB3.2. Problem Çözme

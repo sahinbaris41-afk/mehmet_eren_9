@@ -1,0 +1,21 @@
+16 17
+1.TEMA - SAYILAR
+Kontrol Listesi
+Öğrencinin Adı Soyadı : Tarih   : ....... /........ /........
+Sınıfı :
+Numarası :
+Öğrencilerin sunumdaki performanslarına ilişkin değerlendirme yapmak amacıyla aşağıdaki maddeleri okuyunuz 
+ve her maddeye ilişkin tablodaki uygun hücreyi işaretleyiniz. Hayır bölümündeki işaretlerinize ilişkin öğrencilerini-
+zin eksikliklerini gidermesine yardımcı olunuz.
+Ölçütler EVET HAYIR
+1. Sunumun başında konudan kısaca bahsetti.
+2. Seçtiği herhangi bir matematiksel temsilin incelenmesine yönelik bilgiler verdi.
+3. Matematiksel temsillerde üslü ve köklü gösterimlerin kullanımına yönelik açıklamalar 
+yaptı.
+4. Dinleyiciler ile göz teması kurdu.
+5. Vurgulamaya dikkat etti.
+6. Tonlamaya dikkat etti.
+7. Beden dilini doğru ve etkili kullandı.
+8. Konuşmanın içeriğini zenginleştirecek ögeler kullandı.
+9. Konuşmasını etkili bir şekilde sonlandırdı.
+10. Süreyi verimli kullanabildi.

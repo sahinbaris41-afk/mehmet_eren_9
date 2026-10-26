@@ -1,0 +1,51 @@
+28
+SAĞLIK BİLGİSİ VE TRAFİK KÜLTÜRÜ DERSİ ÖĞRETİM PROGRAMI
+Öğrencilerden ilk yardım bilgilerine yönelik kendi deneyimlerinden hareketle bu senaryo-
+larda nasıl bir müdahale yapılarak yardım edilmesi gerektiğine dair çıkarım yapmaları iste-
+nir (D20.4, D9.3, KB2.10). İlk yardım teknikleri, simülasyon yöntemiyle öğrencilere uygula-
+tılır ve öğrencilerden daha önce yaşadıkları ya da gözlemledikleri olaylarla bu müdahaleleri 
+karşılaştırmaları istenir.
+Öğrencilerden ilk yardım bilgilerine yönelik ulaştıkları çıkarımları analiz ederek doğru ve 
+yanlış müdahaleleri ayırt etmeye yönelik değerlendirme yapmaları istenir (KB2.17). Bu sü-
+reçte temel yaşam desteğinde OED cihazının kullanım basamakları tanıtılır, maket üzerin-
+de veya simülasyon yöntemiyle CPR ve yapay solunum gibi uygulamalar gerçekleştirilir, 
+öğrencilerin doğru uygulamalar yapıp yapmadıkları kontrol listesi kullanılarak tespit edilir.  
+Öğrencilerden ilk yardım bilgilerini günlük hayatlarında nasıl kullanabilecekleri konusunda 
+öneriler geliştirmeleri ve acil durumlara müdahale konusunda kendilerini değerlendirerek 
+eksik yönlerini belirlemeleri beklenir (SDB1.1). Öğrencilerden anafilaksi, epileptik nöbet, 
+hipoglisemi, astım atağı ve zehirlenmeler gibi okul ortamında karşılaşılabilecek acil du-
+rumlara yönelik temel farkındalık çalışmaları yapmaları istenebilir. Öğrencilere ilk yardımla 
+ilgili deneyimlerini yansıtabilecekleri ve sunabilecekleri bir performans görevi verilebilir. 
+Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir.
+SBTK.4.2
+Öğrencilerin çevrelerinde karşılaşabileceği tehlike ve riskleri içeren animasyon, video 
+veya sunu izlemeleri sağlanır. Öğrencilerden izledikleri içerikten yola çıkarak ıslak zemin, 
+dağınık kablo, kimyasal madde, uygunsuz şekilde yük kaldırma, yetersiz aydınlatma, yan-
+gın ve yüksekten düşme gibi durumlarda tehlike ve riskleri belirlemeleri ve risk türlerini 
+(fiziksel, kimyasal, ergonomik, biyolojik) sınıflandırmaları istenir (KB2.5). Bu süreçte risk 
+kontrol tedbirlerine değinilir. Öğrenciler, öğretmen rehberliğinde heterojen gruplara ayrı-
+lır. Gruplardan belirledikleri ve sınıflandırdıkları tehlike ve riskleri, risk kontrol tedbirleriyle 
+ilişkilendirerek tehlikeyi kaynağında yok etme, tehlike kaynağını ikame etme (değiştirme), 
+mühendislik çözümleri, idari kontroller ve gerekli durumlarda kişisel koruyucu donanım 
+kullanımı gibi temel prensipleri göz önünde bulundurarak hangi kontrol tedbirlerinin ne-
+den daha uygun olduğuna ilişkin önceliklendirilmiş bir “Tehlike ve Risk - Kontrol Tedbiri” 
+listesi geliştirmeleri beklenir.
+Oluşturulan listelerin uygulanacak tedbir ve gerekçelerin doğruluğu öğretmen rehberli-
+ğinde değerlendirilir. Gruplardan sorumluluk alarak her bir tehlike, risk ve tedbirlere yö-
+nelik farkındalık afiş/broşürü hazırlayarak okul panosunda sergilemeleri istenebilir (D13.4, 
+SDB2.2, E2.2). Hazırlanan afiş/broşür bütüncül dereceli puanlama anahtarı ile değerlen-
+dirilebilir. Süreç öğrencilerin çevrelerindeki tehlikeleri tanımalarına, risk analizi yapmala-
+rına ve güvenli davranış geliştirmelerine katkı sağlayarak iş risk kontrol tedbirleri ile ilgili 
+farkındalığının erken yaşta gelişmesine destek olur.
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerin acil durumlar karşısında doğru ve hızlı müdahale becerilerini geliştirmek   
+amacıyla sanal simülasyonlar veya artırılmış gerçeklik (AR) uygulamaları kullanılabilir. Öğ-
+rencilerden sağlıklı ve güvenli yaşam için farkındalık oluşturacak bir proje hazırlamaları 
+istenebilir.
+Destekleme Öğrencilere ilk yardım uygulamaları ile ilgili videolar izletilebilir. Öğrencilerden tehlike, risk, 
+önleyici tedbir ve koruyucu donanım ilişkisini gösteren kavram haritası hazırlamaları iste-
+nebilir.
+ÖĞRETMEN 
+YANSITMALARI
+Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

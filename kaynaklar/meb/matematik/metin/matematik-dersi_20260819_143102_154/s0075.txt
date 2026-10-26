@@ -1,0 +1,46 @@
+75
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin istatistiksel araştırma sürecinin bileşenlerine hâkim oldukları, betimsel ve 
+karşılaştırma gerektiren araştırma soruları oluşturabildikleri, veri toplama planı yapa -
+bildikleri , verileri görselleştirebildikleri (sütun grafiği, daire grafiği, çizgi grafiği, nok -
+ta grafiği, kök-yaprak gösterimi), merkezi eğilim ve yayılım ölçülerini kullanarak özet -
+leyebildikleri  (sıklık, ortalama, tepe değer, ortanca, açıklık, ortalama mutlak sapma), 
+değişebilirlik ve dağılım kavramlarını değerlendirebildikleri, verileri yorumlayabildikleri 
+kabul edilmektedir.  
+Ön Değerlendirme Süreci Öğrencilerden istatistiksel araştırma süreci aşamalarını döngüsel bir şema üzerinde gös -
+termeleri istenebilir. Verilen araştırma sorularının hangilerinin betimsel, hangilerinin kar -
+şılaştırma gerektiren araştırma soruları olduğu öğrencilere sorulabilir. Araştırma soruları 
+doğrultusunda veri toplama planında olması gerekenler sorgulatılabilir. Öğrencilerden sü -
+tun grafiği, daire grafiği, çizgi grafiği, nokta grafiği, kök-yaprak gösterimi ile görselleştirilen 
+verileri anlamlandırmaları ve yorumlamaları istenebilir. Ayrıca nokta grafiği ile verilen bir da-
+ğılımı veri özetleme araçlarını (sıklık, ortalama, tepe değer, ortanca, açıklık, ortalama mut -
+lak sapma) kullanarak değerlendirmeleri ve yorumlamaları istenebilir.
+Köprü Kurma Öğrencilere örnek bir nicel veri dağılımı gösterilir. Verilerin histogram ve kutu grafiğiyle gör-
+selleştirilmesine yönelik sorular sorulur ve sorulara ortaokul düzeyinde öğrenilen sıklık tab-
+losu, sütun grafiği, daire grafiği, çizgi grafiği, nokta grafiği, kök-yaprak gösterimi gibi veri 
+görselleştirme araçlarıyla cevap verilip verilemeyeceği tartışılabilir. Bu görselleştirme araç-
+larının her zaman yeterli olamayacağı fark ettirilebilir.
+Benzer şekilde veri özetlemeyi gerektirecek nicel bir veri dağılımı öğrencilere gösterilir. Öğ-
+rencilere kutu grafiği, histogram ve/veya standart sapma  kullanmayı gerektirecek sorular 
+sorulur; ortaokul düzeyinde öğrenilen sıklık, ortalama, tepe değer, ortanca, açıklık, orta -
+lama mutlak sapma gibi veri özetleme değerleriyle sorulara cevap verilip verilemeyeceği 
+tartışılabilir. Bu değerlerin veri özetleme için her zaman yeterli olamayacağı fark ettirilebilir. 
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, kontrol listesi ve performans görevi ile değerlendirilebilir.
+Öğrencilere tek nicel değişken içeren veriye dayalı istatistiksel araştırma sürecinin bütü -
+nünü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik 
+dereceli puanlama anahtarı ile değerlendirilebilir. Bu performans görevinin sonunda elde 
+edilen sonuçların benzerlik veya farklılıklarının nedenleri üzerine sınıf içi tartışma yapılabi-
+lir. Öğrenciler, performans ürünlerini akran değerlendirme ve grup değerlendirme formu ile 
+değerlendirebilir. 
+Öğrenme-Öğretme 
+Uygulamaları MAT.9.6.1
+İstatistiksel araştırma süreci; bağlamı belirleme, bağlama yönelik soru sorma, veri toplama 
+planı yapma, verileri analize hazır hâle getirme, verileri analiz etme ve sonuçları yorumlama 
+bileşenlerini içerecek şekilde ele alınır. Bu sınıf seviyesinde öğrenciler, tek nicel değişken 
+içeren dağılımlarla istatistiksel araştırma sürecini yürütür.

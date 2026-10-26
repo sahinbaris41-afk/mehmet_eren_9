@@ -1,0 +1,63 @@
+32
+4. Tema / Eşlik ve Benzerlik
+c) Görsel	3’teki	kapı	süslemesinde	yer	alan	desenlerden	dönme	dönüşümüne	örnek	veriniz.	Verdiğiniz	
+örnekten	hareketle	dönme	dönüşümünün	yansıma	dönüşümü	ile	ilişkisinin	nasıl	kullanıldığını	görsel	
+üzerinde	gösteriniz.
+Çözüm
+Görselde 	 yer	 alan	 desenler 	 aynı	
+renkli	 numaralarla 	 gösterilmek 	 üze-
+re	 1	 numaralı 	 desene	 d1	 doğrusuna 	
+göre	 yansıma	 dönüşümü 	 uygulandı-
+ğında	2	numaralı 	desen	oluşur.	
+2	numaralı	desenin	d2	doğrusuna	göre	
+yansıma	dönüşümü	altındaki	görüntü-
+sü,	3	numaralı	deseni	oluşturur.	d1	ve	
+d2	doğruları	kesişen	doğrular	olduğun-
+dan	3	numaralı	desen	1	numaralı	desenin	dönme	dönüşümü	uygulanmış	hâlidir.	
+3	numaralı	desene	d3	doğrusuna	göre	yansıma	dönüşümü	uygulandığında	4	numaralı	desen	elde	
+edilir.	Dört	desenin	oluşturduğu	parçaya	d4	doğrusuna	göre	yansıma	dönüşümü	uygulanırsa	5	nu-
+maralı	desen	parçası	oluşturulur.	
+Oluşturulan	bu	5	desenin	meydana	getirdiği	parçaya	d5	doğrusuna	göre	yansıma	dönüşümü	uygu-
+landığında	6	numaralı	parça	oluşur.	Bu	parçanın	da	d6	doğrusuna	göre	yansıma	dönüşümü	altındaki	
+görüntüsü,	7	numaralı	parçayı	meydana	getirir.	
+Görseldeki	süsleme	sadece	yansıma	dönüşümü	kullanılarak	elde	edilebilir.	Görseldeki	7	desenin	her	
+biri,	1	numaralı	desen	parçasından	başlanarak	farklı	doğrulara	göre	yansıma	dönüşümü	uygulan-
+mak	suretiyle	oluşturulmuştur.
+a)
+d1
+d2
+2
+1
+3 4
+5 6 7
+d3
+d4
+d5 d6
+Görselde	 yer	 alan	 süslemede	 1	 numara-
+lı	 desene	 öteleme	 dönüşümü	 uygulanarak	 	 	 	 	 	 	 	 	 	 	 	 	
+2	numaralı	desen	elde	edilmiştir .	1	numara-
+lı	 desene	 önce	 d1	 doğrusuna	 göre	 yansıma	
+dönüşümü	uygulanmış	ve	3	numaralı	desen	
+oluşturulmuştur.	 Daha	 sonra	 bu	 desenin	 d1 
+doğrusuna	 paralel	 olan	 d2	 doğrusuna	 göre	
+yansıma	dönüşümü	altındaki	görüntüsü	oluş-
+turulmuş	ve	2	numaralı	desen	elde	edilmiştir.
+b) 3
+1 2
+d1 d2
+3	numaralı	desen,	1	numaralı	desene	dönme	
+dönüşümü	 uygulanarak	 elde	 edilmiştir.	 1	 nu-
+maralı	 desene	 d1	 doğrusuna	 göre	 yansıma	
+dönüşümü	 uygulandığında	 2	 numaralı	 de-
+sen	elde	edilir.	Bu	desenin	de	d2	doğrusuna	
+göre	yansıma	dönüşümü	altındaki	görüntüsü	 	 	 	 	 	 	 	 	
+3	numaralı	deseni	oluşturur.	Doğrular	kesişti-
+ğinden	1	numaralı	desene	bu	doğrulara	göre	
+sırasıyla	yansıma	dönüşümü	uygulandığında	
+desen,	doğruların	kesim	noktası	etrafında	doğrular	arasındaki	açının	ölçüsünün	iki	katı	kadar	ölçüyle	
+döndürülmüş	olur.
+c)
+d1
+d2
+1
+32

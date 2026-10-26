@@ -1,0 +1,38 @@
+107
+2. Tema /  Nicelikler ve Değişimler
+3. ÖRNEK
+Aynı yerde bulunan iki araçtan biri olan B aracı, A aracı hareket ettikten bir süre sonra hareket etmiştir. 
+Sabit hızla hareket eden A ve B araçlarının zamana (sa.) bağlı olarak aldıkları mesafeyi (km) gösteren, 
+uygun aralıkta tanımlı f ve g fonksiyonlarının cebirsel temsilleri sırasıyla f(x) = 70x ve g(x) = 130x - 260 
+şeklindedir.
+Buna göre aşağıdaki soruları cevaplayınız. 
+a) f ve g fonksiyonlarının gra fiklerini matematik yazılımı yardımıyla çiziniz.
+b) f ve g fonksiyonlarını temsil eden doğruların eğimlerini bularak karşılaştırınız. Vardığınız sonuçtan yarar-
+lanarak A ve B araçlarının hızları ile ilgili ne söylenebileceğini fonksiyonların grafik temsillerini de dikkate 
+alarak yorumlayınız.
+c) Grafiklerden  yararlanarak A ve B araçlarının hangi saatler arasında yan yana geldiğini tahmin ediniz. 
+Tahmininizin doğruluğunu matematik yazılımı yardımıyla kontrol ediniz.
+ç) f ve g fonksiyonlarının sıfırlarını cebirsel temsillerinden yararlanarak tahmin ediniz. f ve g fonksiyon -
+larının sıfırlarını matematik yazılımı yardımıyla belirleyerek bu noktaların araçların hareketi ile ilgili ne 
+ifade ettiğini yorumlayınız.
+d) A  aracı hareket ettikten 6 saat sonra araçların aldıkları mesafeleri karşılaştırınız, hangi aracın daha 
+fazla yol aldığını bulunuz.
+Çözüm
+a) Bilgisayar veya etkileşimli tahtada matematik yazılımı açılarak Giriş bölümüne f(x) =	70x yazı-
+lır ve Enter tuşuna basılır. Ardından Giriş bölümüne g(x) =	130x 	- 260 yazılır ve Enter tuşu-
+na basılır. Ekranda sırasıyla f ve g fonksiyonlarını temsil eden doğruların grafikleri çizilecektir 
+(Görsel 1).
+Görsel 1
+A a = 2α
+Giriş...
+g(x) = 130x - 260
+f(x) = 70x
+10 2 3 4 5 6
+100
+200
+300
+400
+500
+600
+g(x) = 130x - 260
+f(x) = 70x

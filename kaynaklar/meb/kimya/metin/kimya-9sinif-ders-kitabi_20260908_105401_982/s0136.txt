@@ -1,0 +1,139 @@
+136
+2. Tema/Çeşitlilik
+2.1.5.	Molekül	Polarlığı	ve	Apolarlığı
+Bazı elementler ve kovalent bağlı bileşikler moleküler yapıdadır. Moleküllerin 
+oluşumunda polar ya da apolar kovalent bağlar etkilidir. Molekülü oluşturan 
+atomları bir arada tutan bağların polarlığı molekülün polarlığını nasıl etkiler? 
+Molekül polarlığını etkileyen faktörler nelerdir?
+Aşağıdaki tablolarda yer alan bilgileri kullanarak soruları cevaplayınız. (1H, 6C, 7N, 8O, 9F)
+Element H C N O F
+Elektronegatiflik Değeri 2,20 2,55 3,04 3,44 4,00
+Element/Bileşik Adı Molekül Lewis Nokta Yapısı Uzay-Dolgu Molekül Modeli
+Hidrojen H2
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+Flor F2
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+Azot N2
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+Oksijen O2
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+Hidrojen florür HF FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+Metan CH4
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+Amonyak NH3
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+Su H2O
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+Molekül Polarlığı ve ApolarlığıEtkinlik-2.10

@@ -1,0 +1,52 @@
+131
+2. Tema /  Nicelikler ve Değişimler
+6. ÖRNEK
+Atatürk Lisesi Dayanışma ve Yardımlaşma Kulübü öğrencileri bir proje kapsamında sokak hayvanları için 
+gönüllü öğrencilerden kedi ve köpek maması toplamaktadır. Başlangıçta ellerinde x kg mama bulunan 
+öğrencilerin 3 günlük çalışma sonucunda topladıkları mama miktarları ile ilgili bilgiler tabloda verilmiştir.
+Günler Toplanan	Mama	Miktarı	(kg)
+1. gün Ellerinde bulunan mama miktarının 2 katı kadar 
+2. gün 1. gün toplanan mama miktarının 5 eksiğinin mutlak değeri kadar
+3. gün 2. gün toplanan mama miktarının 3 kg fazlası kadar 
+Başlangıçta ellerinde bulunan mama miktarının 8 kgʼdan az olduğu bilinmektedir. Buna göre aşağıdaki 
+soruları cevaplayınız.
+a)  Başlangıçta ellerinde bulunan mama miktarına bağlı 1, 2 ve 3. günler için toplanan mama miktarını 
+veren fonksiyonların cebirsel temsillerini bulunuz.
+b)  3. gün için oluşturulan fonksiyonun grafiğini çiziniz.
+c)  Başlangıçta ellerinde bulunan mama miktarının artmasıyla 3. gün toplanan mama miktarı azalmaktadır. 
+Bu durumun başlangıçta toplanan mama miktarının hangi değerleri için sağlandığını fonksiyonlardan 
+yararlanarak bulunuz.
+ç)  Başlangıçta ellerinde bulunan mama miktarının alacağı herhangi iki değer için 3. gün toplanan mama 
+miktarının değerlerinin birbirinden farklı olduğu biliniyor. Bu şartı sağlayacak başlangıçta ellerinde bu-
+lunan mama miktarı değerlerine ait aralıkların ne olabileceğini bulunuz.
+Çözüm
+a)	 1. gün toplanan mama miktarını veren fonksiyon f olmak üzere   
+f: ( 0, 8 )" (0, 16), f(x) = 2x,
+2. gün toplanan mama miktarını veren fonksiyon g olmak üzere 
+g: ( 0, 8 )" ,01 17A , g(x) = | 2x - 5 |,
+3. gün toplanan mama miktarını veren fonksiyon h olmak üzere  
+h: ( 0, 8 )" ,01 47A , h(x) = | 2x - 5 | + 3 olarak bulunur.
+b) Önce y = 2x - 5 fonksiyonunun grafiği çizilir. Grafiğin negatif değer aldığı kısmın, x eksenine göre yan-
+sıması alınır (Grafik 1). Ardından y ekseni boyunca pozitif yönde 3 birim ötelenerek h(x) = | 2x - 5 | + 3  
+fonksiyonunun grafiği, tanım ve görüntü kümesine uygun olarak elde edilir (Grafik 2).
+Grafik 1
+O x
+y
+y = 2x - 5
+5
+2
+-5
+ 5
+Grafik 2
+O x
+y Toplanan mama miktarı (kg) 
+Başlangıçtaki 
+mama miktarı 
+(kg)
+h(x) = |2x - 5| + 3
+5
+2
+ 3
+ 8
+ 8
+14

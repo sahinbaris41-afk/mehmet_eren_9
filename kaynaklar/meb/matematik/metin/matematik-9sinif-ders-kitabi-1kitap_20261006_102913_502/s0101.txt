@@ -1,0 +1,59 @@
+101
+2. Tema /  Nicelikler ve Değişimler
+a < 0 için g fonksiyonunun grafiği incelendiğinde keyfî alınan c, d R!  değerleri için c < d iken f(c) > f(d) 
+olduğu görülmektedir. Buradan a < 0 iken g: R"R, g(x) = ax biçimindeki g fonksiyonunun azalan oldu-
+ğu sonucuna ulaşılır.
+g fonksiyonunun sıfırı ve bire birliği ile ilgili oluşturduğunuz önermelerin doğruluğunu matematik yazılımı 
+kullanarak gösteriniz.
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.
+9.  g fonksiyonunun artan ya da azalan olma durumu gösterilirken kullanılan cebirsel ve grafiksel doğrulama yöntem-
+leri aşağıda kullanışlılık açısından değerlendirilmiştir.
+ g doğrusal fonksiyonunun artan ya da azalan olma durumu cebirsel olarak ispatlandığında genel bir ifadeye ulaşıl -
+mış ve fonksiyonun hangi durumlarda artan, hangi durumlarda azalan olduğu tespit edilmiştir. Fonksiyonun artan 
+ya da azalan olma durumu grafiksel olarak gösterildiğinde daha somut sonuçlara ulaşılmıştır. Bu açıdan grafiksel 
+doğrulama yönteminin daha kullanışlı olduğu söylenebilir.
+ g fonksiyonunun sıfırı ve bire birliği ile ilgili oluşturduğunuz önermelerin doğruluğunu gösterirken kullandığınız 
+yöntemlerin kullanışlılığını değerlendiriniz.
+1. ÖRNEK
+O x
+1
+1 2 3
+2
+3
+-2-3 -1
+-1
+y
+g(x) = 2x
+h(x) = -12 x
+-2
+-3
+g: R"R, g(x) = 2x ve h: R"R, h(x) = x21-  şeklinde tanımlı 
+doğrusal fonksiyonların grafikleri, yandaki dik koordinat sisteminde 
+verilmiştir.
+Cebirsel temsillerini de dikkate alarak g ve h fonksiyonlarını temsil 
+eden doğruların eğimlerini f(x) = x şeklinde tanımlı f fonksiyonunu 
+temsil eden doğrunun eğimi ve grafiği ile karşılaştırınız. Aralarında-
+ki ilişkiyi yorumlayınız.
+Çözüm
+O x
+1
+1 2 3
+2
+3
+-2-3 -1
+-1
+y g(x) = 2x
+h(x) = -12 x
+-2
+-3
+f(x) = x
+g(x) = 2x şeklinde tanımlı g fonksiyonu tanım aralığındaki her ele-
+manı 2 katı ile, h( x) = x21-  şeklinde tanımlı h fonksiyonu tanım 
+aralığındaki her elemanı 12-  katı ile eşlemektedir. 
+g fonksiyonunu temsil eden doğrunun eğimi 2 ve h fonksiyonunu 
+temsil eden doğrunun eğimi 12- ’dir.
+g fonksiyonunun grafiği, f fonksiyonunun grafiğine göre y eksenine 
+daha yakındır.
+h fonksiyonunun grafiği, f fonksiyonunun grafiğine göre x eksenine 
+daha yakındır.

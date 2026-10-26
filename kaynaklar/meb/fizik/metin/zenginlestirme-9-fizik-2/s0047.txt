@@ -1,0 +1,30 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+46 47
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+ ♦ Öğrencilerden düzenekte kullanılan pistonların kesit alanını hesaplamasını isteyiniz.
+ ♦ Öğrencilerin düzenekte kullanılan kütleyi laboratuvar terazisinde tartmasını isteyiniz.
+ ♦ Öğrencilerden P=F/A ''Basınç = Kuvvet / Yüzey Alanı''  matematiksel modelini kullanarak düzenekte 
+pistonun kaldırabileceği maksimum yükü hesaplamalarını isteyiniz.
+ ♦ Öğrencilere aynı büyüklüğe sahip bir kuvvet kullanarak daha fazla ağırlık kaldırabilecek düzenek ya -
+rışması yapılacağını söyleyiniz. 
+ ♦ Suyu pompalayan şırınganın, kullanılacak pillerin ve elektrik motorunun her düzenekte aynı olmasını 
+sağlayınız. Bu şekilde her düzenekte uygulanan kuvvetin sabit tutulduğunu belirtiniz. 
+ ♦ Öğrencilere düzenekte yükü kaldıracak kısımda istedikleri değişiklikleri yapabileceklerini söyleyiniz.
+ ♦ Öğrencilere düzeneklerin okulda diğer öğrencilerin de görebileceği şekilde sergileneceğini söyleyi -
+niz. 
+ ♦ Sergide diğer basamaktaki öğrencilerin düzenekleri test edip anlayabilmesi için her bir gruptan birer 
+kullanım kılavuzu hazırlamasını isteyiniz.
+Araştırma ve Sunum
+Yarışma
+ ♦ Ek 1'de tasarım aşamalarını içeren  kâğıdın yeterli sayıda çıktısını alınız ve bu çıktıları öğrencilere da-
+ğıtınız.
+ ♦ Tasarlama aşamalarında STEM döngüsünün kullanıldığı yerler aşağıda belirtilmiştir.
+Tasarım Aşamaları
+ ♦ Çalışma basamaklarında öğrencilerin ihtiyaç duyduğu noktalarda onlara destek olunuz.
+a Fen bilimleri “kuvvet, basınç, Pascal İlkesi, elektrik, dayanıklılık, hareket vb. kavramlar, tüm 
+aşamalarda”
+b Teknoloji “araba fren sistemi, lift ve vincin çalışma prensibi vb. daha birçok teknolojik aletin 
+yapılmasına son aşamada ışık tutmada”
+c Mühendislik “tüm tasarım aşamalarında”
+ç Matematik “tüm aşamalarda kullanılacak malzemelerin ölçülerini hesaplamada”

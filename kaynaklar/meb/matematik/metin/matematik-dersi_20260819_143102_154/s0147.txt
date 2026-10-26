@@ -1,0 +1,37 @@
+147
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Sekant ve kosekant fonksiyonlarının birim çember üzerindeki gösterimleri ve diğer trigono-
+metrik fonksiyonlarla ilişkisi ile ilgili araştırma ödevi verilebilir. Ters trigonometrik fonksiyonların 
+tanım ve değer kümelerini belirleme ödevi verilebilir. Derece ve radyan ilişkisi üzerinden bir da-
+irenin neden 360°ye bölündüğünün tarihî süreci ile Babil sayılarının araştırılması ve konuyla ilgili 
+sunum hazırlanması istenebilir. 
+(*) Matematik yazılımları kullanılarak oluşturulmuş çalışmalar bağlamında sinüzoidal dalgalar ve 
+ses sinyali üretimi incelenebilir. 
+(*) Basit harmonik hareket, dönme dolabın hareketi gibi örnekler bağlamında trigonometrik  
+fonksiyonların periyotlarına ilişkin uygulamalar içeren problemlere yer verilebilir. Örneğin eğik 
+düzlemdeki bir hareketlinin bir noktadan bir noktaya varış süresi ve ivmesi trigonometrik fonk-
+siyonlarla modellenebilir. 
+(*) Trigonometrik fonksiyonların kullanıldığı ve öğrencinin fizik dersinden bildiği bileşke vektör, 
+Newton’ın hareket yasaları ve eğik atılan cisim gibi  bağlamları içeren karmaşık problemlerin 
+çözümleri araştırılabilir.
+Destekleme Dik üçgende trigonometrik oranların belirlenmesine yönelik olarak çözülen örneklerin sayısı 
+artırılarak trigonometrik fonksiyonlara geçiş yapılabilir. Gerçek yaşam durumlarında takvim, 
+saat, hafta gibi örnekler üzerinden periyot kavramının anlamlandırılması sağlanabilir. Trigo-
+nometrik fonksiyonlara ilişkin örnek veya problemlerde hesap makinelerinden veya çevrim içi 
+araçlardan yararlanılabilir. Trigonometrik fonksiyonlarla ilgili özelliklere ulaşılamadığı durum-
+larda sayısal örnekler kullanılarak öğrencilerden sınırlı genellemeler yapmaları istenir. Trigo-
+nometrik referans fonksiyonlar ve bu fonksiyonlardan türetilen fonksiyonların nitel özellikleri 
+incelenirken  matematik yazılımlarından yararlanılabilir.
+Trigonometrik fonksiyonların kullanıldığı gerçek yaşam durumu örnekleri, futbol topunun 
+belli bir açıyla ileri hareketi veya dönme dolaptaki birinin yerden yüksekliği gibi öğrencinin il -
+gisini çeken örneklerle çeşitlendirilebilir. Böylelikle öğrencilerin konuya karşı olan ilgi ve mo-
+tivasyonları artırılabilir.
+Trigonometrik fonksiyonların temsil edilebileceği  somut materyaller (analog saat gibi) kul-
+lanılabilir. Öğrencilere trigonometrik fonksiyonları cebirsel olarak ifade edebilmeye ve bu 
+fonksiyonların grafik temsillerini yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler 
+verilerek gerekli  değerlendirmeler yapılabilir.
+Geri bildirim ve değerlendirmelerde çoklu ortam araçları (sözlü, yazılı, görsel gibi) kullanılabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

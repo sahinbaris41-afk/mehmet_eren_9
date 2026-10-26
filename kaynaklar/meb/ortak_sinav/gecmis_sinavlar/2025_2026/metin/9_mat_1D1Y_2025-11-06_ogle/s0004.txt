@@ -1,0 +1,35 @@
+4
+MATEMATİK 9
+6. “Doğal sayılar kümesi bölme işlemine göre kapalıdır.” 
+önermesinin yanlış olduğunu karşıt örnek sunarak gösteriniz. (10 puan)
+a, b ∈ N olmak üzere ba  ∉ N olduğunun gösterildiği tüm cevaplar doğrudur.
+Örnek cevap:
+2, 7 ∈ N için 27  ∉ N olur. 
+Böylece önermenin yanlış olduğu, karşıt örnek sunularak gösterilmiş olur.
+7. Dik kenarlarının uzunlukları x cm ve 2x cm olan üçgen şeklindeki iki sarı kart ve kısa kenarının uzunluğu 
+x cm, uzun kenarının uzunluğu 12 cm olan dikdörtgen şeklindeki bir mavi kart aşağıda gösterilmiştir.
+Sarıx cm
+2x cm
+Sarıx cm
+2x cm
+Mavix cm
+12 cm
+Sarı kartlar, birer dik kenarları mavi kartın uzun kenarıyla çakışacak şekilde aşağıdaki gibi yerleştiril-
+miştir.
+x cm x cm
+2x cm
+2x cm
+Son durumda mavi bölgelerin alanları toplamı 18 cm2 olduğuna göre, x’in santimetre cinsin-
+den değerini işlemlerinizi göstererek bulunuz. (15 puan)
+Mavi kartın ön yüzünün alanı x · 12 = 12x cm2
+sarı kartların ön yüzlerinin alanları toplamı · ·’ .xx xc md ir22 22 22=
+Mavi kartın ön yüzünün alanından sarı kartların ön yüzlerinin alanları toplamı çıkarılarak son durum-
+daki mavi bölgelerin alanları toplamı bulunur.
+12x – 2x2 = 18 ⇒ 2x2 – 12x + 18 = 0
+   2(x2 – 6x + 9) = 0
+       x2 – 6x + 9 = 0  (Eşitliğin sol tarafı x ve 3 terimlerinin farkının karesinin açılımıdır.)
+            (x – 3)2 = 0
+                x – 3 = 0
+                       x = 3 cm bulunur.
+SINAV BITTI.
+CEVAPLARINIZI KONTROL EDINIZ.

@@ -1,0 +1,14 @@
+7.TEMA - VERIDEN OLASILIĞA
+84 85
+3. Adım
+Bir düzgün sekiz yüzlü zarı attığınızda herhangi bir yüzeyin gelme olasılığını hesaplayınız.
+Çözüm:
+4. Adım
+100 kez düzgün sekiz yüzlü zar attığınızda belirli bir yüzeyin gelme olasılığı teorik olasılıktan farklı 
+olabilir mi? Cevabınızı gerekçeleriyle açıklayınız.
+Çözüm:
+5. Adım
+Zar atış sayısının 500’e çıkarılması durumunda gözlemlenen olasılığın teorik olasılığa nasıl yak -
+laşacağını tahmin ediniz. Bu senaryoda, büyük sayılar yasasının etkisini matematiksel olarak nasıl 
+açıklayabileceğinizi yazınız.
+Çözüm:

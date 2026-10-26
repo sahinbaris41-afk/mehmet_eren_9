@@ -1,0 +1,102 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+9. SINIF ORTAK SINAV (SABAH OTURUMU) - MATEMATİK
+Öğrenme Çıktısı : 9.5.3. Bir üçgenden hareketle ona benzer üçgenler oluşturma ile ilgili yansıtma yapabilme
+2
+MATEMATİK 9
+3. Panayır	alanına	kurulacak	bir	çadır	için,	numaralanmış	8	adet	demir	çubuk	başlangıç	noktasından	
+bitiş	noktasına	kadar	birbirine	paralel	olacak	biçimde	eşit	aralıklarla	aşağıdaki	gibi	sıralanmıştır.	 
+4	numaralı	demir	çubuğun	uzunluğu	10	m’dir.
+ 
+Başlangıç	noktası Bitiş	noktası1 2 3 4 5 6 7 8
+10
+Buna göre, 6 numaralı demir çubuğun uzunluğu 2 numaralı demir çubuğun uzunluğundan kaç 
+metre fazladır? İşlemlerinizi göstererek bulunuz. (15 puan)
+4. Bir	fidan,	üzerindeki	A	ve	D	noktalarından	ipler	gerdirilerek	sırasıyla	zemindeki	C	ve	E	noktalarına	
+aşağıdaki	gibi	sabitlenmiş	ve	zemine	dik	bir	şekilde	dikilmiştir.
+Zemin
+A
+D
+EB
+20100
+C
+40
+E	noktasına	sabitlenen	ipin	zeminle	yaptığı	açının	ölçüsü	ile	C	noktasına	sabitlenen	ipin	fidanla	yaptığı	
+açının	ölçüsü	birbirine	eşittir.
+|BE|  =  20 cm, |DB|  =  40 cm ve |CB|  =  100 cm  olduğuna göre, |AD| kaç santimetredir? 
+İşlemlerinizi göstererek bulunuz. (15 puan)
+56
+4. Tema / Eşlik ve Benzerlik
+15. ÖRNEK
+İki	dağcı,	ABC	üçgeni	şeklinde	modellenmiş	bir	dağın	B	ve	C	
+noktalarından	zirveye	doğru	tırmanmaya	başlamıştır.	C	nokta-
+sından	hareket	eden	dağcı	yolun	 53 ’ini	tırmandığında	D	nokta-
+sında	1500	metre	yüksekliğe	ulaşmıştır.	Bu	sırada	B	noktasın-
+dan	hareket	eden	dağcı	yolun	yarısında	bulunan	E	noktasına	
+varmıştır.	Verilen	bilgilere	göre
+a) Dağın	zirvesinin	kaç	metre	yükseklikte	olduğunu	bulunuz.
+b) E	noktasında	bulunan	dağcının	kaç	metre	yükseğe	tırmandığını	bulunuz.
+A
+B C
+DE
+Bir	üçgenin	iki	kenarının	orta	noktasını	birleştiren	doğru	parçası	üçgenin	orta	tabanıdır.	Orta	taban,	
+üçüncü	kenara	paralel	ve	kenar	uzunluğunun	yarısına	eşittir.
+16. ÖRNEK
+Yandaki	ABC	üçgeninde	DA C! 7 A,	 CEB! 7A ,	 AD DC= ,	
+AB birim6= ,	 BE birim10= ,	 EC birim4= 	ve	 ABCm7 0o=`j% 	oldu-
+ğuna	göre	 DECm` j%  nün	kaç	derece	olduğunu	bulunuz.
+Çözüm
+CKB! 7A 	olmak	üzere	ABC	üçgenine	D	noktasından	 AB7A  na	paralel	
+olacak	şekilde	 DK7A 	çizilsin.	
+CDK CAB+&& 	olduğundan	(A.A.)	 ABC DKCmm ve70o==`` jj%%  
+AC
+DC
+CB
+CK
+AB
+DK CK DK
+2 14 6
+1&== == 	eşitliğinden	
+CK BK birim7== ,	 DK birim3= 	bulunur. KE birim74 3=-= 	ve	 KE DK birim3== 	olduğundan	
+DKE	ikizkenar	üçgen	ve	 DKDEE Kmm5 5o==`` jj%%  olur.	 DECm1 1805 52 5oo o=- =`j% 	bulunur.
+70o
+A
+B E 410
+6 D
+C
+70o 70o
+A
+B K E 4
+6
+7 3
+D
+C
+3
+Çözüm
+AC DC53$ =  olduğundan	 ADDC 23= ’dir.
+ EB
+AB
+2= 	olduğundan	 BE
+AE
+1= ’dir.
+a) Dağcı	D	noktasında	1500	m	yükseklikte	olduğundan	 DG7 A	yüksekliği	çizilirse	 DG m10 05= ’dir.	
+AH7A 	yüksekliği	çizilirse	CGD CHA+&& 	olduğundan	
+AC
+DC
+AH
+DG
+AH
+AH m53 1500 2500&&== =  olur.
+b) EF7 A	yüksekliği	çizilirse	EBF ABH+&& 	olduğundan	
+BA
+BE
+AH
+EF EF
+EF m21 2500 1250&&== =  olur.
+A
+B C
+D
+F H G
+E 3k
+2k
+4.Tema_13.07.2024.indd   564.Tema_13.07.2024.indd   56 17.07.2024   18:4417.07.2024   18:44
+Ders Kitabı (MEB) Sayfa 56

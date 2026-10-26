@@ -1,0 +1,168 @@
+2322
+MÜZİK
+Tekrar işaretlerini açıklayınız. Tekrar işaretlerini etkileşimli tahtaya yansıtınız.
+Tekrar işareti [Reprise (röpriz)]: Müzik yazısında tekrar işaretidir. Çift ölçü çizgisinin yanı-
+na iki nokta konarak belirtilir (Görsel 1.13).
+Dolap: Tekrarlanan bölümün ikinci kez seslendirilişinde “1” yazılı olan ölçü ya da ölçüler at-
+lanır sadece “2” yazılı ölçü ya da ölçüler seslendirilir (Görsel 1.14).
+Görsel 1.13: Tekrar İşareti
+Görsel 1.14: Dolap
+Tablo 1.5: Gürlük Terimleri
+Gürlük Terimi Anlamı Sembolü
+Forte (forte) Kuvvetli
+Mezzo forte (mezzoforte) Orta kuvvette
+Fortissimo (fortisimo) Çok kuvvetli
+Piano (piyano) Hafif
+Mezzo piano (mezzo piyano) Orta hafiflikte
+Pianissimo (piyanissimo) Çok hafif
+Crescendo (kreşendo) Gittikçe kuvvetlenerek
+Decrescendo (dekreşendo) Gittikçe hafifleyerek
+fm ff fp mp pp
+& wwwwww w w w w w w
+fm ff fp mp pp
+& wwwwww w w w w w w
+fm ff fp mp pp
+& wwwwww w w w w w w
+fm ff fp mp pp
+& wwwwww w w w w w w
+fm ff fp mp pp
+& wwwwww w w w w w w
+fm ff fp mp pp
+& wwwwww w w w w w w
+fm ff fp mp pp
+& wwwwww w w w w w w
+fm ff fp mp pp
+& wwwwww w w w w w w
+™™
+ :Smf G: üiö :SGi gv yE yd :S GoMp :ç :ö
+f
+l:MG :p üi Eid
+nızyö:vı
+™™ ™™
+mef t: v:Ms rd e:Sp :ö oM ziM giMe yi Si Gç bM Gb üid
+5
+™™ ™™
+kbpp Gi gyMM yS yM py sbpg bM :e sb MySv ıl ö:Gz y Mid
+10
+™™ ™™
+mef t: v:Ms rd e:Sp :ö oM ziM giMe yi Si Gç bM Gb üid
+15
+44&
+şrdaBCyE:pBmzhyEBYmŞİL
+nbdiGaBnug:BşÜRmYYA
+VATANBnARŞI
+&
+&
+&
+œ™ œ ˙ œ œ™ œ ˙ œ œ œ œ œ œ œ™ œ ˙™
+œ™ œ ˙ œ œ ˙ œ œ œ œ œ œ œ™ œ ˙™
+œ™ œ ˙ œ œ b ˙ œ bœ œ bœ œ œ œ™ œ b˙™
+œ™ œ ˙ œ œ ˙ œ œ œ œ œ œ œ™ œ ˙™
+f YN çN ög Vhmğ vç vf ts fvçV hm gi sç ğdnı sö vi mk Vhça v
+ModeNFko
+nk zsnV vç kY Nç Ns fm ıv ekçi sç sn md şd
+55
+™™
+ıgç ls VN çN osV ık km vç kk mv çk
+1. 2.
+7
+™™
+ysçp adnu vm ıv akna sn sV vğ km ubm uv mk rslm sç
+11
+üknn kY admı sV sn ıv çv mvçğ vn nsş lv mvçu N
+15
+™™
+mvnö kç ös osç mvnö kç ös osç YN
+1. 2.
+18
+44&b
+%
+iüâliCM:lzö
+SIŞAC eRERCâMlâM
+MLŞİtACaFİtC :rSâüâr
+&b
+&b
+&b
+Fine
+&b
+&b
+%
+‰™ œr œ™™ œr œ™™ œr œ™ œ œ™ œ ˙ œ œ™ œ œ™ œ œ™ œ
+œ œ n™ œ œ ‰™ œr œ™™ œr œ™™ œr œ™ œ œ™ œ ˙
+œ œ™ œ nœ œ™ œ œ œ œ œ œ œ Œ
+˙ œ #œ œ n œ œ ˙ ˙ œ #œ™ œ nœ œ ˙
+˙ œ #™ œ œ™ œ œ™ œj œ n œ œ œ œ™ œ œ™ œ
+œ œ™ œ œ Œ œ œ™ œ œ ‰ œj
+f YN çN ög Vhmğ vç vf ts fvçV hm gi sç ğdnı sö vi mk Vhça v
+ModeNFko
+nk zsnV vç kY Nç Ns fm ıv ekçi sç sn md şd
+55
+™™
+ıgç ls VN çN osV ık km vç kk mv çk
+1. 2.
+7
+™™
+ysçp adnu vm ıv akna sn sV vğ km ubm uv mk rslm sç
+11
+üknn kY admı sV sn ıv çv mvçğ vn nsş lv mvçu N
+15
+™™
+mvnö kç ös osç mvnö kç ös osç YN
+1. 2.
+18
+44&b
+%
+iüâliCM:lzö
+SIŞAC eRERCâMlâM
+MLŞİtACaFİtC :rSâüâr
+&b
+&b
+&b
+Fine
+&b
+&b
+%
+‰™ œr œ™™ œr œ™™ œr œ™ œ œ™ œ ˙ œ œ™ œ œ™ œ œ™ œ
+œ œ n™ œ œ ‰™ œr œ™™ œr œ™™ œr œ™ œ œ™ œ ˙
+œ œ™ œ nœ œ™ œ œ œ œ œ œ œ Œ
+˙ œ #œ œ n œ œ ˙ ˙ œ #œ™ œ nœ œ ˙
+˙ œ #™ œ œ™ œ œ™ œj œ n œ œ œ œ™ œ œ™ œ
+œ œ™ œ œ Œ œ œ™ œ œ ‰ œj
+f YN çN ög Vhmğ vç vf ts fvçV hm gi sç ğdnı sö vi mk Vhça v
+ModeNFko
+nk zsnV vç kY Nç Ns fm ıv ekçi sç sn md şd
+55
+™™
+ıgç ls VN çN osV ık km vç kk mv çk
+1. 2.
+7
+™™
+ysçp adnu vm ıv akna sn sV vğ km ubm uv mk rslm sç
+11
+üknn kY admı sV sn ıv çv mvçğ vn nsş lv mvçu N
+15
+™™
+mvnö kç ös osç mvnö kç ös osç YN
+1. 2.
+18
+44&b
+%
+iüâliCM:lzö
+SIŞAC eRERCâMlâM
+MLŞİtACaFİtC :rSâüâr
+&b
+&b
+&b
+Fine
+&b
+&b
+%
+‰™ œr œ™™ œr œ™™ œr œ™ œ œ™ œ ˙ œ œ™ œ œ™ œ œ™ œ
+œ œ n™ œ œ ‰™ œr œ™™ œr œ™™ œr œ™ œ œ™ œ ˙
+œ œ™ œ nœ œ™ œ œ œ œ œ œ œ Œ
+˙ œ #œ œ n œ œ ˙ ˙ œ #œ™ œ nœ œ ˙
+˙ œ #™ œ œ™ œ œ™ œj œ n œ œ œ œ™ œ œ™ œ
+œ œ™ œ œ Œ œ œ™ œ œ ‰ œj
+Etkileşimli tahtaya yansıtabilirsiniz.
+Etkileşimli tahtaya yansıtabilirsiniz.
+Etkileşimli tahtaya yansıtabilirsiniz.

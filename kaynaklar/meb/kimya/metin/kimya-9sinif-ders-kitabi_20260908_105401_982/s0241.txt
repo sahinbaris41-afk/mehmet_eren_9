@@ -1,0 +1,38 @@
+241
+3. Tema/Sürdürülebilirlik
+Hidrojen atomunun çapı yaklaşık 0,1 nanometredir. Bu durumda 1 nanometre-
+lik bir uzunluğu elde edebilmek için ortalama on hidrojen atomunun yan yana 
+dizilmesi gerekir (Görsel 3.7). 
+1 nm
+1 nm
+Moleküller, atomların bir araya gelerek kovalent bağlarla bağlanmasıyla olu -
+şur. Örneğin bir su (H2O) molekülünün oluşması için iki hidrojen ve bir oksijen 
+atomu bir araya gelir ve bağ yapar. Her bir su molekülünün genişliği yaklaşık 
+1/4 nanometredir (Görsel 3.8).
+SI birim sistemindeki ölçü birimlerini içeren tabloyu inceleyerek soruları cevaplayınız.
+Uzunluk Birimi Sembolü Anlamı Değeri Üslü Gösterilişi
+Metre m Bir 1 10
+0
+Desimetre dm Onda bir 0,1 10
+−1
+Santimetre cm Yüzde bir 0,01 10
+−2
+Milimetre mm Binde bir 0,001 10
+−3
+Mikrometre µm Milyonda bir 0,000001 10
+−6
+Nanometre nm Milyarda bir 0,000000001 10
+−9
+Pikometre pm Trilyonda bir 0,000000000001 10
+−12
+1. Saç telinizin yaklaşık uzunluğunu (cm, mm) yazınız ve ölçümlerinizi nanometre birimine dönüştürünüz.
+ 
+2. Nanometre birimli bir cetvel kullanarak boyunuzu ölçmeyi tercih eder miydiniz? Hangi uzunluk birimleri-
+ni görmek için bir mikroskoba ihtiyaç duyarsınız?
+ 
+Görsel 3.7
+On hidrojen atomu 
+Görsel 3.8
+Yan yana dizilmiş dört 
+su molekülü
+Makrodan NanoyaEtkinlik-3.1

@@ -1,0 +1,24 @@
+79
+1. Tema /  Sayılar
+2.  Çim kaplanacak alanları bulurken işlemlerinizi kolaylaştıracak stratejileri belirleyiniz.
+3.  Belirlediğini z stratejileri kullanarak çim kaplanacak alanları hesaplayınız.
+4.  1. fiyat teklifi için 1 m 2 çim kaplama ücreti x Türk lirası, 2. fiyat teklifi için 1 m 2 çim kaplama ücreti y Türk 
+lirası olsun. İki durum için çim kaplama ücretini veren cebirsel ifadeleri yazınız.
+5.  Oluşturduğunuz cebirsel ifadeler yardımıyla 1 m 2 çim kaplama ücretlerini bularak Deniz Hanım’ın seçeceği 
+teklifi yazınız.
+24. ÖRNEK
+Kare şeklindeki bir tuval, yandaki gibi üç farklı renge boyanmıştır. Gri renkli 
+bölgenin alanı 169  dm2, mavi renkli bölgenin alanı 56  dm2 ve sarı renkli böl-
+genin alanı 2516  dm2 dir. Bu tuval için seçilecek bir çerçevenin bir kenar uzun-
+luğunun en az kaç dm olması gerektiğini bulunuz.
+Çözüm
+Kare tuvalin bir kenar uzunluğu 169 56 2516++  dm’dir. Kökün içindeki sayılar incelendiğinde ,169 43 2= dn
+25
+16
+5
+4 2
+= dn  ve 256 43 54$$=  olduğu görülür. Buradan kökün içi 43  ve 54  sayılarının toplamının 
+karesinin özdeşi olduğundan 169 56 2516 43 54 43 54 20312++ =+ =+ =dn  bulunur. Tuval için seçile-
+cek çerçevenin bir kenar uzunluğu, en az 2031  dm olmalıdır.
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

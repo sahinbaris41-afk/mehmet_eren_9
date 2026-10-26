@@ -1,0 +1,85 @@
+146
+2. Tema /  Nicelikler ve Değişimler
+ç) Güneş ve elektrik enerjisi ısıtma sistemlerinin toplam maliyetl erinin kaçıncı yılda eşitlendiğini bulmak için 
+ g(x) = 57 000 + 1600x ve e(x) = 21 000 + 5200x ifadeleri birbirine eşitlenerek elde edilen denklem çö-
+zülmelidir.
+ g(x) = e(x)      57 000 + 1600x = 21 000 + 5200x       57 000 - 21 000 = 5200x - 1600x
+                            36 000 = 3600x
+                                    x = 36 0003600  = 10 yıl bulunur.
+     x = 10 için   g(10) = e(10)  
+                         57 000 + 1600  10  = 21 000 + 5200  10 
+                               73 000 = 73 000 Türk lirası olur.
+d) c ve ç maddelerinde bulunan x = 10 değeri ve bu değere karşılık gelen g(10) = e(10) = 73 000 değeri, 
+hem grafikte hem de cebirsel çözümde aynı çıkmıştır. İstenen değerler, matematik yazılımı kullanıldı-
+ğında cebirsel çözüm yapılmadan doğrudan bulunabilmektedir. Böylece zamandan tasarruf edilmiş ve 
+işlem hatası yapmak gibi istenmeyen durumların önüne geçilmiş olur. Matematik yazılımını kullanma 
+imkânının olmadığı durumlarda cebirsel çözüm yapılarak da istenen değerler elde edilebilir.
+e)  Matematik yazılımında Giriş bölümüne sırasıyla g(0), e(0), g(5), e(5), g(10), e(10), g(15) ve e(15) 
+yazılıp Enter tuşuna basılır. Giriş bölümünde 0, 5, 10 ve 15 değerlerine karşılık gelen değerler yaza-
+caktır. Bu değerler b maddesinde bulunan değerlerle aynıdır.
+f)  Doğrusal ilişki içeren problemlerde doğrusal ilişki, bir doğrusal fonksiyonun cebirsel temsili olarak 
+ifade edilir. Elde edilen fonksiyonların cebirsel temsilinden yararlanılarak grafiği çizilir ve grafik yardı-
+mıyla problem çözülebilir.
+ Grafik çizilmeden cebirsel işlemler yapılarak problem çözülebilir. İki doğrusal fonksiyon birbirine eşitlenerek 
+çözümünden elde edilen x ve y değerleri, bu fonksiyonların grafiklerinin kesim noktasının koordinatlarıdır.
+g)  0-10 yıllık zaman dilimindeki kullanımda elektrik enerjisi ısıtma sistemi, güneş enerjisi ısıtma sistemine 
+göre daha ekonomiktir. Isıtma sistemlerinin toplam maliyetleri 10. yılda eşitlenmektedir. İlk 10 yıllık kul-
+lanım süresi sonunda elektrik enerjisi ısıtma sistemi daha ekonomiktir, 10 yıldan sonraki kullanımlarda 
+güneş enerjisi ısıtma sistemi daha ekonomiktir. 15 yıllık kullanım sonunda güneş enerjisi ısıtma siste-
+minin toplam maliyeti 81 000 Türk lirası, elektrik enerjisi ısıtma sisteminin toplam maliyeti 99 000 Türk 
+lirasıdır. Buna göre 15 yıllık kullanım sonunda güneş enerjisi ısıtma sisteminin daha ekonomik olduğu 
+söylenebilir.
+A a = 2α
+Giriş...
+0 1-1 2 3 4 5
+1
+2
+3
+5
+4
+a = G(0)
+= 21000
+b = E(0)
+= 57000
+c = G(5)
+= 47000
+d = E(5)
+= 65000
+Giriş...
+a = G(0)
+= 57000
+b = E(0)
+= 21000
+c = G(5)
+= 47000
+d = E(5)
+= 65000
+A a = 2α
+Giriş...
+0 1-1
+1
+2
+3
+5
+4
+a = G(0)
+= 21000
+b = E(0)
+= 57000
+c = G(5)
+= 47000
+d = E(5)
+= 65000
+Giriş...
+a = G(10)
+= 73000
+b = E(10)
+= 73000
+c = G(15)
+= 99000
+d = E(15)
+= 81000
+g g
+g g
+e e
+e e

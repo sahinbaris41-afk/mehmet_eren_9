@@ -1,0 +1,22 @@
+10
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+1.3. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI’NIN TEMA, ÖĞRENME ÇIKTISI SAYISI VE  
+        SÜRE TABLOLARI
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI SINIFLARA GÖRE TEMALAR
+Hazırlık Sınıfı 9. Sınıf 10. Sınıf 11. Sınıf 12. Sınıf
+Nicelikler ve               
+Değişimler Sayılar Sayılar Nicelikler ve              Değişimler Nicelikler ve               Değişimler
+Mantıksal Çıkarım Nicelikler ve              Değişimler Nicelikler ve               Değişimler Geometrik Şekiller Değişimin Matematiği
+Algoritma ve Bilişim Algoritma ve Bilişim Sayma, Algoritma ve Bilişim İstatistiksel Araştırma Süreci Geometrik Şekiller
+Geometrik Şekiller Geometrik Şekiller Geometrik Şekiller Geometrik Cisimler
+İstatistiksel Araştırma 
+Süreci Eşlik ve Benzerlik Analitik İnceleme Hazır Veriler Üzerinde Çalışma
+İstatistiksel Araştırma 
+Süreci
+İstatistiksel Araştırma 
+Süreci
+Veriden Olasılığa Veriden Olasılığa
+Tematik bir yaklaşımla hazırlanan Ortaöğretim Matematik Dersi Öğretim Programı hazırlık sınıfında haftalık 3 ders saati; 9, 10, 
+11 ve 12. sınıflarda ise haftalık 6 ders saati şeklinde planlanmıştır.  Programda her sınıf düzeyi için tema isimleri "Ortaöğretim 
+Matematik Dersi Öğretim Programı Sınıflara Göre Temalar" tablosunda gösterilmiştir. Sınıflarda temaların işleniş sırası, içer-
+diği öğrenme çıktısı sayıları ve temaların süreleri ise ayrı tablolar ile sunulmuştur.   

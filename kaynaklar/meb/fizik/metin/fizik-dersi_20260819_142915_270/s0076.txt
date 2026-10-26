@@ -1,0 +1,46 @@
+76
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ışının hareketine ilişkin çizimler yapmaları; nitelik sıralama, anlam çözümleme tablosu 
+veya sınıflandırma tablosu kullanılarak yakınsak ve ıraksak merceklerin benzer ve farklı 
+özelliklerini listelemeleri istenebilir. Hazırlanan çizim ve listelerin değerlendirilmesinde 
+dereceli puanlama anahtarından yararlanılabilir. Merceklerde farklı yerlerde olan cisim-
+lerin görüntülerinin özelliklerini içeren farklı türde sorulardan oluşan testi kullanarak de-
+ğerlendirme yapılabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede 
+kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin fen bilimleri dersinde geçen ışın, ışık ve aydınlanma kavramlarını bildiği, düzlem 
+ayna, küresel ayna ve mercekleri temel özelliklerine göre sınıflandırabildiği ve yansıma, kırılma 
+ve odak noktası kavramlarını bildiği kabul edilmektedir.  
+Ön Değerlendirme Süreci Işın, ışık ve aydınlanma kavramlarına ilişkin ve düzlem ayna, küresel ayna ve merceklerin 
+temel özellikleri hakkında sorular sorulabilir.  
+Köprü Kurma Günlük hayatta kullanılan düzlem ayna, küresel ayna, mercek ve optik araçlarla kurulan 
+sistemler arasında ilişki kurulabilir. 
+Öğrenme-Öğretme 
+Uygulamaları FİZ.11.3.1
+Öğretmen ışık şiddeti, ışık akısı ve aydınlanmanın ölçülebilen nicelikler olduğunu belirte-
+bilir. Öğretmen öğrencilere evde, okulda sınıf veya koridorlarda bulunan mevcut ışık kay-
+nakları ile daha fazla aydınlanmanın sağlanmasına ilişkin sorular sorarak aydınlanma kav-
+ramını öğrencilerin tartışmalarını sağlar (D16.2, D17.2, D19.4). Öğretmen sınıfa üzerinde 
+ampulün lümen değerinin yazılı olduğu bir ampul kutusu getirerek, lümen niceliğini gös-
+terip bu niceliğin anlamını sorabilir. Öğretmen, öğrencilere elektrik konusundaki ampulün 
+gücü ile enerjisi arasındaki ilişkiye yönelik ön bilgilerini hatırlatabilir. Püskürtme boya ve 
+kâğıt kullanarak analojik bir etkinlik yapabilir. Etkinlikte belli uzaklıklardan kâğıt üzerine 
+boya püskürtülerek boyanın kâğıt üzerinde oluşturduğu koyuluk gözlemlenebilir. Öğrenci-
+ler ışık şiddeti, ışık akısı ve aydınlanma kavramlarını tanımlar. Öğrenciler simülasyon veya 
+deney düzenekleri kullanarak bu kavramlarla ilgili veri setleri oluşturur veya öğretmen ha-
+zır veri setleri verebilir (KB2.12). Öğrenciler ışık şiddetinin ışık akısı ve aydınlanma kavram-
+ları ile ilişkisi ve bu kavramların bağlı olduğu etmenleri belirlemek için veri setlerini analitik 
+bakış açısıyla inceler (E3.6, OB7). Öğrenciler ışık şiddeti, ışık akısı ve aydınlanma kavram-
+larını bağlı oldukları etmenlere göre yorumlar ve değerlendirir (OB1). Öğretmen farklı veri 
+setleri üzerinden ışık akısı, ışık şiddeti ve aydınlanma hakkında açık uçlu sorulardan olu-
+şan bir çalışma kâğıdı kullanarak değerlendirme yapabilir. 
+FİZ.11.3.2
+Öğrenciler günlük hayatta veya geçmiş öğrenmelerinde karşılaştıkları bilgiyi kullanarak 
+düzlem aynada yansıma ve görüntü oluşumunun kurallarını açıklar (SDB1.1). Öğrenciler 
+öğretmen rehberliğinde gruplara ayrılarak performans görevi çerçevesinde düzlem ay -
+nalarda STEM yaklaşımına uygun bilgi temelli hayat problemi (E1.1) belirler (SDB3.3).   
+Problemin çözümüne ilişkin bir ürün veya model tasarlamak (SDB1.2) için bilgi toplar ve 
+sınırlılıklarını belirler. Öğrenciler modeller ile ilgili özgün ve yaratıcı (E3.3) fikirlerini çizim 
+yaparak (OB4) grup arkadaşları ile tartışırlar (SDB2.2). Grup üyeleri sorumluluklarını 
+yerine getirerek (SDB2.2) ortaklaşa karar verdikleri ürünü sınıf arkadaşlarına bir model

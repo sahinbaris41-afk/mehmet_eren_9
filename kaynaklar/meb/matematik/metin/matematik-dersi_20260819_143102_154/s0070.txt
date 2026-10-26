@@ -1,0 +1,48 @@
+70
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.9.5.1
+Ortaokulda önce işlemleri, ardından cebirsel ifadeleri algoritmik bir dille ifade etmeyi öğ -
+renen, algoritma oluşturma süreçlerinin gerektirdiği sistematik ve mantıksal düşünmeyi 
+deneyimleyen öğrencilerin bu sınıf seviyesinde algoritmik düşünme temelli problem çö -
+zebilmeleri beklenmektedir. Algoritma kelimesinin kökeni tartışılır ve kelimenin Batı dil -
+lerine Harizmi’nin isminin okunuşundan geçtiğine yer verilir. Böylece öğrencilerin kültürel 
+mirasa yönelik duyarlı olmaları sağlanır.
+Verilen bir görevin ya da problemin matematiksel temsili için liste, tablo, çizge, akış şema-
+sı oluşturma ile algoritmik doğal dil veya sözde kod yazma yöntemlerinden uygun olanlar 
+belirlenir (MAB3). Problem durumlarında verilen çizge, şifrelenmiş metin, kod öbeği gibi 
+temsiller ile algoritma arasında ilişkiler kurulur. Örneğin periyodik durumlar içeren (nöbet 
+tutma gibi) doğal sayı problemleri, asal çarpanlara ayırma, verilen iki sayının aralarında asal 
+olup olmadığını belirleme, ilk 100 doğal sayı içinden asal olanları tespit etme (Eratosthenes 
+kalburu), bölme algoritması, bilinen bölünebilme kurallarını algoritmik dille ifade etme gibi 
+görevlere yer verilir. Ayrıca en az deneme yaparak çözüm bulmayı gerektiren ve arama 
+algoritmalarının uygulaması olan problemler (aynı ebatlara sahip n tane madenî para için-
+den kütlesi farklı olan 1 tanesini en az tartımla bulma ya da akıldan tutulan bir doğal sayıyı 
+cevabı evet/hayır olan  en az sayıda soru ile bulma gibi) ele alınır. 
+Bilgi teknolojileri ve iletişimde mesajları şifrelemek için algoritmaların nasıl kullanılabile -
+ceği sorgulanır; metinlere, sayılara veya sembollere verilen sayısal değerlerle ikili siste -
+me (binary) dönüştürülmesi bir şifreleme örneği olarak ele alınır (E1.1). Çizge kuramının 
+temel kavramları olarak ayrıt (çizgi) ve düğüm (nokta) açıklandıktan sonra (çizge kuramı 
+ile ilgili teoremlere girilmeden ve çizge sınıflandırmaları yapılmadan) öğrencilerin çizgele-
+rin matematiksel problem çözmede etkili bir araç olarak nasıl kullanılabileceğine yönelik 
+fikir geliştirmesi sağlanır. Köprü kurmada incelenen Königsberg köprüsü probleminden 
+hareketle köprüler ayrıt, bölgeler düğüm kabul edilerek problem; bir çizge şeması ile 
+temsil edilir. El kaldırmadan çizilen şekiller, şehirleri birbirine bağlayan en kısa yol, toka -
+laşma sayısı, sosyal ağlarda bilginin yayılımı gibi problemlerde farklı bir çözüm yolu olarak 
+çizgelerin kullanılabileceği gösterilir (SDB3.2). Ayrıca bilgisayar bilimlerinin temelinde yer 
+alan ve çeşitli programlama dilleri kullanılarak yazılan kodların tümünün algoritmalardan 
+oluştuğuna ilişkin basit örnekler incelenir (MAB3). Sıkça kullanılan, bilinen program ya da 
+uygulamaların algoritmalarını (akış şemaları ya da sözde kodlarını) incelemek için araştır -
+ma ödevi verilebilir.
+Algoritma diline ait yapıların (doğal dil, akış şeması, sözde kod) problem durumlarında nasıl 
+kullanılacağı belirlenir. Örneğin verilen bir doğrusal fonksiyonun sıfırını bulmayı sağlayan 
+algoritmanın nasıl olabileceği tartışılır. Karşılaşılan problem durumlarındaki sözel, görsel 
+veya cebirsel temsillerin  algoritmik bir dile dönüştürülebilmesinde işlem adımlarının takip 
+edilmesi üzerinde durulur (MAB3). Bir gerçek yaşam problemine çözüm getiren basit bazı 
+programların  (kilo ve boy bilgileri girildiğinde vücut kitle indeksinin hesaplanması gibi) algo-
+ritmasını yazma (doğal dil ya da akış şeması)  veya verilen bir algoritmanın hangi problemin 
+çözümü olduğunu belirleme çalışmalarına yer verilir. Oluşturulan algoritmaların geçerliliği, 
+algoritmaya girilen değerlerden elde edilen çıktıların bir tabloya aktarılarak değerlendiril -
+diği algoritma testiyle sınanır. Benzer şekilde şifreleme ve çizge içeren problemlerdeki 
+algoritma örnekleri incelenir. Bilgisayar bilimlerinde sıkça kullanılan algoritmaların (sırala-
+ma, arama algoritmaları gibi) çözümlenmesine yönelik araştırma ödevi verilebilir. 

@@ -1,0 +1,22 @@
+26
+4. Tema / Eşlik ve Benzerlik
+11. Ölçüm bölümünden Açı aracını seçerek A''DA%  nın ve doğrular arasındaki EDG%  nın ölçülerini belirleyiniz.
+12. Tablo 2’nin ilk satırına 8, 10 ve 11. adımlarda yaptığınız ölçümleri yazınız. Daha sonra ABC üçgenini köşe -
+lerinden sürükleyiniz ve elde ettiğiniz değerleri tablonun ilgili kısımlarına not ediniz. Son olarak doğruların 
+kesim noktasını sürükleyiniz ve elde ettiğiniz değerleri tablonun ilgili kısımlarına yazınız.
+Tablo 2
+AA''  BB'' CC'' AD A'D A''D m A'' A D` j% Doğrular Arasındaki EDG%  nın Ölçüsü
+13. A'' noktası için İzi Göster özelliğini açınız. Doğrular üzerinde bulunan E veya F noktalarından birini sürük-
+leyerek A'' noktasının izini oluşturunuz. A'' noktasının izinin nasıl bir şekil oluşturduğunu yazınız. Oluşan 
+izi gözlemleyerek A noktasını A'' noktasına eşleştiren dönüşümün A noktasını nasıl hareket ettirdiğine ilişkin 
+varsayımlarınızı örnekteki gibi yazınız.
+ A noktasını A'' noktasına eşleyen dönüşüm, A noktasını doğrusal olarak hareket ettirmez.
+14.  '' AA7A , '' BB7 A , '' CC7 A  nın birbirlerine göre konumlarını, Tablo 2’ye yazdığınız değerleri ve 13. adımda A'' nokta-
+sının izinin oluşturduğu şekli değerlendirerek varsayımlarınızı arkadaşlarınızla tartışınız. Tartışma sonucunda 
+ulaştığınız genellemeleri örnekteki gibi yazınız.
+Bir şekle kesişen iki doğruya göre sırasıyla iki kez yansıma dönüşümü uygulandığında şekil üzerindeki nok-
+talar ile bu noktaların görüntülerinin birbirine uzaklıkları farklı olur.
+15. 7 ila 11. adımlarda yaptığınız işlem ve ölçümleri şekil üzerindeki farklı noktalar için de yapınız. 13. adımda 
+A'' noktası için oluşturduğunuz izi A''B''C'' üçgeninin diğer köşe noktaları için de oluşturunuz ve bu noktaların 
+izlerini gözlemleyiniz. Varsayımlarınızla genellemelerinizi karşılaştırınız. Genellemelerinizin şekil üzerindeki 
+farklı noktalar ve görüntüleri için doğru olup olmadığını gözlemlerinizden hareketle açıklayınız.

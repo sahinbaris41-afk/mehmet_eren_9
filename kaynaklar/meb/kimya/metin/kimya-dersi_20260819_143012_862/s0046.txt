@@ -1,0 +1,50 @@
+46
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Öğrenciler, yaptıkları çalışmayı öz değerlendirme formu ile değerlendirebilir (SDB1.2). Öğ-
+renciler performans görevi çerçevesinde gazların madde miktarı, hacmi, basıncı ve sıcak-
+lığı arasındaki ilişkileri ortaya koyacağı bir deneyi tasarlayabilir; uygulayabilir; raporlayabilir 
+ve göreve ilişkin kendi performansını değerlendirebilir (SDB1.2, E1.4).
+KİM.10.1.10
+Öğrenciler; Boyle, Charles ve Avogadro yasalarındaki hacmin (V) diğer tüm değişkenlerle 
+(P, T ve n) olan ikili ilişkilerini kullanarak örüntü oluşturmaları için yönlendirilir. Oluşturduk-
+ları örüntüden yararlanarak gazların tüm değişkenleri arasındaki ilişkiyi göstermek için 
+ideal gaz denklemi adı verilen genel bir eşitlik yazmaları öğrencilerden istenir. Bu ilişkideki 
+orantı sabitine ideal gaz sabiti (R) adı verildiği ifade edilir (OB4). Öğrenciler, ideal gaz denk-
+lemini test eder (OB4). Öğrenciler ideal gaz denkleminde değişkenler arasındaki ilişkileri 
+açıklar. Ayrıca ideal gaz denklemi ile ilgili hesaplamalara girilmez. Öğrencilerden çalışma 
+yaprağında verilen çeşitli problemleri ideal gaz denklemini kullanarak çözmeleri istenebi-
+lir.
+KİM.10.1.11
+Araba lastiklerindeki hava basıncının zamanla azalması gibi efüzyon; oda ya da araba par-
+fümlerinin ortama hoş koku vermesi, feromonların hava içinde yayılması sayesinde çok 
+uzaktaki hayvanların birbirini bulması vb. difüzyon örnekleri verilir. Verilen örneklerden ha-
+reketle öğrencilerden gaz taneciklerinin davranışlarını gazların kinetik moleküler teorisine 
+dayalı olarak açıklamaları istenir (OB7). Öğrencilerin gruplara ayrılmaları sağlanarak grup 
+çalışmasında uyumlu davranmaları ve etkili iletişim kurmaları desteklenir (D4.2). Grup 
+çalışması ile öğrencilerden gazların efüzyon ve difüzyonuna yönelik deney tasarlamaları 
+ve deneyi gerçekleştirmeleri istenir. Deney yapmanın araştırmacı ve sorgulayıcı olma -
+nın bir parçası olduğundan bahsedilerek çalışkanlık değeri vurgulanır (KB2.2, OB7, D3.2, 
+D3.4, E2.1). Öğrenciler, deney sonuçlarını günlük hayattaki efüzyon ve difüzyon olaylarını 
+açıklamak amacıyla kullanır (KB2.14, OB7, SDB2.2). Öğrenciler gazların farklı ortamlarda 
+yayılması sırasında difüzyon hızlarının sıcaklık ve mol kütlesi ile ilişkilerini ortaya koyaca -
+ğı bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Deney sonrasında elde ettikleri 
+sonuçlardan hareketle konunun günlük hayatla ilişkilendirilmesi sağlanabilir. Sürecin bü -
+tünü “öğrencilerin deney tasarım adımlarını takip ederek gazların difüzyon hızını etkileyen 
+faktörleri belirleyebilmeleri, faktörlerin birbiriyle ilişkisini açıklayabilmeleri, günlük hayat -
+la ilişki kurabilmeleri” ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. 
+Bu ölçekle hem öğrenci hem de öğretmen tarafından değerlendirme yapılabilir (SDB1.2). 
+Öğrencilere deney sürecinde zor durumlarla karşılaştıklarında alternatif çözümler üretip 
+üretmedikleri sorulabilir ve yeni bir durumla karşılaştıklarında yeni duruma nasıl uyum 
+sağladıklarıyla ilgili bir tartışma yaptırılabilir (SDB3.2).
+FARKLILAŞTIRMA
+Zenginleştirme Öğrenciler, “akıllı tepkime izleyici sistemi” geliştirebilir. Bu sistemin geliştirilmesinde çeşitli 
+kimyasal tepkimelerin gerçek zamanlı olarak izlenmesini sağlayacak sensörler ve gelişmiş 
+görüntüleme teknikleri kullanılabilir. Özellikle renk değişimi, enerji değişimi, gaz çıkışı gibi 
+göstergelerin izlenmesi üzerine odaklanılması sağlanabilir. Öğrenciler, yapay zekâ algorit-
+maları ile işlenen bu veriler sayesinde tepkime mekanizmalarını daha iyi anlayabilir. Ayrıca 
+yapay zekâ, tepkimelerin tahmin edilmesi ve analiz edilmesinde de kullanılabilir.
+*Öğrenciler, kimyasal tepkime türlerini öğretmek için kullanılabilecek bir sanal gerçeklik 
+(VR) deney seti geliştirebilir. Bu set; asit-baz, indirgenme-yükseltgenme gibi farklı tep -
+kime türlerini etkileşimli ve görsel olarak sunabilir. Böylece öğrenciler, sanal ortamda 
+tehlikeli kimyasal maddelerle doğrudan temas etmeden deney yapabilir ve tepkimelerin 
+sonuçlarını gözlemleyebilir. 

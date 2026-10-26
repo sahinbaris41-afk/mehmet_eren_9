@@ -1,0 +1,1008 @@
+{
+ "ders": "kimya",
+ "ders_adi": "Kimya",
+ "sinif": 9,
+ "haftalik_saat": 2,
+ "kaynaklar": {
+  "yillik_plan": "kaynaklar/yillik_plan/meb_taslak/kimya/kimya yp/2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN-KİMYA.xlsx [9. SINIF]",
+  "ksdt_1donem": "kaynaklar/meb/ortak_sinav/konu_soru_dagilim_2026_2027_1donem/kimya4.xlsx",
+  "ders_kitabi_metin": [
+   "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982"
+  ],
+  "haftalik_saat": "TTKB 09/05/2025 Anadolu Lisesi Haftalık Ders Çizelgesi"
+ },
+ "aciklama": {
+  "yazili": "1D1Y/1D2Y/2D1Y/2D2Y. 'KSDT' kaynaklılar resmî tablodan, diğerleri plan haftasından tahmin. Yönetmelik 45/1-d gereği her yazılı önceki konuları da azalan oranda kapsar.",
+  "kitap": "basili_* kitabın üzerinde yazan sayfa; pdf_baslangic metin klasöründeki sNNNN.txt numarası. Eşleşme içindekiler sayfasına kelime benzerliğiyle yapıldı."
+ },
+ "uretim": {
+  "arac": "tools/harita_uret.py",
+  "tarih": "2026-10-26"
+ },
+ "dogrula": [],
+ "uniteler": [
+  {
+   "id": "kimya-u1",
+   "ad": "ETKİLEŞİM",
+   "konular": [
+    {
+     "id": "kimya-u1-k1",
+     "ad": "Kimya Hayattır: Günlük Hayatta Kimya, Kimyanın Alt Disiplinleri, Kimya Alanında Kariyer Olanakları",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.1",
+       "metin": "Kimya biliminin günlük hayata katkısına ilişkin bilimsel çıkarım yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 18,
+      "pdf_baslangic": null,
+      "basili_bitis": 34,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      1
+     ],
+     "hafta_metin": "1. Hafta: 14-18 Eylül → 1. Hafta: 14-18 Eylül",
+     "ders_saati": 2,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        1,
+        1,
+        1,
+        1
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u1-k2",
+     "ad": "Kimyasal Maddelerin Kullanımı ve Güvenlik",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.2",
+       "metin": "Farklı ortamlarda kimyasal maddelerin kullanımından kaynaklanan problemleri çözebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 35,
+      "pdf_baslangic": 35,
+      "basili_bitis": 43,
+      "eslesme_puani": 0.75
+     },
+     "haftalar": [
+      2
+     ],
+     "hafta_metin": "2. Hafta: 21-25 Eylül → 2. Hafta: 21-25 Eylül",
+     "ders_saati": 2,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        1,
+        0,
+        1,
+        1,
+        1
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u1-k3",
+     "ad": "Atomdan Periyodik Tabloya: Atom Teorileri (Bohr Atom Teorisi, Modern Atom Teorisi) ve Atomun Yapısı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.3",
+       "metin": "Atom teorilerindeki varsayımları kullanarak bilimsel bilginin değişebilirliğine ilişkin bilimsel çıkarım yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 44,
+      "pdf_baslangic": null,
+      "basili_bitis": 45,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      3
+     ],
+     "hafta_metin": "3. Hafta: 28 Eylül-2 Ekim → 3. Hafta: 28 Eylül-2 Ekim",
+     "ders_saati": 2,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u1-k4",
+     "ad": "Atom Teorileri (Bohr Atom Teorisi, Modern Atom Teorisi) ve Atomun Yapısı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.3",
+       "metin": "Atom teorilerindeki varsayımları kullanarak bilimsel bilginin değişebilirliğine ilişkin bilimsel çıkarım yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 46,
+      "pdf_baslangic": null,
+      "basili_bitis": 53,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      4
+     ],
+     "hafta_metin": "4. Hafta: 5-9 Ekim → 4. Hafta: 5-9 Ekim",
+     "ders_saati": 2,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u1-k5",
+     "ad": "Atom Orbitalleri ve Elektron Dizilimi",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.4",
+       "metin": "Atom orbitallerinin bağıl enerjilerine ilişkin bilimsel veriye dayalı tahminde bulunabilme"
+      },
+      {
+       "kod": "9.1.5",
+       "metin": "Elektronların atom orbitallerine yerleşimine ilişkin tümevarımsal akıl yürütebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 54,
+      "pdf_baslangic": null,
+      "basili_bitis": 66,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      5,
+      6,
+      7
+     ],
+     "hafta_metin": "5. Hafta: 12-16 Ekim → 7. Hafta: 26-30 Ekim",
+     "ders_saati": 6,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        2,
+        2,
+        2,
+        1,
+        2
+       ],
+       [
+        1,
+        1,
+        0,
+        0,
+        1
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+       ],
+       [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u1-k6",
+     "ad": "Periyodik Tabloda Yer Bulma",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.6",
+       "metin": "Elementlerin periyodik tablodaki yerlerine ilişkin tümevarımsal akıl yürütebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 67,
+      "pdf_baslangic": 67,
+      "basili_bitis": 77,
+      "eslesme_puani": 0.67
+     },
+     "haftalar": [
+      8
+     ],
+     "hafta_metin": "8. Hafta: 2-6 Kasım → 8. Hafta: 2-6 Kasım",
+     "ders_saati": 2,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası zayıf eşleşme (kapsama 0.67)"
+     ]
+    },
+    {
+     "id": "kimya-u1-k7",
+     "ad": "Periyodik Özellikler (Atom Yarıçapı, İyonlaşma Enerjisi ve Elektronegatiflik)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.7",
+       "metin": "İyon oluşumuna ilişkin tümevarımsal akıl yürütebilme"
+      },
+      {
+       "kod": "9.1.8",
+       "metin": "Elementlerin periyodik özelliklerinin periyodik tablodaki değişimini çözümleyebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 78,
+      "pdf_baslangic": null,
+      "basili_bitis": 105,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      9,
+      10,
+      11
+     ],
+     "hafta_metin": "9. Hafta: 9-13 Kasım → 11. Hafta: 30 Kasım-4 Aralık",
+     "ders_saati": 6,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ],
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ],
+       [
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "kimya-u2",
+   "ad": "ÇEŞİTLİLİK",
+   "konular": [
+    {
+     "id": "kimya-u2-k1",
+     "ad": "Etkileşimler: Metalik Bağ",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.1",
+       "metin": "Metalik bağın oluşumuna yönelik tümevarımsal akıl yürütebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 106,
+      "pdf_baslangic": 106,
+      "basili_bitis": 113,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      12
+     ],
+     "hafta_metin": "12. Hafta: 7-11 Aralık → 12. Hafta: 7-11 Aralık",
+     "ders_saati": 2,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u2-k2",
+     "ad": "İyonik Bağ",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.2",
+       "metin": "İyonik bağın oluşumunu bilimsel gözleme dayalı tahmin edebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 114,
+      "pdf_baslangic": 114,
+      "basili_bitis": 131,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      13,
+      14
+     ],
+     "hafta_metin": "13. Hafta: 14-18 Aralık → 14. Hafta: 21-25 Aralık",
+     "ders_saati": 4,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u2-k3",
+     "ad": "Kovalent Bağ",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.3",
+       "metin": "Kovalent bağ oluşumunu bilimsel gözleme dayalı tahmin edebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      15,
+      16
+     ],
+     "hafta_metin": "15. Hafta: 28 Aralık -1Ocak → 16. Hafta: 4-8 Ocak",
+     "ders_saati": 4,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "kimya-u2-k4",
+     "ad": "Lewis Nokta Yapısı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.4",
+       "metin": "Moleküllerin Lewis nokta yapısına ilişkin çıkarımda bulunabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 132,
+      "pdf_baslangic": 132,
+      "basili_bitis": 135,
+      "eslesme_puani": 0.67
+     },
+     "haftalar": [
+      17
+     ],
+     "hafta_metin": "17. Hafta: 11-15 Ocak → 17. Hafta: 11-15 Ocak",
+     "ders_saati": 2,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası zayıf eşleşme (kapsama 0.67)"
+     ]
+    },
+    {
+     "id": "kimya-u2-k5",
+     "ad": "Molekül Polarlığı ve Apolarlığı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.5",
+       "metin": "Molekülleri polar ya da apolar olarak sınıflandırabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 136,
+      "pdf_baslangic": 136,
+      "basili_bitis": 138,
+      "eslesme_puani": 0.67
+     },
+     "haftalar": [
+      19
+     ],
+     "hafta_metin": "19. Hafta: 8-12 Şubat → 19. Hafta: 8-12 Şubat",
+     "ders_saati": 2,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası zayıf eşleşme (kapsama 0.67)"
+     ]
+    },
+    {
+     "id": "kimya-u2-k6",
+     "ad": "Bileşiklerin Adlandırılması",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.6",
+       "metin": "Bileşikleri adlandırma kurallarına ilişkin tümdengelimsel akıl yürütebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 139,
+      "pdf_baslangic": 139,
+      "basili_bitis": 144,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      20
+     ],
+     "hafta_metin": "20. Hafta: 15-19 Şubat → 20. Hafta: 15-19 Şubat",
+     "ders_saati": 2,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u2-k7",
+     "ad": "Etkileşimden Maddeye: Moleküller Arası Etkileşimler",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.7",
+       "metin": "Moleküller arası etkileşimleri sınıflandırabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 145,
+      "pdf_baslangic": 145,
+      "basili_bitis": 158,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      21,
+      22
+     ],
+     "hafta_metin": "21. Hafta: 22-26 Şubat → 22. Hafta: 1-5 Mart",
+     "ders_saati": 4,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u2-k8",
+     "ad": "Katılar ve Özellikleri (Amorf ve Kristal Katılar)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.8",
+       "metin": "Etkileşimlerin katıların özellikleri üzerindeki etkilerine ilişkin bilimsel çıkarım yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 159,
+      "pdf_baslangic": 159,
+      "basili_bitis": 174,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      23
+     ],
+     "hafta_metin": "23. Hafta: 15-19 Mart → 23. Hafta: 15-19 Mart",
+     "ders_saati": 2,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u2-k9",
+     "ad": "Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve Kohezyon Kuvvetleri, Yüzey Gerilimi)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.9",
+       "metin": "Sıvıların buhar basıncını etkileyen faktörlere ilişkin hipotez oluşturabilme"
+      },
+      {
+       "kod": "9.2.10",
+       "metin": "Sıvıların kaynama sıcaklığını etkileyen faktörleri belirlemeye yönelik kanıt kullanabilme"
+      },
+      {
+       "kod": "9.2.11",
+       "metin": "Sıvıların viskozitesini etkileyen faktörlere ilişkin bilimsel gözlem yapabilme"
+      },
+      {
+       "kod": "9.2.12",
+       "metin": "Adezyon ve kohezyon kuvvetlerinin sıvıların özellikleri üzerindeki etkilerine ilişkin bilimsel çıkarım yapabilme"
+      },
+      {
+       "kod": "9.2.13",
+       "metin": "Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin bilimsel sorgulama yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 175,
+      "pdf_baslangic": 175,
+      "basili_bitis": 233,
+      "eslesme_puani": 0.67
+     },
+     "haftalar": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+     ],
+     "hafta_metin": "24. Hafta: 22-26 Mart → 31. Hafta: 10-14 Mayıs",
+     "ders_saati": 16,
+     "yazili": [
+      "2D1Y",
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası",
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası zayıf eşleşme (kapsama 0.67)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kimya-u3",
+   "ad": "SÜRDÜRÜLEBİLİRLİK",
+   "konular": [
+    {
+     "id": "kimya-u3-k1",
+     "ad": "Nanoparçacıklar ve Ekolojik Sürdürülebilirlik: Metal Nanoparçacıklar",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.3.1",
+       "metin": "Evsel atıklardan metal nanoparçacık elde etmek üzere deney yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 234,
+      "pdf_baslangic": 234,
+      "basili_bitis": 237,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      32
+     ],
+     "hafta_metin": "32. Hafta: 17-21 Mayıs → 32. Hafta: 17-21 Mayıs",
+     "ders_saati": 2,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u3-k2",
+     "ad": "Metal Nanoparçacıklar",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.3.1",
+       "metin": "Evsel atıklardan metal nanoparçacık elde etmek üzere deney yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 238,
+      "pdf_baslangic": 238,
+      "basili_bitis": 247,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      33
+     ],
+     "hafta_metin": "33. Hafta: 24-28 Mayıs → 33. Hafta: 24-28 Mayıs",
+     "ders_saati": 2,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "kimya-u3-k3",
+     "ad": "Yeşil Kimyanın Atık Önleme İlkesi, Metal, Alaşım ve Metal Nanoparçacıkların Çevresel Etkileri",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.3.2",
+       "metin": "Metal, alaşım ve metal nanoparçacıkların ekosistemdeki etkilerine ilişkin problem çözebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/kimya/metin/kimya-9sinif-ders-kitabi_20260908_105401_982",
+      "basili_baslangic": 248,
+      "pdf_baslangic": 248,
+      "basili_bitis": null,
+      "eslesme_puani": 0.8
+     },
+     "haftalar": [
+      34,
+      35
+     ],
+     "hafta_metin": "34. Hafta: 31 Mayıs-4 Haziran → 35. Hafta: 7-11 Haziran",
+     "ders_saati": 4,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+96
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+4. ÜNİTE: MADDE VE DOĞASI
+Bu ünitede öğrencilerin modern fiziğin temelini oluşturan Planck sabitinin etkisini siyah 
+cisim ışıması olgusu üzerinden sorgulamaları, fotoelektrik etki ve foton kavramına ilişkin 
+akıl yürütmeleri, fotoelektrik etkinin uygulamaları, yarı iletkenler ve süper iletkenlerin kul-
+lanım alanları ve önemi konusunda sorgulama yapmaları, standart modelin bileşenlerini 
+çözümleyerek Modern Atom Teorisi ile ilgili bilgileri yapılandırmaları amaçlanmaktadır.
+DERS SAATİ 34
+ALAN 
+BECERİLERİ -
+KA VRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.8. Sorgulama, KB2.13. Yapılandırma, KB2.16. Muhakeme (Akıl 
+Yürütme) (KB2.16.1. Tümevarımsal Akıl Yürütme)
+EĞİLİMLER E2.2. Sorumluluk, E2.5. Oyunseverlik, E3.5. Açık Fikirlilik, E3.8. Soru Sorma, E3.10. Eleş-
+tirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.3 Sorumlu Karar 
+Verme
+Değerler D3. Çalışkanlık, D4. Dostluk, D5. Duyarlılık, D9. Merhamet, D10.Mütevazılık, D13. Sağlıklı 
+Yaşam, D15. Sevgi, D17. Tasarruf
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Gör -
+sel Okuryazarlık, OB5. Kültür Okuryazarlığı, OB7. Veri Okuryazarlığı, OB8. Sürdürülebilirlik 
+Okuryazarlığı, OB9. Sanat Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Görsel Sanatlar, Kimya, Matematik, Tarih
+BECERİLER ARASI 
+İLİŞKİLER KB2.6. Bilgi Toplama, KB2.9. Genelleme, KB2.16.2. Tümdengelimsel Akıl Yürütme, KB3.3. 
+Eleştirel Düşünme

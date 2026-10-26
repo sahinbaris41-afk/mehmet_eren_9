@@ -1,0 +1,40 @@
+230
+4. ÜNİTE 
+9. Çizdiğiniz grafikler üzerinden bir maddenin tamamen hâl değiştirmesi için gereken ısının maddenin kütlesi 
+ve cinsiyle ilişkisini açıklayınız. Bu ilişkinin matematiksel modeline dair bir önerme sununuz. 
+Büyüklükler Arası İlişkiler Açıklama
+Maddenin tamamen hâl değiştirmesi için gereken 
+ısının maddenin kütlesiyle ilişkisi
+Maddenin tamamen hâl değiştirmesi için gereken 
+ısının maddenin cinsiyle ilişkisi
+Matematiksel Model
+10. Hâl değişimini etkileyen niteliklerle ilgili topladığınız verileri önerdiğiniz matematiksel modeli kullanara k 
+değerlendiriniz. Ulaştığınız sonucu tabloya yazınız ve bilimsel bilgiler ışığında deneyinizden beklenen so ­
+nuçla karşılaştırınız.
+Bilgi Deneyden Beklenen Sonuç Matematiksel Modelinizi Kullanarak Ulaştığınız Sonuç 
+Buzun 1 g’ını eritmek için 
+yaklaşık 334 J ısı gerekir.
+200 g buzun tamamını eritmek için 
+gereken ısı, 100 g buzu eritmek için 
+gereken ısının iki katıdır. 
+Bal mumunun 1 g’ını eritmek 
+için yaklaşık 168 J ısı gerekir. 
+200 g bal mumunun tamamını 
+eritmek için gereken ısı, 100 g bal 
+mumunu eritmek için gereken ısının 
+iki katıdır. 
+Buzun 1 g’ını eritmek için 
+gereken ısıyla bal mumunun 
+yaklaşık 2 g’ı eritilebilir.
+100 g buzu tamamen eritmek için 
+gereken ısıyla 200 g bal mumunun 
+tamamı eritilebilir. 
+11. Deneyden beklediğiniz sonuç ile önerdiğiniz matematiksel modeli kullanarak ulaştığınız sonuç arasında 
+farklılık var mı? Varsa bu farklılık neden kaynaklanmış olabilir? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Değerlendirme 
+1. Buz pateni sporcuları, ayaklarına paten giyerek buz pistine çıkarlar. Patenci buz üstünde kayarken patenin 
+buza temas ettiği kısımlarda buz erir, buzda yarıklar oluşur ve paten bu yarıkların içinden ilerler. Patenci bu 
+bölgeden geçtikten hemen sonra buz tekrar donarak eski hâline gelir. 
+Patenin buza temas ettiği kısımlardaki buzların erimesinin nedeni nedir? Gerekçeleriyle açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       

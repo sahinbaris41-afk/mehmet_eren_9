@@ -1,0 +1,51 @@
+29
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+elde ettikleri sonuçları öğretmenin verdiği metin ile ilişkilendirerek bir araştırma raporu 
+biçiminde hazırlayıp sunmaları istenebilir. 
+FİZ.9.3.6
+Öğrenciler, kaldırma kuvveti ile ilgili yaptıkları deneyden elde ettikleri verileri yorumlaya-
+rak kaldırma kuvvetinin büyüklüğü ile yer değiştiren sıvının ağırlığının büyüklüğü arasında-
+ki ilişkiye dair mevcut bilgisi dâhilinde hipotez kurar. Deneyden elde ettikleri verilerle kal-
+dırma kuvvetinin matematiksel modeline ulaşır (OB7). Matematiksel model pekiştirilirken 
+modeldeki nicelikler arasındaki orantısal ilişkilerle sınırlı kalınır. Öğrenciler, sıvı basıncı ve 
+kaldırma kuvveti arasındaki ilişkiyi fark edebilecekleri görsel veya dijital içeriklerden yarar-
+lanarak kaldırma kuvveti ve sıvı basıncına ait matematiksel modelleri karşılaştırır. Bu kar-
+şılaştırmada sıvılardaki kaldırma kuvveti ile sınırlı kalınır. Öğrenciler karşılaştırmalardan 
+elde ettikleri bilgiyi kullanarak kaldırma kuvveti ile sıvılardaki basınca neden olan kuvvet 
+arasındaki ilişkiye dair önermelerde bulunurlar. Öğrencilere Arşimet İlkesi’ni pekiştirmele-
+ri için Türkiye’nin millî çıkarları doğrultusunda geliştirdiği (D19.3) gemi, denizaltı gibi deniz 
+araçları üzerinden kaldırma kuvvetinin uygulamaları hakkında bilgilendirici bir metin veri-
+lir. Görsellerle desteklenen bu araçların Türkiye’nin ekonomik kalkınması için tasarruf ve 
+yatırım stratejileri kapsamında geliştirildiği belirtilir (OB3). Denizlerdeki plastik atıklardan 
+kaynaklanan kirliliğin oluşturduğu çöp adaları hakkında görsel ögeler kullanılarak öğren-
+cilere bilgi verilir. Bu plastik atıkların suyun yüzeyinde kaldırma kuvvetinden dolayı yüzdü-
+ğü vurgulanır. Öğrencilerden beyin fırtınası tekniği ile topluma olumlu katkıda bulunmak 
+için bu atık sorununa kaldırma kuvvetinden yararlanarak çözüm üretmeleri (D5.2, D9.3, 
+D18.3, OB8, SDB2.3) istenir. Öğrenciler, verilen örneklerden yararlanarak kaldırma kuvveti 
+ile ilgili yaptıkları deneyden elde ettikleri verileri Arşimet İlkesi kapsamında değerlendirir. 
+Öğrenciler, kaldırma kuvvetinin bağlı olduğu değişkenler ve kaldırma kuvvetinin sıvılarda-
+ki basınca neden olan kuvvet  ile ilişkisine dair bir çalışma yaprağı ile değerlendirilebilir.
+FİZ.9.3.7
+Öğretmen konunun anlatımında tahmin et-gözle-açıkla tekniğini kullanabilir. Öğrenciler -
+den akışkanların geçtiği borunun kesit alanının azaltılması ile akış süratinde oluşan deği-
+şimi tahmin etmelerini isteyebilir. Öğrencilerin akış modelini görsel veya dijital içerikler 
+(OB2) ve gösteri deneyinden yararlanarak gözlemlemesi sağlanır. Görsel veya dijital içe-
+riklerde bahçe hortumundan akan suyun hortumun ucu sıkıldığında akış süratinin değiş-
+tiği örneği verilebilir. Saç kurutma makinesi ile masa tenisi topunun havada tutulduğu bir 
+gösteri deneyi yapılabilir. Öğrenciler tahmin ve gözlem sonuçlarını karşılaştırarak gerek -
+çelendirebilir (E1.6). Düşüncelerini sınıf ortamında düşün-eşleş-paylaş veya vızıltı grupları 
+gibi tartışma teknikleri ile ifade ederek (SDB2.1) tartışır (SDB2.2). Akışkanın geçtiği bo-
+runun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiyi 
+belirler. Akışkanın sürati ile akışkanın basıncı arasında tespit ettikleri ilişkiyi genelleyerek 
+Bernoulli İlkesi’ne ulaşırlar (OB7). Öğretmen, öğrencilerin verilen örnekleri Bernoulli İlkesi 
+ile açıklamalarına rehberlik eder. Öğrencilere; rüzgârlı havalarda çatıların uçması, sprey 
+püskürtücülerde sıvının yükselmesi, hızla hareket eden araçların yakınındaki nesneleri 
+çekmesi, yelkenlilerin rüzgâra karşı gidebilmesi, yarış arabalarının aerodinamiğe uygun 
+olarak tasarlanması gibi olaylar ve durumlar örnek olarak verilir. Öğrenciler Bernoulli İl-
+kesi’ne ilişkin verilen örneklerin amaca göre (havaya kaldırma, havalanmasını engelleme, 
+yön değiştirme vb.) ortak olan ve olmayan özelliklerini farklı bakış açılarını dikkatle dinle-
+yerek (SDB2.3) belirler (D3.3, E3.10, OB2). Akışkanın sürati ile basıncı arasındaki ilişkiyi bu 
+örnekler üzerinden geneller (KB2.9, KB2.15). Uçakların havalanması ve uçmasında yalnız-
+ca Bernoulli İlkesi'nin etkili olmadığı vurgulanır. Bu ilkeye ilişkin genelleme, kavramsal ola-
+rak verilir ve matematiksel modelden kaçınılır. Öğrenciler, akışkanların sürati ile basıncı 
+arasındaki ilişkiye yönelik bir çalışma yaprağı aracılığıyla değerlendirilebilir.

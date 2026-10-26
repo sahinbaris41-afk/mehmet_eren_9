@@ -1,0 +1,49 @@
+107
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Rasyonel referans fonksiyondan türetilen fonksiyonların  gerçek yaşam durumlarında ters 
+orantıyla olan ilişkisini incelemek için verilen araştırma ödevi; hazırlık, içerik ve sunum süreç -
+lerini içine alan derecelendirme ölçeği kullanılarak değerlendirilebilir.
+Karesel, karekök ve rasyonel referans fonksiyonlardan türetilen fonksiyonların grafik ya da ce-
+birsel temsili ile bu fonksiyonların ters fonksiyonunun grafik ya da cebirsel temsili arasındaki 
+ilişkilere dair verilen çalışma kâğıdı, analitik dereceli puanlama anahtarı ile değerlendirilebilir. 
+Bu konuda verilen matematiksel araç ve teknoloji kullanımına ilişkin performans görevi, içerik 
+ve sunum süreçlerini içine alan derecelendirme ölçeğiyle değerlendirilebilir. 
+Doğrusal, karesel, karekök, rasyonel referans fonksiyonlardan ve bu fonksiyonlardan türetilen 
+fonksiyonlardan elde edilen denklem ve eşitsizliklerin kullanıldığı,  gerçek yaşam problemle -
+ri içeren, öğrencilerin matematiksel modelleme yapabilme becerilerini geliştirmelerine katkı 
+sağlayacak proje ödevi verilebilir. Ödevin  değerlendirilmesinde hazırlık, içerik ve sunum sü -
+reçlerini içine alan derecelendirme ölçeği kullanılabilir.
+Rasyonel referans fonksiyondan türetilen fonksiyonlar ve bu fonksiyonların nitel özelliklerine 
+ilişkin önermeler için matematiksel doğrulama ve ispat yapmayı gerektiren çalışma kâğıdı ve-
+rilebilir. Ortaya konan veriler, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalış -
+ma sonunda öğrenciler, öz değerlendirme formuyla kendi performanslarını değerlendirebilir. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin üslü ve köklü ifadelerle işlemler yapabildikleri, cebirsel ifadelerde iki kare 
+farkı ve tamkare özdeşliklerini kullanabildikleri, cebirsel ve grafik temsilleri üzerinden 
+doğrusal referans fonksiyonu ve bu fonksiyondan türetilen fonksiyonların nitel özellik -
+lerini inceleyebildikleri, cebirsel veya grafik temsili verilen doğrusal fonksiyonların nitel 
+özelliklerine dair çıkarımlar yapabildikleri, doğrusal referans fonksiyona dönüşümler uy -
+gulayarak farklı doğrusal fonksiyonlar türetebildikleri, doğrusal referans fonksiyondan 
+türetilen fonksiyonların cebirsel ve grafik temsili arasında geçiş yapabildikleri kabul edil -
+mektedir.
+Ön Değerlendirme Süreci Öğrencilere üslü ve köklü ifadelerle, özdeşliklerle ilgili işlem becerilerini ölçmeye yönelik ha -
+zır bulunuşluk testi yapılabilir. Gerçek yaşam durumu örnekleri üzerinden  doğrusal referans 
+fonksiyon ve bu fonksiyondan türetilen fonksiyonların nitel özellikleri incelenebilir. Öğrencile-
+rin doğrusal referans fonksiyondan türetilen fonksiyonların nitel özelliklerine ilişkin öğrenme 
+eksiklikleri, açık uçlu sorular sorularak belirlenebilir. Öğrencilerin doğrusal referans fonksiyo-
+na dönüşümler uygulayarak farklı doğrusal fonksiyonlar türetebilmesine ve doğrusal referans 
+fonksiyondan türetilen fonksiyonların cebirsel ve grafik temsili arasında geçiş yapabilmesine 
+dair becerilerinin, kavram yanılgılarının, ilgi ve ihtiyaçlarının belirlenmesi amacıyla hazır bulu-
+nuşluk testi yapılabilir. 
+Köprü Kurma Gerçek yaşamda karşılaşılan durumlar  içerisinden fizikteki serbest düşme, köprü halatları -
+nın parabolik yapısı ve birtakım mimari yapılardaki eğriler  incelenerek doğrusal fonksiyonlar 
+dışında bu durumları modelleyen fonksiyonların olup olmayacağı tartışılabilir. Doğrusal fonk-
+siyonların grafik temsili dışında farklı fonksiyonların cebirsel ve grafik temsilleri  hakkında 
+öğrencilerin fikir yürütmeleri istenebilir. Gerçek yaşamda karşılaşılan iki nicelik arasındaki 
+doğrusal olmayan ilişkiler grafik ve tablo üzerinden incelenerek farklı fonksiyon temsillerine 
+olan ihtiyacı öğrencilerin fark etmeleri sağlanabilir. Örneğin bir şirketin kampanya yaparken 
+elde edebileceği gelire ilişkin olarak en yüksek gelirin nasıl hesaplanabileceği tartışılabilir. Bu 
+noktada en yüksek gelir değeri matematiksel araç ve teknolojilerden (elektronik tablolar gibi) 
+yararlanılarak grafik ve tablo yöntemiyle incelenebilir. Bunun gibi doğrusal olmayan fonksi -
+yonların nasıl tanımlanabileceği ve nitel özelliklerinin neler olabileceği tartışılabilir. 

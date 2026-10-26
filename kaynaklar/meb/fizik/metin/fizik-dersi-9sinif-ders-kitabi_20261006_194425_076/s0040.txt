@@ -1,0 +1,55 @@
+40
+1. ÜNİTE 
+Türkiye’de ve dünyada bilim ve teknoloji alanında faaliyet gösteren kurum 
+veya kuruluşlarda fizik bilimi ile ilgili çalışmalar yapılmaktadır. Bu kurum ve 
+kuruluşlardan başlıcaları; TÜBİTAK (Türkiye Bilimsel ve Teknolojik Araştırma 
+Kurumu), TENMAK (Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu), 
+MTA (Maden Tetkik ve Arama Genel Müdürlüğü), TUA (Türkiye Uzay Ajansı), 
+ASELSAN (Askerî Elektronik Sanayi), CERN (Avrupa Nükleer Araştırma Mer-
+kezi), NASA (Amerika Ulusal Havacılık ve Uzay Dairesi), ESA’dır (Avrupa 
+Uzay Ajansı).
+TÜBİTAK (Görsel 1.9); Türkiye’de bilim ve teknoloji alanında akademik ve 
+endüstriyel araştırma geliştirme çalışmalarını desteklemek, teşvik etmek, 
+özendirmek ve koordine etmek için kurulmuştur. Bilim ve teknoloji alanında 
+kitap, dergi gibi yayınları vardır. AR-GE çalışmaları için burs, ödül, proje fonları 
+sağlamaktadır. Bu kurumda fizik alanında uzmanlaş mış bilim insanları; temel 
+ve uygulamalı araştırmalar yapmakta, yeni teknolojiler geliştirmektedir.
+TENMAK (Görsel 1.10) ; enerji, maden, iyonlaştırıcı radyasyon, parçacık 
+hızlandırıcılar ve nükleer teknoloji alanlarında çalışmalar yapmaktadır. Bu 
+kurumda uzmanlaşmış fizikçiler; nükleer enerji santralleri ile ilgili tasarım, 
+işletim ve güvenlik üzerine çalışmalarda bulunmaktadır. Bunun yanı sıra 
+radyasyondan korunma, radyoaktif atık yönetimi gibi konularda araştırmalar 
+yürütmektedir.
+MTA (Görsel 1.11); Türkiye’de yer bilimleri ve madencilik alanında arama, 
+araştırma, analiz ve altyapı çalışmaları yapılması amacıyla kurulmuştur. 
+MTA’da maden ve enerji arama faaliyetleri, jeoloji ve jeofizik çalışmaları, deniz 
+araştırmaları yapılmaktadır. Doğal kaynakları arama çalışmalarında yer kabu-
+ğunun jeolojik özellikleri de araştırılarak doğal afet risklerinin belirlenmesine 
+yönelik veriler elde edilmektedir.
+TUA (Görsel 1.12), uzay ve havacılık bilimi ve teknolojileri ile ilgili bugünün 
+gereklerine uygun şekilde çalışmalar gerçekleştiren bir devlet kuruluşudur. 
+Türkiye’nin bilgi, tecrübe ve teknoloji aktarımını artırarak uzay ve havacılık 
+teknolojileri alanında önde gelen ülkeler arasında yer alması TUA’nın hedef-
+lerindendir. TUA, bu hedefler doğrultusunda uzayla ilgili araştırma ve uygula-
+malar yapabilecek nitelikli insan kaynağını ve uzay ekosistemini geliştirmek 
+için çalışmalar yapmaktadır. Bu bağlamda uzay ve havacılık teknolojileri ile 
+ilgili bölgesel veya uluslararası oluşum ve kuruluşlara üyelikleri ve uluslararası 
+iş birliklerini değerlendirmektedir. Kurulduğu günden bugüne kadar 20 ülke, 
+5 uluslararası şirket, 7 uluslararası kurum ve kuruluşla iş birliği çalışmaları 
+yapmıştır.
+ASELSAN (Görsel 1.13), Türk Silahlı Kuvvetlerinin haberleşme ihtiyaçlarının 
+millî imkânlarla karşılanması için 1975 yılında kurulmuştur. ASELSAN’da 
+haberleşme ve bilgi teknolojileri, radar ve elektronik harp, insansız sistemler; 
+kara, deniz ve silah sistemleri, hava savunma ve füze sistemleri, komuta kont-
+rol sistemleri; ulaştırma, güvenlik, trafik, otomasyon ve sağlık teknolojilerine 
+yönelik ürünlerle ilgili çalışmalar yapılmaktadır. ASELSAN’da birçok uzmanlık 
+alanında 10.000’e yakın çalışan vardır. Uzmanlaşmış fizikçiler ve fizik mühen-
+disleri de bu çalışanlar arasındadır.
+Görsel 1.9: TÜBİTAK 
+logosu 
+Görsel 1.10: TENMAK 
+logosu
+Görsel 1.11: MTA logosu
+Görsel 1.12: TUA logosu 
+Görsel 1.13: ASELSAN 
+logosu 

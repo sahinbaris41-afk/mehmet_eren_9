@@ -1,0 +1,18 @@
+60 61
+COĞRAFYA 9 
+Uygulamanın üst kısımda yer alan “Dosya” sekmesine ve ardından sekmenin altında açılan “Ek-
+ran Sakla” butonuna tıklayınız. 
+📌
+Açılan “Resim Sakla” kutusunun alt kısmındaki “Dosya” bölümüne dosyanızın adını yazıp “Kaydet” 
+butonuna tıklayınız. Haritanız bilgisayarınıza kaydedilmiş olacaktır.
+📌
+4
+Oluşturduğunuz yeni haritayı kaydetmek için
+Uygulamada yer alan “CBS” ve ardından “Profil Al” butonlarına tıklayınız.
+📌
+“Arazi Profili” kutusu açılınca arazi profilini almak istediğiniz bölümü belirleyiniz. “Dosyaya 
+Kaydet” butonuna tıklayıp açılan kutuda “Dosya adı” bölümünde dosyanızın adını ve “Kayıt türü” 
+bölümünde bir resim dosyası türünü seçip “Kaydet” butonuna tıklayınız.
+📌
+5
+Arazi profili almak için

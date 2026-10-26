@@ -1,0 +1,23 @@
+3
+MATEMATİK 9
+3. Panayır	alanına	kurulacak	bir	çadır	için,	numaralanmış	8	adet	demir	çubuk	başlangıç	noktasından	
+bitiş	noktasına	kadar	birbirine	paralel	olacak	biçimde	eşit	aralıklarla	aşağıdaki	gibi	sıralanmıştır.	 
+4	numaralı	demir	çubuğun	uzunluğu	10	m’dir.
+ 
+Başlangıç noktası Bitiş noktası1 2 3 4 5 6 7 8
+10
+Buna göre, 6 numaralı demir çubuğun uzunluğu 2 numaralı demir çubuğun uzunluğundan kaç 
+metre fazladır? İşlemlerinizi göstererek bulunuz. (15 puan)
+Başlangıç noktası Bitiş noktası1 2 3 4 5 6 7 8
+10
+y x
+k k k k k k k k k
+Başlangıç	noktasından	bitiş	noktasına	kadar	olan	eşit	aralıkların	her	biri	k	metre,	6	numaralı	demir	
+çubuğun	uzunluğu	x	metre	ve	2	numaralı	demir	çubuğun	uzunluğu	y	metre	olsun.
+2	numaralı	demir	çubuğun	başlangıç	noktasına	uzaklığı	2k	metre,	4	numaralı	demir	çubuğun	başlangıç	
+noktasına	uzaklığı	4k	metre	olmak	üzere,	temel	orantı	teoremine	göre	 kk y42 10= 	olur.
+Buna	göre	y	=	5	m’dir.
+6	numaralı	demir	çubuğun	bitiş	noktasına	uzaklığı	3k	metre,	4	numaralı	demir	çubuğun	bitiş	noktasına	
+uzaklığı	5k	metre	olmak	üzere,	temel	orantı	teoremine	göre	 kk x1053 = 	olur.
+Buna	göre	x	=	6	m’dir.
+x	-	y	=	6	-	5	=	1	m	olur.

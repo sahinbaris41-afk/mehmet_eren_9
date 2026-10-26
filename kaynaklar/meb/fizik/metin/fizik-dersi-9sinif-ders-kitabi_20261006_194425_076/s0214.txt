@@ -1,0 +1,47 @@
+214
+4. ÜNİTE 
+1. Alıştırma
+Aşağıdaki tabloda ısı, sıcaklık ve iç enerji kavramlarıyla ilgili verilen ifadelerin bilimsel açıdan 
+doğru olup olmadığını değerlendirip ilgili alanı işaretleyiniz. Kavramın yanlış kullanıldığı cümle -
+lerin altına doğru kullanımları yazınız.
+Isı, Sıcaklık ve İç Enerji Kavramlarıyla İlişkili İfadeler Doğru Yanlış
+I. Dünya atmosferindeki ısı artışı nedeniyle buzullar erimeye başladı. 
+ 
+II. Çocuğun vücut ısısı 39 oC olmuş.
+ 
+III. Yaz günü pencereyi açınca asfaltın sıcaklığı içeriye girdi. 
+ 
+IV. Yarın İstanbul’da hava sıcaklığının artması bekleniyor. 
+ 
+V. Sıcak bir yaz gününde betona dökülen suyun iç enerjisi arttığından su 
+buharlaşır.
+ 
+VI. Isı termometre ile ölçülür. 
+ 
+VII. Aynı ortamda bulunan aynı cinsteki cisimlerden hacmi ve kütlesi büyük olan 
+cismin sıcaklığı daha fazladır.
+ 
+Kontrol Noktası
+Aralarındaki sıcaklık farkı nede­
+niyle bir cisimden veya sistemden 
+diğerine aktarılan enerjidir.
+Isının SI’ daki birimi: joule
+Isı, kalorimetre kabı ile dolaylı 
+yoldan ölçülür.
+Maddeyi oluşturan her bir taneci­
+ğin ortalama kinetik enerjisinin bir 
+göstergesidir.
+Sıcaklığın SI’ daki birimi: kelvin
+Sıcaklık termometre ile dolaylı 
+yoldan ölçülür.
+Maddeyi oluşturan tüm tanecikle­
+rin toplam enerjisidir.
+Tanecikler arası etkileşimlerden 
+dolayı oluşan her türlü enerji iç 
+enerjinin bileşenlerinden biridir.
+Taneciklerin gerçekleştirdiği 
+öteleme, dönme ve titreşim 
+hareketiyle oluşan kinetik enerji iç 
+enerjinin bileşenlerindendir.
+İç EnerjiIsı Sıcaklık
+ 

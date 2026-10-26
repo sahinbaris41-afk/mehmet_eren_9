@@ -1,0 +1,48 @@
+198
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Köprü Kurma Doğrusal fonksiyonların cebirsel ve grafik temsillerinden yararlanılarak öğrencilerin bir fonk-
+siyonun belirli bir noktadaki türevinin işaretine ilişkin çıkarımda bulunmaları sağlanabilir. Bu 
+kapsamda doğrunun eğim açısının dar veya geniş olması durumu veya doğrunun eğim de -
+ğerinin işareti ile bir fonksiyonun belirli bir noktadaki türevinin işareti ilişkilendirilebilir. Özel 
+olarak gerçek sayılarda  f(x) = k  şeklinde tanımlı fonksiyonun grafiğinin belirttiği doğrunun 
+eğim değerinin sıfır olması ile bir fonksiyonun belirli bir noktadaki türev değerinin sıfır olması  
+ilişkilendirilebilir. Böylece öğrencilerin merak duygusu harekete geçirilebilir. 
+Öğrenme-Öğretme 
+Uygulamaları MAT.12.4.8
+Dik koordinat sisteminde verilen keyfî bir fonksiyon grafiği üzerinden fonksiyonun nitel özel-
+liklerine ilişkin sınıf içi tartışma yapılır. Bu tartışma yapılırken öğrencilerin birbirlerini etkin 
+bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve birbirleriyle etkileşim 
+sağlamaları beklenir (SDB2.1). Bu kapsamda öncelikle grafiği çizilen fonksiyonun nitel özel -
+likleri belirlenir. Bu aşamada fonksiyonların yerel ekstremum noktaları ile ilgili bilgilendirme 
+yapılır. Sonrasında grafiğe teğet doğruları çizilir ve öğrencilerden çizilen teğet doğrularının 
+eğimi ile ilgili varsayımda bulunmaları beklenir.  Bu kapsamda fonksiyon grafiğine artan veya 
+azalan olduğu farklı aralıklarda teğet doğruları çizilir. Ardından öğrencilerin fonksiyonun ar -
+tanlığı veya azalanlığı ile teğet doğrularının eğim değerleri arasındaki ilişkilere dair varsayım-
+larda bulunmaları sağlanır (E3.6, E3.7) . Örneğin öğrencilerden fonksiyonun azalan olduğu 
+aralıkta veya fonksiyonun yerel ekstremum noktasında çizilecek teğet doğrusunun eğiminin 
+işaretine dair varsayımlar geliştirmeleri beklenebilir.
+Polinom fonksiyonların  nitel özellikleri ile  bunların türev fonksiyonlarının cebirsel temsilleri 
+arasındaki ilişkilere dair genellemeler yapılır. Örneğin k ∈ ℝ+ olmak üzere gerçek sayılarda  
+f(x) = k . (x - a)2 şeklinde tanımlı polinom fonksiyonun türevi  alınarak  f '(x) = 2 . k . (x - a) 
+fonksiyonu elde edilebilir. Türev fonksiyonundan hareketle x > a için f ' değerlerinin pozitif 
+olacağı ve buna bağlı olarak  f  fonksiyonunun [a, ∞) nda artan olacağına dair genelleme yapı-
+lır. Burada istisnai durum olarak türev fonksiyonunun birbirine eşit sıfırlarının olması durumu 
+da (gerçek sayılarda f(x) = x3 şeklinde tanımlı fonksiyonun türev fonksiyonu gibi) incelenir. 
+Genellemeler, polinom fonksiyonun grafik temsilleri ile ilişkilendirilerek varsayımlar ile karşı-
+laştırılır. 
+Öğrencilerin polinom fonksiyonların nitel özelliklerine dair elde ettikleri genellemelerden ha-
+reketle önermeler sunması sağlanır. Örneğin x ∈ (a, b) olduğunda f polinom fonksiyonu için    
+f '(x) < 0 oluyor ise g(x) = - f(x) + 3 fonksiyonunun (a, b) nda artanlığına veya azalanlığına 
+dair önerme sunması beklenir (MAB3).
+Öğrencilerin türev kavramı ile ilgili edindiği bilgileri kullanarak Rolle (Rol) ve ortalama de -
+ğer teoremlerine dair önermeler sunması beklenir. Bu süreçte [a, b ] nın her noktasında 
+sürekli olan ve  (a, b) nın her noktasında türevlenebilen, dik koordinat sisteminde verilen 
+keyfî  bir f  fonksiyon grafiği çizilir. Sonrasında  A(a, f(a)) ve B (b, f(b)) noktalarından ge-
+çen, eğimi m olan doğru çizilir. Çizilen grafik yardımıyla öğrencilerin c ∈ [a, b] olmak üzere 
+f '(c) = m eşitliğini sağlayan en az bir gerçek sayının bulunacağına dair önerme sunmaları 
+(ortalama değer teoremi) sağlanır. Ayrıca aynı tanım aralığında, süreklilik ve türevlenebi -
+lirlik özelliklerine sahip fonksiyonda f(a) = f(b) eşitliğinin sağlanması durumunda  öğren-
+cilerden d ∈ [a, b] olmak üzere f '(d) = 0 olacak şekilde en az bir d gerçek sayısının bulu -
+nacağına (Rolle teoremi) dair önerme sunmaları beklenir. Önermeler,  Rolle ve ortalama 
+değer teoremlerini kullanmayı  gerektiren gerçek yaşam problemleri ve açık uçlu sorular 
+ile birlikte polinom fonksiyonların grafik temsilleri üzerinden öğrencilerin çalışkanlıkları -

@@ -1,0 +1,34 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+26 27
+FİZİK 9 
+ÜNITE 2: KUVVET VE HAREKET
+Etkinliğin Amacı Etkinlik, öğrencilerin teorik, pratik ve görsel yollarla vektörlerin toplamını ve bi-
+leşkesini anlamalarını, matematiksel düşünme becerilerini geliştirmelerini ve 
+vektörlerin günlük hayattaki uygulamalarını keşfetmelerini amaçlamaktadır.
+Zenginleştirme 
+Uygulaması
+Bileşke vektör hesaplanırken reel sayı ile çarpılmış vektörlerin toplanması-
+na yönelik uygulamalar yapılabilir.
+Araç Gereç ve 
+Materyaller
+• Grafik kâğıdı
+• Cetvel ve açıölçer
+• Hesap makinesi
+• Vektör hesaplama yazılımına erişim (isteğe bağlı)
+1. ETKİNLİK ADI VEKTÖREL İŞLEMLERİN UYGULAMALARI
+1. Adım: Etkinliğe Giriş
+ ♦ Büyüklük ve yönlerine odaklanarak gündelik hayatta kullanılan vektörel nicelikler üzerine bir sınıf tartış -
+ması yapınız.
+ ♦ Bir vektörün yönünü değiştirmeden vektörün reel bir sayı ile çarpılmasını açıklayınız.
+2. Adım: Uygulama
+ ♦ k bir reel sayı ve A ise bir vektör olmak üzere bir vektör ile reel sayı çarpımının formülünü aşağıdaki 
+gibi veriniz:
+k · A
+ ♦ Çıkan sonuç ile A vektörünün doğrultu ve yönlerinin aynı olup olmayacağı hakkında bir tartışma baş-
+latınız.
+ ♦ İki vektörün nasıl toplanacağını aşağıdaki matematiksel modelle gösteriniz:
+R = A + B
+˿
+˿
+˿ ˿˿
+Araştırma Aşaması

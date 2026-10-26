@@ -1,0 +1,67 @@
+73
+4. Tema / Eşlik ve Benzerlik
+2. Seda	ve	Gamze	görselde	verilen	parkın	etrafın-
+da	bulunan	dikdörtgen	şeklindeki	yolda	yürüyüş	
+yapmaktadır.	 AB m 120= 	ve	 BC m 90= ’dir.	
+Gamze	 A-D-C	 yolunu	 takip	 ederek	 saniyede	
+2	 metre	 hızla,	 Seda	A-C	 yolunu	 takip	 ederek	
+saniyede	 1,5	 metre	 hızla	 C	 noktasına	 doğru	
+yürüyor.	
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Seda’nın aldığı yolun uzunluğunun kaç metre olduğunu bulunuz.
+b) Gamze ve Seda’nın C noktasına varış sürelerini karşılaştırınız.
+3. Yandaki	 haritada	 birim	 kareli	 alan	 üzerinde	
+işaretlenen	A,	B,	C	ve	D	noktaları	şehirleri	gös-
+termektedir.	A	 noktasında	 bulunan	AFAD	 çalı-
+şanları	ilk	önce	B	şehrine	gitmek	koşuluyla	B,	
+C	 ve	 D	 noktalarında	 bulunan	 şehirlere	 yardım	
+götürecektir.	 Şehirleri	 en	 kısa	 yoldan	 ziyaret	
+edip	 tekrar	A	 noktasına	 dönmek	 zorunda	 olan	
+çalışanlar,	yola	çıkmadan	önce	en	uygun	rotayı	
+belirlemek	için	hesaplama	yapmışlardır.	
+Buna göre AFAD çalışanlarının belirlediği rotada katedilecek toplam yol uzunluğunun kaç km 
+olduğunu bulunuz. 
+Kontrol Noktası
+• ÖKLİD TEOREMİ
+BAC dik üçgen, 90 BAC mo=`j% , AH BC=77 A A , BC a birim = , AC b birim, =  
+AB c birim = , BH p birim = , HC k birim =  ve birimAH h =  olmak 
+üzere
+hp k
+bk a
+cp a
+2
+2
+2
+=
+=
+=
+$
+$
+$
+ilişkilerine ulaşılır.
+• PİSAGOR TEOREMİ
+BCA dik üçgeninde BCA 90m o=`j% , BC a birim = , AC b birim =  ve 
+AB c birim =  olmak üzere ab c22 2=+  dir.
+• ABC üçgeninde 
+BCA 90mc ab>> 222 o& +`j%  dir.
+BCA 90mc ab<< 222 o& +`j%  dir.
+A
+B H
+a
+h
+bc
+p k C
+B
+C
+c
+a
+b A
+A
+B
+C
+D
+(Birim	karelerin	her	birinin	kenar	uzunluğu	50	km’dir.)
+A
+C
+D
+B

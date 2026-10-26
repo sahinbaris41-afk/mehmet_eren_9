@@ -1,0 +1,32 @@
+73
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+3. ÜNİTE: OPTİK
+Bu ünitede öğrencilerin ışık şiddeti, ışık akısı ve aydınlanma kavramlarını tanımlamaları, 
+düzlem aynaları kullanarak model oluşturmaları, küresel aynaların ve merceklerin yapı-
+larını karşılaştırmaları, küresel aynalarda ve merceklerde görüntü oluşumu ile ilgili deney 
+yapmaları, ışığın saydam ortamlardaki davranışını kullanarak deney düzeneği oluşturma-
+ları, görünür derinliği gözlemlemeleri, fiber optik malzemelerin yapısı, çalışma prensibi ve 
+kullanım alanlarına ilişkin bilgi toplamaları, prizmalar ve prizmalar ile kurulan optik sistem-
+ler hakkında çıkarım yapmaları amaçlanmaktadır. 
+DERS SAATİ 36
+ALAN 
+BECERİLERİ FBAB1. Bilimsel Gözlem, FBAB7. Deney Yapma, FBAB8. Bilimsel Çıkarım Yapma, FBAB9. 
+Bilimsel Model Oluşturma, FBAB11. Tümdengelimsel Akıl Yürütme
+KA VRAMSAL 
+BECERİLER KB2.6. Bilgi Toplama, KB2.7. Karşılaştırma
+EĞİLİMLER E1.1. Merak, E1.3. Azim ve Kararlılık, E1.5. Kendine Güvenme (Öz Güven), E3.1. Muhakeme, 
+E3.3. Yaratıcılık, E3.4. Gerçeği Arama, E3.5. Açık Fikirlilik, E3.6. Analitiklik, E3.7. Sistema-
+tiklik, E3.8. Soru Sorma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme),  
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB3.1. Uyum, SDB3.2. Esneklik, SDB3.3. Sorumlu Ka-
+rar Verme 
+Değerler D1. Adalet, D3. Çalışkanlık, D16. Sorumluluk, D17. Tasarruf, D19. Vatanseverlik  
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Görsel Sanatlar, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.11. Gözleme Dayalı Tahmin Etme, KB2.12. Mevcut Bilgiye/Veriye Dayalı Tahmin Etme, 
+KB2.14. Yorumlama, KB2.15. Yansıtma, KB3.1. Karar Verme, KB3.2. Problem Çözme

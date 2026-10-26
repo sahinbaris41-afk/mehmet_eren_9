@@ -1,0 +1,48 @@
+77
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+olarak önerir (D3.4). Önerilen modelin günlük hayattaki farklı problem durumlarının çözü-
+müne yönelik geliştirilmesi üzerine sınıf tartışması yaparlar (E3.5, KB3.1, SDB3.1, SDB3.2). 
+Öğrenciler sınıf tartışmasında (SDB2.2) yapılan dönütler doğrultusunda ürünü yeni du-
+rumlara da  uyarlanacak şekilde geliştirmek üzere etkileşim kurar (D3.3, KB3.2, SDB2.1). 
+Öğretmen öğrencilerden model veya ürünü geliştirme sırasında öz değerlendirme yapa-
+bilecekleri ve kendi öğrenme durumlarını geliştirmeye yönelik bir formu doldurmalarını 
+isteyebilir. 
+FİZ.11.3.3
+Öğretmen öğrencilere küresel ve silindirik yansıtıcı yüzeye sahip cisimlerin (çanak anten, 
+araba farı, arabaların dikiz aynası, elektrikli ısıtıcının yansıtıcı yüzeyi, termosun iç yüzeyi 
+vb.) fotoğraflarını gösterir. Bu süreçte soru cevap veya beyin fırtınası gibi yöntem ve tek-
+niklerle öğrencilerin etkileşim (SDB2.1) kurmaları sağlanarak yüzeyler arasındaki farkları 
+belirlemeleri istenir (OB4). Belirlenen benzerlikler ve farklılıklar not edilebilir. Öğrencilerin 
+küresel aynaların silindirik aynalardan farklı özelliklere sahip olduğu çıkarımını yapmaları 
+sağlanabilir. Öğretmen küresel aynaların çukur ve tümsek aynalar olmak üzere ikiye ayrıl-
+dığını belirtir. Öğrenciler simülasyon, animasyon veya deney düzeneklerini kullanarak asal 
+eksen, tepe noktası, odak noktası ve merkez noktası çizimlerini kararlılıkla hareket ede-
+rek yapar (E1.3, OB4). Öğrenciler ışınların küresel aynalardan yansıdıktan sonra izledikleri 
+yolu, ilgili çizimleri yaparak belirler (KB2.15, OB4). Öğrenciler küresel aynaların yapılarına 
+ve küresel aynalarda yansıma yasalarına ilişkin özellikleri belirler. Nitelik sıralama, anlam 
+çözümleme veya sınıflandırma tablolarını kullanarak çukur ve tümsek aynaların benzer ve 
+farklı özelliklerini listeler (E3.7). Öğretmen öğrencilerin yaptıkları çizim ve tabloları dere-
+celi puanlama anahtarı kullanarak değerlendirebilir.
+FİZ.11.3.4
+Öğrenciler öğretmen rehberliğinde gruplara ayrılır (SDB2.2). Öğrenciler grup hâlinde adil 
+görev paylaşımı yaparak (D1.2) küresel aynalarda cismin bulunduğu yere göre görüntü-
+nün yeri ve özelliklerini belirleyebilecekleri bir deney tasarlar (SDB1.2). Simülasyon, ani-
+masyon veya hazır görseller kullanılarak görüntü oluşumu gösterilebilir. Öğrenciler deney 
+düzeneklerindeki cisim ve görüntü yerlerine göre çizimlerini yapar, elde ettiği verileri kul-
+lanarak tablo oluşturur (KB2.14). Öğrenciler deney düzenekleri, simülasyon, animasyon 
+veya tablo üzerinden küresel aynalarda cismin yerine göre görüntünün yeri ve özellikleri 
+hakkında analizler yapar (E3.6, E3.7). Öğretmen küresel aynalardaki deney sürecine yöne-
+lik kontrol listesi ve küresel aynalarda farklı yerlerde olan cisimlerin görüntü özelliklerini 
+açıklamaya yönelik farklı madde türlerinden oluşan bir test ile değerlendirme yapabilir.
+FİZ.11.3.5
+Serap olayı ve su dolu bardağın içindeki kaşığın kırık görünmesine ilişkin görsel ve sorular 
+ile öğrencilerin dikkati çekilebilir. Öğrenciler bu olaylara ilişkin sorular sorar (E3.8). Öğret-
+men deney düzenekleri kullanarak ortamın ışığı kırma indisini tanımlayabilir, kırılma olayı 
+ve Snell Yasası ile sınır açısı ve tam yansıma olaylarını açıklar. Öğrenciler öğretmen reh-
+berliğinde gruplara ayrılabilir (SDB2.2). Grup üyeleri yardımlaşarak kırılma yasalarına iliş-
+kin farklı bir deney tasarlar (E3.1, E3.3, SDB1.2). Oluşturulan deney düzeneğinde saydam 
+ortamın özellikleri ve tek renkli ışığın gelme açısına ilişkin araştırma problemi belirlene-
+bilir. Farklı saydam ortamlar için gelme açısı ve kırılma açısı değişkenlerine ilişkin veriler 
+toplanarak tablo oluşturulabilir. Kırılma açısının bağlı olduğu değişkenler tablodaki veriler 
+kullanılarak analiz edilir (OB7). Öğretmen deney düzeneklerini dereceli puanlama anahta-
+rını kullanarak değerlendirebilir. 

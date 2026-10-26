@@ -1,0 +1,64 @@
+219
+ENERJİ
+4.2.2. Öz Isı ve Isı Sığası
+Sıcaklıkları ve kütleleri eşit olan su ve zeytinyağı özdeş kaplara konup daha 
+düşük sıcaklıktaki bir ortama bırakıldığında bir süre sonra zeytinyağının 
+sıcaklığının suya göre daha fazla azaldığı gözlemlenir. Benzer şekilde oda 
+sıcaklığındaki bir cezve ve bir tencere dolusu su özdeş ısıtıcılarla eşit süre ısı-
+tıldığında cezvedeki suyun sıcaklığı tenceredeki suyun sıcaklığına göre daha 
+fazla artar. Örneklerde olduğu gibi eşit ısı verilen maddelerin sıcaklıklarındaki 
+değişim, maddenin kütlesi ve cinsiyle ilişkilidir.
+Öz ısı, saf bir maddenin birim kütlesinin sıcaklığını 1 °C veya 1 K değiştir-
+mek için gereken ısı miktarını ifade eder. Öz ısının SI’da birimi joule/kilogram 
+: kelvindir (J/kg : K) ancak verilen enerjinin, maddenin kütlesinin ve sıcaklık 
+değerinin birimine göre öz ısı birimi olarak joule/kilogram  : celsius (J/kg : °C) 
+ya da kalori/gram : celsius (cal/g : °C) da kullanılabilir. Maddeler için ayırt edici 
+bir özellik olan öz ısı, c sembolü ile gösterilir. Öz ısı, maddelerin cinsine ve 
+fiziksel hâline bağlıdır. Örneğin bakırın öz ısısı 1.609 J/kg : °C iken suyun öz 
+ısısı 4.186 J/kg : °C ve buzun öz ısısı 2.100 J/kg : °C’tur (Görsel 4.10).
+Verilen ısı 
+1.609 J
+1 kg bakır
+Sıcaklık 
+değişimi 1 oC
+Bakır
+(Öz ısısı: 1.609 J/kg  oC)
+Verilen ısı 
+4.186 J
+1 kg su
+Sıcaklık 
+değişimi 1 oC
+Su
+(Öz ısısı: 4.186 J/kg  oC)
+Verilen ısı 
+2.100 J
+1 kg buz
+Sıcaklık 
+değişimi 1 oC
+Buz
+(Öz ısısı: 2.100 J/kg  oC)
+Görsel 4.10: Bakır, su ve buzun öz ısıları
+Isı sığası (ısı kapasitesi), saf bir maddenin sıcaklığını 1 °C veya 1 K değiştir-
+mek için gereken ısı miktarını ifade eder. C sembolü ile gösterilen ısı sığasının 
+SI’da birimi J/K’dir ancak ısı sığasının birimi olarak J/°C ya da cal/°C da kul -
+lanılabilir. Bir maddenin ısı sığası, o maddenin kütlesi ile öz ısısının çarpımı 
+(C = m : c) kadardır. Isı sığası, maddenin kütlesine bağlı bir nicelik olduğundan 
+ayırt edici bir özellik değildir. Örneğin 1 kg bakırın ısı sığası 1. 609 J/°C iken 
+2 kg bakırın ısı sığası 3.218 J/°C’tur (Görsel 4.11). 
+Verilen ısı 
+1.609 J
+1 kg bakır
+Sıcaklık 
+değişimi 1 oC
+Verilen ısı 
+3.218 J
+2 kg bakır
+Sıcaklık 
+değişimi 1 oC
+Bakır
+(Öz ısısı: 1.609 J/kg  oC
+ Isı sığası: 3.218 J/oC)
+Bakır
+(Öz ısısı: 1.609 J/kg  oC
+ Isı sığası: 1.609 J/oC)
+Görsel 4.11: 1 kg bakır ile 2 kg bakırın ısı sığaları

@@ -1,0 +1,25 @@
+123
+2. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+b) Etikette yer alan fiziksel nicelikleri temel veya türetilmiş nicelikler şeklinde gruplandırıp 
+tabloya yazınız.
+Temel Nicelikler Türetilmiş Nicelikler
+c) Etikette yer alan fiziksel nicelikleri skaler veya vektörel nicelikler şeklinde gruplandırıp 
+tabloya yazınız.
+Skaler Nicelikler Vektörel Nicelikler
+ç) Etikette yer alan nicelikler arasından birimleri SI’da kullanılan birimlerle ifade edilmeyen 
+nicelikleri belirleyiniz. Bu niceliklerin birimlerinin SI’ya göre düzenlenmesi du rumunda 
+başka hangi özelliğinin düzenlenmesi gerektiğini açıklayınız.
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+7.  Bir grup bilim insanı, yeni keşfedilen ıssız bir adadaki jeolojik oluşumları ve çeşitli ekosistemleri ince-
+lemek üzere bir keşif gezisine çıkıyor. Bilim insanlarının amacı, doğadaki temel kuvvetlerin maddeyi 
+nasıl etkilediğini anlamaktır. Bilim insanlarının keşif gezisi sırasında adada gözlemledikleri olaylar 
+aşağıdaki tabloda verilmiştir.
+Tablodaki olayları inceleyerek olayda etkili olan temel kuvveti “Kuvvetler” bölümüne yazınız.
+Gözlemlenen Olaylar Kuvvetler
+Ağaçtan yere düşen elmalar
+Bir pusula iğnesinin Dünya’nın manyetik 
+alanı nedeniyle kuzeye doğru hizalanması
+Adanın kayalarında bulunan uranyum izo -
+toplarının radyoaktif bozunumu
+Adanın granit oluşumlarındaki atom çekirde-
+ğinin kararlılığı

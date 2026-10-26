@@ -1,0 +1,32 @@
+75
+KUVVET VE HAREKET
+3. F F F 1 3 4+ +  işlemini uç uca ekleme yöntemi ile yapınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l      
+4. F F F 2 3 4+ +  işlemini bileşenlerine ayırma yöntemini kullanarak yapınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l      
+5. F F F 1 4 5+ +  işlemini uç uca ekleme yöntemini kullanarak yapınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l             l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l      
+2.3.3.  Vektörlerin Toplanmasında 
+Kullanılan Yöntemler
+1. Uç Uca Ekleme Yöntemi
+Üçgen yöntemi olarak da ifade edilen bu yöntemde bir vektör diğer vektörün 
+bitiş noktasına taşınır. Taşıma işlemi yapılırken vektörün yönü ve büyüklüğü 
+değiştirilmez. Uç uca ekleme yöntemi iki veya daha fazla sayıda vektörün 
+toplanmasında kullanılabilir. Görsel 2.7’de verilen A  ve B  vektörlerinin uç uca 
+ekleme yöntemiyle toplanmasındaki işlem basamakları şu şekildedir:
+a)  B  vektörü yönü ve büyüklüğü değiştirilmeden 
+A  vektörünün bitiş noktasına taşınır.
+A
+B
+b)  A  vektörünün başlangıç noktasından B  vektörü-
+nün bitiş noktasına yönlü bir doğru parçası çizilir.
+A
+B
+c)  Yönlü doğru parçası bileşke vektör ( R ) olarak 
+işaretlenir. Bileşke vektör R  = A  + B ye eşittir. R A= +B
+A
+B
+Görsel 2.7: A  ve B  
+vektörleri
+A
+B

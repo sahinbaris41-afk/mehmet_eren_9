@@ -1,0 +1,33 @@
+56 57
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+12. Öğrencilere verileri kullanarak aşağıdaki tabloyu doldurmalarını isteyiniz. (Not: Bilyenin yarıçapı 
+ve yükseklik milimetre cinsinden yazılmalıdır.)
+Ölçüm Bilyenin Yarı Çapı (r) Yükseklik (h) Gliserinin Yoğunluğu (d) Sıvı Sabunun Yoğunluğu (d)
+Gliserin Sıvı Sabun
+İniş süresi (t) 25 oC 50 oC 25 oC 50 oC
+1. ölçüm
+2. ölçüm
+3. ölçüm
+Ortalama
+Gliserin Sıvı Sabun
+Limit hız (v)
+1. ölçüm
+2. ölçüm
+3. ölçüm
+Ortalama
+13. Öğrencilerden yukarıdaki verileri kullanarak sıvıların viskozitelerini hesaplamalarını ve tabloyu 
+doldurmalarını isteyiniz.
+η = 2gr2  (d' - d)
+9v
+Sıcaklık
+Viskozite (η)
+Gliserin Sıvı Sabun
+25 oC
+50 oC
+η : Viskozite
+g : Yer çekimi kuvveti
+r : Bilyenin yarı çapı
+d' : Bilyenin yoğunluğu
+d : Sıvının yoğunluğu
+v : Düşme hızı

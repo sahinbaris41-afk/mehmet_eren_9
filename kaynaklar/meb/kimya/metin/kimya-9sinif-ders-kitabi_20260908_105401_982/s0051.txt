@@ -1,0 +1,110 @@
+51
+1. Tema/Etkileşim
+Elektronların olasılık 
+dağılımı, atom çekirdeğinin 
+çevresinde nerede bulu-
+nabileceklerini gösterir. 
+Bu dağılım muhtemel ko-
+numları temsil eder çünkü 
+elektronların tam konumla-
+rı tahmin edilemez.
+Enerji
+Enerji alır.
+Elektronun eski konumu Elektronun yeni konumu
+(absorbsiyon)
+n = 1
+n = 2
+n = 3
+n =
+n =
+n =
+n =
+n =
+n =
+n =
+n =
+∞
+4
+3
+2
+n = 1
+n = 1
+Enerji
+Enerji verir.
+(emisyon)
+n = 1
+n = 2
+n = 3
+∞
+4
+3
+2
+Elektronun eski konumu Elektronun yeni konumu
+Enerji
+Enerji alır.
+Elektronun eski konumu Elektronun yeni konumu
+(absorbsiyon)
+n = 1
+n = 2
+n = 3
+n =
+n =
+n =
+n =
+n =
+n =
+n =
+n =
+∞
+4
+3
+2
+n = 1
+n = 1
+Enerji
+Enerji verir.
+(emisyon)
+n = 1
+n = 2
+n = 3
+∞
+4
+3
+2
+Elektronun eski konumu Elektronun yeni konumu
+4. Uyarılmış bir atom kararlı değildir, yörüngeler arasında enerji farkına eşit 
+miktarda ışın yayarak fazla enerjisinin bir kısmını veya tamamını serbest 
+bırakabilir. Böylece daha düşük bir enerji durumuna geçebilir (Görsel 
+1.13). Uyarılmış atomun aldığı enerjinin bir kısmını ışıma olarak geri yay-
+masına emisyon (yayma) denir.
+Özetle Bohr’un atom teorisi, atomların enerji absorbe etme (soğurma) ve yay-
+ma (emisyon) süreçlerinin temelinde oluşturulmuştur.
+Bohr’un atom teorisinin sınırlılıkları ve kuantum modelinin ortaya çıkışıyla il-
+gili şunlar söylenebilir:
+• Bohr atom teorisi, yalnızca hidrojen atomu ve tek elektronlu iyonlar 
+için geçerliyken çok elektronlu sistemlerde yetersiz kalır.
+• Bohr, elektronların belirli yörüngelerde (enerji seviyelerinde) daire -
+sel bir şekilde hareket ettiğini öne sürer ancak Heisenberg’ün belir -
+sizlik ilkesine göre atomdaki elektronun yeri ve hızı aynı anda kesin 
+olarak belirlenemez. Bu ilke, elektronların aslında tam olarak belirli 
+bir yörüngede hareket etmediğini ve elektronların olasılık dağılımı 
+olduğunu açıklar.
+• Elektronların hem dalga hem de parçacık özelliğine sahip olduğu 
+anlaşıldığında Bohr atom teorisi bu durumun açıklanmasında yeter-
+siz kalmıştır.
+Bu eksiklikler daha sonra modern atom teorisi veya kuantum modeli adı veri-
+len modelde orbital kavramıyla kapsamlı bir şekilde açıklanmıştır.
+Modern Atom Teorisi: Bohr atom teorisinin yerini alan bu yeni teoriye göre 
+elektronlar, Bohr’un önerdiği belirli yörüngeler boyunca hareket etmek yerine 
+atom çekirdeğinin çevresinde herhangi bir yerde bulunabilir. Elektronun belirli 
+bir anda nerede olacağını kesin olarak belirlemek (Heisenberg belirsizlik ilke-
+si) mümkün değildir fakat elektronun atom içinde bulunma olasılığının yüksek 
+olduğu bölgeler tanımlanabilir ve bu bölgelere orbital denir (Görsel 1.14).
+Görsel 1.14
+En düşük enerjili s 
+orbitalinin olasılık dağılımı 
+ve orbital yüzeyi
+Görsel 1.12
+Soğurma olayı
+Görsel 1.13
+Yayma olayı

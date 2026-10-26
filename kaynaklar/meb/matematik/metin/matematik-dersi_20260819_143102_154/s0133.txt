@@ -1,0 +1,53 @@
+133
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT 11.1.2
+Öğrencilerin başkaları tarafından oluşturulan istatistiksel bilgilere eleştirel gözle bakabilme -
+si ve bu bilgileri derinlemesine düşünerek değerlendirmesi önemlidir (E1.6, E3.10, SDB3.3) . Bu 
+bağlamda öğrencilere iki nicel değişkenli verilerin ilişkililiğine yönelik hatalı/yanlı sonuç, yorum, 
+çıkarım ve/veya tahminleri içeren çalışma kâğıdı verilerek bunları incelemeleri istenebilir. Öğren-
+cilerin var olan istatistik bilgileri doğrultusunda istatistiksel temellendirme yapmalarına imkân 
+verecek ortamlar oluşturulmalıdır. Buradan hareketle öğrencilerin verilen durumlara şüpheyle 
+ve eleştirel bakmaları, istatistik bilgilerini kullanarak hataları/yanlılıkları tespit etmeleri istenmeli-
+dir (E1.6, E3.9, E3.10). Öğrencilerin belirlediği hatalar ve yanlılıklar tartışmaya açılmalıdır (SDB2.1). 
+Öğrencilerden bu hata ve yanlılıkları eleştirel gözle değerlendirmeleri beklenir (KB3.3). Öğrenciler 
+ürettikleri fikir ve değerlendirmelerinden hareketle iki nicel değişkenli verilerin ilişkililiğine yönelik 
+hatalı/yanlı sonuç, yorum, çıkarım ve/veya tahminleri çürütmeli ya da kabul etmelidir. Öğrencile-
+rin bu süreçte hem verileri doğru ve objektif değerlendirmesi hem de bu değerlendirmenin öne-
+mini ve yanlılığın yol açacağı olumsuz sonuçları dikkate alması önemlidir (D6.2). 
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilerden kendilerine verilen çok değişkenli veri setlerinden hareketle uygun iki nicel de-
+ğişken belirleyerek bir araştırma sorusu hazırlamaları ve bu doğrultuda istatistiksel araştırma 
+süreci tasarlayarak yürütmelerine yönelik proje hazırlamaları istenebilir. Öğrencilerin elde ettiği 
+sonuçları sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içerik oluşturarak diğer 
+arkadaşları ile paylaşmaları ve deneyimlerini ifade etmeleri sağlanabilir.  
+Öğrencilerden iki nicel değişkenin ilişkililiğine yönelik dağılımlar içeren istatistiksel görsel, özet, 
+sonuç, yorum, çıkarım ve/veya tahminleri içeren durumları araştırmaları istenebilir. Bu durumları 
+araştırırken hangi kaynakları (gazete haberleri, dijital kaynaklar, resmî kaynaklar gibi) kullanabile-
+ceklerine ve bu kaynakları kullanırken nelere dikkat etmeleri gerektiğine dair paylaşımlar yapmaları 
+beklenebilir. Bu araştırmalarında fark ettikleri noktaları eleştirel olarak değerlendirmeleri istenebilir. 
+Örneğin bireylerin beyinlerinin dış kabuk kısmının kalınlığının zekâ düzeyi ile ilişkililiğini inceleyen bir 
+araştırmanın sonuçlarını öğrencilerin değerlendirmeleri istenebilir. Elde edilen sonuçlar ile görsel 
+(saçılım grafiği) ve sayısal değer (korelasyon katsayısı) arasında tutarlılık olup olmadığı; yanlı, yan-
+lış veya eksik bilgilerin olup olmadığı incelenerek öğrenciler tarafından değerlendirilir. Öğrencilerin 
+yaptıkları bu değerlendirmeleri sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içe-
+rik oluşturarak arkadaşları ile paylaşmaları ve deneyimlerini ifade etmeleri sağlanabilir. 
+Öğrencilerden korelasyon katsayısının nasıl hesaplandığına ilişkin kendilerine verilen formülü kul-
+lanarak gerçek yaşam durumları üzerinden hesaplamalar yapmaları istenebilir. Öğrenciler, yapı-
+lan bu hesaplamalarda teknolojik araçlardan (örneğin hesap makinesi) faydalanılabilir. Bu süreçte 
+öğrencilerden yaptıkları hesaplamalara ilişkin gerekçelendirmeler sunarak bu gerekçeleri ifade 
+etmeleri beklenebilir. 
+(*) Öğrencilerin korelasyonel araştırma yöntemi kullanılarak yapılmış bir bilimsel çalışmayı analiz 
+etmesi, arkadaşlarıyla tartışması sağlanabilir. 
+Destekleme Öğrencilerin iki nicel değişkenin ilişkililiğini içeren istatistiksel araştırma sürecine dâhil olmaları 
+için grup çalışması yapılabilir. Gruplar heterojen şekilde düzenlenebilir. Bu sayede öğrenciler 
+akran öğrenmesi ile istatistiksel araştırma sürecini anlamlandırabilir.
+Öğrencilerden günlük hayatlarında karşılarına çıkma ihtimali daha fazla  olan nicel veri setlerin-
+den (boy, sıcaklık değerleri gibi) hareketle araştırma sorusu oluşturmaları, veri toplamaları ve 
+bu verileri analiz ederek yorumlamaları istenebilir. 
+Öğrencilerin daha küçük veri setleri üzerine çalışmaları sağlanabilir.
+Öğrencilere iki nicel değişkenin ilişkililiğine odaklanan istatistiksel görsel, özet, sonuç, yorum, 
+çıkarım ve/veya tahminler daha basit düzeyde (öğrencilerin daha aşina oldukları durumları içer-
+mesi gibi) sunulur ve öğrencilerden bunlara ilişkin değerlendirme yapmaları istenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

@@ -1,0 +1,36 @@
+160
+6. Tema / İstatistiksel Araştırma Süreci
+2. ÖRNEK
+Aşağıda	verilenleri	inceleyerek	soruları	cevaplayınız.
+1. Bir	deniz	bil imcinin	araştırma sında	bul unduğu	böl gedeki	den iz	suyu	sıcakl ığına	(°C)	dai r	aynı	ay	
+içinde	farklı	günlerde	elde	ettiği	veriler,	T ablo	1’de	yer	almaktadır .	
+Tablo 1
+Ölçümler 1 2 3 4 5 6 7 8 9 10
+Deniz Suyu Sıcaklığı 
+(oC) 12,7 12,5 14,1 14,5 14,4 14,5 13,6 14,7 14,8 14,7
+Ölçümler 11 12 13 14 15 16 17 18 19 20
+Deniz Suyu Sıcaklığı 
+(oC) 14,8 14,9 14,4 13,6 13,9 14,3 14,2 14,5 13,9 14,1
+Deniz	bilimci	her	ölçümde	deniz	suyu	sıcaklığını	neden	farklı	bulmuştur?	
+2. Bir	öğretmen,	öğrencisinden	20	cm’lik	bir	cetvelle	öğretmen	masasının	uzun	kenarının	ölçüsünü	
+belirlemesi	için	10	kez	ölçüm	yapmasını	istemiş tir.	Öğrencinin	ölçümlerden	elde	ett iği	veriler	T ablo	2’de	
+verilmiştir.	Masanın	uzun	kenarının	ölçüsü	72,5	cm’dir	ve	öğrenci	bu	değeri	bilmemektedir.
+Tablo 2
+Ölçümler 1 2 3 4 5 6 7 8 9 10
+Ölçüm Sonuçları (cm) 72,2 72,4 72,3 72,7 72,6 72,5 72,8 72,6 72,7 72,4
+Öğrenci	her	ölçümde	masanın	uzun	kenarının	ölçüsünü	neden	farklı	bulmuştur?	
+3. Bir	lise	öğrencisi,	bitkilerin	büyümesinde	kompost	gübrenin	etkisini	araştırdığı	bir	proje	hazırlamıştır.	
+Öğrenci,	projesi	için	aynı	türde	10	cm	uzunluğundaki	iki	bitki	fidesinden	birinin	toprağına	kompost	
+gübre	eklerken	diğerinin	toprağına	herhangi	bir	şey	eklememiştir.	Bunun	dışında	her	iki	bitkiye	verilen	
+su	miktarı,	her	iki	bitkinin	maruz	kaldığı	ışık	miktarı	gibi	bitkilerin	büyümesini	etkileyecek	her	şeyi	
+sabit	tutmuştur.	Her	iki	bitk inin	boyları nı	beşer	gün	arayla	toplam da	10	kez	ölçerek	elde	ett iği	verilerle	
+T ablo	3’ü	oluşturmuştur.
+Tablo 3
+Ölçümler 1 2 3 4 5 6 7 8 9 10
+Normal Toprakta Yetişen Bitkiden 
+Alınan Boy Ölçümleri  (cm) 12,5 13,2 14,0 14,8 15,9 17,0 18,5 19,9 21,8 23,4
+Kompostlu Toprakta Yetişen Bitkiden 
+Alınan Boy Ölçümleri (cm) 12,5 13,6 14,8 15,7 16,8 17,9 19,8 21,4 23,9 26,2
+Öğrenci	her	ölçümde	bitki	boylarını	neden	farklı	bulmuştur?	
+Değişebilirlik	kavramı,	istatistiksel	araştırma	sürecinin	merkezinde	yer	alır.	İstatistiksel	araştırmalarda	
+toplanan	verilerden	yola	çıkarak	sonuçlara	ulaşmak,	değişebilirliği	anlamak	ve	anlamlandırmakla	ilgilidir.	

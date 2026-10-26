@@ -1,0 +1,54 @@
+28
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+elektron çifti içeren moleküllerin Lewis nokta yapılarıyla birlikte uzay-dolgu molekül mo -
+delleri gösterilerek elektron itmesinin molekül yapısını nasıl etkilediği konusu ile ilgili saygı 
+çerçevesinde tartışma ortamı oluşturulur (SDB2.1, D14.1, OB4) . Öğrenciler, farklı mole -
+küller için Lewis nokta yapılarını oluşturarak Lewis nokta yapısına ilişkin önermelerini de -
+ğerlendirir (OB1). Öğrencilerden çalışma yaprağında verilen farklı element ve bileşiklerin 
+Lewis nokta yapılarını çizmeleri istenebilir. 
+KİM.9.2.5
+Kovalent bağlı element ve bileşiklerin adları, formülleri, Lewis nokta yapıları, uzay-dolgu 
+gösterimleri ve elementlerin elektronegatiflik değerleri tablo olarak verilir. Öğrencilerden 
+ilgili molekülleri polar ya da apolar olarak sınıflandırabilmeleri için ölçütler oluşturmaları 
+istenir. Öğrencilerin, uzay-dolgu modelleri verilen molekülleri merkez atomda ortaklan -
+mamış elektron çifti bulunma durumuna ve elektronegatiflik farkına göre ayrıştırmaları 
+sağlanır (OB7). Öğrencilerden molekülleri dipol momentine göre polar ya da apolar olarak 
+gruplandırmaları istenir. Öğrenciler, her bir molekülün polar ya da apolar olup olmadığına 
+ilişkin gerekçelerini belirtir (E1.5, SDB2.1). Öğrenciler, molekülleri polar ya da apolar olarak 
+adlandırmaları için yönlendirilir. Öğrencilerden çalışma yaprağında verilen farklı element 
+ve bileşikleri polar yapılı ya da apolar yapılı şeklinde sınıflandırmaları ve yaptıkları sınıflan -
+dırmaları gerekçeleriyle açıklamaları istenebilir. 
+KİM.9.2.6 
+Öğrencilere tek bir tür katyonu olan metallerin oluşturduğu iyonik bileşiklerin sistematik 
+adları ve formülleri verilir. Öğrencilerden iyonik bileşiği oluşturan iyonları belirlemeleri iste-
+nir. Öğrencilerin bir bileşikte bulunan pozitif ve negatif yüklü iyonların adlarıyla bileşiğin adı 
+arasında ilişki kurmaları sağlanır. Öğrenciler, tek bir tür katyonu olan metallerin oluştur -
+duğu iyonik bileşiklerden yola çıkarak adlandırma kurallarını oluşturmaları için yönlendiri -
+lir. Bu sayede edindikleri bilgilerin eleştirel bakış açısıyla değerlendirilmesi sağlanır (D3.3, 
+E3.10). Öğrencilerin tek bir tür katyonu olan metallerin oluşturduğu iyonik bileşiklerin ad -
+landırma kurallarını genellemeleri sağlanır. Birden fazla katyonu olan bazı geçiş metalleri-
+nin (Cr, Mn, Cu, Pb, Sn, Fe ve Co) oluşturduğu bileşiklerin formülleri ve adları birlikte verilir. 
+Sabit değerlikli metallerin oluşturduğu bileşiklerin adlandırılmasıyla değişken değerlikli 
+metallerin oluşturduğu bileşiklerin adlandırılması arasındaki farkın öğrenciler tarafından 
+belirlenmesi sağlanır (OB7). 
+Öğrencilere kovalent bağlı bileşiklerin sistematik adları, formülleri ve atom sayılarını be -
+lirten Latince ön ekler verilir. Öğrencilerden kovalent bağlı bileşikleri oluşturan atomları 
+belirlemeleri istenir. Kovalent bağlı bileşikleri oluşturan ametal atomların adları ile bileşik 
+adları arasında ilişki kurulması sağlanır. Öğrencilerden bileşiği oluşturan birinci ve ikinci 
+ametalin adlandırılması arasındaki farkı belirlemeleri istenir. Kovalent bağlı bileşiklerin ad-
+landırma kurallarının genellenmesi sağlanır (OB7). Öğrenciler, tarsia yapboz etkinliğinde 
+iyonik ve kovalent bağlı bileşiklerin adları ile formüllerini eşleştirebilir.
+KİM.9.2.7
+Gecko kertenkelesinin dik ve düz bir yüzeyde nasıl yürüyebildiği, neden bazı toz par -
+çacıklarının bilgisayar ekranına yapıştığı ile ilgili sorularla öğrencilerde tanecikler 
+arası etkileşim kuvvetlerine yönelik merak uyandırılabilir (E1.1). Öğrencilere molekül -
+ler (aynı ya da farklı) arasında etkileşim olabileceği gibi moleküller ile iyonlar ve soy 
+gaz atomları arasında da etkileşim olabileceğini fark ettirecek sorular sorulur, öğ -
+rencilerin fikir belirtme hakkını kullanarak düşünce ve izlenimlerini etki altında kal -
+madan ifade etmeleri ve etkili iletişim becerilerini kullanmaları sağlanabilir (SDB2.1, 
+D8.1, D11.2, D14.1) . Öğrenciler, kendilerine verilen çeşitli molekül örneklerinin diğer bir 
+molekülle veya iyonla olan etkileşimleri ile soy gaz atomları arasındaki etkileşimlerini 
+inceler. Öğrencilerden inceledikleri etkileşimlerin türüne ilişkin  ölçütler belirlemele -
+ri istenir (OB1). Öğrencilerden inceledikleri etkileşimleri molekül-molekül, iyon-mo -
+lekül ya da atom-atom etkileşimleri olarak ayrıştırmaları istenir. Ayrıştırılan etkile -
+şimlerin dipol-dipol, dipol-indüklenmiş dipol, iyon-dipol, iyon-indüklenmiş dipol ve

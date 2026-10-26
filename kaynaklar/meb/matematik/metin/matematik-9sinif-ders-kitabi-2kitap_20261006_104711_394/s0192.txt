@@ -1,0 +1,31 @@
+192
+6. Tema / İstatistiksel Araştırma Süreci
+b) Sorularınızı sınıf arkadaşlarınızla paylaşınız. Karekodda yer alan kontrol formu ile sınıf arka-
+daşlarınızın sorularının istatistiksel araştırma soruları ölçütlerine uygun olup olmadığını 
+değerlendiriniz. Değerlendirmelerinizi sınıf arkadaşlarınızla tartışınız.
+c) Sınıfça üzerinde tartıştığınız ve uzlaştığınız araştırma sorularını yazınız. İlk yazdığınız soru-
+larla sınıfça uzlaşarak yazdığınız sorular arasındaki benzerlik ve farklılıkları değerlendiriniz.
+Sınıfça uzlaştığınız betimleyen istatistiksel araştırma sorusu:
+Sınıfça uzlaştığınız karşılaştıran istatistiksel araştırma sorusu:
+ç) Tablodaki verileri elde edebilmek için nasıl bir veri toplama planı hazırlanmıştır? Fikrinizi 
+yazınız.
+Plan:
+d) Planınızı sınıf arkadaşlarınızla paylaşınız. Sınıf arkadaşlarınızın sunduğu planları karekod-
+daki kontrol formunda verilen veri toplama planında bulunması gereken özellikler açısın-
+dan değerlendiriniz. Değerlendirmelerinizi sınıf arkadaşlarınızla paylaşınız. Sınıfça üzerinde 
+uzlaştığınız veri toplama planını yazınız.
+Plan:
+e) Karekodda verilen dosyayı istatistik yazılımına yükleyiniz ve analiz için hazır hâle getiriniz.
+f) Sınıfça uzlaştığınız istatistiksel araştırma sorularına cevap bulabilmek için uygun görsel-
+leştirme ve/veya özetleme araçlarını seçerek veri analizlerini yapınız.
+g) Analiz sonuçlarını yorumlayarak araştırma sorularınıza cevap veriniz.
+Veri toplama planı kontrol formuna 
+ulaşmak  için karekodu okutunuz.
+Su kaynaklarından çekilen su miktarı 
+veri dosyasına ulaşmak için karekodu 
+okutunuz.
+İstatistiksel araştırma sorusu ölçütleri 
+kontrol formuna ulaşmak için karekodu 
+okutunuz.
+Konu ile ilgili daha fazla soru çözmek 
+için karekodu okutunuz.

@@ -1,0 +1,32 @@
+151
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Logaritmik fonksiyonun gerçek yaşamda kullanımına ilişkin verilen araştırma ödevi, derece -
+lendirme ölçeği kullanılarak değerlendirilebilir.
+Fizik, kimya ya da biyoloji alanlarına ilişkin gerçek yaşam durumlarında karşılaşılan problem -
+lerde üstel ve logaritmik fonksiyonların nitel özelliklerini ve işlem özelliklerini incelemeyi ge -
+rektiren performans görevi; analitik dereceli puanlama anahtarıyla değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin cebirsel veya  grafik temsili verilen fonksiyonların nitel özelliklerine dair 
+çıkarımlar yapabildiği, öğrendiği referans fonksiyonlara dönüşümler uygulayarak fark -
+lı fonksiyonlar türetebildiği, referans fonksiyonlardan türetilen fonksiyonların cebirsel 
+temsili ile  grafik temsili arasında geçiş yapabildiği, üslü ve köklü ifadelerle işlemler ya -
+pabildiği, üslü ve köklü ifadeleri birbirine dönüştürebildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere üslü ve köklü ifadeleri birbirine dönüştürmeyi ve işlem yapabilmeyi içeren açık 
+uçlu sorular sorulabilir. Uygun koşullarda tanımlı doğrusal, karesel, karekök, rasyonel ve 
+trigonometrik referans fonksiyonlardan türetilebilen fonksiyonların nitel özelliklerine ilişkin 
+öğrenme eksiklikleri açık uçlu sorular sorularak belirlenebilir. Öğrencilerin referans fonksi -
+yonlara dönüşümler uygulayarak farklı fonksiyonlar türetebilmesine ve referans fonksiyon-
+lardan türetilen fonksiyonların cebirsel ve grafik temsili arasında geçiş yapabilmesine dair 
+becerilerinin, kavram yanılgılarının, ilgi ve ihtiyaçlarının belirlenmesi amacıyla hazır bulunuş-
+luk testi yapılabilir.
+Köprü Kurma Farklı disiplinlerde karşılaşılan ve  üslü sayılar ile ifade edilebilen ilişkiler incelenerek öğren-
+cilerin üstel fonksiyonlara olan ihtiyacı fark etmeleri sağlanabilir. Örneğin biyolojide uygun 
+bir ortamda bulunan hücrelerin düzenli bir şekilde bölünerek çoğalması durumunda belli 
+bir süre sonunda ortamda bulunan hücre sayısı belirlenerek tabloya işlenebilir. Elde edilen 
+verilerden hareketle üstel fonksiyonların nasıl tanımlanabileceği ve nitel özelliklerinin neler 
+olabileceği üzerine tartışılabilir. Üstel ve logaritmik fonksiyonların mühendislikteki kullanı -
+mında önemli bir yer teşkil eden e sayısı ile ilgili incelemeler yapılabilir. Bu noktada e sayısının 
+mühendislik, biyoloji ve coğrafyada doğrusal olmayan büyüme veya değişim modellerinin 
+temsilinde, finansal matematikte yatırımların zamana bağlı değişimlerinin modellenmesin -
+deki kullanımı örnek durumlar üzerinden açıklanabilir.

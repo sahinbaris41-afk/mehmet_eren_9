@@ -1,0 +1,38 @@
+110
+5. Tema/Algoritma ve Bilişim  
+2. Sıra Sizde      
+Aşağıda istenen algoritmaların işleyişlerini algoritmik doğal dil yardımıyla ifade ediniz.
+ 
+ 
+a)  Bir doğal sayının 2’ye tam bölünüp 
+bölünmediğini bulan algoritma
+ 
+Algoritmik Doğal Dil
+b)  Bir doğal sayının 4’e tam bölünüp 
+bölünmediğini bulan algoritma
+ 
+ 
+Algoritmik Doğal Dil
+Araştırma Ödevi
+Aşağıda	verilen	adımları	gerçekleştirerek	araştırma	ödevini	zamanında	ve	
+eksiksiz	olarak	tamamlayınız.
+• Çeşitli	alanlardan	(sosyal	ağ,	eğitim,	sağlık	gibi)	bilinen	ve	sık	kulla-
+nılan	üç	farklı	program	veya	uygulamayı	seçiniz.
+• Seçtiğiniz	her	bir	program	veya	uygulamanın	arkasında	yatan	makine	
+öğrenmesi	algoritmalarını	araştırınız.
+• Bulduğunuz	algoritmaların	çalışma	prensiplerini	detaylı	bir	şekilde	
+açıklayınız.
+• Farklı	programlar	için	kullanılan	algoritmalar	arasındaki	benzerlik	ve	
+farklılıkları	belirleyiniz.
+• Hangi	algoritma	türlerinin	hangi	tür	uygulamalarda	daha	sık	kullanıl-
+dığını	belirleyiniz.
+• Her	bir	algoritmanın	gerçek	yaşamda	oluşturduğu	etkileri	örneklerle	
+gösteriniz.
+• Araştırmalarınızı	rapor	hâline	getir iniz.	Raporunuzu	sı nıfınızda	bir	
+sunum	olarak	arkadaşlarınıza	sununuz.
+Araştırma	ödeviniz	karekod	içinde	verilen	derecelendirme	ölçeği	ile	öğretme-
+niniz	tarafından	değerlendirilecektir.
+Derecelendirme 
+ölçeğine  
+ulaşmak için karekodu 
+okutunuz.

@@ -1,0 +1,47 @@
+60
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ Serbest Düşme
+İki Boyutta Sabit İvmeli Hareket 
+Newton'ın Hareket Yasaları
+Sürtünme Kuvveti
+Limit Hız
+Düzgün Çembersel Hareket
+Anahtar Kavramlar serbest düşme, eylemsizlik, etki-tepki kuvvetleri, serbest cisim diyagramı, sürtünme kuv-
+veti, statik sürtünme kuvveti, kinetik sürtünme kuvveti, limit hız, düzgün çembersel ha-
+reket, çizgisel sürat, açısal hız, çizgisel hız, merkezcil ivme, açısal ivme, merkezcil kuvvet
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; poster, kısa rapor, çıkış kartı, çalışma yaprağı, açık uçlu maddelerden 
+oluşan test, yapılandırılmış grid, bilgi görseli, kısa film veya animasyon kullanılarak değer-
+lendirilebilir.
+Öğrencilerden serbest düşme hareketi yapan cisimlerin ivme ve hız değişimlerini göste-
+ren bir poster hazırlaması istenebilir. Bu poster dereceli puanlama anahtarı ve öz değer -
+lendirme formu ile değerlendirilebilir. Matematiksel model kullanılarak yapılan hesapla-
+ma, grafik çizimi, grafikten değer bulma ve grafik verilerini yorumlayabilmeleri amacı ile 
+öğrencilere sınıfta kısa rapor yazdırılabilir. Rapor, analitik dereceli puanlama anahtarı ile 
+değerlendirilebilir. Newton'ın Hareket Yasalarına örnek verebilmesi için çıkış kartı verilebi-
+lir. Newton'ın Hareket Yasalarını serbest cisim diyagramını kullanarak yorumlayabilmeleri 
+için bir çalışma yaprağı verilebilir. Statik ve kinetik sürtünme kuvvetlerine yönelik karşılaş-
+tırabilme yapmaları için yapılandırılmış grid verilebilir. Sürtünme kuvvetinin hesaplanma-
+sına yönelik farklı soru türlerinden oluşan bir test verilebilir. Çıkış kartı, çalışma yaprağı, 
+test ve yapılandırılmış grid puanlama anahtarı ile değerlendirilebilir. Limit hızı etkileyen 
+faktörler hakkında bilgi görseli hazırlanması ve düzgün çembersel hareket ile vektörler 
+hakkında kavramları göstermek için kısa bir film çekilmesi ya da animasyon hazırlanması 
+performans görevleri olarak verilebilir. Performans görevleri dereceli puanlama anahtarı 
+ile değerlendirilebilir. Matematiksel hesaplamaları yapmaları için açık uçlu test verilebilir. 
+Açık uçlu test dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmelerde öz 
+değerlendirme, akran değerlendirme veya grup değerlendirmesi yapılarak çeşitlilik sağla-
+nabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin hız, ivme ve ağırlık kavramlarını bildikleri, ilgili hesaplamaları yapabildikleri, peri-
+yot ve frekans kavramlarını bildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Hız, ivme, ağırlık, periyot ve frekans kavramına yönelik soru cevap etkinliği yapılarak bu 
+kavramlar hatırlatılabilir. 
+Köprü Kurma Hareketli araçlar içindeki yolcuların hız değişimi sırasında yaşadıkları, aynı kuvvet etki-
+sinde kalan farklı kütleli cisimlerin hızlanması ya da yavaşlamasındaki farklılıklara yöne-
+lik gözlemler ve futbolda topa vurma sonucunda ayağa etki eden kuvvet gibi yaşantılar 
+üzerinden örnekler verilerek bu örnekler serbest düşme ve Newton'ın Hareket Yasaları ile 
+ilişkilendirilebilir. 

@@ -1,0 +1,52 @@
+94
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+İki kategorik değişkenli verilerdeki ilişkililiğe yönelik araştırma sorularına kaynaklık eden bağ-
+lamlar, öğrencilerin merak ettiği gerçek yaşam durumları bireysel veya iş birliğiyle grup çalış-
+ması yapılarak belirlenir (E1.1, SDB2.2). Bu süreçte öğrencilerin istatistiksel araştırma yap -
+mayı gerektiren gerçek yaşam durumlarını belirleyebilmeleri için sağlık, eğitim, çevre, doğa 
+veya iklim gibi alanlara yönelik bilgilere ihtiyaç duyduklarını fark etmeleri sağlanır (SDB1.1, 
+OB1). Toplumsal konulara yer verilmesi, öğrencilerin etrafında olup bitenleri merak etmesini 
+ve bu meraktan hareketle sorular sormasını destekleyecektir (E3.8, D5.1). Öğrenciler, birey-
+sel veya grup çalışması şeklinde belirledikleri gerçek yaşam durumlarını (örümcek ağı, kav-
+ram haritası gibi tekniklerle)  gösterir veya dijital ortamlarda kullanılan araçlar yardımıyla bu 
+gerçek yaşam durumlarını oluşturarak paylaşır (OB2). Belirlenen gerçek yaşam durumları, 
+veri toplamayı gerektirip gerektirmeme ölçütüne göre sınıf içi tartışmayla incelenir. Sınıf içi 
+tartışmalar, gerçek yaşam durumları incelenirken ortaya çıkan fikirlerin tartışılmasını sağlar 
+ve ölçüte uygun şekilde değerlendirilmesini destekler. Sınıf içi tartışma esnasında öğrencile-
+rin arkadaşlarının sözünü kesmeden etkin dinlemesi ve nazik olması beklenir (SDB2.1, D14.1). 
+Bu süreç, öz ve akran değerlendirme formu ile değerlendirilebilir. 
+Belirlenen bağlamlardan yola çıkılarak öğrencilerin merak ettikleri soruları ifade etmeleri 
+sağlanır (E3.8). Bu aşamada örnek bir bağlamdan hareketle bir araştırma sorusu oluşturulur. 
+Örneğin öğrencilerin bağcıklı veya bağcıksız ayakkabı tercihlerinin inceleneceği bir problem-
+den hareketle hangi değişkenlerin bağcıklı veya bağcıksız ayakkabı tercihiyle ilişkili olabile -
+ceğine yönelik sınıf içi tartışma başlatılabilir (SDB2.1, D14.1) . Bu tartışmanın sonunda öğ -
+rencilerle birlikte bağcıklı veya bağcıksız ayakkabı tercihinin sınıf düzeyi ile ilişkili olabileceği 
+ihtimalinden hareketle “A okulundaki 9 ve 12. sınıf öğrencilerinin sınıf düzeyleri ile bağcıklı 
+veya bağcıksız ayakkabı tercihleri arasında bir ilişki var mıdır?” şeklinde bir soruya ulaşılabilir. 
+Tasarruf etmeye dikkat çekmek amacıyla öğrencilerden gelen fikirler çerçevesinde “B ilin-
+deki güneş enerjisi sisteminin evlerde kullanılıp kullanılmama durumu ile elektrik faturasının 
+A Türk lirasından az ya da fazla olma durumu arasında bir ilişki var mıdır?” gibi sorular tartışılır 
+(SDB2.1, D17.2). Öğrencilerin farklı bağlamlardan hareketle hazırladıkları araştırma sorula -
+rına ilişkin fikirlerini tartışmaları sağlanır. Bu tartışmalar sonucunda iki kategorik değişkenli 
+veri dağılımlarının ilişkililiğine odaklanan problemlerden hareketle istatistiksel araştırma so-
+rularına ulaşmaları beklenir (SDB2.1, SDB3.3). Ayrıca öğrencilerden farklı disiplinlerle ilişki -
+lendirme yapmalarına yönelik araştırma soruları hazırlamaları istenir. Örneğin öğrencilerin 
+kimya dersi konularından yola çıkarak bir elementin metal olup olmaması ile kristal yapısının 
+kübik olup olmaması arasında bir ilişki olup olmadığını, biyoloji dersi konularından yola çı -
+karak bir canlının omurgalı olup olmama ile etçil beslenip beslenmeme arasındaki ilişkililiği 
+incelemeleri sağlanır.
+Belirlenen araştırma sorularına cevap bulabilmek amacıyla veri toplama sürecine geçilir. 
+Bu süreçte verileri öğrencilerin kendilerinin toplayabileceği ya da hazır veri kaynaklarından 
+elde edebileceği ifade edilir. Öğrencilerin hazır veriye ulaşırken dijital kaynakları nasıl doğru 
+kullanacaklarına dair bilgi sahibi olmalarına dikkat edilir (OB2). Öğrencilerden iki kategorik 
+değişkenli veri setlerinin nasıl toplanacağına yönelik veri toplama planı oluşturmaları iste -
+nir. Oluşturulan veri toplama planı doğrultusunda veri toplama araçlarının (anket, görüşme, 
+gözlem gibi) belirlenip oluşturulması, verilerin toplanması ve analize hazır hâle getirilmesi 
+beklenir (OB1).Öğrenciler verileri toplarken kişisel verilerin gizliliğine, nesnel ve dürüst olma-
+ya dikkat etmeleri hususunda teşvik edilir; aksi durumda doğacak olumsuz sonuçlara dikkat 
+çekilir (D6.2, D8.2). Ayrıca bu süreçte öğrencilerin belirlenen örneklemden toplanan verilerin 
+araştırma sorusuna cevap vermesi ve bu örneklemden elde edilen sonuçların evrene uygun-
+luğu üzerine eleştirel bakarak tartışmaları sağlanır (E3.10). Örneğin örneklemi A okulundaki 
+10. sınıf öğrencileri olan gruptan elde edilen sonuçların B okulundaki 10. sınıf öğrencilerinden 
+elde edilen sonuçlarla benzerlik veya farklılık gösterip göstermeyeceği incelenebilir. Ayrıca 
+bu sonuçların tüm 10. sınıf öğrencilerine genellenip genellenemeyeceği üzerine tartışılır.

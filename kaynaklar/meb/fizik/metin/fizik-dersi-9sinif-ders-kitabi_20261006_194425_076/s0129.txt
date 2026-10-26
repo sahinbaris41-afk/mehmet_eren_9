@@ -1,0 +1,66 @@
+129
+2. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+13.          Yaman’a satranç öğreten Kutay, taşların hareketini yandaki 
+tahtada uygulamalı olarak gösteriyor.
+Kutay; B2 karesinde bulunan fili önce D4 karesine, daha 
+sonra A7 karesine, son olarak da B8 karesine getirerek filin 
+sadece çapraz gittiğini gösteriyor.
+Kutay; H8 karesinde bulunan kaleyi önce H2 karesine, daha 
+sonra D2 karesine, son olarak da D8 karesine getirerek kale-
+nin sadece düz gittiğini gösteriyor.
+Kutay; E5 karesinde bulunan atı önce C4 karesine, daha 
+sonra E3 karesine, son olarak da G4 karesine getirerek atın 
+iki kare yukarı veya aşağı, sonra da bir kare sağa veya sola 
+“L” harfine benzer şekilde gittiğini gösteriyor.
+Buna göre fil, kale ve atın
+a) Her hamlesini vektör kullanarak satranç tahtası üzerinde çizerek gö steriniz.  
+(Fil, kale ve atın ilk konumlarındaki kareyi referans noktası olarak kabul ediniz.)
+A
+1
+2
+3
+4
+5
+6
+7
+8
+B C D
+Fil Kale At
+E F G H A
+1
+2
+3
+4
+5
+6
+7
+8
+B C D E F G H A
+1
+2
+3
+4
+5
+6
+7
+8
+B C D E F G H
+b) Yer değiştirme büyüklükleri arasındaki ilişkiyi yazınız.
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+c) Toplamdaki hareket sürelerinin eşit olduğu kabul edilirse taşların ortalama süratleri 
+arasındaki ilişkiyi yazınız.
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+ç) Toplamdaki hareket sürelerinin eşit olduğu kabul edilirse taşların ortalama hızlarının 
+büyüklükleri arasındaki ilişkiyi yazınız.
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+Ünite ile ilgili daha fazla soru çözmek için karekodu okutunuz.
+A
+1
+2
+3
+4
+5
+6
+7
+8
+B C D E F G H

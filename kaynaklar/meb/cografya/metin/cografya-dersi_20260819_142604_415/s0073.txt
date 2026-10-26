@@ -1,0 +1,18 @@
+73
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+Bu ünitede performans görevi olarak öğrencilerden çeşitli mekânsal verileri kullanarak 
+web tabanlı CBS üzerinden basit bir harita oluşturmaları istenebilir. Performans görevi, 
+analitik dereceli puanlama anahtarı, öz ve grup değerlendirme formuyla değerlendirilebilir 
+(SDB1.2, SDB1.3).
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilere Yerel Yönetimler ve Akıllı Şehir Uygulamaları ile *T.C. Çevre, Şehircilik ve İk -
+lim Değişikliği Bakanlığı Coğrafi Bilgi Sistemleri Genel Müdürlüğü tarafından yürütülen 
+çalışmalar konularında araştırma görevi verilebilir. Öğrencilerin söz konusu çalışmalarını 
+öğrenme profillerine göre farklı yollarla sunmalarına (rol oynama, eylem planı ve medya 
+ürünü hazırlama, görsel ve sözlü sunum vb.) imkân sağlanır.
+Destekleme Web tabanlı CBS uygulama örneklerinin sayısı artırılabilir. Performans görevi, web tabanlı 
+CBS uygulaması kullanılarak hazırlanan haritaların incelenmesi ve bu haritalardan çıka-
+rımlar yapılması şeklinde düzenlenebilir. 
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

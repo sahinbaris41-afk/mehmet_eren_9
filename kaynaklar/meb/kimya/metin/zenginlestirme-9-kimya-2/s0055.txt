@@ -1,0 +1,30 @@
+54 55
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+Akışkanlar sürtünme (deformasyon hızı) ve kayma gerilmesine göre Newton tipi olan ve olmayan akış-
+kanlar olarak ayrılır (Grafik 2.2). Grafiklerde çizilen eğim (α) açısı viskoziteyi vermektedir. 
+• Eğim açısı (α) değişmeyen akışkanlara Newton tipi akışkan denir. Kırmızı çizgi ile gösterilen 
+kısımda açı (α) her yerde aynıdır. Eğim viskoziteyi gösterdiğinden viskozite her yerde aynıdır. 
+• Kalınlaşan akışkan, deformasyon hızı arttıkça kayma gerilimi önce yavaş sonra hızlı artarak 
+eğim açısını (α) artırır. Viskozite gittikçe artar. Günlük hayatta nişasta-su karışımına sert bir 
+kuvvet uygulanırsa viskozitesi (eğimi) hızlı arttığından akışkanlığı azalıp katılaşır. Ama hafif bir 
+kuvvet uygulanırsa karışım akışkan hâle geçer. Bir kişi; bu özelliğe sahip akışkanlarla dolu bir 
+havuzun yüzeyinde yavaş hareket ettiğinde batar, hızlı hareket ettiğinde ise sıvının yüzeyinde 
+yürüyebilir.
+• İncelen akışkan, deformasyon hızı arttıkça kayma gerilimi önce hızlı sonra yavaş artarak eğim 
+açısını (α) azaltır. İlk başta daha koyu bir yapıya sahipken daha sonra daha akışkan bir yapıya 
+sahip olur. Örneğin boya ilk durumda koyu hâldeyken bir çubuk ile karıştırılınca akışkanlığı 
+artar. Başka bir örnek ise kandır. Kan, damarlardan beyindeki ince kılcallara geçişte damarları 
+çatlatmamak için viskozitesini azaltır, akışkanlığını artırır. 
+• Bingham (Bingım) plastik akışkanı belirli bir kayma gerilmesine gelmeden akışında bir deformas-
+yon görülmez. Diş macunu tüpünün kapağını açıp tüpü baş aşağı çevirirseniz macunun akmadığını 
+göreceksiniz. Yani belirli bir kuvvet uygulanmadan akışkan akmaz. 
+Newton tipi akışkan Su, hava, alkol, gliserin, benzin, mısır şurubu, yağ vb.
+Newton tipi olmayan akışkan
+Polimer çözeltileri (örneğin, polivinil alkol), bal, ketçap, mayonez, 
+diş macunu, şampuan, sıvı sabun, mısır nişastası-su karışımı, 
+puding vb. 
+1. Öğrencileri 2-4 kişilik gruplara ayırınız. 
+2. Gruplardan sıvıların akıcılığı ya da viskozitesi ile ilgili ayrıntılı araştırma yaparak bilgi toplamalarını 
+isteyiniz. Bu kaynakların güvenilir bilimsel makaleler, ders kitapları ve online eğitim materyalleri 
+olmasına dikkat ediniz. 

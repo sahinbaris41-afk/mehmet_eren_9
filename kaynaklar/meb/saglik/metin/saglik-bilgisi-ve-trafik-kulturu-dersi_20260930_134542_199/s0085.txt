@@ -1,0 +1,98 @@
+Sağlık Bilgisi ve Trafik Kültürü
+85
+Kontrol Noktası
+Aşağıda Doğru (D)/Yanlış (Y) önermeleri içeren tanılayıcı dallanmış ağaç verilmiştir. Verilen önerme-
+nin doğru olduğunu düşünüyorsanız (D), yanlış olduğunu düşünüyorsanız (Y) seçeneğini işaretlemeniz 
+gerekmektedir. İlk önermeden başlayarak yapacağınız seçimlerle ve oklar yönünde ilerleyerek bir 
+çıkış noktası belirleyiniz.
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+Dengeli beslenmede
+karbohidratlar temel 
+enerji kaynağı olduğundan 
+diğer besin grupları 
+ikincil önemdedir. 
+Günlük alınan enerji, har-
+canan enerjiyle dengede 
+olmalıdır.
+BKİ, kas ve yağ oranını 
+doğrudan ölçer.
+BKİ kilo ölçümü kullanı-
+larak hesaplanır.
+Proteinler, doku onarı-
+mında görev alır.
+Yetişkinlikte vitamin 
+eksiklikleri önemli 
+sağlık sorunlarına 
+neden olabilir.
+ D
+ Y
+1. Çıkış
+15. Çıkış
+3. Çıkış
+7. Çıkış
+11. Çıkış
+5. Çıkış
+9. Çıkış
+13. Çıkış
+2. Çıkış
+16. Çıkış
+4. Çıkış
+8. Çıkış
+12. Çıkış
+6. Çıkış
+10. Çıkış
+14. Çıkış
+Dengeli beslenme, tüm 
+besin gruplarının öğünlerde 
+düzenli olarak yer almasıyla 
+sağlanır.
+ D
+ D
+ D
+ D
+ D
+ D
+ D
+ D
+ Y
+ Y
+ Y
+ Y
+ Y
+ Y
+ Y
+ Y
+Su, vücut sıcaklığını 
+düzenler.
+Yeme bozuklukları 
+genellikle kısa sürede 
+kendiliğinden düzelir.
+Obezite, kronik hasta-
+lık riskini artırır.
+Çocukluk dönemindeki 
+beslenme, ileri yaş 
+sağlığını etkiler.
+Obezite sadece 
+genetik nedenlerden 
+kaynaklanır.
+Yeme bozuklukları psi-
+kolojik sağlık üzerinde 
+etkilidir.
+Günlük su ihtiyacı yal-
+nızca susama hissine 
+göre belirlenir.
+Düzenli egzersiz 
+yapan bireyler çok 
+fazla enerji alsalar bile 
+kilolarını koruyabilir.

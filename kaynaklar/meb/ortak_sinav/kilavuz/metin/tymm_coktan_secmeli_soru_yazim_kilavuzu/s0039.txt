@@ -1,0 +1,45 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+39
+1-5. soruları aşağıdaki bilgilere göre cevaplayınız.
+Küresel ölçekte gerçekleşen iklim değişiklikleri, su kaynaklarını doğrudan etkilemektedir. Söz konu -
+su değişikliklerin yanı sıra yürütülen beşerî faaliyetler de su kaynakları üzerinde büyük baskı oluş -
+turmaktadır. Su kaynaklarının yıllar içerisindeki değişimlerine bakıldığında özellikle göllerdeki deği -
+şimlerin daha hızlı gerçekleştiği görülmektedir. Türkiye’deki göl yüzeylerinde gerçekleşen alansal 
+değişimler de ciddi sorunlara neden olmaktadır. Türkiye’de son 50 yılda 36 göl tamamen kurumuştur. 
+Uzaktan algılama yöntemleri kullanılarak yapılan gözlemlerde bu değişimler belirgin olarak görülebil -
+mektedir. Uydu görüntüleri, göl yüzeylerindeki değişimleri açıkça ortaya koymaktadır. Burdur Gö -
+lü’nün yüzey alanındaki değişimler bu duruma örnek teşkil etmektedir.
+1985Yağış ve Buharlaşma (mm)
+BURDUR GÖLÜ UYDU GÖRÜNTÜLERİ
+Burdur GölüBurdur Gölü
+2020
+10
+km
+0 10
+km
+0
+K
+ K
+860
+855
+850
+845
+840
+835
+1985 1990 1995 2000 2005 2010 2015 2020
+Göl Yüzeyi Yüksekliği (m)
+Yıllar
+1985-2020
+Burdur Gölü Seviye Değişimleri ile Yağış ve Buharlaşma İlişkisi
+1800
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+Buharlaşma (mm) Yağış (mm) Göl Yüzeyi Yüksekliği (m)
+1985

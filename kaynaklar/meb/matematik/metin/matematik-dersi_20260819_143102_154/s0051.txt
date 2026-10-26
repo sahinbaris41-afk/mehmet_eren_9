@@ -1,0 +1,47 @@
+51
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ • Doğrusal Fonksiyonlar ve Nitel Özellikleri
+• Mutlak Değer Fonksiyonu ve Nitel Özellikleri
+• Doğrusal Fonksiyonlarla İfade Edilebilen Denklem ve Eşitsizlikler İçeren Problemler
+Genellemeler • Fonksiyonlar, niceliklerin birbirine bağlı değişimlerini temsil eder. 
+•  Doğrusal değişim, doğrusal fonksiyonlarla temsil edilebilir.
+•  Doğrusal fonksiyonlar, doğrusal referans fonksiyondan türetilebilir.
+Anahtar Kavramlar artanlık-azalanlık, bağımlı-bağımsız değişken, bire birlik, doğrusal denklem ve eşitsizlik, 
+doğrusal fonksiyon, doğrusal ilişki, eğim, fonksiyonların parçalı gösterimi, fonksiyonun 
+işareti, fonksiyonun sıfırı, katsayı, kök, maksimum-minimum noktaları, mutlak değer fonk-
+siyonu, sabit fonksiyon, sabit terim 
+Sembol ve Gösterimler  f: ℝ   ℝ,  f (x) = x,  h(x) = ax ± b, n(x) = |x|, m (x) = ± |ax ± b| ± c
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve 
+proje ödevi ile değerlendirilebilir.
+Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin 
+sonuçlarını içeren bir performans görevi hazırlamaları istenebilir. Hazırlanan performans 
+görevi,  analitik dereceli puanlama anahtarı ile değerlendirilebilir.
+Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate -
+matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları 
+istenebilir. Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı 
+kullanılarak değerlendirebilir.
+Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör -
+neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir. Verilen araştırma ödevi, içe-
+rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir.
+Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren 
+gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre-
+bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta-
+bilmelerini  değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor-
+mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.
+Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğ -
+rencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini ince-
+lemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları değerlen -
+direrek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir. 
+Bu ödevin değerlendirilmesinde  projeyi hazırlama, içerik ve sunum süreçlerini de içeren 
+derecelendirme ölçeği hazırlanabilir.
+d) Elde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji 
+oluşturur.
+e) Belirlediği stratejiyi kullanarak problemi çözer.
+f) Elde ettiği çözümü uygun yöntemleri seçerek doğrular.
+g) Problemin olası  çözüm stratejilerini gözden geçirir.
+ğ) Problemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.
+h) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.

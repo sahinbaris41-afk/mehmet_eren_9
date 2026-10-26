@@ -1,0 +1,33 @@
+244
+3. Tema/Sürdürülebilirlik
+Yönerge: Aşağıdaki deneyleri öğretmeniniz ile birlikte yaparak değerlendirme sorularını cevaplayınız.
+Deneyin Adı: Gümüş Nanoparçacık Eldesi (AgNP)
+Deneyin Amacı: Gümüş nanoparçacık elde edebilme
+Malzemeler: gümüş nitrat (AgNO3), sodyum sitrat (Na3C6H5O7.2H2O), balon joje, deney tüpü, damlalık, ter-
+mometre, ısıtıcı, spor, kıskaç, pipet, puar, baget, saf su, 100 mL ’lik beherglas (2 adet)
+İşlem Basamakları
+• 0,17 gram gümüş nitrat (AgNO3) katısını tartıp balon jojeye koyunuz ve katının üzerine bir miktar saf su 
+ekleyerek çözünüz. Daha sonra saf suyla balon jojedeki sıvıyı 1000 mL’ ye tamamlayınız.
+• 1 gram sodyum sitrat (Na3C6H5O7.2H2O) katısını tartıp 100 mL ’lik balon jojeye koyunuz ve katının üzerine 
+bir miktar saf su ekleyerek çözünüz. Daha sonra hacim 100 mL oluncaya kadar saf su ekleyiniz.
+• 2 mL AgNO3 çözeltisini deney tüpüne koyarak su banyosuna (su dolu beherglas) yerleştiriniz. Beher- 
+glastaki su kaynamaya başladıktan sonra deney tüpünü su banyosunda yaklaşık 10 dakika daha ısıtma -
+ya devam ediniz. 
+• Su banyosunda ısıttığınız AgNO3 çözeltisine 7 damla (0,45 mL) sodyum sitrat çözeltisini damla damla 
+ekleyiniz. Karışımı 5 ila 15 dakika daha su banyosunda ısıtmaya devam ediniz. Renksiz karışım açık sarı 
+renge dönüştüğünde gümüş nanoparçacıklar (AgNP) oluşmuş olur. 
+Deneyin Adı: Bakır Nanoparçacık Eldesi (CuNP)
+Deneyin Amacı: Bakır nanoparçacık elde edebilme
+Malzemeler: bakır(II) klorür (CuCl2), askorbik asit (C6H8O6), 100 mL’lik beherglas (2 adet), hassas terazi, 
+mezür, baget, saf su, ısıtıcı 
+İşlem Basamakları
+• 2 gram Bakır(II) klorür  (CuCl2) katısını tartıp 100 mL ’lik bir beherglasa koyu nuz ve katının üzerine 5 mL 
+saf su ilave ediniz. Beherglastaki karışımı dikkatli bir şekilde karıştırarak çözeltiyi hazırlayınız.
+• 3 gram askorbik asit (C6H8O6) katısını tartarak beherglasa koyunuz ve katının üzerine 10 mL saf su ilave 
+ediniz. Beherglastaki karışımı dikkatli bir şekilde karıştırarak çözeltiyi hazırlayınız.
+• Askorbik asit çözeltisinin tamamını CuCl2 çözeltisine ilave edip karıştırınız.
+• Çözeltiyi birkaç saat bekletiniz. Karışımın beyaz rengi önce sarı sonra kahverengi renge dönüştüğünde 
+bakır nanoparçacıkların (CuNP) oluşumunu gözlemleyiniz.
+• Kolloidal çözeltide pembe kızıl renkli bakır metali çökmüşse süzerek çöken bakırı nanoparçacıklardan ayırı-
+nız.
+Gümüş ve Bakır Nanoparçacık Sentezi (AgNP ve CuNP)Etkinlik-3.3

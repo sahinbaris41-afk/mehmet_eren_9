@@ -1,0 +1,43 @@
+79
+4. Tema / Eşlik ve Benzerlik
+31. ÖRNEK
+Hakan,	lideri	olduğu	dağcılık	kulübü	üyeleriyle	yapacağı	yürüyüşte	zirvesine	ulaşmayı	planladıkları	te-
+penin	yüksekliğini	ve	yürüyecekleri	mesafeyi	hesaplamak	istemektedir.	T epenin	doğu	ve	batı	yamaçla-
+rının	yer	düzlemine	değdiği	noktalar	arasındaki	kuş	uçuşu	mesafe	1350	m’dir	ve	bu	noktaların	zirveye	
+uzaklıkları	eşittir.	T epenin	doğu	yamacının	yer	düzlemine	değdiği	noktanın	Hakan’ın	bulunduğu	noktaya	
+uzaklığı	527	m’dir.	Hakan,	yukarıda	gösterildiği	gibi	bir	nesneden	yansıyan	ışık	ışınının	aynaya	çarparak	
+göze	ulaştığını	ve	ışının	aynayla	yaptığı	açının	ölçüsü	ile	göze	aynadan	yansıyan	ışının	aynayla	yaptığı	
+açının	ölçüsünün	eşit	olduğunu	bilmektedir.	Bu	bilgiden	hareketle	aynayı	yer	düzleminde	kendisinden	 	 	 	
+2	m	uzaklıktaki	A	noktasına	yerleştiren	Hakan’ın	yer	düzlemine	dik	pozisyonda	durduğunda	göz	hizası-
+nın	yerden	yüksekliği	150	cm’dir.	Ayna	bu	konumdayken	tepenin	zirve	noktası	görülmektedir .	
+Buna	göre	aşağıdaki	problemleri	inceleyerek	soruları	cevaplayınız.
+1. Problem:	Hakan	ve	kulüp	üyelerinin	tırmanacakları	tepenin	yüksekliğinin	kaç	metre	olduğunu	bulunuz.
+2. Problem: Hakan	ve	kulüp	üyelerinin	tepenin	yamaç	noktasından	zirveye	kadar	doğrusal	bir	yol	yürü-
+yecekleri	kabul	edilirse	yürünmesi	gereken	yolun	uzunluğunun	kaç	metre	olacağını	bulunuz.
+a) Yukarıdaki	problemlerin	verilerini	ve	ulaşılmak	istenen	uzunluklar	arasındaki	ilişkileri	belirleyerek	
+problemleri	geometrik	şekiller,	matematiksel	sembol	ve	gösterimler	yardımıyla	ifade	ediniz.	
+b) Problemleri	çözünüz.
+Çözüm
+a) Yüksekliği	hesaplanacak	tepenin	doğu	ve	batı	yamaçlarının	tepenin	zirvesine	eşit	uzaklıkta	olduğu,	
+doğu	ve	batı	yamaçları	arasındaki	kuş	uçuşu	mesafe,	Hakan’ın	göz	hizasının	yer	düzlemine	uzaklığı	
+ve	Hakan’ın	bulunduğu	noktanın	tepenin	doğu	yamacına	uzaklığı	bilinmektedir.	T epe	TBD	ikizkenar	
+üçgeni;	tepenin	batı	ve	doğu	yamaçları	sır asıyla	B	ve	D	noktaları ,	zirvesi	T	noktası ;	Hakan’ı n	göz	
+hizasının	yerden	yüksekliği	 KL ,7A 	aynayı	koyduğu	nokta	A	ve	tepenin	yüksekliği	 TH7A 	ile	modellenerek	
+aşağıdaki	görsel	oluşturulabilir.	
+Verilenlere	 göre	 BD ,D L, AL KLmm mv ec m1350 527 2 150== == ’dir.	 T epenin	 zirve	 nok-
+tasından	 yansıyan	 ışık	 ışını	 TA7 A ,	 Hakan’ın	 gözüne	 aynadan	 yansıyan	 ışın	 KA7A 	 ile	 gösterilirse	
+m TAD m KAL=__ i i%% 	olur.	
+b) DL DA AL=+ 	olduğundan	 DA 527 2=+ 	olur.	Buradan	 DA 525= 	m	bulunur.	TBD	ikizkenar	
+üçgen	olduğundan	 BH HD= 	olur.
+BD 1350= 	m	olduğundan	 BH HD HA HD DA .mv em bulunur675 675 525 1200== =+ =+ =  
+A
+K
+G
+DB
+5271350
+1,5
+B
+T
+DH A L
+K
+2

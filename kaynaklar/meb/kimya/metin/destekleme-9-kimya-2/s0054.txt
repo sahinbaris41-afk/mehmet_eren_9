@@ -1,0 +1,43 @@
+53
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+2. TEMA: ÇEŞİTLİLİK
+7. ETKINLIK ADI YÜZEY GERİLİMİNE SICAKLIK ETKİSİ
+ ► Öğr encilerden Tablo 2.5'te verilen farklı sıvıların 20 ve 50 
+o
+C’taki yüzey gerilimleri değerlerini ince-
+lemelerini isteyiniz.
+Sıvı Yüzey Gerilimi (N/m)
+Su (20 
+o
+C) 0,073
+Su (50 
+o
+C) 0,068
+Etanol (20 
+o
+C) 0,023
+Etanol (50 
+o
+C) 0,020
+Etilen glikol (20 
+o
+C) 0,048
+Etilen glikol (50 
+o
+C) 0,044
+Tablo 2.5: Farklı Sıvıların 20 ve 50 
+o
+C’taki Yüzey Gerilimi Değerleri (N/m)
+ETKINLIĞIN AMACI Sıvılar da yüzey gerilimini ve yüzey gerilimini etkileyen faktörleri belirleyebilme
+DESTEKLEME 
+UYGULAMASI
+Sıvıların buhar basıncı, viskozitesi ve yüzey gerilimine ilişkin deneylerin 
+tasarımı öğrencilerin önerileri alındıktan sonra öğretmen tarafından  
+gerçekleştirilir.
+ARAÇ GEREÇ VE 
+MATERYALLER
+Farklı sıvıların farklı sıcaklıklardaki yüzey gerilimi ile ilgili tablo
+Bu etkinlikte kullanılması için Tablo 2.5'i öğrenci sayısı kadar çoğaltarak öğrencilere 
+dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.

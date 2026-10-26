@@ -1,0 +1,8 @@
+FİZİK 9 
+90 91
+ÜNITE 3: AKIŞKANLAR
+Yapılabilecek Farklı Uygulamalar
+ ▶ Öğrenciler gerçek uçak, helikopter veya İHA modellerini inceleyebilir. Bu araçların 
+aerodinamik yapılarının Bernoulli İlkesi'ne nasıl dayandığını analiz edebilir.
+ ▶ İleri düzeyde, öğrenciler daha karmaşık rüzgâr tüneli deneyleri yaparak farklı kanat 
+profillerinin aerodinamik performanslarını karşılaştırabilir.

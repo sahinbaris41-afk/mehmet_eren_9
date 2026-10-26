@@ -1,0 +1,30 @@
+27
+4. Tema / Eşlik ve Benzerlik
+16. Farklı bir şekil ve bu şeklin kesişen iki doğrudan birine göre yansıma dönüşümü uygulanarak elde edilen gö-
+rüntüsünün diğer doğruya göre tekrar yansıma dönüşümü uygulanmış görüntüsünü de matematik yazılımında 
+oluşturunuz ve incelemeler yapınız. Yaptığınız incelemelerden hareketle genellemelerinizin her birini bir öner-
+me olarak örnekteki gibi yazınız.
+Kesişen doğrulardan birine göre yansıma dönüşümü uygulanarak elde edilen görüntüye diğer doğruya göre 
+tekrar yansıma dönüşümü uygulandığında elde edilen dönüşüm yansıma dönüşümü değildir.
+17. Kesişen doğrulardan birine göre yansıma dönüşümü uygulanarak elde edilen görüntüye diğer doğruya göre 
+tekrar yansıma dönüşümü uygulandığında elde edilen dönüşümü yansıma ve öteleme dönüşümünden ayıran 
+özellikleri tespit ediniz. Tespitlerinizi Tablo 3’ün ilgili alanına yazınız.
+Tablo 3
+Elde Edilen Dönüşümü Yansıma Dönüşümünden 
+Ayıran Özellikler 
+Elde Edilen Dönüşümü Öteleme Dönüşümünden 
+Ayıran Özellikler
+18. Tablo 3’ten hareketle kesişen doğrulardan birine göre yansıma dönüşümü uygulanarak elde edilen görüntüye 
+diğer doğruya göre tekrar yansıma dönüşümü uygulandığında elde edilen dönüşümün şekilleri nasıl hareket 
+ettirdiğini veya şekilleri görüntülerine nasıl eşlediğini tartışınız. Tartışma sonucunda ulaştığınız verilere ilişkin 
+değerlendirmelerinizi yazınız.
+Kontrol Noktası
+• Düzlemde bir şekle kesişen iki doğrudan birine göre yansıma dönüşümü uygulanıp elde edilen görüntüye 
+diğer doğruya göre tekrar yansıma dönüşümü uygulanırsa şekil üzerindeki noktalar çembersel bir yol çizer 
+ve görüntüleriyle eşleşir.
+• Şekil üzerindeki noktaların görüntüleri, her bir noktanın doğruların kesim noktası etrafında ve doğrular 
+arasındaki açının ölçüsünün iki katı kadar açıyla belirli bir yönde hareket etmesi sonucu oluşur.
+• Kesişen doğrulardan birine göre yansıma dönüşümü uygulanarak elde edilen görüntüye diğer doğruya göre 
+tekrar yansıma dönüşümü uygulandığında elde edilen dönüşüm dönme dönüşümüdür.
+• Doğruların kesim noktası, dönme merkezi; doğrular arasındaki açının ölçüsünün iki katı olan açı ölçüsü 
+değeri ise dönme açısıdır. Dönme merkezi ve dönme açısı, dönme dönüşümünün bileşenleridir.

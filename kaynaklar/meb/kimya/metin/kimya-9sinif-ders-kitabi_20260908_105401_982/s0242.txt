@@ -1,0 +1,32 @@
+242
+3. Tema/Sürdürülebilirlik
+Görsel 3.10: SEM’de farklı boyutların karşılaştırılması
+Büyüteç veya mikroskop kullanılarak nesneler daha iyi görülebilir. Çıplak gözle 
+genellikle 0,1 milimetre boyutundaki nesneler görülebilirken ışık mikroskop -
+larıyla yaklaşık 1 mikrometre (10
+−3
+ mm) boyutundaki nesneleri görmek müm-
+kündür. Çıplak gözle veya ışık mikroskobuyla nanoboyuttaki nesneleri görmek 
+mümkün değildir. Bu durum nanoboyutlu nesnelerin ışığın dalga boyundan 
+daha küçük olmasından kaynaklanır. Nanoboyuttaki nesneler taramalı elekt-
+ron mikroskobu [SEM (Scanning Electron Microscope)] ile görüntülenebilir 
+(Görsel 3.9). SEM, bir malzemenin yüzeyini görüntülemek için elektronları 
+kullanır. SEM’in çözünürlük sınırı yaklaşık 0,05 nm'dir ve görüntüyü büyütme 
+miktarı 5X ila 300 000X arasında değişebilir (Görsel 3.10).
+Görsel 3.9
+Taramalı Elektron 
+mikroskobu (SEM).
+Nanoboyutu Görüntülemek
+1 pm 1000 mm1 µm 10 µm 100 µm1 nm 10 nm 100 nm
+Göz
+Işık mikroskobu
+Elektron mikroskobu
+Atom
+Küçük  
+moleküller
+Virüs Organeller
+Proteinler
+Ökaryotik 
+hücreler
+Bakteri
+Ya ğ l ar

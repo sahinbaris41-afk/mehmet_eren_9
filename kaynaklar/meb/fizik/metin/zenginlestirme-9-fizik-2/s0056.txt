@@ -1,0 +1,25 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+54 55
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+ ♦ Öğrencilere bu deneyin ilk defa Torricelli tarafından atmosfer basıncının hesaplanması için yapıldığını 
+belirtiniz. 
+ ♦ Deneyin 1 atmosfer basıncı altında, deniz seviyesinde ve 0 °C'ta cıva kullanılarak yapıldığını açıklayı -
+nız.
+ ♦ Torricelli tarafından
+Pcıva= Pdış(hava) = P = h ∙ d ∙ g şeklinde formüle edilmiştir.
+P cıva : cıvanın basıncı
+P dış (hava) : açık hava basıncı (atmosfer basıncı)
+h : cıvanın yüksekliği
+d cıva : cıvanın yoğunluğu (13,6 g / cm³) olarak kabul edilmiştir.
+g : yer çekimi ivmesi
+ ♦ Öğrencilerden Torricelli deneyine benzer bir sistem tasarlamasını isteyiniz.
+ ♦ Öğrencileri rehberliğinizde gruplara ayırınız.
+ ♦ Gruptaki öğrencilerin görev paylaşımı yapmalarını sağlayınız.
+ ♦ Ek 1’ de yer alan tasarlama aşamalarının bulunduğu kâğıdın yeterli sayıda çıktısını alınız ve öğrencilere 
+dağıtınız.
+ ♦ Çalışma basamaklarında öğrencilerin ihtiyaç duyduğu noktalarda onlara destek olunuz.
+ ♦ Sürecin herhangi bir aşamasında hiç kimsenin zarar görmemesi için gerekli tedbirlerin alındığından 
+emin olunuz.
+Tasarıma Başlarken
+Tasarım Aşamaları

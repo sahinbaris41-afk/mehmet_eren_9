@@ -1,0 +1,48 @@
+83
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Seçilen olaylar “ve/veya” içeren durumlar olabilir ancak koşullu olasılık yorumlaması gerektiren 
+olaylara (hilesiz iki sayı küpü atıldığında üst yüzlerine gelen sayıların toplamının 6 geldiğinin bilinme-
+si ve sayıların aynı gelmesi gibi) değinilmez. Ele alınan olayların ayrık olma ve ayrık olmama durum-
+larının incelenmesine de yer verilir. Aynı örnek uzaya ait iki olayın ortak çıktısı yoksa bunların ayrık 
+olaylar, ortak çıktıları varsa ayrık olmayan olaylar olduğu öğrencilere hatırlatılır. Seçilen olayların 
+incelenmesiyle süreç sonunda öğrencilerin ayrık olaylar için P(A ⊂B) = P(A) + P(B) kuralına, ayrık 
+olmayan olaylar için P(A 
+⊂B) = P(A) + P(B) - P(A 
+⊂B) kuralına ulaşmaları beklenir. 
+Öğrencilerin olayların olasılığına ilişkin tümevarımsal akıl yürütebilmeyi tamamlaması için he -
+saplanan teorik olasılıkların deneysel olasılıkla ilişkisi ele alınmalıdır. Daha önce belirlenen ve 
+teorik olasılıklı hesaplanan olaylar arasından simülasyon kullanımına elverişli bir deney ile derse 
+devam edilir veya hem deneysel hem de teorik olarak incelenebilecek yeni bir deney belirlenir. 
+Ele alınan deneyde gözlenen olaya ait çıktı sayısı ile toplam tekrar sayısı, çetele ve sıklık tablo-
+ları kullanılarak öğrenciler tarafından kaydedilir. İstenen durum için göreli sıklıklar elde ederek 
+öğrencilerin olasılık tahminleri yapmaları sağlanır ve hesaplanan teorik olasılık değerleri ile kar-
+şılaştırılır.
+Sınıf içinde yapılan deneme sayısı yeterli olmayabileceğinden simülasyon kullanılarak deneme 
+sayısı artırılır (MAB5). Öğrenciler uzun vadede elde edilen sonuçlar ile teorik olasılık değerinin 
+karşılaştırılması için teşvik edilir. Öğrencilerden yapılacak tartışma veya soru cevap etkinlikle-
+rinden edindikleri bilgileri sentezleyerek olayların deneysel olasılık değerinin deneme sayısı art-
+tıkça teorik olasılık değerine yaklaşmasına yönelik genelleme yapması beklenir (OB1). Olayların 
+teorik olasılıkları incelenirken tüm olası durumların görselleştirilmesinde kullanılan sistematik 
+liste, tablo, ağaç şeması gibi farklı temsillerin verilen olay bağlamında hangisinin daha uygun 
+olduğuna dair eşleştirme testi kullanılabilir. 
+Öğrencilere günlük hayatta karşılaşabilecekleri biyoloji (genetik, kalıtım gibi), coğrafya (meteo-
+roloji tahminleri, yıllık beklenen yağış miktarlarının göreli sıklıkları gibi), ekonomi (ekonomik tah-
+minler, finansal risk hesaplamaları gibi) gibi farklı disiplinlerden seçilecek olasılık problemlerini 
+içeren açık uçlu sorular verilir. Böylelikle öğrenciler, veriye dayalı veya teorik olarak elde edilen 
+olasılık değerlerinin günlük hayattaki karşılığını görür; alacakları kararlarda daha esnek davran-
+mayı ve belirsiz ya da yeni durumlara uyum sağlamayı içselleştirir (SDB3.1, SDB3.2).
+Öğrencilere olayların olasılığını gözleme dayalı tahmin etme ve tümevarımsal akıl yürütme bece-
+rilerinin bileşenlerini bütünsel olarak değerlendirebilme amacı ile performans görevi verilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilerden dört olaydan meydana gelen olayların olasılığını içeren gerçek yaşam du -
+rumlarına ilişkin değerlendirmeler yapmaları istenebilir. Örneğin spor müsabakalarında oyun-
+cu performanslarının yıllara göre istatistikleri incelenerek öğrencilerden olayların olasılıklarını 
+hesaplamaları ve elde ettikleri sonuçlardan hareketle bir karara ulaşmaları beklenebilir. 
+(*) Büyük sayılar yasasına ilişkin araştırma yapılması, yapılan araştırmaların özgün ürünlerle 
+(poster, bilgi görseli gibi) sunulması veya bilimsel bir raporla paylaşılması istenebilir. Olayların 
+olasılığı, düzgün çok yüzlü materyaller (düzgün sekiz yüzlü, düzgün on iki yüzlü gibi) kullanıla -
+rak ele alınabilir.
+Öğrencilerden olayların örnek uzayını belirlerken olaylara ait çıktıların kaydını tutabilmek için 
+kullanılan sistematik liste, tablo, ağaç şeması gibi farklı temsiller arasında hangisinin verilen 
+bağlama uygun olduğunu eleştirel bir bakış açısıyla değerlendirmesi istenebilir. Yapılan seçi-
+min gerekçelendirilmesine yönelik çalışma kâğıdı hazırlanabilir.

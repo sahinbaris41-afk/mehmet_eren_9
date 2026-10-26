@@ -1,0 +1,39 @@
+120
+2. Tema/Çeşitlilik
+Isıtılarak tepkimeye hazır hâle getirilen sodyum elementi, klor gazıyla hızlı bir 
+tepkimeye girer. Bu tepkime esnasında parlak sarı ışık yayılır, yüksek miktar-
+da ısı açığa çıkar bu şekilde iki atom arasında gerçekleşen tepkime başlamış 
+olur. Sodyum elementinin klor gazıyla tepkimesinden açığa çıkan enerjiyle 
+birlikte sodyum elementi gaz hâline geçer, klor molekülleri ise klor atomla-
+rına dönüşür. Tepkime sürecinde sodyum atomları aldıkları enerjiyle elekt -
+ron kaybederek pozitif yüklü sodyum iyonlarına (Na⁺) dönüşür. Klor atomları 
+ortamdaki herhangi bir elektronu alarak negatif yüklü klorür iyonlarına (Cl
+−
+) 
+dönüşür. Böylece tepkime kabında çok sayıda pozitif yüklü sodyum iyonu 
+ile negatif yüklü klorür iyonu oluşur. Oluşan bu iyonlar zıt yükler arasındaki 
+çekim kuvvetlerinin etkisiyle bir araya gelir ve sodyum klorür (NaCl) bileşiğini 
+oluşturur. (Görsel 2.5).
+Çok sayıdaki pozitif yüklü sodyum iyonu ile negatif yüklü klorür iyonu elekt-
+rostatik çekim kuvvetlerinin etkisiyle bir araya gelerek sodyum klorür kristalini 
+oluşturur. Sodyum klorür kristalinde pozitif yüklü bir sodyum iyonu ile kendini 
+çevreleyen her bir klorür iyonu arasında aynı büyüklükte çekim kuvveti mev-
+cuttur. Aynı şekilde negatif yüklü bir klorür iyonu ile kendini çevreleyen her bir 
+sodyum iyonu arasında da aynı büyüklükte çekim kuvveti vardır. Buna göre 
+iyonik bir tuzun zıt yüklü iyonları arasında oluşan güçlü elektrostatik etkileşi -
+me iyonik bağ, bu iyonik tuzu meydana getiren elementler arasında gerçek-
+leşen elektron transferi ve iyon oluşumu sürecine de iyonik bağlanma denir.
+Her sodyum atomu
+bir elektron kaybeder.
+Sodyum iyonu
+Sodyum elementi ve klor gazı
+Anyon ve katyon arasında 
+elektrostatik etkileşim oluşur.
+NaCl kristali
+Klorür iyonu
+Her klor atomu
+bir elektron kazanır.
+Görsel 2.5 
+Sodyum elementi ve 
+klor gazından sodyum 
+klorür oluşum süreci

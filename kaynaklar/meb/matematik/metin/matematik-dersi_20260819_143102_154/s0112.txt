@@ -1,0 +1,49 @@
+112
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ax2 + bx + c (a, b, c ∈ ℝ, a ≠ 0) gibi bir cebirsel ifadenin (mx ± k)(nx ± p) (m, k, p, n ∈ ℝ, m ≠ 0, 
+n ≠ 0) şeklindeki çarpanlara ayrılmış formunu elde etmek için  a ve c   katsayılarının çarpanla -
+rından yararlanmaya dayalı yöntemlere  yer verilmez. Benzer şekilde işlemsel yönü fonksiyon -
+ların değişim ve dönüşümünün önüne geçen diskriminant yöntemi, kök-katsayı ilişkileri, kökler 
+toplamı veya çarpı mı gibi özel formüllere veya kurallara yer verilmez; öğrencilerin fonksiyonun 
+maksimum-minimum değerinin f  (- b2a ) olduğu ve bu değeri x = - b2a  da aldığı  genelleme -
+sine ula şmaları sağlanır. Gerçek yaşam durumlarının incelenmesi sonucu elde edilen ve tamka -
+reye tamamlanması zaman alacak veya hesaplama hatası oluşturabilecek ifadeler için elektro -
+nik tablo ve matematik yazılımları etkin şekilde kullanılır (MAB5). Öğrencilerden gerçek yaşam 
+problemlerine karşılık gelen fonksiyonların grafiklerini dik koordinat sisteminde çizerek problemi 
+temsil eden denklem veya eşitsizlikleri bu grafiklerle ilişkilendirmeleri beklenir. İlişkilendirmeden 
+elde ettikleri bilgileri yorumlayıp problemin çözümünü gözden geçirmeleri sağlanır. Örneğin bir 
+işletmenin satışını yaptığı bir ürünün miktarına (kg) bağlı olarak gelirinin (Türk lirası) ve maliyeti -
+nin (Türk lirası)  [0, ∞) nda tanımlı sırasıyla f (x) = 4x2 ve g (x) = 18x fonksiyonları ile modellendiği 
+durumda bu fonksiyonların grafik temsillerinden yararlanılarak üründen elde edilen gelirin mali -
+yetini karşılayabilme durumu değerlendirilebilir. Buna göre f ve g fonksiyonlarının dik koordinat 
+sisteminde çizilen grafikleri yardımıyla f (x) ≥ g (x) eşitsizliğinin   çözüm kümesi,  [92 , ∞) olarak 
+belirlenir. Bu durumda işletmenin 4,5 kg ’dan daha fazla ürün satması durumunda üründen elde 
+edilecek gelirin ürünün maliyetinden fazla olacağı sonucuna ulaşılır.
+Referans fonksiyonlardan türetilen fonksiyonlardan elde edilen denklem ve eşitsizliklere ilişkin 
+problemlerin farklı yollardan çözülebilmesi için grup çalışması yapılır. Böylece öğrencilerin bir -
+birleriyle fikir alışverişinde bulunmaları ve farklı düşüncelerde uzlaşmaları sağlanır (SDB2.2). Bu 
+problemlerde kullanılan gerçek yaşam durumlarının ekonomi, fizik, kimya, biyoloji, mühendislik 
+ve mimari gibi alanlarla ilgili olması beklenir. Örneğin ekonomide gelir; fizikte hareket, atışlar, 
+enerji; kimyada gaz basıncı; biyolojide popülasyon gibi bağlamlar kullanılır. Öğrencilerden çö -
+züme ulaştıran stratejilerin başka problem durumlarına uyarlanıp uyarlanamayacağına yönelik 
+çıkarımlar yapmaları ve bu çıkarımları matematiksel bir modele dönüştürmeleri istenir. Elde edi -
+len matematiksel modeller, sınırlılık ve verimlilik açısından değerlendirilir. Gerçek yaşam durumu 
+problemlerinde kullanılan, referans fonksiyonlardan türetilen fonksiyonları içeren  denklem ve 
+eşitsizlik çözümleri ile ilgili stratejiler; verimlilik ve kullanışlılık açısından (cebirsel temsili verilen 
+denklem ve eşitsizliklerin işlem yapmanın zor olduğu durumlarda grafik temsilinin kullanımının 
+daha verimli olduğu, tablo ve grafik temsilleri kullanılırken çözüm kümesinin bulunması duru -
+munda cebirsel temsilin daha kullanışlı olduğu durumlar gibi) değerlendirilir.  Öğrencilere doğ -
+rusal, karesel, karekök, rasyonel referans fonksiyonlardan ve bu fonksiyonlardan türetilen fonk -
+siyonlardan elde edilen denklem ve eşitsizliklerin kullanıldığı, gerçek yaşam problemleri içeren 
+proje ödevi verilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Bilgisayar  bilimleri, ekonomi, fizik, kimya  gibi  farklı  disiplinlerde geçen karesel, karekök ve rasyonel 
+referans fonksiyonlardan türetilen fonksiyon durumlarının keşfedilmesine ve bu durumların matema-
+tiksel temsillerle ilişkilendirilmesine yönelik araştırma ödevi verilebilir.
+(*) Öğrencilere karesel bir ifadenin tamkareye tamamlanmasının genellenmesi ve her karesel ifadenin 
+iki tane birinci dereceden ifadenin çarpımı şeklinde yazılıp yazılamaması hakkında araştırmalar yaptırı-
+labilir. Bu tartışmalarla öğrencilerin sanal köklerin varlığı ve denklemin derecesi ile kök sayısı arasında-
+ki ilişkinin genellenmesi gibi konularda temel düzeyde bilgi sahibi olmaları sağlanabilir.
+(*) Burada karesel bir fonksiyonun cebirsel temsili tamkare formunda yazıldıktan sonra, belirlenen ger-
+çek sayı olmayan kökler üzerinden hareketle sanal sayı kavramı ve karmaşık sayılar kümesine ilişkin 
+genel bilgilere yer verilebilir.

@@ -1,0 +1,14 @@
+MATEMATİK 9 
+26 27
+Çözüm:
+Çözüm:
+Günlük hayatta sıcaklık ölçümünde en çok kullanılan birimler Selsiyus 
+(°C) ve  Fahrenhayt'tır (°F). Selsiyus ölçeğinde suyun donma noktası 0 °C, 
+kaynama noktası ise 100 °C olarak kabul edilir. Fahrenhayt ölçeğinde ise 
+suyun donma noktası 32 °F, kaynama noktası ise 212 °F olarak belirlen -
+miştir.
+Bilgi
+2. Adım
+Belirli bir sıcaklık noktasından itibaren Selsiyus (°C) ile Fahrenhayt (°F)  
+arasındaki dönüşümü ifade eden bir fonksiyon g olsun.
+Buna göre g fonksiyonunun cebirsel temsilini bulunuz ve grafiğini çiziniz.

@@ -1,0 +1,30 @@
+121
+2. Tema /  Nicelikler ve Değişimler
+a)  Görselde verilen noktaların k doğrusunda karşılık geldiği sayı değerleri ile deniz seviyesine olan uzaklıkla-
+rını gösteren Tablo 1ʼi örnekteki gibi doldurunuz.
+Tablo 1
+Nokta A B C D E
+Noktanın Konumunun k Doğrusunda Karşılık Geldiği Sayı -2
+Noktanın Deniz Seviyesine Olan Uzaklığı (birim)    2
+b) Noktanın konumunun k doğrusunda karşılık geldiği sayılar bağımsız değişken, aynı noktanın deniz sevi-
+yesine olan mesafesi bağımlı değişken olsun. Tablo 1ʼdeki değerlerden yararlanarak görsel üzerinde alınan 
+herhangi bir x değerine karşılık gelen bağımlı değişkenlerin cebirsel temsilini yazınız.
+c) Bağımlı ve bağımsız değişkenler arasındaki bu ilişkiyi gerçek sayılarda tanımlı g fonksiyonu olarak ifade 
+ediniz.
+ç)  Grafik 1 ve elde ettiğiniz sonuçlardan yararlanarak gerçek sayılarda g(x) = | x | şeklinde tanımlı fonksiyonun 
+grafiğini Grafik 2 üzerinde gösteriniz.
+O x
+y
+f(x) = x
+Grafik 1
+O x
+y
+Grafik 2
+2.  Oluşturduğunuz g fonksiyonuna göre aşağıdaki soruları cevaplayınız.
+a)  Bağımsız değ işkenin hangi değeri için bağımlı değişkenin sıfıra eşit olduğunu bulunuz.
+b)  Bağımsız değişkenin hangi aralıktaki değerleri için bağımlı değişkenin aldığı değerlerin negatif veya pozitif 
+olduğunu bulunuz.
+c)  Bağımlı deği şkenin alabileceği en büyük veya en küçük değerin kaç olduğunu bulunuz.
+ç)  Bağımsız değişkenin aldığı değerler artarken g fonksiyonunun al dığı değerlerin nasıl değiştiğini belirleyiniz.
+d)  Bağımsız değişkenin aldığı iki farklı değer için g fonksiyonunun aldığı değerler birbirinden farklı mıdır? 
+Bu durumun bağımsız değişkenin alabileceği tüm değerler için geçerli olup olmadığını açıklayınız.

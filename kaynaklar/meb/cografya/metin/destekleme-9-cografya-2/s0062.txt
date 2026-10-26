@@ -1,0 +1,132 @@
+Öğrencilerin çalışmalarını değerlendirmek için verilen dereceli puanlama 
+anahtarını kullanınız.
+3. Adım: Değerlendirme
+DERECELI PUANLAMA ANAHTARI
+Ölçütler (Çok İyi)4 (İyi)3 (Orta)2 (Geliştirilmeli)1 PUAN
+Çalışma 
+için gerekli 
+bilgilerin 
+toplanması 
+ve bu 
+bilgilerin 
+kullanımı
+Öğrencinin 
+çalışma için 
+topladığı bilgiler 
+ve bu bilgilerin 
+kullanımı 
+tamamen 
+yeterlidir.
+Öğrencinin 
+çalışma için 
+topladığı bilgiler 
+ve bu bilgilerin 
+kullanımı 
+olabildiğince 
+yeterlidir.
+Öğrencinin 
+çalışma için 
+topladığı bilgiler 
+ve bu bilgilerin 
+kullanımı kısmen 
+yeterlidir.
+Öğrencinin 
+çalışma için 
+topladığı bilgiler 
+ve bu bilgilerin 
+kullanımı çok az 
+yeterlidir.
+Çalışmada 
+görsellerin 
+kullanımı
+Öğrencinin 
+çalışmada 
+kullandığı 
+görseller, amaca 
+tamamen uygun 
+ve yeterlidir.
+Öğrencinin 
+çalışmada 
+kullandığı 
+görseller, amaca 
+olabildiğince 
+uygun ve 
+yeterlidir.
+Öğrencinin 
+çalışmada 
+kullandığı 
+görseller, amaca 
+kısmen uygun ve 
+yeterlidir.
+Öğrencinin 
+çalışmada 
+kullandığı 
+görseller, amaca 
+çok az uygun ve 
+yeterlidir.
+Sunumun 
+hazırlanması
+Öğrenci, 
+çalışmasını amaca 
+tamamen uygun 
+hazırlamıştır.
+Öğrenci, 
+çalışmasını amaca 
+olabildiğince 
+uygun 
+hazırlamıştır.
+Öğrenci, 
+çalışmasını amaca 
+kısmen uygun 
+hazırlamıştır.
+Öğrenci, 
+çalışmasını amaca 
+çok az uygun 
+hazırlamıştır.
+Çalışmanın 
+sunumu
+Öğrenci, 
+çalışmasını sunum 
+tekniklerine uygun 
+olarak sunmuştur.
+Öğrenci, 
+çalışmasını sunum 
+tekniklerine 
+oldukça uygun 
+olarak sunmuştur.
+Öğrenci, 
+çalışmasını sunum 
+tekniklerine 
+kısmen uygun 
+olarak sunmuştur.
+Öğrenci, 
+çalışmasını sunum 
+tekniklerine çok 
+az uygun olarak 
+sunmuştur.
+Süre 
+kullanımı
+Öğrenci verilen 
+süre içinde 
+sunumunu 
+tamamlamıştır.
+Öğrenci verilen 
+süre içinde 
+sunumunu 
+olabildiğince 
+tamamlamıştır.
+Öğrenci verilen 
+süre içinde 
+sunumunun 
+bir kısmını 
+tamamlamıştır.
+Öğrenci verilen 
+süre içinde 
+sunumunun 
+çok azını 
+tamamlamıştır.
+TOPLAM PUAN
+Ölçekten alınan puanı 100 puan üzerinden hesaplamak için [(Toplam Puan)/20]*100 
+formülünü uygulayınız.
+62 63
+COĞRAFYA 9  

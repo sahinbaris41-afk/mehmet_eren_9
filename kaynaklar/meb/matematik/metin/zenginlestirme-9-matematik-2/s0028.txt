@@ -1,0 +1,11 @@
+2.TEMA - NICELIKLER VE DEĞIŞIMLER
+26 27
+Çözüm:
+3. Adım
+İlk iki soruyu cevaplarken elde ettiğiniz çözümleri kullanarak yüksekliğe (m) bağlı sıcaklık değer-
+lerinin (°F) nasıl değiştiğini ifade eden bir h fonksiyonunun cebirsel temsilini bulunuz ve grafiğini 
+çiziniz.
+Çözüm:
+4. Adım
+Tanımlı olduğu aralıklarda f,g ve h fonksiyonlarının artanlık-azalanlık ve birebirlik durumlarını  
+inceleyiniz. Fonksiyonların sıfırlarını belirtiniz ve işaret tablolarını yapınız.

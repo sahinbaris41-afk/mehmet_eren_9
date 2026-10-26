@@ -1,0 +1,45 @@
+164
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Sonlu aritmetik ve geometrik dizilerin toplamlarına ilişkin elde edilen önermelerin görsel 
+olarak doğrulanması ve cebirsel olarak ispat edilmesi sağlanır. Görsel doğrulamalarda olu-
+şan şekillerin estetik açıdan değerlendirilmesi yapılır (D7.1). İspat adımlarının sistematik ve 
+aşamalı olarak yapılması önemlidir (E3.6, E3.7). Görsel  doğrulamalar ve farklı cebirsel is -
+patlar incelenerek kullanışlılık açısından değerlendirilir.
+Öğrencilerden ekonomi ve fizik gibi alanlarla ilgili farklı aritmetik ve geometrik dizi örnekleri 
+sunmaları ve bu dizilerin toplamlarını belirlemeleri istenir. Öğrencilerin buldukları dizi ör -
+neklerinden seçilenler, dijital içerik üretme ve paylaşma becerilerini geliştirmelerine destek 
+olacak biçimde çevrim içi araçlardan da yararlanılarak sergilenir (OB2, MAB5). Öğrencilere 
+farklı aritmetik ve geometrik dizi örneklerinin sunulacağı ve bu dizilerin toplamlarına ilişkin 
+önermeler geliştirilip bu önermelerin gerçek yaşam durumları bağlamında değerlendirile -
+ceği bir performans görevi verilebilir.
+MAT.12.1.2
+Gerçek sayılarda tanımlı fonksiyonlar ile gerçek sayı dizilerinin özelliklerinin ilişkilendiril -
+mesi için öğrencilere farklı fonksiyon ve dizi örnekleri  sunulur. Örneğin rasyonel referans 
+fonksiyon ile (an) = ( 1n ) dizisi incelenir. Rasyonel referans fonksiyonun alacağı değerler 
+ile (an) = ( 1n ) dizisinin terimlerinin karşılaştırılması sağlanır. Bu bağlamda rasyonel fonk-siyonun değerleri ile (an) = ( 1n ) dizisinin hangi terimlerinin eşleştiği sorusuna cevap ara-nır. Daha sonra fonksiyonun görüntü kümesinde eşleşmeyen elemanların olup olmadığı 
+sorularak bu elemanlardan bazılarının tanım kümesinden yararlanılarak belirlenmesi iste -
+nir. Fonksiyonların nitel özelliklerinden artanlık -azalanlık, dizilerde monoton artan -mono-
+ton azalan olarak ifade edilir. Doğrusal ve karesel fonksiyonlardan faydalanılarak monoton 
+olmayan diziler için örnek teşkil edecek genel terimlerin yazılması çalışmalarına yer verilir. 
+Benzerliklerin ve farklılıkların incelendiği fonksiyon ve dizi örnekleri incelenir. Fonksiyon -
+lar ile gerçek sayı dizileri arasındaki ilişkiler, “Diziler, tanım kümesi pozitif tam sayılar olan  
+fonksiyonlardır.” gibi çıkarımlarla ortaya konur. Gerçek sayı dizileri ile gerçek sayılarda ta -
+nımlı fonksiyonlar birlikte incelenip ilişki kurulduktan sonra öğrencilere bu dizi ve fonksi -
+yonların gerçek yaşam durumlarına yansımalarını araştırmayı gerektiren bir performans 
+görevi verilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilerden aritmetik ve geometrik diziler dışında farklı gerçek sayı dizilerini araştırma-
+ları, bu dizilerin aritmetik ve geometrik diziler ile benzerlik ve farklılıklarını ortaya koymaları 
+istenebilir. 
+(*) Rekürsif (öz yinelemeli) ve iteratif (yinelemeli) diziler ile bu dizilerin algoritma ve akış şema-
+larının yazımı araştırma ödevi olarak verilerek öğrencilerden örnek uygulamalar istenebilir. 
+(*) Ayrıca aritmetik dizilerin öz yinelemeli dizilere dönüşen örneklerine yer verilebilir. Toplam 
+sembolleri ve dizilerin bu sembollerle gösterimleri ile ilgili araştırma ödevi verilebilir. Aritme-
+tik ve geometrik seriye örnekler verilerek seri toplamları ile ilgili örneklere yer verilebilir. 
+Destekleme Aritmetik ve geometrik diziler konusuna önceden öğrendikleri sayı örüntüleri hakkında yapı-
+lacak çalışmalarla başlanabilir. Öğrencilerden sınırlı sayıda elemanı olan sayı örüntülerini girdi 
+(adım sayısı) ve çıktı (örüntünün elemanı) olarak elektronik tablolarda işleyerek örüntünün 
+kuralını bulmaları, bu fikri aritmetik ve geometrik dizilere uyarlamaları istenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

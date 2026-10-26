@@ -1,0 +1,48 @@
+80
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+Öğrencilerden gen, genetik kod, transkripsiyon, translasyon arasındaki ilişkileri ortaya 
+koyacakları örümcek ağı oluşturmaları istenebilir. Örümcek ağı, puanlama anahtarı ile 
+değerlendirilebilir.
+Öğrencilerden gruplara ayrılarak eş baskınlık ve çok alellilikle ilgili deney yapmaları, 
+deney sürecini ve sonucunu raporlaştırmaları istenebilir. Deney süreci ve sonucuna 
+ilişkin hazırlanan raporlar, analitik dereceli puanlama anahtarı ile puanlanabilir. Dereceli 
+puanlama anahtarında “deneyde olası hatalar için alınacak önlemler, deney süreci ve 
+sonucu” gibi ölçütlere yer verilebilir. Öğrencilerin kendilerini deney süreci açısından 
+değerlendirmesi için öz değerlendirme ve grup değerlendirme formu kullanılabilir.
+Öğrencilere eşeye bağlı kalıtımı soyağacı modelinde gösterecekleri poster hazırlamaya 
+yönelik performans görevi verilebilir. Performans görevi, analitik dereceli puanlama 
+anahtarı ile puanlanabilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin gen, genetik kod, genotip, fenotip, mutasyon kavramları ile genetik testler ve 
+genetik danışmanlığın önemi hakkındaki temel bilgileri fen bilimleri dersinde öğrendikleri 
+kabul edilmektedir. 
+Ön Değerlendirme Süreci Öğrencilerin gen, genetik kod genotip, fenotip, mutasyon kavramlarını açıklamaları 
+istenebilir. Genetik testler ve genetik danışmanlığın önemi hakkındaki temel bilgileri açık 
+uçlu sorularla değerlendirilebilir. 
+Köprü Kurma Öğrencilere vücutta olgun alyuvarların çekirdeklerinin olmadığı bilgisi verilerek “Buna 
+göre alyuvarlar hangi metabolik faaliyetleri gerçekleştiremez?” sorusu sorulabilir ve 
+öğrencilerin DNA’nın hücredeki rolünü ön bilgileriyle tahmin etmeleri beklenir.
+Öğrencilere deri kesildiğinde oluşan yaranın kapanması için hücrelerin bölündüğü bilgisi 
+verilerek “Sizce yeni oluşan deri hücreleri, hasar gören hücrelerle aynı özelliklere mi 
+sahiptir, cevabınız evetse bu nasıl mümkün olur?” soruları yöneltilebilir. Sorular aracılığıyla 
+öğrencilerin hücre bölünmeleri ile DNA replikasyonu arasında bağlantı kurmaları istenebilir.
+1899’da Shattock ve 1900’de Karl Landsteiner tarafından insanların farklı kan grubuna 
+sahip olduğu keşfedilene kadar hastalara rastgele kan verildiği ve bu durumun bazı 
+hastaların ölümüne neden olduğu bilgisi verilerek öğrencilere “Kan gruplarını belirlemede 
+DNA’nın rolü nedir?” sorusu sorulabilir. Bu soruyla öğrencilerin DNA’daki genetik bilgi ile bu 
+bilgiden sentezlenen yapısal molekülü ilişkilendirmeleri istenebilir.
+Öğrencilere 1986 yılında yaşanan Çernobil faciası ile ilgili belgesel izletilerek “Çernobil’deki 
+patlama sonrasında Türkiye’de özellikle Karadeniz Bölgesi’nde hangi sağlık problemlerinde 
+artış görülmüştür?”, “Bu durumu ne ile açıklarsınız?” soruları sorulabilir. Öğrencilerden 
+izledikleri belgeselden hareketle sorulara cevap vermeleri istenebilir. Öğrencilere facianın 
+gerçekleştiği yer ile Türkiye’de sağlık problemlerinin artış gösterdiği bölge arasında ilişki 
+kurabilmeleri için coğrafya disiplininden, radyoaktivite konusunda ise kimya ve fizik 
+disiplinlerinden yararlanmaları gerektiği hatırlatılır.
+Mendel’in bezelye bitkileri üzerinde yaptığı deney, video veya animasyon aracılığıyla 
+gösterilebilir. Farklı renk, şekil ve büyüklükteki bezelye tohumları kullanılarak öğrencilerin 
+bezelyelerde farklı kombinasyonların oluşabileceğini düşünmeleri sağlanabilir. 
+A kan grubuna sahip bir anne ile B kan grubuna sahip babanın iki çocuğundan birinin O, 
+diğerinin AB kan grubuna sahip olduğu örneği verilerek öğrencilerden bu ailedeki bireylerin 
+kan grubu genotiplerini tahmin etmeleri ve bu genotiplerin çocukların kan gruplarını nasıl 
+belirlediğini açıklamaları istenebilir.

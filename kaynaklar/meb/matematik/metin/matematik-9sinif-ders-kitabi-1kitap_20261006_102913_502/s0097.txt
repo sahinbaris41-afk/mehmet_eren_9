@@ -1,0 +1,34 @@
+97
+2. Tema /  Nicelikler ve Değişimler
+f: R"R, f(x) = x şeklinde tanımlı f doğrusal referans fonksiyonunun nitel özellikleri aşağıdaki gibidir. 
+• f fonksiyonunun tanım ve görüntü kümeleri gerçek sayılar kümesidir.
+• f fonksiyonunun işareti, tablo ile aşağıdaki gibi ifade edilebilir.
+ x     -∞                   0                       ∞
+                     f(x)               -                 +0
+• f fonksiyonunda x = 0 için f(0) = 0 olduğundan x = 0 f fonksiyonunun sıfırıdır.
+• f fonksiyonunun işareti x, 063! -_i  için negatif, x0 ,63! _i  için pozitiftir.
+• f fonksiyonunun maksimum ve minimum noktası yoktur.
+• f fonksiyonu gerçek sayılarda artandır.
+• f fonksiyonu bire birdir.
+Kontrol Noktası
+Gerçek Sayılarda g (x)=a  f(x±r)±k Şeklinde Tanımlı Doğrusal 
+Fonksiyonlar
+m, n ! R olmak üzere g: R"R, g(x) = a  f(x ± r) ± k şeklindeki g doğrusal fonksiyonu düzenlenerek 
+g(x) = mx + n biçiminde yazılabilir.
+Doğrusal fonksiyonların grafikleri, bir doğru belirtir ve f(x) = x şeklinde tanımlı doğrusal referans fonksi-
+yondan türetilen fonksiyonlardan elde edilebilir.
+a, r, k ! R olmak üzere gerçek sayılarda f(x) = x şeklinde tanımlı f doğrusal referans fonksiyonundan 
+türetilen veya g(x) = a  f(x ± r) ± k şeklinde ifade edilen fonksiyonlara doğrusal	f onksiyon  denir.
+Gerçek sayılarda f(x) = x şeklinde tanımlı f doğrusal referans fonksiyonunun bire birliği, Grafik 2.2’deki 
+gibi gösterilebilir.
+Grafik 2.2:  f fonksiyonunun bire bir olduğunun gösterimi
+O x
+y
+f(x) = x
+b c
+a
+a
+b
+c
+d
+d

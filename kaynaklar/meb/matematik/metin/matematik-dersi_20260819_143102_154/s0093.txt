@@ -1,0 +1,44 @@
+93
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir.
+Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma 
+sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans 
+görevi, analitik veya bütüncül dereceli puanlama anahtarı  ile değerlendirilebilir. Performans 
+görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenleri 
+üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkinlik-
+leri, akran ve grup değerlendirme formları ile değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin istatistiksel araştırma sürecinin tüm bileşenleriyle ilgili bilgi sahibi oldukları,  
+betimsel ve karşılaştırma gerektiren araştırma soruları oluşturabilmelerinin yanı sıra ka -
+tegorik ve nicel veri toplayabildikleri/elde edebildikleri kabul edilmektedir. Elde ettikleri/
+topladıkları verilerden hareketle verileri görselleştirebildikleri (sıklık tablosu, sütun grafiği, 
+daire grafiği, çizgi grafiği, nokta grafiği, kök-yaprak gösterimi, histogram, kutu grafiği), veriyi 
+özetleyebildikleri (ortalama, tepe değer, ortanca, açıklık, ortalama mutlak sapma, standart 
+sapma), değişebilirlik ve dağılım kavramlarını değerlendirebildikleri  ve verileri yorumlayabil-
+dikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerden istatistiksel araştırma süreci aşamalarını döngüsel bir şema üzerinde göster-
+meleri istenebilir. Öğrencilere verilen araştırma sorularının hangilerinin betimsel, hangileri-
+nin karşılaştırma gerektiren araştırma soruları olduğu; hangileri için kategorik veri, hangileri 
+için nicel veri toplamaları gerektiği sorgulatılabilir. Öğrencilerden sıklık tablosu, sütun grafi-
+ği, daire grafiği, çizgi grafiği, nokta grafiği, kök-yaprak gösterimi, histogram, kutu grafiği ile 
+görselleştirilen verileri anlamlandırmaları ve yorumlamaları istenebilir. Ayrıca öğrencilerden 
+nokta grafiği ile verilen bir dağılımı veri özetleme araçlarını (ortalama, tepe değer, ortanca, 
+açıklık, ortalama mutlak sapma, standart sapma) kullanarak değerlendirmeleri ve yorumla-
+maları istenebilir.
+Köprü Kurma Öğrencilerden iki kategorik değişken arasındaki ilişkililiğe odaklanan araştırma sorularını 
+incelemeleri ve bu soruya nasıl cevap verebilecekleri üzerine düşünmeleri istenebilir. Araş-
+tırma sorularına cevap vermek için ortaokul ve 9. sınıfta öğrenilen çizgi grafiği, nokta gra -
+fiği, kök-yaprak gösterimi, histogram, kutu grafiği gibi araçların kullanılıp kullanılamayacağı 
+tartışılabilir. Bu görselleştirme araçlarının her zaman yeterli olamayacağını öğrencilerin fark 
+etmeleri sağlanabilir. 
+Öğrenme-Öğretme 
+Uygulamaları MAT.10.2.1
+İstatistiksel araştırma süreci; bağlamı belirleme, bağlama yönelik soru sorma, veri toplama 
+planı yapma, verileri analize hazır hâle getirme, verileri analiz etme ve sonuçları yorumlama 
+aşamalarının tamamını içerecek şekilde ele alınır. Bu sınıf seviyesinde öğrenciler, iki katego-
+rik değişken içeren dağılımlarla istatistiksel araştırma sürecini yürütür.

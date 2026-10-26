@@ -1,0 +1,27 @@
+19
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+2. ÜNİTE: MEKÂNSAL BİLGİ TEKNOLOJİLERİ
+Bu ünitede harita bileşenlerinden yararlanılarak çeşitli uygulamaların yapılabilmesi, coğ-
+rafi koordinat sistemi hakkında bilgi edinilebilmesi, Türkiye’nin coğrafi konum özellikle-
+rinin açıklanabilmesi ve mekânsal bilgi teknolojilerine ait bileşenlerin çözümlenebilmesi 
+amaçlanmaktadır.
+DERS SAATİ 10
+ALAN 
+BECERİLERİ SBAB7. Mekânsal Düşünme (SBAB7.1. Konum Algılama), SBAB10. Harita  
+KAVRAMSAL 
+BECERİLER KB2.4. Çözümleme 
+EĞİLİMLER E1.4. Kendine İnanma (Öz Yeterlilik), E2.5. Oyunseverlik, E3.4. Gerçeği Arama, 
+E3.5. Açık Fikirlilik, E3.7. Sistematiklik, E3.8. Soru Sorma 
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D3. Çalışkanlık, D10. Mütevazılık, D11. Özgürlük, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Bilişim Teknolojileri ve Yazılım, Matematik 
+BECERİLER ARASI 
+İLİŞKİLER KB3.3. Eleştirel Düşünme, SBAB1. Zamanı Algılama ve Kronolojik Düşünme (SBAB1.1. 
+Dönüştürme), SBAB11. Tablo, Grafik, Şekil ve/veya Diyagram (SBAB11.2. Tablo, Grafik, Şekil ve/
+veya Diyagram Hazırlama)

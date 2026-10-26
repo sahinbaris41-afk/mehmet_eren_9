@@ -1,0 +1,112 @@
+230
+7. Tema/Ölçme ve Değerlendirme
+3.  Aşağıdaki çarklar eş parçalara ayrılmıştır. Bu 
+çarkların çevrilmesi sonucunda okların göster-
+diği sayıların çarpımları incelenecektir. 
+    
+1
+23
+45 6
+ Bu deneyin 6500 tekrarında oluşacak dağı-
+lımın aşağıdakilerden hangisi gibi olması  
+beklenir? 
+A) 
+0
+Sıklık
+Çıktılar
+2 10 206 184 12 30
+300
+600
+900
+1200
+1500
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B) 
+0
+Sıklık
+Çıktılar
+2 10 206 184 12 30
+300
+600
+900
+1200
+1500
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C) 
+0
+Sıklık
+Çıktılar
+2 10 206 184 12 30
+300
+600
+900
+1200
+1500
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D) 
+0
+Sıklık
+Çıktılar
+2 10 206 184 12 30
+300
+600
+900
+1200
+1500
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E)  
+0
+Sıklık
+Çıktılar
+2 10 206 184 12 30
+300
+600
+900
+1200
+1500  
+ 
+ 
+ 
+ 
+4. Bir içecek otomatında özdeş şişeler içinde şer-
+bet, limonata ve maden suyu bulunmaktadır. 
+17 şerbetin 8’i, 22 limonatanın 12’si ve 20 ma-
+den suyunun 9’u sıcaktır. Bu otomat, içecekler-
+den birini rastgele vermektedir. 
+Buna göre
+a) Otomatın verdiği içeceğin soğuk bir 
+içecek veya limonata olma olayının ola-
+sılık değerini görselleştirerek bulunuz.
+b) Otomata bu içeceklerden en az kaç tane 
+daha eklenirse otomatın rastgele ve -
+receği bir içeceğin şerbet, limonata ve 
+maden suyu olma olaylarının olasılık 
+değeri eşit olur?
+c) Otomata bu içeceklerden en az kaç tane 
+daha eklenirse otomatın rastgele vere -
+ceği bir içeceğin sıcak ve soğuk olma 
+olaylarının olasılık değeri eşit olur?

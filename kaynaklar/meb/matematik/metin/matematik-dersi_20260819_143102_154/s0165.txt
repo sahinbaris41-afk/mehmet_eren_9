@@ -1,0 +1,25 @@
+165
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+1. TEMA: NİCELİKLER VE DEĞİŞİMLER (2)
+Bu temada öğrencilerin gerçek sayılarda tanımlı doğrusal ve karesel fonksiyonlar ile poli-
+nom fonksiyonlar arasındaki ilişkilere yönelik analojik akıl yürütebilmeleri, gerçek katsayılı 
+tek değişkenli polinom fonksiyonların nitel özelliklerine dair çıkarım yapabilmeleri, poli -
+nom ve rasyonel fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri içeren problem -
+leri çözebilmeleri  amaçlanmaktadır.
+DERS SAATİ 22
+ALAN 
+BECERİLERİ MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma, KB2.16.3. Analojik Akıl Yürütme
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik 
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim
+Değerler D13. Sağlıklı Yaşam, D14. Saygı, D17. Tasarruf
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel Okuryazarlık, 
+OB5. Kültür Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Ekonomi, Fizik, Mühendislik
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma 

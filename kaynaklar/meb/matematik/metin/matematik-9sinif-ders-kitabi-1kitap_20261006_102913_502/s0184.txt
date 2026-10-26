@@ -1,0 +1,43 @@
+184
+3. Tema /  Geometrik Şekiller
+Üçgende Açı ve Kenar İlişkileri
+Bir üçgenin açı ölçülerinin sıralaması biliniyorsa kenar uzunluklarının sıralaması da bilinir. Ayrıca üçgenin 
+kenar uzunlukları arasındaki ilişki, üçgen eşitsizliği olarak ifade edilir. Üçgenin açı ölçüleri ile kenar uzunluk-
+ları arasındaki ilişki ve üçgen eşitsizliği, farklı üçgen örnekleri üzerinden ölçümler yapılarak doğrulanabilir.
+Üçgenin Açı Ölçüleri ve Kenar Uzunlukları Arasındaki İlişki
+Aşağıdaki üçgenleri inceleyiniz. Verilen adımları takip ederek soruları cevaplayınız.
+A
+B a
+b
+c
+C
+D
+E Fd
+ef
+K
+M N
+n m
+k
+1. Her bir üçgenin açıölçer kullanarak açı ölçülerini, cetvel kullanarak kenar uzunluklarını bulunuz ve tabloyu 
+doldurunuz.
+ABC Üçgeni DEF Üçgeni KMN Üçgeni
+Açı Ölçüleri Kenar Uzunlukları Açı Ölçüleri Kenar Uzunlukları Açı Ölçüleri Kenar Uzunlukları
+mA =_iX  ............... a = ................. mD =_iX  ............... d = ................. mK =_iX  ............... k = .................
+mB =_iW  ............... b = ................. mE =_iW  ............... e = ................. mM =_iY  ............... m = .................
+mC =_iW  ............... c = ................. mF =_iW  ............... f = ................. mN =_iX  ............... n = .................
+2. Her bir üçgenin iç açı ölçüleri ile bu açıların karşısındaki kenar uzunlukları arasındaki ilişkileri inceleyiniz. 
+Aşağıda verilen genellemelerde boş bırakılan yerleri doldurunuz.
+a) Bir üçgende iç açı ölçüsü en büyük olan açının karşısında ...................................... bulunur.
+b) Bir üçgende en kısa kenar karşısında ...................................... bulunur.
+c) Bir üçgende iç açı ölçüleri eşit açılar karşısında birbirine ...................................... bulunur.
+4.	Uygulama
+Kontrol Noktası
+• Üçgenin iç açılarının ölçüleri toplamının 180 o olduğuna ilişkin teorem, paralel iki doğrunun bir kesenle 
+yaptığı açılar kullanılarak ispatlanabilir. 
+• Üçgenin dış açılarının ölçüleri toplamının 360o olduğuna ilişkin teorem, üçgenin iç açılarının ölçüleri topla-
+mından yararlanılarak ispatlanabilir.
+• “Üçgende bir dış açının ölçüsü, kendisine komşu olmayan iki iç açının ölçüleri toplamına eşittir.” teoremi, 
+paralel iki doğrunun bir kesenle yaptığı açılar kullanılarak veya üçgenin iç açılarının ölçüleri toplamından 
+yararlanılarak ispatlanabilir.
+Konu ile ilgili animasyona ulaşmak 
+için karekodu okutunuz.

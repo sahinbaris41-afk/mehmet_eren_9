@@ -1,0 +1,117 @@
+273
+6. FORM
+ETKİNLİK KÂĞIDI ÇALIŞMASI ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Öğrencinin Adı Soyadı:       Numarası:   Sınıfı:
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+Nitelikleri 
+belirleme
+ (36 puan)
+Kristal katılarda ta-
+necikleri bir arada 
+tutan dört etkileşim 
+türünden (iyonik 
+bağ, kovalent bağ, 
+metalik bağ veya 
+moleküller arası 
+etkileşimler) sa-
+dece bir etkileşim 
+türünün oluştur-
+duğu katıların 
+ortak özelliklerini 
+belirlemiştir.
+(1-9 puan)
+Kristal katılarda ta-
+necikleri bir arada 
+tutan dört etkileşim 
+türünden (iyonik 
+bağ, kovalent bağ, 
+metalik bağ veya 
+moleküller arası 
+etkileşimler) iki 
+etkileşim türünün 
+oluşturduğu katıla-
+rın ortak özellikleri-
+ni belirlemiştir.
+(10-18 puan)
+Kristal katılarda ta-
+necikleri bir arada 
+tutan dört etkileşim 
+türünden (iyonik 
+bağ, kovalent bağ, 
+metalik bağ veya 
+moleküller arası 
+etkileşimler) üç 
+etkileşim türünün 
+oluşturduğu katıla-
+rın ortak özellikleri-
+ni belirlemiştir.
+(19-27 puan)
+Kristal katılarda ta-
+necikleri bir arada 
+tutan dört etkileşim 
+türünden (iyonik 
+bağ, kovalent bağ, 
+metalik bağ veya 
+moleküller arası 
+etkileşimler) tüm 
+etkileşim türlerinin 
+oluşturduğu katıla-
+rın ortak özellikleri-
+ni belirlemiştir.
+(28-36 puan)
+Genellemeye 
+ulaşma
+(36 puan)
+Dört kristal katı tü-
+ründen sadece bir 
+tanesinin nitelikle-
+rini genellemiştir.
+ (1-9 puan)
+Dört kristal katı 
+türünden iki tane-
+sinin niteliklerini 
+genellemiştir.
+(10-18 puan)
+Dört kristal katı 
+türünden üç tane-
+sinin niteliklerini 
+genellemiştir.
+(19-27 puan)
+Dört kristal katı 
+türünün tamamının 
+niteliklerini genel-
+lemiştir.
+ (28-36 puan)
+Bilimsel kabul 
+edilebilirlik ile 
+karşılaştırma
+(28 puan)
+Bir kristal katı türü 
+için oluşturduğu 
+genellemeleri 
+bilimsel bilgilerle 
+karşılaştırmıştır.
+(1-7 puan)
+İki kristal katı türü 
+için oluşturduğu 
+genellemeleri 
+bilimsel bilgilerle 
+karşılaştırmıştır. 
+(8-14 puan)
+Üç kristal katı türü 
+için oluşturduğu 
+genellemeleri 
+bilimsel bilgilerle 
+karşılaştırmıştır. 
+(15-21 puan)
+Dört kristal katı 
+türü için oluşturdu-
+ğu genellemeleri 
+bilimsel bilgilerle 
+karşılaştırmıştır.
+(22-28 puan)
+Tablo Puanı
+Öğretmen Geri Bildirimi:
+Bu form, öğrencilere “Etkileşimlerin Kristal Katıların Özelliklerine Etkileri” konusunda verilen etkinlik kâ-
+ğıdını değerlendirmeniz amacıyla hazırlanmıştır. Öğrencinin belirtilen ölçütlere ilişkin öğrenme düzeyini 
+tablodaki açıklamalardan hareketle puanlayınız.

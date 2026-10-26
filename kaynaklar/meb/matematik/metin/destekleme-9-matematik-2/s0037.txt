@@ -1,0 +1,28 @@
+36
+MATEMATİK 9 
+2. TEMA: NİCELİKLER VE DEĞİŞİMLER
+1. Adım
+Etkinlik Aşaması
+ ► Aynı anda yanmaya başladıktan sonra, geçen zamana (dakika) bağlı 
+olarak mumların kalan uzunluklarının (cm) yer aldığı aşağıdaki tabloyu 
+doldurunuz.
+ ► Mumların zamana bağlı olarak kalan uzunluklarını veren doğrusal fonksiyonların cebirsel temsil-
+lerini yazınız.
+ ► Mumların zamana bağlı olarak uzunluklarını, dik koordinat sisteminde grafik temsilleriyle gösteriniz.
+ ► Aynı anda yakıldıklarından kaç dakika sonra mumların kalan uzunluklarının eşit olacağını hesap -
+layınız.
+Yandaki görselde uzunlukları ve yanma hızları farklı olan iki mum 
+verilmiştir (Görsel 2.1). 
+Uzunlukları 30 cm ve 24 cm olan iki farklı mum sırasıyla 6 dakika ve 8 dakika-
+da tamamen yanmaktadır.
+Verilen bilgiler doğrultusunda aşağıdaki soruları yanıtlayınız.
+Bu etkinlikte değişkenlerin arasındaki ilişkiyi inceleyeceğiniz bir problem durumu bulunmaktır. Adım-
+ları sırasıyla uygulayınız.
+Çözüm:
+Çözüm:
+Çözüm:
+Görsel 2.1: Mum
+Zaman (dakika) Başlangıç 1 2 3 4 5
+Uzunluk (cm)
+30
+24

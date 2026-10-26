@@ -1,0 +1,53 @@
+MATEMATİK 9 
+58 59
+Aşağıda bir okul kütüphanesinde bulunan dünya klasiklerinin kayıt numaralarından oluşan veri 
+seti bulunmaktadır. Veri setini ikili arama ağacı yapısına dönüştürünüz. Grubunuzda desteğe ihtiyaç 
+duyan arkadaşlarınıza yardım ediniz. Sınıftaki tüm grupların aynı yapıyı elde edip etmediğini takip 
+ediniz.
+Kitap
+Kayıt
+No.
+Kitap Adı, Yazarı ve İlgili Açıklamalar
+21
+14
+28
+11
+18
+25
+32
+5
+12
+15
+19
+23
+27
+30
+37
+Savaş ve Barış (Lev Tolstoy) - Rusya'nın Napolyon dönemindeki siyasi ve sosyal koşullarını ele alan bir roman.
+Suç ve Ceza (Fyodor Dostoyevski) - Bir suçun ve vicdanın sorgulandığı psikolojik bir roman.
+Gurur ve Önyargı (Jane Austen) - 19. yüzyıl İngiltere'sinde sosyal sınıflar üzerine bir eser.
+Beyaz Diş (Jack London) - Bir köpeğin insanların dünyasına uyum sağlamaya çalışmasını anlatan psikolojik bir roman.
+Anna Karenina (Lev Tolstoy) – Aşk ve sadakatin toplum üzerindeki etkilerini inceleyen bir klasik.
+Yüzüklerin Efendisi (J.R.R. Tolkien) - Fantastik bir dünyada geçen epik bir hikâye.
+Uçurtma Avcısı (Khaled Hosseini) - Dostluk ve ihanet temalarını işleyen bir roman.
+Yüzyıllık Yalnızlık (Gabriel García Márquez) - Latin Amerika'daki büyülü gerçekçilik akımının bir örneği.
+Madam Bovary (Gustave Flaubert) - Fransız taşra yaşamının eleştirisi ve hayal kırıklıkları üzerine bir roman.
+Sefiller (Victor Hugo) - Fransız toplumunun farklı kesimlerini anlatan epik bir roman.
+Bülbülü Öldürmek (Harper Lee) - Amerika'nın güneyinde ırkçılık ve adalet temalarını ele alan eser.
+Moby Dick (Herman Melville) - Beyaz bir balinanın peşine düşen, imkânsızı hedefleyen kaptan Ahab’ın hikâyesi.
+Jane Eyre (Charlotte Brontë) - Bir kadın karakterin sınıf ve cinsiyet engellerini aşarak bağımsızlığını kazanma hikâyesi.
+Don Kişot (Miguel de Cervantes) - Gerçeklikten kopmuş bir soylunun hayalleri ve maceraları üzerinden toplum eleştirisi.
+Dönüşüm (Franz Kafka) - Gregor Samsa'nın bir sabah dev bir böceğe dönüşmesiyle toplum ve aile ilişkilerinin parçalan-  
+  masını konu alan roman.
+Çözüm:
+4. Adım
+İkili arama ağacı veri yapısının dizi şeklinde sunulmasını sağlayan yöntemler vardır.
+Sıralı Gezinti Yazımı: Ağacın sol alt ağacını, kökünü ve 
+sağ alt ağacını sırasıyla yazdırır.
+Öncelikli Gezinti Yazımı: Ağacın kökünü, sol alt ağacını 
+ve sağ alt ağacını sırasıyla yazdırır.
+İkinci adımda verilen ikili arama ağacı yapısının sıralı ve 
+öncelikli gezinti yazımı aşağıdaki gibidir:
+Sıralı Gezinti Yazılmış Hâli: 8, 10, 12, 15, 16, 20, 25
+Öncelikli Gezinti Yazılmış Hâli: 15, 10, 8, 12, 20, 16, 25
+Bilgi

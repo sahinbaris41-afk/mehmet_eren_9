@@ -1,0 +1,51 @@
+181
+AKIŞKANLAR
+Tamamıyla sıvıya batırıldıktan sonra serbest bırakılan ve yoğunluğu (dc) sıvı-
+nın yoğunluğundan (ds) daha küçük olan bir cisim, sıvı yüzeyine doğru yükselir 
+ve cismin bir kısmı sıvı dışında kalacak şekilde dengelenir. Bu denge durumu, 
+cismin yüzme hâli olarak adlandırılır (Görsel 3.24). Yüzen bir cisme uygulanan 
+kaldırma kuvveti cismin ağırlığı ile eşit büyüklüktedir.
+ Fk = G
+Sıvı içine tamamen batacak şekilde bırakılan bir cismin yoğunluğu sıvının 
+yoğunluğuna eşit ise cisim bırakıldığı yerde dengede kalır. Bu dengeli durum, 
+cismin askıda kalma hâli olarak tanımlanır (Görsel 3.25). Askıda kalan bir 
+cisme uygulanan kaldırma kuvveti cismin ağırlığı ile eşit büyüklüktedir.
+ Fk = G
+Sıvının içine tamamen batırıldıktan sonra serbest bırakılan bir cismin yoğun-
+luğu sıvının yoğunluğundan büyükse cisim aşağıya doğru hareket eder ve kap 
+tabanına ulaşarak dengede kalır. Bu durum, cismin batma hâli olarak adlan -
+dırılır (Görsel 3.26). Batan bir cisme uygulanan kaldırma kuvvetinin büyük -
+lüğü, cismin kendi ağırlığından daha azdır. 
+ Fk <  G
+Görsel 3.24: Bir cismin 
+sıvıda yüzme hâli
+ds
+dc
+Vb
+Fk
+G
+Görsel 3.25: Bir cismin 
+sıvıda askıda kalma hâli
+ds
+dc
+Fk
+G
+Görsel 3.26: Bir cismin 
+sıvıda batma hâli
+ds
+dc
+Fk
+G
+Örnek 
+İçi dolu, çelik bir bilye suya bırakıldığında dibe batar ancak çelik -
+ten yapılan devasa gemiler, denizlerde taşıdıkları yüklerle rahatlıkla 
+yüzer. 
+Bu durumun nedenlerini belirtiniz.
+Çözüm
+Bir cismin ortalama yoğunluğu, onu oluşturan malzemenin yoğunluğundan daha az olabilir. Örneğin 
+gemiler, geniş ve içi boş yapıları sayesinde çok miktarda hava içerir. Bu yapıları nedeniyle gemilerin 
+kütleleri aynı kalsa bile hacimleri artar ve bu da ortalama yoğunluğu azaltır. Geminin yoğunluğu, suyun 
+yoğunluğundan daha az olduğunda gemi su üzerinde kalabilir. Bununla birlikte gemi su aldıkça içindeki 
+hava suyla yer değiştirir, bu da geminin yoğunluğunu artırarak batmasına neden olur. Ayrıca bir gemi ne 
+kadar çok yüklenirse suya daha fazla batar ve bu durum, gemiye etki eden kaldırma kuvvetinin artmasını 
+sağlar. Kaldırma kuvveti, geminin ağırlığına eşit olduğunda gemi dengede kalır ve batmaz.

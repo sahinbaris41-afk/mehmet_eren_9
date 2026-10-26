@@ -1,0 +1,75 @@
+185
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.12.4.1
+Gerçek sayılarda tanımlı fonksiyonların grafik temsilleri incelenerek bilinen tüm nitel özellik-
+lerin dışında başka ne gibi özelliklerin olabileceği ile ilgili sınıf içi tartışma yapılır. Öğrencilere 
+farklı grafik temsilleri verilerek bu temsilleri yorumlayabilmek için hangi bilgilere ihtiyaçları 
+olduğu sorgulanır (SDB1.2). Bu ihtiyaçları karşılamaya yönelik olarak yaklaşma fikrinden söz 
+edilir. Üstel, logaritmik ve rasyonel referans fonksiyonların grafik temsilleri incelenir. İncele-
+me sonucunda bu fonksiyonların bir nokta civarındaki ve sonsuzdaki davranışı gözlemlenir. 
+Gözlemler neticesinde fonksiyonun sonsuzdaki davranışına dayanarak yatay asimptot ve di-
+key-düşey asimptot kavramlarının tanımlarına ulaşılır. Ayrıca parçalı gösterimli fonksiyonların 
+cebirsel ifadesinin değişim noktasına grafik temsili üzerinden sağdan ve soldan yaklaşıldığın-
+da fonksiyonun alacağı değerler incelenir (OB4). Tüm bu gözlemler neticesinde bir fonksiyo-
+nun belirli bir noktasının sağdan ve soldan yaklaşım değerlerini incelemek bağlamında limit 
+fikrinden söz edilir. Ayrıca fonksiyonların sonsuzdaki davranışı asimptotlardan ve limit fikrin-
+den yararlanılarak incelenir. Örneğin uygun koşullarda  f(x) = 1x2  şeklinde tanımlı fonksiyo-
+nun grafik temsilinde y = 0 doğrusunun bu fonksiyonun yatay asimptotu olduğu belirlenebilir. 
+Bu bilgiden hareketle fonksiyonun  tanım aralığındaki değerler sınırsız büyür veya küçülürken 
+fonksiyon değerlerinin sıfıra yaklaştığı sözel olarak ifade edilir. Bu fonksiyonların belirli nokta-
+lardaki limit değeri o noktaya sağdan ve soldan yaklaşım fikriyle belirlenir ve limit değeri sözel 
+olarak ifade edilir. Verilen fonksiyon grafikleri üzerinden fonksiyonun belirli bir nokta civarında-
+ki veya sonsuzdaki davranışını belirlemeye yönelik olarak öğrencilere çalışma kâğıdı verilebilir.
+MAT.12.4.2
+Cebirsel temsili verilen fonksiyonlarda limit değeri öncelikle tablo ve grafik temsillerden 
+yararlanılarak belirlenir. Bu noktada limit değerine olan ihtiyacı vurgulamak için gerçek ya -
+şam örnekleri verilmesi tercih edilir. Örneğin fizikte bir hareketlinin t zamanında aldığı yolu 
+modelleyen uygun koşullarda f(t) = t2 şeklinde tanımlı fonksiyonun tablo ve grafik temsili 
+incelenerek belirli bir t zamanı civarında aldığı değerler belirlenebilir. Elde edilen değerler 
+eleştirel bir bakış açısıyla değerlendirilir (D3.3). Cebirsel ifadesi verilen parçalı gösterim -
+li fonksiyonun değişim noktasına grafik temsili üzerinden sağdan ve soldan yaklaşıldığında 
+fonksiyonun alacağı değerler incelenir. Örneğin bir kasabanın x yıl sonraki nüfusunu model-
+leyen uygun koşullarda f(x) = 5000 - 1000 . e-0,1x şeklinde tanımlı bir fonksiyon öğrencilere 
+sunulur. Çok uzun yıllar sonra nüfusun en fazla ne kadar olabileceği, matematik yazılımlarıyla 
+incelenerek tartışılır. Böylece öğrencilerin dijital araç ile iş görme becerilerinin gelişimine de 
+katkı sağlanmış olur (OB2, MAB5).  Bu şekilde öğrencilerin fonksiyonun sonsuzdaki davranı-
+şını anlamlandırması sağlanır. Cebirsel temsili verilen fonksiyonlar tablo ve grafik temsillerle 
+incelenerek fonksiyonun belirli bir noktasındaki veya sonsuzdaki limiti, yaklaşım fikrinden 
+yararlanılarak yorumlanır. Bu yorumlardan yola çıkılarak fonksiyonun x = a (a∈ℝ) noktası 
+tanım aralığında bir sınır noktası olmamak üzere bu noktadaki limiti limf x
+xa"
+^h  şeklinde gös-
+terilir ve limf xl im fx fx
+xa xa
+=+
+" "-+
+^^ ^hh h ise bu fonksiyonun x = a noktasında limiti nin olduğu ifade 
+edilir. x = a noktası tanım aralığında b ir sol sın ır nokta ise limf xl im fx fx
+xa xa
+=+
+" "-+
+^^ ^hh h in bir gerçek sayıya 
+eşit olması durumunda fonksiyonun x = a  nokt asında sağdan limitinin olduğu belirtilir. 
+Benzer şekilde x = a noktası tanım aralığında bir sağ sınır nokta ise limf xl im fx fx
+xa xa
+=+
+" "-+
+^^ ^hh h in bir gerçek 
+sayıya eşit olması durumunda fonksiyonun x = a noktasında soldan limitinin olduğu ifade edilir 
+(E3.6, E3.7, MAB3). Fonksiyonların belirli bir noktadaki veya sonsuzdaki limitleri matematiksel 
+temsiller kullanılarak incelenir. L1, L2∈ℝ olmak üzere fonksiyonun sol uç noktasında sağdan 
+veya sağ uç noktasında soldan limiti varsa sırasıyla limf xl im fx fx
+xa xa
+=+
+" "-+
+^^ ^hh h = L1 ve  limf xl im fx fx
+xa xa
+=+
+" "-+
+^^ ^hh h = L2 şeklinde yeni-
+den gösterilir (MAB3). Öğrencilere grafik temsili verilen parçalı gösterimli fonksiyonlarda belirli 
+bir noktadaki ve sonsuzdaki limitin belirlenmesine yönelik olarak çalışma kâğıdı verilebillir. Bu 
+noktada limitin tarihî gelişimi açıklanarak limiti matematiksel temellere dayandıran Jean le 
+Rond d’Alembert (Jön lö Ğun Delombeğ) , Augustin Louis Cauchy (Ogüsta Lui Kuşi)  ve Karl 
+Weierstrass (Karl Vayaşthas) gibi matematikçilerin çalışmaları incelenebilir.

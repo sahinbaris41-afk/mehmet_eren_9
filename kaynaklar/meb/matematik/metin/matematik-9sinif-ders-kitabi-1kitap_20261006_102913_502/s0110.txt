@@ -1,0 +1,26 @@
+110
+2. Tema /  Nicelikler ve Değişimler
+4.	Uygulama
+Gerçek Sayılarda k   R Olmak Üzere g(x) = k Şeklinde Tanımlı Doğrusal Fonksiyonların İncelenmesi
+Aşağıdaki soruları cevaplayınız.
+1.  Aşağıda dik koordinat sistemi üzerinde gerçek sayılarda  g(x) = -1 ve h(x) = 25  şeklinde tanımlı g ve h doğrusal 
+fonksiyonlarının grafikleri verilmiştir. 
+Buna göre gerçek sayılarda m(x) = 2  ve n(x) = -2 şeklinde tanımlı m ve n doğrusal fonksiyonlarının grafik-
+lerini aynı dik koordinat sistemi üzerinde çiziniz. 
+O x
+-1
+y
+g(x) = -1
+h(x) = 2
+5
+2
+5
+2. Gerçek sayılarda tanımlı g, h, m ve n doğrusal fonksiyonlarına ait grafiklerin eğimleri ile ilgili ne söylenebilir?
+3. Gerçek sayılarda tanımlı g, h, m ve n doğrusal fonksiyonlarının nitel özellikleri ile ilgili  neler söylenebilir?
+3.	Sıra	Sizde   
+a R!  olmak üzere g: R"R, gx ax a4 2=- +__ ii  şeklinde tanımlı g fonksiyonu sabit fonksiyondur. 
+g	doğrusal	fonksiyonunun	grafiğini	çizerek	nitel	özelliklerini	yorumlayınız.
+O x
+y
+g: R"R, gx af xr k$! !=__ ii  ve r, k   R olmak üzere a = 0 için g(x) = k şeklinde tanımlı g fonk-
+siyonuna sabit	fonksiyon denir.  S abit fonksiyon da bir doğrusal fonksiyondur.

@@ -1,0 +1,336 @@
+66 85
+!
+!
+!!
+!
+!
+!
+!
+!
+!!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!!
+!
+!
+!!
+!
+! !
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+! !
+!
+!!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+Adana
+Adıyaman
+Afyonkarahisar
+Ağrı
+Amasya
+Ankara
+Antalya
+Artvin
+Aydın
+Balıkesir
+Bilecik
+Bingöl
+Bitlis
+Bolu
+Burdur
+Bursa
+Çanakkale
+Çankırı
+Çorum
+Denizli
+Diyarbakır
+Edirne
+Elâzığ
+Erzincan
+Erzurum
+Eskişehir
+Gaziantep
+Giresun
+Gümüşhane
+Hakkâri
+Hatay
+Isparta
+Mersin
+İstanbul
+İzmir
+Kars
+Kastamonu
+Kayseri
+Kırklareli
+Kırşehir
+Kocaeli
+Konya
+Kütahya
+Malatya
+Manisa
+Kahramanmaraş
+MardinMuğla
+Muş
+Nevşehir
+Niğde
+Ordu Rize
+Sakarya
+Samsun
+Siirt
+Sinop
+Sivas
+Tekirdağ
+Tokat
+Trabzon
+Tunceli
+Şanlıurfa
+Uşak Van
+Yozgat
+Zonguldak
+Aksaray
+  Bayburt
+Karaman
+Kırıkkale
+Batman
+Şırnak
+Bartın
+Ardahan
+Iğdır
+Yalova
+Karabük
+Kilis
+Osmaniye
+Düzce
+KızılırmakN.
+Kura N.
+Aras N.
+Fırat N.
+EGEDENİZİ
+K      A      R      A       D  E     N     İ       Z
+A
+K
+D
+E
+N
+İ
+Z
+Tiflis
+Erivan
+Lefkoşa
+G
+Ü
+R
+C
+İS
+T
+A
+N
+ER
+M
+ENİSTAN NAHÇIVAN Ö.C.(AZERBAYCAN)
+İ
+R
+A
+N
+I
+R
+A
+K
+LÜBNAN
+B
+U
+L
+G
+A
+R
+İS
+T
+A
+N
+YU
+N
+A
+N
+İS
+T
+A
+N
+Erenköy
+GÜNEY KIBRIS RUM YÖNET İMİ
+KUZEY KIBRIS
+TÜRK CUMHUR İYETİ
+Fırat N.
+Meriç N.
+Aras N.
+V anGölü
+Gediz N.
+Sakarya N.
+Kızılırmak N.
+Dicle N.
+S
+U
+R
+İ
+Y
+E
+Asi N.
+ACARA Ö.C.
+Sofya
+Bükreş
+R
+O
+M
+A
+N
+Y
+A
+Beyrut
+U
+K
+R
+A
+Y
+N
+A
+R
+U
+S
+Y
+A
+F
+E
+D
+E
+R
+A
+S
+Y
+O
+N
+U
+Şam
+Doğu
+Kudüs
+FİLİSTİN
+Tel Aviv
+İSRAİL
+M
+I
+S
+I
+R
+L
+İ
+B
+Y
+A
+FİLİSTİN
+AZERBAYCAN
+Bağdat
+Atina
+Tuna N.
+TuzGölü
+UrumiyeGölü
+Gazze Şeridi
+Batı Şeria
+MARMARA
+DENİZİ
+HAZAR
+DENİZİ
+Gökçeada
+Ceyhan N.
+Nil N. Süveyş K.
+Dicle N.
+Kura N.
+Çoruh N.
+Ye
+şilırmak N.
+Büyük Menderes N.
+Bak
+ırçay N.
+Küçük Menderes N.
+Seyhan N.
+Göksu N.
+Bozcaada
+50°D
+45°D
+45°D
+40°D
+40°D
+35°D
+35°D
+30°D
+30°D
+25°D
+25°D
+40°K 40°K
+35°K 35°K
+TÜRKİYE'NİN MÜLKİ İDARE BÖLÜMLER İ İLE
+KARA VE DENİZ KOMŞULARI HARİTASI
+BAŞKENT
+İL MERKEZİ Elâzığ!
+GÖL
+!
+AKARSU
+ÜLKE SINIRI
+ÖZERK BÖLGE SINIRI
+Ankara
+Harita Genel Müdürlüğü tarafından üretilmiştir.
+0 100 200 300 40050
+km

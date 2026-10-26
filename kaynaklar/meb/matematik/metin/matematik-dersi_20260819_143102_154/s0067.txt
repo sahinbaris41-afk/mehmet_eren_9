@@ -1,0 +1,22 @@
+67
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+5. TEMA: ALGORİTMA VE BİLİŞİM
+Bu temada öğrencilerin gerçek yaşam durumu veya sayılar teorisine ilişkin problemlere  
+algoritma temelli çözümler geliştirebilmeleri, mantık bağlaçları ile niceleyicilerin problem 
+durumlarındaki anlamlarını çözümleyebilmeleri amaçlanmaktadır.
+DERS SAATİ 30
+ALAN 
+BECERİLERİ MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.15. Yansıtma
+EĞİLİMLER E1.1. Merak, E3.6. Analitiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim,  SDB3.2. Esneklik
+Değerler D8. Mahremiyet, D16. Sorumluluk, D17. Tasarruf, D18. Temizlik
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Bilgisayar Bilimleri
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

@@ -1,0 +1,79 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+37
+Dünya üzerindeki herhangi bir noktanın matematiksel olarak ifade edilmesi-
+ne duyulan ihtiyaç, coğrafi koordinat sisteminin oluşturulmasıyla giderilmiştir. 
+Coğrafi koordinat sistemi, Ekvator ve başlangıç meridyeni esas alınarak en-
+lem ve boylamların kullanılmasıyla oluşturulan sistemdir. 
+b) Coğrafi Koordinatlar
+Enlem
+Dünya üzerindeki bir noktanın Ekvator'a 
+uzaklığının yerin merkeziyle yaptığı açı de-
+ğerine enlem denir. Enlem, yeryüzündeki 
+herhangi bir noktadan yerin merkezine çizi-
+len dikey bir çizgi ile Ekvator düzlemi arasın-
+daki açıdır. Bu açı; derece (°), dakika (') ve 
+saniye ('') olarak ifade edilir (Görsel 2.2).   
+Boylam
+Dünya üzerindeki bir noktanın başlangıç me-
+ridyenine uzaklığının yerin merkeziyle yaptığı 
+açı değerine boylam denir. Boylam, yeryü-
+zündeki herhangi bir noktadan yerin merkezi-
+ne çizilen dikey bir çizgi ile başlangıç meridye-
+ni arasındaki açıdır. Bu açı; derece (°), dakika 
+(') ve saniye ('') olarak ifade edilir (Görsel 2.2).
+Örneğin Çanakkale Şehitler Abidesi’nin konu-
+mu, 40° 03' 00'' kuzey enlemi ile  26° 13' 08'' 
+doğu boylamının kesiştiği nokta olarak  ifade 
+edilir (Harita 2.1).   
+K
+41°
+42°
+40°
+29°28°27°26° 30°
+39°
+0 200
+km
+Marmara Denizi
+Karadeniz
+Ege 
+Denizi
+K
+0 m75
+ 40° 03΄ 00΄΄ Kuzey
+ 26° 13΄ 08΄΄ Doğu
+Çanakkale Boğazı
+Çanakkale
+Şehitler
+Abidesi
+0°
+0°
+90°
+80°
+70°
+60°
+50°
+40°
+30°
+20°
+10°
+10° 20° 30° 40° 50°
+              Boylam
+ Enlem
+50°
+40°
+Geçmişte askerî alanda, ulaşımda ve haritacılıkta yararlanılan koordinat siste-
+mi; günümüzde Küresel Konumlandırma Sistemi (GPS) ile ulaşım, ekonomi, 
+sağlık, eğitim, bilişim, mühendislik, havacılık, meteoroloji, uzay araştırmaları 
+gibi birçok alanda kullanılır hâle gelmiştir.
+GPS
+Bir yerin coğrafi 
+koordinatlarını, 
+uydular aracılığıyla 
+belirlemeye yarayan 
+Küresel Konumlandırma 
+Sistemi’dir.
+  40° Kuzey Enlemi
+   50° Doğu Boylamı
+Görsel 2.2  
+Enlem ve boylamın şekil üzerinde gösterimi
+Harita 2.1: Çanakkale Şehitler Abidesi’nin coğrafi koordinatları

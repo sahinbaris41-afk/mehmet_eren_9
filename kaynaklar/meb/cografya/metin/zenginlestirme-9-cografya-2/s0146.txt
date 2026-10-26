@@ -1,0 +1,17 @@
+144 145
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+EK: CBS PROGRAMININ KULLANIMI
+Aşağıdaki adımları takip ediniz.
+ ▶ Haritaları inceleyiniz ve elde ettiğiniz bilgileri sınıflandırıp veri tablosu oluşturunuz.
+ ▶ Belirlediğiniz bölge kriterinin görüldüğü yerleri il plaka numaralarına veya il adlarının alfabe-
+tik sırasına göre tasnif ediniz.
+ ▶ Oluşturduğunuz veri tablosunun çıktısını alıp öğretmeninizle paylaşınız.
+ ▶ Öğretmeninizin veri tablonuz ile ilgili dönütlerini değerlendiriniz.
+1
+Hazırlık
+ ▶ Öğretmeniniz tarafından verilen altlık haritaları, kullanacağınız CBS programında “exerci-
+se_data/shapefile” klasörüne yerleştiriniz.
+ ▶ CBS yazılımını açıp “Proje” menüsünden “Yeni”yi seçerek yeni bir boş proje sayfasının açılma-
+sını sağlayınız.
+2
+Programa Giriş

@@ -1,0 +1,34 @@
+93
+Tema Ölçme ve Değerlendirme Soruları
+Yönerge: Aşağıdaki metin ve tablodan yararlanarak 30 ve 31. soruları cevaplayınız.
+Meyve ve sebzelerde koparılma, kesilme ya da hasar görme sonucu metabolik bi -
+leşikler açığa çıkar. Bu bileşikler oksitlenerek meyvede sarı-kahverengi enzimatik 
+bir kararmaya neden olur. Bitkideki bir enzim (katekol oksidaz) oksijen varlığında 
+katekol bileşiğine etki ederek benzokinon oluşumunu katalize eder.
+Substrat
+Katekol
+Ürün
+(Benzokinon)
+Enzim
+(Katekol oksidaz)
+Enzimin aktivitesine etki eden faktörleri belirlemek için aşağıdaki tabloda yedi de-
+ney düzeneği oluşturulmuştur. Patatesten elde edilen enzim ve metabolik ürün 
+solüsyonu kullanılarak reaksiyon sonucu meydana gelen renk değişimleri ölçül -
+müştür.
+Deney 
+Düzeneği Saf Su Tampon (pH: 6.0) Patates Özütünden Elde Edilen Enzim Substrat (%1) Sıcaklık
+1 4 ml 1 ml 22 °C
+2 2 ml 1 ml 2 ml 22 °C
+3 2 ml 1 ml 2 ml 22 °C
+4 1 ml 2 ml 2 ml 22 °C
+5 1 ml 2 ml 2 ml 4 °C
+6 1 ml 2 ml 2 ml 40 °C
+7 1 ml 2 ml 2 ml 80 °C
+29. Bir öğrenci, elindeki bilinmeyen bir özütün "hayvansal kaynaklı" olduğunu ispatlamak için tabloda-
+ki hangi iki tüpü birlikte kullanmalıdır?
+A) Suyun kaldırma kuvvetini  
+B) 1 ve 8. tüpü
+C) 2 ve 12. tüpü
+D) 3 ve 6. tüpü
+E) 5 ve 8. tüpü
+F) 9 ve 11. tüpü

@@ -1,0 +1,30 @@
+Türkiye’de Sıcaklığın Dağılışı
+Türkiye’de coğrafi koşullara bağlı olarak kısa mesafelerde ortalama sıcaklık 
+değerlerinde belirgin farklılıklar görülür. Sıcaklıkların güneyden kuzeye doğru 
+azalmasında enlem, batıdan doğuya doğru azalmasında da yükselti etkilidir. 
+(Harita 3.3).  
+km
+0 100 200 300
+Sıcaklık (°C)
+4 0 8 12 16 20
+km
+0 100 200 300
+1.750
+2.000
+2.250
+2.500 
+2.750
+3.000
+3.250
+Güneşlenme Süresi: Türkiye’de güneşlenme süresi, genel olarak güney -
+den kuzeye doğru doğru azalır (Harita 3.4).  Bu durumun oluşmasında enle -
+min yanı sıra bulutlu gün sayısı da etkilidir.
+Yıllık 3.250 saat ile Şanlıurfa ve Mardin, en fazla güneşlenme süresine sahip 
+illerdir. Yıl içinde güneşlenme süresinin en az olduğu iller ise 1.750 saat ile 
+Trabzon, Rize ve Artvin’dir.
+K
+K
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+104
+Harita 3.3: Türkiye yıllık ortalama sıcaklık dağılışı
+Harita 3.4: Türkiye’de yıllık güneşlenme süreleri (Saat olarak verilmiştir.)

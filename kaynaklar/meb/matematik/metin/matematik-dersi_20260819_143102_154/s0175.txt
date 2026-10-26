@@ -1,0 +1,32 @@
+175
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+rin çözümünde çemberle birlikte üçgen ve çokgenin özellikleri (ikizkenar üçgen, eşkenar üç-
+gen, benzerlik, alan gibi), kâğıt katlama stratejileri, matematik yazılımlarının kullanımını içeren 
+stratejiler kullanılır. Daha sonra öğrencilerin farklı çözüm yollarını ve stratejilerini eleştirel bir 
+yaklaşımla incelemeleri beklenir (E3.10). Bunun için çözümleri tartışma ortamında ele alma -
+ları sağlanır. Tartışılan çözüm stratejileri üzerinden problemin çözümünü sağlayan strateji -
+lerin benzer tüm durumlara genellenip genellenemeyeceği incelenir. Çözüm stratejilerinden 
+hangilerinin hangi tür problemlerde kullanılabileceğine ilişkin (pergel, cetvel, ölçüsüz cetvel 
+veya matematik yazılımları ile çokgenlerin özelliklerinin kullanımı gibi) genellemeler matema-
+tiksel örneklerle desteklenerek gözden geçirilir. Öğrencilerin kendi uyguladıkları stratejilerin 
+doğruluğu ya da yanlışlığı ile ilgili ayrıca bir değerlendirme yaparak belirledikleri stratejileri 
+farklı problem durumlarına uyarlamaları sağlanır (SDB1.3). Bu değerlendirmeler sonucunda 
+öğrencilerden elde ettikleri genellemeleri farklı problem durumlarına yansıtmaları beklenir. 
+Bu süreçte çemberin uzunluğu, yayın uzunluğu, dairenin alanı, daire diliminin alanı kavram -
+larını farklı çokgenlerle ilişkilendirmelerini gerektiren problemlere yer verilir. Öğrencilerin 
+çember ve özelliklerine dair bilgi ve çıkarımlarının değerlendirilmesi, tanılayıcı dallanmış ağaç 
+ya da doğru-yanlış soruları kullanılarak yapılabilir. Öğrencilere çemberde açı, kiriş ve teğetin 
+özelliklerini ve dairenin alan bağıntısını içeren problemler çözmelerini gerektiren performans 
+görevi verilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerden çemberin uzunluğu ve dairenin alanı için yapacakları görsel ispatları açıklayan 
+bir video ve benzeri dijital materyal oluşturmaları ve oluşturdukları materyalleri dijital ortamda 
+paylaşmaları beklenebilir.
+(*) Dairenin  alanı  ve  pi  sayısı  üzerine  Arşimet’in  yaptığı  çalışmaların araştırılması istenebilir.
+Destekleme Konunun görsel ve işitsel materyaller kullanılarak, oyunlaştırılarak öğrencilere sunulmasına 
+dikkat edilir. Böylece çıkarım yapma sürecinde kavramlar, öğrencilere ilişkilerin somutlaştı -
+rılması yoluyla verilebilir. Etkileşimli çevrim içi öğrenme uygulamaları kullanılarak öğrencilerin 
+hedeflenen becerileri kazanmalarına yardımcı olunabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

@@ -1,0 +1,34 @@
+191
+6. Tema / İstatistiksel Araştırma Süreci
+e) Planı sınıf arkadaşlarınızla paylaşınız. Arkadaşlarınızın oluşturduğu planları dinleyiniz ve 
+sundukları planların veri toplama planında bulunması gereken özelliklere uygunluğunu 
+karekodda verilen kontrol formu ile değerlendiriniz. Değerlendirmelerinizi sınıfça tartışınız. 
+Üzerinde uzlaştığınız planı yeniden yazınız.
+Plan:
+f) Karekodda verilen veri setini istatistik yazılımına yükleyiniz. Veri setinin analizini yapınız ve 
+araştırma sorularınızı cevaplayınız. Cevabınızı sınıf arkadaşlarınızla paylaşınız.
+2.		Dünya	için	en	önemli	ve	stratejik	kaynaklardan	biri	sudur.	Suyun	sınırsız	bir	kaynak	olmadığı	gerçeği,	
+su	tüketimi	konusunda	gerek	bireylerin	gerekse	toplumların	bilinçli	olmasını	gerekli	kılmaktadır.	Bu	
+gereklilik	son	yıllarda	su	okuryazarlığı	kavramını	ortaya	çıkarmıştır.	Su	okuryazarlığı;	suyun	tüm	can-
+lılar	için	önemi,	çevresel	etkenler	nedeniyle	su	kaynaklarının	kirlenmesi,	su	tüketimi	gibi	konularda	
+bireysel	veya	toplumsal	düzeyde	bilinç	oluşması	olarak	tanımlanabilir.
+Türkiye’de	 içme	 ve	 kullanma	 amaçlı	 su;	 akarsu,	 baraj,	 göl,	 gölet,	 kaynak	 veya	 kuyulardan	 temin	
+edilmektedir.	Dünya	Su	Günü	(27	Mart)	etkinliği	kapsamında	bir	lisedeki	bir	grup	öğrenci,	Türkiye’de	
+içme	ve	kullanma	suyu	için	su	kaynaklarından	çekilen	su	miktarlarını	belirlemek	ve	bilinçli	su	tüke-
+timi	konusunda	farkındalık	oluşturmak	amacıyla	araştırma	yapmaya	karar	vermiştir.	Bu	doğrultuda	 	
+ulaştığı	TÜİK	verilerinden	2020	ve	2022	yıllarında	akarsu,	baraj,	göl,	gölet,	kaynak	veya	kuyulardan	
+temin	edilerek	illere	dağıtılan	su	miktarlarını	(ton)	tespit	etmiş	ve	aşağıdaki	karekodda	yer	alan	tab-
+loyu	oluşturmuştur.
+Tablodaki verilerden yola çıkarak
+a) Tek nicel değişken içeren veri toplamayı gerektiren birer adet betimleyen ve karşılaştıran 
+istatistiksel araştırma sorusu oluşturunuz. Sorularınızı yazarken istatistiksel araştırma 
+sorusu ölçütlerini dikkate alınız.
+Betimleyen istatistiksel araştırma sorunuz:
+Karşılaştıran istatistiksel araştırma sorunuz:
+Veri toplama planı kontrol formuna 
+ulaşmak  için karekodu okutunuz.
+Memeli türü veri dosyasına ulaşmak 
+için karekodu okutunuz.
+Su kaynaklarından çekilen su miktarı 
+veri dosyasına ulaşmak için karekodu 
+okutunuz.

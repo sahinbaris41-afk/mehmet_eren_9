@@ -1,0 +1,17 @@
+23
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilere bilgisayar bilimleri, kriptoloji, fizik, kimya, biyoloji gibi farklı disiplinlerde geçen 
+doğrusal ilişkili durumların keşfedilmesine ve bu durumların matematiksel temsillerle ilişki-
+lendirilmesine yönelik görevler verilebilir. Bu görevlerde öğrencilerin matematik yazılımla-
+rından yararlanmaları sağlanabilir. Benzer şekilde doğrusal ilişkili problemler ifade edilirken 
+“sözde kod yazma” gibi farklı uygulamalar yaptırılabilir.
+Destekleme Basit doğrusal ilişkili durumları (şekilsel sayı örüntüleri, sabit hızlı harekette zaman ile yol 
+ilişkisi gibi) fark etmeye yönelik çalışmalara yer verilebilir. Doğrusal ilişki içeren gerçek ya -
+şam durumları, öğrencilerin yakın çevresi dikkate alınarak çeşitlendirilebilir. Böylelikle öğ-
+rencilerin konuya karşı olan ilgi ve motivasyonu artırılabilir. Kullanılacak dijital materyallerin 
+kullanıcı arayüzlerinin kolay, anlaşılır  ve farklı denemeler yapmaya uygun olmasına dikkat 
+edilir. 
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

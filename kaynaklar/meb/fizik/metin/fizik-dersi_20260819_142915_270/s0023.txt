@@ -1,0 +1,42 @@
+23
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+dikkatle dinler (SDB2.3), düşünceler arasındaki ayrım noktalarını belirleyerek (D4.4) al-
+ternatif fikirler öne sürer (SDB2.2, E2.3), temel kavramlardan üç tanesini içeren özgün 
+senaryolar oluşturur (D3.3). Öğretmen, canlandırma etkinliği öncesinde gruplar tarafın-
+dan hazırlanan bütün senaryoları inceleyerek temel kavramların tamamının senaryolar -
+da yer aldığından emin olur. Öğrenciler, akran gruplarının canlandırmalarını gözlemler 
+(OB9) ve canlandırmalarda sunulan verileri kaydeder. Bilimsel tartışma yöntemiyle göz-
+lem verilerinden yararlanarak temel kavramların tanımlarına ilişkin genellemeler yapar 
+(KB2.2). Yorumlar ışığında trafiği düzenleyen sürat sınırlamalarına uymanın can güvenli-
+ği (D16.2, OB6) ve trafikteki yeşil dalga sisteminin yakıt tasarrufu (D17.2, D19.4, OB8) açı-
+sından önemini tartışır. Öğretmen hareketin temel kavramlarına ait matematiksel model-
+leri açıklar. Öğrenciler hareketin temel kavramlarına ilişkin matematiksel işlemler yapar. 
+Hareketin temel kavramlarına yönelik grafiklerden ve ivmeli hareket ile ilgili matematiksel 
+işlemlerden kaçınılır. Öğretmen, öğrencilerden performans görevi olarak hareketin temel 
+kavramlarının tanımlarını ve bu kavramların günlük hayatla ilişkili örneklerini içeren renk, 
+desen ve doku gibi görsel unsurları kullanarak (D7.1) broşür veya poster hazırlamaları-
+nı ister. Öğretmen, öğrencilerden kendileri ve arkadaşları açısından öğrenme sürecinin 
+gelişimini, süreçte zorlandığı aşamaları, bu zorlanma anlarında kendilerini motive etme 
+durumlarını değerlendirmeleri (SDB1.2) için öz ve akran değerlendirme formlarını doldur-
+malarını isteyebilir.
+FİZ.9.2.7 
+Öğretmen, hareket türlerinin (öteleme, dönme ve titreşim) niteliklerini belirlemeye yönelik 
+olarak iş birlikli öğrenmenin gerçekleştirilebileceği tartışma ortamı oluşturabilir. Öğren-
+ciler, öğretmen rehberliğinde heterojen gruplar oluşturur (SDB2.2). Grup içi tartışma or -
+tamında (SDB2.1) hareket türlerinin niteliklerini belirler. Öğrenciler hareket türlerini ben-
+zerliklerine ve farklılıklarına göre ayrıştırır ve gruplandırır. Gruplar, tartışma sonucunda 
+çıkarımlar yaparak hareket türlerini adlandırır. Öğretmen, soru cevap tekniğini kullanarak 
+öğrencilerin birden fazla hareket türünü aynı anda yapan cisimlere örnekler vermesini 
+isteyebilir. Matematiksel modellerden kaçınılır. Öğrencilerden hareket türleri konusunda 
+sanal pano veya bülten panosuna kısa açıklamalar yazmaları istenebilir.
+FARKLILAŞTIRMA
+Zenginleştirme Bileşke vektör hesaplanırken gerçek sayı ile çarpılmış vektörlerin toplanmasına yönelik 
+uygulamalar yapılabilir.
+*Performans ödevi olarak verilen drama etkinliklerinin senaryolarında üçten fazla kavram 
+senaryolara dâhil edilebilir.
+*Arabaların sürat göstergelerini hız göstergesine dönüştürmek için teknolojik model öne-
+risi hazırlanabilir.
+Destekleme Bileşke vektörün bulunmasında iki vektörün toplanması ile sınırlı kalınabilir.
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

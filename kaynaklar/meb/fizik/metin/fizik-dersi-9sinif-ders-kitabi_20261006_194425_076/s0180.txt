@@ -1,0 +1,45 @@
+180
+3. ÜNİTE 
+Sıvılarda kaldırma kuvveti ile basınç arasındaki ilişkiyi kavrayabilmek için 
+derinlik ile basınç arasındaki ilişkiyi anlamak gerekir. Sıvı yüzeyinden derinlik-
+lere inildikçe basınç (P) artar. Bu durumda bir cismin alt yüzeyindeki basınç, 
+üst yüzeyindeki basınçtan daha yüksek olur. Bir cismin hacminin tamamı sıvı 
+içindeyken (Görsel 3.23: a) cisme etki eden kaldırma kuvveti, cismin alt ve üst 
+yüzeylerine uygulanan basınç farkından kaynaklanır.
+Görsel 3.23: b’de görülen ve hacminin tamamı sıvı içinde bulunan silindirik 
+cismin taban alanı A ve yüksekliği h’dir. Cismin yan yüzeylerine etki eden F3 ve 
+F4 kuvvetleri, cismin yan yüzeylerine uygulanan su basıncından kaynaklanır. 
+Bu kuvvetler, büyüklük olarak birbirine eşit fakat zıt yönlüdür, bu sebeple yan 
+yüzeylerde birbirini dengeler ve cismin yanal hareketine sebep olmaz.
+h
+A
+h1
+h2
+P
+a) b)
+F3 F4
+F2
+F1
+G
+Görsel 3.23: a) Hacminin tamamı sıvı içinde olan cisim b) Sıvı tarafından cisme uygu-
+lanan basınç kuvvetleri
+h1 cismin üst yüzeyinin sıvı yüzeyine dik uzaklığı, h 2 cismin alt yüzeyinin sıvı 
+yüzeyine dik uzaklığı, d s sıvının yoğunluğu, g yer çekimi ivmesinin büyük -
+lüğü olmak üzere cismin alt ve üst yüzeylerine etki eden kuvvet şu şekilde 
+hesaplanır: 
+F h d g As 1 1$ $ $=    F h d g As 2 2$ $ $=
+F2 > F1 olduğundan kuvvetlerin bileşkesi düşey doğrultuda ve yukarı yönlüdür. 
+Basıncı oluşturan bu kuvvet, sıvı tarafından cisme uygulanan kaldırma kuvve-
+tine eşittir. Bu durumda kaldırma kuvvetinin büyüklüğü,
+F F k 2 =  ‒ F1  olur. F2 ve F1 büyüklük değerleri yerine konduğunda kaldırma 
+kuvvetinin büyüklüğü  Fk = (h2 ‒ h1) : ds : g : A  bulunur. h = h2 ‒ h1  olduğun-
+dan F h d g As k$ $ $=  bulunur. 
+Cismin batan hacmi Vb = h : A  olduğundan kaldırma kuvvetinin matematiksel 
+modeli 
+F V d g b s k $ $ =  olarak bulunur. 
+Fk sembolü ile gösterilen kaldırma kuvvetinin SI’daki birimi newtondur.
+Tamamı sıvı içine batmış, hacmi değişmeyen bir cisme etki eden kaldırma 
+kuvveti, cismin bulunduğu sıvının derinliğine bağlı değildir.
+“Bir kısmı veya tamamı durgun akışkana batan cisme akışkan tarafından uygu-
+lanan kaldırma kuvveti, cisim tarafından yeri değiştirilen sıvının ağırlığına eşit 
+büyüklüktedir.” ifadesi Arşimet İlkesi olarak bilinir.

@@ -1,0 +1,62 @@
+4. Ünite: B e Ş e RÎ S i S te ML e R V e  SÜR e ÇL e R
+155
+Bir yerdeki nüfus miktarı ve nüfusun yapısal özellikleri zaman içinde değişim 
+gösterir. Sosyal ve ekonomik gelişmelerin yanı sıra uygulanan nüfus politikala-
+rı da ülke nüfusunun gelişimi üzerinde etkili olur. 
+Bir ülkedeki ekonomik ve sosyal gelişmelere göre doğal nüfus artış hızının na-
+sıl değiştiğini açıklamak için demografik dönüşüm modeli ortaya konmuştur. 
+Demografik dönüşüm modeli, bir ülkenin doğum ve ölüm oranlarına göre şekil-
+lenen mevcut nüfus artışını dikkate alarak o ülkenin bu modeldeki beş gelişim 
+aşamasından hangisinde olduğunu belirlemeye dayanır (Grafik 4.2).  Ülkelerin 
+sosyal ve ekonomik politikalarının nüfus üzerindeki etkisi buna göre açık
+ lanır
+. 
+Sanayileşme, kentleşme, sağlık hizmetlerinin iyileşmesi gibi toplumsal değişim-
+ler sonucunda ülkeler modelde belirtilen bir aşamadan diğerine geçer.
+10
+20
+30
+40
+Doğum oranı
+Ölüm oranı
+Nüfus miktarı
+1. Aşama 2. Aşama 3. Aşama 5. Aşama4. Aşama
+Doğum ve Ölüm Oranı (‰)
+1. Aşama Doğum ve ölüm oranları yüksek, nüfus artış hızı çok düşüktür. Sanayi öncesi toplumlarda görülür. Sağlık hizmetleri yetersizdir. Ortalama ömür kısa ve bebek ölüm oranı yüksektir.
+2. Aşama
+Doğum oranları yüksektir. Ölüm oranları düşmeye başlamıştır. Sanayileşmenin ilk dönem-
+lerini yaşayan toplumlarda görülür. Beslenme koşullarındaki iyileşme, sağlık hizmetlerinin 
+gelişmesi ve bebek ölüm oranlarının düşmesi nüfus artış hızının yüksek olmasında etkilidir.
+3. Aşama
+Ölüm oranları düşük seviyedeyken doğum oranları düşmeye ve nüfus artış hızı yavaşlama-
+ya başlar. Doğum oranlarının azalması üzerinde kentleşme, eğitim ve kadınların çalışma 
+hayatına girmesi etkilidir.
+4. Aşama Doğum oranlarının hızla azalmasına bağlı olarak nüfus artış hızı çok düşüktür. Sanayi son-rası toplumlarda görülür.
+5. Aşama Doğum oranları çok düşüktür. Yaşlı nüfus oranının fazla olmasına bağlı olarak ölüm oranları biraz daha yüksektir. Genç nüfus oranı düşüktür. Bu aşamada nüfusta azalma görülür. 
+Demografik dönüşüm modeli, sanayileşme öncesi ve sonrasındaki sosyal ve 
+ekonomik süreçlerin nüfuslanma üzerindeki etkisi dikkate alınarak geliştirilmiştir. 
+Model; bu aşamaların gözlendiği İngiltere, Fransa ve Almanya’nın nüfuslanma 
+sürecini yansıtır. Bu modelde göçün nüfus üzerindeki etkisi göz ardı edilerek 
+doğal nüfus artışında yaşanan değişimlere odaklanılır. Günümüzde 1. aşamada 
+olan ülke yoktur. Gelişmekte olan ülkelerde 2 veya 3. aşamanın özellikleri görül-
+mektedir. Bu durumun gerçekleşmesinde gelişmiş ülkelerin teknoloji ve sağlık 
+olanaklarından yararlanması etkilidir. Kentleşme, hizmet sektörünün gelişmesi, 
+kadınların eğitim görmesi ve çalışma hayatına girmesi de faktörler arasında sa-
+yılabilir.
+Doğal nüfus artışı 
+Sınırları belirli bir 
+yerde, belirli bir dö-
+nemde doğum ve ölüm 
+oranları arasındaki 
+farka bağlı olarak 
+nüfusta meydana gelen 
+değişimdir.
+Grafik 4.2  
+Demografik dönüşüm 
+modeli
+Demografik 
+Dönüşüm 
+Modeli ve Nüfus 
+Piramitleri
+Demografik 
+Dönüşüm Modeli

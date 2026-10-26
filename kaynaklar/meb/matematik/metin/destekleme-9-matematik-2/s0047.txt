@@ -1,0 +1,13 @@
+46
+MATEMATİK 9 
+2. TEMA: NİCELİKLER VE DEĞİŞİMLER
+3. Adım
+4. Adım
+Seçtiğiniz mutlak değer fonksiyonunun nitel özelliklerini (tanım kümesi, görüntü kümesi, işareti, mini-
+mum-maksimum noktaları, artanlığı - azalanlığı, sıfırı ve bire birliği) belirleyiniz. 1. adımda incelediğiniz 
+doğrusal fonksiyonun nitel özellikleri ile mutlak değer fonksiyonunun nitel özelliklerini karşılaştırmak 
+amacıyla bir tablo hazırlayınız.
+Bu etkinlikte incelediğiniz doğrusal ve mutlak değer fonksiyonlarının cebirsel ve grafik temsilleri ile 
+nitel özelliklerine yer vereceğiniz bir görsel hazırlayıp sınıf panosuna asınız.
+Hazırlayacağınız görsel, öğretmeniniz tarafından değerlendirilecektir.
+Çözüm:

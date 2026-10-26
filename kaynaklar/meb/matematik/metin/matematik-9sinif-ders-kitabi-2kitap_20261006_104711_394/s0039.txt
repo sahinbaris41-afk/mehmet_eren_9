@@ -1,0 +1,52 @@
+39
+4. Tema / Eşlik ve Benzerlik
+Kenar-Kenar-Kenar	Eşliği
+Üç	kenar	uzunluğu	bilinen	tek	bir	üçgen	çizilebileceğinden	kenar	uzunlukları	eşit	olan	iki	üçgen	eştir .
+Üçgenlerin	tüm	kenar	uzunluk larının	eşit	olmas ı,	üçgenler in	eş	olmas ının	asgar i	koş ullarından	biridir .	
+Kenar	uzunlukları	eşit	olan	iki	üçgenin	karşılıklı	açı	ölçüleri	de	eşit	olur.
+3. ÖRNEK
+Aşağıda	verilen	önermenin	doğruluğunu	ispatlayınız.
+“Bir	ikizkenar	üçgende	üçgenin	tepe	noktasından	çizilen	kenarortay,	aynı	zamanda	açıortay	ve	yüksek-
+liktir. ”
+Çözüm
+AB AC= 	olacak	şekilde	ABC	ikizkenar	üçgeni	ve	bu	üçgenin	BC	kenarına	ait	
+AH7A 	kenarortayı	çizi lirse	ol uşan	ABH	ve	ACH	üçg enlerinin	karşıl ıklı	tüm	ken ar	
+uzunlukları	eşit	olduğundan	bu	üçgenler	eştir	(K.K.K.).	 	ABH ACH,&& 		olduğun-
+dan	 BAH HAC , ABH ACHmm mm ==`` `` jj j j%% %% 	 ve	 BHA AHCmm 90o==`` jj%%  
+olur.	Buradan	 AH7A 	açıortaydır.	 AH BC=77 AA 	olduğu	için	 AH7A 	aynı	zamanda	
+yüksekliktir.
+4. ÖRNEK
+Yandaki	ABC	üçgeninde	 BC AC=77 AA ,	 BC cm 4= 	ve	 AC cm 7= ’dir.
+ABC	 üçgeni,	 C	 köşesi	 etrafında	 saat	 yönünde	 90o	 döndürüldükten	 sonra	
+cm 3	yukarıya	öteleniyor.	Dönüşümler	sonunda	A	noktası	P	noktasına	geliyor.	
+Buna	göre	m BPA` j%  nün	kaç	derece	olduğunu	bulunuz.
+Çözüm
+ABC	üçgeni	90o	döndürüldüğünde	Şekil	1’de	gösterilen	MCN	üçgeni	oluşur.	Oluşan	MCN	üçgeni	3	cm	
+yukarı	ötelendiğinde	ilk	konumuna	göre	Şekil	2’deki	görüntü	oluşur.	
+Şekil	2’deki	üçgenler	eş	olduğundan	 AB AP=  elde	edilir.	Buradan	ABP	ikizkenar	üçgen	olur .	
+BAC APD ,mma ==`` jj%%  ABC DAPmmb ==`` jj%% 	alınırsa	ABC	üçgeninde	 BAC ABCmm 90o+=`` jj%% ,	
+ab 90o+= 	olur.
+BAPma b9 0o=+=`j% 	ve	ABP	ikizkenar	üçgen	oldu ğundan	 BPAm4 5o=`j% 	bulunur.
+B
+A
+CH
+A
+4
+7
+B C
+A
+D
+4
+4
+7 P
+B
+Şekil 2
+C
+3
+A
+M
+4
+4 7 N
+3
+B C
+Şekil 1

@@ -1,0 +1,36 @@
+142
+5. Tema/Ölçme ve Değerlendirme
+2.  Aşağıda	bir	kırtasiyenin	her	bir	kalem	satışı	
+sonrasında	kâr	mı,	zarar	mı	ettiğini	bulan	algo-
+ritmanın	işleyişi	akış	şemasıyla	ifade	edilmiştir.
+ 
+ 
+Başla
+Alış	fiyatı	(A)	gir
+Satış	fiyatı	(S)	gir
+Evet
+Evet
+Hayır
+Hayır
+Zarar	edilir
+Ne	kâr	ne	zarar 
+edilir
+Bitir
+SA2
+SA=
+Kâr	edilir
+ 
+ 
+ 
+ 
+ Buna göre aşağıdaki soruları cevaplayınız. 
+a)  Bir kalemin alış fiyatı 75 Türk lirası ve 
+satış fiyatı 119 Türk lirası olduğuna göre 
+kırtasiyenin kâr mı, zarar mı ettiğini akış 
+şeması yardımıyla hesaplayınız. 
+ 
+b) Algoritmanın işleyişini sözde kod ile 
+ifade ediniz.
+ 
+ 
+Sözde Kod

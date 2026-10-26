@@ -1,0 +1,51 @@
+103
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+kömür türlerinin karbon içerikleri, yer altındaki derinlikleri, yanma sırasında ürettikleri 
+enerji ve sera gazı emisyonları arasındaki ilişkiyi belirler.
+Öğrencilerden kömür türleri ile bunların kimyasal içeriği arasındaki ilişkinin yanı sıra azot 
+oksitler ve kükürt dioksit gazları emisyonları arasındaki bağlantıyı da belirlemeleri istenir. 
+Bu bağlamda öğrenciler; kömür, petrol ve doğal gazın kimyasal içeriği, yandıklarında ver-
+dikleri enerji miktarı ve emisyon gaz miktarlarını gösteren kanıt kartlarını inceler; enerji 
+kaynaklarını yandıklarında açığa çıkan enerji miktarı ve emisyon ayak izleri açısından kar -
+şılaştırır (OB8). Karşılaştırma sonuçlarından hareketle karbon temelli enerji kaynaklarının 
+kimyasal içeriği ile sera etkisi, hava kirliliği ve asit yağmuruna neden olma potansiyeline 
+ilişkin önermeler sunar. Önermeleri duyarlılık ve temizlik değerleri kapsamında değerlen -
+dirir (D5.2, D18.3). Öğrencilerden önermelerini sınıfta sunulan diğer önermeler ile karşılaş-
+tırmaları ve yeni bilimsel veriler eşliğinde değerlendirmeleri istenir (E3.10, SDB2.1, OB8) . 
+Öğrenciler; etkinlik kâğıdında verilen çeşitli hidrokarbonların açık ve kapalı formüllerini, 
+uzay-dolgu molekül modellerini, yanma tepkimelerini (sembolik ve alt mikro seviyede) ve 
+yanma ısısını içeren bilgileri inceler. Öğrencilere hidrokarbonların yanma ısısı ile karbon 
+içeriği, düz zincir veya dallanmış zincir yapısı arasında ilişki kurmalarını sağlayacak sorular 
+sorulur (OB7). Ayrıca hidrokarbonların kararlılıkları ile yanma ısıları arasında da ilişki kur -
+maları için öğrencilere sorular sorulur. Fosil yakıtların oksijen ile yanma tepkimesi verdiği 
+gibi hidrojenin de oksijen ile olan tepkimesine dikkat çekilerek hidrojenin de yakıt olarak 
+kullanılıp kullanılamayacağının sorgulanması sağlanır. Ayrıca benzinin yapısı ve oktan sa -
+yısının önemi hakkında bilgi verilir. 
+Öğrencilerden gruplara ayrılmaları ve kendilerine verilen alkoller (farklı karbon sayılı, düz 
+zincirli, dallanmış, monoalkol, polialkol vb.) arasından en fazla enerji veren alkolü belirle -
+mek amacıyla iş birliği içinde deney planlamaları istenir (D3.2). Öğrencilere deneye başla-
+madan önce deney sürecinde uymaları gereken laboratuvar güvenliği kuralları hatırlatılır. 
+Öğrenciler verilen propanol, 2-propanol, bütanol, 2-bütanol, pentanol, 2-pentanol bile -
+şikleri arasından aynı karbon sayısına sahip olan iki alkolü seçer ve mini ispirto ocakla -
+rını kullanarak deneyini yapar (OB1). Bu süreçte öğrencilerin grup arkadaşlarıyla uyumlu 
+çalışmaları ve mütevazılık değerini pekiştirmeleri beklenir (SDB2.2, D10.3). Öğrencilerden 
+deney verilerine dayanarak alkollerin düz zincirli ve dallanmış zincirli yapıları ile yanma tep-
+kimesi sonucunda açığa çıkan ısı arasında ilişki kurmaları ve alkollerin dallanma yapısına 
+bağlı olarak yanma ısısında gözlemlenen azalmayı alkolün molekülleri arasındaki hidrojen 
+bağı kuvvetindeki azalma ve kararlılık ile ilişkilendirilerek açıklamaları beklenir (E1.3, OB8).    
+Öğrencilerden performans görevi çerçevesinde farklı fosil yakıtların kullanımıyla ortaya 
+çıkan enerji miktarını ve sera gazlarını araştırarak çevreye olan etkilerini belirlemeleri ve 
+sürdürülebilir bir çevre için hangi fosil yakıtın kullanılması gerektiği ile ilgili çıkarım yapma-
+ları istenebilir.  
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerden kozmetik, parfümeri, farmakoloji, temizlik, tekstil gibi farklı sektörlerde 
+yaygın olarak kullanılan organik çözücüleri genel olarak sınıflandırmaları ve bu çözücülerin 
+potansiyel toksik etkilerini araştırmaları istenebilir. Ayrıca parfüm, kolonya, boya fabrikası 
+gibi yerlerde çalışan bireylerle röportaj yapmaları teşvik edilerek bu sektörlerde kullanılan 
+organik bileşiklerin neden olduğu potansiyel sağlık sorunları ve sağlığı korumaya yönelik 
+alınan önlemler hakkında bilgi toplamaları istenebilir.
+Öğrencilerden çeşitli yağ asitleri ve doğal katkı maddeleri kullanarak katı sabun yapmaları 
+istenebilir. Sabun yapımında sodyum hidroksit (kostik) yerine çeşitli atıkların yanması so -
+nucu oluşan küllerden baz eldesi denenebilir. Yapılan sabunun pH değeri, suda çözünme 
+süreci, köpürmesi ve farklı türden kirleri çıkarma özelliği test edilebilir. Öğrencilerden ha-
+zırladıkları sabunlar için kullanma kılavuzu ve etiket hazırlamaları istenebilir.

@@ -1,0 +1,51 @@
+105
+5. Tema/Algoritma ve Bilişim  
+1. ÖRNEK
+Aşağıda 13’ün 3 ile bölümünden kalanı tekrarlı çıkarma yöntemiyle bulan algoritmanın işleyişi algoritmik 
+doğal dille ifade edilmiştir.
+1. adım: Başla.
+2. adım: Girdilerin alınması 
+  Kullanıcıdan bölünen  (13) ve bölen (3) al.
+3. adım: Koşulun kontrolü
+  Bölünen bölenden b üyük eşitse 4. adıma değilse 5. adıma git.
+4. adım: Bölünenin güncelle nmesi
+  Bölünenden böleni çıkar, sonucu bölünen olarak güncelle ve  
+3. adıma git. 
+5.adım: Sonucun bulunmas ı
+  Bölüneni kalan olara k al.
+6. adım: Bitir.
+Algoritmik Doğal Dil
+Buna göre verilen iki doğal sayıdan biri diğerine bölündüğünde kalanı çıkarma yöntemiyle bulan algoritma-
+nın işleyişini akış şemasıyla ifade ediniz. 13’ün 3 ile bölümünden kalanı akış şeması yardımıyla bulunuz.
+Çözüm
+Algoritmanın Çalışması
+Kullanıcı, bölünen (a) ve bölen (b) sayıları 
+için sırasıyla 13 ve 3 girmiştir. Bu durumda 
+a yerine 13, b yerine 3 girdi olarak alınır. 
+a nın mevcut değerinden b değeri çıkarıla-
+rak yeni bir a değeri hesaplanır. Bu adım, 
+döngünün her yinelenişinde tekrarlanır ve 
+a değeri sürekli azalır. Elde edilen yeni       
+a değerleri yandaki tabloda verilmektedir.
+a değeri 1 olduğunda 131  olduğundan yi-
+neleme durmakta ve kalan a ya eşit olmak-
+tadır. Kalan 1’e eşit olur. Yineleme sayısı 
+da bölümü verir.
+Koşulun kontrol edildiği ab2=  ifadesi  
+ab$  şeklinde de gösterilebilir.
+Akış Şeması
+Yineleme a
+0 13
+1 13 31 0-=
+2 10 37-=
+3 73 4-=
+4 43 1-=
+Başla
+Bölünen (a) ve 
+bölen (b) gir
+Evet
+Hayır
+Kalan a olur
+Bitir
+aa b! -
+ab2=

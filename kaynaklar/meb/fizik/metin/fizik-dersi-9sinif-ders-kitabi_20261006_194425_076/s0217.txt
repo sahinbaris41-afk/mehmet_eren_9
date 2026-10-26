@@ -1,0 +1,18 @@
+217
+ENERJİ
+düşük sıcaklıkları ölçebilir. Gazlı termometreler, genellikle laboratuvarlarda 
+ve hassas endüstriyel sıcaklık ölçümlerinde kullanılır.
+Görsel 4.6: Gazlı termometre
+Kızılötesi termometreler (Görsel 4.7), cisimlerin yüzeyinden yayılan kızılö -
+tesi ışınları algılayarak sıcaklık ölçümü yapar. Bu nedenle cisimlere temas 
+etmeden sıcaklık ölçümü yapabilir. Genellikle kamuya açık alanlarda, sağlık 
+kurumlarında, gıda üretim tesislerinde ve sıcaklığı nedeniyle yanına yaklaşıl-
+ması tehlikeli olan ortamlarda sıcaklık ölçümü için kullanılır.
+Görsel 4.7: Kızılötesi termometre
+Dijital termometrelerin (Görsel 4.8) yapımında direnci sıcaklıkla değişen devre 
+elemanları kullanılır. Bu devre elemanlarının sıcaklık değişimlerindeki tepki 
+süreleri uzundur. Diğer bir deyişle bu termometreler ani sıcaklık değişimlerini 
+yakalayamaz. Dijital termometreler, günlük hayatta vücut sıcaklığını ölçmek 
+için sıkça kullanılır. Kızılötesi ve dijital termometreler; sıvılı, metal ve gazlı 
+termometrelere göre çok daha hassas ölçümler yapabilir. 
+Görsel 4.8: Dijital termometre

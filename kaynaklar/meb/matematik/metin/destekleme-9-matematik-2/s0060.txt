@@ -1,0 +1,27 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+59
+3. TEMA: GEOMETRİK ŞEKİLLER
+3. ETKINLIK ADI ÜÇGENIN DIŞ AÇILARININ ÖLÇÜLERI TOPLAMI  NEDEN 360 DERECEDIR?
+Etkinlik Öncesi
+ ► Bu etkinlik üçgenin dış açılarının ölçüleri toplamına yönelik bir doğrulama çalışması içermektedir.
+ ► Öğrencilerinize üçgenin temel özelliklerini kısaca hatırlatınız. 
+ ► Etkinlik süresince öğrencilerinizi gözlemleyiniz ve gerektiğinde rehberlik ediniz.
+ ► Öğrencilerinizi, etkinlikte araç ve gereçlerini kullanırken dikkatli olmaları konusunda uyarınız.
+ ► İşlem adımlarını takip ederek etkinliğin gerçekleştirilmesini isteyiniz. 
+ ► Etkinlik sonunda öğrencilerinizi kontrol listesi ile değerlendiriniz.
+Bu etkinlikte bir geometrik doğrulama çalışması yapılacaktır. Etkinlik öncesinde öğrencile-
+rinize gerekli malzemeleri getirmelerini söyleyiniz.
+ETKINLIĞIN AMACI Üçgenin dış açı ölçülerinin toplamına dair doğrulama yapabilme
+DESTEKLEME 
+UYGULAMASI
+Öğrencilerin öncelikle ispatı yapılan önermelerin farklı üçgen çizimleri üze-
+rinden doğrulamalarını yapmaları sağlanır. Daha sonra çeşitli materyaller 
+kullanılarak öğrencilerin ispatları anlamlandırmaları için çalışmalar yapılır. 
+Örneğin kâğıt katlama ya da kesme ile düzlemde üçgenin iç açılarının ölçü-
+leri toplamının 180° olduğu gösterilir.
+ARAÇ GEREÇ VE 
+MATERYALLER
+• A4 kâğıdı
+• Makas
+• 3 farklı renk boya kalemi
+• Pergel

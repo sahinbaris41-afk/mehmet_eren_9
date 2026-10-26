@@ -1,0 +1,51 @@
+35
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+BİY.10.1.7 
+a) Öğrencilere hücresel solunum reaksiyonlarının temel adımlarını (glikoliz, pirüvatın 
+oksidasyonu, Krebs döngüsü, elektron taşıma sistemi) gösteren bir slayt gösterisi 
+yapılabilir veya kısa bir animasyon/video izletilebilir. Bu süreçte Krebs döngüsü ara 
+reaksiyonlarının detayına değinilmez, sadece karbon sayılarındaki değişim ve ürünlerin 
+çıkışı verilir. Elektron taşıma sisteminde görev alan proteinlerin yapı ve isimleri, kimyasal 
+ozmoz verilmez; süreç sonunda ATP üretildiği vurgulanır. Öğrenciler, grup çalışması ile 
+diyagram, şema, maket veya etkileşimli görsel iletişim uygulamaları kullanarak hücresel 
+solunumun işleyişini gösteren bir model önerir  (E3.3).  
+b) Öğrencilerden grup çalışmasıyla oluşturdukları modeli hücresel solunumla ilgili mevcut 
+bilimsel modelle karşılaştırmaları istenir (E3.10). Öğrencilerin oluşturdukları modeli 
+değerlendirmeleri ve tüm grupların oluşturduğu modellerinden hangisinin genel kabul 
+görmüş bilimsel modele en yakın olduğu konusunda karar vermeleri sağlanır (KB3.1, E3.4). 
+Bu değerlendirme sürecinde öğrencilerden kendisinin ve arkadaşlarının bakış açıları ve 
+görüşlerini takip etmesi beklenir (SDB1.1). Karşılaştırmalar aracılığıyla hücresel solunum 
+reaksiyonlarının farklı bakış açılarıyla değerlendirilmesi ve anlaşılması sağlanır.
+BİY.10.1.8 
+a) “Besinlerin oksijenli solunumun hangi basamağında tepkimeye gireceği, içeriğindeki 
+organik bileşiğin karbon sayısına bağlı mıdır?”, “Farklı besin monomerleri hücresel solunum 
+tepkimelerine aynı basamaktan katılabilir mi?”, “Hücresel solunumda kullanılan her besin 
+Krebs döngüsüne girer mi?” gibi sorular kullanılarak öğrencilerin farklı besin gruplarından 
+enerji eldesi süreçleriyle ilgili bilgi ihtiyaçlarını fark etmeleri sağlanır (OB1, D3.3)
+Öğrencilerden bu soruların cevapları hakkında bilgi toplamaları beklenir. Topladıkları 
+bilgileri sınıfta tartışarak farklı besin gruplarının hangi hücresel solunum basamağında 
+hücresel solunuma dâhil olduğunu ve bu besin gruplarından enerji eldesi süreçlerine 
+ilişkin özellikleri belirlemeleri istenir. Bu süreçte yağ asitlerinin oksidasyonu (alfa, beta 
+ve omega-oksidasyonu) ve amino asitlerin transdeaminasyonu reaksiyonlarına, farklı 
+monosakkaritlerin (fruktoz, galaktoz, mannoz vb.) glikolize nasıl girdiğine değinilmez.
+b-c) Öğrenciler, elde ettikleri bilgilerin özetini kullanarak farklı besin gruplarından enerji 
+eldesi süreçlerine ilişkin benzerlik ve farklılıkları listeler (OB1). Öğrencilerden farklı besin 
+gruplarından enerji elde edilmesi süreçlerini karşılaştırabilmeleri için uygun web araçlarıyla 
+yaratıcılıklarını kullanacakları bir sunum oluşturmaları istenebilir (OB2). Öğrencilerin 
+farklı besin gruplarından enerji elde edilmesi süreçlerini benzerlik ve farklılıklarına göre 
+listelemelerini sağlamak amacıyla yapılandırılmış grid kullanılabilir. Yapılandırılmış grid, 
+puanlama anahtarı ile puanlanabilir.
+BİY.10.1.9 
+a) “Ekmeğin mayalanması, peynir ve yoğurt üretimi nasıl gerçekleşir?”, “Fermantasyon 
+sürecini etkileyen faktörler nelerdir?” gibi sorularla fermantasyon konusuna dikkat 
+çekilerek öğrencilerin bu konuyla ilgili bilgi ihtiyacını fark etmeleri sağlanır (E1.1).   
+Öğrenciler, gruplar oluşturarak fermantasyon hakkında bilimsel kaynaklardan bilgi 
+toplar ve topladıkları bilgileri özetleyerek enerji eldesi açısından yapılandırır. Bu bilgileri 
+fermantasyon ile ilgili deney tasarlamak üzere sentezler (OB1, E3.3) ve fermantasyonla 
+ilgili sınıf/laboratuvar ortamında yapabilecekleri bir deney tasarlar. Saygı değerinin gereği 
+olarak farklı düşünceler üzerinde uzlaşma sağlayıp hata kaynaklarını ortadan kaldıracak 
+tedbirleri alır (SDB2.2, D14.1). 
+b) Gruplardan deney sonuçlarının analizini yaparak fermantasyon ile yoğurdun, peynirin, 
+kefirin ve ekmeğin mayalanması, turşu yapımı vb. arasında ilişki kurmaları ve fermantasyonu 
+açıklamaları istenir. Fermantasyonun insan sağlığı açısından önemi vurgulanarak sağlıklı 
+yaşam değerine dikkat çekilir (D13.1).

@@ -1,0 +1,84 @@
+102
+1. Tema Ölçme ve Değerlendirme Soruları
+34-38. soruları aşağıdaki metne ve grafiklere göre cevaplayınız.
+Bilim insanları, fotoelektron spektroskopisi (PES) kullanarak maddelerin hangi elementlerden oluştuğu-
+nu belirlemeye çalışır. PES ölçümleri sonucu elde edilen veriler grafiklerle gösterilir. Atomdaki elekt-
+ronları koparmak için gereken enerji elektronların çekirdek etrafındaki konumuna bağlıdır. Pikteki tepe 
+noktasının sahip olduğu enerji, alt kabuktan bir elektron koparmak için gerekli enerjiyi ifade eder. Tepe 
+noktasının yüksekliği ise alt kabuktaki elektron sayısını gösterir. Aşağıda bazı atomların PES grafikleri 
+verilmiştir.
+1000
+6.26
+0.52
+Elektron koparmak için gereken enerji (MJ/mol)
+Lityum (3Li)
+Elektron sayısı
+100 10 1
+6
+5
+4
+3
+2
+1
+0
+0,1
+1000
+126 9.07 0.74
+5.31Y
+Elektron sayısı
+100 10 1
+6
+5
+4
+3
+2
+1
+0
+0,1
+1000
+104 6.84
+3.67
+0.5
+X
+Elektron sayısı
+100 10 1
+6
+5
+4
+3
+2
+1
+0
+0,1
+1.09
+0.58
+Z
+1 0,11000
+7.19
+151 12.1
+Elektron sayısı
+100 10
+6
+5
+4
+3
+2
+1
+0
+Lityumun PES grafiğinde hangi tepe noktası valans elektronlarına aittir? Gerekçeleriyle 
+açıklayınız.  
+34.
+Grafiklerdeki verileri kullanarak X, Y ve Z atomlarının elektron dağılımlarını grafiklerin altın-
+daki satırlara yazınız ve bu atomların hangi elemente ait olduğunu belirleyiniz.
+35.
+X, Y ve Z atomlarının çekirdeğe en yakın kabuktaki elektronların koparılma enerjilerinin farklı 
+olma sebebini atom yarıçapları arasındaki farklılığın sebebi ile ilişkilendirerek açıklayınız.
+38.
+X atomunun valans elektronlarını koparmak için gereken enerji ile lityum atomunun valans 
+elektronlarını koparmak için gereken enerji arasındaki farkın sebebini açıklayınız.
+36.
+ X, Y ve Z atomlarının en son kabuktaki elektronlarını koparmak için gereken enerji arasın-
+daki farkın sebebini açıklayınız.
+37.
+Elektron koparmak için gereken enerji (MJ/mol)
+Elektron koparmak için gereken enerji (MJ/mol)Elektron koparmak için gereken enerji (MJ/mol)

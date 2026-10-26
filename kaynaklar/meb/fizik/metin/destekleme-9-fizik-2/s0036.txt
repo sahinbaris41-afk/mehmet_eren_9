@@ -1,0 +1,110 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+35
+ÜNİTE 2: KUVVET VE HAREKET
+Vektörlerin 
+Toplanmasında 
+Kullanılan Yöntemler
+Yöntemin Kısa Anlatımı Pekiştirici Örnekler
+Uç Uca Ekleme 
+Yöntemi
+• Bir vektör seçiniz ve onun 
+bitiş noktasına diğer vektörün 
+başlangıç noktası denk gelecek 
+şekilde ekleyiniz.
+• İlk vektörün başlangıç noktası ile 
+son vektörün bitiş noktasını bir-
+leştiren başka bir vektör çiziniz.
+• Bu vektör iki vektörün toplamı 
+yerine geçen bileşke vektörün 
+büyüklüğünü verecektir.
+Aynı yön ve doğrultudaki vektörler için
+Farklı yön ve doğrultudaki vektörler için
+Paralelkenar 
+Yöntemi
+• Verilen iki vektörün başlangıç 
+noktalarını çakışacak şekilde 
+yerleştiriniz.
+• Başlangıç noktası çakışık olan 
+vektörleri paralelkenara ta-
+mamlayınız. Ardından başlangıç 
+noktasından paralelkenarın 
+köşesine vektör çiziniz.
+• Köşegen çizilen bu vektör iki 
+vektörün toplamını ifade eden 
+bileşke vektörün büyüklüğünü 
+verecektir.
+Vektörlerin 
+Bileşenlerine 
+Ayrılması Yöntemi
+• Vektörlerin başlangıç noktalarını 
+koordinat sisteminin orjinine 
+yerleştiriniz.
+• Vektörlerin bitiş noktalarından 
+X ve Y eksenleri boyunca iz 
+düşümlerini alınız. Bu değerleri 
+yandaki tabloya kaydediniz.
+• Tabloya kaydedilen vektörlerin X 
+ve Y değerlerini kendi aralarında 
+toplayınız ve bileşke R vektörü-
+nün koordinatlarını belirleyiniz.
+• Belirlediğiniz koordinat değerle-
+rine göre X ve Y ekseni boyunca 
+yeni bir vektör çiziniz.
+• Çizilen bu vektör iki vektörün 
+toplamı olan bileşke vektörün 
+büyüklüğünü verecektir.
+K
+→   
+R = K + L
+→   →  → 
+L
+→  
+K
+→  
+L
+→  
+K
+→  
+L
+→  
+K
+→   
+R = K + L
+→   →   → 
+X Y
+A 1 2
+B 3 1
+R 4 3
+→   
+→   
+→   
+→   
+A
+3
+2
+1
+0       1     2     3     4
+→   
+B
+Y
+X
+3
+2
+1
+X
+0       1     2     3     4
+Y
+R = A + B
+→   →   → 
+→   
+A →   
+B
+K
+→  
+L
+→  
+L
+→  
+KONU ANLATIM ŞABLONU
+R = K + L
+→   →  → 

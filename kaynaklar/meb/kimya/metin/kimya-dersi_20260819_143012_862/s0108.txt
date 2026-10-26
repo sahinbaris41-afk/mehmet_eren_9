@@ -1,0 +1,51 @@
+108
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları KİM.12.3.1 
+Öğrencilerden bitkilerin fotosentez yapma sürecini açıklamaları istenir. Fotosentez süre-
+cinin nasıl gerçekleştiği öğrenciler tarafından açıklandıktan sonra güneş hücresi tanıtılır 
+ve öğrencilerin bu hücrenin fotosentez ile benzerliklerini fark etmeleri sağlanır. Temiz ve 
+sürdürülebilir enerji kaynakları arasında yer alan güneş enerjisinden yararlanmak amacıyla 
+kullanılabilecek güneş pilleri, güneş sobaları ve güneş ocakları gibi örnekler verilir. Duyar-
+lılık ve temizlik değerleri vurgulanır (D5.2, D18.3). Öğrencilerden etkinlik kâğıdında verilen 
+farklı türdeki güneş pillerinin görsellerini, kimyasal içeriklerini ve verimliliklerini inceleyerek 
+güneş pillerinin farklılıklarına yönelik belirledikleri nitelikleri yazmaları istenir  (E2.2, OB8) . 
+Geleneksel güneş pilleri ile boyaya duyarlı güneş pillerinin niteliklerini belirlemeleri amacıyla 
+öğrencilere güneş pillerinde kullanılan kimyasal maddelerin özellikleri, yaygınlıkları ve mali-
+yetleri ile ilgili sorular sorulur. Ayrıca boyaya duyarlı güneş pillerinin geleneksel güneş pille-
+rine kıyasla performans, güvenlik, düşük ışık koşullarında çalışabilirlik ve maliyet avantajları 
+gibi özelliklerine ilişkin hazır bir veri seti sunulur ve öğrencilere bu verileri inceleme fırsatı 
+verilerek enerji tasarrufuna vurgu yapılır (D17.2, OB3). Bu süreçte öğrencilerin boyaya du-
+yarlı güneş pillerinin sürdürülebilirliği hakkında akıl yürütebilmeleri için sorular sorulabilir. 
+Bu sayede öğrencilerin geleneksel güneş pilleri ile boyaya duyarlı güneş pillerinin özellik -
+leri konusunda fikirlerini arkadaşlarıyla paylaşmaları sağlanabilir (E2.1, SDB2.1, SDB2.2, 
+D4.2, OB1). Öğrencilerin sınıf içi tartışma ortamında edindikleri bilgileri etkinlik kâğıdında 
+sunulan verilerle birleştirerek farklı boyalarla tasarlanan güneş pillerinin verimliliği hakkın-
+da çıkarımlar yapmaları sağlanır ve öğrencilerden bu çıkarımları etkinlik kâğıdına yazmala-
+rı istenir. Ayrıca yeşil kimyanın ilkeleri ve sürdürülebilir kalkınmanın hedefleri öğrencilere 
+hatırlatılarak sürdürülebilirliğe katkısı olan ürünleri tercih etmenin önemine duyarlılık gös-
+terilmesinin gerekliliği tasarruf ve temizlik değerleri kapsamında vurgulanır (D5.2, D17.2, 
+D18.3). Öğrencilerden boyaya duyarlı güneş pillerinin verimliliklerine ilişkin verileri yeşil 
+kimya ve sürdürülebilir kalkınmanın hedeflerini dikkate alarak değerlendirmeleri ve değer-
+lendirmelerini etkinlik kâğıdına yazmaları istenir (KB2.14). Etkinlik kâğıtları “nitelik belirle -
+yebilme, verimliliğe ilişkin çıkarım ve değerlendirme yapabilme” ölçütlerini içeren dereceli 
+puanlama anahtarı ile öğretmen veya öğrenci tarafından değerlendirilebilir (SDB1.2, OB8). 
+Böğürtlen boyası kullanılarak boyaya duyarlı bir güneş hücresi oluşturulabilir ve öğrenci -
+lere bu hücrenin verimliliğini nasıl test edecekleri gösterilebilir. Öğrencilerden çeşitli bo -
+yalar, meyve suları ve atık materyallerden elde edilmiş boyalar arasından birini seçmeleri, 
+grup hâlinde bu boyayı fotosensör uygulamasına duyarlı güneş hücresi oluşturmak için 
+kullanmaları ve oluşturdukları bu güneş hücresinin güneş enerjisini elektrik enerjisine 
+dönüştürme verimliliğini değerlendirmeleri istenebilir (E3.2, SDB2.2, OB3). Farklı gruplar 
+farklı boyaya duyarlı güneş hücreleri tasarlayacakları için pil verimliliğine ilişkin verilerde 
+çeşitlilik sağlanmış olur. Öğrencilerin grup çalışmalarına katkılarını belirlemek amacıyla 
+akran değerlendirme formu kullanılabilir. Ayrıca öğrenciler, nanoparçacıkların boyaya du-
+yarlı güneş hücrelerinin verimliliğine etkisini belirlemek üzere test ettikleri boyalara me -
+tal nanoparçacıkların eklendiği deneyler yapabilir. Bu deneyler sonucunda öğrenciler,  
+Ön Değerlendirme Süreci Öğrencilerin geleneksel pillerin kullanımının sürdürülebilirlik ve insan sağlığı açısından 
+önemi hakkında ön bilgilerini ortaya çıkaracak bir tartışma ortamı oluşturulabilir. Öğrenci-
+lerden günümüzde güneş enerjisinin hangi amaçlarla ve hangi alanlarda kullanıldığına dair 
+örnekler vermeleri istenebilir.
+Köprü Kurma Atık pillerin içerdiği zararlı kimyasal maddeler nedeniyle çevreye verdiği zararlar konusun-
+da tartışma ortamı oluşturulabilir. Güneş enerjisini elektrik enerjisine dönüştüren boyaya 
+duyarlı güneş pillerinin birçok farklı uygulama alanında kullanılmasının sürdürülebilir enerji 
+çözümlerine katkısına dikkat çekilebilir.

@@ -1,0 +1,124 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+30 31
+FİZİK 9 
+ÜNITE 2: KUVVET VE HAREKET
+DERECELİ PUANLAMA ANAHTARI
+Öğrencinin Adı-Soyadı Sınıfı No.
+Ölçütler 4(Çok iyi) 3(Yeterli) 2(Kabul edilebilir) 1(Geliştirilmeli) PUAN
+Vektörlerin 
+çarpım sonuçlarını 
+tabloda 
+gösterebilme
+Bütün bileşenler 
+tabloda doğru bir 
+şekilde gösteril-
+miştir.
+Bileşenler yazı-
+lırken en fazla bir 
+hata yapılmıştır.
+Birden fazla 
+bileşende hata 
+yapılmıştır.
+Bileşenlerin 
+hiçbiri tabloda 
+doğru gösteril-
+memiştir.
+Vektörleri grafik 
+kâğıdına çizerek 
+bileşke vektörü 
+hesaplama
+Vektörleri doğru 
+bir şekilde çizmiş 
+ve bileşke vek-
+törünü hesapla-
+mıştır.
+Vektörler doğru 
+bir şeklide çizil-
+miş fakat bileşke 
+vektörü doğru he-
+saplanamamıştır.
+Vektörlerden biri 
+yanlış çizilmiş 
+ve hesaplama 
+yapılamamıştır.
+Vektörler grafik 
+kâğıdına çizile-
+memiş ve hesap-
+lama yapılama-
+mıştır.
+Vektörel 
+toplamlarla 
+ilgili günlük 
+hayattan örnekler 
+vererek bunların 
+amaçlarını 
+açıklama
+Günlük hayattan 
+birden fazla örnek 
+vererek fizik der-
+siyle bu örnekleri 
+doğru bir şekilde 
+ilişkilendirmiştir.
+Günlük hayattan 
+birden fazla örnek 
+vermiş ancak 
+bunların derste 
+öğrenilenlerle 
+ilişkisini doğrudan 
+kuramamıştır.
+Günlük hayat-
+tan birden fazla 
+örnek vereme-
+miştir.
+Konuyla ilgili 
+olarak bir günlük 
+hayat örneği 
+verilememiştir.
+Etkinlikteki olası 
+durumları bularak 
+grafik kâğıdında 
+gösterebilme 
+(2. yönerge b.)
+Olası üç durum 
+oluşturulmuş 
+ve bu durumlar 
+grafik kâğıdına 
+doğru bir şekilde 
+çizilmiştir.
+Olası durumlar 
+belirtilmiş fakat 
+grafik kâğıdına 
+eksik çizilmiştir.
+Üçten az olası 
+durum belirtile-
+bilmiştir.
+Herhangi bir olası 
+durum belirtile-
+memiştir.
+Etkinlikteki olası 
+durumları bularak 
+grafik kağıdında 
+gösterebilme 
+(2. yönerge c.)
+Olası üç durum 
+oluşturulmuş 
+ve bu durumlar 
+grafik kâğıdına 
+doğru bir şekilde 
+çizilebilmiştir.
+Olası durumlar 
+belirtilmiş fakat 
+grafik kâğıdına 
+eksik çizilmiştir.
+Üçten az olası 
+durum belirtile-
+bilmiştir.
+Herhangi bir olası 
+durum belirtile-
+memiştir.
+       TOPLAM PUAN
+Ölçekten alınan puanı 100 üzerinden hesaplamak için [(Toplam Puan)/20]*100 formülünü uygulayınız.
+3. Adım: Değerlendirme
+Öğrencilerin çalışmalarını değerlendirmek için aşağıda verilen "Dereceli Puanlama Anahtarı" nı 
+kullanınız.
+Dereceli Puanlama Anahtarı

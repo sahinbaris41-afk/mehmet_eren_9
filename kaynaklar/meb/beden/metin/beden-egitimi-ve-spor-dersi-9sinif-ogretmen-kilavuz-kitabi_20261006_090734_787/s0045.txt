@@ -1,0 +1,37 @@
+BEDEN EĞİTİMİ VE SPOR
+45
+4544
+DERECELİ PUANLAMA ANAHTARI - BADMİNTON DROP VURUŞU
+ÖLÇÜT İYİ (3) ORTA (2) GELİŞTİRİLEBİLİR (1)
+1 Duruş ve Raket Tutuşu Duruşu ve raket tutuşu doğru. Küçük hatalar dışın-da duruşu ve raket tutuşu doğru. Duruşu ve raket tutuşu yanlış.
+2 Vuruş Tekniği Vuruş tekniği kont-rollüdür. Vuruş tekniği çoğun-lukla kontrollüdür. Vuruş tekniği yetersizdir.
+3 Topun Yere Düşme Noktası Top fileye çok yakın düşüyor. Top genelde file yakınına düşüyor. Top arka alana  düşüyor.
+4 Vuruş Zamanlaması Vuruş zamanlama-sı doğru. Vuruş zamanlaması bazen hatalı. Vuruş zamanla-ması düzensiz.
+5 Oyunda Kullanım Becerisi Drop vuruşunu uyguluyor. Drop vuruşunu çoğu zaman doğru uygu-luyor. Drop vuruşunu uygulayamıyor.
+ 
+Adı ve 
+Soyadı
+Duruş 
+ve Raket 
+Tutuşu
+Vuruş 
+Tekniği
+Topun 
+Yere 
+Düşme 
+Noktası
+Vuruş 
+Zamanlaması
+Oyunda 
+Kullanım 
+Becerisi
+Toplam
+Değerlendirme Sistemi
+Bu ölçekteki 5 ölçüt 3 başarı düzeyi ile değerlendirilmektedir. Öğrenci bu ölçek-
+ten en fazla 5x3= 15 puan, en az 5x1= 5 puan alabilir. Ölçekten alınan toplam puan, 
+öğrencinin alabileceği en yüksek puana bölünerek 100 ile çarpılır. Örneğin öğrenci bu 
+ölçekten toplam 12 puan aldığında öğrencinin yüzlük notu (12/15)x100= 80 şeklinde 
+hesaplanır.
+Not
+Ölçütlerde hareketin zorluğu, öğrencilerin hazır bulunuşluk düzeyleri vb. durumlara 
+göre değişiklik yapılabilir.

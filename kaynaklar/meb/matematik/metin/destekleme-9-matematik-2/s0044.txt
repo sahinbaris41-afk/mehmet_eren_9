@@ -1,0 +1,29 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+43
+2. TEMA: NİCELİKLER VE DEĞİŞİMLER
+3. ETKINLIK ADI FONKSIYONLARIN NITEL ÖZELLIKLERI
+Etkinlik Öncesi
+ ► Bu etkinlik, fonksiyonların nitel özelliklerinin belirleneceği ve pano hazırlanacağı bir grup çalışması 
+olarak tasarlanmıştır. 
+ ► Öğrencilerinize doğrusal fonksiyonların ve mutlak değer fonksiyonlarının cebirsel temsilllerinin, 
+referans fonksiyonlardan elde edilişleri ile nitel özellikleri hakkında hatırlatıcı bilgiler veriniz. Tab -
+lo-1 ve Tablo-2’de verilen cebirsel gösterimlerin ilişkisini açıklayınız.
+ ► Öğrencilerinizi dört gruba ayırınız. Gruplara aşağıdaki çalışma kâğıdında verilen tabloları dağıtınız 
+ve öğrencilerinizin tabloları incelemelerini isteyiniz.
+ ► İşlem adımlarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız. 
+ ► Çözüm sürecinde zorlanan öğrencileri pekiştireçler vererek destekleyiniz. 
+ ► Etkinlik sonunda öğrencilerinizi kontrol listesi ile değerlendiriniz ve öğrencilerinizi değerlendirme 
+ölçütlerinden haberdar ediniz.
+ETKINLIĞIN AMACI Doğrusal fonksiyonların ve mutlak değer fonksiyonlarının nitel özellikleri hak-
+kında muhakeme yapabilme
+DESTEKLEME 
+UYGULAMASI
+f(x) = ax � b (a, b ∈ ℝ, a≠0) şeklinde tanımlı doğrusal fonksiyonların ve 
+f(x) = � |ax � b| � c (a, b, c ∈ ℝ, a≠0) şeklinde tanımlı mutlak değer fonksi-
+yonlarının nitel özellikleri ile ilgili performans görevleri ve çalışma kâğıtları 
+için daha fazla zaman verilir. Geri bildirimlerde ve değerlendirmelerde 
+çoklu ortam (sözlü, yazılı, görsel gibi) kullanılır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+• Çalışma kâğıdı
+• Sınıf panosu

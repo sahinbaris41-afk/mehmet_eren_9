@@ -1,0 +1,27 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+28 29
+FİZİK 9 
+ÜNITE 2: KUVVET VE HAREKET
+Gemileri Çeken Römorkörler
+Yönerge: Aşağıda verilen bilgilere göre uygulamayı gerçekleştiriniz.
+Aşağıda Görsel 2.3'te bir yük gemisini iten üç adet römorkör, Görsel 2.4'te ise kömür yüklü mavnayı çe -
+ken bir römorkör gösterilmiştir (Görsel 2.3'te her bir römorkörün gemiyi eşit büyüklükte kuvvetle ve aynı 
+yöne ittiğini kabul ediniz).
+ ▶ Öğrencileri rehberliğinizde gruplara ayırınız.
+ ▶ Görsel 2.3'te römorkörlerin uyguladığı kuvvetlerin yönlerinin farklı olması durumunda geminin nasıl 
+hareket edebileceğini öğrencilerin tahmin etmelerini isteyiniz. Öğrencilerden römorkörlerin itiş 
+yönlerine bağlı olarak gemi hareketlerinde oluşabilecek üç durumu belirlemelerini ve bu sonuçları 
+grafik kâğıdına çizerek göstermelerini sağlayınız.
+ ▶ Görsel 2.4'te birden fazla römorkör kullanılması veya römorkörün uyguladığı kuvvetin değişmesi du-
+rumunda mavnanın hareketinin nasıl etkileneceği ile ilgili bir tartışma başlatınız. Öğrencilerden aynı 
+ve farklı doğrultuda çeken römorkörlerin oluşturabileceği üç farklı net kuvvet olasılığını grafik kâğı -
+dına çizmelerini isteyiniz.
+ ▶ Her grubun kendi bulduğu olasılıklarla ilgili bileşke vektörlerini hesaplamasını sağlayınız. Hesaplama-
+larda yapılan işlem adımlarının grafik kâğıdında gösterilmesi gerektiğini hatırlatınız.
+ ▶ Grupların, işlem adımları ve sonuçlarını grafiklerle birlikte sınıfa açıklamalarını sağlayınız.
+ ▶ Etkinlik kapsamında kullanılan ilkelerin fizik, mühendislik ve bilgisayar grafikleri gibi alanlarda nasıl 
+uygulanabileceği hakkında sınıfta bir tartışma başlatınız.
+ ▶ Öğrencileri vektör işlemlerinin katkı sağladığı diğer alanları (haritada yön bulma, fizikteki kuvvetler, 
+hız bileşenleri vb.) araştırmaya teşvik ediniz.
+Görsel 2.3: Üç römorkör tarafından itilen yük gemisi
+Görsel 2.4: Römorkör tarafından çekilen kömür yüklü bir mavna

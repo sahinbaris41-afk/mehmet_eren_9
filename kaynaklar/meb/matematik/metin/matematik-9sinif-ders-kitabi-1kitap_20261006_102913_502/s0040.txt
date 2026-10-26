@@ -1,0 +1,29 @@
+40
+1. Tema /  Sayılar
+2. 3 sayısının tabloda verilen sayı kümelerinden hangisi ya da hangilerinde bulunduğunu belirleyiniz. Cevabınızı 
+matematiksel sembol kullanarak yazınız.
+3. T ve A kümelerinde kaç tane eleman olduğunu bulunuz. T ve A kümelerinin eleman sayılarını matematiksel sembol 
+kullanarak yazınız.
+4. Doğal sayılar kümesindeki tüm elemanların aynı zamanda tablodaki başka hangi sayı kümesinin ya da kümelerinin 
+elemanı olduğunu belirleyiniz. Cevabınızı matematiksel sembol kullanarak yazınız.
+5. Her iki kümede de bulunan elemanları bir kez yazmak koşuluyla T ve A kümelerinin tüm elemanlarından oluşan 
+kümeyi listeleme yöntemiyle yazınız. Elde ettiğiniz kümeyi sembol kullanarak yazınız.
+6. Hem A hem de T kümesinde bulunan elemanların oluşturduğu kümeyi ortak özellik veya listeleme yöntemiyle 
+yazarak sonuçlarınızı sınıf arkadaşlarınızın sonuçları ile karşılaştırınız. Elde ettiğiniz kümeyi sembol kullanarak 
+yazınız. Sınıfça fikirlerinizi paylaşınız.
+7. Tam sayılar kümesinde olup doğal sayılar kümesinde olmayan sayıları belirleyerek bu sayıların oluşturduğu 
+kümeyi ortak özellik veya listeleme yöntemiyle yazınız. Sonuçlarınızı sınıf arkadaşlarınızın sonuçları ile kar -
+şılaştırınız. Elde ettiğiniz sayı kümesini sembol kullanarak yazınız.
+8. Doğal sayıları (N ), tam sayıları (Z ), rasyonel sayıları (Q ) ve irrasyonel sayıları (Ql) kapsayan bir küme var 
+mıdır? Fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+9.	Sıra	Sizde      
+Aşağıdaki	soruları	cevaplayınız.
+1.	 Tabloda	verilen 	sayı 	kümelerini 	listeleme 	veya 	ortak 	özellik 	yöntemi 	ile 	ifade 	ederek 	tabloyu	
+doldurunuz.
+Kümenin	
+Adı Kümenin	Sözel	İfadesi Listeleme	Yöntemi 	 Ortak	Özellik	Yöntemi
+T tek tam sayılar kümesi
+D  25  ile 10 2   arasında olan doğal sayılar kümesi
+Ç 31 0 2$- -   ile 42 arasındaki çift tam sayılar kümesi
+G 21  ile 9 arasındaki gerçek sayılar kümesi
+B -5’ten büyük rasyonel sayılar kümesi

@@ -1,0 +1,80 @@
+82
+2. ÜNİTE 
+Çözüm
+a) veK L  vektörlerinin başlangıç noktaları yön ve büyüklükler değiştirilmeden dik kartezyen koordinat 
+sisteminin orijini olan O noktasına taşınır. veK L  vektörlerinin uçlarından x ve y eksenlerine 
+paraleller çizilir. Koordinat sisteminin başlangıç noktasından çizilen paralel çizgilerin eksenleri 
+kestiği noktaya kadar ayrı ayrı vektörler çizilir. Böylece bu vektörlerin x ve y eksenlerindeki 
+bileşenleri elde edilir.
+K
+O
+L
+-x
+-y
++y
++x
+K
+O
+L
+-x
+-y
++y
++x
+K
+O
+Ky
+Kx
+L
+-x
+-y
++y
++x
+Ly
+Lx
+O
+Ky
+Kx
+-x
+-y
+Ly
+Lx
++y
++x
+b) Lx ve Ly bileşenlerinin yönleri ters alınarak L  vektörüne zıt vektör olan L-  vektörü elde edilir. 
+x eksenindeki veK L x x -  bileşenleri kendi arasında, y eksenindeki veK L y y -  bileşenleri kendi 
+arasında toplanarak 
+K L 3x x - = 
+K L 4y y - =  sonucu bulunur.
+x ve y eksenlerinden elde edilen vektörler bileşke vektörün bileşenle-
+rini oluşturur. Buna göre K L -  bileşke vektörü şekildeki gibi elde edilir.
+13. Alıştırma
+Yandaki şekilde evinden okuluna en kısa yoldan giden bir öğrencinin 
+izlediği güzergâh x-y kartezyen koordinat sisteminin kullanıldığı ve 
+kenar uzunlukları 1 birim olan eşit bölmelendirilmiş düzlem üzerinde 
+verilmiştir.
+Öğrenci, evinden okuluna yalnızca x ve y eksenlerini kullanarak 
+kaç birim ve hangi yönde hareket ederek ulaşabilir? Vektörleri 
+bileşenlerine ayırma yöntemi ile ilişkilendirerek açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+14. Alıştırma
+Yandaki şekilde eşit bölmelendirilmiş düzlem üzerine , v eK L M  vektörleri 
+yerleştirilmiştir.
+Buna göre K L M21+ -  vektörünü bileşenlerine ayırma yönteminden 
+yararlanarak bulunuz.
+O-x
+-y
+K - L
++y
++x
+O
+Okul
+Ev-x
+-y
++y
++x
+1 birim}
+1 birim
+}
+K
+L
+M

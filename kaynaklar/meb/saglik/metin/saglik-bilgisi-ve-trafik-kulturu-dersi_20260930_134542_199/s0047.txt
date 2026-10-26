@@ -1,0 +1,52 @@
+Sağlık Bilgisi ve Trafik Kültürü
+47
+Uygulama
+Aşağıdaki metinde sağlık alanında yaşam kalitesini artırmaya yönelik çeşitli teknolojik gelişmelere 
+örnekler verilmiştir. Bu örneklerden yararlanarak soruların cevaplarına ilişkin görüşlerinizi öğretme -
+ninizin rehberliğinde arkadaşlarınızla tartışarak eleştirel bakış açısıyla değerlendiriniz.
+Bilim ve teknolojideki hızlı ilerlemeler, bireylerin yaşam kalitesini artırırken toplumsal refaha da önem -
+li katkılar sağlamaktadır. Sağlık hizmetlerinin dijitalleşmesi, teşhis ve tedavi yöntemlerindeki yenilikler, 
+çevresel tehditlerin azaltılması ve engelli bireylerin yaşam koşullarının iyileştirilmesi bu gelişmelerin baş-
+lıca örneklerindendir. 
+Manyetik rezonans (MR) ve bilgisayarlı tomografi (BT) cihazları, 
+vücut içindeki yapıları ayrıntılı biçimde göstererek doğru tanıya 
+yardımcı olmakta; yapay zekâ destekli sistemler bu görüntüleri 
+analiz ederek hastalık belirtilerini daha hızlı ve hassas şekilde 
+saptamaktadır. Robotik cerrahi teknolojileri de cerrahlara daha 
+küçük kesilerle daha kısa sürede ve düşük riskle operasyon yap-
+ma imkânı sunmaktadır. Benzer şekilde akıllı saat gibi giyilebilir 
+cihazlar; kalp ritmi, uyku düzeni, adım sayısı gibi verileri düzenli 
+takip ederek bireylerin daha sağlıklı yaşam alışkanlıkları geliştir-
+mesine katkıda bulunmaktadır. Tip 1 diyabet tedavisinde kulla -
+nılan yapay zekâ destekli insülin pompaları da glikoz düzeylerini 
+anlık izleyip, insülin dozunu otomatik ayarlayarak hastaların ya -
+şamını kolaylaştırmaktadır. 
+Sağlık alanında dikkat çeken yeniliklerden biri de 3D biyoyazı -
+cı teknolojisidir. Bu yöntemle canlı hücreler kullanılarak yapay 
+deri, kıkırdak ve damar benzeri dokuların laboratuvar ortamın -
+da üretilebilmesi için çalışmalar yapılmaktadır. Uzmanlar, bu 
+teknolojinin gelecekte organ nakli ihtiyacını azaltabileceğini ve 
+kişiye özel tedavi yöntemlerinin gelişimine katkıda bulunabile -
+ceğini öngörmektedir. Ayrıca ilaç testlerinin canlı organizmalar 
+yerine yapay dokular üzerinde gerçekleştirilebilme potansiyeli 
+de önemli bir avantaj olarak değerlendirilmektedir. 
+Engelli bireylerin yaşam kalitesini artırmaya yönelik teknolojiler 
+yaygınlaşmaktadır. Kas sinyallerini algılayarak hareketi sağlayan 
+akıllı protezler, sesli komutlarla yönlendirilen tekerlekli sandal -
+yeler, titreşimli bileklikler, sensörlü bastonlar ve biyonik kulak -
+lar bu gelişmelerin somut örneklerindendir. Görme engelliler 
+için tasarlanan yapay zekâ destekli robot köpekler de bağımsız 
+hareket etmeyi kolaylaştırmaktadır. Bu sayede engelli bireyler; 
+eğitim, iletişim, sosyal yaşam gibi birçok alana daha eşit koşul -
+larda katılabilmektedir. Tüm bu yenilikler, birey ve toplum sağlı-
+ğının korunmasında bilimin ve teknolojinin vazgeçilmez bir güç 
+olduğunu açıkça ortaya koymaktadır. 
+1. Sağlık alanında geliştirilen görüntüleme teknolojileri, robotik cerrahi ve yapay zekâ destekli sistem-
+lerin tıp alanındaki uygulamalarda ne tür değişimlere yol açabileceğini değerlendiriniz.
+2. Giyilebilir sağlık teknolojilerinin bireylerin sağlıklarını takip etme alışkanlıkları ve yaşam biçimleri 
+üzerinde oluşturabileceği etkileri tartışınız.
+3. Akıllı protezler, sensörlü bastonlar ve yapay zekâ destekli yardımcı cihazların engelli bireylerin ba-
+ğımsız yaşam becerileri ve toplumsal yaşama katılımları üzerindeki önemini değerlendiriniz.
+Bilgisayarlı tomografi
+3D yazıcı ile omur kemiği basımı
+Robot köpek

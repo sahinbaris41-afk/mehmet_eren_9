@@ -1,0 +1,337 @@
+{
+ "ders": "muzik",
+ "ders_adi": "Müzik",
+ "sinif": 9,
+ "haftalik_saat": 2,
+ "kaynaklar": {
+  "yillik_plan": "kaynaklar/yillik_plan/meb_taslak/muzik/2026-2027 Haz─▒rl─▒k,9,10. SINIF MU╠êZI╠çK DERSI╠ç TASLAK YILLIK PLAN..xlsx [9. SINIF]",
+  "ksdt_1donem": null,
+  "ders_kitabi_metin": [],
+  "haftalik_saat": "TTKB 09/05/2025 Anadolu Lisesi Haftalık Ders Çizelgesi"
+ },
+ "aciklama": {
+  "yazili": "1D1Y/1D2Y/2D1Y/2D2Y. 'KSDT' kaynaklılar resmî tablodan, diğerleri plan haftasından tahmin. Yönetmelik 45/1-d gereği her yazılı önceki konuları da azalan oranda kapsar.",
+  "kitap": "basili_* kitabın üzerinde yazan sayfa; pdf_baslangic metin klasöründeki sNNNN.txt numarası. Eşleşme içindekiler sayfasına kelime benzerliğiyle yapıldı."
+ },
+ "uretim": {
+  "arac": "tools/harita_uret.py",
+  "tarih": "2026-10-26"
+ },
+ "dogrula": [
+  "Öğrenci ders kitabı yok (tymm'de yalnızca öğretmen kılavuz kitabı); uygulamalı ders, yazılı kapsamı yok."
+ ],
+ "uniteler": [
+  {
+   "id": "muzik-u1",
+   "ad": "MÜZİK DİLİ",
+   "konular": [
+    {
+     "id": "muzik-u1-k1",
+     "ad": "İSTİKLAL MARŞI",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.1.1",
+       "metin": "İstiklal Marşı'nı müziksel söyleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      1
+     ],
+     "hafta_metin": "1. Hafta: 14-18 Eylül → 1. Hafta: 14-18 Eylül",
+     "ders_saati": 2,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "muzik-u1-k2",
+     "ad": "TEMEL MÜZİK YAZI VE İŞARETLERİ",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.1.2",
+       "metin": "Temel müzik yazı ve işaretlerini sınıflandırabilme"
+      },
+      {
+       "kod": "MÜZ.9.1.3",
+       "metin": "Müzikte iki vuruşlu ölçü türlerini karşılaştırabilme"
+      },
+      {
+       "kod": "MÜZ.9.1.4",
+       "metin": "Müzikte tonal yapıyı çözümleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     "hafta_metin": "2. Hafta: 21-25 Eylül → 12. Hafta: 7-11 Aralık",
+     "ders_saati": 22,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "muzik-u2",
+   "ad": "MÜZİK KÜLTÜRÜ",
+   "konular": [
+    {
+     "id": "muzik-u2-k1",
+     "ad": "MÜZİĞİN TARİHSEL GELİŞİMİ",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.2.1",
+       "metin": "Müziğin tarihsel gelişimini çözümleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      13,
+      14,
+      15
+     ],
+     "hafta_metin": "13. Hafta: 14-18 Aralık → 15. Hafta: 28 Aralık -1Ocak",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "muzik-u2-k2",
+     "ad": "TÜRK MÜZİĞİNE AİT ESERLER",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.2.2",
+       "metin": "Türk müziğine ait eserleri müziksel dinleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      16,
+      17,
+      19
+     ],
+     "hafta_metin": "16. Hafta: 4-8 Ocak → 19. Hafta: 8-12 Şubat",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "muzik-u2-k3",
+     "ad": "BATI MÜZİĞİNE AİT ESERLER",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.2.3",
+       "metin": "Batı müziğine ait eserleri müziksel dinleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      20,
+      21,
+      22
+     ],
+     "hafta_metin": "20. Hafta: 15-19 Şubat → 22. Hafta: 1-5 Mart",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "muzik-u2-k4",
+     "ad": "ATATÜRK'ÜN GÜZEL SANATLAR İÇİNDE MÜZİĞE VERDİĞİ YER VE ÖNEM",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.2.4",
+       "metin": "Atatürk'ün güzel sanatlar içinde müziğe verdiği yeri ve önemi özetleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      23,
+      24,
+      25
+     ],
+     "hafta_metin": "23. Hafta: 15-19 Mart → 25. Hafta: 29 Mart-2 Nisan",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "muzik-u2-k5",
+     "ad": "MARŞLAR, ŞARKILAR VE TÜRKÜLER",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.2.5",
+       "metin": "Marşları, şarkıları ve türküleri müziksel söyleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      26,
+      27,
+      28
+     ],
+     "hafta_metin": "26. Hafta: 5-9 Nisan → 28. Hafta: 19-23 Nisan",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "muzik-u2-k6",
+     "ad": "YAŞANILAN ŞEHRİN MÜZİK ETKİNLİKLERİ",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.2.6",
+       "metin": "Yaşanılan şehrin müzik etkinliklerini gözlemleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      29,
+      30
+     ],
+     "hafta_metin": "29. Hafta: 26-30 Nisan → 30. Hafta: 3-7 Mayıs",
+     "ders_saati": 4,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "muzik-u3",
+   "ad": "MÜZİKSEL TASARIM",
+   "konular": [
+    {
+     "id": "muzik-u3-k1",
+     "ad": "İKİ VURUŞLU ÖLÇÜ TÜRLERİNDE RİTİM EŞLİĞİ",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.3.1",
+       "metin": "İki vuruşlu ölçü türlerinde ritim eşliği yaratabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      31,
+      32
+     ],
+     "hafta_metin": "31. Hafta: 10-14 Mayıs → 32. Hafta: 17-21 Mayıs",
+     "ders_saati": 4,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "muzik-u3-k2",
+     "ad": "TÜRKÜLERE KONU OLAN YAŞANMIŞ HİKÂYELER",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "MÜZ.9.3.2",
+       "metin": "Türkülere konu olan yaşanmış hikâyeleri yorumlayabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      33,
+      34,
+      35,
+      36,
+      37
+     ],
+     "hafta_metin": "33. Hafta: 24-28 Mayıs → 37. Hafta: 21-25 Haziran",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  }
+ ]
+}

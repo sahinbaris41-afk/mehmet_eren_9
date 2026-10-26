@@ -1,0 +1,54 @@
+91
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öğrenciden öz 
+değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya ulaşma durumunu, bu 
+süreci kolaylaştıran davranışlarını ve neleri daha farklı yapabileceğini belirlemesi istene -
+bilir (SDB1.2, SDB1.3) . Bu bağlamda Türkiye’nin savunma sanayisine ve diğer sektörlere 
+hizmet etmek üzere üretilen lityum iyon pil üretimi hakkında okuma parçası verilerek öğ -
+rencilerin Türkiye’nin kalkınmasını ve gelişmesini desteklemesine, Türkiye’nin her alanda 
+güçlü olmasına yönelik projeler üretmenin ve ülkenin bağımsızlığını korumanın önemine 
+vurgu yapılabilir (D11.1, D19.4, OB6).
+KİM.12.1.6 
+İstemli indirgenme-yükseltgenme tepkime örnekleri verilir ve bu tepkimelerin gerçekleş-
+tiği galvanik hücrelerin özelliklerine ilişkin ön bilgilerini hatırlatıcı sorular sorularak öğren-
+cilerden bilgilerini arkadaşlarıyla paylaşmaları istenir (E2.2, SDB2.1). Öğrenciler galvanik 
+hücrelerde gerçekleşen tepkime örneklerine ilişkin anot ve katot yarı hücrelerinde mey -
+dana gelen yarı tepkime denklemlerini, standart indirgenme yarı hücre potansiyellerini, 
+net tepkime denklemlerini ve bu net tepkime denklemlerine ait standart hücre potansiyel-
+lerini yazar. Pozitif hücre potansiyeline sahip bu istemli tepkimelerin istemsiz olarak ters 
+yönde gerçekleşebilmesi için gerekli şartların ne olduğuna dair önermeler oluşturmaları 
+öğrencilerden istenir (OB7). Öğrenciler, pozitif hücre potansiyeline sahip bu tepkimelerin 
+ters yönde gerçekleşebilmesi için gerekli şartların ne olduğuna dair geliştirdikleri gözleme 
+dayalı olan ve olmayan önermeleri sınıf içi tartışmalarla karşılaştırır. Sınıf içi tartışmaların 
+dostluk, mütevazılık ve saygı değerleri çerçevesinde gerçekleşmesi için tartışma kuralları 
+belirlenebilir (E2.1, SDB2.1, SDB2.3, D4.2, D10.3, D14.1) . Öğrencilerden ergimiş bir tuzun 
+ve suyun elektroliz edildiği elektrolitik hücreleri gözlemleyebileceği görselleri veya dijital 
+materyalleri incelemeleri istenir (OB4). Öğrenciler, gözlemlediği materyallerden ulaştığı 
+makro, alt mikro ve sembolik seviyede gözlem verilerinden hareketle bir elektrolitik hüc -
+renin temel bileşenlerini (anot, katot, elektrolit ve güç kaynağı) ve işlevlerini tanımlar; anot 
+ve katodu indirgenme-yükseltgenme tepkimeleri ile ilişkilendirir. Elektrolitik hücrelere 
+ilişkin incelediği materyallerde elektronların, akımın ve iyonların göç yönü gibi gözlem ya -
+pamadığı durumlar varsa bunlar hakkında tahminlerde bulunur. Öğrencilerin elektrolitik 
+hücrelere ilişkin yapmış olduğu gözleme dayalı olan ve olmayan tüm tahminlerinin geçer-
+liliğini elektrolitik bir hücrenin özelliklerine ilişkin bilimsel bilgilere dayalı olarak sorgula -
+maları sağlanır (KB2.10, E3.10, D3.3, OB4) . Öğrencilerden çeşitli endüstrilerde ve günlük 
+hayatta elektrolitik hücre prensibi ile çalışan sistemlere ilişkin örnekler araştırmaları ve 
+bu sistemlerin çalışma prensibi hakkında çıkarımlar yapmaları istenebilir. Elektrolitik ve 
+galvanik hücrelerin ortak ve farklı özelliklerini gösteren bir Venn diyagramı hazırlamaları 
+da istenebilir.
+KİM.12.1.7 
+“2020 Tokyo Olimpiyat Oyunları’nda Türk sporcuların kazandığı madalyaların yapıldığı mal-
+zemenin nasıl elde edildiğini biliyor musunuz?” sorusu sorularak derse giriş  yapılabilir (E1.1). 
+Öğrenciler, elektroliz olayının gözlemlenebilir ve ölçülebilir niteliklerini belirlemek için öl -
+çütler (katot ve anotta oluşan madde miktarı, akım miktarı ve elektroliz süresi) oluşturur. 
+Öğrencilerden eriyik bir tuzun elektroliz edildiği elektrolitik hücreleri gözlemleyebileceği 
+görsel veya dijital materyalleri incelemeleri istenir (OB2, OB4). Bu elektroliz örneklerine 
+ilişkin elektrotlarda değişime uğrayan madde miktarının hem devreden geçen elektrik 
+akımı miktarı hem de elektroliz süresi ile değişimini gösteren veri seti verilir. Verilen ni -
+cel veri seti için bağımlı-bağımsız değişkenlerin belirlenmesi sağlanır. Bağımlı-bağımsız 
+değişkenler arasındaki ilişkileri elektroliz olayında elektrotlarda değişime uğrayan madde 
+miktarı, elektrik akımı miktarı ve elektroliz süresi arasındaki ilişkileri belirleyecek şekilde 
+düzenlemeleri öğrencilerden istenir. Öğrenciler, elektroliz olayında elektrotlarda değişi -
+me uğrayan madde miktarının devreden geçen elektrik akımı miktarı ve elektroliz süresi 
+ile değişimine yönelik iddialarını kanıtlara dayalı olarak açıklamaları için yönlendirilir (KB2. 
+14, OB2, OB4). Öğrencilere Faraday’in elektroliz yasasına ilişkin bilgiler verilir. Öğrenciler, 

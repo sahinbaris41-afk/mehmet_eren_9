@@ -1,0 +1,101 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+Öğrenme Çıktısı : 9.5.3. Bir üçgenden hareketle ona benzer üçgenler oluşturma ile ilgili yansıtma yapabilme
+Ders Kitabı (MEB) Sayfa 54
+ 
+1
+T.C.
+MİLLÎ EĞİTİM BAKANLIĞI
+ÖLÇME, DEĞERLENDİRME VE SINAV HİZMETLERİ GENEL MÜDÜRLÜĞÜ
+2024-2025 EĞİTİM VE ÖĞRETİM YILI
+II. DÖNEM I. YAZILI SINAVI (ÜLKE GENELİ ORTAK)
+MATEMATİK
+9. SINIF
+ÖĞRENCİLERİN DİKKATİNE!
+1.	 Bu	soru	kitapçığında	7	soru	bulunmaktadır	ve	sınav	süresi	40	dakikadır.
+2.	 Cevaplarınızı,	soruların	altında	boş	bırakılan	yerlere	yazınız.	
+3.	 Sınav	 100	tam	puan	üzerinden	değerlendirilecektir.	1.	soru	10	puan;	2,	3,	4,	5,	6	ve	7.	sorular	15	puan	
+değerindedir.
+Adı	ve	Soyadı	 :	............................................................................
+Sınıfı	/	Şubesi	 : 	............................................................................
+Öğrenci	Numarası	 : 	............................................................................
+Aldığı	Puan
+ÖĞLE
+OTURUMU
+1. Birim	kareli	zemin	üzerinde	ABC	üçgeni,	d	doğrusu	ve	KLMN	dikdörtgeni	verilmiştir.
+K L
+MN
+B C
+A
+d
+ABC	üçgeninin	d	doğrusuna	göre	yansıma	dönüşümü	altındaki	görüntüsü	AʹBʹCʹ	üçgeni	olmak	üzere,	 
+AʹBʹCʹ	üçgenine	8	birim	sağa	öteleme	dönüşümü	uygulanarak	AʺBʺCʺ	üçgeni	elde	edilmiştir.
+Buna göre, son durumda oluşan AʺBʺCʺ üçgeni ile KLMN dikdörtgeninin kesişim bölgesini  
+şekil üzerinde boyayarak gösteriniz. (10 puan)
+2. Üç	adet	eşkenar	üçgen	aşağıdaki	gibi	kenarlarından	çakıştırılarak	bir	şekil	oluşturulmuştur.
+A
+B C
+GF
+D E
+DBE	üçgeni	ile	FCG	üçgeninin	benzerlik	oranı	 32 ,	FCG	üçgeni	ile	ABC	üçgeninin	benzerlik	oranı	 53  
+ve	|AE|  +  |AF|  =  15	cm’dir.
+Buna göre, |FC| nun kaç santimetre olduğunu işlemlerinizi göstererek bulunuz. (15 puan)
+54
+4. Tema / Eşlik ve Benzerlik
+1. Hangi nokta çiftleri birleştirilirse oluşan üçgenler ile ABC üçgeninin benzer olacağını açıklayınız. 
+2. Benzer üçgenlerin hangi benzerlik koşuluna göre belirlendiğini yazınız.
+3. ABC üçgeninde LR7 A çizildiğinde LR BC'77 A A olmasının nedenini açıklayınız. 
+14. ÖRNEK
+Dikilen	direkler	ve	bu	direklerin	etrafına	sarılan	tellerin	oluşturduğu	
+üçgensel	bir	tarlanın	modellemesi	yanda	verilmiştir.	Toplam	16	di-
+rek	şekildeki	gibi	eşit	aralıklarla	dikilmiş	ve	harflendirilmiştir.
+Seçilen	iki	direk	arasına	tel	çekilerek	başka	bir	üçgensel	bölge	
+oluşturulmak	istenmektedir.	A	ve	M	direkleri	arasındaki	mesafe	
+108	metre	olduğuna	göre
+a) Tel	uzunluğunun	ölçüm	yapılmadan	hesaplanabilmesi	için	seçilmesi	gereken	direkleri	bulunuz.	
+b) C	ve	J	direkleri	arasına	çekilecek	telin	kaç	metre	olması	gerektiğini	bulunuz.
+Çözüm
+a) 	A F	kenarı	6,	FM	kenarı	9	eşit	aralığa	bölünmüştür.	Tel	uzunluğunun	hesaplanabilmesi	için	
+Kenar-Açı-Kenar	benzerliğinden	hareketle	AFM	üçgenine	benzer	üçgenler	oluşturulmalıdır.	Bu	üç-
+genlerin	ortak	açısı	AFM% 	ve	kenar	uzunlukları	oranı	 96 	olmalıdır.	
+D	ve	H	noktaları	birleştirilirse 
+FH
+DF
+FM
+AF
+3
+2== 	olduğundan	DFHA FM+&& 	olur.
+Ç	ve	Ğ	noktaları	birleştirilirse 
+FM
+AF
+FÇ
+FĞ
+3
+2== 	olduğundan	 AFMFÇĞ +& &	olur.
+C	ve	J	noktaları	birleştirilirse 
+FM
+AF
+FJ
+CF
+3
+2== 	olduğundan	 AFMCFJ +&& 	olur.
+A	ve	I	noktaları	birleştirilirse 
+AF
+I
+FM
+AFF
+3
+2== 	olduğundan	 AFMIFA +& & 	olur.
+b) C	ve	J	noktaları	birleştirilirse	 AFMCFJ +&& 		olduğundan
+MA
+CJ CJ
+CJ m32 108 32 72&&== = 	bulunur.
+E
+D
+Ç
+C
+B
+A
+F G Ğ H I İ J K L M
+108	
+4.Tema_13.07.2024.indd   544.Tema_13.07.2024.indd   54 17.07.2024   18:4417.07.2024   18:44
+9. SINIF ORTAK SINAV (ÖĞLE OTURUMU) - MATEMATİK

@@ -1,0 +1,83 @@
+68
+1. Tema
+Görsel 1.54
+Substrat miktarındaki artışın 
+enzim substrat ilişkisine etkileri 
+Görsel 1.55
+Nükleotitlerin genel yapısı
+Enzim
+Substrat
+Aktif 
+bölgeye 
+bağlı 
+substrat
+Grafik 1.4
+Substrat ve enzim 
+miktarlarındaki değişimin 
+reaksiyon hızı üzerine etkisi 
+a) Sınırsız enzim veya sınırsız 
+substrat, b) Sabit enzim 
+miktarı, c) Sabit substrat 
+miktarı
+Sınırsız enzim 
+veya sınırsız 
+substrat
+miktarı
+Reaksiyon hızı
+Substrat veya enzim miktarı
+Sabit enzim 
+miktarı
+Reaksiyon hızı
+Substrat miktarı
+Sabit substrat 
+miktarı
+Reaksiyon hızı
+Enzim miktarı
+a b c
+Ester bağı Glikozit bağı 
+Fosfat grubu
+Pentoz şekeri
+Azotlu organik baz
+O
+O–
+P O–O
+Yüzey alanı: Substratın yüzey alanı arttıkça enzimlerin substratla etkileşime girebi-
+leceği bölgenin miktarı da artar. Büyük yüzey alanı, daha fazla substrat molekülü -
+nün enzimle etkileşime girerek reaksiyona girmesini kolaylaştırır. Bu durum, reaksi-
+yon hızını artırır. Örneğin bir elma yendiğinde mide ve bağırsak enzimlerinin elma 
+ile temas yüzeyi sınırlıdır ve sindirim uzun sürer. Elma rendelenerek yendiğinde ise 
+sindirim enzimlerinin elma ile temas yüzeyi ve elmanın sindirilme hızı artar. 
+Aktivatör ve İnhibitörler: Enzimlerin etkinliği belirli moleküller tarafından  düzen-
+lenebilir. Bir enzimin etkinliğini artıran moleküle aktivatör, azaltan moleküle inhi-
+bitör denir.
+Nükleik Asitler
+Nükleik asitler, yapılarında fosfat grubu, beş karbon -
+lu şeker (pentoz) ve azotlu organik baz (pürin veya 
+pirimidin) bulunduran nükleotitlerin polimerleridir 
+(Görsel 1.55). Hücrenin bilgi taşıyan molekülleridir ve 
+protein sentezi süreçlerini yönlendirerek canlıların ka-
+lıtsal özelliklerin belirlenmesinde rol oynar. Bölünme, 
+büyüme, gelişme, enerji dönüşümleri gibi hayati olay-
+ların gerçekleşmesinde doğrudan veya dolaylı olarak 
+nükleik asitler işlev görür.  
+Enzim ve Substrat Miktarı: Enzimlerin substratlarıyla 
+bir araya gelerek reaksiyona girme potansiyeli enzim 
+ve substrat miktarına bağlıdır (Görsel 1.54). Bu neden-
+le enzimatik reaksiyonların hızı, substrat ve enzim 
+miktarına bağlı olarak değişir.
+Sıcaklığı ve pH değeri sabit tutulan bir ortamda yeterli 
+miktarda substrat varsa enzim miktarının artırılması re-
+aksiyon hızını doğru orantılı olarak artırır. Benzer etki, 
+yeterli enzim bulunduran ortamlarda substrat artışıyla 
+da gerçekleşir (Grafik 1.4.a).
+Sıcaklığı, pH değeri ve enzim miktarı sabit tutulan bir ortamda düşük substrat 
+konsantrasyonlarında reaksiyon hızı, substrat miktarına bağlı olarak artar. Substrat 
+miktarı arttıkça reaksiyon hızı, artmaya devam eder ancak artış hızı enzimlerin aktif 
+bölgelerinin substratla doymaya başlamasından dolayı yavaşlar. Yüksek substrat 
+konsantrasyonlarında ise enzimler tamamen substratla doygun hâle geldiği için 
+en yüksek reaksiyon hızına ulaşır ve reaksiyon hızı substrat miktarından etkilenmez 
+(Grafik 1.4.b). 
+Sıcaklığı, pH değeri ve substrat miktarı sabit tutulan bir ortamda enzim miktarındaki 
+artışla birlikte reaksiyon hızı ortamdaki bütün substratlar enzimle etkileşime girince-
+ye kadar artar. Daha sonra substratların ürüne dönüştürülmesinden dolayı reaksiyon 
+hızı azalır ve ortamdaki substrat bitince reaksiyon hızı sıfırlanır (Grafik 1.4.c).

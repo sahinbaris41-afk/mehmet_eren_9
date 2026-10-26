@@ -1,0 +1,28 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+115
+7. TEMA: VERİDEN OLASILIĞA
+1. Adım
+Bu etkinlikte sayı küpünün kullanıldığı deneysel olasılık ile teorik olasılık sonuçları karşılaştırılacaktır. 
+Grup arkadaşınızla görev dağılımı yapınız ve adımları sırasıyla uygulayınız.
+Sayı küpünü 30 defa havaya atınız ve sayı küpünün her atışından çıkan sonuca göre aşağıdaki iki olay-
+dan hangisinin gerçekleştiğini verilen tabloya yazınız.
+• Sayı küpünün üst yüzeyine gelen sayının tek sayı mı yoksa çift sayı mı olduğunu,
+• Sayı küpünün üst yüzeyine gelen sayının asal sayı olup olmadığını yazınız.
+Etkinlik Aşaması
+Çıktı Tek Sayı Çift Sayı Asal Sayı AsalSayı Değil Çıktı Tek Sayı Çift Sayı Asal Sayı Asal SayıDeğil
+1 16
+2 17
+3 18
+4 19
+5 20
+6 21
+7 22
+8 23
+9 24
+10 25
+11 26
+12 27
+13 28
+14 29
+15 30
+2. ETKINLIK ADI SAYI KÜPÜ ILE OLASILIK DENEYLERI

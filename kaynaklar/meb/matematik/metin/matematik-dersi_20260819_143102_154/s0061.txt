@@ -1,0 +1,45 @@
+61
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.9.4.1. Geometrik dönüşümlerle ilgili çıkarım yapabilme
+a) Mevcut bilgisi dâhilinde geometrik dönüşümlerin (yansıma, öteleme, dönme) özel -
+liklerine, bir geometrik şeklin dönüşüm sonrasında oluşan görüntüsüne ilişkin var -
+sayımlarda bulunur.
+b) İncelediği örnekler üzerinden dönüşümlerin özelliklerine ve şekillerin dönüşümler 
+altındaki görüntüsüne ilişkin varsayımlarına dayalı örüntüleri geneller.
+c) Dönüşümlerin özellikleri ve şekillerin dönüşümler altındaki görüntüsüne  ilişkin var-
+sayımları ile genellemelerini karşılaştırır.
+ç) Elde ettiği genellemelerden hareketle dönüşümlerin özelliklerine ve şekillerin dönü-
+şümler altındaki görüntüsüne ilişkin önermeler sunar.
+d) Geometrik dönüşümlerle ilgili elde ettiği önermeleri konu ile ilgili başka çıkarımlar 
+yapmak için kullanarak değerlendirir.
+MAT.9.4.2. İki üçgenin eş veya benzer olması için gerekli olan asgari koşullarla ilgili çıka -
+rım yapabilme
+a) İki üçgenin eş veya benzer olma koşullarına ilişkin varsayımlarda bulunur.
+b) İncelediği örnekler üzerinden iki üçgenin eş veya benzer olma koşullarına ilişkin var-
+sayımlarına dayalı örüntüleri geneller.
+c) İki üçgenin eş veya benzer olma koşullarına ilişkin varsayımları ile elde ettiği genel-
+lemeleri karşılaştırır.
+ç) Ulaştığı genellemelerden iki üçgenin eş veya benzer olma koşullarına ilişkin öner -
+meler sunar.
+d) İki üçgenin eş veya benzer olma koşullarına dair elde ettiği önermelerin farklı ve yeni 
+durumların anlamlandırılmasına yönelik sunduğu katkıyı değerlendirir.
+MAT.9.4.3. Bir üçgenden hareketle ona benzer üçgenler oluşturma ile ilgili yansıtma ya -
+pabilme
+a) Bir üçgene benzer üçgenler oluştururken eşlik ve benzerlik deneyimlerini gözden 
+geçirir.
+b)  Deneyimlerine dayalı çıkarımlar yapar.
+c) Bir üçgenden hareketle ona benzer üçgenler oluşturma ile ilgili ulaşılan çıkarımları 
+farklı problem durumlarında değerlendirir.
+MAT.9.4.4. Tales, Öklid ve Pisagor teoremlerini ispatlayabilme
+a) Tales, Öklid ve Pisagor teoremlerine ilişkin farklı ispatları kullanır.
+b) Kullandığı matematiksel ispat ve teoremleri yeni durumlara uyarlayarak  değerlen-
+dirir.
+MAT.9.4.5. Eşlik ve benzerlikle ilgili çıkarım ve teoremleri içeren problemleri çözebilme
+a) Problemin verilen ve istenenlerine ilişkin parçaları belirler.
+b) Problemde verilenler, istenenler ve gerekli işlemler arasındaki ilişkileri belirler.
+c) Problemin parçaları arasındaki ilişkileri problem bağlamına uygun olarak dönüştürür.
+ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.
+d) Problemin çözümünü gerçekleştirmek için stratejiler oluşturur.
+e) Belirlediği stratejiyi çözüm için uygulayarak problemi çözer.
+f) Problemin çözümünü kontrol eder.

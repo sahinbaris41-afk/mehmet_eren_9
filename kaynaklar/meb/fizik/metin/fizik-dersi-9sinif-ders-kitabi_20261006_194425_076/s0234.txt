@@ -1,0 +1,38 @@
+234
+4. ÜNİTE 
+Örnek 
+Kar yağarken hava sıcaklığı neden yükselir? Açıklayınız.
+Çözüm 
+Maddeler hâl değiştirirken bulundukları ortamdan ya ısı alır ya da bulundukları ortama ısı verir. Kar 
+yağarken hava sıcaklığında bir miktar artış olmasının nedeni yağmur damlalarının kara dönüşürken 
+havaya ısı vererek donmasıdır. Sonuçta ısı alan havanın sıcaklığı artar. 
+Örnek 
+Aynı laboratuvarda masa üzerindeki özdeş kaplarda yer alan katı hâldeki K ve L maddeleri özdeş ısıtı -
+cılarla ısıtılarak şekildeki sıcaklık-zaman grafiği elde ediliyor.
+Sıcaklık (T) K
+K
+L
+LZaman (t)t 2t 4t0
+T
+5T
+m
+2m
+K’nin kütlesi m ve L’nin kütlesi 2m olduğuna göre maddelerin erime ısıları oranı kaçtır?
+Çözüm 
+Kaplara eşit zaman aralıklarında eşit ısılar verilmektedir. Buna göre K katı maddesinin tamamen erimesi 
+için t zamanda verilen ısı miktarı Q kabul edilirse L katı maddesine 3t zaman aralığında verilen ısı 3Q 
+olur. Buna göre
+Q = m : LK
+3Q = 2m : LL
+LK 
+LL
+ = 2 3  bulunur.
+Örnek 
+Erime sıcaklığındaki 4 kg buzu eritmek için gerekli olan ısı, kaynama sıcaklığındaki 1 kg suyu 
+tamamen buhar hâline getirebilir mi? Gerekçesiyle açıklayınız.
+(Buzun erime ısısını 334 kJ/kg, suyun buharlaşma ısısını 2.260 kJ/kg alınız.)
+Çözüm 
+Erime sıcaklığındaki 4 kg buzun tamamen erimesi için gerekli olan ısı 
+Qe = m : Le = 4 : 334 = 1.336 kJ olur.
+Kaynama sıcaklığındaki 1 kg suyu tamamen buhar hâline getirmek için 
+Qb = m : Le = 2.260 kJ ısıya ihtiyaç olacağından bu ısı yeterli olmayacaktır.

@@ -1,0 +1,36 @@
+154
+Tema Ölçme ve Değerlendirme Soruları
+Yönerge: Aşağıda verilen metinden ve bazı canlıların "Çeşitli Canlı Türlerinin Taksonomik Kategorileri ve  
+                     Kromozom Sayıları Tablosu"ndan yararlanarak 11,12, 13 ve 14. soruları cevaplayınız.
+Canlıların sınıflandırılmasında kalıtsal olarak ortak karakterlere sahip kendi araların-
+da verimli döl verebilen yavrular elde edilen bireylerin oluşturduğu canlı grubu di-
+ğer ifadeyle tür, temel sınıflandırma birimidir. Türlerin adlandırmaları binomial (ikili) 
+olarak yapılır. Tür isimlerinde birinci kelime cins adı, ikinci kelime ise tamamlayıcı 
+adı ifade eder. Cins adının ilk harfi büyük, diğerleri ise küçük yazılır. Bu iki kelimeyle 
+ifade edilen tür isimleri eğik (italik) yazılarak verilir.
+Çeşitli Canlı Türlerinin Taksonomik Kategorileri ve Kromozom Sayıları Tablosu
+Tür adı
+Canis 
+familaris 
+(Köpek)
+Pinus nigra
+(Karaçam)
+Pinus pinea
+(Fıstık çamı)
+Vulpes 
+zerda
+(Çöl tilkisi)
+Morus 
+nigra
+(Karadut)
+Vulpes 
+vulpes
+(Kızıl tilki)
+Aile Canidea Pinaceae Pinaceae Canidea Moraceae Canidea
+Kromozom 
+sayısı 78 24 24 64 308 38
+11. Filogenetik sınıflandırmaya göre tabloda kaç farklı tür, cins ve aileye ait canlı örneği yer almakta -
+dır? Açıklayınız.
+12. Tablodaki canlılardan hangilerinin aynı takıma ait olduğunu gerekçesiyle yazınız.
+13. Tablodaki canlılardan hangileri çiftleştiklerinde verimli döl oluşturabilir? Sebebini açıklayınız.
+14. Tabloda verilen türlerden hangilerinde protein benzerliğinin daha fazla olduğunu yazınız.

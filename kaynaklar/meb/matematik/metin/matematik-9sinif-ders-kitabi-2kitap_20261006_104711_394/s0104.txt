@@ -1,0 +1,57 @@
+104
+5. Tema/Algoritma ve Bilişim  
+Sözde	kod,	gerçek	bir	programlama	dilinin	teknik	detaylarını	ve	karmaşık	söz	dizimini	kullanmaz.	
+Örneğin	uzun	kenarının	uzunluğu	8	birim	ve	kısa	kenarının	uzunluğu	4	birim	olan	dikdörtgenin	alanını	
+bulan	algoritmanın	işleyişi	sözde	kodla	aşağıdaki	gibi	gösterilebilir.
+Yukarıda	verilen	sözde	kodun	yazımı	farklı	şekillerde	de	
+yapılabilir.	Aynı	algoritmanın	işleyişi	yandaki	sözde	kodla	
+da	ifade	edilebilir.
+Değişkenler	veya	sabitler	üzerinde	matematiksel	işlem-
+ler	gerçekleştirmek	için	kullanılan	aritmetik	operatörler	ve	
+işlevleri	Tablo	5.3’te	verilmiştir .	
+Operatör İşlevi
++ İki	sayının	toplamını	hesaplar.
+- İki	sayının	farkını	hesaplar.
+* İki	sayının	çarpımını	hesaplar.
+/ Bir	sayının	diğerine	bölünmesini	sağlar.
+^ Bir	sayının	başk a	bir	say ıya	göre	kuv vetini	hesaplar.
+% Bir	sayının	diğerine	bölümünden	kalanı	verir.
+Tablo 5.3: Aritmetik Operatörler ve İşlevleri
+Sözde	kod	yazımı nda	kullanılan	yazım	tarzları nda	farklı lıklar	olabilir.	Bu	farklı lıklar,	kullanıcı nın	yatkı n	
+olduğu	programlama	diline	kolay	geçiş	yapmasını	sağlar.	Verilen	sözde	kodların	‟Y azdır”	ile	başlayan	
+satırlarında	algoritmik	doğal	dil	ve	akış	şemasından	farklı	bir	yazım	tercih	edilmesinin	nedeni,	metin	ile	
+sayısal	değeri	ayırt	etmektir .	Sözde	kod	yazımında	metin	ile	sayısal	değerleri	ayırt	etmek	için	verilen	
+gösterimlerden	biri	tercih	edilebilir.	Bunların	dışında	kullanılan	sözde	kod	yazımları	da	benimsenebilir.		
+Algoritmik	doğal	dil,	akış	şeması	ve	sözde	kod	alanlarındaki	ifadelerde	imla	ve	noktalama	farklılıklarının	
+bulunma	nedeni	bu	ifadelerin	kullanımına	ilişkin	kuralların	yazı	dili	kurallarından	farklı	olmasıdır.
+Sözde Kod
+Girdi: 	uzun	kenar	uzunluğu,	 
+kısa	kenar	uzunluğu
+Çıktı:		alan
+Başla
+						 alan 	!	uzun	kenar	uzunluğu	*	 
+kısa	kenar	uzunluğu
+						 Yazdır 	‟Dikdörtgenin	alanı”,	alan,	 
+‟birimkaredir.”
+Bitir
+Algoritmanın Çalışması
+Kullanıcıdan	dikdörtgenin	uzun	kenar	uzunluğunu	ve	kısa	
+kenar	uzunluğunu	al.
+“alan”	adındaki	değişkene	uzun	kenar	uzunluğu	ile	kısa	kenar	
+uzunluğunun	çarpımını	ata.
+Ekrana	ya	da	dosyaya	‟Dikdörtgenin	alanı	32	birimkaredir.”	
+diye	yazdır.
+Sözde Kod
+Girdi: 	uzun	kenar	uzunluğu,	 
+kısa	kenar	uzunluğu
+Çıktı:		alan
+Başla
+						 alan 	=	uzun	kenar	uzunluğu	*	 
+kısa	kenar	uzunluğu
+						 Yazdır 	‟Dikdörtgenin	alanı	[alan]	 
+birimkaredir.”
+Bitir
+Söz dizimi,	bir	programlama	dilindeki	komutların,	ifadelerin	ve	veri	yapılarının	nasıl	düzenlenmesi	
+gerektiğini	tanımlayan	kurallar	ve	yapılar	bütünüdür.
+Sözde kod;	bir	bilgisayar	programını n	nasıl	çalışacağı nı	anlatan,	insanların	okuyup	anlayabileceği,	
+sade	ve	açıklayıcı	bir	dil	kullanılarak	yazılan	bir	dizi	talimattır.	

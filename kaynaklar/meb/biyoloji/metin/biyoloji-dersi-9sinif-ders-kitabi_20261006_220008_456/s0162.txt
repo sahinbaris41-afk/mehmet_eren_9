@@ -1,0 +1,23 @@
+162
+Bu bölümde etkinlik sonlarında doldurulması gereken formlar verilmiştir.
+FORM 1 ----------------  BÜTÜNCÜL DERECELİ PUANLAMA ANAHTARI
+FORM 2 ----------------  ÖZ DEĞERLENDİRME FORMU
+FORM 3 ----------------  GRUP DEĞERLENDİRME FORMU
+FORM 4 ----------------  BÜTÜNCÜL DERECELİ PUANLAMA ANAHTARI
+FORM 5 ----------------  BİLİMSEL ETİK ARAŞTIRMA RAPORU
+FORM 6 ----------------  ANALİTİK DERECELİ PUANLAMA ANAHTARI
+FORM 7 ----------------  KONTROL LİSTESİ
+FORM 8 ----------------  MİNERALLER VE GÖREVLERİ İLE İLGİLİ ÇALIŞMA KAĞIDI
+FORM 9 ----------------  BÜTÜNCÜL DERECELİ PUANLAMA ANAHTARI
+FORM 10 --------------  ÖZ DEĞERLENDİRME FORMU
+FORM 11 --------------  DENEY TASARLAMA FORMU
+FORM 12 -------------- ÖZ DEĞERLENDİRME FORMU
+FORM 13 -------------- GRUP DEĞERLENDİRME FORMU
+FORM 14 -------------- ANALİTİK DERECELİ PUANLAMA ANAHTARI
+FORM 15 -------------- DENEY TASARLAMA FORMU
+FORM 16 -------------- ÖZ DEĞERLENDİRME FORMU
+FORM 17 -------------- BÜTÜNCÜL DERECELİ PUANLAMA ANAHTARI
+FORM 18 -------------- DENEY TASARLAMA FORMU
+FORM 19 -------------- GRUP DEĞERLENDİRME FORMU
+FORM 20 -------------- ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Ek Formlar

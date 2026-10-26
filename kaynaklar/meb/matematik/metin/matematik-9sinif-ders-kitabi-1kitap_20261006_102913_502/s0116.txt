@@ -1,0 +1,29 @@
+116
+2. Tema /  Nicelikler ve Değişimler
+ Alıştırmalar
+1.  Aşağıda cebirsel gösterimi verilen, gerçek sayı -
+larda tanımlı fonksiyonların grafiklerini f: R"R, 
+f(x) = x şeklinde tanımlı f doğrusal referans 
+fonksiyonunun grafiğine uygun dönüşümleri 
+yaparak çiziniz. 
+	 a) 	g(x) = -x
+ b)	h(x) = 3x - 4
+	 c) 	m(x) = x 2 32-
+	 ç) 	n(x) = x 4 511--
+2.  Bir basınç birimi olan psi, araç lastik basınçla -
+rının ölçümünde sıklıkla kullanılmaktadır. Arzu 
+Hanım, aracının lastiğini 32 psi basıncı seçe -
+rek şişirmiştir. Sonrasında lastik basıncının her 
+gün 2 psi düştüğünü fark etmiştir. Basıncı 32 
+psi’den 14 psi’ye düşene kadar lastiğe müda -
+hale etmemiştir. 
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.	
+a)	 Zamana	(gün) 	bağlı 	lastik 	basıncını 	(psi)	
+ifade	 eden 	 doğrusal 	 fonksiyonun 	 tanım 	
+ve	 görüntü 	 kümelerini 	 bul arak 	 cebirsel 	
+gösterimini	yazınız.
+b)	 Cebirsel	 gösterimini 	 yazdığınız 	 fonk-
+siyonun	grafiğini f: R"R, f(x) = x şek-
+linde	 tanımlı 	 f 	 doğrusal 	 referans 	 fonksi-
+yonunun	 grafiğine 	 uygun 	 dönüşümleri 	
+yaparak	çiziniz.

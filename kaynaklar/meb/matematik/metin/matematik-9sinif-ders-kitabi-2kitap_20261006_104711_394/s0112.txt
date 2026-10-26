@@ -1,0 +1,69 @@
+112
+5. Tema/Algoritma ve Bilişim  
+Kriptoloji,	bilgileri	koruma	ve	gizleme	bilimidir.	Sayıların	çarpanlara	ayrılması,	kriptoloji	alanında	önemli	
+bir	yere	sahiptir.	Adı nı	buluşç uları	olan	Ron	Rives t	(Ron	Rivis t),	Adi	Sham ir	(A di	Şam ir)	ve	Leonard	
+Adleman’ın	(Lönırd	Adılmın)	soy	isimlerinin	baş	harflerinden	alan	RSA	şifreleme	algoritması;	büyük	
+sayıların	asal	çarpanlarına	ayrılmasına	dayanır.	Bu	algoritmada	iki	asal	sayının	çarpımı	kolayca	
+hesaplanabilirken	bir	sayının	asal	çarpanlarına	ayrılması	son	derece	zordur.	Bu	hesaplama	güçlüğü,	
+RSA’nın	güvenliğinin	temelini	oluşturur	çünkü	bir	mesajın	şifresini	çözmek	için	gerekli	özel	anahtar,	bu	
+büyük	sayıları	asal	çarpanlarına	ayırma	işlemine	bağlıdır.	Etkili	bir	asal	çarpanlara	ayırma	algoritması	
+olmadan	bu	tür	bir	şifrelemeyi	kırmak	zordur.	
+Sayıların	asal	çarpanlarına	ayrılması	için	geliştirilen	başlıca	algoritmalar;	deneme	bölme	algoritması,	 
+Pollard’ın	(Pallırd)	rho	(r o)	algorit ması	ve	kuant um	bilgisay arlar	için	gelişt irilen	Shor	(Ş or)	algorit ması	
+şeklinde	sıralanabilir.
+5. ÖRNEK
+Algoritmik Doğal Dil
+1. adım:	Başla.
+2. adım: Girdi ve çıktıların belirlenmesi
+	 Kullanıcıdan 	pozitif	bir	tam	sayı	(x)	al.
+	 Elde 	edilen	asal	çarpanları	saklamak	için	
+‟asal	çarpanlar”	adında	boş	bir	liste	oluştur.
+3. adım: 2 ile bölme işlemi yapılması
+	 x 	çift	ise
+	 x 	2’ye	bölünebildiği	sürece
+	 x 	i	2’ye	böl	ve	x	i	sonuç	olarak	güncelle.
+	 2’yi 	asal	çarpanlar	listesine	ekle.
+4. adım: Diğer asal sayılarla bölme işlemi yapılması
+	 y 	değişkenini	3	olarak	başlat.
+	 y 	değeri	x	in	karekökünden	küçük	veya	x	in	
+kareköküne	eşit	olduğu	sürece
+	 x, 	y	ile	tam	bölünebiliyorsa
+	 x 	i	y	ye	böl	ve	sonucu	x	olarak	güncelle.
+	 x, 	y	ile	tam	bölündüğü	sürece	işlemi	tekrarla.
+	 y 	yi	asal	çarpanlar	listesine	ekle.
+	 Tek 	sayıları	taramak	için	y	yi	2	artır.	
+5. adım: Son çarpanın kontrol edilmesi
+	 x 	1’den	büyükse
+	 x 	bir	asal	say ıdır	ve	asal	çar panlar	list esine	
+eklenmelidir.
+6. adım: Çıktının yazdırılması
+	 Asal 	çarpanlar	listesini	yazdır.
+7. adım:	Bitir.
+Deneme	 bölme	 algoritmasında	 ilk	 olarak	
+asal	çarpanlarına	ayrılacak	sayının	en	küçük	
+asal	sayı	olan	2	ile	bölünebilirliğine	bakılır.	
+Sayı	2’ye	bölünebiliyorsa	elde	edilen	bölü-
+mün	2	ile	bölünebilirliğine	bakılır.	Bu	işleme	
+iki	ile	kalanlı	bölme	işlemi	yapılıncaya	kadar	
+devam	edilir.	Ardından	3,	5,	7	gibi	asal	sayı-
+larla	bölme	işlemine	devam	edilir.	Bölme	işle-
+mi,	asal	çarpanları	bulunmak	istenen	sayının	
+karekökünden	küçük	olan	asal	sayılar	için	
+yapılır.	Yanda	bir	sayının	asal	çarpanlarını	
+bulan	deneme	bölme	algoritmasının	işleyişi,	
+algoritmik	doğal	dille	ifade	edilmektedir.
+Verilen	bilgileri	inceleyerek	75	sayısının	asal	
+çarpanlarının	listesini	elde	ediniz.
+Çözüm
+İşlem x Asal Çarpanlar 
+Girdi	alınır. 75 { }
+2’ye	tam	bölünme 75 { }
+y3= 	ile	tam	bölünme 25 {3}
+y5= 	ile	tam	bölünme 5 {3,5}
+y 7= 	ile	tam	bölünme 5 {3,5}
+Bir	sayının	asal	çarpanları	bulunurken	sayının	kare-
+kök	değerine	kadar	olan	asal	sayılara	bölünüp	bölün-
+mediğini	kontrol	etmek	yeterlidir.	11,	13,	17,	…	 	asal	
+sayıları	 75’in	 karekökünün	 yaklaşık	 değeri	 olan	
+8,6’dan	büyük	olduğu	için	asal	çarpanı	olamaz.	
+Bu	durumda	75’in	asal	çarpanlar	listesi	{3,	5}	olur.

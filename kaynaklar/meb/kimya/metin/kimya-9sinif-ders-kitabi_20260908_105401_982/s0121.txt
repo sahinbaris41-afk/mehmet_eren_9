@@ -1,0 +1,81 @@
+121
+2. Tema/Çeşitlilik
+İyonik bir bileşikte pozitif ve negatif yüklü iyonlar, kristal örgü içinde belirli bir 
+düzende yer alır. Bu düzen, zıt yüklü iyonlar arasındaki çekimin en fazla, aynı 
+yüklü iyonlar arasındaki itmenin ise en az olacağı şekilde oluşur. Örneğin 
+NaCl bileşiğinin kristal yapısında her bir Na
++
+ katyonu 6 adet Cl
+−
+ anyonuyla, 
+her bir Cl
+−
+ anyonu da 6 adet Na
++
+ katyonuyla çevrelenmiştir. Aşağıda NaCl 
+kristal örgü yapısı ve kristal örgü yapısının genişletilmiş gösterimi verilmiştir 
+(Görsel 2.6). Genişletilmiş gösterimde bir Na
++
+ iyonunun 6 Cl
+−
+ iyonu ile çevre-
+lendiği görülmektedir.
+Sodyum klorür bileşiğinde iyonların yükleri sırasıyla 1+ ve 1− şeklindedir. 
+Bileşikteki katyon ve anyonların yüklerinin toplamı sıfırdır. Bu nedenle sod -
+yum klorürün formülü NaCl olmalıdır. Katyon ve anyon yüklerinin toplamı 
+sıfır olmadığında katyon ve anyonların toplam yükü sıfır olacak şekilde iyon 
+sayıları belirlenir. Kalsiyum klorür bileşiğinde bir kalsiyum iyonu (Ca
+2+
+) 2+ 
+yüke, klorür iyonu (Cl
+−
+) 1− yüke sahiptir. Kalsiyum iyonunun (2+) yükünü 
+dengelemek için iki klorür iyonuna (Cl
+−
+) ihtiyaç duyulur. Bu durum bileşiğin 
+formülünde klor sembolünden sonra yazılan “2” alt indisiyle belirtilir. Bu ne -
+denle kalsiyum klorür bileşiği CaCl 2 formülüyle gösterilir. Magnezyum oksit 
+bileşiğinde bir magnezyum iyonu (Mg
+2+
+) 2+ yüke, bir oksit iyonu (O
+2−
+) 2− 
+yüke sahiptir. Magnezyum iyonunun (2+) yükünü dengelemek için bir oksit 
+iyonuna (O
+2−
+) ihtiyaç duyulur. Bu durumda bileşiğin formülü MgO şeklinde 
+yazılır. İyonik bileşiklerin formülleri bileşikteki katyonların ve anyonların ba -
+ğıl oranlarını verir. Örneğin sodyum klorür bileşiği için NaCl formülü bileşik -
+teki Na
++
+ ve Cl
+−
+ iyonlarının 1:1 oranında, kalsiyum klorür bileşiği için CaCl 2 
+formülü bileşikteki Ca
+2+
+ ve Cl
+− 
+iyonlarının 1:2 oranında ve MgO bileşiğinde 
+Mg
+2+
+ ve O
+2−
+ iyonlarının 1:1 oranında olduğunu gösterir. Dolayısıyla bileşik 
+formülü toplam elektrik yükünün sıfır olması için gerekli olan en az pozitif ve 
+negatif iyonu içerir. 
+İyonik bir bileşik olan sodyum hidroksit (NaOH) bileşiği de sodyum klorür 
+bileşiği (NaCl) gibi birer katyon ve anyon içerir. Ancak NaCl bileşiğindeki 
+tek atomlu klorür (Cl
+−
+) iyonunun aksine NaOH bileşiğindeki hidroksit iyonu 
+(OH
+−
+) çok atomlu iyon olup yüklü bir atom topluluğudur.
+Görsel 2.6 
+NaCl kristal örgü yapısı
+Cl¯ Na
++
+İyonik bağ oluşumu ile 
+ilgili etkileşimli içeriğe 
+ulaşmak için karekodu 
+okutunuz.

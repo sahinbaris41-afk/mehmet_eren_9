@@ -1,0 +1,45 @@
+43
+1. Tema/Etkileşim
+Kontrol Noktası 1.2
+Aşağıdaki soruları cevaplayınız ve etkileşimli içeriği yapınız.
+1 Öğretmen, kimya dersinde çözeltiler konusunu işlerken öğrencilerinden çeşitli çözeltileri hazırlamalarını ister. 
+Laboratuvardaki masanın üzerine gerekli kimyasal maddeleri ve laboratuvar malzemelerini yerleştirir. Öğrenciler 
+hazırlayacakları çözeltiler için gerekli kimyasalları seçerken düşüncelerini paylaşır. Öğrencilerin düşünceleri aşa-
+ğıdaki görselde verilmiştir. 
+a) L aboratuvarda çözelti hazırlanırken gerekli maddelerin seçiminde yapılması gerekenler ile ilgili hangi 
+öğrencinin düşüncesi doğrudur? Düşüncenizi gerekçeleri ile açıklayınız.
+b) Görseldeki öğ renciler, laboratuvarda uyulması gereken kurallardan hangilerini dikkate almamıştır?
+Bu madde 
+amonyak gibi 
+kokuyor. Bence 
+maddeleri 
+kokusuna göre 
+ayırt edebiliriz.
+Bence üzerindeki 
+etikete bakalım, 
+maddenin ne 
+olduğunu etiketten 
+anlayabiliriz.Asitlerin tadı 
+ekşidir, maddenin 
+tadına bakarak 
+onun asit olup 
+olmadığını 
+anlayabiliriz.
+2. Aşağıda temel güvenlik uyarı işaretleri ve bu işaretlerle ilgili ifadeler verilmiştir. İfadeleri uygun temel 
+güvenlik uyarı işaretleri ile eşleştiriniz.
+3. Laboratuvar kuralları ile ilgili etkileşimli içeriğe ulaşmak için yandaki karekodu akıllı ciha-
+zınıza  okutunuz.
+a dcb eç
+Canlı dokuyu tahrip eden ya da demiri aşındıran.
+Havasız ortamda bile alev alabilen veya yanabilen kimyasal maddeleri ifade eder.
+Tahriş edici, deriye ve göze zarar veren kimyasal maddeleri belirtir.
+İnsan sağlığına kısa veya uzun dönemli hasarlar veren kimyasal maddeleri ifade eder.
+Yanıcı ve parlayıcı kimyasal maddeleri belirtir.
+A
+B
+C
+I
+II
+III
+IV
+V

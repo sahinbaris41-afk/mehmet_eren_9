@@ -1,0 +1,39 @@
+129
+5. Tema/Algoritma ve Bilişim  
+1. Tablo 2’de koşul içeren sözel ifadeleri mantık bağlaçları ve niceleyicilerle ifade ediniz. Koşulu sağlayan öğren-
+cileri bularak Tablo 2’yi doldurunuz.
+ Tablo 2
+ 
+ 
+Koşulun Sözel İfadesi Koşulun Mantık Bağlacıyla İfadesi Koşulu Sağlayan Öğrenciler
+Not ortalaması 85’ten fazla olanlar 
+ve en az 2 yıl gönüllü etkinliklerde 
+bulunanlar
+(Not ortalaması 2 85) / (Gönüllü 
+etkinliklerde bulunma süresi $ 2) Ali, Jale, Kerem, Pelin, Seda
+Not ortalaması en az 85 olanlar veya 
+bilimsel projede yer alanlar
+Gönüllü çalışma süresi 3 yıl veya daha 
+fazla olanlar ve bilimsel projede yer 
+almayanlar
+Not ortalaması 90’dan fazla ve gönüllü 
+çalışma süresi 1 yıldan fazla olanlar
+Not ortalaması 80’den az olanlar ya da 
+bilimsel projede yer almayanlar
+Gönüllü etkinliklere hiç katılmayanlar 
+ya da bilimsel projede yer alanlar
+Gönüllü çalışma süresi 3 yıldan fazla 
+olanlar ve bilimsel projede yer alma -
+yanlar
+2. Burs başvurusu yapan öğrenci sayısının 20 000 olması durumunda not ortalaması 90’dan fazla olan öğrencilerin 
+bulunması için tablo temsili yeterli olur mu? Alternatif olarak geliştirilebilecek yöntemlerin neler olduğunu 
+açıklayınız. 
+ 
+3. Öğrencilerin bilgilerini alan burs komitesi, her başvuru için aşağıdaki ölçütleri değerlendirmektedir.
+• Not ortalaması 85’ten büyük olmalıdır. 
+• En az 2 yıl gönüllü etkinliklere katılım olmalıdır. 
+• Bilimsel projede yer almış olmalıdır.
+ Bu koşulların tamamını sağla yan öğrencileri bulan algoritmanın işleyişini algoritmik doğal dille ifade ediniz.
+ 
+ 
+Algoritmik Doğal Dil

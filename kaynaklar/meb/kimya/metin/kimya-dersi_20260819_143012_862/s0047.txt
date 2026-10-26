@@ -1,0 +1,37 @@
+47
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Öğrenciler, kimyasal tepkime denklemlerinin denkleştirilmesini öğreten ve pratik yap -
+ma imkânı sunan bir mobil uygulama geliştirebilir. Geliştirdikleri uygulamada kullanıcıya 
+rastgele tepkime denklemleri sunulabilir ve bu tepkime denkleminin denkleştirme süreci 
+adım adım gösterilebilir. Ayrıca kullanıcının denkleştirme becerilerini geliştirmek amacıyla 
+oyunlaştırılmış ögeler de konabilir.
+Öğrencilerden çevresel izleme, sağlık, güvenlik ve endüstriyel uygulamalar için hassas ve 
+hızlı tepki veren gaz sensörleri geliştirmeleri istenebilir. Öğrenciler; spesifik gaz molekül-
+lerine duyarlı sensörlerin tasarlanmasında karbon nanotüpler, grafen, metal oksitler gibi 
+nanomalzemelerin yüzey alanı ve elektronik özelliklerinden yararlanabilir. Sensörlerin yü-
+zeylerini belirli gaz moleküllerine daha duyarlı hâle getirecek kimyasal gruplarla modifiye 
+edebilir.
+*Öğrenciler çeşitli endüstriyel gazları ayırma, sera gazı emisyonlarını azaltma, hava saf -
+laştırma, tıbbi gaz ayırma ve saflaştırma işlemlerini verimli ve etkili bir şekilde gerçekleş -
+tirebilecek nano filtreler geliştirebilir. Bu amaçla  zeolit, metal-organik çerçeveler (MOF) 
+ve nanoporöz karbon yapılar gibi nanoporöz malzemeler kullanarak belirli boyut ve şekil -
+deki gaz moleküllerini seçici olarak geçirecek filtreler tasarlayabilir. Tıbbi cihazlar yapabilir 
+veya bunları kullanabilir. 
+Öğrenciler, nano ölçekte gaz davranışlarını inceleyerek nanoteknoloji ve malzeme bilimi 
+alanlarında yeni uygulamalar geliştirebilir. Örneğin nano ölçekli gaz sensörleri veya gaz 
+moleküllerini etkin bir şekilde ayıran nano filtreler tasarlayabilir.
+Öğrencilere oksijen tedavisinde kullanılan sistemlerin tasarımı ve çalışma prensipleri in -
+celetilebilir.  Öğrenciler, hastanelerde kullanılan oksijen tüpleri, maske sistemleri ve venti-
+latörler gibi ekipmanların nasıl çalıştığını araştırmaları için yönlendirilebilir. Böylece gazla-
+rın tıbbi alandaki hayati önemini anlayabilir ve bu sistemlerin hastalar üzerindeki etkilerini 
+keşfedebilir. 
+Destekleme Saf maddelerin ölçülebilir özellikleri arasındaki ilişkileri belirlemeye yönelik tümdengelim-
+sel akıl yürütebilme becerisi kullanılırken mol sayısı ile kütle, molekül sayısı ve atom sayısı 
+arasındaki ilişkiyi Avogadro yasasını kullanarak test etme süreci öğretmen rehberliğinde 
+gerçekleştirilebilir. 
+Gazların özellikleri arasındaki ilişkilerin öğrenilmesi sürecinde bilimsel sorgulayabilme be-
+cerisi yerine kanıt kullanma becerisinden yararlanılabilir.  Veri toplama ve kaydetme işlem-
+leri görsel materyaller kullanılarak öğretmen rehberliğinde gerçekleştirilebilir. 
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

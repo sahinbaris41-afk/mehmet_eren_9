@@ -1,0 +1,35 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+112
+Kimya Dersi Örnek Sorular
+Kimya alanı “Bilimsel Çıkarım” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-4. soruları aşağıdaki bilgilere göre cevaplayınız.
+Dalton
+Proust’un kanununa göre bir bileşiği oluşturan elementlerin kütleleri arasında sabit bir oran vardır. 
+Bu durumda element atomları bölünemez. Atom, içi dolu küreler şeklindedir ve maddenin en kü -
+çük parçasıdır ve bir elementin tüm atomları özdeş olmak zorundadır.
+Thomson
+Havası boşaltılmış bir tüpün içinden elektrik akımı geçirildiğinde meydana gelen taneciklerin 
+(elektron) elektriksel ve manyetik alanda saptığı görülmüştür. Bu durum atomun içinde çok daha 
+küçük parçacıkların varlığını göstermektedir. Eğer elektronlar varsa ve atom nötr ise o zaman 
+atom denilen şey aslında içi pozitif yüklü bir yapıdır. Elektronlar da bu yapı içinde eşit olarak dağıl -
+mış durumdadır. Atomun kütlesinin büyük kısmını pozitif yükler oluşturur.
+Rutherford
+Altın bir levhaya alfa parçacıkları (2+ yüklü helyum tanecikleri) gönderildiğinde parçacıkların 
+büyük bir kısmının sapmaya uğramadan levhadan geçtiği gözlemlenmiştir. Ancak çok az bir kısmı 
+geri dönmüş veya sapmaya uğramıştır. Bu durum atomun büyük bir kısmının boşluktan oluştu-
+ğunu göstermiştir. Negatif tanecikler (elektron) bu boşlukta olmalıdır. Atom kütlesinin büyük bir 
+kısmı merkezde yoğun bir bölgede toplanmıştır. Pozitif taneciklerin kütlesi atom kütlesinin yaklaşık 
+yarısına eşittir.
+Bohr
+Negatif tanecikler pozitif taneciklerle nasıl dengede durur? Belli bir süre sonra negatif taneciklerin 
+çekirdeğe düşmesi gerekmez mi? Bu sorulara cevap bulabilmek adına ¹H atomu ile bir deney ya -
+pılır ve hidrojenden çıkan ışınların belli enerji seviyelerinde spektrum çizgisi oluşturulduğu görülür. 
+Bu durumdan şu sonuç çıkarılır: Elektronlar, çekirdeğin etrafında rastgele boşluklarda değil belirli 
+enerji düzeylerinde (yörünge) bulunur.
+1. Bilim insanlarının öne sürdüğü atom teorilile ilgili aşağıdaki ifadelerden hangisi söylenemez? 
+(FBAB8.SB1 )
+A) Dalton atom teorisi dışındaki diğer teorilerde atom altı tanecikler bulunmaktadır.
+B) Thomson atom teorisinde atomun içindeki tanecikler homojen dağılmıştır.
+C) Çekirdek kavramı ilk kez Rutherford atom teorisinde ortaya atılmıştır.
+D) Bohr atom teorisinde yeni keşfedilmiş taneciğe ilişkin bilgiler bulunmaktadır.
+E) Rutherford atom teorisi ile pozitif yüklerin atomdaki konumları tespit edilmiştir.

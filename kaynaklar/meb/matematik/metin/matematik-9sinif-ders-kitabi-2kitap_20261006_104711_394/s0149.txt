@@ -1,0 +1,59 @@
+149
+5. Tema/Ölçme ve Değerlendirme
+10.	Şekil	1’de	verilen	çizge;	A	noktasından	başla-
+narak,	kalem	hiç	kaldırılmadan,	her	ayrıttan	bir	
+kez	geçilip	başlangıç	noktasına	dönülmek	şar-
+tıyla	görselde	numaralandırılmış	ayrıtlar	takip	
+edilerek	kâğıt	üzerine	çizilebilir.
+ 
+ 
+A
+1 2
+3
+45
+6
+Şekil 1
+ Buna göre aşağıdaki soruları cevaplayınız. 
+a) Tabloda verilen her bir çizge için bir baş-
+langıç noktası belirleyiniz ve çizgenin 
+ayrıtlarını numaralandırınız. Belirledi -
+ğiniz başlangıç noktasından kaleminizi 
+hiç kaldırmadan, verdiğiniz numaraları 
+izleyerek ve her ayrıttan bir kez geçip 
+başlangıç noktasına dönmek şartıyla 
+çizgenin çizilebilme durumunu belirti -
+niz. Tabloyu örnekteki gibi doldurunuz.
+ 
+ 
+Çizge Çizilebilir. /  Çizilemez.
+A
+1 2
+3
+45
+6
+Çizilebilir.
+b) Şekil	2’de	verilen	çizgede	başlangıç	nok-
+tası	aynı	kalacak	şekilde	Şekil	1’dekinden	
+farklı	bir	rota	izlenerek,	kalem	hiç	kaldı-
+rılmadan	ve	her	ayrıttan	bir	kez	geçilerek	
+başlangıç	noktasına	dönmek	mümkündür.
+ 
+A
+1
+2 3
+4
+56
+Şekil 2
+ Buna göre aşağıda verilen çizgeleri 
+başlangıç noktası aynı kalacak şekilde, 
+kaleminizi hiç kaldırmadan, farklı bir 
+rota izleyerek ve her ayrıttan bir kez 
+geçip başlangıç noktasına dönmek şar-
+tıyla aşağıdaki çizge alanına çiziniz.
+ 
+ 
+ 
+ 
+Çizge Çizim Alanı
+Tema ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

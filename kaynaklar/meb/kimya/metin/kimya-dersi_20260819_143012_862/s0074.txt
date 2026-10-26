@@ -1,0 +1,53 @@
+74
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.11.2.7 
+Arrhenius ve Brønsted-Lowry asit ve baz teorilerinin varsayımlarına ilişkin özellikleri esas 
+alan sembolik ve alt mikro seviyede gösterimler üzerinden asit-baz tanımlarına ilişkin 
+varsayımları öğrencilerin belirlemeleri sağlanır. Öğrencilerden asitlerin ve bazların sulu 
+çözeltilerdeki davranışlarına ilişkin tepkime denklemleri ve alt mikro seviyedeki göste -
+rimler yardımıyla Arrhenius ve Brønsted-Lowry asit ve baz teorilerinin benzerliklerini ve 
+farklılıklarını listelemeleri istenir (OB4). Brønsted-Lowry asit-baz tanımı kullanılarak eşle-
+nik asit-baz çiftleri açıklanır. Asit ve bazlarda monofonksiyonel ve polifonksiyonel kavram-
+ları açıklanır. Ayrıca ametal oksitlerin asidik özelliği; suda çözünme denklemleri, modeller, 
+deney veya deneysel veriler kullanılarak araştırmacı ve sorgulayıcı bakış açısıyla yorumla-
+nır (D3.3). Öğrencilerden Venn diyagramı üzerinde Arrhenius ve Brønsted-Lowry asit ve 
+baz teorilerinin benzerlik ve farklılıklarını listelemeleri istenebilir. 
+KİM.11.2.8
+Öğrencilere etkinlik kâğıdında asitlerin ve bazların kuvvetlerine ilişkin iyonlaşma yüzde -
+leri, saf suda iyonlaşmasına ait tepkime denklemi gibi veriler verilir. Öğrencilerden bu 
+verileri kullanarak asit-bazların kuvvetlerinin belirlenmesi amacıyla araştırma soruları 
+sebepleri neler olabilir?” gibi sorular sorularak dengeyi etkileyebilecek etkenlere ilişkin 
+olaylara dikkat çekilir. Öğrencilerden verilen etkinlik kâğıdında derişim, hacim, basınç, 
+sıcaklık ve katalizör değişkenlerinin kimyasal dengeye etkisine ilişkin araştırma soruları 
+oluşturmaları istenir. Öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları; bi -
+limsel gelişim için merak duygusunun peşinden gitmeleri gerektiğini fark etmeleri sağlanır 
+(D3.3). Öğrencilerden her bir değişkenin dengeye etkisine ilişkin hipotezler oluşturmaları 
+istenir (OB7). Öğrenciler; derişim hacim, basınç, sıcaklık ve katalizör değişkenlerinin den-
+geye etkisini deneyler yaparak ya da deney videolarını gözlemleyerek araştırmaları için 
+yönlendirilir (OB2, OB4). Böylece öğrencilerin görev ve sorumlulukları yerine getirmeleri 
+için etkili bir yol haritası çizmeleri, hedeflerine ulaşmak için hazırladıkları planı uygulamala-
+rı, doğru ve güvenilir bilgiyi ayırt ederek güvenilir bilgiye ulaşma yollarını öğrenmeleri sağ-
+lanır (D3.2, D3.3). Öğrencilerden derişim, hacim, basınç, sıcaklık ve katalizörün dengeye 
+etkisini araştırmalarından elde ettiği verileri analiz ederek yorumlamaları istenir. Öğren -
+ciler; derişim hacim, basınç, sıcaklık ve katalizör değişkenlerinin dengeye etkisini çarpış -
+ma kuramını kullanarak açıklar (OB7). Le Chatelier ilkesi açıklanır. Öğrencilerden dengeye 
+etki eden faktörleri Le Chatelier ilkesi ile ilişkilendirmeleri istenir (KB2.8). Etkinlik kâğıtları 
+“araştırma sorusu oluşturabilme, hipotez kurabilme, araştırma gerçekleştirebilme, verileri 
+analiz edip yorumlayabilme, sonuçlarını çarpışma kuramına göre açıklayabilme ve Le Cha-
+telier ilkesi ile ilişkilendirebilme” ölçütlerini içeren dereceli puanlama anahtarı ile öğret -
+men veya öğrenci tarafından değerlendirilebilir. Ayrıca öğrencilerden öğrenme sürecini 
+değerlendirmelerine yönelik bir yansıtma notu yazmaları istenebilir (SDB1.2, SDB1.3).
+KİM.11.2.6
+Saf suyun otoiyonizasyonunun tanımı ve otoiyonizasyon tepkime denklemi verilir. Öğren-
+cilerin saf suyun otoiyonizasyonunu gözlemleyebileceği nitelikleri tanımlamaları sağlanır 
+(OB7). Böylece öğrencilerin düşüncelerini etki altında kalmadan ifade etmeleri, olay ve 
+durumları çok yönlü bakış açısıyla değerlendirmeleri, olaylar ve durumlar karşısında fark-
+lı bakış açıları olabileceğini kabul etmeleri sağlanır (E2.1, SDB2.1, SDB2.3, D11.2, D14.1) . 
+Öğrencilerin saf suyun (25 °C) otoiyonizasyonunu alt mikro ve sembolik seviyede gözlem-
+leyebileceği ve pH, iletkenlik gibi veriler toplayabileceği simülasyonlar veya kanıt kartları 
+kullanılır (OB2). pH değerinin H3O+ iyonları derişimi ile bağıntısını içeren matematiksel eşit-
+lik verilir. Öğrencilerden saf suyun pH değerini ve iyonlar çarpımı sabitini (25 °C, K su) kul-
+lanarak sudaki H3O+ ve OH- iyonlarının derişimini hesaplamaları ve saf suyun otoiyonizas -
+yonunu açıklamaları istenir (OB7). pH kavramıyla benzer formüle sahip olan pOH kavramı 
+açıklanır. Öğrencilerden çıkış kartında saf suyun otoiyonizasyonunu alt mikro ve sembolik 
+seviyede açıklamaları istenebilir.

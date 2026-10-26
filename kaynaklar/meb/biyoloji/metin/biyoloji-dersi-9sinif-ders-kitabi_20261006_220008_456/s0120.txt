@@ -1,0 +1,45 @@
+120
+2. Tema
+g) Suyun yarı geçirgen bir zardan difüzyonudur. .........................................
+ğ)  Hüc renin içine su alarak şiştiği çözeltidir. .........................................
+h) Enerji gereksinimi olmayan taşıma çeşitleridir. .........................................
+Yapılandırılmış Grid Puanlama Anahtarı
+Puan = (C1/C2) - (C3/C4)
+C1: Doğru seçilen kutucuk sayısı      C2: Toplam doğru kutucuk sayısı
+C3: Yanlış seçilen kutucuk sayısı      C4: Toplam yanlış kutucuk sayısı
+Difüzyon ve ozmoz süreçlerinde maddelerin özellikle de suyun, derişim far-
+kına bağlı olarak ve enerji harcanmadan hareket ettiği bilinmektedir. Hücre 
+zarının seçici geçirgen yapısı, küçük moleküllerin bu şekilde yer değiştirme-
+sine olanak tanır ve hücre içi dengenin korunmasında önemli rol oynar. Gün-
+lük yaşamda bu süreçlerin etkileri açıkça gözlemlenebilir. Örneğin ortama 
+bırakılan kolonya ya da parfüm kokusunun kısa sürede çevreye yayılması ve 
+sıcak suya bırakılan tek kullanımlık 
+poşet çayın renginin zamanla tüm 
+bardağa dağılması (Görsel 2.24), 
+maddelerin derişimin yüksek ol -
+duğu bölgeden daha düşük oldu -
+ğu bölgeye doğru hareket ettiğini 
+gösterir. Bu tür gözlemler, difüzyon 
+sürecinin somut örnekleri olarak 
+değerlendirilebilir. Salataya tuz dö-
+küldüğünde sebzelerin yüzeyinde 
+tuzlu bir yapı oluşur. Tuz hipertonik bir ortam oluşturur. Bu nedenle su, hi-
+potonik ortamdan (hücre içinden) hipertonik ortama (hücre dışına) doğru 
+ozmoz yoluyla hareket eder. 
+Görsel 2.24
+Poşet çayın demlenmesi  
+Yönerge: Aşağıdaki metinden ve önceki öğrenmelerinizden faydalanarak ve-
+rilen soruları yanıtlayınız.
+Maddelerin bir ortamda kendiliğinden hareket etmesi, günlük yaşamda sıkça 
+gözlemlenen bir durumdur. Parfüm kokusunun odanın her tarafına dağılması 
+gibi örnekler, maddelerin derişim farkına bağlı olarak hareket ettiğini gös-
+termektedir. Bu tür olaylar, difüzyon ve ozmoz süreçlerinin günlük yaşamla 
+ilişkilendirilmesini sağlar.
+• Maddelerin bir ortamda yayılmasının temel sebebi nedir?
+• Parfüm kokusunun odanın her tarafına dağılması hangi süreç ile açıkla-
+nır?
+• Salataya dökülen tuzun sebzeler üzerindeki etkisi nasıl açıklanabilir?
+• Difüzyon ve ozmoz süreçleri arasında nasıl bir ilişki vardır?
+ 2.3. KÜÇÜ K MOLEKÜLLERİN HÜCRE 
+ZARINDAN PASİF GEÇİŞİ
+Konuya Başlarken

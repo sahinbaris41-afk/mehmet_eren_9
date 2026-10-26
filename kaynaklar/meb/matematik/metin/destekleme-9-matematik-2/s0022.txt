@@ -1,0 +1,47 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+21
+1. TEMA: SAYILAR
+3. ETKINLIK ADI ÜSLÜ GÖSTERIMLERE SAYISAL ÖRNEKLER
+ ► Bu etkinlikte, üslü gösterimlerin bazı işlem özelliklerine yer verilmiştir. Adımları sırasıyla uygulayı-
+nız ve verilen işlem özelliklerine yönelik sayısal örneklerle doğrulamalar yapınız.
+1. Adım
+Aşağıdaki tabloda verilen örnekleri inceleyerek boş bırakılan yerleri uygun şekilde doldurunuz.
+Etkinlik Aşaması
+Özellik 1
+Üslü gösterimlerde çarpma işlemi aşağıdaki şekilde ifade edilebilir. Çarpma işleminin özelliğini inceleyiniz 
+ve verilen sayılara yönelik doğrulama işlemini yapınız.
+23 = 8
+22 = 4
+23· 22 = 8 · 4 = 32
+Verilen özellik
+23· 22 = (2 · 2 · 2) · (2 · 2) = 2 · 2 · 2 ·2 · 2 =  23 + 2 = 32
+23· 22 = 8 · 4 = 32
+34 = 
+35 = 
+34· 35 = 
+34· 35 = 
+Özellik 2
+Aşağıdaki işlem özelliğini inceleyiniz ve verilen sayılara yönelik doğrulama işlemi yapınız.
+34 = 81
+24 = 16
+34· 24 = 81 · 16 = 1296
+34· 24 = 3 · 3 · 3 · 3 · 2 · 2 · 2 · 2 
+           = (3 · 2) · (3 · 2) · (3 · 2) · (3 · 2)
+           = (3 · 2)4 
+           = 64
+82 = 
+92 = 
+82 · 92 = 
+82 · 92 = 
+Özellik 3
+Aşağıdaki işlem özelliğini inceleyiniz ve verilen sayılara yönelik doğrulama işlemi yapınız.
+xa · xb = (x · x · ... · x) · (x · x · ... · x) = x · x · ... · x =  xa + b
+a tane b tane (a + b) tane
+ xa · ya = (x · x · ... · x) · (y · y · ... · y) = (x · y)· (x · y) · ... ·  (x · y) =  (x · y)a
+a tane a tane a tane
+         =                        = xa - bxa
+xb
+ (x · x · ... · x)
+ (x · x · ... · x)
+b tane
+a tane

@@ -1,0 +1,74 @@
+1. Tema/Etkileşim
+54
+Bir atomdaki elektronların 
+bulunduğu bölgeler, bu 
+bölgelerin enerjileri ve bu 
+bölgelerdeki elektronların 
+enerjileri hakkında 
+ne düşünüyorsunuz? 
+Düşüncelerinizi 
+arkadaşlarınızla paylaşınız.
+1.2.2.	Atom	Orbitalleri	ve	Elektron	Dizilimi
+Atom	O rbitalleri
+Bohr atom teorisi, tek elektron içeren atom (H) ve iyonlardaki (3Li
+2+
+, 4Be
+3+
+ vb.) 
+elektron davranışlarını açıklayabilir ancak iki veya daha fazla elektrona sahip 
+atomlarda elektron davranışlarını tam olarak açıklayamaz. Bu tür atomların 
+tanımlanması için atom orbitallerinin doğasını, bağıl enerjilerini ve elektronla-
+rın mevcut orbitalleri nasıl doldurduğunu dikkate almak gerekir.
+Atomda elektronların bulunma olasılığının yüksek olduğu bölgelere orbital 
+denir. Atom orbitalleri, belirli temel enerji seviyelerinde yer alır. Bu temel enerji 
+seviyeleri kendi içinde alt enerji seviyelerine ayrılır. Birinci temel enerji seviye-
+sinde bir, ikinci temel enerji seviyesinde iki, üçüncü temel enerji seviyesinde 
+ise üç alt enerji seviyesi bulunur ve bu şekilde devam eder (Görsel 1.16). 
+Atom orbitalleri genellikle s, p, d ve f olmak üzere dört çeşittir. Bir atom orbitali 
+gösterilirken önce orbitalin bulunduğu enerji seviyesi (n), sonra orbitalin türü 
+yazılır. Örneğin hidrojen atomunda birinci enerji seviyesinde bulunan ve türü 
+s olan orbital, kısaca 1s şeklinde ifade edilir. 
+s Orbitalleri
+s orbitalleri küre şeklindedir, tüm enerji seviyelerinde bulunur ve simetriktir. 
+s orbitallerinde elektron bulunma olasılığı açısal koordinatlara bağlı değildir. 
+p Orbitalleri
+İkinci enerji seviyesinden başlayan p orbitallerinde elektronların bulunma ola-
+sılığı açısal koordinatlara bağlıdır. Açısal koordinatlara göre x, y ve z ekseni 
+üzerinde üç tane özdeş p orbitali vardır. Bu orbitaller bulundukları eksenin 
+adlarıyla (px, py ve pz) ifade edilir. Aynı enerji seviyesinde bulunan p orbitalleri 
+eş enerjilidir. 
+d Orbitalleri
+Üçüncü enerji seviyesinden başlayan d orbitallerinde elektronun bulunma 
+olasılığı açısal koordinatlara bağlıdır. d orbitalleri farklı yönelimlere sahip beş 
+özdeş orbitalden oluşur ve bunlar dxy, dxz, dyz,  ve  şeklinde adlandırılır. 
+Aynı enerji seviyesindeki d orbitallerinin enerjileri birbirine eşittir. 
+f Orbitalleri  
+Dördüncü enerji seviyesinden başlayan f orbitallerinde elektronun bulunma 
+olasılığı açısal koordinatlara bağlıdır. f orbitalleri farklı yönelimlere sahip yedi 
+özdeş orbitalden oluşur. Aynı enerji seviyesindeki f or-
+bitallerinin enerjileri birbirine eşittir.
+Atomdaki enerji seviyeleri bir amfi tiyatrodaki koltuk 
+sıralarına benzetilebilir (Görsel 1.17). Sahneden uzak -
+laştıkça daha yüksek ve uzak sıralarda daha fazla kol-
+tuk vardır. Bu durum, bir atomdaki enerji seviyeleri ve 
+bu enerji seviyelerindeki orbital sayısının artışı ile ilişki-
+lendirilebilir. Enerji seviyelerinin çekirdeğe olan uzaklığı 
+arttıkça enerji seviyelerinde bulunan orbital sayısı artar.
+4f 4p
+3p
+2p
+4d
+3d
+4s
+3s
+2s
+1s
+Görsel 1.16
+Atomdaki temel enerji ve 
+alt enerji seviyeleri 
+Görsel 1.17
+Atomdaki enerji seviyeleri
+n=4
+n=3
+n=2
+n=1

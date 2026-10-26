@@ -1,0 +1,25 @@
+121
+5. Tema/Algoritma ve Bilişim  
+3. Sıra Sizde      
+D EÇ
+CA B
+ Bir	veri	merkezindeki	üç	farklı	sunucu	(A,	B,	C)	ve	üç	farklı	veri	deposu	
+(Ç,	D,	E)	ile	A	ve	Ç	arasındaki	ilişkiyi	gösteren	çizge	şekilde	gösterilmiş-
+tir.	Her	bir	sunucu,	her	bir	veri	deposundan	yüksek	hızda	ve	güvenilir	
+şekilde	veri	alışverişi	yapabilmelidir.	
+Buna göre veri merkezinin tasarım kuralları gereği sunucular ve 
+depolar arasında çapraz (kesişme) bağlantı olmadan en iyi veri akı-
+şını sağlayacak çizgeyi oluşturunuz.
+Çizge Çizim Alanı
+6. Toplam mesafeyi en aza indiren rotanızı arkadaşlarınızın rotaları ile karşılaştırıp en iyi rotayı belirleyiniz. 
+7. Çöp deposu sayısı artarsa elde ettiğiniz algoritmanın performansının nasıl etkileneceğini açıklayınız.
+ 
+8. Çöp deposu sayısı artarsa algoritmanın performansını artırmak için hangi stratejileri önerirsiniz? Alternatif 
+algoritma yaklaşımları neler olabilir?
+ 
+9. Bu problemin çözümünde kullanılan tablo ve çizgeden hangis inin daha verimli olduğunu açıklayınız.
+ 
+10. Bu problemin benzerlik göst erdiği gerçek yaşam durumlarını açıklayınız.
+ 
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.

@@ -1,0 +1,29 @@
+22
+4. Tema / Eşlik ve Benzerlik
+10. Tablo 4’ten hareketle bir şekil ve şeklin dönüşüm altındaki görüntüsünün kenar uzunlukları veya açı ölçüleri 
+eşit ise şekle uygulanan dönüşümün yansıma mı yoksa öteleme mi olduğunun anlaşılıp anlaşılamayacağına 
+dair fikirlerinizi yazınız.
+11. Şekil üzerindeki tüm noktalar ile bu noktaların görüntüleri arasındaki uzaklık eşit ise şekle hangi dönüşümün 
+uygulandığına karar verilip verilemeyeceğine dair fikirlerinizi yazınız.
+12. Bir şekle yansıma ve öteleme dönüşümlerinden hangisinin uygulandığının nasıl tespit edilebileceğine ilişkin 
+fikirlerinizi açıklayınız. Fikirlerinizi sınıf arkadaşlarınızla tartışınız.
+Kontrol Noktası
+• Öteleme dönüşümü; düzlemdeki tüm noktaları belirli bir doğrultu, uzaklık ve yönde bulunan tüm noktalara 
+dönüştüren bir dönüşümdür.
+• Bir şekle öteleme dönüşümü uygulandığında şeklin düzlemdeki yeri değişir.
+• Şekil üzerindeki tüm noktalar öteleme dönüşümü altındaki görüntüleri olan noktalara eşit uzaklıktadır. Bu 
+nedenle şeklin yönü değişmez.
+• Bir şeklin öteleme dönüşümü altındaki görüntüsü ile şekil eştir.
+• Öteleme dönüşümünün bileşenleri; dönüşümün uygulandığı belirli doğrultu, yön ve uzaklıktır.
+Yansıma ve Öteleme Dönüşümleri Arasındaki İlişki
+Aşağıdaki yönergeleri takip ederek soruları cevaplayınız.
+Aşağıdaki birim kareli zeminde CDEF bölgesi ile birbirine paralel d1 ve d2 doğruları verilmiştir. 
+1. CDEF bölgesinin d1 doğrusuna göre yansıma dönüşümü altındaki görüntüsü C'D'E'F' ve C'D'E'F' bölgesinin 
+ d2 doğrusuna göre yansıma dönüşümü altındaki görüntüsü C''D''E''F'' olmak üzere C'D'E'F' ve C''D''E''F'' böl-
+gelerini yukarıda verilen birim kareli zemin üzerinde oluşturunuz.
+D
+C
+F
+E
+d1 d2
+3. Uygulama

@@ -1,0 +1,47 @@
+128
+2. Tema /  Nicelikler ve Değişimler
+Gerçek Sayılarda f(x)=±|ax + b|±c Şeklinde Tanımlı 
+Mutlak Değer Fonksiyonlarının Grafikleri
+	9.	Uygulama
+Gerçek Sayılarda fx ax bc a0= !! !+_ _i i  Şeklinde Tanımlı Mutlak Değer Fonksiyonlarının Nitel 
+Özellikleri 
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız. 
+1.  a, b, c ! R+ olmak üzere gerçek sayılarda f(x) = ax + b, g(x) = | ax + b | + c ve h(x) = | ax + b | - c  şeklinde 
+tanımlı fonksiyonların grafik temsilleri verilmiştir (Grafik 1, Grafik 2 ve Grafik 3).
+ 
+ 
+Grafik 1 Grafik 2 Grafik 3
+O x
+y
+f(x) = ax + b
+b
+a b
+O x
+y
+g(x) = |ax + b| + c
+b
+a
+c
+b+c
+O x
+y h(x) = |ax + b| - c
+b
+a
+c
+b-c
+a)  f, g ve h fonksiyonlarının cebirsel ve grafik gösterimlerini inceleyiniz. f ile g, f ile h fonksiyonları arasında -
+ki benzerlikleri veya farklılıkları gözlemleyiniz.
+b)  Gözlemlerinizden yola çıkarak f , g ve h fonksiyonlarının nitel özelliklerini tespit ediniz. Tablo 1ʼi doldurunuz.
+ T ablo 1 
+ 
+Fonksiyonun Nitel Özellikleri f(x) = ax + b g(x) = | ax + b | + c h(x) = | ax + b | - c
+En Geniş Tanım Kümesi 
+Görüntü Kümesi
+Fonksiyonun Sıfırı
+Fonksiyonun İşareti
+Maksimum Noktası
+Minimum Noktası
+Bire Birliği
+Artan veya Azalan Olduğu Aralıklar
+c)  Elde ettiğiniz nitel özelliklerden yararlanarak g ve h mutlak değer fonksiyonlarının parçalı gösterimine dair 
+çıkarımlarınızı açıklayınız.

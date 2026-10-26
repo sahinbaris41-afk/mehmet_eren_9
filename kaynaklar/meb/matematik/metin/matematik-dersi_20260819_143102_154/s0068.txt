@@ -1,0 +1,44 @@
+68
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.9.5.1.  Algoritma temelli yaklaşımlarla problem çözebilme
+a) Algoritmik yaklaşımla ele alınabilecek bir problemdeki işlem ve süreçlere yönelik bi-
+leşenleri belirler.
+b) Problem durumlarında temsillerle (liste, tablo, çizge, akış şeması, algoritmik doğal 
+dil, sözde kod gibi) matematiksel yapılar arasındaki ilişkileri belirler.
+c) Problem durumlarındaki sözel, görsel veya cebirsel ifadeleri algoritmik dile dönüş -
+türür.
+ç) Karşılaşılan problem durumlarında geçen algoritmik dili; sözel, görsel veya cebirsel 
+olarak açıklar.
+d) Karşılaşılan problem durumlarında algoritma temelli bir çözüm stratejisi oluşturur.
+e) Karşılaşılan problem durumlarında seçtiği algoritma temelli çözüm stratejisini kul-
+lanır.
+f) Karşılaşılan problem durumlarında seçtiği algoritma temelli çözüm stratejisini kont-
+rol eder.
+g) Algoritma temelli çözülebilen problemlerin  olası çözüm stratejilerini gözden geçirir.
+ğ) Algoritma temelli çözülebilen problemlerde çözüme ulaştıran stratejilere yönelik çı-
+karımlar yapar.
+h) Algoritma temelli çözülebilen problemlerde çözüme ulaştıran stratejilere yönelik çı-
+karımları değerlendirir.
+MAT.9.5.2. Algoritmik yapılar içerisindeki mantık bağlaçlarını ve niceleyicileri çözümleye -
+bilme
+a)  Algoritmik yapılar içerisinde kullanılan mantık bağlaçlarını ve niceleyicileri belirler.
+b) Algoritmik yapılar ile mantık bağlaçları ve niceleyiciler arasındaki ilişkileri belirler.
+MAT.9.5.3. Mantık bağlaçları ve niceleyicilerin algoritmalarda kullanımına yönelik edindiği 
+deneyimi farklı matematiksel görev ve problemlere yansıtabilme
+a) Karşılaştığı algoritmalardaki mantık bağlaçları ve niceleyicilerin kullanımını gözden 
+geçirir.
+b) Matematiksel problem çözme, doğrulama ve ispat süreçlerinde mantık bağlaçları ve 
+niceleyicilerin kullanımına yönelik çıkarımlar yapar.
+c) Mantık bağlaçları ve niceleyicilerin matematiksel dil ve sembolizmin yalınlık ve kesin-
+liğindeki rolünü değerlendirir.
+İÇERİK ÇERÇEVESİ • Algoritma Temelli Problemler 
+• Mantık Bağlaçları ve Niceleyiciler 
+• Mantık Bağlaçları ve Niceleyicilerin Algoritmik Problemlerde Kullanımı
+Genellemeler • Çizge ve diyagramlar, etkin problem çözme araçlarıdır. 
+• Şifrelemede ve şifre çözmede algoritmalar kullanılır.
+• Mantık bağlaçları ve niceleyiciler, algoritmaların temel ögelerindendir.
+• Matematiksel doğrulama ve ispat süreçleri, algoritmik bir yaklaşımla gerçekleştirile-
+bilir.
+Anahtar Kavramlar akış şeması, algoritma, çizge, mantık bağlaçları, niceleyiciler, sözde kod, şifreleme
+Sembol ve Gösterimler ∧, ∨, ∨, ⇒, ∀, ∃

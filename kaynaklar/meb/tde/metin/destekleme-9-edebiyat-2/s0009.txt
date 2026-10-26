@@ -1,0 +1,12 @@
+8 9
+Kitabın Tanıtımı
+Tema adı
+Kitap temalardan oluşmaktadır. Her tema başında tema kapak
+sayfası yer almaktadır. Tema kapaklarında o temanın adı ve
+numarası bulunmaktadır.
+Tema numarası
+Uygulama sonunda öğrencinin hangi beceriyi kazanacağını gösterir.
+Uygulama için kullanılacak araç gereç ve materyalleri gösterir.
+Programın destekleme bölümünde verilen uygulamanın kapsamını gösterir.
+Uygulamanın grupça ya da bireysel yapıldığını gösterir.
+Etkinliklerin adım adım uygulanacak şekilde bölümlere ayrıldığını gösterir.

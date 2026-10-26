@@ -1,0 +1,39 @@
+188
+3. ÜNİTE 
+15. Akışkanların sürati ile basıncı arasındaki ilişkiyi genelleyen Bernoulli İlkesi’ni yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Değerlendirme 
+İskender öğretmen, öğrencilerinden görseldeki düzeneği kurma ­
+larını istiyor. Bunun için gerekli araç gereci (iki adet kâğıt, ip, bağ­
+lantı çubuğu, bağlantı parçası ve üçayak) öğrencilere veriyor.
+Öğrenciler, iş birliği içinde kâğıtları alıyor. Kâğıtların uç noktala ­
+rına delik açarak deliklerden ipleri geçiriyor. Aralarında 5 ­10 cm 
+uzaklık olacak şekilde kâğıtları karşılıklı bağlıyor. Öğrenciler, 
+kâğıtların arasına üflediklerinde kâğıtların birbirine yaklaştığını 
+gözlemliyorlar.
+Buna göre
+a) Arasına üflendiğinde kâğıtların birbirine yaklaşmasını akışkanların sürati ile basıncı arasındaki 
+ilişkiye dayanarak açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+b) Günlük hayattan akışkanın sürati ile basıncı arasındaki ilişkiyi anlatan üç örnek veriniz. 
+Örneklerinizi aşağıdaki tabloya yazınız.
+Örnekler
+1.  Hareket eden arabanın camı aralandığında içeride bir hava akımı oluşur. 
+2.
+3.
+  
+Akışkanlar Mekaniğinde Akış Sürati 
+ile Basınç Arasındaki İlişki
+Bir mum yanarken etrafındaki havanın sıcaklığı artar ve bu sıcak hava yukarı 
+doğru belirli bir süratle yükselir. Mumun üzerinde yükselen duman, başlan -
+gıçta düzenli ve düzgün katmanlar (laminer akış) hâlinde bir akış gösterir. 
+Duman, yukarıya doğru yükseldikçe ve hava akımlarıyla karşılaştıkça düzen-
+siz ve karışık bir şekilde (türbülanslı akış) hareket eder ve iç içe geçmiş akış 
+desenleri oluşturur (Görsel 3.27). Hava akımları, dumanın süratini artırabilir 
+veya yönünü değiştirebilir. Bu olay, havadaki basınç farkından kaynaklanır.
+Akışkanlar, hareket hâlindeyken akışın süratine bağlı olarak farklı bir basınç 
+dağılımı oluşturur. Akışkanın süratinin arttığı bölgelerde basınç azalırken süra-
+tinin azaldığı bölgelerde basınç artabilir.
+Görsel 3.27: Mumun üze-
+rinde yükselen dumanın 
+akışı

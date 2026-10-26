@@ -1,0 +1,35 @@
+111
+2. Tema /  Nicelikler ve Değişimler
+Yakıt	Tasarrufu
+Bu görevde sizden üç farklı otomobil markasına ait birer araç belirlemeniz, araçların şehir içinde 
+harcadığı ortalama yakıt miktarlarını bularak tablo ile ifade etmeniz, elde ettiğiniz verilerden ya -
+rarlanarak bu üç aracın yolculuğa dolu bir depo ile başlayıp sabit hızla hareket ettikleri varsayıldı -
+ğında aldıkları mesafeye (km) bağlı depolarında kalan yakıt miktarlarını (l) gösteren fonksiyonların 
+cebirsel ifadesini yazmanız, cebirsel ifadesini yazdığınız fonksiyonların grafiklerini çizmeniz, elde 
+ettiğiniz tablo ve grafikleri sınıfta sunarak hangi aracın şehir içinde daha ekonomik olduğunu açık -
+lamanız istenmektedir.
+Göreve	başlamadan	önce	aşağıdaki	hususa	dikkat	ediniz.
+• Çalışmanın yapılış basamaklarını belirleyiniz.
+Görev	esnasında	aşağıdaki	hususlara	dikkat	ediniz.
+•  Belirlediğiniz araç markalarının şehir içi yakıt tüketim miktarlarını not ediniz.
+• Belirlediğiniz araçların aldıkları mesafeye (km) bağlı depolarında kalan yakıt miktarlarını litre cin-
+sinden ifade ediniz.
+•  Belirlediğiniz araçların aldıkları mesafeye (km) bağlı depolarında kalan yakıt miktarını (l) gös-
+teren tabloyu oluşturunuz.
+•  Araçların aldıkları mesafeye bağlı (km) depolarında kalan yakıt miktarını (l) gösteren fonksi -
+yonların cebirsel ifadelerini yazınız.
+• Cebirsel olarak ifade ettiğiniz fonksiyonların grafiklerini aynı dik koordinat sisteminde f(x) = x 
+şeklinde tanımlı f doğrusal referans fonksiyonuna dönüşümler uygulayarak çiziniz.
+• f doğrusal referans fonksiyonuna uyguladığınız her dönüşümden sonra cebirsel ifadesinde 
+nasıl bir değişim olduğunu açıklayınız. Araçların aldıkları mesafeye (km) bağlı depolarında 
+kalan yakıt miktarını (I) gösteren cebirsel temsil veya grafik temsillerine göre hangi aracın 
+daha ekonomik olduğunu söyleyebilirsiniz? Açıklayınız.
+• Yakıt tüketimi açısından ekonomik olan araçları tercih etmenin faydaları neler olabilir? Sınıfta 
+arkadaşlarınızla tartışınız.
+Görev	bitiminde	aşağıdaki	hususa	dikkat	ediniz.
+• Sınıf içinde oluşturduğunuz tablo ve grafikleri arkadaşlarınıza sunarak paylaşınız.
+Performans göreviniz analitik dereceli puanlama anahtarı ile öğretmeniniz tarafından değerlendi-
+rilecektir.
+Analitik dereceli puanlama anahtarına 
+ulaşmak için karekodu okutunuz.
+														 Performans 	Görevi

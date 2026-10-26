@@ -1,0 +1,102 @@
+123
+5. Tema/Algoritma ve Bilişim  
+Siber Güvenlik Sistemlerinde ASCII Karakter Kümesi
+Aşağıda verilenlere göre soruları cevaplayınız.
+Karakter ASCII Karakter ASCII
+@ 64 ` 96
+A 65 a 97
+B 66 b 98
+C 67 c 99
+D 68 d 100
+E 69 e 101
+F 70 F 102
+G 71 g 103
+H 72 h 104
+I 73 i 105
+J 74 j 106
+K 75 k 107
+L 76 l 108
+M 77 m 109
+N 78 n 110
+O 79 o 111
+P 80 p 112
+Q 81 q 113
+R 82 r 114
+S 83 s 115
+T 84 t 116
+U 85 u 117
+V 86 v 118
+W 87 w 119
+X 88 x 120
+Y 89 y 121
+Z 90 z 122
+[ 91 { 123
+\ 92 | 124
+] 93 } 125
+^ 94 ~ 126
+_ 95
+Siber güvenlik sistemlerinde şifreler, dijital mahremiyet ve 
+veri güvenliği açısından verileri korumanın temel araçlarından 
+biridir. Örneğin sosyal ağ hesabınıza giriş yapmak için belirle-
+diğiniz şifre;  ‟Amerikan Bilgi Değişimi İçin Standart Kodˮ 
+ifadesinin İngilizce karşılığının baş harflerinden elde edilen 
+ASCII karakter kümesinden seçilen harfler, sayılar ve sembol-
+lerden oluşur. ASCII karakter kümesi, bir kodlama sistemine 
+dayanır. Yanda verilen ASCII karakter kümesindeki her bir ka-
+rakter, belirli bir sayısal değerle temsil edilir.
+Bilgisayar donanımının elektrik sinyallerini iki durum (açık 
+veya kapalı) kullanarak kolayca temsil edebilmesi tercih edilir. 
+Bilgisayarlar, temelde kendilerine has bir sistem kullanarak ça-
+lışır. Bilgisayarlarda tüm veriler (harfler, sayılar, resimler gibi) 
+0’lar ve 1’ler olarak saklanır ve işlenir. Gerçek siber güvenlik 
+sistemlerinde parolalar, bilgisayarda doğrudan ASCII veya iki-
+lik (binary) halleriyle saklanmaz. Bunun yerine, parolalar özel 
+matematiksel işlemlerden (örneğin SHA-256 gibi algoritma -
+lar) geçirilerek dönüştürülür ve sadece bu dönüştürülmüş hâli, 
+yani özeti sistemde saklanır.  
+Örneğin A harfinin ASCII karşılığı 65’tir. Onluk sistemdeki 
+65 sayısını bilgisayar, 1000001 olarak saklar ve işler. Aşağıda 
+65 sayısının 1000001 sayısına dönüştürülme işlemi verilmiştir. 
+-
+-
+-
+-
+-
+-
+65
+641000001
+1
+0
+0
+0
+0
+0
+2
+2
+2
+2
+2
+2
+32
+32 16
+16 8
+8 4
+4 2
+2 1
+ 
+Örneğin Ali’nin belirlediği şifre AL\Tz olsun. Bu şifrenin bilgi-
+sayar sisteminde saklanması için aşağıdaki adımlar uygulanır.
+1. adım: ASCII karakter kümesi yardımıyla her karakter ken-
+disine karşılık gelen ASCII karakterine dönüştürülür. 
+A  L  \  T   z  
+65 76 92 84 122
+Bu durumda AL\Tz şifresinin ASCII karşılığı 65 76 92 84 122 
+olur.
+2. adım: 65 76 92 84 122 değerlerinin bilgisayar sistemindeki 
+karşılıkları bulunur. 
+A L \ T z
+65 76 92 84 122
+1000001 1001100 1011100 1010100 1111010
+AL\Tz şifresinin bilgisayar sistemindeki karşılıkları 
+1000001 1001100 1011100 1010100 1111010 şeklindedir.
+7. Uygulama

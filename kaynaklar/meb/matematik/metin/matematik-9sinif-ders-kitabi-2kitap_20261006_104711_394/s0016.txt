@@ -1,0 +1,40 @@
+16
+4. Tema / Eşlik ve Benzerlik
+c) Ölçüm bölümünden sırasıyla Uzaklık veya Uzunluk, Açı, Alan araçlarını seçerek oluşturduğunuz çokge-
+nin ve yansıma dönüşümü altındaki görüntüsünün kenar uzunluklarını, açı ölçülerini, alanlarını belirleyiniz.
+ç) Araçlar bölümünden Doğru Parçası aracını seçerek oluşturduğunuz çokgenin köşe noktalarını ve bu nok-
+taların yansıma dönüşümü altındaki görüntüsünü oluşturan noktaları birleştiriniz.
+d) Ölçüm bölümünden Uzaklık veya Uzunluk aracını seçerek ç adımında oluşturduğunuz doğru parçalarının 
+uzunluklarını ve çokgenin köşe noktalarının yansıma doğrusuna uzaklıklarını belirleyiniz.
+e) Şeklin köşe noktaları için d adımında yaptığınız ölçümleri şekil üzerindeki farklı noktalar için de yapınız.
+f) Oluşturduğunuz çokgeni sürükleyerek ve çokgenin köşe noktalarını hareket ettirerek c ve d adımlarında 
+yaptığınız ölçümlerin değişimini gözlemleyiniz.
+6. Farklı şekiller ve bu şekillerin bir doğruya göre yansıma dönüşümü altındaki görüntülerini de matematik yazı-
+lımında oluşturarak incelemeler yapınız. Yaptığınız incelemelerden hareketle genellemelerinizin her birini bir 
+önerme olarak örnekteki gibi yazınız.  
+Yansıma dönüşümü, noktalar arası uzaklıkları korur.
+7. Önermelerinizi değerlendirerek bir şekle ait geometrik özelliklerden hangilerinin yansıma dönüşümünün ko-
+ruduğu özellikler arasında yer aldığını yazınız. Bir şekil ile bu şeklin bir doğruya göre yansıma dönüşümü 
+altındaki görüntüsünün eş olup olmadığına ilişkin fikirlerinizi yazarak sınıf arkadaşlarınızla paylaşınız.
+1. ÖRNEK
+Yandaki	birim	kareli	zeminde	ABC	üçgensel	bölgesi	ve	d	doğ-
+rusu	verilmiştir.	Doğru,	üçgenin	kenarlarını	K	ve	M	noktaların-
+da	kesmektedir.	
+Buna	göre	aşağıdaki	soruları	cevaplayınız.	
+a) ABC	üçgensel	bölgesinin	d	doğrusuna	göre	yansıma	dönü-
+şümü	altındaki	görüntüsünü	oluşturunuz.
+b) Şekil	üzerindeki	noktaların	d	doğrusuna	göre	yansıma	dönü-
+şümü	altındaki	görüntülerinin	ABC	üçgeninin	hangi	bölgesin-
+de	olduğunu	ve	bu	durumun	nedenini	açıklayınız.
+c)	 K	ve	M	noktalarının	d	doğrusuna	göre	yansıma	dönüşümü	altındaki	görüntülerini	belirleyiniz.	K	ve	M	
+noktaları	ile	bu	noktaların	görüntüleri	arasındaki	ilişkiyi	açıklayınız.
+B
+C
+K
+M
+A d
+Yansıma	dönüşümü,	düzlemdeki	tüm	noktaları	düzlemdeki	tüm	noktalara	dönüştüren	ve	noktalar	arası	
+uzaklığı	koruyan	bir	dönüşümdür.	Bir	şekle	bir	doğruya	göre	yansıma	dönüşümü	uygulandığında	bu	
+doğru,	yansıma doğrusu olarak	adlandırılır.	Şekil	üzerindeki	bir	noktanın	ve	görüntüsünün	yansıma	
+doğrusuna	uzaklığı	eşittir.	Bir	şekil	ile	şeklin	bir	doğruya	göre	yansıma	dönüşümü	altındaki	görüntüsü	
+eştir.

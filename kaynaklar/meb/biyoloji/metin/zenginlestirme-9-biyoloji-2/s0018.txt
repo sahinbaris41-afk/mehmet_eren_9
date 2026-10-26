@@ -1,0 +1,51 @@
+18 19
+BİYOLOJİ 9 
+TEMA 1: YAŞAM TEMA 1: YAŞAM
+BİYOLOJİ 9
+DERECELİ PUANLAMA ANAHTARI
+Puan Özellikler
+Mükemmel 
+(5)
+• Konu derinlemesine ve eksiksiz ele alınmış, tüm önemli noktalar ve kavramlar açık-
+lanmıştır.
+• Derinlemesine analiz ve yorumlar yapılmıştır, fikirler mantıklıdır ve iyi desteklenmiş-
+tir.
+• Derinlemesine yansıtma ve kişisel bağlantılar kurulmuş, öğrenci kendi öğrenme 
+sürecini ve gelişimini açıkça ifade etmiştir.
+• Rapor, mükemmel bir şekilde düzenlenmiş ve sunulmuş, tüm bölümler net ve düzen-
+lidir.
+• Dil kullanımı ve yazım mükemmeldir, hiç hata yoktur.
+İyi
+(4)
+• Konu iyi bir şekilde ele alınmış, çoğu önemli noktalar ve kavramlar açıklanmıştır.
+• Analiz ve yorumlar iyi yapılmış, fikirler genellikle mantıklıdır ve desteklenmiştir.
+• Yansıtma ve kişisel bağlantılar iyi kurulmuş, öğrenci kendi öğrenme sürecini gelişimi-
+ni ifade etmiştir.
+• Rapor, iyi düzenlenmiş ve sunulmuş; çoğu bölüm net ve düzenlidir.
+• Dil kullanımı ve yazım yeterlidir, bazı hatalar vardır.
+Geliştirilebilir 
+(3)
+• Konu yeterli düzeyde ele alınmış, bazı önemli noktalar ve kavramlar eksiktir.
+• Analiz ve yorumlar orta düzeyde yapılmış, bazı fikirler mantıklı ve desteklenmiştir.
+• Yansıtma ve kişisel bağlantılar orta düzeyde kurulmuş, öğrenci kendi öğrenme süre-
+cini ve gelişimini kısmen ifade etmiştir.
+• Rapor, yeterli düzeyde düzenlenmiş ve sunulmuş; bazı bölümler net ve düzenlidir.
+• Dil kullanımı ve yazım yeterlidir, bazı hatalar vardır.
+Zayıf
+(2)
+• Konu yüzeysel bir şekilde ele alınmış, birçok önemli nokta ve kavram eksiktir.
+• Analiz ve yorumlar yüzeysel yapılmış, birçok fikir mantıksızdır veya desteklenmemiş-
+tir.
+• Yansıtma ve kişisel bağlantılar yüzeysel kurulmuş, öğrenci kendi öğrenme sürecini 
+ve gelişimini yeterince ifade edememiştir.
+• Rapor, düzensiz ve yeterince sunulmamış; birçok bölüm karışık ve düzensizdir.
+• Dil kullanımı ve yazım yetersizdir, birçok hata vardır.
+Yetersiz
+(1)
+• Konu çok yetersiz ele alınmış, neredeyse tüm önemli noktalar ve kavramlar eksiktir.
+• Analiz ve yorum çok az yapılmış veya hiç yapılmamış, fikirler mantıksızdır ve destek-
+lenmemiştir.
+• Yansıtma ve kişisel bağlantılar çok az kurulmuş veya hiç kurulmamıştır.
+• Rapor, düzensiz ve yeterince sunulmamış; birçok bölüm karışık ve düzensizdir.
+• Dil kullanımı ve yazım yetersizdir, birçok hata vardır.
+ Etkinlik “Dereceli Puanlama Anahtarı” ile öğretmen tarafından değerlendirilecektir.

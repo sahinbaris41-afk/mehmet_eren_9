@@ -1,0 +1,33 @@
+48
+1. Tema /  Sayılar
+16. ÖRNEK
+Ali Bey, evindeki çamaşır makinesini ve buzdolabını yenilemek istemektedir. Alacağı ürünlerin evinde 
+istediği yerlere yerleşmesi için  piyasada satılan çamaşır makinesi ve buzdolaplarının boyutlarını araş -
+tırmıştır. Yaptığı araştırma sonucunda Ali Bey’in buzdolabı ve çamaşır makinesinin yüksekliklerinin 
+(cm) değer aralıklarına ilişkin ulaştığı veriler, aşağıdaki görselde ifade edilmiştir.
+95 cm
+Çamaşır Makinesi Buzdolabı
+100 cm
+186 cm
+90 cm
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  Çamaşır makinesi ve buzdolabının yüksekliklerinin değer aralıklarını sayı doğrusu üzerinde, aralık 
+şeklinde ve cebirsel olarak gösteriniz.
+b)  Çamaşır makinesinin yüksekliğinin değer aralığındaki gerçek sayılar kümesi A, buzdolabının yüksek -
+liğinin değer aralığındaki gerçek sayılar kümesi B olmak üzere ,AB+  ,AB,  BA=  ve Al kümele-
+rini cebirsel olarak gösteriniz.
+Çözüm 
+a)  Görsel incelendiğinde çamaşır makinesinin yükseklik değerlerinin ,00 0917A  nda ve buzdolabının 
+yükseklik değerlerinin ,195 867A  nda değiştiği görülmektedir. Bu aralıklar,  sayı doğrusunda aşağıdaki 
+gibi gösterilir.
+95 186
+B
+90 100
+A
+ x R!  olmak üzere ,00 0917A  nın cebirsel temsili x0 090 1##  ve , 95 1867A  nın cebirsel temsili 
+x 95 186##  biçimindedir.
+b)  x R!  olmak üzere
+ AB+  kümesinin cebirsel temsili ,x0 095 1##
+ AB,  kümesinin cebirsel temsili , x 90 186##
+ BA=  kümesinin cebirsel temsili , x 00 1 1861 #
+ Al kümesinin cebirsel temsili xv ex 0090 112  biçimindedir.

@@ -1,0 +1,142 @@
+242
+3. Ünite
+Değerlendirelim
+Analitik Dereceli Puanlama Anahtarı 
+Bu form, öğrenci grubunun Orta Çağ’daki Başlıca Medeniyet Havzalarının Bilim, Kültür ve Sanata Etkisine yönelik hazırladıkları 
+araştırma raporu ve sunumlarını içeren performans görevini değerlendirmeniz amacıyla hazırlanmıştır. Grubun belirtilen 
+ölçütleri öğrenme durumunu en doğru yansıtan başarı düzeyini puanlayınız.
+Öğrencinin Adı ve Soyadı:                                                                                        Numarası:                             Sınıfı:
+Ölçütler
+Başarı Düzeyi
+Başarı Puanı1
+(Geliştirilmeli)
+2
+(Kabul Edilebilir)
+3
+(Oldukça İyi)
+Çalışma Planı 
+Hazırlama
+(%5)
+Çalışma planı hazırlan-
+mamış veya araştırma 
+süreciyle uyumlu değildir.
+Araştırma süreci için genel 
+bir çalışma planı hazırlan-
+mıştır. Plan, süreç bileşen-
+lerini kapsıyor ancak bazı 
+detaylar eksik veya zaman 
+çizelgesi iyileştirilebilir.
+Araştırma süreci için detaylı 
+ve uygulanabilir bir çalışma 
+planı hazırlanmıştır. Plan, tüm 
+süreç bileşenlerini kapsıyor. 
+Zaman çizelgesi uygulanabilir 
+ve gerçekçidir.
+Bilgi Toplama 
+(%30)
+Konuyla ilgili sınırlı sayıda 
+kaynaktan yararlanılmış, 
+kaynakların güvenilirliği 
+ve uygunluğu yeterince 
+sorgulanmamıştır.
+Konuyla ilgili çeşitli kaynak-
+lar kullanılmış ancak kay-
+nakların seçimi ve kullanımı 
+geliştirebilir. Kaynakların 
+çeşitliliği ve güvenilirliği 
+konusunda daha fazla özen 
+gösterilebilir.
+Konuyla ilgili özgün ve farklı 
+kaynaklar kullanılmış, kay-
+nakların seçimi ve kullanımı 
+araştırmanın derinliğini ve 
+özgünlüğünü artırmıştır. 
+Kaynaklar eleştirel bir gözle 
+incelenmiştir.
+Kaynakları Yorum-
+lama
+(%40)
+Seçtiği Orta Çağ medeni-
+yetinin bilim, kültür ve 
+sanata etkileri yüzeysel 
+olarak analiz edilmiş ve 
+yorumlanmıştır. Yorumlar, 
+genelgeçer ifadelerle 
+sınırlı kalmış, derinleme-
+sine düşünme ve eleştirel 
+yaklaşım içermemektedir.
+Seçtiği Orta Çağ medeni-
+yetinin bilim, kültür ve 
+sanata etkilerine ilişkin 
+çeşitli analizler ve yorumlar 
+yapılmıştır.  Bu analizler 
+farklı bakış açılarından 
+değerlendirilmiş ancak 
+yorumlar daha derinleştirile-
+bilir ve zenginleştirilebilir. 
+Seçtiği Orta Çağ medeni-
+yetinin bilim, kültür ve sanata 
+etkileri kendi cümleleriyle 
+derinlemesine ve özgün bir 
+şekilde yorumlanmıştır. Kay-
+naklardaki bilgiler arasında 
+bağlantılar kurulmuştur.
+Görsel Materyal 
+Kullanımı
+(%10)
+Araştırmada görsel 
+materyal kullanılmamış 
+veya görsellerin araştırma 
+konusuyla ilgisi yoktur.
+Araştırmada bazı görseller 
+kullanılmış ancak görseller 
+metni kısmen desteklemek- 
+tedir. Daha fazla çeşitlilik 
+sağlanabilir.
+Araştırmaya uygun, açıklayıcı 
+ve ilgi çekici görseller 
+(resimler, haritalar, grafikler 
+vb.) kullanılmıştır. Görseller, 
+metni desteklemekte ve 
+zenginleştirmektedir.
+Yazım ve Nokta-
+lama
+(%5)
+Araştırma raporunda 
+yazım ve noktalama 
+kurallarına neredeyse 
+hiç uyulmamış, yazının 
+her bölümünde çok hata 
+yapılmıştır.
+Araştırma raporunda yazım 
+ve noktalama kurallarına kıs-
+men uyulmuş, yazının birkaç 
+bölümünde hata yapılmıştır.
+Araştırma raporunda yazım 
+ve noktalama kurallarına 
+tamamen uyulmuş, hata 
+yapılmamıştır. Sözcükler 
+doğru yazılmıştır.
+Sunum 
+(%10)
+Çalışma, karmaşık bir 
+anlatımla sunulmuş ve 
+çok az anlaşılmıştır. Az ilgi 
+çekmiştir.
+Çalışma, kısmen yalın 
+ve düzgün bir anlatımla 
+sunulmuştur. Bazı yerleri 
+anlaşılmış ve kısmen ilgi 
+çekmiştir.
+Çalışmanın tamamı yalın ve 
+düzgün bir anlatımla sunul-
+muş, tümü anlaşılmış ve çok 
+ilgi çekmiştir.
+Toplam Puan:
+Değerlendirme Sistemi
+Analitik Dereceli Puanlama Anahtarı’nda altı ölçüt (çalışma planı hazırlama, bilgi toplama, kaynakları yorumlama, görsel 
+materyal kullanımı, yazım ve noktalama, sunum) ve üç başarı düzeyi (geliştirilmeli, kabul edilebilir ve oldukça iyi) bu-
+lunmaktadır.  Öğrencinin her ölçütten aldığı puan ile o ölçüte ait yüzdelik puan çarpılarak toplam puan elde edilecektir. 
+Örneğin bir öğrenci birinci ölçütten 3 puan aldıysa o ölçüte ait puanı 3x5=15’tir. Her bir ölçütten alınan puanlar toplanarak 
+elde edilen toplam puan, bir ölçütten alınabilecek en yüksek puana (3) bölünerek 100’lük sistemdeki toplam puan hesap-
+lanacaktır.

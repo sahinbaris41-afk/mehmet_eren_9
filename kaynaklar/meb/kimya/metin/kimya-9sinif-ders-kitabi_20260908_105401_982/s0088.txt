@@ -1,0 +1,62 @@
+88
+1. Tema Ölçme ve Değerlendirme Soruları
+1-3. soruları aşağıdaki metin ve tablolara göre cevaplayınız.
+Plastikler; hafiflik, sağlamlık, ucuzluk, kolay işlenebilme ve depolanabilme gibi özellikleri sayesinde günü-
+müzde gıda, ilaç, deterjan vb. ürünlerin ambalaj materyali olarak kullanılmaktadır. Plastiklerin en büyük  
+dezavantajı ise bileşiminde yer alan maddelerin gıdaya geçebilmesidir. Kurşun (Pb) ve kadmiyum (Cd) 
+tuzları da plastik yapımında zaman ve ışık etkisiyle bozunmaya engel olmak amacıyla kullanılır. Kurşun 
+ve kadmiyum gibi ağır metallerin insan sağlığı üzerinde ciddi olumsuz etkileri olmaktadır. 
+Buna yönelik bir araştırmaya ilişkin aşağıda veri  len tabloda plastik cinsine bağlı olarak gıdaya geçen 
+ağır metal verileri yer almaktadır. Araştırmada kullanılan plastiklerin kodları, bu plastiklerin kullanıldığı 
+ürünler ve bazı gıdaların pH değerlerini içeren tablo aşağıda verilmiştir.
+Kurşun (Pb) Miktarı Kadmiyum (Cd) Miktarı
+Plastik Cinsi Plastik kapta % µg %4 asetik asitte (pH≤5)  geçen Pb µg/mL Plastik kapta % µg %4 asetik asitte (pH≤5)  geçen Cd µg/mL
+PE (PE 02, PE 04) 270,20 0,31 26,90 0,06
+PS 218,89 0,99 31,48 1,10
+Polietilen; deterjen, şam-
+puan, sıvı sabun amba-
+lajları ve süt şişelerinde 
+bulunur.
+02
+PE
+Polietilen; naylon poşetler, 
+çöp torbaları ve yemek 
+saklama kaplarında bulu -
+nur.
+04
+PE
+Polistiren; kuru yemiş pa -
+ketlerinde, plastik veya kö-
+pükten yapılmış bardak ve 
+tabaklarda bulunur. 
+06
+PS
+Madde pH Değeri
+Süt 6
+Sıvı  
+Sabun 12
+Kahve 4-5
+Turşu 4-5
+Meyve 
+suyu 4
+ 1.
+ Bu çalışmayla ilgili aşağıdaki ifadelerden hangisi doğrudur?2.
+A) Plastik bardakta içilen sütten alınan kadmiyum oranı kurşun oranından fazladır.
+B) Köpük bardaklardaki kurşun oranı yemek saklama kaplarındaki kurşun oranından azdır.
+C) Köpük bardaklarda içilen meyve sularında kadmiyum oranı kurşun oranından azdır. 
+D) Naylon poşetlerde saklanan turşularda gıdaya geçen kurşun miktarı kadmiyum miktarından 
+azdır.
+E) Plastik bardaklarda tüketilen kahvelerde kahveye geçen kurşun miktarı kadmiyum 
+miktarından fazladır. 
+1.	Tema	Ölçme	ve	Değerlendirme	Soruları
+40 sorudan oluşan bu testte farklı soru tiplerine yer verilmiştir.
+Karekodları akıllı cihazınıza okutarak ek değerlendirme sorularına (a) 
+ve temadaki kavramlar ile ilgili  etkileşimli içeriğe (b) ulaşabilirsiniz.
+A) Yalnız I  B) I ve II  C) II ve IV  D) I, II ve III  E) I, II ve IV
+Bu bilimsel çalışma aşağıdaki davranışları gösterenlerin 
+I. Plastik şişelerden süt tüketenler  
+II. Her gün pla stik bardakta kahve içenler 
+III. Plastik ambalajda sıvı sab un kullananlar 
+IV. Y emek saklama kaplarında turşu muhafaza edenler 
+hangisi veya hangileri için yapılmış olabilir?
+a b

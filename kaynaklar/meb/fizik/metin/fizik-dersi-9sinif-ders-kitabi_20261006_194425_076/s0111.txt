@@ -1,0 +1,79 @@
+111
+KUVVET VE HAREKET
+Kontrol Noktası
+Hareketin Temel Kavramları
+Referans Noktası
+Bir cismin konumunu belirtmek için 
+seçilen ve hareket etmediği kabul edilen 
+noktadır.
+Konum
+Cismin herhangi bir anda referans nok-
+tasına göre bulunduğu yerdir. Konum 
+x  sembolü ile gösterilir ve vektörel 
+bir niceliktir. Konumun SI’da birimi 
+metredir (m).
+Alınan Yol
+Cismin hareketi boyunca çizdiği 
+yörüngenin uzunluğudur. Alınan 
+yol, x sembolü ile gösterilir ve 
+skaler bir niceliktir. Alınan yolun 
+SI’da birimi metredir (m).
+Yer Değiştirme
+Hareketlinin son konumu ile 
+ilk konumu arasındaki yönlü 
+uzaklıktır. Yer değiştirme, Δx  
+sembolü ile gösterilir ve vektörel 
+bir niceliktir. Yer değiştirmenin 
+SI’da birimi m’dir. 
+Hız
+Hareketlinin birim zamanda 
+yaptığı yer değiştirmedir. Hız, 
+o
+ sembolü ile gösterilir ve vek-
+törel bir niceliktir. Hızın SI’da 
+birimi m/s’dir. 
+Ortalama Hız
+Bir hareketlinin tüm hareketi 
+boyunca yer değiştirmesinin 
+geçen zamana oranıdır. Ortalama 
+hız, 
+o ort sembolü gösterilir ve 
+vektörel bir niceliktir. Ortalama 
+hızın SI’da birimi m/s’dir. 
+Anlık Hız
+Bir hareketlinin belirli bir andaki 
+hızıdır. Anlık hız, 
+o  sembolü ile 
+gösterilir ve vektörel bir nice-
+liktir. Anlık hızın SI’da birimi 
+m/s’dir. 
+Sürat
+Hareketlinin birim zamanda al-
+dığı yoldur. Sürat, o sembolü ile 
+gösterilir ve skaler bir niceliktir. 
+Süratin SI’da birimi m/s’dir.
+Ortalama Sürat
+Bir hareketlinin tüm hareketi 
+boyunca toplam aldığı yolun 
+geçen zamana oranıdır. Ortalama 
+sürat, oort sembolü ile gösterilir 
+ve skaler bir niceliktir. Ortalama 
+süratin SI’da birimi m/s’dir. 
+Anlık Sürat
+Anlık hızın büyüklüğüdür. Anlık 
+sürat, o sembolü ile gösterilir ve 
+skaler bir niceliktir. Anlık süratin 
+SI’da birimi m/s’dir. 
+İvme
+Hareketlinin birim zamandaki hız 
+değişimidir. İvme, a  sembolü ile 
+gösterilir ve vektörel bir nicelik-
+tir. İvmenin SI’da birimi m/s2 dir. 
+2.5.2. Hareket Türleri
+Bir cisim, seçilen referans noktasına göre zamanla yer değiştiriyorsa “Cisim 
+hareket ediyor.” denir. Cisimlerin yaptığı hareket türü referans noktasına göre 
+belirlenir. Doğada ve günlük hayatta gerçekleşen hareketlerle ilgili hesapla -
+malar için hareketin türünü belirlemek oldukça önemlidir. Örneğin balkondan 
+düşen saksının hareketi ile Güneş’in etrafında belli yörüngelerde dolanan 
+gezegenlerin hareketi birbirinden farklıdır. Bu hareketler analiz edilirken hare-
+ket türüne ait tanımlamalar ve hesaplama yöntemleri kullanılır.

@@ -1,0 +1,55 @@
+63
+Yaşam
+COOH
+NH2
+C RH
+Karboksil 
+grubu Değişken 
+(radikal) 
+grup
+Amino
+grubu
+Görsel 1.46
+İki amino asit arasında oluşan 
+peptit bağı 
+Görsel 1.45
+Amino asitlerin genel yapısı
+Görsel 1.47
+Polipeptit oluşumu 
+Proteinlerin üç boyutlu yapısı kimyasal ve fiziksel koşullara bağlı olarak değişir. Tuz 
+miktarı, pH, sıcaklık gibi çevre koşulları değiştiğinde proteinler doğal şekillerini kay-
+beder. Buna denatürasyon denir. Biyolojik olarak etkinliğini kaybeden denatüre bir 
+protein, kimyasal ve fiziksel koşulların normale dönmesiyle tekrar aktif üç boyutlu ya-
+pısını kazanabilir. Bu durum renatürasyon olarak adlandırılır. 
+Amino asitlerin ribozomlar tarafından ardışık olarak birbirine peptit bağı ile bağ -
+lanmasıyla kısa polipeptit zincirleri oluşur (Görsel 1.47). Yeni sentezlenen polipep -
+titler işlevsel değildir. Biyolojik olarak işlevsel olmaları için üç boyutlu yapı kazan -
+ması ve bazen birden fazla polipeptitin bir araya gelmesi gereklidir.  Proteinlerin üç 
+boyutlu yapısı amino asit dizisine ve hücre içinde bulunan yardımcı proteinlerinin 
+etkinliğine bağlıdır.
+Proteinler
+Proteinler; hücre ve dokuların bütünlüğünün sağlanmasında, metabolik reaksiyon-
+ların gerçekleşmesinde, oksijen, demir vb. moleküllerin taşınmasında görev alır. 
+Protein yapılı hormonlar ve reseptörler, metabolik süreçlerin düzenlenmesi ve hüc-
+resel sinyallerin iletilmesinde rol oynarken antikorlar yabancı maddelere karşı orga-
+nizmayı savunur. Hücredeki hareket proteinleri, kas kasılmasında veya hücre içinde 
+moleküllerin taşınmasında görev alır. Proteinler enerji kaynağı olarak da kullanılır.
+Proteinlerin yapı taşı olan amino asitler, merkezî bir karbon ato -
+muna bağlı amino ve karboksil grubu bulundurur. İlave olarak bir 
+hidrojen atomu ve değişkenlik gösteren ve radikal grup olarak da 
+bilinen R grubu içerir (Görsel 1.45). Amino asitler değişken grupları-
+na göre çeşitlilik kazanır. Sülfür içeren değişken gruplar, proteinlerin 
+üç boyutlu yapısının korunmasında oldukça önemlidir. Proteinlerin 
+yapısında fosfor elementi de bulunabilir. 
+Hücrenin genetik bilgisini taşıyan nükleik asitlerdeki nükleotit dizilimi, amino asit-
+lerin hangi sırayla bağlanacağını ve sentezlenecek polipeptidin uzunluğunu be -
+lirler. Amino asitler polimerleşirken iki amino asit arasında peptit bağı oluşur. Bu 
+bağın oluşumu sırasında su çıkışı gerçekleştiği için peptit bağının oluşumu da bir 
+dehidrasyon tepkimesidir (Görsel 1.46).
+Su
+Peptit bağı
+DipeptitAmino asit1 + Amino asit2
+Polipeptit 
+Hidroliz
+Dehidrasyon
+(n–1)

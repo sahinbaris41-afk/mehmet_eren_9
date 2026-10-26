@@ -1,0 +1,332 @@
+8 98 9
+Kitabın Tanıtımı
+Fen liselerinde zorunlu olarak yaptırılacak etkinlikleri göstermektedir.
+1110 1110 11
+ETKİLEŞİM
+TEMA1.
+34 35
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+1. Öğrencilere atom modellemelerine neden ihtiyaç duyulduğu konusundaki düşüncelerini  
+sorunuz.
+2. Öğrencilerden atom modellerine katkıda bulunan bilim insanlarını ve bu katkıların neler olduğunu 
+sınıf ortamında tartışmalarını isteyiniz.
+3. Öğrencileri beş gruba ayırınız.
+4. Gruplardan aşağıdaki atom modelleri (Görsel 1.1) ile ilgili ayrıntılı araştırma yaparak bilgi toplama-
+larını isteyiniz. Bu kaynakların güvenilir bilimsel makaleler, ders kitapları ve online eğitim mater-
+yalleri olmasına dikkat ediniz.
+         
+Görsel 1.1: Atom modelleri
+Dalton (Daltın) 
+1803
+Thomson (Tamsın) 
+1897
+Rutherford (Radırford)
+1911
+Bohr (Bor)
+ 1913
+Schrödinger (Şödingır)
+1926
+5. Araştırma süresince güvenilir kaynakların kullanımı ile ilgili gruplara gerekli yönlendirmeleri yapınız. 
+1. Adım: Etkinliğe Giriş
+Etkinliğin Amacı • Öğrencilerin güvenilir kaynaklardan bilgi toplayarak kanıta dayalı ürün 
+oluşturma becerilerini geliştirebilme
+• Öğrencilerin modelleme bilgisini kavramalarını sağlayabilme
+Zenginleştirme 
+Uygulaması
+Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan 
+eğitici bir mobil uygulama veya genel ağ tabanlı bir simülasyon geliştirme 
+projesini detaylı bir şekilde planlayabilir. Bu projenin aşamalarını belirler -
+ken projeye hangi atom modellerinin dâhil edileceği ve bu modellerin nasıl 
+görselleştirileceğine karar verirler. Ayrıca kullanıcıların etkileşimli olarak 
+bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov, edu uzantılı)
+• Ders kitabı
+• 3D modelleme ve animasyon programı
+• Programlama dilleri ve araçları
+7. ETKİNLİK ADI MODELLEME
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Kitap temalardan oluşmaktadır. Her tema başında tema ka-
+pak sayfası yer almaktadır. Tema kapaklarında o temanın adı 
+ve numarası bulunmaktadır. Kılavuzda yer alan etkinlikler, 
+adım adım uygulanacak şekilde bölümlere ayrılmıştır.
+34 35
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+1. Öğrencilere atom modellemelerine neden ihtiyaç duyulduğu konusundaki düşüncelerini  
+sorunuz.
+2. Öğrencilerden atom modellerine katkıda bulunan bilim insanlarını ve bu katkıların neler olduğunu 
+sınıf ortamında tartışmalarını isteyiniz.
+3. Öğrencileri beş gruba ayırınız.
+4. Gruplardan aşağıdaki atom modelleri (Görsel 1.1) ile ilgili ayrıntılı araştırma yaparak bilgi toplama-
+larını isteyiniz. Bu kaynakların güvenilir bilimsel makaleler, ders kitapları ve online eğitim mater-
+yalleri olmasına dikkat ediniz.
+         
+Görsel 1.1: Atom modelleri
+Dalton (Daltın) 
+1803
+Thomson (Tamsın) 
+1897
+Rutherford (Radırford)
+1911
+Bohr (Bor)
+ 1913
+Schrödinger (Şödingır)
+1926
+5. Araştırma süresince güvenilir kaynakların kullanımı ile ilgili gruplara gerekli yönlendirmeleri yapınız. 
+1. Adım: Etkinliğe Giriş
+Etkinliğin Amacı • Öğrencilerin güvenilir kaynaklardan bilgi toplayarak kanıta dayalı ürün 
+oluşturma becerilerini geliştirebilme
+• Öğrencilerin modelleme bilgisini kavramalarını sağlayabilme
+Zenginleştirme 
+Uygulaması
+Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan 
+eğitici bir mobil uygulama veya genel ağ tabanlı bir simülasyon geliştirme 
+projesini detaylı bir şekilde planlayabilir. Bu projenin aşamalarını belirler -
+ken projeye hangi atom modellerinin dâhil edileceği ve bu modellerin nasıl 
+görselleştirileceğine karar verirler. Ayrıca kullanıcıların etkileşimli olarak 
+bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov, edu uzantılı)
+• Ders kitabı
+• 3D modelleme ve animasyon programı
+• Programlama dilleri ve araçları
+7. ETKİNLİK ADI MODELLEME
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+34 35
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+1. Öğrencilere atom modellemelerine neden ihtiyaç duyulduğu konusundaki düşüncelerini  
+sorunuz.
+2. Öğrencilerden atom modellerine katkıda bulunan bilim insanlarını ve bu katkıların neler olduğunu 
+sınıf ortamında tartışmalarını isteyiniz.
+3. Öğrencileri beş gruba ayırınız.
+4. Gruplardan aşağıdaki atom modelleri (Görsel 1.1) ile ilgili ayrıntılı araştırma yaparak bilgi toplama-
+larını isteyiniz. Bu kaynakların güvenilir bilimsel makaleler, ders kitapları ve online eğitim mater-
+yalleri olmasına dikkat ediniz.
+         
+Görsel 1.1: Atom modelleri
+Dalton (Daltın) 
+1803
+Thomson (Tamsın) 
+1897
+Rutherford (Radırford)
+1911
+Bohr (Bor)
+ 1913
+Schrödinger (Şödingır)
+1926
+5. Araştırma süresince güvenilir kaynakların kullanımı ile ilgili gruplara gerekli yönlendirmeleri yapınız. 
+1. Adım: Etkinliğe Giriş
+Etkinliğin Amacı • Öğrencilerin güvenilir kaynaklardan bilgi toplayarak kanıta dayalı ürün 
+oluşturma becerilerini geliştirebilme
+• Öğrencilerin modelleme bilgisini kavramalarını sağlayabilme
+Zenginleştirme 
+Uygulaması
+Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan 
+eğitici bir mobil uygulama veya genel ağ tabanlı bir simülasyon geliştirme 
+projesini detaylı bir şekilde planlayabilir. Bu projenin aşamalarını belirler -
+ken projeye hangi atom modellerinin dâhil edileceği ve bu modellerin nasıl 
+görselleştirileceğine karar verirler. Ayrıca kullanıcıların etkileşimli olarak 
+bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov, edu uzantılı)
+• Ders kitabı
+• 3D modelleme ve animasyon programı
+• Programlama dilleri ve araçları
+7. ETKİNLİK ADI MODELLEME
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+34 35
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+1. Öğrencilere atom modellemelerine neden ihtiyaç duyulduğu konusundaki düşüncelerini  
+sorunuz.
+2. Öğrencilerden atom modellerine katkıda bulunan bilim insanlarını ve bu katkıların neler olduğunu 
+sınıf ortamında tartışmalarını isteyiniz.
+3. Öğrencileri beş gruba ayırınız.
+4. Gruplardan aşağıdaki atom modelleri (Görsel 1.1) ile ilgili ayrıntılı araştırma yaparak bilgi toplama-
+larını isteyiniz. Bu kaynakların güvenilir bilimsel makaleler, ders kitapları ve online eğitim mater-
+yalleri olmasına dikkat ediniz.
+         
+Görsel 1.1: Atom modelleri
+Dalton (Daltın) 
+1803
+Thomson (Tamsın) 
+1897
+Rutherford (Radırford)
+1911
+Bohr (Bor)
+ 1913
+Schrödinger (Şödingır)
+1926
+5. Araştırma süresince güvenilir kaynakların kullanımı ile ilgili gruplara gerekli yönlendirmeleri yapınız. 
+1. Adım: Etkinliğe Giriş
+Etkinliğin Amacı • Öğrencilerin güvenilir kaynaklardan bilgi toplayarak kanıta dayalı ürün 
+oluşturma becerilerini geliştirebilme
+• Öğrencilerin modelleme bilgisini kavramalarını sağlayabilme
+Zenginleştirme 
+Uygulaması
+Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan 
+eğitici bir mobil uygulama veya genel ağ tabanlı bir simülasyon geliştirme 
+projesini detaylı bir şekilde planlayabilir. Bu projenin aşamalarını belirler -
+ken projeye hangi atom modellerinin dâhil edileceği ve bu modellerin nasıl 
+görselleştirileceğine karar verirler. Ayrıca kullanıcıların etkileşimli olarak 
+bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov, edu uzantılı)
+• Ders kitabı
+• 3D modelleme ve animasyon programı
+• Programlama dilleri ve araçları
+7. ETKİNLİK ADI MODELLEME
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+34 35
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+1. Öğrencilere atom modellemelerine neden ihtiyaç duyulduğu konusundaki düşüncelerini  
+sorunuz.
+2. Öğrencilerden atom modellerine katkıda bulunan bilim insanlarını ve bu katkıların neler olduğunu 
+sınıf ortamında tartışmalarını isteyiniz.
+3. Öğrencileri beş gruba ayırınız.
+4. Gruplardan aşağıdaki atom modelleri (Görsel 1.1) ile ilgili ayrıntılı araştırma yaparak bilgi toplama-
+larını isteyiniz. Bu kaynakların güvenilir bilimsel makaleler, ders kitapları ve online eğitim mater-
+yalleri olmasına dikkat ediniz.
+         
+Görsel 1.1: Atom modelleri
+Dalton (Daltın) 
+1803
+Thomson (Tamsın) 
+1897
+Rutherford (Radırford)
+1911
+Bohr (Bor)
+ 1913
+Schrödinger (Şödingır)
+1926
+5. Araştırma süresince güvenilir kaynakların kullanımı ile ilgili gruplara gerekli yönlendirmeleri yapınız. 
+1. Adım: Etkinliğe Giriş
+Etkinliğin Amacı • Öğrencilerin güvenilir kaynaklardan bilgi toplayarak kanıta dayalı ürün 
+oluşturma becerilerini geliştirebilme
+• Öğrencilerin modelleme bilgisini kavramalarını sağlayabilme
+Zenginleştirme 
+Uygulaması
+Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan 
+eğitici bir mobil uygulama veya genel ağ tabanlı bir simülasyon geliştirme 
+projesini detaylı bir şekilde planlayabilir. Bu projenin aşamalarını belirler -
+ken projeye hangi atom modellerinin dâhil edileceği ve bu modellerin nasıl 
+görselleştirileceğine karar verirler. Ayrıca kullanıcıların etkileşimli olarak 
+bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov, edu uzantılı)
+• Ders kitabı
+• 3D modelleme ve animasyon programı
+• Programlama dilleri ve araçları
+7. ETKİNLİK ADI MODELLEME
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+34 35
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+1. Öğrencilere atom modellemelerine neden ihtiyaç duyulduğu konusundaki düşüncelerini  
+sorunuz.
+2. Öğrencilerden atom modellerine katkıda bulunan bilim insanlarını ve bu katkıların neler olduğunu 
+sınıf ortamında tartışmalarını isteyiniz.
+3. Öğrencileri beş gruba ayırınız.
+4. Gruplardan aşağıdaki atom modelleri (Görsel 1.1) ile ilgili ayrıntılı araştırma yaparak bilgi toplama-
+larını isteyiniz. Bu kaynakların güvenilir bilimsel makaleler, ders kitapları ve online eğitim mater-
+yalleri olmasına dikkat ediniz.
+         
+Görsel 1.1: Atom modelleri
+Dalton (Daltın) 
+1803
+Thomson (Tamsın) 
+1897
+Rutherford (Radırford)
+1911
+Bohr (Bor)
+ 1913
+Schrödinger (Şödingır)
+1926
+5. Araştırma süresince güvenilir kaynakların kullanımı ile ilgili gruplara gerekli yönlendirmeleri yapınız. 
+1. Adım: Etkinliğe Giriş
+Etkinliğin Amacı • Öğrencilerin güvenilir kaynaklardan bilgi toplayarak kanıta dayalı ürün 
+oluşturma becerilerini geliştirebilme
+• Öğrencilerin modelleme bilgisini kavramalarını sağlayabilme
+Zenginleştirme 
+Uygulaması
+Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan 
+eğitici bir mobil uygulama veya genel ağ tabanlı bir simülasyon geliştirme 
+projesini detaylı bir şekilde planlayabilir. Bu projenin aşamalarını belirler -
+ken projeye hangi atom modellerinin dâhil edileceği ve bu modellerin nasıl 
+görselleştirileceğine karar verirler. Ayrıca kullanıcıların etkileşimli olarak 
+bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov, edu uzantılı)
+• Ders kitabı
+• 3D modelleme ve animasyon programı
+• Programlama dilleri ve araçları
+7. ETKİNLİK ADI MODELLEME
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Etkinlikte kullanılabilecek araç gereç ve materyalleri gösterir.
+Programın zenginleştirme bölümünde verilen etkinliğin kapsamını gösterir.
+Etkinliğin grup ya da bireysel yapıldığını gösterir.
+34 35
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+1. Öğrencilere atom modellemelerine neden ihtiyaç duyulduğu konusundaki düşüncelerini  
+sorunuz.
+2. Öğrencilerden atom modellerine katkıda bulunan bilim insanlarını ve bu katkıların neler olduğunu 
+sınıf ortamında tartışmalarını isteyiniz.
+3. Öğrencileri beş gruba ayırınız.
+4. Gruplardan aşağıdaki atom modelleri (Görsel 1.1) ile ilgili ayrıntılı araştırma yaparak bilgi toplama-
+larını isteyiniz. Bu kaynakların güvenilir bilimsel makaleler, ders kitapları ve online eğitim mater-
+yalleri olmasına dikkat ediniz.
+         
+Görsel 1.1: Atom modelleri
+Dalton (Daltın) 
+1803
+Thomson (Tamsın) 
+1897
+Rutherford (Radırford)
+1911
+Bohr (Bor)
+ 1913
+Schrödinger (Şödingır)
+1926
+5. Araştırma süresince güvenilir kaynakların kullanımı ile ilgili gruplara gerekli yönlendirmeleri yapınız. 
+1. Adım: Etkinliğe Giriş
+Etkinliğin Amacı • Öğrencilerin güvenilir kaynaklardan bilgi toplayarak kanıta dayalı ürün 
+oluşturma becerilerini geliştirebilme
+• Öğrencilerin modelleme bilgisini kavramalarını sağlayabilme
+Zenginleştirme 
+Uygulaması
+Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan 
+eğitici bir mobil uygulama veya genel ağ tabanlı bir simülasyon geliştirme 
+projesini detaylı bir şekilde planlayabilir. Bu projenin aşamalarını belirler -
+ken projeye hangi atom modellerinin dâhil edileceği ve bu modellerin nasıl 
+görselleştirileceğine karar verirler. Ayrıca kullanıcıların etkileşimli olarak 
+bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov, edu uzantılı)
+• Ders kitabı
+• 3D modelleme ve animasyon programı
+• Programlama dilleri ve araçları
+7. ETKİNLİK ADI MODELLEME
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Etkinlik sonunda öğrencinin hangi beceriyi kazanacağını gösterir.
+Etkinlikler, adım adım uygulanacak şekilde bölümlere ayrılmıştır.
+Tema adı
+Tema numarası

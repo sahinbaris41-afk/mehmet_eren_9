@@ -1,0 +1,24 @@
+133
+2. Tema/Çeşitlilik
+2. Yönerge: Aşağıdaki tabloda 1H, 7N ve 17Cl atomlarından oluşan bazı element ve bileşik moleküllerinin Lewis nokta yapıları verilmiştir. Tablodan yararlanarak soruları cevaplayınız.
+Element Lewis Nokta Yapısı Bileşik Lewis Nokta Yapısı
+H2 H H HCl H Cl
+Cl2 Cl Cl NCl3
+Cl N Cl
+Cl
+2. Moleküllerdeki valans elektronlarının eşleştirilme sebebini ve eşleşmiş elektronların neyi temsil ettiğini 
+yazınız.
+3. Verilen moleküler element ve bileşiklerin Lewis nokta yapılarının benzerlik ve farklılıklarını listeleyiniz.
+4. Element  atomlarının birleşmesiyle oluşan moleküllerde her bir element sembolü etrafındaki tüm nokta-
+ların sayısı nasıl değişir? Bu değişimin soy gaz elektron düzeniyle nasıl bir ilişkisi vardır?
+5. Moleküllerin Lewis nokta yapısı yazılırken valans elektronlarının yerleşimini belirleyen etmen ne olabi-
+lir? Açıklayınız.
+6. Moleküllerin Lewis nokta yapısının oluşturulmasına ilişkin örüntüler oluşturunuz.
+1. Hidrojen molekülünün Lewis nokta yapısı ile 2He atomu arasında nasıl bir ilişki vardır? Açıklayınız.
+2. NCl3 molekülünün Lewis nokta yapısı ile 10Ne atomu arasında nasıl bir ilişki vardır? Açıklayınız.
+3. Atomlar, kararlı soy gaz atomlarına benzemek için elektron alır, verir ya da elektronları ortak kullanır. 2He ato-
+munun valans elektron sayısı 2, diğer soy gaz atomlarınınki ise 8’dir. A tomların son yörüngelerindeki elektron 
+sayısını helyuma benzetmeye çalışıp 2’ye tamamlamasına dublet, diğer soy gazlara benzetmeye çalışıp 8’e 
+tamamlamasına ise oktet kuralı denir.  
+Buna göre tablodaki moleküllerde dublet ve oktet kuralına uyan atomlar hangileridir? 
+4. Lewis nokta yapısının oluşturulmasına ilişkin önermelerinizi yazınız.

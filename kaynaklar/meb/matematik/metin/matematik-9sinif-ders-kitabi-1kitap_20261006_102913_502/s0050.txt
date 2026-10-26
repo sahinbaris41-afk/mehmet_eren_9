@@ -1,0 +1,29 @@
+50
+1. Tema /  Sayılar
+Aralıkların Mutlak Değer Gösterimi  
+1915 Çanakkale Köprüsü toplam 4608 metre uzun-
+luğunda olup dünyanın en uzun asma köprüsüdür 
+(Görsel 1.4). Sıcaklık değişimi nedeniyle asma 
+köprüler, bir miktar esneme ve daralma payına sa-
+hiptir. Asma köprülerin esneme veya daralma payı, 
+en fazla 2 metredir. 1915 Çanakkale Köprüsü’nün 
+metre cinsinden uzunluğunun esneme veya daral-
+ma sonucu alabileceği sayı değerleri hangi mate-
+matiksel kavramlarla ifade edilebilir?
+15.	Uygulama
+Aralıkların Mutlak Değer Gösterimi
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız. 
+Uzunluğu 3 birim olan ipin bir ucu, sayı doğrusu üzerindeki 1 noktasına sabitleniyor. İpin diğer ucu gergin bir 
+şekilde 1 noktasının soluna ve sağına doğru şekildeki gibi uzatılarak sayı doğrusunun üzerine çakıştırılıyor.
+1
+1. İpin ucunun sayı doğrusu üzerinde ulaşabileceği en büyük ve en küçük değerler hangileridir?
+2. İpin sayı doğrusu üzerinde temas edebildiği gerçek sayılar kümesini ifade ediniz. Bu aralığı sayı doğrusu üzerinde, 
+cebirsel olarak ve kümeyle gösteriniz.
+3. İpin sayı doğrusu üzerinde ulaşabildiği gerçek sayılar kümesini ifade eden aralık, mutlak değerli eşitsizlik 
+olarak nasıl ifade edilebilir? Bu gösterimin ne anlama geldiğini nasıl ifade  edebilirsiniz? Fikirlerinizi sınıf 
+arkadaşlarınızla tartışınız.
+4. İpin sayı doğrusu üzerinde ulaşamadığı gerçek sayılar kümesi aralık, mutlak değerli eşitsizlik olarak nasıl ifade 
+edilebilir? Bu gösterimin ne anlama geldiğini nasıl ifade edebilirsiniz? Fikirlerinizi sınıf arkadaşlarınızla tartı-
+şınız.
+Görsel 1.4: 1915 Çanakkale Köprüsü
+3 birim

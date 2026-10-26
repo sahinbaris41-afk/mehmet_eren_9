@@ -1,0 +1,33 @@
+154
+3. ÜNİTE 
+3.2.1.  Sıvılarda Basıncın Kullanıldığı 
+Günlük Hayat Örnekleri
+Araba tamirhanelerinde araçların alt kısımlarında bakım ve onarım yapılabil-
+mesi için aracın yükseltilerek altına erişim sağlanması gerekir. Hidrolik kriko 
+kullanılarak otomobiller kolayca yükseltilir (Görsel 3.8) ve bu sayede araçların 
+alt kısımlarına ulaşım mümkün olur. Ayrıca ağır yüklerin bir yerden başka bir 
+yere taşınmasını sağlayan forkliftler de (Görsel 3.9) benzer bir işlev görür. Bu 
+makineler yükleri yükseltebilir ve istenen yere taşıyabilir. 
+Görsel 3.8: Arabayı kaldırmak için kulla-
+nılan hidrolik kriko 
+Görsel 3.9: Ağır yükleri taşıyan forklift
+3. Etkinlik Sıvılarda Basıncın Kullanıldığı Günlük Hayat Örnekleri 
+Amaç Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin çıkarımda bulunabilme
+Süre 35 + 35 dk. 
+Araç Gereç Ağ bağlantısı olan cihaz
+Yönerge Aşağıda verilen basamakları takip ederek etkinliği gerçekleştiriniz. Etkinlik sonunda hazırlayacağınız 
+sunum, öğretmeniniz tarafından “Kontrol Listesi” ile değerlendirilecektir.
+1. Öğretmeninizin rehberliğinde gruplar oluşturunuz. 
+2. Karekodu okutarak “Sıvı Basıncı ve Akışı” adlı simülasyonu etkileşimli tahtada açınız.
+3. Öğretmeninizin rehberliğinde simülasyonda yer alan basınç, akış ve su deposu sekmele­
+rini kullanarak sıvı basıncına etki eden etmenleri inceleyiniz.
+4. Simülasyonda sağ üst köşedeki ölçüm araçlarını kullanarak akışkanın basıncını ve süratini ölçebilir, s ağ 
+alt köşedeki “sıvının özgül ağırlığı” kısmından sıvının türünü, “yer çekimi” kısmından yer çekimi ivmesini 
+değiştirebilirsiniz.
+5. Gözlemlerinizden yararlanarak çıkarımlarda bulununuz ve çıkarımlarınızı aşağıdaki alana yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+6. Aşağıdaki görselleri inceleyerek hidrolik sistemlerle ilgili merak ettiğiniz konularda grup arkada şlarınızla 
+sorular hazırlayınız. 
+1
+ 2
+ 3

@@ -1,0 +1,26 @@
+175
+AKIŞKANLAR
+Karekoddan yararlanarak kaldırma kuvvetinin uygulamaları hakkında bilgilendirici videoya 
+ulaşabilirsiniz.
+ 
+Kontrol Noktası
+Kaldırma Kuvveti
+Kaldırma kuvveti, akışkan ortamlardaki (sıvılar ve gazlar) cisimlere etki eden bir kuvvettir ve mühendislik, fizik gibi 
+uygulamalı bilimlerde önemli bir yere sahiptir. Bu kuvvet; gemilerin su üstünde kalmasını, sıcak hava balonlarının 
+havada yükselmesini, denizaltıların su altında hareket etmesini sağlar.
+Y er çekimi kuvveti, Dünya’nın tüm cisimleri kendine doğru çekme kuvvetidir. Kaldırma kuvvetinin hesaplanmasında 
+yer çekimi ivmesinin büyüklüğü (g) kullanılır. Y er çekimi ivmesi, Dünya’nın yüzeyinde yaklaşık 9,8 m/s2dir. Y er çekimi 
+ivmesi arttıkça kaldırma kuvveti artar. 
+Yük taşımak için kullanılan gemiler, genellikle çelik malzemeden üretilir. Çelik bir gemi çoğunlukla havayla doludur. 
+Bu sebeple geminin ortalama yoğunluğu suyun yoğunluğundan daha küçüktür ve bu durum gemilerin su üzerinde 
+yüzmesini sağlar.
+Yüzen bir cismin içinde bulunduğu akışkanın yoğunluğu arttıkça cisimden dolayı yer değiştiren akışkanın hacmi azalır. 
+Bununla birlikte kaldırma kuvveti cismin ağırlığına eşit kalır. 
+Yukarıdaki görselde verilen özdeş gemilerin su içindeki kısmının hacmi; 1 numaralı durumda en küçük, 3 numaralı 
+durumda ise en büyük değerdedir. Geminin ağırlığı arttıkça sıvıya batan hacmi artar.
+Cismin sıvıya batan hacmi ne kadar büyük olursa yeri değişen akışkan miktarı o kadar fazla olur, dolayısıyla kaldırma 
+kuvveti de artar. 
+1 2 3
+AğırlıkAğırlık
+Kaldırma kuvvet/i.dotKaldırma kuvvet/i.dot
+ 

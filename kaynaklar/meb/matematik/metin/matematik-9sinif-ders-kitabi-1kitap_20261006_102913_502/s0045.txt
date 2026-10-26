@@ -1,0 +1,41 @@
+45
+1. Tema /  Sayılar
+13.	Uygulama
+Gerçek Sayı Aralıkları ve Sayı Aralıklarında İşlemler
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız. 
+Bir eğlence parkında macera odasına giriş, nefeskesen ve dönen şato oyuncaklarına biniş olmak üzere 3 farklı bilet 
+satılmaktadır. Biletlerin kullanım kuralları aşağıdaki gibidir.
+• Boyu 140 cm ve 180 cm arasın-
+daki (140 ve 180 dâhil) misafir-
+ler için uygundur.
+• 13 yaş ve üstü için uygundur.
+• 13 ve 14 yaş arasındaki (13 ve 
+14 dâhil) misafirler, yanlarında 
+refakatçi olmadan giremez.
+• Boyu 150 cm ve 196 cm arasın-
+daki (150 ve 196 dâhil) misafirler 
+için uygundur.
+• 12 yaş ve üstü için uygundur.
+• 12 ve 15 yaş arasındaki (12 ve 
+15 dâhil) misafirler, yanlarında 
+refakatçi olmadan binemez.
+• Boyu 130 cm ve 190 cm arasın-
+daki (130 ve 190 dâhil) misafirler 
+için uygundur.
+• 10 yaş ve üstü için uygundur.
+• 10 ve 12 yaş arasındaki (10 ve 
+12 dâhil) misafirler, yanlarında 
+refakatçi olmadan binemez.
+1. Lunaparka gelen bir kişinin macera odası bileti alabildiği fakat nefeskesen bileti alamadığı bilindiğine göre bu kişi-
+nin boyu hangi aralıkta olabilir? Bulduğunuz aralığı cebirsel temsil, küme ve aralık olarak gösteriniz.
+2. Macera odası, nefeskesen ve dönen şato biletlerini alabilmeniz için boyunuzun hangi aralıkta olması gerekir? 
+Bulduğunuz sonucu aralık olarak gösteriniz.
+3. Yanında refakatçisi olan ve 13 yaşından büyük birinin üç bileti de alabilmesi için boyu hangi aralıkta olmalıdır?
+4. Aşağıda boy, yaş ve refakatçi bilgileri verilen dört arkadaşın hangi biletleri alıp alamayacaklarını belirleyerek 
+tabloyu örnekteki gibi doldurunuz. Verilen soruları cevaplayınız.
+ 
+Kişiler Boy (cm) Yaş Refakatçi Macera OdasıBileti NefeskesenBileti Dönen ŞatoBileti
+Deniz 141 13 Yok. Alamaz. Alamaz. Alabilir.
+Tekin 160 14 Yok.
+Sevgi 134 11 Var.
+Pınar 152 13 Var.

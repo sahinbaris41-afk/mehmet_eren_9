@@ -1,0 +1,75 @@
+88
+4. Tema/Ölçme ve Değerlendirme
+3. Miletli	T ales,	denizdeki	bir	geminin	sahile	mesa-
+fesini	hesaplamak	için	sahile	dik	bir	uçurumun	
+ucuna	yere	paralel	bir	çubuk	yerleştirmiştir.	
+Uçurumun 	 uç	 noktasında 	 dik	 duran	 T ales, 
+geminin	sahile	uzaklığını	bulabilmek	için	çubu-
+ğun	 uç	 noktasının	 geminin	 ön	 tarafı	 ile	 aynı	
+hizaya	gelmesi	gerektiğini	belirtmiştir.
+A	T ales’in	göz	hizası,	B	çubuğun	uç	noktası,	 	 	 	
+C	geminin	uç	noktasıdır. 
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  A, B, C noktaları doğrusaldır. “h” 
+Tales’in yerden göz hizasına kadar yük-
+sekliği, “c” çubuğun boyu, “d” Tales’in 
+su yüzeyinden yüksekliği ve uzunluk 
+birimleri metre olmak üzere x  in h, c ve 
+d türünden eşitini bulunuz.
+b)  cm 2= , dm 68=  ve ,hm 17=  ise gemi-
+nin karaya uzaklığının kaç metre oldu -
+ğunu bulunuz. 
+c)  Aşağıdaki ifadelerden doğru olanların 
+karşısına “D”, yanlış olanların karşısına 
+“Y” yazınız.
+A
+Bh
+d
+x
+c
+C
+İfadeler D/Y
+I.
+h	ve	d	uzunlukları	değişmeyip	c	
+uzunluğu	artarsa	geminin	karaya	
+uzaklığı	azalır.
+(.....)
+II.
+c	ve	d	uzunlukları	değişmeyip	h	
+uzunluğu	artarsa	geminin	karaya	
+uzaklığı	azalır.
+(.....)
+III.
+h	ve	c	uzunlukları	orantılı	olarak	
+azaltılırsa	geminin	karaya	uzak-
+lığı	aynı	kalır.
+(.....)
+4.	 Bir 	grup	öğrenci,	C	nokt asına	koyduk ları	tele-
+fonla	fotoğraf	çekilmek	için	 doğrusal	sıralan-
+mışlardır.	Sıranın	en	solundaki	öğrenci,	kame-
+raya	 6	 m	 uzaklıkt ayken	 sağdan	 4.	 sıradaki	
+öğrencinin	kameraya	uzaklığı	10	m’dir.	Çekil-
+dikleri	fotoğrafa	baktıktan	sonra	kadraja	sığma-
+dıklarını	fark	eden	bir	öğrenc i,	arkadaş larından	
+doğrusal	olarak	biraz	geri	gitmelerini	istemiştir. 
+6 10
+A
+B
+C
+Görselde	 öğrencilerin	 ilk	 konumları	 B,	 ikinci	
+konumları	A	 ile	 göst erilmiştir.	 T elef onun	 dur-
+duğu	C	noktası	ile	A	ve	B	noktaları	doğrusaldır.	
+Çekim	yapılan	telefon	en	fazla	25	metre	uzak-
+lıktaki	bir	cismi	net	olarak	görüntüleyebilmek-
+tedir.	
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Öğrenciler 3 metre geri gittiklerinde 
+öğrencilerin hepsi kadraja tam sığdığına 
+göre en sol ve en sağdaki öğrencilerin 
+arasında en çok kaç metre mesafe ola -
+cağını bulunuz.
+b) Grubun en sağındaki öğrencinin görün-
+tüsünün net olması için öğrencilerin 
+sırayı bozmadan, doğrusal olarak en 
+fazla kaç metre geri gidebileceklerini 
+bulunuz.

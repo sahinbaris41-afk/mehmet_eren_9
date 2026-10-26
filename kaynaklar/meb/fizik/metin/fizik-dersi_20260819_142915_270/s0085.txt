@@ -1,0 +1,28 @@
+85
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+2. ÜNİTE: ENERJİ
+Bu ünitede öğrencilerin yay sabitini tanımlamaları, Hooke Yasası'nı incelemeleri, esneklik 
+potansiyel enerjisinin matematiksel modeli hakkında akıl yürütmeleri, sürtünme kuvveti-
+nin yaptığı işi bulmaları, enerjinin bir türden başka bir türe dönüşerek korunduğu çıkarımı-
+nı yapmaları, mekanik sistemlerin verimi ile ilgili değişkenler arasındaki orantısal ilişkiye 
+yönelik akıl yürütmeleri amaçlanmaktadır.
+DERS SAATİ 36
+ALAN 
+BECERİLERİ FBAB7. Deney Yapma, FBAB8. Bilimsel Çıkarım Yapma, FBAB10. Tümevarımsal Akıl Yü-
+rütme 
+KA VRAMSAL 
+BECERİLER KB2.16. Muhakeme (Akıl Yürütme) (KB2.16.1. Tümevarımsal Akıl Yürütme) 
+EĞİLİMLER E1.3. Azim ve Kararlılık, E1.6. Seçicilik, E3.2. Odaklanma, E3.6. Analitiklik, E3.8. Soru Sor-
+ma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3 Kendine Uyarlama (Öz Yansıtma), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB3.3. Sorumlu Karar Verme 
+Değerler D1. Adalet, D3. Çalışkanlık, D6. Dürüstlük, D13. Sağlıklı Yaşam, D15. Sevgi, D16. Sorumluluk, 
+D17. Tasarruf, D19. Vatanseverlik
+Okuryazarlık Becerileri OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Görsel Sanatlar, Kimya, Matematik, Tarih
+BECERİLER ARASI 
+İLİŞKİLER KB2.4. Çözümleme, KB2.10. Çıkarım Yapma, KB2.11. Gözleme Dayalı Tahmin Etme

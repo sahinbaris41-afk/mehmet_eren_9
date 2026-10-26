@@ -1,0 +1,27 @@
+102
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme Öğrenciler, yarı iletken malzemelerin hangileri olduğunu ve bu malzemelerin türleri-
+ni araştırabilir. P ve N tipi yarı iletkenler, bunların oluşturduğu PN ve NP eklemleri ile bu 
+eklemlerin birleşmesiyle meydana gelen PNP ve NPN yapıları hakkında araştırma yapı-
+labilir. Eklemlemelerle oluşan devre elemanlarının devredeki kullanımı ve rolü hakkında 
+poster hazırlanabilir. Yarı iletken malzemelerin mikroelektronik teknolojilerin gelişimine 
+etkisi farklı açılardan araştırılabilir. CERN’de kullanılan parçacık hızlandırıcılarda kullanılan 
+süper iletken teknolojisi ile ilgili araştırma yapılabilir. Ham maddelerden yarı iletken mal-
+zemelerin oluşturulma sürecini araştırmaları ve paylaşmaları istenebilir. Öğrencilerden 
+Higgs bozonu hakkında araştırma yapmaları istenebilir.
+*STEM eğitim yaklaşımı temelinde devre geliştirme kartları kullanılarak günlük hayat 
+problemlerinin çözümüne yönelik ürün geliştirilebilir. Öğrencilerden atom teorilerinin ta-
+rihî gelişim sürecini değerlendirerek bunun Modern Atom Teorisi ile benzerlik ve farklılık-
+larını belirleyerek bir poster veya maket oluşturmaları istenebilir.
+*Fotoelektrik etki ile çalışan bir düzenek tasarlamaları istenebilir. STEM basamakları uy -
+gulanarak süper iletken aracılığı ile manyetik kaldırmaya dayalı bir
+düzenek kurulabilir.
+Destekleme Fotoelektrik etkideki, eşik enerjisi GSM faturalardaki minimum ödeme miktarına benzeti-
+lerek analoji yapılabilir. Planck sabiti, her türlü alışverişte ödenebilecek en küçük miktar 
+olan para birimindeki 1 kuruşa benzetilerek analoji yapılabilir. Diyotun devreye düz ve ters 
+bağlandığı durumda meydana gelen değişimi gösterebilecek bir gösteri deneyi yapılabilir. 
+Diyotun devredeki rolü hakkında öğrencilerin deneyim kazanması sağlanabilir.
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

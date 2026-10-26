@@ -1,0 +1,43 @@
+118
+2. Tema
+Sinir hücrelerinin çalışması (sodyum-potasyum) ve mide asitliğinin oluşturulması 
+(hidrojen) için bu hücrelerdeki iyon pompalarının sürekli olarak çalışması gerekli -
+dir. Dinlenme hâlinde insan vücudunun harcadığı enerjinin önemli bir bölümü, bu 
+pompaların çalıştırılması ve aktif taşıma süreçleri için kullanılır.
+Hücreler için gerekli bazı moleküller, hücre zarından pasif ya da aktif taşıma yön-
+temleriyle taşınamayacak (geçemeyecek) kadar büyüktür. Bu durumda moleküller 
+ve çok daha büyük yapılar endositoz ve ekzositoz adı verilen mekanizmalar ara-
+cılığıyla taşınır.
+Endositoz, hücre zarından ve kanal proteinlerinden geçemeyecek kadar büyük 
+olan maddelerin hücre zarında içeri doğru oluşan cepler yardımıyla hücre içine 
+alınmasıdır. Maddelerin taşınım yönü derişim farkına bağlı değildir. Enzimlerin kul-
+lanıldığı bu olay sırasında ATP harcanır. Endositoz sırasında hücre zarının bir kısmı, 
+içeri alınan maddeyi çevreleyip hücre içerisine girdiği için hücre zarının yüzey ala-
+nı küçülür. Bitki hücresi gibi hücre duvarı bulunan canlılar genel olarak endositoz 
+gerçekleşmez. Tek hücreli protistlerden amipin beslenmesi de endositoz yoluyla 
+gerçekleşir (Görsel 2.23).
+Ekzositoz, hücrelerin kanal proteinlerinin içinden geçemeyecek kadar büyük mo-
+lekülleri hücre dışına çıkarmak için kullandıkları taşıma mekanizmasıdır. Bu süreç, 
+hücre zarı ile veziküllerin (kesecik) birleşmesini ve içeriklerinin hücre dışına salın -
+masını kapsar. Hücrede üretilen proteinlerin hücre dışına salgılanması, protein ya-
+pılı hormonların kana verilmesi, hücresel atıkların uzaklaştırılması gibi süreçlerde 
+kullanılır. Ekzositoz sürecinde maddelerin dışarı atılmasında görev alan zarlı yapı 
+hücre zarıyla birleştiği için hücre zarının yüzeyi büyür. 
+Sonuç olarak hücre zarından madde geçişleri, hücrelerin iç ve dış ortamlarının 
+dengesini korumak için özelleşen farklı mekanizmalar ile gerçekleşir.  Enerji kul -
+lanılmayan difüzyon, ozmoz gibi süreçlerde maddeler derişim farkına bağlı olarak 
+taşınır fakat enerji kullanılan geçişlerde maddelerin konsantrasyon farkına rağmen 
+taşınma gerçekleşir. 
+Endositozla 
+besinlerin 
+hücre içine 
+alımı
+Sindirim 
+ürünlerinin 
+ekzositozu
+Görsel 2.23
+Amip hücresinin endositozla 
+beslenmesi ve ekzositoz ile sin-
+dirim ürünlerini uzaklaştırması 
+Hücre Zarından
+ Madde Geçişleri-3

@@ -1,0 +1,36 @@
+163
+BÜTÜNCÜL DERECELİ PUANLAMA ANAHTARI
+Puan Özellikler
+Mükemmel  (5)
+• Konu derinlemesine ve eksiksiz ele alınmış, tüm önemli noktalar ve kavramlar açıklanmıştır.
+• Derinlemesine analiz ve yorumlar yapılmış, fikirler mantıklıdır ve iyi desteklenmiştir.
+• Derinlemesine yansıtma ve kişisel bağlantılar kurulmuş, öğrenci kendi öğrenme sürecini ve gelişimi-
+ni açıkça ifade etmiştir.
+• Günlük; mükemmel bir şekilde düzenlenmiş ve sunulmuş, tüm bölümler net ve düzenlidir.
+• Dil kullanımı ve yazım mükemmeldir, hiç hata yoktur.
+İyi  (4)
+• Konu iyi bir şekilde ele alınmış, çoğu önemli noktalar ve kavramlar açıklanmıştır.
+• Analiz ve yorumlar iyi yapılmış, fikirler genellikle mantıklıdır ve desteklenmiştir.
+• Yansıtma ve kişisel bağlantılar iyi kurulmuş, öğrenci kendi öğrenme sürecini ve gelişimini ifade 
+etmiştir.
+• Günlük, iyi düzenlenmiş ve sunulmuş; çoğu bölüm net ve düzenlidir.
+• Dil kullanımı ve yazım çok iyidir, çok az hata vardır.
+Geliştirilebilir  (3)
+• Konu yeterli düzeyde ele alınmış, bazı önemli noktalar ve kavramlar eksiktir.
+• Analiz ve yorumlar orta düzeyde yapılmış, bazı fikirler mantıklı ve desteklenmiştir.
+• Yansıtma ve kişisel bağlantılar orta düzeyde kurulmuş, öğrenci kendi öğrenme sürecini ve gelişimini 
+kısmen ifade etmiştir.
+• Günlük, yeterli düzeyde düzenlenmiş ve sunulmuş; bazı bölümler net ve düzenlidir.
+• Dil kullanımı ve yazım yeterlidir, bazı hatalar vardır.
+Zayıf  (2)
+• Konu yüzeysel bir şekilde ele alınmış, birçok önemli nokta ve kavram eksiktir.
+• Analiz ve yorumlar yüzeysel yapılmış, birçok fikir mantıksızdır veya desteklenmemiştir.
+• Yansıtma ve kişisel bağlantılar yüzeysel kurulmuş, öğrenci kendi öğrenme sürecini ve gelişimini 
+yeterince ifade edememiştir.
+• Günlük, düzensiz ve yeterince sunulmamış; birçok bölüm karışık ve düzensizdir.
+• Dil kullanımı ve yazım yetersizdir, birçok hata vardır.
+Yetersiz  (1)
+• Konu çok yetersiz ele alınmış, neredeyse tüm önemli noktalar ve kavramlar eksiktir.
+• Analiz ve yorum çok az yapılmış veya hiç yapılmamış, fikirler mantıksızdır ve desteklenmemiştir.
+• Yansıtma ve kişisel bağlantılar çok az kurulmuş veya hiç kurulmamış.
+FORM 1

@@ -1,0 +1,52 @@
+164
+2. Tema/Ölçme ve Değerlendirme
+Görseldeki gibi aralarında 36 m bulunan Ayhan 
+ve Bilge, saat 12.05’te aynı anda harekete baş-
+layarak aynı yönde 24 dakika boyunca sabit 
+hızla bisiklet sürmüştür. A noktasından hareke-
+te başlayan Ayhanʼın dakikada 30 m, B nokta-
+sından harekete başlayan Bilge’nin dakikada 
+27 m yol aldığı bilinmektedir.
+BA 36 m
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		Ayhan	ve 	Bilge’nin 	zamana 	bağlı 	arala-
+rındaki	 mesaf eyi 	 modelleyen 	 fonksiyo-
+nu	farklı	temsillerle	gösteriniz.
+b)		Fonksiyonun	 maksimum	 ve 	 minimum 	
+değerlerini,	 fonksiyonun 	 sıfırını 	 belirle-
+yerek	 problem 	 bağlamındaki 	 anlamını 	
+ifade	ediniz.
+c)		Ayhan	ve 	Bilge’nin 	aralarındaki 	mesafe 	
+12	metre 	olduğunda 	saatin 	kaçı 	göstere-
+ceğini	bulunuz.
+ç)		 Ayhan 	 ve 	 Bilge’nin 	 aralarındaki 	 mesa-
+fenin	 6 	 metre 	 ve 	 6 	 metreden 	 daha 	 fazla	
+olduğu	anlarda 	 saatin 	 gösterdiği 	değer-
+lerin	aralığını	bulunuz.
+8. b1, b2, b3   R olmak üzere gerçek sayılarda 
+tanımlı, cebirsel temsilleri g (x) = | -3x + b1 |, 
+h(x) = | -3x + b2 | ve k (x) = | -3x + b3 | olan 
+g, h ve k fonksiyonları veriliyor. g, h ve k fonk-
+siyonlarının sıfırları sırasıyla x 1, x2, x3 olmak 
+üzere x2  x1  x3 şeklindedir.
+Buna	göre 	b1,	 b2	ve	 b3	değerlerini 	küçükten	
+büyüğe	doğru	sıralayınız.
+  9.
+Tereyağı ve etten oluşan bir öğünde kolesterol 
+hastası Semih Beyʼin 320 miligramdan fazla 
+kolesterol almasına izin  verilmemektedir.
+100 gram tereyağında ortalama 215 miligram, 
+100 gram kırmızı ette ortalama 65 miligram ko-
+lesterol vardır.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)	 Semih 	 Bey’in 	 bir 	 öğünde 	 tüketeceği	
+200	gram 	et 	ve 	x 	gram 	tereyağı 	için 	ko-
+lesterol	kısıtlamasını 	ifade 	eden 	eşitsiz-
+liği	yazınız.
+b)		 Semih 	B ey’in	kolesterol 	kısıtlamasına 	uy-
+ması	için 	bir 	öğünde 	yiyece ği 	390 	gram 	
+etle	 birlikte 	 tüketeceği 	 tereyağı 	 mik-
+tarının 	 en	 fazla	 kaç 	 gram 	 olabileceğini 	
+yaklaşık	olarak 	bulunuz 	(Y aklaşık 	değer 	
+için	virgülden 	sonra 	iki 	basamak 	alınız.).
+10.

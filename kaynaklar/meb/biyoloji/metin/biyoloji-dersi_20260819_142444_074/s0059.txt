@@ -1,0 +1,47 @@
+59
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ BİY.11.2.1. Homeostazinin canlılar için önemiyle ilgili bilimsel çıkarım yapabilme
+a) Homeostazinin işlevlerini tanımlar.
+b) Farklı canlılardaki homeostaziye ilişkin verileri toplar ve kaydeder.
+c) Farklı canlılardaki homeostaziye ilişkin topladığı verileri yorumlayarak değerlendirir. 
+BİY.11.2.2. Homeostatik süreçleri sorgulayabilme 
+a) Homeostatik süreçlerle ilgili merakını ifade eder.
+b) Homeostatik süreçlerle ilgili sorular sorar.
+c) Homeostatik süreçlerle ilgili bilgi toplar.
+ç) Homeostatik süreçlerle ilgili topladığı bilgilerin doğruluğunu değerlendirir.
+d) Homeostatik süreçlerle ilgili topladığı bilgiler üzerinden çıkarım yapar.
+BİY.11.2.3. Pozitif ve negatif geri bildirim mekanizmalarını karşılaştırabilme
+a) Pozitif ve negatif geri bildirim mekanizmalarının özelliklerini belirler.
+b) Pozitif ve negatif geri bildirim mekanizmalarının benzerliklerini listeler.
+c) Pozitif ve negatif geri bildirim mekanizmalarının farklılıklarını listeler.
+BİY.11.2.4. Homeostazinin sağlanmasında sinir sisteminin etkilerini çözümleyebilme
+a) Homeostazinin sağlanmasında görev alan sinir sisteminin farklı yapılarını belirler.
+b) Homeostazinin sağlanmasında sinir sisteminin farklı yapıları arasındaki 
+ilişkileri belirler.
+BİY.11.2.5. Endokrin sisteminin homeostazi işlevine yönelik bilimsel çıkarım yapabilme
+a) Endokrin sisteminin yapı ve görevlerini belirler.
+b) Homeostazinin sağlanmasında endokrin sisteminin görevleriyle ilgili verileri toplar 
+ve kaydeder.
+c) Endokrin sistemi ve homeostazi ilişkisiyle ilgili topladığı verileri yorumlayarak 
+değerlendirir. 
+BİY.11.2.6. Dolaşım sistemi ve homeostazi arasındaki ilişki ile ilgili bilimsel model 
+oluşturabilme
+a) Dolaşım sisteminin işleyişi ve dolaşım sistemi-homeostazi ilişkisini açıklamaya 
+yönelik model önerir. 
+b) Dolaşım sisteminin işleyişi ve dolaşım sistemi-homeostazi ilişkisi ile ilgili oluşturduğu 
+modeli bilimsel modellerle karşılaştır ve elde ettiği kanıtlarla modelini yeniler.
+BİY.11.2.7. Solunum sisteminin homeostazinin sağlanmasındaki rolünü kanıtlarla ortaya 
+koyabilme
+a) Solunum sisteminin homeostazinin sağlanmasındaki rolüyle ilgili verileri toplar 
+ve kaydeder.
+b) Solunum sisteminin homeostazinin sağlanmasındaki rolüyle ilgili topladığı 
+verileri düzenler.
+c) Solunum sisteminin homeostazinin sağlanmasındaki rolüyle ilgili topladığı 
+verilere dayanarak açıklama yapar.
+BİY.11.2.8. Boşaltım sisteminin homeostazi işlevine yönelik bilimsel çıkarım yapabilme
+a) Boşaltım sisteminde nefronların yapı ve görevlerini tanımlar.
+b) Homeostazinin sağlanmasında boşaltım sisteminin görevleriyle ilgili verileri 
+toplar ve kaydeder.
+c) Boşaltım sistemi ve homeostazi ilişkisiyle ilgili topladığı verileri yorumlayarak 
+değerlendirir.

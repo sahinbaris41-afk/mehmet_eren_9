@@ -1,0 +1,27 @@
+91
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ
+Bu temada öğrencilerin iki kategorik değişken arasındaki ilişkililiğe odaklanan gerçek 
+yaşam durumları bağlamında bir istatistiksel araştırma süreci yürütebilmeleri; başkaları 
+tarafından oluşturulan iki kategorik değişken arasındaki ilişkililiğe odaklanan veri dağılım-
+larına ilişkin istatistiksel görsel, özet, sonuç, yorum, çıkarım ve/veya tahminleri eleştirel 
+bir bakış açısıyla değerlendirebilmeleri amaçlanmaktadır.
+DERS SAATİ 24
+ALAN 
+BECERİLERİ MAB4. Veri ile Çalışma ve Veriye Dayalı Karar Verme
+KAVRAMSAL 
+BECERİLER KB2.18. Tartışma 
+EĞİLİMLER E1.1. Merak, E1.6. Seçicilik, E3.7. Sistematiklik, E3.8. Soru Sorma, E3.9.  Şüphe Duyma,
+E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB2.1. İletişim, SDB2.2. İş Birliği, 
+SDB3.3. Sorumlu Karar Verme
+Değerler D5. Duyarlılık, D6. Dürüstlük, D8. Mahremiyet, D14. Saygı, D17. Tasarruf
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Kimya
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma,
+KB3.3. Eleştirel Düşünme

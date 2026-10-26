@@ -1,0 +1,25 @@
+47
+1. Tema/Etkileşim
+2. Bohr atom teorisinden sonra geliştirilen modern atom teorisi “orbital” kavramına dayanır. Orbital, elektronların 
+bulunma olasılığının yüksek olduğu bölgelerdir.
+Modern atom teorisine göre 1s, 2s ve 3s orbitalleri
+3s orbitali
+2s orbitali
+1s orbitali
+çekirdek
+Buna göre modern atom teorisi ile Bohr atom teorisi arasındaki benzerlik ve farklılıklar nelerdir? Düşün-
+celerinizi aşağıdaki ilgili sütunlara yazınız.
+Benzerlikler Farklılıklar
+a) Thomson (Tamsın) atom teorisi ile önceki atom teorisinin hangi varsayımları geçerliliğini yitirmiştir? 
+Bu konudaki düşünce ve gerekçelerinizi arkadaşlarınızla tartışınız.
+b) Y andaki karekodu akıllı cihazınıza okutarak animasyonu izleyiniz. Buna göre Ruther-
+ford (Raterford) alfa saçılma deneyinden elde ettiği hangi verilere dayanarak atom 
+teorisini geliştirmiştir? Geliştirdiği atom teorisinde günümüzde hâlâ geçerli olan kav-
+ramlar nelerdir? Bu konudaki düşünce ve gerekçelerinizi arkadaşlarınızla tartışınız. 
+c) R utherford atom teorisinin açıklayamadığı olgular nelerdir? Bu olgular, Bohr (Bor) atom teorisi ile 
+nasıl açıklanmıştır? Bu konudaki düşünce ve gerekçelerinizi arkadaşlarınızla tartışınız.
+ç) Heisenberg’ün (Haysenbörg) belirsizlik ilkesi, çok küçük atom altı parçacıklar hakkında bilgi sahibi olmak 
+için yapılan dolaylı ölçümler sırasında tanımlanmıştır. Bu ilkeye göre elektron gibi parçacıkların hızı ve ko-
+numunun aynı anda kesin olarak belirlenmesi mümkün değildir.
+Heisenberg’ün belirsizlik ilkesi, Bohr atom teorisinin hangi özelliği veya varsayımı ile çelişmektedir? 
+Bu çelişkinin nedenleriyle ilgili düşüncelerinizi arkadaşlarınızla tartışınız.

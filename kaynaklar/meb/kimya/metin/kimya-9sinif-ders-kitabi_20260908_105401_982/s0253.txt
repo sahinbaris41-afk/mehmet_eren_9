@@ -1,0 +1,90 @@
+253
+3. Tema/Sürdürülebilirlik
+Fe
+Fe
+Cu
+Cu
+Mn
+Mn
+W W
+Ca
+Ca
+CaSn
+Sn
+Sn
+Co
+Co
+Pb
+Pb
+TeTi Ti
+Li
+Pt
+Pt
+Pt Re
+Ta
+Th Th
+Al
+Al
+Rh
+Mg
+Mg
+Mo
+Nb
+Ni
+Ni
+K
+SiSi
+Cd
+Cr
+Cr
+Ce
+Ru
+Ge
+İn
+U V
+V
+Ca
+Cu
+MoCe
+Ga
+1700 1800 1900 2000
+Fe Fe MnW
+Co
+Pb
+Aşağıdaki görsel 1700’lü yıllardan itibaren artan metal çeşitliliğini ortaya koy-
+maktadır (Görsel 3.13).
+Görsel 3.13
+Yıllara göre artan metal 
+çeşitliliği
+Endüstri/Metaller Cd Cr Cu Hg Pb Ni Sn Zn
+Kâğıt endüstrisi − + + + + + − −
+Petrokimya + + − + + − + +
+Klor-alkali üretimi + + − + + − + +
+Gübre sanayisi + + + + + + − +
+Demir-çelik sanayisi + + + + + + + +
+Enerji üretimi (termik) + + + + + + + +
+Metaller çoğunlukla kristal katı yapıdadır. Sahip oldukları metalik bağ, metal-
+lere önemli özellikler kazandırır. Sert ve yoğun olmaları, dayanıklılıkları, ısı ve 
+elektriği iyi iletmeleri, yüksek erime noktalarına sahip olmaları gibi özellikler 
+metallerin kullanım alanlarını artırır (Tablo 3.1). Öte yandan metaller genellikle 
+asit, baz ve su ile tepkimeye girer; bu nedenle metallerin saf hâlde ticari olarak 
+kullanımı oldukça sınırlıdır. Kullanılacak metalin fiziksel özelliklerini iyileştir -
+mek için metale başka elementler eklenerek alaşımlar elde edilir. İki veya daha 
+fazla metalin karıştırılıp eritildikten sonra soğutulmasıyla elde edilen homojen 
+karışımlara alaşım denir. Elde edilen malzeme yine metal karakterlidir ancak 
+karıştırılan metallerden farklı özellikler gösterir. Saf metallerin yüksek sıcaklık, 
+aşınma ve kimyasal dayanıklılık gibi etkilere karşı yetersiz kaldığı durum -
+larda, gerekli olan özellikleri sağlayan niteliklerde alaşımlar kullanılır. Örneğin 
+demirin sertliğinin yeterli olmadığı uygulamalarda çelik gibi daha sert yapıdaki 
+demir alaşımları tercih edilir. Korozyona karşı yüksek direnç gösteren paslan-
+maz çelik; demir (Fe), karbon (C) ve krom (Cr) elementlerini içerir. Çeliğe farklı 
+özellikler kazandırmak için mangan (Mn) ve nikel (Ni) gibi metaller de ala -
+şıma eklenebilir. Heykel ve madalya yapımında yaygın olarak kullanılan bronz, 
+bakır (Cu) ve kalay (Sn) metallerinin karışımından oluşur. Elektronik ve metal 
+işleri için kullanılan lehim kalay (Sn) ve kurşun (Pb) metallerinden oluşan bir 
+alaşımdır. Dekoratif eşyalar ve mekanik parçalar için kullanılan pirinç alaşımı 
+bakır (Cu) ve çinko (Zn) metallerinin karışımından oluşur. Havacılık ve uzay 
+endüstrisinde kullanılan duralümin alaşımı ise alüminyum (Al), bakır (Cu), 
+mangan (Mn) ve magnezyum (Mg) metallerinden oluşur. Metallerde olduğu 
+gibi alaşımların kullanım alanları da her geçen yıl artmaktadır.
+Tablo 3.1: Endüstride Kullanılan Bazı Metaller

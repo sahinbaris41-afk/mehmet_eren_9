@@ -1,0 +1,37 @@
+119
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Destekleme Sıralama ve seçme içeren gerçek yaşam durumu örnekleri, öğrencilerin yakın çevresi dik-
+kate alınarak çeşitlendirilebilir. Cebirsel ve fonksiyonel işlemler algoritmik bir dille yapılan-
+dırılırken sadece doğal dil veya akış şemasının kullanıldığı basit örneklere yer verilebilir. 
+Akış şemalarının belirli aşamaları hazır bir şekilde verilir. Böylelikle öğrencilerin konuya 
+karşı olan ilgi ve motivasyonları artırılır.
+Seçme veya sıralama sayısının temsil edilebileceği  somut materyaller  kullanılabilir. Öğ-
+rencilere seçme veya sıralama sayısını yorumlayabilmeye yönelik, kişiselleştirilmiş geri 
+bildirimler verilerek değerlendirmeler yapılabilir. Seçme veya sıralama sayısıyla ilgili per -
+formans görevleri ve çalışma kâğıtları için daha fazla zaman verilebilir. Geri bildirimlerde 
+ve değerlendirmelerde çoklu ortam (sözlü, yazılı, görsel gibi) kullanılabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+6. TEMA: ANALİTİK İNCELEME
+Bu temada öğrencilerin dik koordinat sisteminde iki nokta arasındaki uzaklıkla ve bir doğru 
+parçasını belli oranda bölen bir noktanın koordinatlarıyla ilgili çıkarım yapabilmeleri, dik 
+koordinat sistemini doğrunun özelliklerini incelemek ve doğru ile ilgili problemleri çözebil-
+mek için uygun bir temsil aracı olarak kullanabilmeleri amaçlanmaktadır.     
+DERS SAATİ 22
+ALAN 
+BECERİLERİ MAB3. Matematiksel Temsil (MAB3.1. Matematiksel Temsillerden Yararlanma)
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma
+EĞİLİMLER E1.1. Merak
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D12. Sabır, D14. Saygı
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Coğrafya, Ekonomi, Fizik
+BECERİLER ARASI 
+İLİŞKİLER MAB2. Matematiksel Problem Çözme, MAB3. Matematiksel Temsil, 
+MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

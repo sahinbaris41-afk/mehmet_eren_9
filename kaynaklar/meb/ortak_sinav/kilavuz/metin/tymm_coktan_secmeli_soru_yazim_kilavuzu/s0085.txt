@@ -1,0 +1,29 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+85
+3.4. ALAN BECERİLERİ
+TYMM’de alan becerileri, kavramsal becerileri ve/veya alana özgü bütünleşik becerileri kapsayacak biçim -
+de yapılandırılmıştır. Bu yönüyle alan becerileri, yalnızca alan bilgisinin kullanımını değil söz konusu beceri -
+lerin süreç bileşenleri aracılığıyla nasıl işletildiğini de içeren bütünleşik bir yapıyı ifade eder. TYMM öğrenme 
+çıktılarında alan bilgisi ve alan becerileri, bu bütünleşik yapı doğrultusunda birbirini tamamlayan unsurlar 
+olarak ele alınmaktadır. Bu becerilerin ölçülmesinde öğrencinin ilgili alanın terminolojisini, yasalarını veya 
+yöntemlerini bilerek soruyu cevaplaması hedeflenir.
+Söz konusu becerilere ilişkin soru yazımında aşağıdaki ilkelerin gözetilmesi önerilir.
+a)  Bilgi ile Bağlamı Harmanlama
+Soruda bağlam verilmeli ancak çözüme ulaşmak için bağlamla beraber öğrencinin zihnindeki akademik 
+bilgi anahtar görevi görmelidir. Sorunun doğru cevabı doğrudan metin içerisinde verilirse bu soru, alan 
+becerisini değil yalnızca Türkçe okuma-anlama becerisini ölçer. Bu nedenle kurgulanan bağlam, bir durum 
+ortaya koyarken öğrenciyi alan bilgisi ve becerilerini kullanmaya yönlendirmelidir. 
+b)  Alana Özgü Araç/Gereç/Yöntem Kullanımı
+Her alanın kendine özgü bir dili ve yöntemi vardır. Nitelikli bir soru, bu unsurları aktif birer araç olarak teme -
+le almalıdır.
+Örneğin bir tarih sorusunda öğrenciye doğrudan bilgi sormak yerine ferman, para veya antlaşma metni 
+gibi birinci elden kaynaklar sunulabilir. Bu kaynaklar üzerinden öğrencinin dönemin şartlarını anlaması ve 
+olaylara o günün penceresinden bakarak tarihsel empati kurması hedeflenmelidir.
+Bir coğrafya sorusunda teorik tanımlar yerine harita okuma, izohips yorumlama veya gerçek bir rota plan -
+lama bağlamı kullanılabilir. Öğrencinin coğrafi verileri kullanarak gerçek bir yaşam problemini çözüme ka -
+vuşturması hedeflenmelidir.
+Bir fen bilimleri sorusunda öğrenciye ışık renginin etkisinin araştırıldığı ancak su miktarının da değiştirildi -
+ği hatalı bir deney düzeneği sunulabilir. Bu kurguda öğrenciden bilimsel geçerlik adına bağımsız değişken 
+(ışık rengi) dışındaki tüm koşulların sabit tutulması gerektiğini fark etmesi beklenir. Deney sonucu hazır 
+verilmemeli, bunun yerine gözlem verileri paylaşılmalı ve öğrenciden eldeki verilere dayanarak “Bu durumu 
+açıklayan bilimsel tahmin nedir?” sorusuna yanıt vermesi istenebilir.

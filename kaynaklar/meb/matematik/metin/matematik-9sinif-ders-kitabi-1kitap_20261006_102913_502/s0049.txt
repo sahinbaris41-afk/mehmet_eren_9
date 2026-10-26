@@ -1,0 +1,17 @@
+49
+1. Tema /  Sayılar
+12.	Sıra	Sizde      
+Tabloda 1 aylık kız ve erkek bebeklerin baş çevrelerinin olması gereken en az ve en çok uzunluk 
+değerleri verilmiştir.
+Baş	Çevresi	Uzunluğu	(cm)
+En	Az En	Çok
+Kız	Bebek 34,8 39,5
+Erkek	Bebek 35,3 40,5
+1 aylık kız bebeklerin ideal baş çevresi uzunluğunun değer aralığı A kümesiyle, 1 aylık erkek bebeklerin 
+ideal baş çevresi uzunluğunun değer aralığı B kümesiyle gösterilsin. 
+Buna	 göre 	 aşağıdaki 	 kümeleri 	 sayı 	 doğrusu 	 üzerinde 	 gösteriniz. 	 Küme 	 gösterimi 	 ve 	 cebirsel	
+temsille	ifade	ediniz.
+a)	 AB+
+b)	 AB,
+c)	 AB=
+ç)	 BA=

@@ -1,0 +1,38 @@
+72
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Verilen iki sayının en büyük ortak bölenini bulma amacıyla bir algoritma oluşturma göre-
+vinden hareketle Öklid algoritmasının incelendiği çalışmalara yer verilebilir. Öz yinelemeli 
+(rekürsif) algoritma örnekleri Öklid algoritması ile ilişkilendirilerek öğrencilerden benzer 
+örneklerin araştırılması istenebilir. 
+(*) Şifrelenmiş mesaj metinlerinde şifreleme algoritmasının tespitine ve metnin ortaya çı-
+karılmasına yönelik çalışmalar yapılabilir. Öğrencilere kriptolojide kullanılan asal sayı test 
+algoritmaları ile ilgili araştırma ödevi verilebilir. 
+(*) Öğrencilerden bilgisayar bilimine ait problemlerde kullanılan farklı algoritmaların (sıra -
+lama algoritmaları gibi) sağladığı avantajlara yönelik araştırma yapmaları ve sonuçlarını 
+sınıf ortamında paylaşmaları istenebilir. 
+(*) İkili arama ağacı yöntemini kullanmayı gerektiren problem durumlarına yer verilebilir.
+(*) Farklı problem türlerinden (tokalaşma sayısı, Euler ’in köprü problemi gibi) hareketle 
+öğrencilerin çizgelerin kenar ve köşe sayıları arasındaki ilişkiler bağlamında çizge kura -
+mındaki temel kavram ve genellemelere ulaşmaları sağlanabilir. Örneğin platonik cisimler 
+incelenerek öğrencilerin Euler karakteristiğini keşfetmeleri sağlanabilir. Çizge ile temsil 
+edilebilecek bir problemde en kısa yolu ya da tam turu bulmak için çeşitli algoritmaların 
+kullanılabileceği farklı örneklere yer verilebilir. Euler turu, Hamilton (Hemıltın) turu ve gez-
+gin satıcı problemi hakkında öğrencilere araştırma ödevi verilebilir. Öğrencilerin problem 
+çözümüne yönelik elde ettikleri algoritmaları bildikleri bir programlama diline aktararak 
+bilgisayarda çalıştırmaları sağlanabilir.
+Destekleme Akış şemaları oluşturulması gerektiren problemlerde adım sayısı daha az olan ve basit al-
+goritmik işlemler içeren problem örnekleri tercih edilebilir. Benzer şekilde  şifre veya ikili  
+sistemde (binary) kod oluşturmada, bunları çözümlemeyi gerektiren problemlerde öğren-
+cilerin bilgi ve beceri düzeylerine göre basitleştirmeler yapılabilir.
+Algoritmaların kullanıldığı gerçek yaşam durumu örnekleri, öğrencilerin yakın çevresi dik-
+kate alınarak çeşitlendirilebilir. Böylelikle öğrencilerin konuya karşı olan ilgi ve motivas -
+yonları artırılabilir. Algoritmaların temsil edilebileceği tangram, sudoku, kakuro gibi somut 
+materyaller kullanılabilir. Algoritmaları çözümleyebilmeye ve yorumlayabilmeye yönelik, 
+kişiselleştirilmiş geri bildirimler verilerek değerlendirmeler yapılabilir.
+Algoritma temelli problemler ile ilgili performans görevleri ve çalışma kâğıtları için öğren-
+cilere daha fazla zaman verilebilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam 
+(sözlü, yazılı, görsel gibi) kullanılabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

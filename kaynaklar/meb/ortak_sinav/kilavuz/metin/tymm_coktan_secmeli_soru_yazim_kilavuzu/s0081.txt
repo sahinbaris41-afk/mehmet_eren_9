@@ -1,0 +1,36 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+81
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Kimya sektöründe çalışmalar gerçekleştiren bir şirket, doğal içerikli nemlendirici krem geliştirmek için 
+kimyagerleri görevlendirmiştir. Kimyagerler gliserol, bitkisel yağ ve bal özü kullanarak geliştirilecek 
+olan kremin uygun olabileceğine karar vermişlerdir. Kremin formülünde kullanılması planlanan bu üç 
+farklı maddenin özelliklerine yönelik yaptıkları araştırmadan elde edilen veriler aşağıda verilmiştir.
+Gliserin: Toksik nitelikte olmayan viskozitesi yüksek bir sıvıdır. Her molekülünde üç hidroksil (-OH) 
+grubu bulunmaktadır.
+Bitkisel yağ: Uzun apolar hidrokarbon yapıları içermektedir. Molekülleri arasında London kuvvetleri 
+baskındır.
+Bal özü: Çok sayıda -OH grubu içeren viskozitesi yüksek bir çözeltidir.
+Kimyagerler üç farklı formül denemiştir:
+1. Formül: %50 Gliserin, %30 Bitkisel yağ, %20 Bal özü
+2. Formül: %20 Gliserin, %50 Bitkisel yağ, %30 Bal özü
+3. Formül: %10 Gliserin, %60 Bitkisel yağ, %30 Bal özü
+Elde edilen formüllerin eşit miktarları aynı şartlarda analiz edildiğinde krem yüzeyinde gerçekleşen 
+buharlaşma miktarı aşağıda gösterilmiştir:
+Formül Buharlaşma miktarı (g)
+1 0,6
+2 0,9
+3 1,3
+1. Analiz bulgularına göre üçüncü formüldeki kremde buharlaşmanın fazla olması, aşağıdaki ifadeler-
+den hangisiyle en doğru şekilde açıklanabilir? (KB2.8 SB4)
+A) Bal özü miktarı arttıkça uçuculuk daha fazla olur.
+B) London kuvvetlerinin etkin olması su kaybını azaltır.
+C) Toplam hidroksil grubu sayısı azalırsa su kaybı daha fazla olur.
+D) Kremin viskozite değeri arttıkça uçuculuk artar.
+E) Bitkisel yağ miktarı arttıkça su kaybı daha az olur.
+2. Buharlaşma miktarını etkileyen değişkeni  test etmek için önerilebilecek en uygun deneysel yak-
+laşım aşağıdakilerden hangisidir? (KB2.8 SB5)
+A) Gliserin ve bal özü miktarını sabit tutarak bitkisel yağ oranını artırmak
+B) Bal özü ve bitkisel yağ miktarını sabit tutarak gliserin miktarını azaltmak
+C) Gliserin ve bitkisel yağ miktarını sabit tutarak bal özü oranını artırmak
+D) Gliserin miktarını sabit tutarak bal özü ve bitkisel yağ miktarını azaltmak
+E) Bitkisel yağ miktarı sabitken bal özü oranını azaltıp gliserin oranını artırmak

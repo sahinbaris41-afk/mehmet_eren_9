@@ -1,0 +1,47 @@
+5
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+1.2. KİMY A DERSİ ÖĞRETİM PROGRAMI’NIN UYGULANMASINA İLİŞKİN ESASLAR
+Bu ders programının uygulanması sürecinde dikkat edilmesi gereken hususlar aşağıda belirtilmiştir:
+• Kimya Dersi Öğretim Programı “Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni” temel alınarak yapılan-
+dırılmıştır. Bu ortak metin dikkate alınarak derslerin tasarlanması, ölçme ve değerlendirme süreçlerinin planlanması 
+ve materyallerin hazırlanması gerekmektedir. Bütün eğitim öğretim faaliyetleri, “Türkiye Yüzyılı Maarif Modeli Öğretim 
+Programları Ortak Metni”nde yer alan öğrenci profiline ulaşılmasını sağlayacak biçimde planlanmalı ve yürütülmelidir.
+• Kimya Dersi Öğretim Programı kademeli olarak uygulanacağından bir önceki kademeyle ilgili ön öğrenme eksiklikleri 
+zümre öğretmenlerince tespit edilir; bu eksiklikleri gidermeye yönelik içerik, eğitim öğretim yılı başında zümre top-
+lantılarında karara bağlanır ve eğitim öğretim sürecinde uygulanır. 
+• Kimya Dersi Öğretim Programı ’nda öğrencilerin öğrenme çıktılarında tanımlanan fen bilimleri alan becerilerini ve 
+kavramsal becerileri veya üst düzey düşünme becerilerini kullanmaları ve bu beceriler aracılığı ile ilgili kimya kav -
+ramlarına ulaşmaları sağlanmalıdır. Alanın özelliği ve öğrenci düzeyleri göz önünde bulundurularak ele alınan bece-
+rilerin süreç bileşenlerinde uyarlama yapılabilir.
+• Eğitim süresince Türkçenin etkin ve doğru kullanımına, öğrencilerin söz varlığının ve dil becerilerinin geliştirilmesine 
+özen gösterilmelidir. 
+• Kimya Dersi Öğretim Programı ’nda öğrenme çıktıları içinde yer alan fen bilimleri alan becerilerinden bilimsel sorgu-
+lama becerisi; kavramsal beceriler içinde yer alan bilgi toplama, sorgulama, karar verme becerileri gibi öğrencinin 
+düşünme eylemi olarak bilimin nasıl işlediğini fark etmeleri, sosyobilimsel konular temelinde kişisel ve toplumsal karar 
+verme gerektiren durumlarda vereceği kararın bilimsel, teknolojik, etik ve sosyokültürel değerlere olan yansımalarını 
+değerlendirmeleri, fen bilimleri alan becerilerini kazanmaları amaçlanmaktadır.   
+Türkiye Yüzyılı Maarif Modeli’ne uygun olarak oluşturulan Kimya Dersi Öğretim Programı’nda her tema sonunda o temayla 
+ilgili farklılaştırma etkinliklerine yer verilmiştir. Farklılaştırma etkinliklerinin amacı, öğrencilerin ihtiyaçlarına göre öğretim 
+ortamının düzenlenebilmesini sağlamaktır. Bu şekilde programın kapsayıcılığının artırılması hedeflenmiştir.
+1739 sayılı Millî Eğitim Temel Kanunu’nun 2. maddesinde ifade edilen Türk Millî Eğitiminin Genel Amaçları ile Türk Millî 
+Eğitiminin Temel İlkeleri esas alınarak hazırlanan Kimya Dersi Öğretim Programı ile öğrencilerin
+1. Kimya biliminin temel kavramlarını (ilke, model, teori ve yasa) anlamlı olarak ilişkilendirmeleri ve yapılandırmaları,
+2. Bilimin doğasını anlamaları,
+3. Disipline özgü fen bilimleri alan becerilerini ve kavramsal becerileri geliştirmeleri,
+4. Kimya biliminin makro, alt mikro ve sembolik gösterimlerini kimya kavramlarını açıklamak için kullanmaları,
+5. Kimya biliminin temel kavramlarını günlük hayat olgularını ve problemlerini (sağlık, sanayi, üretim, teknoloji ve çevre)  
+açıklamak için kullanmaları,
+6. Kimya dersine ilgi ve meraklarını artırarak öğrenme motivasyonunu sürdürmeleri,
+7. Kimya biliminin insan hayatına sağlık, sosyal, ekonomik, teknolojik, çevresel açılardan olumlu ve olumsuz etkilerini 
+değerlendirmeleri,  
+8. Kimya bilimi ile ilgili meslekler hakkında farkındalık kazanmaları ve kariyer planlamalarını şekillendirirken ülkesinin 
+kalkınma planlarını dikkate almaları,
+9. Kimya bilimine ilişkin bilgileri kullanarak ülkemizin sanayi, sağlık ve enerji gibi alanlarda gelişimine katkı sağlayacak 
+bireyler olarak yetiştirilmeleri
+10. Sürdürülebilirlik temelinde kimya bilinci oluşturmaları, sürdürülebilirliğin sosyal, ekonomik, çevresel boyutları ara -
+sındaki ilişkileri kavramaları ve sürdürülebilirliğin gelişimi için çözüm önerileri oluşturmaları,
+11. Yeşil kimya ve çevre dostu üretim odaklı beceriye sahip bireyler olarak yetiştirilmeleri
+12. Bilişim teknolojileri, nesnelerin interneti, bulut teknolojileri ve yapay zekâ uygulamalarının kullanımında güvenlik 
+önlemlerini almaları, dijital kaynaklardan elde ettikleri kimya bilgisinin geçerliliğini sorgulamaları ve bilimsel çıka -
+rımlarda bulunmaları,
+13. Laboratuvarda güvenli çalışma uygulamalarını yapmaları ve sürdürmeleri amaçlanmaktadır.

@@ -1,0 +1,49 @@
+40
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.H.5.1. Başkaları tarafından oluşturulan istatistiksel sonuç veya yorumları tartışabil-
+me 
+a) Başkaları tarafından oluşturulan istatistiksel sonuç veya yorumlara yönelik istatis-
+tiksel temellendirme yapar.
+b) Başkaları tarafından oluşturulan istatistiksel sonuç veya yorumlara yönelik hataları 
+ya da yanlılıkları tespit eder.
+c) Başkaları tarafından oluşturulan istatistiksel sonuç veya yorumları çürütür ya da 
+kabul eder.
+İÇERİK ÇERÇEVESİ Başkaları Tarafından Oluşturulan İstatistiksel Sonuç veya Yorumlar
+Genellemeler • Veri dağılımı, verinin değişebilirliği hakkında bilgi verir.
+• Nicel verilerin dağılımlarını tanımlamada kullanılacak sayısal özetler, dağılımın merkezi-
+nin nereye eğilim gösterdiğini ve nasıl yayıldığını belirlemede kullanılır.
+• Kategorik veriye dayalı karar vermek için amaca yönelik sınıflama yapılması gerekir.
+• İstatistiksel araştırmanın yapıldığı örneklem, evrene ilişkin fikir verir.
+Anahtar Kavramlar dağılım, değişebilirlik, evren, örneklem
+Sembol ve Gösterimler -
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı ve  performans görevi ile değerlendirilebilir.
+Öğrencilere inceledikleri istatistiksel görsel, özet, sonuç, yorum, çıkarım veya tahminle -
+re ilişkin değerlendirme yapabilecekleri performans görevi verilebilir. Performans göre -
+vi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevi sonunda 
+elde edilen sonuçların benzerlik veya farklılıklarının nedenleri üzerine sınıf içi tartışma ya-
+pılabilir. Gruplar hâlinde yapılan sınıf içi tartışma etkinlikleri; öz, akran ve grup değerlendir-
+me formları ile değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin istatistiksel araştırma sürecinin bileşenlerine hâkim oldukları, betimsel 
+ve karşılaştırma gerektiren araştırma soruları oluşturabildikleri; veri toplama planı ya -
+pabildikleri ; verileri görselleştirebildikleri (sıklık tablosu, sütun grafiği, daire grafiği, 
+çizgi grafiği, nokta grafiği, kök-yaprak gösterimi); özetleyebildikleri (sıklık, ortalama, 
+tepe değer, ortanca, açıklık, ortalama mutlak sapma); değişebilirlik, dağılım, evren ve 
+örneklem kavramlarını bildikleri ve verileri yorumlayabildikleri kabul edilmektedir.  
+Ön Değerlendirme Süreci Öğrencilerden istatistiksel araştırma süreci aşamalarını döngüsel bir şema üzerinde gös-
+termeleri istenebilir. Öğrencilere istatistiksel bir bağlam verilerek betimsel ve karşılaştıran 
+araştırma soruları yazdırılabilir. Araştırma soruları doğrultusunda veri toplama planı oluş-
+turmaları sağlanabilir. Hazır veri setleri verilerek öğrencilerin sütun grafiğini, daire grafiği-
+ni, çizgi grafiğini, nokta grafiğini, kök-yaprak gösterimini kullanarak veriyi görselleştirme-
+leri; sıklık, ortalama, tepe değer, ortanca, açıklık, ortalama mutlak sapma kullanarak veriyi 
+özetlemeleri ve elde edilen sonuçları yorumlamaları istenebilir. 
+Köprü Kurma Öğrencilere önceki sınıflarda öğrenmiş oldukları istatistiksel araştırma sürecinin tüm bi -
+leşenlerine (istatistiksel problem belirleme, veri toplama ve analize hazırlama, bulgulara 
+ulaşma, bulguları yorumlama) dair eleştirel sorular sorulabilir. Bu bileşenlerde olabilecek 
+veya oluşabilecek hataların/yanlılıkların neler olabileceği üzerine tartışılabilir. 

@@ -1,0 +1,32 @@
+16
+1. Tema /  Sayılar
+3. T abloda elde ettiğiniz sonuçlardan yararlanarak üslü gösterimlerle toplama ve çıkarma işlemleriyle ilgili 
+genellemeler oluşturunuz.
+4. Varsayımlarınızla genellemelerinizi karşılaştırarak üslü gösterimlerle toplama ve çıkarma işlemlerine dair 
+önermelerinizi oluşturunuz.
+5. Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini yazınız.
+ A ynı doğrultuda bulunduklarında Merkür ve Jüpiter’in merkezlerinin Güneş’e yaklaşık uzaklıkları sırasıyla 
+5,8 . 107 km ve 7,5 . 108 km’dir. Merkür’ün Güneş ve Jüpiter’in arasında olduğu bilindiğine göre Merkür ve 
+Jüpiter’in merkezlerinin arasındaki uzaklık yaklaşık kaç km’dir?
+6. Oluşturduğunuz önermeleri cebirsel olarak doğrulayınız. Doğrulama yöntemlerinizi sınıf arkadaşlarınızın 
+kullandığı yöntemlerle karşılaştırarak kullanışlılık açısından değerlendiriniz. 
+Gerçek Sayıların Üslü Gösterimleriyle Yapılan Çarpma ve 
+Bölme İşlemleri  
+Ankara’da barajlardaki su miktarı; 2001 yılı Ocak 
+ayında yaklaşık 10 46$  metreküp, 2024 yılı Ocak 
+ayında yaklaşık ,1 016 8$  metreküp olarak ölçül -
+müştür (Görsel 1.2).
+1 metreküp suyun 1000 litreye eşit olduğu bilin -
+mektedir. 2001 yılı Ocak ayında Ankara’da baraj -
+lardaki su miktarının kaç litre olduğunu ya da 2024 
+yılı Ocak ayındaki su miktarının 2001 yılı Ocak 
+ayındaki su miktarının kaç katı olduğunu bulmak 
+için hangi matematiksel işlemlere ihtiyaç duyulur? 
+ Görsel 1.2: Ankara Sarıyar Barajı
+Tabanları ve üsleri aynı olan üslü gösterimler toplanabilir ve çıkarılabilir. Toplama veya çıkarma işlemleri 
+yapılırken üslü gösterimler ortak çarpan olduğundan ifadeler ortak çarpan parantezine alınabilir. Son-
+rasında üslü gösterimlerin katsayılarıyla toplama veya çıkarma işlemleri yapılabilir. Bu durum, aşağıda 
+önerme biçiminde gösterilmiştir.
+n tam sayı; a, b, c, x gerçek sayı ve x sıfırdan farklı olmak üzere ax xx xbc abcnn nn$$ $$+- =+ -_i  
+eşitliği vardır.

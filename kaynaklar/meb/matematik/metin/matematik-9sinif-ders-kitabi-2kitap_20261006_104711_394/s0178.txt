@@ -1,0 +1,29 @@
+178
+6. Tema / İstatistiksel Araştırma Süreci
+Ortalama	mutlak	sapma	ve	standart	sapma	ölçüleri,	verilerin	yayılımına	ilişkin	bilgi	verir	ve	verileri	orta-
+lama	ile	karşılaştırır.	Ortalama	mutlak	sapma,	bir	dağılımdaki	her	bir	verinin	ortalamadan	ne	kadar	sap-
+tığına	odaklanır.	Bu	sapmaların	mutlak	değerlerinin	ortalaması	ortalama	mutlak	sapma	değerini	verir.	
+Ortalama	mutlak	sapma,	dağılımdaki	verilerin	nasıl	yayıldığına	ilişkin	bilgi	verse	de	dağılımın	bütününü	
+temsil	etmekte	yetersiz	kalabilir.	Bu	noktada	verilerin	nasıl	yayıldığını	belirleyebilmek	için	dağılımdaki	tüm	
+verileri	dikkate	alarak	daha	hassas	bir	özetleme	aracı	olan	standart	sapma	kullanılabilir .	Standart	sapma,	
+verilerin	ortalamaya	göre	yayılımını	gösteren	istatistiksel	bir	ölçüdür.	Standart	sapma	aralığı,	ortalama	
+mutlak	sapma	aralığına	göre	daha	fazla	değeri	kapsar	ve	ortalama	sapma	aralığından	daha	güvenilirdir.
+ 5. ÖRNEK
+Atletizm	sporu	için	Olimpiyat	Oyunları’ndan	sonraki	en	önemli	organizasyon	olarak	görülen	ve	iki	yılda	
+bir	düzenlenen	Dünya	Atletizm	Şampiyonası’na	200’ün	üzerinde	ülke	katılmaktadır .
+Dünya	Atletizm	Şampiyonası’nın	erkekler	100	metre	koşusuna	katılmak	isteyen	bir	ülkenin	atletizm	fe-
+derasyonu,	koşuya	hazırlanacak	erkek	atletlerin	performanslarını	değerlendirebilmek	için	2023	yılında-
+ki	şampiyonada	bu	kategoride	yarışmış	atletlerin	performanslarını	incelemek	is	temektedir.	Bu	amaçla	
+2023	yılında	yapılan	Dünya	Atletizm	Şampiyonası’nda	100	metre	koşusunda	yarışan	55	atletin	birinci	tur	
+elemelerinde	elde	ettiği	dereceleri	kaydetmiştir.	Şampiyonada	birinci	olan	atletin	derecesi	9,86	saniye,	
+sonuncu	olan	atletin	derecesi	11,58	saniyedir.	Elde	edilen	verilere	ait	nokta	grafiği	aşağıda	yer	almak-
+tadır.
+Derece (sn.)
+9,8 10,210 10,610,4 10,8 11 11,2 11,4 11,6
+Atletizm	federasyonu,	2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	koşusuna	katılan	55	atletin	
+derecelerinden	yola	çıkarak	aşağıdaki	soruları	hazırlamıştır.	Hazırlanan	soruları	uygun	görselleştirme	
+ve/veya	özetleme	araçlarını	seçerek	cevaplayınız.
+a) 2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	koşu	dereceleri	
+arasında	en	yüksek	performans	ile	en	düşük	performans	arasındaki	fark	kaç	saniyedir?	
+b) 2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	koşu	dereceleri	
+saniye	cinsinden	nasıl	bir	eğilim	göstermektedir?

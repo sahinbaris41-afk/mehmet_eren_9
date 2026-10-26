@@ -1,0 +1,35 @@
+84
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.12.1.6 
+Soru cevap tekniği ile öğrencilerin momentum, açısal hız ve eylemsizlik momenti ile ilgili 
+ön bilgileri hatırlatılabilir. Öğretmen, animasyon ve video gibi dijital içerikler ile buz pateni 
+sporcusunun dönme hareketi gibi örnekleri kullanarak farklı cisim ve hareketlilerin açısal 
+momentumunun korunduğunu gösteren görselleri sunar (OB4). Öğrenciler açısal mo-
+mentumun bağlı olduğu değişkenleri gözlemler. Öğrencilerin soru cevap tekniği ile açısal 
+momentuma etki eden değişkenleri tanımlamaları ve değişkenlerin büyüklükleri hakkın-
+da yargıda bulunmaları sağlanır. Öğrenciler, soru cevap tekniği ile açısal momentumun 
+bağlı olduğu değişkenlerin büyüklüklerini karşılaştırarak aralarındaki ilişkiyi bulur (KB2.4). 
+Öğretmen, öğrencilerden açısal momentumun korunumuna ilişkin açıklamalarını tork ile 
+ilişkilendirmelerini ister. Matematiksel model kullanımından kaçınır. Öğrenciler açısal mo-
+mentumun korunumuna ilişkin farklı örnekleri tartışır (SDB2.2) Öğrenciler, gözleme dayalı 
+olarak (E3.6) açısal momentumun korunumunu genelleyerek ifade eder. Öğretmen açısal 
+momentumun korunumuna yönelik zihin haritası kullanabilir.
+FARKLILAŞTIRMA
+Zenginleştirme Öğrenciler balistik sarkacın kullanım alanlarını ve fizik bilimi bağlamında hangi niceliklere 
+ait matematiksel hesaplamaların yapıldığını araştırabilir. Astronotların uzay boşluğundaki 
+hareketleri itme-momentum ve momentumun korunumu ile ilişkilendirilebilir. Öğrenciler 
+lunaparklarda çalışan eğlence araçlarını fotoğraflayarak kullanım amacı ile birlikte her bir 
+araç için fotoğraflar üzerinde fiziksel yasa, kavram ve olguları açıklayan dijital bir içerik 
+oluşturabilir. Öğrencilere açısal ve çizgisel momentum kullanılarak uçan cisim tasarımı 
+yaptırılabilir.
+*Öğrencilere su roketi tasarımı yaptırılabilir.
+*Astronot kıyafetlerinin geçmişten günümüze teknolojik gelişimi incelenebilir. Bu incele-
+me sonucunda elde edilen bilgilerin ve itme ile momentum kavramlarının dikkate alındığı 
+bir astronot kıyafeti tasarım önerisi hazırlanabilir. Hazırlanan bu tasarım, öneri olarak ast-
+ronotlara sunulabilir.
+Destekleme Kuvvet koluna dik uygulanan kuvvetlerin uygulandığı tork problemleri ile sınırlı kalınabilir. 
+Düzgün geometrik şekle sahip tek cismin kütle ve ağırlık merkezleri ile ilgili problemlere 
+çözüm getirilebilir.
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

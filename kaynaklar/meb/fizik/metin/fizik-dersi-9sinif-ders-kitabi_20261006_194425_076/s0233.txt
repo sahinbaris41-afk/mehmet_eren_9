@@ -1,0 +1,61 @@
+233
+ENERJİ
+(kilojoule) ısı vermek, 0 oC’taki 1 kg suyu dondurmak için de buzdan 334 kJ ısı 
+almak gerekir. Kısaca saf maddelerde erime ısısı donma ısısına eşittir. Benzer 
+şekilde buharlaşma ısısı da yoğuşma ısısına eşittir.
+Hâl değiştirirken saf maddelerin sıcaklığı sabit kalır. Görsel 4. 15 ve Görsel 
+4.16’da normal şartlarda bulunan – 20 oC sıcaklığındaki saf buzun 120 oC 
+sıcaklığındaki gaz hâline geçmesine kadarki süreçte sıcaklık ve hâl değişim-
+leri model ve grafikle gösterilmiştir. Grafikte hâl değişiminin yaşandığı bölgeler 
+yatay düz çizgilerle belirtilmiştir. 
+Katı
+–20 oC 
+Ek artıyor
+Ep sabit 
+Ek: Kinetik enerji Ep: Potansiyel enerji
+Ek artıyor
+Ep sabit 
+Ek artıyor
+Ep sabit 
+Ek sabit
+Ep artıyor
+Ek sabit
+Ep artıyor
+Ek sabit
+Ep artıyor
+Erime
+Katı
+0 oC Katı + Sıvı0 oC Katı + Sıvı0 oC 
+Sıvı
+0 oC Sıvı100 oC Sıvı + Gaz100 oC Gaz120 oC 
+Görsel 4.15: Normal şartlarda buzun gaza dönüşme sürecinin modeli
+Kaynama
+sıcaklığı
+Katı
+Katı
+Q1 Q2 Q3 Q4
+Katı + sıvı
+Erime Kaynama
+Sıvı
+Sıvı
+Sıvı
+Sıvı + gaz
+Gaz Gaz
+Isı (J)
+120
+100
+0
+-20
+Erime
+sıcaklığı
+Sıcaklık (
+o
+C)
+Görsel 4.16: Normal şartlarda buzun gaza dönüşme sürecinin grafiği
+Hâl değiştirme ısısı bir kilogram maddenin hâl değiştirmesi (erimesi veya don-
+ması, yoğuşması veya buharlaşması) için gereken ısı miktarı olarak tanım -
+landığına göre maddenin tamamının hâl değiştirmesi için gereken ısı miktarı,
+Q = m : L  matemaƟksel modeli ile hesaplanır.
+Q: hâl değişimi için gereken ısı miktarı (J)
+m: hâl değiştiren madde miktarı (kg)
+L: hâl değiştirme ısısı (J/kg)

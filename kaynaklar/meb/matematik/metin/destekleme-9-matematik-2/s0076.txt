@@ -1,0 +1,23 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+75
+4. TEMA: EŞLİK VE BENZERLİK
+1
+Aşağıdaki görselde dikdörtgen şeklinde bir halı verilmiştir (Görsel 4.1). Kısa kenarı 2 m 
+olan halının görseli üzerine çizilen dik üçgenin hipotenüs uzunluğu          m’dir.
+Buna göre halının uzun kenarının uzunluğunu, doğrulamasını yaptığınız Pisagor 
+teoremini kullanarak bulunuz.
+2
+Aşağıdaki görselde verilen yelkenlinin ana direği güverteye bağlı uzun bir halat ile 
+destekleniyor (Görsel 4.2). Halatın bağlantı noktaları ile oluşan dik üçgeni temsil eden 
+bir ABC üçgeni çiziniz. Üçgenin dik kenarlarının uzunlukları 12 cm ve 5 cm olduğuna 
+göre üçgenin hipotenüs uzunluğunu Pisagor teoremi ile hesaplayınız ve cetvel ile 
+ölçerek doğrulayınız.
+Çözüm:
+Çözüm:
+2 m
+√13
+Görsel 4.2: Yelkenli
+Görsel 4.1: Halı
+√13
+Değerlendirme
+m

@@ -1,0 +1,50 @@
+70
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+gözlemleyebilecekleri bir deney tasarlar (SDB1.2). Öğrenciler, tasarladıkları deney düze-
+neği üzerinden manyetik alan büyüklüğüyle alan çizgilerinin sıklığı arasındaki ilişkiyle ilgili 
+verileri toplayıp kaydeder. Öğrenciler mıknatısların birbirleriyle etkileşimiyle ilgili verileri 
+manyetik alan çizgileriyle açıklar. Öğretmen Dünya'nın manyetik alanının ve manyetik alan 
+büyüklüğünün manyetik alan çizgileriyle açıklanabileceğini ifade eder. Mıknatısların oluş-
+turduğu manyetik alan ve özelliklerini sorgulamak için bir çıkış kartı verilebilir. 
+FİZ.11.2.5
+Öğretmen okul bahçesinde öğrencilere pusula kullanılan oryantiring (yönbul) gibi bir yarışa 
+veya arama kurtarma faaliyetlerine dayalı bir etkinlik yaptırabilir. Öğrencilere bu tür yarış-
+larda veya arama kurtarma faaliyetlerinde pusulaların her yerde doğru çalışıp çalışmadığı 
+sorulabilir. Ørsted’in, üzerinden akım geçen bir iletken ve pusula ile yaptığı çalışmalardan 
+bahsedilebilir. Öğretmen rehberliğinde öğrenciler gruplara ayrılarak (SDB2.1) Ørsted’in 
+deneyi ile benzerlik gösteren bir deney tasarlar (SDB1.2). Manyetik alanın iletkene olan 
+uzaklığı ve elektrik akımının büyüklüğünün değişimi hakkında öğrenci görüşleri alınarak 
+hipotezler kurulur.Öğretmen manyetik alan katsayısı ve sağ el kuralı ile ilgili bilgi verir. 
+Öğrenciler, deney düzeneği üzerinden hipotezlerini test eder (KB2.19). Manyetik alanın, 
+iletkene olan uzaklığı ve elektrik akımının değişimi ile ilişkisini keşfeder ve matematiksel 
+olarak modeller. Öğrenciler matematiksel hesaplamalara girmeden ulaştıkları matema-
+tiksel modelle ilgili problem çözümleri yaparak modeli geneller. Öğrencilere, tasarladıkları 
+deneyle ilgili öz değerlendirme formu verilebilir.
+FİZ.11.2.6
+Öğretmen, düz bir iletken yerine akım makarası kullanılması durumunda oluşacak manye-
+tik alanın yönü ve büyüklüğüne yönelik sorular sorabilir. Akım makarasından geçen akım, 
+sarım sayısı ve akım makarasının boyunda yapılacak değişiklikler sonucu merkez eksenin-
+de oluşan manyetik alandaki değişim hakkında Sokratik sorgulama yöntemini kullanarak 
+öğrencilerin görüşlerini alabilir ve hipotez oluşturmalarını isteyebilir. Öğretmen rehber -
+liğinde öğrenciler gruplara ayrılarak (SDB2.1) ve hipotezlerini test edecekleri deneyler 
+tasarlayarak (SDB1.2) veri toplar. Öğrenciler veri analizine dayalı olarak manyetik alanın 
+büyüklüğünün akım ve uzunlukla olan ilişkisini keşfederek matematiksel modele ulaşır. 
+Matematiksel modele dayanarak akım makarasının merkez ekseninde oluşan manyetik 
+alana yönelik genelleme yapar.
+FİZ.11.2.7
+Öğrenciler öğretmen rehberliğinde gruplara ayrılabilir. Gruplar elektromıknatıslar hak -
+kındaki bilgilere ulaşabilmek için kullanacağı genel ağ, kütüphaneler, dergiler ve uzman 
+kişiler gibi kaynakları belirler. Gruplar belirledikleri güvenilir kaynaklar yoluyla elektromık-
+natısların kullanım alanlarına yönelik bilgilere ulaşır (OB1). Öğrenciler, elektromıknatısların 
+kullanım alanları hakkında topladıkları bilgileri akranlarıyla paylaşır. Öğretmen yönlendi-
+rici sorular içeren tartışma ortamı sağlayabilir. Öğrenciler toplanan bilgilerin doğru olup 
+olmadıklarını tartışarak belirler (SDB2.2). Öğretmen, öğrencilerden yönlendirici sorular 
+yardımıyla doğruluğu belirlenen bilgileri kaydederek elektromıknatısların kullanım alanları 
+ile ilgili sunum hazırlamalarını ister. Akım makarasının merkez ekseninde oluşan manyetik 
+alanla ve elektromıknatısların kullanım alanlarıyla ilgili farklı soru maddelerinden oluşan 
+bir çalışma yaprağı verilebilir.
+FİZ.11.2.8
+Öğrencilere, üzerinden akım geçen bir telin çevresinde manyetik alan oluşturduğu hatır -
+latılır. Öğrencilere, üzerinden akım geçen düz bir tel manyetik alana bırakıldığında man-
+yetik alanın tele etkileri sorulur (E1.1). Öğretmen manyetik alan içerisindeki akım geçen 
+tele etki eden manyetik kuvvetin telin içerisinde hareketli yüklü parçacıklara etki eden

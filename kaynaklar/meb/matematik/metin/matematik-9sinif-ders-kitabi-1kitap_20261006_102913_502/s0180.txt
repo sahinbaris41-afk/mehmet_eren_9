@@ -1,0 +1,49 @@
+180
+3. Tema /  Geometrik Şekiller
+A
+B C
+D
+a
+b cx
+3.	Sıra	Sizde      
+Aşağıdaki	önermeyi 	inceleyiniz. 	Önermenin 	ispat 	adımlarının 	yer 	aldığı 	tablonun 	boş 	kısımlarına 	
+uygun	ifade	ve	gerekçeleri	yazarak	ispatı	tamamlayınız.
+Önerme
+Şekildeki ABDC dörtgeninde mB DC x=`j% , mB aAC =`j% , mA BD b=`j%  ve 
+mA CD c=`j%  ise xa bc=+ +  olur.
+ 
+ 
+Adım İfadeler Gerekçe
+I.
+A
+B C
+D
+a
+b cx
+E
+BD AC E+ =7 A # -  olmak üzere B ve D 
+noktalarından geçen doğru çizilsin.
+İki üçgen oluşturma
+II. ABE üçgeninde BEC dış açısının ölçüsü, kendisine kom-şu olmayan iki iç açının ölçüleri toplamına eşittir.
+III. xa bcmB DC == ++`j%
+4. ÖRNEK
+Ayak uzunlukları eşit bir merdivenin Şekil 1 ve   
+Şekil 2’de verilen iki farklı konumu ile ilgili aşağıda-
+ki soruları cevaplayınız. (Merdiven kalınlığı dikkate 
+alınmayacaktır.)
+a)	 Merdiven Şekil 1’deki gibi 40o açılırsa merdive-
+nin ayaklarından birinin yer düzlemi ile yaptığı 
+geniş açının ölçüsünün kaç derece olacağını 
+bulunuz.
+b)	 Merdiven bir miktar daha açılarak yer düzlemi -
+ne dik olan duvara Şekil 2’deki gibi dayanıyor. 
+Merdiven ayağının duvar ile yaptığı dar açının 
+ölçüsü 28o olduğuna göre merdivenin kaç dere-
+ce daha açıldığını bulunuz.
+Şekil 1
+28
+o
+Şekil 2
+Duvar
+40o
+Duvar

@@ -1,0 +1,53 @@
+53
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.10.2.7 
+Günlük hayatta tüketilen maddelerin etiketlerindeki derişimlere ilişkin verilere dikkat 
+çekilir. Öğrencilerin günlük hayatta bir çözeltideki çözünen madde miktarının farklı de -
+rişim birimleri ile ifade edilebildiğini fark etmeleri için tartışma ortamı oluşturulur. Böy -
+lece öğrencilerin düşüncelerini paylaşmaları, farklı düşünceleri anlamaya çalışmaları, 
+etkili iletişim becerilerini kullanmaları sağlanır (SDB2.1, SDB2.3, D4.2, D14.1, E2.3) . Öğ -
+rencilere derişim birimlerinden molar derişimin hesaplanmasında  kullanılan değiş -
+kenlerin molar derişim ile ilişkilerini belirlemeleri amacıyla çeşitli çözeltilere ilişkin bil -
+giler (mol ve hacim) verilir. Öğrencilerden etkinlik kâğıdında verilen çözelti örneklerinin 
+molar derişimi, mol sayısı ve hacmi arasındaki örüntüyü belirlemeleri ve bu örüntüyü 
+matematiksel olarak modellemeleri istenir (E3.7, OB7) . Öğrenciler, oluşturdukları ma -
+tematiksel modeli kullanarak verilen farklı çözeltilerin derişimini test etmeleri için yön -
+lendirilir. Bu sürecin sonunda öğrencilerden geliştirdikleri matematiksel modellerden 
+hareketle genelleme yapmaları istenir (KB2.16.1, OB7) . Öğrenciler, geliştirdikleri modeli 
+kullanarak yapmış oldukları hesaplama sonuçlarını molar derişimin bilimsel matema -
+tiksel modeli ile yaptıkları hesaplama sonuçları ile karşılaştırır. Öğrencilerden son ola -
+rak çözeltileri derişik ve seyreltik kavramlarını kullanarak birbirleriyle karşılaştırmaları 
+istenir. Öğrencilere derişik ve seyreltik kavramlarının bağıl kavramlar olduğu belirtilir. 
+Bu nedenle bu kavramların referans bir çözelti derişimine göre ifade edildiği çıkarımına 
+ulaşmaları sağlanır (KB2.10, OB7) . Hipertonik ve izotonik kavramları seyreltik ve derişik 
+çözeltiler ile ilişkilendirilebilir. Öğrencilere derişimi fazla olan bir çözeltiden derişimi daha 
+az olan bir çözeltinin nasıl hazırlanabileceği sorusu yöneltilir. Derişimi fazla olan bir çö -
+zeltinin seyreltilmesinde çözünen taneciklerin  toplam sayısının değişmediğine dikkat
+çekilir ve bu süreç M 1V1 = M2V2 matematiksel modeliyle ilişkilendirilir (KB2.10). Aynı süreç 
+bir çözeltinin derişiminin artırılmasında verilerek M1V1 = M2V2 matematiksel modeliyle iliş-
+kilendirilir. Diğer derişim birimlerinden milyonda bir derişim (ppm) kavramı kısaca kavram-
+sal düzeyde açıklanır (KB2.16.1). Etkinlik kâğıtları “öğrencilerin molariteye ilişkin belirlediği 
+örüntüyü matematiksel modelleme, belirlediği matematiksel modeli farklı çözeltilerde 
+test etme, çözelti derişimini kendi oluşturduğu matematiksel model üzerinden genelleme 
+ve genellemelerini bilim insanlarının genellemeleriyle karşılaştırma” ölçütlerini içeren de -
+receli puanlama anahtarı ile öğretmen ve öğrenci tarafından değerlendirilebilir.
+KİM.10.2.8 
+Buzlanmaya karşı kara yollarına kül ve tuz dökülmesi, arabalara antifiriz konması, tatlı su 
+göllerinin tuzlu su göllerine göre daha çabuk donması gibi koligatif özellikleri içeren gün -
+lük hayat örnekleri verilir. Öğrencilere kaynama noktasının dış basınca, coğrafi konuma 
+ve yükseltiye bağlı olduğunu hatırlayacakları açık uçlu sorular sorulur. Öğrencilerden ka -
+tı-sıvı çözeltilerin kaynama ve donma noktasının saf suya göre değişimine yönelik araştır-
+ma sorusu belirlemeleri istenir (OB1). Öğrenciler, belirledikleri araştırma sorusuna ilişkin 
+neden-sonuç ilişkilerini ifade eder (OB1). Öğrencilerden deney yapmak üzere gruplara 
+ayrılmaları, yapacakları deney ile ilgili planlama yapmaları, katı-sıvı çözeltilerin kaynama 
+ve donma noktasının saf suya göre değişimini araştırabilmeleri için bağımlı-bağımsız de -
+ğişkenleri ve kontrol değişkenlerini belirlemeleri istenir. Öğrenciler, tüm basamaklarıy -
+la planladıkları deneyin değişkenlerini manipüle etmeleri ve grup arkadaşları ile iş birliği 
+içinde çalışmaları konusunda yönlendirilir. Bu deney sırasında öğrencilerin çalışkanlık 
+ve dostluk değerlerini kazanmaları desteklenir (D3.2, D3.4, D4.1) . Öğrenciler, çözeltile -
+rin hem kaynama noktasının hem de donma noktasının değişimini belirlemeye yönelik 
+yaptıkları deneylerden hareketle veri toplar; topladığı verileri kaydeder ve sonuçları yo -
+rumlar (OB1). Öğrenciler, çözünen maddelerin suyun kaynama ve donma noktasına etki -
+sine yönelik önermeler sunmaları için yönlendirilir. Öğrencilerden önermelerini çözünen 
+maddenin birim hacimdeki tanecik sayısı ile ilişkilendirerek açıklamaları istenir (OB1). 
+Öğrencilerin önermelerini açıklarken düşüncelerini etki altında kalmadan ifade etmeleri 

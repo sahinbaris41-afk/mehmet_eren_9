@@ -1,0 +1,31 @@
+140
+3. ÜNİTE 
+Örnek
+Özdeş küplerden oluşan bir cisim, Şekil I'deki konumdan Şekil II'deki konuma getiriliyor. Özdeş küplerden 
+her birinin ağırlığı G iken özdeş küplerin bir yüzeyinin alanı A'dır. 
+Şekil I Şekil II
+A A
+Buna göre kuvvetin büyüklüğünü, cismin yere temas eden yüzey alanını ve basıncı tabloya yazı-
+nız. Cismin yere temas eden yüzey alanının  değişmesinin basınca etkisi nedir? Açıklayınız.
+Kuvvet Büyüklüğü Cismin Yere Temas Eden Yüzey Alanı Basınç
+Şekil I
+Şekil II
+Açıklama 
+Çözüm 
+Kuvvet Büyüklüğü Cismin Yere Temas Eden Yüzey Alanı Basınç
+Şekil I 4G A 4G/A
+Şekil II 4G 4A G/A
+Açıklama 
+Kuvvetin büyüklüğü, her iki durum için de cismin ağırlığına eşittir. Cisim Şekil II’deki gibi 
+bırakıldığında cismin yere temas eden yüzey alanı Şekil I'dekine göre artar. Bu da yere 
+uygulanan basıncı azaltır.
+1. Alıştırma
+Aşağıda ekskavatör (kazaratar), sandalet ve çadır kazığı görselleri verilmiştir.
+Bu durumları kullanışlılık açısından değerlendirip aşağıdaki boşlukları uygun ifadelerle 
+doldurunuz.
+a) Ekskavatörle (kazaratar) çukur kazılırken kepçenin daha derinlere ulaşabilmesi ve basıncın 
+………………… için kepçenin dişlerinin ………………… olması gerekir.
+b) Kumsalda yürürken kuma batmamak ve basıncı ………………… için sandaletin tabanının 
+………………… olması gerekir.
+c) Kampta çadır kurulurken çadır kazıklarının toprakta derine ulaşabilmesi ve basıncın 
+………………… için kazıkların ucunun ………………… olması gerekir.

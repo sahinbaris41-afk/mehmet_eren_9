@@ -1,0 +1,19 @@
+60
+1. Tema /  Sayılar
+3.  Tabloda elde ettiğiniz sonuçlardan yararlanarak N , Z , Q  ve R  kümelerinin sıralama özellikleriyle ilgili 
+genellemelerinizi oluşturunuz.
+4.  V arsayımlarınızla genellemelerinizi karşılaştırarak N , Z , Q  ve R  kümelerinin sıralama özelliklerine dair 
+önermelerinizi oluşturunuz.
+5.  Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini sınıf arkadaşlarınızla 
+tartışınız.
+ A, B ve C bitkilerinin boylar ı (cm) ile ilgili aşağıdaki bilgiler veriliyor.
+ A  bitkisinin boyu, C bitkisinin boyundan uzundur.
+ B bitkisinin b oyu, C bitkisinin boyuna eşit veya C bitkisinin boyundan kısadır.
+ Buna göre aşağıdaki soruları  cevaplayınız.
+a) A ve C, B ve C, A ve B bitkilerinin boylarını karşılaştırarak aralarındaki ilişkiyi eşitsizlik sembolleriyle 
+ifade ediniz.
+b) A, B ve C bitkilerinin boyları (cm), hangi sayı kümelerinin elemanı olabilir? Üç bitkinin boyları arasındaki 
+ilişkiler, sayı kümelerinin hangi sıralama özellikleriyle açıklanabilir?
+6.  Oluşturduğunuz önermeleri matematiksel olarak doğrulayınız. Doğrulama yöntemlerinizi sınıf arkadaşlarını -
+zın kullandığı yöntemlerle karşılaştırarak kullanışlılık açısından değerlendiriniz.

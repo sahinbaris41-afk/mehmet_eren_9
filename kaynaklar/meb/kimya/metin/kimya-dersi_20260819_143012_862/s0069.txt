@@ -1,0 +1,36 @@
+69
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: ÇEŞİTLİLİK
+Bu tema; Denge, Asit ve Baz Çözeltilerinde Denge , Çözünürlük Dengesi  olmak üzere üç 
+bölümden oluşmaktadır. Bu temada öğrencilerin tersinir tepkimelere ilişkin gözlem yap -
+maları, dengeye ilişkin bilimsel gözleme dayalı tahminde bulunmaları, denge sabiti ifade -
+sinin oluşturulmasına ilişkin tümevarımsal akıl yürütmeleri, tersinir tepkimelerin dengeye 
+ulaşıp ulaşmadığı ile ilgili bilimsel veriye dayalı tahminde bulunmaları, dengeye etki eden 
+faktörlere ilişkin bilimsel sorgulama yapmaları, asit ve bazların sulu çözeltileri ile bu çözel-
+tilerde gerçekleşen olaylarla ilgili bilimsel gözlem, nötralleşme olayı ile ilgili operasyonel 
+tanımlama, asitlerin ve bazların kuvvetlerine ilişkin bilimsel sorgulama, asit ve baz teorileri 
+ile ilgili karşılaştırma ve titrasyon yöntemiyle deney yapmaları, tuzların sulu çözeltilerinde 
+dengeye ilişkin bilimsel çıkarım yapmaları amaçlanmaktadır.
+DERS SAATİ 70
+ALAN 
+BECERİLERİ FBAB1. Bilimsel Gözlem, FBAB3. Bilimsel Gözleme Dayalı Tahmin, FBAB4. Bilimsel Veriye 
+Dayalı Tahmin, FBAB5. Operasyonel Tanımlama, FBAB7. Deney Yapma, FBAB8. Bilimsel 
+Çıkarım Yapma, FBAB9. Bilimsel Model Oluşturma, FBAB10. Tümevarımsal Akıl Yürütme, 
+FBAB13. Bilimsel Sorgulama
+KAVRAMSAL 
+BECERİLER KB2.7. Karşılaştırma, KB3.1. Karar Verme 
+EĞİLİMLER E2.1. Empati, E2.2. Sorumluluk, E3.6. Analitiklik, E3.9. Şüphe Duyma, E3.10. Eleştirel 
+Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sos-
+yal Farkındalık, SDB3.3. Sorumlu Karar Verme
+Değerler D3. Çalışkanlık, D4. Dostluk, D11. Özgürlük, D13. Sağlıklı Yaşam, D14. Saygı
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, 
+OB7. Veri Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.2. Gözlemleme, KB2.8. Sorgulama, KB2.13. Yapılandırma, KB2.14. Yorumlama

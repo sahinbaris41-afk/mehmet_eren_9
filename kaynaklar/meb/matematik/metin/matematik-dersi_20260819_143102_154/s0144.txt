@@ -1,0 +1,48 @@
+144
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Öğrencilere bir dik üçgende bir dar açının sinüs, kosinüs, tanjant ve kotanjant oranlarını ve 
+dik üçgenden elde edilebilen trigonometrik özdeşlikleri belirleyebilmesine, birim çember 
+üzerinde dik üçgende belirlenebilen trigonometrik oranları ve yönlü açıları gösterebilmesi -
+ne yönelik açık uçlu sorular sorulabilir. Uygun koşullarda tanımlı doğrusal, karesel, karekök 
+ve rasyonel referans fonksiyonlardan türetilebilen fonksiyonların nitel özelliklerine ilişkin 
+öğrenme eksiklikleri açık uçlu sorular sorularak belirlenebilir. Öğrencilerin referans fonksi -
+yonlara dönüşümler uygulayarak farklı fonksiyonlar türetebilmesine ve referans fonksiyon-
+lardan türetilen fonksiyonların cebirsel ve grafik temsili arasında geçiş yapabilmesine dair 
+becerilerinin, kavram yanılgılarının, ilgi ve ihtiyaçlarının belirlenmesi amacıyla hazır bulunuş-
+luk testi yapılabilir.  
+Köprü Kurma Trigonometrinin kelime anlamından hareketle özel açılı bir dik üçgende kenar uzunlukları ile 
+açı ölçüleri arasındaki ilişkilerin öğrenciler tarafından incelenmesi sağlanabilir. Bettani’nin 
+trigonometriyle ilgili çalışmalarına yer verilerek oluşturduğu trigonometri tablosu incele-
+nebilir. Benzer şekilde Ebülvefa Buzcani ’nin trigonometrik oranları nasıl hesapladığına ve 
+kullandığına yönelik açıklamalar yapılabilir. 
+Öğrencilerin dik üçgende bir dar açının sinüs, kosinüs, tanjant ve kotanjant oranlarını be -
+lirleyebilmelerinden hareketle dar açının değişiminin trigonometrik oranları nasıl etkilediği 
+sorgulanabilir. Trigonometrinin astronomide yıldızların yükselişi ve yerleşimi, gezegenlerin 
+hareketi, Güneş ve Ay tutulmaları gibi açısal ölçüm gerektiren problemlerin çözümünde çok 
+eski dönemlerde kullanıldığına ilişkin örnekler üzerine sınıfça konuşulabilir. Farklı disiplinler 
+için trigonometrinin önemi ve kullanım yerleri açıklanabilir. Örneğin Piri Reis’in çizdiği Dünya 
+haritasında trigonometriyi nasıl kullandığı incelenerek harita mühendisliği ve coğrafya disip-
+linleri arasında ilişki kurulabilir. Buna ek olarak trigonometrik fonksiyonların öğrenciye kar -
+maşık gelebilecek yapısı göz önüne alınarak materyal tasarımına yer verilebilir. Öğrencilerin 
+kendilerini yetersiz veya başarısız hissetmemesi için konunun anlaşılmasında önemli bir yer 
+tutan grafik temsilleri matematik yazılımlarıyla veya posterlerle desteklenebilir. Böylece öğ-
+rencilerin ilgi ve ihtiyaçları belirlenebilir ve olası sorunlara karşı gerekli önlemler alınır.
+Öğrenme-Öğretme 
+Uygulamaları MAT.11.3.1
+Açı ölçme birimleri, radyan ve derece olarak alınır ve bu birimler birbirine dönüştürülür. Bir tam 
+çemberin merkez açısının ölçüsünün 360° veya 2π radyan olmasından hareketle esas ölçü kav-
+ramı hakkında bilgi verilir. Birim çemberin iç bölgesinde hipotenüsü aynı zamanda çemberin 
+yarıçapı olan, dik köşesi x veya y ekseni üzerinde bulunan dik üçgen oluşturulur. Oluşturulan 
+dik üçgende üçgenin çember ile kesiştiği P (x, y) noktası kullanılarak birim çember denklemine 
+ulaşılır. Hipotenüsün 1 birim uzunluğunda olmasından hareketle birim çember üzerindeki her-
+hangi bir noktanın apsisinin pozitif yönlü açının kosinüs değerini, ordinatının ise sinüs değerini 
+verdiği gösterilir. Ayrıca çizilen dik üçgenin trigonometrik oranlarının birim çember üzerinde 
+seçilen noktaya bağlı olduğunu öğrencilerin fark etmesi sağlanır. Çember üzerindeki her bir 
+noktaya karşılık gelen pozitif yönlü açı değerinin trigonometrik oranları değiştirmesinden ha-
+reketle uygun x açı ölçüleri kullanılarak y = sinx, y = cosx, y = tanx ve y = cotx ilişkileri kurulur. 
+Bu ilişkiler genellenerek her bir gerçek sayıya birim çemberde bir yay uzunluğunun (Gerçek sayı 
+doğrusu bir ip gibi düşünülerek “0 ” noktası birim çember üzerindeki A (1, 0) noktası ile çakışacak 
+şekilde pozitif sayılar saat yönünün tersinde, negatif sayılar saat yönünde birim çembere sarı-
+lır.) ve buna bağlı olarak birim çemberde bir merkez açının karşılık geleceği ifade edilir. Buradan 
+hareketle gerçek sayılarda trigonometrik fonksiyonların nasıl tanımlanabileceğine yönelik sınıf 
+içi tartışma yapılır (SDB2.2). 

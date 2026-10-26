@@ -1,0 +1,34 @@
+173
+2. Tema/Çeşitlilik
+Kontrol Noktası 2.9
+1. Aşağıdaki şekilde aynı ortamda bulunan cam kaplara eşit hacimli saf X ve Y sıvılarının aynı anda konulmasıyla 
+oluşan başlangıç konumu ve bir süre beklendikten sonra oluşan son konum gösterilmiştir.
+2. Aşağıdaki görsellerde saf X sıvısının, buharı ile denge hâlinde olduğu bazı durumlar verilmiştir.
+Buna göre oluşan son konum;
+• Y sıvısının daha yüksek sıcaklıkta olması,
+• Y sıvısının yüzey alanının daha büyük olması,
+• X sıvısının molekülleri arasındaki çekim kuvvetlerinin daha büyük olması
+nedenlerinden hangileri ile açıklanabilir? Düşüncelerinizi yazınız.
+Buna göre saf bir sıvının denge buhar basıncını etkileyen faktörlerle ilgili aşağıdaki ifadelerin doğru olup 
+olmadığını “Evet” ya da “Hayır” seçeneklerinden birini işaretleyerek belirtiniz.
+Saf Bir Sıvının Denge Buhar Basıncını Etkileyen Faktörlerle İlgili İfade İfade Doğru mudur?
+Sıvının miktarı arttıkça denge buhar basıncı değişmez. Evet Hayır
+Buhar fazının hacmi arttıkça sıvının denge buhar basıncı azalır. Evet Hayır
+Sıvının yüzey alanı arttıkça denge buhar basıncı azalır. Evet Hayır
+Sıvının sıcaklığı arttıkça denge buhar basıncı artar. Evet Hayır
+Başlangıç konumu Son konum
+10 mL 8 mL
+10 mL 6 mLX(s)
+X(s)
+X(s)
+X(s) X(s)
+V V
+2V
+V
+V
+h h h 2hX(buhar)
+X(buhar)
+X(buhar) X(buhar)
+X(s)
+Y(s) Y(s)
+25 °C 25 °C 25 °C 60 °C

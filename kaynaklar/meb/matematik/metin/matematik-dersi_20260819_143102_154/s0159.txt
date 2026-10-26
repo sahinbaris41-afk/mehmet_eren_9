@@ -1,0 +1,74 @@
+159
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.11.3.7
+Bir referans fonksiyon ile bu fonksiyondan türetilmiş bir fonksiyonun cebirsel ve grafik tem-
+silleri incelenir. Referans fonksiyona hangi dönüşümler uygulandığı tespit edilerek iki fonk -
+siyon arasında bileşke ilişkisi kurulur. Bu dönüşümler cebirsel bir işlem olarak yeniden ifade 
+edilerek bileşke işlemi gösterimine geçilir. İki farklı fonksiyonun bileşke işlemini göstermek 
+için  f (g(x)) veya (f ° g) (x) gösterimleri kullanılır (MAB3). f ° g fonksiyonunun tanımlı olabil-
+mesinin asgari koşullarının belirlenebilmesinde cebirsel ve grafik temsillerin veya tabloların 
+sistematik ve analitik bir şekilde kullanılması sağlanır (E3.6, E3.7). f ve g fonksiyonlarından 
+elde edilen f ° g ve g ° f  fonksiyonlarının grafikleri, matematik yazılımları kullanılarak incelenir 
+(OB4, MAB5). Bu sayede öğrencilerin dijital araçlarla iş görme becerilerinin geliştirilmesine  
+de katkı sağlanır (OB2). 
+Bir ilişkinin fonksiyon olma şartları ve fonksiyonların nitel özellikleri ele alınarak elde edilen 
+bileşke fonksiyonların nitel özelliklerine ilişkin varsayımlar geliştirilir. Bu varsayımlar, herhan-
+gi bir nitel özelliği verilen fakat cebirsel temsili verilmeyen fonksiyonları da içerir. Örneğin f 
+veya g fonksiyonlarının bire bir, örten, artan -azalan, tek-çift olmasına ve maksimum-mini -
+mum noktaları ile sıfırlarına yönelik kabuller verilerek f ° g veya g ° f  fonksiyonlarının nitel 
+özellikleri hakkında varsayımlar geliştirilir. Öğrencilerden (f ° g)(x) = (g ° f)(x) eşitliğinin her 
+f ve g fonksiyonu için sağlanıp sağlanamayacağına ve gerçek  sayılarda tanımlı bir fonksiyon 
+ile tersi olan fonksiyonun bileşkesinin uygun koşullarda tanımlı doğrusal referans fonksiyonu 
+verdiğine yönelik varsayıma ulaşmaları beklenir. 
+Keyfî fonksiyonlar üzerinden bileşke işleminin ve ters fonksiyonun özelliklerine                                    
+[(f ° g)-1 (x) = (g-1° f -1)(x), (f ° (g ° h))(x) = ((f ° g) ° h)(x) gibi] değinilmez. Elde edilen 
+varsayımlar bir araya getirilerek genellemeler oluşturulur. Bu bağlamda sadece gerçek 
+sayılarda tanımlı ve değerli fonksiyonlar ele alınır ve bileşke işleminin getirdiği dönüşüm -
+ler, cebirsel ve grafik temsillerinin eş zamanlı kullanılmasıyla  yorumlanır. Genellemelerin 
+varsayımları karşılayıp karşılamadığı kontrol edilerek bu genellemelerden bileşke fonksi -
+yonların nitel özelliklerine ilişkin önermeler elde edilir. Bu önermeler, matematiksel olarak 
+doğrulanabilecek şekilde sunulur. Bileşke fonksiyonlara ilişkin önermeler; ekonomi, fizik, 
+kimya ve biyoloji gibi disiplinlerdeki kullanımları açısından  değerlendirilir. Örneğin bir ürü -
+nün etiket fiyatına bağlı olarak sırasıyla indirimler uygulanır ve ürünün indirimler sonrası 
+oluşan satış fiyatına vergi kesintileri uygulanır. Son durumda birim adetteki gelir, bileş -
+ke fonksiyonlarla modellenir (OB3). Ayrıca bir aracın zamana bağlı olarak harcadığı yakıt 
+miktarını modellemek için zamana bağlı olarak aldığı yolu modelleyen fonksiyonla aracın 
+harcadığı yakıt miktarını katettiği  mesafeye göre modelleyen fonksiyon, bileşke fonksi -
+yon olarak ifade edilebilir. Bu tür modellemeler, öğrencilerin bilinçli tüketim alışkanlıklarını 
+destekler (OB3, D17.1) . Kimyada şişirilen bir balonun içerisindeki gaz kütlesinin zamana 
+bağlı değişimini veren bir fonksiyon ile gaz basıncının balonun içerisindeki gaz kütlesine 
+bağlı değişimini veren fonksiyondan bileşke fonksiyon elde edilebilir. Biyolojide bir canlı 
+türü popülasyonunun zamana bağlı değişimini veren fonksiyon ile bu canlı türü popülas -
+yonuna bağlı olarak ortamda kalan yiyecek miktarını veren bir fonksiyon, bileşke fonksiyon 
+bağlamında incelenebilir (D5.2). Öğrencilere gerçek yaşam durumlarında bileşke fonksi -
+yonların kullanım alanlarını incelemeye yönelik araştırma ödevi verilerek görev  bilincine 
+sahip olması desteklenir (D16.3, SDB1.1). Bileşke fonksiyonların nitel özelliklerinden elde 
+edilen önermelerin değerlendirilebileceği çalışma kâğıdı verilebilir.
+Öğrencilerden  bileşke fonksiyonlara ilişkin elde ettiği önermeleri grafiksel olarak doğru -
+lamaları veya cebirsel olarak ispatlamaları beklenir (SDB1.2). Fonksiyonların nitel özellik -
+lerinin tanımları bağlamında cebirsel ispatlarda mantık bağlaçları ve niceleyicilerin kul-
+lanılması sağlanır. Örneğin f ve g fonksiyonları bire bir iken f ° g ve g ° f  fonksiyonlarının 
+bire birliğinin cebirsel olarak ispatlanmasında fonksiyonların bire birlik tanımının cebirsel 
+ifadesi kullanılır. Bileşke işlemi için tanım ve değer kümelerinin belirlenmesinden ispatın 
+adım adım gerçekleştirilmesine kadar olan süreçte mantık bağlaçları ve niceleyicilerin is -
+patın sistematikliğini ve matematiksel kesinliğini yansıtacak şekilde kullanılması beklenir. 
+Ayrıca öğrencilerden “f fonksiyonu çift ise g ° f fonksiyonu çifttir.” gibi önermeleri grafiksel 
+olarak doğrulamaları ve cebirsel olarak ispatlamaları beklenir (D3.3). Bu şekilde yapılan 
+doğrulama ve ispatlar kullanışlılık açısından değerlendirilir. Bileşke fonksiyonlara ve bu 
+fonksiyonların nitel özelliklerine yönelik performans görevi verilebilir.
+MAT.11.3.8
+Referans fonksiyonlar ve onlardan türetilebilen fonksiyonlarla yapılan toplama ve çıkarma 
+işlemleri, hem cebirsel hem de grafik olarak incelenir. Çarpma ve bölme işlemlerinin ince -
+lenmesi cebirsel olarak yapılarak grafik temsillerindeki yapısal değişiklikler matematik ya -
+zılımlarıyla gözlemlenir (OB2, MAB5). Bu incelemelerden yola çıkılarak  fonksiyonlarla dört 
+işlemin tanımlı olabilmesinin asgari koşullarının keşfedilmesi sağlanır.  Belirlenen tanım kü-
+melerine göre fonksiyonlarla yapılan işlemler, uygun cebirsel veya grafik temsillerle ifade 
+edilir. Örneğin gerçek sayılarda f(x) = x2 ve g(x) = x şeklinde tanımlı fonksiyonlarla elde 
+edilen f + g ve f - g fonksiyonlarının cebirsel ve grafik temsilleri oluşturulabilir. Ardından f, 
+g, f + g, f - g fonksiyonlarında oluşan değişim; hem grafik üzerinde hem de cebirsel olarak 
+değerlendirilir. Buradan yola çıkılarak iki fonksiyonla yapılan toplama, çıkarma, çarpma ve 
+bölme işlemleri sonucunda yeni fonksiyonların elde edilebilmesi ile bu iki fonksiyonun tanım 
+kümelerinin ilişkisi; hem sözel hem de cebirsel olarak ifade edilir. Öğrencilere fonksiyonlar-
+da dört işlem özelliklerini yorumlamaya ilişkin açık uçlu sorulardan oluşan çalışma kâğıdı 
+verilebilir.

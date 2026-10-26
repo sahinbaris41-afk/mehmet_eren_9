@@ -1,0 +1,45 @@
+102
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları COĞ.12.2.1 
+CBS programları aracılığıyla oluşturulan örnek tematik haritalarda hangi konularla ilişki-
+li verilerin kullanıldığı ve mekâna ait hangi bilgilerden yararlanıldığı belirlenmeye çalışılır 
+(OB2). Öğrencilerden farklı türdeki tematik haritaları (korokromatik, koroplet, kartogram, 
+izometrik, izoplet, noktalama, oransal, akış vb.) kullanarak okuma, çözümleme ve çıkarım 
+yapmaları istenir. Bu süreçte iş birlikli öğrenme yöntemi kullanılabilir (SDB2.1, SDB2.2). 
+Web CBS’de kullanılan analiz türleri ve bu kapsamda oluşturulabilecek haritalar hakkın -
+da bilgi verilir. Öğrencilerin resmî genel ağ sayfalarından (Türkiye İstatistik Kurumu, Me-
+teoroloji Genel Müdürlüğü, Ulusal Akıllı Şehir Açık Veri Platformu, Türkiye Ulusal Coğrafi 
+Bilgi Sistemi, Bulut Kent Bilgi Sistemi vb.) elde ettiği mekânsal verileri (Türkiye’ye ait nüfus, 
+sıcaklık vb. veriler) amaca uygun şekilde kullanmaları sağlanır. Kullanılacak veriler tasnif 
+edilir (illere, bölgelere göre sıralama vb.). Tasnif edilen veriler, belge hâline getirilerek ör -
+nek uygulama şeklinde sınıfta paylaşılabilir (OB7, E1.4, E3.7, MAB4, SBAB11.2, BTY AB1). 
+Daha sonra bu veriler (nüfus, sıcaklık vb.), grup çalışması yoluyla öz nitelik tablosuna giri-
+lir. Öğrencilerin altlık haritalar üzerindeki işlem basamaklarını takip ederek tematik harita 
+oluşturmaları sağlanır. Ardından öğrencilerden farklı mekânsal verileri kullanarak çakış-
+tırma haritası ve dijital hikâye haritası oluşturmaları  istenir (OB7, OB2, OB4, D3.2, D7.1, 
+KB3.2, E3.4, E3.8, BTY AB4). Oluşturulan haritalar, sınıfta sergilenerek öğrenciler tarafın-
+dan incelenebilir ve ihtiyaç duyulduğunda kullanılır (SDB2.2). Bu süreçte veri yönetimi ve 
+kişisel bilgilerin korunmasına dikkat edilir (D8.2). Öğrenme sürecinde akran öğretiminden 
+yararlanılabilir. Tematik haritalar, web tabanlı CBS uygulaması dışında masaüstü CBS ya-
+zılımları kullanılarak da oluşturulabilir. Bu çalışmada takip edilecek işlem basamaklarını 
+içeren kontrol listesi gruplarla paylaşılır ve bu listeye göre oluşturulan haritalar değerlen-
+dirilebilir. 
+Bu ünitede öğrencilerden mekânsal verilere ait tanımlayıcı bilgileri kullanarak tematik ha-
+rita oluşturma şeklinde performans görevi yapmaları istenebilir. Performans görevi, ana-
+litik dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir (SDB1.2, 
+SDB1.3).
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilere yaşadıkları ilin çeşitli özelliklerini gösteren tematik harita oluşturma veya ya-
+şadıkları ilin çeşitli özelliklerini metin, görsel, video gibi içeriklerle zenginleştirerek göste-
+ren dijital hikâye haritası oluşturma görevleri verilebilir. Öğrencilerden gerçekleştirdikleri 
+görevlere ilişkin yansıtma yazısı yazmaları istenebilir.
+Destekleme Öğrenciler için tematik haritaları okuma sürecine yönelik adımlar yönerge şeklinde yazı-
+larak öğrencilerin süreci anlamlandırmaları desteklenebilir. Haritaların incelenmesi süre-
+cinde akran öğretiminden yararlanılabilir. Öğrencilerin tematik harita oluştururken klasik 
+yöntemlerle harita oluşturma işlem basamaklarını takip etmeleri de sağlanabilir.
+Performans görevi, farklı illere ait yıllık ortalama sıcaklık ve yağış dağılış haritalarının ince-
+lenmesi ve bu haritalardan çıkarımlar yapılması şeklinde düzenlenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

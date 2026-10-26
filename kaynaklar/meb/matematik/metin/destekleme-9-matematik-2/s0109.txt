@@ -1,0 +1,31 @@
+108
+MATEMATİK 9 
+6. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ
+Verileri inceleyen bir gazeteci "Tabloda yer alan meslek gruplarında çalışan erkeklerin işleri-
+ni otomasyona kaptırma riski daha yüksek." şeklinde bir haber yapmıştır.
+Gazetecinin bu iddiasının geçerli olup olmadığı konusundaki düşüncelerinizi verileri dikkate 
+alarak açıklayınız.
+0 10 20 30 40 50 60
+Üst Düzey Yönetim ve Siyaset
+Öğretmenlik
+Turizm ve Perakende Yönetimi
+Sağlık Hizmetleri
+Bilgi Teknolojileri
+Bilim ve Mühendislik
+İşletmecilik
+Satış
+Müşteri Hizmetleri
+Kişisel Hizmetler
+Konfeksiyon İmalatı
+Tarım İşçiliği
+Şoförlük
+Yiyecek Hazırlama
+İnşaat
+Temizlik
+Grafik 4: Otomasyona kaptırılma riski, 2018
+Çözüm:
+1
+Yapılan bir araştırmaya göre mesleklerin otomasyona kaptırılma riski Grafik 4'te 
+verilmiştir.
+Risk (%)
+Değerlendirme

@@ -1,0 +1,34 @@
+10
+'CN;<ÄH0;HÄNÄGÄ
+Ünite adı
+Kitap ünitelerden oluşmaktadır. Her ünite 
+başında ünite kapak sayfası yer almaktadır. 
+Ünite kapaklarında o ünitenin adı ve numarası 
+bulunmaktadır.
+Değerlendirme adımlarında hem öğretmen 
+tarafından yapılacak değerlendirmelere hem 
+de öğrencinin kendini değerlendirebileceği 
+ölçme ve değerlendirme tekniklerine yer ve -
+rilmiştir.
+Ünite numarası
+Etkinlik künyesinde destekleme etkinliğinin 
+amacı, öğretim programında tanımlanan des-
+tekleme uygulaması, hangi öğrenme çıktısına 
+hizmet ettiği, etkinlik için tavsiye edilen süre, 
+gereken araç gereç ve materyaller ile etkinli-
+ğe uygun yönergeler belirlenmiştir.
+Ünite adı yazılmıştır.
+Etkinlik kapsamındda 
+asıl hedeflenen amaç 
+yazılmıştır.Dersin öğretim programında 
+tanımlanmış olan destekle-
+me uygulaması bu bölümde 
+yazılmıştır.
+Etkinliğin amaç ve içeriğini 
+özetleyecek nitelikte etkinlik 
+adı yazılmıştır.
+Etkinliğin içeriğine 
+uygun araç gereç ve 
+materyaller yazılmıştır.
+Ünite numarası yazılmıştır.
+8 9

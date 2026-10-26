@@ -1,0 +1,53 @@
+62
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.11.1.7. Tepkime hızına etki eden faktörleri bilimsel sorgulayabilme 
+a) Tepken cinsinin, fiziksel hâlin, tepken derişiminin, sıcaklığın, katı tepkenin temas 
+yüzeyi nin ve katalizörün tepkime hızına etkisine ilişkin araştırılabilir sorular oluştu-
+rur. 
+b) İlgili değişkenlerin tepkime hızına etkisini belirlemek üzere hipotezler oluşturur. 
+c) Tepken cinsinin, fiziksel hâlinin ve derişiminin, sıcaklığın, katı tepkenin temas yüze-
+yinin ve katalizörün tepkime hızına etkisine ilişkin bir deney planlar ve deneyi ger -
+çekleştirir. 
+ç) Deney verilerini analiz ederek yorumlar. 
+d) Deney sonuçlarını kullanarak her bir değişkenin tepkime hızına etkisini alt mikro 
+seviyede açıklar. 
+e) Tepkime hızına etki eden faktörleri çarpışma teorisi ile ilişkilendirir. 
+KİM.11.1.8. Kimyasal tepkimelerin hız denklemini bilimsel veriye dayalı tahmin edebilme 
+a) Bir tepkimenin tepken derişimlerine ve başlangıç hızlarına ait hazır veri seti kullana-
+rak tepken derişiminin tepkime hızına etkisine ilişkin önermeler oluşturur. 
+b) Tepken derişiminin tepkime hızına etkisine ilişkin veriye dayalı olan ve olmayan öner-
+meleri karşılaştırır. 
+c) Veri setini kullanarak belirlediği tepkimenin hız denkleminden hareketle tepken deri-
+şiminin tepkime hızına etkisine ilişkin tahminlerde bulunur.
+ç) Kimyasal tepkimelerin hız denklemine ilişkin tahminlerinin geçerliliğini sorgular.   
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, 
+çalışma yaprağı, sınıf içi tartışma, performans görevi ve deney raporu kullanılabilir.
+Öğrenciler performans görevi çerçevesinde tepkenlerin cinsini ve fiziksel hâlini; derişim, 
+sıcaklık, temas yüzeyi ve katalizörün tepkime hızına etkisini araştırmak için neden-sonuç 
+ilişkisini ortaya koyacağı bir deneyi tasarlayabilir; uygulayabilir ve raporlayabilir. Performans 
+görevi “araştırma sorusunu, neden-sonuç ilişkisini, bağımlı-bağımsız değişkenleri ve kont-
+rol değişkenlerini belirleyebilme, deneyler yapabilme ve elde ettiği sonuçları bilimsel kuram 
+ile destekleyebilme” ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.
+Öğrenciler çeşitli malzemelerin enerji kaynağı olma potansiyelini araştırmak amacıyla bir 
+deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Sürecin bütünü “deney tasarım adım-
+larının takip edilerek çeşitli malzemelerin enerji kaynağı olma potansiyelinin belirlenebil -
+mesi” ölçütlerini içeren  dereceli puanlama anahtarı ile değerlendirilebilir.
+Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında 
+toplanarak değerlendirme amaçlı kullanılabilir.
+İÇERİK ÇERÇEVESİ Enerji: Tepkimelerde Meydana Gelen Enerji Değişimi, Maddelerin Enerji Kaynağı Olma Po-
+tansiyeli, Bağ Enerjileriyle Tepkime Entalpisinin Hesaplanması, Standart Oluşum Entalpi-
+leriyle Tepkime Entalpisinin Hesaplanması
+Kimyasal Tepkimelerde Hız:  Kimyasal Tepkimelerin Gerçekleşmesi İçin Gerekli Şartlar, 
+Tepken ve Ürün Derişimleriyle Ortalama Tepkime Hızlarının Hesaplanması, Tepkime Hızına 
+Etki Eden Faktörler (Tepken Cinsi, Maddelerin Fiziksel Hâlleri, Derişim, Sıcaklık, Katı Tep-
+kenin Temas Yüzeyi ve Katalizör), Tek Basamaklı Kimyasal Tepkimelerin Hız Denkleminin 
+Deneysel Veriler Yardımıyla Belirlenmesi 
+Genellemeler/İlkeler/
+Anahtar Kavramlar
+aktivasyon enerjisi, bağ enerjisi, çarpışma teorisi, ekzotermik tepkime, endotermik tepki-
+me, enerji, entalpi, hız sabiti, katalizör, ortalama tepkime hızı, standart oluşum entalpisi, 
+tepkime derecesi, tepkime entalpisi, tepkime hızı  

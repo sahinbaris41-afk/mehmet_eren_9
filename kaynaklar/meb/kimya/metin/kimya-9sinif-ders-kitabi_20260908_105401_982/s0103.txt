@@ -1,0 +1,20 @@
+103
+1. Tema Ölçme ve Değerlendirme Soruları
+39-40. soruları aşağıdaki bilgilere göre cevaplayınız.
+Aşağıda atom modelleri ve bu modellerin oluşturulduğu yıllar verilmiştir.
+Aşağıdaki tabloda atomdaki temel parçacıklar ve bu parçacıkların keşif süreçleri ile ilgili bilgiler 
+verilmiştir.
+19131803 1897 1911 1926
+Orbital, yörünge, çekirdek, küre ve yüklü tanecik kavramlarının ilk kez kullanıldığı atom teorisini 
+bulup kavramları ilgili boşluklara yazınız. Eklenen yeni kavramla birlikte her bir atom modelinin 
+atomun yapısıyla ilgili açıklamasında ortaya çıkan değişiklikleri yazınız.
+39.
+4
+2He atomunun kütlesini her bir atom teorisine göre hesaplayınız. Helyum atomunun küt-
+lesinin hesaplanmasındaki bu farklılığın bilimsel bilginin hangi özelliği ile ilgili olduğunu 
+açıklayınız.
+40.
+Atomdaki Tanecik İlgili Keşiflerin Yılı-Keşfeden Bilim İnsanı Yükü (C) Kütlesi (g)
+Elektron Katot ışınları 1832-M. FaradayEksi yük 1891-J. J. Thomson −1,6022 x10−19 9,1096 x10−28
+Proton Pozitif ışınlar 1886-E. GoldsteinAtomda pozitif yük 1906-J. J. Thomson +1,6022 x10−19 1,6726 x10−24    
+Nötron Yüksüz tanecikler 1913-E. RutherfordNötron 1932-J. Chadwick 0 1,6749 x10−24

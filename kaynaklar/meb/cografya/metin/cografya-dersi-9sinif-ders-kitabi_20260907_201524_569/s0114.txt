@@ -1,0 +1,35 @@
+Harita 3.10: Türkiye’de etkili olan yerel rüzgârlar
+Fön Rüzgârı: Bir dağ yamacı boyunca yükselen hava kütlesinin diğer ya-
+maçta alçalmasıyla ortaya çıkar. Dağ yamacından alçalan havanın ısın-
+ması sonucunda oluşan sıcak ve kurutucu rüzgâra  fön rüzgârı adı verilir  
+(Görsel 3.25).  Fön rüzgârları hava sıcaklığını yükseltir. Kurutucu etkiye sahip 
+olan bu rüzgâr, orman yangınlarına zemin hazırlarken karların hızlıca erime-
+sine, sel ve taşkınlara neden olabilir.
+Fön rüzgârları; İsviçre’de Alp Dağlarının kuzey yamaçlarında, Türkiye’de 
+Doğu Karadeniz Dağları ile Toros Dağlarının denize bakan yamaçlarında kış 
+ve ilkbahar aylarında zaman zaman etkili olur.
+km
+0 100 200 300
+Karayel
+PoyrazYıldız
+Gün doğusuGün batısı
+Kıble KeşişlemeLodos
+Türkiye’de Rüzgârlar: Türkiye'de etkili olan yerel rüzgârlar iklim üzerinde 
+etkilidir. Poyraz, yıldız, karayel gibi kuzeyden esen rüzgârlar; sıcaklığı azal-
+tarak zaman zaman yağmur ve kar yağışlarına neden olur. Lodos, kıble ve 
+keşişleme güney yönünden gelerek sıcaklığı artırır. Lodos, güneybatıdan sı-
+cak ve ılık olarak eser ve ardından yağmur getirir. Daha çok Batı Anadolu ve 
+Marmara’da etkili olan bu rüzgâr, kışın sıcaklığı artırarak karların erimesini 
+kolaylaştırır. Keşişleme ise güneyden sıcak ve kuru olarak esen tozlu bir rüz-
+gârdır. Buharlaşmayı artırarak bitkiler üzerinde kurutucu etki yapar. En çok 
+Güneydoğu Anadolu’da etkilidir (Harita 3.9).  
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+114
+Görsel 3.25  
+Fön rüzgârının oluşumu
+Fön 
+rüzgârı
+20 °C
+-10 °C
+35 °C
+K

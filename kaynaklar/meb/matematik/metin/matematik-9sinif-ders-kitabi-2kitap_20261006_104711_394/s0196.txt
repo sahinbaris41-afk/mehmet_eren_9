@@ -1,0 +1,76 @@
+196
+6. Tema/Ölçme ve Değerlendirme
+3. Aşağıda	verilen	durumlarda	dağılımları	oluşturan	değerlerin	değişkenden	kaynaklı	değişebilmesi	söz	
+konusudur.
+I.	 100	 metrelik	 bir	 parkurda	 10	 tur	 atan	 bir	 atletin	 parkuru	 tamamlama	 süresinin	 kronometre	 ile	
+belirlenmesi
+II.	 Kivinin	Türkiye’nin	farklı	bölgelerindeki	gelişiminin	izlenmesi
+III.	 Aynı	bakteri	türünün	oksijenli	ve	oksijensiz	ortamda	üremesinin	incelenmesi
+IV.	 Bir	okuldan	belirli	sayıda	seçilen	bir	grup	öğrencinin	yıl	sonu	not	ortalamalarının	incelenmesi
+Buna göre verilen durumlara uygun değişebilirlik türleri aşağıdakilerden hangisinde doğru 
+verilmiştir?
+I.	Durum II.	Durum III.	Durum IV.	Durum
+A) Örneklemden 
+kaynaklı
+Doğal	ortamdan 
+kaynaklı
+Örneklemden 
+kaynaklı
+Müdahaleden 
+kaynaklı
+B) Ölçümden 
+kaynaklı
+Müdahaleden 
+kaynaklı
+Örneklemden 
+kaynaklı
+Doğal	ortamdan 
+kaynaklı
+C) Müdahaleden 
+kaynaklı
+Doğal	ortamdan 
+kaynaklı
+Ölçümden 
+kaynaklı
+Doğal	ortamdan 
+kaynaklı
+D) Örneklemden 
+kaynaklı
+Müdahaleden 
+kaynaklı
+Doğal	ortamdan 
+kaynaklı
+Ölçümden 
+kaynaklı
+E) Ölçümden 
+kaynaklı
+Doğal	ortamdan 
+kaynaklı
+Müdahaleden 
+kaynaklı
+Örneklemden 
+kaynaklı
+2. Bir	 grup	 lise	 öğrencisi	 ilçelerindeki	 ortaokul,	 lise	
+ve	 üniversite	 öğrencilerinin	 kitap	 ve	 kırtasiye	
+giderlerini	 araştırmak	 için	 737	 öğrenciye	 anket	
+uygulamıştır.	Anket	 uygulaması	 sonucunda	 elde	
+edilen	verilerin	bir	kısmı	aşağıdaki	tabloda,	tama-
+mı	ise	yandaki	karekodda	verilmiştir.
+Cinsiyet Aylık Kitap ve Kırtasiye Gideri (TL) Okul
+Erkek 660 Ortaokul
+Kız 915 Üniversite
+Erkek 894 Ortaokul
+Kız 834 Ortaokul
+Erkek 814 Lise
+Erkek 762 Ortaokul
+Kız 453 Lise
+Karekodda yer alan veri setini dinamik istatistik programına yükleyiniz ve aşağıdaki soruları 
+cevaplayınız.
+a) A ilçesindeki öğrencilerin aylık kitap ve kırtasiye giderleri nasıl bir eğilim göstermektedir? 
+b) A ilçesindeki öğrencilerin aylık kitap ve kırtasiye giderleri cinsiyetlerine göre nasıl farklılık 
+göstermektedir?
+c) A ilçesindeki öğrencilerin aylık kitap ve kırtasiye giderleri okul türlerine göre nasıl farklılık 
+göstermektedir?
+Kitap ve kırtasiye giderleri veri 
+dosyasına ulaşmak için karekodu 
+okutunuz.

@@ -1,0 +1,49 @@
+33
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+oluşan testler kullanılabilir. Bu soruların değerlendirilmesi dereceli puanlama anahtarı ile 
+yapılabilir. Isı, sıcaklık, hâl değişimi ve ısıl denge konularında çıkarım ve gözlem yapma-
+ya yönelik kısa bir araştırma raporu hazırlanması istenebilir. Bu rapor, dereceli puanlama 
+anahtarı ile değerlendirilebilir. Değerlendirmelerde öz ve grup değerlendirmesi yapılarak 
+çeşitlilik sağlanabilir. Isı aktarım yollarının sınıflandırılabilmesi için kavram haritası hazır -
+lanması istenebilir. Kavram haritası analitik dereceli puanlama anahtarı ile değerlendiri-
+lebilir. Katı maddelerdeki ısı iletim hızını etkileyen etmenlerin tespit edilmesi için perfor -
+mans görevi olarak ürün tasarlamaya yönelik bir proje hazırlanıp sunulması istenebilir. 
+Ürün ve sunumun değerlendirilmesi için analitik dereceli puanlama anahtarı veya öz de-
+ğerlendirme formu kullanılabilir. Performans görevi ile yazılı yoklamalar sonuç değerlen-
+dirmede kullanılır. 
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin maddenin hâlleri, ısı ve sıcaklık kavramları hakkında ön bilgilerinin olduğu ka-
+bul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin ön bilgilerini ölçmek için kelime ilişkilendirme testi ya da zihin haritası uygu-
+laması yapılabilir. Çeşitli medya araçlarında ısı ve sıcaklık kavramlarının bilimsel açıdan 
+doğru ve yanlış kullanımına ilişkin örnekler incelenerek öğrencilerin mevcut kavram yanıl-
+gıları tespit edilebilir. 
+Köprü Kurma Isı, sıcaklık, hâl değişimi, ısı yalıtımı, ısı aktarım yolları kavramlarının günlük hayattaki uy -
+gulamaları arasında bağ kurulabilir. Ayrıca öğrencilerin çevrelerinde gördükleri iklim de-
+ğişikliğine neden olan olay ve olgulara yönelik konu bağlamında ilişki kurması sağlanabilir. 
+Öğrenme-Öğretme 
+Uygulamaları FİZ.9.4.1
+Öğretmen dijital içerikler ve görseller yardımıyla (E3.8) öğrencilerin iç enerji, ısı ve sıcak -
+lık kavramlarını mevcut bilgileri ile ilişki kurarak (SDB1.1) tartışmalarını (SDB2.2) sağlar. 
+Öğrenciler iç enerjinin ısı ve sıcaklık kavramları ile arasındaki ilişkiye yönelik tahminlerde 
+bulunabilir (D14.1, OB1). Öğretmen Sokratik sorgulama veya yönlendirici sorular ile öğren-
+cilerin ısı, sıcaklık ve iç enerji kavramlarını ilişkilendirmelerini sağlar. Öğrenciler anlam 
+çözümleme veya sınıflama tablolarını kullanarak iç enerji, ısı ve sıcaklık kavramları ara-
+sındaki ilişkiyi geneller. Öğretmen, iç enerjinin ısı ve sıcaklık kavramları ile ilişkisini ortaya 
+çıkarabilecek açık uçlu maddelerden oluşan bir test ile öğrencileri değerlendirebilir. 
+FİZ.9.4.2
+Öğretmen, hazır metin veya görseller kullanarak sıcaklık ölçümünde kullanılan Kelvin, Cel-
+sius ve Fahrenheit ölçekleri ile sınırlı kalarak termometrelerin ölçeklendirmelerinden ve 
+kullanım amaçlarından bahseder.Termometre dönüşümleri ile ilgili matematiksel işlem-
+lerden kaçınılır. Öz ısı ve ısı sığası kavramlarını açıklar. Isı sığası kavramı yerine ısı kapasi-
+tesi kavramının kullanılabileceğini belirtebilir. Öğrenciler, öğretmen rehberliğinde grupla-
+ra ayrılarak (SDB2.2) ve takım hâlinde çalışarak (SDB2.1) ısı, öz ısı, ısı sığası ve sıcaklık farkı 
+arasındaki ilişkiyi belirlemeye yönelik deney tasarlar (SDB1.2). Özdeş ısı kaynakları ile farklı 
+kütleli suyu ısıtarak sıcaklığını ölçebilir. Alınan veya verilen ısı miktarı, maddenin cinsi ve 
+kütlesini değiştirebileceği deneyler tasarlar. Elde edilen verileri analiz ederek ısı, sıcaklık, 
+öz ısı ve ısı sığası arasındaki ilişkinin matematiksel modeline ulaşır (OB1). Bu model yar -
+dımıyla farklı kütle, madde ve sıcaklık değişkenlerine göre yeni durumları hesaplayarak 
+bu etmenler arasındaki ilişkiyi geneller. Öğretmen, ısı ve sıcaklık değişimine etki eden et-
+menler hakkında çıkarımlarda bulunabilecekleri açık uçlu maddelerden oluşan bir test ile 
+öğrencileri değerlendirebilir.

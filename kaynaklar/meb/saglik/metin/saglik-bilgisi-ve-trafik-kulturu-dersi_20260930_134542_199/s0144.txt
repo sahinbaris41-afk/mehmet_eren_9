@@ -1,0 +1,50 @@
+4.Tema
+144
+Risk Kontrol Tedbirleri
+İş sağlığı ve güvenliğinde risklerin kontrol altına alınmasında öncelik sırasına dayalı bir yaklaşım benimsenir. 
+Bu yaklaşımda amaç, çalışanı tehlikeden korumadan önce tehlikenin kendisini ortadan kaldırmak ya da 
+etkisini en aza indirmektir.
+Tehlikeyi Kaynağında Yok Etme
+İş sağlığı ve güvenliğinde en etkili korunma yöntemi, tehlikenin tamamen ortadan kaldırılmasıdır. Bu 
+yaklaşım, riskin ortaya çıkmasını engelleyerek iş kazaları ve meslek hastalıklarının oluşma olasılığını en alt 
+seviyeye indirir.
+Bu yaklaşımla ilgili örnekler şunlardır:
+• Islak zemin riskine karşı zeminin sürekli kuru kalmasını 
+sağlayacak drenaj sistemlerinin kurulması
+• Dağınık kabloların tamamen kaldırılarak duvar içi veya 
+kanal sistemine alınması
+• Zararlı kimyasalların süreçten çıkarılması
+• Beden gücüyle yük kaldırma yerine mekanik taşıma 
+araçlarının kullanılması (Görsel 4.22)
+• Yetersiz aydınlatmaya neden olan alanların yeniden 
+tasarlanması
+Tehlike Kaynağını İkame Etme (Değiştirme)
+Tehlikenin tamamen ortadan kaldırılamadığı durumlarda daha az tehlikeli madde, yöntem veya ekipmanların 
+tercih edilmesi yoluna gidilir. Bu yaklaşım çalışanların riske maruz kalma ihtimalini azaltmayı amaçlar.
+Bu yaklaşımla ilgili örnekler şunlardır:
+• Zararlı kimyasallar yerine daha az zararlı veya çevre dostu 
+kimyasalların kullanılması
+• Kaygan zemin kaplamalarının kaymaz malzemelerle 
+değiştirilmesi (Görsel 4.23)
+• Toz oluşturan işlemler yerine daha az toz çıkaran üretim 
+yöntemlerinin uygulanması
+• Gürültülü makinelerin daha sessiz çalışan ekipmanlarla 
+değiştirilmesi
+Mühendislik Çözümleri
+Tehlikenin yok edilemediği veya ikame edilemediği durumlarda çalışanı tehlikeden fiziksel olarak ayırmaya 
+yönelik teknik ve yapısal düzenlemeler yapılır. Bu düzenlemeler, çalışma ortamında yapılan tasarım ve 
+donanım değişikliklerini kapsar.
+Bu yaklaşımla ilgili örnekler şunlardır:
+• Tehlikeli alanların fiziksel bariyerler veya güvenlik 
+çitleriyle sınırlandırılması
+• Riskli işlemler için otomatik veya uzaktan kumandalı 
+sistemlerin kullanılması (Görsel 4.24)
+• Makinelerde acil durdurma sistemlerinin kurulması
+• Çalışma alanlarının ergonomik biçimde yeniden 
+düzenlenmesi
+Görsel 4.23: İş yerinde kaymaz zemin malzemesi  
+                            kullanımı
+Görsel 4.24: Uzaktan kumanda edilebilen sistem  
+                           kullanımı
+Görsel 4.22: Yük taşımada mekanik araç 
+                          (fork-lift) kullanımı

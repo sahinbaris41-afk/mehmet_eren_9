@@ -1,0 +1,55 @@
+66
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.11.1.7 
+Öğrencilere farklı tepkimelerde tepkime hızındaki farklılığının nedenlerini sorgulayabile -
+cekleri “Sebze ya da meyveler neden buzdolabında saklanır?’’, “Kâğıdın yanması ile demirin 
+paslanması olaylarında benzerlik ve farklılıklar nelerdir?’’ gibi sorular sorulur. Öğrencilerden 
+günlük hayattaki farklı örnek olaylar üzerinden kimyasal tepkimelerin hızını etkileyen fak-
+törlere yönelik araştırılabilir sorular oluşturmaları istenir. Öğrencilerin çeşitli fikir, argüman 
+ve yeni bilgilere açık olmaları; bilimsel gelişim için merak duygusunun peşinden gitmele -
+ri gerektiğini fark etmeleri sağlanır (D3.3). Öğrenciler; tepken cinsinin ve fiziksel hâlinin, 
+tepken derişiminin, sıcaklığın, katı tepkenin temas yüzeyi nin ve katalizörün tepkime hızına 
+etkisini belirlemek üzere hipotezler oluşturur (OB1). Öğrencilerden gruplara ayrılmaları, ar-
+kadaşlarıyla iş birliği içinde kimyasal tepkimelerin hızına etki eden her bir faktörün tepki -
+me hızı ile ilişkisine yönelik bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belir -
+lemeleri istenir. Bu şekilde çalışkanlık ve dostluk değeri desteklenir (SDB2.2, D3.3, D4.1). 
+Öğrenciler, her bir faktörün tepkime hızına etkisini araştırmaları için deneyler planlamaları 
+ve planladıkları deneyleri gerçekleştirmeleri için yönlendirilir. Buna alternatif olarak öğ -
+renciler, deneyi sanal ortamlarda simülasyon veya yapay zekâ programları (IBM RXN for 
+Chemistry, Chemputer, Chematica, ChemAl vb.) kullanarak da yapabilir  (OB2). Böylece 
+öğrencilerin görev ve sorumluluklarını yerine getirmeleri için etkili bir yol haritası çizmeleri, 
+hedeflerine ulaşmak için hazırladıkları planı uygulamaları, güvenilir bilgiye ulaşma yollarını 
+bilmeleri sağlanabilir (SDB1.2, D3.2, D3.3, E3.7). Öğrenciler, deney verilerini yorumlayarak 
+her bir değişkenin tepkime hızına etkisini alt mikro seviyede açıklar (OB1). Tepkime hızına 
+etki eden faktörleri çarpışma teorisi ile ilişkilendirir. Çalışma öncesinde öğrencilerden bir 
+form aracılığıyla konu ile ilgili ön bilgilerinin neler olduğunu, deney sürecinde neyi öğrenme-
+yi beklediğini, ne tür stratejiler kullanacağını ve bu süreçte neler hissedebileceğini belirle-
+mesi istenebilir (SDB1.1). Ayrıca öğrencilerden öz değerlendirme formu aracılığıyla başlan-
+gıçta hedeflediği noktaya ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve neleri 
+daha farklı yapabileceğini belirlemesi istenebilir (SDB1.2, SDB1.3).
+Öğrenciler performans görevi çerçevesinde tepkenlerin cinsi ve fiziksel hâlini ve derişim, 
+sıcaklık, temas yüzeyi ve katalizörün tepkime hızına etkisini araştırmak amacıyla neden-so-
+nuç ilişkisini ortaya koyacağı bir deneyi tasarlayabilir; uygulayabilir ve raporlayabilir. Öğren-
+ciler, hazırlanan öz değerlendirme raporu ile deney sürecinde hedeflerine ulaşabilme dü-
+zeyine, öğrenme sürecini nasıl gerçekleştirdiğine, bu süreçte hangi duyguları yaşadığına ve 
+neleri daha farklı yapabileceğine ilişkin kendi değerlendirmelerini yapabilir (SDB1.1, SDB1.3).
+KİM.11.1.8 
+Öğrencilere tek ve çok basamaklı tepkimelerde her deneyde bir tepkenin başlangıç deri -
+şimi değiştirilirken diğer tepken ya da tepkenlerin derişimlerinin sabit tutulduğu şartlarda 
+tepkimelerin başlangıç hızlarının (t = 0 s) belirlendiği bir dizi deneye ilişkin tepken derişim-
+leri-başlangıç tepkime hız verileri verilir. Öğrenciler, hazır veri setini inceleyerek tepken 
+derişiminin tepkime hızına etkisine ilişkin önermeler oluşturur (OB7). Öğrencilerin tepken 
+derişimindeki değişimin tepkime hızına etkisine ilişkin veriye dayalı olan önermeleri ile tep-
+kime hızına ilişkin ön bilgilerinden hareketle oluşturduğu, veriye dayalı olmayan önermeleri-
+ni karşılaştırmaları sağlanır. Öğrencilerden inceledikleri tepkimenin tepken derişimlerinden 
+biri sabit iken diğerinin değiştiği farklı deneylere ait başlangıç hızlarını ve başlangıç derişim-
+lerini karşılaştırarak her bir tepken derişimindeki değişimin tepkime hızına etkisini mate -
+matiksel olarak modelleyebilmeleri amacıyla hesaplamalar yapmaları istenir. Öğrenciler bu 
+hesaplamalar sonucunda tepkenlerin tepkime hızına etkisini gösteren, bir matematiksel 
+model olan hız denklemini belirler. Hız denklemine ait orantı sabiti k hız sabiti olarak tanım-
+lanır. Öğrencilerin tepken derişiminin tepkime hızına etkisine ilişkin tahminde bulunmaları 
+sağlanır. Öğrencilerden tepkime denklemindeki tepkenlerin üstel sayılarını kullanarak tep-
+kime derecesini belirlemeleri istenir. Öğrenciler, tepken derişimindeki değişimin tepkime 
+hız denklemine etkisine ilişkin tahminlerinin geçerliliğini bilimsel bilgilere dayalı olarak sor-
+gular (E3.10, OB7). Öğrencilerden çalışma yaprağında verilen tepkimeler üzerinden tepki-
+me hız denklemini, hız sabitini ve derecesini belirlemeleri istenebilir.

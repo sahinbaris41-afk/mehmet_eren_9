@@ -1,0 +1,45 @@
+59
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Doğrulaması yapılan önerme ve teoremlerin ispatlarının nasıl olabileceğine dair fikir 
+yürütmeleri, öğrencilerin eleştirel bakma eğilimlerinin gelişimini sağlayacaktır. Ayrıca öğ-
+rencilerden bu tür ispatların nasıl yapılabileceğine dair araştırmalar yapmaları istenebilir. 
+(*) Üçgende iç açıların ölçüleri toplamının her durumda 180° olup olmadığına ilişkin araş -
+tırma ödevi verilebilir. Öklid dışı geometriye ilişkin bilgi edinmelerinin sağlanması, öğren -
+cilerin soru sorma eğilimlerini artırabilir. Öğrencilerden araştırma sürecinde planlı, aktif 
+ve bilimsel bir yaklaşım sergileyerek yeterliliklerini geliştirmeleri beklenir. Öğrencilerin 
+araştırma görevleri sonucunda ürün oluşturmalarına ve ürünü uygun şekilde sunmalarına 
+imkân tanınması, görev bilincine sahip olmalarına ve sorumluluk duygularının gelişimine 
+katkı sağlayacaktır. 
+Destekleme Öğrencilerin öncelikle ispatı yapılan önermelerin farklı üçgen çizimleri üzerinden doğru -
+lamalarını yapmaları sağlanabilir. Daha sonra çeşitli materyaller kullanılarak öğrencilerin 
+ispatları anlamlandırmaları için çalışmalar yapılabilir. Örneğin kâğıt katlama ya da kesme 
+ile düzlemde üçgenin iç açılarının ölçüleri toplamının 180° olduğu gösterilebilir. 
+Farklı uzunluktaki üç çubuk veya kalemle üçgen oluşturma şartları incelenir. Benzer şe -
+kilde öğrencinin uygulama yapmasına imkân tanıyan etkileşimli içerikler (sanal manipüla -
+tifler gibi) kullanılabilir.
+Öğrencilerin ispatlarını ve doğrulamalarını yaptıkları önermelere ilişkin çok adımlı ve kar -
+maşık problem durumlarının çözümlerine geçmeden önce öğrencilere az adımlı çözümler 
+içeren problem durumları sunulabilir. Öğrencilerin bu problemleri küçük  gruplarda tartı -
+şarak çözmelerine, arkadaşlarının çözümlerine ilişkin geri bildirimde bulunmalarına imkân 
+tanıyan öğrenme ortamları oluşturulabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+lenir (MAB2). Buna yönelik çalışmalarda öğrencilerin farklı problem durumlarında üçgen 
+görsellerini değerlendirirken görselleri anlama, görselleri yorumlama, görseller hakkında 
+eleştirel düşünme, görselleri kullanarak yeni görseller oluşturma becerilerinin gelişimi 
+desteklenir (OB4). Ayrıca öğrencilerin problem durumlarına çözüm bulurken yürütecekle-
+ri çalışmalar; probleme ilişkin bilgilerin çözümlenmesini, yorumlanmasını ve sorgulanarak 
+eleştirel bir bakış açısıyla kullanılmasını gerektirir  (OB1). Öğrencilere üçgende açı ve kenar 
+özellikleri hakkında yaptıkları doğrulama veya ispatlamaları kullanabilecekleri problem du-
+rumları bulmalarını ve bunları çözmelerini gerektirecek bir performans görevi verilebilir.
+Geometrinin tarihî süreçte ortaya çıkışı, zamanla kuramsal ve aksiyomatik  bir yapı kazan-
+ması; öğrencilerin seviyelerine uygun soru, kavram ve açıklamalarla tartışılır. Türk kültür 
+ve medeniyetinde geometrinin tarihî gelişim sürecine katkı sağlamış bilim insanlarından 
+(Ebülvefa Buzcani, Kuşyar bin Lebban, Kadızade-i Rumi, Nasirüddin Tusi) ve yaptıkları ça-
+lışmalardan bu çıktıya yönelik olanlar tanıtılır ya da öğrencilerden araştırma yapmaları is-
+tenir (OB5, E1.1). Mustafa Kemal Atatürk tarafından 1936-1937 yılları arasında hazırlanmış, 
+bazı geometri terimlerinin bugün kullanılan karşılıklarına yer veren Geometri isimli kitaptan 
+bahsedilerek öğrencilerin millî bilinç sahibi olma, millî kimliğini tanıma ve ülke varlıklarını 
+korumaya yönelik duyarlılıklarının artırılması sağlanır (D19.2).

@@ -1,0 +1,26 @@
+4.TEMA - EŞLIK VE BENZERLIK
+40 41
+Değerlendirme
+Homoteti dönüşümünü uyguladığınızda, ABC üçgeninin her bir köşesinin orijinal konumundan 
+yeni konumuna nasıl bir yol izlediğini açıklayınız
+DEF üçgeninin açılarını ölçünüz ve ABC üçgeninin açı ölçüleriyle karşılaştırınız. Açı ölçülerinin 
+büyüklüğünde bir değişiklik gözlemliyor musunuz? Homoteti dönüşümünün, açıların büyüklüğünü 
+koruyup korumadığına dair bir genelleme yapabilir misiniz? Açıklayınız.
+Orijinal şeklin kenarlarının orta noktalarını bulunuz ve bu noktalara homoteti dönüşümü uygu -
+layınız. Orijinal ve yeni oluşan şeklin kenarlarının orta noktaları arasında nasıl bir ilişki ortaya çık-
+tığını açıklayınız.
+ABC üçgeninin her bir kenarının, homoteti merkezi ile olan mesafesi ile yeni konumunun homo-
+teti merkezine olan mesafesi arasındaki oranı hesaplayınız. Bu oran nedir ve bu oran her bir ke-
+nar için aynı mıdır? Açıklayınız.
+Homoteti dönüşümü sonucunda elde edilen şekil ile orijinal şekil arasında nasıl bir ilişki  
+kurabilirsiniz? Bu şekillerin benzer olup olmadığını araştırınız ve gerekçenizi yazınız.
+Çözüm:
+Çözüm:
+Çözüm:
+Çözüm:
+Çözüm:
+1
+2
+4
+3
+5

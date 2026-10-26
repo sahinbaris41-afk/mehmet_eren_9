@@ -1,0 +1,48 @@
+162
+3. ÜNİTE 
+2. Açık hava basıncı ile ilgili beyin fırtınası gerçekleştiriniz. Beyin fırtınasından elde ettiğiniz bilgilerden hare­
+ketle açık havanın oluşturduğu basınç ile sıvı basıncı arasındaki benzerlikleri ve farklılıkları tabloya yazınız.
+Benzerlikler Farklılıklar
+1. 1. 
+2. 2.
+3. Aşağıda verilen soruları metinlere göre cevaplayınız.
+Rüzgârın Oluşumu
+Rüzgâr, atmosferdeki alçak ve yüksek basınç alanla ­
+rı arasındaki hava hareketidir. Alçak basınç alanları 
+genellikle sıcak havanın genleşerek yükselmesi, yüksek 
+basınç alanları ise soğuk havanın yoğunlaşıp alçalma ­
+sıyla oluşur. Atmosferdeki basınç sistemleri; sıcaklık 
+farklarının yanında Dünya’nın dönüşü, jet akımları ve 
+diğer dinamik etmenlerle de şekillenir. Hava kütlele ­
+ri, yüksek basınç alanlarından alçak basınç alanlarına 
+doğru hareket etmeye çalışır ancak Dünya’nın kendi 
+ekseni etrafında dönmesi, rüzgârın doğrusal hareket 
+yapmasını engeller ve onu sapmaya uğratır. Bu sapma, 
+rüzgârın yönünü belirleyen temel etmenlerden biridir. Rüzgârın hızı; basınç farkının büyüklüğüne, dönme 
+hareketinin etkisine, yüzey sürtünmesine ve coğrafi engellere bağlı olarak değişir. Okyanuslar üzerinde daha 
+az sürtünme olduğu için rüzgârlar daha hızlı eser. Dağlar, vadiler gibi kara yüzeyindeki engeller rüzgârın  
+hızını değiştirebilir. Ayrıca küresel hava dolaşımı, mevsimsel değişiklikler ve okyanus akıntıları da rüzgârın 
+karakteristik özelliklerini etkileyen önemli etmenlerdendir. Bu bakımdan rüzgârın oluşumu; yalnızca coğ ­
+rafi etmenlerle değil, atmosferin genel dinamikleriyle de yakından ilişkilidir.
+a) Açık hava basıncındaki değişiklikler rüzgârın hızını nasıl etkiler? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Rüzgâr Enerjisi
+Basınç farklılıklarından kaynaklanan rüzgârlar, yeni ­
+lenebilir enerji kaynakları arasında önemli bir yere sa ­
+hiptir. Alçak ve yüksek basınç alanları arasındaki hava 
+hareketi rüzgâr enerjisini oluşturur. Bu enerji, rüzgâr 
+türbinleri aracılığıyla elektrik enerjisine dönüştürü ­
+lür. Rüzgâr türbinlerinin pervaneleri rüzgârın etkisiyle 
+döner ve bu hareket, türbinin içindeki jeneratörün 
+elektrik üretmesini sağlar. Bu nedenle rüzgâr oluşumu, 
+yenilenebilir enerji kaynaklarının geliştirilmesinde kri­
+tik bir rol oynar ve sürdürülebilir enerji çözümleri sağ­
+lamada önemli bir yer tutar.
+Rüzgâr türbinlerinin tasarımı, rüzgârın hareket ener ­
+jisini verimli bir şekilde yakalayıp dönüştürmek üzere 
+yapılmıştır. Türbinler, genellikle yüksek rüzgâr potansiyeline sahip bölgelerde konumlandırılır ve farklı rüz­
+gâr hızlarına uyum sağlayacak şekilde ayarlanabilir pervanelere sahiptir. Bu pervaneler, rüzgârın yön ü ve 
+şiddetine göre dönebilir.
+Yüksek ve alçak basınç alanları
+Yüksek basınç alanı Alçak basınç alanı
+Rüzgâr türbinleri

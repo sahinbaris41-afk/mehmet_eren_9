@@ -1,0 +1,62 @@
+160
+3. ÜNİTE 
+Kontrol Noktası
+Balona Uygulanan Kuvvet
+Balon içindeki sıvıya dışarıdan 
+uygulanan kuvvetin oluşturduğu 
+basınç, sıvı tarafından tüm nokta­
+lara eşit şekilde iletilir. 
+Şekilleri aynı veya farklı olabilen 
+iki veya daha fazla sayıdaki kabın 
+borular yardımıyla birbirine 
+bağlanmasıyla oluşturulan sisteme 
+birleşik kaplar adı verilir. Birleşik 
+kaplar sisteminde kolların şekli ve 
+kesit alanları ne olursa olsun, tüm 
+kollardaki sıvı seviyeleri birbirine 
+eşit olur.
+Sıvıların bu özelliği, ilk olarak 
+Blaise Pascal tarafından ortaya 
+konmuştur ve “Pascal Y asası” 
+adıyla bilinmektedir.
+P1 = P2
+P2P1
+I II
+Musluk
+P1 > P2
+I II
+U şeklindeki bir boruda I. kolun 
+sıvı yüksekliği II. kolun sıvı 
+yüksekliğine göre daha fazla 
+olduğundan I. kolun tabanındaki 
+sıvı basıncı (P1), II. kolun tabanın­
+daki sıvı basıncından (P2) daha 
+yüksektir. Musluk açıldığında sıvı, 
+I. koldan II. kola doğru akar. 
+K L
+A1 A2
+F
+G
+Su cenderelerinde yüzey alanı 
+küçük olan bir pistona uygulanan 
+kuvvet sonucunda sıvı üzerinde 
+oluşan basınç, Pascal Y asası 
+sayesinde sıvının temas ettiği 
+tüm yüzeylere ve dolayısıyla daha 
+büyük pistona eşit şekilde iletilir. 
+Pascal Y asası
+Kapalı bir kaptaki sıvıya dışarı­
+dan bir basınç uygulandığında bu 
+basınç, sıvının her noktasına ve 
+kabın iç yüzeyine eşit büyüklükte 
+ve her yönde iletilir.
+Bu yasa, kabın her noktasında 
+basıncın değil, meydana gelen 
+basınç değişiminin eşit olduğunu 
+ifade eder. 
+Pascal Y asası’na Göre
+Pascal Y asası’ndan Y ararlanılarak Geliştirilen Sistemlere Örnekler
+Sıvılarda Basınç
+Sıvılara basınç uygulandığında sıvıların hacminde ihmal edilebilir bir değişim meydana gelir. Bu 
+sebeple genel olarak sıvıların sıkıştırılamayacağı kabul edilir. 
+ 

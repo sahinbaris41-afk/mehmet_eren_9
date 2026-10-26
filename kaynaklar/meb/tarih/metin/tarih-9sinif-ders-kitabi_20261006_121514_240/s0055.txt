@@ -1,0 +1,33 @@
+55
+ GEÇMİŞİN İNŞA SÜRECİNDE TARİH
+“Francis Bacon’un (Fransis Beykın) Altı Derecesi” adlı proje, XVI-XVII. yüzyıl -
+larda yaşayan Bacon, Shakespeare (Şekspir), Newton (Nivtın) gibi altı binden 
+fazla tanınmış ismin fikirlerini, ilişkilerini ve etkileşimlerini ortaya koymak için 
+hazırlanmıştır. Dünyanın farklı yerlerinden akademisyen ve öğrencilerin kat -
+kılarıyla genişleyen bu proje, 13.000’den fazla kişinin 200.000’den fazla etki -
+leşimini görselleştirmiştir. Projede 19 milyondan fazla potansiyel bağlantı, veri 
+madenciliği yöntemiyle araştırılarak kullanıcıların hizmetine sunulmuştur.
+Proje kapsamında Carnegie Mellon (Karneyç Melın) Üniversitesi ve Georgetown 
+(Corçtavn) Üniversitesindeki veri madencileri ve akademisyenler tarafından 
+bir genel ağ sitesi hazırlanmıştır. “Oxford Ulusal Biyografi Sözlüğü” verilerinin 
+kullanıldığı bu çalışmada XVI-XVII. yüzyıllarda İngiltere’de yaşamış birçok ünlü 
+isim ve bu isimler arasındaki etkileşim ele alınmıştır.
+1. Kaynakların dijitalleştirilmesi, tarih araştırmalarını ve yazımını nasıl etkilemiş olabilir? Açıklayınız. 
+2. Dijital tarih çerçevesinde başka ne gibi projeler hazırlanabilir? 
+3. Dijital tarih araştırmaları yapılırken yasalara uymanın gerekliliğini açıklayan en az iki cümle yazınız.
+Menşei
+2. derece
+1. derece
+İstatiksel 
+sonuç
+İnsan 
+katkısı
+Düğümlerin rengi ve boyutu ayrılma derecesini gösterir.
+Gri kenarlar istatiksel olarak çıkarılır. Siyah kenarlar 
+kullanıcı katkısıyla yapılmıştır.
+“Francis Bacon’un Altı Derecesi” adlı projenin ana sayfa ekran görüntüsü (Görseldeki kırmızı daireler doğrudan kurulan ağ 
+bağlantılarını, beyaz daireler ise ikinci dereceden kurulan ağ bağlantılarını temsil etmektedir.)
+Üstteki karekod 
+üzerinden bu projeyle 
+ilgili genel ağ sitesine 
+ulaşabilirsiniz.

@@ -1,0 +1,52 @@
+56
+KİMYA 9 
+3. TEMA: SÜRDÜRÜLEBİLİRLİK
+1. ETKINLIK ADI METAL NANOPARÇACIKLAR 
+ ► Öğr encilerden veri setinde verilen evsel atıklardan elde edilen metal nanoparçacık miktarı ile ilgili 
+hazır veri setindeki nanopartikül boyutunu incelemelerini isteyiniz.
+ETKINLIĞIN AMACI Me tal nanoparçacık miktarının hesaplanması ile ilgili hazır veri setinden çıka-
+rım yapabilme
+DESTEKLEME 
+UYGULAMASI
+Evsel atıklardan elde edilen metal nanoparçacık miktarına ilişkin hazır veri 
+seti kullanılarak evsel atıkların ne kadarının geri dönüştürülebildiğine yöne-
+lik çıkarım yapılması sağlanır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+Bazı evsel atıklardan elde edilen gümüş ve bakır nanopartikül miktarlarının 
+verildiği hazır veri seti
+Bu etkinlikte kullanılması için "VERİ SETİ"ni öğrenci sayısı kadar çoğaltarak öğrencile-
+re dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Aşağıdaki veri setinde yer alan evsel atıklardan portakal ve soğan kabuklarının 100 mL suda çözün-
+müş miktarları ve çözeltilerinden elde edilen gümüş ve bakır nanopartikül (NP) miktarları teorik olarak 
+verilmiştir.
+VERI SETI
+Elde Edilen 
+Nanopartikül
+Nanopartikül
+Kısaltması Evsel Atık 100 mL Suda Çözünmüş Gümüş Nitrat Miktarı (g) NanopartikülBoyutu (nm)
+Gümüş AgNP
+Portakal  
+kabukları
+0,17 0,5-1
+0,85 2-3
+Soğan  
+kabukları
+0,17 -
+0,85 -
+Elde Edilen 
+Nanopartikül
+Nanopartikül
+Kısaltması Evsel Atık 100 mL Suda Çözünmüş Bakır(II) Klorür Miktarı (g) NanopartikülBoyutu (nm)
+Bakır CuNP
+Portakal  
+kabukları
+2 -
+10 -
+Soğan  
+kabukları
+2 0,3-0,7
+10 1,5-2,5
+Not: (–) Nanopartikül üretimi gözlemlenmez.

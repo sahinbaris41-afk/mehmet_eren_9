@@ -1,0 +1,50 @@
+20
+1. Tema /  Sayılar
+5.  Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini yazınız.
+ A = 3 . 211 ve B = 7 . 511 sayıları veriliyor. A . B işleminin sonucunda elde edilen sayının kaç basamaklı oldu-
+ğunu bulunuz.
+6.  Oluşturduğunuz önermelerin doğrulama adımlarının bir kısmı aşağıda verilmiştir. Boşlukları uygun şe­
+kilde doldurarak önermenizi matematiksel olarak doğrulayınız ve doğrulama yöntemlerinizi kullanışlılık 
+açısından değerlendiriniz.
+e e
+xy xx ... x yy... yx yx y ... xy xyaa a$$$ $ $$$ $$ $$ $$ $$== =
+tan tan.... ....e tan
+__ __ii ii12 3444444 444444 12 34444444 44444 12 344444444444444 44444444444444
+a
+e
+ee
+tan....
+y
+x
+yy... y
+xx... x
+y
+x
+y
+x ... yx .........aa $$$ $$$ $ $$== =
+tant an.... ....
+cc cmm m
+67 84444444 44444
+12 34444444 444441 234444444444 4444444444
+Üslü Gösterimleri Verilen Sayıların Üssünü Alma İşlemi
+Günümüzde veri depolama birimi olarak kullanılan bayt (B), megabayt (MB) ve cigabayt (GB) arasında 
+aşağıdaki ilişki mevcuttur.
+1 GB = 210 MB = (210)3 B 
+1 cigabaytın kaç bayt olduğunu 2’nin kuvveti olarak yazabilmek için hangi matematiksel işlemlere ihtiyaç 
+duyulur?
+5.	Uygulama
+Üslü Gösterimin Üssünü Alma
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız. 
+x sıfırdan farklı bir gerçek sayı, a ve b tam sayı olsun.
+1. (xa)b işleminin sonucu nasıl hesaplanabilir? Varsayımlarınızı sınıf arkadaşlarınızla saygı çerçevesinde tartı -
+şarak oluşturunuz.
+2. Tabloda verilen işlemlerin sonuçlarını örnekteki gibi bularak ilgili yere yazınız.
+ 
+İşlem İşlemin Açık Hâli Sonucun Üslü Gösterimi
+(32)3 32 . 32 . 32 = 32+2+2 36
+(54)6
+(-25)2
+3
+2 5 -3cm=G
+(xa)b

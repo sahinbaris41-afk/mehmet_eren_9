@@ -1,0 +1,55 @@
+100
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.10.3.1
+Öğrencilerden inceledikleri farklı doğal sayıları asal çarpanlarına ayırmaları, bölenlerini belirle-
+meleri ve bunlar arasındaki ilişkilere dair varsayımlarda bulunmaları beklenir. Ayrıca öğrenci-
+lerin verilen bir doğal sayının asal çarpanlarının sayısı ile o sayının pozitif tam sayı bölenlerinin 
+sayısı arasındaki ilişkiye dair varsayımlar geliştirebilmelerini sağlayacak örnek durumlar incele-
+nir. Öğrencilerin bu varsayımlarını sınıfta ifade ederek ve birbirlerinin varsayımları üzerinde dü-
+şünerek genellemelerde bulunmaları sağlanır. Öğrencilerden genellemelerini varsayımlarıyla 
+karşılaştırarak elde ettikleri önermeleri uygun bir matematiksel dille sunmaları beklenir. Bu 
+önermelerin gerçek yaşam durumu problemlerinde (kriptoloji, kodlama gibi) değerlendirildi-
+ği uygulamalara yer verilir. Ayrıca bu önermelerin değerlendirilmesinde doğal sayıların negatif 
+bölenleri hakkında sonuçlar elde etmeye yönelik çalışmalar yapılır. Bir doğal sayının asal çar-
+panları ile bölenleri arasındaki ilişkilere dair çalışma kâğıdı verilebilir.
+MAT.10.3.2
+Öğrencilere önce iki, sonra da üç farklı doğal sayı içeren; verilen sayıların bölenlerinin ve kat-
+larının yazılacağı tablolardan oluşan uygulama kâğıtları verilebilir. Bu çalışma, sınıf gruplara 
+ayrılarak iletişim ve iş birliği becerilerinin kullanılmasına olanak sağlayacak şekilde tasarlanır 
+(SDB2.1, SDB2.2).  Grup çalışması sayesinde  öğrencilerin kendi düşüncelerini etkin bir şe-
+kilde ifade edebilmeleri, arkadaşlarıyla düşüncelerini paylaşabilmeleri ve diğerlerinin düşün-
+celerini saygı çerçevesinde dinleyerek sözlü/sözsüz iletişimde bulunabilmeleri desteklenir 
+(SDB2.1, SDB2.2, D14.1). Verilen sayılardan 1’den başka pozitif ortak böleni olmayanlara dik-
+kat çekilir. Öğrencilerden aralarında asal olan doğal sayıların en büyük pozitif ortak böleninin 
+1 olduğu varsayımında bulunmaları beklenir. Öğrencilerin sıfırdan ve birbirinden farklı doğal 
+sayıların pozitif ortak katlarının en büyüğünün bulunamayacağı, en küçüğünün bulunabile-
+ceği varsayımlarına ulaşmaları sağlanır. Birbirinden farklı doğal sayıların pozitif ortak bölen-
+lerinin en küçüğünün her zaman 1 olduğu ve en büyüğünün bulunabileceği varsayımlarına 
+ulaşmaları beklenir. Verilen en fazla üç farklı doğal sayının ortak bölenleri ve katları için de 
+benzer varsayımların yapılması sağlanır. Bu gösterimlerle yapılan işlemlerde ortaya çıkan 
+örnekler incelenerek örüntüler belirlenir. Belirlenen örüntülere göre öğrencilerin genelle-
+meler yapmaları sağlanır. Bu genellemeler varsayımlarla karşılaştırılır. Öğrencilerden elde 
+ettiği genellemelerden yola çıkarak herhangi iki doğal sayının en büyük pozitif ortak böleni 
+ve en küçük pozitif ortak katı arasındaki ilişkilere dair önermeler sunmaları beklenir. Ayrıca 
+öğrencilerin “bu sayıların çarpımının, sayıların en küçük pozitif ortak katıyla en büyük pozitif 
+ortak böleninin çarpımına eşit olduğu” gibi EKOK ile EBOB arasındaki ilişkilere dair önermeler 
+sunmaları sağlanır. Elde edilen önermeler, gerçek yaşam durumlarında kullanılarak değer-
+lendirilir. Listeleme, asal çarpan ağacı, cebirsel gösterimler gibi farklı  matematiksel doğru-
+lama yöntemlerinin olumlu ve olumsuz yönleri tartışılır (MAB3). Örneğin belirli bir örüntüye 
+göre bir yolun iki tarafında bulunan bazı kaldırım taşlarının boyanması problemi üzerinden 
+farklı örüntü durumlarında toplam kaç kaldırım taşının boyanabileceğine dair önermeler, lis-
+teleme ve cebirsel gösterim yöntemleri kullanılarak değerlendirilir (E3.6, E3.7). Öğrenciler-
+den eşitlik ve eşitsizlik sembolleri kullanarak yansıtabilecekleri (“Herhangi iki doğal sayının 
+EBOB’u sayılardan  küçük veya  birine eşit, EKOK’u sayılardan büyük veya birine eşit olur.”, 
+“İki doğal sayı  aralarında asal ise EBOB ’u 1’dir.” gibi) EBOB ve EKOK özelliklerini gösteren 
+posterler hazırlamaları istenebilir. Öğrenciler, bu çalışmalarını bilişim araçlarından yarar -
+lanarak sergileyebilir  (OB2, MAB5).  Öğrencilere en çok dört doğal  sayının  ortak  bölenle-
+riyle  bunların en büyüğü ve ortak katlarıyla bunların en küçüğü arasındaki ilişkilere
+dair gerçek yaşam problemleri (en az maliyetle zemine fayans döşeme, bir bahçenin etra-
+fını çitlerle çevreleme gibi) içeren çalışma kâğıdı verilebilir (OB3).
+MAT.10.3.3
+Öğrencilerden önceden öğrendikleri 2, 3, 4, 5, 9 ve 10 ile bölünebilme özellikleri 
+hakkında bu sınıf seviyesinde matematiksel doğrulamalar yapmaları beklenir. Ayrıca 
+8’e bölünebilme ile ilgili genellemenin ve bunun doğrulamasının da yapılması istenir. Bu 
+doğrulamalarda bölünen sayıların basamak çözümlemeleri yapılarak cebirsel yöntemler 

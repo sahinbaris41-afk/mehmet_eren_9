@@ -1,0 +1,28 @@
+90
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+3. ÜNİTE: DALGALAR
+Bu ünitede öğrencilerin su dalgalarında gerçekleşen girişim ve kırınım olaylarına ilişkin 
+genellemeler yapmaları, ışıkta kırınım ve girişim deneyleri tasarlamaları, elektromanyetik 
+dalgaları sınıflandırmaları, ışık renklerinin dalga boyları hakkında genellemeler yapmaları, 
+mekanik veya elektromanyetik dalgaların kullanıldığı cihazlar hakkında bilgi toplamaları 
+amaçlanmaktadır.
+DERS SAATİ 22
+ALAN 
+BECERİLERİ FBAB2. Sınıflandırma, FBAB7. Deney Yapma, FBAB10. Tümevarımsal Akıl Yürütme
+KA VRAMSAL 
+BECERİLER KB2.8. Sorgulama, KB2.16. Muhakeme (Akıl Yürütme), (KB2.16.1. Tümevarımsal Akıl Yü-
+rütme)
+EĞİLİMLER E1.4. Kendine İnanma (Öz Yeterlilik), E1.5. Kendine Güvenme (Öz Güven), E2.4. Güven, 
+E3.4. Gerçeği Arama, E3.8. Soru Sorma, E3.9. Şüphe Duyma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB3.3. Sorumlu Karar Verme
+Değerler D3. Çalışkanlık, D8. Mahremiyet, D11. Özgürlük, D16. Sorumluluk, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Görsel Sanatlar, Matematik, Müzik 
+BECERİLER ARASI 
+İLİŞKİLER KB2.6. Bilgi Toplama, KB2.10. Çıkarım Yapma, KB2.11. Gözleme Dayalı Tahmin Etme, 
+KB2.14. Yorumlama

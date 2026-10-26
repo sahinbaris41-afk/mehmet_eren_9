@@ -1,0 +1,33 @@
+128
+5. Tema/Algoritma ve Bilişim  
+Akademik ve Sosyal Faaliyetlere Katılım Bursu Değerlendirme Algoritması
+Aşağıda verilenlere göre soruları cevaplayınız.
+Bir lise, akademik ve sosyal faaliyetlerde üstün başarı göstermiş öğrencilere burs vermek için özel bir program 
+başlatmıştır. Bu program; öğrencilerin not ortalamalarını, etkinliklere ve bilimsel projelere katılımlarını dikkate 
+alarak burs alacak öğrencileri belirlemektedir. 
+Tablo 1’de burs başvurusu yapacak öğrenciler ve bu öğrencilerin not ortalamaları, katıldıkları gönüllü etkinlikler-
+de bulunma süreleri (yıl), bilimsel bir projede veya projelerde yer alıp almadıkları hakkında bilgiler yer almaktadır. 
+Son sütunda öğrencilerin burs almaya hak kazanıp kazanmadıkları belirtilecektir.
+Tablo 1
+İsim Not  Ortalaması Gönüllü Etkinliklerde Bulunma Süresi (yıl) Bilimsel Projede Yer Aldı mı? (Evet/Hayır) Burs Almaya Hak Kazandı/Kazanamadı
+Ali 88 3 Evet
+Banu 90 0 Hayır
+Cem 84 2 Evet
+Derya 92 1 Evet
+Emre 78 4 Hayır
+Fatma 85 1 Evet
+Gökhan 87 0 Hayır
+Hülya 83 5 Evet
+İlker 80 3 Hayır
+Jale 95 2 Evet
+Kerem 86 2 Evet
+Leyla 91 1 Hayır
+Murat 77 3 Evet
+Elif 89 0 Evet
+Oğuz 79 4 Hayır
+Pelin 88 2 Hayır
+Rıza 82 1 Evet
+Seda 93 5 Evet
+Tarık 90 0 Hayır
+Umut 84 3 Evet
+8. Uygulama

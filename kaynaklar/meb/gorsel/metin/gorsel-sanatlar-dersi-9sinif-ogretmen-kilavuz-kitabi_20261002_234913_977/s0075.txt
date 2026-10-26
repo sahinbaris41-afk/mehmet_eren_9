@@ -1,0 +1,12 @@
+GÖRSEL SANATLAR
+75
+Görsel 2.48: Kalite kontrastı
+6. Kalite Kontrastı: Herhangi bir rengin siyah ile koyulaştırılarak veya beyaz ile açılarak 
+oluşturulan tonları, o rengin farklı kalitelerini ifade eder. Bir renge beyaz katılarak açılma-
+sı sonucunda ışık değeri yükselir, siyah katılması sonucunda ise ışık değeri düşer ve renk 
+matlaşır  (Görsel 2.48).
+7. Miktar Kontrastı: Renklerin bir yüzey üzerinde kapladıkları alan ve ışık dereceleri ile 
+bir denge durumu oluşturmasına miktar kontrastı denir. Her renk farklı ışık değerine 
+sahiptir. Işık değeri yüksek olan açık bir renk yüzey üzerinde koyu renklere göre daha 
+fazla alanı kaplıyormuş gibi görünür (Görsel 2.49).
+Görsel 2.49: Miktar kontrastı

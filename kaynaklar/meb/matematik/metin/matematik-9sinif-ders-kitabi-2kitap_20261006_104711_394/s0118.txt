@@ -1,0 +1,32 @@
+118
+5. Tema/Algoritma ve Bilişim  
+2. 
+A B
+  Yandaki çizge; A ya da B düğümünden başlanarak, kalem hiç kaldırılmadan, her ayrıt-
+tan bir kez geçilerek, görseldeki oklar takip edilerek, başlanan noktaya dönmek şartıyla 
+kâğıt üzerine çizilebilir.
+ Tablodaki diğer çizge örneklerini bir başlangıç noktası belirleyerek, kaleminizi hiç kaldırmadan ve her ayrıttan 
+bir kez geçmek şartıyla kâğıt üzerine çiziniz. 
+ 
+ 
+ 
+ 
+Çizge Çizim Alanı
+3. Kâğıt üzerine yaptığınız çizimlerde her bir düğümün sahip olduğu ayrıt sayısının tek ya da çift olmasının çiz -
+genin kalem hiç kaldırılmadan çizilebilme durumu ile ilişkisini açıklayınız.
+ 
+4. 
+D
+C
+A
+B
+       Yanda verilen modelde Königsberg şehrinin köprüleri ve A noktasının 
+üzerinde olduğu ada yer almaktadır.
+       Buna göre
+ 
+a) Çizgede her bir düğümün ayrıt sayısının tek ya da çift olmasının rota planlarına bir etkisi olup olmadığını 
+açıklayınız. 
+ 
+b) Her köprüden yalnızca bir kez  geçmek şartıyla belirlediğiniz bir başlangıç noktasına dönmenin müm -
+kün olup olmadığını çözümleyen bir algoritmanın çalışması için gereken girdileri ve beklenen çıktıları  
+tanımlayınız. 

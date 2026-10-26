@@ -1,0 +1,44 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+33
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Efe’nin Gayreti
+Efe, dedesiyle tarlaya gitti. Tarla işlerinin çok zaman aldığını ve yorucu olduğunu duymuştu. Tarlaya 
+ulaştıklarında her yerin çamur olduğunu gördü. Bunun üzerine dedesine bitkilerin gerçekten bu kadar 
+çok suya ihtiyaç duyup duymadığını sordu. Dedesi “Hayır, bu kadar suya gerek yok.” dedi. Efe, dede -
+sinin cevabı üzerine genel ağda sulama yöntemleri hakkında bir araştırma yaptı ve araştırmasının 
+sonucunda aşağıdaki bilgilere ulaştı.
+Sulama Yöntemi Olumlu Yönleri Olumsuz Yönleri Metrekare Fiyatı (₺)
+Salma
+Su kaynaklarına yakın yerlerde 
+kullanılır. Tarım amaçlı sulama -
+da kullanılır.
+Su kaybı oldukça faz -
+ladır. 120-150
+Fıskiye Suyu geniş alana yayar. Kurulu -mu kolaydır. Zaman ve sensör ayarı yoktur. Suyun %50’si israf olur. 150-300
+Akıllı
+%50 su tasarrufu sağlar. Bit -
+kilerin ihtiyacı kadar sulama 
+yapar.
+Kurulum maliyeti 
+yüksektir ve teknolojik 
+altyapı gerektirir.
+800–1.100
+Damla
+%60 kadar su tasarrufu sağlar. 
+Suyu doğrudan bitki köklerine 
+ulaştırır ve toprağın nemli kal -
+masını sağlar.
+Filtrelerin tıkanma ola -
+sılığı yüksektir.  350–550
+1. Sulama yöntemleri, su tasarrufu yönünden incelendiğinde aşağıdakilerden hangisi doğrudur? 
+(KB3.2.SB1)
+A)  Salma sulama, suyu verimli kullanmak için en etkili yöntemdir.
+B)  Damla sulama, en fazla su tasarrufu sağlayan yöntemdir.
+C)  Fıskiye sulamada su israfı, damla sulamaya göre daha azdır.
+D)  Akıllı sulamada su israfı, damla sulamaya göre daha fazladır.
+2. Efe’nin dedesi su tasarrufunu ve maliyeti dikkate aldığında tarlasını hangi yöntemle sula-
+malıdır? (KB3.2.SB5)
+A)  Salma
+B)  Fıskiye
+C)  Akıllı
+D)  Damla

@@ -1,0 +1,54 @@
+89
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.12.1.2 
+Etkinlik kâğıdında öğrencilere farklı metaller (bakır, çinko, demir, kurşun vb.) ve bu metal 
+tuzlarının sulu çözeltileri verilir. Öğrencilerden verilen metallerin aktifliklerinin sıralaması-
+nın belirlenmesine yönelik araştırma soruları oluşturmaları istenir (OB7). Böylece öğrenci-
+lerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları sağlanır (D3.3). Öğrenciler, seçtiği 
+araştırma sorusunu temel alarak metallerin aktifliklerinin sıralamasını tahmin edebile -
+cekleri bir hipotez geliştirir. Öğrencilerden gruplara ayrılmaları ve iş birliği içinde çalışarak 
+metallerin aktifliklerinin sıralamasını belirleyecekleri mikro ölçekli bir deney planlamaları 
+istenir (SDB2.1, SDB2.2, D4.1) . Böylece deney sırasında öğrencilerde dostluk değeri pe -
+kiştirilir. Gruplar, sanal veya gerçek ortamlarda planladıkları bir deneyi gerçekleştirir; konu 
+ile ilgili veri toplar ve topladığı verileri kaydeder. Verilerini metallerin aktifliklerinin sırala -
+masına ilişkin oluşturduğu hipotez temelinde yorumlar (OB4). Geliştirdiği hipotez ile deney 
+bulguları arasında tutarsızlıklar varsa bunun gerekçelerini açıklayarak hipotezini yeniler. 
+Araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir 
+(D3.3). Böylece öğrencilerin alternatif çözümler bulmaları ve yeni durumlara uyum sağla-
+maları desteklenir (E3.3, SDB3.2). Öğrenciler deney gözlemlerinden hareketle metallerin 
+aktifliklerinin sıralamasına ilişkin makro seviyede elde ettikleri bulguları alt mikro ve sem-
+bolik seviyede ilgili metallerin elektron verme eğilimini, iyonlaşma enerjisini ve tepkime 
+sürecindeki etkileşimleri dikkate alarak açıklar. Ayrıca sembolik seviyede indirgenme ve 
+yükseltgenme yarı tepkime denklemlerini yazarak yük dengelerinin eşitliğini sağlar (OB7). 
+Öğrenciler, metallerin aktifliklerinin bağıl sıralamasına ilişkin açıklamalarını alt mikro se -
+viyedeki animasyon ve simülasyon gösterimleriyle karşılaştırmaları için yönlendirilir. Öğ -
+rencilerden açıklamalarını gözden geçirmeleri ve gerekirse yeniden düzenlemeleri istenir. 
+Etkinlik kâğıtları “araştırma sorusu oluşturabilme, model geliştirebilme, araştırma gerçek-
+leştirebilme, araştırma verilerini yorumlayabilme, verilere dayalı olarak metallerin aktiflik-
+lerine ilişkin sıralama yapabilme ve açıklamalarını bilimsel bilgilerle karşılaştırabilme” öl -
+çütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafından 
+değerlendirilebilir (SDB1.2).
+KİM.12.1.3 
+Elektrik depolama cihazlarının geliştirilmesinde büyük katkısı olan Luigi Galvani ve  
+Alessandro Volta’nın çalışmaları örnek verilerek öğrencilerin konuya dikkati çekilebilir. 
+Öğrencilere çinko (Zn) metali ile bakır (Cu 2+) iyonlarını içeren sulu çözelti arasında ger -
+çekleşen tepkimeyi makro seviyede gözlemleyebileceği görsel materyaller verilir. Bu 
+tepkimede elektronların tepkenler arasında doğrudan transfer edildiğine dikkat çeki -
+lir. Öğrencilerden bu tepkimeden yola çıkarak elektrik enerjisi elde edilmesine ilişkin 
+önermeler oluşturmaları istenir. Öğrenciler, istemli gerçekleşen bu tepkimede elektrik 
+enerjisi eldesine dair geliştirdikleri gözleme dayalı olan ve olmayan önermeleri karşı -
+laştırır. Böylece öğrencilerin etkili iletişim becerilerini kullanmaları, olaylar ve durumlar 
+karşısında farklı bakış açıları olabileceğini kabul etmeleri sağlanır (E2.1, SDB2.1, D10.3, 
+D14.1). Öğrencilerin elektrik enerjisi üretilen galvanik hücre düzeneğini gözlemleyebile -
+ceği görsel materyalleri incelemeleri sağlanır. Öğrenciler; gözlemlediği materyallerden 
+ulaştığı makro, alt mikro ve sembolik seviyede gözlem verilerinden bir galvanik hücrenin 
+temel bileşenlerini (anot yarı hücresi, katot yarı hücresi, elektrot, elektrolit ve tuz köp -
+rüsü) ve işlevlerini tanımlar. Öğrencilerden katot ve anot yarı hücrelerinde gerçekleşen 
+tepkimeleri indirgenme-yükseltgenme tepkimeleri ile ilişkilendirmeleri istenir (OB4). 
+Öğrenciler, galvanik hücrelere ilişkin incelediği görsel materyallerde elektronların akış 
+yönü ve iyonların göç yönü gibi gözlem yapamadığı durumlar hakkında tahminlerde bu -
+lunur. Galvanik hücrelere ilişkin yapmış olduğu gözleme dayalı olan ve olmayan tüm 
+tahminlerinin geçerliliğini galvanik bir hücrenin özelliklerine ilişkin bilimsel bilgilere da -
+yalı olarak sorgulaması sağlanarak çalışkanlık değeri desteklenir (D3.3, OB4). Gözlem so-
+nunda öğrenciler, istemli indirgenme-yükseltgenme tepkimelerinden elektrik enerjisi üre-
+tilmesi sürecine ilişkin önermeler oluşturmaları için yönlendirilir. Öğrencilere bir galvanik

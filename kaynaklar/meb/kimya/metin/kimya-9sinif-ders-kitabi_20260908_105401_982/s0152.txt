@@ -1,0 +1,83 @@
+152
+2. Tema/Çeşitlilik
+iyon-indüklenmiş 
+dipol etkileşimi
+İyon-İndüklenmiş	Dipol	Etkileşimi 
+Anyon veya katyon apolar bir moleküle veya soy gaz atomuna yeterince ya -
+kınlaşırsa geçici olarak moleküldeki elektriksel yüklerin dengeli dağılımını et-
+kiler. Apolar molekülün anyona yakın bölgesi kısmen artı (δ
++
+), katyona yakın 
+bölgesi kısmen eksi (δ
+−
+) yüklenir. İyon ile apolar molekülün kısmi yükleri ara-
+sında oluşan elektrostatik çekime iyon-indüklenmiş dipol etkileşimi denir 
+(Görsel 2.17).
+Dipol-İndüklenmiş	Dipol	Etkileşimi 
+Polar bir molekül apolar bir moleküle veya soy gaz atomuna yeterince yakın-
+laşırsa geçici olarak apolar moleküldeki elektriksel yüklerin dengeli dağılma -
+sını etkiler. Apolar molekülde polar molekülün etkisiyle geçici olarak kısmen 
+artı (δ
++
+) ve kısmen eksi (δ
+−
+) yüklü bölgeler oluşur. İndüklenmiş dipol ile oluşan 
+bu bölgeler ve polar moleküldeki yüklü bölgeler arasındaki elektrostatik çeki-
+me dipol-indüklenmiş dipol etkileşimi denir (Görsel 2.18).
+Yapıdaki elektron sayısı fazla ve elektron bulutu dağılmış ise kutuplanabilirlik 
+kolaylaşır ve London kuvveti artar (Görsel 2.16).
+London kuvveti, dipol-dipol ve dipol-indüklenmiş dipol etkileşimleri IUPAC ta-
+rafından van der Waals kuvvetleri olarak adlandırılır.
+H2 molekülleri arasındaki London kuvveti
+London kuvveti
+Simetrik yük dağılımı Asimetrik yük dağılımı
+δ
++
+δ
++
+δ¯ δ¯
+H2 molekülünde yük dağılımının bozularak geçici dipol oluşumu
+London kuvveti
+Simetrik yük dağılımı Asimetrik yük dağılımı
+δ
++
+δ¯
+dipol-indüklenmiş 
+dipol etkileşimi
+  
+H
+  
+H
+HCl molekülü HCl molekülü
+He atomu He atomu
+HHCl Cl
+δ
++
+δ
+− δ+ δ−
+Na
++
+ iyonu Na
++
+ iyonu
+Na
++
+Na
++ +−
+He atomu He atomu
+Görsel 2.16 
+London kuvveti oluşumu
+Görsel 2.17 
+Na
++
+ iyonu ile He 
+atomu arasında 
+iyon-indüklenmiş 
+dipol etkileşimi 
+oluşumu
+Görsel 2.18 
+HCl ile He 
+arasında dipol-
+indüklenmiş 
+dipol etkileşimi 
+oluşumu

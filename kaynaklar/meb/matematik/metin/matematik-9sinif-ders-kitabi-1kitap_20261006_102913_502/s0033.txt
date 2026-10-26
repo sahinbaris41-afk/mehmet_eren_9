@@ -1,0 +1,54 @@
+33
+1. Tema /  Sayılar
+ 
+52 52 $-+__ ii
+55 52 25 22 51 01 02
+52
+3
+22$$$ $+- -= +--
+=-
+=
+73 73 $-+__ ii
+1122 22 $+-__ ii
+35 23 35 23$-+__ ii
+1
+52 52
+52
+$
+-+
++
+1
+2
+1
+1
+22
+2
+$
++-
+-
+1
+ab ab
+ab
+$
+-+
++
+1
+ab ab
+ab
+$
++-
+-
+3. Tabloda elde ettiğiniz sonuçlardan yararlanarak paydası köklü gösterimlerden oluşan sayıların paydasını rasyonel 
+sayı yapma işlemiyle ilgili genellemelerinizi oluşturunuz.
+4. Varsayımlarınızla genellemelerinizi karşılaştırarak paydası köklü gösterimlerden oluşan sayıların paydasını 
+rasyonel sayı yapma işlemine dair önermelerinizi oluşturunuz.
+5.  Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini sınıf arkadaşlarınızla 
+tartışınız.
+ g yer çekimi ivmesi (m/sn. 2) olmak üzere h yüksekliğinden (m) aşağı bırakılan cismin yere düşme süresi t sn. 
+olsun. Cismin yere düşme süresini bulmak için t g2h=  sn. eşitliği kullanılır.
+ Bir cisim 0,5 m yükseklikten bırakılmıştır. Cisim yere çarptığı an ikinci bir cisim, 2 m yükseklikten bırakılmış -
+tır. İlk cismin bırakıldığı andan ikinci cismin yere düştüğü ana kadar kaç saniye geçmiştir? 
+ (g yer çekim i ivmesini 9,8 m/sn.2 alınız.)
+6.  Oluşturduğunuz önermeleri matematiksel olarak doğrulayınız. Doğrulama yöntemlerinizi sınıf arkadaşlarını -
+zın kullandığı yöntemlerle karşılaştırarak kullanışlılık açısından değerlendiriniz.

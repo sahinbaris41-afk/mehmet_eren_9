@@ -1,0 +1,95 @@
+32
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+7. ETKINLIK ADI ELEKTRONEGATİFLİK
+ ► Öğr encilerden Tablo 1.4'te verilen elementlerin elektronegatiflik değerleri ile atom yarıçaplarını 
+incelemelerini isteyiniz. 
+Tablo 1.4: Periyodik Tablonun İlk Dört Periyodundaki A Grubunda Bulunan Elementlerin Elektronegatiflik 
+Değerleri ile Atom Yarıçapları (pm)
+H
+2,20
+37
+He
+-
+31
+Li
+0,98
+152
+Be
+1,57
+112
+B
+2,04
+85
+C
+2,55
+77
+N
+3,04
+70
+O
+3,44
+73
+F
+4,00
+72
+Ne
+-
+70
+Na
+0,93
+186
+Mg
+1,31
+160
+Al
+1,61
+143
+Si
+1,90
+118
+P
+2,19
+110
+S
+2,58
+103
+Cl
+3,16
+99
+Ar
+-
+98
+K
+0,82
+227
+Ca
+1,00
+197
+F
+4,00
+72
+1 2 3 4
+Sembol
+Elektronegatiflik değeri
+Atom yarıçapı (pm)
+Not: Renk skalası, elektrone-
+gatiflik değerlerindeki artışı 
+göstermektedir.
+0
+ETKINLIĞIN AMACI P eriyodik tabloda periyot ve gruplarda bulunan elementlerin elektronega-
+tiflik değeri değişimini belirleyebilme
+DESTEKLEME 
+UYGULAMASI
+Periyodik özellikler konularında karşılaştırma becerisi işletilir. Bu beceri-
+nin kazandırılması sürecinde benzerlik ve farklılıkları belirlemeye yönelik 
+sorular sorulur, öğrencilerin bilgileri daha kolay öğrenmesi ve genellemesi 
+sağlanır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+Periyodik tablonun ilk dört periyodundaki A Grubunda bulunan elementle-
+rin elektronegatiflik değerleri ile atom yarıçaplarının verildiği tablo
+Bu etkinlikte kullanılması için Tablo 1.4'ü öğrenci sayısı kadar çoğaltarak öğrencilere 
+dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.

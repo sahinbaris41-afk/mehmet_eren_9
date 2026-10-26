@@ -1,0 +1,34 @@
+124
+2. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+8. Aşağıda doğadaki temel kuvvetlerin etkili olduğu bazı olaylar numaralandı-
+rılarak verilmiştir.
+I. Bir demir atomunun çekirdeğinde 26 proton ve 30 nötron bulunur. 
+Protonlar, pozitif yüklü olup elektriksel olarak birbirine itme kuvveti 
+uygular. Bununla birlikte bu kuvvete rağmen demir atomu çekirdeği 
+dağılmadan kararlı hâldeki yapısını korur. 
+II. Bazı atom çekirdeklerinde gerçekleşen dönüşümler sırasında proton ve nötronlar farklı 
+parçacıklara ayrılabilir ve bunun sonucunda yüksek miktarda enerji açığa çıkabilir. Ortaya çıkan 
+bu enerji, elektrik üretiminde yararlanılan nükleer tepkimelerin temel işleyiş mekanizmalarından 
+biridir.
+Nükleer santral
+III. Bir kapı açma mekanizmasının (kapı otomatiği) basit şeması aşağıda verilmiştir. Elektrik 
+devresindeki anahtar açıkken yay, kapı kilidini sağa çekerek kapının kapalı kalmasını 
+sağlamaktadır. Anahtar kapatıldığında ise üzerine sarılı iletkenden akım geçen bobin, yakınındaki 
+demiri sola çeker ve kapının kilidi açılır. Böylece evin içinden dış kapı açılmış olur. 
+Kapı açma mekanizması modeli
+Üreteç
+Anahtar Bobin
+Demir
++ 
+Yay
+Sol Sağ
+IV. Dünya üzerinde küçük süratlerle havaya doğru atılan cisimler sırasıyla yavaşlar, durur ve yere 
+düşer. Genel olarak bu durum yer çekimiyle açıklanır. Aslında havaya atılan cisim de Dünya’yı 
+kendine doğru çekmektedir. Bununla birlikte Dünya’nın küçük cisimlere göre çok büyük bir kütlesi 
+olduğundan Dünya, havaya atılan cisme doğru hareket etmez. 
+Buna göre yukarıda verilen olaylarda etkili olan
+a) Kuvvetlerden hangileri hem itme hem de çekme etkisi gösterir?
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+Nötron
+ProtonElektron
+Atom modeli

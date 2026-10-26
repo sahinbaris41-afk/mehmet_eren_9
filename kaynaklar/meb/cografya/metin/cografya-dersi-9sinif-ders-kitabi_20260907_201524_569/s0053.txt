@@ -1,0 +1,77 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+53
+Dijital Haritalarda 
+Profil Çıkarma
+b) Eş Yükselti (İzohips) Yöntemi 
+Yükseltileri aynı olan noktaların birleştirilmesiyle oluşturulan iç içe geçmiş ka-
+palı eğrilere eş yükselti eğrisi veya izohips denir.
+Eş yükselti eğrileri yöntemiyle çizilen haritalara topoğrafya haritası adı ve-
+rilir. Bu haritalar kullanılarak yükselti değeri bulunabilir, yer şekilleri hakkında 
+yorum yapılabilir, eğim hesaplanabilir ve profil çıkarılabilir.
+Aşağıda izohipslerin genel özelliklerine yer verilmiştir (Görsel 2.8).   
+Aynı izohips üzerindeki 
+tüm noktaların 
+yükseltisi aynıdır.
+İzohipsler, iç içe geçmiş 
+kapalı eğrilerdir ve birbirini 
+kesmez. Falez ve şelale gibi 
+dik yapılı yer şekillerinin 
+gösterildiği yerlerde eğriler 
+üst üste çizilebilir.   
+0 metre eğrisi, deniz 
+kıyısından geçer ve 
+bu çizgi kıyı çizgisi 
+olarak adlandırılır.
+İzohipsler arasındaki yükselti 
+farkı, haritaların ölçeği ve 
+yapılış amacına göre  değişir. 
+Büyük ölçekli haritalarda 
+izohips aralığı daha küçüktür. 
+(1, 5, 10 veya 20 metrede 
+bir izohips geçirilir.)
+İzohipsler 
+arasındaki yükselti 
+farkı haritanın 
+tamamında aynıdır.
+İzohipslerin birbirine 
+yakın olduğu yerlerde 
+eğim fazla, birbirine 
+uzak olduğu yerlerde 
+eğim azdır. 
+En geniş izohips halkası 
+en alçak yeri, en dar 
+izohips halkası ise en 
+yüksek yeri gösterir. 
+Çukur alanlarda bu 
+durumun tersi geçerlidir.
+Birbirini çevrelemeyen 
+komşu iki izohipsin 
+yükseltisi eşittir. 
+0 m
+0 m
+0 m
+10 m
+20 m
+30 m40 m
+50 m
+60 m
+70 m
+50 m
+Eğim az
+Eğim fazla
+Profil Nedir?
+Profil; harita kullanılarak belirlenen iki nokta arasında veya bir çizgisel hat 
+(akarsu, yol vb.) boyunca yer şekillerinin yandan görünüşünü, eğim ve yük-
+selti değerlerini gösteren grafiklerdir. Profil çıkarılarak haritalarda kuş bakışı 
+gösterilen yeryüzü şekillerinin yandan görünümü elde edilir. Bunlar incelene-
+rek profil çıkarılan arazi hakkında yorum yapılabilir.
+Profil; coğrafya, jeoloji, ormancılık, maden mühendisliği, inşaat mühendisliği 
+gibi alanlarda sıklıkla kullanılmaktadır. Örneğin yeni yapılacak bir kara yolu-
+nun fizibilitesinde profilden yararlanılır. Profil; yol eğiminin en uygun olduğu 
+yerin belirlenmesinde, hafriyat hesabında, su drenajının tespitinde gerekli bil-
+gileri sağlar. 
+Görsel 2.8: İzohipslerin özellikleri
+Videodaki örneklerden 
+yararlanarak HGM Küre 
+uygulamasıyla profil 
+çıkarınız.

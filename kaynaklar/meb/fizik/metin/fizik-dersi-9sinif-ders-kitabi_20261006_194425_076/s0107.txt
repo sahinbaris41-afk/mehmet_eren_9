@@ -1,0 +1,48 @@
+107
+KUVVET VE HAREKET
+Hız: Hareketlinin birim zamanda yaptığı yer değiştirmedir. 
+o  sembolü ile gös-
+terilen hızın SI’da birimi metre/saniyedir (m/s). Bu birimin yanında km/h veya 
+cm/s gibi birimler de kullanılır. Hız, vektörel bir niceliktir ve
+Hız = Yer değiştirme Zaman
+   txTTo =
+       = x son - x ilk 
+tson - tilk
+matematiksel modeli ile bulunur. 
+Anlık Hız: Bir hareketlinin belirli bir andaki hızıdır. 
+o  sembolü ile gösterilen 
+anlık hızın SI’da birimi metre/saniyedir (m/s). Anlık hız vektörel bir niceliktir. Bir 
+araca ait sürat göstergesi anlık olarak 60 km/h değerini gösteriyor ve araba 
+doğu yönünde hareket ediyor ise aracın anlık hızı doğu yönünde 60 km/h olur.
+Ortalama Hız: Bir hareketlinin tüm hareketi boyunca yer değiştirmesinin hare-
+ket süresine oranıdır. 
+o ort sembolü ile gösterilen ortalama hızın SI’da birimi 
+metre/saniyedir (m/s). Ortalama hız, vektörel bir niceliktir ve 
+Ortalama hız = Toplam yer değiştirme Hareket süresi
+              
+o ort =  ∆x 1 +  ∆x 2 +  ∆x 3 + … ∆t1 +  ∆t2 +  ∆t3 + …  
+matematiksel modeli ile bulunur. 
+İvme: Hareketlinin birim zamandaki hız değişimine denir. a  sembolü ile 
+gösterilen ivmenin SI’da birimi metre/saniyekaredir (m/s 2). İvme, vektörel bir 
+niceliktir ve
+İvme = Hız değişimi Zaman
+      a = ∆
+o
+∆t
+          =
+o son -
+o ilk
+tson - tilk
+matematiksel modeli ile bulunur.
+Hız ile ilgili simülasyonu 
+incelemek için karekodu 
+okutunuz.
+Anlık hız ile ilgili simü-
+lasyonu incelemek için 
+karekodu okutunuz.
+Ortalama hız ile ilgili si-
+mülasyonu incelemek için 
+karekodu okutunuz.
+İvme ile ilgili simülasyonu 
+incelemek için karekodu 
+okutunuz.

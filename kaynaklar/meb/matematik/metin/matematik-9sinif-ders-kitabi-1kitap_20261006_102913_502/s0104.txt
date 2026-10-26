@@ -1,0 +1,85 @@
+104
+2. Tema /  Nicelikler ve Değişimler
+a) Aşağıda verilen grafiklerin hangi koşuculara ait olabileceğini ve hakeme ait olan grafiği belirleyerek grafik-
+lerin altındaki boşluğa yazınız.
+ 
+x Zaman (sn.)
+............................
+y Mesafe (m)
+1
+5
+10
+15
+20
+25
+30
+35
+2 3 4 5 6 7O
+g
+............................
+y Mesafe (m)
+1
+5
+10
+15
+20
+25
+30
+35
+2 3 4 5 6 7O
+n
+x Zaman (sn.)
+............................
+y Mesafe (m)
+5
+10
+15
+20
+25
+30
+35
+O
+h
+1 2 3 4 5 6 7 x Zaman (sn.)
+x Zaman (sn.) x Zaman (sn.)O
+m
+1
+5
+10
+15
+20
+25
+30
+35
+2 3 4 5 6 7
+y Mesafe (m)
+............................
+O
+k
+1
+5
+10
+15
+20
+25
+30
+35
+2 3 4 5 6 7
+y Mesafe (m)
+............................
+b)  Koşucuların ve hakemin zamana (sn.) bağlı konumlarındaki (m) değişimi gösteren fonksiyonları cebirsel 
+olarak ifade ediniz.
+c)  Koşucuların ve hakemin zamana (sn.) bağlı konumlarındaki (m) değişimi gösteren fonksiyonların artanlığı 
+veya azalanlığı ile ilgili ne söylenebilir? Hangi kanıtlara dayanarak sonuca ulaştığınızı yazınız.
+8.  a)  g: R"R, g(x) = ax + b şeklinde tanımlı doğrusal fonksiyonun nitel özellikleri ile ilgili oluşturduğunuz 
+önermelerin doğruluğunu cebirsel olarak gösteriniz.
+b)  g: R"R, g(x) = ax + b şeklinde tanımlı doğrusal fonksiyonun nitel özellikleri ile ilgili oluşturduğunuz 
+önermelerin doğruluğunu matematik yazılımında aşağıdaki adımları uygulayarak gösteriniz.
+1. adım: Bilgisa yar veya etkileşimli tahtada matematik yazılımını açarak Giriş bölümüne g(x) = ax + b  
+yazıp  Enter tuşuna basınız. Ekranda g fonksiyonunun grafiği ile a ve b sürgüleri oluşacaktır.
+2. adım: a ve b  sürgülerini hareket ettirerek grafikteki değişimleri gözlemleyiniz.
+3. adım: Gözlemlerinizden yararlanarak önermelerinizi doğrulayınız.
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.
+9.  g fonksiyonunun nitel özellikleri ile ilgili oluşturduğunuz önermelerin doğruluğunu gösterirken kullandığınız 
+yöntemlerin kullanışlılığını değerlendiriniz.

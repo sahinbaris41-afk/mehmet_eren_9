@@ -1,0 +1,60 @@
+129
+2. Tema /  Nicelikler ve Değişimler
+2.  a, b, c ! R+ olmak üzere gerçek sayılarda f(x) = ax + b, k(x) = -| ax + b | + c ve t(x) = -| ax + b | - c  şeklinde 
+tanımlı fonksiyonların grafik temsilleri verilmiştir (Grafik 4, Grafik 5 ve Grafik 6).
+Grafik 4 Grafik 5 Grafik 6
+O x
+y
+f(x) = ax + b
+b
+a b O x
+y
+t(x) = -|ax + b| - c
+b
+a
+c
+O x
+y
+b
+a
+c
+k(x) = -|ax + b| + c
+c-b
+a)  f, k ve t fonksiyonlarının cebirsel ve grafik gösterimlerini inceleyiniz. f ile k, f ile t fonksiyonları arasındaki 
+benzerlikleri veya farklılıkları gözlemleyiniz. 
+b)  Gözlemlerin izden yola çıkarak f, k ve t fonksiyonlarının nitel özelliklerini tespit ediniz. Tablo 2ʼyi doldurunuz.
+ Tablo 2 
+ 
+Fonksiyonun Nitel Özellikleri f(x) = ax + b k(x) = - | ax + b | + c t(x) = - | ax + b | - c
+En Geniş Tanım Kümesi 
+Görüntü Kümesi
+Fonksiyonun Sıfırı
+Fonksiyonun İşareti
+Maksimum Noktası
+Minimum Noktası
+Bire Birliği
+Artan veya Azalan Olduğu Aralıklar
+c)  Elde ettiğiniz nitel özelliklerden yararlanarak k ve t mutlak değer fonksiyonlarının parçalı gösterimine dair 
+çıkarımlarınızı açıklayınız.
+Gerçek sayılarda g (x) = | ax + b | ve h(x) = - | ax + b | şeklinde tanımlı mutlak değer fonksiyonlarının 
+grafikleri, gerçek sayılarda f(x) = ax + b şeklinde tanımlı doğrusal fonksiyon grafiğinden yararlanılarak 
+çizilebilir. Bunun için önce f fonksiyonunun grafiği çizilir (Grafik 2.5). Ardından f fonksiyonunun grafiği 
+üzerinde f nin işaretinin negatif olduğu kısmın x eksenine göre yansımasının alınmasıyla g fonksiyo -
+nunun grafik temsili elde edilir (Grafik 2.6). 
+Grafik 2.5: f fonksiyonunun grafik temsili  
+     (a, b ! R+)
+O x
+y
+f(x) = ax + b
+O x
+y
+g(x) = |ax + b|
+Grafik 2.6: g fonksiyonunun grafik temsili    
+     (a, b ! R+)
+b
+a
+b
+a
+b b
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.

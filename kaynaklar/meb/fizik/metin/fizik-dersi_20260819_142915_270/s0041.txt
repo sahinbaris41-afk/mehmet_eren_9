@@ -1,0 +1,51 @@
+41
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.10.2.1. Kuvvet-yer değiştirme grafiği kullanılarak iş ile ilgili tümevarımsal akıl yürüte-
+bilme
+a) Kuvvet, yer değiştirme ve iş arasındaki ilişkiyi matematiksel olarak modeller.
+b) Kuvvet, yer değiştirme ve iş arasındaki ilişki hakkında genelleme yapar.
+FİZ.10.2.2. İş, enerji ve güç kavramlarına ilişkin çıkarım yapabilme
+a) İş, enerji ve güç kavramları hakkında mevcut bilgisi dâhilinde hipotez kurar.
+b) İş, enerji ve güç kavramlarına yönelik ilişkileri listeler.
+c) İş, enerji ve güç kavramlarını karşılaştırır.
+ç) İş ve güç kavramları arasındaki ilişkiye yönelik önermelerde bulunur.
+d) Önermelerini matematiksel modele dönüştürerek değerlendirir.
+FİZ.10.2.3. Enerji biçimlerini karşılaştırabilme
+a) Enerji biçimlerine ilişkin özellikleri belirler.
+b) Enerji biçimlerine ilişkin benzerlikleri listeler.
+c) Enerji biçimlerine ilişkin farklılıkları listeler.
+FİZ.10.2.4. Mekanik enerjiyi çözümleyebilme
+a) Mekanik enerjiye ilişkin bileşenleri belirler. 
+b) Mekanik enerjiyle ilgili bileşenler arasındaki matematiksel ilişkiyi belirler. 
+FİZ.10.2.5. Yenilenebilen ve yenilenemeyen enerji kaynaklarını karşılaştırabilme
+a) Yenilenebilen ve yenilenemeyen enerji kaynaklarına ilişkin özellikleri belirler.
+b) Yenilenebilen ve yenilenemeyen enerji kaynaklarının avantajlarını listeler.
+c) Yenilenebilen ve yenilenemeyen enerji kaynaklarının dezavantajlarını listeler. 
+İÇERİK ÇERÇEVESİ İş, Enerji ve Güç
+Enerji Biçimleri
+Mekanik Enerji
+Enerji Kaynakları
+Anahtar Kavramlar iş, enerji, güç, enerji biçimi, mekanik enerji, mekanik enerjinin korunumu, yenilenebilen 
+enerji, yenilenemeyen enerji 
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; kavram haritası, çalışma yaprağı, sanal pano veya bülten panosu, test, 
+rapor, bilgi görseli, performans görevi kullanılarak değerlendirilebilir. 
+Net kuvvet-yer değiştirme grafiklerinden yararlanarak iş hesabı yapmak için çalışma 
+yaprağı kullanılabilir. Benzer şekilde işin yapılma süresi ile güç kavramı arasındaki ilişki 
+hakkında matematiksel hesaplar için çalışma yapraklarından faydalanılabilir. İş, enerji 
+ve güç kavramlarına ilişkin yapılan çıkarımları bir sanal pano veya bülten panosuna yaz-
+maları istenebilir. Hazırlanan panolar dereceli puanlama anahtarları ve öz değerlendir -
+me formları ile değerlendirilebilir. Enerji biçimlerinin karşılaştırılması açık uçlu sorular, 
+eşleştirme ve boşluk doldurma gibi farklı madde türlerinden oluşan test ile değerlendi-
+rilebilir. Performans görevi olarak enerji biçimlerinin karşılaştırılmasına yönelik bir rapor 
+hazırlanması ve hazırlanan raporun bilgi görseli biçiminde sunumu istenebilir. Hazırlanan 
+rapor ve sunumun değerlendirilmesinde dereceli puanlama anahtarı ve öz değerlendirme 
+formlarından yararlanılabilir. Performans görevi olarak elektrikli eşya satın alınırken dik -
+kat edilmesi gereken hususlar ile ilgili sürdürülebilirlik ve küresel ısınma konuları, tasar -
+ruf ve millî servet bilinci dikkate alınarak broşür, poster, afiş vb. hazırlamaları istenebilir. 
+Öğrenciler ürünleri dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlen-
+dirilebilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir.

@@ -1,0 +1,36 @@
+11
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Aşağıdaki tablolarda Ortaöğretim Matematik Dersi Öğretim Programı’nın temalarının işleniş sırası sınıf seviyelerine göre 
+sunulmuştur. Ayrıca bu tablolarda temalara ait öğrenme çıktısı sayıları, ders saatleri ve yüzdeleri verilmiştir.
+HAZIRLIK SINIFI MATEMATİK DERSİ
+İŞLENİŞ 
+SIRASI TEMA
+Öğrenme 
+Çıktısı 
+Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1 MAT.H.1. NİCELİKLER VE DEĞİŞİMLER 1 20 18
+2 MAT.H.2. MANTIKSAL ÇIKARIM 1 20 18
+3 MAT.H.3. ALGORİTMA VE BİLİŞİM 3 26 24
+4 MAT.H.4. GEOMETRİK ŞEKİLLER 5 32 30
+5 MAT.H.5. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ 1 6 6
+OKUL TEMELLİ PLANLAMA1 - 4 4
+TOPLAM 11 108 100
+9. SINIF MATEMATİK DERSİ
+İŞLENİŞ 
+SIRASI TEMA
+Öğrenme 
+Çıktısı 
+Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1 MAT.9.1. SAYILAR 4 38 17
+2 MAT.9.2. NİCELİKLER VE DEĞİŞİMLER 3 38 17
+3 MAT.9.3. GEOMETRİK ŞEKİLLER 1 12 6
+4 MAT.9.4. EŞLİK VE BENZERLİK 5 36 17
+5 MAT.9.5. ALGORİTMA VE BİLİŞİM 3 30 14
+6 MAT.9.6. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ 2 34 16
+7 MAT.9.7. VERİDEN OLASILIĞA 2 18 8
+OKUL TEMELLİ PLANLAMA1 - 10 5
+TOPLAM 20 216 100

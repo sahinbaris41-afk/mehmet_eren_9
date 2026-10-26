@@ -1,0 +1,29 @@
+139138
+MÜZİK
+ESER SESLENDİRME DERECELEME ÖLÇEĞİ
+Öğrencinin 
+Adı, Soyadı             : ..........................................
+Sınıfı, Numarası   : ..........................................
+Bu form, öğrencinin “Müziksel Tasarım” temasındaki öğrenme becerilerini ölçmeniz ama-
+cıyla hazırlanmıştır. Öğrencinin öğrenme düzeyini en doğru yansıtan seçeneği işaretleyi-
+niz(1: Çok Zayıf-5: Çok İyi).
+DEĞERLENDİRME ÖLÇÜTLERİ
+PUANLAR
+1 2 3 4 5
+1 Ritmik eşlik yapacağı enstrümanları belirledi.
+2 Seçtiği eserin ölçü sayısını açıkladı ve ritmik gruplamasını yaptı.
+3 Seçtiği eseri enstrümanıyla  seslendirdi. 
+4 Seçtiği eseri çok sesli olarak arkadaşıyla seslendirdi.
+5 Seçtiği esere uygun ritim kalıpları belirledi.
+6 Seçtiği esere uygun belirlediği kalıplar arasından özgün ritim eşliği oluşturdu.
+7 Esere farklı ritim çalgılarıyla eşlik etti.
+8 İki vuruşlu ölçüdeki farklı eserlere ritim eşlikleri oluşturdu.
+9 Doğaçlama yöntemiyle eserin konusuna uygun canlandırma yaptı.
+10 Canlandırma sırasında Türk halk müziği çalgılarından biriyle çalarak esere eşlik etti.
+TABLO PUANI
+DEĞERLENDİRME: 100 üzerinden 75 puan, öğrenmenin yeterli düzeyde olduğunu gösterir. 74 
+ve altı puanlar için öğrenme etkinlikleri tekrar edilmelidir.
+Ölçek Puanını 100’lük sisteme dönüştürme: Tablodan her bir kriter için alınabilecek en yük-
+sek puan 5’tir. Tabloda toplam 10 ölçme kriteri vardır. Tablodan alınabilecek en yüksek puan 
+(10x5=50) yöntemiyle bulunur.
+PUAN= [(Tablo Puanı x 100) / 50] formülü uygulanır.

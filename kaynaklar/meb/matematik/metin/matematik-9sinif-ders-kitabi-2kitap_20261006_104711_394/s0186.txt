@@ -1,0 +1,47 @@
+186
+6. Tema / İstatistiksel Araştırma Süreci
+6. Sıra Sizde      
+Turizm	sektörü,	ülkelerin	ekonomik	kalkınmasında	önemli	bir	yere	sahiptir.	Türkiye,	sahip	olduğu	tarihî	
+ve	doğal	zenginlikler	sayesinde	turizm	bakımından	önemli	bir	potansiyele	sahiptir.	Bu	potansiyel,	Türkiye	
+Yüzyılı	projeleri	kapsamında	“Doğa	Turizmi ”	programının	geliştirilmesine	katkıda	bulunmuştur.	Program;	
+korunan	alanlarda	(millî	park,	tabiat	parkı,	sulak	alanlar	gibi)	yapı	lacak	altyapı	ve	üstyapı	düzenlemeleri	
+ile	Türki	ye’nin	tanınırlığının	artırılmasını,	yöre	halkının	doğa	turizminden	elde	ettiği	gelirlerin	artırılarak	
+ekonomik	yönden	desteklenmesini	amaçlamakta	dır.	
+Bu	doğrultuda	Türkiye	Cumhuriyeti	T arım	ve	Orman	Bakanlığı	yönetimindeki	millî	park,	tabiat	parkı	gibi	
+korunan	alanların	bulunduğu	81	ilde	Doğa	Turizmi	Stratejisi	Eylem	Planı	hazırlanmıştır.	Bu	plana	bağlı	
+olarak	hazırlanan	Doğa	Turizmi	Uygulama	Eylem	Planları	ile	her	alanda	uygulanabilir	doğa	turizmi	faa-
+liyetleri,	rotaları	ve	etkinliklerinin	planlaması	sağlanmıştır.
+Türkiye’de	doğa	turizmi	ile	ilgili	araştırma	projesi	yapan	bir	grup	lise	öğrencisi,	2020-2023	yılları	arasında	
+Türkiye’nin	turizm	gelirlerini	belirlemek	istemektedir.	TÜİK	verilerine	ulaşan	öğrenciler,	Türkiye’nin	2020-
+2023	yılları	arasındaki	turizm	gelirlerinin	aylara	göre	dağılımını	içeren	aşağıdaki	tabloyu	oluşturmuştur.	
+Aylar
+2020 Yılı Turizm 
+Gelirleri  
+(x1000 Dolar)
+2021 Yılı Turizm 
+Gelirleri  
+(x1000 Dolar)
+2022 Yılı Turizm 
+Gelirleri  
+(x1000 Dolar)
+2023 Yılı Turizm 
+Gelirleri  
+(x1000 Dolar)
+Ocak 2 085 858 854 475 2 255 632 3 314 265
+Şubat 1 682 608 722 424 1 875 432 2 513 934
+Mart 895 926 1 059 071 2 439 132 2 930 860
+Nisan 175 638 1 198 135 2 460 332 3 181 209
+Mayıs 196 363 1 035 086 3 596 132 4 294 508
+Haziran 275 473 1 870 861 4 480 917 5 539 501
+T emmuz 711 042 3 844 761 5 485 658 6 321 338
+Ağustos 2 054 698 5 641 288 6 742 144 7 616 302
+Eylül 2 356 564 4 640 682 5 647 309 6 330 953
+Ekim 2 301 315 4 678 158 5 844 119 6 241 932
+Kasım 1 178 102 2 511 421 3 255 279 3 398 887
+Aralık 903 685 2 117 226 2 395 784 2 631 854
+Veri Analizi Yapma ve Sonuçları Yorumlama
+Üçüncü uygulamada grupça topladığınız ve kaydettiğiniz verileri istatistik programı yardımıyla açınız. 
+Belirlediğiniz istatistiksel araştırma sorularına cevap bulabilmek için uygun görselleştirme ve/veya özetleme 
+araçlarını seçerek verilerinizi analiz ediniz.
+Analizleriniz doğrultusunda sorularınıza cevap veriniz. Cevaplarınızı sınıf arkadaşlarınızla paylaşınız.
+7. Uygulama

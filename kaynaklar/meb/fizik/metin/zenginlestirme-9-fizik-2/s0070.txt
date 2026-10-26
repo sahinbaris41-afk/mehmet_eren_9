@@ -1,0 +1,49 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+68 69
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+0,5 L'lik pet şişenin ortasına yakın bir noktada simetrik 
+olarak pipetin geçebileceği iki delik açınız.
+• Sönmüş haldeki balonun ağzına 2 cm’lik pipet 
+yerleştirip pipeti silikon yapıştırıcıyla balona 
+sabitleyiniz.
+• Çocuk balonuna yapıştırılmış 2 cm’lik pipetlerin boş-
+ta kalan uçlarını pet şişedeki delikten geçiriniz ve si-
+likon yapıştırıcıyla dışarıdan hava almayacak şekilde 
+pet şişeye yapıştırınız.
+• 10 cm'lik pipeti, hava akışını engellemeyecek şekilde 
+sibopa yerleştirip silikon yapıştırıcı ile sabitleyiniz.
+• Pet şişe kapağını, pipetin geçebileceği şekilde deli -
+niz ve pipeti, kapağın üst kısmında kalacak şekilde 
+delikten yarısına kadar yerleştiriniz. Ardından pipeti 
+şişe kapağına hava almayacak şekilde silikon yapış -
+tırıcı ile sabitleyiniz.
+Pet şişenin su içinde batmasını sağlayacak kadar su 
+ekledikten sonra şişenin kütlesini laboratuvar terazisi 
+kullanarak hesaplayınız. Kütleyi, G = m ∙ g matematiksel 
+modelinde yerine yazıp şişenin ağırlığını bulunuz.
+Balonlar sönük hâldeyken şişeyi dereceli kaba koyunuz 
+ve yer değiştiren sıvının hacmini ölçünüz.
+• Yer değiştiren sıvının hacminin suya batan cismin 
+hacmine eşit olduğunu belirtiniz.
+• Fk = V b ∙  d s ∙ g matematiksel modelinde "V b" cismin 
+batan hacmi, "d s"  sıvının özkütlesi, "g" yerçekim iv -
+mesi değişkenleri yerine yazıldığında kaldırma kuv -
+vetinin büyüklüğünün ( Fk ) elde edileceğini belirtiniz.
+• Yer değiştiren sıvının ağırlığının cisme etki eden kal-
+dırma kuvvetinin büyüklüğüne eşit olacağını söyle -
+yiniz.
+• Cisme etki eden kaldırma kuvveti büyüklüğünün cis-
+1
+2
+pipet
+sibop
+şişe kapağı
+çocuk balonu pet şişe
+su
+basınç göstergeli pompa
+2
+min ağırlığından küçük olduğunu öğrencilerin fark etmesini sağlayınız.
+• Cismin suya batan hacminin cismin tüm hacmine eşit olduğunu öğrencilerin fark etmesini 
+sağlayınız.
+Test Etme ve Suyun Kaldırma Kuvvetini Etkileyen Değişkenleri Keşfetme

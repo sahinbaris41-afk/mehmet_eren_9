@@ -1,0 +1,13 @@
+2. TEMA: ÇİZGİDEN BOYUTA
+74
+Görsel 2.46: Komplementer (Tamamlayıcı) renk kontrastı
+4. Komplementer (Tamamlayıcı) Renk Kontrastı: Renk çemberi üzerinde birbirine karşı-
+lıklı gelen renkleri ifade eder. İki komplementer renk yan yana geldiklerinde birbirlerinin 
+ışık değerlerini en üst seviyeye çıkarırlar. Bu tamamlayıcı renkler birbirlerine zıt oldukları 
+gibi karıştırıldıklarında gri rengine dönüşürler (Görsel 2.46).
+5. Simultane (Yanıltıcı) Renk Kontrastı: Gözün bir rengi tamamlayıcısını arama ihtiyacın-
+dan dolayı, gerçekte olmasa bile, tamamlayıcı rengi varmış gibi algılamasına simultane 
+(yanıltıcı) renk kontrastı denir. Aynı zamanda yan yana gelen renklerin farklı bir renk algısı 
+oluşturması ve bir rengin daha açık-koyu veya daha sıcak-soğuk görünmesi durumunu ifa-
+de eder  (Görsel 2.47).
+Görsel 2.47: Simultane (Yanıltıcı) renk kontrastı

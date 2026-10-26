@@ -1,0 +1,35 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+12
+TYÇ kapsamında “beceri”, bir çalışma veya öğrenme alanında edinilen bilgiyi kullanma ve problem çözme 
+yetisi olarak tanımlanmaktadır. Bu tanım; mantıksal, sezgisel ve yaratıcı düşünmenin yanı sıra el becerisi, 
+yöntem, materyal, araç ve gereç kullanımını da gerektirmektedir. Son zamanlarda yapılan beceri araştır -
+maları; problem çözme, karar verme gibi daha geniş bilişsel becerileri de içermektedir. Bu durum, söz ko -
+nusu bilişsel yetkinlikleri beceri değil bilgi olarak değerlendirmenin zorluğunu ortaya koymaktadır. Beceri; 
+pratik yoluyla edinilen ve az çaba ile gerçekleştirilen, hedefe yönelik, iyi organize edilmiş davranış olarak 
+tanımlanmıştır (Winterton vd., 2006).
+TYÇ; bilginin yalnızca edinilmesini ya da ezberlenmesini yeterli görmemekte, bilginin beceriyle bütünleşik 
+biçimde kullanılmasını merkeze almakta ve bu bütünleşik kullanımın performans yoluyla görünür hâle gel -
+mesini hedeflemektedir. Çünkü bilgi, zihinde tek başına “depolanan” statik bir içerik değil aksine düzenle -
+nen, örgütlenen ve öğrenme hedefleriyle ilişkilendirilen dinamik bir yapıdır. Haladyna (1992), bilginin ölçül -
+mesindeki kritik noktaya şöyle dikkat çeker: “Sadece bilgiye sahip olmak yeterli değildir, bilginin ‘kullanım 
+boyutu’ da mutlaka ölçme ve değerlendirme sürecine dâhil edilmelidir.” Haladyna’nın bilginin ölçülmesine 
+ilişkin bu anlayışı TYMM ile örtüşmektedir. TYMM’de bilgi, tek başına duran bir içerik değil becerilerin bağ -
+lamsal altyapısıdır. TYMM’nin anlayışına göre beceriden bağımsız olmayan bilgi; alanlara özgü bilgi kümeleri 
+olarak tanımlanmakta, tek başına değil becerilerle anlam kazanarak öğrenme çıktısını oluşturmaktadır. 
+2.2.1. Öğrenme Çıktılarında Bilgi ve Becerilerin Bütünleşik Yapısı
+TYMM’de karmaşık ve soyut fikirleri eyleme dönüştürme sürecinde ortaya çıkan kavramsal beceriler  ile bu 
+becerilerin derslere özgü yapılarını temsil eden alan becerileri , ilgili derse ait bilgi kümelerini temsil eden 
+içerik çerçevesi ile bütünleşerek öğrenme çıktıları nı oluşturmaktadır (TYMM, 2025).
+TYMM’nin beceri çerçevesinde yer alan kavramsal beceriler; temel beceriler (KB1), bütünleşik beceriler 
+(KB2) ve üst düzey düşünme becerileri (KB3) olmak üzere üç farklı beceri alanından oluşmaktadır.
+Temel Beceriler karmaşık bir süreç gerektirmeden edinilen, gözlenebilen eylemleri ifade eder. Saymak, 
+okumak, yazmak, çizmek, bulmak, seçmek, belirlemek, işaret etmek, ölçmek, sunmak, çevirmek, kaydet -
+mek gibi eylemler temel beceriler arasında gösterilebilir.
+Bütünleşik beceriler, süreç modellemesi yapılabilen eylemleri ifade eder. TYMM öğretim programlarında 
+çelişki giderme, gözlemleme, özetleme, çözümleme, sınıflandırma, bilgi toplama, karşılaştırma, sorgula -
+ma, genelleme, çıkarım yapma, gözleme dayalı tahmin etme, mevcut bilgiye/veriye dayalı tahmin etme, 
+yapılandırma, yorumlama, yansıtma, muhakeme (akıl yürütme), değerlendirme, tartışma, mantıksal denet -
+leme ve sentezleme olmak üzere yirmi bütünleşik beceri tanımlanmıştır.
+Üst düzey düşünme becerileri ise bütünleşik becerilerin en az ikisini içeren ve çok boyutlu zihinsel süreçler 
+gerektiren eylemleri ifade eder. Kavramsal becerilerde temel ve bütünleşik beceriler arasında aşamalı bir 
+ilişki bulunmamaktadır. Bu beceriler, üst düzey düşünme becerilerinin hayata geçirilmesindeki altyapıyı 

@@ -1,0 +1,39 @@
+51
+1. Tema /  Sayılar
+17. ÖRNEK
+Aşağıdaki tabloda A ve B bitkilerinin dayanabildikleri en düşük ve en yüksek ortalama sıcaklık (°C) değerleri 
+verilmiştir.
+Bitkinin	Dayanabildiği	En	Düşük	Ortalama	
+Sıcaklık	Değeri	(oC) Bitkinin	Dayanabildiği	En	Yüksek 	 Ortalama 	Sıcaklık	Değeri	(oC)
+A -11 41
+B -20 10
+Tablodaki bilgilerden yararlanarak A ve B bitkilerinin sıcağa dayanıklılık aralıklarını mutlak değerli eşit-
+sizlik olarak ifade ediniz.
+Çözüm 
+• A bitkisinin dayanabildiği en düşük ve en yüksek sıcaklıkların  ortalaması 211 41-+ = 15 °C’tur. 
+15’in -11 ve 41’e olan uzaklığı, 11 15 41 15 26-- =- =  olarak bulunur. Buna göre bitkinin daya-
+nabildiği en düşük ve en yüksek sıcaklık değeri, bu değerlerin ortalamasından 26 °C sapmaktadır. 
+Buradan A bitkisinin sıcağa dayanıklılık aralığı , 11 41-7A  olup mutlak değerli eşitsizlik olarak x R!  
+olmak üzere x1 52 6#-  biçiminde gösterilir.
+• B bitkisinin dayanabildiği en düşük ve en yüksek sıcaklıkların ortalaması 220 10-+ = -5 °C’tur. -5’in 
+-20 ve 10’a olan uzaklığı, 20 51 05 15-- -= -- =__ ii  olarak bulunur. Buna göre bitkinin daya-
+nabildiği en düşük ve en yüksek sıcaklık değeri, bu değerlerin ortalamasından 15 °C sapmaktadır. 
+Buradan B bitkisinin sıcağa dayanıklılık aralığı , 20 10-7A  olup mutlak değerli eşitsizlik olarak x R!  
+olmak üzere xx 51 55 15&##-- +_i  biçiminde gösterilir.
+18. ÖRNEK
+Bir a gerçek sayısı ile 5 sayısı arasındaki farkın 421 ’ten büyük olduğu biliniyor. Bu şartı sağlayan gerçek 
+sayıları mutlak değerli eşitsizlik ve aralık şeklinde ifade ediniz. 
+Çözüm 
+a gerçek sayısı ile 5 sayısı arasındaki fark a5-  olarak ifade edilir. Buradan soruda verilen ifade mut-
+lak değerli eşitsizlik olarak a5 4212-  şeklinde yazılır. Mutlak değerli eşitsizliğin sayı doğrusu temsili 
+aşağıdaki gibidir. 
+k 5 m
+21
+4
+67 844444444 444444
+4
+21
+67 844444444 444444
+Sayı doğrusu incelendiğinde taralı kısımların mutlak değerli eşitsizliği temsil ettiği görülmektedir.
+Taralı kısımların sınır değerleri k5 421 41=- =-  ve m 421 4415=+ =  bulunur.
+Buradan mutlak değerli eşitsizliğin aralık gösterimi ,, 41 41 4,33--dd nn  olur.

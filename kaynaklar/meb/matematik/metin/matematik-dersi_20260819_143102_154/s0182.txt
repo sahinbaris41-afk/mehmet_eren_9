@@ -1,0 +1,24 @@
+182
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+4. TEMA: DEĞİŞİMİN MATEMATİĞİ (1)
+Bu temada öğrencilerin limit kavramını grafik üzerinden yorumlayabilmeleri, fonksiyon -
+ların belirli bir noktadaki veya sonsuzdaki limitine ilişkin muhakemeler yapabilmeleri, bir 
+fonksiyonun belirli bir noktadaki limitinin belirsizlik durumunu ve limiti kullanarak fonksi -
+yonların belirli bir noktadaki sürekliliğini yorumlayabilmeleri amaçlanmaktadır.
+DERS SAATİ 28
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme
+KAVRAMSAL 
+BECERİLER KB2.14. Yorumlama
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D3. Çalışkanlık, D4. Dostluk, D14. Saygı, D16. Sorumluluk
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Fizik
+BECERİLER ARASI 
+İLİŞKİLER MAB2. Matematiksel Problem Çözme, MAB3. Matematiksel Temsil,
+MAB5. Matematiksel Araç ve Teknoloji ile Çalışma 

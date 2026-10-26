@@ -1,0 +1,49 @@
+231
+ENERJİ
+2. Hâl değiştirmesi için maddeye verilen ısı miktarının maddenin kütlesine oranı, maddeler için ayırt 
+edici bir özellik olarak kullanılabilir mi? Gerekçesiyle açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+3. Maddelerin hâl değişimi boyunca sıcaklık değişimi nasıl olur? Maddelerin hâl değiştirme sıcaklığı, 
+maddeler için ayırt edici özellik olarak kullanılabilir mi? Gerekçesiyle açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+  
+Maddeler üzerinde ısının birçok etkisi vardır. Bu etkilerden biri sıcaklık deği -
+şimi, diğeri ise hâl değişimidir. Saf maddeler için hâl değişim sıcaklığı ayırt 
+edici özelliktir. 
+Maddelerin hâl değişim sıcaklığını etkileyen çeşitli nitelikler vardır. Bu nite -
+likleri bilmek, çay suyunun kaynaması gibi günlük hayatta sıkça karşılaşılan 
+termodinamik olayların, yağmur ve kar oluşumu gibi doğal süreçlerin, soğutma 
+sistemleri gibi teknolojilerin anlaşılmasını sağlar. Bunların yanı sıra buzulların 
+erimesi gibi tüm insanlığı etkileyen çevre sorunlarının çözümüyle ilgili yeni 
+anlayışların geliştirilmesine katkı sunar.
+Maddenin saflığı ve üzerine etkiyen basınç, maddenin hâl değişimi sıcaklığını 
+değiştirir.
+Saflığın Erime ve Kaynama Sıcaklığına Etkisi
+Saf bir maddenin içine farklı bir madde karıştırılırsa maddenin saflığı bozulur. 
+Oluşan karışımın erime ve kaynama sıcaklığı saf maddeninkinden farklı olur. 
+Örneğin buzun içine atılan tuz, buzun erime sıcaklığını düşürür ve erimeyi 
+kolaylaştırır. Kışın buzlu yollara tuz atılmasının sebebi budur. Suyun içine tuz 
+atılması durumunda ise suyun kaynama sıcaklığı yükselir. 
+Basıncın Erime ve Kaynama Sıcaklığına Etkisi
+Buz, antimon, bizmut gibi erirken hacmi azalan maddelerde maddenin üzerine 
+uygulanan basıncın artması durumunda maddenin erimesi kolaylaşır ve erime 
+sıcaklığı düşer (Görsel 4.13) . Kışın karlı yollarda araç lastiklerinin geçtiği 
+kısımlardaki kar ve buzların erimesinin nedeni budur. Erirken hacmi azalan 
+maddelerde basıncın azalması ise erimeyi zorlaştırarak erime sıcaklığını 
+yükseltir. 
+Demir, alüminyum, kalay gibi erirken hacmi artan maddelerde maddenin üze-
+rine uygulanan basıncın artması durumunda maddenin erimesi zorlaşır ve 
+erime sıcaklığı yükselir. Bu maddelerde basıncın azalması ise erimeyi kolay-
+laştırır ve erime sıcaklığını düşürür.
+0 oC 
+(Erime sıcaklığı)
+P = 1 atm
+Buz
+P = 200 atm
+2 oC 
+(Erime sıcaklığı)
+Buz
+Görsel 4.13: 1 atm ve 
+200 atm basınç altında 
+buzların erime sıcaklığının 
+temsilî gösterimi

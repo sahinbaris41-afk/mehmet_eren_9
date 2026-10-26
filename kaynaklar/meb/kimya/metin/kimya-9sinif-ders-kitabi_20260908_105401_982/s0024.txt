@@ -1,0 +1,36 @@
+1. Tema/Etkileşim
+24
+Marinasyon Türü Marinasyonda Kullanılan So -sun pH Değeri Yiyecekte Biriken Alüminyum Miktarı (mgAl/100 g numune)
+Marinasyon A 6,12 0,047
+Marinasyon B 5,23 0,125
+Marinasyon C 6,07 0,058
+Marinasyon Türü Sıcaklık (°C) Yiyecekte Biriken Alüminyum Miktarı (mgAl/100 g numune)
+Marinasyon A 
+150 0,051
+200 0,055
+250 0,062
+Marinasyon B 
+150 0,128
+200 0,130
+250 0,134
+Marinasyon C
+150 0,061     
+200 0,063      
+250 0,066     
+1. Marinasyonda kullanılan sosun asitliği ile yiyecekte biriken alüminyum miktarı arasında nasıl bir ilişki 
+vardır? Açıklayınız.
+2. Sıcaklık ile yiyecekte biriken alüminyum miktarı arasında nasıl bir ilişki vardır? Alüminyum folyoyla pişir-
+me işlemi yaparken hem enerji tasarrufu sağlamak hem de yiyeceğe metal bulaşmasını engellemek için ne 
+gibi önlemler alınabilir?
+3. Y iyecekleri pişirirken alüminyum folyo ya da hazır alüminyum kaplar kullanma konusundaki kararınızı 
+topladığınız veriler ve edindiğiniz bilgilerden yola çıkarak belirtiniz. Kararınızın gerekçelerini açıklayınız. 
+4. Pastanelerde bazı sütlü tatlılar alüminyum kaplarda satılmaktadır. 
+Bu tatlıları almak istemediğinizi gören birine bu kararınızın nedenini nasıl açıklarsınız? 
+Gıda ve Tarım Örgütü (FAO) ile Dünya Sağlık Örgütünün (WHO) gıda katkı maddesi değerlen -
+dirme raporuna göre uzun süre alüminyum içeren malzemeler kullanımının Alzheimer (alzay -
+mır), Parkinson gibi hastalıkların ortaya çıkmasında risk teşkil ettiği ve insan sağlığını olumsuz 
+etkileyebileceği belirtilmektedir. Bu bilgilerden hareketle bir aşçı, hazırladığı yemeklerin sağlığa 
+zararlı herhangi bir madde içerip içermediğini öğrenmek amacıyla gıda analiz laboratuvarına 
+başvurmaya karar vermiştir. Gıda analiz laboratuvarı, marinasyon ve pişirme işlemi sonucu gı-
+daya bulaşan alüminyum metalinin miktarını tablolar hâlinde aşçıyla paylaşmıştır.
+3. Yönerge: Aşağıdaki metinden ve tablolardan faydalanarak soruları cevaplayınız.

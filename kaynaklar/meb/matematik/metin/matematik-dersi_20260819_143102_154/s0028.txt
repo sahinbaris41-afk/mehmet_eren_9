@@ -1,0 +1,24 @@
+28
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: ALGORİTMA VE BİLİŞİM 
+Bu temada öğrencilerin sonlu sayı örüntülerini genellemeleri ve  şifreli metinleri çözebil -
+meleri için tümevarımsal akıl yürütebilmeleri, şifreli metinler oluşturmaları için analojik 
+olarak  akıl yürütebilmeleri amaçlanmaktadır. 
+DERS SAATİ 26
+ALAN 
+BECERİLERİ -
+KAVRAMSAL 
+BECERİLER KB2.16.1. Tümevarımsal Akıl Yürütme, KB2.16.3. Analojik Akıl Yürütme
+EĞİLİMLER E1.1. Merak
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2. İş Birliği, 
+SDB3.3. Sorumlu Karar Verme
+Değerler D8. Mahremiyet, D14.Saygı, D16.Sorumluluk, D19. Vatanseverlik
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Bilgisayar Bilimleri, Kriptoloji
+BECERİLER ARASI 
+İLİŞKİLER MAB1. Matematiksel Muhakeme, MAB2. Matematiksel Problem Çözme, 
+MAB3. Matematiksel Temsil 

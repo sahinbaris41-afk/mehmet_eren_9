@@ -1,0 +1,32 @@
+MATEMATİK 9 
+52 53
+Değerlendirme
+Öz yinelemeli algoritma nedir ve nasıl çalışır? Öz yinelemeli algoritmaların avantajları ve deza -
+vantajları nelerdir?
+Öz yinelemeli algoritmalar hangi tarz problemleri çözmede daha verimlidir? Örneklerle 
+açıklayınız.
+Fibonacci dizisinin belirli bir uygulamasını (örneğin altın oran) araştırınız ve bir sunum hazırla -
+yarak arkadaşlarınızla paylaşınız.
+Çözüm:
+Çözüm:
+Çözüm:
+1
+2
+3
+Grup Çalışması Becerileri Ölçeği
+Öğrencinin Adı Soyadı : Sınıfı : Grup Adı :
+Aşağıda grup çalışması becerileriniz ile ilgili ifadeler bulunmaktadır. Lütfen her bir maddeyi dikkatlice okuyunuz ve 
+sizi en iyi tanımlayan seçeneği işaretleyiniz. Doğru ya da yanlış cevap yoktur. Sizden beklenen içtenlikle cevap vererek 
+bilimsel bir çalışmaya yardımcı olmanızdır.
+Asla Nadiren Bazen Sık sık Her zaman
+Grup çalışmalarında;
+1. Grup üyelerine duygusal destek sağlamaya çalışırım.
+2. Gruba bağlı kalmanın ne kadar önemli olduğunu hatırlatmaya çalışırım.
+3. Grup üyelerinin duygularına karşı duyarlı olmaya çalışırım.
+4. Ortaya atılan fikirlerden strateji oluşturmaya çalışırım.
+5. Grup üyelerine karşı ilgili davranmaya çalışırım.
+6. Her bir grup üyesinin rollerini açıkça belirlemeye çalışırım.
+7. Grup üyeleriyle iletişim kurarken açık ve yapıcı olmaya çalışırım.
+8. Bir strateji doğrultusunda grup üyelerinin fikirlerini geliştirmeye çalışırım.
+9. İhtiyaç duyduklarında grup üyelerine yardımcı olmaya çalışırım.
+10. Kararlaştırılan amaçlar doğrultusunda grubun gelişimini değerlendirmeye çalışırım.

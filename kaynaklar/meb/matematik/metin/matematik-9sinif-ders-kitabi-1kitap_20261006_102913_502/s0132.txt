@@ -1,0 +1,18 @@
+132
+2. Tema /  Nicelikler ve Değişimler
+c) h fonksiyonunun grafiği incelendiğinde ellerinde bulunan mama miktarı , 025< F  nda olduğunda h fonk -
+siyonunun azalan olduğu görülmektedir. Buradan ellerinde bulunan mama miktarının alacağı değer-
+ler kümesi , 025< F  olarak bulunur.
+ç)  Ellerinde bulunan mama miktarının alacağı herhangi iki değer için 3. gün toplanan mama miktarının 
+aldığı değerlerin birbirinden farklı olması beklenmektedir. Bu durum, h fonksiyonunun bire bir olması 
+ile mümkündür.
+ h fonksiyonunun grafiği incelendiğinde x   in ( 52 , 8) ndaki herhangi iki değeri için h(x) in aldığı değerlerin 
+birbirinden farklı olduğu görülür. 
+  Benzer şekilde x in ( 0, 52 ) ndaki herhangi iki değeri için h(x) in aldığı değerler birbirinden farklıdır. 
+ (  0, 52 ) ve ( 52 , 8) için h fonksiyonu bire birdir ve istenen durum sağlanır. 
+5.	Sıra	Sizde      
+1.  Gerçek sayılarda fx x 4 3=-_i  ve xxgf 3=+__ ii  şeklinde tanımlı f ve g fonksiyonları veriliyor. 
+g	fonksiyonuna	göre	aşağıdaki	soruları	cevaplayınız.
+a)	Görüntü	kümesini	bulunuz.
+b)	Artan 	 veya 	 azalan 	 olduğu 	 aralıkları 	 bulunuz.
+c)	Minimum	ve	maksimum	değerlerini	bulunuz.

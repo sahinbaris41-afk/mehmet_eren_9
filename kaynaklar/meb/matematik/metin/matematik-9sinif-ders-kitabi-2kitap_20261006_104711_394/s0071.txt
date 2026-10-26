@@ -1,0 +1,69 @@
+71
+4. Tema / Eşlik ve Benzerlik
+28. ÖRNEK
+Yandaki	 birim	 kareli	 zeminde	 I,	 II	 ve	 III	 numaralı	 	 	
+doğru	parçaları	ile	A	noktası	verilmiştir .
+A	 noktasının	 I	 numaralı	 doğru	 parçasına	 göre	
+yansıması	A'	noktasıdır.	A'	noktasının	II	numaralı	
+doğru	parçasına	göre	yansıması	B'	noktası	ve	B'	
+noktasının	III	numaralı	doğru	parçasına	göre	yan-
+sıması	C'	noktasıdır.
+Buna	göre	 A'C'  nun	kaç	birim	olduğunu	bulun uz.
+I
+A
+II
+III
+27. ÖRNEK
+Yandaki	şekilde	ABC	eşkenar	üçgen,	 DE AB'77 A A ,	 AD BC=77 AA ,	 EF AD ,=77 AA  
+DB CE ACve!!77 A A dır.
+Buna	göre	
+FB
+AB
+	oranını	bulunuz.
+Çözüm
+ABC	eşkenar	üçgeninde	
+ABCmmm 60o== =__ _ii iWW X  dir.	 AB DE'77 A A  ol-
+duğundan	 ABC EDCmm 60o==`` jj%% 	ve	EDC	üç-
+geni	eşkenar	üçgen	olur.	 ED DC CE x 2== =
+alınırsa	ADC	üçgeninde	 DC 2x= 	ve	 FE7 A 	orta	
+taban	olduğundan	 FE x= 	elde	edilir.	
+ABC	eşkenar	üçgeninde	 AD7A 	hem	açıortay	
+hem	yükseklik	hem	de	kenarortay	olduğundan	
+BD x 2=  tir.	Buradan	ABC	eşkenar	üçgeninin	
+kenar	uzunlukları	 AB BC AC x 4=== 	olarak	
+bulunur.
+FED	dik	üçgeninde	Pisagor	teoreminden		 FD FDxx xx24 &+= =-2 2 2 2 22_i  FD x 3& =2 2	ve	
+FD x3= 	olur.
+FDB	dik	üçgeninde	Pisagor	teoreminden	 FBxx23 +=2 2 2_ _i i  FB xx43& =+2 22 	ve	 FB x7=  
+olur.	Buradan	
+FB
+AB
+FB
+AB
+x
+x
+7
+4
+7
+4
+7
+47&== = 	bulunur.
+A
+B
+EF
+D C
+A
+B
+E
+4x
+2x
+60o 60o60o
+30o 30o
+60o
+2x
+2xx3
+xF
+D C
+2x
+2x
+x3

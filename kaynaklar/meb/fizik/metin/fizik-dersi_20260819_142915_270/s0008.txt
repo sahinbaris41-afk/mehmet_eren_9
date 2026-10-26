@@ -1,0 +1,43 @@
+8
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+• Öğrencilerin öz değerlendirme ve akran değerlendirme yoluyla kendi öğrenme süreçlerini sorgulamaları ve geri 
+bildirim almaları sağlanmalıdır. Bu sayede öğrencilerin öğrenme kanıtlarında belirtilen faaliyetlere aktif katılım 
+düzeyleri artırılmalıdır.
+1.2.4. ÖĞRENME-ÖĞRETME Y AŞANTILARI
+• Fizik Dersi Öğretim Programı’nda ele alınan konulara yönelik hazırlanan temel kabuller, ön değerlendirme ve köprü 
+kurma süreçlerinin gerçekleştirilmesi esastır. Bununla birlikte fizik disiplinine özgü kavram, ilke, genelleme, 
+teorem gibi çeşitli şekillerde hazırlanan temel kabuller programda ifade edildiği şekliyle ele alınmalıdır. Ön 
+değerlendirme ve köprü kurma bölümleri ise öneri niteliğinde olup bu doğrultudaki uygulamalar farklılaştırılabilir.
+• Programın ön değerlendirme aşamasında öğretmenler öğrencilerin hazır bulunuşluk durumunu değerlendirmeli 
+ve bu ön bilgilere sahip olma durumlarını gözden geçirip yeni öğrenilecek konuya temel teşkil eden bilgi eksiklikleri 
+giderilmelidir. Ayrıca hız ve sürat, sıcaklık ve ısı gibi kavram yanılgıları olan durumlar tespit edilmeli yeni konu 
+öğrenimi öncesinde bu yanılgıların giderildiğinden emin olunmalıdır.
+• Fizik Dersi Öğretim Programı'nda her ünitenin başında belirtilmiş olan temel kabuller bölümünde, öğrencilerin o 
+üniteyi öğrenmesi için sahip olması beklenen ön bilgiler sunulmuştur.
+• Programın köprü kurma aşamasında üniteye geçiş yaparken öğrencinin üniteyi günlük hayat ile ilişkilendirmelerini 
+sağlayacak örneklere yer verilmelidir. Ayrıca önceki ünite ile ilişkilendirme yapılarak yeni üniteye geçilmeli, 
+böylece üniteler arasında bağlantı sağlanmalıdır.
+Fizik Dersi Öğretim Programı’nın uygulanması sürecinde öğrenme-öğretme uygulamaları açısından aşağıdaki hususlar 
+dikkate alınmalıdır:
+• Programda yer alan öğrenme-öğretme yaşantıları; öğrencilere bütüncül bir bakış açısı kazandıran, kalıcı 
+öğrenmenin gerçekleşmesine hizmet eden, farklı öğretim yöntem ve tekniklerini kullanan, disiplinler arası ilişkileri 
+görmeyi kolaylaştıran kapsamlı bir çerçevede sunulmuştur. 
+• Fizik Dersi Öğretim Programı’nın öğrenme çıktıları ile öğrencilerin fizik konu alanı bilgisini, programda verilen 
+etkinlikleri kullanarak edinmesi ve bilgiyi kullanarak beceriye dönüştürmesi amaçlanmalıdır.
+• Öğrencilerin aktif katılımının sağlandığı bir öğrenme ortamı ile düşüncelerini özgürce paylaşabildiği, sosyal-
+duygusal öğrenme becerilerinin gelişiminin desteklendiği bir sınıf iklimi oluşturulmalıdır.
+• Fizik Dersi Öğretim Programı kapsamında öğrencilerin yaparak ve yaşayarak öğrenmelerine olanak sağlamak 
+amacıyla derslerde uygulamalara, deneylere ve laboratuvar çalışmalarına yer verilmelidir. Okul dışı öğrenme 
+ortamları olarak bilim sanat merkezleri, bilim müzeleri vb. yerler ile dijital öğrenme ortamları olarak simülasyon, 
+animasyon ve video gibi görsel-işitsel araçlardan yararlanmaya özen gösterilmelidir.
+• Deney koşullarının sağlanamadığı durumlarda çevrim içi veya çevrim dışı simülasyon programlarından ya da hazır 
+veri setlerinden yararlanılarak ilgili öğrenme çıktılarının kazanımı sağlanmalıdır.
+• Programda yer alan öğrenme-öğretme yaşantıları öğretmenlere kılavuzluk etmesi açısından bir örnek niteliği 
+taşımaktadır. Öğretmen ünitenin öğrenme çıktılarını kazandırmaya yönelik programın öğretim yaklaşım ve 
+esaslarına uygun farklı öğretim strateji, yöntem ve teknikleri ile öğretim materyalleri kullanılabilir.
+• Fizik bilimi konuları öğrencilerin günlük hayatta karşılaşabilecekleri olaylar üzerinden seçilerek aktarılmalı ve 
+öğrendikleri fizik konularını hayatlarına uyarlamaları sağlanmalıdır.
+• Öğrenme-öğretme yaşantılarında fizik dersinin diğer derslerle ilişkilendirilmesine, öğrenme çıktılarında yer 
+verilen fen bilimleri alan becerilerinin ve kavramsal becerilerin etkinliklerle ve performans görevleri ile etkin 
+biçimde kullanılmasına önem verilmelidir.
+• Fizik Dersi Öğretim Programı'nda öğrencilerin fizik bilimine ilişkin bilgilere kendilerinin ulaşmaları ve bilgileri 

@@ -1,0 +1,35 @@
+37
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: EKOLOJİ
+Bu temanın içeriğini ekosistemler ve ekolojik sürdürülebilirlik oluşturmaktadır. Tema 
+kapsamında  öğrencilerin ekosistemin bileşenleri arasındaki ilişkileri çözümlemeleri, 
+tür içi ve türler arası etkileşimleri sorgulamaları, ekosistemde madde ve enerji akışıyla 
+ilgili akıl yürütmeleri ve madde döngüleri ile ilgili bilimsel model oluşturmaları, ekolojik 
+sürdürülebilirliğin önemini yorumlamaları, atık yönetimiyle ilgili yapılan çalışmalar 
+konusunda bilgi toplamaları, sürdürülebilirliği kısıtlayan durumlarla ilgili gözleme dayalı 
+tahminler yapmaları, ekolojik ayak izini küçültebilme yollarını ve doğal kaynaklar ile 
+biyoçeşitliliğin korunması için alınan önlemleri sorgulamaları amaçlanmaktadır.  
+DERS SAATİ 34
+ALAN 
+BECERİLERİ FBAB9. Bilimsel Model Oluşturma, FBAB10. Tümevarımsal Akıl Yürütme, 
+FBAB13. Bilimsel Sorgulama
+KAVRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.6. Bilgi Toplama, KB2.8. Sorgulama, KB2.11. Gözleme Dayalı 
+Tahmin Etme, KB2.14. Yorumlama 
+EĞİLİMLER E1.1. Merak, E1.4. Kendine İnanma (Öz Yeterlilik), E1.5. Kendine Güvenme (Öz Güven), E1.6. 
+Seçicilik, E2.2. Sorumluluk, E2.3. Girişkenlik, E3.3. Yaratıcılık, E3.4. Gerçeği Arama, 
+E3.5. Açık Fikirlilik, E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB2.1. İletişim, SDB3.1. Uyum, 
+SDB3.3. Sorumlu Karar Verme
+Değerler D3. Çalışkanlık, D5. Duyarlılık, D8. Mahremiyet, D9. Merhamet, D13. Sağlıklı Yaşam, 
+D14. Saygı, D16. Sorumluluk, D17. Tasarruf, D18. Temizlik, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel 
+Okuryazarlık, OB6. Vatandaşlık Okuryazarlığı, OB7. Veri Okuryazarlığı, OB8. Sürdürülebilirlik 
+Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Coğrafya, Fizik, Kimya
+BECERİLER ARASI 
+İLİŞKİLER KB3.3. Eleştirel Düşünme

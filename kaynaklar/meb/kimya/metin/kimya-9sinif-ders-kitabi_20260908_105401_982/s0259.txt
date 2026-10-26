@@ -1,0 +1,30 @@
+259
+3. Tema/Sürdürülebilirlik
+Bakterileri kullanarak sucul sistemde ağır metal temizliği düşük maliyet, yüksek temizleme kapasitesi ve 
+aynı anda birden fazla metal alımı gibi sebeplerle tercih edilen bir yöntemdir. Bakterilerin hızlı üremesi 
+ve kontrol altına alınamaması yöntemin dezavantajıdır. Farklı bakteri türleri ile yapılan sucul sistemde 
+ağır metal giderim sonuçları ve sucul sisteme bakteri atılmadan önce ve atıldıktan sonra sucul sistemde 
+görülen değişiklikler aşağıda verilmiştir.
+Çözüm Raporu-4 Ağır Metallerin Sudan Bakterilerle Temizlenmesi
+Önerme
+Bakteri Türü Ağır Metal Verim (%)
+Bacillus (Basilus) Cd 70
+Metilbacterium sp.  
+(Metilbakterium) Pb, Cu 62 (Pb), 80 (Cu)
+Oceanbacillus profundus 
+(Okyanusbasilus profunduus) Zn 54
+Stafilokok epidermidis 
+(Stafilokok epidermidis) Cr 56
+Klebsiella 
+(Klebsiyella) Hg 85
+Fitoteknoloji, ekosistemi oluşturan bitkilerin çeşitli yollarla kullanılmasıyla bozulan doğal dengeyi eski 
+hâline getirmeyi sağlar. Bazı metal biriktirici bitkiler, ağır metalleri ve nanoparçacıkları normal bitkilere 
+göre bünyelerinde daha fazla miktarda tutar. Bilim insanları topraktaki ağır metalleri ve sudaki nano-
+parçacıkları uzaklaştırmak için çeşitli bitkileri kullanmış ve gümüş (Ag), kadmiyum (Cd), kobalt (Co), 
+krom (Cr), bakır (Cu), cıva (Hg), mangan (Mn), molibden (Mo), nikel (Ni), kurşun (Pb), çinkoyu (Zn) 
+ve bu metallerin nanoparçacıklarını bitkilerin üzerinde biriktirmiştir. Yüksek miktarda ağır metal içeren 
+örnekler bitki ölümüne sebep olur. Toprak yapısını bozmayan ekonomik bir yöntemdir.
+Çözüm Raporu-5 Bitkisel Ekstraksiyonla (Fitoekstraksiyon) Ağır Metal ve Nanoparçacık 
+Temizliği
+Önerme
+Bitkisel Ekstraksiyon

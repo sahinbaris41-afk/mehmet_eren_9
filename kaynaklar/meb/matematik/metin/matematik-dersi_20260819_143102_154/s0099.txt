@@ -1,0 +1,49 @@
+99
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular ve performans görevi ile değerlendiri -
+lebilir.
+Öğrencilere bir doğal sayının asal çarpanları ile bölenleri arasındaki ilişkilere dair çalışma 
+kâğıdı verilebilir.
+Öğrencilerin bir doğal  sayının 2, 3, 4, 5, 8, 9 ile 10 ’a ve bu doğal sayıların en küçük ortak 
+katlarından oluşan sayılara bölümünden elde edilen kalanlara ait muhakeme becerilerinin 
+değerlendirilmesine yönelik performans görevi verilebilir. Öğrencilere verilen performans 
+görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.
+Öğrencilere birden çok doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katla-
+rıyla bunların en küçüğü arasındaki ilişkilere dair gerçek yaşam problemleri içeren çalışma 
+kâğıdı verilebilir. Öz değerlendirme formuyla öğrencilerin kendilerini değerlendirmeleri is-
+tenebilir.
+Açık uçlu sorularla öğrencilerin belirlediği algoritmaları farklı sayılar üzerinde kullanıp kul-
+lanamadığı, analitik dereceli puanlama anahtarı ile değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin tek, çift ve ardışık tam sayıları tanıdığı; en fazla iki basamaklı bir doğal sa -
+yının asal olup olmadığını ve asal çarpanlarını belirleyebildiği; bir doğal sayıyı basamak 
+değerlerine göre çözümleyebildiği; bir doğal sayıyı asal çarpanlarına ayırabildiği kabul 
+edilmektedir. Ayrıca bir doğal sayının çarpanlarını, katlarını ve iki doğal sayının ortak 
+bölenlerini, ortak katlarını belirleyebildikleri; doğal sayılarla bölme işlemi yapabildik -
+leri; bölünen, bölen, bölüm, kalan kavramlarına ve doğal sayıların  2, 3, 4, 5, 9 ve 10 ile 
+bölünebilme özelliklerine yönelik çıkarım yapabildikleri  kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere tek, çift ve ardışık tam sayı, asal sayı, çarpan, kat, bölme, bölen, bölüm, kalan, 
+bölünebilme, ortak bölen, ortak kat kavramları ile ilgili ön bilgilerini belirlemeye ve bir doğal 
+sayının basamak çözümlemesine yönelik açık uçlu sorular sorulabilir.   Öğrencilerin doğal 
+sayıların  2, 3, 4, 5, 9 ve 10 ile bölünebilmesine; iki doğal sayının ortak bölenlerine ve ortak 
+katlarına dair sahip oldukları bilgileri ve genellemeleri belirlemek için çıkarım yapmalarını 
+gerektiren sorular sorulabilir. 
+Köprü Kurma Bir doğal sayının çarpanlarını ve farklı doğal sayıların ortak bölen veya ortak katlarını in -
+celemeyi gerektiren gerçek yaşam durumu problemleri ele alınabilir. Bu problemlerde 
+öğrencilerin önceki sınıf düzeylerinden bildikleri asal çarpan yöntemini veya asal bölen 
+algoritmasını kullanmaları istenebilir. Öğrencilerin tekrarlı çıkarmanın kolay bir yolu olarak 
+bölme algoritmasının pratikliğini fark etmelerini sağlayacak gerçek yaşam durumlarına 
+yer verilebilir.
+İÇERİK ÇERÇEVESİ • Bir Doğal Sayının Asal Çarpanları, Bölenleri
+• En Büyük Ortak Bölen, En Küçük Ortak Kat 
+• Bölünebilme
+Genellemeler • 1’den büyük her doğal sayı, asal sayıların çarpımı şeklinde tek türlü yazılır.
+• Bölünebilme kuralları, bölünen çözümlenerek elde edilir.
+Anahtar Kavramlar aralarında asal, asal sayı, bölen, bölme, bölüm, bölünebilme, çarpan, en büyük ortak bö -
+len, en küçük ortak kat, kalan, kat, ortak bölen, ortak kat
+Sembol ve Gösterimler EBOB, EKOK

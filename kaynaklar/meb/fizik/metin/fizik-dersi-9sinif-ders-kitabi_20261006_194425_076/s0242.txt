@@ -1,0 +1,49 @@
+242
+4. ÜNİTE 
+5. Etkinlik Isı Aktarım Y olları 
+Amaç Isı aktarım yollarını sınıflayabilme
+Süre 30 dk.
+Yönerge Aşağıda verilen basamakları takip ederek etkinliği gerçekleştiriniz.
+1. Aşağıda ısı aktarımıyla ilgili günlük hayattan örnekler içeren bazı sorular verilmiştir. Beyin fır tınası yönte­
+miyle soruları cevaplayınız.
+a) Y emek pişirirken yemeği metal kaşıkla karıştıran birinin elinin yanmasının sebebi nedir?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+b) Havası boşaltılmış bir odada çalışan rezistanslı elektrikli ısıtıcı odayı ısıtabilir mi? Cevab ınızı gerekçe­
+leriyle açıklayınız. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+c) Havası boşaltılmış bir odada çalışan kalorifer peteği odayı ısıtabilir mi? Cevabınızı gerekçeleriyle 
+açıklayınız. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+ç) İçinde soba yanan bir odanın tavanı ile tabanının sıcaklıklarının farklı olmasının sebebi nedir? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+d) Dışarının soğuk, içerinin sıcak olduğu bir günde pencere açıldığında sıcak­soğuk hava giriş­çıkışı nasıl 
+olur? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+2. Tabloda verilen olaylardaki ısı aktarım yollarını tartışınız. Her bir olayda gerçekleşen ısı aktarımının nitelik­
+lerini belirleyerek aşağıdaki tabloyu doldurunuz. Isı aktarımının tablodakilerden farklı bir niteliği olduğunu 
+düşünüyorsanız “ Alternatif Fikirler” sütununa bu niteliği ekleyebilirsiniz. 
+Isı Aktarımının 
+Gerçekleştiği Olay
+Isı Aktarımının Niteliği
+Temas 
+Gerektirir
+Temas 
+Gerektirmez
+Maddesel 
+Ortam 
+Gereklidir
+Maddesel 
+Ortama 
+İhtiyaç Y oktur
+Alternatif 
+Fikirler
+Y emeği metal kaşıkla karış­
+tıran birinin elinin yanması
+Kalorifer peteğinin odayı 
+ısıtması
+Güneş’in Dünya’yı ısıtması
+Kamp ateşinin, etrafında 
+bulunan kişileri ısıtması
+Y anan ocak üstündeki 
+soğuk suyun zamanla 
+ısınması

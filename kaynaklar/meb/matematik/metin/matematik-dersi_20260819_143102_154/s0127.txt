@@ -1,0 +1,28 @@
+127
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme Bir olayın koşula bağlı olduğunda olasılık değerinin büyümesinin ya da küçülmesinin araştı-
+rılmasına yönelik çalışmalar yapılabilir. 
+(*) Öğrencilerin bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı oldu-
+ğu durumlar içeren, özgün bir oyun tasarlamaları; oyunu oynayarak test etmeleri ve oyun-
+daki aksaklıkları belirleyerek gidermeleri istenebilir.
+(*) Öğrencilerden Bayes teoreminin nasıl ortaya çıktığına; bu teoremin bilişim teknolo -
+jileri ve yazılım, makine öğrenmesi ve yapay zekâ gibi alanlarda nasıl kullanıldığına ilişkin 
+araştırma yapmaları beklenebilir. Ayrıca Naive Bayes (Naiv Beyz) algoritmasına, Enigma’da 
+kullanılan Bayes teoremine ilişkin araştırmalar yapılması  istenebilir. Araştırmanın dijital 
+kaynaklar üzerinden yapılması durumunda ulaşılan bilgilerin doğruluğunun teyit edilmesi, 
+anlamlandırılması, sorgulanması, eleştirel bir bakış açısıyla yorumlanması ve sentezlen-
+mesi hedeflenebilir. Yapılan araştırmadan elde edilen sonuçların bilimsel bir dille raporlaş-
+tırılması beklenebilir. 
+Destekleme Koşullu olasılık ve Bayes formüllerinin kullanılması karmaşık olduğu için olası tüm çıktıla-
+rın ve istenen tüm çıktıların farklı gösterimler kullanılarak temsil edilmesiyle daha somut 
+bir yaklaşım tercih edilebilir. Örneğin  ı̇stenen çıktılar ve olası tüm çıktıların sayılarının 
+daha görünür olabilmesi için iki yönlü sıklık tabloları kullanılabilir. Koşullu olasılığın he -
+saplanmasında işlem kolaylığı için daha uygun sayılar içeren örnek problemler seçilebilir. 
+Koşullu olasılık için gerekli çıkarımların daha erişilebilir kılınması amacıyla ipuçları veya 
+görseller verilebilir. Ulaşılan sonuç ve genellemeleri içeren hatırlatma notları, afiş veya 
+posterlerle sınıfta sunularak tartışılabilir.
+ÖĞRETMEN 
+Y ANSITMALARI
+Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

@@ -1,0 +1,23 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+57
+Kontrol 
+Listesi
+Yönerge: Aşağıdaki tabloda verilen istatistiklerden yararlanarak Türkiye’de pamuk üretiminin dağılışını gösteren 
+bir koroplet harita hazırlayınız. Çalışmanızı aşağıda verilen dilsiz haritayı kullanarak yapabilirsiniz. Haritayı 
+hazırlarken karekodda verilen kontrol listesini takip etmeyi unutmayınız. Gerektiğinde arkadaşlarınızdan yardım 
+talep ediniz.
+PAMUK
+Adana: 92.095 Batman: 2.572 Hatay:  140.914 Manisa: 47.640 Siirt: 2.395
+Adıyaman: 21.673 Bursa: 6 Iğdır: 1.140 Mardin: 31.266 Çanakkale: 331
+Antalya: 14.879 Denizli: 35.699 Kahramanmaraş: 14.935 Mersin: 11.507 İzmir: 99.908
+Aydın: 179.341 Diyarbakır: 201.678 Kilis: 1.257 Muğla: 1.844 Şanlıurfa: 583.250
+Balıkesir: 466 Gaziantep:15.331 Malatya: 8 Osmaniye: 1.224 Şırnak: 16.393 
+DEĞERLENDİRME: Yapılan etkinlik, karekodda verilen “Kontrol Listesindeki” 
+ölçütlere göre değerlendirilecektir. 
+Amaç Verilerden yararlanarak harita üretebilme
+Beceri Harita; Tablo, Grafik, Şekil ve/veya Diyagram 
+ETKİNLİK Koroplet Harita Üretiyorum
+Tablo: İllerin 2018-2023 Yılları Arasındaki Pamuk Üretim Ortalaması (Ton, TÜİK)
+K
+0         100           200
+km

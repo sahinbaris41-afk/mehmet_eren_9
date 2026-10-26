@@ -1,0 +1,29 @@
+186
+3. Tema /  Geometrik Şekiller
+Üçgen Eşitsizliği
+Aşağıda verilen adımları takip ederek soruları cevaplayınız.
+1.  Aşağıdaki görselde pembe, yeşil, mavi, sarı renkli çubuklar ve çubukların cm cinsinden uzunlukları verilmiştir. 
+7
+5
+4
+2 2
+ Buna göre
+a) Yukarıdaki çubukların üç tanesi ile uç noktaları birbirine değecek şekilde birleştirilerek kaç farklı üçgen 
+oluşturulabileceğini bulunuz.
+5.	Uygulama
+6.	Sıra	Sizde      
+Şekil 1’de verilen üçgen biçimindeki tarlanın sınırlarını belirlemek için önce köşelerine birer direk dikilmiş 
+ve direklerin dikildiği noktalar A, B ve C olarak isimlendirilmiştir. Daha sonra bu direkler arasına gergin tel 
+çekilmiştir. A, B ve C noktaları arasına gerilen tellerin uzunlukları sırasıyla BC cm42= x birim, AC cm 8= y birim 
+ve ,AB cm 5= z birimdir. Gergin tellerin ikişerli olarak uç uca eklenmesiyle elde edilen toplam uzunlukların 
+uzundan kısaya doğru sıralanışı Şekil 2’de verilmiştir.
+A
+B x
+yz
+C
+Şekil 1
+xy+
+yz+
+xz+
+Şekil 2
+Buna	göre	ABC 	 üçgeninin 	 iç 	 açılarının 	 ölçülerini 	 büyükten 	 küçüğe 	 doğru 	 sıralayınız.

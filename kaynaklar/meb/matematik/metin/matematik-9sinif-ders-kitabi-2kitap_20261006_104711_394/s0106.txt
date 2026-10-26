@@ -1,0 +1,40 @@
+106
+5. Tema/Algoritma ve Bilişim  
+2. ÖRNEK
+Aşağıda	bir	doğal	sayının	tek	mi,	çift	mi	olduğunu	bulan	algoritmanın	işleyişi	iki	farklı	akış	şemasıyla	
+ifade	edilmiştir.	
+Başla
+Bir	doğal	sayı	(x)	gir
+EvetHayır
+Sayı	tektir Sayı	çifttir
+Bitir
+%x2 0=
+Akış Şeması I
+Başla
+Bir	doğal	sayı	(x)	gir
+EvetHayır
+Sayı	çifttir Sayı	tektir
+Bitir
+%x2 1=
+Akış Şeması II
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)	Akış	şemaları	arasındaki	temel	farkı	açıklayınız.
+b)	Akış	şemalarında	bir	doğal	sayının	tek	mi,	çift	mi	olduğu	nasıl	belirlenmektedir?
+c)	Akış	şemalarında	kullanılan	koşul	ifadeleri	arasındaki	mantıksal	ilişkiyi	açıklayınız.
+Çözüm
+a)		Akış	Şeması	I	ve	Akış	Şeması	II	arasındaki	temel	fark,	sayının	çiftlik	veya	teklik	durumunu	kontrol	
+etmek	için	kullanılan	koşul	ifadesidir.	
+	 Akış 	Şeması	I’de	 %x2 0= 	koşul	ifadesiyle	sayının	çift	olup	olmadığı	kontrol	edilmektedir.	
+	 Akış 	Şeması	II’de	 %x2 1= 	koşul	ifadesiyle	sayının	tek	olup	olmadığı	kontrol	edilmektedir.	
+b)		Her	iki	akış	şemasında	da	‟%”	operatörü	kullanılarak	sayının	2’ye	bölümünden	kalan	değer	incelen-
+mektedir.	Bu	yöntem	programlama	ve	algoritma	geliştirmede	doğal	sayıların	çiftlik	veya	teklik	duru-
+munu	belirlemek	için	sıkça	kullanılır.	
+c)  ‟ %%xv ex20 2 1== ”	ifadeleri	bir	sayının	2’ye	tam	bölünüp	bölünmediğini	kontrol	eder,	yani	birbir-
+lerinin	tamamlayıcısıdır.	
+	 x 	doğal	sayısı	için	‟ %x2 0= ”	ifadesi	doğruysa	bu	doğal	sayı	çifttir	ve	 %x2 1= 	ifadesi	yanlıştır.	
+	 x 	doğal	sayısı	için	‟ %x2 1= ”	ifadesi	doğruysa	bu	doğal	sayı	tektir	ve	 %x2 0= 	ifadesi	yanlıştır.
+	 Örneğin 	Akış	Şeması	I’de	75	doğal	sayısı	için	koşul	kontrol	edildiğinde	‟ % 7520= ”	ifadesi	yanlış	
+olduğundan	‟Hayır”	yolu	izlenir	ve	‟Sayı	tektir.”	çıktısı	alınır.	
+	 Akış 	Şeması	II’de	75	doğal	sayısı	için	koşul	kontrol	edildiğinde	‟ % 7521= ”	ifadesi	doğru	olduğundan	
+‟Evet”	yolu	izlenir	ve	‟Sayı	tektir.”	çıktısı	alınır.	Görüldüğü	üzere	bir	algoritmanın	işleyişi	bir	veya	daha	
+fazla	akış	şemasıyla	ifade	edilebilir.				

@@ -1,0 +1,97 @@
+109
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+rilerini geliştirmek için dönüşümler elde edilip yorumlanırken matematik yazılımlarından yararla-
+nılır (OB2, MAB5). Bu fonksiyonların cebirsel temsili  karesel fonksiyon, grafik temsili ise parabol 
+olarak adlandırılır. Cebirsel temsili verilen fonksiyonun grafik temsilinde işaretini, eksenleri kestiği 
+noktaları, artan-azalan olduğu aralıkları, maksimum-minimum noktalarını ve değerlerini bulmaları 
+için öğrencilerden hem kâğıt ve kalemle hem de matematik yazılımlarıyla çalışarak elde ettikleri 
+sonuçları karşılaştırmaları istenir (OB2, MAB5). Bu incelemeler, aynı zamanda fonksiyonun cebir-
+sel incelemeleri ile de eşleştirilir (OB4).  Öğrencilere karesel referans fonksiyonun grafik temsiline 
+yapılan dönüşümlerin fonksiyonun cebirsel temsilinde oluşturduğu  değişime yönelik inceleme 
+içeren performans görevi verilebilir. Öğrencilerden bu performans görevini titiz bir şekilde hazır-
+layarak  zamanında ve eksiksiz teslim etmeleri beklenir. Böylece öğrencilerin sorumluluk değerini 
+kazanmaları sağlanır (D16.3).
+Öğrenciler, karesel referans fonksiyonun grafik temsiline dönüşümler uygulanarak elde edi -
+len fonksiyonların nitel özellikleri hakkında varsayımlar geliştirmeleri için teşvik edilir. Varsa -
+yımlar geliştirilirken cebirsel ve grafiksel incelemelerin birlikte yürütülmesine önem verilir. 
+Özel olarak fonksiyonun cebirsel temsiliyle fonksiyonun sıfırları, artan-azalan olduğu aralık -
+lar, maksimum-minimum noktalarının koordinatları arasında ilişkiler kurulur. Örneğin  gerçek 
+sayılarda f(x) = x2 + 4x şeklinde tanımlı fonksiyonun artan-azalan olduğu aralıklara yönelik 
+varsayım geliştirilirken fonksiyonun sıfırları (0 ve -4) ve grafiğinin simetrik olması dikkate 
+alınarak  artan-azalan olduğu aralıkların belirlenmesini sağlayan noktanın koordinatlarının  
+A(-2, -4) olduğu ifade edilir. Aynı zamanda fonksiyonun cebirsel ifadesi, f(x) = (x + 2)2 - 4 
+şeklinde tamkareye tamamlanarak grafik temsili dönüşümlerle elde edilir. Bu şekilde fonk -
+siyonun artan-azalan olduğu aralıklar hakkında varsayımlara ulaşılır. Bu varsayımlar, verilen 
+bir tanım aralığının fonksiyondaki karşılığı olan aralığı belirlerken ( “x < 0 iken f(x) = x2 hangi 
+aralıkta değer alır?” veya “- 1 < x < 3 iken f(x) = x2 hangi aralıkta değer alır?” gibi) fonksiyonun 
+maksimum-minimum noktasının dikkate alınmasını da içermelidir.
+Cebirsel temsili f(x) = ax2 + bx + c (a, b, c ∈ ℝ, a ≠ 0) genel formunda olan karesel fonksiyonla-
+rın f(x)= a(x ± r)2 ± k (r, k ∈ ℝ) tamkare formuna dönüştürülmesine ilişkin yorumlar, varsayımlar 
+geliştirmede etkin şekilde kullanılır. Bu bağlamda Harizmi’nin tamkareye tamamlama yöntemini 
+geometrik modellerden yararlanarak nasıl kullandığı incelenir ve bu yöntemin uygulaması yapı-
+lır. Böylece öğrencilerin kültürel mirasa yönelik duyarlı olmaları sağlanır (D14.3). Bu varsayımlar-
+dan hareketle öğrencilerden fonksiyonların nitel özelliklerine ilişkin genellemeleri elde etmeleri ve 
+genellemelerle varsayımları karşılaştırarak elde ettikleri önermeleri sözel veya sembolik dille sun-
+maları beklenir. Öğrenciler sundukları önermelerin farklı bir temsildeki karşılığını ifade edebilmeleri 
+(örneğin cebirsel temsille sunulan bir önermenin grafik temsildeki karşılığı) hususunda teşvik edilir 
+ve önermelerinin içerdiği dönüşümleri (x eksenine göre simetri, y eksenine göre öteleme, dikey 
+sıkıştırma ve germe gibi) uygun matematiksel terminolojilerle ifade edebilmeleri için desteklenir. 
+Genellemelerden elde edilen önermeler ekonomi, fizik, kimya ve biyoloji alanlarına ilişkin gerçek 
+yaşam durumlarında karşılaşılan problemlerde değerlendirilir. Örneğin bir ürünün fiyatındaki artış 
+miktarı ile o ürünü satın almak isteyen müşteri sayısındaki ilişki incelenerek gelir fonksiyonu mo-
+dellenebilir. Gelir fonksiyonunda en yüksek gelirin elde edilmesini sağlayan zam miktarı, önermeler 
+kullanılarak belirlenir (OB3). Bu problemler üzerinden karesel fonksiyonların nitel özelliklerini kul-
+lanmayı gerektiren proje ödevi verilebilir. Öğrencilerden bu proje ödevini titiz bir şekilde hazırla-
+yarak  zamanında ve eksiksiz teslim etmeleri beklenir. Böylece öğrencilerin sorumluluk değerini 
+kazanmaları desteklenir  (D16.3). 
+Karesel fonksiyonların matematiksel temsilleri, dönüşüm süreçleri ve nitel özellikleri hakkında elde 
+edilen önermelere ilişkin olarak nasıl matematiksel doğrulama veya ispat yapılabileceği gösterilir.  
+Örneğin  c ∈ ℝ için cebirsel temsili  f(x) = x2 + c olan fonksiyonların artan-azalan olduğu aralıklar ile 
+maksimum-minimum değerleri hakkındaki varsayımların doğruluğu incelenirken “ ∀x ∈ ℝ için x2 ≥ 0 
+olduğundan x2 + c ≥ c olur. Bu durumda ∀x ∈ ℝ için f(x) ≥ c olur.” cebirsel genellemesi yapılabilir. Bu-
+radan hareketle öğrencilerin fonksiyonun minimum değerinin c olduğu ve bu değeri x = 0 noktasında 
+aldığı sonucuna ulaşmaları sağlanır. Böylelikle öğrencilerin fonksiyonun nitel özelliklerini cebirsel ve 
+grafiksel olarak eş zamanlı ve ilişkili bir biçimde inceleyebilmelerinin yanı sıra cebirsel dil ve sembo-
+lizmle mantık bağlaçlarını ve niceleyicileri uygun şekilde kullanabilmeleri desteklenir. Burada öner-
+Öğrenme-Öğretme 
+Uygulamaları
+MAT.10.4.1
+Fonksiyonlar ile modellenebilen gerçek yaşam durumları üzerinden fonksiyonların tanım ve 
+değer kümeleri ile  fonksiyon olma koşullarının neler olabileceğine dair tartışma yapılır. Bu 
+bağlamda özellikle görüntü ve değer kümeleri arasındaki ilişkilerden yararlanılarak fonksi -
+yonlarda değer kümesi incelenir.  Örneğin bir hareketlinin konum-zaman fonksiyonu üzerin -
+den zaman ve konum değerlerinin pozitif gerçek sayılar olacağı, belirli bir anda birden fazla 
+noktada bulunamayacağı fikri üzerinden fonksiyonun tanım, değer ve görüntü kümeleri ile  
+fonksiyon olma şartlarının neler olabileceği tartışılır. Ardından doğrusal fonksiyonların ce -
+birsel ve grafik temsilleri incelenerek verilen bir doğrusal ilişkinin fonksiyon olma şartlarını 
+taşıdığı belirlenir. Bu sayede öğrencilerin önceki öğrenmelerinden tanım, görüntü, değer kü-
+meleri ve değişkenler arası ilişkiler bağlamında fonksiyon olma şartlarını ve farklı fonksiyon -
+ların nitel özelliklerini nasıl belirleyebileceklerine dair stratejiler üretmeleri beklenir (SDB1.1). 
+Elde edilen stratejiler kullanılarak verilen grafik temsillerinin fonksiyon olma şartları ve nitel 
+özellikleri (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, maksimum-minimum 
+noktaları, sıfırları, bire birliği, tekliği-çiftliği, örtenliği) analiz edilir. Bu analiz yapılırken “Tanım 
+kümesindeki her bir gerçek sayının değer kümesinde yalnızca bir karşılığı vardır.”, “Tanım kü-
+mesindeki farklı elemanların değer kümesindeki karşılıkları da farklıdır.”, “Tanım kümesindeki 
+farklı x, y elemanları için x > y ise f(x) > f(y) veya f(x) < f(y) dir.” gibi önermeler fonksiyonların 
+cebirsel veya grafik temsilleri kullanılarak değerlendirilir. Gerçek sayılarda tanımlı bir f fonksi-
+yonunun işaret incelemesi, grafik temsili üzerinden yapılır. Yapılan incelemelerden hareketle 
+öğrencilerin bir grafik veya cebirsel temsilin hangi durumlarda bir fonksiyon belirttiği ve bir 
+fonksiyonun nitel özelliklerinin grafik veya cebirsel olarak nasıl temsil edildiği ile ilgili  yargıda 
+bulunmaları beklenir. Grafik temsili verilen farklı fonksiyonların nitel özellikleriyle grafik tem-
+silleri arasında ilişkilerin kurulması için sınıf içi tartışmalar yapılır. Ayrıca öğrencilerden fonksi-
+yonların nitel özelliklerini kavram haritası ve zihin haritası gibi araçlarla göstermesi istenebilir.
+Fonksiyon kavramının ortaya çıkışının temelinde iki niceliğin birbirine bağlı değişiminin yattığı 
+ifade edilir. Eski uygarlıkların kimi hesaplamalarında örtük olarak fonksiyon kavramını kullan-
+dıkları örneklere (gökyüzü gözlemlerinde bir gök cisminin zaman-konum ilişkisine yönelik ya-
+pılan çıkarımlar gibi) yer verilir.  1700’lü yıllara gelindiğinde matematiğin sembolik dilinin gelişi-
+mi ve dik koordinat sisteminin ortaya çıkmasıyla fonksiyonların cebirsel ve grafik temsillerinin 
+gelişmeye başladığı vurgulanır. Euler’in fiziksel nicelikler arasındaki bağımsız-bağımlı değiş -
+ken ilişkisi üzerinden fonksiyon tanımını ve sembollerini geliştirdiği, Dirichlet ’nin (Dirikli) bu 
+tanımı daha formel hâle getirdiği belirtilir. Fonksiyon kavramının keyfî kümeler bağlamındaki 
+tanımına değinilmeden bugünkü fonksiyon kavramının tanımının iki nicelik arasındaki ilişkiden 
+daha soyut ve daha genel bir yapıda olduğu belirtilir. Bununla birlikte gerçek sayılarda tanımlı 
+ve iki nicelik arasındaki ilişkiyi ifade eden fonksiyonlarla hemen her alanda karşılaşılabileceği 
+belirtilerek öğrencilerin fonksiyon kavramının işlevsel boyutuna odaklanmaları sağlanır (E1.1, 
+E3.6, E3.7). Öğrencilere gerçek sayılarda fonksiyon olma şartları ile gerçek sayılarda tanımlı 
+fonksiyonların nitel özelliklerini matematiksel temsillerle değerlendirebileceği çalışma kâğıdı 
+verilebilir.

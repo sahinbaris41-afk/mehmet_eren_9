@@ -1,0 +1,33 @@
+13
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+1.4. ORTAÖĞRETİM MATEMATİK DERSİ KİTAP FORMA SAYILARI VE KİTAP EBATLARI
+1 Zümre öğretmenler kurulu tarafından ders kapsamında yapılacak çalışmalara ayrılan süredir. Okul temelli planlama 
+ders saatleri; okul dışı öğrenme etkinlikleri, araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, 
+okuma çalışmaları gibi faaliyetlerin yanı sıra zümre öğretmenleri tarafından öğrencilerin meslek seçimi ve kariyer 
+planlaması yapabilmeleri amacıyla onlara rehberlik edecek şekilde kullanılır. Bu kapsamda planlanan eğitim öğretim 
+faaliyetleri, mesleki rehberlik ve kariyer danışmanlığı bağlamında yürütülür. Çalışmalar için ayrılan süre, eğitim öğretim 
+yılı içinde planlanır ve yıllık planda ifade edilir.
+DERS KİTABI FORMA SAYISI KİTAP EBADI
+HAZIRLIK 13-15 19,5 cm X 27,5 cm
+MATEMATİK 9 27-29 19,5 cm X 27,5 cm
+MATEMATİK 10 24-26 19,5 cm X 27,5 cm
+MATEMATİK 11 23-25 19,5 cm X 27,5 cm
+MATEMATİK 12 26-28 19,5 cm X 27,5 cm
+12. SINIF MATEMATİK DERSİ
+İŞLENİŞ 
+SIRASI TEMA
+Öğrenme 
+Çıktısı 
+Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1 MAT.12.1. NİCELİKLER VE DEĞİŞİMLER (1) 2 14 6
+2 MAT.12.1. NİCELİKLER VE DEĞİŞİMLER (2) 3 22 10
+3 MAT.12.2. GEOMETRİK ŞEKİLLER 3 26 12
+4 MAT.12.3. GEOMETRİK CİSİMLER 3 30 14
+5 MAT.12.4. DEĞİŞİMİN MATEMATİĞİ (1) 4 28 13
+6 MAT.12.4. DEĞİŞİMİN MATEMATİĞİ (2) 3 28 13
+7 MAT.12.4. DEĞİŞİMİN MATEMATİĞİ (3) 2 28 13
+8 MAT.12.5. HAZIR VERİLER ÜZERİNDE ÇALIŞMA 1 30 14
+OKUL TEMELLİ PLANLAMA1 - 10 5
+TOPLAM 21 216 100

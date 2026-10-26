@@ -1,0 +1,33 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+53
+ÜNİTE 4: ENERJİ
+4. Deney
+Deneyin Amacı Öz ısının maddeler için ayırt edici özellik olduğunu belirleyebilme
+Araç Gereç 20 g kütleli bakır, alüminyum ve demir levhalar, maşa, termometre, ısı kaynağı 
+(bunzen beki), ısıya dayanıklı eldiven, kronometre
+Deney Tasarımı Deney Düzeneği
+1. 20 g kütleli bakır, alüminyum ve demir levhaları 
+alınız. Levhaların ilk sıcaklıkları aynı değere 
+gelene  kadar oda sıcaklığında bekletiniz. 
+Levhaların oda sıcaklığındaki bu ilk değerini 
+termometre ile ölçerek  Tablo 4.7'de yer alan 
+ilgili boşluğa yazınız.
+2. Bakır, alüminyum ve demir levhaları sıra 
+ile eldiven ve maşa kullanarak kronometre 
+yardımıyla bir dakika boyunca  ısı kaynağında  
+ısıtınız. 
+3. Levhaların bir dakika sonundaki son sıcaklık 
+değerini termometre yardımıyla ölçerek Tablo 
+4.7'de yer alan ilgili boşluğa yazınız.
+4. Tablo 4.7'de kayıtlı olan  son sıcaklık ve ilk 
+sıcaklık değerlerine göre her bir levha için  
+sıcaklık farkını yine aynı tabloda yer alan ilgili 
+boşluğa yazınız. 
+5. Elde ettiğiniz verileri Tablo 4.8'deki ilgili alana 
+yazıp yorumlayınız.
+Tablo 4.7: Eşit kütlelerdeki bakır, alüminyum ve demir levhaların eşit sıcaklık farkı için hesaplanan ısı alma süreleri, ilk sıcaklıkları, 
+ısıtıldığında elde edilen son sıcaklıkları
+Süre (dk.) Kullanılan (g) İlk Sıcaklık (Tİ: °C) Son Sıcaklık (TS: °C) Sıcaklık Farkı (ΔT = TS-Tİ)
+1 20 (bakır)
+1 20 (alüminyum)
+1 20 (demir)

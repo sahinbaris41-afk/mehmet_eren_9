@@ -1,0 +1,536 @@
+{
+ "ders": "gorsel",
+ "ders_adi": "Görsel Sanatlar",
+ "sinif": 9,
+ "haftalik_saat": 2,
+ "kaynaklar": {
+  "yillik_plan": "kaynaklar/yillik_plan/meb_taslak/gorsel/görsel sanatlar yp/2026-2027 GÖRSEL SANATLAR H,9,10,11,12. SINIF TASLAK YILLIK PLAN 260826.xlsx [9. SINIF]",
+  "ksdt_1donem": null,
+  "ders_kitabi_metin": [],
+  "haftalik_saat": "TTKB 09/05/2025 Anadolu Lisesi Haftalık Ders Çizelgesi"
+ },
+ "aciklama": {
+  "yazili": "1D1Y/1D2Y/2D1Y/2D2Y. 'KSDT' kaynaklılar resmî tablodan, diğerleri plan haftasından tahmin. Yönetmelik 45/1-d gereği her yazılı önceki konuları da azalan oranda kapsar.",
+  "kitap": "basili_* kitabın üzerinde yazan sayfa; pdf_baslangic metin klasöründeki sNNNN.txt numarası. Eşleşme içindekiler sayfasına kelime benzerliğiyle yapıldı."
+ },
+ "uretim": {
+  "arac": "tools/harita_uret.py",
+  "tarih": "2026-10-26"
+ },
+ "dogrula": [
+  "Öğrenci ders kitabı yok (tymm'de yalnızca öğretmen kılavuz kitabı); uygulamalı ders, yazılı kapsamı yok."
+ ],
+ "uniteler": [
+  {
+   "id": "gorsel-u1",
+   "ad": "SANATA BAKIŞ",
+   "konular": [
+    {
+     "id": "gorsel-u1-k1",
+     "ad": "Sanat Dalları ile İlgili Görsel Kılavuz Hazırlama",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.1.1",
+       "metin": "Sanat dalları ile ilgili görsel kılavuz tasarlayabilme"
+      },
+      {
+       "kod": "GS.9.1.2",
+       "metin": "Sanat dalları ile ilgili görsel kılavuz oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      1,
+      2
+     ],
+     "hafta_metin": "1. Hafta: 14-18 Eylül → 2. Hafta: 21-25 Eylül",
+     "ders_saati": 4,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u1-k2",
+     "ad": "Kendine Mal Etme Yaklaşımı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.1.3",
+       "metin": "Kendine mal etme yaklaşımı ile görsel kompozisyon oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      3
+     ],
+     "hafta_metin": "3. Hafta: 28 Eylül-2 Ekim → 3. Hafta: 28 Eylül-2 Ekim",
+     "ders_saati": 2,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "gorsel-u2",
+   "ad": "ÇİZGİDEN BOYUTA",
+   "konular": [
+    {
+     "id": "gorsel-u2-k1",
+     "ad": "Görsel Tasarım Öge ve İlkeleri ile Sanatsal Üretim",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.2.1",
+       "metin": "Görsel tasarım öge ve ilkeleri ile sanatsal ürün tasarlayabilme"
+      },
+      {
+       "kod": "GS.9.2.2",
+       "metin": "Görsel tasarım öge ve ilkeleri ile sanatsal ürün oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      4,
+      5,
+      6
+     ],
+     "hafta_metin": "4. Hafta: 5-9 Ekim → 6. Hafta: 19-23 Ekim",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u2-k2",
+     "ad": "Üç Boyutlu Geometrik Nesnelerle Perspektif Çizimi",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.2.3",
+       "metin": "Üç boyutlu geometrik nesnelerin perspektif çizimini tasarlayabilme"
+      },
+      {
+       "kod": "GS.9.2.4",
+       "metin": "Üç boyutlu geometrik nesnelerin perspektif çizimini oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      7,
+      8
+     ],
+     "hafta_metin": "7. Hafta: 26-30 Ekim → 8. Hafta: 2-6 Kasım",
+     "ders_saati": 4,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u2-k3",
+     "ad": "Renk Armonileri ile Sanatsal Üretim",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.2.5",
+       "metin": "Renk armonileri ile sanatsal ürün oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      9,
+      10
+     ],
+     "hafta_metin": "9. Hafta: 9-13 Kasım → 10. Hafta: 23-27 Kasım",
+     "ders_saati": 4,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u2-k4",
+     "ad": "Natürmort Çizimi",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.2.6",
+       "metin": "Natürmort çizimi tasarlayabilme"
+      },
+      {
+       "kod": "GS.9.2.7",
+       "metin": "Natürmort çizimi oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      11,
+      12
+     ],
+     "hafta_metin": "11. Hafta: 30 Kasım-4 Aralık → 12. Hafta: 7-11 Aralık",
+     "ders_saati": 4,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u2-k5",
+     "ad": "Yüzey Doku İlişkisi ile Rölyef Yapımı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.2.8",
+       "metin": "Yüzey doku ilişkisi ile rölyef tasarlayabilme"
+      },
+      {
+       "kod": "GS.9.2.9",
+       "metin": "Yüzey doku ilişkisi ile rölyef oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      13,
+      14
+     ],
+     "hafta_metin": "13. Hafta: 14-18 Aralık → 14. Hafta: 21-25 Aralık",
+     "ders_saati": 4,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "gorsel-u3",
+   "ad": "ZAMANIN İZİNDE SANAT",
+   "konular": [
+    {
+     "id": "gorsel-u3-k1",
+     "ad": "İslamiyet Öncesi Türk Sanat Eserinin İncelenmesi",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.3.1",
+       "metin": "İslamiyet öncesi Türk sanat eserini sanatsal olarak betimleyebilme"
+      },
+      {
+       "kod": "GS.9.3.2",
+       "metin": "İslamiyet öncesi Türk sanat eserini sanatsal olarak çözümleyebilme"
+      },
+      {
+       "kod": "GS.9.3.3",
+       "metin": "İslamiyet öncesi Türk sanat eserini sanatsal olarak yorumlayabilme"
+      },
+      {
+       "kod": "GS.9.3.4",
+       "metin": "İslamiyet öncesi Türk sanat eseri ile ilgili sanatsal yargıda bulunabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      15,
+      16
+     ],
+     "hafta_metin": "15. Hafta: 28 Aralık -1Ocak → 16. Hafta: 4-8 Ocak",
+     "ders_saati": 4,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u3-k2",
+     "ad": "İslamiyet Öncesi Türk Sanatına Özgü Motif Tasarımı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.3.5",
+       "metin": "İslamiyet öncesi Türk sanatına özgü motiflerden yararlanarak tekstil deseni tasarlayabilme"
+      },
+      {
+       "kod": "GS.9.3.6",
+       "metin": "İslamiyet öncesi Türk sanatına özgü motiflerden yararlanarak tekstil deseni oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      17,
+      19,
+      20
+     ],
+     "hafta_metin": "17. Hafta: 11-15 Ocak → 20. Hafta: 15-19 Şubat",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u3-k3",
+     "ad": "Rönesans, Maniyerizm, Barok Dönemleri’nin Sanatsal Olarak Karşılaştırılması",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.3.7",
+       "metin": "Avrupa sanatının Rönesans, Maniyerizm, Barok Dönemleri’ni sanatsal olarak karşılaştırabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      21
+     ],
+     "hafta_metin": "21. Hafta: 22-26 Şubat → 21. Hafta: 22-26 Şubat",
+     "ders_saati": 2,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u3-k4",
+     "ad": "Rönesans, Maniyerizm, Barok Dönemleri’nden Bir Eserin Nokta, Çizgi ve Leke Açısından Çözümlenmes",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.3.8",
+       "metin": "Avrupa sanatının Rönesans, Maniyerizm, Barok Dönemleri’nden bir eseri nokta, çizgi ve leke açısından sanatsal olarak çözümleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      22
+     ],
+     "hafta_metin": "22. Hafta: 1-5 Mart → 22. Hafta: 1-5 Mart",
+     "ders_saati": 2,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u3-k5",
+     "ad": "Rönesans, Maniyerizm, Barok Dönemleri’nden Bir Eserin Nokta, Çizgi ve Leke Açısından Çözümlenmesi",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.3.8",
+       "metin": "Avrupa sanatının Rönesans, Maniyerizm, Barok Dönemleri’nden bir eseri nokta, çizgi ve leke açısından sanatsal olarak çözümleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      23
+     ],
+     "hafta_metin": "23. Hafta: 15-19 Mart → 23. Hafta: 15-19 Mart",
+     "ders_saati": 2,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "gorsel-u4",
+   "ad": "SANAT VE TEKNOLOJİ EVRENİ",
+   "konular": [
+    {
+     "id": "gorsel-u4-k1",
+     "ad": "Ekslibris Tasarımı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.4.1",
+       "metin": "Ekslibris taslağı oluşturabilme"
+      },
+      {
+       "kod": "GS.9.4.2",
+       "metin": "Ekslibris tasarımı oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      24,
+      25,
+      26
+     ],
+     "hafta_metin": "24. Hafta: 22-26 Mart → 26. Hafta: 5-9 Nisan",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u4-k2",
+     "ad": "İllüstrasyon",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.4.3",
+       "metin": "İllüstrasyon tasarlayabilme"
+      },
+      {
+       "kod": "GS.9.4.4",
+       "metin": "İllüstrasyon oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      27,
+      28,
+      29
+     ],
+     "hafta_metin": "27. Hafta: 12-16 Nisan → 29. Hafta: 26-30 Nisan",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u4-k3",
+     "ad": "Afiş Tasarımı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.4.5",
+       "metin": "Afiş taslağı oluşturabilme"
+      },
+      {
+       "kod": "GS.9.4.6",
+       "metin": "Afiş tasarımı oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      30,
+      31,
+      32
+     ],
+     "hafta_metin": "30. Hafta: 3-7 Mayıs → 32. Hafta: 17-21 Mayıs",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "gorsel-u4-k4",
+     "ad": "Sanatsal Yerleştirme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "GS.9.4.7",
+       "metin": "Sanatsal yerleştirme çalışması tasarlayabilme"
+      },
+      {
+       "kod": "GS.9.4.8",
+       "metin": "Sanatsal yerleştirme çalışması oluşturabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      33,
+      34,
+      35,
+      37
+     ],
+     "hafta_metin": "33. Hafta: 24-28 Mayıs → 37. Hafta: 21-25 Haziran",
+     "ders_saati": 6,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Uygulamalı ders: yazılı KSDT yayımlanmaz, değerlendirme uygulamalı sınav/performansla"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  }
+ ]
+}

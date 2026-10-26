@@ -1,0 +1,56 @@
+126
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Koşula bağlı olarak gerçekleşen olaya ait çıktılar ve olası tüm çıktılar, alan modelleri veya iki yönlü 
+tablolarla görselleştirilir. Her iki görselleştirmede ortak olan ya da olmayan çıktıların ifade edil-
+mesi sağlanır (MAB3). Bu sürecin sonunda öğrenciler, öğrendiklerini öz değerlendirme formu 
+kullanarak değerlendirebilir (SDB1.2).
+Gerçekleşmesi bir koşula bağlı olan olayın olasılığının hesaplanmasına yönelik olarak öğrenciler-
+den matematiksel ilişki içeren bir önerme sunması beklenir. Yapılan önermelerin çalışma kâğı-
+dında temellendirilmesi sağlanır (SDB3.3). Öğrencilerin koşullu olasılık tanımını ve hesaplamasını 
+anlamlandırmaları beklenir. 
+Koşullu olasılık için sunulan önermeyi değerlendirmek üzere gerçekleşmesi bir koşula bağlı 
+olan gerçek yaşam durumlarından (düzenlenecek bir yurt dışı gezisi için seçilecek öğrencilerin 
+yabancı dil testinden %80 ve üzeri oranda başarı gösterdiğinin bilinmesi gibi) öğrencilerin me-
+rakını uyandıran bir olay seçilir (E1.1). Verilen bağlamda seçilen iki olaydan herhangi birinin ola-
+sılığı diğer olayın gerçekleşmesine bağlı olarak değişmiyorsa bu iki olayın bağımsız, değişiyorsa 
+bağımlı olduğu üzerinde durulur. Öğrencilerin ele aldıkları gerçek yaşam bağlamındaki olayları 
+A ve B olayları olarak isimlendirip A ve B olaylarının bağımsız ya da  bağımlı olaylar olduğunu 
+göstermede koşullu olasılığı kullanmaları beklenir. Öğrenciler bağımsız ve bağımlı olayları ör-
+neklerle açıklar, A ve B bağımsız olayları için P(A 
+⊂B) = P(A)  x P(B) olduğunu gösterir. Öğren-
+ciler verilen olay çiftlerinin bağımlı olma ve olmama durumlarını seçtikleri strateji üzerinden bir 
+kontrol listesi ile belirleyebilir.
+Öğrencilere bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu ya da 
+olmadığı gerçek yaşam durumlarına ilişkin olasılıkların hesaplanmasına yönelik açık uçlu sorular 
+içeren bir çalışma kâğıdı verilerek cevaplamaları istenebilir. Öğrenciler, bu problemlerde verilen 
+koşulu gözeterek koşullu olasılık hesaplaması yapar. Böylece öğrencilerden gerçek yaşam du-
+rumlarının olasılığını koşullu olasılık ile değerlendirmeleri beklenir (SDB3.3). 
+MAT.10.7.2
+Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu gerçek ya -
+şam durumlarının olasılığı, Bayes teoremi ile de ele alınmaktadır. Günümüzde tıbbi tarama 
+testlerinin doğruluğu (biyoloji), meteorolojiyle ilgili ileriye dönük tahminler (coğrafya), bilinçli 
+tüketime yönelik hatalı ürün oranlarını inceleyen risk analizleri (ekonomi) gibi durumlarda 
+Bayes teoremi kullanıldığından bahsedilir (OB3, D13.4, D17.2). 
+Bayes teoreminin kullanıldığı gerçek yaşam durumları için mevcut bilgiler (bir laboratuvarda 
+yapılan tıbbi tarama testlerinin doğruluk oranı veya bir fabrikada üretilen hatalı ürün oranı 
+gibi) verilir. Gerçek yaşam durumlarına ilişkin elde edilen oranlar veya göreli sıklıklar; ağaç 
+şeması, iki yönlü sıklık tablosu, alan modeli gibi farklı temsiller veya istatistik yazılımlarıyla 
+sınıf içinde oluşturulan gruplara öğrencilerin katılımı ve iş birliği sağlanarak görselleştirilir 
+(MAB3, MAB5, SDB2.1, SDB2.2). Öğrencilerin sistematik bir şekilde bu gösterimleri ifade et-
+meleri beklenir (E3.7). Verilen olayların olasılık değerleri, elde edilen gösterimler aracılığıyla 
+hesaplanır.   
+Gerçekleşmesi bir koşula bağlı olan gerçek yaşam durumlarına ilişkin olasılık değerlerinin 
+hesaplanmasına yönelik açık uçlu sorular içeren çalışma kâğıdını öğrencilerin cevaplama -
+sı istenir. Öğrencilerin belirsizlik içeren gerçek yaşam durumlarında mevcut bilgiye dayalı 
+tahminlerin veya yorumların toplanan veya verilen bilgilere bağlı olarak güncellenmesi ge -
+rektiğini sınıf içi tartışma veya soru cevap etkinlikleriyle fark etmeleri beklenir. Öğrencilerin 
+sınıf içi tartışmalar esnasında birbirlerini nazik bir şekilde dinlemesi ve birbirlerinin fikirlerini 
+değerlendirmesi sağlanır (D14.1). Öğrencilerin verilen gerçek yaşam durumlarının olasılığını 
+mevcut bilgiye dayalı hesaplaması, herhangi bir konuda karar verirken riskleri değerlendir -
+mesi ve ileriye dönük yargıda bulunması beklenir. Bu sayede öğrenciler, inceledikleri ger -
+çek yaşam durumlarına ilişkin yargılarında veya verecekleri kararlarda olasılık hesaplama -
+larında yaptıkları muhakemeler sayesinde daha esnek davranır veya tahminlerini günceller 
+(SDB3.2, E3.10). Böylece öğrenciler, belirsiz ya da yeni durumlara uyum sağlayabilir (SDB3.1, 
+D12.3). Öğrencilere bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı ol-
+duğu durumların olasılığını mevcut bilgiye/veriye dayalı tahmin edebilmeye yönelik perfor -
+mans görevi verilebilir.

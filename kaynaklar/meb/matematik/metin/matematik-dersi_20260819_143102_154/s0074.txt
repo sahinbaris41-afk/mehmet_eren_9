@@ -1,0 +1,38 @@
+74
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.9.6.1. Tek nicel değişkenli veri dağılımları ile çalışabilme ve tek nicel değişken içeren 
+veriye dayalı karar verebilme
+a) Nicel veriye dayalı istatistiksel araştırma gerektiren gerçek yaşam durumlarını be -
+lirler.
+b) Bağlam içerisinde nicel veri dağılımlarını betimleyen ve karşılaştıran araştırma so -
+ruları oluşturur.
+c) Nicel verileri toplamak/elde etmek için plan yapar.
+ç) Nicel verileri toplayarak/elde ederek analize hazırlar.
+d) Araştırma sorusu bağlamında toplanan/elde edilen nicel verileri analiz etmek için 
+görselleştirme (nokta grafiği, histogram, kutu grafiği) ve/veya özetleme [aritmetik 
+ortalama, ortanca (medyan), tepe değer (mod), açıklık, çeyrekler açıklığı, standart 
+sapma] araçlarından uygun olanı seçer.
+e) Araştırma sorusu bağlamında toplanan/elde edilen nicel verileri belirlediği araçlarla 
+analiz eder.
+f) Nicel veri dağılımlarına dayalı istatistiksel araştırma sonucu elde edilen çıktılardan 
+hareketle verilerin arasını ve ötesini yorumlayarak sonuç çıkarır.
+g) Nicel veriye dayalı araştırmadan elde edilen sonuçları, araştırma sorusu bağlamın-
+da değerlendirir.
+MAT.9.6.2. Başkaları tarafından oluşturulan tek nicel değişkenli veri dağılımlarına ilişkin 
+istatistiksel sonuç veya yorumları tartışabilme
+a) Başkaları tarafından oluşturulan tek nicel değişkenli veri dağılımlarına ilişkin istatis-
+tiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.
+b) Başkaları tarafından oluşturulan tek nicel değişkenli veri dağılımlarına ilişkin istatis-
+tiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.
+c) Başkaları tarafından oluşturulan tek nicel değişkenli veri dağılımlarına ilişkin istatis-
+tiksel sonuç veya yorumları çürütür ya da kabul eder.
+İÇERİK ÇERÇEVESİ • Tek Nicel Değişkenli Veri Dağılımları 
+• Başkaları Tarafından Oluşturulan Tek Nicel Değişkenli Veri Dağılımlarını İnceleme
+Genellemeler • Nicel veri dağılımları, verilerdeki değişebilirliğin nasıl olduğuna ilişkin bilgi verir.
+• Nicel verilerin dağılımlarını tanımlamada kullanılacak sayısal özetler, ilgili dağılımın mer -
+kezinin nereye eğilim gösterdiğini ve nasıl yayıldığını belirlemede kullanılır. 
+• Örneklemin dağılımı, evrenin dağılımına ilişkin fikir verir.
+Anahtar Kavramlar çeyrekler açıklığı, değişebilirlik, evren, histogram, kutu grafiği, nicel veri dağılımı, örneklem, 
+standart sapma 
+Sembol ve Gösterimler -

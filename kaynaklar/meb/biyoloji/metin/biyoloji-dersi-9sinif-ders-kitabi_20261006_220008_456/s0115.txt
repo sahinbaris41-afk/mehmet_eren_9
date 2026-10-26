@@ -1,0 +1,55 @@
+115
+Organizasyon
+Moleküllerin yoğun konsantrasyonda bulundukla-
+rı ortamdan düşük konsntrasyonda bulundukları 
+ortama enerji harcamaksızın gerçekleştirdiği geçiş 
+basit difüzyon (yayılma) olarak tanımlanır. Bu ya-
+yılma süreci, sıvı ve gaz gibi çeşitli ortamlarda kendi-
+liğinden gerçekleşir (Görsel 2.17).
+Hücre zarının seçici geçirgenliği, küçük ve yük -
+süz moleküllerin difüzyon ile hücreye girişine ve 
+hücreden çıkışına izin verir fakat nispeten büyük 
+ve yüklü moleküllerin biyolojik zarlardan geçişini 
+sınırlandırır. Hücre zarından madde geçişi, mole -
+külün yağda çözünürlük özelliği ile doğrudan iliş -
+kilidir. Yağda çözünen maddeler (A, D, E, K vitamin-
+leri gibi) hücre zarından difüzyon yoluyla kolaylıkla 
+geçerken suda çözünen maddeler (B ve C vitamini 
+gibi) başka bir yardımcı yapı olmadan hücre za -
+rından geçemez. Yağda çözünmeyen amino asit, 
+glikoz gibi moleküller ve kalsiyum, magnezyum, 
+potasyum, klor gibi yüklü küçük moleküller fosfo -
+lipit tabakasından kendi kendine geçemez. Bu ve 
+benzeri moleküllerin hücre zarından geçişleri taşıyıcı proteinler aracılığıyla gerçek-
+leşebilir.
+Pasif taşıma çeşitlerinden biri olan kolaylaştırılmış difüzyonda maddeler, konsant-
+rasyon farkının yüksek olduğu ortamdan düşük olduğu ortama doğru hareket 
+eder. Bu olayda hücre zarından doğrudan geçemeyen bazı maddeler kanal prote-
+inleri veya taşıyıcı proteinler aracılığıyla taşınır (Görsel 2.18). 
+Hücre, geçiş sırasında enerji harcamaz ve ATP kullanılmaz. Konsantrasyon farkı or-
+tadan kalktığında net madde geçişi durur. Glikoz, amino asitler ve bazı iyonların 
+taşınması kolaylaştırılmış difüzyonla gerçekleşir.
+Ozmoz, suyun yarı geçirgen bir zardan çözünen madde konsantrasyonun düşük 
+olduğu bölgeden, yüksek olduğu bölgeye doğru hareketidir. Biyolojik sistemlerde 
+ozmoz, suyun hareketi olarak da bilinir. Ozmozun biyolojik tanımı, suyun seçici ge-
+çirgen zardan difüzyonudur. 
+Görsel 2.18
+Basit ve kolaylaştırılmış 
+difüzyon yoluyla hücre 
+zarından madde geçişi
+Görsel 2.17
+a) Sıvı ortamlarda maddelerin 
+difüzyonu, b) Gaz ortamlarda 
+maddelerin difüzyonu 
+a
+b
+Su Mürekkep
+Zaman
+Kanal 
+protein
+Taşıyıcı 
+protein
+Yüksek derişimli  
+ortam
+Düşük derişimli 
+ ortamKolaylaştırılmış difüzyonBasit difüzyon

@@ -1,0 +1,44 @@
+26
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.9.3.7. Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine 
+yaptığı basınç arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme
+a) Akışkanların sürati ile basıncı arasındaki ilişkiyi gözlemleyerek aralarındaki ilişkiyi 
+tespit eder.
+b) Akışkanın sürati ile basıncı arasındaki ilişkiyi günlük hayat örnekleri üzerinden ge-
+neller.
+İÇERİK ÇERÇEVESİ Basınç
+Sıvılarda Basınç 
+Açık Hava Basıncı
+Kaldırma Kuvveti
+Bernoulli İlkesi
+İlkeler Bernoulli İlkesi
+Anahtar Kavramlar basınç, kaldırma kuvveti 
+Deneyler Torricelli deneyi
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma yaprağı, zihin haritası, açık uçlu test, afiş, poster, sunum, me-
+tin ve deney düzeneği analizi kullanılarak değerlendirilebilir.
+Öğrencilere basıncı ve basıncın bağlı olduğu etmenleri ölçmeyi amaçlayan bir çalışma 
+yaprağı verilebilir. Öğrencilere durgun sıvılarda basınç ve basınca etki eden etmenleri be-
+lirleyerek çıkarımda bulunabilecekleri açık uçlu, farklı madde türlerinden oluşan bir test 
+verilebilir. Çalışma yaprağı ve testin değerlendirilmesinde puanlama anahtarı kullanılabi-
+lir. Sıvı basıncından yararlanan sistemlerde sıvı basıncının rolü hakkında öğrencilerden bir 
+metin oluşturmaları ve oluşturdukları metinle ilgili afiş, poster ya da sunum hazırlama-
+ları istenebilir. Açık hava basıncına ilişkin verilen açık uçlu maddelerden oluşan çalışma 
+yaprağı dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilere Arşimet ve Kral 
+Hiero’nun Altın Tacı öyküsünü ve tasarladıkları deney düzeneğini analiz etmeleri ile ilgili 
+performans görevleri verilebilir. Performans görevleri dereceli puanlama anahtarı ile de-
+ğerlendirilebilir. Değerlendirmelerde öz ve grup değerlendirmesi yapılarak çeşitlilik sağ-
+lanabilir. Öğrencilere kaldırma kuvvetinin bağlı olduğu değişkenler ve sıvılardaki basınca 
+neden olan kuvvetin ilişkisine yönelik bir çalışma yaprağı verilebilir. Çalışma yaprağının 
+değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir.  Akışkanların sürati ile ba-
+sıncı arasındaki ilişkiye yönelik farklı türde soruların bulunduğu bir çalışma yaprağı ve-
+rilebilir. Performans görevi olarak Bernoulli İlkesi’nin günlük hayattaki örneklerine ilişkin 
+yaptığı sınıflamayı görsel içeriklerle zenginleştirerek zihin haritası oluşturmaları istene-
+bilir. Öğretmen, zihin haritalarını kontrol listesi kullanarak değerlendirilebilir. Performans 
+görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencinin yoğunluk kavramını, katı ve sıvıların özelliklerini bildiği kabul edilmektedir.

@@ -1,0 +1,71 @@
+52
+1. Ünite
+Bilgi işlem teknolojisinin gelişmesi, tarihçiler için önemli bir dönüm noktası olmuş-
+tur. 1990’lı yıllarda yaygınlaşmaya başlayan  genel ağ kullanımı, tarih araştırmalarını 
+önemli ölçüde etkilemiştir. Genel ağ tarayıcılarının gelişmesi akademik bilginin daha 
+geniş kitlelere ulaşmasını sağlamış, birinci ve ikinci el kaynakların dijitalleştirilmesi 
+ise tarih araştırmacılarının bu kaynaklara daha kolay erişmesini mümkün kılmıştır. 
+Bu sayede akademik bilginin gelişimi hızlanmış ve tarih araştırmalarının verimlili-
+ği artmıştır.
+Dijital kaynaklar, dijital doğmuş [born digital (born dijital)] ve sonradan dijitalleştiril-
+miş kaynaklar olarak ikiye ayrılır. Yazılı, basılı ve görsel kaynakların taranarak bilgisa-
+yara aktarılmış hâline sonradan dijitalleştirilmiş kaynak adı verilir. Genel ağ siteleri, 
+çevrim içi forumlar, e-kitaplar, elektronik kayıtlar, dijital ses kayıtları 
+ve konum verileri ise dijital doğ muş kaynaklar dır (Görsel 1.7).
+Dijital tarih çalışmalarındaki ilk adım; veriyi ya da arşiv belgeleri-
+ni sayısallaştır mak [digitization (dicitizeyşın)], kodlama dili ile eti-
+ketlemek [tagging (teging)] ve bunları dijital yayın hâline getirerek 
+herkesin ulaşabileceği bir kaynağa dönüştürmektir. Daha sonra bu 
+verilerin bilgisa yarda okunulabilir hâle getirilmesi ve kaynaktan elde 
+edilen verilerin yapılandırılması aşamasına geçilir. Bu süreçte bel-
+gelerden elde edilen büyük verinin uluslararası standartlara uygun 
+olarak tasnif edilmesi, birbiriyle ilişkilen dirilmesi; kavram ağacı [the-
+saurus (tesaurus)], otomatik sözlük, açık erişim, açık veri, bağlı veri, 
+ileri arama, filtreleme, dışa aktarma gibi işlemlerin yapılması gerekir. 
+Sonraki süreçte ise elde edilen yapılandırılmış veriler; istatistik prog-
+ramları, coğrafi bilgi sistemleri (CBS), ağ, içerik gibi analiz araçları ile 
+haritalanır, görselleştirilir ve yorumlanır.
+Tarihsel kaynakların dijitalleştirilmesi sonrasında or taya çıkacak büyük veriyi analiz 
+etmek ve yorumlamak, tarih araştırmacılarının iş yükünü büyük oranda artıracaktır. 
+Bu iş yükünü azaltmak için ulusal ve uluslararası iş bir likleri kurularak ortak çalışma-
+lar yapılabilir veya yapay zekâ uygulamaları yoluyla araştırmacıların farklı yorumlara 
+ve sonuçlara ulaşması sağlanabilir. Bununla birlikte günümüzde geliştirilen tekno-
+lojik araçlar sayesinde tarihsel bilginin görsel ve tematik olarak işlenmesi, veriler 
+arasın daki gözle görülemeyen ilişki ağlarının ortaya çıkarılması gibi pek çok avan-
+taj elde edilmiştir. Tarihçiler, dijital yöntemler sayesinde sayfalarca belge hakkında 
+doğru değerlen dirmeler y apabilme, yeni sorular sorabilme ve ko nulara f arklı açılar-
+dan bakabilme imkânına sahip olmuştur. 
+Geleneksel ve dijital tarih yazımları, birbirini tamamlayan ve tarihsel bilginin zengin-
+leştirilmesine katkıda bulunan iki farklı yöntemdir. Bununla birlikte dijital tarihi gele-
+neksel tarih yazımının alternatifi olarak değerlendirmemek gerekir. Bu iki yöntem; 
+kullanılan kavramlar, yararlanılan araçlar, iş birlikli çalışmaya açık olup olmama gibi 
+konularda birbirinden ayrılmaktadır. 
+Dijitalleştirme çalışmaları, dünyada yürütülen tarih yazım süreçlerini derinden etkile-
+miştir. Büyük miktarda verinin ulaşılabilir hâle gelmesi, tarihçilerin toplumsal ve kül-
+türel değişimler hakkında daha kapsamlı analizler yapmasını sağlamıştır. Bu analizler 
+sonucunda daha önce fark edilmemiş bağlantıların ortaya çıkarılması ve yeni teoriler 
+geliştirilmesi mümkün olmuştur. Anadolu topraklarındaki Hitit tabletleri, Antik Yu-
+nan ve Roma metinleri, Bizans kronikleri ya da Osmanlı arşiv belgeleri dijital ortama 
+aktarıldıkça tüm dünya tarihini yeniden yazmayı gerektirecek kapsamlı bir bakış açısı 
+ortaya çıkacaktır.
+Hiper Metin
+Birbiriyle bağlantılı yazı, 
+görsel, video gibi verileri 
+içeren bir metin organi-
+zasyonudur.  
+Genel ağ (web), birbirine 
+bağlantılı milyarlarca 
+sayfadan oluşan bir hiper 
+metin sistemidir.
+Öğrenelim
+Görsel 1.7:  E-kitap; bilgisayar, tablet, akıllı 
+telefon gibi cihazlarda okunabilen etkileşimli 
+bir kitap türüdür.
+Yapay Zekâ
+Yapay zekâ, bir bilgisayarın 
+veya bilgisayar kontrollü 
+robotun genellikle akıllı 
+varlıklarla ilişkili görevleri 
+yerine getirme yeteneğidir.
+Verilen yönergeler doğrultusunda aşağıdaki etkinlikleri yapınız.
+Metni ve dijital tarih çalışmalarıyla ilgili örnek çalışmaları inceleyerek soruları cevaplayınız.

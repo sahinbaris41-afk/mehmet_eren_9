@@ -1,0 +1,63 @@
+256
+3. Tema/Sürdürülebilirlik
+Bakır (Cu) Kaplamacılık; boya, pig-ment ve alaşım üretimi
+Balıkların solungaçlarına ve karaciğerine zarar verir. 
+Bitki fizyolojisini  ve protein sentezini bozar. 
+İnsanlarda karaci ğer hasarına, mide ve bağırsak sorun-
+larına yol açabilir.
+Cıva (Hg) Boya ve tarım ilacı üretimi, kozmetik sanayisi Deniz memelilerinin üreme sistemine zarar verir.İnsanlarda saç dökülmesi, depresyon, hafıza kaybı, beyin hasarı, akciğer ve böbrek yetmezliğine yol açar.
+Kurşun (Pb) Boya, pil ve akü üretimi; kozmetik sanayisi 
+Deniz canlılarında enzimlerin çalışmasını yavaşlatır. 
+Alglerin büyüme ve gelişmesini yavaşlatır.
+İnsanlarda hafıza kaybına, öğrenme ve koordinasyonda 
+yetersizliğe ve kalp damar rahatsızlıklarına sebep olur.
+Nikel (Ni) Boya, pigment ve alaşım üretimi; petrol rafinasyonu Sularda mikrobiyolojik olayları durdurur. İnsanlarda çe-şitli deri rahatsızlıklarına neden olur ve solunum yolunu tahriş eder.
+Krom (Cr)
+Uçak, denizaltı, tank ve 
+gemi yapımı; metalürji, 
+kimya ve otomotiv sektörü
+Deniz canlılarının organlarına zarar verir. İnsanlarda 
+karaciğer sorunlarına, bağışıklık sisteminin zayıflaması-
+na, DNA hasarına ve kansere neden olabilir.
+Gümüş (Ag)  
+nanoparçacık
+Sabun ve kozmetik sanayi-
+si, tekstil ve antibakteriyel 
+ürün üretimi
+Balıklarda embriyo gelişimine zarar verir. 
+İnsanlarda DNA transkripsiyonunu ve adenozin trifosfat 
+(ATP) üretimini bloke eder.
+Bakır (Cu) ve Bakır(II) 
+oksit (CuO)  
+nanoparçacıkları
+Dermatoloji ve kozme-
+tik ürünleri, elektronik 
+endüstrisi ve antibakteriyel 
+ürünlerin üretimi
+Balıkların karaciğer, böbrek, beyin gibi organlarına ha-
+sar verir. İnsanlarda DNA hasarına yol açarak bağışıklık 
+sistemini etkiler.
+Titanyum dioksit (TiO2)  
+nanoparçacık
+UV koruyucu ürünler, 
+kozmetik sanayisi, gıda 
+katkı maddesi, ilaç ve boya 
+üretimi
+Küçük deniz canlılarında ölüm oranını artı rır . Balıkların 
+ve midyelerin DNA ve çeşitli organlarında doku hasarına 
+yol açar. İnsanlar için olası kanserojen bir madde olarak 
+kabul edilir.
+Çinko oksit (ZnO) 
+nanoparçacık
+Eczacılık, UV koruyucu 
+ürünler, güneş kremi, 
+nanogübre yapımı, atık su 
+arıtımı, antibakteriyel ürün 
+üretimi
+Suda ve karada yaşayabilen amfibi sınıfı omurgalı hay-
+vanlara zarar verir. Artemia gibi eklem bacaklı türlerin 
+popülasyonunu artırabilir. İnsanlarda kansere ve üreme 
+sistemi bozukluklarına yol açar. Gelişmekte olan fetüs 
+üzerinde zararlı etkileri olabilir.
+Madde Cd Hg, Pg, Ni, Cr, Al Cu, Mn, Zn, Fe
+Etkileri Son derece zehirli Orta derece zehirli Nispeten daha az zehirli

@@ -1,0 +1,34 @@
+204
+2. Tema/Çeşitlilik
+Sıvıların	Yüzey	Gerilimini	Etkileyen	Faktörler
+Yüzey gerilimi, sıvıların yüzeyinde oluşan bir özelliktir ve sıvıların bazı özel -
+liklerini belirler veya etkiler. Sıvıların özelliklerinde değişiklik yapılırken yüzey 
+gerilimi özelliği kullanılabilir.
+1. Yönerge: E tkili iletişim becerilerini kullanarak sıvıların yüzey gerilimini etkileyen faktörle -
+rin neler olabileceğine ilişkin tartışma ortamı oluşturunuz. Aşağıdaki metin ve gör -
+selden yararlanarak soruları cevaplayınız ve araştırma sorularınızı oluşturunuz. 
+Etkinlik so  n unda çalışmanızı değerlendirmek için “Ekler” bölümündeki 11. Form’u 
+doldurunuz. (Bu etkinlikle ilgili değerlendirme kitabın sonunda “Ekler” bölümünde -
+ki 12. Form ile öğretmeniniz tarafından yapılacaktır.
+Bir sıvının damla büyüklüğü ve damlasının şekli o sıvının yüzey geri-
+limi ile ilişkilidir. Sıvının damlasının şekli ve büyüklüğü o sıvıyı oluş-
+turan moleküller arasındaki etkileşimlerin türü ve gücü ile ilişkilidir. 
+Sıvıların yüzey gerilimi farklı yöntemlerle ölçülebilir. Bunlardan biri, 
+belirli bir hacimdeki sıvının damlalarını saymaktır. Bunun için Trau-
+be (Trab) stalogmometresi kullanılır. Aşağıdaki resimde görülen sta-
+logmometre ile a ve b noktaları arasındaki sıvının kaç damla olduğu 
+sayılarak sıvının yüzey gerilimi belirlenir.
+Benzer şekilde yüzey gerilimi pipet, büret veya damlalıkta bulunan 
+belirli hacimdeki sıvının damlaları sayılarak belirlenebilir. Aynı mal-
+zemeler kullanılarak bir sıvının yüzey gerilimi belirli süre boyunca 
+damlayan sıvının miktarı ölçülerek de tespit edilebilir.
+Aşağıda bir metal paranın üzerine damlatılan sıvının damla sayısı ve sıvının para üzerinde duruş şekli ile o 
+sıvının yüzey gerilimi ölçülmektedir. Sıvı ya da damla ne kadar bombeli duruyorsa sıvının yüzey gerilimi o 
+kadar yüksektir. Bir sıvının yüzey gerilimini nelerin etkilediğini belirleyeceğiniz bilimsel sorgulama sürecinde 
+metal para üzerinde duran sıvının şekli ve damla sayısını grup olarak belirleyebilir ya da istediğiniz yüzey 
+gerilimi ölçme yöntemini seçip o yöntemi kullanabilirsiniz.
+1. Suyun bombe şekli sizce ne zaman bozulur?
+Yüzey Gerilimini Ne Etkiler?Etkinlik-2.31
+V
+a
+b

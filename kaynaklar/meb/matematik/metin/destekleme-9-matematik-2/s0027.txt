@@ -1,0 +1,26 @@
+26
+MATEMATİK 9 
+1. TEMA: SAYILAR
+3. Adım
+ ► Aşağıda verilen bilgi metninden yararlanarak soruları cevaplandırınız.
+Kilogram, Uluslararası Birim Sisteminde (SI) kullanılan temel kütle birimidir ve tarih boyunca birçok 
+farklı şekilde tanımlanmıştır. Bilim insanları kilogramı tanımlamak için yapay bir nesneden bağımsız 
+bir yöntem geliştirme çabasındaydı. Bu çabanın bir parçası olarak "Avogadro Projesi" kapsamında 
+kristal yapıya sahip silisyum-28 atomlarından oluşan dünyanın insan yapımı en yuvarlak küresi üre-
+tilmiştir.Bu çalışma yaklaşık olarak 2,15·1025 tane silisyum-28 atomunun kilogramın yeni tanımında 
+kullanılmasını önermiştir.
+Sayıların bilimsel gösterimi çok büyük veya çok küçük sayıları daha kolay anlaşılır ve yazılabilir hâle 
+getiren bir yöntemdir. Örneğin, 2,15·1025 sayısı, 21 500 000 000 000 000 000 000 000 şeklinde ya-
+zılabilir. Ancak bu kadar uzun bir sayıyı okumak, yazmak ve hesaplamak oldukça zordur. Bilimsel 
+gösterim yalnızca büyük sayılar için değil aynı zamanda küçük sayılar için de önemlidir. Örneğin bir 
+silisyum atomunun çap uzunluğu yaklaşık 2,22·10 -10 metre olarak ifade edilir. Bu küçüklükteki bir 
+değeri düzgünce yazabilmek, atomların boyutlarını anlamamıza ve bu tür ölçümlerle çalışmamıza 
+olanak tanır. Sonuç olarak sayıların bilimsel gösterimi sayesinde sayılar büyüklüklerini ve anlamla-
+rını kaybetmeden daha düzenli bir şekilde ifade edilir.
+1.  Bir silisyum atomunun çap uzunluğu yaklaşık 2,22·10 -10 metre olarak verilmiştir. Bu değeri ondalık 
+gösterim ile yazınız ve bilimsel gösterim olmadan bu tür bir sayıyla çalışmanın neden zor olacağını 
+açıklayınız.
+2.  Bilimsel gösterimi, yalnızca büyük veya küçük sayıları yazmak için değil, hesaplama yaparken de 
+kullanırız. Bilimsel gösterimin işlemlerde nasıl kolaylık sağladığını bir örnek vererek açıklayınız.
+Çözüm:
+Çözüm:

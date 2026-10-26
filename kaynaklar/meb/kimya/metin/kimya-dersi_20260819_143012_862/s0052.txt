@@ -1,0 +1,46 @@
+52
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.10.2.5 
+Vurgun olayı, asitli içeceklerin soğuk içilmesi, soğuk denizlerde balıkçılığın yaygın olması 
+gibi gazların çözünürlüğü ile ilgili örnekler verilir. Katıların ve gazların saf sudaki çözünür -
+lüğüne etki eden faktörlere ilişkin açık uçlu sorular sorularak tartışma ortamı oluşturu -
+lur. Böylece öğrencilerin etkili iletişim kurmaları ve farklı bakış açıları olabileceğini kabul 
+etmeleri sağlanır (D4.2, D10.3) . Öğrencilerden çözünürlüğe etki eden faktörlerin belir -
+lenmesine ilişkin ölçütler (madde cinsi, sıcaklık ve basınç) belirlemeleri istenir (OB7). Öğ-
+rencilerin kanıt kartlarında verilen çeşitli tuzların ve gaz hâlindeki maddelerin saf sudaki 
+sıcaklık-çözünürlük grafikleri ile gazların basınç-çözünürlük grafiklerini inceleyerek kanıt-
+lar toplamaları sağlanır. Öğrencilerden topladıkları kanıtları kullanarak katı ve gaz madde-
+lerin sıcaklık-çözünürlük ve basınç-çözünürlük değişkenleri arasındaki ilişkileri belirleme-
+leri istenir. Öğrenciler, katı ve sıvı maddelerin çözünürlüğünün sıcaklık ve basınç faktörleri 
+ile nasıl değiştiğini kanıtlara dayanarak açıklar (E3.6, OB7). Öğrenciler, tartışma esnasında 
+kanıt kartlarındaki verilerin analizinden elde ettikleri sonuçları arkadaşları ile paylaşabilir 
+ve ortak bir çıkarıma ulaşabilir (KB2.9, SDB2.1, SDB2.3) . Öğrencilere sıvıların sıvılar için -
+deki çözünürlüğüne ilişkin sorular sorulabilir ve çözünürlük kavramının sadece sıvılar için 
+geçerli olmadığına dikkat çekilebilir.
+KİM.10.2.6 
+Öğrencilere dibinde çözünmemiş bir miktar iyonik katının bulunduğu sulu çözelti gösteri -
+lerek dipteki katının neden çözünmediğine ilişkin sorular sorulur. Öğrencilere çözeltilerin 
+çözünen madde miktarı üzerinden doymuş, doymamış ve aşırı doymuş çözelti olarak ve 
+çözünenin iyonik-moleküler karakteri üzerinden elektrolit çözelti ve elektrolit olmayan 
+çözelti olarak sınıflandırma yapabilmelerine uygun bilgilerin yer aldığı kanıt kartları verilir. 
+Öğrencilere bu kanıt kartlarını kullanarak çözeltileri hangi ölçütlere göre sınıflandırabi -
+lecekleri sorulur (OB7). Öğrenciler, belirledikleri ölçütler doğrultusunda farklı çözelti ör -
+neklerini ayrıştırır. Öğrencilerden belirledikleri ölçütler doğrultusunda çözeltileri doymuş, 
+doymamış ve aşırı doymuş olarak ve ayrıca elektrolit çözelti, elektrolit olmayan çözelti 
+şeklinde gruplandırmaları istenir. Öğrenciler, oluşturdukları grup adlarını bilimdeki karşı -
+lıkları ile kıyaslamaları için yönlendirilir (OB7). Öğrencilerden çalışma yaprağında verilen 
+çeşitli çözelti örneklerini doymuş, doymamış, aşırı doymuş; elektrolit olan, elektrolit olma-
+yan olarak sınıflandırmaları istenebilir (SDB2.1).
+KİM.10.2.4
+Öğrencilere farklı katı örneklerinin aynı şartlarda hesaplanan çözünürlük bilgilerinin yer 
+aldığı kanıt kartları verilir. Öğrencilerden verilen bilgileri kullanarak katıların çözünürlüğü -
+ne ilişkin ölçütler (madde cinsi ve sıcaklık) belirlemeleri istenir. Böylece öğrencilerin olay-
+lar ve durumlara ilişkin farklı bakış açılarının olabileceğini fark etmeleri sağlanır  (SDB2.3, 
+D10.3). Öğrencilerden çeşitli katıların belirli bir sıcaklık ve basınçta 100 g saf çözücüdeki 
+(su) maksimum çözünme miktarını (gram olarak) test edebilmeleri amacıyla deney plan -
+lamaları ve bu deneyi yapmaları istenir (D3.2, OB7). Öğrenciler, bu deneyden elde ettikleri 
+verileri kaydederek analiz eder. Öğrencilerden analiz sonuçlarını kullanarak çözünürlüğe 
+ilişkin bir tanımlama yapmaları istenir. Çözünürlüğe ilişkin yaptığı tanımın bilimsel tanım -
+dan farkının açıklanması sağlanır (KB2.7, OB7). Öğrencilerden ders öncesi ve sonrasında 
+çözünürlüğe ilişkin değişen görüşlerini özetledikleri ve yaptıkları deney sürecini değerlen-
+dirdikleri bir yansıtma notu yazmaları istenebilir (SDB1.2, SDB1.3, E3.10).

@@ -1,0 +1,111 @@
+266
+SÖZLÜK
+H-I-İ
+hidrodinamik: Sıvıya batırılmış katı cisimler üzerinde, 
+onların hareketiyle ilgili olarak sıvıların gösterdiği 
+direnci ve sıvıların hareketini inceleyen bilim dalı.
+ışıma: Görünür ya da görünmez ışık yayma.
+ışın: Işığın yayılışını simgeleyen doğru çizgiler.
+ilke: Deneyle kanıtlanabilen gerçek, prensip.
+iyon: Elektriksel yük dengesi bozulmuş atom ya da 
+atom kümeleri.
+J-K-L
+jeneratör: Elektrik üreten araç.
+jeoÀzik: Yer yuvarlağını ve atmosferi etkileyen doğal 
+Àziksel olayların incelenmesi.
+jeoloji: Yer yuvarlağının yapısını, birleşimini, evrimini 
+inceleyen bilim, yer bilimi.
+jet akımları: Troposferin üst katmanlarında egemen 
+olan çok hızlı hava akımları.
+kalıntı: Eski çağlardan kalmış şehir veya yapı, ören, 
+harabe.
+kavis: Bir eğrinin sınırlı bir kısmı, eğmeç.
+kızılötesi: Işık tayfında kırmızı alanın ötesindeki alanda 
+yayılmış ısı ışınlarından oluşan, gözle görülmeyen 
+ışınım; kızılaltı, enfraruj.
+komut: Belirli bir programlama dili bağlamında bir işle-
+mi tanımlayan ya da betimleyen anlamlı ifade. 
+kristal: Katı maddede atom ya da moleküllerin uzayda 
+düzgün olarak tekrarlanan periyodik sıralanışın-
+dan oluşan bir yapıya sahip katı cisim.
+kronometre: Belirli bir işin, işlemin veya yarışma-
+nın süresini ölçmek amacıyla kullanılan alet, 
+süreölçer.
+kuantum: Bir sistemin enerji ve açısal momentum gibi 
+kesikli değerler de alabilen bazı özelliklerinin en 
+küçük miktarı, nicem.
+kumpas: Sanayide kalınlık ve incelikleri ölçmede kulla-
+nılan ölçüm aleti.
+kuram: Sistemli bir biçimde düzenlenmiş birçok olayı 
+açıklayan ve bir bilime temel olan, teori.
+kuramsal: Kuramla ilgili, kuram durumunda bulunan, 
+kuram niteliğinde olan; teorik, uygulamalı karşıtı.
+kutup: 1. Bir kürenin merkezinden geçen doğrunun 
+küre yüzeyini kestiği noktalar. 2. Elektrik devre-
+lerinde pozitif ya da negatif gerilimle nitelenen 
+bağlantı uçlarından biri. 3. Mıknatısın uçları.
+küresel ısınma: Sera etkisi oluşturan su buharı, kar-
+bondioksit, metan gibi gazların atmosferde artışı 
+sonucu, atmosferin yeryüzüne yakın bölgelerinin 
+gereğinden fazla ısınması ve yeryüzü ortalama 
+sıcaklığının artması.
+laminer akış: Yerel hız vektörlerinin akışı sınırlayan yü-
+zeylere ve birbirine paralel olduğu ve akış hızının 
+yüzeylerden uzaklıkla düzgün bir biçimde arttığı, 
+bu nedenle de yüzeylere paralel, farklı akış hızları-
+na sahip katmanlardan oluşan akış.
+LED: İçinden elektrik akımı geçtiğinde ışık veren kü-
+çük, yarı iletken diyot.
+lineer cebir: Doğrusal denklem sistemlerinin çözümü-
+nü araştıran, doğrusal uzayların ve dönüşümlerin 
+özelliklerini inceleyen cebir dalı, doğrusal cebir.
+M-N
+makro: Büyük, geniş; mikro karşıtı.
+mantık: Doğru düşünmenin yolu ve yöntemi.
+matematik fonksiyonları: Bir girdi kümesinin her 
+elemanını bir çıktı kümesinin tek bir elemanına 
+eşleyen kurallar veya işlemler bütünü.
+metaÀzik: Duyularla algılanamayan varlıkların sebep-
+lerini ve temellerini araştıran felsefe; doğaötesi, 
+Àzikötesi.
+mikro: Küçük, dar; makro karşıtı.
+motor: Herhangi bir enerjiyi mekanik enerjiye dönüştü-
+ren düzenek.
+nautilus: Spiral şekilli, bölmeli kabuğu içindeki gazı 
+ayarlayarak yüzebilen deniz hayvanı.
+nem: 1. Havada bulunan su buharı. 2. HaÀf ıslaklık, 
+rutubet.
+nicelik: Bir şeyin sayılabilen, ölçülebilen veya azalıp 
+çoğalabilen durumu, kemiyet.
+nükleer: Atom çekirdeği ile ilgili, çekirdeksel.
+nükleer enerji: Atom çekirdeğinin parçalanması ya da 
+birleşmesi sonunda elde edilen enerji.
+O-Ö
+olgu: Birtakım olayların dayandığı sebep veya bu 
+sebeplerin yol açtığı sonuç.
+otomasyon: Bir sürecin, makinenin ya da iş hattının 
+yürütülmesini insan müdahalesine gerek kalma-
+dan sağlayan yöntem, kuram ya da teknoloji, 
+özişlerlik.
+ölçek: 1. Birim kabul edilen herhangi bir şeyin alabildiği 
+kadar ölçü. 2. Bu ölçü miktarında olan.
+özdeş: Her türlü nitelik bakımından eşit olan, araların-
+da fark bulunmayan, aynı.
+özel görelilik: Hareket hâlindeki gözlemciler arasında 
+zamanın ve uzayın göreceli olduğunu belirten Àzik 
+teorisi.
+P-R
+palet: Tankın ya da bazı iş makinelerinin her türlü ara-
+zide yol almasını sağlayan, iki yanındaki tekerlek-
+lerini içine alan metal şerit, tırtıl.
+pist: 1. Gösteri yapmak, dans etmek vb. için düzenlen-
+miş, genellikle yuvarlak yer. 
+potansiyel: Kullanılmaya hazır, gelecekte oluşması ve 
+gelişmesi olanaklı.
+radyasyon: Işın veya tanecik yayımı; ışıma, ışınım.
+radyoaktif: Alfa, beta veya gama ışınlarını yayma 
+özelliği olan; ışın etkin.
+rakım: Yer kabuğu üzerindeki bir yerin deniz seviyesine 
+göre ölçülen yüksekliği, yükselti.
+rezistans: Elektrik devrelerinde elektrik enerjisini ısıya 
+dönüştüren öge.

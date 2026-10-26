@@ -1,0 +1,53 @@
+180
+2. Tema/Çeşitlilik
+1. Yönerge: Aşağıda farklı ortamlarda bulunan eşit hacimdeki saf suya ilişkin sıcaklık-buhar basıncı gra -
+fikleri ve tanecikli model verilmiştir. Grafik ve görsellerden faydalanarak soruların cevaplarını 
+yazınız. (1 atm= 76 cmHg= 760 mmHg= 101.325 kPa)
+Saf su
+1 atm
+100 
+°
+C
+Saf su
+0,3 atm
+70 
+°
+C
+Saf su
+0,3 atm
+20 
+°
+C
+Deniz seviyesi Everest Dağı’nın zirvesi
+Saf su
+20 
+°
+C
+Sıcaklık (
+°
+C)
+20 40 60 80
+200
+400
+600
+760
+800
+100
+Buhar basıncı 
+(mmHg)
+Sıcaklık (
+°
+C)
+20 40 60 80
+200
+400
+600
+760
+800
+100
+Buhar basıncı 
+(mmHg)
+1. Sıcaklık artarken her bir ortamdaki suyun buhar basıncında nasıl bir değişim olduğunu açıklayınız.
+Grafik 1 Grafik 2
+Buhar Basıncı ve KaynamaEtkinlik-2.22
+1 atm

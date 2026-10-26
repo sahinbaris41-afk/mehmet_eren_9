@@ -1,0 +1,29 @@
+64
+MATEMATİK 9 
+3. TEMA: GEOMETRİK ŞEKİLLER
+5. Adım
+6. Adım
+4. Adım
+Grup arkadaşlarınızla bulduğunuz açı ölçülerinin sıralaması ile kenar uzunluklarının sıralamasını karşı-
+laştırınız. Açılar ile kenarlar arasındaki ilişkiye yönelik bir çıkarımda bulununuz.
+Grup arkadaşlarınızla üçgenin iç açılarının ölçüleri ile kenar uzunluklarının ilişkisine yönelik yaptığınız 
+çıkarımı kullanarak aşağıdaki problem durumuna yönelik bir çözüm geliştiriniz.
+Problemin çözümünü grup arkadaşlarınızla tartışarak bulunuz. Arkadaşlarınızın çözümlerine yönelik 
+geri bildirimler vererek ortak bir çözüm geliştiriniz.
+Yandaki şekilde AC kenarları ortak olan iki üçgen 
+iç açılarının ölçüleri ile birlikte verilmiştir.
+Buna göre şeklin en uzun kenarını bulunuz.
+Üçgenin birinden boyayarak belirlediğiniz iç açıları bir makas ile keserek çıkartınız.
+Çıkartılan ∝, � ve θ açılarını üst üste gelecek şekilde koyunuz. Bu açı ölçülerini karşılaştırınız ve sıra-
+layınız. 
+Çözüm:
+Çözüm:
+Çözüm:
+A
+B
+C
+D
+70°
+30°
+100°
+60°

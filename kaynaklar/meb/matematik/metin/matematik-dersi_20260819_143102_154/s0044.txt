@@ -1,0 +1,45 @@
+44
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.9.1.1. Gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere dair muhakeme 
+yapabilme
+a) Gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere ilişkin varsayımlarda 
+bulunur. 
+b) Farklı örneklerden elde ettiği örüntüleri listeleyerek varsayımlarına yönelik genelle-
+meler yapar.
+c) Varsayımları ile genellemelerini karşılaştırır. 
+ç) Elde ettiği genellemelerden üslü ve köklü gösterimlerle ilgili önermeler sunar.
+d) Üslü ve köklü gösterimlerle ilgili önermelerin kullanışlılığını problem durumlarında de-
+ğerlendirir.
+e) Üslü ve köklü gösterimlerle ilgili  matematiksel doğrulama yöntemlerini kullanır.
+f) Kullandığı matematiksel doğrulama yöntemlerini kullanışlılık açısından değerlendirir.
+MAT.9.1.2. Gerçek sayı aralıklarının gösteriminde ve aralıklarla ilgili işlemlerde küme sembol 
+ve işlemlerinden yararlanabilme 
+a) Gerçek sayı aralıkları ve bunlarla yapılan işlemlerde kullanılan küme sembol ve işlem-
+lerini bağlamlarındaki anlamı ile tanır. 
+b) Gerçek sayı aralıkları ve bunlarla yapılan işlemlerde kullanılan küme sembol ve işlem-
+lerinden matematiksel durum veya probleme uygun olanı belirler. 
+c) Gerçek sayı aralıkları ve bunlarla yapılan işlemlerin içerdiği küme sembol ve işlemlerini 
+matematiksel durum veya probleme uygun şekilde kullanır.
+MAT.9.1.3. Farklı sayı kümelerinin özellikleri hakkında muhakeme yapabilme
+a) Doğal sayılar, tam sayılar, rasyonel sayılar ve gerçek sayılara dair temel özelliklere 
+(sıralama, arada olma ve işlem özellikleri) ilişkin varsayımlarda bulunur.
+b) Farklı sayı kümelerinde elde ettiği örüntüleri listeleyerek varsayımlarına yönelik ge-
+nellemeler yapar.
+c) Varsayımları ile genellemelerini karşılaştırır.
+ç) Elde ettiği genellemelerden sayı kümelerinin özellikleri hakkında önermeler sunar.
+d) Önermelerin kullanışlılığını problem durumlarında değerlendirir.
+e) Elde ettiği önermeleri ispatlamak ya da çürütmek için matematiksel ispat yöntemle-
+rini kullanır.
+f) Kullandığı matematiksel ispat yöntemlerini kullanışlılık açısından değerlendirir.
+MAT.9.1.4. Gerçek sayıların işlem özelliklerini cebirsel olarak ifade etmede analojik akıl yü-
+rütebilme
+a) Gerçek sayıların işlem özellikleri ile bunların olası cebirsel karşılıklarını gözlemler. 
+b) Gözlemlerinden yola çıkarak gerçek sayıların işlem özellikleri ile bunların cebirsel kar-
+şılıklarını tespit eder.
+c) Tespit ettiği özelliklerden çıkarımlar yapar.
+İÇERİK ÇERÇEVESİ • Gerçek Sayıların Üslü ve Köklü Gösterimleri ile Yapılan İşlemler
+• Gerçek Sayı Aralıklarının Gösterimi ve Aralıklarla İlgili İşlemlerde Küme Sembollerinin  
+Kullanımı
+• Sayı Kümeleri ve İşlem Özellikleri
+• Gerçek Sayıların İşlem Özelliklerini Cebirsel Olarak İfade Etme

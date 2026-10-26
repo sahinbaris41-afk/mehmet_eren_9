@@ -1,0 +1,87 @@
+63
+4. Tema / Eşlik ve Benzerlik
+22. ÖRNEK
+Yandaki	şekilde	ABC	ve	DCB	dik	üçgenlerinde	
+m ABC m DCB 90 o==`` jj%% 	ve	 AC BD E+ =77 AA # -  dir.	
+AB DC EF''77 7AA A	ve	 AB b birim= ,	 DC c birim= ,	
+EF a birim= 	olarak	verilmiştir.
+Buna	göre	 a b c11 1=+ 	bağıntısını	elde	ediniz.
+Çözüm
+Yandaki	şekilde	 AB EF'77 AA 	ve	EFC ABC+&&  dir	(A.A.).	
+BF x birim=  ve	 FC y birim= 	olmak	üzere	 ba xyy= + 	olur.	
+Benzer	şekilde	 DC EF'77 A A 	ve	EFB DCB+&&  dir	(A.A.). 
+BF x birim=  ve	 FC y birim= 	olmak	üzere	 .ca xyx olur= +
+b
+a
+c
+a
+xy
+y
+xy
+x
+bc
+ac ab11& $$$+= + + + = + =
+.ac bb ca cbbc olur&& $ $+= = +_i
+Buradan .a bccb a bcc bcb a b c bulunur11 11 1&&$$ $= + =+ =+
+21. ÖRNEK
+ABC	üçgeninde	F, EA C! 7 A ,	DA B! 7A ,	 DF BE DE BC'' ,77 77AA A A ,			
+AF 4c m= 	ve	 FE 3c m= 	olarak	verilmiştir.
+Buna	göre	 EC  nun	kaç	cm	olduğunu	bulunuz.
+Çözüm
+ABC	üçgeninde	 AD p= 	ve	 DB k= 	alındığında	 DF BE'77 A A 	olduğuna	gö re
+T ales	teoreminden	hareketle	
+FE
+AF
+k
+p
+k
+p
+3
+4&== 	olur.	ABC	üçgeninde	
+DE BC'77 AA  olduğuna	göre	
+EC
+AE
+k
+p
+EC k
+p43&= + = 	eşitlikleri	yazılabilir.	
+Buradan	
+EC
+EC EC cm7 34 37 4 421&&$$== = 	olur.
+A
+B C
+D	 E
+F
+A
+B C
+D
+E
+F
+A
+B C
+D
+E
+F
+b
+c
+a
+x y
+A
+B C
+D	 E
+Fp
+4
+3
+k
+4
+3
+Yandaki	şekilde	ABC	ve	BCD	üçgen,	 AC BD E+ =77 AA # - ,	FB C! 7 A  dır.
+AB DC EF''77 7AA A,	 AB birim a= ,	 CD birim b= 	ve	 EF birim x=    
+olmak üzere	 x a b11 1=+  dir.
+A
+a
+x b
+B C
+D
+E
+F

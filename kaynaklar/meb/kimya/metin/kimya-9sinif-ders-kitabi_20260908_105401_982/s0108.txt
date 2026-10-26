@@ -1,0 +1,35 @@
+108
+2. Tema/Çeşitlilik
+2.1.1.	Me talik 	 Bağ
+Yün kazağınızı çıkarırken veya halının üstünde yürüdükten sonra metal bir 
+kapı koluna dokunduğunuzda rahatsız edici bir çarpılma hissettiniz mi? Plas-
+tik kaydıraktan kayan bir çocuğun saçlarının dikilmesinin (Görsel 2.1) ya da 
+plastik tarakla saçlar tarandıktan sonra tarağın küçük kâğıt parçalarını çek-
+mesinin sebebi ne olabilir? Bu ve benzeri olayların temeli elektrik yüklerine 
+ve bu yüklerin birbiriyle etkileşimine dayanır. Kimya biliminde tanecikleri bir 
+arada tutan kuvvetleri anlamlandırabilmek için elektrostatik yükler arasındaki 
+etkileşimleri hatırlayınız.
+Evrendeki tüm maddeler atomlardan oluşur. Atomlar aralarında kimyasal 
+bağlar kurarak fiziksel ve kimyasal özellikleri birbirinden farklı yeni özelliklere 
+sahip maddeler oluşturur. Kimyasal bağlar, maddeleri oluşturan tanecikleri 
+bir arada tutan elektrostatik kuvvetlerdir. Bu bağlar kimyasal türler arası etki-
+leşimler olarak da isimlendirilir. 
+Hangisi İter, Hangisi Çeker?
+Elektrostatik, hareket etmeyen elektrik yüklerinin özelliklerini ve davranışını açıklayan fizik disiplininin 
+alt dalıdır. Elektrostatik, statik elektrik veya durgun elektrik olarak da adlandırılır. Elektrostatiğin en ilgi 
+çekici yönlerinden biri, iki yüklü tanecik arasında oluşan elektrostatik itme ve çekme etkisidir. Doğada iki 
+tür elektrik yükü bulunmaktadır. Bu yükler; zıt işaretli olup artı (+), eksi (−) veya pozitif, negatif olarak 
+adlandırılır.
+Yüklü küreler birbirine yaklaştırıldığında her bir küre çiftinin etkileşim sonrası oluşacak durumunu boş bı -
+rakılan alana çiziniz. Çiziminizi arkadaşlarınızın çizimleri ile karşılaştırınız. Bilimsel olarak hangi çizimin 
+kabul edilebilir olduğuna karar verip varsa kendi çiziminizdeki eksiklikleri veya hataları düzelterek çiziminizi 
+tamamlayınız.
+Etkinlik-2.1
+Atomlar neden ve nasıl 
+bir arada bulunur? Bağ 
+oluşumunda atomların 
+yapısında bulunan elektrik 
+yüklü taneciklerin ne gibi 
+bir etkisi vardır?
+Görsel 2.1 
+Elektriklenmiş saç

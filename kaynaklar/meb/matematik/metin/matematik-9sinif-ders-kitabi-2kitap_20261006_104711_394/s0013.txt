@@ -1,0 +1,37 @@
+13
+4. Tema / Eşlik ve Benzerlik
+ 4.1. 	GEOMETRİK	DÖNÜŞÜMLER
+Konuya Başlarken
+Türk-İslam kültüründe bitki ve çiçek desenleri medrese, cami, saray gibi birçok mimari 
+eserde süsleme amacıyla sıkça kullanılmıştır. Osmanlı Dönemi’nde özellikle lale deseni 
+İznik üretimi çini ve seramiklerde farklı kompozisyonlarla öne çıkmış ve dönemin mimari 
+eserlerini süslemiştir.
+Görsel 1’de lalenin ana desen olarak kullanıldığı süsleme örneği, Görsel 2’de süsleme 
+örneğinin bir parçasında yer alan lale desenleri numaralandırılarak verilmiştir. 
+Görselleri inceleyerek aşağıdaki soruların cevaplarına ilişkin fikirlerinizi sınıf 
+arkadaşlarınızla paylaşınız.
+1. Görsel 1’de verilen süsleme örneği oluşturulurken hangi geometrik dönüşümlerin 
+kullanıldığına ilişkin fikirlerinizi belirtiniz.
+2. Görsel 2’de yer alan III numaralı deseni elde etmek için I numaralı desene sırasıyla hangi 
+geometrik dönüşüm veya dönüşümlerin uygulandığını belirtiniz. 
+3. I numaralı desene tek bir dönüşüm uygulanarak III numaralı desenin elde edilmesinin 
+mümkün olup olmadığını, mümkünse hangi geometrik dönüşümün uygulanabileceğini 
+belirtiniz.
+4. İkinci ve üçüncü sorulara verdiğiniz cevapları değerlendirerek III numaralı deseni elde 
+etmek için I numaralı desene uygulanan geometrik dönüşümlerin arasında nasıl bir ilişki 
+olduğunu belirtiniz.
+5. Görsel 2’de yer alan IV numaralı deseni elde etmek için II numaralı desene sırasıyla 
+hangi geometrik dönüşüm veya dönüşümlerin uygulandığını belirtiniz.  
+6. Dördüncü soruya verdiğiniz cevaplardan hareketle II numaralı desene tek bir geometrik 
+dönüşüm uygulanarak IV numaralı desenin elde edilmesinin mümkün olup olmadığını 
+II ve IV numaralı desenleri karşılaştırarak belirtiniz. 
+D
+üzlemde	bir	şekli	hareket	ettirmek	için	geometrik	dönüşümler	kullanılır.	Bu	dönüşümler	sayesinde	
+şekil	üzerindeki	noktalar	düzlemdeki	başka	noktalara	bire	bir	eşlendiğinden	tek	bir	şekil	kullanı-
+larak	o	şekle	eş	yeni	şekiller	elde	edilir.	Bu	süreçte	kullanılan	geometrik	dönüşümler;	yansıma,	
+öteleme	ve	dönme	dönüşümleridir .	Şekil	ile	bu	şeklin	geometrik	dönüşümler	sonucu	oluşan	görüntüleri	
+estetik	bir	görünüş	sağladığından	mimaride,	görsel	sanatlarda,	süsleme	sanatlarında	ve	dekorasyonda	
+geometrik	dönüşümlerden	sıklıkla	faydalanılır.	
+Görsel 1 Görsel 2
+I II III
+IV

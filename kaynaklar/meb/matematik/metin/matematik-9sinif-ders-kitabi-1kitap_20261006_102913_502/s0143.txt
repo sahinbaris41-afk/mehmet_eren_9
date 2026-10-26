@@ -1,0 +1,31 @@
+143
+2. Tema /  Nicelikler ve Değişimler
+12.	Uygulama
+Denklem ve Eşitsizlik İçeren Problemlerin Çözümü
+Aşağıda verilen problemleri inceleyerek soruları cevaplayınız.
+Arkeologlar, kişilerin boyunu tahmin etmek için kazı sırasında buldukları uyluk kemiklerinin (dizden kalça yuvası-
+na kadar olan kemik) uzunluğundan yararlanmaktadır. Buna göre bir erkeğin boyu, uyluk kemiğinin uzunluğunun 
+2,2 katına 69 eklenerek; bir kadının boyu, uyluk kemiğinin uzunluğunun 2,3 katına 61,4 eklenerek cm cinsinden 
+yaklaşık olarak elde edilebilmektedir.
+1. Problem:  Erkek ve kadınların uyluk kemiği uzunluğuna (x) bağlı boyu (y) veren denklemler nasıl bulunabilir? 
+2. Problem:  Bir arkeolojik kazı sırasında bulunan bazı uyluk kemiklerinin ve kişilerin boylarının yaklaşık değer -
+leri tabloda verilmiştir. Tabloda verilmeyen değerleri bulunuz.
+1.  1. problemde istenen denklemlerin nasıl elde edilebileceğiyle i lgili stratejinizi belirleyerek denklemleri yazınız.
+2.  2. problemde tabloda verilmeyen değerleri nasıl bulabilirsiniz? Çözüm stratejinizi belirleyerek tabloyu 
+doldurunuz.
+3.  Matematik yazılımı yardımıyla 1. soruda elde ettiğiniz denklemlere ait grafikleri aşağıdaki adımları izleyerek 
+çiziniz.
+1. adım: Giriş bölümüne erkeklerin boyunu uyluk kemiği uzunluğuna bağlı olarak veren denklemi  yazıp 
+Enter tuşuna basınız. Yazılan denkleme ait grafik, cebir ve grafik ekranında oluşacaktır.
+2. adım: Giriş bölümüne kadınların boyunu uyluk kemiği uzunluğuna bağlı olarak veren denklemi yazıp 
+Enter tuşuna basınız. Yazılan denkleme ait grafik, cebir ve grafik ekranında oluşacaktır.
+ Grafiklerden  yararlanarak 2. problemde tablodaki verilmeyen değerleri nasıl bulabilirsiniz? Çözüm stratejinizi 
+açıklayarak tabloda verilmeyen değerleri bulunuz. 
+4.  2. problemin çözümünde kullandığınız yöntemleri karşılaştırarak çözümlerinizi doğrulayınız.  Hangi yöntemin 
+daha kullanışlı olduğunu açıklayınız.
+5.  1 ve 2. problemlerin çözümünde kullandığınız yöntemleri doğrusal ilişki içeren başka problemlerin çözümünde 
+nasıl kullanabilirsiniz? Genellemelerinizi oluşturunuz.
+6.  Oluşturduğunuz genellemele ri sözel, cebirsel veya grafiksel olarak değerlendiriniz.
+Erkek Kadın
+Uyluk Kemiğinin Uzunluğu (cm) 45 50 25 30
+Kişinin Boyunun Yaklaşık Değeri (cm) 175 150

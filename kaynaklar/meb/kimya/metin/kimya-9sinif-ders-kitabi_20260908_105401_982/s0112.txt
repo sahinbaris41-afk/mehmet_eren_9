@@ -1,0 +1,39 @@
+112
+2. Tema/Çeşitlilik
+Metallerin atom çapları nispeten büyük, iyonlaşma enerjileri ve elektronega -
+tiflikleri düşüktür. Bu nedenle metal atomları valans elektronlarını zayıf bir 
+şekilde çeker. Metal atomları bir arada bulunduklarında, en yüksek enerji se-
+viyesindeki elektronları (valans elektronları) atomdan ayrılarak komşu atomla-
+rın valans orbitallerinde serbest bir şekilde hareket eder. Serbest dolaşan bu 
+valans elektronları bir tür elektron denizi oluştururken metal atomları da pozi-
+tif yüklü iyonlara (katyonlara) dönüşür. Böylece metalik örgüde, pozitif yüklü 
+metal iyonları ile serbest dolaşan valans elektronları arasındaki elektrostatik 
+çekim kuvveti sonucunda metalik bağ oluşur. Metalik bağın kuvveti, metal 
+katyonun yükü ve serbest valans elektron sayısına bağlıdır. Metal katyonunun 
+yükü ve serbest valans elektron sayısı arttıkça metalik bağın kuvveti de artar. 
+Görsel 2.4’te metal katyonu ile valans elektronlar arasındaki etkileşimler ve -
+rilmiştir.
+Pozitif yüklü metal iyonları
+Serbest valans elektronları
+Kimyasal türler arasında 
+metalik bağdan farklı şekil-
+lerde etkileşimler de gözle-
+nebilir mi? Düşüncelerinizi 
+gerekçeleriyle açıklayınız.
+Kontrol Noktası 2.1
+1. Aşağıdaki görselde öğrenciler metalik bağın nasıl oluştuğunu tartışmaktadır. Metalik bağ ile ilgili doğru 
+ve yanlış ifadeleri belirleyerek yanlış ifadelerin yerine doğrularını yazınız.
+Görsel 2.4 
+Elektron denizi modeli
+Metal atomunun çekirdeği ile 
+valans elektronları arasında 
+oluşur.
+Metal katyonları ile serbest va-
+lans elektronlar arasında oluşur. Farklı metal atomları arasında oluşur.Metal atomları arasında elektronların ortak kullanıl-
+masıyla oluşur.
+A B
+C
+D
+Metalik bağ oluşumu ile 
+ilgili görsele ulaşmak için 
+karekodu okutunuz.

@@ -1,0 +1,45 @@
+MATEMATİK 9 
+54 55
+3. Adım
+4. Adım
+Bu yöntemde frekans analizinin yanında sık kullanılan bağlaç ve zamirleri aratmak şifrenin çözül-
+mesi işlemini kolaylaştırır mı? Açıklayınız.
+Grup arkadaşlarınızla farklı bir anahtar kelime kullanarak 
+seçeceğiniz bir ilin adını şifreleyiniz. Şifrelediğiniz kelimeyi 
+ve kullandığınız anahtar kelimeyi başka bir gruba veriniz ve 
+onların şifrelemeyi çözüp çözemeyeceklerini takip ediniz.
+Vigenere (Vijineğ) Şifreleme: Bir metni şifrelemek için bir anahtar kelime kullanarak harfleri kay-
+dırmaya dayalı şifreleme yöntemi olan Vigenere yöntemi, her harfi sabit bir sayı kadar kaydırarak 
+eşleme yapan bir yöntemdir. Vigenere şifreleme ile ilgili aşağıda verilen uygulamayı inceleyiniz.
+a) Anahtar Kelime Seçimi: Şifreleme işlemlerinde kullanılacak bir anahtar kelime seçilir. Bu 
+örnekte “AYBERK” kelimesi seçilmiştir. Anahtar kelime mesajın uzunluğu kadar tekrarlanır. Her bir 
+mesaj harfi ile anahtar kelime harfi eşleştirilir.
+b) Harfleri Sayısal Değerlerine Dönüştürme ve Şifreleme: Hem mesajın hem de anahtar keli -
+menin harfleri, alfabetik sıralamalarına göre sayısal değerlere dönüştürülür.
+Türk alfabesindeki harf sıralamaları:
+A=0, B=1, C=2, Ç=3, D=4, E=5, F=6, G=7, Ğ=8, H=9, I=10, İ=11, J=12, K=13, L=14, M=15, N=16,
+O=17, Ö=18, P=19, R=20, S=21, Ş=22, T=23, U=24, Ü=25, V=26, Y=27, Z=28
+Aynı sütundaki mesaj harfi değeri ve anahtar harfi değeri toplamı ile elde edilen sayının 29’a 
+bölümünden kalan bulunur ve bu sayıya karşılık gelen harf değeri elde edilir.
+Çözüm:
+Çözüm:
+Mesaj : G Ö R E V T A M A M L A N D I
+Anahtar Kelime : A Y B E R K A Y B E R K A Y B
+G (7) + A (0) = G (7)  
+Ö (18) + Y (27) = N (16) 
+R (20) + B (1) = S (21) 
+E(5) + E (5) = I (10) 
+V (26) + R (20) = O (17) 
+T (23) + K (13) = G (7) 
+A (0) + A(0) = A(0)
+M (15) + Y (27) = K (13)
+A (0) + B (1) = B (1)
+M (15) + E (5) = R (20)
+L (14) + R (20) = E (5)
+A (0) + K (13) = K (13)
+N (16) + A (0) = N (16)
+D (4) + Y (27) = C (2)
+I (10) + B (1) = İ (11)
+Mesaj G Ö R E V T A M A M L A N D I
+Anahtar A Y B E R K A Y B E R K A Y B
+Şifreli G N S I O G A K B R E K N C İ

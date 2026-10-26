@@ -1,0 +1,47 @@
+4
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+1. COĞRAFY A DERSİ ÖĞRETİM PROGRAMI
+1.1. COĞRAFY A DERSİ ÖĞRETİM PROGRAMI’NIN TEMEL Y AKLAŞIMI VE ÖZEL AMAÇLARI
+“Herkes için coğrafya” yaklaşımı ile hazırlanan Coğrafya Dersi Öğretim Programı, beceri temelli bir anlayış ile daha güçlü 
+bir toplum oluşturma sürecine katkı sunmak amacıyla tasarlanmıştır. Coğrafya, bu süreçteki gücünü uzun tarihinden 
+ve toplumların beklentilerini bugüne kadar başarıyla karşılamasından almıştır. Bu ders ile elde edilen bilgi ve beceriler 
+günlük hayatın ayrılmaz bir parçası olmakla kalmaz, aynı zamanda toplum ve devletlerin standartlarının yükseltilmesine 
+de katkı sunar. Coğrafya herkes içindir. Bu kapsamda söz konusu bilim; insan-doğa etkileşimini anlama, mekânsal 
+düşünme ve beşerî faaliyetlerdeki sürdürülebilirliği tasarlamanın en iyi yoludur. Coğrafi bilgi ve beceriler; insan hayatını 
+doğrudan ilgilendiren, Türkiye ve dünya gündeminde öne çıkan konularda (afetlerle mücadele, küreselleşme, kentleşme, 
+iklim değişikliği, planlama, çevre sorunları, coğrafi bilgi sistemleri, sürdürülebilirlik vb.) önemli bir araç olarak kullanılır. 
+Değişen ve çeşitlenen ihtiyaçlar, zamanla bilimler üzerinde baskı oluşturur ve onları güncellenmeye zorlar. Bilimsel 
+alandaki değişimler, eş zamanlı olarak öğretim programlarına yansır. Coğrafya Dersi Öğretim Programı da değişen 
+paradigmalar nedeniyle zamanın koşullarına uyum sağlar. Disipliner doğası gereği coğrafya, güncellenmeye en fazla 
+ihtiyaç duyulan bilimlerin başında gelir. 
+Coğrafya Dersi Öğretim Programı’nın odağında sosyal bilimler alan becerileri içerisinde yer alan coğrafyayla ilişkili alan 
+becerileri yer almaktadır. Bunun yanı sıra ilgili program; diğer bilimlere ait bazı beceri setleri, kavramsal beceriler, 
+sosyal-duygusal öğrenme becerileri okuryazarlık becerileri, eğilimler ve değerleri de dikkate alan bütüncül bir 
+yaklaşımla tasarlanmıştır. Aynı zamanda program; temel eğitim düzeyindeki coğrafya konularını dikkate alan, dikey 
+bağlantılı, tekrardan uzak, sade ve öğrencinin derinleşebileceği bir yaklaşıma sahiptir. Bu nedenle öğrencilerin bütünsel 
+gelişiminin desteklenmesini ve gerçek hayatla güçlü bağlar kurulmasını esas alır.
+Coğrafya Dersi Öğretim Programı, Türkiye Yüzyılı Maarif Modeli kapsamında benimsenen Erdem-Değer-Eylem Çerçevesi 
+ile uyumlu olarak yapılandırılmıştır. Programda öğrencilerin toplumsal ve kültürel değerleri özümsemeleri, karakter 
+bütünlüğüne sahip olmaları, dengeli davranışlar sergilemeleri ve çevre dostu sürüdürülebilir yaşam alışkanlıkları 
+kazanmaları hedeflenmektedir. Bu süreçte adalet, saygı ve sorumluluk çatı değerleri, öğrenme-öğretme yaşantıları 
+içinde deneyim temelli yaklaşımlar aracılığıyla ele alınmaktadır. Böylece öğrencilerin değerleri yaşayarak öğrenmeleri 
+ve davranışa dönüştürmeleri amaçlanmaktadır.
+1739 sayılı Millî Eğitim Temel Kanunu’nun 2. maddesinde ifade edilen Türk Millî Eğitiminin Genel Amaçları ile Türk Millî 
+Eğitiminin Temel İlkeleri esas alınarak hazırlanan Coğrafya Dersi Öğretim Programı ile öğrencilerin
+1. İnsan-doğa etkileşimi üzerinden coğrafi bilgi, bakış ve beceri kazanmaları;
+2. Coğrafi bilgi, bakış ve becerileri günlük hayatla ilişkilendirerek karşılaştıkları sorunlara çözüm üretmeleri;
+3. Coğrafya biliminin doğasını temel kavram, kuram ve yöntemler çerçevesinde kavramaları;
+4. Mekânsal bilgi teknolojilerini kullanma becerilerini geliştirmeleri; 
+5. Türkiye’nin doğal, beşerî ve ekonomik özelliklerini coğrafi bakış açısıyla bütüncül biçimde kavramaları;
+6. Doğal-beşerî sistem ve süreçlerin işleyişlerini çözümlemeleri;
+7. Ekonomik faaliyetleri ve bu faaliyetlerin kalkınma süreçlerine etkilerini sorgulamaları;
+8. Afetler, çevre sorunları gibi güncel konulara coğrafi bilinçle yaklaşmaları ve güçlü toplum hedefi için bireysel bilgi ve 
+becerilerini geliştirmeleri;
+9. Kültürel, siyasi, ekonomik ve çevresel organizasyonları yerel, bölgesel ve küresel ölçekteki etkileri bağlamında 
+sorgulamaları;
+10. Doğal-kültürel miras değerlerini kavramaları ve bu değerlere yönelik koruma bilinci geliştirmeleri;
+11. Güncel coğrafi olaylar arasındaki neden-sonuç ilişkilerini yapılandırmaları;
+12. Türkiye’nin bölgesel ve küresel ilişkilerini coğrafi bakış açısıyla sorgulamaları;
+13. Vatan bilinci ve millî kimlik oluşturmada coğrafi bilgi, bakış ve becerilerin rolünü özümsemeleri;
+14. Doğal, beşerî ve ekonomik kaynakların sürdürülebilir kullanımı konusunda coğrafi bilinç geliştirmeleri 
+amaçlanmaktadır.

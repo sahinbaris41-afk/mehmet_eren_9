@@ -1,0 +1,63 @@
+267
+SÖZLÜK
+rezonans: Düzgün itmelerin etkisiyle bir salınım genli-
+ğinin artışı.
+rota: Görüş ya da tutuma göre gidilen, izlenen yol.
+S-Ş
+senkronize: İki veya daha fazla olayın, hareketin veya 
+sürecin aynı zamanda ve uyumlu bir şekilde ger-
+çekleşmesi durumu.
+sensör: Işığı veya nesneyi algılayıp gerekli hareketi 
+başlatan aygıt, duyarga.
+sistem analizi: Bir organizasyonun veya sistemin 
+bileşenlerini inceleyerek bu sistemin nasıl çalış-
+tığını ve nasıl iyileştirilebileceğini belirlemek için 
+kullanılan yöntem.
+strafor: Genellikle binaların dış cephe kaplamasında 
+kullanılan süngerimsi madde.
+süper iletkenlik: Belirli malzemelerin sıfır elektrik 
+direnci göstererek elektriği hiçbir enerji kaybı 
+olmadan iletebildiği Àziksel olgu.
+sürdürülebilir yaşam: Doğal kaynakların ve çevrenin 
+gelecek nesillerin ihtiyaçlarını karşılayacak şekilde 
+kullanıldığı yaşam tarzı.
+süreç: Aralarında birlik olan veya belli bir düzen veya 
+zaman içinde tekrarlanan, ilerleyen, gelişen olay 
+ve hareketler dizisi.
+T
+teleskop: Sonsuzdaki bir nesnenin gerçek görüntüsü-
+nü, içbükey bir aynadan yapılmış merceğinin odak 
+düzleminde veren ve gök bilimiyle ilgili gözlemler-
+de kullanılan optik aygıt.
+termal: Isı ile ilgili olan veya ısı tarafından üretilen.
+termodinamik: Isı ile kinetik enerji arasındaki ilişkileri 
+ve bu konuyla ilgili olayları inceleyen Àzik biliminin 
+alt dalı. 
+tesisat: Belli bir işin sağlanmasına yardım eden araç-
+ların uygun yerlere döşenmesi veya döşenen bu 
+araçların tümü; döşem, donanım.
+türbin: Su, buhar, gaz gibi herhangi bir akışkanın hare-
+ket enerjisiyle ve birtakım özel düzenler yardımıyla 
+dönerek çalışan araç.
+türbülans: Beklenen hızından farklı bir biçimde ve 
+beklenmeyen yönlerden gelen şiddetli hava akımı, 
+burgaç.
+türdeş: Maddesel yapısı her yerinde aynı olan.
+U-Ü-V
+uzay: Tüm varlıkların içinde bulunduğu sonsuz boşluk.
+vakum: Havası alınmış, basıncı düşürülmüş. 
+veri: Gözlem ve deneye dayalı araştırmanın sonuçları. 
+veri analisti: Veri kümelerini toplayan, işleyen ve ana-
+liz eden kişi.
+vinç: Ağır yük kaldırmaya ve bir yere taşımaya yarayan 
+araç.
+Y-Z
+yarı iletken: Elektrik akımını tam iletmeyen.
+yasa: Bilimde çok sayıda deney ve gözlemden sonra 
+aynı şartlarda aynı sonuçları verdiği kesin olarak 
+belirlenen durum.
+yazılım: Bir bilgisayarda donanıma hayat veren ve bilgi 
+işlemde kullanılan programlar, yordamlar, prog-
+ramlama dilleri ve belgelemelerin tümü.
+yörünge: Hareket hâlindeki bir cismin kütle merkezinin 
+izlediği çizgi.

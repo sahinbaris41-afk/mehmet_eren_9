@@ -1,0 +1,40 @@
+196
+3. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+3. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+Aşağıda üniteye ilişkin bilgi ve becerileri yoklayan bağlama dayalı toplam 7 soru verilmiştir. 
+1. Bir grup öğrenci, fizik dersinde basınç konusunu daha iyi anlamak ve arkadaşlarına sunmak amacıyla 
+bir dizi deney yapmaya ve bir sunum hazırlamaya karar veriyor. Öğrenciler, grup içinde iletişim kura-
+rak ve iş birliği yaparak deney düzeneğini kuruyorlar. Deneyde farklı ağırlıktaki tahta blokları, düzgün 
+yüzeylere yatay ve dikey şekilde yerleştiriyor ve süngerdeki çökmeyi gözlemliyorlar. Öğrenciler, bu 
+deneyde  farklı ağırlık ve yüzey alanlarına sahip cisimlerin yüzeye uyguladığı kuvvetin ve bu kuvvetin 
+etkilediği yüzey alanının basıncı nasıl etkilediğini inceliyorlar.
+a) Buna göre
+I. ağırlık,
+II. taban alanı,
+III. yükseklik,
+IV. yoğunluk,
+V. yer çekimi ivmesi
+niceliklerinden hangileri bir cismin katı bir yüzey üzerine uyguladığı basıncı etkiler?
+A) Yalnız I B) Yalnız II C) III ve IV D) I, II ve V E) I, II, III ve IV
+b) Öğrenciler, aşağıdaki görselde verilen ve ağırlığının büyüklüğü G olan 
+türdeş dikdörtgenler prizması şeklindeki K cismini yatay bir yüzey 
+üzerine 1 numaralı yüzeyi alta gelecek şekilde koyuyorlar. Daha sonra 
+cismin ilk duruş pozisyonuna göre yere yaptığı basıncın P, basıncı 
+meydana getiren kuvvetin büyüklüğünün F kadar olduğunu 
+matematiksel modeli kullanarak hesaplıyorlar.
+Öğrenciler; cismi önce 2, sonra 3 numaralı yüzey üzerine koy-
+duklarında ilk konuma göre basınç ve basıncı meydana getiren 
+kuvvette nasıl bir değişiklik olur? Matematiksel modeli kullana-
+rak hesaplayınız ve elde ettiğiniz sonuçları ve sonuçlar hakkın-
+daki çıkarımlarınızı aşağıdaki tabloya yazınız.
+Yüzey Ağırlık Yüzey Alanı Basınç Basıncı Meydana Getiren Kuvvet Çıkarımlar
+1
+2
+3
+2
+4A
+6A
+2A
+1
+3
+K

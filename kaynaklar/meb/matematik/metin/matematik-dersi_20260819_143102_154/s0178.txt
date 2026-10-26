@@ -1,0 +1,48 @@
+178
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Öğrencilerin soru cevap tekniği kullanılarak dik prizma, dik piramit, dik dairesel silindir ve 
+dik dairesel koninin açınımları, elemanları ve dik prizma ile dik dairesel silindirin yüzey ala-
+nına ilişkin bilgileri değerlendirilebilir. Verdikleri cevaplardan hareketle öğrencilerde görü-
+len eksiklikler ve varsa hatalı anlamalar üzerinde durulabilir, öğrencilerin bilgilerini doğru 
+anlamlandırmaları ve eksikliklerini tamamlamaları sağlanabilir. Öğrencilerin problem du -
+rumlarında dik prizma, dik piramit, dik dairesel silindir ve dik dairesel koninin elemanlarını, 
+dik prizma ve dik dairesel silindirin yüzey alanı bağıntılarını kullanıp kullanamadıkları de-
+ğerlendirilebilir.
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, proje ödevi ve performans görevi ile de-
+ğerlendirilebilir.
+Öğrencilere geometrik cisimlerin (dik prizma, dik dairesel silindir, dik piramit, dik dairesel 
+koni, küre) kullanıldığı mimari yapıların incelenmesiyle ilgili proje ödevi verilebilir. Ödevler, 
+analitik dereceli puanlama anahtarı ya da akran değerlendirme formlarıyla değerlendirile-
+bilir.
+Geometrik cisimlerin ayrıt ve yüzey açınımları ile alan ve hacim bağıntılarının özetlenmesini 
+sağlayacak bir performans görevi verilebilir. Performans görevinin ürünü olarak öğrencilerin 
+afiş tasarlamaları istenebilir. Afişler, analitik dereceli puanlama anahtarı ile değerlendirile-
+bilir. 
+Öğrencilere geometrik cisimlerin açınımları, yüzey alanı ve hacim bağıntılarını kullanabile-
+cekleri farklı problem durumları araştırmalarına ve bu problemleri çözmelerine yönelik bir 
+performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı kulla-
+nılarak değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin dik prizma, dik piramit, dik dairesel silindir ve dik dairesel koninin temel 
+elemanlarını (yüz, ayrıt, köşe gibi) bildiği; dik prizma ve dik dairesel silindirin yüzey 
+alanı bağıntılarını öğrendiği; bu bağıntıları problem durumlarında kullanabildiği kabul 
+edilmektedir.  
+Köprü Kurma Öğrencilerden dik prizma ve dik dairesel silindirin temel elemanlarına yönelik sahip oldukla-
+rı bilgileri kullanarak bu cisimlerde farklı elemanların olup olamayacağını incelemeleri iste-
+nebilir. Dik piramit, dik dairesel koni ve kürenin elemanlarını çözümlemede; yüzey alanı ve 
+hacim bağıntılarını belirlemede öğrencilerin dik prizma ve dik dairesel silindiri kullanmaları 
+beklenebilir.
+Öğrenciler; dik prizmaların yan yüzlerinin birer dikdörtgen, dik piramitlerin yan yüzlerinin 
+birer üçgen olduğu bilgisine sahiptir. Öğrencilerden birim küplerden dikdörtgenler prizma-
+sı elde ederek prizmaların hacim bağıntılarını birim küp sayısına bağlı olarak oluşturmaları 
+beklenebilir. Bu düzeyde birim küpün tabanı ve yüksekliği aynı olan kaç dik piramide ay -
+rılabileceği sorusundan hareketle dik piramidin hacim bağıntısının elde edilmesi beklenir. 
+Benzer şekilde dik dairesel silindir ile dik dairesel koni için de çalışmalar yapılabilir.
+Öğrenciler; dik piramit, dik dairesel koni ve kürenin yüzey alanları ile hacim bağıntılarını ilk 
+defa bu seviyede inceleyeceklerdir. Bu incelemelerinde öğrencilerden dik prizma ile dik da-
+iresel silindirin yüzey alanı ve hacim bilgilerinden yararlanmaları beklenebilir. 

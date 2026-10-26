@@ -1,0 +1,29 @@
+63
+1. Tema /  Sayılar
+5.  Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini yazınız.
+ Dünyanın en ağır kitaplarından birisinin kütlesi 8 kg ile 9 kg arasındadır. Buna göre aşağıdaki soruları cevaplayınız.
+a) Kitabın kütlesi (kg) doğal sayı veya tam sayı olabilir mi? Nedenleriyle açıklayınız.
+b) Kitabın kütlesi (kg) rasyonel sayı veya gerçek sayı olarak ifade edilebilir mi? Nedenleriyle açıklayınız.
+c) Kitabın kütlesinin (kg) bazı sayı kümeleri ile ifade edilip bazı sayı kümeleri ile ifade edilememesi bu sayı 
+kümelerinin hangi özelliği ile ilişkilidir?
+6.  Oluşturduğunuz önermeleri matematiksel olarak doğrulayınız ve doğrulama yöntemlerinizi kullanışlılık açı -
+sından değerlendiriniz.
+• Doğal sayılar, tam sayılar, rasyonel sayılar ve gerçek sayılar kümeleri sıralı kümelerdir.
+• Ardışık iki doğal sayı arasında herhangi bir doğal sayı yer almaz.
+• Ardışık iki tam sayı arasında herhangi bir tam sayı yer almaz.
+• N  ve Z  kümelerinde arada olma özelliği yoktur.
+• Herhangi iki rasyonel sayı arasında istenen sayıda rasyonel sayı bulunabilir.
+• Herhangi iki gerçek sayı arasında istenen sayıda gerçek sayı bulunabilir.
+• Q  ve R  kümelerinde arada olma özelliği vardır.
+Kontrol Noktası
+Sayı Kümelerinin Dört İşleme Göre Kapalılığı 
+Bir sayı kümesinde yapılan işlemler (toplama, çıkarma, çarpma ve bölme) sonucunda elde edilen değer-
+lerin yine o küme içinde kalması, algoritmalar ve formüllerin geliştirilmesi sırasında tutarlılık ve işlevsellik 
+sağlar. Bu durum, sayı kümeleriyle ilgili işlemlerin yapısal özelliklerinin anlaşılmasında önemli bir role 
+sahip olup çeşitli matematiksel yapıların temelini oluşturmaktadır.
+Karşıt	örnek 	sunma bir önermenin tüm durumlar için geçerli olmadığını kanıtlamak için kullanılan 
+matematiksel bir yöntemdir. Bir önermenin yanlış olduğunu göstermek amacıyla bu önermeye uymayan 
+tek bir örnek bulmak yeterlidir.
+Bir kümedeki herhangi iki eleman bir işleme girdiğinde elde edilen sonuç yine aynı kümenin elemanı 
+ise bu küme	o	işleme	göre	kapalıdır.

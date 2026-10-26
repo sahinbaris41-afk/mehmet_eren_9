@@ -1,0 +1,33 @@
+82
+1. Tema
+3. Yapacağınız deneyde bağımlı, bağımsız ve kontrol değişkenlerini belirleyerek aşağıdaki ttabloya yazınız.
+pH Etkisi Sıcaklık Etkisi
+Bağımsız Değişken
+Bağımlı Değişken
+Kontrol Değişkenleri
+4. “Katalaz Aktivitesinin Ölçümü” deneyindeki yöntemi dikkate alarak farklı pH ve sıcaklık değerlerinin katalaz 
+enzim aktivitesi üzerine etkisini ölçebileceğiniz deneyler tasarlayınız. 
+5. Tasarladığınız deneylerde ortam sıcaklığını ve pH değerini değiştirebileceğiniz malzemeleri/ortamları kullanınız.
+6. Deney sürecinde olası hata kaynaklarını en aza indirmek için gerekli tedbirleri alınız. Bu süreçte kontrol de-
+ğişkenlerinin sabit tutulması gerektiğini unutmayınız.
+7. Sıcaklığın ve pH değerinin katalaz aktivitesine etkisini belirlemek için bağımsız değişkenlerin değiştirildiği 
+koşullarda “Katalaz Aktivitesinin Ölçümü” deneyini gerçekleştiriniz.
+8. Her deneyde beş dakika boyunca ölçülen kabarcık sayısını aşağıdaki tablolara yazınız.
+Yukarıda verilen ve elde ettiğiniz sonuçları not ettiğiniz tabloları kullanarak sıcaklığın ve pH değerinin kata-
+laz enzim aktivitesi üzerine etkilerini aşağıdaki grafiklere çiziniz.
+9. Deney sonuçlarınızı aynı bağımsız değişkeni ve aynı parametreyi çalışan farklı grupların deney sonuçları ile 
+karşılaştırınız. Sonuçlar arasında farklılıklar varsa bunun nedenlerini tartışınız.
+10. BDeneyden elde ettiğiniz sonuçların her enzim için genellenip genellenemeyeceğini arkadaşlarınızla tartışı-
+nız.
+11. Deneyden elde ettiğiniz sonuçlardan yola çıkarak mide asitliğini değiştirebilecek asitli içecekler tüketilmesi-
+nin midedeki sindirim enzimlerinin çalışmasını nasıl etkilediğini açıklayınız.
+12. Gıdaların uzun süreli saklanması, peynir ve yoğurdun mayalanması gibi süreçlerde ortam sıcaklığına dikkat 
+edilmesi gerektiğinin nedenlerini deneylerinizde ulaştığınız sonuçlara göre açıklayınız.
+Çıkan kabarcık sayısı
+Sıcaklık oC
+Çıkan kabarcık sayısı
+pH
+b) pH Değerinin Katalaz Aktivitesine Etkisi
+Ortamın pH Değeri Hava Kabarcığı Sayısı
+a) Sıcaklığın Katalaz Aktivitesine Etkisi
+Ortam Sıcaklığı Hava Kabarcığı Sayısı

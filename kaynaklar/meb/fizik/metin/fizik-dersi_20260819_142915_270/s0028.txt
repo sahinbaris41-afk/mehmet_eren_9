@@ -1,0 +1,51 @@
+28
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.9.3.3
+Sıvı basıncı ile çalışan sistemlerin görselleri sınıfta gösterilir ve öğrencilerle birlikte işle-
+yişleri incelenir (OB4). Öğrencilere dijital veya görsel içeriklerden yararlanılarak günlük 
+hayatta sıvı basıncının kullanıldığı su cendereleri, hidrolik sistemler gibi örnekler sunulur 
+ve öğretmen rehberliğinde gruplara ayrılan öğrenciler bu örnekler arasından merak ettik-
+lerini belirler. Sınıf içinde sıvı basıncının günlük hayatta kullanımına ilişkin merak ettikleri 
+soruları (E3.8) özgürce sorarlar. Öğrenciler, bu sorulara cevap bulmak için kullanılacak 
+araçlara karar vererek (SDB1.2) sistematik bir şekilde (E3.7) bilgi toplar. Öğrenciler, öğret-
+menlerinin rehberliğinde toplanan bilgileri bilimsel açıdan doğruluk, güvenilirlik, amaca 
+uygunluk ve açıklık ilkelerine göre (D3.3) kontrol eder. Doğruluğunu teyit ettikleri bilgiler 
+üzerinden (D3.3) her grup belirledikleri alanda sıvı basıncının kullanımı ile ilgili çıkarımla-
+rını paylaşabilir (KB2.6). Gruplardan görev paylaşımı yaparak ve yardımlaşarak (SDB2.2) 
+elde edilen bilgiler sayesinde sıvılarda basıncın kullanıldığı sistemlerde sıvı basıncının rolü 
+hakkında metin oluşturmaları; oluşturdukları metni fotoğraf, resim, tablo, şekil veya gra-
+fiklerden birini kullanarak desteklemeleri istenir. Öğrenciler, çalışmaları doğrultusunda 
+çıkarımlarda bulunur. Elde edilen sonuçları afiş, poster ve slayt gösterisi gibi sunum araç-
+larından birini kullanarak sunabilir.
+FİZ.9.3.4.
+Öğrencilere sıvı içindeki bir yerde oluşan basınca neden olan kuvvetin sıvının ağırlığından 
+kaynaklandığı hatırlatılır. Öğrencilerin havanın da sıvı gibi bir akışkan olduğundan sıvı basın-
+cına benzer bir durumun hava için de söz konusu olduğunu farketmeleri sağlanır (SDB1.1). 
+Bu bilgiden hareketle beyin fırtınası yapılarak öğrenciler bağlama uygun düşüncelerini 
+açık fikirlilikle (E3.5) ifade eder (SDB2.1) ve açık hava basıncına ilişkin mevcut bilgisi dâhi-
+linde hipotez kurar. Açık havanın etkisiyle meydana gelen basınç ile sıvı basıncı arasındaki 
+benzerlik ve farklılıklar tartışılır. Sıvının homojen dağıldığı ancak havanın yoğunluğunun 
+homojen olmadığı vurgulanır. Sıvılarda derinlik ile açık havadaki yükseklik kavramları ba-
+sınç kavramı ile ilişkilendirilir. Atmosferin en üst noktasından deniz seviyesine kadar olan 
+mesafe yükseklerde daha az olacağı için açık hava basıncının daha az olması gerektiği 
+vurgulanır. Açık hava basıncının ilk kez Torricelli tarafından ölçüldüğü ve ölçme yöntemi 
+açıklanır. Bu sırada cıva sütununun ağırlığı ile açık hava basıncına ait basınca neden olan 
+kuvvetin birbirini nasıl dengelediği üzerinden sıvı basıncı ve açık hava basıncı karşılaştı-
+rılır. Atmosfer (atm) birimi tanıtılarak temel birimler cinsinden hesaplanması sağlanır. 
+Açık hava basıncının sıcaklık ile genleşme ve hava yoğunluğunun yerel olarak değişme-
+sine bağlı olarak yeryüzünde değişiklik gösterebileceği ve buna atmosfer basıncı dendiği 
+vurgulanır. Alçak basınç ve yüksek basınç bölgeleri arasında havanın yer değiştirmesiyle 
+rüzgârın oluştuğu belirtilerek coğrafya disipliniyle ilişki kurulur. Ayrıca rüzgâr oluşumu-
+nun yenilenebilen enerji kaynakları sağlamada önemli olduğu belirtilir (OB8). Öğrenciler, 
+alçak basınç ve yüksek basınç üzerinden önermeler sunar. Bu süreçte öğrencilerden gün-
+lük hayatta açık hava basıncına yönelik karşılaştığı durumlara eleştirel bakarak örnekler 
+vermesi istenir (E3.10). Öğrenciler, verilen örneklerden yararlanarak günlük hayatta açık 
+hava basıncının etkisini görebilecekleri farklı durumları değerlendirir. 
+FİZ.9.3.5
+Arşimet ve Kral Hiero’nun Altın Tacı öyküsü görsel içeriklerle desteklenerek ve tarih disiplini 
+ile ilişki kurularak sınıfta anlatılabilir. Öğrencilere öykünün metni verilebilir. Öğrencilerden 
+öyküdekine benzer bir deney düzeneğini tasarlamaları istenebilir (E3.4, OB1). Öğrenciler, 
+gruplar hâlinde kaldırma kuvveti ile kaldırma kuvvetinin bağlı olduğu değişkenler arasın-
+daki ilişkiyi belirlemek için deney tasarlar (SDB1.2) ve tasarladıkları deney ile ölçümler ya-
+par. Yaptıkları deneyden elde ettikleri verileri (OB7) kullanarak kaldırma kuvvetinin bağlı 
+olduğu değişkenleri analiz eder (E3.6). Öğrencilerden tasarladıkları deney düzeneğinden

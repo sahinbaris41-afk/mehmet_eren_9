@@ -1,0 +1,24 @@
+65
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+2. ÜNİTE: ELEKTRİK VE MANYETİZMA
+Bu ünitede öğrencilerin elektrik motorları ve elektrik jeneratörleri arasındaki ilişki ile 
+transformatörlerin yapısı ve kullanımı hakkında çıkarım yapmaları amaçlanmaktadır.
+DERS SAATİ 48 
+ALAN 
+BECERİLERİ FBAB1. Bilimsel Gözlem, FBAB8. Bilimsel Çıkarım, FBAB10. Tümevarımsal Akıl Yürütme
+KA VRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.6. Bilgi Toplama, KB2.15. Yansıtma
+EĞİLİMLER E1.1. Merak, E3.6. Analitiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3 Sosyal Farkındalık
+Değerler D17. Tasarruf, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı, OB8. Sürdürü-
+lebilirlik
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Görsel Sanatlar, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.10. Çıkarım Yapma, KB2.12. Mevcut Bilgiye/Veriye Dayalı Tahmin Etme, KB2.19. Man-
+tıksal Denetleme, KB3.2. Problem Çözme

@@ -1,0 +1,61 @@
+67
+Yaşam
+Enzim Aktivitesini Etkileyen Koşullar
+Enzimlerin aktivitesi başka bir ifadeyle enzimatik reaksiyonların hızı ve bu hızın 
+düzenlenmesi, biyolojik olarak oldukça önemlidir. Enzimlerin aktivitesi, hücresel 
+biyokimyasal reaksiyonların yerinde ve doğru hızda gerçekleşmesini sağlar. Or -
+tamdaki su miktarı, sıcaklık, pH, substrat miktarı, enzim miktarı, yüzey alanı gibi 
+çeşitli faktörlere bağlı olarak değişir. 
+Ortamdaki Su Miktarı: Enzimlerin 
+çalışabilmesi için ortamda belirli bir 
+oranda su olması gerekir. Kurutulmuş 
+sebze ve meyveler, su oranı oldukça 
+azaltılmış pekmez gibi gıdalarda en-
+zimlerin aktivitesi azalır ya da çalışmaz. 
+Bu sebeple mikroorganizmalar bu tür 
+ortamlarda çoğalamaz (Grafik 1.1).
+Sıcaklık: Enzimler genellikle belirli bir sıcaklık aralığında etkin şekilde çalışır. En -
+zim aktivitesinin en yüksek olduğu sıcaklık, enzimin optimum sıcaklığı olarak ad -
+landırılır. İnsanlardaki birçok enzimin 
+optimum sıcaklığı 35-40 °C arasında-
+dır. Enzim aktivitesi sıcaklıkla birlikte 
+kinetik enerjinin artışına bağlı olarak 
+optimum sıcaklığa ulaşana kadar ar -
+tar. Bu sıcaklığın üstünde protein ya-
+pılı enzimlerin denatürasyon süreci 
+başlar ve enzim aktivitesinde düşüş 
+meydana gelir. Enzimlerin tam dena -
+türe olduğu sıcaklıkta reaksiyon hızı 
+durur (Grafik 1.2).
+pH:  Enzimlerin aktif bölgeleri, her pH değerinde farklı yapıda olduğundan pH de-
+ğerinin enzim aktivitesi üzerindeki etkisi oldukça yüksektir. Her enzimin en aktif ol-
+duğu optimum pH değeri bulunur. Hücre içinde birçok enzimin optimal pH değer-
+leri 6-8 arasında olmakla birlikte asidik ve bazik ortamlarda optimal pH değerine 
+sahip enzimler de bulunur. Midede üretilen sindirim enzimlerinden pepsin, düşük 
+pH değerlerinde diğer ifadeyle asidik ortamlarda çalışır. İnce bağırsağın bazik or -
+tamında çalışan sindirim enzimlerinden olan tripsin ise nispeten bazik ortamlarda 
+(pH>7) daha iyi çalışır (Grafik 1.3).
+Grafik 1.1
+Ortamdaki su miktarı
+Grafik 1.3
+pH değerinin pepsin ve tripsin 
+enzimlerinin aktivitesi üzerine 
+etkisi 
+Grafik 1.2
+Sıcaklığın enzim aktivitesi 
+üzerine etkisi 
+Optimum
+sıcaklık
+Reaksiyon hızı
+5 15 25 35 45 55 65
+Sıcaklık oC
+Pepsin
+(midede)
+Tripsin
+(ince bağırsakta)
+Enzim aktivitesi
+10 2 3 4 5 6 7 8 9 10
+pH
+Tepkime hızı
+Ortamdaki 
+su miktarı

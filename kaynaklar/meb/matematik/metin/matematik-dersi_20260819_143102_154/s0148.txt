@@ -1,0 +1,26 @@
+148
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: NİCELİKLER VE DEĞİŞİMLER (2)
+Bu temada öğrencilerin gerçek sayılarda veya bir alt kümesinde tanımlı üstel ve logaritmik 
+referans fonksiyonlarla bu fonksiyonlardan türetilebilecek fonksiyonların nitel özellikleri-
+ne yönelik muhakeme yapabilmeleri, üstel fonksiyonların ters fonksiyonlarını inceleyerek 
+logaritmik fonksiyona dair çıkarım yapabilmeleri, bu fonksiyonlarla ifade edilebilen denk-
+lem ve eşitsizlikler içeren gerçek yaşam problemlerini çözebilmeleri amaçlanmaktadır.
+DERS SAATİ 42
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme, MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik 
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği, SDB3.1. Uyum, SDB3.2. Esneklik, 
+SDB3.3. Sorumlu Karar Verme
+Değerler D3. Çalışkanlık, D5. Duyarlılık, D13. Sağlıklı Yaşam, D18. Temizlik
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel Okuryazarlık, 
+OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Arkeoloji, Biyoloji, Coğrafya, Ekonomi, Fizik, Kimya, Mühendislik
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma 

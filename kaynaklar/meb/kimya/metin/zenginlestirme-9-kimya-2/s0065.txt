@@ -1,0 +1,109 @@
+64 65
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+3. Adım: Değerlendirme
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Ölçütler Mükemmel(4) Oldukça İyi(3) Kabul Edilebilir(2) Yeterli Değil(1) PUAN
+Gonyometre 
+veya akıllı 
+telefon 
+uygulaması ile 
+ölçüm yapma
+Ölçüm hatasız 
+yapılmıştır.
+Ölçümlerde 
+kısmen hatalar 
+yapılmıştır.
+Ölçümlerin 
+çoğunda hata 
+yapılmıştır.
+Ölçüm  
+yapılmamıştır.
+Gonyometre 
+veya akıllı 
+telefon 
+uygulaması 
+ile ölçüm 
+sonrasında 
+analiz yapma
+Ölçüm sonrasın-
+da analiz hatasız 
+yapılmıştır.
+Ölçüm sonra-
+sında analiz 
+yapılırken kısmen 
+hatalar  
+oluşmuştur.
+Ölçüm sonra-
+sında analizlerin 
+çoğunda hata 
+oluşmuştur.
+Ölçüm sonrasında 
+analiz  
+yapılmamıştır.
+Farklı 
+malzemeleri 
+sınıflandırma 
+ve 
+sınıflandırmayı 
+gösteren rapor 
+hazırlama
+Farklı malze-
+meleri doğru 
+sınıflandırmış ve 
+sınıflandırmayı 
+gösteren bir ra-
+por hazırlamıştır.
+Farklı malzeme-
+leri doğru sınıf-
+landırmış ancak 
+sınıflandırmayı 
+gösteren raporu 
+eksik hazırla-
+mıştır.
+Farklı malze-
+meleri yanlış 
+sınıflandırmış 
+veya sınıflandır-
+mayı gösteren bir 
+rapor  
+hazırlamamıştır.
+Farklı malzeme-
+leri  
+sınıflandırma-
+mıştır.
+Hazırladığı 
+rapor 
+sonuçlarını 
+sunma 
+Sunum özgün-
+dür ve akıcıdır.
+Sunum özgün-
+dür ama kısmen 
+akıcıdır.
+Sunum kısmen 
+özgündür ancak 
+akıcı değildir.
+Sunum özgün ve  
+akıcı değildir.
+Grup iletişimi
+Grup içinde iş 
+bölümü ve iş bir-
+liği yapılmıştır.
+Grup içinde iş 
+bölümü yapılmış 
+ancak iş birliği 
+yapılmamıştır.
+Grup içinde iş 
+bölümü ve iş bir-
+liğinde sorunlar 
+oluşmuştur.
+Grup içinde iş bö-
+lümü ve iş birliği 
+yapılmamıştır.
+TOPLAM PUAN
+Dereceli puanlama anahtarından alınacak puanı 100 üzerinden hesaplamak için
+(Toplam Puan/20) x 100 formülünü uygulayınız.
+Öğrencilerin çalışmalarını değerlendirmek için aşağıda verilen "ANALİTİK DERECELİ PUANLAMA 
+ANAHTARI"nı kullanınız.

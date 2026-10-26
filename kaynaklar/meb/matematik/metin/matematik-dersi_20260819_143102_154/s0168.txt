@@ -1,0 +1,53 @@
+168
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.12.1.3
+Öğrencilerden doğrusal ve karesel fonksiyonların cebirsel ve grafik temsillerini inceleyerek 
+ne gibi ortak özellikleri olduğuna dair gözlemlerini ifade etmeleri istenir. “Bu tür fonksiyon-
+ların cebirsel temsillerinde bağımsız değişkenin kuvvetleri doğal sayı, katsayıları ise gerçek 
+sayıdır.” gibi sonuçlar elde etmeleri beklenir. Doğrusal ve karesel fonksiyonların cebirsel 
+temsilleri ile yapılan toplama, çıkarma ve çarpma işlemleri sonucu elde edilen cebirsel tem-
+sillerin yine gerçek sayılarda fonksiyon ifade edeceğini fark etmeleri sağlanır. Bu gözlemler-
+den hareketle bu tür fonksiyonların cebirsel temsillerinin genelleştirmesi olarak
+p(x) = an xn + an-1 xn-1 + ... + a1 x1+ a0 (n∈ℕ) formu tanıtılır (MAB3). Bu cebirsel formların 
+polinom olarak adlandırıldığı belirtilerek polinomun derecesi, başkatsayısı, sabit terimi tanı-
+tılır. Genellenen bu cebirsel forma sahip fonksiyonlar, gerçek sayılarda tanımlı n. dereceden 
+tek değişkenli polinom fonksiyonlar olarak ifade edilir ve öğrencilerden bu fonksiyonların 
+derecelerini belirleyebilmeleri beklenir. Bu bağlamda öğrencilerin doğrusal ve karesel fonk-
+siyonların tanım ve değer kümesi ile işlem özelliklerini, birinci ve ikinci dereceden polinom 
+fonksiyonların tanım ve değer kümesi ile işlem özelliklerini inceleyip karşılaştırması sağlanır. 
+Öğrencilerden bu fonksiyonların polinom fonksiyonlarla aynı aileden olmasına ve benzer nitel 
+özelliklerine yönelik çıkarımlarda bulunmaları beklenir. Öğrencilere bu çıkarımları yapmaları-
+nı sağlayacak performans görevi verilir.
+MAT.12.1.4
+Öğrencilere birinci  ve ikinci dereceden polinom fonksiyonların grafik temsilleri üzerinden 
+nitel özelliklerinin neler olduğuna ve bu özelliklerin nasıl belirlendiğine yönelik açık uçlu 
+sorular sorulur. Bu bilgilerden hareketle öğrencilerden polinomların dereceleri ile fonk -
+siyonların sıfırlarının sayısı arasındaki ilişkiye dair fikirler geliştirmeleri beklenir. En fazla 
+dördüncü dereceden polinom fonksiyonların grafik temsilleri üzerinden bu fonksiyonların 
+nitel özellikleri incelenir (OB4). Bu incelemelerde matematik yazılımlarından faydalanılır. 
+Polinom fonksiyonların çarpanlarına ayrılmış formda verilen cebirsel temsili üzerinden 
+hangi nitel özelliklerinin belirlenebileceğine yönelik sınıf içi tartışma yapılır. Bu tartışmalar 
+yapılırken öğrencilerden  birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendi -
+rerek ifade etmeleri ve diğerlerinin düşüncelerini saygı çerçevesinde dinleyerek arkadaş -
+larıyla etkileşim kurmaları beklenir (SDB2.1, D14.1) . Tartışmalar sonucunda öğrencilerin en 
+fazla dördüncü dereceden bir polinom fonksiyonun nitel özellikleri (tanım kümesi, görüntü 
+kümesi, derecesi, bire birliği, örtenliği, işareti, sıfırları, tekliği-çiftliği, sonsuzdaki davranışı) 
+ile ilgili varsayımlarda bulunmaları beklenir. Bu nitel özelliklerden fonksiyonun sıfırlarının 
+sayısı ve sonsuzdaki davranışı ile polinomun derecesi ve başkatsayısı arasındaki ilişkileri 
+keşfetme çalışmalarında matematik yazılımlarından da faydalanılır. Varsayımlar arasında 
+bütün sıfırları birbirine eşit ve gerçek sayı olan üçüncü dereceden bir polinom fonksiyonun 
+bire bir ve örten olacağı, buna karşılık dördüncü dereceden polinom fonksiyonların bire bir 
+olamayacağı gibi sonuçlara ulaşılması sağlanır. Öğrencilerin teklik -çiftlik incelemesi yapa -
+bilecekleri uygun polinom fonksiyonların (p(x) = x3 + 3x, p (x) = x4+ x2- 5 gibi) matematik 
+yazılımıyla oluşturulan grafik ve cebirsel temsillerini inceleyerek bu fonksiyonların teklik 
+veya çiftlik durumlarına dair varsayımlarda bulunmaları sağlanır (OB2, MAB5) . Benzer şe -
+kilde bir polinom fonksiyonun grafik temsiline dönüşümler uygulanır. Elde edilen polinom 
+fonksiyonlar ile dönüştürülen polinom fonksiyon karşılaştırılarak nitel özelliklerle ilgili var -
+sayımlarda bulunulur. Ayrıca her üçüncü dereceden polinom fonksiyonun cebirsel temsili 
+üzerinden artan veya azalan olduğu aralıkların belirlenemeyeceğinin fark edilmesi sağlanır. 
+Bu varsayımlardan hareketle polinom fonksiyonlar için farklı sıfırlarının sayısının en fazla 
+veya en az kaç olacağı, yapılan dönüşüme bağlı olarak nitel özelliklerinin nasıl değişeceği, 
+hangi durumda tek veya çift olacağı gibi genellemelere ulaşılır. Elde edilen genellemeler ile 
+varsayımların polinom fonksiyonların katsayılarının veya bağımsız değişkeninin aldığı de -
+ğerlere göre cebirsel, grafik temsillerinden veya  matematik yazılımlarından yararlanılarak 

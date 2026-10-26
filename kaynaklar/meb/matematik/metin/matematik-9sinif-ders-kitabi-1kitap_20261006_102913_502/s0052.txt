@@ -1,0 +1,14 @@
+52
+1. Tema /  Sayılar
+13.	Sıra	Sizde      
+1. İnsanlarda ortalama ideal vücut sıcaklığı değeri 37 °C’tur. Bu değerin 4 °C üzerindeki değerlerde 
+nefes alamama, şiddetli baş ağrısı, bayılma, su kaybı ve aşırı terleme görülür; tıbbi müdahale gerekir. 
+Benzer şekilde 37 °C’un 4 °C altındaki değerlerde birey bazı hareketlere tepki veremez, nefes al -
+makta güçlük çeker, bireyin nabzı düşer ve uykusu gelir. Her iki durumda da birey hayati risk taşıyan 
+vücut sıcaklığı eşik değerine gelir. 
+	 Buna 	göre 	hayati 	risk 	taşımayan	vücut 	sıcaklığı 	aralığını 	mutlak 	değerli 	eşitsizlik 	olarak 	yazınız.
+2.  Bir akvaryumda bulunan balıklar için ideal su sıcaklığı 25 °C’tur. Su sıcaklığını kontrol eden bir 
+sıcaklık sensörlü motor, ideal sıcaklık ile ölçülen sıcaklık arasında 3 °C’tan fazla fark olması duru -
+munda devreye girerek suyu balıkların ideal yaşama sıcaklığına getirmektedir. 
+ Buna	göre 	sıcaklık 	sensörlü 	motorun 	devreye 	gireceği	sıcaklık 	aralığını 	mutlak 	değerli 	eşit-
+sizlik	olarak	yazınız. 

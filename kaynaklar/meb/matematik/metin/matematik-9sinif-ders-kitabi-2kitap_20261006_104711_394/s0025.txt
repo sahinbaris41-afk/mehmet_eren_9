@@ -1,0 +1,29 @@
+25
+4. Tema / Eşlik ve Benzerlik
+4. Dönüşüm bölümünden Doğruda Yansıt aracını seçerek A'B'C' üçgeninin g doğrusuna göre yansıma dönüşümü 
+altındaki görüntüsü olan A''B''C'' üçgenini oluşturunuz.
+5. ABC üçgenine tek bir dönüşüm uygulanarak A''B''C'' üçgeninin elde edilip edilemeyeceğine ilişkin fikirlerinizi 
+yazınız. Fikirlerinizi sınıf arkadaşlarınızla tartışınız.
+6. Tablo 1’de verilen durumlara ilişkin varsayımlarınızı tablonun ilgili alanına örnekteki gibi yazınız.
+Tablo 1
+Durum Varsayım
+AA''7A , BB''7 A , CC''7 A  nın düzlemdeki konumları arasındaki 
+ilişki Doğru parçaları paralel değildir. Kesişir.
+AA'' , BB'' , CC''  arasındaki ilişki
+A, A' ve A'' noktalarının doğruların kesim noktasına uzak-
+lıkları arasındaki ilişki
+A''DA%  nın ve doğrular arasındaki EDG%  nın ölçüleri arasın-
+daki ilişki
+ABC üçgenine belirli bir doğrultu, uzaklık ve yönde ötele-
+me dönüşümü uygulanarak A''B''C'' üçgeninin elde edilip 
+edilemeyeceği
+ABC üçgenine bir doğruya göre yansıma dönüşümü uygu-
+lanarak A''B''C'' üçgeninin elde edilip edilemeyeceği
+ABC üçgeninin yönünün değişip değişmediği
+7. Araçlar bölümünden Doğru Parçası aracını seçiniz ve '' AA7A , '' BB7 A , '' CC7 A  nı çiziniz.
+8. Ölçüm bölümünden Uzaklık veya Uzunluk aracını seçerek 7. adımda oluşturduğunuz doğru parçalarının uzun-
+luklarını belirleyiniz.
+9. Araçlar bölümünden Doğru Parçası aracını seçiniz. A, A' ve A'' noktalarını doğruların kesim noktası (D nok-
+tası) ile birleştiren doğru parçalarını oluşturunuz.
+10. Ölçüm bölümünden Uzaklık veya Uzunluk aracını seçerek 9. adımda oluşturduğunuz doğru parçalarının uzun-
+luklarını belirleyiniz.

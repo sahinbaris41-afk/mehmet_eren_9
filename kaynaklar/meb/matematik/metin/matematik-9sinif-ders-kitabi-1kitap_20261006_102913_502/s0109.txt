@@ -1,0 +1,20 @@
+109
+2. Tema /  Nicelikler ve Değişimler
+2.	Sıra	Sizde   
+Bir ofiste çalışanlar, sıfır atık projesine destek vermek amacıyla plastik şişe kullanımının önüne geçmek için iki farklı 
+musluğa su arıtma cihazı taktırmıştır. Su arıtma cihazlarından birim zamanda elde edilen su miktarları sabittir. Birinci 
+musluktan dakikada 1 litre, ikinci musluktan dakikada 2 litre arıtılmış su akmaktadır. 
+Birinci musluk açılarak 19 litrelik bir kaba su doldurulmaya başlanmıştır. İkinci musluk açılarak aynı hacimde ve 
+başlangıçta içinde 2 litre su bulunan başka bir kaba su doldurulmaya başlanmıştır. 
+1 ve 2. muslukların doldurduğu kaplardaki su miktarları sırasıyla f ve g fonksiyonlarıyla modellensin.
+a)  f ve g fonksiyonlarının grafik lerini çiziniz. 
+O
+x
+y
+b)  Gerçek sayıl arda tanımlı f ve g fonksiyonlarının cebirsel temsillerini oluşturunuz.
+c)  2. musluğun doldurduğu kapta başlangıçta 2 litre su bulunmasının g fonksiyonuna etkisinin ne olduğunu fonk -
+siyonların grafik ve cebirsel temsillerinden yararlanarak açıklayınız.
+ç)  f ve g fonksiyonlarının grafiklerinin eğimleri göz önüne alınırsa hangi kap daha çabuk dolar? Bu durum, fonk -
+siyonların grafik ve cebirsel temsillerini nasıl etkilemiştir? Açıklayınız.
+d)  f ve g fonksiyonlarının grafiklerinin y eksenini kestiği noktaları ve varsa sıfırlarını bulunuz. Bulduğunuz değer -
+ler zamana (dk.) bağlı kaplardaki su miktarı (l) ile ilişkilendirildiğinde ne ifade etmektedir? Açıklayınız.

@@ -1,0 +1,20 @@
+52
+MATEMATİK 9 
+3. TEMA: GEOMETRİK ŞEKİLLER
+3. Adım
+a.  Kapak farklı açılarla açıldığında K noktasının konumları arasındaki uzaklık |KK'| = x br,  |KK''| = y 
+br, |KK'''| = z br olmak üzere olmak üzere kitap kapağının oluşturduğu ∝, � ve θ derecelik açıların 
+ölçüleri ile x, y ve z kenar uzunluklarının sıralama ilişkisini açıklayınız.
+b.  Kitap kapağının oluşturduğu ∝, � ve θ  derecelik açılar arasındaki bağıntı 
+ ∝  < � < θ 
+biçiminde olduğunda x, y ve z kenar uzunluklarını küçükten büyüğe doğru sıralayınız.
+Çözüm:
+Çözüm:
+ ► Aşağıdaki görselde bir kitap kapağının hareketi ile oluşan üçgenler verilmiştir.
+Mert, geometri kitabının kapağını sırasıyla ∝, � ve θ derecelik açılarla açarak kitabın kapağını şekil 1, 
+şekil 2 ve şekil 3’teki konumlara getiriyor. Başlangıçta K noktasında bulunan kapağın bir köşesi, bu 
+açılar sonucunda sırasıyla K', K'' ve K''' konumlarına taşınıyor. 
+K K K
+K' K'' K'''
+∝ � θ
+Şekil 1 Şekil 2 Şekil 3

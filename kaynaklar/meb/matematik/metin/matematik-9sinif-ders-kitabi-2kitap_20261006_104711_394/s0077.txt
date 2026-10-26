@@ -1,0 +1,24 @@
+77
+4. Tema / Eşlik ve Benzerlik
+Çantaların uzun kenarlarının uzunlukları sırasıyla 70 cm ve 35 cm’dir. Ardışık kolları arasındaki mesafe 5 cm olan 
+askılığa turuncu ve kırmızı çantalar uzun kenarları yere paralel olacak şekilde asılmıştır. Yerden yüksekliği 42 cm 
+olan turuncu çantanın kordon uzunluğu 78 cm, kırmızı çantanın yerden yüksekliği 67 cm’dir. Kırmızı çantanın 
+kordon uzunluğunun kaç cm olduğu bulunmak istenmektedir.
+1. Kırmızı çantanın kordon uzunluğuna ilişkin problemin verileri ile ulaşılmak istenen sonuç arasındaki ilişkileri 
+belirleyiniz. 
+2. Problemdeki çantaların uzun ve kısa kenarlarının uzunluklarının aynı oranda olması ne anlama gelmektedir? 
+Açıklayınız.
+3. Problemdeki çantaların kordonları ve birer kenarı kullanılarak oluşturulan iki dörtgen arasında bir ilişki olup 
+olmadığını açıklayınız.
+4. İlk 3 soruya verdiğiniz cevaplardan hareketle problemin matematiksel bileşenlerini ve bu bileşenler arasındaki 
+ilişkileri problemin bağlamına uygun şekilde, matematiksel olarak ifade edip kendi cümleleriniz ile açıklayınız. 
+5. Problemin matematiksel ifadesi ve açıklamanızdan hareketle planlı şekilde ve bilimsel bir bakış açısıyla prob-
+lemin çözümüne ilişkin bir strateji oluşturunuz.
+6. Belirlediğiniz stratejiyi sistematik şekilde uygulayarak problemin çözümünü yapınız. Çözümünüzde hangi 
+geometrik kavramları nasıl kullandığınızı açıklayınız.
+7. Çözümünüzü kontrol ederek arkadaşlarınızın çözüm yollarını ve stratejilerini eleştirel bir bakış açısıyla ince -
+leyiniz. Kendi çözüm yolunuz ile arkadaşlarınızın çözüm yollarını ve stratejilerini karşılaştırınız. İncelediğiniz 
+farklı stratejilerden hangilerinin çözüme ulaşmayı sağlayamadığını belirleyiniz. Bu stratejilerle çözüme ulaşa-
+mamanın nedenlerine ilişkin fikirlerinizi açıklayarak arkadaşlarınızla saygı çerçevesinde tartışınız.
+8. Çözüme ulaşmayı sağlayan stratejilerin başka hangi tür problemlerin çözümünde kullanılabileceğine ilişkin 
+fikirlerinizi gerekçeleriyle açıklayınız.

@@ -1,0 +1,107 @@
+69
+1. Tema/Etkileşim
+GRUP PERİYODİK TABLODA YER BULMA KURALLARI
+A
+1. Elementin elektron dizilimindeki en yüksek temel enerji düzeyi o elementin periyot numarasını belirtir.
+2. Elektron dizilimi s veya p orbitali ile bitenler A grubu elementleridir. A grubu elementlerinde en yüksek 
+temel enerji düzeyindeki toplam elektron sayısı o elementin grubunu belirtir.
+B
+1. Elektron dizilimi d orbitali ile bitenler B grubu elementleridir. Temel hâl elektron dizilişinde en son s ve 
+d orbitallerindeki toplam elektronlar o elementin bulunduğu B grup numarasını verir.
+2. Elektron dizilimleri ns
+2
+ (n−1)d
+6
+, ns
+2
+ (n−1)d
+7
+ ve ns
+2
+ (n−1)d
+8
+ ile biten elementler 8B grubunda yer alır.
+3. En son s ve d orbitallerindeki toplam elektron sayısı 11 olan elementler 1B, 12 olanlar ise 2B grubun-
+da yer alır.
+2. Yönerge: Aşağıda verilen “periyodik tabloda yer bulma kuralları”nı inceleyiniz ve genellemelerinizi veri-
+len bilimsel bilgilerle karşılaştırarak tabloyu doldurunuz.
+1s
+2
+2s
+1 En yüksek enerji düzeyindeki elektron sayısı: 1
+Grup numarası: 1
+1A
+En yüksek enerji düzeyindeki orbital türü: s ⇢ A grubu
+En yüksek enerji düzeyi = Periyot numarası: 2. periyot
+1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+5
+3s ve 3p orbitallerinde bulunan elektron sayıları toplanır.  
+2 + 5 = 7  
+Grup numarası: 7
+7A
+En yüksek enerji düzeyindeki orbital türü: p ⇢ A grubu
+3. periyot
+1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+4s
+2
+3d
+10
+Orbital türü: d ⇢ B grubu
+4. periyot
+Grup numarası: 12 
+2B 
+1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+4s
+2
+3d
+3
+4s ve 3d orbitallerinde bulunan elektron sayıları 
+toplanır. 2 + 3 = 5  
+Grup numarası: 5
+5B
+Orbital türü: d ⇢ B grubu
+4. periyot
+1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+4s
+2
+3d
+7
+Grup numarası: 9 
+8B 
+Orbital türü: d ⇢ B grubu
+4. periyot

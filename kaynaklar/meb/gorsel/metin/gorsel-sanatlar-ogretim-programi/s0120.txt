@@ -1,0 +1,48 @@
+120
+GÖRSEL SANATLAR DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ GS.12.4.1. Giyilebilir teknoloji ürünü tasarım taslağı oluşturabilme
+a) Giyilebilir teknoloji ürünü tasarımına yönelik inceleme yapar.
+b) Giyilebilir teknoloji ürünü tasarımına yönelik fikir geliştirir.
+c) Giyilebilir teknoloji ürünü tasarımına yönelik eskiz yapar.
+GS.12.4.2. Amblem ve logo taslağı oluşturabilme
+a) Amblem ve logo örneklerine yönelik inceleme yapar.
+b) Amblem ve logo taslağına yönelik fikir geliştirir.
+c) Amblem ve logo taslağı fikrine yönelik eskiz yapar.
+GS.12.4.3. Yapay zekâ ile amblem ve logo oluşturabilme
+a) Amblem ve logo tasarıma uygun yöntem/teknik belirler.
+b) Amblem ve logo yöntem/tekniğine uygun araç/gereçleri belirler.
+c) Amblem ve logo yöntem/tekniğin üretim aşamalarını sıralar.
+ç) Konuyu yapay zekâ ile amblem ve logoya dönüştürür.
+d) Amblem ve logonun estetik ve işlevsel yeterliliğini değerlendirir.
+GS.12.4.4. Grafiti oluşturabilme
+a) Grafitiye uygun görsel anlatım araçlarını ifade eder.
+b) Grafitiye uygun eskizi sanatsal ürüne dönüştürür.
+GS.12.4.5. Kısa film taslağı oluşturabilme
+a) Kısa film ile ilgili konusuna yönelik inceleme yapar.
+b) Kısa film taslağına yönelik fikir geliştirir.
+c) Kısa film fikrine yönelik eskiz yapar.
+GS.12.4.6. Kısa film oluşturabilme
+a) Kısa film tasarımına uygun yöntem/teknik belirler.
+b) Kısa film tasarımına uygun araç/gereçleri belirler.
+c) Kısa film tasarımının üretim aşamalarını sıralar.
+ç) Konuyu kısa filme dönüştürür.
+d) Kısa film tasarımının estetik ve işlevsel yeterliliğini değerlendirir.
+İÇERİK ÇERÇEVESİ Giyilebilir Teknoloji Ürünü Tasarımı
+Yapay Zekâ İle Amblem ve Logo Tasarımı
+Grafiti Yapımı
+Kısa Film Yapımı
+Anahtar Kavramlar grafiti, istem (prompt), kısa film, piece (piys), sanal gerçeklik (VR), sprey boya, stencil 
+(sitensil), hikâye planı [(storyboard) (sıtoribord)], tagging (tegin), throw-up (tırov ap), 
+yapım (prodüksiyon)
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; dereceli puanlama anahtarı, grup değerlendirme formu, dereceleme 
+ölçeği, performans görevi ve öz değerlendirme, kontrol listesi, gözlem formu kullanılarak 
+değerlendirilebilir.
+Performans görevi olarak öğrencilerden kendi seçtikleri bir spor dalı ile ilgili bir takım 
+amblemini ve logosunu yapay zekâ uygulamalarını kullanarak tasarlamaları istenebilir. 
+Yapılan çalışmalar, dereceleme ölçeği ya da dereceli puanlama anahtarı kullanılarak de -
+ğerlendirilebilir.

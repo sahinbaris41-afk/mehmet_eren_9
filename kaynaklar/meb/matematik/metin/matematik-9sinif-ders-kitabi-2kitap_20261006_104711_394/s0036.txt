@@ -1,0 +1,28 @@
+36
+4. Tema / Eşlik ve Benzerlik
+ 4.2. 	EŞLİK	VE	BENZERLİK	KOŞULLARI
+Konuya Başlarken
+Eş ve benzer geometrik şekillere çeşitli geometrik dönüşümler uygulanarak sanat eserleri 
+üretilmektedir.
+Aşağıdaki görselde üçgenlerin kullanıldığı bir duvar resmi yer almaktadır. 
+Buna göre aşağıdaki soruları cevaplayınız. 
+1. Duvar resmindeki üçgenlerin eş ya da benzer olduğu nasıl belirlenebilir?
+2. Duvar resmindeki üçgenlerin eş ya da benzer olduğunu göstermek için hangi ölçümlerin 
+yapılması yeterli olur?
+6. Uygulama
+Üçgenlerin Eş Olma Şartları
+Aşağıdaki yönergeleri takip ederek soruları cevaplayınız.
+1. Birim kareler üzerine çizilmiş ABC ve DEF üçgenleri ile bu üçgenlere uygulanan bazı dönüşümler sonucunda 
+oluşturulmuş A'B'C' ve D'E'F' üçgenlerini inceleyiniz. İki üçgenle ilgili verilen soruların cevaplarına ilişkin 
+varsayımlarınızı boş bırakılan alanlara yazınız.
+A D
+B EC F
+A'
+D'B'
+E'
+C'
+F'
+Üçgenlerin	Eş	Olma	Koşulları
+Dönüşümler;	geometrik	bir	şeklin	kenar	uzunluklarını,	açı	ölçülerini,	çevre	uzunluğunu	ve	alanını	koru-
+maktadır.	Bir	üçgen	ile	üçgenin	çeşitli	dönüşümler	altındaki	görüntüsü,	karşılıklı	kenar	uzunlukları	ve	açı	
+ölçüleri	eşit	olduğundan	eştir.

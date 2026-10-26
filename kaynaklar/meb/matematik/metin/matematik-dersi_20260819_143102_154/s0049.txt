@@ -1,0 +1,25 @@
+49
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: NİCELİKLER VE DEĞİŞİMLER
+Bu temada öğrencilerin gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonk-
+siyondan hareketle doğrusal fonksiyonların nitel özellikleri hakkında muhakeme yapa -
+bilmeleri, mutlak değer fonksiyonlarını inceleyebilmek için doğrusal fonksiyonlara bağlı 
+analojik akıl yürütebilmeleri ve doğrusal fonksiyonlarla ifade edilebilen denklem ve eşit -
+sizlikleri içeren problemleri çözebilmeleri amaçlanmaktadır.
+DERS SAATİ 38
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme, MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER KB2.16.3. Analojik Akıl Yürütme
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.2. İş Birliği, SDB3.2. Esneklik
+Değerler D16. Sorumluluk, D17. Tasarruf, D20. Yardımseverlik
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB7. Veri Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Ekoloji, Ekonomi, Fizik, Kimya
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB4. Veri ile Çalışma ve Veriye Dayalı Karar Verme, 
+MAB5. Matematiksel Araç ve Teknolojiden Yararlanma

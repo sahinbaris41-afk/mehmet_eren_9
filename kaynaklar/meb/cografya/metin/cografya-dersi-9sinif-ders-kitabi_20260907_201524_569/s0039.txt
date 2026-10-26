@@ -1,0 +1,85 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+39
+Yerel Saat 
+Dünya’nın kendi ekseni etrafındaki hareketi sebebiyle Güneş’in ufuk düzle-
+mindeki konumu yere ve zamana göre değişir. Güneşʼin ufuk düzlemi üzerin-
+de en yüksek noktaya ulaştığı zaman dilimi, öğle vakti (12.00) olarak belirlenir. 
+Öğle vaktine göre ayarlanan saate yerel saat adı verilir. 
+İnsanlar, tarih boyunca günlük hayatlarını Güneş’in ufuk düzlemi üzerindeki 
+konumuna göre düzenlemişlerdir. Ayrıca yerel saat; namaz, iftar ve sahur va-
+kitlerinin belirlenmesinde kullanılır.
+Ulusal (Ortak) Saat
+Bir ülke içindeki yerel saat farkları; resmî işlemler ile ulaşım, bankacılık, ileti-
+şim gibi hizmetlerin yürütülmesinde karışıklığa neden olabilir. Bu sorunun or-
+tadan kaldırılması için ülke sınırları içindeki bir veya birden fazla meridyenin 
+yerel saati ulusal (ortak) saat olarak kullanılır.  
+Doğu-batı doğrultusunda geniş yer kaplayan ve üzerinden fazla sayıda merid-
+yen geçen Kanada, ABD (Amerika Birleşik Devletleri), Rusya Federasyonu, 
+Avustralya gibi ülkelerde aynı anda birden fazla ortak saat kullanılmaktadır.
+Uluslararası Saat Dilimleri
+Teknoloji, ulaşım ve iletişimin gelişmesine bağlı olarak ülkeler arasındaki iliş-
+kilerde yerel saatlerin kullanılması çeşitli zorluklar meydana getirmiştir. Yerel 
+saat farklılıklarının getirdiği karmaşayı ortadan kaldırmak amacıyla dünya ge-
+nelinde geçerliliği olan bir saat düzenlemesine gidilmiş ve böylece uluslararası 
+saat dilimleri ortaya çıkmıştır.
+Uluslararası saat dilimlerine göre dünya, on beşer derecelik aralıklarla 24 saat 
+dilimine ayrılmıştır. Doğu yarım küredeki saat dilimleri +1, +2, +3 ... şeklinde 
+numaralandırılırken batı yarım küredeki saat dilimleri -1, -2, -3 ... şeklinde nu-
+maralandırılır. Uluslararası saat dilimlerinin sınırları, ülkelerin siyasi sınırları 
+esas alınarak zikzak oluşturacak şekilde çizilmiştir.
+Türkiye’nin Ulusal Saati
+Türkiye’de 45° doğu 
+meridyeninin yerel 
+saati, ortak saat olarak 
+kullanılır.
+Türkiye’nin Bulunduğu 
+Saat Dilimi
+Türkiye, ortak saat 
+olarak  45° doğu me-
+ridyenini esas aldığın-
+dan +3. saat diliminde 
+yer alır.
+Tarih Değiştirme Çizgisi
+Başlangıç meridyeninin (0°) tam karşısında 
+yer alan 180° meridyeni tarih değiştirme 
+çizgisi olarak adlandırılır.
+Tarih değiştirme çizgisi (180° meridyeni), 
+aynı zamanda doğu yarım küre ile batı ya-
+rım küreyi birbirinden ayıran sınırdır. Bu sı-
+nırın batısında (doğu yarım kürede) tarih 
+bir gün ileri, doğusunda (batı yarım küre-
+de) bir gün geridir. Tarih değiştirme çizgisi-
+nin uzanışı 180° meridyen çizgisinin uza-
+nışına göre farklıdır. Bu çizgi, üzerinden 
+geçtiği ada ve ülkelerde zaman karışıklı-
+ğını önlemek için siyasi sınırlar dikkate alı-
+narak yer yer zikzak oluşturacak şekilde  
+çizilmiştir (Harita 2.2).   
+3.0000
+km
+Tarih Değiştirme Çizgisi
+150o D120o D90o D 150o B
+BATI YARIM KÜREDOĞU YARIM KÜRE 180o
+120o B
+0o
+30o K
+30o G
+60o G
+60o K
+90o B 60 o B
+Hint 
+Okyanusu
+Güney Okyanusu
+Büyük
+Okyanus
+ASYA
+GÜNEY
+AMERİKA
+KUZEY
+AMERİKA
+AVUSTRALYA
+ANTARKTİKA
+Atlas
+Okyanusu
+Harita 2.2 
+Tarih değiştirme çizgisi

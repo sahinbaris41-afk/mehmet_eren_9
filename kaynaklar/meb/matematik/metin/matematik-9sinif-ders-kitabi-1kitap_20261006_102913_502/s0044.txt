@@ -1,0 +1,36 @@
+44
+1. Tema /  Sayılar
+x R!  olmak üzere x0#  biçiminde ifade edilir. Sayı doğrusu üzerinde aşağıdaki gibi gösterilir. 
+0 aralığa dâhil olduğu için bu nokta, sayı doğrusunda işaretlenir.
+0
+ Aralık gösterimi ,,03-` A  küme gösterimi ,Bx xx 0 R;# != #-  biçimindedir.
+b) 90 ve 130 cm arasındaki uzunluk değerleri, cebirsel olarak x R!  olmak üzere x 90 130##  biçi-
+minde ifade edilir. Bu aralık, sayı doğrusu üzerinde aşağıdaki gibi gösterilir. 90 ve 130 aralığa dâhil 
+olduğu için bu noktalar da sayı doğrusunda işaretlenir.
+90 130
+ Aralık gösterimi ,,90 1307A  küme gösterimi ,Cx xx90 130 R;# #!= #-  biçimindedir.
+10.	Sıra	Sizde      
+1.	 Aşağıda 	verilen 	gerçek 	yaşam 	durumlarını 	ifade 	eden 	gerçek 	sayı 	aralıklarını 	cebirsel 	temsil,	
+sayı	doğrusu,	aralık	ve	küme	gösterimi	yöntemiyle	gösteriniz. 
+a)		Bir	spor 	kulübüne 	kayıt 	olmak 	için 	en 	az 	150 	cm, 	en 	fazla 	170 	cm 	boya 	sahip 	olunması	
+gerektiği	bilindiğine	göre	ideal	boy	aralığı.
+ 
+b)		 1	saatlik 	yürüyüşte 	en	az	250, 	en	çok	300 	kalori 	harcandığına 	göre 	bir 	saatlik 	yürüyüşte	
+harcanan	kalori	miktarı	aralığı. 
+ 
+c)		Gümüş	elementinin 	erime 	noktası 	yaklaşık 	olarak 	962 	oC	olduğuna 	göre 	gümüş 	elementi-
+nin	katı	hâlde	bulunmadığı	sıcaklık	değerlerinin	aralığı.
+ 
+2. Aşağıdaki tabloda gerçek sayı aralıklarının farklı gösterimleri verilmiştir. 
+ x R! 	olmak	üzere	tabloda	eksik	olan	bölümleri	uygun	şekilde	doldurunuz.
+ 
+Cebirsel	
+Temsil	 x R!_i
+Aralık	Gösterimi	
+ve	Aralık 	Adı Sayı	Doğrusu	Gösterimi Küme	Gösterimi
+1 17
+, x53 51#-
+,64 5` A
+yarı açık aralık
+,,Dx xx39 4 R;# #!=-#-
+x 872

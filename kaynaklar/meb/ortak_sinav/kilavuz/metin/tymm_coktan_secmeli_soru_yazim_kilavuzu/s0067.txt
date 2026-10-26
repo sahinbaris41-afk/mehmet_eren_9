@@ -1,0 +1,31 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+67
+1-3. soruları aşağıdaki metne göre cevaplayınız.
+Selin, egzersizler sırasında yaktığı kalori miktarını takip etmek için mobil uygulama kullanmaktadır. 
+Uygulama, her egzersiz türü için birim zamanda yakılan ortalama kalori miktarını otomatik olarak 
+hesaplamaktadır. Selin, haftalık hedefler belirlemekte ve bu hedeflere ulaşıp ulaşmadığını kontrol 
+etmek için aşağıdaki uygulama verilerini kullanmaktadır.
+Egzersiz ve kalori yakım hedefi:
+• Haftalık minimum egzersiz süresi: 150 dakika
+• Haftalık minimum kalori yakım hedefi: 1000 kalori
+Uygulamadaki egzersiz verileri:
+• Yürüyüş: 1 dakikada 6 kalori yakar.
+• Bisiklet: 1 dakikada 8 kalori yakar.
+• Koşu: 1 dakikada 10 kalori yakar.
+1. Selin, haftalık minimum egzersiz süresi hedefine ulaştığında yaktığı toplam kalori miktarının mobil 
+uygulamada her zaman aynı olmadığını fark etmiştir.
+Buna göre Selin’in yaktığı toplam kalori miktarını hesaplayabilmek için aşağıdakilerden hangisine 
+ihtiyacı vardır?  (KB2.8.SB1)
+A)  Farklı egzersizlerin toplam kalori yakımına olan katkısına
+B)  Egzersiz türlerine göre birim zamanda yakılan kalori miktarına
+C)  Tükettiği yiyeceklerin egzersizde yaktığı kalorilere olan etkisine
+D)  Haftalık toplam egzersiz süresine ve yaktığı toplam kalori miktarına
+E)  Toplam sürenin, farklı egzersiz türleri arasında nasıl paylaştırıldığına
+2. Selin, bir egzersiz seansında toplam 40 dakika koşu ve yürüyüş yapmıştır.
+Selin, bu seanstaki toplam kalori yakımını hesaplamak için aşağıdaki sorulardan hangisini ilk ola -
+rak sormalıdır?  (KB2.8.SB2)
+A)  Koşu ve yürüyüş için harcadığım süreler ayrı ayrı ne kadardır?
+B)  Yürüyüş egzersizi, birim zamanda ne kadar kalori yakılmasını sağlar?
+C)  Kaç dakika daha egzersiz yaparak haftalık hedefime ulaşmış olurum?
+D)  Koşu ve yürüyüşün toplam süresi, haftalık hedefe ulaşmak için yeterli midir?
+E)  Koşarak ve yürüyerek yaktığım toplam kalori, haftalık hedefime ne kadar yakındır?

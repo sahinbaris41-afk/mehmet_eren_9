@@ -1,0 +1,50 @@
+133
+5. Tema/Algoritma ve Bilişim  
+4. Verilen sayı kümesindeki ardışık elemanların toplanması ile elde edilen toplamlardan değeri en büyük olanı 
+bulmak için Kadane algoritması da kullanılabilir. Tablo 2’de algoritmanın ilk dört adımında elde edilen toplam-
+lardan değeri en büyük olanlar kırmızı renkle gösterilmiştir.
+ 5 ve 6. adımdaki en büyük to plamları önceki adımlara benzer şekilde bularak tabloyu doldurunuz.
+ Tablo 2
+ 
+ 
+Adımlar 1 2 3 4 5 6
+İşlemler 5 5   -3
+2
+5 + (-3) + 2 = 4
+5 + (-3) = 2 -3 + 2 = -1
+5   -3    2
+5   -3    2    7
+2   -1     9
+4      6
+5 + (-3) + 2 + 7 = 11 5   -3   2   7   -4 5   -3   2   7   -4   1
+5. Kadane algoritması adımlarının yer aldığı tablodan elde ettiğiniz en büyük toplam değeri tüketme yaklaşımıyla 
+bulduğunuz en büyük toplam değerle karşılaştırınız. Hangisinin daha kısa sürede cevabı verdiğini değerlendi-
+riniz. 
+6. Kadane algoritmasında dizideki her ardışık elemanın toplamı incelendiğinde hangi koşullarda yeni bir toplama 
+işlemi başlatılır? Bu süreçte neden bazı ardışık elemanların oluşturduğu negatif toplamların dikkate alınmadığını 
+açıklayınız. 
+ 
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.
+Kontrol Noktası
+Aşağıdaki bilgi görselinde algoritmik yapılar içinde kullanılan mantık bağlaçları, niceleyiciler ve bunların işlevleri 
+verilmiştir.
+Algoritmik  
+Yapılar 
+İçerisindeki 
+Mantık  
+Bağlaçları ve 
+Niceleyiciler
+•   Ve Bağlacı
+ İki veya daha fazla önermenin  hepsinin doğru olup olmadığını kontrol eder.
+•  Veya Bağlacı
+ İki veya daha fazla önermeden  en az birinin doğru olup olmadığını kontrol eder.
+• Ya da Bağlacı
+ İki önermeden yalnızca birinin doğru olup olmadığını kontrol e der.
+•   İse Bağlacı
+ Bir koşulun sağlanması durum unda belirli bir komutun yerine getirilmesini sağlar.
+•  Her Niceleyicisi
+ Bir önermenin herhangi bir öge için doğru olduğunu ifade eder.
+• Bazı Niceleyicisi
+ Bir önermenin en az bir öge için doğru olduğunu ifade eder.
+  

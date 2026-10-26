@@ -1,0 +1,12 @@
+281
+14. FORM
+GRUP ÇALIŞMASI DEĞERLENDİRME FORMU
+1. Bu görevde grubunuzun etkinliğini tanımlayınız.
+2. Grubunuzun güçlü yanları nelerdir?
+3. Grubunuz hangi zorluklarla karşılaştı?
+4. Grubun tüm üyeleri göreve katkıda bulundu mu?
+5. Birbirinizin düşüncelerini hoşgörü ile dinlediniz mi?
+6. Grup olarak bir sonraki çalışmanızı iyileştirmek için ne önerirsiniz?
+7. Bu süreçte iş birliği yaparak öğrendiklerim ve takımımın başarısına katkılarım nelerdir?
+Tarih:Öğrenci Adı-Soyadı:
+Numarası:

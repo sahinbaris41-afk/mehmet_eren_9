@@ -1,0 +1,50 @@
+82
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+BİY.12.2.3
+a) Öğrencilere “Her gen bir ürün oluşturur mu?”, “Her genin sadece bir ürünü mü vardır?”, 
+“Genetik bilginin ürüne dönüşüm süreçlerinde gen, genetik kod, transkripsiyon ve 
+translasyon arasında nasıl bir hiyerarşik bağlantı vardır?” soruları sorularak konu hakkında 
+merak uyandırılır (E1.1). Genetik bilginin yapısal birimlere dönüşüm sürecini gösteren 
+interaktif araçlar, bilgisayar tabanlı simülasyonlar,   basit öğrenme şemaları, videolar/
+animasyonlar  veya ders kitabı kullanılarak   öğrencilerin genetik bilginin yapısal birimlere 
+dönüşüm sürecinde görev alan temel bileşenleri ve bu bileşenlerin işleyişini (transkripsiyon 
+ve translasyon) belirlemeleri sağlanır (OB4). 
+b) Öğrencilerden belirledikleri temel bileşenler ve bu bileşenlerin işleyişinden  yola çıkarak 
+gen, genetik kod, transkripsiyon ve translasyon sürecinde etkili yapısal ve fonksiyonel 
+bileşenleri belirlemeleri beklenir. Bu süreçte promotor bölgelerinin dizileri (TATA ve 
+TAAT), transkripsiyon faktörleri ve ökaryotik mRNA işlenmesi süreçlerine değinilmez. 
+Öğrencilerden gen ifadesinin oluşmasında transkripsiyon ve translasyon süreçlerinin eş 
+güdümlü olarak çalışmalarının gerekliliğini sorgulamaları, bu eş güdümün nasıl sağlandığı 
+hakkında akıl yürütmeleri ve belirledikleri temel bileşenler arasındaki hiyerarşik bağlantıları 
+tespit etmeleri istenir (E3.6). 
+BİY.12.2.4 
+a) Kalıtsal hastalıklar ve genetik mutasyonlarla ilgili vaka çalışmaları sunularak, gerçek 
+hayattan örnekler verilerek, genetik yapıdaki değişikliklerin canlı yaşamına etkileri 
+ve DNA’da meydana gelen her hasarın kalıcı olup olmadığıyla ilgili sorular sorularak 
+öğrencilerde merak uyandırılır (E3.10). Ultraviyole (UV) ışığın neden olduğu DNA hasarının 
+nasıl tamir edildiğini gösteren bilimsel çalışma öğrencilere sunulur. Öğrencilerden genetik 
+yapıdaki değişiklikler ve bu değişikliklerin canlı yaşamına etkileriyle ilgili verilen örnekleri 
+bu çalışma bağlamında sorgulamaları istenir. 
+b-c) Heterojen gruplar oluşturulur. “Mutasyonlara neden olan etmenler nelerdir?”, 
+“Mutasyonların etkileri nasıl gerçekleşir?”, “Yüksek rakımlı bölgelerde yaşayan insanların 
+oksijen kullanımındaki farklılıklar mutasyonlarla açıklanabilir mi?”, “Bazı bireylerin COVID-19 
+gibi enfeksiyonlara karşı daha dayanıklı olması genetik farklılıklarla ilişkili olabilir mi?”, “Aynı 
+ilacı kullanan iki kişide ilacın farklı etki göstermesi genetik mutasyonlarla ilişkili olabilir mi?” 
+gibi sorular sorularak öğrencilerden soruların cevaplarını bilim dergileri, bilimsel makaleler 
+gibi güvenilir kaynaklardan araştırmaları istenir.  Öğrencilerin elde ettikleri bilgiler ışığında, 
+genetik yapıdaki değişikliklerin olumlu ve olumsuz etkilerini değerlendirmeleri beklenir. 
+Ayrıca bu değişikliklere yol açan faktörleri analiz ederek neden-sonuç ilişkileri kurmaları 
+hedeflenir (OB1). Bu süreçte mutasyon çeşitlerine değinilmez. Her gruptan akıl yürütme 
+sonucunda ulaştıkları çıkarımları kullanarak rapor hazırlamaları ve hazırladıkları raporları 
+sunmaları istenir. Rapor ve sunum; öz değerlendirme, grup değerlendirme ve akran 
+değerlendirme ile değerlendirilebilir (E3.5).
+Öğrencilerden bireysel olarak genetik yapıdaki değişikliklerin canlı yaşamına etkilerine 
+yönelik öğrenme günlüğü hazırlamaları istenebilir. Öğrenme günlüğü, puanlama anahtarı 
+ile puanlanabilir.
+BİY.12.2.5
+a) Heterojen gruplar oluşturulur. Gruplara Mendel kalıtım ilkelerinin geçerli olduğu farklı 
+genetik problemler verilir. Öğrencilerden grup içinde problemlerle ilgili sorular sormaları 
+ve problemlerin olası sonuçlarını düşünmeleri istenir (E3.8, OB7). Çalışma yaprağında 
+veya ders kitabında Mendel’in kalıtımla ilgili monohibrit çaprazlama, dihibrit ve kontrol 
+çaprazlamaya ilişkin genel ilkeleri verilerek öğrencilerden verilen problemleri bu ilkeler 
+çerçevesinde  yapılandırmaları istenir.  

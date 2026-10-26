@@ -1,0 +1,56 @@
+4.Tema
+146
+Uygulama
+Aşağıdaki metinde okullarda iş sağlığı ve güvenliğinin önemine ilişkin bilgiler verilmiştir. Bu bilgilerden 
+yararlanarak soruların cevaplarına ilişkin görüşlerinizi öğretmeninizin rehberliğinde arkadaşlarınızla 
+tartışarak eleştirel bir bakış açısıyla değerlendiriniz.
+Okullar, öğrencilerin öğrenim gördüğü ve birçok kişinin birlikte bulunduğu yaşam alanlarıdır. Bu nedenle 
+okullarda iş sağlığı ve güvenliği, herkesin sorumluluk almasını gerektiren ortak bir anlayıştır. Güvenlik kül-
+türü; riskleri önceden fark etmeyi, tehlikeleri azaltmayı ve güvenli davranışları günlük yaşamın bir parçası 
+hâline getirmeyi amaçlar.
+Okul ortamında güvenliğin sağlanması için belirlenen kurallara uyulması çok önemlidir. Kaygan zeminlere 
+dikkat edilmesi, elektrikli aletlerin güvenli kullanılması, acil çıkışların açık tutulması ve laboratuvar ile atöl-
+yelerde gerekli tedbirlerin alınması kazaların önlenmesine katkıda bulunur. Aynı zamanda öğrencilerin ve 
+çalışanların bu konularda bilgilendirilmesi, güvenli davranışların gelişmesini destekler.
+Güvenli bir okul ortamı, dikkatli ve sorumlu davranışlarla mümkündür. Okulda bulunan herkesin kendisini 
+ve çevresindekileri korumaya özen göstermesi, güvenlik kültürünün yerleşmesine yardımcı olur. Bu anla-
+yış, sağlıklı bireylerin yetişmesine ve eğitim sürecinin güvenli bir şekilde sürdürülmesine etki eder.
+1. Okullarda iş sağlığı ve güvenliğinin herkesin sorumluluğu olarak ele alınmasının temel gerekçesini 
+açıklayınız.
+2. Okul ortamında güvenliğin sağlanmasına yönelik uygulamalar neler olabilir? Bu uygulamaların kazala-
+rın önlenmesine katkısını açıklayınız.
+3. Güvenlik kültürünün öğrencilerin okul yaşamındaki davranışları üzerindeki etkisini değerlendiriniz.
+Kontrol Noktası
+Bir meslek lisesinin metal teknolojisi alanı metal işleri atölyesinde yapılan çalışmada kaygan zemin, gürül-
+tülü makineler, yanıcı madde kullanımı ve yetersiz yönlendirme nedeniyle bazı riskler oluştuğu belirlenmiş-
+tir. Bu riskleri azaltmak için alınacak tedbirlerin hangi risk kontrol tedbirleri kapsamında değerlendirileceği 
+belirlenecektir.
+Aşağıda verilen riskleri inceleyiniz. Her bir tedbire karşılık gelen harfi, risk kontrol tedbirleri tablo-
+sunda yer alan başlıklardan uygun olanın altına yazınız. Her önlemi yalnızca bir başlık altında değer-
+lendiriniz.
+a) Baret takılması
+b) Kaygan zeminin kurutulması
+c) Makine koruyucu muhafaza 
+takılması
+ç) Solvent bazlı boya yerine su 
+bazlı boya kullanılması
+d) Kaymaz tabanlı iş ayakkabısı 
+giyilmesi
+e) Acil çıkış yönlendirme levhası 
+yerleştirilmesi
+f) Havalandırma sisteminin 
+kurulması
+g) Yanıcı Madde levhasının 
+yerleştirilmesi
+ğ) Yangın söndürme sistemi 
+kurulması 
+h) Çok gürültülü pnömatik 
+aletlerin (basınçlı hava ile 
+çalışan aletler) yerine daha 
+sessiz çalışan yeni nesil 
+aletler kullanılması
+Tehlikeyi Kaynağında 
+Yok Etme
+Tehlike Kaynağını 
+İkame Etme İdari Kontroller Uyarı İşaretleri Kullanımı Kişisel Koruyucu Donanım Kullanımı
+  

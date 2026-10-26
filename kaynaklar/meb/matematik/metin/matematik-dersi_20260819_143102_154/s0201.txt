@@ -1,0 +1,45 @@
+201
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Polinom fonksiyonların farklı nitel özelliklerinin bir arada kullanıldığı ve bunların türev fonk-
+siyonlarının cebirsel temsilleri arasındaki ilişkilere dair genellemelere ulaşıldığı örneklere yer 
+verilebilir. Örneğin gerçek sayılarda f(x) ve g(x) = f(x) + 2 şeklinde tanımlı üçüncü dereceden 
+polinom fonksiyonlar için x2 > x1 olmak üzere f(x2) = g(x1) ve f '(x2) = g'(x1) = 0 olması duru-
+munda  bu fonksiyonların başkatsayılarının işaretine  dair genellemelere ulaşılabilir. İkinci türevin 
+geometrik yorumu üzerine örnekler verilir ve konvekslik, konkavlık ve büküm noktaları incelene-
+bilir. İşaret tablosu ile fonksiyonun grafiğinin çizilmesi çalışmaları yapılır ve matematik yazılımları 
+ile doğrulanabilir.
+ (*) Maksimum-minimum problemlerinin çözümü için türev kullanılmadan algoritma oluşturul-
+ması ve matematik yazılım programında çözümünün bulunması ile türev kullanarak yapılan çö-
+zümlerin karşılaştırılmasına yönelik görevler verilebilir.
+Destekleme Bir fonksiyonun artanlığı veya azalanlığına, yerel ve mutlak ekstremum noktalarının neler ol -
+duğuna dair açıklamalar yapılırken gerçek yaşam örneklerinden yararlanılabilir. 
+Örneğin doğrusal bir yol üzerinde başlangıç noktasından hareket eden, sonrasında başlan -
+gıç noktasına tekrar geri dönen bir cismin hareketi; çizilen konum -zaman grafiği ile birlikte 
+değerlendirilebilir. Bu aşamada cismin başlangıç noktasına uzaklığının hangi zaman diliminde 
+giderek arttığı, cismin hangi anda başlangıç noktasına en uzak konumda olduğu gibi sorularla 
+öğrencilerin çıkarımlara ulaşmaları desteklenebilir. 
+Bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsillerine ve bunlar arasındaki 
+ilişkilere dair çıkarımlar, ilk olarak ikinci dereceden polinom fonksiyon ve bunun türev fonksi-
+yonu üzerinden yapılabilir. Değişim oranı/hızı hesaplanan problemlerde basit cebirsel işlemler 
+yapmayı gerektirenler tercih edilebilir. Çıkarımlara veya ilişkilere dair genellemelerin yapıla -
+madığı durumlarda sayısal örneklerden, tablo temsilinden yararlanılabilir. Elde edilen sayısal 
+değerler, matematik yazılımları ile çizilen grafikler üzerinde eş zamanlı olarak gösterilebilir.
+Öğrencilerden problemlerin çözüm stratejilerini değerlendirmeleri, çözümle ilgili genelleme -
+lere ulaşılamadığı durumlarda sayısal örnekleri kullanarak sınırlı genellemeler yapmaları iste-
+nebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+(*) Ekonomide marjinal maliyet, marjinal gelir hesaplama; biyolojide bir canlının baskın ve çekinik 
+genlerinin sıklığına göre o canlı türünün genetiğinde gelecekte meydana gelebilecek değişimleri 
+(down sendromu, DMD kas hastalıkları gibi) yorumlama; fizikte serbest düşüşteki bir cismin belirli 
+bir andaki hızını, süratini veya ivmesini belirleme gibi farklı disiplinlerde karşılaşılabilen problemler 
+farklı çözüm stratejileri kullanılarak çözülebilir. 
+(*) Problemler çözüldükten sonra farklı genellemelere ulaşılabilir. Örneğin Mendel’in (Mendel) me-
+lezleme yöntemine göre p ∈ (0, 1) olmak üzere p bir kültürde bulunan bezelyelerden düzgün yü-
+zeyli bezelye genlerinin sıklığını, 1 - p ise buruşuk yüzeyli genlerin sıklığını vermektedir. Buna göre 
+gelecek nesilde düzgün yüzeyli bezelye oranı, uygun koşullarda  f (p) = 2 . p . (1 - p) şeklinde 
+tanımlı fonksiyon ile belirlenebilir. f ' fonksiyonunun grafiği yorumlanarak buruşuk bezelye oranının 
+yüksek olduğu bir popülasyona az sayıda düzgün yüzeyli bezelye katılmasının sonraki nesiller için 
+oluşturacağı etkinin, tam tersi duruma göre daha fazla olacağı genellemesine ulaşılabilir.

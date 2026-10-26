@@ -1,0 +1,46 @@
+Sağlık Bilgisi ve Trafik Kültürü
+27
+1. Aşağıda verilen sorularla ilgili düşüncelerinizi ifade ediniz.
+a) Sağlık hizmetlerinin toplum sağlığı üzerindeki rolü nedir? 
+b) Sağlık sistemin deki iyileştirmelerin toplumun genel sağlığına olumlu etkileri nelerdir?
+c) Erken teşhisin önemi kapsamında okul sağlığı taramaları ile toplum temelli tarama programlarının 
+(çocukluk çağı ve evlilik öncesi) birey ve toplum sağlığına olumlu etkileri nelerdir?
+2. Öğretmeninizin rehberliğinde heterojen gruplar oluşturunuz.
+3. Yukarıda verilen soruların cevaplarını bulmak için kullanacağınız araçları belirleyiniz.
+4. Belirlediğiniz araçları kullanarak sağlık hizmetlerinin sınıflandırılması ve halk sağlığı konusunda bilgi 
+toplayınız. Bu süreçte sorumluluk alarak araştırmalarınızı planlı ve düzenli bir şekilde yürütünüz, grup 
+içinde görev paylaşımına ve yardımlaşmaya özen gösteriniz.
+5. Ulaştığınız bilgileri doğrulamak için öğretmeninizin rehberliğinde bu bilgileri güvenilir kaynaklarla 
+karşılaştırınız ve bu değerlendirmeyi yaparken nesnel ve kararlı olmaya dikkat ediniz. Yararlandığınız 
+kaynakları ve soruların cevaplarını öğrenme günlüğüne not ediniz.   
+6. Doğrulama sonucunda elde ettiğiniz bilgileri kaydediniz.
+7. Grup olarak sağlık hizmetlerinin sınıflandırılması ve halk sağlığı ile ilgili bilgilerin yer aldığı bilgilendirici 
+bir poster veya bilgi görseli hazırlayınız ve çalışmanızı sunu hâlinde sınıf arkadaşlarınız ile paylaşınız.
+Değerlendirme    
+  Analitik 
+Dereceli 
+Puanlama 
+Anahtarı
+Sağlık, bireyin yaşamını sürdürebilmesi ve günlük yaşam etkinliklerini verimli bir şekilde yerine getirebilmesi 
+için temel bir gereksinimdir. Bireyler; sağlığını korumak, geliştirmek ya da karşılaştıkları sağlık sorunlarına 
+çözüm bulmak amacıyla farklı bilgi kaynaklarına ve sağlık hizmetlerine başvurabilir.
+Dijital teknolojilerin gelişmesiyle yapay zekâ uygulamaları sağlık alanında da yaygınlaşmış ve bireyler yaşadık-
+ları sağlık problemleri nedeniyle bu uygulamalara daha sık başvurmaya başlamıştır. Yapay zekâ destekli araç-
+lar; belirtiler hakkında genel bilgi sunma, olası durumlar hakkında fikir verme ve sağlık farkındalığını artırma 
+açısından yararlı olabilir. Ancak yalnızca bu uygulamalara güvenmek bazı önemli riskleri beraberinde getirebi-
+lir. Yapay zekâ sistemleri bireyin tıbbi geçmişi, mevcut sağlık durumu, yaşam koşulları ve bireysel farklılıklarını 
+her zaman yeterince dikkate almayabilir. Bu durum, yanlış ya da eksik yönlendirmelere, gereksiz kaygıya veya 
+önemli bir sağlık sorununun göz ardı edilmesine neden olabilir.
+Yapay zekâdan elde edilen bilgilerin yanlış yorumlanması, bireylerin kendi kendine tanı koymaya çalışmasına 
+ve uygun olmayan uygulamalara yönelmesine yol açabilir. Bu da tanı ve tedavi sürecinin gecikmesine, has -
+talıkların ilerlemesine ve sağlık durumunun olumsuz etkilenmesine neden olabilir. Bunun yanında sağlık ve-
+rilerinin güvenliği ve kişisel bilgilerin korunması da dikkat edilmesi gereken önemli konular arasında yer alır. 
+Bu nedenle yapay zekâ uygulamalarından elde edilen bilgiler yalnızca bilgilendirme amacıyla değerlendiril -
+melidir. Belirtilerin devam etmesi, şiddetlenmesi veya ciddi bir sağlık sorununun söz konusu olması hâlinde 
+zaman kaybetmeden uygun sağlık kuruluşlarına başvurulmalı ve uzman sağlık personelinden destek alınmalı-
+dır. Yapay zekâ, sağlık kuruluşlarında büyük verilerin analiz edilmesi ve sağlık hizmetlerinin desteklenmesinde 
+önemli bir araçtır; ancak bireysel sağlık sorunlarında tanı koyma ve tedavi planlama amacıyla kullanılmamalı, 
+nihai kararın sağlık profesyonellerine ait olduğu unutulmamalıdır. Sağlıkla ilgili bilgiye erişimde dijital araçların 
+kullanımı artmış olsa da bireylerin doğru ve güvenilir sağlık hizmetlerine başvurması çok önemlidir. Bu ne -
+denle sağlık hizmetlerinin hangi amaçlarla sunulduğunun ve nasıl sınıflandırıldığının bilinmesi, doğru hizmete 
+zamanında ulaşılmasını sağlar.

@@ -1,0 +1,34 @@
+11
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+12. SINIF COĞRAFY A DERSİ (2 SAAT)
+ÜNİTE Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. COĞRAFYANIN DOĞASI 1 6 8
+2. MEKÂNSAL BİLGİ TEKNOLOJİLERİ 1 12 17
+3. DOĞAL SİSTEMLER VE SÜREÇLER 2 12 17
+4. BEŞERÎ SİSTEMLER VE SÜREÇLER 1 8 11
+5. EKONOMİK FAALİYETLER VE ETKİLERİ 1 8 11
+6. AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE 3 14 19
+7. BÖLGELER, ÜLKELER VE KÜRESEL BAĞLANTILAR 1 8 11
+OKUL TEMELLİ PLANLAMA* - 4 6
+TOPLAM 10 72 100
+12. SINIF COĞRAFY A DERSİ (4 SAAT)
+ÜNİTE Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. COĞRAFYANIN DOĞASI 1 6 4
+2. MEKÂNSAL BİLGİ TEKNOLOJİLERİ 1 12 8
+3. DOĞAL SİSTEMLER VE SÜREÇLER 3 18 13
+4. BEŞERÎ SİSTEMLER VE SÜREÇLER 2 16 11
+5. EKONOMİK FAALİYETLER VE ETKİLERİ 3 20 14
+6. AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE 6 32 22
+7. BÖLGELER, ÜLKELER VE KÜRESEL BAĞLANTILAR 4 34 24
+OKUL TEMELLİ PLANLAMA* - 6 4
+TOPLAM 20 144 100
+*Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan çalışmalar (okul dışı öğrenme 
+etkinlikleri, gözlem ve saha çalışması, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma çalışmaları vb.) için 
+ayrılan süredir. Çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Okul temelli 
+planlama kapsamında 10. sınıf düzeyinde belirlenen ders saatleri ise öğrencilerin meslek seçimi ve kariyer planlaması 
+yapabilmeleri amacıyla onlara rehberlik edecek şekilde kullanılır. Bu doğrultuda planlanan eğitim öğretim faaliyetleri, 
+mesleki rehberlik ve kariyer danışmanlığı bağlamında yürütülür.

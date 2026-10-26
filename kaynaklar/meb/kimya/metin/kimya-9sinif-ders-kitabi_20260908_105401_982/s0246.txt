@@ -1,0 +1,47 @@
+246
+3. Tema/Sürdürülebilirlik
+Nanoparçacık (NP), 1-100 nm çapındaki atomik ya da moleküler parçacıklara 
+denir. Nanoparçacıkların sahip olduğu üstün özellikler, boyutlarının küçültül-
+mesinden kaynaklanır. Bir parçacık nanoboyuta indirildiğinde hacim başına 
+daha büyük bir yüzey alanı elde edilir. Yüzey alanı/hacim oranı nanoparçacık 
+boyutu küçüldükçe artar. Bu orandaki artış ise maddenin fiziksel ve kimyasal 
+özelliklerinin değişmesinde etkilidir. 
+Aşağıda yüzey alanı ve hacim ilişkisini gösteren görseller verilmiştir. Görselleri inceleyerek soruları cevapla-
+yınız.
+1. Görselde verilen aynı hacimdeki maddelerden hangisinin bir başka madde içine karışması, bu madde içinde 
+çözünmesi veya onunla tepkimeye girmesi daha kolay olur? Neden?
+ 
+2. Tepkimelerin gerçekleşmesi sırasında mikroboyutta mı yoksa nanoboyutta mı daha az enerjiye gereksinim 
+duyulur? Hangi durumda daha az kimyasal madde kullanılır?
+ 
+3. Nanoparçacıkların kullanıldığı tepkimelerde daha az kimyasal atık ortaya çıkar, süreçte daha az su kullanılır 
+ve daha az atık su oluşur. Sizce bu durumun nedeni nedir?
+ 
+4. Nanoparçacıkların tasarımı ve kullanımı sürdürülebilir kalkınmanın hedeflerine ulaşmada hangi açılardan 
+etkilidir? Açıklayınız. 
+ 
+Boyut: 1 cm
+Yüzey alanı: 6 cm
+2
+Hacim: 1 cm
+3
+Boyut: 0,5 cm
+Yüzey alanı: 12 cm
+2
+Hacim: 1 cm
+3
+Boyut: 0,25 cm
+Yüzey alanı: 24 cm
+2
+Hacim: 1 cm
+3
+Boyut: 1 nm
+Yüzey alanı: 60 000 000 cm
+2
+Hacim: 1 cm
+3
+1 cm
+Yüzey Alanı/Hacim OranıEtkinlik-3.4
+Nanoparçacık eldesi ile ilgili 
+deney videosuna ulaşmak 
+için karekodu okutunuz.

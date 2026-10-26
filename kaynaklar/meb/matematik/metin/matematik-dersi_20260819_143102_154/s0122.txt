@@ -1,0 +1,54 @@
+122
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.10.6.2
+Öğrencilerin önceden öğrendikleri eğim ve doğru ile ilgili bilgileri cebirsel olarak ve dik koordinat 
+sistemi üzerinde temsil edebileceği ifade edilir. Bununla birlikte doğrunun eğimini dik koordinat 
+sisteminde anlamlandırabilmek için eğim açısı kavramı tanıtılır. Öğrencilerin bir doğru üzerinde 
+belirledikleri iki noktadan eksenlere paraleller çizerek oluşturdukları dik üçgenlerde dikey deği-
+şimin yatay değişime oranını incelemeleri ve bu sayede doğrunun eğimi ile eğim açısının tanjantı 
+arasındaki ilişkiyi keşfetmeleri sağlanır. Doğruların eğiminin pozitif ya da negatif sayılar olmasının 
+nedenleri (tanjant değerinin bölgelere göre işaret değiştirmesi) üzerinde tartışılır. Dik koordinat 
+sistemi, bu bağlamda bahsedilen ifadelerin temsil edileceği bir araç olarak tanıtılır. Öğrenciler-
+den bir doğru denklemi ile o doğrunun üzerindeki noktaların apsis ve ordinatları arasında bir ilişki 
+olduğunu fark etmeleri beklenir. Doğru üzerindeki noktaların koordinatları ya da bir doğrunun 
+eğiminden hareketle oluşacak doğru denklemi ile ilgili özellikleri anlamlandırmak için dik koor-
+dinat sistemini kullanmaları beklenir. Eğim açısının ölçüsünün 0° ve 90° olduğu durumlardaki 
+doğruların denklemlerini yorumlamada dik koordinat sisteminin nasıl kullanıldığı ve bu doğruların 
+denklemlerinin nasıl ifade edildiği üzerinde durulur.
+Denklemleri verilen doğruların birbirine göre durumlarını (paralellik, kesişme, çakışma) belirle-
+mede de dik koordinat sisteminin kullanılabileceği üzerinde durulur. Dik koordinat sisteminde 
+doğruların eğim açıları ve doğruların üzerindeki noktalar incelenerek bu doğruların paralellik, ke-
+sişme ve çakışma durumları belirlenir. Bu süreçte öğrencilerin dik kesişen doğruları incelemeleri 
+sağlanarak eksenlere paralel olmayan ve dik kesişen doğruların eğimleri çarpımının  -1 olduğu 
+sonucuna ulaşmaları beklenir. Öğrencilerin dik kesişen doğruların dik koordinat sisteminde gra-
+fikleri incelemeleri sağlanır. Öğrencilerin iletişim becerilerinin geliştirilmesi için bu süreç, sınıf içi 
+tartışmalarla yürütülür (SDB2.1). Bu tartışma sürecinde matematiksel araç ve teknolojilerden 
+yararlanılır (MAB5).
+Doğrular ve bu doğrulara ait eğim açılarının dik koordinat sisteminde görünümleri incelenerek 
+öğrencilerden iki noktası veya bir noktası ve eğim açısının ölçüsü bilinen doğruların denklemleri-
+nin nasıl oluşturulabileceğini ifade etmeleri beklenir.
+Öğrencilerin sunulan farklı problem durumlarında dik koordinat sistemini bir temsil aracı ola -
+rak kullanmaları ve problemleri çözmeleri beklenir. Bir doğrunun eğimi ile o doğrunun denklemi 
+arasındaki ilişkileri incelemeleri; incelemelerden yola çıkarak bu ilişkileri hız-zaman, gelir-gider, 
+telefonların kullanım süresi ile kalan pil süresi gibi gerçek yaşam durumlarında kullanmaları sağ-
+lanır (MAB2). Öğretmenin bir doğru denklemine uyan sayılarla oluşturacağı gelir-gider tabloları, 
+öğrencilerin finansal okuryazarlık becerilerine de katkı sunar (OB3). Öğrencilerden bu verileri 
+grafikle temsil etmeleri istenir (MAB3). Öğrencilere bu çıktıya yönelik proje ödevi verilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme İki doğru arasındaki açının ölçüsünün hangi koşullarda belirlenebileceğine dair sorgulama ya-
+pılabilir. Tanjantı bilinen özel eğim açılarına (30 °, 45°, 60°, 90°, 120°, 135° gibi) sahip iki doğru 
+arasındaki açının nasıl belirlenebileceğinin araştırılması istenebilir.
+(*) Dik koordinat sisteminde bir noktanın, doğru parçasının, doğrunun ya da çokgenin öteleme, 
+yansıma ve  dönme  dönüşümü altındaki görüntüsünün bulunması ile ilgili çalışmalar yapılabilir.
+Öğrencilere bir noktanın bir doğruya olan en kısa uzaklığının hangi koşullarda ve nasıl belirle-
+nebileceği sorgulatılabilir. Bu uzaklığın doğruya indirilen dikme ile ilişkilendirilerek ve iki nokta 
+arasındaki uzaklık bilgisi kullanılarak gerekçelendirilmesi istenebilir.
+Düzlemde iki doğrunun kesişmesiyle oluşan açılara ait açıortay doğrularının birbirine göre du-
+rumları incelenebilir.
+Destekleme İki nokta arasındaki uzaklık hesaplanırken dik koordinat sistemi kareli ya da noktalı kâğıt üze-
+rinde gösterilerek dik üçgenlerden yararlanılabilir. Derste  video, animasyon gibi görsel ve 
+işitsel materyallere yer verilebilir. Öğrencilerin dik koordinat sisteminde nokta ve doğrularla  
+ilgili ön bilgileri yoklanarak bireyselleştirilmiş öğretim çalışmaları yapılabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

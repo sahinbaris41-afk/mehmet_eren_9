@@ -1,0 +1,27 @@
+85
+1. Tema/Etkileşim
+1. 12Mg ve 16S atomları tepkimeye girerek MgS bileşiğini oluşturmaktadır. Bu tepkime gerçekleşirken 
+atomların yarıçapları şekildeki gibi değişmektedir.
+Şekilde verilen görsellerin hangi atom ve iyona ait olduğunu belirleyiniz. Seçimlerinizin nedenini 
+açıklayınız.
+2. P eriyodik tablonun aynı periyodundaki elektronegatiflik değeri değişimine neden olan etmenler nelerdir? 
+Bu değişimin nedenini elektrostatik çekim kuvveti temelinde açıklayınız.
+3. P eriyodik tablonun aynı grubundaki elektronegatiflik değeri değişimine neden olan etmenler nelerdir? Bu 
+değişimin nedenini elektrostatik çekim kuvveti temelinde açıklayınız.
+4. Elektronegatiflik değeri, bir periyotta soldan sağa ve bir grupta yukarıdan aşağıya doğru nasıl değişir? Bu 
+durumu bir örnek vererek açıklayınız.
+5. Tablodaki en yüksek ve en düşük elektronegatiflik değerine sahip elementler hangileridir?
+6. Metallerin, ametallerin ve soy gazların elektronegatiflik değeri karşılaştırıldığında hangi genellemelere 
+ulaşılabilir? Cevabınızı oluştururken verilen periyodik tablo kesitini kullanınız.
+Elektronegatiflik, bağ ve molekül polarlığının belirlenmesinde kullanılan ol -
+dukça önemli bir kavramdır. Elektronegatifliğin periyodik tablodaki değişimi -
+nin bilinmesi bağ ve molekül polarlığının tahmin edilebilmesini sağlar. Elektro-
+negatiflik, periyodik tabloda soldan sağa gidildikçe artarken yukarıdan aşağı 
+inildikçe azalır. Soy gaz atomları bağ yapmadıkları için elektronegatiflik değe-
+rine sahip değildirler.
+Kontrol Noktası 1.8
+Atomların elektronegatiflik 
+değerlerinin periyodik 
+tablodaki konumu ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.

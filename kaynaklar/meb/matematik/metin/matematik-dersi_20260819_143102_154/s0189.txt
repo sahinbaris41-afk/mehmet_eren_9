@@ -1,0 +1,47 @@
+189
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.12.4.5. Bir fonksiyonun belirli bir nokta civarındaki değişim oranına ilişkin muhakeme 
+yapabilme
+a) Bir fonksiyonun belirli bir nokta civarındaki değişim oranı ile ilgili bileşenleri (fonksi-
+yonun nitel özellikleri ile cebirsel ve grafik temsili) belirler.
+b) Bir fonksiyonun belirli bir nokta civarındaki değişim oranı ile ilgili bileşenleri arasın -
+daki ilişkileri belirler.
+c) Bir fonksiyonun belirli bir nokta civarındaki değişim oranını tablo, grafik ve limit gös-
+teriminden yararlanarak fonksiyonun o noktadaki anlık değişimi olarak ifade eder.
+ç) Bir fonksiyonun belirli bir noktadaki anlık değişimini fonksiyonun o noktadaki türevi 
+olarak ifade eder.
+d) Uygun koşullarda tanımlı fonksiyonların [ f(x) = xn  (n∈ℕ), f(x) = x  ve f(x) = 1x ] 
+belirli bir noktadaki anlık değişimlerini inceleyerek  o noktadaki türevlerine yönelik 
+varsayımlarda bulunur.
+e) Varsayımlarına dayalı örüntüleri geneller.
+f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerini önerme olarak ifade eder.
+ğ) Önermelerini anlık değişim oranını yorumlamayı gerektiren problem durumlarında 
+değerlendirir.
+h) Fonksiyonun bir noktadaki türevini limit gösteriminden faydalanarak ispatlar.
+ı) Uyguladığı ispatı kullanışlılık açısından değerlendirir.
+MAT.12.4.6. Fonksiyonların türevinin olmadığı noktalar hakkında çıkarım yapabilme
+a) Fonksiyonlar ve türevin limit tanımı ile ilgili önceki bilgilerinden yararlanarak bir 
+fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığına ilişkin 
+varsayımlarda bulunur.
+b) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek bir fonksi-
+yonun herhangi bir noktasında hangi durumlarda türevinin olmadığı ile ilgili örüntü-
+leri geneller.
+c) Bir fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığına iliş-
+kin genellemeleri ile varsayımlarını  karşılaştırır.
+ç) Bir fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığına iliş-
+kin elde ettiği genellemelerden önermeler sunar.
+d) Bir fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığına iliş-
+kin önermeleri türev-süreklilik ilişkisi bağlamında değerlendirir.
+MAT.12.4.7. Türevin limit gösteriminden faydalanarak iki fonksiyonun toplamı, farkı, çarpı-
+mı, bölümü ve bileşkesinin türevine ilişkin muhakeme yapabilme
+a) Fonksiyonların toplamı, farkı, çarpımı, bölümü ve bileşkesinin türevine ilişkin varsa -
+yımlar geliştirir.
+b) Varsayımlarına dayalı örüntüleri geneller.
+c) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+ç) Genellemelerini önerme olarak ifade eder.
+d) Önermelerini farklı problem durumlarında değerlendirir.
+e) İki fonksiyonun toplamı, farkı, çarpımı ve bölümünün bir noktadaki türevine dair kural-
+ları limit gösteriminden faydalanarak ispatlar.
+f) Uyguladığı ispatı kullanışlılık açısından değerlendirir.

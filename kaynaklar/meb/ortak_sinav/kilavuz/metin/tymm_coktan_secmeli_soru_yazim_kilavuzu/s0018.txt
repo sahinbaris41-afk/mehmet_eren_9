@@ -1,0 +1,40 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+18
+2.4.3. Bilişsel Yük
+Soru yazım sürecinin kritik bir aşaması, sorunun dil ve anlatım yönünden bilişsel yük uygunluğunun de -
+netlenmesidir. Soru yazarı; yönerge, metin ve görsellerin ölçülen yapıya doğrudan hizmet edip etmediğini 
+eleştirel bir süzgeçten geçirmelidir. Kafa karıştırıcı anlatımlar, dekoratif görseller ya da içerikle ilgisiz de -
+taylar, çalışma belleği kaynaklarını asıl problem çözme sürecinden uzaklaştırarak gereksiz yük oluşturur 
+(Sweller, 1988). Bu nedenle sorular, çözüm için zorunlu olmayan görsellerden ve karmaşık cümle yapıla -
+rından arındırılarak yalın hâle getirilmelidir (Haladyna & Rodriguez, 2013). Soru, öğrencinin okuma-anlama 
+becerisini değil ilgili disiplindeki (fen, matematik, sosyal bilimler vb.) hedeflenen becerisini ölçmelidir. Bu 
+hedefi desteklemek için görev karmaşıklığı da öğrencinin beklenen performans düzeyiyle uyumlu olma -
+lıdır. Bir öğrenci için uygun olabilecek yüksek düzeyde etkileşimli bir yapı, başka düzeyde bir öğrenci için 
+bilişsel yüke neden olabilir ve gerçek performansın ölçülmesinde hataya yol açabilir. 
+Sorularda anlatım bozukluğu içeren veya birden fazla anlama gelebilecek ifadeler, sorunun geçerliğini teh -
+dit eden unsurlar olarak kabul edilip düzeltilmelidir. Bağlam temelli sorularda karşılaşılan en büyük riskler -
+den biri, öğrencinin hedef beceriyi (örneğin matematiksel akıl yürütme) göstermesini engelleyen “gereksiz 
+bilişsel yük” oluşturulmasıdır. Sweller (1988) tarafından ortaya konan Bilişsel Yük Teorisi’ne göre sorularda 
+çözümle doğrudan ilişkisi olmayan karmaşık dilsel yapılar veya dekoratif görseller, öğrencinin işleyen bel -
+lek kapasitesini tüketir. Ayrıca bağlam kurgulanırken metin ile görsel arasındaki bütünlük, “dikkat bölün -
+mesi etkisini” en aza indirecek şekilde tasarlanmalıdır.
+2.4.4. Soru Yazımına Yönelik Kontrol Listesi
+Soru yazım süreçlerinde soruların teknik, bilimsel ve dilsel standartlara uygunluğu sistematik olarak de -
+netlenmelidir. Aşağıdaki kontrol listesi, soru yazarının hazırladığı taslak soruları değerlendirmesi amacıyla 
+örnek olarak hazırlanmıştır. Denetim sürecine geçmeden önce soruların bu listedeki kriterlere göre göz -
+den geçirilmesi, olası yapısal hataları en aza indirecek ve redaksiyon sürecini hızlandıracaktır.
+Bağlam Temelli Soru Yazımına Yönelik Kontrol Listesi
+Bağlam Adı
+Soru Yazarının Adı
+Beceri Adı
+Süreç Bileşeni
+Kontrol Alanı Kontrol Ölçütü Evet Hayır Açıklama /  Düzeltme Notu
+Bağlam Seçimi
+Bağlam, öğrencilerin yaş ve sınıf düzeyine uygun 
+mu?
+Bağlam günlük hayatla ilişkili mi?
+Bağlam karmaşık detaylardan arındı  rılmış mı?
+Bağlam ilgili beceriyi ölçebilecek nitelikte mi?
+Bağlam; kültür, cinsiyet, coğrafi bölge, din, ideo -
+loji gibi unsurlar açısından tarafsız ve ön yargıdan 
+uzak mı?

@@ -1,0 +1,130 @@
+DERECELI PUANLAMA ANAHTARI
+Ölçütler (Çok İyi)4 (İyi)3 (Orta)2 (Geliştirilmeli)1 PUAN
+Bilgilerin 
+Toplanması
+Konuyla ilgili 
+topladığı bilgilerin 
+tamamı doğrudur.
+Konuyla ilgili 
+topladığı bilgilerin 
+çoğu doğrudur.
+Konuyla ilgili 
+topladığı bilgiler 
+kısmen doğrudur.
+Konuyla ilgili 
+topladığı bilgiler 
+doğru değildir.
+Bilgilerin 
+Düzenlenmesi
+Topladığı bilgilerin 
+tamamını 
+sistematik şekilde 
+düzenlemiştir.
+Topladığı 
+bilgilerin çoğunu 
+sistematik şekilde 
+düzenlemiştir.  
+Topladığı 
+bilgileri kısmen 
+sistematik şekilde 
+düzenlemiştir.
+Topladığı bilgileri 
+sistematik 
+olmayan şekilde 
+düzenlemiştir.
+Metin 
+Oluşturma
+Düzenlediği 
+bilgilerin 
+tamamını verilen 
+başlıklara uygun 
+olarak yazmıştır.
+Düzenlediği 
+bilgilerin çoğunu 
+verilen başlıklara 
+uygun olarak 
+yazmıştır.
+Düzenlediği 
+bilgileri verilen 
+başlıklara kısmen 
+uygun yazmıştır.
+Düzenlediği 
+bilgileri verilen 
+başlıklara 
+uygun olarak 
+yazmamıştır.
+Sunum İçeriği
+Hazırladığı 
+sunum merak 
+uyandıracak ve ilgi 
+çekecek biçimde 
+hazırlanmıştır. 
+Çalışmadan 
+beklenen 
+özellikleri 
+tamamen 
+yansıtmaktadır.
+Hazırladığı 
+sunum merak 
+uyandıracak ve ilgi 
+çekecek biçimde 
+hazırlanmıştır. 
+Çalışmadan 
+beklenen 
+özelliklerin 
+çoğunu 
+yansıtmaktadır.
+Hazırladığı sunum 
+basit, çok az 
+dikkat ve ilgi 
+çekecek biçimde 
+hazırlanmıştır. 
+Çalışmadan 
+beklenen 
+özellikleri kısmen 
+yansıtmaktadır.
+Hazırladığı 
+sunum merak 
+uyandıracak ve ilgi 
+çekecek biçimde 
+hazırlanmamıştır.
+Çalışmadan 
+beklenen 
+özellikleri 
+yansıtmamaktadır.
+Sunma
+Sunum, içeriğin 
+tamamını 
+yansıtmaktadır. 
+Anlatımda 
+ve konuya 
+hâkim olmakta 
+zorlanmamıştır.   
+Sunum, içeriğin 
+tamamını 
+yansıtmaktadır. 
+Anlatımda 
+ve konuya 
+hâkim olmakta 
+zorlanmamıştır.  
+Sunum, 
+içeriği biraz 
+yansıtmaktadır. 
+Anlatımda ve 
+konuya hâkim 
+olmakta kısmen 
+zorlanmıştır. 
+Sunum, içeriği çok 
+az yansıtmaktadır. 
+Anlatımda ve 
+konuya hâkim 
+olmakta oldukça 
+zorlanmıştır.
+TOPLAM PUAN
+Ölçekten alınan puanı 100 puan üzerinden hesaplamak için [(Toplam Puan)/20]*100 
+formülünü uygulayınız.
+Öğrencilerin çalışmalarını değerlendirmek için aşağıda verilen dereceli pu-
+anlama anahtarını kullanınız.
+3. Adım: Değerlendirme
+18 19
+COĞRAFYA 9  

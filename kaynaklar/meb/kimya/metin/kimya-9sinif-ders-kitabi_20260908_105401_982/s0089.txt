@@ -1,0 +1,28 @@
+89
+1. Tema Ölçme ve Değerlendirme Soruları
+ Bu çalışmaya göre aşağıdaki genellemelerden hangisine ulaşılamaz?3.
+A) Köpük bardaklarda asidik gıda tüketen insanların aldıkları kadmiyum oranı kurşun oranından 
+fazla olur.
+B) Naylon poşetlerde saklanan asidik gıdalarda gıdaya geçen kurşun miktarı kadmiyum 
+miktarından fazladır. 
+C) Plastik maddenin içerdiği ağır metal ile gıdaya geçen ağır metal doğru orantılıdır. 
+D) Polietilen kaplar polistiren kaplara kıyasla daha fazla kurşun içerir. 
+E) PS 06 koduna sahip plastik ürünleri kullanan insanlarda daha fazla ağır metal birikimi olur.
+4-6. soruları aşağıdaki metin ve tabloya göre cevaplayınız.
+Bir öğretmen, okulunda laboratuvar kaynaklı kazaları en aza indirgemek amacıyla Türkiye'de en sık gö-
+rülen kaza örneklerini araştırır. Bu örnekler doğrultusunda oluşabilecek kazaları önlemek için okulunda 
+bir anket düzenler. Her bir soruya evet cevabını veren öğrenci yüzdesi aşağıdaki tabloda verilmiştir.
+Anket Soruları Evet 
+1. Laboratuvarda çalışırken güvenlik ekipmanı kullanıyor musunuz? %90
+2. Kimyasal maddelerin deneydeki kullanım miktarlarına uyuyor musunuz? %70
+3. Kimyasal maddenin kokusunu veya dokusunu test etmek için koklamak veya dokunmak gibi riskli davranışlar sergiliyor musunuz? %5
+4. Hacim ölçümü yaparken ölçü kabını sabit bir şekilde masada tutup tam karşıdan bakarak ölçüm yapıyor musunuz? %40
+5. Kimyasal maddeler ile çalışmaya başlamadan önce bu maddelerin etiketlerini okuyor musu-nuz? %30
+6. Kimyasal maddeleri kimyasal depolama matrisine göre depoluyor musunuz? %20
+7. Kılcal boru, termometre vb. cam malzemelere delikli tıpa veya mantar yerleştirmeden önce vazelin gibi kayganlaştırıcı bir madde kullanıyor musunuz? %35
+8. Gaz çıkışı olan deneylerde çeker ocağı kullanıyor musunuz? %25
+9. Beheri sıvıların net hacim ölçümünde kullanıyor musunuz? %90
+10. Cam eşyaları kullanmadan önce saf su ile yıkıyor musunuz? %20
+Anket sorularını laboratuvar güvenlik kuralları açısından kaç farklı kategoride gruplayabilir-
+siniz? Nedenini açıklayınız.
+4.

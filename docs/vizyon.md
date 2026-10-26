@@ -42,5 +42,5 @@ MEB resmi kaynaklarına dayalı, uydurma bilgi içermeyen, kısa adımlarla öğ
 ## Önemli tarihler
 
 Ayrıntılı ve kaynaklı liste: `docs/takvim.md`.
-- 9. sınıf Matematik ortak yazılı: **6 Ocak 2027 Çarşamba**. Gün düzeyinde teyit bekliyor; bkz. `takvim.md`.
+- 9. sınıf Matematik ortak yazılı: **6 Ocak 2027 Çarşamba** (ÖDSGM resmî takvimi).
 - 9. sınıf Türk Dili ve Edebiyatı ortak yazılı: **7 Nisan 2027 Çarşamba**.

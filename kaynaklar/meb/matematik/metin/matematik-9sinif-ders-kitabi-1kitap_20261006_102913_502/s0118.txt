@@ -1,0 +1,32 @@
+118
+2. Tema /  Nicelikler ve Değişimler
+ç)		m	ve 	n 	fonksiyonlarının 	varsa 	sıfırını, 	fonk-
+siyonları	 temsil 	 eden 	 grafiklerin 	 y 	 eksenini 	
+kestikleri	noktaları, 	maksimum 	ve 	minimum 	
+değerlerini	bulunuz.
+d)		Fonksiyonların	artanlık 	ve 	azalanlık 	durum-
+larını	inceleyiniz.
+e)		Fonksiyonların	 bire 	 bir 	 olup 	 olmadıklarını 	
+belirleyiniz.
+f)		 Fonksiyonların	 artanlığı-azalanlığı 	 ve 	 bire 	
+birliği	ile 	ilgili 	ulaştığınız 	sonuçları 	bire 	bir-
+lik	ve 	artanlık-azalanlık 	tanımlarından 	yarar-
+lanarak	cebirsel	olarak	doğrulayınız.
+6.  Bir çözeltide bulunan madde miktarının kütlesi -
+nin çözeltinin toplam kütlesine oranına derişim 
+denir. Bir ilaç, vücutta belirli bir süre boyunca 
+etkili olup zamanla derişimini kaybetmektedir. 
+Zamana (dk.) bağlı olarak ilacın vücuttaki de-
+rişim miktarını (mol/kg) modelleyen fonksiyon 
+:, ,f0 40 08"77 AA , f(x) = -0,2x + 8 şeklindedir.
+	 Buna 	göre	aşağıdaki 	 soruları 	 cevaplayınız.
+a)  f	fonksiyonunun	grafiğini	çiziniz.
+b)  İlacın	vücuttaki 	derişim 	miktarının 	(mol/kg)	
+zamana	 (dk.) 	 bağlı 	 olarak 	 nasıl 	 değişti-
+ğini	 f 	 fonksiyonunun 	 grafiği 	 yardımıyla 	
+açıklayınız.
+c)  Vücuttaki derişim miktarı sıfıra eşit olduğun -
+da ilacın etkisi tamamen kaybolmaktadır. 
+ İlacın	etkisinin	tamamen 	kaybolması 	için 	
+gereken	 zamanın 	 kaç 	 dakika 	 olduğunu 	
+bulunuz.

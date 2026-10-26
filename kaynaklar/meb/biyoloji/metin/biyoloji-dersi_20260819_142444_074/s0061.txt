@@ -1,0 +1,43 @@
+61
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+Öğrencilere dolaşım sistemi ve homeostazi ilişkisi hakkında bilimsel bir model oluşturup 
+oluşturduğu bu modeli poster ile sunmaya yönelik performans görevi verilebilir. 
+Öğrencilerin oluşturacağı poster, bütüncül dereceli puanlama anahtarı ile puanlanabilir 
+ve öğrencilerin portfolyosuna eklenebilir. 
+Öğrencilerin sistemlerin eş güdümlü çalışmasının önemi konusunda sorgulama ve akıl 
+yürütmeyle ulaştıkları çıkarımları ortaya koymalarını sağlayacak açık uçlu soruların yer 
+aldığı çalışma yaprağı kullanılabilir. Öğrencilerin cevapları, analitik puanlama anahtarı ile 
+puanlanabilir. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin boşaltım sistemini oluşturan yapı ve organların görevlerini, endokrin bezlerini 
+ve bu bezlerden salgılanan hormonların etkilerini, dolaşım ve solunum sistemini oluşturan 
+yapı ve organların görevlerini fen bilimleri dersinde öğrendikleri kabul edilmektedir. 
+Öğrencilerin homeostazi kavramını 9. sınıf biyoloji dersinde öğrendikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin boşaltım sistemini oluşturan yapı ve organların görevleri hakkındaki temel 
+bilgileri organizasyon şeması ile, endokrin bezleri ve bu bezlerden salgılanan hormonların 
+etkileri ile ilgili ön öğrenmeleri 3-2-1 çıkış kartları ile dolaşım ve solunum sistemini oluşturan 
+yapı ve organların görevleri hakkındaki bilgileri açık uçlu sorularla değerlendirilebilir. 
+Öğrencilerden homeostazi kavramını sözlü olarak ifade etmeleri beklenebilir. 
+Köprü Kurma Öğrencilerden iç dengenin sağlanması için insan dışındaki canlıların ne tür yapı ve fizyolojik 
+süreçlere sahip olabileceğine ilişkin örnekler (bitkilerde damlama, köpeklerde dilin dışarıda 
+tutulması gibi) vermeleri istenebilir. Bu örneklerin insanda homeostazinin sağlanmasına 
+yönelik hangi yapı ve süreçlere benzediğini belirlemeleri istenebilir. Kendilerinin veya 
+tanıdıklarının yaşadığı “soğukta titreme, sıcakta terleme, aşırı su kaybı, kan şekerinin 
+düşmesi vb.” durumlarla ilgili deneyimlerini ifade etmeleri istenebilir. Öğrencilerden akıllı 
+termostatların ortam ısısını düzenleme mekanizmaları ile homeostazinin geri bildirim 
+mekanizmalarını ilişkilendirmeleri istenebilir. Stres durumları (sınav stresi, korku vb.) ile 
+ilgili senaryolar verilerek öğrencilerin bu senaryolarda sinir sisteminde hangi homeostatik 
+tepkilerin gerçekleşeceğini belirlemeleri sağlanabilir. “Boyunuzun yıllar içinde uzaması 
+sizce vücudunuzdaki hangi mekanizmanın çalıştığını gösterir?” sorusu üzerinden 
+öğrencilerin endokrin sisteminin günlük yaşamdaki rolünü düşünmeleri sağlanır.
+Bir şehirdeki ulaşım ağı veya su tesisatının karmaşık işleyişi ile vücuttaki dolaşım sisteminin 
+(kalp, damarlar ve kan) benzerlikleri öğrenciler tarafından sorgulanabilir.  “Nefesinizi tutarak 
+solunumu durdurmanız mümkün müdür?” sorusu sorularak öğrencilerin solunumun bir 
+refleks olduğunu ve solunumun yaşam fonksiyonlarına etkisini düşünmeleri sağlanabilir. 
+Bir su arıtma tesisinin çalışma prensibi ile böbreklerin su ve atık dengesini sağlama görevi 
+arasında karşılaştırma yapılarak bu benzerliğin öneminin öğrenciler tarafından anlaşılması 
+sağlanabilir. Bir orkestrada, saatte ya da bilgisayar sisteminde bir bütünü oluşturan 
+parçaların uyumlu çalışmalarının öneminin öğrenci tarafından sorgulanması sağlanabilir. 
+Eski tanı koyma metotları ile günümüzde tanı konurken belirlenen parametreler arasındaki 
+farklılıklar vurgulanabilir.  

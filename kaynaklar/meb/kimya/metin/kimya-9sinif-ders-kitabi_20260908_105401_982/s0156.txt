@@ -1,0 +1,30 @@
+156
+2. Tema/Çeşitlilik
+1. Aşağıdaki yapılandırılmış kutucuklarda bazı maddelere ait formüller ve alt mikro modeller verilmiştir. Ku-
+tucuklardaki numaraları kullanarak soruların cevaplarını yazınız. (Aynı kutucuğu birden fazla cevap için 
+kullanabilirsiniz.)
+Kontrol Noktası 2.7
+1
+CO
+2
+CH4
+3
+CH2O
+4
+HCl
+5
+NH3
+6
+NaCl
+7
+Cl2
+8
+H2O
+9
+H2
+a) Moleküler yapılı bileşikler hangileridir? 
+b) Kendi molekülleri arasında sadece London kuvveti içeren maddeler hangileridir? 
+c) Kendi molekülleri arasında dipol-dipol etkileşimi içeren maddeler hangileridir?
+ç) Kendi molekülleri arasında hidrojen bağı yapabilen hangileridir? 
+d) Hangileri karıştırılırsa aralarında iyon-dipol etkileşimi oluşabilir?
+e) Hangileri karıştırılırsa farklı moleküller arasında hidrojen bağı oluşur?

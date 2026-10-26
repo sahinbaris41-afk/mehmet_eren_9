@@ -1,0 +1,27 @@
+123
+2. Tema/Çeşitlilik
+Kontrol Noktası 2.2
+1. Aşağıda öğrencilerin iyonik bağın oluşumuna ilişkin önermeleri verilmiştir. Bu önermelerden hangilerinin 
+doğru hangilerinin yanlış olduğunu belirleyerek yanlış olanları nedenleriyle açıklayınız. (11Na, 17Cl)
+a) Bir sodyum i yonu yalnızca elektronunu verdiği klorür iyonuna bağlanır.
+b) Bir sodyum atomu yalnızca bir iyonik bağ oluşturabilir çünkü dış enerji seviyesinde verebileceği bir 
+elektronu vardır.
+c) İyonik bağ, pozitif yüklü iyonlar ile negatif yüklü iyonlar arasındaki çekim kuvvetidir.
+ç) Klorür ve sodyum iyonları arasında bir bağ oluşmasının nedeni bu iyonların zıt yüklere sahip olmala-
+rıdır.
+d) Pozitif yüklü bir iyon yalnızca negatif yüklü bir iyon tarafından çekilebilir.
+2. Sodyum klorüre benzer bir yapıya sahip olan gümüş bromürün (AgBr) temel yapısını oluşturan parçacıklar 
+nelerdir? Bu parçacıkları ne tür bir çekim bir arada tutar? (47Ag, 35Br)
+3. Aşağıdaki tabloda bazı metal ve ametal atomlarının iyonlaşma enerjileri ile elektronegatiflik değerleri 
+verilmiştir. Tabloyu inceleyerek bu atomlar arasında iyonik bağ oluşup oluşmayacağını belirleyiniz. İyonik 
+bağın oluşma veya oluşmama nedenini atomların iyonlaşma enerjisi ve elektronegatiflik değerlerini göz 
+önünde bulundurarak açıklayınız.
+Atom İyonlaşma Enerjisi (kJ/mol) Elektronegatiflik Değeri
+3Li 520 0,98
+11Na 496 0,93
+12Mg 738 1,31
+9F 1681 4,00
+17Cl 1255 3,16
+8O 1314 3,44
+4. T ek atomlu katyon ve anyonlar ile çok atomlu katyon ve anyonların formül ve adlarıy -
+la ilgili etkileşimli içeriğe ulaşmak için yandaki karekodu akıllı cihazınıza okutunuz.

@@ -1,0 +1,38 @@
+139
+5. Tema/Algoritma ve Bilişim  
+3. Elde ettiğiniz sözel ifadelerden faydalanarak ispatın aşamalarını ifade eden bir algoritmanın işleyişini algoritmik 
+doğal dil ve akış şeması yardımıyla ifade ediniz.
+ 
+ 
+Algoritmik Doğal Dil
+ Akış Şeması
+4. Cebirsel, sözel ve algoritmik yaklaşım ile ifade edilen ispat sürecinde mantık bağlaçları ve niceleyicilere neden 
+ihtiyaç duyulduğunu açıklayınız. 
+ 
+Kontrol Noktası
+Mantık bağlaçları ve niceleyicilerin matematiksel ispat ve algoritmik süreçlerdeki işlevleri aşağıdaki bilgi görselinde  
+verilmiştir.
+•   Sembolik İfadelerin Anlaşılması
+ Niceleyiciler ve mantık bağlaçları, sembolik ifadelerin 
+doğru yorumlanmasını sağlayarak matematiksel dilin 
+anlaşılırlığını ve netliğini artırır.
+• Genelleme ve Özelleştirme
+ Niceleyiciler, m atematiksel ifadelerde genelleme veya 
+özelleştirme yapmak için kullanılır.
+•  Adımları Birleştirme
+ Mantık bağlaçları, bir ispatın adımlarını birbirine 
+bağlamak ve sonuçların doğruluğunu sağlamak için 
+kullanılır.
+•   Koşullara Göre Karar Verme
+ Mantık bağlaçları, ispat süreçlerinde karar noktalarını 
+belirlemek ve farklı durumlar arasında geçişi kontrol 
+etmek için kullanılır.
+Mantık Bağlaçları 
+ve Niceleyicilerin 
+Matematiksel 
+İspat ve 
+Algoritmalardaki 
+İşlevleri
+  
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.

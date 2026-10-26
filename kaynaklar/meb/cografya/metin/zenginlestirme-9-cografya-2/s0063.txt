@@ -1,0 +1,35 @@
+62 63
+COĞRAFYA 9 
+Yönerge: Aşağıdaki kontrol listesi öğrencilerin edindiği bilgi, beceri ve çıkarımları değerlendirebilmeniz ama -
+cıyla hazırlanmıştır. Öğrencilerin hazırladıkları çalışmayı “Evet”, “Kısmen”, “Hayır” seçeneklerinden uygun gör -
+düğünüz birini işaretleyerek değerlendiriniz.
+KONTROL LİSTESİ
+Ölçütler Evet Kısmen Hayır
+1 Öğrenci araştırma konusu ile ilgili çalışma planı hazırladı.
+2 Kitap, bilimsel dergi ve çevrim içi resmî genel ağ sayfalarından araştırma 
+konusu ile ilgili bilgi topladı.
+3 Çalışmada fotoğraf, resim, tablo gibi görseller kullandı.
+4 Güncel akademik kaynakları ve resmî genel ağ sayfalarını kullanarak bil -
+gilerin güvenilirliğine dikkat etti.
+5 Araştırmasına uygun CBS uygulamasını seçti.
+6 CBS uygulamasında okulunun coğrafi koordinatlarını belirledi.
+7 Yaşadığı ilin veya ilçenin 1/100 000 ölçekli haritasını oluşturdu ve bilgisa-
+yarına kaydetti.
+8 Yaşadığı ilin veya ilçenin 1/100 000 ölçekli üç boyutlu haritasını oluşturdu 
+ve bilgisayarına kaydetti. 
+9 Yaşadığı ilin veya ilçenin 1/100 000 ölçekli profilini aldı ve bilgisayarına 
+kaydetti.
+10 Yaşadığı ilin veya ilçenin coğrafi koordinatlarını belirledi.
+11 Elde ettiği haritalar üzerinden yaşadığı ilin veya ilçenin mutlak ve görece-
+li konum özelliklerini belirledi. 
+12 Belirlediği mutlak ve göreceli konum özelliklerini sınıflandırıp yorumladı.
+13 Çalışma, araştırmanın tüm aşamalarını ve sonuçlarını kapsadı.
+14 Çalışma ile ilgili rapor hazırladı.
+15 Çalışmayı sunum tekniklerine uygun olarak sundu.
+16 Sunum sonrasında kendisine yöneltilen soruları yanıtladı.
+17 Çalışma sürecinde eleştirilere açık, ılımlı ve iyimser yaklaştı.
+18 Çalışmayı zamanında teslim etti.
+Öğretmenin öğrenciye dönütleri:
+Adı ve Soyadı: ...........................................................
+Sınıfı/Şubesi: ...........................................................
+Numarası: ................................................................

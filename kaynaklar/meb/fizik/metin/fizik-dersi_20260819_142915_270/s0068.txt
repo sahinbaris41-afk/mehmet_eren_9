@@ -1,0 +1,52 @@
+68
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; soru kutusu, test (açık uçlu maddeler), sunu, çıkış kartı, deney tasar -
+lama, çalışma yaprağı, basit elektrik motoru tasarlama, bilgi görseli kullanılarak değer -
+lendirilebilir.
+Elektrik yükleri arasındaki kuvvetin matematiksel modeline ulaşmaları için farklı madde 
+türlerinden oluşan bir soru kutusu hazırlama ve elektriksel alanın matematiksel modelini 
+tanımlayabilmeleri için açık uçlu maddelerden oluşan bir test verilebilir. Faraday kafesi ve 
+kullanım alanları ile ilgili bir performans görevi verilebilir. Mıknatısların oluşturduğu man-
+yetik alan ve özellikleri manyetik alan çizgileriyle sorgulamak için bir çıkış kartı verilebilir. 
+Ørsted'in deneyi ile benzerlik gösteren bir deney tasarlama performans görevi verilebi-
+lir. Akım makarasının merkez ekseninde oluşan manyetik alan ve elektromıknatısların 
+kullanım alanları ile ilgili farklı soru maddelerinden oluşan bir çalışma yaprağı verilebilir. 
+Manyetik alanda akım geçen tele etki eden manyetik kuvvet ve büyüklüğünü etkileyen 
+faktörler hakkında deney ve basit bir elektrik motoru tasarlamaları ile ilgili performans 
+görevleri verilebilir. Manyetik akı ile değişkenleri ve indüksiyon akımının matematiksel 
+modeline ulaşabilmeleri için açık uçlu maddelerden oluşan bir test verilebilir. İndüksiyon 
+akımı ile alternatif akım arasındaki ilişkiye yönelik grafik ve açık uçlu maddelerden oluşan 
+bir çalışma yaprağı verilebilir. Transformatörün yapısı ve kullanım alanlarına yönelik bilgi 
+görseli hazırlamaları performans görevi olarak istenebilir. Öğrenciler soru kutusu, test, 
+çıkış kartı, çalışma yaprağı, puanlama anahtarı ile değerlendirilebilir. Performans görev -
+leri dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmelerde öz/akran/grup 
+değerlendirmesi yapılarak çeşitlilik sağlanabilir. Performans görevi ile yazılı yoklamalar 
+sonuç değerlendirmede kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin elektriklenme çeşitlerini ve yüklü cisimler ile elektroskop arasındaki etkileşimi, mık-
+natısların kutuplarını, mıknatısların etkileşimini ve pusula kullanımını bildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencinin elektrik yüklerinin etkileşimini ve çeşitlerini açıklayabilmeleri amacıyla ön bil-
+gilerine dayalı kavram haritası hazırlanabilir. Soru cevap tekniği ile öğrencilerin mıknatıs-
+ların kutuplarının davranışı ile ilgili hazır bulunuşluk düzeyleri tespit edilebilir. Dünya'nın 
+manyetik alanı yardımıyla yapılabilecek etkinlikler ve manyetik alan yardımıyla yön bula-
+bilen canlıların varlığı ile ilgili ön bilgilerini ölçmek amacıyla eşleştirme soruları sorulabilir.
+Köprü Kurma Öğrencilerin fen bilimleri dersinde öğrendikleri elektrostatikle ilgili bilgileri elektriksel 
+kuvvet ve elektriksel alan ile ilişkilendirilebilir. Öğrenciler fen bilimleri dersinde öğrenmiş 
+oldukları mıknatısların etkileşimini manyetik alan çizgileriyle ilişkilendirilebilir. Dünya'nın 
+manyetik alanını da manyetik alan çizgileriyle incelenebilir.
+Öğrenme-Öğretme 
+Uygulamaları FİZ.11.2.1 
+Öğretmen bu çıktının öğretiminde 5E öğrenme modelinden yararlanabilir. Öğretmen, öğ-
+rencilere otomobillerin üretim aşamasında homojen olarak boyanması veya fotokopi ma-
+kinelerinde bir metnin çoğaltılması ile ilgili sorular sorabilir. Öğretmen elektriksel kuvvetin 
+günlük hayattaki rolünden bahsederek bu tür uygulamalarda elektriksel kuvvetin önemini 
+vurgulayabilir. Öğrencilerin konuya yönelik ilgileri çekilir ve yeni öğreneceği bilgilere ihti-
+yaçları olduğunu fark etmeleri sağlanır (E1.1, SDB1.1). Öğretmen rehberliğinde öğrenciler 
+gruplara ayrılır (SDB2.2). Öğrencilere noktasal yükler arasındaki  elektriksel kuvvetin bü-
+yüklüğünün bağlı olduğu faktörlere yönelik sorular sorularak gruplardan iş birliği (SDB2.2) 
+ile hipotezler oluşturmaları istenir. Gruplar etkileşimli bir simülasyon aracılığıyla veri

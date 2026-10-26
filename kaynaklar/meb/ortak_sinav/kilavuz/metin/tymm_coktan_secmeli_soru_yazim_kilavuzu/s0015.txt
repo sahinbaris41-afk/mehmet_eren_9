@@ -1,0 +1,31 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+15
+Bağlam temelli bir soru; öğrencinin metin, problem durumu, veri seti, görsel ya da senaryo gibi anlamlı bir 
+bağlamla karşılaşmasını ve bu bağlamı kullanarak karar vermesini, yorum yapmasını, çözüm üretmesini ya 
+da açıklama getirmesini gerektirir. Dolayısıyla bağlam temelli sorular
+• çoktan seçmeli,
+• uzun yanıtlı,
+• doğru-yanlış,
+• eşleştirme,
+• kısa yanıtlı,
+Bu çeşitlilik, bağlam temelli yaklaşımın esnekliğini ve farklı öğrenme çıktılarının ölçülmesine yönelik uyar -
+lanabilirliğini göstermektedir. Sonuç olarak bağlam temelli olma özelliği, sorunun formatında değil bağlam 
+ile soru arasındaki işlevsel ilişkide ve öğrencinin bilgiyi kullanma biçiminde ortaya çıkar.
+Bu kılavuzda bağlam temelli çoktan seçmeli sorular ele alınmıştır. Becerilerin ölçülmesinde çoktan seçme -
+li soruların tercih edilmesinin çeşitli sebepleri bulunmaktadır. İlk olarak çoktan seçmeli sorular, açık uçlu 
+veya kısa yanıtlı sorulara kıyasla nesnel puanlama olanağı sunduğu için büyük gruplarda güvenilir ve tutarlı 
+ölçme yapılmasına imkân tanır. Açık uçlu ve yapılandırılmış görevler bağlamı daha derinlikli yansıtabilmekle 
+birlikte puanlama sürecinde öznel yargılara, puanlayıcı farklılıklarına ve uygulama maliyetlerine neden ol -
+maktadır. Buna karşılık çoktan seçmeli sorular, bağlam temelli yapı içinde sunulduklarında hem öğrenme 
+çıktılarının hem de süreç bileşenlerinin ölçülebilmesini ve güvenilir sonuçlar elde edilmesini mümkün kılar.
+İkinci olarak bağlam temelli çoktan seçmeli sorular, geçerlik ve güvenirlik arasında dengeli bir çözüm su -
+nar. Bağlam sayesinde soru, yüzeysel veya ezbere dayalı bilgi hatırlamanın ötesine geçerken çoktan seç -
+meli soru formatıyla ölçme sonuçlarının standartlaştırılması ve karşılaştırılması kolaylaşır. Bu özellikler, 
+merkezî sınavlar, geniş ölçekli değerlendirmeler ve izleme çalışmalarında hayati öneme sahiptir. Üçüncü 
+olarak çoktan seçmeli soru formatı öğretmenlerin soru yazma, uygulama ve analiz süreçlerini yö  netmesini 
+kullanışlı hâle getirir. Öğretmenler çoktan seçmeli sorular üzerinden madde güçlüğü, ayırt edicilik, çeldiri -
+cilik gibi psikometrik göstergeleri kolaylıkla inceleyebilir ve sorularını bu göstergelere göre geliştirebilirler. 
+Son olarak bağlam temelli çoktan seçmeli sorular, öğrencilerin yan  lış seçenekler (çeldiriciler) aracılığıyla 
+kavram yanılgılarını belirlemeyi sağlayabilir. Bu yönüyle bağlam temelli çoktan seçmeli sorular tanılayıcı ve 
+geliştirici bir işlevi de yerine getirir. Bu gerekçeler doğrultusunda kılavuzda bağlam temelli soruların çok -
+tan seçmeli formatta nasıl yazılabileceğine odaklanılmaktadır.

@@ -1,0 +1,34 @@
+28
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+5. ETKINLIK ADI ATOM YARIÇAPI
+ ► Öğr encilerden Tablo 1.2'de verilen atom yarıçaplarını incelemelerini isteyiniz. 
+1. periyot
+2. periyot
+3. periyot
+4. periyot
+1H 2He
+1A 2A 3A 4A 5A 6A 7A 8A
+3Li 4Be 5B 6C 7N 8O 9F 10Ne
+11Na 12Mg 13Al 14Si 15P 16S 17Cl 18Ar
+19K 20Ca 31Ga 32Ge 33As 34Se 35Br 36Kr
+37 31
+152 112 85 77 70 73 72 70
+186 160 143 118 110 103 99 98
+227 197 135 123 120 117 114 112
+Tablo 1.2: Periyodik Tablonun İlk Dört Periyodundaki A Grubunda Bulunan Elementlerin Atom Yarıçapları (pm) 
+ETKINLIĞIN AMACI P eriyodik tabloda atom yarıçapları ile ilgili karşılaştırma yapabilme
+DESTEKLEME 
+UYGULAMASI
+Periyodik özellikler konusunda karşılaştırma becerisi işletilir. Bu becerinin 
+kazandırılması sürecinde benzerlik ve farklılıkları belirlemeye yönelik so-
+rular sorulur, öğrencilerin bilgileri daha kolay öğrenmesi ve genellemesi 
+sağlanır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+Periyodik tablonun ilk dört periyodundaki A grubunda bulunan elementle-
+rin atom yarıçaplarının verildiği tablo
+Bu etkinlikte kullanılması için Tablo 1.2'yi öğrenci sayısı kadar çoğaltarak öğrencilere 
+dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.

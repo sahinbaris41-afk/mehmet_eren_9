@@ -1,0 +1,48 @@
+55
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Doğrusal fonksiyonların grafikle gösteriminde etkileşimli çevrim içi uygulamalara (oyun-
+lar, bilgi yarışmaları, grafik çizim programları), animasyonlara, somut materyal kullanımına 
+ve elektronik tablolara dayalı farklı etkinliklere yer verilebilir. Öğrencilere doğrusal fonk -
+siyonları cebirsel olarak ifade edebilme, grafik temsillerini ortaya koyabilme ve yorumla -
+yabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değerlendirmeler yapılır. İş 
+birlikli öğrenme temelinde öğrencilere gerçek yaşam durumlarında doğrusal ilişkileri tar -
+tışabileceği, grafik yorumlarını yapabileceği grup çalışmaları, ortak sunumlar ve projeler 
+yaptırılabilir. Bilgisayar bilimleri, ekonomi, fizik, kimya gibi farklı disiplinlerde geçen doğru-
+sal ilişkili durumların keşfedilmesine ve bu durumların matematiksel temsillerle ilişkilendi-
+rilmesine yönelik görevler verilebilir. 
+(*) Benzer şekilde doğrusal fonksiyonlar veya mutlak değer fonksiyonlarına ilişkin bilgi ve 
+becerilerini kullanabilecekleri (elektronik tablo hazırlama, sözde kod yazma, matematik 
+yazılım programları kullanma gibi) farklı uygulamalar yaptırılabilir.
+Destekleme Doğrusal fonksiyonların temellendirilmesinde önemli yer tutan doğrusal ilişkiler ve dik ko-
+ordinat sisteminde gösterimler üzerinde durulabilir. Doğrusal ilişki içeren gerçek yaşam 
+durumu örnekleri, öğrencilerin yakın çevresi dikkate alınarak çeşitlendirilebilir. Böylelikle 
+öğrencilerin konuya karşı olan ilgi ve motivasyonları artırılabilir. Gerçek yaşam örneklerinden 
+hareket edildiğinde bağımlı-bağımsız değişken kavramları ve doğrusal fonksiyonun cebirsel 
+gösterimi daha kolay anlamlandırılabilir.
+f(x) = ax ± b (a, b∈ℝ, a ≠ 0) şeklinde tanımlı doğrusal fonksiyonların ve g(x) = ± |ax ± b| ± c             
+(a, b, c ∈ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonlarının nitel özellikleri ile ilgili perfor-
+mans görevleri ve çalışma kâğıtları için daha fazla zaman verilebilir. Geri bildirimlerde ve değer-
+lendirmelerde çoklu ortam (sözlü, yazılı, görsel gibi) kullanılabilir.
+Öğrenciler için bireyselleştirilmiş öğrenme planları oluşturulur ve öğrencilerin bireysel ih-
+tiyaçlarına uygun hedefler belirlenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+Öğrencilerin incelenen denklem ve eşitsizliklerin çözümlerinde olası çözüm stratejilerinin 
+neler olabileceğini tartışmaları sağlanır. Özellikle gerçek yaşam durumlarını içeren problem-
+lerde bu tür denklem ve eşitsizliklerin çözümünü sağlayan stratejiler gözden geçirilir. Kul-
+lanılan gerçek yaşam problemlerinin ekonomi, fizik gibi disiplinlerle ilişkili olmasına ve top-
+lumsal yarara vurgu yapmasına özen gösterilir (D20.2). Örneğin üretilen/talep edilen ürün 
+miktarının bağımsız değişken, ürün fiyatının bağımlı değişken olarak kabul edildiği arz-talep 
+doğrularında piyasa denge fiyatını bulmak için neler yapılabileceği sorgulanır (OB3, D17.3). 
+Buradan hareketle öğrencilerden bu iki doğrunun grafik gösterimleri üzerinden kesişim -
+lerinin  bulunmasına yönelik stratejiler geliştirmeleri beklenir. Çözüme ulaştıran strateji -
+lere ilişkin çıkarımlar yapmaları sağlanır. Yapılan çıkarımlar, benzer problem durumlarında 
+kullanılmak üzere matematiksel bir modele dönüştürülür. Bu matematiksel modellemeler 
+toplumsal fayda sağlayacak durumlar üzerinden (ekoloji, sağlıklı yaşam gibi) geliştirilebilir 
+(D16.2). Matematiksel bir model ortaya koymaya yönelik, iş birlikli öğrenmeyi hedefleyen 
+grup içi çalışmalar desteklenir  (SDB2.2). Tüm bu süreçlerde elde edilen matematiksel mo-
+dellerin sınırlılıkları, güçlü ve zayıf yönleri; bu denklem ve eşitsizliklerin çözümleri bağlamın-
+da değerlendirilir. Öğrencilere denklem ve eşitsizlikler içeren problem çözmelerine yönelik 
+performans görevi ve proje ödevi verilebilir.

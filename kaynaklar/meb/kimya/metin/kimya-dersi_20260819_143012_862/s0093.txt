@@ -1,0 +1,52 @@
+93
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerden sürdürülebilir enerji depolama sistemi kapsamında kimyasal enerjiden 
+üretilen elektrik enerjisinin mekanik enerjiye dönüşümünü araştırmaları istenebilir. Böy -
+lece öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları; bilimsel gelişim için 
+merak duygusunun peşinden gitmeleri gerektiğini fark etmeleri sağlanabilir. Öğrenciler, 
+araştırmalarından elde ettikleri verileri elektrikli otomobillerin çalışma prensipleriyle iliş -
+kilendirmeleri için yönlendirilebilir. Elektrikli otomobillerde kullanılan pillerin kapasitesinin 
+artırılması için yapılan çalışmaları inceleyebilir. Elde ettiği bilgiler ışığında mühendislik ta -
+sarım sürecini izleyerek kimyasal enerjiyi mekanik enerjiye dönüştüren bir araç tasarlaya-
+bilir. Böylelikle öğrencilerin yeteneklerini geliştirecek faaliyetlere katılmaları, çalışmalarını 
+planlayıp yürütmeye gayret göstermeleri, görev ve sorumluluklarını yerine getirirken ka -
+rarlı davranmaları, bilimsel bilgiyi insanların ve toplumun yararına kullanmaları sağlanabi -
+lir. Öğrencilere bu aşamada tasarımda kullanmaları için modern enerji depolama teknolo-
+jilerinden olan lityum iyon pilleri tanıtılabilir. Öğrenciler; tasarımlarını teknoloji festivalleri, 
+bilim fuarları vb. yerlerde sergileyebilir.
+Öğrenciler, çeşitli pil türlerini ve bu pillerin yaygın kullanım alanlarını araştırabilir. Öğrenci-
+lerin eleştirel düşünme becerilerini kullanarak bu pillerin üretim, kullanım ve atık yönetimi 
+süreçlerindeki çevresel etkilerini değerlendirmeleri sağlanabilir. Yenilikçi ve ekolojik stra-
+tejiler kullanılarak modern ve sürdürülebilir enerji depolama çözümlerinin geliştirilmesine 
+yönelik çözüm önerileri geliştirilmesi sağlanabilir. Bu sayede öğrencilerin bilim, sanayi ve 
+teknoloji alanındaki güncel çalışmaları takip etmeleri, yeteneklerini geliştirecek faaliyet -
+lere katılmaları, ekosistemi korumak için etkili atık yönetiminin önemini bilmeleri, insana 
+ve topluma katkıda bulunmak için zaman ayırarak bilimsel bilgiyi insanların ve toplumun 
+yararına kullanmaları sağlanabilir. 
+Öğrencilerin yeşil kimya bağlamında bor madeninin atık ürün oluşumunun azaltılmasında, 
+yenilenebilir enerji uygulamalarında ve tarım sektöründe kullanım potansiyelini değer -
+lendirebilmeleri için geri dönüşüm tesisleri ve araştırma laboratuvarlarına saha gezileri 
+düzenlenebilir. Öğrenciler, sanayi uygulamalarını ve bu uygulamaların çevresel etkilerini 
+analiz edebilir. Yapılan analizlerden yola çıkarak yeni kullanım alanlarına yönelik özgün çö-
+zümler geliştirebilir. Böylece öğrencilerin bilim, sanayi ve teknoloji alanındaki güncel çalış-
+maları takip etmeleri, etkili atık yönetiminin ve temiz enerji kaynaklarının çevre ve toplum 
+sağlığı için önemini bilmeleri, insana ve topluma katkıda bulunmak için zaman ayırarak 
+bilimsel bilgiyi insanların ve toplumun yararına kullanmaları, Türkiye’nin ekonomik değer -
+lerini tanıyıp korumaları, ülke kaynaklarını sürdürülebilir bir şekilde kullanmanın gerekliliği 
+ile ilgili farkındalık oluşturmaları sağlanabilir.
+*Öğrenciler, mühendislik tasarımı ve malzeme bilimi gibi çeşitli disiplinlerden edindikleri 
+bilgilerden yola çıkarak ve tasarım yeteneğini kullanarak evde basit bir su elektrolizi cihazı 
+oluşturabilirler. Böylece suyun hidrojen ve oksijene ayrıştırılma sürecini gözlemleme im -
+kânı edinebilirler. Üretilen hidrojenin enerji potansiyelini değerlendirmek amacıyla basit 
+bir yakıt hücresini sisteme entegre edebilirler. Bu deneylerden elde edilen verilerle temiz 
+enerji ve yakıt hücresi teknolojisinin temel prensipleri hakkında derinlemesine bilgi edi -
+nebilirler. Böylece öğrenciler temiz enerjinin çevre temizliği, toplum ve insan sağlığı açı -
+sından önemini fark edebilirler. Öğrenciler, sıfır atık projesi bağlamında e-atık olarak de -
+ğerlendirilen kullanılmış elektronik cihazlardan değerli metallerin geri kazanımı üzerine bir 
+proje geliştirebilirler. Eski telefonlarından veya bilgisayar parçalarından altın, gümüş veya 
+bakır gibi metalleri elektrokimyasal yöntemlerle ayrıştırmak için yöntemler araştırabilirler. 
+Bu noktada öğrenciler, bilgi okuryazarlığı becerilerini kullanarak araştırmaları sonucunda 
+ulaştığı bu yöntemleri uygulayabilir ve geliştirebilirler. Geliştirdikleri yöntemleri katı atık 
+merkezlerinde kullanmak üzere proje olarak sunabilirler. Böylece öğrencilerin çevrelerine 
+ve canlı hayatına karşı duyarlı olmaları, sahip olduklarının değerini bilmeleri sağlanabilir.

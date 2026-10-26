@@ -1,0 +1,45 @@
+Sağlık Bilgisi ve Trafik Kültürü
+133
+• Çevredekiler hasta/yaralıya dokunmamaları için yüksek sesle uyarılır.
+• Şok verilecek ise
+ » Hasta/yaralıya dokunulmaz ve kimsenin hastaya dokunmadığından emin olunulur.
+ » OED tam otomatik ise şoku kendisi verir, yarı otomatik ise bir düğmeye basılması istenir.
+ » Cihazın yönlendirmeleri takip edilir.
+ » Şok sonrası “Temel Yaşam Desteğine” başlanır.
+• Şok gerekli değil ise
+ » Cihazın sesli yönlendirmeleri takip edilir.
+ » "Temel Yaşam Desteğine" başlanır.
+• OED ve Temel Yaşam Desteği uygulamasından sonra yaşam belirtisi gösteren hasta/yaralıya derlenme 
+pozisyonu verilir. OED cihazı kapatılmaz ve pedler çıkarılmaz. Bu şekilde cihaz analiz yapmaya devam 
+edecek ve ilk yardımcıyı sesli ve/veya görsel komutlar ile yönlendirebilecektir.
+Boğulmalar
+Boğulma, kişinin solunumunun engellenmesi sonucu vücudun yeterli oksijen alamaması ve hayati organların 
+oksijensiz kalarak hasar görmesi durumudur. Boğulmaya yol açan durumlar oldukça çeşitlidir. Bayılma ve 
+bilinç kaybı sonucu dilin geriye kayması, nefes borusuna sıvı dolması ya da yabancı cisim kaçması bu duruma 
+sebep olabilir. Akciğerlerin zedelenmesi, gazla zehirlenme ve suda boğulma da solunum yolunun tıkanması-
+na neden olan başlıca etkenler arasında yer alır.
+Suda boğulmalarda boğulma sırasında nefes borusu girişinin kasılmasına bağlı olarak çok az miktarda su, 
+akciğerlere girer. Suda boğulmalarda özellikle soğuk havalarda 20-30 dakika geçse bile yapay solunuma ve 
+kalp masajına başlanmalıdır.
+Solunum güçlüğü yaşayan kişilerde nefes almada zorluk, gürültülü, hızlı ve derin solunum dikkat çeker. Ağız-
+da balgam birikmesi ve köpüklenme görülebilir. Yüzde, dudaklarda ve tırnaklarda morarma meydana gelir -
+ken genel bir sıkıntı hâli ve verilen cevaplarda isabetsizlik ya da kararsızlık gözlenebilir. Durum ilerlediğinde 
+bayılma gerçekleşebilir.
+Boğulmalarda ilk yardım uygulaması şu şekildedir:
+• Boğulma nedeni ortadan kaldırılır.
+• Bilinç kontrolü yapılır.
+• Hastanın yaşam bulguları değerlendirilir.
+• Solunumun düzensiz olduğu ya da tamamen durdu-
+ğu hâllerde temel yaşam desteği uygulanır
+(Görsel 4.11).
+• Derhal tıbbi yardım istenir (112).
+• Nefes alıyorsa hastanın yaşam bulguları izlenir. 
+Hasta yalnız bırakılmaz ve gözlemlenir.
+Hava Yolu Tıkanıklığı
+Hava yolunun, solunum için gerekli havanın geçişine engel olacak şekilde kapanmasına tıkanma denir. Bu 
+durum kısmi tıkanma ya da tam tıkanma şeklinde ortaya çıkabilir.
+• Kısmi Tıkanma
+Kısmi tıkanmada hava akışı tamamen engellenmez; kişi öksürebilir, nefes alabilir ve konuşabilir. Kısmi 
+tıkanıklık yaşayan kişiye fiziksel müdahalede bulunulmaz. Öksürmesi teşvik edilir, yakından takip edilir ve 
+başka bir girişimde bulunulmaz.
+Görsel 4.11: Suda boğulmada temel yaşam desteği

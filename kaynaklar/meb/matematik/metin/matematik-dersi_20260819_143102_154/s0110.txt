@@ -1,0 +1,53 @@
+110
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+meler öğrenciler tarafından çözümlenir ve kendi başına matematiksel doğrulama yapabilmeleri için 
+öğrencilere önermelerden oluşan çalışma kâğıdı verilebilir. Öğrencilerden tamkareye tamamlama, 
+grafik temsilinden yararlanma, genel formu  (f(x) = ax2 + bx + c) kullanma ve çarpanlara ayırma gibi 
+matematiksel doğrulama yöntemlerini  kullanışlılık açısından değerlendirmeleri beklenir.
+MAT.10.4.3 ve MAT.10.4.4
+Karekök ve rasyonel referans fonksiyonlar ve bu fonksiyonlardan türetilen fonksiyonların nitel 
+özelliklerine ilişkin matematiksel muhakeme süreçleri, karesel referans fonksiyonun muhakeme 
+süreçlerine benzer şekilde gerçekleştirilir. 
+Özel olarak bir fonksiyonun tekliğinin-çiftliğinin cebirsel incelemesinden hareketle karekök refe-
+rans fonksiyonun tekliği veya çiftliğinden neden bahsedilemeyeceği tartışılır;  bu durum, fonksiyo-
+nun grafik temsili ile ilişkilendirilir.
+Rasyonel referans fonksiyonun tablo temsilinden elde edilen değerlerden yararlanılarak öğ -
+rencilerin grafik temsili üzerinden (0, ∞) nda bağımsız değişkenin aldığı değerlerin küçülme -
+sine bağlı olarak fonksiyonun aldığı değerlerin sınırsız bir biçimde büyüyeceği, (-∞, 0)  nda ise 
+bağımsız değişkenin aldığı değerlerin büyümesine bağlı olarak fonksiyonun aldığı değerlerin 
+sınırsız bir biçimde küçüleceği çıkarımlarına ulaşmaları beklenir. Bu durum, fonksiyonun gra-
+fik temsilinin Oy eksenine yaklaşması durumuyla ilişkilendirilir. Benzer şekilde öğrencilerin    
+(0, ∞) nda bağımsız değişkenin aldığı değerlerin büyümesine, (- ∞, 0) nda ise bağımsız değiş -
+kenin aldığı değerlerin küçülmesine bağlı olarak fonksiyonun aldığı değerlerin giderek sıfıra 
+yaklaştığı çıkarımına ulaşmaları beklenir. Bu durum, fonksiyonun grafik temsilinin Ox eksenine 
+yaklaşması durumuyla ilişkilendirilir. Rasyonel referans fonksiyonun sıfırdan farklı her gerçek 
+sayıyı çarpmaya göre tersine çevirdiği vurgulanır. “ ∀a, b ∈ ℝ  - {0} ve a ile b aynı işaretli olmak 
+üzere a < b ⇒ 1a > 1b  olur.”  ö nermesinden de yararlanılarak fonksiyonun ( - ∞,  0 )  v e      
+(0,  ∞) nın her birinde azalan olduğu sonucuna ulaşılır.
+Verilen bir tanım aralığının fonksiyondaki karşılığı olan aralığı belirlerken verilen aralıkla rasyo-
+nel referans fonksiyonun azalan olduğu aralıklar arasındaki ilişkinin dikkate alınması sağlanır 
+(“-5 < x < 0 iken f(x) = 1x hangi aralıkta değer alır?” veya “x > 4 iken f(x) = 1x  hangi ara-
+lıkta değer alır?” gibi).
+Öğrencilerin rasyonel referans fonksiyonun azalan olduğu belirli bir tanım aralığı için görüntü de-
+ğerlerinin hangi aralıkta yer alacağını cebirsel temsil veya grafik temsilinden yararlanarak belir-
+lemeleri ve uygun bir şekilde ifade etmeleri sağlanır. Benzer şekilde  öğrencilerin fonksiyonun iki 
+nicelik arasında ters orantısal bir ilişkiyi temsil ettiğini fark etmeleri sağlanarak bu fonksiyonun 
+gerçek yaşam problemlerinde hangi nicelikler arasındaki ilişkiyi modellemek için kullanılabileceği 
+tartışılır. Öğrencilere karesel, karekök ve rasyonel referans fonksiyonlardan türetilen fonksiyonlar 
+ve bu fonksiyonların nitel özelliklerine ilişkin matematiksel doğrulama ve ispat yapmayı gerektiren 
+çalışma kâğıdı verilebilir.
+Öğrencilere karesel, karekök ve rasyonel referans fonksiyonların nitel özellikleri ve bu referans 
+fonksiyonların grafiklerine uygulanan dönüşümlerin fonksiyonun cebirsel temsilinde oluşturduğu 
+değişime yönelik inceleme içeren performans görevi verilebilir.
+MAT.10.4.5
+Cebirsel temsili verilen doğrusal fonksiyonlardan hareketle bağımlı ve bağımsız değişkenin yer de-
+ğiştirdiği durumlar, tablo temsili kullanılarak incelenir. Oluşan yeni fonksiyonun da yine bir doğrusal 
+fonksiyon olduğu, grafik temsili üzerinde incelenir ve cebirsel temsil elde edilir. Öğrencilerden bu 
+iki doğrusal fonksiyonun birbirinin tersi olduğuna dair varsayımlar geliştirmesi beklenir. Rasyonel 
+referans fonksiyondan hareketle bağımlı ve bağımsız değişkenin yer değiştirdiği durum, tablo tem-
+sili kullanılarak incelenir. Bu bağlamda öğrencilerden rasyonel referans fonksiyonun tersinin de bir 
+fonksiyon olup olmadığını ifade etmeleri beklenir. Benzer şekilde karesel referans fonksiyonda ba-
+ğımlı ve bağımsız değişken yer değiştirdiğinde elde edilen ilişkinin fonksiyon olup  olmadığı tartışılır. 
+Bu ilişkinin fonksiyon olmadığı fark edildikten sonra öğrencilerden karesel referans fonksiyonun 
+bire bir ve örten olmaması nedeniyle oluşan  yeni ilişkinin bir fonksiyon belirtmediği varsayımında 
+bulunmaları beklenir. Bu bağlamda tanım  kümesinin düzenlenmesiyle bire bir ve örtenliğin sağ-

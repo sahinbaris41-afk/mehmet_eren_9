@@ -1,0 +1,27 @@
+83
+KUVVET VE HAREKET
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+2. Çalışma Yaprağı  
+1. Aşağıdaki ifadeler doğru ise “D” , yanlış ise “Y” harfini işaretleyiniz. Y anlış olduğunu düşündüğünüz 
+ifadenin doğrusunu “ Açıklama” bölümüne yazınız.
+İfade D/Y Açıklama
+a) İki vektörün uç uca ekleme yöntemiyle elde edilen bileş ­kesi daima bu vektörlerden birine eşittir. (  ) D(  ) Y
+b)
+İki vektör yönleri ve büyüklükleri değiştirilmeden uç uca 
+ekleme veya paralelkenar yöntemleri ile toplandığında 
+elde edilen bileşke vektörler eşittir.
+(  ) D
+(  ) Y
+c) Uç uca ekleme ile paralelkenar yöntemleri, aynı iki vektör için farklı sonuçlar verir. (  ) D(  ) Y
+ç) Paralelkenar yönteminde iki vektörün başlangıç noktaları aynı noktaya getirilir. (  ) D(  ) Y
+d) Bir vektörün dik kartezyen koordinat sisteminde gösteri­len bileşenlerinin bileşkesi kendisidir. (  ) D(  ) Y
+2. Aşağıdaki cümlelerde boş bırakılan yerlere verilen kavram ve ifadelerden uygun olanları yazınız.
+vektörün 
+bileşenleri başlangıç paralel bileşke vektör bitiş x ve y uç uca
+I. Bileşenlerine ayırma yönteminde vektörlerin ucundan eksenlere ............................. çizgi çizilir.
+II. İki vektörün toplamını gösteren vektöre ............................. denir.
+III. Bir ..................................................... o vektörün dik kartezyen koordinat sisteminin orijinine taşınması 
+yoluyla bulunur.
+IV . Uç uca ekleme yönteminde bir vektörün ............................. noktası diğer vektörün ............................. 
+noktasına yerleştirilir.
+V .  Bir vektör bileşenlerine ayrılırken genellikle ............................. eksenleri kullanılır.

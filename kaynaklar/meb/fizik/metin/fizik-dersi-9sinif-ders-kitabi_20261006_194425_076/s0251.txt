@@ -1,0 +1,46 @@
+251
+ENERJİ
+Isı iletim hızı ısıl iletkenlik kavramıyla ilişkilidir. Maddelerin ısıl iletkenliği, o 
+maddenin ısıyı iletme kabiliyetinin bir ölçüsüdür ve maddeler için ayırt edici bir 
+özelliktir. Maddelerin ısıl iletkenliklerini karşılaştırmak için ısı iletim katsayıları 
+kullanılır. Bir maddenin ısı iletim katsayısı ne kadar büyükse o madde ısıyı 
+o kadar hızlı iletir. Bu tür maddeler ısı iletkeni kabul edilir. Isı iletim katsayısı 
+düşük olan maddeler ise ısıyı yavaş iletir ve ısı yalıtkanı kabul edilir. Genel 
+olarak saf metallerin ısı iletim katsayıları diğer maddelere göre daha büyüktür. 
+Isı iletim katsayısı en yüksek olan madde elmastır. Tablo 4.2’de 25 oC sıcak-
+lığındaki bazı maddelerin ısı iletim katsayıları verilmiştir.
+Tablo 4.2: 25 oC Sıcaklığındaki Bazı Maddelerin Isı İletim Katsayısı
+25 oC Sıcaklığındaki Bazı Maddeler
+Isı İletim Katsayısı 
+[watt/metre : kelvin 
+(W/m : K)]
+Metaller
+Saf alüminyum 205
+Alüminyum alaşımı 170
+Saf pirinç 123
+Pirinç alaşımı 109
+Çelik 16
+Demir 80
+Gazlar Hava 0,023Hidrojen 0,172
+Ametaller Elmas 2.300
+Diğer maddeler
+Tuğla 0,6-1,2 (delikli  tuğla-dolu tuğla)
+Cam 0,8
+Cam yünü 0,04
+Ağaç 0,007-0,2 aralığında
+Kuru organik toprak 0,25
+Kuru mineralli toprak 2,9
+Keçe 0,037
+Strafor 0,039
+Çimento harcı (normal beton) 1,6
+Isı yalıtımı, günlük hayattaki bazı uygulamalarda tasarruf ve konfor sağla -
+dığı için tercih edilir. Örneğin otomobil motorlarının ürettiği ısının yolcuları 
+doğrudan etkilememesi için motorun üstü ısı yalıtkanı malzemeden yapılmış 
+kapakla örtülür (Görsel 4.22) . Evlerin kışın sıcak, yazın serin kalması için 
+duvarlar ısı yalıtımı sağlayan malzemelerle kaplanır. Giysilerde de kışın vücut-
+tan dış ortama, yazın ise dış ortamdan vücuda ısı iletimini en aza indirmek için 
+uygun malzemelerle üretilmiş termal kumaşlar kullanılır (Görsel 4.23). 
+Görsel 4.23: Termal kumaşla 
+üretilmiş giysi
+Görsel 4.22: Üstü ısı yalıtkanı kapak-
+la örtülmüş motor

@@ -1,0 +1,61 @@
+30
+1. Tema /  Sayılar
+8.	Uygulama
+Kök Dereceleri Farklı Olan Köklü Gösterimlerle Çarpma ve Bölme İşlemleri Yapma
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız. 
+a, b pozitif gerçek sayı; m, n pozitif tam sayı ve m ≥ 2, n ≥ 2, m ≠ n olsun. 
+1. abmn $  ve 
+b
+a
+n
+m
+ işlemleri nasıl yapılabilir? Varsayımlarınızı sınıf arkadaşlarınızla saygı çerçevesinde tar-
+tışarak oluşturunuz.
+2. Tablo 1’de köklü gösterimlerin derecelerinin genişletilmesi ve sadeleştirilmesi işlemleri üslü gösterimler 
+yardımıyla bulunmuştur. Verilmeyen işlemlerin sonuçlarını örneklerdeki gibi bularak ilgili yere yazınız.
+ T ablo 1
+ 
+Üslü Gösterim Üsse Yapılan İşlem Köklü Gösterim Elde Edilen Eşitlik
+3 2
+1
+3 ile genişletme: 332
+1
+6
+3
+3
+3
+=$
+$
+33 6 33 3 6=
+2 3
+1
+2 ile genişletme:
+5 4
+6
+2 ile sadeleştirme: 554
+6
+2
+3
+2
+2
+=|
+|
+53 5564 3=
+3 16
+12
+4 ile sadeleştirme:
+3. 2. maddede yaptığınız işlemlerden yararlanarak Tablo 2’de verilen işlemleri örnekteki gibi yapınız.
+ T ablo 2
+ 
+İstenen İşlem Yapılan İşlem 
+32 3$ 23 32$ $32 27 4 10813 12 66 6$$ ==$$
+23 3$
+62:3 23$ $32 62 36 8 29::12 13 66 6==$$
+10 5: 4
+ Tablo 2’de elde ettiğiniz sonuçlardan yararlanarak kök dereceleri farklı olan köklü gösterimlerle çarpma ve 
+bölme işlemlerine dair genellemelerinizi oluşturunuz.
+4. Varsayımlarınızla genellemelerinizi karşılaştırarak kök dereceleri farklı olan köklü gösterimlerle çarpma ve böl-
+me işlemine dair önermelerinizi oluşturunuz.
+5.  Oluşturduğunuz önermeler yardımıyla verilen problemi çözünüz. Önermelerin problemin çözümünde ne tür 
+kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini belirleyerek sınıf arkadaşları-
+nızla paylaşınız.

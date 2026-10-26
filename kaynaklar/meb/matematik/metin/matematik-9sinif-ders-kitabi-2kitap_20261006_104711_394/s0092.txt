@@ -1,0 +1,66 @@
+92
+4. Tema/Ölçme ve Değerlendirme
+12. Aşağıda	1,	2	ve	3	numar alı	binaları n	birbir lerine	
+göre	konumları	verilmiştir.	Metin,	evinin	zemin-
+den	15	m	yükseklikteki	penceresinden	baktı-
+ğında	her	bir	katı	eşit	yükseklikte	olan	14	katlı	
+bir	iş	merkezini	11.	katından	itibaren	görebil-
+mektedir.
+	 Metin’in 	bulunduğu	1	numaralı	binanın	2	numa-
+ralı	binaya	uzaklığı	30	m,	3	numaralı	iş	merke-
+zine	uzaklığı	90	m’dir.	2	numaralı	binanın	boyu	
+20	m’dir.
+Buna göre Metin, yerden en çok kaç metre yük-
+seklikten baktığında iş merkezini göremez?
+13. Kenar	uzunlukları	aynı	olan	dikdörtgen	şeklin-
+deki	iki	kitap	bir	rafa	tüm	köşeleri	raf	yüzeyine	
+temas	 edecek	 şek ilde	 görs eldeki	 gibi	 konul-
+muştur.
+ Kitaplardan birinin köşegen uzunluğu 
+12 2c m olduğuna göre A ve E köşeleri ara-
+sındaki uzaklığın kaç cm olduğunu bulunuz.
+30
+90
+1
+15 20
+2
+3
+A
+E
+14. Şekilde	 bahçedeki	 iki	 ağ aç	 ara sında	 ge rgin	
+duran	halata	üç	özdeş	kuş	evi	aynı	uzunluktaki	
+iplerle	bağlanmıştır.  
+A,	B	ve	C	noktalarında	asılı	olan	kuş	evlerinin	
+birbirine	ve	düz	zemine	uzaklıklarına	ilişkin	bil-
+giler	aşağıda	verilmiştir.
+I.	 B	noktasının	A	noktasına	uzaklığı	6	metre,	
+C	noktasına	uzaklığı	3	metredir.	
+II.	 A	noktasındaki	kuş	evinin	zeminden	yük-
+sekliği	10	metre,	C	noktasındaki	kuş	evinin	
+zeminden	yüksekliği	4	metredir.	
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  B noktasındaki kuş evinin yerden yük -
+sekliğinin kaç metre olduğunu bulunuz.
+b)  Aynı halat üzerine yerden yüksekliği   
+16 metre olan D noktasından bir kuş evi 
+asılırsa D noktasının A noktasına uzak-
+lığının kaç metre olacağını bulunuz.
+c)  Aşağıdakilerden hangileri yapılırsa          
+A noktasında asılı olan kuş evinin yer -
+den yüksekliği ile C noktasında asılı 
+olan kuş evinin yerden yüksekliği ara -
+sındaki fark 8 metre olur? Yazınız.
+I.  C	 noktasındaki	 kuş	 evi	 sabi t	 bıra kılıp	 	 	 	
+A	 noktasındaki	 kuş	 evi	 halat	 üzerinde	 	 	 	 	 	 	 	
+3	metre	sola	kaydırılır.
+II.  C	 noktasındaki	 kuş	 evi	 halat	 üzerinde	 	 	 	
+1	 metre	 sağa,	A	 noktası ndaki	 kuş	 evi	
+halat	üzerinde	2	metre	sola	kaydırılır.
+III. C	 noktasındaki	 kuş	 evi	 halat	 üzerinde	 	 	 	
+2	 metre	 sağa,	A	 noktası ndaki	 kuş	 evi	
+halat	üzerinde	5	metre	sağa	kaydırılır.	
+A
+4
+10 3
+6 B
+C

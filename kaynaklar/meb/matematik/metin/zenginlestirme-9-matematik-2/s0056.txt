@@ -1,0 +1,17 @@
+5.TEMA - ALGORITMA VE BILIŞIM
+54 55
+5. Adım
+Önce Vigenere sonra Polybius Karesi yöntemleri ile şifrelenmiş metni çözümleyiniz. Metni 
+çözümlerken Polybius Karesi için 6 satır ve 5 sütundan oluşan bir tabloyu, Vigenere yönteminin  
+anahtar kelimesi olarak “DOLUNAY” kelimesini kullanınız.
+Çözüm:
+15 25 35 25 24 11 61 35 32 45 42 31 11 33 32 21 21 22 31 41 63 61 63
+Değerlendirme
+Polybius Karesi ile şifrelenmiş bir mesajın başka bir şifreleme yöntemine göre (örneğin Vigenere 
+şifresi) ne kadar güvenli olduğunu karşılaştırarak yazınız.
+Frekans analizi yönteminin etkin bir şekilde çalışabilmesi için şifrelenmiş metnin uzunluğu 
+önemli bir etken midir? Metin en az kaç harften oluşmalıdır? Açıklayınız.
+Çözüm:
+Çözüm:
+1
+2

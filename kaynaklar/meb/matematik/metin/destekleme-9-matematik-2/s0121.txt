@@ -1,0 +1,35 @@
+120
+MATEMATİK 9 
+7. TEMA: VERİDEN OLASILIĞA
+Tekrar 
+Sayısı
+1. Torba 
+Çıktısı
+2. Torba 
+Çıktısı Çıktı Tekrar Sayısı 1. Torba Çıktısı 2. Torba Çıktısı Çıktı
+1 16
+2 17
+3 18
+4 19
+5 20
+6 21
+7 22
+8 23
+9 24
+10 25
+11 26
+12 27
+13 28
+14 29
+15 30
+3. Adım
+Elde ettiğiniz ve tablo oluşturduğunuz verilerden yola çıkarak aşağıda verilen deneysel olasılık sorularını 
+cevaplayınız. 
+a.  Çıktının “sarı renk” olma olasılığı nedir?
+Çözüm:
+2. Adım
+Grup arakadaşlarınızla yaptığınız görev dağılımına göre torbalardan iki arkadaşınızın aynı anda çektiği 
+birer kağıtta yazan renkleri ve çıktıyı aşağıdaki tabloya kaydediniz. Sonrasında kâğıtları torbaya geri 
+atıp çekme işlemini 30 defa tekrarlayınız.
+b.  Çıktının “kırmızı renk” olma olasılığı nedir?
+Çözüm:

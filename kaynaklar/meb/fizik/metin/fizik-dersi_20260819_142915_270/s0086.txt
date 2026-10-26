@@ -1,0 +1,52 @@
+86
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.12.2.1. Yay sabitini tanımlamak için deney yapabilme
+a) Farklı yaylardaki kuvvet ve uzanım değişkenlerine göre yay sabitini bulabileceği bir 
+deney tasarlar.
+b) Farklı yaylar için kuvvet ve uzanım grafiklerini oluşturarak analiz eder.
+FİZ.12.2.2. Yay sabitinin matematiksel modeline ilişkin tümevarımsal akıl yürütebilme
+a) Yay sabitine ilişkin kuvvet ile uzanım değişkenleri arasındaki örüntüyü matematik -
+sel olarak modeller.
+b) Yay sabitine ilişkin oluşturulan matematiksel model üzerinden genelleme yapar.
+FİZ.12.2.3. Yayın esneklik potansiyel enerjisinin matematiksel modeline ilişkin tümeva-
+rımsal akıl yürütebilme
+a) Kuvvet-uzanım grafiğinden yararlanarak yayın esneklik potansiyel enerjisinin ma-
+tematiksel modeline ulaşır.
+b) Farklı veri setleri ile hesaplamalar yaparak yayın esneklik potansiyel enerjisinin 
+matematiksel modelini geneller. 
+FİZ.12.2.4. Sürtünme kuvvetinin yaptığı işe yönelik tümevarımsal akıl yürütebilme 
+a) Sürtünme kuvvetinin yaptığı iş ile ilgili gözlem yapar.
+b) Sürtünme kuvvetinin yaptığı işi matematiksel olarak modeller.
+c) Sürtünme kuvvetinin yaptığı işi matematiksel modelden yararlanarak geneller. 
+FİZ.12.2.5. Enerjinin dönüşümü ve korunumuna ilişkin bilimsel çıkarım yapabilme
+a) Enerjinin dönüşümü ve korunumuna ilişkin özellikleri tanımlar. 
+b) Enerjinin dönüşümü ve korunumuna ilişkin veri toplayarak kaydeder.
+c) Enerjinin korunumunu matematiksel modelleri kullanarak yorumlar ve değerlen-
+dirir.
+FİZ.12.2.6. Mekanik sistemlerin verimi ile ilgili tümevarımsal akıl yürütebilme
+a) Mekanik sistemlerin verimi ile ilgili değişkenleri sistemden alınan enerji, sisteme 
+verilen enerji olarak belirler. 
+b) Mekanik sistemlerin verimi ile ilgili değişkenlerin arasındaki ilişkiyi belirler. 
+c) Mekanik sistemlerin verimi ile ilgili hesaplamalar yaparak değişkenler arasındaki 
+ilişkiyi geneller. 
+İÇERİK ÇERÇEVESİ Yay Sabiti 
+Yayın Esneklik Potansiyel Enerjisi
+Sürtünme Kuvvetinin Yaptığı İş
+Enerjinin Korunumu
+Verim
+Anahtar Kavramlar yay sabiti, uzanım, yayın esneklik potansiyel enerjisi, sürtünme kuvvetinin yaptığı iş, ener-
+jinin korunumu, verim 
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; model tasarlama, test (açık uçlu, kısa cevaplı eşleştirme maddeleri), 
+poster sunumu, çalışma yaprağı ve performans görevi kullanılarak değerlendirilebilir.
+Testlerin değerlendirilmesi puanlama anahtarı ile yapılabilir. STEM döngüsü çerçeve-
+sinde esneklik potansiyel enerjisini kullanarak hareket eden araba, gemi gibi bir model 
+tasarlanabilir. Model örnekleri dereceli puanlama anahtarı kullanılarak değerlendirilebi-
+lir. Matematiksel hesaplamalar için açık uçlu maddelerden oluşan test verilebilir. Kışlık 
+ve yazlık lastiklerin mevsimlere göre kullanımlarına ilişkin bireysel poster sunumu hazır -
+lanabilir. Sınıf içerisinde yapılan poster sunumlar öğretmen tarafından kontrol listesi ile 
+değerlendirilebilir. Matematiksel hesaplamalar için açık uçlu maddelerden oluşan test

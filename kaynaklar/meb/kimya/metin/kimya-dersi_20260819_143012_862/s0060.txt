@@ -1,0 +1,36 @@
+60
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+11. SINIF TEMALARI
+1. TEMA: ETKİLEŞİM
+Bu tema, Enerji ve Kimyasal Tepkimelerde Hız olmak üzere iki farklı bölümden oluşmakta-
+dır. Bu temada öğrencilerin fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin deney 
+yapmaları, çeşitli maddelerin enerji kaynağı olma potansiyeline ilişkin hipotezler oluş -
+turmaları, bağ enerjileri üzerinden tepkimelerin entalpi değişimine ilişkin akıl yürütme -
+leri, standart oluşum entalpi verileri üzerinden kimyasal tepkimelerin entalpi değişimini 
+tahmin etmeleri, kimyasal tepkimelerin gerçekleşme şartlarını açıklamaya yönelik kanıt 
+kullanmaları, kimyasal tepkimelerin hızını bilimsel veriye dayalı tahmin etmeleri, kimyasal 
+tepkimelerin hızını etkileyen faktörlere ilişkin bilimsel sorgulama yapmaları, kimyasal tep-
+kimelerin hız denklemini bilimsel veriye dayalı tahmin etmeleri amaçlanmaktadır.
+DERS SAATİ 48
+ALAN 
+BECERİLERİ FBAB4. Bilimsel Veriye Dayalı Tahmin, FBAB6. Hipotez Oluşturma, FBAB7. Deney Yapma, 
+FBAB10. Tümevarımsal Akıl Yürütme, FBAB12. Kanıt Kullanma, FBAB13. Bilimsel Sorgu-
+lama
+KAVRAMSAL 
+BECERİLER -
+EĞİLİMLER E1.2. Bağımsızlık, E1.4. Kendine İnanma (Öz Yeterlilik), E2.1. Empati, E2.2. Sorumluluk,
+E3.7. Sistematiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sos-
+yal Farkındalık, SDB3.3. Sorumlu Karar Verme
+Değerler D3. Çalışkanlık, D4. Dostluk, D10. Mütevazılık, D11. Özgürlük, D13. Sağlıklı Yaşam, D14. Saygı
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB7. Veri 
+Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Fizik, Matematik 
+BECERİLER ARASI 
+İLİŞKİLER KB2.2. Gözlemleme, KB2.10. Çıkarım Yapma, KB2.14. Yorumlama, KB2.16. Muhakeme 
+(Akıl Yürütme) (KB2.16.1. Tümevarımsal Akıl Yürütme)

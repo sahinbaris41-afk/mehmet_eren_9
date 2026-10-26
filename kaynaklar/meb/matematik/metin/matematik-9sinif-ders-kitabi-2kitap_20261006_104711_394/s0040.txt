@@ -1,0 +1,45 @@
+40
+4. Tema / Eşlik ve Benzerlik
+Kenar-Açı-Kenar	Eşliği
+İki	kenar	uzunluğu	ve	bu	kenarlar	arasındaki	açı	ölçüsü	bilinen	tek	bir	üçgen	çizilebileceğinden	iki	kenar	
+uzunluğu	ve	bu	kenarlar	arasındaki	açı	ölçüleri	eşit	olan	iki	üçgen	eştir.	Üçgenlerin	karşılıklı	iki	kenarının	
+uzunluğunun	ve	bu	kenarlar	arasındaki	açı	ölçülerinin	eşit	olması,	üçgenlerin	eş	olmasının	asgari	koşul-
+larından	biridir.	Eş	olan	bu	üçgenlerin	karşılıklı	açıları	ve	üçüncü	kenarları	da	eştir.
+5. ÖRNEK
+Yanda	verilen	DEF	eşkenar	üçgeninde
+E	noktasının	F	noktasına	göre	yansıması	E',
+F	noktasının	D	noktasına	göre	yansıması	F',
+D	 noktasının	 E	 noktasına	 göre	 yansıması	 D'	 noktası	 olduğuna	 göre	 D'E'F'	
+üçgeninin	eşkenar	üçgen	olduğunu	gösteriniz.
+Çözüm
+F'FE' F'DD' D'EE'm mm 180 60 120oo o== =- =`` `jj j%% % 	olur.	Olu-
+şan	 F'FE',	 F'DD'	 ve	 D'EE'	 üçgenleri	 eş	 üçgenler	 olduğundan	
+F'E' E'D' D'F'== 	olur	(K.A.K.).	Buradan	F'E'D'	üçgeninin	eş-
+kenar	üçgen	olduğu	bulunur.	
+D
+E F
+5. Sıra Sizde      
+Yandaki	DEF	üçgeni,	E	köşesi	etrafında	saatin	tersi	
+yönde	 70o	 döndürüldüğünde	 F	 noktası	 F'	 nokta-
+sına,	D	noktası	D'	noktasına	geliyor. 
+DEFm8 0o=`j%  ve F' DF! 7 A  olduğuna göre 
+''mD DF x=`j%  değerini bulunuz.
+ 
+D
+D'
+F'
+FE
+x
+D
+D'
+F'
+E
+a
+a
+a
+a
+a a E'60o 60o 120o
+120o
+120o
+60o
+F

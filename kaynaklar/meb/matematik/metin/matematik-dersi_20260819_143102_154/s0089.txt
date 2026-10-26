@@ -1,0 +1,51 @@
+89
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+uzunluklarının eşit olduğu hakkında çıkarımda bulunur. Bu çıkarımdan hareketle iç açıortay-
+ların tek noktada kesiştiği ve bu noktanın üçgenin iç teğet çemberinin merkezi olduğu sonu-
+cuna ulaşılır. Matematik yazılımları  aracılığıyla farklı açılar sunularak öğrencilerden bu çıka -
+rımlarının her durumda sağlandığını görmeleri beklenir  (MAB5). Benzer bir süreç işletilerek 
+dış açıortay teoremine ilişkin çıkarım yapmaları sağlanır. Ayrıca iki dış açıortay ve diğer açıya 
+ait iç açıortayın aynı noktada kesiştiği bilgisine ve bu noktanın dış teğet çemberlerden birinin 
+merkezi olduğu fikrine ulaşmaları beklenir. 
+Üçgenin iki kenarortayını inşa ederek kenarortayların kesim noktasının kenarortayları bel -
+li  oranda böldüğüne dair varsayımlarda bulunmaları, öğrencilerin  farklı matematiksel araç 
+ve teknolojiler (pergel, ölçüsüz cetvel, matematik yazılımları gibi) ile farklı yöntemler (kâğıt 
+katlama yöntemi gibi) kullanmaları sağlanarak hatırlatmalar yapılır  (MAB5, D3.4) . Benzer 
+süreçler işletilerek öğrencilerin elde ettiği önermelerden üçüncü kenarortayın da aynı nok -
+tadan geçtiği bilgisine ulaşmaları beklenir. Üçgende kenarortayların kesim noktasının ağır -
+lık merkezi olduğu, ağırlık merkezinin kenarortay uzunluğunu ikiye bir oranında böldüğü gibi 
+sonuçlara dikkat çekilir. Öğrencilere dik üçgende hipotenüse ait kenarortayın uzunluğunun 
+ayırdığı parçaların uzunluğuna eşit olduğuna dair çıkarımlar yapmaları için fırsat verilir.
+Öğrencilerin matematik yazılımları, pergel, ölçüsüz cetvel ya da kâğıt katlama yöntemini 
+kullanarak farklı üçgenlerin herhangi iki kenar orta dikmesini inşa etmesi sağlanarak  hatır -
+latmalar yapılır. Öğrencilerin üçüncü kenar orta dikmenin bu kesim noktasından geçip geç -
+mediğine dair arkadaşlarıyla tartışarak varsayımlarda bulunmaları sağlanır (SDB2.2). Diğer 
+kenar orta dikmenin de aynı kesim noktasından geçtiği şeklindeki sonuçlara dikkat çekilir. 
+Öğrencilere kenar orta dikmelerin kesim noktasının çevrel çemberin merkezi olduğuna dair 
+çıkarımlar yapmaları için fırsat verilir.
+Üçgenin yükseklikleri ile ilgili inceleme yapmak üzere  öğrencilerin farklı matematiksel araç 
+ve teknolojiler (pergel, ölçüsüz cetvel, matematik yazılımları gibi) ile farklı yöntemler (kâğıt 
+katlama yöntemi gibi) kullanarak bir üçgenin herhangi iki kenarına ait yüksekliklerini inşa et -
+meleri sağlanır (OB2). Öğrencilerin “Diğer kenara ait yükseklik, önceden çizilen iki yüksekliğin 
+kesim noktasından geçer. ”, “Dar açılı üçgenlerde yükseklikler, üçgenin içinde bir noktada; 
+geniş açılı üçgenlerde  yükseklikler, üçgenin dışında bir noktada; dik açılı üçgenlerde yüksek-
+likler, üçgenin dik açılı köşesinde kesişir.” gibi sonuçlara  ulaşmaları beklenir. Elde edilen bu 
+önermeler, farklı problem durumlarında kullanılarak değerlendirilir. Sınıf içerisinde gruplar 
+oluşturularak her bir gruptan farklı bir yardımcı eleman ve bunların özellikleri ile ilgili perfor -
+mans görevi hazırlamaları ve bunu arkadaşlarına sunmaları istenebilir. Gruplardan ele aldık -
+ları üçgenin yardımcı elemanları doğrultusunda edindikleri bilgilerden hikâye, sunum ya da 
+afiş gibi dijital bir ürün oluşturmaları istenebilir. Sonrasında bu dijital ürünler, belirlenen dijital 
+platform aracılığı ile sınıfta paylaşılabilir.
+MAT.10.1.3
+Matematik yazılımları yardımıyla öğrencilerin herhangi bir üçgenin bir kenarı değiştirilip o ke-
+nara ait yüksekliği sabit tutularak ya da yüksekliği değiştirilip o yüksekliğin bağlı olduğu kenar 
+sabit tutularak oluşturulacak üçgenlerin alanlarındaki değişime ilişkin varsayımda bulunma-
+ları sağlanır (MAB5). Farklı üçgenler üzerinden üçgende alanın hangi elemanlara göre değiş-
+tiğine dair genellemeler elde edilir. Sonrasında bu genellemeler ile varsayımlarını bilimsel bir 
+bakış açısıyla karşılaştırmaları beklenir. Karşılaştırma sonucunda elde edilen genellemeler, 
+önerme olarak ifade edilir. Yükseklikleri eşit olan üçgenlerin alanlarının bu yüksekliklere ait 
+taban uzunlukları ile orantılı olduğuna, taban uzunlukları eşit olan üçgenlerin alanlarının o 
+tabana ait yükseklikleri ile orantılı olduğuna, paralel doğrular arasında ortak tabana sahip 
+olan iki farklı üçgenin alanlarının ve bu iki üçgenin ortak olmayan bölgelerinin alanlarının eşit 
+olduğuna, benzer üçgenlerin alanları oranının benzerlik oranının karesine eşit olduğuna ve 
+üçgenin herhangi bir yüksekliğinin sinüs yardımıyla ifade edildiğinde farklı bir alan bağıntısı 

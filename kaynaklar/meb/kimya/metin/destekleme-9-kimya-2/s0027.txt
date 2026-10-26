@@ -1,0 +1,32 @@
+26
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+4. ETKINLIK ADI ATOM VE İYON YARIÇAPI
+ ► Öğr encilerden Görsel 1.1'de verilen atomların ve iyonların yarıçaplarını incelemelerini isteyiniz. 
+ETKINLIĞIN AMACI A tom yarıçapı ile iyon yarıçaplarının karşılaştırmasını yapabilme
+DESTEKLEME 
+UYGULAMASI
+Periyodik özellikler konusunda karşılaştırma becerisi işletilir. Bu becerinin 
+kazandırılması sürecinde benzerlik ve farklılıkları belirlemeye yönelik so-
+rular sorulur, öğrencilerin bilgileri daha kolay öğrenmesi ve genellemesi 
+sağlanır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+A grubu 3Li, 9F, 11Na ve 17Cl elementlerinin atom ile iyon yarıçaplarının yer 
+aldığı görseller
+Bu etkinlikte kullanılması için Görsel 1.1'i öğrenci sayısı kadar çoğaltarak öğrencilere dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Aşağıda bazı atomların ve iyonların yarıçapları pikometre  (pm) olarak verilmiştir. (3Li, 9F, 11Na, 17Cl)
+Li Li
++
+F F
+-
+Cl
+-
+Na Na
++
+Cl
+152 60 72 136
+186 95 99 181
+Görsel 1.1: Atomların ve iyonların yarıçapları

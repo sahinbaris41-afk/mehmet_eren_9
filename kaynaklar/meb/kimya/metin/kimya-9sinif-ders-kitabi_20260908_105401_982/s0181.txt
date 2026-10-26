@@ -1,0 +1,54 @@
+181
+2. Tema/Çeşitlilik
+2. Önceki bilgilerinizden faydalanarak deniz seviyesindeki suya uygulanan basınç ve suyun kaynama 
+sıcaklığını yazınız.
+3. Grafik 1’e göre deniz seviyesindeki su kaynama sıcaklığına ulaştığı anda suyun buhar basıncı kaç mm Hg 
+olur?
+4. Grafik 2’ye göre Everest Dağı’nın zirvesindeki su kaynama sıcaklığına ulaştığı anda suyun buhar basıncı 
+kaç mm Hg olur?
+5. Suyun kaynama sıcaklığındaki buhar basıncı ile suya uygulanan dış basınç arasında nasıl bir ilişki vardır? 
+Görseldeki verilere dayanarak çıkarımlarınızı yazınız.
+6. Saf suyun görselde verilen iki ortamdaki kaynama sıcaklıklarını yazınız. Farklı ortamlarda kaynama 
+sıcaklıklarının değişmesinin nedenini maddenin tanecik modelini kullanarak açıklayınız.
+2. Yönerge: Sınıf arkadaşlarınızla üçer kişilik gruplar oluşturunuz. Grup arkadaşlarınızla dayanışma içinde 
+çalışarak aşağıdaki grafik ve veriler yardımıyla soruları cevaplayınız. 
+Suya Uygulanan 
+Basınç (mm Hg)
+Saf Suyun Kaynama 
+Sıcaklığı (°C)
+760 100
+931 106
+1 448 119
+1 862 127
+2 069 131
+2 482 137
+2 896 142
+3 517 149
+20
+20
+40
+40
+60
+60
+80
+80
+100
+100
+120
+Sıcaklık (°C)
+101.325
+Buhar Basıncı (kPa)
+ 
+ 
+     Kloroform
+ 
+ 
+ 
+Etanol
+  
+ 
+             Su
+  
+ 
+ 
+Etanoik asit

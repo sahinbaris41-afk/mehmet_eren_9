@@ -1,0 +1,26 @@
+MATEMATİK 9 
+72 73
+2. Adım
+Gruplar tarafından hazırlanan araştırma sorularını aşağıdaki tabloda bulunan kriterlere göre 
+gözden geçiriniz. Tabloya göre tamamı “evet” olarak cevaplanan soruyu araştırma sorusu olarak be-
+lirleyiniz.
+Sınıfça uzlaştığınız betimleyen istatistiksel araştırma sorusu:
+Sınıfça uzlaştığınız karşılaştıran istatistiksel araştırma sorusu :
+Nicel Veri Toplamayı Gerektiren İstatistiksel Araştırma Sorusu Kriterleri Evet Hayır
+1. Amaç açıktır. Betimlemeye veya karşılaştırmaya yönelik bir araştırma sorusudur.
+2. İlgilenilen grup (evren) açıkça görülmektedir.
+3. Değişken veya değişkenler açıkça görülmektedir.
+4. Değişebilirliği yansıtmaktadır.
+5. Araştırmaya değerdir.
+6. Veri toplanarak cevaplanabilmektedir.
+7. Odaklanılan grup araştırmaya imkân vermektedir.
+8. Nicel veri toplamayı gerektirmektedir.
+Nicel Veri Toplamayı Gerektiren İstatistiksel Araştırma Sorusu Kriterleri Evet Hayır
+1. Amaç açıktır. Betimlemeye veya karşılaştırmaya yönelik bir araştırma sorusudur.
+2. İlgilenilen grup (evren) açıkça görülmektedir.
+3. Değişken veya değişkenler açıkça görülmektedir.
+4. Değişebilirliği yansıtmaktadır.
+5. Araştırmaya değerdir.
+6. Veri toplanarak cevaplanabilmektedir.
+7. Odaklanılan grup araştırmaya imkân vermektedir.
+8. Nicel veri toplamayı gerektirmektedir.

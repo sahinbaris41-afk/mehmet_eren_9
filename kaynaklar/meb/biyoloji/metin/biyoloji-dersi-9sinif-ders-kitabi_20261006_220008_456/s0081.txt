@@ -1,0 +1,56 @@
+81
+Yaşam
+4. Deney tüpüne hazırladığınız maya solüsyonundan 10 ml ekleyiniz. Bunun üzerine 10 ml hidrojen peroksit ek-
+leyerek tıpayı kapatınız (Kullanılacak hidrojen peroksit çözeltisinin yeni hazırlanmış olmasına dikkat ediniz.). 
+5. Deney sürecinde laboratuvar güvenlik kurallarına uyunuz. 
+6. Hidrojen peroksidin maya hücrelerinde katalaz enzimi tarafından parçalanma -
+sıyla su ve oksijen oluşur. Reaksiyon başladığında ters çevrilmiş su dolu dereceli 
+silindirin içinde hava kabarcıklarının çıktığını gözlemleyeceksiniz. Beş dakika bo-
+yunca açığa çıkan hava kabarcıklarını sayarak sonucu aşağıdaki tabloya yazınız.
+Substrat
+(Hidrojen peroksit, %30)
+Enzim kaynağı 
+(Maya)
+Beş dakika boyunca sayı-
+lan hava kabarcığı
+(Açığa çıkan oksijen)
+10 ml 10 ml
+Katalaz (enzim) ve hidrojen peroksit (substrat) miktarlarının enzim aktivitesi üzerindeki etkileri oldukça önemlidir. 
+Hidrojen peroksit, reaksiyon sırasında katalaz enziminin aktif bölgesine bağlanır. Bu bağlanma süreci, indüklenmiş 
+uyum veya anahtar-kilit ilişkisi şeklinde gerçekleşebilir. Enzim-substrat ilişkisi sonrası katalitik tepkime gerçekleşir 
+ve hidrojen peroksit, su ve oksijen moleküllerine dönüşür. Bu süreçte katalaz enziminin yapısı ve miktarı değişmez.
+Değerlendirme
+1. Ekip olarak elde ettiğiniz sonuçları diğer ekiplerin sonuçlarıyla karşılaştırınız.
+2. Aynı deney koşullarında, hidrojen peroksit konsantrasyonu veya maya miktarı artırıldığında deneyinizin so-
+nucunda nasıl bir değişiklik olabileceğini arkadaşlarınızla tartışınız.
+ 
+ÖNEMLİ NOT
+Hidrojen peroksit 
+kuvvetli bir 
+ağartıcıdır. Cildinizi 
+ve elbiselerinizi 
+bu kimyasaldan 
+koruyunuz.
+10. Etkinlik      
+Adı Enzim Aktivitesini Etkileyen Koşullar
+Amaç pH ve sıcaklığın enzim aktivitesini etkilediğini gösteren deney yapabilme
+Süre 40 dk.
+Araç gereç ve malzemeler Hamur mayası ya da kuru maya (katalaz kaynağı), erlen, dereceli silindir, beher, test tüpü, 
+kauçuk boru ya da hortum, tıpa, hidrojen peroksit (%30 v/v), kronometre, dereceli pipet, puar, 
+eldiven, gözlük, önlük 
+Yönerge 
+• Aşağıdaki uygulama basamaklarını takip ederek pH ve sıcaklığın enzim (katalaz) aktivitesine etkilerinin be -
+lirlenmesine yönelik deneyi gerçekleştiriniz.
+• Deney sonundaki değerlendirme sorularını cevaplayınız.
+• Etkinlik sonunda deney raporunuzu “Deney Tasarlama Raporu” formatına uygun olarak hazırlayınız.
+• Deney tasarlama raporu “Analitik Dereceli Puanlama Anahtarı” ile puanlanacaktır. Bu formlara etkinliğin 
+sonundaki karekodları kullanarak ya da kitabın sonunda verilen ekler bölümündeki Form 15 ve Form 16'dan 
+ulaşabilirsiniz.
+1. Öğretmen rehberliğinde beşer kişilik heterojen gruplar oluşturunuz.
+2. Farklı pH ve sıcaklık değerlerinin enzim aktivitesine etkisini gözlemlemek için yapacağınız deneyde “Katalaz 
+Aktivitesinin Ölçümü” (6. Etkinlik) deneyinden farklı kullanılabilecek malzemeleri ekip olarak belirleyip aşağı-
+daki tabloya yazınız.
+Ortamın pH değerini değiştirebilmek için kullanılabile-
+cek malzemeler
+Ortamın sıcaklığını değiştirebilmek için kullanılabilecek 
+malzemeler/ortamlar

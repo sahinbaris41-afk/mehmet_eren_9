@@ -1,0 +1,49 @@
+76
+GÖRSEL SANATLAR DERSİ ÖĞRETİM PROGRAMI
+GS.10.4.1.
+Grafiksel kullanıcı arayüzü tasarımına yönelik hazırlanan örnekler gösterilerek öğrenci -
+lerin bu örnekleri incelemeleri sağlanır (OB4). İncelenen örnekler üzerinden öğrencilerin 
+arayüz tasarımında yer alan görsel unsurların (ikonlar, butonlar, menüler, tablolar, pence-
+reler), bilgisayarların, web sitelerinin, mobil uygulamaların ve dijital cihazların kullanılabi -
+lirliğini artırdığı ve kullanıcıların teknik bilgi gereksinimini en aza indirdiği ile ilgili çıkarım 
+yapmaları sağlanır  (KB2.10).  Grafiksel kullanıcı arayüzlerinin amacının kullanıcıların bir 
+yazılım veya sistemle etkileşim kurmasını kolaylaştırmak olduğu belirtilir. “Web sitelerinde 
+veya mobil uygulamalarda çevre sorunları ile ilgili rastladığınız içerikler nelerdir?”, “Bu tür 
+sorunlara dikkat çekmek için hazırlanan bir web sitesi veya mobil uygulama tasarımı nasıl 
+olmalı, neden?” gibi sorular yöneltilerek öğrencilerin konu hakkındaki görüşleri alınır.
+Öğrencilerden çevre sorunları (iklim krizi, küresel ısınma, hava kirliliği, plastik atık sorunları 
+vb.) arasından seçim yaparak grafiksel kullanıcı arayüzü tasarım taslağı ile ilgili bir çalışma 
+konusu belirlemeleri istenir. Öğrencilerin grafiksel arayüz konusunda fikir geliştirmeleri -
+ne yardımcı olmak için web siteleri ve mobil uygulamalara yönelik kullanım alışkanlıkları 
+ile ilgili sorular sorulur. Öğrencilerin arayüz tasarımı yaparken kullanıcının amaçlarından, 
+alışkanlıklarından ve deneyimlerinden yola çıkılması gerektiğini fark etmeleri sağlanır. İyi 
+bir kullanıcı arayüzü tasarımında grafik tasarım ilkelerinin uygulanması, ekran ögeleri ara-
+sında anlamlı bir uyum sağlayacak sayfa düzeninin yapılması, renklerin, grafiklerin sade ve 
+etkili bir şekilde kullanılarak estetik bir görünüm elde edilmesi gerektiğine dikkat çekilir.  
+Öğrencilerden grafiksel arayüz tasarımına yönelik fikir geliştirmeleri ve açıklamaları is -
+tenir.
+Öğrencilerden belirledikleri konuyla ilgili grafiksel kullanıcı arayüzüne yönelik geliştir -
+dikleri fikirlerini somutlaştırmak üzere üç farklı eskiz yapmaları istenir. Mobil cihazlar ile 
+genel ağ tarayıcısındaki görünüm farklılıkları hatırlatılarak eskizlerin iki formata da uygun 
+olması gerektiği vurgulanır. Öğrencilerin eskiz çalışması için kullanılacak araç gereç ve 
+yöntemlerin seçimini yapmaları sağlanır. Çalışmada geleneksel ya da dijital araç gereç ve 
+yöntemlerin kullanılabileceği belirtilir. Geleneksel olarak kuru kalem, sulu boya, guaj boya, 
+marker gibi araç gereçlerin yanı sıra çevrim içi kullanılabilecek programlar önerilebilir. 
+Öğrencilerin yaygın olarak kullanılan sosyal medya uygulamalarının amaçlarını ve görsel 
+tasarımlarını bildikleri kabul edilmektedir.
+Öğrencilerin temel düzeyde endüstriyel ürün tasarımının özelliklerini bildikleri kabul edil -
+mektedir.
+Öğrencilerin etnografya müzeleri hakkında bilgileri olduğu kabul edilmektedir.
+Ön Değerlendirme Süreci
+Öğrencilere arayüz kelimesinin çağrıştırdığı anlam sorularak konuşmaları sağlanabilir.
+Öğrencilere sorulan “En çok kullandığınız sosyal medya platformlarının görsel özellikleri 
+nelerdir?”, “Sosyal medya ve sosyal yardımlaşma kavramları nasıl bir araya gelebilir?” gibi 
+sorularla öğrencilerin konu hakkındaki ön bilgileri anlaşılır.
+Endüstri ürünleri tasarımı ile sanatsal tasarım arasındaki benzerlik ve farklılıkları hatırlat-
+mak için soru cevap etkinliği yapılır.
+“Sergi ve müze hazırlarken hangi aşamalara dikkat edilmelidir?” sorusuyla öğrencilerin ön 
+bilgilerini ifade etmeleri istenir.
+Köprü Kurma Öğrencilere tasarım deyince akıllarına neler geldiği, günlük hayatlarında hangi tasarım 
+örnekleriyle karşılaştıkları sorularak düşüncelerini ifade etmeleri istenir. 
+Öğrenme-Öğretme 
+Uygulamaları

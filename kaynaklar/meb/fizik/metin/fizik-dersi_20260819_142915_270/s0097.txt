@@ -1,0 +1,46 @@
+97
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.12.4.1. Planck sabitinin modern fiziğin doğuşundaki etkisini çözümleyebilme
+a) Planck sabitinin modern fiziğin ortaya çıkışındaki etkisini siyah cisim ışıması olgu-
+su üzerinden belirler.
+b) Planck sabiti ile fotoelektrik etkinin ilişkisini belirler.
+FİZ.12.4.2. Fotoelektrik etkinin bağlı olduğu koşullar ve foton kavramına ilişkin tümeva-
+rımsal akıl yürütebilme
+a) Fotoelektrik etkinin bağlı olduğu değişkenleri gözlemler.
+b) Fotoelektrik etkinin matematiksel modeline ulaşır.
+c) Fotoelektrik etki ve foton kavramı arasındaki ilişkiyi geneller.
+FİZ.12.4.3. Fotoelektrik etkinin uygulamaları ile ilgili sorgulama yapabilme
+a) Fotoelektrik etkiyi tanımlar.
+b) Fotoelektrik etki hakkında sorular sorar.
+c) Fotoelektrik etkinin uygulamaları hakkında bilgi toplar.
+ç) Fotoelektrik etkinin uygulamaları ile ilgili toplanan bilgilerin doğru olup olmadığını 
+değerlendirir.
+d) Fotoelektrik etkinin uygulamaları ile ilgili toplanan bilgiler üzerinde çıkarım yapar.
+FİZ.12.4.4. Yarı iletkenlerin kullanım alanlarını ve önemini sorgulayabilme
+a) Yarı iletkenleri tanımlar.
+b) Yarı iletkenler hakkında sorular sorar.
+c) Yarı iletkenler hakkında bilgi toplar.
+ç) Yarı iletkenlerle ilgili toplanan bilgilerin doğru olup olmadığını değerlendirir.
+d) Yarı iletkenlerle ilgili toplanan bilgiler üzerinden yarı iletkenlerin kullanım alanları 
+ve önemine yönelik çıkarım yapar.
+FİZ.12.4.5. Süper iletkenlerin kullanım alanlarını ve önemini sorgulayabilme
+a) Süper iletkenleri tanımlar.
+b) Süper iletkenler hakkında sorular sorar.
+c) Süper iletkenler hakkında bilgi toplar.
+ç) Süper iletkenlerle ilgili toplanan bilgilerin doğru olup olmadığını değerlendirir.
+d) Süper iletkenlerle ilgili toplanan bilgiler üzerinden süper iletkenlerin kullanım alan-
+ları ve önemine yönelik çıkarım yapar. 
+FİZ.12.4.6. Standart modelin bileşenlerini çözümleyebilme
+a) Standart modelde yer alan temel parçacıkları belirler.
+b) Temel parçacıklar ve temel kuvvetler arasındaki ilişkileri belirler.
+FİZ.12.4.7. Modern Atom Teorisi ile ilgili bilgileri yapılandırabilme
+a) Atomun yapısındaki temel parçacıkları inceleyerek aralarındaki ilişkileri ortaya 
+koyar.
+b) Temel parçacıklarla ilgili bilgilerini kullanarak atomun yapısını ortaya koyar.
+FİZ.12.4.8. Nükleer enerjiyi sorgulayabilme
+a) Nükleer enerjiye ilişkin merak ettiği konuyu tanımlar.
+b) Nükleer enerjiye ilişkin sorular sorar.
+c) Nükleer enerji hakkında bilgi toplar.
+ç) Nükleer enerjiye ilişkin bilgilerin doğruluğunu değerlendirir.
+d) Nükleer enerjiye ilişkin toplanan bilgiler üzerinden çıkarımlar yapar.

@@ -1,0 +1,22 @@
+156
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: NİCELİKLER VE DEĞİŞİMLER (3)
+Bu temada öğrencilerin gerçek sayılarda tanımlı ve değerli fonksiyonların bileşkesine iliş-
+kin muhakeme yapabilmeleri, bu fonksiyonların dört işlem özelliklerini yorumlayabilmeleri 
+amaçlanmaktadır.
+DERS SAATİ 36
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme
+KAVRAMSAL 
+BECERİLER KB2.14. Yorumlama
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik 
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme)
+Değerler D3. Çalışkanlık, D5. Duyarlılık, D16. Sorumluluk, D17. Tasarruf
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel Okuryazarlık 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Ekonomi, Fizik, Kimya
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma  

@@ -1,0 +1,32 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+59
+1-3. soruları aşağıdaki bilgilere göre cevaplayınız.
+Yapay zekâ, insan benzeri düşünme, öğrenme ve 
+karar verme yeteneklerini bilgisayar sistemleri 
+aracılığıyla taklit eden teknolojiyi ifade etmektedir. TÜİK, 
+01 Ekim 2025 tarihinde “Yapay Zekâ İstatistikleri” adlı 
+araştırmasını yayınlamıştır. Bu araştırmada yer alan, 
+eğitim düzeyine göre yapay zekâ kullanımına yönelik grafik 
+yanda verilmiştir.
+Yapay zeka kullanım yüzdesi
+Eğitim düzeyi
+1. Yapay zekâ ile ilgili yapılan bu yayının araştırma sorusu aşağıdakilerden hangisi olabilir? (KB2.8. SB1)
+A) Yapay zeka kullanımının yükseköğretimdeki cinsiyet dengesi nedir?
+B) Türkiye’de eğitim araştırmalarında yapay zekânın etkisi nedir?
+C) Sınıfta yapay zekâ kullanımını artırmak için hangi çalışmalar yapılmalıdır?
+D) Cinsiyete ve eğitim durumuna göre bireylerin yapay zekâ kullanımı nasıldır?
+2. Aşağıdakilerden hangisi bu araştırmaya göre cevaplandırabilecek soru değildir? (KB2.8. SB2)
+A) Eğitim düzeyi arttıkça bireylerin yapay zekâ kullanma oranı nasıl değişmektedir?
+B) Kadın ve erkekler arasında yapay zekâ kullanımı açısından hangi eğitim düzeyindeki açıklık daha 
+fazladır?
+C) Yapay zekâ kullanımı arttıkça öğrencilerin başarıları nasıl değişmektedir?
+D) Cinsiyetlere göre yapay zekâ kullanımında eğitim düzeyleri arasındaki benzerlikler nelerdir?
+3. “Eğitim seviyesi arttıkça kadınların yapay zekâ kullanım oranlarının erkeklere göre 2 kat daha fazla 
+olduğu gözlenmiştir.” şeklinde haber bir sosyal medya hesabından paylaşılmıştır. Bu paylaşımın doğru 
+bilgi içerip içermediği sorgulanmaktadır. 
+Buna göre aşağıdakilerden hangisi bu paylaşım üzerine belirlenmesi gereken bilgilerden biri 
+değildir ? (KB2.8. SB4)
+A) Haberi paylaşan sayfanın takipçi sayısına bakılması
+B) Haberin kaynağının araştırılması
+C) Benzer bilimsel yayınların araştırılması
+D) İlgili resmî raporlara ulaşılması

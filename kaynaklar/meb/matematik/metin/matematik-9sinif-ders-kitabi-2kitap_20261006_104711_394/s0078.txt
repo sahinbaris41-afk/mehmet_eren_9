@@ -1,0 +1,55 @@
+78
+4. Tema / Eşlik ve Benzerlik
+30. ÖRNEK
+Nakışçı	Semra	Hanım	bir	kartondan	Şekil	1’deki	ABC	üçge-
+nine	eş	olan	yeterli	sayıdaki	kartonu	kesmiştir.	Bu	kartonla-
+rı	düzlem	üzerinde	kenarları	çakışacak	şekilde	birleştirerek	
+Şekil	2’deki	çiçek	desenini	oluşturmuştur.
+m ABC 110 ve AB BCo= 1_i% 	olduğuna	göre	m BAC_ i%  nün	
+kaç	derece	olduğunu	bulunuz.
+Çözüm
+ABC	 üçgeni	 kendisine	 eş	 olan	 bir	 başka	 üçgenle	 en	 uzun	
+kenarları	çakışacak	şekilde	birleştirilirse	Şekil	1’deki	dörtgen	
+elde	 edilir.	 Bu	 dörtgenlerden	 8	 tanesi	 uzun	 kenarları	 çakı-
+şacak	şekilde	birleştirilirse	Şekil	2’deki	çiçek	deseni	oluşur .	
+Oluşan	desende	16	adet	üçgenin	ölçüsü	en	küçük	olan	açı-
+ları	 tam	 açı	 oluşturur.	 m ACB a=_i% 	 alınırsa	 16 360 o$ a =  
+eşitliğinden	 , 22 5oa = 	 olur.	ABC	 üçgeninin	 iç	 açılarının	 öl-
+çüleri	toplamından	
+, BAC
+BAC , .
+m
+m bulunur
+110 22 5 180
+47 5
+oo o
+o
+++ =
+=
+_
+_
+i
+i
+%
+%
+9. Farklı stratejilerle ilgili çıkarımlarınızın geçerliliğini ve problemin çözüm stratejisine ilişkin gerekçeli yargıla-
+rınızı değerlendirmek amacıyla aşağıda verilen durumlarda stratejinizin geçerli olup olmayacağını açıklayınız.
+a) Problemde verilen çantaların farklı geometrik şekillerde (kare, ikizkenar üçgen, yarım daire, düzgün altıgen 
+vb.) olması
+b) Problemde verilen çantaların tek bir askı kolu kullanılarak asılması
+c) Problemde verilen çantaların birbirinden farklı geometrik şekillerde (dikdörtgen-ikizkenar üçgen, kare-eş-
+kenar üçgen vb.) olması
+10. 9. soruda verilen durumlarda problemin çözümü için gerekli verilerin, çözüm için kullandığınız geometrik 
+kavramların ve çözüm stratejinizin değişip değişmeyeceğine ilişkin fikirlerinizi açıklayınız.
+B
+A C
+Şekil 1
+Şekil 2
+Şekil 2
+B
+A C
+Şekil 1
+a
+a
+a
+a

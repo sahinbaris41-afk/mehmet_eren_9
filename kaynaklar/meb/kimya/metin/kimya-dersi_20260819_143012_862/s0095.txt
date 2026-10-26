@@ -1,0 +1,39 @@
+95
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: ÇEŞİTLİLİK
+Bu tema, Organik Kimyaya Giriş ve Organik Bileşikler olmak üzere iki bölümden oluşmak -
+tadır. Bu temada öğrencilerin molekülleri oluşturan atomlar arasındaki sigma ve pi bağla-
+rının ve hibrit orbitallerinin oluşumunu kanıtlarla açıklamaları, moleküllerin geometrisinin 
+belirlenmesine ilişkin çıkarım yapmaları, organik bileşiklerin gösterimi için kullanılan farklı 
+formüllere ilişkin akıl yürütmeleri, alifatik hidrokarbonları sınıflandırmaları, alifatik hidro -
+karbonların sistematik adlandırılmasına ilişkin akıl yürütmeleri, alifatik hidrokarbonların 
+izomerliklerini sınıflandırmaları, alifatik hidrokarbonların fiziksel ve kimyasal özelliklerini 
+karşılaştırmaları ve bazı kullanım alanlarını belirlemek için kanıt kullanmaları, fonksiyonel 
+gruba sahip organik bileşikleri sınıflandırarak bu bileşiklerin sistematik adlandırma kural -
+larına ilişkin akıl yürütmeleri, fonksiyonel grup izomeri olan organik bileşikleri sınıflandır -
+maları, karbon temelli enerji kaynaklarının yanma tepkimelerinin sonuçlarına ilişkin çıka -
+rım yapmaları amaçlanmaktadır.
+DERS SAATİ 70
+ALAN 
+BECERİLERİ FBAB2. Sınıflandırma, FBAB9. Bilimsel Model Oluşturma, FBAB10. Tümevarımsal Akıl Yü-
+rütme, FBAB12. Kanıt Kullanma 
+KAVRAMSAL 
+BECERİLER KB2.7. Karşılaştırma, KB2.10. Çıkarım Yapma, KB2.16. Muhakeme (Akıl Yürütme) (KB2.16.2. 
+Tümdengelimsel Akıl Yürütme)
+EĞİLİMLER E1.1. Merak, E1.3. Azim ve Kararlılık, E2.1. Empati, E3.4. Gerçeği Arama, E3.6. Analitiklik, 
+E3.7. Sistematiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sos-
+yal Farkındalık, SDB3.3. Sorumlu Karar Verme 
+Değerler D3. Çalışkanlık, D4. Dostluk, D5. Duyarlılık, D10. Mütevazılık, D13. Sağlıklı Yaşam, D18. Te -
+mizlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel 
+Okuryazarlık, OB7. Veri Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Fizik
+BECERİLER ARASI 
+İLİŞKİLER KB2.6. Bilgi Toplama, KB2.7 Karşılaştırma, KB2.9. Genelleme, KB2.16. Muhakeme (Akıl 
+Yürütme) (KB2.16.1. Tümevarımsal Akıl Yürütme), FBAB7. Deney Yapma

@@ -1,0 +1,46 @@
+222
+4. ÜNİTE 
+Hâl değişiminin gerçekleşmediği durumlar için ısı sığası, maddenin sıcaklığını 
+1°C değiştirmek için gerekli ısı miktarı olarak tanımlanır. C ile gösterilen ısı 
+sığası Görsel 4.12’deki grafikten yararlanılarak C TQD=  matematiksel modeli 
+ile bulunur. Buradan verilen ısı için Q = C : ΔT matematiksel modeli elde edilir. 
+Isı sığasının maddenin kütlesiyle öz ısısının çarpımı olduğu bilindiğine göre 
+ısı ile sıcaklık değişimi arasındaki ilişki, aşağıdaki matematiksel modelle ifade 
+edilir.
+Q = m : c : ΔT
+Q: verilen veya alınan ısı (J)
+m: kütle (kg)
+c: öz ısı (J/kg : K)
+ΔT: sıcaklık değişimi (K)
+Örnek
+Yanda K ve L maddelerinin ısı sığası-kütle değişim grafiği verilmiştir. 
+Buna göre
+a) Eşit kütledeki K ve L maddelerinin sıcaklıklarını eşit miktarda 
+değiştirebilmek için hangi maddeye daha fazla ısı vermek 
+gerekir? Gerekçeleriyle açıklayınız.
+b) Hangi maddenin öz ısısı daha büyüktür?
+Çözüm 
+a) Grafikte K ve L’nin kütleleri eşit seçilirse K’nin ısı sığasının L’den 
+büyük olacağı görülür. Isı sığaları farklı iki maddenin sıcaklıklarını eşit 
+miktarlarda değiştirebilmek için ısı sığası büyük maddeye daha fazla 
+ısı verilmesi gerekir. Buna göre K’ye daha fazla ısı verilmelidir.
+b)  Grafiğe göre K’nin ısı sığası daha büyük ve C = m : c olduğundan 
+cK > cL  olur.
+Örnek
+9. sınıf öğrencisi Betül, öz ısısı 4,18 J/g : °C olan 20 °C sıcaklıktaki 500 gram suya 10.450 J ısı vererek 
+bir deney yapıyor.
+Deney sonucunda suyun son sıcaklığı kaç oC olur?
+Çözüm 
+Q = m : c : ΔT matematiksel modelinde verilenler yerine yazılırsa 10.450 = 500 : 4,18 : ΔT
+ΔT = 5 oC bulunur. Bu durum suyun sıcaklığının 5 oC arttığını gösterir. 
+Buna göre suyun son sıcaklığı Tson = 20 + 5 = 25 oC bulunur.
+Isı sığası (cal/ oC)
+Kütle (g)
+L
+K
+Isı sığası (cal/ oC)
+Kütle (g)m
+cK
+cL
+L
+K

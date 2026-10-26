@@ -1,0 +1,50 @@
+77
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+kullanarak suda az çözünen tuzların molar çözünürlüklerine ilişkin hesaplama yapar. 
+Öğrencilerin suda az çözünen farklı tuzların çözünürlük çarpım sabitlerini kullanarak çö -
+zünürlüklerine ilişkin yargıya varmaları sağlanır (KB2.14, OB4) . Öğrencilerden çalışma 
+yaprağında verilen suda az çözünen çeşitli tuzların molar çözünürlükleri ve çözünürlük 
+çarpımları arasında ilişki kurmayı gerektiren problemleri cevaplandırmaları istenebilir. 
+KİM.11.2.14 
+Öğrencilerden suda az çözünen tuzların çözünürlüğüne etki eden faktörlerin etkisini  göz-
+lemleyebileceği (video, animasyon, deney vb.) farklı ortamlar oluşturmaları istenir  (OB2). 
+Öğrencilerin ortak iyonun ve sıcaklığın bir tuzun çözünürlüğüne etkisini belirlemeleri için 
+farklı tuz örneklerine ait verilen molar çözünürlük ve K ç değerlerini kullanmaları sağla -
+nır. Öğrenciler, verileri kullanarak ortak iyonun ve sıcaklığın çözünürlüğe etkisine ilişkin 
+çıkarımlarda bulunur ve çıkarımlarını etkili iletişim becerilerini kullanarak sınıf ortamın -
+da paylaşır (SDB2.1, D14.1, E2.2) . Öğrencilerin suda az çözünen tuzların çözünürlüğüne 
+etki eden faktörlere ilişkin çıkarımlarını Le Chatelier ilkesi ile ilişkilendirerek açıklamaları 
+sağlanır (OB1). Performans görevi çerçevesinde öğrencilerden sıcaklık ve ortak iyonun 
+bir tuzun çözünürlüğüne etkisini araştırmaları için bir deneyi tasarlamaları, uygulamaları, 
+raporlamaları istenebilir (SDB1.2).
+FARKLILAŞTIRMA
+Zenginleştirme Haber-Bosch yöntemi ile endüstriyel amonyak üretimi örnek verilip tepkimenin neden 
+düşük sıcaklık ve yüksek basınç altında gerçekleştirildiğinin sorgulanması, sıcaklık ve ba-
+sıncın tepkimenin verimine etkisinin Le Chatelier ilkesi ile açıklanması sağlanabilir. Ayrıca 
+yöntemde kullanılan demir katalizörün etkisinin sorgulanması da istenebilir. Yoğun sera 
+gazı içeren Haber-Bosch yönteminin sürdürülebilir yeşil bir yönteme nasıl dönüştürülebi-
+leceği konusunda araştırma projesi tasarlatılabilir. Öğrenciler, farklı disiplinlerden bilgile-
+rini sentezleyerek yöntemle ilgili çözüm önerileri geliştirebilir. 
+*Öğrencilere buzulların erimesi sonucunda denizlerdeki tuzluluk oranının değişmesinin 
+deniz canlıları, kıyı ekosistemi, su kalitesi ve okyanus dolaşımı üzerindeki etkilerini araştı-
+rabileceği bir proje görevi verilebilir. Bu araştırmalardan elde ettiği sonuçlardan hareketle 
+öğrencilerden buzulların erimesine neden olan sera gazlarının azaltılması, eriyen buzulla-
+rın sucul sisteme kazandırdığı minerallerin sudaki çözünürlüğünün azaltılması, çözünen 
+minerallerin çöktürme veya arıtma sistemleriyle etkisizleştirilmesine yönelik çözüm öne -
+rileri geliştirmeleri ve küçük ölçekte pilot çalışmalar yapmaları istenebilir. 
+*Okyanuslarda ve geniş yüzeye sahip büyük göllerde oluşan, oksijen düzeyi düşük olan (hi-
+poksik) ölü bölgelerin tespiti ve ekosisteme olası zararlarının belirlenmesi amacıyla proje 
+görevleri verilebilir. Öğrenciler, projelerinde ölü bölgelerin oluşum sürecini ve nedenlerini 
+araştırabilir. Ölü bölgelerin oluşumuna neden olan kimyasal gübrelerin kullanımı, kanali -
+zasyon kaçağı, kentsel arazi için denizlerin doldurulması ve kıyıların yükselmesi sorunlarını 
+ortadan kaldırmak için çözüm üretmek ve alternatif çözümleri değerlendirmek de yine 
+proje kapsamında yaptırılabilir. Öğrenciler, projelerinde kimyasal gübrelerdeki azot ve 
+fosfor içeren tuzların sudaki çözünürlük dengelerini etkileyen faktörleri kullanmak üzere 
+deneyler yapabilir. Coğrafi alanlarda şekillendirmeler yapmak amacıyla yapay zekâ uygu -
+lamalarını kullanabilir. Öğrencilerden kalsiyum karbonatın toprağın asitliğini yükseltmede 
+kullanılan bir tuz olmasından hareketle farklı tuzların yapısal özelliklerini inceleyerek ben-
+zer amaçlarla kullanılabilirliğine yönelik bilimsel bir araştırma yapmaları istenebilir.
+Öğrenciler, sürdürülebilir kalkınma hedefleri çerçevesinde enerji üretiminde reaksiyon -
+ların denge durumunun enerji verimliliği üzerindeki etkilerini araştırabilir. Araştırma so -
+nuçlarından elde ettiği verilerden yola çıkarak enerji verimliliği üzerinde yenilikçi fikirler 
+geliştirebilir.

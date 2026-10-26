@@ -1,0 +1,45 @@
+114
+2. ÜNİTE 
+İstasyondaki bir tren (Görsel 2.15) harekete geçtiğinde trenin tüm parçaları, 
+istasyona göre belirli bir doğrultu ve yönde ilerleme hareketi yapar. Cismi 
+oluşturan parçaların birlikte ve aynı yönde hareket etmesine öteleme hareketi 
+denir. Doğrusal bir yol boyunca 
+ ● balkondan yere düşen saksının, 
+ ● duvar kenarına itilen masanın,
+ ● buz pistinde ilerleyen patencinin 
+hareketleri öteleme hareketine örnek verilebilir.
+Çalışırken ısınan bilgisayar işlemcisinden sıcak havayı uzaklaştıran fanın per-
+vanesinin (Görsel 2.16) üzerindeki her nokta, fanın merkezinden geçen mil 
+çevresinde ve merkeze uzaklıkları değişmeden döner. Cismin sabit bir nokta 
+etrafında çember çizerek yaptığı harekete dönme hareketi denir. Sabit bir 
+nokta etrafında  
+ ● lunaparklardaki dönme dolabın, 
+ ● mekanik saatlerde akrep ve yelkovanın,
+ ● helikopterlerde pervanenin 
+hareketi dönme hareketine örnek verilebilir.
+Gitarın gerilmiş tellerine vurulduğunda tel, bir denge noktası etrafında gidip 
+gelme hareketi yapar (Görsel 2.17). Referans noktası olarak bir denge konumu 
+alındığında bu denge konumundan geçerek oluşan gidip gelme hareketine 
+titreşim hareketi denir. Denge konumuna göre 
+ ● salıncakta sallanan bir kişinin, 
+ ● su yüzeyindeki dalgaların, 
+ ● ses çatalına (diyapazon) vurulduğunda çatalın
+hareketleri titreşim hareketine örnek verilebilir.
+Görsel 2.15: İstasyondaki 
+bir tren
+Görsel 2.16: Çalışırken 
+ısınan bilgisayar işlem-
+cisinden sıcak havayı 
+uzaklaştıran fan
+Görsel 2.17: Titreşim 
+hareketi yapan gitar telleri
+Örnek
+Doğada görülen hareket türleri; genel olarak öteleme, dönme ve titreşim hareketi şeklinde sınıflandı -
+rılır. Bununla birlikte bazı hareketler bu sınıflandırmadaki hareket türlerinden yalnızca biri ile açıkla -
+nabilirken bazıları birden fazla hareket türünü barındırabilir. Örneğin evden okula giden bir bisikletlinin 
+hareketi temelde öteleme hareketi iken bisikletin tekerleği aynı anda hem dönme hem öteleme hareketi 
+yapmaktadır. 
+Buna göre tablodaki hareket türlerini aynı anda içeren hareketlere örnekler veriniz.
+Öteleme ve dönme hareketi
+Öteleme ve titreşim hareketi
+Dönme ve titreşim hareketi

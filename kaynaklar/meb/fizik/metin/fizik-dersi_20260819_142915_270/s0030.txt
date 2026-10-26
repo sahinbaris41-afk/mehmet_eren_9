@@ -1,0 +1,34 @@
+30
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme Öğrenciler, STEM döngüsü basamaklarıyla serum hortumu, şırınga vb. malzemeler kul-
+lanarak bir hidrolik sistem tasarlayabilirler. Tasarladıkları sistemi sunabilirler. Bu sis-
+temlerde eşit büyüklüklerde kuvvet uygulanarak daha fazla yük kaldırılmasına yönelik bir 
+yarışma düzenlenebilir ve öğrencilerin rekabet ortamı içinde tasarımlarını geliştirmeleri 
+teşvik edilebilir. Öğrenciler mermer gibi malzemelerin basınçlı suyla kesimi konusunda 
+araştırma yapabilir ve benzer biçimde Bernoulli İlkesi’nin sanayideki kullanımları ile ilgili 
+poster hazırlayabilir. Uçak, helikopter, insansız hava araçları gibi araçların uçmalarında ve 
+manevralarında Bernoulli İlkesi’nin etkisi görsellerle desteklenerek tartışılabilir. Öğrenci-
+lerden Torricelli deneyine benzer bir sistem tasarlamaları istenebilir. Su gibi farklı sıvıların 
+Torricelli deneyinde kullanılması durumunda sıvı yüksekliğini hesaplamaları istenebilir. 
+Bununla alakalı olarak öğrencilerden yüksek binalarda üst katlara suyun ulaştırılması ile 
+pompa kullanımını ilişkilendirerek sınıfta paylaşmaları istenebilir. Sörf, sal yarışı, yelkenli 
+vb. spor etkinliklerinde kaldırma kuvvetinin etkisini dikkate alarak öğrenciler STEM dön-
+güsünden yararlandıkları bir spor aleti geliştirebilirler.
+*Balıkların vücutlarında bulunan hava keselerinin işlevini tartışmaları sağlanabilir ve öğ-
+rencilerden bu ilke ile çalışan aygıt tasarlamaları istenebilir. 
+*Öğrencilerden gruplar hâlinde, Bernoulli İlkesi'ni kullanarak motorsuz bir model uçak ta-
+sarlamaları istenebilir. Tasarlanan model uçaklar için en uzun menzil yarışması yapılabilir. 
+Öğrenciler Bernoulli İlkesi’ni temel alan bir oyuncak tasarlayabilirler.
+Destekleme Kaldırma kuvveti ile ilgili su içinde yüzen bir plastik bardağa teker ve madenî para ekle-
+yerek plastik bardağın batan hacminin arttığı ve hâlâ yüzdüğü gözlemlenebilir. Kaldırma 
+kuvvetinin plastik bardak ve içindeki madenî paraların toplam ağırlığına eşit büyüklükte 
+olduğu vurgulanarak toplam ağırlık ile yer değiştiren sıvının ağırlığı büyüklük açısından iliş-
+kilendirilebilir. Öğretmen, düşeyde asılı ve birbirine yakın duran iki kâğıdın arasına üflen-
+diğinde kâğıtların birbirine yaklaştığının gözlemlenebildiği bir gösteri deneyi yaparak bu 
+durumu Bernoulli İlkesi’yle açıklayabilir. Öğrencilerden Bernoulli İlkesi’nin uygulamalarına 
+yönelik yapmaları istenen araştırmalarda bu uygulamalar öğretmenin yönlendirmesi ile 
+buldurulabilir veya öğretmen tarafından verilebilir.
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

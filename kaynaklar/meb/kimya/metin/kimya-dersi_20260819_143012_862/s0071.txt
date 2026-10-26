@@ -1,0 +1,47 @@
+71
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+c) Farklı asitlerin ve bazların kuvvetlerini karşılaştırmak üzere araştırma gerçekleştirir. 
+ç) Araştırma verilerini asitlerin ve bazların saf suda iyonlaşma yüzdelerini kullanarak 
+yorumlar. 
+d) Açıklamalarında alt mikro ve sembolik seviyede gösterimler kullanır.   
+e) Açıklamalarını bilimsel bilgiler ile değerlendirir. 
+KİM.11.2.9. Kuvvetli asit-zayıf asit ve kuvvetli baz-zayıf baz sulu çözeltilerindeki pH hesap-
+lamalarını karşılaştırabilme 
+a) Derişimleri aynı olan kuvvetli asit-zayıf asit ve kuvvetli baz-zayıf baz sulu çözeltileri-
+nin pH değerine ilişkin özellikleri belirler. 
+b) Kuvvetli asit-zayıf asit ve kuvvetli baz-zayıf baz çözeltilerinin pH hesaplamalarına 
+ilişkin benzerlikleri listeler. 
+c) Kuvvetli asit-zayıf asit ve kuvvetli baz-zayıf baz çözeltilerindeki pH hesaplamalarına 
+ilişkin farklılıkları listeler. 
+KİM.11.2.10. Nötralleşme olayını operasyonel tanımlayabilme 
+a) Kuvvetli asit ve kuvvetli baz sulu çözeltileri arasında gerçekleşen nötralleşme tep-
+kimelerini gözlemleyebilmek için ölçütler (iletkenlik, pH değişimi ve indikatörün renk 
+değişimi) belirler. 
+b) Nötralleşme olayına ilişkin belirlediği ölçütleri test eder. 
+c) Nötralleşme olayına ilişkin matematiksel ilişkiler içeren tanımlar yapar. 
+KİM.11.2.11. Kuvvetli asit ve kuvvetli baz çözeltilerinin derişimlerini titrasyon yöntemiyle be-
+lirlemeye yönelik deney yapabilme 
+a) Derişimi bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltilerinin derişimlerini belir-
+lemeye ilişkin deney planlar.
+b) Derişimi bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltisinin derişimini belirler. 
+KİM.11.2.12. Asidik ya da bazik ürünlerin en uygun olanına karar verebilme 
+a) Mide, ağız, diş ve cilt sağlığı için kullanılan asidik ya da bazik özellik gösteren ürün-
+lerin seçimine yönelik amaç belirler. 
+b) Amaçlarına yönelik deneyler gerçekleştirerek bilgi elde eder. 
+c) Deneydeki gözlemlerine dayanarak asit-baz tepkimelerinin sonucuna ilişkin öner-
+meler oluşturur. 
+ç) Oluşturduğu önermeler üzerinde mantıksal denetleme yapar. 
+d) Mide, ağız, diş ve cilt sağlığı açısından asidik ya da bazik özellik gösteren uygun 
+ürünleri seçer. 
+e) Mide, ağız, diş ve cilt sağlığı için seçtiği ürünlerin sağlık açısından etkisine yönelik 
+yansıtma yapar. 
+KİM.11.2.13. Suda az çözünen tuzların çözünürlüğüne ilişkin bilimsel model oluşturabilme 
+a) Suda az çözünen tuzların çözünürlüğünü açıklamak için model önerir. 
+b) Modelini bilim insanlarının modelleriyle karşılaştırır. 
+KİM.11.2.14. Suda az çözünen tuzların çözünürlüğüne etki eden faktörlere ilişkin bilimsel çı-
+karım yapabilme 
+a) Suda az çözünen tuzların çözünürlüğüne  etki eden faktörlere ilişkin farklı gözlem 
+ortamları oluşturur. 
+b) Ortak iyon ve sıcaklığın bir tuzun sudaki çözünürlüğüne etkisini belirlemek için mo-
+lar çözünürlük ve Kçç değerlerini içeren hazır veri seti kullanır. 
+c) Çıkarımlarını Le Chatelier ilkesi ile açıklar. 

@@ -1,0 +1,53 @@
+100
+GÖRSEL SANATLAR DERSİ ÖĞRETİM PROGRAMI
+Konuyla ilgili eskiz çalışmasına başlamadan önce öğrencilerin belirlenen ürünlerden se -
+çim yaparak ambalaj tasarımında kullanacakları görsel ögeleri belirlemeleri istenir. Öğ -
+rencilerden seçtikleri ürünle ilgili üç farklı eskiz yapmaları istenir. Eskiz yapım sürecinde 
+kullanılacak yöntem ve araç gereçler öğretmenle birlikte belirlenir. Geleneksel teknikler 
+için kuru kalem, sulu boya, guaj boya, marker vb. araç gereçlerin yanı sıra dijital teknikler 
+için çevrim içi kullanılabilen programlar önerilebilir. Yapılan çalışmalar kontrol listesi veya 
+dereceli puanlama anahtarı ile değerlendirilebilir.
+GS.11.4.2.
+Artırılmış gerçeklik projeleri ile ilgili başarılı dijital örnekler sunularak öğrencilerin ince -
+lemeleri sağlanır  (OB2). Bu tür projelerde kullanılan teknik uygulamaların nasıl yapılmış 
+olabileceği hakkında öğrencilerin tahminlerde bulunmaları istenir ve merak ettikleri konu-
+larla ilgili sorular sormaları sağlanır (E3.8). Öğrencilere artırılmış gerçekliğin bilgisayarla 
+üretilmiş grafik, görüntü, ses ya da gps verileriyle var olan gerçekliğin artırılması olduğu 
+söylenir. Sanal ve gerçek nesnelerin ya da mekânların bir arada kullanılabileceği, mobil 
+cihazlarla kullanılabilen bir uygulama şekli olduğu konusunda öğrencilerin çıkarımlar yap-
+maları sağlanır. Öğrencilerden çevrelerindeki çarpık yapılaşma ile ilgili gözlemlerini pay -
+laşmaları istenir.
+Kent estetiği, sanal sanat ve artırılmış gerçeklik (AR: augmented reality) gibi kavramlar 
+hakkında merak uyandırıcı sorular sorularak öğrencilerin fikirlerini ifade etmeleri istenir 
+(E1.1). Öğrencilerin kent estetiğine zarar veren yapılarla ilgili sanal gerçeklikle uygulana -
+bilecek alternatif çözümler üretmeleri sağlanır (SDB3.2). Öğrencilerden bu tür sanatsal 
+çalışmaların güncel görsel algıyla ilişkilerini sorgulayarak çıkarımlarda bulunmaları iste -
+nir. Böylece öğrencilerin güncel teknoloji uygulamaları ile geleneksel, kültürel, sanatsal 
+özellikleri birleştirerek geleceğin dünyasını şekillendirebileceklerini ve kent yaşamına de-
+ğer katabileceklerini fark etmeleri sağlanır (D7.3, OB5). Öğrencilerden artırılmış gerçeklik 
+için üretilmiş sanat uygulamaları ile yaşadıkları kentin hangi alanlarını estetik olarak zen -
+ginleştirilebileceğini düşünmeleri istenir. Örnek olarak yapıların büyük duvarlarının, boş 
+meydanlardaki geniş alanların, atıl kalmış bölümlerin değerlendirilebileceği vurgulanarak 
+öğrencilerin yaşadıkları çevrede sanal sanat için uygun alanları tespit etmeleri sağlanır.  
+Sanal sanat ve artırılmış gerçeklikle ilgili olarak artırılmış gerçeklik teknolojisinin ve dijital 
+sanat eserlerinin fiziksel dünyada görünmesini sağlayan özellikleri vurgulanır. Artırılmış 
+gerçekliğin ne olduğu, nasıl çalıştığı üzerinde durularak öğrencilerden sanal sanat eserle-
+rinin fiziksel mekânlarla nasıl birleştirilebileceği üzerine fikirler geliştirmeleri istenir (E3.3, 
+OB2). Yapılacak çalışmanın kentin doğasına, kültürüne veya tarihine uygun temalara sa -
+hip olmasının önemi vurgulanır. Öğrencilerin çalışmalarında yer verebilecekleri birlikte 
+yaşama kültürü, kentin tarihsel özellikleri gibi konuları simgeleyebilecek ögeleri tespit 
+etmeleri istenir (D19.3, SDB2.3). Bu aşamada öğrencilerin kendi aralarında beyin fırtınası 
+yaparak kullanabilecekleri ögelerle ilgili kısa notlar almaları ve çalışacakları temaya yöne-
+lik fikir geliştirmeleri sağlanır.
+Öğrencilerden daha önce seçtikleri kent mek ânlarının tahmini ölçülerine göre çalışma 
+alanlarının yatay, dikey, dairesel formatlardan hangisine uygun olduğunu tespit etmeleri 
+istenir. Eskiz aşamasına geçmeden önce inceledikleri örnek ve uygulamalar ile ilgili teknik 
+özellikler kısaca hatırlatılır. Sanal resimler için figüratif veya soyut çizimlerin tercih edi -
+lebileceği, sanal heykel çalışmaları için kültürel simgeler, geometrik formlar gibi üç bo-
+yutlu tasarımlar kullanılabileceği belirtilir. Öğrencilerin sanal heykel ya da duvar resmi ile 
+ilgili çalışmalarını oluştururken görselin çevreyle nasıl bir bütünlük oluşturacağını ve kent 
+peyzajını nasıl tamamlayacağını göz önünde bulundurarak eskiz yapmaları sağlanır. Bu 
+aşamada öğrencilere fotoğraflardan yararlanabilecekleri, HB, 2B gibi dereceli kalemleri 
+ve seçtikleri bir boyama tekniğini kullanabilecekleri hatırlatılır. Süreç bitiminde çalışma -
+larını artırılmış gerçekliğe uyarlamak isteyen öğrencilerin tasarımlarını hangi dijital çizim 
+araçlarında ya da 3D modelleme yazılımlarında gerçekleştirebilecekleri ile ilgili araştırma 

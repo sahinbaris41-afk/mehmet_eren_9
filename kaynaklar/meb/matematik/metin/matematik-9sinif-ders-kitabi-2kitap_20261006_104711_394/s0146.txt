@@ -1,0 +1,63 @@
+146
+5. Tema/Ölçme ve Değerlendirme
+6.  Aşağıda	 katsayıları	 ekrandan	 girilen,	 sıfır-
+dan	farklı	 a R6 !  ve b R6 ! 	 için	 f: ,RR"  
+fx ax b=+_i 	şeklinde	tanımlı	doğrusal	fonksi-
+yonun	sıfırını,	grafiğinin	y	eksenini	kestiği	nok-
+tanın	ordinatını,	eğimini	ve	fonksiyonun	artan	
+veya	azalan	olma	durumunu	ekrana	yazdıran	
+bir	algoritmanın	işleyişi	algoritmik	doğal	dille	
+verilmiştir.
+ 
+ 
+ 
+1. adım:	Başla.
+2. adım: Girdilerin alınması
+	 Kullanıcıdan 	bir	fonksiyonun	kat-
+sayılarını	(a 0! ,	b)	al.
+3. adım: Fonksiyonun sıfırının bulunması
+	 Fsıfır’ı 	bul.	Bu	işlem	için	Fsıfır’ı	
+a
+b- 	değerine	eşitle.
+4. adım: Fonksiyonun grafiğinin y ekse -
+nini kestiği noktanın ordinatının 
+bulunması 
+	 Fyeksen’i 	bul.	Bu	işlem	için	
+Fyeksen’i	b	değerine	eşitle.
+5. adım: Fonksiyonun eğiminin bulun-
+ması
+	 Fegim’i 	bul.	Bu	işlem	için	Fegim’i	 
+a	değerine	eşitle.
+6. adım: Fonksiyonun azalanlığının kont-
+rol edilmesi ve ekrana yazılması 
+	 Fegim 	sıfırdan	küçükse	ekrana
+	 ‟Fonksiyon 	azalan,	sıfırı	Fsıfır,					
+y	eksenini	kestiği	noktanın	ordina-
+tı	Fyeksen	ve	eğimi	Fegim	olur.”	
+yaz	ve	7.	adıma	git.
+	 Fegim 	sıfırdan	büyükse	ekrana
+	 ‟Fonksiyon 	artan,	sıfırı	Fsıfır,								
+y	eksenini	kestiği	noktanın	
+ordinatı	Fyeksen	ve	eğimi	Fegim	
+olur.”	yaz	ve	7.	adıma	git.
+7. adım:	Bitir.
+Algoritmik Doğal Dil
+ 
+ 
+ Buna göre aşağıdaki soruları cevaplayınız. 
+a) Algoritmanın işleyişini akış şemasıyla 
+ifade ediniz. 
+ 
+ 
+ 
+Akış Şeması
+b) Elde ettiğiniz akış şeması yardımıyla  
+tabloda verilen a ve b gerçek sayıları 
+için algoritmanın ekran çıktılarını belir -
+leyiniz.
+ 
+ 
+Fonksiyon a b Ekran Çıktısı
+k:	RR" 1 0
+g:	RR" 2 6
+h:	RR" -5 10

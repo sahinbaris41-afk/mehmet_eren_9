@@ -1,0 +1,51 @@
+92
+1. Tema Ölçme ve Değerlendirme Soruları
+10-14. soruları aşağıdaki metin, görsel ve grafiklere göre cevaplayınız.
+Evinde sık sık temizlik yapan bir kişi yeni mutfak tezgâhının (yüksek oranda bazik yapılı CaCO3 içeren 
+doğal taş) yüzeyinde kısa süre sonra renk değişimi ve aşınma meydana geldiğini gözlemler. Bunun 
+üzerine bilgi vermek ve problemin sebebini/sebeplerini öğrenmek amacıyla yetkili firmaya bir mesaj 
+gönderir. Bir süre sonra firma aşağıdaki anketi müşterisine ileterek bu anketteki cevaplara göre araştır-
+ma yapacağını ve araştırmanın sonuçlarını paylaşacağını belirtir.
+Firma yetkilisi kimyagerin gönderdiği anket ve müşterinin cevapları:
+1. Doğal taşın yüzey temizliğinde kimyasal ürün kullanıyor musunuz?    Evet / Hayır 
+2. Kullandığınız kimyasal ürünleri aşağıdaki liste üzerinden işaretleyiniz.
+çamaşır suyu, arap sabunu, kezzap, yüzey temizleyici, yağ çözücü, tuz ruhu, diğer …
+Yetkili firmanın araştırma raporu sonuçları:
+Bu araştırmada, temizlik için kullandığınız kimyasal ürünlerin mermer gibi doğal taşların yüzey rengine 
+(sarılık) ve kütle kaybına olan etkisi incelenmiştir. Kullanılan kimyasal temizlik ürünlerinin nitelikle rini 
+belirlemek için yapılan deney görselleriyle temizlik için kullanılan kimyasal ürünlerin 120 saat kulla-
+nımı sonucunda doğal taşın yüzey rengine ve kütle değerine olan etkisini gösteren grafikler aşağıda 
+verilmiştir. 
+Orijinal Tuz 
+Ruhu
+Tuz 
+Ruhu
+Çamaşır 
+Suyu
+Çamaşır 
+Suyu
+Yüzey 
+Temizleyici
+Yüzey 
+Temizleyici
+Grafik 1: Temizlik için kullanılan kimyasal 
+ürünlerin doğal taşın yüzey 
+rengine etkisi
+Yüzey Rengi
+pH kâğıdı
+Tuz ruhu Yüzey temizleyici Çamaşır suyu
+Grafik 2: Temizlik için kullanılan 
+kimyasal ürünlerin doğal taşın 
+kütle değerine etkisi
+Orijinal
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90 Kütle %

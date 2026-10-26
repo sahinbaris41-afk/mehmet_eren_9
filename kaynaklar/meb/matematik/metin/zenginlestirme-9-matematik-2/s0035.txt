@@ -1,0 +1,29 @@
+MATEMATİK 9 
+34 35
+6. Adım
+7. Adım
+8. Adım
+Yanda verilen karekodu okutarak eliptik ve hiperbolik geometri hakkında bilgi 
+edininiz. Öğrendiklerinizden yola çıkarak Öklid dışı bir geometrinin de var olduğunu 
+düşündüğünüzde üçgenin iç açılarının ölçüleri toplamının her durumda 180° olup ol -
+madığını açıklayınız. Sınıfta tartışarak çok yönlü bakış açısıyla değerlendiriniz.
+Sınıfa getirdiğiniz küre şeklindeki cisim üzerine üç nokta çiziniz. Noktaları birleştirerek üçgen 
+oluşturunuz. Açıölçerle üçgenin her bir açısını ve üçgenin iç açıları ölçüleri toplamını ölçünüz ve 
+ölçüm sonuçlarını yazınız .
+Sınıfa getirdiğiniz hiperbolik şeklindeki cisim üzerine üç nokta çiziniz. Noktaları birleştirerek üç-
+gen oluşturunuz. Açıölçerle üçgenin her bir açısını ve üçgenin iç açıları ölçüleri toplamını ölçünüz ve 
+ölçüm sonuçlarını yazınız.
+Çözüm:
+Çözüm:
+Değerlendirme
+Öklid dışı geometriyi birkaç cümle ile anlatınız. Öklid ve Öklid dışı geometrilerin temel farklarını 
+yazınız.
+Hiperbolik geometriyi Öklid geometrisinden ayıran aksiyomu açıklayınız.
+Bir küre ve hiperboliğin üzerine yarıçapı r olan bir çember çizersek çemberin çevresinin 2πr den 
+büyük ya da küçük olma durumunu açıklayınız.
+Çözüm:
+Çözüm:
+Çözüm:
+1
+2
+3

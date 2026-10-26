@@ -1,0 +1,29 @@
+220
+7. Tema / Veriden Olasılığa
+Olayların Olasılık Değerlerini Hesaplama 
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız.
+Görselde 8 eşit parçaya ayrılmış ve her parçasında sırasıyla 1’den 8’e 
+kadar rakamların yazılı olduğu bir çark ve üzerinde 1, 2, 3, 4, 6 yazan 
+5 özdeş topun bulunduğu bir kutu verilmiştir. 
+1. Çark bir kez çevrildiğinde ibrenin gösterdiği yere gelen sayıya ve kutudan çekilen topa ait deneyin tüm çıktı -
+larını görselleştiriniz.
+2. Çarktaki parçalardan herhangi birinin ibrenin gösterdiği parça olma olasılık değeri, diğer parçaların gösterilme 
+olasılık değerine ya da kutudaki toplardan herhangi birinin seçilme olasılık değeri, diğer topların seçilme ola -
+sılık değerine göre farklı mıdır? Açıklayınız.
+3. Çark bir kez çevrildiğinde okun gösterdiği yere gelen sayının asal sayı olma olayı veya kutudan çekilen topun 
+üzerinde tek sayı yazma olayı A olsun. A olayını oluşturan olayları B ve C olayı olarak ifade ediniz.
+4. B ve C olaylarının istenen çı ktılarını bulunuz.
+5. Çark bir kez çevrildiğinde ibrenin gösterdiği yere gelen sayının asal sayı olma olayı ve kutudan çekilen topun 
+üzerinde tek sayı yazma olayı D olsun. B, C ve D olaylarının olasılık değerlerini elde ediniz.
+6. A olayının istenen çıktılarını elde ediniz ve bu olayın olasılık değerini hesaplayınız.
+7. Bu deneyde incelenen B, C ve D olaylarının olasılık değerleri kullanılarak  A olayının olasılık değeri bulunabi-
+lir mi? Açıklayınız.
+8. Hangi olayların ortak çıktısı vardır, hangilerinin yoktur? Ortak çıktısı olan olaylardan oluşan olayın olasılık 
+değerini hesaplarken neler fark ettiniz? Açıklayınız.
+6. Uygulama
+1
+2
+3
+456
+7
+8

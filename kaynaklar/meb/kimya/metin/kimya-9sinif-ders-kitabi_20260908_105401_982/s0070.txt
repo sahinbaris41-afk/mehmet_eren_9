@@ -1,0 +1,83 @@
+1. Tema/Etkileşim
+70
+Bir elementin valans elektronlarının sayısı o elementin kimyasal özelliklerini, 
+kimyasal bağ ve iyon oluşturmasını, periyodik tablodaki grup numarasını be-
+lirler. A grubu elementlerinin valans elektron sayılarının belirlenmesinde en 
+dış temel enerji kabuğunda yer alan s orbitalindeki ya da s ve p orbitallerin -
+deki toplam elektron sayıları, B grubu elementlerinin valans elektron sayıları-
+nın belirlenmesinde ise ns ve (n−1)d orbitallerindeki toplam elektron sayıları 
+kullanılır.
+4Be: 1s
+2
+ 2s
+2  
+Valans elektron sayısı: 2
+8O: 1s
+2
+ 2s
+2
+ 2p
+4  
+Valans elektron sayısı: 6
+25Mn: 1s
+2
+ 2s
+2
+ 2p
+6
+ 3s
+2
+ 3p
+6
+ 4s
+2
+ 3d
+5  
+Valans elektron sayısı: 7⇒
+⇒
+⇒
+A grubu elementlerine baş grup (ana grup) elementleri, B grubu elementleri-
+ne ise yan grup elementleri denir. Elektron dizilimi s orbitali ile biten element-
+ler s blok, p orbitali ile biten elementler p blok, d orbitali ile biten elementler d 
+blok, f orbitali ile biten elementler ise f blok elementleridir. d bloku elementle-
+ri geçiş metalleri, f bloku elementleri iç geçiş metalleri olarak adlandırılır.  
+Aşağıda periyodik tablonun bloklarının birbirine göre konumu ve bazı grupla-
+rın özel adları verilmiştir. 
+1A 8A
+H 2A 3A 4A 5A 6A 7A He
+3B 4B 5B 6B 7B 8B 8B 8B 1B 2B
+Geçiş Metalleri
+1. periyot
+2. periyot
+3. periyot
+4. periyot
+5. periyot
+6. periyot
+7. periyot
+Alkali Metaller
+Toprak Alkali Metalleri
+Toprak Metalleri
+Halojenler
+Soy Gazlar
+s bloku p blokud bloku
+f bloku
+İç Geçiş Metalleri Lantanitler
+Aktinitler
+Periyodik tabloda valans 
+elektron sayısı ile grup nu-
+marası uyuşmayan element 
+var mıdır? Düşüncelerinizi 
+arkadaşlarınızla paylaşınız.
+Not: Helyum soy gaz olması nedeniyle p bloğunda gösterilmektedir. Ancak elektron diziliminin s orbitali ile 
+bitmesinden dolayı s bloğu elementidir.
+Periyodik Tabloda Yer Bulma  
+Kurallarına Yönelik Oluşturduğunuz 
+Genellemeler
+Bilimsel Bilgiler Sonucunda Değişen 
+Genellemeniz
+Genellemelerinizi Oluştururken Fark 
+Edemediğiniz Noktalar
+Elementlerin periyodik 
+tablodaki yerleri ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.

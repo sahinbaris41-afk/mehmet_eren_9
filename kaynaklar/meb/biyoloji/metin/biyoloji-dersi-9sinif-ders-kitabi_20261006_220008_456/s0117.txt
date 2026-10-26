@@ -1,0 +1,49 @@
+117
+Organizasyon
+Görsel 2.21
+Farklı ortamlarda bitki 
+hücrelerinde meydana gelen 
+değişimler
+Görsel 2.22
+Aktif taşıma sürecinde 
+kullanılan protein yapılı 
+pompalar ATP enerjisi ile çalışır.
+Ozmoz Deneyi
+Hücre sitoplazmasına kıyasla çözünmüş madde yoğunluğu az olan çözeltilere hipo-
+tonik çözelti adı verilir. Plazmolize uğramış bir hücre hipotonik bir çözeltiye koyul-
+duğunda dış ortamdan su alarak eski durumuna döner. Bu olaya deplazmoliz denir. 
+Normal bir hücre hipotonik bir çözeltiye konduğunda ise su alarak şişer (turgor) ve 
+hücrenin hacmi artar. Artan hücre sitoplazması da hücre çeperine içeriden basınç 
+uygular. Bu basınç turgor basıncı olarak nitelendirilir (Görsel 2.21). Hayvan hücrele-
+rinde hücre duvarı bulunmadığından turgor basıncının artmasıyla hücreler patlaya-
+bilir. Bitki hücrelerinde turgor basıncı yaprakların parlak ve canlı görünmesini sağlar.
+Difüzyon ve ozmoz, maddelerin hücre içine veya dışına geçişini enerji harcamadan 
+sağlayan ve hücre zarının iki tarafındaki derişim farkı nedeniyle doğal olarak devam 
+eden süreçlerdir. Ancak hücrelerin yaşamsal faaliyetlerini sürdürebilmesi için bazen 
+maddelerin düşük derişimli bölgeden yüksek derişimli bölgeye taşınması gerekir. 
+Aktif taşıma olarak adlandırılan bu süreçte enerji kullanılır. Aktif taşımada hücre za-
+rına yerleşik protein yapılı bir pompa, ATP molekülünde depolanan enerjiyi molekül-
+lerin konsantrasyon farkına karşı taşınması için kullanır (Görsel 2.22).
+Aktif taşımada hem ATP harcandığı hem de enzim gibi çalışan protein yapılı pom-
+palar kullanıldığı için süreç sadece canlı hücrelerde gerçekleşir. Sinir sisteminden 
+gelen bilgilerin iletimi, bağırsak epitelinden besin moleküllerinin emilimi, böbrek-
+ten süzülen yararlı moleküllerin kan dolaşımına geri emilimi gibi olaylar aktif taşı -
+mayla gerçekleşir.
+Hücre dışı Yoğun
+Yoğun
+Protein yapılı pompalar
+Hücre içi
+Enerji 
+kullanımı
+Enerji 
+kullanımı
+Normal bitki 
+hücresi
+İzotonik ortam Hipertonik ortam Hipotonik ortam
+Turgor
+basıncı
+Bitki hücresinin 
+büzüşmesi 
+(plazmoliz)
+Bitki hücresinin 
+şişmesi

@@ -1,0 +1,53 @@
+90
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+hücrenin temel bileşenlerini ve işlevini tanımladığı bir metin yazdırılabilir. Sınıf içi tartışma 
+ile öğrencilerin gözlem yapmadığı durumlara ilişkin tahminlerini paylaşmaları ve değerlen-
+dirmeleri istenebilir (SDB2.1). Etkinlik kâğıtları, “öğrencinin önerme oluşturabilme ve ta -
+nımlama yapabilme” ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen tarafından 
+değerlendirilebilir veya öğrenciden öz değerlendirme yapması istenebilir (SDB1.2).
+KİM.12.1.4 
+Piller konusuna dikkat çekebilmek amacıyla öğrencilere “Lityum iyon pili üzerine yapılan 
+çalışmalara 2019’da Nobel Ödülü verilmesiyle elektronik endüstrisinin gelişimi arasında 
+nasıl bir ilişki vardır?” sorusu sorulabilir. Bir galvanik hücrede voltmetrede okunan değe -
+rin hücre potansiyeli (E hücre) ve biriminin volt (V) olduğu bilgisi verilerek hücre potansi -
+yeli tanımlanır. Ardından referans elektrot olarak kullanılan standart hidrojen elektrodu 
+(SHE) hakkında bilgi verilerek işlevi açıklanır. Farklı standart elektrokimyasal hücrelere 
+ait net tepkimeler, yarı tepkimelerin standart indirgenme potansiyelleri ve standart hüc -
+re potansiyellerini içeren hazır veri seti verilir. Öğrencilerin verilen örnekleri inceleyerek 
+standart hücre potansiyeli hesaplanmasına ilişkin örüntü oluşturmaları ve örüntüyü 
+matematiksel olarak modellemeleri sağlanır (OB7). Öğrenciler, buldukları matematik -
+sel modeller üzerinden genelleme yapmaları için yönlendirilir. Öğrencilerden bir elekt -
+rokimyasal hücrenin standart hücre potansiyelinin standart yarı hücre potansiyelleri -
+nin farkı (E° hücre = E°katot – E°anot) olduğu genellemesine ulaşmaları beklenir. Öğrenciler, 
+matematiksel modellerini farklı elektrokimyasal hücrelerin standart potansiyellerinin 
+hesaplanmasında kullanabilecekleri örnekleri inceler. Standart hücre potansiyellerinin 
+hesaplanmasına ilişkin geliştirdiği matematiksel modele ilişkin genellemelerini bilim 
+insanlarının genellemeleriyle karşılaştırır. Bu karşılaştırma ile öğrenciler araştırmacı 
+ve sorgulayıcı olmaya teşvik edilerek çalışkanlık değeri desteklenir (D3.3). Daha sonra 
+öğrencilere E° hücre değerinin sıfırdan büyük olduğunda net tepkimenin istemli (kendi -
+liğinden gerçekleşen), sıfırdan küçük olduğunda net tepkimenin istemsiz olduğu çıka -
+rımına ulaştıracak örnekler verilir (KB2.10). Öğrencilerden çalışma yaprağında verilen 
+elektrokimyasal hücrelerin standart potansiyellerinin hesaplanması ve net tepkimenin 
+istemli olup olmadığını belirlemesi istenebilir. Süreç sonunda farklı pil türleri ve bu pille -
+rin günlük hayattaki kullanım alanlarıyla ilgili okuma parçası verilebilir. Ayrıca lityum iyon 
+pillerine alternatif olarak geliştirilen sodyum iyon pillerinin geliştirilmesine yönelik yapı -
+lan yatırım artışının nedenleri sınıfta tartışılarak konuya ilişkin okuma parçası verilebilir.
+KİM.12.1.5 
+Çevreye, canlılara ve sürdürülebilirliğe önem vermeye vurgu yapılarak fosil kaynaklı yakıt 
+tüketimini azaltmaya yönelik kullanılan elektrikli araç teknolojilerinde bataryanın ömrünü 
+etkileyen faktörlerin neler olabileceği hakkında öğrencilerin fikirleri alınır. Çevreye duyarlı-
+lık değeri vurgulanır (D5.2, D18.3). Ardından galvanik hücrelerin işleyiş mekanizmasını öğ-
+renen öğrenciler, galvanik hücrelerin potansiyelini etkileyen faktörleri (seçilen elektrot -
+ların aktifliği, elektrolit derişimi ve sıcaklık) belirler (OB1). Öğrenciler, grup arkadaşlarıyla 
+çalışarak ilgili faktörlerin galvanik hücrelerin potansiyelinde yaratacağı olası değişimlerin 
+neden-sonuç ilişkilerini tespit eder ve etkinlik kâğıdına yazar. Böylece öğrencilerin etkili 
+iletişim becerilerini kullanmaları ve grupla çalışma becerisi sergilemeleri sağlanır (E1.5, 
+SDB2.1, SDB2.2, D3.4, D14.1) . Öğrenciler, galvanik hücrelerin potansiyelini etkileyen her 
+bir faktörü dikkate alarak bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler. 
+Öğrencilerden galvanik hücreler oluşturarak veya uygun simülasyonlar kullanarak belirle-
+dikleri bağımsız değişkenler temelinde deneyler planlamaları, planladıkları deneyi uygula-
+maları ve verileri etkinlik kâğıdına kaydetmeleri istenir (E3.7, SDB1.1, OB7). Öğrenciler, be-
+lirlediği her bir faktörün galvanik hücrelerin potansiyeline etkisine ilişkin Le Chatelier ilkesi 
+temelinde önermeler oluşturarak bunları alt mikro seviyede açıklar (OB1). Sürecin bütünü 
+“deney adımlarının takip edilerek galvanik hücrelerin potansiyeline etki eden faktörlerin 
+belirlenebilmesi ve bu faktörlerin Le Chatelier ilkesi ile ilişkilendirerek açıklanabilmesi”

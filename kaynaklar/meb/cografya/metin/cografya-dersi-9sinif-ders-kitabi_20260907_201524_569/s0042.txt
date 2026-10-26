@@ -1,0 +1,61 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+42
+ç) Ölçek
+Yaklaşık 510 milyon km2 alana sahip olan yeryüzünün tamamı veya bir bölümü-
+nün haritası çizilirken gerçek boyutlar küçültülerek haritaya aktarılabilir. Harita 
+çiziminde yapılan küçültme işlemi belirli bir oran dâhilinde yapılır. Coğrafi unsur, 
+olay ve yükseltilerin haritaya aktarılması sırasında kullanılan küçültme oranına 
+ölçek adı verilir. Ölçek, harita üzerindeki uzunlukların gerçekte karşılığı olan me-
+safeyi gösterir. Haritalarda ölçek iki şekilde yer alır.
+1. Kesir Ölçek: Pay ve paydadan oluşan kesirli sayıyla gösterilen ölçektir. Kesir 
+ölçekte pay her zaman 1 olur, kesrin paydası ise yapılan küçültmeyi gösterir. Bu 
+ölçekte birim her zaman santimetre (cm) cinsindendir.
+0 1 3
+km
+2
+1 cm
+2. Çizgi Ölçek: Grafik olarak gösterilen ölçektir. Çizgi ölçek, harita üzerindeki 
+uzunlukların gerçekte ne kadar olduğunu bir doğru üzerinde gösterir. Bir harita 
+dijital cihazlarla çoğaltılıp ebatları değiştirildiğinde bu değişim ölçeğe yansıdığı 
+için çizgi ölçek daha çok tercih edilir.
+Haritadaki uzunluk
+Gerçek uzunluk
+Yukarıdaki çizgi ölçeğe göre haritada 1 cm ölçülen uzunluk gerçekte 1 km’dir 
+(100.000 cm). Buna göre yukarıdaki çizgi ölçeğin kesir ölçek karşılığı 1/100.000’dir.
+1 
+100.000 
+Haritadaki uzunluk
+Gerçek uzunluk
+Ölçek:
+1/100.000 ölçekli haritada 1 cm ölçülen uzunluk gerçekte 1 km’dir. 
+Çizgi Ölçekten Yararlanılarak Gerçek Uzunluk Nasıl Bulunur? 
+Çizgi ölçek yardımıyla haritadaki uzunlukların gerçekteki mesafeleri bulunabilir. 
+Bunun için önce gerçek uzaklığı aranan iki nokta, harita üzerinde tespit edilir ve 
+bir kâğıt parçası üzerinde işaretlenir. Gerçek uzaklığı aranan iki noktanın işaret-
+lendiği kâğıt, haritanın çizgi ölçeği ile çakıştırılır. Çizgi ölçekten yararlanılarak 
+gerçek uzunluk bulunur (Harita 2.3).   
+02 04 06 08 0 100 120 140 160 18010
+km
+K
+I
+II
+VAN
+MUŞ
+BİTLİS
+BATMAN
+Van  Gölü
+SİİRT
+0 110 165
+km
+55
+İl merkezi
+Göl
+İl sınırı
+Van Gölü ve Çevresi
+Harita 2.3  
+Yandaki haritada Bitlis 
+ile Van il merkezleri 
+arasındaki kuş uçuşu 
+uzaklık, çizgi ölçekten 
+yararlanılarak 110 km 
+bulunmuştur.

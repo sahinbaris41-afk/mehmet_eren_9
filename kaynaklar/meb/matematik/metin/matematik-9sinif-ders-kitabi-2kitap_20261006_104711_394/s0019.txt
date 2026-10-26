@@ -1,0 +1,47 @@
+19
+4. Tema / Eşlik ve Benzerlik
+Kontrol Noktası
+• Simetrik şekillerin simetri ekseni olan doğruya göre yansıma dönüşümü altındaki görüntüsü ile şekil çakı-
+şıktır. Dolayısıyla şeklin düzlemdeki yeri ve yönü değişmez.
+• Bir şekil üzerindeki noktalar ile şeklin yansıma dönüşümü altındaki görüntüleri olan noktaları birleştiren 
+doğru parçaları yansıma doğrusuna diktir. Dolayısıyla bu doğru parçaları birbirlerine paraleldir.
+Öteleme	Dönüşümü	ve	Özellikleri
+Düzlemde	bir	şeklin	belirli	bir	uzaklık	ve	yönde	öteleme	dönüşümü	altındaki	görüntüsü,	şekil	üzerindeki	
+tüm	noktaların	verilen	yön	ve	uzaklıkta	ilerletilmesiyle	oluşturulur.	Şeklin	değişen	ve	değişmeyen	özel-
+likleri	ile	öteleme	dönüşümünün	özellikleri,	düzlemde	verilen	şekiller	ve	şekillerin	öteleme	dönüşümü	
+altındaki	görüntüleri	karşılaştırılarak	belirlenebilir.	
+Öteleme Dönüşümünün Özellikleri-Yansıma ve Öteleme Dönüşümlerinin Karşılaştırılması
+Aşağıda verilen adımları takip ederek soruları cevaplayınız.
+Birim kareli zeminde ABCD, EFGH ve PRS bölgelerinin belirli doğrultu, yön ve uzaklıklarda ötelenmesi ile oluş-
+turulmuş görüntüleri verilmiştir. ABCD, EFGH ve PRS bölgelerinin öteleme dönüşümleri altındaki görüntüleri 
+sırasıyla A'B'C'D', E'F'G'H' ve P'R'S' bölgeleridir.
+1. Verilen şekiller ile öteleme dönüşümü altındaki görüntülerini inceleyerek şekillerin hangi doğrultu (yatay-di -
+key) ve yönlerde (pozitif-negatif) kaç birim ötelendiğini bulunuz. Hem yatay hem de dikey doğrultuda öteleme 
+dönüşümü uygulanan şekil olup olmadığını belirleyiniz. Cevaplarınızdan hareketle Tablo 1’in ilgili alanlarını 
+uygun ifadelerle doldurunuz.
+Tablo 1
+Şekil Öteleme Doğrultusu  Öteleme Yönü Öteleme Miktarı
+ABCD
+EFGH
+PRS&
+2. Şekillerin belirlediğiniz öteleme dönüşümleri sonrasında değişen ve değişmeyen özelliklerinin neler olabilece-
+ğine ilişkin fikirlerinizi yazınız. Fikirlerinizi sınıf arkadaşlarınızla tartışınız.
+2. Uygulama
+A
+B
+C
+D
+ A'
+B'
+C'
+D'
+P
+R S
+P'
+R' S'
+G'
+E' H'
+F'
+G
+E H
+F

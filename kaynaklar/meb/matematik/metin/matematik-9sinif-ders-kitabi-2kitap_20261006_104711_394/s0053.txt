@@ -1,0 +1,37 @@
+53
+4. Tema / Eşlik ve Benzerlik
+Birçok	geometrik	problemin	temelinde	iç	içe	geçmiş	benzer	üçgenler	kullanılmaktadır.	Bir	üçgene	benzer	
+başka	bir	üçgenin	nasıl	oluşturulabileceği	bilgisi	bu	problemlerin	çözümünün	anlamlandırılabilmesi	açı-
+sından	önem	taşır.	Üçgenlerin	benzer	olma	koşulları	dikkate	alınarak	bir	üçgenden	hareketle	bu	üçgene	
+benzer	çok	sayıda	üçgen	oluşturulabilir.	
+ 4.3. 	BENZER	ÜÇGENLER	OLUŞ TURMA
+Konuya Başlarken
+Bir balık yetiştirme havuzunun içinde yavrulama dönemindeki balıklar için ayrı bir bölme 
+yapılmak istenmektedir. Havuz ABC üçgeni şeklinde aşağıdaki gibi modellenmiştir. Bölme, 
+KA B! 7 A  ve LA C! 7A  olacak şekilde seçilen iki noktanın doğrusal şekilde birleştirilmesi ile 
+oluşturulacaktır. 
+Oluşacak AKL üçgeni ile ABC üçgeninin benzer olması istendiğine göre aşağıdaki 
+soruları cevaplayınız.
+1. ABC üçgenine benzer AKL üçgenini oluşturmak için K ve L noktalarını belirlemeden önce 
+hangi ölçümler yapılmalıdır?
+2. K  ve L noktası KL BC'77 A A  olacak şekilde seçilirse AKL ve ABC üçgenlerinin benzer olup 
+olmayacağına ilişkin fikirlerinizi nedenleriyle açıklayınız. 
+3. AKL ve ABC üçgenlerinin ortak köşesini oluşturan kenar uzunluklarının orantılı 
+olmasının üçgenlerin benzer olması için yeterli olup olmayacağına ilişkin fikirlerinizi 
+nedenleriyle açıklayınız.
+A
+B C
+Benzer Üçgen Oluşturma
+Aşağıda verilen ABC üçgeninin AB ve AC kenarları sırasıyla 4 ve 6 eşit aralığa ayrılmıştır. Benzerlik koşulların-
+dan hareketle noktalardan ikisini birleştirerek ABC üçgenine benzer üçgenler oluşturunuz ve soruları cevaplayınız.
+A
+B
+S
+L
+P
+C
+K
+N
+TM
+R
+8. Uygulama

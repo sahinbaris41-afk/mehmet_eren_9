@@ -1,0 +1,21 @@
+124
+5. Tema/Algoritma ve Bilişim  
+1. En az bir büyük harf, bir küçük harf ve bir özel karakter içeren, ASCII dışı karakter içermeyen ve en az 8 karak-
+terden oluşan bir şifre belirleyiniz.
+ 
+2. Belirlediğiniz şifrenin bilgisayar sistemindeki karşılığını bulunuz. Elde ettiğiniz değerleri arkadaşlarınızın bul-
+duğu değerlerle karşılaştırınız. Şifrelerde benzer ya da farklı karakterler olup olmadığını belirleyiniz.
+ 
+ 
+3. Onluk sistemdeki bir sayıyı bilgisayar sistemindeki bir sayıya çeviren algoritmanın işleyişini algoritmik doğal 
+dil yardımıyla açıklayınız.
+ 
+ 
+ 
+Algoritmik Doğal Dil
+ASCII	karakter	kümesinin	standartlaştırılması,	farklı	bilgisayar	ve	ağ	sistemlerinin	birbiriyle	daha	kolay	
+iletişim	kurmasını	sağlamıştı r	ancak	ASCII	yalnızca	İngiliz	alfabesi	ve	temel	sembollerle	sını rlıdır.	Bu	
+nedenle	dünya	çapında	birçok	farklı	dil	ve	simgeyi	kapsayacak	şekilde	genişletilmiş	yeni	standartlar	
+geliştirilmiştir.	Bunlara	örnek	olarak	Genişletilmiş	ASCII,	Unicode	(Yunikod)	gibi	daha	kapsamlı	kodlama	
+sistemleri	verilebilir.	Unicode,	dünya	genelindeki	hemen	hemen	tüm	dilleri	destekleyecek	şekilde	tasar-
+lanmıştır	ve	ASCII	karakter	kümesinin	doğrudan	bir	uzantısı	olarak	görülebilir .

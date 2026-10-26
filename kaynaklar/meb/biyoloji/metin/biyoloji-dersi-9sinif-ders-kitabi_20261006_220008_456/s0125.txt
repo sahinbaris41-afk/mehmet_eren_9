@@ -1,0 +1,42 @@
+125
+Organizasyon
+İkili Adlandırma ve Sınıflandırma Kategorileri
+Biyolojide canlıların benzerliklerine, farklılıklarına ve akrabalık derecelerine göre 
+belirli gruplara ayrılması sınıflandırma yoluyla yapılmaktadır. Sınıflandırma saye -
+sinde organizmalar arasındaki benzer ve farklı yönlerin incelenmesinde ve derlenen 
+bilgilerin gelecek kuşaklara aktarılmasındaki zorluklar ortadan kalkmış olur. Her bir 
+sınıflandırma kategorisinde yer alan belirli ortak özelliklere sahip canlı grubuna 
+takson, canlıları sınıflandırmak için gerekli olan tüm ilke ve ölçütleri belirleyen bilim 
+dalına ise taksonomi denir.
+Dünyada yaşayan tüm canlıları belli yöntemlerle sınıflandırarak tanımak taksono-
+minin temelini oluşturur. Bu işlevi nedeniyle taksonomi, biyolojinin diğer alt dalları 
+(alt disiplinleri) arasında öncü konumundadır. Biyolojinin ilgi alanı olan canlıyı ilk 
+önce tanımlayan ve tanıtan taksonomi bilimidir. Taksonomi bilimi; canlıları tanım-
+lama çalışmalarında morfoloji, anatomi, histoloji, biyokimya, moleküler biyoloji gibi 
+biyolojinin alt dallarından ve diğer bilimlerden de yararlanır. Bu nedenle sistematik 
+araştırma yapan bir biyolog konuyla ilgili alanlarda bilgi sahibi olmalıdır. Böylece 
+sistematik araştırmalar ile biyolojinin diğer alanlarına önemli katkılar sağlanır.
+Tarihî süreçte canlıların birçok özelliği sınıflandırma amacıyla kullanılmaktadır. 
+Günümüzde bu işlem akrabalık ilişkilerine göre yapılmakta ve bu sınıflandırma 
+sistemi doğal (modern = filogenetik) sınıflandırma olarak adlandırılmaktadır. Bu 
+kapsamda canlıların morfolojik, anatomik, fizyolojik, genetik vb. birçok özelliğinden 
+yararlanılır. Moleküler biyoloji yöntemlerindeki gelişmeler, DNA ve RNA dizilerinin 
+incelenmesini ve karşılaştırılmasını mümkün hâle getirmektedir. Canlılar arasındaki 
+akrabalık ilişkilerinin moleküler düzeyde belirlenmesine oldukça önemli katkılar 
+sağlamaktadır. Moleküler veriler, protein yapı ve dizilerindeki benzerlikler türler 
+arasındaki akrabalık derecesinin belirlenmesinde kullanılmakta ve canlılar arasın -
+daki ilişkilerin daha doğru kurulmasını desteklemektedir.  
+Sınıflandırmanın doğal ve temel birimi türdür. Tür; ortak özelliklere ve genetik 
+mirasa sahip, birbirleriyle çiftleşip verimli döl verebilen (doğurgan yavrular üre -
+tebilen) canlılar grubudur. Türlerin isimlendirilmesinde İsveçli doğa bilimci Carl 
+Linneaus’nin (Karl Linne) önerdiği ikili (binomial) adlandırma yöntemi kullanılır. 
+Bu yönteme göre tür adı iki kelimeden oluşur. Birinci kelime cins adı ifade eder ve 
+ilk harfi büyük yazılır. İkinci kelime ise tamamlayıcı adı ifade eder ve küçük harfle 
+yazılır. Bu iki kelime birlikte tür adını oluşturur ve eğik (italik) yazılır (Görsel 2.26).
+Örnek
+Görsel 2.26
+Ters lale (Fritillaria imperialis, 
+fıritilarya imperyalis)
+Cins adı Fritillaria
+Tamamlayıcı ad imperialis
+Tür adı Fritillaria imperialis

@@ -1,0 +1,84 @@
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+101
+0o
+30o 30'
+68o 30'
+27o
+90o
+90o
+48o
+Sıcak kuşak
+Ilıman kuşak
+Soğuk kuşak
+Soğuk kuşak
+Ilıman kuşak
+Sıcak kuşak
+Harita 3.2 
+Dünya yıllık ortalama 
+indirgenmiş sıcaklık 
+dağılışı
+Yeryüzünde sıcaklığın dağılışı Dünya’nın küresel şekli nedeniyle farklı -
+lık göstermektedir. Bu sayede sıcaklık kuşakları ortaya çıkmıştır. Sıcaklık 
+kuşaklarının sınırları; kara ve denizlerin dağılışı, okyanus akıntıları gibi 
+nedenlerle yarım kürelerde farklılık gösterir.
+Sıcak Kuşak: Ortalama sıcaklığın 20 °C’un üstünde olduğu kuşaktır.
+Ilıman Kuşak: Ortalama sıcaklığın 0 °C ile 20 °C arasında olduğu ku-
+şaktır. Bu kuşakta yıl içinde sıcaklık farkları belirgindir ve dört mevsim 
+yaşanır.
+Soğuk Kuşak: Ortalama sıcaklığın 0 °C’un altında olduğu kuşaktır.
+Bilgi Kutusu 
+ Sıcaklık Kuşakları
+Sıcaklığın Dünya Üzerindeki Dağılışı
+Sıcaklık haritaları çizilirken izoterm (eş sıcaklık) eğrilerinden yararlanılır. İzoterm 
+eğrileri, sıcaklıkları aynı olan noktaların birleştirilmesiyle elde edilir. İzoterm ha-
+ritalarında yükselti faktörünün sıcaklık üzerindeki etkisini ortadan kaldırmak için 
+izoterm eğrilerinin sıcaklık değerleri deniz seviyesine indirgenir. Bu tür haritalara 
+indirgenmiş izoterm haritaları denir. 
+Dünya yıllık ortalama indirgenmiş sıcaklık haritası (Harita 3.2).  ince
+ lendiğinde
+ 
+aşağıdaki sonuçlara ulaşılabilir: 
+•
+ Sıcaklık, 
+enlem etkisine bağlı olarak Ekvator’dan kutuplara doğru 
+azalır.
+•
+ Karalar 
+daha fazla yer kapladığı için kuzey yarım kürede yıllık sıcaklık 
+ortalamaları güney yarım küreden fazladır.
+•
+ En 
+yüksek sıcaklık değerleri, kuzey yarım kürede dönence üzerindeki 
+çöllerde görülür.
+•
+ Sıcaklıklar kutuplarda yıl boyunca 0 °C’un altındadır
+.
+•
+ Kuzey 
+yarım kürede kıtaların batı kıyılarının doğu kıyılarından daha sı-
+cak olması sıcak okyanus akıntılarıyla ilişkilidir.
+İndirgenmiş izoterm 
+haritaları; enlem, nem-
+lilik, okyanus akıntıları, 
+karasallık-denizellik gibi 
+faktörlerin sıcaklığın 
+dağılışı üzerindeki etkisini 
+göstermek için kullanılır.
+0o
+0o
+30o
+30o
+30o30o
+60o
+60o60o 90o90o 120o 120o150o 150o
+60o
+-10o-10o 0o
+20o
+20o
+10o
+10o
+0o
+30o
+30o
+0       2.000    4.000
+km

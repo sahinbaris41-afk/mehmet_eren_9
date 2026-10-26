@@ -1,0 +1,78 @@
+164
+3. ÜNİTE 
+Sıvıların molekülleri arasındaki boşluk, gazlara göre daha azdır. Bu nedenle 
+sıvılar daha büyük yoğunluğa sahiptir. Bu, sıvılarda birim hacimde daha fazla 
+molekül bulunduğu anlamına gelir. Gazlar, moleküllerinin arasındaki büyük 
+mesafe ve zayıf çekim kuvvetleri nedeniyle daha düşük yoğunluğa sahiptir. 
+Gazların belirli bir hacmi ve şekli yoktur, gazlar bulundukları kabı tamamen 
+doldurur. Gazlar sıkıştırılabilirken sıvıların sıkıştırılabilirliği çok düşüktür. Bu 
+nedenle sıvılar sıkıştırılamaz kabul edilir.
+Atmosfer; azot, oksijen ve diğer gazlardan oluşan bir gaz tabakasıdır. 
+Atmosferi oluşturan gazlar, ağırlıkları nedeniyle temas ettiği yüzeylere basınç 
+uygular. Bu basınca açık hava basıncı denir.
+Sıvılarda basınç hesaplamaları derinliğe bağlı olarak yapılır ve sıvıların 
+basıncı derinlikle doğru orantılı olarak artar. Derinliğin artmasıyla sıvının 
+üzerindeki katmanların ağırlığı artar ve bunun sonucunda basınç yükselir. 
+Gazlarda ise basınç hesaplamaları genellikle yüksekliğe bağlı olarak yapılır. 
+Sıkıştırılabilir yapıları nedeniyle gazların yükseklikle birlikte yoğunlukları ve 
+dolayısıyla basınçları değişir. Atmosferin üst kısımlarında bulunan gaz kat -
+manlarının yoğunluğu daha az olduğundan ağırlığı da daha azdır. Bu nedenle 
+deniz seviyesinden yukarı çıkıldıkça gazların uyguladıkları basınç azalır.
+Evangelista Torricelli (Evancelista Torriçelli), açık hava basıncını ölçmek için 
+deniz seviyesinde bir deney gerçekleştirmiştir. Bu deneyde 0 oC sıcaklıkta ve 
+1 m yüksekliğinde cıva ile dolu olan, bir ucu kapalı bir cam boru kullanmıştır. 
+Boruyu içine hava girmeyecek şekilde ters çevirmiş ve cıva dolu bir kaba 
+daldırarak açık hava basıncını ölçmüştür. Borunun içindeki cıva seviyesi önce 
+bir miktar düşmüş, daha sonra dengeye gelmiştir. Kaptaki cıvanın üst yüzeyi 
+ile cam borudaki cıvanın üst yüzeyi arasındaki fark 76 cm olarak ölçülmüştür 
+(Görsel 3.16).
+Açık havanın kaptaki cıvanın üst yüzeyine uyguladığı basınç (P0), 76 cm yük-
+sekliğindeki cıva sütununun uyguladığı basınca eşittir. Bu durumda 0 oC sıcak-
+lığında ve deniz seviyesindeki açık hava basıncı 76 cmHg olarak ölçülmüştür. 
+0 oC sıcaklıkta deniz seviyesinde gerçekleştirilen Torricelli deneyinde kullanı-
+lan borunun şekli, kesiti, sıvıdaki konumu ve duruşu cıva seviyesini değiştir -
+mez (Görsel 3.17). Cıva, deniz seviyesinde 76 cm düzeyine gelir. Torricelli 
+deneyinde tespit edilen açık hava basıncı; sıvının (cıva) yoğunluğu, yer çekimi 
+ivmesinin büyüklüğü (g) ve sıvının dikey yüksekliği (h) ile doğru orantılıdır. 
+Boru ve kaptaki cıva seviyelerinin farkı açık hava basıncından kaynaklanır. 
+Cıva sütununun ağırlığı tarafından uygulanan basınç, dışarıdaki açık hava 
+basıncına (atmosfer) eşittir. 
+Torricelli deneyinde 76 cm yüksekliğindeki cıva sütununun oluşturduğu basınç 
+ile açık havanın cıva yüzeyinde oluşturduğu basınç birbirine eşittir (P0 = Pcıva).
+Cıvanın yoğunluğu d = 13.600 kg/m 3 ve yer çekimi ivmesinin büyüklüğü 
+g = 9,8 m/s2 alındığında açık hava basıncı, yaklaşık olarak 
+P0 = h : d : g  
+= 0,76 : 13.600 : 9,8 
+= 101.300 Pa 
+bulunur. Bulunan bu değere 1 atmosfer (1 atm) denir.
+Evangelista Torricelli
+Açık hava basıncının 
+ölçülmesinde ve atmosfer 
+basıncının yükseklikle 
+değişiminin anlaşıl -
+masında çığır açan 
+cıvalı barometreyi icat 
+etmesiyle tanınır. Ayrıca 
+bir sıvının bir delikten 
+veya tüpten ne kadar 
+hızlı çıktığını açıklayan 
+Torricelli Yasası ile 
+hidrodinamiğe önemli 
+katkılarda bulunmuş ve 
+ideal sıvıların davranışı -
+nın anlaşılmasında kilit 
+rol oynamıştır.
+Görsel 3.16: Cıvalı baro-
+metre
+76 cm
+Boşluk Cıva
+sütunu
+Cıva
+P0 P0
+Boşluk Boşluk
+Cıva
+76 cm
+P0 P0
+Görsel 3.17: Farklı şe-
+killerdeki borularda cıva 
+seviyelerinin eşit olması

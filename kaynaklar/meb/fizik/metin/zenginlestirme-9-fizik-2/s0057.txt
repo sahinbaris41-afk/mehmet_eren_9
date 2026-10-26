@@ -1,0 +1,36 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+56 57
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+ ♦ Öğrencilerden tabloda yer alan akışkanların Torricelli deneyinde borudaki yükselme miktarını aşağı-
+daki hesaplama yöntemini kullanarak santimetre cinsinden bulmalarını isteyiniz. 
+ ♦ Hesaplama yapılırken
+Pcıva= P(diğer akışkan)
+hcıva ∙ d(cıva)  ∙ g= hdiğer akışkan ∙ d(diğer akışkan)  ∙ g  eşitliğinin kullanılmasını isteyiniz.
+Akışkan Yoğunluğu (g/cm3) Sıvı Yüksekliği (cm)
+Su 1,000
+Etil alkol 0,789
+Deniz suyu 1,025
+Doymuş tuzlu su 1,200
+Zeytinyağı 0,900
+Gliserin 1,261
+Benzin 0,680
+ ♦ Öğrencilere yaptıkları tasarım ve Torricelli deneyindeki hesaplamalar sonucunda suyun yüksek bina-
+larda en fazla hangi yüksekliğe kadar taşınabileceğini sorunuz ve onların cevaplarını tahtaya yazınız.
+ ♦ Torricelli deneyinin suyun yaklaşık 10,3 metreye kadar çıkmasını sağladığını, emme basma tulumba 
+kullanıldığında ise bu yüksekliğin maksimum 14 metreye ulaşabileceğini belirtiniz.
+ ♦ Öğrencilerden Torricelli deneyi prensipleriyle çalışan pompaların yapılabilir olup olmadığını araştır -
+malarını isteyiniz. 
+ ♦ Öğrencilere "Bu tür pompaların günlük hayattaki kullanım alanları'' konulu 
+araştırma ödevi veriniz. 
+ ♦ Araştırma sonuçlarının sınıf panosunda paylaşılmasını sağlayınız. 
+ ♦ Öğrencilerin çalışmalarına katkıda bulunmak için su koçlarıyla ilgili maka-
+lenin yandaki karekodunu paylaşınız.
+ ♦ Öğrencilerin söz konusu makaleden yola çıkarak suyun en verimli şekilde 
+nasıl taşınabileceğine dair mühendislik çözümleri üzerine beyin fırtınası 
+sağlayınız.
+Su koçlarıyla ilgili makaleye 
+ulaşmak için karekodu 
+okutunuz.
+Tablo 3.1:  Bazı sıvıların g/cm3 cinsinden yoğunluk değerleri
+Torricelli Deneyinin Değişkenleri

@@ -1,0 +1,63 @@
+213
+7. Tema / Veriden Olasılığa
+ Alıştırmalar
+1.  Aşağıdaki görselde çark 12 eşit bölüme ayrıl-
+mıştır. Çark rastgele çevrildiğinde çarkın ibre-
+sinin geldiği bölüm dikkate alınacaktır. 
+ 
+300
+10
+0
+200
+30
+0
+900
+700
+500
+700400
+200
+100
+1000
+ Buna göre
+a) çark bir kez çevrildiğinde beyaz gelme,
+b) çark bir kez çevrildiğinde 200 puan 
+gelme,
+c) çark iki kez çevrildiğinde mavi ve sarı 
+gelme,
+ç) çark bir kez çevrildiğinde 900 puan 
+gelme,
+d) çark iki kez çevrildiğinde toplam 500 
+puan gelme,
+e) çark üç kez çevrildiğinde toplamda en 
+az 1000 puan gelme
+ olaylarından hangileri birden çok olay içe-
+rir? Gerekçesiyle belirtiniz. 
+2.  Pili doğru yönde takmayı bilmeyen bir çocuğun 
+pili oyuncağına rastgele takması ve oyuncakta 
+bulunan renkler dışında özdeş mavi ve yeşil 
+tuşlardan birine rastgele basması deneyinde 
+50 tekrar sonucunda oluşan çıktılar ve bu çık-
+tılara ait sıklıklar aşağıdaki tabloda verilmiştir. 
+ 
+Yeşil Tuşa  
+Basma
+Mavi Tuşa  
+Basma
+Pili Yanlış 
+Takma 15 17
+Pili Doğru 
+Takma 12 6
+ Buna göre çocuğun gerçekleştirdiği 
+a) pili doğru takma ve yeşil tuşa basma,
+b) pili doğru takma ve mavi tuşa basma,
+c) pili yanlış takma ve yeşil tuşa basma,
+ç) pili yanlış takma ve mavi tuşa basma 
+olaylarının olasılık değerlerini bulunuz.
+3.  Hilesiz üç madenî paranın havaya atılması de-
+neyi 1500 kez tekrar edilmiştir. 
+ Buna göre üst yüze gelen tura sayılarının 
+göreli sıklıklarına ait sütun grafiğinin nasıl 
+olmasını beklersiniz? Beklediğiniz grafiği 
+çiziniz.
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

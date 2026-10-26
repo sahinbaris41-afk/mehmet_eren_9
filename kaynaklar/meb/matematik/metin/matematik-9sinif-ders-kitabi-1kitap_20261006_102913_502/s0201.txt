@@ -1,0 +1,21 @@
+201
+Sözlük
+mutlak değer : Sayı doğrusu üzerinde alınan bir sayının başlangıç noktasına olan uzaklığı.
+ordinat : Bir noktanın uzaydaki yerini belirten sıralının ikinci bileşeni.
+önerme : Doğru ya da yanlış kesin hüküm bildiren ifadeler.
+ören : Ait olduğu eski uygarlık hakkında fikir edinmemizi sağlayan kültür ve tabiat kalıntılarından oluşan alan.
+özdeşlik : İki yanı birbirinin aynı olan veya harflerle verilen sayısal değerler ne olursa olsun iki yanı da sayıca eşit değerler alan eşitlik.
+P-R-T
+paralel : Aynı düzlem içinde ikişer ikişer bulunan ve kesişmeyen, koşut, muvazi, mütevazi.
+parçalı gösterimli 
+fonksiyon : Tanım kümesinin alt aralıklarında farklı cebirsel temsillerle ifade edilen fonksiyon.
+peron : Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm.
+pilotaj : Bir hava taşıtını yönetme.
+plazma : Kanda alyuvarlarla akyuvarların içinde bulunduğu sıvı.
+pruva : Geminin veya sandalın ön tarafı, baş bölümü.
+ring : Başlangıç ve sonu aynı nokta olan (sefer).
+rulman :
+Mekanik ve elektrikli sistemlerde kayma sürtünmesi yerine bir yuvarlanma 
+sürtünmesi sağlayarak enerji kayıplarını azaltmak için yataklar ile muylular 
+arasına yerleştirilen parça.
+teorem : Doğruluğu kanıtlanabilen önerme.

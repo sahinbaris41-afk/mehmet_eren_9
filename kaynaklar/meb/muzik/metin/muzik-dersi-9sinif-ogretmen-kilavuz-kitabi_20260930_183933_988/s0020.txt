@@ -1,0 +1,38 @@
+2120
+1. TEMA: MÜZİK DİLİ
+Anahtar: Dizek üzerinde nota adlarının belirlenmesini sağlayan işarettir. Sol anahtarı (Gör-
+sel 1.2), fa anahtarı (Görsel 1.3) ve do anahtarı (Görsel 1.4) olmak üzere üç farklı anahtar 
+vardır. Sol anahtarı genel olarak ince seslerin, fa anahtarı kalın seslerin ve do anahtarı orta 
+seslerin belirtilmesinde kullanılır.
+B?&
+Görsel 1.2: Sol Anahtarı Görsel 1.3: Fa Anahtarı Görsel 1.4: Do Anahtarı
+Görsel 1.6: Uzatma Noktası
+Görsel 1.5: Çengelli Notalar
+Notaların ve susların süre değerleri olduğunu açıklayınız. Tablo 1.1’de yer alan nota ve 
+sus işaretlerini etkileşimli tahtaya yansıtınız.
+Etkileşimli tahtaya yansıtabilirsiniz.
+Tablo 1.1: Nota ve Sus İşaretleri 
+Adı Süre Değeri Notanın Şekli Susun Şekli
+Birlik 4 vuruş
+İkilik 2 vuruş
+Dörtlük 1 vuruş
+Sekizlik 1/2 vuruş
+Onaltılık 1/4 vuruş
+& w ˙ œ œj œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+& w ˙ œ œ j œr ∑Ó Œ‰ ≈
+Çengelli notalar beraber yazıldığında oluşan şekilleri etkileşimli tahtaya yansıtınız (Gör-
+sel 1.5).
+Uzatma noktası: Notanın sağına konulan nokta, notayı kendi süresinin yarısı kadar uzatır 
+(Görsel 1.6).
++ =& œj œj œœ œ r œr ‰œr ‰œr œœœœ& œj œj œœ œ r œr ‰œr ‰œr œœœœ& œj œj œœ œ r œr ‰œr ‰œr œœœœ+ + =& œj œj œœ œr œr ‰œr ‰œr œœœœ& œj œj œœ œr œr ‰œr ‰œr œœœœ& œj œj œœ œr œr ‰œr ‰œr œœœœ& œj œj œœ œr œr ‰œr ‰œr œœœœ& œj œj œœ œ r œr ‰œr ‰œr œœœœ
++& œ™ œ œ j œ™™ œ œ j ≈ œr& œ™ œ œ j œ™™ œ œ j ≈ œr& œ™ œ œj œ™™ œ œ j ≈ œr=
+Etkileşimli tahtaya yansıtabilirsiniz.
++

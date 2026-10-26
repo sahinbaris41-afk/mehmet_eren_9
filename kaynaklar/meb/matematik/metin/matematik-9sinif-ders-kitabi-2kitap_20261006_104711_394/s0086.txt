@@ -1,0 +1,24 @@
+86
+4. Tema / Eşlik ve Benzerlik
+3. Gülşah’ın tabletinin ekranı dikdörtgen şeklindedir. Ekranın kısa kenarının uzunluğu 12 cm, uzun 
+kenarının uzunluğu 18 cm’dir. Gülşah tabletinde Şekil 1’de görülen ABC dik üçgenini inceliyor. Bunun 
+için önce üçgenin AB dik kenarını Şekil 2’de gösterildiği gibi tabletin kısa kenarı kadar büyütüyor ve 
+üçgenin ekranın üst kenarında 3 cm’lik bir kısmı kapladığını görüyor. Daha sonra tabletin ekranını 
+Şekil 3’teki gibi döndürerek üçgenin AB kenarını ekranın uzun kenarı kadar büyütüyor ve üçgenin 
+ekranın üst kenarında kapladığı kısmı x cm olarak ölçüyor.
+Buna göre x in kaç santimetre olduğunu bulunuz.
+Şekil 2
+12
+A B
+3
+Şekil 1
+A B
+C
+Şekil 3
+A B
+x
+18
+Farklı Kaydet
+Bu temada öğrendiğiniz bilgileri kendi hatırlayacağınız şekilde bu alana kısaca not edebilirsiniz.
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

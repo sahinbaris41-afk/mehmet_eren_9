@@ -1,0 +1,40 @@
+125
+2. Tema /  Nicelikler ve Değişimler
+ç) Elde ettiğiniz  sonuçlardan yararlanarak g fonksiyonunun grafiğini çiziniz.
+O
+x
+y
+2. g fonksiyonunun cebirsel temsilinin -1 ile çarpılmasıyla elde edilen fonksiyon h olsun. Gerçek sayılarda ta -
+nımlı h fonksiyonunun cebirsel temsilini yazarak grafiğini çiziniz.
+O
+x
+y
+	8.	Uygulama
+Gerçek Sayılarda gx ax b= ! +_i  Şeklinde Tanımlı Mutlak Değer Fonksiyonlarının Nitel Özellikleri
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız. 
+a, b!R+ olmak üzere gerçek sayılarda f(x) = ax + b, g(x) = | ax + b | ve h(x) = -| ax + b | şeklinde tanımlı fonksi -
+yonların grafik temsilleri verilmiştir (Grafik 1, Grafik 2 ve Grafik 3).
+   
+O x
+y
+f(x) = ax + b
+Grafik 1
+b
+a
+b
+O x
+y
+g(x) = |ax + b|
+Grafik 2
+b
+a
+b
+O x
+y
+h(x) = -|ax + b|
+Grafik 3
+b
+a
+-b
+1. a)  f ve g fonksiyonlarının cebirsel ve grafiksel benzerliklerini, farklılıklarını gözlemleyiniz.           
+b)  f ve h fonksiyonlarının cebir sel ve grafiksel benzerliklerini, farklılıklarını gözlemleyiniz.

@@ -1,0 +1,46 @@
+182
+6. Tema / İstatistiksel Araştırma Süreci
+ç) 2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	0,2	saniyelik	
+zaman	aralıkları nda	derece	elde	etm e	durumlarını	görebilmek	için	incelenmesi	gereken	veri	görselleş-
+tirme	aracı	histogram	grafiğidir.	Histogram	grafiği;	verilerin	seçilen	hangi	aralıklarda,	hangi	sıklıklarda	
+gözlemlendiğini	gösteren	bir	veri	görselleştirme	aracıdır.	Grafik	7’de	2023	Dünya	Atletizm	Şampiyo-
+nası	erkekler	100	metre	yarışmasına	katılan	atletlerin	0,2	saniyelik	zaman	aralıklarında	derece	elde	
+etme	durumlarını	gösteren	histogram	grafiği	yer	almaktadır.	
+Grafik 7
+Derece (sn.)
+9,8 10,210 10,610,4 10,8 11 11,2 11,4 11,6
+Atlet sayısı
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+2
+Grafik	7’deki	bilgilerden	yararlanılarak	atletlerin	derecelerinin	0,2	saniyelik	aralıklara	nasıl	dağıldığı	
+görülebilir.	Örneğin	23	atletin	dereceleri	10	saniye	ile	10,2	saniye	arasında,	4	atletin	dereceleri	10,4	
+saniye	ile	10,6	saniye	arasındadır.
+Araştırma	sorusuyla	elde	edilmek	istenen	bilgi	doğrultusunda	histogram	grafiğinde	aralıklar	değiştirile-
+bilir.	Örnekte	0,2	saniye	olarak	belirlenen	aralık	örneğin	0,1	saniye	veya	1	saniye	olarak	değiştirilerek	
+dağılıma	ait	yeni	histogram	grafikleri	oluşturulabilir.
+d) 2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	elde	ettiği	dere-
+celerin	tüm	atletlerin	derecelerinin	ortalama	değerine	göre	nasıl	yayılım	gösterdiğini	görebilmek	için	
+bakılabilecek	yay ılım	ölçüler i,	ort alama	mut lak	sapm a	ve	st andart	sapm a	ölçüler idir.	Gr afik	8’de	dağı-
+lımın	ortalama	mutlak	sapması	ve	Grafik	9’da	standart	sapması	yer	almaktadır.	
+10
+Derece (sn.)
+9,8 10,2 10,610,4 10,8 11 11,2 11,4 11,6
+1 Ortalama mutlak sapma,   +- 0,24 sn.
+10
+Derece (sn.)
+9,8 10,2 10,610,4 10,8 11 11,2 11,4 11,6
+1 Standart sapma,   +- 0,349 sn.
+Grafik 8 Grafik 9
+Grafik	8’de	yer	alan	verilerin	ortalama	mutlak	sapma	değerinin	0,24	sn.	olduğu	görülmektedir.	Bu	değer,	
+ortalama	mutlak	sapma	aralığı nın	dağılı mın	aritmet ik	ortalaması	olan	10,299	sn.	değerinin	0,24	sn.	
+eksiği	ve	0,24	sn.	fazla sı	ile	olu şan	aralıkta	old uğunu	göste rmektedir.	Bu	durumd a	ortalama	mutlak	

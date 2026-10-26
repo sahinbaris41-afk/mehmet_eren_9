@@ -1,0 +1,67 @@
+103
+Organizasyon
+Ribozomlar; RNA ve protein içerikli iki alt birimden 
+oluşan, protein sentezinin gerçekleştirilmesinde ve 
+hücredeki genetik bilginin proteinlere çevrilmesinde 
+görevli hücre birimleridir. Ribozomlar zarla çevrili ol -
+madıkları için organel olarak değerlendirilmez. Hem 
+prokaryot hem de ökaryot hücrelerde bulunan ribo -
+zom, ökaryot hücrelerde sitoplazmada serbest olarak 
+veya endoplazmik retikulum adı verilen hücresel ya -
+pının üzerinde, çekirdek zarının dış yüzeyinde, mito -
+kondri ve kloroplastın içinde bulunur.
+Ribozomlar, biri küçük diğeri büyük iki alt birimden oluşur (Görsel 2.3). Ribozomun 
+yapısında bulunan proteinler, onun bütünlüğünü sağlayarak protein sentezi sü-
+recindeki fonksiyonlarını düzenler. Protein sentezi sırasında iki alt birim bir araya 
+gelir ve işlevsel ribozomu oluşturur. 
+Yüksek hızlarda protein sentezleyen ya da protein salgı-
+lamak için özelleşen hücrelerde çok miktarda ribozom 
+görülür. Örneğin sindirim enzimlerinin çoğunu sentezle-
+yen insan pankreas hücreleri birkaç milyon ribozom taşır.
+Sentrozomlar, hayvan hücrelerinde mikrotübül adı 
+verilen protein yapılı borucukların ve bu borucukları 
+çevreleyen yoğun kimyasal ortamın oluşturduğu, çap-
+raz iki parçacıktan oluşan hücresel yapılardır (Görsel 
+2.4). Hayvan hücrelerindeki mikrotübülün üretim mer-
+kezidir. Mikrotübüller, hücrenin iskeletini oluşturan ve 
+hücre içinde madde taşınmasında görev alan yapısal 
+proteinlerdir. Sentrozom içerisinde boru şeklindeki her 
+bir alt birim sentriyol olarak adlandırılır. Sentrozomlar tarafından üretilen mikrotübül 
+yapıdaki iplikçikler, hücre bölünmesinde kromozomların ayrılması sürecinde ve hüc-
+relerden uzanan sil, kamçı gibi sitoplazmik çıkıntıların oluşturulmasında görev alır.
+Organeller
+Ökaryotik hücreler, dış yüzeyindeki hücre zarına ek olarak hücre içini alt birimlere 
+ayıran geniş ve karmaşık zar sistemlerine sahiptir. Bir evin odalara ayrılması gibi 
+hücreyi alt birimlere ayıran bu zarlar sayesinde hücre içinde özgül metabolik olay-
+lar için farklı koşullara sahip ortamlar oluşturulur. Hücreyi alt birimlere ayıran bu 
+zarlarla aynı hücre içinde birbirlerinden farklı koşullara ihtiyaç duyan metabolik 
+olaylar, eş zamanlı gerçekleşir. Ökaryotik hücrelerde 
+hücre çekirdeği, endoplazmik retikulum, Golgi aygıtı, 
+mitokondri, kloroplast, lizozom, peroksizom gibi orga-
+neller bulunur.
+Çekirdek; ökaryotik hücrelerde genetik materyali 
+(DNA) çevreleyen ve büyüme, farklılaşma, bölünme, 
+üreme gibi hücre aktivitelerini düzenleyen zarla kaplı 
+özelleşmiş hücre organelidir. Prokaryotik hücrelerde 
+çekirdek bulunmaz. Hücre çekirdeği; çekirdek zarfı, 
+çekirdek sıvısı (nükleoplazma) ve çekirdekçik adı veri -
+len yapılardan oluşur (Görsel 2.5). Kromatin adı verilen 
+DNA iplikçiklerini içerir.
+Görsel 2.3
+İki alt birimden oluşan ribozo-
+mun genel yapısı 
+Görsel 2.4
+Sentrozomun yapısı 
+Görsel 2.5
+Hücre çekirdeğinin yapısı
+Sentezlenen 
+polipeptit
+(Küçük alt birim)
+Ribozom
+(büyük alt birim)
+Sentriyol
+Sentriyol
+Nüklear por Çekirdekçik
+Kromatin (DNA)
+Nükleoplazma
+Çekirdek zarfı

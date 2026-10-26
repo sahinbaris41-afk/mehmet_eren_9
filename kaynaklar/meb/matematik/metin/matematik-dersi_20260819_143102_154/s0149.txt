@@ -1,0 +1,52 @@
+149
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.11.3.3. Gerçek  sayılarda   f(x) = ax (a > 0, a ≠ 1)  şeklinde  tanımlı  üstel  referans 
+fonksiyonun  nitel  özellikleri  ile bu fonksiyondan türetilen [g(x) = k ∙ f (mx ± r) ± s
+            (k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0)] üstel fonksiyonların nitel özelliklerine ilişkin matema-
+tiksel muhakeme yapabilme
+a) Üstel referans fonksiyonun nitel özelliklerini (tanım kümesi, görüntü kümesi, işareti, 
+artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği, tekliği-çift-
+liği, örtenliği) matematiksel temsilleri kullanarak belirler.
+b) Üstel referans fonksiyonun nitel özellikleri ile matematiksel temsilleri arasındaki 
+ilişkileri belirler.
+c) Üstel referans fonksiyonu grafik ve cebirsel temsili üzerinde yapılan işlemlerle diğer 
+üstel fonksiyonlara dönüştürür.
+ç) Üstel referans fonksiyon ve bu fonksiyondan türetilen fonksiyonların grafik temsili 
+ile cebirsel temsili arasındaki ilişkiyi ifade eder.
+d) Üstel referans fonksiyonun nitel özelliklerinden hareketle diğer üstel fonksiyonların 
+nitel özellikleri hakkında varsayımlarda bulunur.
+e) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeler ve türetilen 
+fonksiyonların nitel özellikleri ile ilgili örüntüleri geneller.
+f)  Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerinden elde ettiği önermeleri matematiksel olarak doğrulayabileceği 
+şekilde sunar.
+ğ) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını değerlendirir.
+MAT.11.3.4. Üstel fonksiyonların ters fonksiyonlarını inceleyerek logaritmik fonksiyona 
+dair çıkarım yapabilme 
+a) Üstel fonksiyonların ters fonksiyonları ile ilgili varsayımlarda bulunur.
+b) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek üstel fonk-
+siyonların ters fonksiyonları ile ilgili örüntüleri geneller.
+c)  Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+ç) Logaritmik fonksiyonu üstel fonksiyonun ters fonksiyonu olarak ifade eden öner -
+meler sunar.
+d) Logaritmik fonksiyonu gerçek yaşam bağlamında kullanışlılık açısından değerlendirir.
+MAT.11.3.5.  f (x) = loga x (a > 0, a ≠ 1, x > 0 ) şeklinde tanımlı logaritmik referans fonksi -
+yonun nitel özellikleri ile bu fonksiyondan türetilen [ g(x) = k ∙ f (mx ± r) ± s (k, m, r,                     
+s ∈ ℝ, k ≠ 0, m ≠ 0)] logaritmik fonksiyonların nitel özelliklerine ilişkin matematiksel 
+muhakeme yapabilme
+a) Logaritmik referans fonksiyonu grafik ve cebirsel temsili üzerinde yapılan işlemlerle 
+diğer logaritmik fonksiyonlara dönüştürür.
+b) Logaritmik referans fonksiyon ile elde ettiği logaritmik fonksiyonların grafik ve cebir -
+sel temsilleri arasındaki ilişkiyi ifade eder.
+c)  Logaritmik referans fonksiyonun nitel özelliklerinden hareketle diğer logaritmik fonk-
+siyonların nitel özellikleri hakkında varsayımlarda bulunur.
+ç)  Logaritmik fonksiyonun nitel özelliklerine ve işlem özelliklerine ilişkin varsayımlarına 
+dair örüntüleri geneller.
+d)  Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+e) Genellemelerinden elde ettiği önermeleri matematiksel olarak doğrulayabileceği şe -
+kilde sunar.
+f) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını değerlendirir.
+g) Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.
+ğ) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını de -
+ğerlendirir.

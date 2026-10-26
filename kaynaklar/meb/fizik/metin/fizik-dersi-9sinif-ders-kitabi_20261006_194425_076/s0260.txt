@@ -1,0 +1,31 @@
+260
+4. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+6. Boyutları a, 3a ve 5a olan dikdörtgenler prizması şeklindeki özdeş iki cisim farklı sıcaklıklardadır. K 
+yüzeyleri birbirine temas ettirildiğinde cisimlerin denge sıcaklığına ulaşma süresi t1 ve denge sıcaklığı 
+T1 olmaktadır. L yüzeyleri birbirine temas ettirildiğinde cisimlerin denge sıcaklığına ulaşma süresi t2 
+ve denge sıcaklığı T2 olmaktadır. Benzer şekilde M yüzeyleri birbirine temas ettirildiğinde cisimlerin 
+denge sıcaklığına gelme süresi t3 ve denge sıcaklığı T3 olmaktadır.
+5a 5a
+M M
+L L aa
+3a 3a
+K K
+Buna göre 
+a) Yüzeylerin ısıl dengeye gelme süreleri olan t 1, t2 ve t 3 büyüklüklerini büyükten küçüğe 
+doğru sıralayınız. 
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+b) Isıl denge sıcaklıkları olan T1, T2 ve T3 büyüklükleri arasındaki ilişkiyi gerekçeleriyle yazınız.
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+7. Isı aktarımı, sıcaklıkları farklı ortamlar arasında farklı yollarla gerçekleşir. Isı aktarımı, bazen tane -
+ciklerin titreşim hızının artması ve komşu tanecikleri etkilemesiyle bazen de taneciklerin akışkan 
+içinde yer değiştirmesiyle meydana gelir. Isı aktarımının diğer bir yolu da sıcaklığı 0 K’in üzerindeki 
+cisimlerden yayılan elektromanyetik dalgaların maddeler tarafından soğurulmasıdır.
+Aşağıda ısı iletimiyle ilgili günlük hayatta karşılaşılan bazı olaylar verilmiştir.
+I. Yeryüzünün bulutlu havalardaki gece sıcaklığı, açık havalardaki gece sıcaklığına göre daha 
+fazladır.
+II. Kışın havanın soğuk olduğu günlerde dışarıda yürüyüş yaparken tabanı ince ve ısı yalıtımı kötü 
+olan malzemeden yapılmış ayakkabı giyen birinin ayakları üşür. 
+III. Uzun süre soğuk ortamda kalmış kişilere “termal acil durum battaniyesi” adı verilen bir battaniye 
+örtülür. Bu battaniyenin her iki yüzü de parlak olup kişinin tüm vücudu battaniyeye sarılır. Böylece 
+kişinin vücut sıcaklığı korunmuş olur.
+Termal acil durum battaniyesi 

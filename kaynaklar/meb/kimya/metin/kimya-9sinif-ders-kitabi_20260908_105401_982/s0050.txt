@@ -1,0 +1,69 @@
+1. Tema/Etkileşim
+50
+Atom altı parçacıkların üç temel özelliği aşağıda verilmiştir (Tablo 1.1).
+1. Elektron ve protonların yük miktarı aynıdır fakat elektriksel yükleri zıt işa-
+retlidir. Eletron −1, proton ise +1 bağıl yüke sahiptir. 
+2. Nötronlar, protonlarla yaklaşık olarak aynı kütleye sahip olmasına rağ -
+men elektriksel olarak nötrdür. 
+3. Bir proton veya nötronun kütlesi, bir elektronun kütlesinden yaklaşık 1836 
+kat daha fazladır. Protonlar ve nötronlar atom kütlesinin büyük bir kısmını 
+oluşturur.
+Bir atom elektriksel olarak nötrdür ve atomun proton sayısı (p
++
+) elektron sayı-
+sına (e
+−
+) eşittir. Nötronlar yüksüz olduğundan nötronların sayısı (n
+o
+) atomun 
+yükünü etkilemez. 
+Proton sayısı = Elektron sayısı (nötr bir atom için)
+Tanecik
+Kütle Özellikleri Elektrik Yükü Özellikleri
+Kütle (g) Bağıl Kütle Elektrik Yükü (C) Bağıl Yük
+Elektron (e¯) 9,1096× 10¯
+28
+0,0005486 −1.6022× 10¯
+19
+−1
+Proton (p
++
+) 1,6726× 10¯
+24
+1,0072764 +1,6022× 10¯
+19
++1
+Nötron (n
+o
+) 1,6749× 10¯
+24
+1,0086650 0 0
+Tablo 1.1: Proton, Nötron ve Elektronun Özellikleri
+Atomdaki proton sayısı 
+atomun hangi elemente ait 
+olduğunu gösterir. Aynı 
+sayıda protona sahip olan 
+tüm atomlar aynı elementin 
+atomlarıdır. Bu proton 
+sayısına elementin atom 
+numarası (Z) denir.
+ZX Element
+sembolüAtom 
+numarası
+Bohr	Atom	Teorisi	ve	Modern	Atom	Teorisi
+Bohr atom teorisine göre
+1. Elektron, çekirdekten belirli bir uzaklıkta bulunan dairesel yörüngelerde 
+hareket eder. Bu yörüngelere enerji düzeyleri veya kabukları denir. 
+Atom çekirdeği etrafında dairesel yörüngede hareket eden elektron belirli 
+kinetik ve potansiyel enerjiye sahiptir. Çekirdekten uzaklaştıkça yörünge-
+nin ve elektronun enerjisi artar.
+2. Elektron hareketinin mümkün olduğu enerji seviyeleri atom çekirdeğine 
+yakınlığına göre n = 1, 2, 3, 4, 5, 6… gibi pozitif tam sayılarla veya K, L, 
+M, N, O, P, Q… gibi harflerle ifade edilir. 
+3. Elektronların bulunabileceği en düşük enerjili yörüngede bulunduğu du-
+rum temel hâl olarak ifade edilir. Temel hâldeki atom, enerji aldığında 
+elektron ya da elektronlar üst yörün  geye geçebilir. Bu geçiş sırasında 
+absorbe edilen enerji, yörünge ler arasındaki enerji farkına eşittir. Bu ola-
+ya soğurma (absorbsiyon) adı verilir (Görsel 1.12). Elektronlarının bir 
+ya da birkaçı daha yüksek enerji düzeyine çıkmış atoma uyarılmış atom 
+denir.

@@ -1,0 +1,131 @@
+27
+1. Tema /  Sayılar
+Gerçek Sayıların Köklü Gösterimleriyle Yapılan Toplama, Çıkarma, 
+Çarpma ve Bölme İşlemleri
+Yapılan bir deneyde a metre yükseklikten bırakılan bir cismin yere düşme süresi 48  sn. olarak hesap-
+lanmıştır. Ardından b metre yükseklikten farklı bir cisim bırakılmış ve cismin yere düşme süresi 108   sn. 
+olarak hesaplanmıştır. İki cismin yere düşme süreleri arasındaki farkı bulmak için hangi matematiksel 
+işlemlere ihtiyaç duyulur?
+7.	Uygulama
+Köklü Gösterimlerle Toplama, Çıkarma, Çarpma, Bölme ve Kökün Kökünü Alma İşlemleri
+Aşağıdaki soruları cevaplayınız.
+1. Üslü gösterimlerle yapılan toplama, çıkarma, çarpma, bölme ve üssün üssünü alma işlemlerinden yararlanarak 
+bu işlemlerin köklü gösterimlerle nasıl yapılabileceğine dair varsayımlarınızı sınıf arkadaşlarınızla saygı çer -
+çevesinde tartışarak oluşturunuz.
+2. Tablo 1’de üslü gösterimle toplama, çıkarma, çarpma, bölme ve üssün üssünü alma işlemlerine yer verilmiştir. 
+İşlemlerin sonuçlarını önce örnekteki gibi  üslü gösterim kullanarak bulunuz. Köklü gösterimle işlemin nasıl 
+yapılabileceğini bularak Tablo 1’de örnekteki gibi ilgili yere yazınız.
+ Tablo 1
+ 
+İşlemin Üslü 
+Gösterimi
+Üslü Gösterimle Yapılan 
+İşlem İşlemin Köklü Gösterimi Köklü Gösterimle Yapılan İşlem
+45 253
+1
+3
+1
++$$ 42 56 53
+1
+3
+1
+=+ $$_i 45 2533 + 42 56 533+=_i
+46 265
+1
+5
+1
+$$ -
+38 32 33
+2
+3
+2
+3
+2
++ $$ -
+232
+1
+2
+1
+$
+m, n pozitif tam sayı; n  2 ve x bir pozitif gerçek sayı olmak üzere xxn
+m
+n m=  şeklinde ifade edilebilir. 
+xmn  ifadesine köklü	gösterim denir. Bu gösterimde n değerine kökün	derecesi denir. 
+xmn  ifadesi, “n. dereceden kök x üzeri m” şeklinde okunur. 
+Özel olarak n = 2 olduğunda xm  şeklinde yazılır. Bu ifade, “karekök x üzeri m” şeklinde okunur.
+k pozitif tam sayı, a bir gerçek sayı olmak üzere ak21+  ifadesi, tüm a değerleri için gerçek sayıdır.
+k 2a  ifadesi, a  0 için gerçek sayıdır.
+a gerçek sayı, n pozitif tam sayı ve n  2 olmak üzere 
+,
+,a
+an teki se
+an ifti se ç
+nn = *   olur.
+ 
+10
+3
+1
+3
+1
+5
+6 4
+1 5
+1
+ak
+3. Tablo 1’de elde ettiğiniz sonuçlardan yararlanarak köklü gösterimlerle toplama, çıkarma, çarpma ve bölme 
+işlemlerine dair genellemelerinizi oluşturunuz.
+4. m, n pozitif tam sayı, n ≥ 2, x, y pozitif gerçek sayı ve a, b, c gerçek sayı olmak üzere Tablo 2’de köklü gös-
+terimlerle işlemler verilmiştir. Varsayımlarınızla genellemelerinizi karşılaştırarak önermelerinizi Tablo 2’ye 
+örnekteki gibi yazınız.
+ T ablo 2
+İşlemin Üslü Gösterimi İşlemin Köklü Gösterimi Önerme
+ax bxn
+m
+n
+m
+$$ + ab xxmm$$ +nn b+ax xa bx olur.mm m$$ $=+nn n_i
+ax bxn
+m
+n
+m
+$$ - ab -xxmm$$nn
+ax bx cxn
+m
+n
+m
+n
+m
+$$ $+- abc +-xx xmm m$$ $nn n
+xyn
+m
+n
+m
+$ xymn mn$
+y
+x
+n
+m
+n
+m
+y
+x
+m
+mn
+n
+x n
+m1
+1
+ak xnm
+5. Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini yazınız.
+Salon
+Mutfak
+Kiler
+Yandaki şekilde Bahar Hanım’ın yaptırmakta olduğu evin bir bölümüne ait plan ve -
+rilmiştir. Planda yer verilen mutfak, kiler ve salon kare şeklindedir. Kiler ve mutfağın 
+birer kenar uzunluklarının toplamı salonun bir kenar uzunluğuna eşittir. Mutfak ve 
+kilerin taban alanları sırasıyla 20 m2 ve 5 m2 dir. Bahar Hanım; mutfak, kiler ve salon 
+zeminlerini metrekaresi 975 Türk lirası olan ahşap parke ile kaplatmak istemektedir.
+Bahar Hanım’ın alması gereken ahşap parkenin fiyatını bulunuz.
+6. Oluşturduğunuz önermeleri matematiksel olarak doğrulayınız. Doğrulama yöntemlerinizi sınıf arkadaşları -
+nızın kullandığı yöntemlerle karşılaştırarak kullanışlılık açısından değerlendiriniz.

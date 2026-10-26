@@ -1,0 +1,42 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+117
+3.5. BİLİŞSEL GÖRÜŞME (SESLİ DÜŞÜNME) PROTOKOLÜ
+Bilişsel görüşmeler, ölçme araçlarının “kanıt temelli geçerlik” çalışmalarının ayrılmaz bir parçasıdır. Mes -
+sick (1995) tarafından vurgulanan geçerliğin bütüncül doğası gereği bir sorunun sadece istatistiksel (psi -
+kometrik) başarısı yeterli değildir, öğrencinin zihinsel yanıt süreci de (response process) ölçülmek istenen 
+beceriyle uyumlu olmalıdır. Bilişsel görüşmeler, soruların düşük puanlı öğrenciler için bir engel olup olma -
+dığını veya yüksek puanlı öğrenciler için yapı-dışı kolaylık (construct-irrelevant easiness) gibi istenmeyen 
+ipuçları barındırıp barındırmadığını ortaya çıkararak soru kalitesini en üst düzeye yükseltir.
+Bilişsel görüşme, öğrencilerin bir soruyu çözerken metni nasıl yorumladığını, hangi bilgileri ayırt ettiğini ve 
+hangi zihinsel süreçleri devreye soktuğunu ortaya koymak amacıyla kullanılan nitel bir doğrulama yöntemi -
+dir. Bağlam temelli ölçmede bilişsel görüşmenin temel işlevi, sorunun hedeflenen süreç bileşenini hareke -
+te geçirip geçirmediğini sınamaktır. Bilişsel görüşmeler; sorunun bağlamının anlaşılırlığı, okuma yükü, veri 
+sunumunun işlevselliği ve öğrencinin hedef davranış göstergesini kullanıp kullanmadığına ilişkin kanıtlar 
+üreterek öğrencinin zihnindeki “kara kutuyu” aralar.
+Bir sorunun istatistiksel değerlerinin uygun olması o sorunun hedeflenen beceriyi ölçtüğü anlamına gel -
+meyebilir. Öğrenci soruyu yanlış bir mantıkla, seçenek eleyerek veya ezber bilgisiyle de doğru yanıtlamış 
+olabilir. Bilişsel görüşme gerçek yetkinlik ile tesadüfi doğruları birbirinden ayıran en etkili yöntemdir.
+Kılavuzda detaylandırılan “Bilişsel Görüşme Protokolü”, gerçekleştirilen pilot çalışmalarda soruların işle -
+yişini doğrulamak ve öğrencilerin zihinsel süreçlerini haritalandırmak amacıyla kullanılmıştır. Bu protokol, 
+profesyonel soru hazırlama süreçlerinde standart bir kalite güvence basamağıdır. 
+3.5.1. Uygulama Adımları
+Bilişsel görüşme uygulaması, yapılandırılmış bir protokol çerçevesinde gerçekleştirilmektedir. İlk olarak 
+gerçek test uygulamasına yakın bir ortam oluşturulmaktadır (Beatty & Willis, 2007). Uygulama sırasında 
+katılımcılara görüşmenin amacı hatırlatılarak başlanır. Daha sonra katılımcıdan soruları yanıtlarken eş za -
+manlı olarak düşünme süreçlerini paylaşması istenir. “Sesli düşünme” olarak adlandırılan bu aşamada katı -
+lımcı, soruları yanıtlarken aklından geçenleri sesli olarak ifade eder. Görüşmecinin dinleyici rolünde olduğu 
+bu aşamada müdahale minimum düzeydedir (Ericsson & Simon, 1993). Ardından uygulanan “sözel sorgula -
+ma” tekniğinde ise görüşmeci, önceden hazırlanmış veya anlık gelişmelere göre belirli sorular yönelterek 
+(Buers vd., 2014) katılımcının anlama, yorumlama ve karar verme süreçlerini derinlemesine keşfetmeye ça -
+lışır. Sesli düşünme kısa süreli bellek sorunlarını ortaya çıkarmada yararlıyken sözel sorgulama terimlerin 
+anlaşılması ve karmaşık geri çağırma süreçleri hakkında daha fazla bilgi sağlamaktadır (Ericsson & Simon, 
+1993; Priede & Farrall, 2011). Görüşme boyunca ses veya görüntü kaydı alınmakta ve gerektiğinde notlar 
+tutulmaktadır. Görüşme sonunda katılımcıya genel bir geri bildirim verme imkânı sunulmakta ve deneyim -
+leri hakkında görüşleri alınmaktadır. Çalışma kapsamında “Bilişsel Görüşme Uygulama Formu” kullanılarak 
+verilerin sistematik bir şekilde kaydedilmesi sağlanır.
+Öğrenciye bilişsel görüşme uygulaması aşağıdaki aşamalara göre yapılabilir.
+1. Sana biraz sonra cevaplaman için sorular vereceğim.
+2. Soruları doğru veya yanlış yanıtlaman hiç önemli değil. Soruları çözerken sesli düşünmeni istiyorum. 
+Sen soruları yanıtlarken müdahale etmeyeceğim, yalnızca çözüme nasıl ulaştığını merak ediyorum.
+3. Sesli düşünerek cevaplama süreci bittikten sonra çözdüğün soruları yanıtlama sürecinle ilgili sana 
+sorular yönelteceğim. Bu soruları sözlü olarak yanıtlamanı isteyeceğim.

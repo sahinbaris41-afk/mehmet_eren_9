@@ -1,0 +1,13 @@
+Kitabın Tanıtımı
+Tema adı
+Kitap temalardan oluşmaktadır. Her tema başında tema kapak 
+sayfası yer almaktadır. Tema kapaklarında o temanın adı ve 
+numarası bulunmaktadır.
+Tema numarası
+Kılavuzdaki yıldızlı etkinlikler, sosyal bilimler liselerinde zorunlu olarak yaptırılacaktır.
+Etkinlik sonunda öğrencinin hangi beceriyi kazanacağını gösterir.
+Etkinliğin gerçekleştirilmesi için gereken ve kullanılabilecek araç gereç, eğitim 
+ortamları ve materyalleri gösterir.
+Programın zenginleştirme bölümünde verilen etkinliğin kapsamını gösterir.
+Etkinliğin bireysel yapıldığını gösterir.
+8

@@ -1,0 +1,35 @@
+99
+5. Tema/Algoritma ve Bilişim  
+ 5.1.  ALGORİTMA TEMELLİ PROBLEMLER
+Konuya Başlarken
+İsviçreli matematikçi Euler (Öyler), Pregel (Pregil) Nehri üzerinde yedi köprünün yer aldığı 
+Königsberg (Könisberk) şehrinde 1736’da bir yürüyüş rotası problemi üzerine çalışmıştır. Bu 
+bağlamda Pregel Nehri ve civarını gösteren güncel uydu görüntüsü Görsel 1’de verilmiştir.
+Euler şehrin köprülerini, yürüyüş yollarını ve A noktasının üzerinde olduğu adayı 
+modellemiştir (Görsel 2). Her köprüden yalnızca bir kez geçmek şartıyla başlangıç noktasına 
+dönmenin mümkün olup olmadığını araştırmıştır.
+Görsel 1 Görsel 2
+D
+C
+A
+B
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız ve fikirlerinizi arkadaşla -
+rınızla paylaşınız.
+1.  Görsel 2’de verilen A, B, C ve D noktalarından birini başlangıç noktası olarak belirleyiniz. 
+Başladığınız noktaya dönmek için yedi köprüyü kullanarak her köprüden yalnızca bir kez 
+geçmek şartıyla bir rota oluşturulabilir mi? Açıklayınız.
+2.  Seçtiğiniz başlangıç noktas ının rotanız üzerindeki etkisini değerlendiriniz. 
+3.  Görsel 2’de bazı noktaların daha fazla köprüyle bağlantılı olduğu görülmektedir. Bu 
+durumun başladığınız noktaya dönebilmek için izleyeceğiniz rotayı nasıl etkilediğini 
+açıklayınız. 
+4. Euler bu soruyu çözerken nasıl bir yol izlemiş olabilir? Euler'in çalışmasından hareketle 
+algoritma kelimesinin kökeninin ne olabileceğini tartışınız.
+A 
+lgoritma	terimi,	ünlü	matematikçi	Harizmi’nin	adından	türemiştir.	Harizmi’nin	eserleri,	XII.	yüzyılda	
+Latinceye	Algoritmi de numero Indorum 	[Algoritmi	de	numero	İndor um	(Hint	Say ıları	Üzerine	
+Algoritmalar)]	olarak	çevrilmiştir .	XIII.	yüzyılda	algoritma	kelimesi	Arapça	‟ondalık	sistem”	anla-
+mını	taşımakta	olup	bu	anlam	0’dan	9’a	kadar	olan	sayılar	ve	ondalık	sistem	kavramını	içermektedir.	 
+XIX.	yüzyılda	bu	terim	Fransızcada	‟algorithme”	(algoritim)	olarak	yeniden	şekillenmiş	ve	anlamı	koru-
+narak	İngilizceye	‟alg orithm”	(al goridım)	ol arak	ge çmiştir.	Gün ümüzde	al goritma,	bi r	pro blemi	çözme k	
+veya	belirli	bir	görevi	tamamlamak	için	izlenen	açık	ve	anlaşılır	şekilde	belirlenmiş	kural	ve	işlemlerin	
+adım	adım	uygulanmasını	ifade	eder.

@@ -1,0 +1,49 @@
+47
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Dirençlerin Bağlanması
+Üreteçlerin Bağlanması 
+Elektrik Akımının Oluşturabileceği Tehlikelere Karşı Alınması Gereken Önlemler
+Topraklamanın Önemi 
+Anahtar Kavramlar elektrik akımı, potansiyel fark, direnç, Ohm Yasası, kısa devre, eşdeğer direnç, toprakla-
+ma
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma yaprağı, kavram haritası, poster, grafik çizimi, bilgi görseli, de-
+ney tasarlama, afiş, sınıf içi sunum ve açık uçlu madde kullanılarak değerlendirilebilir. 
+Potansiyel fark, elektrik akımı ve direnç kavramlarının su tesisatı analojisi yoluyla açıklan-
+ması hakkında eşleştirmeli, boşluk doldurmalı ya da açık uçlu sorular içeren bir çalışma 
+yaprağı kullanılabilir. Bir iletken içerisinde elektrik akımı oluşması ile ilgili değişkenleri (za-
+man ve yük miktarı) ve bu değişkenler arasındaki ilişkileri göstermek için kavram haritası 
+hazırlanması istenebilir. Kavram haritasının değerlendirilmesinde kullanılan kavram sayı-
+sı, ilişkiler, örnekler vb. ölçütler kullanılarak oluşturulan analitik dereceli puanlama anah-
+tarı kullanılabilir. Potansiyel fark ve elektrik akımı arasındaki ilişkiyi veren grafiğin çizilmesi 
+istenebilir. Grafiğin değerlendirilmesi kontrol listesi ile yapılabilir. Öğrencilerden laboratu-
+var ya da bilgisayar ortamında elektrik akımı, direnç ve potansiyel fark arasındaki ilişkilerin 
+irdelenebileceği bir deney yapmaları ve yapılan deneyle ilgili bir poster hazırlamaları iste-
+nebilir. Poster ve sunumun değerlendirilmesi için dereceli puanlama anahtarından yarar-
+lanılabilir. Açık uçlu sorular puanlama anahtarı ile değerlendirilebilir. Elektrik akımı, direnç 
+ve potansiyel fark kavramlarına ait ulaştıkları matematiksel model ile ilgili açık uçlu madde 
+türünden oluşan sorular verilebilir. Açık uçlu madde soruları ve çalışma yaprağı puanlama 
+anahtarı ile değerlendirilebilir. Öğrenciler dirençlerin seri, paralel ve birleşik bağlanma-
+ları hakkındaki bilgi görseli ile değerlendirilebilir. Dereceli puanlama anahtarı ve öz ya da 
+akran değerlendirme formlarından biri kullanılabilir. Üreteçlerin seri ve paralel bağlanma 
+nedenlerini açıklamak için bir deney tasarımı yapmaları ve ardından tasarımlarını sunma-
+ları şeklinde bir performans görevi verilebilir. Deney tasarımı ve sunum için dereceli pu-
+anlama anahtarı kullanılabilir. Direnç ve üreteçlerin farklı şekillerde bağlı olduğu elektrik 
+devreleri ile ilgili açık uçlu sorular yolu ile matematiksel işlemler yaptırılır. Yapılan işlemler 
+puanlama anahtarı ile değerlendirilebilir. Elektrik akımı tehlikelerine karşı alınacak önlem-
+ler ile topraklamanın önemi hakkında daha önce toplanan bilgilerin grup çalışması hâlinde 
+bir sunumunun hazırlanması istenir. Sunumlar öğretmen tarafından dereceli puanlama 
+anahtarı ile değerlendirilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin; direnç ve bağlı olduğu faktörleri, devre elemanlarını temsil eden sembolleri, ilet-
+ken ve yalıtkan malzemeleri bildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin direnç ve bağlı olduğu faktörleri açıklayabilmeleri amacıyla ön bilgilerine da-
+yalı kavram haritası hazırlanabilir.
+Köprü Kurma Basit elektrik devrelerinin kullanıldığı örneklerden yola çıkarak bu devrelerin günlük ha-
+yattaki kullanımının gelişimini ve değişimini fark etmeleri sağlanabilir. Birleşik elektrik 
+devrelerinde direnç ve üreteçlerin seri veya paralel bağlanmalarının gerekçelerine ulaş-
+maları sağlanarak bu devrelerin yapısı hakkında çıkarımlar yapılabilir.

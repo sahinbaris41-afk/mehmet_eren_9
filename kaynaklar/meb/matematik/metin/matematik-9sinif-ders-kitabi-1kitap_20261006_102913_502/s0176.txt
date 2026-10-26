@@ -1,0 +1,42 @@
+176
+3. Tema /  Geometrik Şekiller
+1.	Sıra	Sizde   
+Aşağıdaki	soruları	cevaplayınız.	Çözümlerinizi	sınıf	arkadaşlarınızla	paylaşınız.
+1. Güneş panellerinin güneşten azami verim alabilmesi için 
+güneş ışınlarının panele dik açıyla gelmesi gerekir. Gör -
+seldeki güneş paneli, yer düzlemi ile yaptığı açıyı güneş 
+ışınlarının geliş açısına göre ayarlayabilecek şekilde tasar-
+lanmıştır. 
+Panelin	bulunduğu 	bölgede 	güneş 	ışınlarının 	yer 	düz-
+lemine	42o lik	açı 	ile 	gelmesi 	durumunda 	panelin 	yer	
+düzlemi	ile 	yaptığı 	açının 	ölçüsünün 	kaç 	derece 	olaca-
+ğını	bulunuz.
+2. Yanda verilen ABC üçgeni şeklindeki kâğıt, AB kenarı AC kenarı ile çakı-
+şacak şekilde katlandığında B noktası B' noktasına gelmektedir.
+ ,DB C! 7 A ,mA BC 76o=`j%  mA CB 40 o=`j% 	ve 	 'mA DB x=`j%  olduğuna	göre 	
+x	değerinin	kaç	derece	olacağını	bulunuz.
+Yer düzlemi
+Güneş ışını
+Güneş paneli
+B
+B'
+D C
+A
+x76° 40°
+Çözüm
+OA PC'77  olduğundan mmO AP AP C4 1o==`` jj %%  olur. 
+AOP dik üçgeninde mA mO mP 180o++ =__ _ii iW X W  olduğu-
+na göre mO41 90 180oo o++ =_iX  ve mO 49o=_iX  olur.
+OA OB=77  olduğundan 49 90ooa +=  ve 41oa =  olur.
+Buna göre İstanbul’un yer aldığı kuzey enleminin alfa açı 
+değeri 41o olarak bulunur. 
+P (İstanbul)
+Ekvator
+A (Kutup Yıldızı)
+B
+C
+41o
+a
+O
+41o
+49o

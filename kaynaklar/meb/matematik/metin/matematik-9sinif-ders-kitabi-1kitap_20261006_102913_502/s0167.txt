@@ -1,0 +1,46 @@
+167
+2. Tema/Ölçme ve Değerlendirme
+Tablo	1 	ve 	T ablo 	2’de 	verilen 	bilgilere 	göre 	aşa-
+ğıdaki	soruları	cevaplayınız.
+a)		I	ve 	II 	numaralı 	kaplara 	ait 	zamana 	(dk.) 	bağlı 	
+su	 y üksekliğini 	 ifade 	 eden 	 fonksiyonun 	 ce-
+birsel	temsilini	y azınız.
+b)		Cebirsel	temsilini 	yazdığınız 	fonksiyonların 	
+grafiklerini	f(x) =	x 	şeklinde 	tanımlı 	f 	doğru-
+sal	referans 	fonksiyonunun 	grafiğine 	uygun 	
+dönüşümleri	yaparak	çiziniz.
+c)		Hangi	kaptaki 	suyun 	daha 	çabuk 	tükenece-
+ğini	 kaplara 	 ait 	 fonksiyonların 	 grafiklerin-
+den	yararlanarak	bulunuz.
+ç)		 Kaplardaki 	 suların 	 yüksekliklerinin 	 kaçın-
+cı	dakikada 	eşit	olduğunu 	bulunuz.
+Aşağıdaki görselde su sebilleri üzerinde duran 
+dik dairesel silindir kaplar verilmiştir.
+III
+40 cm 30 cm
+I ve II numaralı dik dairesel silindir şeklindeki 
+kaplar su ile dolu iken sabit hızda su akıtan mus-
+luklar açılmıştır. I ve II numaralı kapların içindeki 
+su yüksekliğinin (cm) zamana (dk.) bağlı deği-
+şimi sırasıyla Tablo 1 ve Tablo 2’de verilmiştir.
+Tablo 1
+Kaptaki	Suyun	
+Yüksekliği	(cm)
+Musluğun	Açık 	
+Kaldığı	Süre	(dk.)
+40 0
+36 1
+32 2
+28 3
+24 4
+Tablo 2
+Kaptaki	Suyun	
+Yüksekliği	(cm)
+Musluğun	Açık 	
+Kaldığı	Süre	(dk.)
+30 0
+28 1
+26 2
+24 3
+22 4
+15.

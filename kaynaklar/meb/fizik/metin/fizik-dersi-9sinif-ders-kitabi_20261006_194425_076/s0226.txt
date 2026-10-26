@@ -1,0 +1,58 @@
+226
+4. ÜNİTE 
+Kontrol Noktası
+Q = m : c : ΔT
+Isı
+Aralarındaki sıcaklık farkı nede­
+niyle bir cisimden veya sistemden 
+diğerine aktarılan enerjidir.
+Isının SI’ daki birimi: joule
+Isı, kalorimetre kabı ile dolaylı ola ­
+rak ölçülür.
+Isı alan maddenin iç enerjisi artar, 
+ısı veren maddenin iç enerjisi 
+azalır.
+İç enerji = Taneciklerin toplam enerjisi
+Isı Sığası
+Isı sığası, saf bir maddenin sıcaklı­
+ğını 1 °C veya 1 K değiştirmek için 
+gereken ısı miktarını ifade eder.
+Isı sığasının matematiksel modeli:
+C = m : c
+Öz ısı, saf bir maddenin birim 
+kütlesinin (1 kg veya 1 g) sıcaklı­
+ğını 1 °C veya 1 K değiştirmek için 
+gereken ısı miktarını ifade eder.
+Sıcaklık Değişimi
+Sıcaklık, maddeyi oluşturan her 
+bir taneciğin ortalama kinetik 
+enerjisinin bir ölçüsüdür.
+Sıcaklığın SI’ daki birimi: kelvin
+Sıcaklık termometre ile dolaylı 
+yoldan ölçülür.
+Sıvılı
+Metal
+Gazlı
+Dijital
+Kızılötesi
+ 
+ 4.3. HÂL DEĞİŞİMİ
+Konuya Başlarken
+Dünya XX. yüzyılın başlarından itibaren hızla artan  
+sanayileşme sonucunda “küresel ısınma” tehdidi ile 
+karşı karşıya kalmıştır. Bu dönemde dünyanın ortalama 
+yüzey sıcaklığı, Sanayi Devrimi öncesi döneme göre 
+1,48 oC artarak yaklaşık 15 oC olmuştur. Sıcaklıktaki bu 
+artış, buzulların erimesine ve iklim değişikliğine sebep 
+olmaktadır.
+Son yıllarda gerçekleşen doğal afetler, artık dünya da 
+sürdürülebilir yaşam için endişe verici bir döneme gi­
+rildiğini göstermektedir. Dünya tarihinde daha önce de 
+birçok doğal afetle karşılaşan insanlık; aklını, mantığını 
+ve bilgisini kullanarak bu afetle  rin birçoğundan en az 
+zararla kurtulmuştur. Bununla birlikte küresel ısınma tehdidiyle mücadelede yetersiz kalmaktadır. Bunun 
+temel nedeni ise diğer tehditlerden farklı olarak küresel ısınmanın temel sorumlusunun insanın kendisi 
+olmasıdır.
+Buzul erimesinin iklim değişikliğiyle ilişkisi nedir? Küresel ısın manın buzulların erimesi dışında 
+başka hangi olumsuz etkileri olabilir? 
+Küresel ısınmanın olumsuz etkileri (Temsilî)

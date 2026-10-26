@@ -1,0 +1,58 @@
+1. Tema/Etkileşim
+60
+2. Aşağıda Pauli dışlama ilkesine uyan ve uymayan bazı örnekler verilmiştir. Bu örnekleri inceleyiniz ve dü -
+şüncelerinizi tartışınız. İncelediğiniz örnekleri esas alarak Pauli dışlama ilkesini veren örüntüyü belirleyi -
+niz. Belirlediğiniz örüntüyü gerekçeleriyle açıklayarak aşağıya yazınız.
+3. Aşağıda Hund kuralına uyan ve uymayan bazı örnekler verilmiştir. Bu örnekleri inceleyiniz ve düşünce -
+lerinizi grup arkadaşlarınızla tartışınız. İncelediğiniz örnekleri esas alarak Hund kuralını veren örüntüyü 
+belirleyiniz. Belirlediğiniz örüntüyü gerekçeleriyle açıklayarak aşağıya yazınız.
+7N:
+8O:
+1s
+2
+1s
+2
+2s
+2
+2s
+2
+2p
+3
+2p
+4
+Hund kuralına uymaz.
+Hund kuralına uymaz.
+Hund kuralına uyar.
+Hund kuralına uyar.
+Hund kuralına uymaz.
+Hund kuralına uyar.
+Hund kuralına uymaz.
+1s
+2
+Pauli dışlama ilkesine uyar.
+Pauli dışlama ilkesine uyar.
+Pauli dışlama ilkesine uyar.
+Pauli dışlama ilkesine uyar.
+Pauli dışlama ilkesine uyar.
+Pauli dışlama ilkesine uymaz.
+Pauli dışlama ilkesine uymaz.
+Pauli dışlama ilkesine uymaz.
+Pauli dışlama ilkesine uymaz.
+6C: 1s2 2s2 2p2
+2p
+4
+2p
+6
+3s
+2
+2s
+2
+2s
+2
+2He:
+8O:
+12Mg:
+1s
+2
+1s
+2

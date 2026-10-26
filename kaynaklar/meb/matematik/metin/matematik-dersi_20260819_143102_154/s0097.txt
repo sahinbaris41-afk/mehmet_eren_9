@@ -1,0 +1,23 @@
+97
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: SAYILAR
+Bu temada öğrencilerin doğal sayıların asal çarpanları ve bölenlerine ilişkin çıkarım yapa-
+bilmeleri; en büyük ortak bölene (EBOB), en küçük ortak kata (EKOK) ve bir doğal sayının 
+belirli doğal sayılara bölümünden kalanlara dair muhakeme yapabilmeleri amaçlanmak-
+tadır.
+DERS SAATİ 20
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği, SDB3.2. Esneklik
+Değerler D14. Saygı, D16. Sorumluluk
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Bilişim Teknolojileri, Kriptoloji
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

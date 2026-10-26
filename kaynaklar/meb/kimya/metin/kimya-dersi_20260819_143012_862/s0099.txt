@@ -1,0 +1,54 @@
+99
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları KİM.12.2.1
+Organik kimya tarihi açısından dönüm noktası olarak kabul edilen, Alman kimyacı Friedrich 
+Wöhler’in 1828’de keşfettiği sentez örnek verilerek organik kimyaya giriş yapılır (E1.1). Öğren-
+ciler, çeşitli molekülleri (H2, HF, F2, O2, N2) oluşturan atomlar arasındaki sigma ve pi bağ tür-
+lerini belirlemek için bağ sayısı, bağ uzunluğu, bağ enerjisi ve orbital örtüşmesini ölçüt olarak 
+belirler. Bu aşamada araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkan-
+lık değeri desteklenir (D3.3). H2, HF, F2, O2, N2 moleküllerini oluşturan atomların arasındaki 
+bağların oluşumu için orbital örtüşmesini içeren hazır veri seti üzerinden tek, çift ve üçlü 
+bağların niteliklerine ilişkin örüntüler belirler (OB7). Öğrencilerin tek, çift ve üçlü bağların ni-
+teliklerine ilişkin oluşturdukları örüntüleri bağ enerjisi, bağ uzunluğu ve bağ sayısına dayalı 
+olarak açıklamaları sağlanır (OB7). Öğrencilerden çalışma yaprağında verilen tek, çift ve üçlü 
+bağ içeren karbon bileşiklerindeki sigma ve pi bağlarını belirlemeleri istenebilir.
+KİM.12.2.2 
+Öğrencilere metan, etilen ve asetilen moleküllerini oluşturan atomların atom orbitallerinin 
+ve hibrit orbitallerinin enerji düzeylerini gösteren diyagramlar ile her bir orbitalin uzayda 
+yönelim şekilleri verilir. Öğrenciler; karbon atomuna ait bağ sayıları, hibrit orbitalleri ve or-
+bital enerjileri arasındaki ilişkileri inceleyerek tek, çift ve üçlü bağların nasıl oluştuğuna 
+yönelik ölçütler belirlemeleri için yönlendirilir. Araştırmacı ve sorgulayıcı olmanın önemi -
+ne vurgu yapılarak çalışkanlık değeri desteklenir (D3.3, OB4). Öğrenciler, hazır veri setini 
+kullanarak hibrit orbitallerinin oluşumuna ilişkin örüntü oluşturur. Metan, etilen ve ase -
+tilen moleküllerindeki orbital örtüşmelerinin üç boyutlu gösterimi üzerinden sigma ve pi 
+bağlarının oluşumu verilerek öğrencilerden örüntü belirlemeleri istenir. Öğrencilerin be -
+lirledikleri örüntüyü gerekçelendirmeleri sağlanır (E3.7, OB4). NH3, H2O, BeH2, BH3 mole-
+küllerindeki merkez atoma ait hibrit orbitallerinin enerji düzeyini gösteren diyagramların 
+incelenerek orbital örtüşmeleri ve merkez atomlardaki hibritleşme türlerinin belirlenme -
+si sağlanır (KB2.7). Öğrencilerden çalışma yaprağında verilen farklı moleküllerin merkez 
+atomlarının yaptığı hibrit türlerini belirlemeleri istenebilir.
+KİM.12.2.3 
+Öğrenciler; BeH2, H 2O, BH 3, NH 3, CH 4 moleküllerinin hibrit orbitallerinin uzaydaki yöne -
+limlerine göre oluşan molekül geometrilerine ilişkin varsayımda bulunur. Öğrencilerden 
+verilen molekül örneklerini inceleyerek aynı sayıda atom içeren moleküllerin geometrile -
+rini kendi aralarında karşılaştırarak örüntü belirlemeleri istenir (SDB2.1, OB2). Öğrencile-
+rin BeH2, H2O, BH3, NH3, CH4 moleküllerinin uzay-dolgu modellerini incelemeleri sağlanır. 
+Öğrencilerden belirledikleri molekül geometrileri ile verilen uzay-dolgu modellerini karşı -
+laştırarak benzerlik ve farklılıkları tespit etmeleri istenir. Öğrencilerin üç atomlu molekü -
+lün doğrusal ya da açısal, dört atomlu molekülün düzlem üçgen ya da üçgen piramit, beş 
+atomlu molekülün düzgün dört yüzlü geometriye sahip olduğuna ilişkin önermeler sunma-
+ları sağlanır. Öğrenciler, VSEPR kuramı ile ilgili güvenilir bilgiye ulaşarak sunduğu önerme-
+leri değerlendirir (E3.10, D3.3, OB4) . Öğrenciler karbon allotroplarının özelliklerini içeren 
+kanıt kartlarını kullanarak allotropların özelliklerini belirler, benzerlik ve farklılıklarını liste-
+ler (KB2.7). Kurşun kalem uçları kullanılarak mikro ölçekte grafen eldesi deneyi yaptırılır 
+(FBAB7). Performans görevi çerçevesinde öğrencilerden verilen çeşitli molekülleri farklı 
+materyaller kullanarak modellemeleri istenebilir.
+KİM.12.2.4
+Öğrencilerden etkinlik kâğıdında basit formülü, molekül formülü, çizgi bağ formülü, açık 
+ve yarı açık formülü ile uzay dolgu molekül modelleri verilen çeşitli organik bileşiklerin yapı 
+formülüne ilişkin örüntü belirlemeleri istenir. Öğrencilerin belirledikleri örüntüleri kulla -
+narak organik bileşiklerin yapı formüllerine ilişkin genelleme yapmaları sağlanır (KB2.16.1, 
+E3.4, OB4). Öğrencilerden çalışma yaprağında verilen çeşitli organik bileşiklerin açık for -
+mülü, yarı açık formülü, çizgi bağ formülü, molekül formülü ve basit formülünü belirleme-
+leri istenebilir. Etkinlik kâğıtları, “örüntü oluşturabilme ve örüntüler üzerinden genelleme

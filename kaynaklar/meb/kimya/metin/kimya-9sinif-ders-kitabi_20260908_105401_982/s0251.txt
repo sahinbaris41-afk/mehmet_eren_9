@@ -1,0 +1,20 @@
+251
+3. Tema/Sürdürülebilirlik
+3. 1, 2, 4 ve 6. gruplar aynı özellikteki yara bantlarını, elde ettiği gümüş nanoparçacıklar ile kaplamış ve bu yara 
+bantlarının antibakteriyel etkisini incelemiştir. Bunun için bakteri içeren petri kabına AgNP kaplanmış yara bant-
+larını yapıştırdıktan sonra petri kabını 37 °C’taki bir fırında 24 saat boyunca bekletmiştir. Süre sonunda ise cetvel 
+kullanarak bandın altındaki ve etrafındaki inhibisyon bölgesini ölçmüştür. 
+ Buna göre aş ağıdaki petri kabında verilen inhibe bölgeleri hangi grubun hazırladığı yara bandına ait ola-
+bilir? Nedenini açıklayınız.
+2. Gruplar elde ettikleri gümüş nanoparçacıkların bakteri üremesini engellemedeki etkinliğini test etmek amacıyla 
+bakteri bulunan petri kabına bir miktar AgNP eklemiş ve en fazla %75 oranında bakterinin inhibe edildiği sonu-
+cuna ulaşmıştır. 
+Buna göre aşağıda verilen petri kabına hangi grubun elde ettiği gümüş nanoparçacıklar (AgNP) eklenmiş 
+olabilir? İnhibe edilen bakteri oranını artırabilmek için bu grubun deneyle ilgili neler yapması gerekir?
+Bakteri
+AgNP
+%75 oranında bakterinin inhibisyonu
+a) b) 
+ç) c) 
+22 mm 10 mm
+16 mm6 mm

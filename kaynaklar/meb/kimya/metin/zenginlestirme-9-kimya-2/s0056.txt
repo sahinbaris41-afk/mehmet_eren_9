@@ -1,0 +1,28 @@
+54 55
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+KİMYA 9
+1. 4 adet mezürü aşağıdaki gibi kalemle işaretleyip "h" yüksekliğini belirlemelerini (Görsel 2.3)  
+sağlayınız.
+  
+Bilye
+A noktası
+B noktası
+2. Mezürlerden ikisini A1 ve A2, geriye kalan iki mezüre de B1 ve B2 şeklinde etiketlemelerini  
+sağlayınız.
+3. A1 ve A2 etiketli mezürlere gliserinden, B1 ve B2 etiketli mezürlere sıvı sabundan ellişer mL koy -
+malarını belirtiniz.
+4. İki gruba ayrılan mezürlerden A1 ve B1 etiketlilerin 25 oC, A2 ve B2 etiketlilerin 50 oC’ta olmasına 
+dikkat etmelerini belirtiniz. (Mezürlerin istenilen sıcaklığa ulaşması su banyosunda gerçekleştirilir.)
+5. Piknometre yardımı ile gliserin ve sıvı sabunun yoğunluklarını hesaplamalarını isteyiniz.
+6. Deneyde kullanacakları bilyelerin çaplarını kumpasla ölçmelerini söyleyiniz.
+7. Bilyelerin yoğunluklarını hesaplamalarını isteyiniz.
+8. Bilyeleri sırasıyla sıvı üzerine yavaşça bırakmalarını ve ilk işaret çizgisine (A noktası) vardığı anda 
+kronometreyi başlatmalarını söyleyiniz. 
+9. Öğrencilere bilyeler ikinci işaret çizgisine (B noktası) ulaştığı anda da kronometreyi durdurmala-
+rını ve bilyenin "h" yüksekliğini ne kadar zamanda aldığını bulmalarını isteyiniz.  
+10. Aynı işlemi her iki sıcaklık değeri için ve üçer defa yaparak ortalama değeri almalarını belirtiniz.
+11. Öğrencilerden her bir t değerini kullanarak v = h/t eşitliğinden limit hız (v) değerini bulup ortalama 
+değeri almalarını söyleyiniz.
+2. Adım: Uygulama
+Görsel 2.3:  Mezür ve h yüksekliğinin belirlenmesi

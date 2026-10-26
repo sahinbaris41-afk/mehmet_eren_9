@@ -1,0 +1,90 @@
+141
+2. Tema/Çeşitlilik
+İyonik	Bileşiklerin	Adlandırılması
+İyonik bileşiklerde adlandırma yapılabilmesi için iyonik bileşiği oluşturan iyon-
+ların adları bilinmelidir.
+Tablo 2.1: Bazı Katyon Adları Tablo 2.2: Bazı Anyon Adları
+Tablo 2.3: Birden Fazla Katyonu Olan Bazı Metallerin Sembolleri, 
+Adları ve Bazı Olası Yükseltgenme Basamakları
+Tablodaki her elementin en yaygın yükseltgenme basamağı kırmızı renkle 
+belirtilmiştir.
+KATYONLAR
+Sembolü Adı
+Li
++
+Lityum
+Na
++
+Sodyum
+K
++
+Potasyum
+Rb
++
+Rubidyum
+Cs
++
+Sezyum
+Mg
+2+
+Magnezyum
+Ca
+2+
+Kalsiyum
+Sr
+2+
+Stronsiyum
+Ba
+2+
+Baryum
+Al
+3+
+Alüminyum
+Zn
+2+
+Çinko
+NH4
++
+Amonyum
+Sembolü Adı Yükseltgenme Basamakları
+Cr Krom +2, +3, +6
+Mn Mangan +2, +4, +7
+Cu Bakır +1, +2
+Pb Kurşun +2, +4
+Sn Kalay +2, +4
+Fe Demir +2, +3
+Co Kobalt +2, +3
+Ag Gümüş +1, +2
+ANYONLAR
+Sembolü Adı
+F¯ Florür
+Cl¯ Klorür
+Br¯ Bromür
+I¯ İyodür
+S
+2−
+Sülfür
+N
+3−
+Nitrür
+C
+4−
+Karbür
+H¯ Hidrür
+O
+2−
+Oksit
+SO4
+2−
+Sülfat
+NO3¯ Nitrat
+CO3
+2−
+Karbonat
+PO4
+3−
+Fosfat
+OH¯ Hidroksit
+CN¯ Siyanür 
+HCO3¯ Bikarbonat
+CH3COO¯ Asetat

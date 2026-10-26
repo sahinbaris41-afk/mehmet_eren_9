@@ -1,0 +1,35 @@
+92
+2. Tema /  Nicelikler ve Değişimler
+Gerçek Sayılarda f(x) = x Şeklinde Tanımlı 
+Doğrusal Referans Fonksiyon
+Gerçek sayılarda f(x) = x şeklinde tanımlı f fonksiyonu doğrusal referans fonksiyondur. Doğrusal fonksiyonların 
+grafikleri oluşturulurken ve nitel özellikleri (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, maksi-
+mum-minimum noktaları, sıfırı ve bire birliği) belirlenirken f doğrusal referans fonksiyonundan yararlanılabilir.
+1.	Uygulama
+Gerçek Sayılarda fx x=_i  Şeklinde Tanımlı f Doğrusal Referans Fonksiyonunun Nitel Özellikleri
+Verilen bilgileri inceleyerek soruları cevaplayınız.
+1.  Sabit hızla hareket eden bir araç, dakikada 1 kilometre yol almaktadır. Araç, sabit hızla 120 dakika boyunca 
+hareket etmiş ve 120 km yol almıştır. Aracın hareketi gözlemlenmeye başladığı andan itibaren zamana (dk.) 
+bağlı aldığı mesafeyi (km) gösteren fonksiyon g olmak üzere g fonksiyonunun cebirsel temsili, g(x) = x olur. 
+Grafik 1ʼde g fonksiyonunun grafiği verilmiştir.
+x Zaman (dk.)
+y Mesafe (km)
+O
+g(x) = x
+15
+15 30 60 120
+30
+60
+120
+Grafik 1
+a)  T ablo 1 ʼde bağımsız değişkenin (x) aldığı bazı değerlere karşılık gelen bağımlı değişken (g(x)) değerleri 
+verilmiştir. Tabloda verilmeyen değerleri bulunuz.
+                                             Tablo 1
+ 
+    
+x 0             15            30             .....            120  
+g(x) 0            .....            30             60             .....                
+b)  Bağımlı deği şkenin minimum (en küçük) ve maksimum (en büyük) değerini bulunuz.
+c)  Bağımlı ve b ağımsız değişkenlerin alabileceği değerlerin aralıklarını bulunuz.
+ç)  Bağımsız değ işkenin hangi değeri için bağımlı değişkenin sıfıra eşit olduğunu bulunuz.
+d)  Bağımlı değişken; bağımsız değişkenin hangi değerleri için pozi tif, hangi değerleri için negatif olur? Bulunuz.

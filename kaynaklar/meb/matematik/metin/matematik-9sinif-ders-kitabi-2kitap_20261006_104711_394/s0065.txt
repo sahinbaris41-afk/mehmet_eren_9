@@ -1,0 +1,41 @@
+65
+4. Tema / Eşlik ve Benzerlik
+2. Yandaki	şekilde	ABC	ve	BCD	üçgen,	 AC BD E,+ =77 AA #-   
+ FB C! 7 A  dır.	 AB EF DC''77 7AA A,	 AB cm 6= ,	 DC cm 12=  
+olarak	verilmiştir.
+Buna göre EF  nun kaç cm olduğunu bulunuz.
+3. 
+Şekil	1’de	boyunun	uzunluğu	1,6	m	olan	Şükrü’nün	günün	belli	bir	saatindeki	gölgesinin	uzunluğu	2,4	
+m	olarak	verilmiştir.	Şekil	2’de	ise	Şükrü’den	belli	bir	mesafe	uzaklıktaki	ağacın	günün	aynı	saatinde-
+ki	gölge	uzunluğu	33	m	olarak	verilmiştir.	Ağaç	ve	Şükrü	Güneş	ışınlarını	aynı	açıyla	almaktadır .
+ Buna göre ağacın boyun u ifade eden ED  nun kaç m olduğunu bulunuz.
+Kontrol Noktası
+• TEMEL ORANTI TEOREMİ
+Bir ABC üçgeninde dd12'  olmak üzere DBAD ECAE=  dur.
+• TALES TEOREMİ
+ddd345''  ve d3, d4, d5 doğrularını kesen farklı iki doğru d 1 ve d2 
+olmak üzere BCAB EFDE=  dur.
+A
+B C
+D E d1
+d2
+d1
+A D
+B E
+C F
+d2
+d3
+d4
+d5
+1,6
+2,4 33A B C D
+E
+K
+Şekil 1 Şekil 2
+6
+A
+B C
+D
+E
+F
+12

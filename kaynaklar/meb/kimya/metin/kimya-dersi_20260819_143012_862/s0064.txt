@@ -1,0 +1,54 @@
+64
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ve araştırma soruları yazmaları sağlanır (OB7). Soruların araştırılabilir olup olmadığı 
+sınıfça tartışıldıktan sonra gruplar, seçtikleri maddelerin enerji kaynağı olma potan -
+siyeline ilişkin neden-sonuç ilişkilerini ve yapacakları deneye ilişkin bağımlı-bağımsız 
+değişkenleri ve kontrol değişkenlerini belirler. Değişkenler arasındaki ilişkiyi belirlemek 
+üzere deneyler tasarlar ve tasarladıkları deneyi gerçekleştirirler (D3.2, OB7). Deney uy-
+gulamaları ile çalışkanlık değeri desteklenir. Gruplar, deney verileri temelinde seçtikleri 
+yakıtların veya canlılara enerji veren maddelerin enerji kaynağı olma potansiyeline iliş -
+kin önermeler sunarlar. Öğrenciler, deneysel veriler temelinde sundukları önermeleri -
+ni bilimsel verilerden (ürünlerin etiketleri, kimyasal içerik vb.) hareketle karşılaştırır ve 
+seçtikleri yakıtların yanma tepkimesine ait denklemi yazarlar. Çeşitli maddelerin oksi -
+jen ile yanması sonucu enerji açığa çıkmasından yola çıkılarak hidrojenin de bir enerji 
+kaynağı olabileceği öğrencilere fark ettirilebilir. Enerji kaynaklarında yanma ürününün 
+çoğunlukla sera gazı olduğu ancak hidrojen yandığında sera gazı çıkışı olmadığına dik -
+kat çekilebilir. Yapay tatlandırıcılar ile enerji içeceklerinin enerji verme özellikleri ve 
+yanma ürünlerinin canlı organizmada oluşturabileceği sağlık sorunları tartışmaya açı -
+larak sağlıklı yaşam kapsamında değerlendirme yapılması istenebilir (SDB2.3, D13.1) . 
+Enerji içeceği ve tatlandırıcıların su pireleri üzerindeki etkisinin mikroskop aracılığı 
+ile veya deney videosu yardımıyla gözlemlenmesi sağlanabilir (OB2). Öğrenciler çeşitli 
+maddelerin enerji kaynağı olma potansiyelini araştırmak amacıyla bir deneyi tasarlaya -
+bilir, uygulayabilir ve raporlayabilir (SDB1.2).
+KİM.11.1.3 
+Öğrencilere tekli bağlara veya çoklu bağlara ait ortalama bağ enerjilerinin listelendiği 
+bir tablo verilir. Öğrencilerin tablodaki verileri incelemeleri ve bağ enerjilerinin birbirin -
+den farklı olduğunu görmeleri sağlanır (OB7). Atmosferdeki azot gazının oksijenle kolay 
+tepkime vermemesinin nedenine ilişkin tartışma ortamı oluşturulabilir. Kırılan ve olu -
+şan bağların gösterildiği tepkimelerin denklemleri ve tepkimelerin entalpi değişimleri 
+(ΔH°tepkime ) verilir. Öğrenciler, tepkimelerin entalpi değişimi ile kırılan ve oluşan bağla -
+rın enerjileri arasında örüntü keşfeder ve bu örüntüyü matematiksel olarak modeller 
+(D3.3). Matematiksel modelini farklı tepkimelerin kırılan ve oluşan bağ enerjilerinden 
+entalpi değişimlerini hesaplayarak test eder. Her bir tepkimeye ilişkin elde ettiği en -
+talpi değişiminin negatif ya da pozitif olmasının gerekçesini potansiyel enerji-tepkime 
+koordinatı grafiğinden yararlanarak açıklar (OB7). Tepkimelerin entalpi değişiminin po -
+zitif veya negatif olma durumuna göre endotermik veya ekzotermik tepkimeler olarak 
+sınıflanabileceği genellemesinin yapılması sağlanır (KB2.16.1). Yapılan genellemelerin 
+ardından öğrencilerden günlük hayatta karşılaştıkları ekzotermik ve endotermik olay -
+lara ilişkin örnekler vermeleri istenebilir. Öğrencilerden çalışma yaprağında verilen tep -
+kimelerin entalpi değişimlerini bağ enerjilerini kullanarak hesaplaması ve tepkimeleri 
+endotermik ya da ekzotermik olarak sınıflaması istenebilir. 
+KİM.11.1.4 
+Öğrencilere çeşitli kimyasal tepkimeler ve bu tepkimelere ait standart oluşum entalpi -
+lerinin ve standart tepkime entalpilerinin yer aldığı bir tablo verilir. Öğrencilerden tepki -
+melerin standart tepkime entalpilerinin hesaplanmasına ilişkin önermeler oluşturmaları 
+istenir (OB7). Öğrenciler, standart oluşum entalpi verilerine dayalı oluşturduğu önerme -
+leri ile standart tepkime entalpilerine ilişkin ön bilgilerine dayalı olarak oluşturduğu ve -
+riye dayalı olmayan önermelerini karşılaştırmaları için yönlendirilir. Ardından öğrencilerin 
+standart tepkime entalpilerinin hesaplanmasına ilişkin oluşturduğu önermede tablodaki 
+standart oluşum entalpi verilerini kullanarak farklı tepkime örneklerinin standart tepkime 
+entalpilerini hesaplamaları sağlanır (OB7). Öğrencilere tepkimelerin standart tepkime en-
+talpilerinin hesaplanmasına ilişkin bilimsel matematiksel model verilir. Öğrencilerden he-
+saplamalarının sonucunu verilen matematiksel modelden elde ettiği hesaplama sonuçla-
+rıyla karşılaştırarak sorgulamaları istenir. Öğrenciler, sorgulamalarını etkili iletişim kurarak 
+sınıf içi tartışmalarla arkadaşlarıyla paylaşabilirler (SDB2.1, D14.1, E2.2) . Etkinlik kâğıtları

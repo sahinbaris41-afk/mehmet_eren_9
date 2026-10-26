@@ -1,0 +1,42 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+14
+düşünme, problem çözme, yorum yapma ve bilgiyi yeni durumlara aktarma becerileri de kazandırmaktır. 
+Bu değişimle birlikte bağlam temelli sorular, özellikle Uluslararası Öğrenci Değerlendirme Programı [Prog -
+ramme for International Student Assessment (PISA)] ve Uluslararası Matematik ve Fen Eğilimleri Araştır -
+ması [Trends in International Mathematics and Science Study (TIMSS)] gibi uluslararası geniş ölçekli sınav -
+larla daha görünür ve merkezî bir rol kazanmıştır. Dolayısıyla bağlam temelli sorular kavramsal ve tarihsel 
+olarak günümüzde ortaya çıkmış değildir. Ancak eğitim hedeflerinin değişmesiyle birlikte daha sistematik, 
+yaygın ve bilinçli biçimde kullanılmaya başlanmıştır.
+Öğretim programlarında becerilerin ön plana çıkması ve ölçme süreçlerinde kullanılması, bağlam temelli 
+soruların önemini artırmıştır. Bu doğrultuda bağlam temelli sorular, TYMM’de öğrencinin zihinsel ve sosyal 
+becerilerini günlük hayatta sergileyebildiği birer beceri kanıtı işlevi görmektedir. Çünkü yapılan araştırma -
+larda da vurgulandığı üzere bağlama bağlı soru setleri, bir kavramın gerçek dünyada nasıl ortaya çıktığını 
+daha yakından yansıtarak birbiriyle ilişkili görev ve becerilerin ölçülmesini sağlar (Keller vd., 2003). Ayrıca 
+bağlam temelli soruların analitik düşünme ve problem çözme becerileri de dâhil olmak üzere bireylerin 
+bilgiyi uygulama becerilerini değerlendirmede çok yönlü bir ölçme aracı olduğu kanıtlanmıştır (Allen & Su -
+dweeks, 2001).
+Soruları belirli bir senaryo, durum, grafik, metin, tablo gibi materyallere dayandırarak yapılandırmak, so -
+yut kavramları somutlaştırarak öğrencilerin uygulama becerilerini ölçmeyi ve aynı zamanda öğrencilerin 
+motivasyonunu ve ilgisini artırmayı amaçlar (Ahmed & Pollitt, 2007). Bu çerçevede bağlam temelli sorular, 
+yapısı gereği ölçme işleminin bütüncül bir bağlam üzerinden gerçekleştirilmesini sağlar. Bu sayede öğren -
+cilerin yalnızca bilgiyi hatırlamaları değil aynı zamanda onu yeni durumlara uygulamaları, yorumlamaları ve 
+problem çözme süreçlerine dâhil etmeleri hedeflenir. Araştırmacılara göre bağlam temelli sorular, özel -
+likle üst düzey bilişsel süreçlerin ve becerilerin ölçülmesinde oldukça etkilidir (Allen & Sudweeks, 2001; 
+Haladyna, 1992).
+PISA, TIMSS gibi uluslararası öğrenci değerlendirme programlarında öğrencilerin yalnızca bilgi düzeyleri -
+ni değil öğrendikleri bilgiyi günlük hayat durumlarında uygulama ve çözüm üretme becerilerini de değer -
+lendirmek üzere sorular tasarlandığı bilinmektedir. PISA özellikle öğrencilerin okulda öğrendikleri bilgiyi 
+günlük hayat bağlamında kullanma yeteneğini ölçmeye odaklanır. Bu nedenle sorular, öğrencilerin günlük 
+hayat, toplumsal süreçler veya mesleki alanlarda bilgi ve beceriyi nasıl kullandıklarını sorgular. TIMSS ise 
+problem çözme ve kavramlar arası ilişki kurma becerilerini destekleyen bağlamsal soru yapılarına yer verir. 
+Bu yaklaşım, sadece içerik bilgisini değil aynı zamanda öğrencilerin bilgiyi uygulama ve muhakeme beceri -
+lerini ölçmeyi amaçlayan bir değerlendirme anlayışıyla örtüşür.
+Özellikle vurgulanması gereken nokta, bağlam temelli soruların tasarımının ölçülecek özelliğe, öğrenme 
+çıktısına ve süreç bileşenine bağlı olarak değişiklik gösterebilmesidir. Bu nedenle her bağlam temelli soru 
+tasarımı soru seti biçiminde olmak zorunda değildir. Bir bağlamdan bir veya birden fazla soru üretilebilir. 
+Bununla birlikte alan yazında bağlam temelli soru tasarımı sürecinde genellikle bir bağlamdan (metin, gör -
+sel, grafik vb.) birden fazla soru üretildiği vurgulanmaktadır.
+Bağlam temelli soruların bir soru tipi/formatı değil bir tasarım yaklaşımı olduğu da unutulmamalıdır. Bu ne -
+denle bağlam temelli sorular yalnızca çoktan seçmeli soru tipinde olmak zorunda değildir. Bağlam temelli 
+olma durumu, sorunun formatından çok nasıl bir bağlam içinde yapılandırıldığı ve öğrenciden ne tür bir 
+bilişsel işlem talep ettiği ile ilgilidir.

@@ -1,0 +1,32 @@
+10
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+12. SINIF KİMY A DERSİ
+TEMA Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. ETKİLEŞİM 9  48 33 
+2. ÇEŞİTLİLİK 12 70 49 
+3. SÜRDÜRÜLEBİLİRLİK 3 20 14 
+OKUL TEMELLİ PLANLAMA* - 6 4
+Toplam 24 144 100
+DERS KİTABI FORMA SAYILARI KİTAP EBADI
+KİMY A DERSİ 9. SINIF 18-20 19,5 cm X 27,5 cm
+KİMY A DERSİ 10. SINIF 18-20 19,5 cm X 27,5 cm
+KİMY A DERSİ 11. SINIF 20-22 19,5 cm X 27,5 cm
+KİMY A DERSİ 12. SINIF 20-22 19,5 cm X 27,5 cm
+1.4. KİMY A DERSİ KİTAP FORMA SAYILARI VE KİTAP EBATLARI
+* Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan çalışmalar (okul dışı öğrenme 
+etkinlikleri, araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma çalışmaları vb.) için 
+ayrılan süredir. Çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Okul temelli 
+planlama kapsamında 10. sınıf düzeyinde belirlenen ders saatleri ise öğrencilerin meslek seçimi ve kariyer planlaması 
+yapabilmeleri amacıyla onlara rehberlik edecek şekilde kullanılır. Bu doğrultuda planlanan eğitim öğretim faaliyetleri, 
+mesleki rehberlik ve kariyer danışmanlığı bağlamında yürütülür.
+11. SINIF KİMY A DERSİ
+TEMA Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. ETKİLEŞİM 8  48 33 
+2. ÇEŞİTLİLİK 14  70 49 
+3. SÜRDÜRÜLEBİLİRLİK 3  20  14
+OKUL TEMELLİ PLANLAMA* - 6 4
+Toplam 25 144 100

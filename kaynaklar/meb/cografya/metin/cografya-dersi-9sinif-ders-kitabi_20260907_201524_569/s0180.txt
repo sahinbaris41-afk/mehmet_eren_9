@@ -1,0 +1,100 @@
+180
+5. Ünite: eKOnOMiK FAALiYetLeR Ve etKiLeRi
+Amaç TEKNOSAB’ın kuruluş yeri seçiminde etkili olan coğrafi faktörleri sorgulayabilme
+Beceri Coğrafi Sorgulama; Tablo, Grafik, Şekil ve/veya Diyagram; İletişim, İş Birliği
+Yönerge: TEKNOSAB ile ilgili verilen metin, coğrafi temsil ve e-içerikten yararlanarak aşağıdaki etkinlik adım-
+larını grup çalışması yoluyla uygulayınız.
+Bursa Teknoloji Organize Sanayi Bölgesi (TEKNOSAB)
+COĞRAFİ ÖZELLİKLERİ 
+TEKNOSAB, Bursa il merkezinin yaklaşık 
+30 km batısında Karacabey ilçesi sınırları 
+içinde yer almaktadır. Bir kavşak noktası nite-
+liğinde olan ve tasarruf ilkeleri doğrultusunda 
+kurulması planlanan TEKNOSAB’ın kuze-
+yinden İstanbul-İzmir Otoyolu, güneyinden 
+ise Bursa-Karacabey Kara Yolu geçmektedir. 
+Gemlik Limanı’na 50 km, Bandırma Lima-
+nı’na ise 74 km mesafede olan bölgede başka 
+ulaşım altyapıları da planlanmaktadır. Topoğ-
+rafik açıdan hafif engebeli ve tepelik bir görü-
+nüme sahip olan TEKNOSAB, Nilüfer Çayı 
+Havzası’nda yer almaktadır. Bölgenin iklimi 
+Akdeniz ile Karadeniz iklimi arasında geçiş 
+iklimi özellikleri gösterir.
+Bursa ili, 2024 yılı TÜİK verilerine göre yak-
+laşık 3,24 milyon nüfusa sahiptir. Bursa’da 
+tekstil, otomotiv, makine-metal imalatı, ta-
+rıma dayalı sanayi ile gıda ve mobilya gibi 
+sektörler ön plana çıkmaktadır. Bunun yanı 
+sıra raylı sistemler, havacılık, savunma gibi 
+gelişen sektörlerde de üretim yapılmaktadır.
+GENEL BİLGİLER 
+TEKNOSAB, Türkiye’nin teknoloji odaklı planlanmış yeni nesil bir organize sanayi bölgesidir. Akıllı altyapı 
+sistemleri ve fabrika tesisleri, yenilenebilir enerji kaynaklarına dayalı ve verimli üretim süreçlerinin gerçekleşti-
+rilmesine imkân sağlamaktadır. Ayrıca otoyol, demir yolu ve liman bağlantıları sayesinde lojistik kolaylıklar sağ-
+lanması hedeflenmektedir. “Yerli, yenilikçi ve yeşil” ilkesiyle kurulan TEKNOSAB’da yer alan başlıca birimler 
+ve diğer özellikler aşağıdaki tabloda verilmiştir.
+Sanayi 
+Tesisleri
+Otomotiv ve taşıt sanayisi, makine sanayisi, teknik tekstil ve nanoteknoloji sanayisi, ilaç ve kimya sana-
+yisi, savunma sanayisi, elektrik-elektronik sanayisi, uzay ve havacılık sanayisi, raylı sistemler teknoloji 
+sanayisi, yenilenebilir enerji sanayisi, kompozit malzemeler sanayisi
+Lojistik Lojistik merkezi, İstanbul-İzmir Otoyolu, Yüksek Hızlı Tren, Gemlik Limanı, Bandırma Limanı
+Enerji Rüzgâr enerjisi, güneş enerjisi
+Üniversite Teknoloji Üniversitesi
+0
+20
+40
+60
+80
+100
+120
+Ocak
+Şubat
+Mart
+Nisan
+Mayıs
+Haziran
+Temmuz
+Ağustos
+Eylül
+Ekim
+Kasım
+Aralık
+ Yağış (mm)
+Sıcaklık (°C)
+0
+5
+10
+15
+20
+25
+30
+Bursa, Türkiye
+Enlem: 40° 13' K 
+Boylam: 29° 00' D
+Yükselti: 100 m Bursa iline ait sıcaklık ve yağış grafiği
+ETKİNLİK
+Aşağıda TEKNOSAB’ a ait uydu görüntüsü 
+üzerinde coğrafi veriler işaretlenmiştir.
+Marmara Denizi
+Liman Demir Yolu 
+Bağlantısı
+ İstanbul-İzmir 
+Otoyolu
+Bursa-İzmir 
+Kara Yolu
+Uluabat Gölü
+Planlanan Çalışmalar
+Rüzgâr Türbini
+Güneş Paneli
+TEKNOSAB Alanı
+Liman
+0            1            2
+km
+Demir Yolu 
+Projesi
+Liman Kara Yolu
+Bağlantısı
+K
+TEKNOSAB

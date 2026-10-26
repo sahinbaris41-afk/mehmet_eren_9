@@ -1,0 +1,56 @@
+103
+5. Tema/Algoritma ve Bilişim
+Akış	şemasında	kullanılan	semboller	(geometrik	şekiller)	ve	anlamları	Tablo	5.1’de	verilmiştir.
+Sembol Anlamı
+Akış	şemasının	başlangıcını	veya	sonunu	gösterir.
+Veri	girişini	veya	çıktıyı	temsil	eder.
+İşlem	yapmak	için	kullanılır.
+Bir	koşulun	kontrol	edildiği	ve	akışın	iki	veya	daha	fazla	
+yola	ayrıldığı	karar	noktasını	ifade	eder.	Evet/Hayır	veya	
+Doğru/Yanlış	şeklinde	kararlar	bu	şekille	gösterilir.	Döngü	
+yapılarında	kullanılabilir.
+Akış	yönlerini	temsil	eder.	
+Bir	işlemin	sonucunun	veya	bir	problemin	çözümünün	yaz-
+dırıldığını	temsil	eder.
+Tablo 5.1: Akış Şemasında Kullanılan Semboller ve Anlamları
+Döngü, belirli 
+koşullar sağlandığı 
+sürece tekrar eden 
+(yinelenen) işlemleri 
+yürütmek için 
+kullanılan yapıdır.
+Akış şeması,	bir	problemi	çözme	adımlarının	görsel	temsilidir.	İşlemleri,	karar	noktalarını	(evet	veya	
+hayır)	ve	akış	yönlerini	çeşitli	geometrik	şekiller	kullanarak	gösterir.	
+Örneğin	uzun	kenarının	uzunluğu	8	birim,	kısa	kenarı-
+nın	uzunluğu	4	birim	olan	bir	dikdörtgenin	alanını	bulan	
+algoritmanın	işleyişi	akış	şemasıyla	yandaki	gibi	ifade	
+edilebilir.
+Atama	operatörleri,	değişkenlere	veya	veri	yapılarına	
+değer	atamak	için	kullanılan	simgelerdir.	Bu	operatör-
+ler;	bir	değişkene	ilk	değerini	atamak,	güncellemek	
+veya	bir	hesaplama	sonucunu	belirlemek	için	kullanı-
+lır.		Atama	için	‟	!ˮ	veya	‟	=ˮ	sembolleri	kulla nılabilir.	 	
+Burada	A	değişkenine	xy$ 	işleminin	sonucu	atanmıştır.
+Sayısal	değerleri	veya	cebirsel	ifadeleri	karşılaştırmak	
+için	kullanılan	karşılaştırma	operatörleri	ve	anlamları	
+T ablo	5.2’de	verilmiştir	.	
+Dikdörtgenin	alanı	 
+32	birimkaredir.
+A8 4$=
+xv ey84==
+Başla
+Uzun	kenar	uzunluğunu	(x)	ve	
+kısa	kenar	uzunluğunu	(y)	gir
+Alan	A	birimkare	
+elde	edilir
+Bitir
+*Ax y!
+Akış Şeması
+Operatör Anlamı
+< küçük
+> büyük
+<= küçük	veya	eşit
+>= büyük	veya	eşit
+= eşittir
+!= eşit	değil
+Tablo 5.2: Karşılaştırma Operatörleri ve Anlamları

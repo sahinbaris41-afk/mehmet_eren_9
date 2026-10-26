@@ -1,0 +1,58 @@
+64
+2. ÜNİTE 
+ 2.3. VEKTÖRLER
+Konuya Başlarken
+Vektörler, doğadaki bazı olayların açıklanmasında ve bazı bilimsel hesaplamalarda kullanılır. Fizik, 
+mühendislik, matematik gibi disiplinlerde vektörlerin özelliklerinden yararlanılır. Fiziksel birçok ola-
+yın açıklanmasında vektörler yardımcı olur. Kuvvet ve hız gibi fiziksel niceliklerin analizinde yaygın 
+olarak kullanılır. Mühendislikte yapı incelemeleri, mekanik tasarımlar, elektrik ve manyetizma gibi 
+alanlarda vektörler önemli bir rol oynar. Örneğin bir köprü analiz edilirken köprüye etki eden kuv -
+vetlerin vektörel olarak değerlendirilmesi gerekir. Bu değerlendirmeler, sabitlenmiş köprünün ayakta 
+durması ve üzerinden geçen araçların güvenliği için oldukça önemlidir. Havacılık ve uzay mühendis-
+liğinde roketlerin ve uçakların yönlendirilmesi, yörünge hesaplamaları gibi birçok uygulama vektör 
+kavramını içerir.
+Başka hangi çalışmalarda vektörlerden yararlanılmaktadır?
+Vektörel nicelikleri tam ve doğru şekilde ifade edebilmek için bu niceliklerin 
+yön ile büyüklük bilgilerine de ihtiyaç vardır. Örneğin 25 m/s büyüklüğündeki 
+hızla doğrusal yolda hareket eden bir aracın harekete başladıktan 8 s sonraki 
+varış noktasını belirleyebilmek için aracın ilk konumu, hızının büyüklüğü ve 
+bunun yanı sıra hangi yöne gittiği bilinmelidir. Bu nedenle hız vektörel bir 
+niceliktir.
+Vektörel nicelikler, yönlü bir doğru parçası ile gösterilir. Görsel 2.3’teki gibi 
+d doğrusu üzerinde verilen vektördeki K harfi, herhangi bir vektörel niceliği 
+temsil etmekte kullanılır. Bu amaçla başka küçük veya büyük harfler de kulla-
+nılabilir. Bir fiziksel nicelik K  şeklinde tanımlanmışsa K harfinin üzerindeki ok, 
+bu fiziksel niceliğin vektörel olduğunu belirtir. Örneğin kuvvet vektörünü gös-
+termek için , F hız vektörünü göstermek için v  sembolleri kullanılır.
+Görsel 2.3’te gösterimi yapılan K  vektörünün sahip olduğu özellikler şu 
+şekilde sıralanabilir:
+Yön: Gösterimdeki B noktasını işaret eden okun yönü vektörel niceliğin 
+yönünü gösterir. K  vektörünün yönü A noktasından B noktasına doğrudur.
+Büyüklük: Vektörel niceliğin büyüklüğü, başka bir deyişle sayı değeridir. 
+Görsel 2.3’te verilen K  vektörünün büyüklüğü AB  kadar olup bu vektörün 
+büyüklüğü sembol olarak K  veya K ile gösterilir. Örneğin bir kuvvet 
+vektörünün büyüklüğü F = 30 N, bir hız vektörünün büyüklüğü ise o = 20 m/s 
+olarak belirtilecektir.
+2.3.1. Vektörlerin Özellikleri
+İki veya daha fazla vektörün bazen birbiri ile karşılaştırılması ya da bir vektö-
+rün diğer vektör cinsinden ifade edilmesi gerekebilir. Bu işlemleri yapabilmek 
+için eşit vektör, zıt vektör veya gerçek (reel) sayı ile çarpılmış vektör tanımla-
+rından yararlanılır.
+Görsel 2.3: K  vektörü-
+nün gösterimi
+A
+B
+d doğrusu
+Yönü gösteren ok
+K
+Büyüklüğü 
+Vektörler
+Vektörler, modern hâliyle 
+XIX. yüzyılın sonların-
+da elektromanyetizma 
+yasalarının ifade edilmesi 
+amacıyla kullanılmaya 
+başlanmıştır. Vektörler, 
+matematiksel işlemlerin 
+geliştirilmesinde önemli 
+bir rol oynamıştır.

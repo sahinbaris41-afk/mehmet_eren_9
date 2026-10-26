@@ -1,0 +1,51 @@
+69
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+toplayarak tablo şeklinde kaydedebilir. Gruplardan tablodaki verilere dayalı olarak gra-
+fikler oluşturmaları, grafikleri kullanarak hipotezlerini desteklemeleri veya yanlışlamaları 
+istenebilir. Gruplar simülasyon, tablo ve grafikler üzerinden topladıkları verilerden yarar -
+lanarak ve fikir alışverişinde bulunarak (SDB2.1) elektriksel kuvvetin bağlı olduğu faktörler 
+arasındaki ilişkiyi keşfeder ve bu ilişkiyi matematiksel olarak modeller (E3.6, KB2.10, OB7). 
+Öğretmen Coulomb sabitinden bahsederek öğrencilerin yaptıkları çıkarımları açıklayan 
+matematiksel modelin Coulomb Yasası olarak adlandırıldığını belirtir. Gruplar elektrik 
+yüklü bir yalıtkanı belli mesafelerde elektroskoba yaklaştırarak yapraklarının açılma me-
+safelerini gözlemleyebilir. Gözlemlerini Coulomb Yasası'yla matematiksel hesaplamalara 
+girmeden açıklayabilir. Öğrenciler, Coulomb Yasası ile ilgili farklı problem durumlarında 
+matematiksel hesaplamalara girmeden uygulamalar yaparak matematiksel modeli ge-
+neller. Öğrencilerin Coulomb Yasası'nı kavrama durumları, farklı madde türlerinden olu-
+şan bir soru kutusu hazırlanarak değerlendirilebilir. 
+FİZ.11.2.2 
+Öğretmen elektrik yüklerinin oluşturduğu elektriksel alanı açıklamak için 5E öğrenme 
+modelinden yararlanabilir. Öğrenciler öğretmen rehberliğinde gruplara ayrılarak (SDB2.1) 
+elektriksel alanın bağlı olduğu faktörler hakkında sorular sorar (E1.1). Gruplar hipotezlerini 
+oluşturarak not edebilir. Öğrenciler hipotezlerini test edebilecekleri bir simülasyon ara-
+cılığıyla ölçümler yaparak verileri tablo şeklinde kaydeder. Öğrenciler, toplanan veriler -
+le oluşturulan grafikleri kullanarak elektriksel alanın bağlı olduğu faktörleri keşfeder ve 
+elektriksel alana ilişkin buldukları ilişkileri öğretmen rehberliğinde matematiksel olarak 
+modeller. Gruplar elektrik yüklü yalıtkan çubuğu belli mesafelerde elektroskoba yaklaştı-
+rarak yapraklarının açılma mesafelerini gözlemleyebilir. Öğrenciler gözlemlerini elektrik -
+sel alan ile matematiksel hesaplamalara girmeden matematiksel model ile ilişkilendirerek 
+açıklayabilir. Öğrenciler, matematiksel hesaplara girmeden elektriksel alanla ilgili farklı 
+problem türleri üzerinden uygulamalar yaparak matematiksel modeli geneller. Öğrenci-
+lerin elektriksel alanı kavrama durumları, farklı madde türlerinin bulunduğu soru kutusu 
+yardımıyla değerlendirilebilir.
+FİZ.11.2.3 
+Öğretmen, yolculuk sırasında uçaklara ve kara ulaşım araçlarına yıldırım çarpınca yolcu-
+ların etkilenmemesinin, cep telefonlarının asansör içerisinde genellikle baz istasyonuyla 
+bağlantısının kesilmesi ya da MR cihazlarının bulunduğu odaların metal kaplı olmasının 
+nedenleri gibi günlük hayattan örneklerle öğrencilerin dikkatlerini çekebilir. Öğrenciler 
+öğretmen rehberliğinde gruplara ayrılır (SDB2.1). Öğrenciler konu hakkındaki bilgilere ula-
+şabilmek için kullanacağı kaynakları (genel ağ, kütüphaneler, dergiler vb.) belirler. Gruplar 
+belirledikleri kaynaklar yoluyla Faraday kafesi ve kullanım alanlarına yönelik bilgilere ulaşır 
+(SDB1.2). Faraday kafesi ve kullanım alanları hakkında derlenen bilgiler sınıfla paylaşılır. 
+Öğrenciler tartışma (SDB2.2) ortamında topladıkları bilgileri doğrular. Doğruluğu teyit edi-
+len bilgilerden yararlanarak Faraday kafesi ve kullanım alanları ile ilgili sunum hazırlayabilir 
+(OB1). Öz değerlendirme veya akran değerlendirme formu ile değerlendirme yapılabilir.
+FİZ.11.2.4 
+Öğretmen öğrencilere kuşların göç yollarındaki önemli uğrak noktalarından birinin de 
+Türkiye olduğunu vurgulayarak (D19.3), göç sırasında kuşların veya balina ve yunus gibi 
+hayvanların yön bulma yetenekleri hakkında sorular sorar. Cevaplardan sonra insanların 
+yönlerini bulma yöntemleri hakkında da sorular sorabilir. Bilim ve medeniyet tarihinde 
+yer alan bilim insanlarının pusula ile ilgili yaptıkları çalışmalar hakkında bilgi verebilir. Öğ-
+renciler pusulanın çalışma prensibinden yola çıkarak mıknatısların birbirleriyle etkileşi-
+mi ile ilgili nitelikleri tanımlar. Mıknatıs isminin Manisa ili ile olan ilişkisi de vurgulanabilir. 
+Öğrenciler mıknatısların etkileşimlerinin manyetik alan çizgileriyle temsil edilebileceğini

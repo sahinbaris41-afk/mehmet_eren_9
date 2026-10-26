@@ -1,0 +1,34 @@
+78
+1. Tema /  Sayılar
+23. ÖRNEK
+x 4 32
+2
+xA B C
+Yukarıda bir kenar uzunluğu x cm ve alanı A cm2 olan bir kare ile alanları B cm2 ve C cm2, kenar uzun-
+lukları sırasıyla 2 cm ve 4 cm, x ve 32  cm olan iki dikdörtgen verilmiştir. A + B = C olduğuna göre x in 
+kaç cm olduğunu bulunuz.
+Çözüm
+Ax xx cm22$== , cmB2 48 2$==  ve cmCx xx32 16 24 2 2$$ $$== =  bulunur.
+A + B = C olduğundan xx xx84 24 28 022 &$$+= -+ =  bulunur.
+Eşitliğin sol tarafı x ve 2 2 terimlerinin farkının karesinin açılımıdır.
+Buradan xx 42 802 $-+ =  xx 22 22 202 2& $$-+ =_i  xx 22 22 0& $-- =__ ii  olur. Çar-
+pımın sonucu sıfırsa çarpılan  iki ifadeden en az biri sıfıra eşit olur. Buradan xx cm22 02 2&-= =  
+olur.
+26.	Uygulama
+Bahçe Düzeni
+Verilenlere göre aşağıdaki soruları cevaplayınız.
+Deniz Hanım; bir kenar uzunluğu 15,75 m olan kare şeklindeki bahçesinin zemininin bir kısmını seramikle, geri 
+kalan kısmını hazır çimle kaplatacaktır. Deniz Hanım, seramikle kaplanacak bölümün kare şeklinde olmasını iste-
+mektedir. Bahçenin iki farklı planı için seramik kaplanacak karesel bölgelerin bir kenar uzunlukları sırasıyla 14,25 m 
+ve 11,25 m'dir. Bahçenin iki farklı planına göre alınan fiyat teklifleri tabloda verilmiştir.
+1. Teklif 2. Teklif
+Çim ve Seramik 
+Kaplanacak Alan
+15,75 m
+14,25 m
+11,25 m
+15,75 m
+Çim Kaplama Ücreti 8100 TL 19 440 TL 
+Deniz Hanım, iki fiyat teklifi için 1 m 2 çim kaplama ücretini karşılaştıracaktır. 1 m 2 çim kaplama ücretinin daha 
+düşük olduğu teklifi tercih edecektir.
+1.  Her iki teklif  için çim kaplanacak alanı nasıl hesaplarsınız? Yönteminizi açıklayınız.

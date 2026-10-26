@@ -1,0 +1,46 @@
+40
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+2. ETKINLIK ADI BUHAR BASINCI
+ ► Öğr encilerden Görsel 2.1 ve 2.2'de verilen sıcaklıklarda buharıyla dengede olan su, etil alkol bulu-
+nan manometrelerdeki cıva seviyelerinin sıcaklıklarına göre değişimlerini incelemelerini isteyiniz.
+ETKINLIĞIN AMACI Sıvıların denge buhar basıncını e tkileyen faktörleri belirleyebilme
+DESTEKLEME 
+UYGULAMASI
+Sıvıların buhar basıncı, viskozitesi ve yüzey gerilimine ilişkin deneylerin 
+tasarımı öğrencilerin önerileri alındıktan sonra öğretmen tarafından  
+gerçekleştirilir.
+ARAÇ GEREÇ VE 
+MATERYALLER
+Erlende bulunan suyun sıcaklık ile hacim değişimi tablosu
+Bu etkinlikte kullanılması için Görsel 2.1 ve 2.2'yi öğrenci sayısı kadar çoğaltarak öğ-
+rencilere dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Görsel 2.2: Etil alkolün farklı sıcaklıklardaki denge buhar basıncı
+h3 h4
+V V20 
+o
+C
+C2H5OH(g)
+Hg(s)Hg(s)
+60 
+o
+C
+C2H5OH(s)
+C2H5OH(g)
+C2H5OH(s)
+Görsel 2.1: Suyun farklı sıcaklıklardaki denge buhar basıncı
+h1 h2
+V V
+H2O(s)
+20 
+o
+C
+H2O(g)
+Hg(s)Hg(s)
+H2O(s)
+60 
+o
+C
+H2O(g)

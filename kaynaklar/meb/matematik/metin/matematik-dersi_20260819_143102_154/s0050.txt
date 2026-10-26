@@ -1,0 +1,48 @@
+50
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.9.2.3. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren  prob -
+lem çözebilme
+a) Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizliklere ilişkin bileşenleri 
+(denklemi oluşturan fonksiyonların nitel özellikleri ile cebirsel ve grafik temsilleri) 
+belirler.
+b) Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizliklere ilişkin matematik-
+sel bileşenlerin aralarındaki ilişkileri belirler.
+c) Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizliklerin problem bağla -
+mındaki temsillerini farklı temsillere dönüştürür.
+ç) Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.9.2.1. Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel 
+özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a ≠ 0) doğ-
+rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme
+a) Doğrusal  referans fonksiyonun nitel özelliklerini (tanım kümesi, görüntü kümesi, 
+işareti, artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği)  ma-
+tematiksel temsilleri kullanarak belirler.
+b) Doğrusal referans fonksiyonun nitel özellikleri ile matematiksel temsilleri arasında-
+ki ilişkileri belirler.
+c) Doğrusal referans fonksiyonu grafik veya cebirsel temsili üzerinde yapılan işlemler-
+le diğer doğrusal fonksiyonlara dönüştürür.
+ç) Doğrusal referans fonksiyon ile elde ettiği doğrusal fonksiyonların grafik ve cebirsel 
+temsilleri arasındaki ilişkiyi ifade eder.
+d) Doğrusal referans fonksiyonun nitel özelliklerinden hareketle diğer doğrusal fonksi-
+yonların nitel özelliklerine ilişkin varsayımlarda bulunur.
+e) Varsayımlarına dayalı olarak doğrusal fonksiyonların nitel özelliklerine ilişkin örün -
+tüleri (cebirsel, sayısal veya grafiksel) geneller.
+f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerinden elde ettiği önermeleri uygun sözel veya sembolik dil ile sunar.
+ğ) Elde ettiği önermelerin gerçek yaşam bağlamındaki kullanışlılığını değerlendirir.
+h) Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.
+ı) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını 
+değerlendirir.
+MAT.9.2.2. Gerçek sayılarda m(x) = ± |ax ± b| ± c (a, b, c ∈ℝ, a ≠ 0) şeklinde tanımlı mut-
+lak değer fonksiyonlarının nitel özelliklerini incelemek için doğrusal fonksiyonlara 
+bağlı analojik akıl yürütebilme
+a) Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyon ile n(x) = ± |x| 
+şeklinde tanımlı mutlak değer fonksiyonu arasındaki ve gerçek sayılarda tanımlı 
+bir h doğrusal fonksiyonu ile m (x) = ± |h(x)| ± c (c ∈ℝ)  şeklinde tanımlı mut -
+lak değer  fonksiyonu arasındaki cebirsel ve grafiksel benzerlikleri, farklılıkları 
+gözlemler.
+b) Gözlemlerinden yola çıkarak gerçek sayılarda m(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) 
+şeklinde tanımlı mutlak değer fonksiyonunun nitel özelliklerini tespit eder.
+c) Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda m(x) = ± |ax ± b| ± c   
+(a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimi-
+ne yönelik çıkarımlarda bulunur.

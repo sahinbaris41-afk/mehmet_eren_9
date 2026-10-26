@@ -1,0 +1,53 @@
+137
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.11.2.1
+Öğrencilerin önceki sınıf düzeylerinden öğrendikleri dörtgenlerin temel özelliklerinden (iç 
+açı, dış açı, kenar sayısı, köşegen sayısı) yola çıkılarak yapılan örnek çizimlerle bir dörtgenin 
+başka bir temel özelliğinin dışbükeylik -içbükeylik olduğuna dair açıklamalar yapılır. Sadece 
+dışbükey dörtgenlere ait özellikler incelenir.
+Öğrencilerin farklı dörtgenlere ait örnekleri inceleyerek her bir dörtgenin kenar, açı ve köşe-
+gen özellikleri ile ilgili varsayımda bulunması sağlanır. Dörtgen örnekleri, çalışma kâğıdı veya 
+matematik yazılımları kullanılarak sunulur (MAB5). Örneklerin matematik yazılımları kullanıla-
+rak sunulmasıyla öğrencilerin dijital araçlarla çalışabilme becerilerinin gelişimi de desteklenir 
+(OB2). Öğrenciler, örnekler üzerinden elde ettikleri varsayımlarından genellemeler yapar. Bu 
+süreçte öğrencilerin kendi fikirlerinden anlamlı ve etkili olanları ayırt etmeleri, arkadaşlarının 
+görüşleriyle ilgili düşüncelerini paylaşmaları desteklenmelidir (E1.6, SDB2.1). Daha sonra öğ-
+rencilerin ulaşılan genellemelerin varsayımlarını karşılayıp karşılamadığını belirleyerek genel-
+lemelerini önermeler ( “Eşkenar dörtgenin köşegenleri açıortaydır. ”, “Yamuğun köşegenleri 
+birbirini oranlı olarak böler. ”, “ İkizkenar yamuğun köşegen uzunlukları birbirine eşittir. ” gibi) 
+olarak ifade etmesi istenir. Önermelerin değerlendirilmesi sürecinde öğrencilerin sunulan 
+önermeleri dörtgenlere ilişkin başka özelliklerin belirlenmesinde kullanması beklenir.
+Benzer bir çıkarım yapma süreci işletilerek, öğrencilerin üçgene ilişkin bilgilerini kullanarak ve 
+farklı dörtgen örnekleri üzerinde çalışmalar yaparak dörtgenlerin simetri ( “Paralelkenarın si-
+metri ekseni yoktur.”, “Karenin köşegenleri simetri eksenidir.” gibi) ve alan ( “Dörtgenin alanı, 
+köşegen uzunlukları ile köşegenleri arasındaki açının sinüsünün çarpımının yarısına eşittir. ” 
+gibi) özelliklerine ilişkin çıkarımlarda bulunması sağlanır. Bunun yanı sıra öğrencilerden dört-
+genle ilgili çıkarım ve değerlendirmeleri ile üçgene ilişkin bilgilerini (üçgende benzerlik koşul-
+ları ve alan bağıntıları, Pisagor teoremi gibi) kullanarak  dörtgenlere ilişkin başka çıkarımlara 
+(“Paralelkenarın köşegenleri alanını dört eş parçaya ayırır.”, “Dik yamuğun köşegenlerinin dik 
+kesişmesi durumunda paralel kenarların uzunluklarının çarpımı yüksekliğin karesine eşittir.” 
+gibi), özel dörtgenlerden biri olan deltoidin tanımına (herhangi bir üçgenin en uzun kenarına 
+göre simetriğinin alınması ile elde edilen dörtgen)  ve deltoidin açı, köşegen, simetri ve alan 
+özelliklerine öğretmenin rehberliğinde ulaşmaları beklenir. Elde ettikleri önermeleri ispat -
+lamak için dörtgenin içinde özelliğe uygun şekilde oluşturulan üçgenlerin açı, benzerlik veya 
+alan özelliklerini kullanmaları sağlanır. Yapılan ispatları farklı problem durumlarına uyarlayarak 
+kullanışlılık açısından değerlendirmeleri sağlanır. Öğrencilere üçgenlerde açı, benzerlik ve alan 
+özelliklerinden yola çıkılarak dörtgenlerin özelliklerine ilişkin bilgi ve çıkarımların değerlendiril-
+mesi amacıyla tanılayıcı dallanmış ağaç, doğru-yanlış soruları ve açık uçlu sorulardan oluşan 
+bir çalışma kâğıdı verilebilir.
+MAT.11.2.2
+Öğrenciler özel dörtgenlerin açı, kenar, köşegen ve simetri özelliklerine ilişkin bilgilerini kulla-
+narak bu dörtgenler arasındaki ilişkilere dair fikirlerini paylaşır. Bunun için öğrencilerin gruplar 
+hâlinde veya sınıfça tartışabilecekleri bir ortam oluşturulur. Öğrencilerden bu ilişkileri görsel 
+olarak ortaya koyan akış şeması veya kavram haritası yapmaları istenebilir. Bu şema veya 
+kavram haritaları, dijital ortamlarda da oluşturulabilir (OB2). Yapılan çalışmalarda dörtgen -
+ler arasındaki ilişkiler (“Eşkenar dörtgen, karşılıklı açılarının ölçüleri birbirine eşit olan bir del-
+Köprü Kurma Öğrencilerden üçgenle ilgili olarak önceki sınıflarda öğrendikleri bilgilerin üzerine çokgen -
+lerin ve dörtgenlerin özelliklerini inşa etmeleri beklenebilir. Öğrencilerin üçgenleri bir araya 
+getirerek oluşabilecek şekillerle ilgili sınıf tartışmaları yapmaları sağlanabilir. Verilen şekil-
+lerin üçgenlere ayrılmaları sağlanarak da dörtgenlerin özelliklerinin yapılandırılmasına yö -
+nelik ön hazırlıklar yapılabilir. Köprü ya da farklı yapılarda üçgenlerin bir araya gelmesiyle 
+oluşan şekiller de bu bağlamda  incelenebilir. Üçgen ve dörtgenlerin kenar, açı sayıları ve 
+özelliklerinden yola çıkılarak diğer çokgenlerin özelliklerinin de benzer şekilde yapılandırıl -
+ması beklenebilir.

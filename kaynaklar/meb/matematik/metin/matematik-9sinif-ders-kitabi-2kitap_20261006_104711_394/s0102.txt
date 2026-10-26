@@ -1,0 +1,32 @@
+102
+5. Tema/Algoritma ve Bilişim  
+5. a, b, g: ,g xa x bRR R"6 ! =+_i   şeklinde tanımlı doğrusal fonksiyonun sıfırını bulmak için 2, 3 ve 4. 
+soruda yer alan basamakları yeniden oluşturunuz.  
+6. Her a ve b değeri için g doğr usal fonksiyonunun sıfırını bulmanın genel bir şemasını oluşturunuz. 
+7. Şemanızın adımlarının her a ve b değeri için g doğrusal fonksiyonunun sıfırını buldurup buldurmadığını kontrol 
+ediniz.
+8. Bu problemi çözmek için ku llanılabilecek her bir yöntemin (grafik, cebirsel) avantajlarını belirleyiniz.
+9. Bu yöntemlerden hangisinin daha sistematik ve etkili olduğunu değerlendiriniz.
+Algoritmik doğal dil,	bir	problemi	çözme	adımlarını	günlük	dili	kullanarak	sıralı	ve	açık	biçimde	anlatan	
+bir	yöntemdir.	Bu	yön tem	tekn ik	deta ylardan	uzak,	herkesin	anl ayabileceği	basit	ifa delerle	al goritmanın	
+nasıl	işlediğini	gösterir.
+Algoritmada	kullanılan	verilerin	düzenli	ve	anlamlı	bir	biçimde	gösterilmesine	veri yapısı	denir.
+Örneğin	uzun	kenarının	uzunluğu	8	birim,	kısa	kenarının	uzunluğu	4	birim	olan	bir	dikdörtgenin	alanını	
+bulan	algoritmanın	işleyişi	doğal	dille	aşağıdaki	gibi	ifade	edilebilir.
+1. adım:	Başla.
+2. adım: Girdilerin alınması
+	 	 Dikdörtgenin 	 uzun	 ve	 kısa	 kenarının	 uzunluklarını	
+kullanıcıdan	al.
+3. adım: Alanın hesaplanması
+	 	 Dikdörtgenin 	alanı,	uzun	ve	kısa	kenarının	uzunluklarının	
+çarpımına	eşittir.	Bu	işlemi	gerçekleştir.
+4. adım: Sonucun yazdırılması
+	 	 Hesaplanan 	 alanı	 kullanıcıya	 bilgi	 vermek	 amacıyla	
+ekrana	ya	da	bir	dosyaya	yazdır.	
+5. adım:	Bitir.
+Algoritmik Doğal Dil Algoritmanın Çalışması
+Uzun	kenarının	uzunluğu	8	birimdir.
+Kısa	kenarının	uzunluğu	4	birimdir.
+Alanı	84 32$ = 	birimkare	olur.
+Elde	edilen	çıktı	aşağıdaki	gibidir.
+Dikdörtgenin	alanı	32	birimkaredir.

@@ -1,0 +1,21 @@
+3
+MATEMATİK 9
+4. Karaçam ve kızılçam ağaçlarının yetişebildikleri yükselti aralıklarının en küçük ve en büyük değerleri 
+aşağıdaki tabloda verilmiştir.
+Tablo: Ağaçların Yetişebildikleri Yükselti Aralıkları
+En Küçük Yükselti (m) En Büyük Yükselti (m)
+Karaçam 800 2000
+Kızılçam 0 1200
+ Karaçamın yetişebildiği yükselti değerlerinin aralığı A kümesiyle, kızılçamın yetişebildiği yükselti de-
+ğerlerinin aralığı B kümesiyle gösteriliyor.
+Buna göre, AB+  kümesini aralık gösterimi ile yazınız. (15 puan)
+A kümesinin aralık gösterimi [800, 2000]
+B kümesinin aralık gösterimi [0, 1200] biçiminde olduğundan 
+AB nin’+  aralık gösterimi [800, 1200] biçimindedir.
+5. Türkiye’de otomobillerin lastik basınç değerleri genellikle psi birimiyle ifade edilir. Bir otomobil için las-
+tik basınç değerinin en az 29 psi, en fazla ise 35 psi olması gerekmektedir.
+Buna göre, bir otomobilin lastik basınç aralığını mutlak değerli eşitsizlik olarak yazınız.  
+(15 puan)
+Otomobil lastik basıncının en az ve en fazla değerlerinin ortalaması 229 35 264 32+ ==   olur.
+32’nin 29 ve 35’e uzaklığı |29 – 32| = |35 – 32| = 3 olarak bulunur. 
+Buna göre, otomobilin lastik basınç aralığı x ∈ R olmak üzere |x – 32| ≤ 3 biçiminde gösterilir.

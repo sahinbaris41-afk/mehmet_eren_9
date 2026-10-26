@@ -1,0 +1,49 @@
+6.TEMA - ISTATISTIKSEL ARAŞTIRMA SÜRECI
+70 71
+İl Kodu İl Adı Toplam (Yıl)
+Türkiye 9.3
+62 Tunceli 9.4
+63 Şanlıurfa 7.6
+64 Uşak 8.8
+65 Van 8.0
+66 Yozgat 8.3
+67 Zonguldak 8.5
+68 Aksaray 8.5
+69 Bayburt 8.9
+70 Karaman 8.9
+71 Kırıkkale 9.3
+72 Batman 8.9
+73 Şırnak 8.7
+74 Bartın 8.3
+75 Ardahan 8.3
+76 Iğdır 8.4
+77 Yalova 9.8
+78 Karabük 9.0
+79 Kilis 9.3
+80 Osmaniye 9.1
+81 Düzce 9.0
+İl Kodu İl Adı Toplam (Yıl)
+Türkiye 9.3
+41 Kocaeli 9.9
+42 Konya 8.9
+43 Kütahya 8.6
+44 Malatya 9.0
+45 Manisa 8.5
+46 Kahramanmaraş 8.5
+47 Mardin 8.1
+48 Muğla 9.7
+49 Muş 8.0
+50 Nevşehir 8.9
+51 Niğde 8.6
+52 Ordu 8.2
+53 Rize 9.1
+54 Sakarya 9.3
+55 Samsun 8.8
+56 Siirt 8.5
+57 Sinop 8.2
+58  Sivas 8.7
+59 Tekirdağ 9.4
+60 Tokat 8.3
+61 Trabzon 9.3
+1. Betimleyen istatistiksel araştırma sorusu:
+2. Karşılaştıran istatistiksel araştırma sorusu:

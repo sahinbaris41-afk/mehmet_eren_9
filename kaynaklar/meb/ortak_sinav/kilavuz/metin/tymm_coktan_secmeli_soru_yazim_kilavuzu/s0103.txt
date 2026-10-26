@@ -1,0 +1,33 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+103
+1-5. soruları aşağıdaki bilgilere göre cevaplayınız.
+Küresel iklim değişikliği farkındalık eğitimi kapsamında seminere katılan öğrenciler, sunum yapan kişi 
+tarafından iklim değişikliğinin olası etkileri üzerine bilgilendirilmektedir. Sunumda Hükûmetlerarası 
+İklim Değişikliği Paneli (IPCC) raporlarından hareketle emisyonlarda azalma olmadığı takdirde küre-
+sel sıcaklık artışının üç farklı senaryoda 4 °C’ye kadar ulaşabileceği öngörülmektedir. Ayrıca küresel 
+ısınmadaki bu yukarı yönlü seyir, iklim değişikliğinin yanı sıra bölgesel ölçekte yağış ve toprak nemini de 
+etkilemektedir. Sunumda farklı düzeylerdeki sıcaklık artışı sonucu yıllık ortalama yüzey sıcaklığındaki 
+değişiklikler, yıllık ortalama yağıştaki değişiklikler, yıllık ortalama toprak nemindeki değişiklikler gibi 
+farklı senaryolar ve oluşabilecek değişimler aşağıdaki görseller eşliğinde öğrencilerle paylaşılmakta 
+ve öğrenciler her bir senaryonun olası çevresel etkilerini tartışmaya teşvik edilmektedir. Sunum ayrıca 
+öğrencilerin yaşadıkları bölgedeki olası değişiklikleri öngörmeleri, bu bilgiler ışığında kişisel ve toplum-
+sal önlemler üzerine düşünmelerine olanak tanıyacak şekilde tasarlanmıştır.
+0 0,5 1 1,5 2 2,5 3 3,5 4 4,5 5 5,5 6 6,5 7 SıcakSoğuk
+Değişim (°C)
+1,5 °C Sıcaklık Artış Senaryosu 2 °C Sıcaklık Artış Senaryosu 4 °C Sıcaklık Artış Senaryosu
+a
+1,5 °C Sıcaklık Artış Senaryosu 2 °C Sıcaklık Artış Senaryosu 4 °C Sıcaklık Artış Senaryosu
+-40 -30 -20 -10 0 10 20 30 40Kuru
+Değişim (%)
+Nemli
+b
+1,5 °C Sıcaklık Artış Senaryosu 2 °C Sıcaklık Artış Senaryosu 4 °C Sıcaklık Artış Senaryosu
+- 1 , 5        - 1 , 0         - 0 , 5           0           0 , 5          1 , 0          1 , 5
+Değişim  (Yıllar arası değişkenliğin standart sapması)
+Kuru Nemli
+c
+ 5000
+km
+0
+Harita: Sıcaklık artışının gelecekteki durumu ve buna bağlı değişkenler ile ilgili senaryolar (IPCC, 2022), a) Yıllık ortalama yüzey 
+sıcaklığındaki değişiklikler b) Yıllık ortalama yağıştaki değişiklikler c) Yıllık ortalama toprak nemindeki değişiklikler

@@ -1,0 +1,41 @@
+200
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Türev fonksiyonu üzerinden geliştirilen çözüm stratejisinin doğruluğu, türevi alınan fonksiyo-
+nun farklı temsilleri üzerinden geliştirilen çözüm stratejileri kullanılarak kontrol edilir. Örneğin 
+gerçek sayılarda tanımlı ikinci dereceden bir f  fonksiyonu ile modellenen ve bu fonksiyonun 
+alabileceği en küçük değeri belirlemeyi gerektiren bir gerçek yaşam probleminde türev fonk-
+siyonu üzerinden belirlenen çözüm stratejisi,  f  fonksiyonunun cebirsel temsili tamkare forma 
+dönüştürülerek bulunan  en küçük değer ile kontrol edilir. Bu şekilde problemin çözümüne 
+yönelik farklı çözüm yolları değerlendirilir. Bu aşamada öğrencilerin dijital araç ile iş görme 
+becerilerini geliştirmek için matematik yazılımlarından yararlanılır  (OB2).
+Şerefeddin Tusi'nin polinom fonksiyonların yerel ekstremum değerlerini bulma bağlamında 
+yapmış olduğu çalışmalara yönelik  araştırma ödevi verilebilir. Öğrencilerden verilen araştırma 
+ödevini titizlikle yerine getirmeleri beklenir (D16.3).
+Türev fonksiyonu üzerinden maksimum -minimum değeri belirleme stratejisinin her zaman 
+uygulanabilen bir strateji olmadığı örnek problem durumları üzerinden gösterilir. Örneğin bir 
+parçalı gösterimli fonksiyonun mutlak maksimum noktası için türevsiz olduğu bilinen bir prob-
+lem incelenebilir.  Bu fonksiyonun alabileceği en büyük değeri belirlemeyi gerektiren bir ger -
+çek yaşam problemi üzerinden türev fonksiyonu ile çözümün elde edilemeyeceği görülür. Bu 
+durumda fonksiyonun grafik temsili üzerinden çözüm stratejisi geliştirilir (OB4).
+Problemlerin çözüm stratejileri gözden geçirilerek çözümde elde edilen fonksiyonların 
+farklı temsilleri üzerinden bazı çıkarımlara ulaşılır. Örneğin belirli bir çevre uzunluğuna sahip 
+dikdörtgensel bölgenin alanının alabileceği en büyük değerin  bu bölgenin kenar uzunlukları 
+birbirine eşit olduğunda elde edilebileceği çıkarımına ulaşılır. Benzer şekilde gerçek sayılar -
+da y = f(x) şeklinde tanımlı fonksiyonun alabileceği en büyük değerin a olarak belirlendiği 
+durumda  g(x) = - 12 . f (x - 2) fonksiyonunun alabileceği en küçük değerin - 12 . a  olacağı 
+çıkarımına ulaşılır. Problemlerin çözümüne yönelik çıkarımlar; sözel, cebirsel ve grafik sel 
+argümanlarla değerlendirilir. Örneğin karesel fonksiyon şeklinde modellenebilen gerçek 
+yaşam durumlarında maksimum veya minimum değeri veren nokta ya da noktalar hakkında 
+elde edilen cebirsel argümanlar sözel argümanlarla desteklenir. Benzer şekilde ısıtılarak 
+genleşen bir nesnenin (örneğin küp veya küre) yüzey alanındaki (a) değişime bağlı olarak 
+hacmindeki (v) değişim oranı dvda  şeklinde ifade edilir. v ve a nicelikl erinin her biri aynı bir 
+x bağımsız değişkeninin (örneğin küpün ayrıt veya kürenin yarıçap uzunluğu gibi) fonksiyonu 
+olarak ifade edilir. Buna göre dvda  değişim oranı  
+dv
+dx
+da
+dx
+ şeklinde ifade edilir.
+Farklı disiplinlerde türevdeki maksimum -minimum değer, değişim oranı/hızı belirleme yak -
+laşımının kullanıldığı problemlere yönelik araştırma ödevi verilebilir. Öğrencilerden araştırma 
+ödevini zamanında ve eksiksiz yerine getirmeleri beklenir (D16.3). 

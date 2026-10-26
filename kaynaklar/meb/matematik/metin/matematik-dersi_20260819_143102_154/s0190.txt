@@ -1,0 +1,51 @@
+190
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin gerçek sayılarda tanımlı fonksiyon kavramını tanımlayabildikleri; fonksiyonların 
+parçalı gösterimlerini bildikleri, fonksiyonlarda işlemler yapabildikleri; karekök ve rasyonel re-
+ferans fonksiyonlar ve bunlardan türetilen fonksiyonlar ile polinom fonksiyonların matematik-
+sel temsillerini kullanabildikleri; bu fonksiyonların cebirsel gösterimindeki katsayılar ile nitel 
+özellikleri arasında ilişki kurabildikleri; doğrunun eğimini bildikleri; doğru denklemi oluşturabil-
+dikleri; bir açının tanjant değerini doğrunun eğimiyle ilişkilendirebildikleri; fonksiyon grafikle-
+rinde kesen doğru ve teğet doğrusu kavramlarını yorumlayabildikleri; cebirsel özdeşlikleri ve 
+tamkareye tamamlamayı kullanarak çarpanlara ayırma yapabildikleri; birinci ve ikinci derece-
+den bir bilinmeyenli denklemleri ve eşitsizlikleri çözebildikleri; limitte 0/0 belirsizliğini değer-
+lendirebildikleri ve süreklilik kavramını yorumlayabildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere 9, 10, 11 ve 12. sınıfta öğrendikleri referans fonksiyonlar, parçalı gösterimli fonk-
+siyonlar ve polinom fonksiyonlar hakkındaki ilgi, ihtiyaç, beceri ve kavram yanılgılarını tes -
+pit etmek için hazır bulunuşluk testi yapılabilir. Fonksiyonların grafik temsili, fonksiyonların 
+nitel özellikleri ve analitik geometri bilgilerini ölçmeye yönelik açık uçlu sorular sorulabilir. 
+Birinci ve ikinci dereceden denklem ve eşitsizlikleri içeren problemlerde kullanılan farklı çö-
+züm stratejilerinin bilgisini ölçebilmek için kısa cevaplı sorular sorulabilir. Fonksiyonlarda 
+limit ve süreklilik konularına ilişkin ilgi, ihtiyaç, beceri ve kavram yanılgılarını tespit etmek 
+için hazır bulunuşluk testi yapılabilir.
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendirilebilir.
+Türevin kullanıldığı farklı disiplinlerin incelenmesini içeren araştırma ödevi, analitik dereceli 
+puanlama anahtarı kullanılarak değerlendirilebilir.
+Gerçek yaşam problemlerini türevi kullanarak çözmeye ilişkin verilen çalışma kâğıdı, bütüncül 
+dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini öz değerlendirme 
+formuyla değerlendirmeleri sağlanabilir.
+Türevin limit tanımı kullanılarak fonksiyonların türev alma kuralını belirlemeye yönelik verilen  
+performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir.
+Parçalı gösterimli fonksiyonların kritik noktalarında türev incelemeyi gerektiren sorulardan 
+oluşan çalışma kâğıdı, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.
+Fonksiyonların toplam, fark, çarpım, bölüm ve bileşkesinin türevini almayı gerektiren gerçek 
+yaşam problemlerine ilişkin verilen çalışma kâğıdı, bütüncül dereceli puanlama anahtarı ile 
+değerlendirilebilir. Öğrencilerin kendilerini öz değerlendirme formuyla değerlendirmeleri sağ-
+lanabilir.
+İÇERİK ÇERÇEVESİ • Fonksiyonların Türevi
+• Fonksiyonun Türevinin Olmadığı Noktalar 
+• Fonksiyonel İşlemlerin Türevi
+Genellemeler • Türev kavramı ve türevin özellikleri yardımıyla gerçek sayılarda tanımlı ve değerli fonksi -
+yonların nitel özellikleri incelenebilir/yorumlanabilir.
+• Türev, niceliklerdeki değişimleri modellemek için kullanılan matematiksel bir araçtır.
+• Gerçek sayılarda tanımlı ve değerli fonksiyonlarda bağımlı ve bağımsız değişkenlerdeki 
+değişim oranlarının yaklaştığı değerler diferansiyel kavramı yardımıyla açıklanabilir.
+Anahtar Kavramlar anlık değişim oranı, değişim oranı, diferansiyel, eğim, kesen doğrusu, limit, ortalama deği -
+şim oranı, sağdan türev, soldan türev, süreklilik, teğet doğrusu, türev, türev alma operatörü
+Sembol ve Gösterimler f ' (x), f '' (x),  dydx , d2ydx2 , dy = f ' (x) . dx, f  (a⁺), f  (a_) ' '

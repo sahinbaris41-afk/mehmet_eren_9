@@ -1,0 +1,22 @@
+185
+6. Tema / İstatistiksel Araştırma Süreci
+Dolayısıyla	2018	ve	2020	yıllarında	Türkiye’nin	kişi	başı	günlük	katı	atık	miktarının	yaklaşık	olarak	
+1,09	kg,	2022	yılında	Türkiye’nin	kişi	başı	günlük	katı	atık	miktarının	yaklaşık	olarak	0,96	kg	olduğu	
+söylenebilir.
+c) 2024	yılında	Türkiye'nin	81	ilindeki	kişi	başı	günlük	katı	atık	miktarının	kg	cinsinden	nasıl	bir	eğilim	
+gösterdiğini	görebilmek	için	dağılımların	aritmetik	ortalama	ve	ortanca	değerleri	ile	birlikte	kutu	gra-
+fiklerine	de	bakmak	gerekmektedir.	
+0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2 2,2
+Ortalama: 1,069 kg/gün
+Ortalama: 1,144 kg/gün
+Ortalama: 1,158 kg/gün
+Ortanca: 0,96 kg/gün
+Ortanca: 1,09 kg/gün
+Ortanca: 1,09 kg/gün
+Atık miktarı (kg/gün)
+2022 yılı2018 yılı 2020 yılı
+Yıl
+Grafik 5
+Türkiye’nin	kişi	başı	günlük	katı	atık	miktarının	2018,	2020	ve	2022	yıllarına	ait	kutu	grafikleri	üzerin-
+den	yayılımları	incelendiğinde	 	dağılımların	yayılımlarının	benzerlik	gösterdiği	görülmektedir.	Buna	
+dayanarak	2024	yılına	ait	dağılımın	da	benzer	bir	yayılım	göstermesi	muhtemeldir.

@@ -1,0 +1,35 @@
+103
+2. Tema /  Nicelikler ve Değişimler
+5.  a)  2. maddede çizdiğiniz grafiklerden yararlanarak h, k, m ve n fonksiyonlarının nitel özelliklerine ait Tablo 2’yi 
+örnekteki gibi doldurunuz.
+              Tablo 2
+f(x) = x h(x) = 2x - 5 k(x) = x4 + 1 m(x) = -x + 3 n(x) = -3x - 4
+Tanım Kümesi R
+Görüntü Kümesi R
+İşareti
+- (-∞, 0)
++ (0, ∞)
+Sıfırı 0
+Artanlık-Azalanlık Artan
+Maksimum Noktası Yok
+Minimum Noktası Yok
+Bire Birliği Bire bir
+Nitel Özellik
+Fonksiyon
+b)  Tablo 2’de elde ettiğiniz sonuçlardan yararlanarak g doğrusal fonksiyonunun nitel özellikleri ile ilgili genelle-
+melerinizi oluşturunuz.
+6.  Oluşturduğunuz genellemeler ile varsayımlarınızı karşılaştırarak gerçek sayılarda g(x) = ax + b şeklinde ta-
+nımlı doğrusal fonksiyonların nitel özellikleri ile ilgili önermelerinizi yazınız.
+7.  Ulaştığınız önermelerin günlük yaşamdaki kullanışlılığını değerlendirebilmek için aşağıdaki soruyu cevap -
+layınız.
+ Görselde bir koşu pistinde antrenman yapan 4 koşucu ve bir hakem verilmiştir. 
+Başlangıç çizgisi
+3	m
+6	m
+2	m
+ Sabit hızla koşan sporculardan 1 ve 2.si başlangıç çizgisinde bulunduğu anda 3 ve 4.sü başlangıç çizgisine sırasıy -
+la 2 metre ve 3 metre uzaklıkta bulunmaktadır. Hakem ise başlangıç çizgisinden 6 metre uzakta hareket etmeden 
+beklemektedir. Koşucular 100 metre ilerideki bitiş çizgisine kadar koşmaya devam etmiştir.
+ 1. koşucu saniyede 6 m, 2. koşucu saniyede 7,5 m, 3. koşucu saniyede 5 m, 4. koşucu saniyede 2,5 m koşmaktadır.
+ Koşucular görseldeki konumdayken başlatılan süre 100 metre sonunda durdurulmuştur. Koşucular ve hakemin za-
+mana (sn.) bağlı başlangıç çizgisine göre aldıkları mesafeyi (m)  gösteren fonksiyonlar sırasıyla g, h, k, m ve n olsun. 

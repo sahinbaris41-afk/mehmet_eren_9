@@ -1,0 +1,37 @@
+195
+AKIŞKANLAR
+5. Çalışma Yaprağı  
+1. Silindir şeklindeki K borusunun kesit alanı 3A olup L, M, N, R ve S silindirlerinin kesit alanları birbirine 
+eşit ve A kadardır. L borusu K borusuna bağlı olup M, N, R ve S borusu şekildeki gibi L borusuna bağlıdır. 
+M
+N
+S
+R
+A
+A
+A
+A
+LK A
+3 A
+Su
+Borulardan sürekli su akışı sağlandığına göre
+a) L, M, N, R ve S borularında akan suyun süratleri oL, oM, oN, oR ve oS arasındaki büyüklük ilişkisini 
+gerekçesiyle yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+b) K, L ve M borularının çeperlerine etki eden su basınçları PK, PL ve PM arasındaki büyüklük ilişkisini 
+gerekçesiyle yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+2. Uçak kanatlarından farklı olarak otomobillere takılan kanatta bombeli yüzey kanadın alt kısmındadır. 
+Yüksek sürat 
+(düşük basınç)
+Hava
+Bastırma
+Düşük sürat (yüksek basınç)
+Kanat
+Buna göre aşağıdaki ifadelerden doğru olanları işaretleyiniz. (Birden fazla seçeneği işaretleyebilirsiniz.)
+Kanattaki basınç farkından dolayı yarış otomobilinde yere doğru bir kuvvet oluşur.
+Kanattaki basınç farkından kaynaklanan kuvvet, yüksek hızlarda aracın havalanmasını önler.
+Kanat, dönüşlerde ve hızlı manevralarda aracın kaymasını ve savrulmasını engeller.
+Kanat, aracın yol tutuşunu zorlaştırır.
+Kanat, fren mesafesini kısaltarak aracın güvenli ve etkili bir frenleme yapmasını sağlar.
+ 

@@ -1,0 +1,114 @@
+Öğrencilerin çalışmalarını değerlendirmek için verilen dereceli puanlama 
+anahtarını kullanınız.
+3. Adım: Değerlendirme
+DERECELI PUANLAMA ANAHTARI
+Ölçütler (Çok İyi)4 (İyi)3 (Orta)2 (Geliştirilmeli)1 PUAN
+Türkiye’de ve 
+yaşadıkları yerde 
+son 10 yılda 
+meydana gelmiş, 
+can ve mal 
+kaybına neden 
+olmuş afetlerin 
+tespit edilmesi
+Öğrenci, Türkiye’de 
+ve yaşadığı yerde 
+meydana gelen 
+afetleri tamamen 
+tespit etmiştir.
+Öğrenci, Türkiye’de 
+ve yaşadığı yerde 
+meydana gelen 
+afetleri oldukça iyi 
+tespit etmiştir.
+Öğrenci, Türkiye’de 
+ve yaşadığı yerde 
+meydana gelen 
+afetleri kısmen 
+tespit etmiştir.
+Öğrenci, Türkiye’de 
+ve yaşadığı yerde 
+meydana gelen 
+afetleri çok az 
+tespit etmiştir.
+Afetlerden 
+etkilenmiş 
+kişilerle röportaj
+Öğrenci, afetlerden 
+etkilenmiş istenen 
+sayıda kişi ile 
+röportaj yapmıştır.
+Öğrenci, afetlerden 
+etkilenmiş oldukça 
+çok sayıda kişi ile 
+röportaj yapmıştır.
+Öğrenci, afetlerden 
+etkilenmiş kısmi 
+sayıda kişi ile 
+röportaj yapmıştır.
+Öğrenci, afetlerden 
+etkilenmiş çok 
+az sayıda kişi ile 
+röportaj yapmıştır.
+Konu ile ilgili 
+belirlenen 
+soruların amaca 
+uygunluğu
+Öğrencinin 
+belirlediği soruların 
+tamamı amaca 
+uygundur.
+Öğrencinin 
+belirlediği sorular 
+amaca oldukça 
+uygundur.
+Öğrencinin 
+belirlediği sorular 
+amaca kısmen 
+uygundur.
+Öğrencinin 
+belirlediği sorular 
+amaca çok az 
+uygundur.
+Çalışmanın 
+sunumu
+Öğrenci, çalışmayı 
+sunum tekniklerine 
+tamamen uygun 
+olarak sunmuştur.
+Öğrenci, çalışmayı 
+sunum tekniklerine 
+oldukça uygun 
+olarak sunmuştur.
+Öğrenci, çalışmayı 
+sunum tekniklerine 
+kısmen uygun 
+olarak sunmuştur.
+Öğrenci, çalışmayı 
+sunum tekniklerine 
+çok az uygun olarak 
+sunmuştur.
+Süre kullanımı
+Öğrenci, verilen 
+süre içinde 
+sunumunu 
+tamamlamıştır.
+Öğrenci, verilen 
+süre içinde 
+sunumunu 
+olabildiğince 
+tamamlamıştır.
+Öğrenci, verilen 
+süre içinde 
+sunumunu kısmen 
+tamamlamıştır.
+Öğrenci, verilen 
+süre içinde 
+sunumunun çok 
+azını tamamlamıştır.
+TOPLAM PUAN
+Ölçekten alınan puanı 100 puan üzerinden hesaplamak için [(Toplam Puan)/20]*100 
+formülünü uygulayınız.
+14. ETKINLIK ADI TEHLİKE, RİSK VE AFET
+84 85
+COĞRAFYA 9  

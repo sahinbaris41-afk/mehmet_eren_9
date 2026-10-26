@@ -1,0 +1,50 @@
+5. Tema
+168
+Aşağıdaki metinde yaya güvenliğini artırmaya yönelik geliştirilen akıllı yaya geçidi uygulamasına ilişkin 
+bilgilere yer verilmiştir. Bu bilgilerden yararlanarak soruların cevaplarına dair görüşlerinizi öğretmeninizin 
+rehberliğinde arkadaşlarınızla tartışarak değerlendiriniz.
+Kent içindeki yaya geçitlerinde güvenliği ve trafik verim -
+liliğini artırmaya yönelik çeşitli yeni teknolojiler geliştiril -
+mektedir. Bu çalışmalara örnek olarak Takip Tabanlı Akıllı 
+Yaya Geçidi Sinyal Sistemi verilebilir. Radar sensörleriyle 
+yaya geçidinde bekleyen yayalar anlık olarak algılanır. Yaya 
+tespit edildiğinde sinyal sistemi durumu trafik döngüsüne 
+uygun şekilde önceliklendirir ve ardından yayalar için yeşil 
+ışık devreye girer. Yaya bulunmadığı durumlarda ise araç 
+trafiği kesintiye uğramadan devam etmektedir. Bu sayede 
+yayalar için daha güvenli geçiş olanakları sağlanırken araç 
+trafiğinde gereksiz dur-kalk hareketleri de azaltılmaktadır. 
+Sistemin öne çıkan özelliklerinden biri, kişiye özel geçiş sü-
+releri tanımlayabilmesidir. Engelli, yaşlı ve çocuklu birey -
+lerin ihtiyaçlarına göre yaya geçiş süresi uzatılabilmekte; 
+böylece trafik sinyalizasyonu daha esnek ve kapsayıcı bir yapıya kavuşmaktadır.
+Ayrıca sistem tarafından toplanan veriler, gelecekte yapılacak çalışmalar ve şehir içi trafik planlamaları 
+için istatistiksel bir kaynak olarak kullanılabilecektir. 
+1. Akıllı yaya geçidi sinyal sisteminin yaya güvenliğini artırmaya yönelik temel özellikleri nelerdir? 
+Belirtiniz.
+2. Akıllı yaya geçidi sinyal sisteminin araç trafiğinin akışı üzerindeki olası etkilerini açıklayınız.
+3. Kişiye özel geçiş sürelerinin tanımlanmasının engelli, yaşlı ve çocuklu bireyler açısından sağlayabile-
+ceği avantajları değerlendiriniz.
+Uygulama
+Yaya Geçitlerinde Takip Tabanlı Akıllı Yaya Geçidi 
+Sinyal Sistemi Ekranı
+• Mecburi Yaya Yolu Levhası: Yayaların güvenlik nedeniyle belirlenmiş yaya yolunu kullanmalarının zorun-
+lu olduğunu bildirir (Görsel 5.20).
+• Yaya Öncelikli Yol Levhası: Bu yolda yayaların geçiş üstünlüğüne sahip olduğunu, sürücülerin yayalara 
+dikkat ederek hızlarını azaltmaları gerektiğini ifade eder (Görsel 5.21).
+• Yayalar ve Bisikletliler Tarafından Kullanılabilen Yol: Yolun hem yayalar hem de bisikletliler tarafın -
+dan ortak kullanımına ayrıldığını, kullanıcıların karşılıklı dikkat ve özen göstermesi gerektiğini belirtir  
+(Görsel 5.22).
+Bu levhaların dikkate alınmaması, özellikle taşıt trafiğinin yoğun olduğu alanlarda trafik düzeninin bozulma-
+sına ve kazaların meydana gelmesine neden olabilir.
+Yaya Öncel/i.loclTRKkl/i.loclTRK Yol
+Görsel 5.22: Yayalar ve 
+bisikletliler tarafından 
+kullanılabilen yol
+Yaya Öncel/i.loclTRKkl/i.loclTRK Yol
+Görsel 5.20: 
+Mecburi yaya yolu 
+levhası
+Yaya Öncel/i.loclTRKkl/i.loclTRK Yol
+Görsel 5.21:
+Yaya öncelikli yol levhası

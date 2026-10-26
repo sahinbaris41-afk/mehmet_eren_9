@@ -1,0 +1,18 @@
+150 151
+COĞRAFYA 9 
+ ▶ Karşınıza gelen yeni pencerenin sol kısmındaki menüden “Harita Ekle”yi tıklayıp boş alan-
+da farenin sol tuşuna basılı tutarak alan belirleyiniz. Haritanız sayfada görünecektir. Sağ 
+bölümde yer alan “Öğe Özellikleri” bölümünden “Çerçeve”yi seçtiğinizde haritanıza çerçeve, 
+“Gridler” bölümünü seçtiğinizde koordinat sistemi eklenecektir.
+ ▶ Sol menüde bulunan “Etiket Ekle”den haritanızın amacına uygun olarak belirlediğiniz başlığı, 
+“Lejant Ekle”den lejantınızı, “Ölçek Çubuğu Ekle”den ölçeğinizi ve “Yön Oku Ekle”den yön oku-
+nuzu ekleyiniz. Bu unsurlarla ilgili düzenlemeleri “Öğe Özellikleri” bölümünden yapınız. 
+Harita ekle
+Etiket ekle
+Lejant ekle
+Ölçek ekle
+Yön oku ekle
+Öğe özellikleri
+ ▶ “Layout” menüsündeki “Dışarı Aktar” kısmın-
+dan istediğiniz formatı belirleyip haritanızın 
+çıktısını bilgisayarınıza kaydediniz.

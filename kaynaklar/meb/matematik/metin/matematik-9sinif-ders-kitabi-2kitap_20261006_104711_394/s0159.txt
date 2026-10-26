@@ -1,0 +1,46 @@
+159
+6. Tema / İstatistiksel Araştırma Süreci
+Odaklanılan grup araştırma yapılmasına imkân vermelidir.
+Soru, verileri tek tek ya da veri dağılımını bütüncül olarak incelemeye yönelik analize imkân 
+vermelidir. 
+Örneğin bir grupta kimin en uzun olduğu şeklinde bir soru uygun değildir. Uygun olansa 
+gruptaki öğrencilerin boylarının merkezinin nasıl eğilim gösterdiğine odaklanmaktır.
+Nicel veri toplamaya uygun olmalıdır.
+Tek nicel değişkenli veri toplamayı gerektiren araştırmalarda veriler, bir grubun belli bir 
+özelliğinin sayılması veya ölçülmesiyle elde edilen veriler olmalıdır.
+Araştırma sorusunun bir amacı vardır ve araştırmaya değerdir.
+Örneğin bir sınıftaki kızların ve erkeklerin boylarının karşılaştırıldığı bir araştırma sorusu 
+bağlama göre anlamlı bilgiler verebilir. Ancak bir grup öğrencinin göz rengi ile saç teli 
+uzunluklarını karşılaştırmak anlamlı bir araştırma olmayabilir.
+Değişebilirliği yansıtmalıdır.
+Değişebilirlik dört farklı durumdan kaynaklanmaktadır.
+• Doğal ortamdan kaynaklı değişebilirlik 
+• Ölçümden kaynaklı değişebilirlik
+• Müdahaleden kaynaklı değişebilirlik 
+• Örneklemden kaynaklı değişebilirlik 
+Veri toplanarak cevaplanabilmelidir.
+Araştırma sorusu birincil veya ikincil verilerle cevaplanabilmelidir. Ayrıca ölçümün nasıl yapılacağı 
+görülmelidir. Birincil veriler, araştırma sorusunu cevaplamaya yönelik verilerin araştırmacılar 
+tarafından toplanmasıdır. İkincil veriler, başkaları tarafından önceden toplanmış mevcut verilerdir.
+Amacı net olmalıdır.
+İstatistiksel araştırma sorularında amaç, net olarak görülmelidir. Araştırma sorusunun amacı 
+sorunun “betimleyen” veya “karşılaştıran” türde olmasıyla ilgilidir.
+Araştırmaya değer olmalıdır.
+1
+Değişken açık bir şekilde  görülmelidir.
+“Soru hangi veriler hakkında?” sorusunun cevabı, istatistiksel araştırma sorusunda görülmelidir.
+4
+6
+İlgilenilen grup (evren) açık olmalıdır.
+“Soru kimin hakkında?” sorusunun cevabı, istatistiksel araştırma sorusunda görülmelidir.
+3
+2
+5
+7
+8
+Bilgi Görseli 6.1: İstatistiksel araştırma sorularında bulunması gereken ölçütler
+İstatistiksel	araştırmalara	yön	verecek	istatistiksel	araştırma	sorularını	oluşturmak	için	dikkat	edilmesi	
+gereken	ölçüt ler	bulunmak tadır.	T ek	nicel	değişk enli	ver i	toplam ayı	gerek tiren	ist atistiksel	araş tırma	sor u-
+larında	bulunması	gereken	ölçütler	Bilgi	Görseli	6.1’de	yer	almaktadır.	T ek	nicel	değişkenli	veri	toplamayı	
+gerektiren	istatistiksel	araştırma	sorularında	bu	ölçütlerin	görülmesi,	istatistiksel	araştırma	sürecinin	son-
+raki	aşamalarının	amaca	uygun	şekilde	yürütülmesine	katkıda	bulunmaktadır.

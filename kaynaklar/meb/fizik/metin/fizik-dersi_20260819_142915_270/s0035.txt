@@ -1,0 +1,50 @@
+35
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+nitelikler taşıyan ısı aktarım yollarını gruplandırır.  Gruplandırılan ısı aktarım yolları adlandırı-
+lır. Öğretmen, konu ile ilgili bilimsel bir makale vererek öğrencilerin bilgiyi sentezleyip (OB1) 
+sera etkisi ve ısının ışıma yoluyla aktarımı arasında ilişki kurmalarını sağlar. Öğrencilerden 
+kavram ve olaylar arasındaki ilişkileri kullanarak kavram haritası oluşturmaları istenebilir.
+FİZ.9.4.6
+Öğretmen öğrencilerin sınıfta farklı cisimlere dokunmalarını ve cisimlerin sıcaklıklarına yö-
+nelik hissettiklerini soru cevap tekniği ile ifade etmelerini isteyebilir. Öğrenciler yemek ya-
+pılırken kullanılan tahta kaşık ve metal kaşığın sıcaklıklarının değişim hızını karşılaştırabilir. 
+Öğrenciler günlük hayatlarındaki ısı iletim hızı ile ilgili deneyimlerini arkadaşları ile paylaşır. 
+Öğrenciler ısı iletim maşası ile veya ısı iletim hızını gözlemleyebileceği farklı bir düzenek ile 
+deney tasarlar. Deneyden elde edilen gözlemlere dayalı olarak ısı iletim hızını etkileyen et-
+menlere ilişkin çıkarım yapar. Çıkarımlarını yalıtım kavramı ile ilişkilendirebilir. Öğretmen, 
+öğrencileri gruplara ayırarak farklı bina fotoğrafları gösterebilir. Fotoğraflardaki ısı yalıtımını 
+etkileyebilecek etmenleri tespit etmelerini isteyebilir. Öğretmen, öğrencilerden ''Bir mimar 
+olsaydınız yaz mevsiminin sıcak geçtiği bir bölgede yapacağınız bir binanın ısı iletimini -aile 
+bütçesine de katkı sağlayacak bir bina olması kaydıyla (OB3)- nasıl tasarlardınız?'' gibi sorular 
+sorarak gerekçeli (E1.6) cevaplar vermelerini isteyebilir. Binalar yapılırken ısı yalıtım malze-
+mesi kullanımının enerji tasarrufuna katkılarının beyin fırtınası tekniği ile ortaya konmasını 
+isteyebilir. Öğrenciler, Türkiye kaynaklarının verimli kullanılmasını Türkiye ekonomisine katkı 
+ve sürdürülebilirlik konuları bağlamında değerlendirir (OB8, SDB3.3). Öğrencilerden ekono-
+mik ve çevresel etmenleri göz önünde bulundurarak farklı malzemelerle Türkiye ve toplum 
+yararına (SDB2.3) katkı sağlamak, yer altı ve yer üstü kaynaklarını sürdürülebilir kılmak ama-
+cıyla ısı yalıtımı örnekleri oluşturmaları istenir (D5.1, D17.2 D19.4). Öğretmen, bazı maddelerin 
+ısı iletim katsayılarını içeren tabloyu öğrencilere gösterebilir. Öğrenciler gerekçelerini (E1.6) 
+sınıfça tartışarak katı maddelerde ısı iletim hızını etkileyen etmenlere yönelik çıkarımları-
+nı ısı yalıtımı açısından değerlendirir. Öğrencilerden enerji tasarrufu sağlamak amacıyla ısı 
+yalıtımı konusunda performans görevi olarak proje geliştirmeleri ya da ısı yalıtımını kullana-
+rak STEM döngüsü çerçevesinde termos gibi bir ürün tasarlamaları istenebilir (KB3.1). Proje 
+analitik dereceli puanlama anahtarı ile değerlendirilebilir. Proje ile ilgili öz değerlendirme 
+formu kullanılabilir. Öğrencilerden  projeyi yeniden tasarlaması talep edilirse yapacağı de-
+ğişiklikleri listelemesi, yaptığı proje için süreci ve yaşanan zorlukları değerlendirmesi iste-
+nebilir (SDB1.2, SDB1.3).  
+FARKLILAŞTIRMA
+Zenginleştirme Öğrenciler, ulusal yayın yapan üç farklı haber kaynağında ısı ve sıcaklık kavramlarının bi-
+limsel açıdan doğru veya yanlış kullanımına yönelik araştırma yaparak bir rapor hazırlaya-
+bilir. Öğrenciler kendi termometrelerini yaparak ölçeklendirebilir. Öğrenciler termostatın 
+çalışma prensibini araştırarak kullanım alanlarına yönelik farklı fikirler geliştirebilir. Ders 
+kapsamında ele alınan kavramlar çerçevesinde küresel ısınmanın nedenleri ve sürecin 
+nasıl ilerlediği ile ilgili bir afiş hazırlamaları istenebilir.
+*Binaların ısıtılmasında kullanılan pasif ısıtma sistemleri ve ısı pompaları hakkında araştır-
+ma yaparak bir rapor hazırlayabilir. 
+*Günlük hayat sorunlarından hareketle STEM yaklaşımına uygun “ısının yayılma yolları” ile 
+ilişkili bir ürün veya model geliştirebilir.
+Destekleme Öğrencilerin kendilerinin deney tasarlaması yerine öğretmen tarafından deney hazır ve-
+rilebilir.  
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

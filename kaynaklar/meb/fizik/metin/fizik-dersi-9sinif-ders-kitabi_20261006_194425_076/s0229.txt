@@ -1,0 +1,70 @@
+229
+ENERJİ
+c) Beherin altındaki ocağı yakarken aynı anda süreölçeri çalıştırınız. 30 saniyede bir termometrenin gös ­
+terdiği sıcaklık değerini ölçerek tablonun ilgili bölümüne yazınız. 
+ç) Buzun erimeye başladığı andan erimenin bittiği ana kadar geçen süreçte termometrenin gösterdiği de­
+ğerleri tabloya yazınız. 
+d) Suyun sıcaklığı 50 oC’a ulaştığı an süreölçeri durdurunuz ve deneyi sonlandırınız. 
+e) Aynı basamakları izleyerek deneyi 200 g buz, 100 g bal mumu, 200 g bal mumu ile tekrarlayınız. 
+Madde Her 30 s’ de Ölçülen Sıcaklık Değerleri (oC)
+100 g buz
+200 g buz
+100 g bal mumu
+200 g bal mumu
+7. Tablodaki verilerden yararlanarak kütle miktarı ve maddenin cinsinin hâl değişimi üzerindeki etkisine yö­
+nelik çıkarımlarda bulununuz.
+Çıkarımlar
+1.
+2.
+8. Deneyden elde ettiğiniz verilerden ve çıkarımlarınızdan yararlanarak deneyde kullandığınız her bir madde 
+için sıcaklığın zamana bağlı değişim grafiğini çiziniz. 
+Not: Özdeş ısıtıcıların birim zamanda verdikleri ısı miktarı birbirine eşittir. Bu nedenle ısıtıcıların ısı ver­
+me süresi ile maddelere verdiği ısı doğru orantılıdır. 
+30 60 90 120 150 180 210 240 270 300
+Zaman (s)
+Sıcaklık (oC)
+-10
+0
+20
+40
+60
+80
+100
+120
+30 60 90 120 150 180 210 240 270 300
+Zaman (s)
+Sıcaklık (oC)
+-10
+0
+20
+40
+60
+80
+100
+120
+30 60 90 120 150 180 210 240 270 300
+Zaman (s)
+Sıcaklık (oC)
+-10
+0
+20
+40
+60
+80
+100
+120
+30 60 90 120 150 180 210 240 270 300
+Zaman (s)
+Sıcaklık (oC)
+-10
+0
+20
+40
+60
+80
+100
+120
+Madde: 100 g buz
+Madde: 100 g bal mumu
+Madde: 200 g buz
+Madde: 200 g bal mumu

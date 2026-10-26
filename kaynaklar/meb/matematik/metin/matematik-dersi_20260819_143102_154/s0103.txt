@@ -1,0 +1,27 @@
+103
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+4. TEMA: NİCELİKLER VE DEĞİŞİMLER
+Bu temada öğrencilerin gerçek sayılarda fonksiyon olma şartlarını ve fonksiyonların nitel 
+özelliklerini matematiksel temsillerle değerlendirebilmeleri; karesel, karekök ve rasyonel 
+referans fonksiyonlardan türetilen fonksiyonlara ve bu fonksiyonların nitel özelliklerine 
+yönelik muhakeme yapabilmeleri; doğrusal, karesel, karekök ve rasyonel referans fonksi-
+yonlar ile bu fonksiyonlardan türetilebilen fonksiyonların ters fonksiyonlarına dair çıkarım 
+yapabilmeleri; bu fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren gerçek ya-
+şam problemlerini çözebilmeleri amaçlanmaktadır.
+DERS SAATİ 58
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme, MAB2. Matematiksel Problem Çözme, MAB3. Matema -
+tiksel Temsil (MAB3.2. Matematiksel Temsilleri Değerlendirme)
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma
+EĞİLİMLER E1.1. Merak, E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB2.2. İş Birliği, SDB3.2. Esneklik 
+Değerler D14. Saygı, D16. Sorumluluk 
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel Okuryazarlık 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Ekonomi, Fizik, Kimya, Mimari, Mühendislik
+BECERİLER ARASI 
+İLİŞKİLER MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

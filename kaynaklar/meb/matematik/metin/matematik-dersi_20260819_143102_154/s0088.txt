@@ -1,0 +1,52 @@
+88
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.10.1.1
+Öğrencilerden  kenar uzunlukları rasyonel sayı olan (örneğin 3-4-5 üçgeni) benzer dik üçgen-
+leri çalışma kâğıdına çizmesi istenir. Çalışma kâğıdında bir dar açıya göre kenar uzunlukla -
+rının oranlarının (karşı dik kenar uzunluğu/hipotenüs uzunluğu, komşu dik kenar uzunluğu/
+hipotenüs uzunluğu, karşı dik kenar uzunluğu/komşu dik kenar uzunluğu, komşu dik kenar 
+uzunluğu/karşı dik kenar uzunluğu) düzenlendiği bir tabloya yer verilir. Öğrencilerden tabloy-
+la ilgili düşüncelerini ifade ederek ve birbirlerinin düşüncelerini dinleyerek tabloyu doldurma-
+ları beklenir (SDB2.1, SDB2.2). Öğrenciler, elde ettikleri bu oranları varsayımlar şeklinde sınıf 
+içinde sunar. Öğrencilerden tabloda yer alan oranları inceleyerek yorumlamaları ve oranların 
+hep eşit çıktığı hakkında genellemelerde bulunmaları beklenir (OB1). Öğrencilerin genelle -
+meleri ile varsayımları karşılaştırılarak bu oranlar trigonometrik oranlar olarak isimlendiri -
+lir. Öğrencilerin sinüs, kosinüs, tanjant, kotanjant kavramlarına ilişkin önermeler sunmaları 
+sağlanır. Öğrencilerden trigonometrik oranlar kullanılarak oluşturulabilecek özdeşliklerle ilgili 
+varsayımlarda bulunmaları istenir. Pisagor teoremi kullanılarak ve cebirsel işlemler yapılarak 
+trigonometrik oranlarla ilgili özdeşliklere yönelik genellemelerde bulunulur. Genellemeleri ile 
+varsayımlarını karşılaştırarak  öğrencilerin “sin2x + cos2x = 1, tanx ∙ cotx = 1” gibi temel tri -
+gonometrik özdeşliklere ulaşmaları beklenir. Farklı benzer dik üçgenlerde de bu oranların 
+aynı çıktığı konusunda öğrencilerin önermeler sunmaları ve bu önermeleri değerlendirme -
+leri sağlanır. Öğrenciler iki gruba ayrılır. Bir grubun eşkenar üçgenlerden, diğer grubun ise 
+ikizkenar dik üçgenlerden yararlanarak ölçüleri 30°,  45° ve 60° olan açıların trigonometrik 
+oranlarını incelemeleri; elde ettikleri değerleri birbirlerine sunmaları sağlanır. Ulaştıkları tri -
+gonometrik oranları ve trigonometrik özdeşlikleri gerçek yaşam problemlerinde kullanma -
+ları beklenir. Hipotenüs uzunluğunun 1 birim olduğu bir dik üçgende dik kenar uzunluklarının 
+trigonometrik oranlarla ilişkisinin öğrenciler tarafından keşfedilmesi sağlanır. Geniş açıların 
+trigonometrik oranlarının nasıl bulunabileceği sorusundan hareketle birim çember modeli 
+tanıtılır. Dik üçgende belirlenebilen trigonometrik oranların birim çember yardımıyla göste -
+rilebileceğini öğrencilerin keşfetmeleri sağlanır. Yönlü açı kavramı, birim çember üzerindeki 
+noktalarla ilişkilendirilerek açıklanır. Öğrencilere trigonometrik oranlar kullanmayı gerek -
+tiren problemlere yönelik performans görevi verilebilir. Ayrıca öğrencilerden Uluğ Bey gibi 
+trigonometriye katkı sağlayan Türk-İslam bilim insanlarının çalışmalarını içeren bir araştırma 
+ödevi yapmaları istenebilir.
+MAT.10.1.2
+Bir üçgenin bir iç açısına ait açıortayı belirlemek için farklı matematiksel araç ve teknoloji -
+lerle (pergel, ölçüsüz cetvel, matematik yazılımları gibi) ve farklı yöntemlerle (kâğıt katlama 
+yöntemi gibi)  açıortayla ilgili hatırlatmalar yapılır (MAB5, OB2). Daha sonra bu açıyı oluşturan 
+kenarların uzunlukları oranı ile açıortayın kestiği kenar üzerinde ayırdığı parçaların uzunluk -
+ları oranı arasında nasıl bir ilişki olduğu sınıf ortamında tartışılarak öğrencilerin varsayımlarda 
+bulunmaları beklenir. Öğrencilerin açıortayın özellikleri ile ilgili varsayımlarını arkadaşlarıy -
+la tartışarak genellemelere ulaşması beklenir (SDB2.2). Bu süreç öğrencilerin başkalarının 
+düşüncelerini ve bakış açılarını anlama, grup iletişimine katılma ve başka düşüncelerde 
+uzlaşma becerilerine katkı sağlar (SDB2.1, SDB2.2, SDB2.3) . Öğrencilerin çizilen farklı üç -
+genler üzerinden oluşturdukları örüntüler aracılığıyla  ulaştıkları genellemeler ile varsayım -
+ları karşılaştırmaları sağlanır. Genellemeleri üzerinden benzerlik yardımıyla bir üçgenin bir 
+iç açısına ait açıortayın kestiği kenar üzerinde ayırdığı parçaların uzunluklarının oranı ile açıyı 
+oluşturan kenarların uzunluklarının oranı arasındaki ilişkiyi ifade etmeleri beklenir. Öğrencilerin 
+ulaştıkları önermeleri farklı problem durumlarında kullanmaları sağlanır (MAB2). Öğrencilerin 
+benzer varsayım, genelleme ve önerme sunma süreçlerinden geçerek konuyla ilgili başka 
+çıkarım ve sonuçlara varmaları beklenir. Örneğin  öğrenciler, eş üçgenler  yardımıyla  bir  
+açının   açıortay   doğrusu  üzerindeki  bir  noktadan  açının  kollarına  indirilen  dikmelerin

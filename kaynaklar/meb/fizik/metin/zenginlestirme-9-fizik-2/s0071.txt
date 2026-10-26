@@ -1,0 +1,39 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+70 71
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+6
+5
+4
+3 Pet şişeyi su dolu havuza yerleştiriniz ve basınç göstergeli pompayla 
+pet şişe suyun içinde askıda kalacak şekilde, balonlar şişene kadar 
+hava ile doldurunuz.
+Askıda kalan şişeyi dereceli kaba koyarak yer değiştiren sıvının mik -
+tarını ölçünüz.
+• Yer değiştiren sıvının hacminin suya batan cismin hacmine eşit ol-
+duğunu belirtiniz.
+• Fk = V b ∙  d s ∙ g matematiksel modelinde değişkenler yerine yazıl -
+dığında kaldırma kuvvetinin büyüklüğünün elde edileceğini belir -
+tiniz.
+• Yer değiştiren sıvının ağırlığının cisme etki eden kaldırma kuvveti-
+nin büyüklüğüne eşit olacağını söyleyiniz.
+• Cisme etki eden kaldırma kuvveti büyüklüğünün cismin ağırlığına 
+eşit olduğunu öğrencilerin fark etmesini sağlayınız.
+• Cismin suya batan hacminin cismin tüm hacmine eşit olduğunu 
+öğrencilerin fark etmesini sağlayınız.
+Pet şişeyi su dolu havuza yerleştiriniz ve basınç göstergeli pompayla 
+pet şişe suyun içinde yükselinceye (yüzünceye) kadar hava ile doldu-
+runuz.
+Yüzen şişeyi dereceli kaba koyarak yer değiştiren sıvının miktarını öl-
+çünüz.
+• Yer değiştiren sıvının hacminin suya batan cismin hacmine eşit ol-
+duğunu belirtiniz.
+• Fk = V b ∙  d s ∙ g matematiksel modelinde değişkenler yerine yazıl -
+dığında kaldırma kuvvetinin büyüklüğünün elde edileceğini belir -
+tiniz.
+• Yer değiştiren sıvının ağırlığının cisme etki eden kaldırma kuvveti-
+nin büyüklüğüne eşit olacağını söyleyiniz.
+• Cisme etki eden kaldırma kuvveti büyüklüğünün cismin ağırlığına 
+eşit olduğunu öğrencilerin fark etmesini sağlayınız.
+• Cismin suya batan hacminin cismin tüm hacminden daha az oldu-
+ğunu öğrencilerin fark etmesini sağlayınız.

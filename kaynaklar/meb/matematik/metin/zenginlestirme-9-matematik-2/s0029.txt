@@ -1,0 +1,17 @@
+MATEMATİK 9 
+28 29
+Çözüm:
+5. Adım
+Aşağıda doğrusal ilişkiler içeren durumlar ve ait oldukları bilim dalları sıralanmıştır. Öğretme -
+niniz rehberliğinde gruplar oluşturunuz ve grup arkadaşlarınızla birlikte verilen durumlardan birini 
+seçiniz, seçtiğiniz ilişkiyi açıklayan bir doğrusal fonksiyon oluşturunuz. Bu fonksiyonun grafiksel 
+temsilini gösteriniz. Çizdiğiniz grafik üzerinden fonksiyonun eğimini, artanlık-azalanlık durumunu ve 
+y ekseni ile kesişimini (başlangıç değerini) belirleyiniz.
+• Kimya : Sabit Basınçta, Sıcaklık-Hacim İlişkisi (İdeal Gaz Yasası)
+• Kimya : Sabit Hacimde, Basınç-Sıcaklık İlişkisi (Gay-Lussac Yasası)
+• Kimya : Maddelerde Kütle-Hacim İlişkisi
+• Fizik : Gerilim-Akım İlişkisi (Ohm Yasası)
+• Fizik : Yaylarda Kuvvet-Uzama İlişkisi (Hooke Yasası)
+• Ekonomi : Gelir-Tüketim İlişkisi
+• Ekonomi : Fiyat-Miktar İlişkisi (Talep Yasası)
+• Biyoloji : Osmotik Basınç ve Çözelti Konsantrasyonu İlişkisi

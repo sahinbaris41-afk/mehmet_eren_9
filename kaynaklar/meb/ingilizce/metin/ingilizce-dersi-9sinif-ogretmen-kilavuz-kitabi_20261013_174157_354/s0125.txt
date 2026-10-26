@@ -1,0 +1,123 @@
+125
+e    
+1
+ is
+2
+ is
+3
+ is
+4
+ are
+5
+ can
+6
+ can
+7
+ is
+8
+ can
+9
+ is
+10
+ is
+11
+ is
+12
+ can
+13
+ can
+14
+ are
+15
+ is
+16
+ can
+f  
+ 
+1
+ A 
+2
+ C 
+3
+ D 
+4
+ B
+g  
+ 
+1
+ Japan is famous for its blossom season.
+2
+ Where can I visit Big Ben?
+3
+ My brother cannot speak English.
+4
+ The beaches in Thailand are very 
+beautiful.
+5
+ Can tourists explore the rainforests in 
+Brazil?
+h  
+ 
+1
+ Kyoto
+  
+2
+ Edinburgh
+  
+3
+ Tokyo
+i  
+ 
+Countries: Australia, Japan, Scotland
+Places to Visit: historical and cultural sites, 
+the Tokyo National Museum, well-preserved 
+streets, famous landmarks, the Royal Mile, 
+ancient ruins
+Things in a Museum: exhibitions, traditional 
+paintings, sculptures, historical objects
+j    
+k  
+  
+A
+ 4
+ 
+B
+ 3
+ 
+C
+ 1
+ 
+D
+ 5
+ 
+E
+ 2
+l  
+  
+1
+ art museum
+2
+ tourist attractions
+3
+ ancient ruins
+4
+ trip
+Extra:
+ historical sites
+1
+ T
+2
+ T
+3
+ F
+4
+ T
+5
+ NM
+6
+ F
+7
+ T
+8
+ NM
+WORKBOOK ANSWER KEYS

@@ -1,0 +1,22 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+87
+5. TEMA: ALGORİTMA VE BİLİŞİM
+1. Aşağıda yolcuların bagaj haklarına göre ödeyecekleri ücreti hesaplayan algoritmanın işleyişinin akış 
+şeması verilmiştir. Akış şemasında boş bırakılan işlem kutularına  gereken ifadeleri yazınız.
+ ► Tabloda verilen bilgiler doğrultusunda aşağıdaki soruları yanıtlayınız.
+Akış Şeması
+Bitir
+Başla
+Bagaj hakkı 
+gir (x)
+Ücret TL Ücret TL
+x ≤ 20 20< x ≤ 25 x > 25Hayır
+Evet Evet Evet
+Hayır
+2. Verilen akış şemasına göre Esra, Burcu, Yiğit ve Alp’in ödeyecekleri ücretleri hesaplayarak algorit-
+mayı test ediniz.
+Kişi Bagaj Ücret
+Esra 8 kg
+Burcu 14 kg
+Yiğit 25 kg
+Alp 27 kg

@@ -1,0 +1,22 @@
+78
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Destekleme Bir kimyasal tepkimenin tersinir (geri dönüşümlü) doğasını açığa çıkarmak amacıyla renk 
+değişikliği sergileyen tepkimelerin incelenmesi gibi etkinlikler planlanabilir. Dengeyi etki -
+leyen faktörler olan sıcaklık, basınç ve konsantrasyon gibi değişkenler hakkında derinle -
+mesine anlayış geliştirmek için çevrim içi simülasyon araçlarından faydalanılabilir. Öğren-
+ciler, küçük gruplara ayrılarak günlük hayatta karşılaşılan denge örneklerini tartışabilirler. 
+Örneğin bir soda şişesinin nasıl bir denge sistemini temsil ettiğini analiz edebilirler.
+Öğrencilerin Arrhenius ve Brønsted-Lowry asit-baz tanımlarını kapsamlı bir şekilde öğ -
+renmeleri için asit ve baz örneklerinin bu iki farklı tanım çerçevesinde eşleştirilmesine da-
+yanan bir kart oyunu tasarlanabilir. Böylece öğrencilerin öğrenme süreçlerine katkıda bu-
+lunulabilir. Ayrıca çeşitli tuzların suda çözünürlüklerini test etme fırsatı sunularak sıcaklık 
+ve basınç gibi değişken koşullar altında çözünürlüğün nasıl değişebileceğinin öğrenciler 
+tarafından  gözlemlenmesi sağlanabilir. Tuzların çözünürlüğünü etkileyen faktörlerin (sı -
+caklık, ortak iyon etkisi gibi) incelenmesi amacıyla düzenlenecek bilgi yarışmaları veya 
+grup projeleri ile öğrencilerin bu konuları derinlemesine araştırmaları sağlanabilir.
+Çevrim içi simülasyon araçlarının kullanımı, öğrencilerin çözünürlük dengesi kavramını ve 
+bir çözeltinin doymuş, doymamış veya aşırı doymuş olmasının ne anlama geldiğini somut 
+bir şekilde anlamalarına yardımcı olabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza
+ okutunuz.

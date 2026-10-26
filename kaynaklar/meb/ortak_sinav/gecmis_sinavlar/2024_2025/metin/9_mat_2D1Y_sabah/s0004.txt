@@ -1,0 +1,38 @@
+4
+MATEMATİK 9
+4. Bir	fidan,	üzerindeki	A	ve	D	noktalarından	ipler	gerdirilerek	sırasıyla	zemindeki	C	ve	E	noktalarına	
+aşağıdaki	gibi	sabitlenmiş	ve	zemine	dik	bir	şekilde	dikilmiştir.
+Zemin
+A
+D
+EB
+20100
+C
+40
+E	noktasına	sabitlenen	ipin	zeminle	yaptığı	açının	ölçüsü	ile	C	noktasına	sabitlenen	ipin	fidanla	yaptığı	
+açının	ölçüsü	birbirine	eşittir.
+|BE|  =  20 cm, |DB|  =  40 cm ve |CB|  =  100 cm  olduğuna göre, |AD| kaç santimetredir? 
+İşlemlerinizi göstererek bulunuz. (15 puan)
+Zemin
+A
+D
+EB
+20100
+C
+40
+x
+x
+y
+y
+ABC	üçgeni	ile	EBD	üçgeninin	iç	açılarının	ölçüleri	arasında	 () () ,mA mE x==W W  () ()mmCD y==XX  
+eşitlikleri	vardır.	Buna	göre	ABC EBD`&& 			olur.	(Açı	Açı	Benzerliği)
+EB
+AB
+BD
+BC= 	’tir.
+AB
+20 40
+100=  ⇒ |AB|  =	 	50	cm’dir.
+ |AB| = |AD|  + |DB| 
+	 50	= |AD| +	40
+ |AD|  = 10	cm	olur.

@@ -1,0 +1,22 @@
+114
+5. Tema/Algoritma ve Bilişim  
+Kütlesi Farklı Parayı Bulma Problemi
+Aşağıdaki soruları cevaplayınız.
+1. Aynı ebatlara sahip n tane bozuk para içinden kütlesi farklı olan 1 tanesi en az kaç tartımla kesin olarak bulu-
+nabilir? Varsayımlarınızı oluşturunuz.
+2. n sayısının alabileceği farklı tam sayı değerleri için varsayımlarınızı aşağıdaki tabloyu tamamlayarak doğrula-
+yınız. Ardından tartım sayısıyla ilgili genellemeler oluşturunuz.
+n 2 3 4 8 9 16 27 32 64 81
+En Az Tartım Sayısı
+ 
+ 
+3. Varsayımlarınızla genellemelerinizi karşılaştırarak bir önerme şeklinde ifade ediniz. Birden fazla önermeye 
+ulaştıysanız her birini ayrı cümlelerle ifade ediniz.
+4. Elde ettiğiniz önermelerin birini seçerek aynı ebatlara sahip n tane bozuk para içinden kütlesi farklı olan  
+1 tanesinin en az kaç tartımla belirlenebileceğini bulan algoritmanın işleyişini algoritmik doğal dille ifade ediniz.
+ 
+Algoritmik Doğal Dil
+5. Hazırladığınız algoritmayı farklı n değerleri için uygulayınız. Her bir durum için en az tartım sayısını hesapla-
+yınız ve sonuçları karşılaştırınız.
+ 
+3. Uygulama

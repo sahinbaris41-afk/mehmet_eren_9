@@ -1,0 +1,44 @@
+131
+5. Tema/Algoritma ve Bilişim  
+Çözüm
+Akış	şemasında	‟ve”	bağlacı	iki	önermenin	aynı	anda	karşılanmasını	gerektirir.	Örneğin	bir	metal	par-
+çanın	uzunluğu,	diğer	iki	metal	parçanın	uzunlukları	toplamından	küçük	ve	farkının	mutlak	değerinden	
+büyük	olmalıdır.	
+‟Veya”	bağlacı,	üçgenin	çeşidini	belirleme	sürecinde	kullanılır .	Örneğin	üçgenin	ikizkenar	olup	olmadı-
+ğının	belirlenmesi	için	‟ab veya bc veya ac== = ”	şeklindeki	önermenin	sonucuna	göre	karar	verilir.	
+Verilen	eşitliklerden	herhangi	birinin	sağlanması,	üçgenin	ikizkenar	olduğunu	doğrular.
+‟İse”	bağlacı,	algoritmada	koşulların	birbirine	bağlı	olduğu	durumlar	için	kullanılır.	‟Bir	metal	parçanın	
+uzunluğu,	diğer	iki	metal	parçanın	uzunlukları	toplamından	büyük	ise	çalgı	üretilemez.”	şeklindeki	karar	
+süreçlerinde	işler.	
+4. Sıra Sizde      
+A	anahtarı
+B	anahtarı
+Merdiven
+Vavien	(Vaviyen)	devre,	bir	aydınlatma	sistemini	veya	herhangi	
+bir	elektrikli	cihazı	iki	farklı	yerden	kontrol	etmeye	yarayan	bir	
+elektrik	devresidir.	Bu	devre,	genellikle	evlerde	merdiven	ışık-
+larının	kontrolü	için	kullanılır.	Böylece	bir	katın	başında	ve	
+sonunda	bulunan	iki	farklı	anahtarla	ışık	açılıp	kapatılabilir.
+Yandaki	görselde	verilen	merdiveni	aydınlatması	için	merdi-
+venin	başına	ve	sonuna	birer	tane	anahtar	yerleştirilip	vavien	
+devre	bağlantısı	yapılmıştır.	Bir	üst	kata	çıkmak	isteyen	kişi,	A	
+anahtarını	kullanarak	lambayı	açar.	Üst	kata	vardığında	ise	B	
+anahtarı	ile	lambayı	kapatır.
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Aşağıda	vavien	devrenin	temel	çalışma	ilkesini	anlatan	bir	algoritmanın	işleyişi	algoritmik	doğal	dille	
+verilmektedir. 
+Buna göre boş bırakılan yere uygun mantık bağlacını yazınız. 
+ 
+Algoritmik Doğal Dil
+1. adım:	Başla.
+2. adım: Girdilerin alınması
+	 	 Kullanıcıdan 	bir	anahtarın	durumu	(açık	veya	kapalı)	
+hakkında	giriş	al.	Lamba	başlangıçta	kapalıdır.
+3. adım: Anahtar durumunun kontrol edilmesi
+	 	 A 	ve	B	anahtarının	durumunu	kontrol	et.
+4. adım: Kontrol mekanizması
+	 	 A 	anahtarı	…………...	B	anahtarı	açıksa	lambayı	yak.
+	 	 Değilse 	lambayı	söndür.
+5. adım: Sonucun bulunmas ı
+	 	 Lambanın 	durumunu	güncelle	(açık	veya	kapalı).
+6. adım:	Bitir.

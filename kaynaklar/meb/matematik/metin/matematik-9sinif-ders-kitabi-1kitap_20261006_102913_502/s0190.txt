@@ -1,0 +1,37 @@
+190
+3. Tema /  Geometrik Şekiller
+6 ve 7. soruların cevaplarını tabloda uygun yere yazınız.
+6. 5. adımda elde ettiğiniz uzunluk değerlerini yukarıdaki tablonun ilk satırına yazınız. Bu değerleri kullanarak 
+DB DC +  ve AB AC +  toplamlarını hesaplayınız. Elde ettiğiniz değerleri tabloya yazınız.
+7. D noktasını üçgenin iç bölgesinde kalacak şekilde hareket ettirerek [DB], [DC], [AB], [AC]  nın uzunlukların-
+daki değişimi gözlemleyiniz. Elde ettiğiniz değerleri tabloya yazınız.
+8. T abloyu inceleyerek yukarıdaki önermede verilen DB DC +  ve AB AC +  arasındaki ilişkinin doğru olup olma-
+dığına ilişkin fikrinizi arkadaşlarınızla paylaşınız. D noktası A noktası ile çakışırsa nasıl bir sonuç elde edilece-
+ğini açıklayınız.
+9. Önerme başk a bir yol kullanılarak nasıl doğrulanabilir? Açıklayınız.
+DB DC AB AC DB DC + AB AC +
+9.	Sıra	Sizde      
+Aşağıda	verilen	önermenin	doğrulamasını	matematik	yazılımı	kullanarak	yapınız.
+Önerme: Bir üçgenin içinde alınan bir noktanın üçgenin köşelerine uzaklıkları toplamı üçgenin çevresinin 
+uzunluğundan küçük, çevresinin uzunluğunun yarısından büyüktür.
+Kontrol Noktası
+Bir üçgende en uzun kenar karşısında ölçüsü en büyük açı, en kısa kenar karşısında 
+ölçüsü en küçük açı bulunur. Bu ifadenin tersi de doğrudur. 
+Yandaki şekilde a> b> c ise mA >m B> mC__ _ii iW W W  dür.
+Bir ABC üçgeninde a, b, c kenar uzunlukları olmak üzere
+bc <a <b c
+ac <b <a c
+ab <c <a b
++
++
++
+-
+-
+-
+eşitsizliklerinin her üçü de sağlanır.
+A
+a
+bc
+B C
+Konu ile ilgili animasyona ulaşmak 
+için karekodu okutunuz.

@@ -1,0 +1,49 @@
+125
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.10.7.1
+Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu durumlarla ilgi-
+li olarak öğrencilerin mevcut olasılık bilgisi dâhilinde varsayım yapabilmesi için bir torbadan 
+renkleri dışında özdeş iki top çekilmesi ve  renklerin kaydedilmesi gibi bir deney ele alınır. Bu 
+deneyde torbadan bir top çekilip renginin kaydedilmesinden sonra torbaya atılmayıp ikinci 
+bir top çekildiğinde istenen rengin gelme olayının olasılığı incelenir. Öğrencilerden mevcut 
+olasılık bilgisini kullanarak olası tüm çıktıların ve olaya ait çıktıların sayısının değiştiğini fark 
+edebilmeleri, dolayısıyla olasılık değerinin farklı şekilde hesaplanacağına yönelik muhakeme 
+yaparak sezgisel bir varsayımda bulunmaları beklenir (E3.1, SDB1.1).
+Gerçekleşmesi bir olaya bağlı olan olaylara (bir torbadan renkli bir top çekilip torbaya geri atıl-
+maması koşuluyla ikinci bir renkli top çekilerek iki topun da renklerinin kaydedilmesi gibi)  ilişkin 
+tüm olası çıktıların ağaç şeması, tablo veya alan modeli gibi farklı temsiller kullanılarak görsel-
+leştirilmesi beklenir (MAB3). Bu görselleştirme aşamasında öğrencilere ağaç şeması, tablo, 
+alan modeli şablonu verilebilir veya dijital araçlardan yararlanılabilir (OB2, MAB5). Böylece öğ-
+rencilerin tüm olası çıktıları listelemeleri sağlanır. Öğrencilerin verilen duruma ilişkin olası tüm 
+çıktıları ağaç şeması, tablo, alan modeli gibi farklı temsillerle gösterebilmeleri ve temsil aracını 
+seçme gerekçeleri için çalışma kâğıdı kullanılır. Bu görselleştirmeler sonucunda öncelikle bir 
+koşula bağlı olarak gerçekleşen olayda elde edilen olası tüm çıktıların sayısı ile koşul olmadı -
+ğında elde edilebilecek olası tüm çıktıların sayısı arasında öğrencilerin karşılaştırma yapması 
+beklenir. Ardından bir koşula bağlı olarak gerçekleşen olayda çıktı sayısı ile koşul olmadığında 
+aynı olaya ait çıktı sayısı arasında öğrencilerin karşılaştırma yapması beklenir. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin gerçek yaşamda karşılaşabileceği olaylarda farklı olasılık yaklaşımlarından (öz-
+nel, deneysel ve teorik) uygun olanı belirleyerek bu yaklaşıma uygun karar verebildikleri kabul 
+edilmektedir. Ayrıca öğrencilerin olayların olasılığını deneysel ve teorik olarak inceleyebildiği, 
+yorumlayabildiği ve farklı olasılık yaklaşımları (deneysel ve teorik) arasında ilişkilendirmeler 
+yapabildiği kabul edilmektedir. 
+Ön Değerlendirme Süreci Öğrencilere farklı olasılık yaklaşımlarından (öznel, deneysel ve teorik) uygun olanları belirle -
+yeceği, gerçek yaşamda karşılaşılabilecek olaylar verilebilir ve öğrencilerden uygun yaklaşı-
+mı belirlemeleri istenebilir. Ayrıca öğrencilere olayların olasılıklarının deneysel mi teorik mi 
+olduğunu belirleyecekleri sorular sorulabilir.
+Köprü Kurma Bağımlı olayların olasılığını incelemede kullanılacak koşullu olasılık hesaplamaları ve Bayes 
+teoremi, öğrencilerin olayların olasılığına dair ön bilgileri üzerine kurulabilir. Bağımlı olay -
+larda koşula bağlı olma durumunun ele alınabilmesi için öğrencilerin ilgilerini çekebilecek 
+nitelikte, belirsizlik içeren durumlar sunulabilir. Öğrencilerin bu durumlarda yer alan olay -
+ların olasılığına dair tahminde bulunmaları sağlanabilir. Verilen örneklerin bağımsız olayla -
+rı (hilesiz iki sayı küpü atıldığında üst yüzeylerine gelen sayıların toplamının 6 olması gibi) 
+ve bağımlı olayları (hilesiz iki sayı küpü atıldığında küplerin üst yüzeylerine gelen sayıların 
+toplamının 6 olması ve sayı küplerinin üst yüzeylerine gelen sayıların aynı olması gibi) içer -
+mesine dikkat edilir. Gerçek yaşam durumlarından seçilebilecek bağımlı ve bağımsız olay 
+örneklerinde öğrencilerin bir olayın diğer olay üzerinde bir etkisinin olup olmadığını sorgu -
+lamaları sağlanabilir. Öğrencilerden verilen olayların gerçekleşmesinin herhangi bir koşula 
+bağlı olup olmadığını yorumlamaları beklenebilir. Öğrencilere bağımlı olay içeren durumla -
+rın olasılığının incelenmesinde bu zamana kadar öğrendiklerinden farklı bilgi ve hesaplama -
+lar kullanmaları gerektiğine yönelik ihtiyaç hissettirilebilir.

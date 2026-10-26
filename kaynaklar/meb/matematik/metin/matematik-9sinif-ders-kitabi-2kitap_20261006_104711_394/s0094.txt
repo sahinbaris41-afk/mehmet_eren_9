@@ -1,0 +1,69 @@
+94
+4. Tema/Ölçme ve Değerlendirme
+17. Görseldeki	bilardo	mas asının	boyu	300	cm ,	eni	
+150	cm’dir.	Bilardo	masasında	ikisi	uzun	kenar-
+ların	orta	noktalarında,	dördü	köşelerde	olmak	
+üzere	bilardo	toplarının	girebileceği	toplam	altı	
+cep	bulunmaktadır.	Beya z	top	1	nu maralı	ceb in	
+bulunduğu	köşeden	görseldeki	gibi	10	cm	ve	
+30	 cm	 içeride	 olacak	 şekilde	 yerleştirilmiştir.	
+T opun	masanın	bir	kenarına	çarpma	açısı	ile	
+o	kenardan	ayrılma	açısı	aynıdır.	Beyaz	topun	
+takip	ettiği	yol	doğrusaldır.
+ Buna göre aşağıdaki soruları cevaplayınız.
+a) Oyuncu beyaz topu 3 ve 4 numaralı 
+ceplerin olduğu kısa kenara çarptırarak 
+5 numaralı cebe sokmak istemektedir. 
+Beyaz topun 4 numaralı cebin bulun-
+duğu köşeden kaç cm yukarıda masanın 
+kenarına çarpması gerektiğini bulmak 
+amacıyla bir geometrik modelleme yapı-
+nız. Verilen bilgileri ve istenenleri oluş -
+turduğunuz modelin üzerine yazınız.
+b) Beyaz to pun 5 numaralı cebe girmesi 
+için 4 numaralı cebin bulunduğu köşe -
+den kaç cm yukarıda masanın kenarına 
+çarpması gerektiğini bulabilmek için 
+gereken stratejiyi belirleyiniz.
+c) Uygun stratejiyi kullanarak beyaz topun 
+5 numaralı cebe girmesi için 4 numaralı 
+cebin bulunduğu köşeden kaç cm yuka-
+rıda masanın kenarına çarpması gerekti-
+ğini bulunuz.
+ç) Çözümünüzü arkadaşlarınızın çözümle-
+riyle karşılaştırarak farklı çözüm yolla -
+rını inceleyiniz.
+18. Şekilde	birim	kareler	üzerine	çizilen	bir	gemi	ve	
+O	noktası	görülmektedir.	Gemi	O	noktası	etra-
+fında	saat	yönünde	180o	döndürülmüş	ve	gemi-
+nin	 bir	 görüntüsü 	 oluşturulmuşt ur.	 Oluşan	
+görüntü	10	birim	sola,	7	birim	yukarıya	ötelene-
+rek	yeni	bir	görüntü	elde	edilmiştir.	
+ Yapılan dönme ve öteleme dönüşümleri 
+sonucunda elde edilen gemi görüntüsü 
+ile ilk baştaki gemi görüntüsünün çakışan 
+alanı kaç birimkaredir? 
+A) 	1 	 B) 	2 	 C) 	3 	 D) 	4 	 E) 	5
+19. Şekil	1’de	zemine	dik	konumdaki	duvara	dayalı	
+25	m	uzunluğundaki	merdivenin	duvara	temas	
+ettiği	A	noktasının	yerden	yüksekliği	15	m’dir.	
+Merdiven	A	nokt asından	aşağı	doğru	8	m	kay a-
+rak	Şekil	2’deki	durumda	sabit	kalmışt ır.	Merdi-
+venin	yere	temas	eden	noktası	Şekil	1’de	B,	
+Şekil	2’de	B'	ile	gösterilmişt ir.	Şekil	1	ve	Şekil	
+2’de	 verilen	 düzlemsel	 kesitlerde 	 zemin	 ve	
+duvar	O	noktasında	kesişmektedir. 
+Buna göre BB'  kaç metredir?
+A) 	3 	 B) 	4 	 C) 	5 	 D) 	6 	 E) 	7
+O
+1 birim
+1 birim
+A
+A'
+BO O B'
+Şekil 1 Şekil 2
+300
+101 2 3
+456
+30
+150

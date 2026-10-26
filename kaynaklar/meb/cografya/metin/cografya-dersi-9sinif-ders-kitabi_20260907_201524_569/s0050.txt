@@ -1,0 +1,82 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+50
+K
+0 100
+829.000
+177.000
+61.000
+19.000km
+KOP kapsamındaki iller
+Göl
+KOP Bölgesinde Sulanan 
+Tarım Alanı (2023, ha)
+T.C. 
+Sanayi ve 
+Teknoloji 
+Bakanlığı
+Konya
+Karaman
+Aksaray
+Niğde
+Nevşehir
+Yozgat
+Kırşehir
+Kırıkkale
+Akdeniz
+KOP İllerinde Sulanan Tarım Alanı Miktarı Haritası
+6. Akış Haritaları
+Akım ya da dinamik haritalar olarak da adlandırılan bu haritalar, bir coğrafi unsu-
+run hareket miktarını ve yönünü gösterir 
+Akış haritaları, belli bir zaman aralığında insan başta olmak üzere canlı ya da can-
+sız unsurların (trafik, mal ve hizmetler, nehir akışı vb.) bir yerden başka bir yere 
+hareketini göstermek için kullanılır. Akış haritası yöntemiyle çizilen göç haritaların-
+da göç yolları, göç miktarı, gidilen ve gelinen yerle ilgili bilgiler yer alır.
+5. Oransal Sembol Haritaları 
+Bir konuya ait verilerin ölçeklendirilmiş sembol ya da şekillerle gösterildiği 
+haritalardır. Bu tür haritalarda gösterilmek istenen coğrafi unsurun değerine 
+göre boyutu değişen semboller kullanılır. En yaygın kullanılan sembol daire-
+dir. Bunun yanında kare, çubuk veya ikon da kullanılmaktadır (Harita 2.6).    
+Harita 2.6  
+Konya Ovası Projesi (KOP) 
+kapsamındaki illerde sulanan tarım 
+alanı miktarı oransal olarak haritada 
+gösterilmiştir. KOP; sulama, içme, 
+kullanma ve sanayi suyu ihtiyacını 
+karşılamak; bölgede aşırı yer altı 
+suyu kullanımının önüne geçmek 
+için hazırlanan sulama temelli 
+kalkınma projesidir.
+Harita 2.7  
+Balon balığının yayılış alanları akış 
+haritası üzerinde gösterilmiştir. 
+Balon balığı, Hint Okyanusu ve 
+Pasifik Okyanusu kökenli bir 
+türdür. Tropikal bölgede sıcak 
+denizlerde yaşayan bu balık türü, 
+Süveyş Kanalı’nın açılmasından 
+sonra Kızıldeniz’den Akdeniz’e göç 
+etmiştir. Akdeniz’de ilk olarak 2000 
+yılından sonra görülen balon balığı 
+zehirlidir. Balon balığı hem insan 
+sağlığına hem de biyoçeşitliliğe 
+zarar vemektedir. 
+(Harita 2.7).   
+K
+TÜRKİYE
+KIZILDENİZ
+HİNT 
+OKYANUSU
+Süveyş Kanalı 
+(1869)
+Balon balığının 
+göç yolu
+AKDENİZ
+2003
+2007
+20172014
+Balon balığının 
+tespit edildiği yıl
+Balon Balığının Yayılış 
+Haritası
+0         400       800
+km

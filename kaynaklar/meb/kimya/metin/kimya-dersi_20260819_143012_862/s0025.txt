@@ -1,0 +1,49 @@
+25
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.9.2.13. Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin bilimsel sorgulama yapa -
+bilme 
+a) Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin araştırılabilir sorular oluşturur.
+b) Araştırma sorularını cevaplamak üzere moleküller arası etkileşimlere ilişkin teori-
+leri kullanarak önermeler sunar. 
+c) Sıvıların yüzey gerilimini etkileyen faktörleri belirlemeye yönelik planladığı araştır-
+mayı uygular.
+ç) Araştırmadan elde ettiği verileri yorumlar. 
+d) Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin ulaştığı sonuçları bilimsel bilgi -
+lerle karşılaştırır. 
+e) Günlük hayatta yüzey geriliminden kaynaklanan problemlerin çözüm sürecini bi -
+limsel bilgilerle ilişkilendirir.
+İÇERİK ÇERÇEVESİ Etkileşimler: Metalik Bağ, İyonik Bağ, Kovalent Bağ, Lewis Nokta Yapısı, Molekül Polarlığı 
+ve Apolarlığı, Bileşiklerin Adlandırılması
+Etkileşimden Maddeye: Moleküller Arası Etkileşimler, Katılar ve Özellikleri (Amorf ve Kris-
+tal Katılar), Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve 
+Kohezyon Kuvvetleri, Yüzey Gerilimi)
+Genellemeler/İlkeler/
+Anahtar Kavramlar
+adezyon kuvveti, akışkanlık, amorf katı, apolar kovalent, apolar molekül, buhar basıncı, 
+dipol, dipol-dipol etkileşimi,  dipol moment, hidrojen bağı, indüklenmiş dipol, iyonik bağ, 
+iyonik katı, kaynama noktası, kılcallık (kapiler etki), kohezyon kuvveti, kovalent bağ, kristal 
+katı, London kuvveti, metalik bağ, metalik katı, moleküler katı, polar kovalent, polar mole-
+kül, van der Waals etkileşimi, viskozite, yüzey gerilimi
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında kavram karika -
+türü, etkinlik kâğıdı, performans görevi, yansıtma notu, sınıf içi tartışma, yapılandırılmış 
+grid, çalışma yaprağı, tarsia yapboz, deney raporu, boşluk doldurma; akran değerlendir -
+me, grup değerlendirme ve öz değerlendirme formları kullanılabilir.
+Öğrenciler performans görevi çerçevesinde sıvıların viskozitesi ile moleküller arası etkile-
+şimlerin neden-sonuç ilişkisini ortaya koyacakları bir deneyi tasarlayabilir, uygulayabilir ve 
+raporlayabilir. Performans görevi “öğrencilerin moleküller arası etkileşimlerin ve sıcaklığın 
+sıvıların viskozitesine etkisinin belirlenmesi sürecinde sıvıların viskozitesine ilişkin nitelik-
+lerin farkını ortaya koyması, topladığı verileri kaydetmesi ve benzer veriler üzerinden keş-
+fettiği örüntüleri açıklaması” ölçütlerini içeren dereceli puanlama anahtarı ile değerlendi-
+rilebilir. 
+Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında 
+toplanarak değerlendirme amaçlı kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin maddenin tanecikli modelini ve taneciklerin elektrik yükleri arasında itme 
+ve çekme kuvvetleri ile bir arada durduğunu; bazı bileşiklerin yaygın adlarını, katı ve sı -
+vıların temel özelliklerini, kavramsal olarak kaynama ve buharlaşma olaylarını bildikleri 
+kabul edilmektedir.

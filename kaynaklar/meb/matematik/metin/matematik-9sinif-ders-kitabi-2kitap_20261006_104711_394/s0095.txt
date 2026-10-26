@@ -1,0 +1,66 @@
+95
+4. Tema/Ölçme ve Değerlendirme
+20. Aşağıdaki şekilde	yer	alan	belli	bir	uzunluktaki	
+verici	kulesi	yere	dik	konumdadır .	Kule	dengede	
+kalması	amacıyla	aynı	doğrultudaki	farklı	nok-
+talara	gergin	çelik	halatlarla	sabitlenmiştir.	Verici	
+kulesinden	doksanar	metre	uzaklıktaki	nokta-
+lara	sabitlenen	halatların	uzunlukları	150	m’dir	
+ve	bu	halatlar	kulenin	aynı	noktası na	bağlan-
+mıştır.	 150	 m’lik	 halatların	 dışında	 kalan	 iki	
+halattan	biri	A,	diğeri	B	noktası na	sabitlenmişt ir.	
+ Buna göre verici kulesinden 225 m uzak -
+lıktaki A noktasına sabitlenen hala -
+tın uzunluğu kaç m’dir?
+A)	240 	 B)	245 	 C)	250 	 D)	255 	 E)	260
+21. Şekil	 1’de	 30	 cm	 kalı nlıkta	 ve	 zem ine	 dik	
+konumda	 olan	 bir	 duvar	 ile	 duvara	 185	 cm	
+uzaklıkta	bulunan	bir	elektrik	direği	verilmişt ir.	
+Direk,	rüzgârlı	bir	havada	temeli	olan	A	noktası	
+sabit	kalmak	koşulu	ile	O	noktasından	kırılarak	
+duvarın	üstüne	yıkılmış	ve	Şekil	2’deki	durum	
+oluşmuştur.	Bu	durum da	direğin	uç	nokt ası	A	
+noktasından	 10	 metre	 uzakta	 olacak	 şekilde	
+yer	ile	temas	etmiştir.	
+AOC'm9 0o=`j% , B duvarın orta noktası ve O 
+noktasının yerden yüksekliği OB7 A  olduğuna 
+göre OB  kaç metredir?
+A) 	4	 B) 	12 	 C) 	6	 D) 	8	 E) 	16	
+150 150
+90 90A B
+O
+A AB B
+C
+C'
+Şekil 1 Şekil 2
+22.	Evinden	okula	gitmek	üzere	yola	çıkan	Ebru,	
+önce	150	metre	batıdaki	kırtasiyeye	uğrayarak	
+silgi	 almıştır.	Ardın dan	 12 0	 metre	 kuzeyd eki	
+pastaneden	simit	almış	ve	batı	yönünde	250	
+metre	yürüyerek	Mahmut	ile	buluşmuştur.	Yola	
+birlikte	devam	eden	Ebru	ile	Mahmut	x	metre	
+güneydeki	okula	ulaşmışlardır. 
+ Okul, Ebru’nun evinden 410 metre uzaklıkta 
+olduğuna göre x in metre cinsinden alabile-
+ceği değerler toplamı kaçtır?
+A)	320 	 B)	300 	 C)	280 	 D)	260 	 E)	240
+23. Kıyıya	 50	 metre	 mesafedeki 	 A	 noktasında 	
+çocukları	için	kumdan	kale	yapan	Alper,	kıyı-
+dan	100	metr e	uzaklı ktaki	B	noktas ında	kont-
+rolsüz	bir	yangının	başladığını	görüyor.	Elin-
+deki	 kovayla	 denizden	 taşı dığı	 suyu	 en	 kısa 
+mesafeyi	alarak	ateşe	döküyor .	(Kıyının	E	ve	F	
+noktalarından	geçen	doğru	boyunca	başladığı	
+kabul	edilecektir.	)	
+AE EF=77 AA , BF EF=77 A A  ve EF metre 80=
+olduğuna göre Alper’in katettiği yolun uzun-
+luğu kaç metredir?
+A)	200 	 B)	190 	 C)	180 	 D)	170 	 E)	160
+Tema ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.
+50
+100
+80
+A
+E F
+B

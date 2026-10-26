@@ -1,0 +1,50 @@
+163
+2. Tema/Ölçme ve Değerlendirme
+Aşağıdaki grafikte bir güneş enerjisi panelinin 
+zamana (ay) bağlı enerji (kWh) üretim miktarı 
+uygun aralıkta tanımlı f, g, h ve k doğrusal fonk-
+siyonlarıyla ifade edilmiştir.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		Hangi	aylar 	arasında 	enerji 	üretim 	mik-
+tarının	arttığını	bulunuz.
+b)		Hangi	aylar 	arasında 	enerji 	üretim 	mik-
+tarının	azaldığını	bulunuz.
+c)		7	ve 	8. 	ay 	ile 	8 	ve 	9. 	ay 	arasındaki 	enerji 	
+üretim	miktarlarını	karşılaştırınız.
+ç)		3.	aydan 	9. 	aya 	kadar 	zamana 	(ay) 	bağ-
+lı	 enerji 	 üretim 	 miktarını 	 (kWh) 	 temsil 	
+eden	parçalı	gösterimli 	 fonksiyonun 	 ce-
+birsel	temsilini	ifade	ediniz.
+6.
+y Enerji üretim miktarı (kWh)
+250
+370
+420
+220
+O x Zaman
+(Ay)
+1 2 3 4 5 6 7 8 9
+f
+g h
+k
+Bir fabrikada yaklaşık 180 ml olarak dolum ya-
+pılan kutu sütlerin gerçek hacimlerinde belirli 
+bir hata payı olabileceği öngörülmektedir. Bu 
+hata payının en fazla 5 ml olduğu bilindiğinden 
+bir kutu sütün gerçek hacminin 175, 185   nda 
+olduğu ifade edilmektedir. Bir kutu sütün ger -
+çek hacmine (ml) bağlı hata payını (ml) ifade 
+eden fonksiyon f olsun.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		 f 	 fonksiyonunun 	 tanım 	 ve 	 görüntü 	 kü-
+melerini	belirleyiniz.
+b)	 f 	 mutlak 	 değer 	 fonksiyonunu 	 cebirsel 	
+olarak	ifade	ediniz.
+c)		 f 	 fonksiyonunun 	 sıfırını 	 bulup 	 parçalı 	
+gösterimini	yazınız.
+ç)		f	fonksiyonunun	grafiğini	çiziniz.
+O x
+y
+d)		f	fonksiyonunun 	bire 	bir 	olup 	olmadığını	
+bulunuz.
+7.

@@ -1,0 +1,31 @@
+258
+3. Tema/Sürdürülebilirlik
+Ağır Metal Filtrasyondan Önceki Derişim (mg/L) Filtrasyondan Sonraki Derişim (mg/L)
+Cd 0,04 0,0
+Pb 0,25 0,0
+Ni 0,2 0,0
+Kompozit membranlar gözenekli yapıdadır ve bazı ağır metalleri adsorbe etme özelliğine sahiptir . 
+Membran filtrelerle sudan ağır metal temizliği basit ve ucuz bir yöntemdir. Bu yöntemde ön filtre 
+işlemi gerekli değildir ancak geniş ölçekteki işlemlerde ekipman maliyeti yüksektir. Membran filtrelerin 
+kullanımı yüksek miktarda ağır metal içeren örneklerde etkili değildir. İşlem sonunda ağır metal içeren 
+bir atık çamuru oluşur. Su arıtımı için yüksek seçicilik ve verimlilikte bir kompozit membran geliştiren 
+bilim insanının elde ettiği veriler şu şekildedir:
+Çözüm Raporu-2 Membran Filtrelerle Sudan Ağır Metal Temizliği
+Önerme
+Su mercimekleri dünyanın birçok yerinde yetişen su bitkileridir. Su mercimeklerinin üreme kapasitesi 
+oldukça yüksektir. Laboratuvar şartlarında üretilebilen bu bitkinin hasatı da kolaydır. Doğal arazi 
+koşullarında yetiştirilen su mercimeklerinin laboratuvar ortamında ağır metal giderim verimliliği araş-
+tırılmıştır. Elde edilen sonuçlar aşağıdaki gibidir.
+Çözüm Raporu-3 Ağır Metallerin Sudan Su Mercimekleriyle Temizlenmesi
+Önerme
+Derişim (mg/L)
+Zaman (sa.)
+0 20 40 60 80 100 120 140 160 180
+Cd
+Cu
+10
+8
+6
+4
+2
+0

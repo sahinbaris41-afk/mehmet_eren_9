@@ -1,0 +1,41 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+40
+c) Dünya’yı Düzlem Üzerinde Göstermenin Yolları:    
+    Projeksiyon 
+Yöntemleri
+Dünya, üç boyutludur ve küresel bir şekle sahiptir. Haritaların çizildiği yüzeyler 
+ise iki boyutludur. Küre şeklindeki Dünya, düz bir zemine çizilirken şekil ve 
+alan bozulmaları meydana gelir. Haritaların çizilebilmesi için geometri ve ma-
+tematikten yararlanılarak projeksiyon yöntemleri geliştirilmiş, Dünya’nın düz 
+bir zemin üzerine aktarılması amaçlanmıştır. 
+Uluslararası saat dilimleri (Haritadaki renkler, saat dilimlerini birbirinden ayırmak için kullanılmıştır.)
+Türkiye saati ile 12.00’de yarışmanın içeriğine yönelik çevrim içi bilgilendirme toplantısı planlanmıştır. Buna 
+göre tabloda yer alan katılımcıların bulundukları saat dilimlerini ve toplantıya katılım saatlerini (ulusal saatler) 
+yazınız.
+0 +1-1 -2 -3
+0° 15°15° 30°30° 45°45° 60°60° 75°75° 90°90° 105°105° 120°120° 135°135° 150°150° 165° 180°165°
+-4 -5 -6-7-8 -9 -10 -11 +2 +3 +4 +5 +6 +7 +8 +9 +10 +11 -11 +12/ 
+-12
+Aşağıdaki soruyu metin ve haritadan yararlanarak cevaplayınız.
+a
+b
+c
+ç
+ed
+f
+Katılımcıların Bulunduğu Şehir Katılımcıların Toplantıya Katıldığı Saat Dilimi ve Saat
+a) Quebek [Kubek (Kanada)]
+b) Buenos Aires [Boinos Ayres (Arjantin)]
+c) Reykjavik [Reykevik (İzlanda)]
+ç) St. Petersburg [Sen Petersburg  
+    (Rusya Federasyonu)]
+d) İstanbul (Türkiye) +3. saat dilimi ve 12.00
+e) Pekin (Çin Halk Cumhuriyeti)
+f) Tokyo (Japonya)
+Saat Dilimi Hesaplama
+UYGULAMA
+Uluslararası Coğrafya Olimpiyatı (iGeo), dünyanın farklı yerlerinde okuyan lise öğrencilerinin katıldığı ve coğ-
+rafi okuryazarlığı ölçen bir yarışmadır. Yarışma 2026’da İstanbul’da yapılacaktır. 
+Aşağıdaki haritada yarışmaya katılan bazı ülkeler ve katılımcıların bulunduğu şehirler verilmiştir.
+0           2.000        4.000
+km

@@ -1,0 +1,51 @@
+4
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+1. KİMY A DERSİ ÖĞRETİM PROGRAMI
+1.1. KİMY A DERSİ ÖĞRETİM PROGRAMI'NIN TEMEL Y AKLAŞIMI VE ÖZEL AMAÇLARI
+Günümüzde bireyler yerel, ulusal veya küresel anlamda çeşitli ve karmaşık problemlerle karşı karşıya kalmaktadır. Bu 
+problemler arasında yeterli su ve gıdaya erişim, hastalıkların kontrolü, doğal kaynakların kısıtlılığı, iklim değişikliğine 
+adaptasyon gibi konular bulunmaktadır. Karşılaştıkları problemlerin doğasına göre bireylerin sağlıklarını veya gıda 
+kaynaklarını korumaları, doğal kaynakların sürdürülebilirliğini sağlamaları, enerji kaynaklarının seçimi ve kullanımı ile 
+ilgili karar vermeleri, hayatlarını bu kararlar temelinde düzenlemeleri gerekmektedir. Söz konusu problemlerin çözümü 
+genellikle bilimin ve teknolojinin sağladığı bilgi ve araçların kullanılmasıyla mümkün olmaktadır. Bireylerin bu çerçevede 
+kendi hayatlarını ve çevrelerini etkileyen konularda farkındalık geliştirebilmeleri ve bilinçli seçimler yapabilmeleri için 
+gerekli bilimsel, teknolojik bilgi ve beceri donanımına sahip olmaları büyük önem taşımaktadır. Türkiye Yüzyılı Maarif 
+Modeli’ne göre inşa edilen Kimya Dersi Öğretim Programı, öğrencileri geleceğin sorumlu ve farkındalığı yüksek vatandaşları 
+olarak hayata hazırlamak amacıyla bilimsel okuryazarlığı (herkes için bilim) merkeze almaktadır. Bununla birlikte ulusal 
+düzeyde ekonomik büyümenin sağlanabilmesi, katma değeri yüksek bilgi ve teknolojilerin üretilebilmesi geleceğin 
+seçkin bilim insanlarının yetişmesi ile mümkündür. Bu nedenle Kimya Dersi Öğretim Programı , temel bilimlere (bilim 
+için bilim) veya mühendislik (toplum için bilim) alanlarına ilgi duyan öğrencilerin lisans ve lisansüstü eğitim çalışmalarını 
+şekillendirecek biçimde yapılandırılmıştır. Bu bağlamda Kimya Dersi Öğretim Programı’nda öğrencilerin kavramsal kimya 
+bilgisi edinmeleri ve fen bilimleri alan becerilerini geliştirmeleri amaçlanmaktadır. 
+Bilimsel okuryazarlık, günlük hayattaki olayların ve olguların kimya kavramlarıyla anlamlandırılması ve açıklanması 
+sürecinde bilimsel becerilerin etkin bir şekilde kullanılmasını gerektiren bir yetkinlik olarak tanımlanmaktadır. 
+Türkiye Yüzyılı Maarif Modeli’nde okuryazarlık becerileri, sistem düşüncesi ile şekillendirilmiş olup programlar arası 
+bileşen olarak ifade edilmektedir. Bilimsel okuryazar bireylerin doğal olayları bilimsel olarak açıklayabilme, bilimsel 
+araştırma süreçlerini yürütebilme ve değerlendirebilme, elde edilen kanıtları analiz edebilme, yorumlayabilme 
+ve bunların sonuçlarını farklı gösterim biçimleri ile temsil edebilme yetkinliğine sahip olmaları beklenmektedir. 
+Öğrencilerin bu yetkinlikleri geliştirebilmeleri amacıyla Kimya Dersi Öğretim Programı , öğrenme-öğretme 
+yaşantılarında doğal olayları veya günlük hayattan alınan örnek durumları bağlam olarak merkeze almaktadır. 
+Kimya Dersi Öğretim Programı ’nda öğrencilerin fen bilimleri alan becerilerini, kavramsal becerileri, sosyal-duygusal 
+öğrenme becerilerini ve okuryazarlık becerilerini geliştirmeleri ve bu becerileri kullanarak kimya kavramlarını 
+yapılandırmaları hedeflenmektedir. Kimya kavramlarının yapılandırılması sürecinde eğilimlerin ve değerlerin de 
+kullanılması amaçlanmaktadır. Kimya Dersi Öğretim Programı ’nın 9 ve 10. sınıf düzeylerinde öğrencilerin kimyanın 
+temel kavramlarını, 11 ve 12. sınıf düzeylerinde ileri seviye kimya kavramlarını edinmeleri hedeflenmektedir. 
+Türkiye Yüzyılı Maarif Modeli’ne göre öğrenme-öğretme yaşantıları oluşturulurken günlük hayat bağlamından kopmadan 
+ve disiplinler arası ilişkileri ortaya koyacak şekilde sürecin tasarlanmasına önem verilmektedir. Bunun temelinde fen 
+eğitimi araştırmalarının ortaya koyduğu sonuçlar yatmaktadır. Fen eğitimi araştırmaları, öğrencilerin fen bilimleri konu 
+ve kavramlarını kendileri için yararlı ve günlük hayatlarıyla ilişkili olarak algıladıklarında öğrenme isteklerinin yüksek 
+olduğunu göstermektedir. Bu bağlamda öğrencilerin fen bilimlerini öğrenmeye karşı ilgi ve merakını uyandırmak ve 
+motivasyonlarını sürdürebilmelerini sağlamak için Kimya Dersi Öğretim Programı’nda kimya kavramlarının günlük hayatla 
+ve farklı disiplinlerle ilişkilerinin kurulmasına özen gösterilmiştir. 
+Kimya Dersi Öğretim Programı’nda her sınıf düzeyinde sürdürülebilirlik temasına yer verilmiştir. Sürdürülebilir kalkınmanın 
+hedefleri kimya konuları ile ilişkilendirilerek işlenmiştir. Sürdürülebilir kalkınmanın iklim eylemi, sağlıklı ve kaliteli yaşam, 
+erişilebilir ve temiz enerji, sorumlu üretim ve tüketim hedefleri çerçevesinde disiplinler arası ilişkilendirmeleri gerektiren 
+nanoparçacıklar, nanoteknolojik ürünler, güneş pilleri, yeşil hidrojen enerjisi, biyouyumlu malzemeler, biyolojik polimerler, 
+yeşil kimya vb. güncel araştırma konularına yer verilmiştir. Öğrencilerin yeşil kimya farkındalığı geliştirebilmeleri amacıyla 
+Kimya Dersi Öğretim Programı ’nda yeşil kimya ile doğal kaynakların verimli kullanımı, atık önleme, yenilenebilir ham 
+maddelerin kullanımı, atom ekonomisi, enerji verimliliği için tasarım ve daha güvenli kimyasal maddelerin sentezlenmesi 
+konularına vurgu yapılmıştır. Kimya Dersi Öğretim Programı’nda çevresel ve ekolojik sürdürülebilirlik temelinde kimyasal, 
+emisyon, karbon, su ve ekolojik ayak izi kavramlarına da yer verilmiştir. Bu bağlamda Kimya Dersi Öğretim Programı’nda 
+mikro ölçekli deneyler ve mümkün olduğu sürece toksik olmayan deneyler tercih edilmiştir.   
+Kimya Dersi Öğretim Programı’nda herkes için bilim, bilim için bilim ve toplum için bilim hedefleri ışığında dört ayrı boyuta 
+vurgu yapılmıştır. Bu bağlamda öğrencilerin günlük hayattaki doğal veya yapay nesne ve olayları anlamaları, analitik 

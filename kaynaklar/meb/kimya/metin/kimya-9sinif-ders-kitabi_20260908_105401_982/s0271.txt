@@ -1,0 +1,162 @@
+271
+4. FORM
+ETKİNLİK KÂĞIDI ÇALIŞMASI ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+Önerme 
+oluşturabilme
+ (25 puan)
+Metal ve ametal 
+elementleri arasında 
+kimyasal tepkime 
+gerçekleşeceğini 
+belirlemiştir. 
+(1-6 puan)
+Metal ve ametal 
+elementleri arasın-
+da gerçekleşen tep-
+kimede atomlardan 
+katyon ve anyon 
+oluşum sürecini 
+belirlemiştir. 
+(7-12 puan)
+Metal ve ametaller-
+den oluşan katyon-
+lar ve anyonlar ara-
+sındaki elektrostatik 
+etkileşim sürecine 
+ilişkin gözlem te-
+melinde önermeler 
+oluşturmuştur.
+(13-18 puan)
+İyonlaşma enerjisi 
+düşük metallerden 
+oluşan metal kat-
+yonları ile elektro-
+negatifliği yüksek 
+ametallerden 
+oluşan anyonlar 
+arasındaki elektro- 
+statik etkileşimlere 
+ilişkin önermeler 
+oluşturmuştur.
+(19-25 puan)
+Gözleme 
+dayalı olan 
+ve olmayan 
+önermeleri 
+belirleyebilme
+(25 puan)
+Oluşturduğu 
+önermeleri gözle-
+me dayalı olan ve 
+olmayan şeklinde 
+sınıflandıramamıştır.
+ (1-6 puan)
+Gözleme dayalı 
+önermeleri kısmen 
+belirleyebilmiş, 
+gözleme dayalı 
+olmayan önermeleri 
+belirleyememiştir.
+(7-12 puan)
+Gözleme dayalı 
+önermeleri belirle-
+yebilmiş, gözleme 
+dayalı olmayan 
+önermeleri kısmen 
+belirleyememiştir.
+(13-18 puan)
+Gözleme dayalı 
+olan ve olmayan 
+önermeleri belirle-
+yebilmiştir.
+(19-25 puan)
+Açıklama 
+yapabilme
+(25 puan)
+Gözlemlerinden 
+elde ettiği kanıtlara 
+dayanarak iyonik 
+bağ oluşumunu 
+tanecik seviyesinde 
+açıklayamamıştır. 
+(1-6 puan)
+Gözlemlerinden 
+elde ettiği kanıtlara 
+dayanarak iyonik 
+bağ oluşumunu 
+tanecik seviyesinde 
+kısmen açıklaya-
+bilmiş, gözlemleye-
+mediği durumları 
+açıklayamamıştır.
+(7-12 puan)
+Gözlemlerinden 
+elde ettiği kanıtlara 
+dayanarak iyonik 
+bağ oluşumunu 
+tanecik seviyesinde 
+açıklayabilmiş fakat 
+gözlemleyemediği 
+durumları açıklaya-
+mamıştır. 
+(13-18 puan)
+Gözlemlerinden 
+elde ettiği kanıtlara 
+dayanarak iyonik 
+bağ oluşumunu 
+tanecik seviyesinde 
+açıklayabilmiş ve 
+gözlemleyemediği 
+durumlara ait iyonik 
+bağ oluşumunu 
+açıklayabilmiştir.
+ (19-25 puan)
+Gözlemleme-
+diği duru-
+ma ilişkin 
+tahminde 
+bulunabilme 
+(25 puan)
+Katyon ve anyonlar 
+arasında gerçekle-
+şen olayları içeren 
+modelde elektro- 
+statik etkileşimlerin 
+gösteriminde hatalar 
+yapmıştır.
+ (1-6 puan)
+Katyon ve anyonlar 
+arasında gerçekle-
+şen olayları içeren 
+modelde elektros-
+tatik etkileşimleri 
+doğru gösterebilmiş 
+ancak farklı iyonlar 
+arasında oluşan 
+elektrostatik etkile-
+şimleri modelleye-
+memiştir.
+ (7-12 puan)
+Katyon ve anyonlar 
+arasında gerçekle-
+şen olayları doğru 
+bir şekilde modelle-
+miş fakat estetik bir 
+çizim yapamamıştır.
+(13-18 puan)
+Katyon ve anyonlar 
+arasında gerçekle-
+şen olayları doğru 
+bir şekilde model-
+lemiş ve bilimsel 
+olarak kabul edile-
+bilir estetik bir çizim 
+yapabilmiştir.
+ (19-25 puan)
+Tablo Puanı
+Öğretmen Geri Bildirimi:
+Bu form, öğrencilere “İyonik Bağın Oluşum Sürecini Gözleme Dayalı Tahmin Edebilme” konusuyla ilgili 
+verilen etkinlik kâğıdını değerlendirmeniz amacıyla hazırlanmıştır.  Öğrencinin belirtilen ölçütlere ilişkin 
+öğrenme düzeyini tablodaki açıklamalardan hareketle puanlayınız.
+Öğrencinin Adı Soyadı:        Numarası:   Sınıfı:

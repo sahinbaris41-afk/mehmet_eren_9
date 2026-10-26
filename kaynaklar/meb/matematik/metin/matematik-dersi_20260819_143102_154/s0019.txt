@@ -1,0 +1,48 @@
+19
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+becerileri ve çıkarım yapma, sınıflandırma, yapılandırma, çözümleme bütünleşik becerileri odağında tasarlanmıştır. 
+Bu beceriler aynı zamanda matematiksel temsil, matematiksel araç ve teknoloji ile çalışma alan becerileri ile de 
+ilişkilendirilmiştir. 
+9. sınıfta yer alan Eşlik ve Benzerlik temasında geometrik dönüşümlere, üçgenlerde eşlik ve benzerlik için gerekli olan 
+asgari koşullara, benzerlik oranına, bir üçgenden hareketle ona benzer üçgenler oluşturmaya, Tales, Öklid ve Pisagor 
+teoremlerini ispatlamaya ve bu teoremleri problem durumlarında kullanmaya yönelik içerikler yer almaktadır. Ortaokul 
+seviyesinde öteleme ve yansıma dönüşümleri mevcutken bu sınıf seviyesinde dönme dönüşümüne yer verilmiştir. 
+Ayrıca dönüşümlerle eşlik kavramı arasında ilişkilendirmeler yapılmıştır. Bununla birlikte bu temada birçok geometrik 
+doğrulama ve ispat, benzerlik fikri kapsamında ele alınmıştır. Geometrik Şekiller temasına benzer şekilde matematiksel 
+muhakeme ve matematiksel problem çözme odağında hazırlanan Eşlik ve Benzerlik teması, yine diğer alan becerileri ve 
+farklı kavramsal becerilerle ilişkili biçimde ele alınmıştır.  
+10. sınıfta yer alan Analitik İnceleme  teması, cebir ve geometri ile ilgili önceki çalışmaların bir ortak noktası olarak 
+tasarlanmıştır. Bu temada öğrencilerin ortaokul seviyesinde öğrendikleri dik koordinat sisteminde nokta belirleme ve 
+doğrusal fonksiyon grafiği çizme bilgilerinin üzerine dik koordinat sistemini tanıyıp dik koordinat sisteminde  uzaklık ve 
+doğruların birbirine göre konumlarını doğrusal fonksiyonlar konusunda edindikleri bilgilerle ilişkilendirilerek incelemeleri 
+beklenmektedir.  Bu anlamda tema,  matematiksel temsil becerisi odağında hazırlanmış; matematiksel problem çözme, 
+matematiksel araç ve teknoloji ile çalışma becerileriyle ilişkilendirilmiştir. 
+12. sınıf Geometrik Cisimler temasında dikdörtgenler prizması ve dik dairesel silindirin özellikleri, yüzey alanı ve hacim 
+bağıntılarından yararlanılarak dik piramit, dik dairesel koni ve kürenin özellikleri ile yüzey alanı ve hacim bağıntılarının 
+elde edilmesine yer verilmiştir. 
+1.5.2.3. “İstatistiksel Araştırma Süreci”, “Veriden Olasılığa”, “Hazır Veriler Üzerinde Çalışma” Temaları
+Ortaöğretim Matematik Dersi Öğretim Programı ’nın tüm seviyelerinde istatistiksel araştırma süreci bütüncül bir yapıda 
+ele alınmıştır. Tüm sınıf seviyelerinde istatistiksel araştırma sürecinin adımlarına (istatistiksel problemi belirleme, 
+verileri toplama ve analize hazırlama, bulgulara ulaşma, bulguları yorumlama) yer verilmiştir.
+Ortaokul seviyesinde betimsel ve karşılaştırma gerektiren araştırma sorularına odaklanılmıştır. Ortaöğretim düzeyinde 
+ise öğrencilerin betimsel ve karşılaştırma gerektiren araştırma sorularının yanı sıra iki değişken arasındaki ilişkililiği 
+incelemeye yönelik araştırma soruları ile de çalışmalar yapmaları hedeflenmiştir. Benzer şekilde ortaokulda kendi 
+topladığı veya öğretmenin sunduğu veri setleri üzerinden istatistiksel araştırma sürecini yönetirken bu programda 
+buna ek olarak hazır veri setlerini eleştirel gözle değerlendirmeleri istenmiştir. Ayrıca farklı temsil biçimleri ile verileri 
+analiz ederek elde edilen bulgular üzerinden veriler arası ve veriler ötesi yorumlamalara yer verilmiştir. Bunun yanı sıra 
+öğrencilerin verilere dayalı çıkarım yapmaları beklenmektedir. İstatistiksel Araştırma Süreci temasına 9, 10 ve 11. sınıflarda 
+yer verilmiştir. 9. sınıfta bu tema kapsamında tek nicel değişkenli veri dağılımlarına, 10. sınıfta iki kategorik değişkenli 
+veri dağılımlarına, 11. sınıfta iki nicel değişkenli veri dağılımlarına yer verilmiştir. Bu dağılımlarda evren, örneklem, 
+değişebilirlik, ilişkililik, histogram, standart sapma ve bu araçları inceleme, sonuç çıkarma, tahminde bulunma, iki yönlü 
+tablo, sütun grafikleri, koşullu göreli sıklıklar, tablo, serpme diyagramı (saçılım grafiği), bölgelere göre sayım oranı, 
+korelasyon katsayısı ele alınmıştır. Ayrıca öğrencilerin başkaları tarafından oluşturulan istatistiksel görsel, özet, sonuç, 
+yorum, çıkarım ve tahminleri eleştirel bir bakış açısıyla tartışabilme becerisinin gelişimine de önem verilmiştir. 12. sınıfta 
+ise öğrencilerin 9, 10 ve 11. sınıfta öğrendikleri bilgilerden hareketle toplumsal ve bilimsel durumlara ilişkin hazır veri ile 
+çalışabilmeleri ve hazır veriye dayalı karar verebilmeleri için istatistiksel araştırma tasarımları yapmaları istenmektedir. 
+Veriden Olasılığa temasında 9. sınıfta iki veya daha fazla olaylı deneyler üzerinde durulmuş ve olay, deney, çıktı, örnek 
+uzay, deneysel olasılık, teorik olasılık konularına; 10. sınıfta ise bağımlı olay, bağımsız olay, koşullu olasılık ve Bayes (Beyz) 
+teoremine yer verilmiştir. 
+Veriden Olasılığa teması hariç tüm temalarda matematiksel alan becerilerinden veri ile çalışma ve veriye dayalı karar 
+verme becerisine yer verilmiştir. Veriden Olasılığa temasında ise özel olarak bir alan becerisine yer verilmemiş; gözleme 
+dayalı tahmin etme, tümevarımsal akıl yürütme, çıkarım yapma ve mevcut bilgiye/veriye dayalı tahmin etme bütünleşik 
+becerilerine yer verilmiştir. Tüm temalarda diğer alan becerileri ile bütünleşik beceriler ilişkilendirilmiştir. 

@@ -1,0 +1,47 @@
+125
+5. Tema/Algoritma ve Bilişim  
+Kontrol Noktası
+ ● Aynı ebatlara sahip n tane bozuk para içinden kütlesi farklı olan 1 tanesinin diğerlerine göre hafif ya da ağır 
+olması, tartım sayısını ve tartım sayısına bağlı olarak algoritmanın işleyişini etkilemektedir.
+ ● Bir çizgede tüm düğümler çift sayıda ayrıta sahipse yolu başladığınız nok taya dönecek şekilde tamamlaya-
+bilirsiniz.
+ ● Königsberg şehrinde her köprüden yalnızca bir kez geçmek şartıyla başlangıç noktasına dönmek mümkün 
+değildir.
+Bu	görevde	sizden	belirli	sıralama	ve	arama	algoritmalarını	analiz	etmeniz,	bu	algoritmalar	için	akış	
+şemaları	oluşturmanız,	seçtiğiniz	algoritmanın	işleyişini	sözde	kod	ve	akış	şemasıyla	ifade	etmeniz,	
+çalışmanızı	sınıf	arkadaşlarınıza	sunmanız	beklenmektedir.
+Göreve başlamadan önce aşağıdaki hususlara dikkat ediniz.
+•		 Seçeceğiniz	algoritmanın	işleyişini	algoritmik	doğal	dille	ifade	ediniz.
+•		 Akış	şemasını	çizmek	için	hangi	araçları	kullanabileceğinizi	belirleyiniz.
+Görev esnasında aşağıdaki hususlara dikkat ediniz.
+•  
+Algoritma Türü Sıralama Arama
+Örnek	
+Algoritmalar
+Analiz	Ölçütleri
+	 Çalışmanız 	içi n	bi r	sıral ama	veya	ara ma	al goritması	
+seçiniz.	Seçiminizi	algoritmanın	kullanım	senaryosu,	
+verimliliği	ve	karmaşıklığına	göre	yaparak	tabloyu	
+doldurunuz.	Örneğin	büyük	veri	kümeleri	için	Quick	
+Sort	(Kuik	Sort),	küçük	veri	kümeleri	için	ise	Bubble	
+Sort	(Babıl	Sort)	tercih	edebilirsiniz.	
+•		 Seçtiğiniz	algoritmanın	işleyişini	sözde	kodla	ifade	ediniz.	Sözde	kodunuzun	açık	ve	anlaşılır	
+olmasına	özen	gösteriniz.	
+•		 Algoritmanın	her	bir	adımını	gösteren	detaylı	bir	akış	şeması	çiziniz.	Şemada	karar	noktaları,	
+döngüler	ve	temel	işlemler	belirgin	şekilde	gösterilmelidir.	Akış	şemasını	çizmek	için	çevrim	içi	
+araçlar	veya	yazılımlar	kullanabilirsiniz.
+•		 Yazdığınız	akış	şeması	ve	sözde	kodun	doğru	çalıştığını	kontrol	etmek	için	çeşitli	test	senaryo-
+ları	oluşturunuz	ve	uygulayını z.	Algoritmanı n	beklenen	çıkt ıları	verip	vermediğini	gözlemleyiniz.
+•		 Çalışmanızın	her	bölümünü	açıklayan	ve	algoritmanın	nasıl	çalıştığını	özetleyen	kapsamlı	bir	
+rapor	hazırlayınız.	Raporda	akış	şeması	ve	sözde	kodla	birlikte	algoritmanın	nasıl	çalıştığını	ve	
+neden	bu	şekilde	tasarlandığını	açıklayınız.
+•		 Görevin	sonunda	elde	ettiğiniz	bulguları,	akış	şemasını	ve	sözde	kod	örneklerini	içeren	bir	
+sunum	hazırlayınız.	Sunumunuzda	algoritmanın	temel	prensiplerini,	uygulama	sürecini	ve	analiz	
+sonuçlarını	net	ve	anlaşılır	bir	şekilde	aktarınız.
+Görev bitiminde aşağıdaki hususa dikkat ediniz.
+•	Akış	şemasını,	sözde	kod	örneklerini,	analiz	sonuçlarınızı	arkadaşlarınızla	paylaşınız.
+Performans	göreviniz,	aşağıdaki	karekodda	verilen	analitik	dereceli	puanlama	anahtarı	ile	öğretmeni-
+niz	tarafından	değerlendirilecektir.
+Analitik dereceli puanlama anahtarına 
+ulaşmak için karekodu okutunuz.
+Performans Görevi

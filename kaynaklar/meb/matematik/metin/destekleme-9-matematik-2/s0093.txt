@@ -1,0 +1,20 @@
+92
+MATEMATİK 9 
+5. TEMA: ALGORİTMA VE BİLİŞİM
+Platformlar Çözüm Algoritmasının Semboller ile Gösterimi
+a
+b
+c
+Başlangıç
+Başlangıç
+Başlangıç
+Bitiş
+Bitiş
+Bitiş
+1. Adım
+Grup arkadaşınızla çözüm algoritmasının semboller ile gösterimini uygun komut işaretleri ile doldu-
+runuz.
+Bu etkinlikte yer alan oyunda küçük bir robotu platformlar üzerinde çeşitli komutlar ile hareket et -
+tirerek belirli bir hedefe ulaştırmanız gereken çalışmalar yapılacaktır. Dağıtılan bilgi kartını ve örnek 
+uygulamayı inceleyiniz. Adımları sırasıyla uygulayınız.
+Etkinlik Aşaması

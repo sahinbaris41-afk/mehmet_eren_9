@@ -1,0 +1,36 @@
+13
+1. Tema /  Sayılar
+Konuya Başlarken
+Aşağıda gerçek yaşam durumlarında karşılaşılan bazı sayı gösterimlerine yer verilmiştir.
+Buna göre aşağıdaki sorularla ilgili fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+1.  Ü slü veya köklü gösterimlerin yararları neler olabilir?
+2.  Ç eşitli bilim dallarında kullanılan üslü ve köklü gösterimler neler olabilir? Örnekler 
+veriniz.
+3.  1 00 metrelik bir koşu yarışında sporcuların yarışı bitirme dereceleri belirlenirken neden 
+ondalık gösterime ihtiyaç duyulmaktadır?    
+G
+erçek sayıların üslü ve köklü gösterimleri, matematikte ve gerçek yaşamda birçok alanda kul -
+lanılmaktadır. Üslü ve köklü gösterimler fizik, kimya, biyoloji, astronomi, mühendislik, ekonomi, 
+bilgisayar bilimleri gibi alanlarda kullanılarak karmaşık problemlerin çözümü daha etkin şekilde 
+yapılmaktadır.
+Gerçek Sayıların Üslü Gösterimi
+Aşağıda gerçek yaşamda karşılaşılan çok büyük veya çok küçük sayı örnekleri verilmiştir.
+• Işık hızının yaklaşık değeri, saatte 1 080 000 000 kmʼdir.
+• İnsan vücudundaki atom sayısının yaklaşık değeri, 28 basamaklı 7000...0 sayısı ile ifade edilebilir. 
+• Arşimet, tüm evreni doldurmak için gereken kum tanesi sayısını ifade etmek için 64 basamaklı 
+800…0 sayısını kullanmıştır. 
+• Evrendeki yıldızların sayısının yaklaşık değeri, 23 basamaklı 10…0 sayısı ile ifade edilebilir. 
+• Bir hidrojen atomunun çekirdeğinin çapı  0,00000000000000175 metredir .
+Verilen örneklerdeki sayıların yazılması ve okunması oldukça zordur. Üslü gösterim çok büyük veya çok 
+küçük sayıların yazımında ve bu sayılarla yapılan işlemlerde kolaylık sağlamaktadır. 
+ 1.1. GERÇEK SAYILARIN ÜSLÜ VE KÖKLÜ 
+GÖSTERİMLERİ İLE YAPILAN İŞLEMLER
+• 1 gram alüminyumun sıcaklığının 1 ℃ artması için alü minyuma 0,21 kal ısı veril -
+melidir.
+• İnsan beynindeki nöron sayısı, yaklaşık olarak 8,6.1010 tanedir.
+• Birbirlerine en yakın konumdayken Uranüs ile Dünya arasındaki uzaklık yaklaşık  
+2,57.109 km’dir.
+• Nötron, atom çekirdeğinde bulunan ve kütlesi yaklaşık 1,675.10-24 gram olan taneciktir.
+• Yüzey alanı 21 m2 olan kare şeklindeki bir halının bir kenarının uzunluğu 21  m’dir .
+• Atletizm 100 m koşusunda dünya rekoru 9,58 sn. olup Usain Bolt (Yuseyn Bolt) 
+tarafından kırılmıştır.

@@ -1,0 +1,33 @@
+25
+FİZİK BİLİMİ VE KARİYER KEŞFİ
+Elektromanyetizma 
+Mekanik 
+Katı hâl fiziği
+Termodinamik 
+Yüksek enerji ve plazma fiziği
+Değerlendirme 
+Aşağıdaki tabloda fizik biliminin alt dallarında kullanılan bazı terimler verilmiştir. 
+Terimlerin başındaki harfleri alt dalların başındaki yay ayracın içine yazarak terimler ile fizik biliminin alt 
+dallarını uygun şekilde eşleştiriniz. Fizik biliminin alt dallarının yanındaki sütuna bu dallar ile ilgili terimler-
+den birer örnek yazınız.
+Terim Fizik Biliminin Alt Dalı Örnek
+a) Radyasyon (...) Termodinamik 
+b) Isı iletimi (...) Elektromanyetizma 
+c) Kutup ışıkları (...) Atom fiziği 
+ç) Hareket (...) Nükleer fizik 
+d) Atomdaki elektron dizilimi (...) Katı hâl fiziği 
+e) Kristal yapı ( g ) Optik Dürbün
+f) Mıknatıs (...) Yüksek enerji ve plazma fiziği 
+g) Işık (...) Mekanik
+ğ) Hücre
+1. Mekanik
+Mekanik; kuvvet, hareket ve enerji 
+arasındaki ilişkiler ile cisimlerin hareket 
+ve denge şartlarını inceler. Mekanikte 
+kullanılan ilkeler aracılığı ile yıldız ve 
+gezegenlerin hareketi, sesin oluşumu, 
+yanardağ patlamaları gibi olaylar açık-
+lanabilir. Bisiklet (Görsel 1.1), kaykay, 
+rüzgârgülü, insansız hava araçları, robot 
+ve çeşitli makineler mekanik alt dalından 
+yararlanılarak üretilir. Görsel 1.1: Zincir ve çark sistemi bulunan bisiklet

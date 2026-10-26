@@ -1,0 +1,41 @@
+223
+7. Tema / Veriden Olasılığa
+Deneysel Olasılıktan Teorik Olasılığa
+6. Sıra Sizde      
+1
+2
+3
+1
+1 2
+2
+3
+Yanda kendi içinde eş bölmelere ayrılmış çarklardan birinin bölmele-
+rine  1, 1, 2, 2, 3; diğerinin bölmelerine ise 1, 2, 3 sayıları yazılmıştır. 
+Bu çarklardaki oklar aynı anda çevrilecektir. 
+Buna göre okların gösterdiği sayıların çarpımının 3 veya 4 ile 
+tam bölünebilme olayının olasılık değerini bulunuz.
+7. Uygulama
+Deneysel ve Teorik Olasılık Değerlerinin Karşılaştırılması 
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız.
+Bu uygulamada havaya atılan hilesiz üç madenî paranın üst yüzlerine  
+2 yazı, 1 tura gelme olayı incelenecektir. Bu incelemede hilesiz madenî pa-
+ralar ya da paraların havaya atış simülasyonu kullanılmaktadır. Buna göre
+1. Verilen olayın teorik olasılık değerini incelemek için ağaç şemasını doldurunuz ve istenen çıktıları belirtiniz.
+    
+ 
+2. Deneye ait tekrar sayısı arttıkça deneysel olasılık değeri ile teorik olasılık değeri arasındaki farkın yaklaştığı 
+değerin kaç olmasını beklersiniz?
+ 
+3. Verilen olayın deneyine ait 50 tekrar sonucu oluşan çıktılara göre tabloyu doldurunuz.
+ 
+Sıklık Göreli Sıklık (Deneysel Olasılık Değeri) Teorik  Olasılık Değeri Deneysel ve Teorik  Olasılık Değerlerinin Farkı
+YAZI
+TURA
+YAZI
+TURA
+Uygulama ile 
+ilgili simülasyona 
+ulaşmak için 
+karekodu okutunuz.
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

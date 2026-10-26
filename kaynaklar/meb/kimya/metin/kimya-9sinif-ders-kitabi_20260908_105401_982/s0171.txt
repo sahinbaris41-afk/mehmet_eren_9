@@ -1,0 +1,72 @@
+171
+2. Tema/Çeşitlilik
+3. Yönerge: Aşağıdaki şekillerden faydalanarak soruları cevaplayınız.
+1. Şekil 1’de kapalı kaptaki suyun denge buhar basıncını etkileyen faktör nedir? Cevabınızı neden-sonuç iliş-
+kisi bağlamında açıklayınız.
+2. Şekil 2’de kapalı kaptaki benzenin denge buhar basıncını etkileyen faktör nedir? Cevabınızı neden-sonuç 
+ilişkisi bağlamında açıklayınız.
+3. Aynı sıcaklık ve basınçta suyun mu yoksa benzenin mi buhar basıncı fazladır? Sizce bu durumun nedeni 
+nedir?  
+4. Sıvıların buhar basıncını etkileyen faktörleri moleküller arası etkileşimler temelinde açıklayınız. Açıklama-
+larınızı etkili iletişim becerilerini kullanarak sınıf arkadaşlarınızla paylaşınız.
+H
+C
+C
+C
+C
+C
+C
+HH
+H H
+H
+OH H
+OH H
+H
+C
+C
+C
+C
+C
+C
+HH
+H H
+H
+Vb > Vy Vb = Vy
+25 °C, 1 atm 25 °C, 1 atm 40 °C, 1 atm
+H bağı 
+Pbuhar = 23,8 mmHg Pbuhar = 55,3 mmHg
+Polar yapılı su molekülü
+Vb = Vy Vb = Buharlaşma hızı 
+Vy = Yoğuşma hızı
+H
+C
+C
+C
+C
+C
+C
+HH
+H H
+H
+OH H
+OH H
+H
+C
+C
+C
+C
+C
+C
+HH
+H H
+H
+Vb > Vy
+25 °C, 1 atm 25 °C, 1 atm
+London kuvveti
+40 °C, 1 atm
+Pbuhar = 95,3 mmHg
+Apolar yapılı  
+benzen molekülüPbuhar = 183 mmHg
+Vb = Vy Vb = Vy Vb = Buharlaşma hızı Vy = Yoğuşma hızı
+Şekil 1
+Şekil 2

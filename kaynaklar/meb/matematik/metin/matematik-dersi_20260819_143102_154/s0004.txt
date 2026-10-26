@@ -1,0 +1,50 @@
+4
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+1. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+1.1. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI’NIN TEMEL Y AKLAŞIMI VE ÖZEL 
+       AMAÇLARI
+Türkiye Yüzyılı Maarif Modeli; bireyin bütüncül gelişimini amaçlayan, köklü bir geçmişe sahip Türk millî eğitim sisteminin 
+dijital çağa ve teknolojik gelişmelere duyarlılığını, yeri geldiğinde bu gelişmelere öncülük edebilme istek ve potansiyelini 
+yansıtan bir anlayışla geliştirilmiştir. Ortaöğretim Matematik Dersi Öğretim Programı’nda, öğretim programlarının temel 
+ögeleri, Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni'nin benimsediği ilke ve yaklaşımlarla bu modelin 
+bileşenlerine göre şekillendirilmiştir. 
+Türkiye Yüzyılı Maarif Modeli’nin becerilerle ilgili bileşenleri; kavramsal beceriler (temel beceriler, bütünleşik beceriler ve 
+üst düzey düşünme becerileri), sosyal-duygusal öğrenme becerileri (benlik becerileri, ortak/bileşik beceriler, sosyal yaşam 
+becerileri), eğilimler, okuryazarlık becerileri ve alan becerilerinden oluşmaktadır. Ortaöğretim Matematik Dersi Öğretim 
+Programı, bilgi edinim sürecine ek olarak bireylerin çağın gerektirdiği becerilerle donatılmasını hedeflemektedir. Program, 
+matematik öğrenme süreçlerini destekleyen ve bu süreçlerle gelişen kavramsal beceriler ve matematik alan becerileri 
+odağa alınarak hazırlanmıştır. Aynı zamanda bu becerilerin eğilimler, sosyal-duygusal öğrenme becerileri ve okuryazarlık 
+becerileri ile etkileşim içinde gelişimi hedeflenmiştir. Öte yandan Türkiye Yüzyılı Maarif Modeli’nin bütüncül eğitim anlayışına 
+uygun biçimde Ortaöğretim Matematik Dersi Öğretim Programı ile birey, çevre ve topluma ilişkin değerlerin Erdem-Değer-
+Eylem Çerçevesi doğrultusunda desteklenmesi; matematik öğrenme-öğretme sürecinin bu değerlerle zenginleştirilerek 
+bireye, topluma ve çevreye duyarlı bir niteliğe ulaşması hedeflenmektedir.
+Ortaöğretim Matematik Dersi Öğretim Programı; benimsenen model ve yaklaşım çerçevesinde matematik öğrenme ve 
+öğretme sürecini ilgi çekici, etkileşimli hâle getirerek öğrencilerin öğrenmeye olan ilgilerini artırmayı; birey ve toplumun 
+ihtiyaçlarını karşılamayı ve matematiği günlük hayat deneyimlerinin bir parçası hâline getirmeyi hedeflemektedir. Ayrıca 
+programda bireylerin eleştirel düşünme, problem çözme ve karar verme gibi üst düzey becerilerinin gelişimine de önem 
+verilmektedir. Bu doğrultuda üretken, yenilikçi ve rekabet gücü yüksek bireylerin yetiştirilmesinde; ülkemizin gelişmişlik 
+ve kalkınma hedeflerine ulaşılmasında matematik öğrenme ve öğretme sürecinden beklenen nitelik de göz önünde 
+bulundurulmuştur. 
+Ortaöğretim Matematik Dersi Öğretim Programı; matematiksel düşünmenin sistematik, rasyonel, analitik, tutarlı ve ilişkisel 
+yapısı göz önünde bulundurularak hazırlanmıştır. Öğrencilerin daha çok bilgi edinimi yerine matematiksel bilgiye ulaşmayı 
+sağlayan becerilere sahip olmalarını, edindikleri bilgiler arasındaki ilişkileri sorgulayarak eski bilgileri ile yeni bilgilerini 
+bir bütün olarak yapılandırabilmelerini ön planda tutan programda sadece işlemsel bilgiyi ve performansı destekleyen 
+içerikler mümkün olduğunca sınırlı tutulmuştur. Öğrencilerin dil ve sembolizmi etkin kullanarak problem çözmesi, 
+varsayım, genelleme, doğrulama gibi matematiksel düşünmenin önemli bileşenlerine programın bütüncül yaklaşımı ile 
+uyumlu bir şekilde yer verilmiştir. Bunun yanı sıra programda öğrencilerin bireysel ve grup içi sorumluluk alması teşvik 
+edilerek öğrenmeye ilişkin eğilimlerinin ve sosyal-duygusal öğrenme becerilerinin geliştirilmesi hedeflenmiştir. İçerik, bu 
+hedefler bağlamında hem disiplinler arası hem de beceriler arası ilişkiler kurularak mümkün olduğunca gerçek yaşam 
+gereksinimleri çerçevesinde yapılandırılmıştır. Öğrenme-öğretme uygulamalarında öğrenme kanıtlarını belirlemek için 
+ölçme ve değerlendirme araçlarının sadece sonuç odaklı değil süreç odaklı olarak da kullanıldığı bir program yaklaşımı 
+benimsenmiştir. 
+1739 sayılı Millî Eğitim Temel Kanunu ’nun 2. maddesinde ifade edilen Türk Millî Eğitiminin Genel Amaçları ile Türk Millî 
+Eğitiminin Temel İlkeleri esas alınarak hazırlanan Ortaöğretim Matematik Dersi Öğretim Programı’yla öğrencilerin
+• Matematik alan becerileri olan matematiksel muhakeme, matematiksel problem çözme, matematiksel temsil, veri ile 
+çalışma ve veriye dayalı karar verme, matematiksel araç ve teknoloji ile çalışma becerilerini etkin bir şekilde kullanmaları,
+• Kavramsal, sosyal-duygusal öğrenme ve okuryazarlık becerilerini matematik alan becerileri ile bütüncül bir şekilde 
+matematik öğrenmenin hem sürecine hem de sonuçlarına yansıtmaları,
+• Edindiği becerileri kullanarak matematiksel bilgiye ulaşmaları, aynı zamanda bilgilerini beceriye dönüştürmeleri,
+• Matematik öğrenme ile ilgili eğilimlerinin farkında olmaları ve matematik öğrenme sürecinde eğilimlerini geliştirmeleri,
+• Edindiği değerleri matematik öğrenme sürecine yansıtmaları, matematik öğrenirken değerlerini geliştirmeleri,
+• Edindiği matematiksel bilgi, beceri, eğilim ve değerleri her türlü öğrenme sürecine, diğer derslere ve yaşamlarına 
+yansıtmaları amaçlanmaktadır.

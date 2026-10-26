@@ -1,0 +1,43 @@
+124
+2. Tema/Çeşitlilik
+Konuya Başlarken
+Görselde böcek ilacı parationun kimyasal yapısı gösterilmiştir. Paration; buğ-
+day , pamuk gibi pek çok üründeki zararlıları kontrol etmek için kullanılan or-
+ganofosfatlı bir insektisittir. Organofosfatlar, yaygın şekilde böcek ilacı olarak 
+kullanılan bir kimyasal bileşik sınıfını oluşturur. Bu bileşikler insanlar ve diğer 
+canlılar için ciddi derecede toksik olabilir. Deri teması, solunum veya sindirim 
+yoluyla alındığında ciddi sağlık sorunlarına neden olabilir. Gıda zincirinde bi-
+rikme eğiliminde olduklarından tüketilen bitkiler veya hayvanlar aracılığıyla 
+insanlara ve diğer canlılara zarar verebilir. Sinir sistemini etkileyerek hafıza 
+kaybı, baş dönmesi, baş ağrısı, mide bulantısı, kas zayıflığı gibi belirtilere ne-
+den olabilir. Bu kimyasalların tercih edilme sebebi, etkilerinin geçici olması ve 
+su içinde hızla çözünerek zararsız bileşiklere dönüşebilmeleridir. Organofos -
+fatların zararları göz önüne alındığında güvenli kullanımı ve doğru dozlama 
+son derece önemlidir, ayrıca çevre dostu (organik tarım gibi) seçeneklerin ter-
+cih edilmesi gerekir. Bu bileşikteki bağlar (C−C, C−H, C−O, P−O, P−S vb.) 
+C, H, O, N, P ve S elementleri arasında oluşur. Bu atomlar arasındaki bağlar 
+organofosfat bileşiklerinin toksisitesini etkiler. Organofosfatlı insektisitler si-
+nir sistemi üzerindeki etkileri nedeniyle böceklerin ölümüne yol açar. Bu etki, 
+organofosfat moleküllerinin enzimleri inhibe etmesi ile gerçekleşir. Enzimleri 
+inhibe etme süreci, organofosfat moleküllerinin sinir uçlarında bir enzimi he-
+def alarak onu bloke etmesini içerir. 
+1. Paration bileşiğindeki bağları oluşturan elementler (C, H, O, N, P ve S ) 
+periyodik tablodaki element sınıflarından hangisine aittir? 
+2. Paration bileşiğindeki elementler metaller gibi kolayca elektron kaybe-
+debilir mi? Açıklayınız. 
+3. İyonlaşma enerjisi ve elektronegatiflik değerleri birbiriyle aynı veya bir-
+birine yakın elementlerin atomları arasında bağlar nasıl oluşur? Düşün-
+celerinizi açıklayınız.
+H
+H
+H
+H
+CC
+C
+C
+C
+C
+O2N OCH2CH3
+OCH2CH3
+O P
+S

@@ -1,0 +1,19 @@
+116
+MATEMATİK 9 
+7. TEMA: VERİDEN OLASILIĞA
+2. Adım
+3. Adım
+Oluşturduğunuz tablodaki verilerden yola çıkarak aşağıda verilen deneysel olasılık sorularını cevap -
+layınız.
+Önceki adımda verilen sorular için olasılıkları teorik olarak hesaplayınız. Kendi bulduğunuz deneysel ola-
+sılıklarla karşılaştırınız. Benzerlikleri veya varsa farklılıkları inceleyiniz. Farklılıkların olası nedenlerini (de-
+neysel hata, küçük örneklem büyüklüğü vb.) aşağıya yazınız.
+a.  Sayı küpünün üst yüzeyine "Tek Sayı" gelme olasılığı nedir?
+b.  Sayı küpünün üst yüzeyine  "Asal Sayı” gelme olasılığı nedir?
+c.  Sayı küpünün üst yüzeyine gelen sayının "Çift ve Asal Sayı" olma olasılığı nedir?
+ç.  Sayı küpünün üst yüzeyine gelen sayının "Asal veya Tek Sayı Değil" olma olasılığı nedir?
+Çözüm:
+Çözüm:
+Çözüm:
+Çözüm:
+Çözüm:

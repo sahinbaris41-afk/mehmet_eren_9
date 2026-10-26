@@ -1,0 +1,21 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+89
+5. TEMA: ALGORİTMA VE BİLİŞİM
+2
+Suyun girilen sıcaklık değerine göre maddenin hâlini bulan algoritmanın işleyişini 
+algoritmik doğal dil, sözde kod ve akış şeması ile ifade ediniz.
+Algoritmik Doğal Dil Akış Şeması
+Sözde Kod
+1. Adım: Başla
+2. Adım: Girdilerin alınması 
+  
+3. Adım: Koşulun kontrol edilmesi 
+  
+4. Adım: Çıktının yazdırılması 
+  
+ 
+5. Adım: Bitir
+Girdi: 
+Çıktı: 
+Başla: 
+Bitir:

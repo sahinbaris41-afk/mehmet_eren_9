@@ -1,0 +1,23 @@
+187
+6. Tema / İstatistiksel Araştırma Süreci
+Türkiye turizm gelirleri veri dosyasına 
+ulaşmak için karekodu okutunuz.
+Karekodda	yer	alan	veri	dosyasını	istatistik	yazılı-
+mına	aktarınız.	Araştırmayı	gerçekleştiren	öğrenci-
+lerin	hazırladığı	istatistiksel	araştırma	soruları	doğ-
+rultusunda	uygun	görselleştirme	ve/veya	özetleme	
+araçlarını	seçerek	analizlerinizi	yapınız.	Aşağıdaki	soruları	cevaplayınız.	Cevaplarını zı	sınıf	arkadaşlarını zla	
+tartışınız.
+a) Tablo incelendiğinde turizm gelirinin en düşük ve en yüksek olduğu aylar arasındaki gelir farkı 
+kaç dolardır?
+b) Türkiye’nin 2020-2023 yılları arası dört yıllık turizm geliri nasıl bir eğilim göstermektedir?
+c) Türkiye’nin 2020-2023 yılları arası dört yıllık turizm gelirinin merkezine yığılan turizm gelirleri 
+hangi aralıklarda yoğunlaşmaktadır?
+ç) Türkiye’nin 2020-2023 yılları arası dört yıllık turizm gelirinin 500  000 dolarlık aralıklarda deği-
+şimi nasıldır?
+d) Türkiye’nin 2020-2023 yılları arası dört yıllık turizm geliri, ortalama turizm gelir değerine göre 
+nasıl yayılım göstermektedir?
+e) Türkiye’nin 2025 yılı turizm geliri kaç dolar olabilir? 
+Kontrol Noktası
+İstatistiksel araştırma sürecinde veri analizi, araştırma sorularına cevap verecek uygun görselleştirme veya özet-
+leme araçları seçilerek yapılmalıdır.

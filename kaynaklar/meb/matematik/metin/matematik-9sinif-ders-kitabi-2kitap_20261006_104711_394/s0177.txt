@@ -1,0 +1,33 @@
+177
+6. Tema / İstatistiksel Araştırma Süreci
+Veri Analizi Yapma
+Memeli türlerinin gelişim özelliklerinin incelendiği araştırmada araştırmacılar, 27 memeli türünün boyunu da kay-
+detmiştir. Araştırmacıların elde ettiği verilerle oluşturduğu aşağıdaki grafiklere göre soruları cevaplayınız. 
+1. Araştırmacıların  verileri analiz etmek için kullandığı veri görselleştirme araçlarından biri Grafik 1’de görül-
+mektedir.
+Memeli türlerinin boyları (m)
+0
+0,1 0,7 1,2 2 3,5 4 5 6,5
+21 43 5 6 7
+Grafik 1
+Grafik 1’deki veri görselleştirme aracında verilen değerler, dağılımın hangi değerlerini temsil ediyor olabilir? 
+Sınıf arkadaşlarınızla tartışınız.
+2. Araştırmacıların dağılımın ortalama mutlak sapma değerini ve bu değerden yola çıkarak dağılımın nasıl yayıldı-
+ğını görebilmek için kullandığı veri özetleme aracı Grafik 2’de verilmiştir.
+1 Ortalama mutlak sapma, +-1,12 metre
+Memeli türlerinin boyları (m)
+0 21 43 5 6 7
+Grafik 2
+Grafik 2’deki veri özetleme aracında verilen ortalama mutlak sapma değeri, nokta grafiği ile verilen dağılımın 
+hangi değerlerini temsil ediyor olabilir? Sınıf arkadaşlarınızla tartışınız.
+3. Araştırmacıların  dağılımın nasıl yayıldığını görebilmek için kullandığı bir diğer veri özetleme aracı Grafik 3’te 
+görülmektedir.
+Grafik 3
+Memeli türlerinin boyları (m)
+0 21 43 5 6 7
+1 Standart sapma,  +-1,55 metre
+Grafik 2 ve Grafik 3’ü karşılaştırarak iki veri özetleme aracının sunduğu bilgileri düşününüz. Her iki veri 
+görselleştirme aracında oluşan boyalı alanların sınırlarının yaklaşık olarak hangi değerler arasında olduğunu 
+inceleyiniz. Sınırlar arasında kalan alanların hangi bilgileri sunduğunu ve bölge sınırları arasındaki farkın ne-
+denlerini sınıf arkadaşlarınızla tartışınız.
+6. Uygulama

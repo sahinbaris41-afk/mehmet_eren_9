@@ -1,0 +1,51 @@
+49
+4. Tema / Eşlik ve Benzerlik
+Kenar-Açı-Kenar	Benzerliği
+İki	üçgenin	karşılıklı	iki	kenar	uzunluğu	orantılı	ve	bu	kenarların	oluşturduğu	açılar	eş	ise	bu	üçgenler	
+benzerdir.	Karşılıklı	iki	kenar	uzunluğunun	orantılı	ve	bu	kenarlar	arasındaki	açı	ölçülerinin	eşit	olması,	
+iki	üçgenin	benzer	olması	için	gereken	asgari	koşullardan	biridir.	
+13. ÖRNEK
+A,	B,	C	ve	D	kasabaları	arasındaki	kuş	uçuşu	mesafeler	ile	ilgili	aşağıdaki	bilgiler	verilmiştir.	
+• A	ve	B	kasabaları	arasındaki	en	kısa	uzaklık	32	km’dir .
+• B	ve	C	kasabaları	arasındaki	en	kısa	uzaklık	40	km’dir.
+• C	ve	D	kasabaları	arasındaki	en	kısa	uzaklık	72		km’dir.
+• A	ve	C	kasabaları	arasındaki	en	kısa	uzaklık	48	km’dir .
+• ABCD	bir	dörtgen	ve	 AB DC'77 AA  dır.
+Verilen	bilgilere	göre	kasabaların	konumunu	gösteren	taslak	bir	çizim	yapınız	ve	A	ile	D	kasabaları	ara-
+sındaki	en	kısa	uzaklığın	kaç	km	olduğunu	bulunuz.	
+Çözüm
+AB DC'77 AA 	olduğu	için	 BAC ACDmm =`` j j%%  dür.	ABC	ve	ACD	üçgenlerinde	
+AC
+AB
+,
+DC
+AC
+48
+32
+3
+2
+72
+48
+3
+2== ==  ve	 BAC ACDmm =`` j j%% 	olduğundan	ABC	ve	
+ACD	üçgenleri	benzerdir	(K.A.K.).	O	hâlde	 AD x= 	olmak	üzere	
+x
+40
+3
+2= 	eşitliğinden	xk m 60= 	bulunur.
+10. Sıra Sizde      
+1. 
+Yanda verilen DEF üçgeninde K ve L noktaları bulundukları kenarların orta 
+noktaları olduğuna göre
+a) EF KL 2=  olduğunu gösteriniz.
+b) KL EF'77 AA  olduğunu gösteriniz.
+D
+E
+K L
+F
+A 32
+72
+48 40
+B
+CD
+x

@@ -1,0 +1,30 @@
+132
+5. Tema/Algoritma ve Bilişim  
+b) Verilen algoritmanın işleyişini sözde kod ile ifade ediniz.
+Sözde Kod
+Tüketme Yaklaşımı ve Kadane Algoritmasını Karşılaştırma
+Aşağıdaki soruları cevaplayınız.
+1. A = {5, -3, 2, 7, -4, 1} kümesinde herhangi bir elemandan başlayarak birbiri ardına gelen elemanların top-
+lamlarını örnekteki gibi hesaplayınız. Bu toplamların en büyük olanını bulunuz. Sonucunuzu arkadaşlarınızın 
+bulduğu sonuçlarla karşılaştırınız.
+ {5, -3} için 5 + (-3) = 2
+ {5, -3, 2} için 5 + (-3) + 2 = 4  
+ 
+2. A kümesinde herhangi bir elemandan başlanarak birbiri ardına gelen elemanların toplanması ile elde edilen 
+toplamlardan en büyük olanı bulmak için tüketme yaklaşımı kullanılabilir. Tüketme yaklaşımı, elde edilen top-
+lamlardan en büyüğünü bulmak için bir döngü kullanır. Bu döngü, kümenin her elemanını birer birer ele alarak 
+toplamları hesaplar ve karşılaştırır. Tablo 1’de verilen sayı kümesinden alınan ardışık elemanların toplamını 
+bularak tabloyu örnekteki gibi doldurunuz. 
+Tablo 1
+5 = 5
+5 + (-3) = 2  -3 = 
+5 + (-3) + 2 = (-3) + 2 = 2 =
+5 + (-3) + 2 + 7 = (-3) + 2 + 7 = 2 + 7 = 7 =
+5 + (-3) + 2 + 7 + (-4) = (-3) + 2 + 7 + (-4) = 2 + 7 + (-4) = 7 + (-4) =  -4 =
+5 + (-3) + 2 + 7 + (-4) + 1 = (-3) + 2 + 7 + (-4) + 1 = 2 + 7 + (-4)+ 1 = 7 + (-4) + 1 = (-4) + 1 = 1 =
+3. Tablo 1’de elde ettiğiniz değerler ile 1. soruda elde ettiğiniz değeri karşılaştırınız. Verilen sayı kümesinin eleman 
+sayısının artmasının sonuçlarını doğru yanıta ulaşma süresi (hesaplama zamanı) açısından değerlendiriniz.
+ 
+9. Uygulama
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

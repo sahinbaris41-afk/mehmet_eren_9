@@ -1,0 +1,30 @@
+62
+MATEMATİK 9 
+3. TEMA: GEOMETRİK ŞEKİLLER
+4. ETKINLIK ADI AÇI KENAR BAĞINTISI
+Etkinlik Öncesi
+ ► Bu etkinlik üçgenin iç açı ölçüleri ve kenar uzunlukları arasındaki ilişkilere yönelik  bir doğrulama 
+çalışması içermektedir.
+ ► Öğrencilerinize üçgenin temel özelliklerini ve üçgen eşitsizliği kuralını kısaca hatırlatınız. 
+ ► Öğrencilerinizi üçer kişilik gruplara ayırınız.
+ ► Etkinlik süresince öğrencilerinizi gözlemleyiniz ve gerektiğinde öğrencilerinize rehberlik ediniz.
+ ► İşlem adımlarını takip ederek etkinliğin gerçekleştirilmesini isteyiniz. 
+ ► Etkinlik sonunda öğrencilerinizi kontrol listesi ile değerlendiriniz.
+Bu etkinlikte bir geometrik doğrulama çalışması yapılacaktır. Etkinlik öncesinde öğrencile-
+rinize gerekli malzemeleri getirmelerini söyleyiniz.
+ETKINLIĞIN AMACI Üçgenin açı ve kenarları arasındaki ilişkilere yönelik doğrulamalar yapabilme
+DESTEKLEME 
+UYGULAMASI
+Öğrencilerin ispatlarını ve doğrulamalarını yaptıkları önermelere ilişkin çok 
+adımlı ve karmaşık problem durumlarının çözümlerine geçmeden önce öğ-
+rencilere az adımlı çözümler içeren problem durumları sunulur. Öğrencile-
+rin bu problemleri küçük gruplarda tartışarak çözmelerine, arkadaşlarının 
+çözümlerine ilişkin geri bildirimde bulunmalarına imkân tanıyan öğrenme 
+ortamları oluşturulur.
+ARAÇ GEREÇ VE 
+MATERYALLER
+• 2 adet A4 kâğıdı
+• Makas
+• 3 farklı renk boya kalemi
+• Cetvel
+• Pergel

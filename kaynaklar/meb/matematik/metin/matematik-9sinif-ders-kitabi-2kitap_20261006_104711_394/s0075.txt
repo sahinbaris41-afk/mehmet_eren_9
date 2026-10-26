@@ -1,0 +1,60 @@
+75
+4. Tema / Eşlik ve Benzerlik
+7.  T ayfun,	yeni	yaptıracağı	evin	bir	odasının	pen-
+cerelerini	eşkenar	üçgen	şeklinde	tasarlamış-
+tır.	 Bu	 tasarım	 için	 BC	 kenarı	 zemine	 paralel	
+olan	ABC	üçgenini	C	köşesi	etrafında	120o	lik	
+açıyla	döndürerek	CB'A'	üçgenini	elde	etmiştir.	
+CB'A'	 üçgenini	 A'	 köşesi	 etrafında	 120o	lik	
+açıyla	döndürerek	A'C'B''	üçgenini	elde	etmiş	
+ve	 BC'  nu	5	metre	ölçmüştür.
+ Buna göre Tayfun’un tasarladığı eşkenar 
+üçgen şeklindeki pencerenin bir kenarının 
+uzunluğu kaç metredir?
+8.  Aşağıdaki	görselde	üçgen	biçiminde	bir	ev	yer	
+almaktadır.	
+A,	D,	B	ve	A,	E,	C	noktaları	kendi	aralarında	
+doğrusaldır.		 DE BC'77 AA ,	 AE ,m14= ,	
+EC ,m24= 	ve	 BD AD ,m08=+ ’dir.
+ Buna göre AD  nun kaç m olduğunu bulunuz.
+ 
+A
+B
+B' C'
+C A' B''
+AA
+BB
+DD EE
+CC
+9.		 Aşağıdaki 	ABC	üçgeni,	C	köşesinden	 DE7A  bo-
+yunca	katlandığında	üçgenin	A	ve	C	köşeleri	
+üst	üste	gelmektedir.
+ AB CD= ,	 ED AC=77 AA 	ve	 ABCm6 8o=`j% ,	
+ACB m a=`j% 	olarak	verilmiştir.
+ Buna göre ACB m a=`j%  kaç derecedir?
+10.  Aşağıdaki	şekilde	B,	C,	D	noktaları	doğrusal-
+dır.	 AB BC=77 A A ,	 CD DE=77 A A ,	 AB cm 12= ,		
+DE cm 6= ,	 BD cm 24= 	olarak	verilmiştir.
+ Buna göre AC CE+  nun alabileceği en 
+küçük değerin kaç cm olduğunu bulunuz.
+11. Aşağıdaki	ABCD	dörtgeninde	 AC BD ,=77 AA
+AB cm 9= ,	 BC cm 17= 	ve	 AD cm 24=   
+olarak	verilmiştir.
+ Buna göre DC  nun kaç cm olduğunu bulunuz.
+A
+B CaD
+E
+68o
+A
+B C D
+E
+6
+12
+A
+B E D
+C
+24
+17
+9
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

@@ -1,0 +1,22 @@
+101
+KUVVET VE HAREKET
+6. Senaryolarda kullanılan kavramları ve bu kavramların skaler nicelik mi, vektörel nicelik mi olduğun u aşa­
+ğıdaki tabloya yazınız. 
+Kavram Skaler Nicelik Vektörel Nicelik
+7. Verilerinizi bilimsel tartışma yöntemini kullanarak tartışınız ve temel kavramların tanımlarına yönelik ge­
+nellemeler yapınız. Kavramlara ilişkin genellemeleri aşağıdaki tabloya yazınız. 
+Referans noktası
+Konum
+Alınan yol
+Y er değiştirme
+Sürat
+Anlık sürat
+Ortalama sürat
+Hız
+Anlık hız
+Ortalama hız
+İvme
+8. Y orumlarınızdan hareketle trafiği düzenleyen sürat sınırlamalarına uymanın can güvenliği, trafik yeşil dal­
+ga sisteminin yakıt tasarrufu açısından önemini tartışınız. Tartışmanızı yaparken can güvenliğini topluma 
+karşı görevleri yerine getirmekle, yakıt tasarrufunu ise israftan kaçınmak ve ülke kaynaklarını sürdürülebilir 
+bir şekilde kullanmak ile ilişkilendirmeye özen gösteriniz. 

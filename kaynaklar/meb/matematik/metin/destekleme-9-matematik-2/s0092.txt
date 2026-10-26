@@ -1,0 +1,17 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+91
+5. TEMA: ALGORİTMA VE BİLİŞİM
+Oyunda kullanabileceğiniz komutlar ve anlamları Sembol ile gösterimi
+İleri git: Robotun seviyeleri aynı olan platformlarda bir adım 
+ileriye hareket etmesini sağlar. 
+Sağa dön: Robotun bulunduğu platformda sağa dönmesini 
+sağlar.
+Sola dön: Robotun bulunduğu platformda sola dönmesini 
+sağlar.
+Zıpla: Robotun yukarıda veya aşağıda bulunan farklı seviye-
+lerdeki platforma sıçramasını sağlar.
+Platformlar Çözüm Algoritmasının Semboller ile Gösterimi
+Bilgi Kartı
+Örnek Uygulama
+Başlangıç
+Bitiş

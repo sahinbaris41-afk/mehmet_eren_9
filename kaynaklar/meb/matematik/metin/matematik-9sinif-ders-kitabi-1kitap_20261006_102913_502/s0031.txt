@@ -1,0 +1,41 @@
+31
+1. Tema /  Sayılar
+ a, n pozitif tam sayı ve n ≥ 2 olmak üzere
+ n a   işlemi, a sayısının n. dereceden kökünü ifade etmektedir.
+ Şekilleri bağ layan okların anlamları aşağıda verilmiştir. 
+  : Sağındaki sayı ile solundaki sayı çarpılır.
+  : Solundaki sayı, sağındaki sayıya bölünür.
+ Örneğin
+4 2 2 3  = 324 $  şeklinde ifade edilir. Buradan işlemin sonucu 
+2$322 2239 91 844 44 441$$ $$== ==2$2  bulunur.
+Buna göre aşağıda verilen işlemin sonucunu bulunuz.
+2 4 3 3 6 24
+6.  Oluşturduğunuz önermeleri matematiksel olarak doğrulayınız ve doğrulama yöntemlerinizi kullanışlılık açı -
+sından değerlendiriniz.
+10. ÖRNEK
+2563 $  işleminin sonucunu bulunuz.
+Çözüm
+Köklü gösterimlerle çarpma ve bölme işlemlerinin yapılabilmesi için köklerin dereceleri eşit olmalıdır. Bu 
+sebeple köklerin dereceleri eşitlenerek çarpma işlemi yapılır.
+. bulunur25 25 25 25 25 5063 6
+1
+3
+1
+6
+1
+6
+2
+6 26 26 62
+2
+$$ $$ $== == =$
+$
+11. ÖRNEK
+,ab ve c27363 9== =  veriliyor. Buna göre a, b ve c sayılarını küçükten büyüğe sıralayınız.
+Çözüm 
+Köklerin dereceleri eşit olduğunda kök içinde olan sayılar arasındaki sıralama; a, b ve c arasındaki 
+sıralamayı verir.
+a, b ve c sayılarının köklerinin dereceleri 18’de eşitlenebilir.
+a3 32 76 6 18133== =$$
+b2 26 41 183 636== =$$
+c7 74 91 189 292== =$$
+Buradan a  c  b  olur.

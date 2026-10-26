@@ -1,0 +1,537 @@
+{
+ "ders": "saglik",
+ "ders_adi": "Sağlık Bilgisi ve Trafik Kültürü",
+ "sinif": 9,
+ "haftalik_saat": 1,
+ "kaynaklar": {
+  "yillik_plan": null,
+  "ksdt_1donem": null,
+  "ders_kitabi_metin": [
+   "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199"
+  ],
+  "haftalik_saat": "TTKB 09/05/2025 Anadolu Lisesi Haftalık Ders Çizelgesi"
+ },
+ "aciklama": {
+  "yazili": "1D1Y/1D2Y/2D1Y/2D2Y. 'KSDT' kaynaklılar resmî tablodan, diğerleri plan haftasından tahmin. Yönetmelik 45/1-d gereği her yazılı önceki konuları da azalan oranda kapsar.",
+  "kitap": "basili_* kitabın üzerinde yazan sayfa; pdf_baslangic metin klasöründeki sNNNN.txt numarası. Eşleşme içindekiler sayfasına kelime benzerliğiyle yapıldı."
+ },
+ "uretim": {
+  "arac": "tools/harita_uret.py",
+  "tarih": "2026-10-26"
+ },
+ "dogrula": [
+  "Yıllık plan BULUNAMADI (tymm.meb.gov.tr taslak çerçeve planlarında yok); hafta bilgisi yok.",
+  "Plan ve KSDT yok: üniteler/konular ders kitabı içindekilerinden çıkarıldı; öğrenme çıktısı kodları ve haftalar eksik."
+ ],
+ "uniteler": [
+  {
+   "id": "saglik-u1",
+   "ad": "1. TEMA: SAĞLIKLI İNSAN VE TOPLUM",
+   "konular": [
+    {
+     "id": "saglik-u1-k1",
+     "ad": "SAĞLIK VE SAĞLIĞIN TOPLUM ÜZERİNDEKİ ETKİLERİ",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 18,
+      "pdf_baslangic": null,
+      "basili_bitis": 25,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u1-k2",
+     "ad": "HALK SAĞLIĞI VE SAĞLIK HİZMETLERİ",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 26,
+      "pdf_baslangic": null,
+      "basili_bitis": 33,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u1-k3",
+     "ad": "KİŞİSEL HİJYEN VE TEMİZLİK",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 34,
+      "pdf_baslangic": null,
+      "basili_bitis": 40,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u1-k4",
+     "ad": "HASTALIKLAR VE ENGELLİLİK",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 41,
+      "pdf_baslangic": null,
+      "basili_bitis": 48,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u1-k5",
+     "ad": "İLAÇLAR",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 49,
+      "pdf_baslangic": null,
+      "basili_bitis": 69,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik-u2",
+   "ad": "2. TEMA: SAĞLIKLI Y AŞAM ALIŞKANLIKLARI",
+   "konular": [
+    {
+     "id": "saglik-u2-k1",
+     "ad": "FİZİKSEL AKTİVİTE VE SAĞLIK",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 70,
+      "pdf_baslangic": null,
+      "basili_bitis": 75,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u2-k2",
+     "ad": "UYKU DÜZENİ VE SAĞLIK",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 76,
+      "pdf_baslangic": null,
+      "basili_bitis": 79,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u2-k3",
+     "ad": "BESLENME",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 80,
+      "pdf_baslangic": null,
+      "basili_bitis": 85,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u2-k4",
+     "ad": "GIDA KAYNAKLI HASTALIKLARI ÖNLEME",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 86,
+      "pdf_baslangic": null,
+      "basili_bitis": 104,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik-u3",
+   "ad": "3. TEMA: ERGENLİK VE SOSY AL Y AŞAM",
+   "konular": [
+    {
+     "id": "saglik-u3-k1",
+     "ad": "STRES YÖNETİMİ",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 105,
+      "pdf_baslangic": null,
+      "basili_bitis": 110,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u3-k2",
+     "ad": "BAĞIMLILIKLAR",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 111,
+      "pdf_baslangic": null,
+      "basili_bitis": 125,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik-u4",
+   "ad": "4. TEMA: HA Y AT KURTARAN BİLGİLER",
+   "konular": [
+    {
+     "id": "saglik-u4-k1",
+     "ad": "İLK Y ARDIM",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 126,
+      "pdf_baslangic": null,
+      "basili_bitis": 141,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u4-k2",
+     "ad": "SAĞLIKLI VE GÜVENLİ Y AŞAM",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 142,
+      "pdf_baslangic": null,
+      "basili_bitis": 155,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik-u5",
+   "ad": "5. TEMA: GÜVENLİ ULAŞIM VE TRAFİK BİLİNCİ",
+   "konular": [
+    {
+     "id": "saglik-u5-k1",
+     "ad": "TRAFİK KÜLTÜRÜ",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 156,
+      "pdf_baslangic": null,
+      "basili_bitis": 160,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u5-k2",
+     "ad": "TRAFİK GÜVENLİĞİ",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 161,
+      "pdf_baslangic": null,
+      "basili_bitis": 164,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi"
+     ]
+    },
+    {
+     "id": "saglik-u5-k3",
+     "ad": "Y AY A GÜVENLİĞİ",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 165,
+      "pdf_baslangic": null,
+      "basili_bitis": 177,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi",
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "saglik-u5-k4",
+     "ad": "YOLCU GÜVENLİĞİ",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 165,
+      "pdf_baslangic": null,
+      "basili_bitis": 177,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi",
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "saglik-u5-k5",
+     "ad": "SÜRÜCÜ GÜVENLİĞİ",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 165,
+      "pdf_baslangic": null,
+      "basili_bitis": 177,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi",
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "saglik-u5-k6",
+     "ad": "TRAFİK VE ÇEVRE",
+     "ogrenme_ciktilari": [],
+     "kitap": {
+      "dosya": "kaynaklar/meb/saglik/metin/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199",
+      "basili_baslangic": 178,
+      "pdf_baslangic": null,
+      "basili_bitis": null,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {},
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "yazılı dönemi belirlenemedi",
+      "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+54
+1. Tema /  Sayılar
+• Sayı doğrusu, gerçek sayıların bir temsilidir.
+• Gerçek sayı aralıkları cebirsel temsil, sayı doğrusu ve küme gösterimiyle ifade edilebilir.
+• Gerçek sayı aralıkları ve bu aralıklarla yapılacak işlemler için evrensel küme, gerçek sayılar kümesidir.
+• a, b ! R ve a < b olmak üzere gerçek sayı aralıklarının gösterim biçimleri tablodaki gibi ifade edilebilir.
+ 
+Aralık Sayı Doğrusu Cebirsel Temsil( R!x ) Küme Gösterimi
+a, b_i a b axb11 Ax axb, x R11;!= #-
+a, bi8 a b axb 1# Bx axb, x R1;# != #-
+a, b` A a b axb1 # Cx axb, x R1;# != #-
+a, b7A a b axb## Dx axb, x R;# #!= #-
+,a-3_i xa1  veya ax2 Fx xa ,x R1;!= #-
+,a-3` A xa#  veya ax$ Gx xa ,x R;# != #-
+b, 3_i xb2  veya bx1 Hx xb ,x R2;!= #-
+b, 3i8 xb$  veya bx# Ix xb ,x R;$ != #-
+a
+a
+b
+b
+• a, b_i nın mutlak değerli eşitsizlik olarak gösterimi x R! , c 2ab= +  ve d 2ab= -  olmak üzere  
+xc d1-  biçimindedir.
+• a, b7A nın mutlak değerli eşitsizlik olarak gösterimi x R! , c 2ab= +  ve d 2ab= -  olmak üzere 
+xc d#-  biçimindedir.
+ x, a R!  ve b R! +  olmak üzere
+• xa b1-  eşitsizliğinin aralık gösterimi, ba ,b a++-_i  biçimindedir.
+• xa b#-  eşitsizliğinin aralık gösterimi, ba ,b a++-7A  biçimindedir.
+• xa b2-  eşitsizliğinin aralık gösterimi, ,b ab a,++ ,- -3 3__ ii  biçimindedir.
+• xa b$-  eşitsizliğinin aralık gösterimi, ba ba ,, ++ ,- -3 3_ i8A  biçimindedir.
+Kontrol Noktası

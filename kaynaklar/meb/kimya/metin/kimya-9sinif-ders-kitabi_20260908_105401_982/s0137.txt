@@ -1,0 +1,90 @@
+137
+2. Tema/Çeşitlilik
+1. Tablodaki boşluklarda moleküllerin Lewis nokta yapısını gösteriniz.
+2. Tabloda verilen moleküllerin uzay-dolgu modellerinin farklı olmasının nedenleri nelerdir?
+3. Tabloda verilen molekülleri polar ya da apolar molekül olarak sınıflandırabilmek için ölçütler belirleyiniz.
+4. Belirlediğiniz ölçütlere göre molekülleri ayrıştırınız.
+5. Dipol moment, molekülün kutupsallığının ölçüsüdür. Merkez atomu üzerinde elektron çifti bulunan moleküllerde 
+yük dağılımı dengede değildir ve molekülün dipol momenti sıfırdan farklıdır. Merkez atomu üzerinde elektron 
+çifti bulunmayan moleküllerde yük dağılımı dengede olduğunda molekülün dipol momenti sıfırdır.
+Bu bilgiye göre tablodaki molekülleri dipol momentine göre gruplayınız.
+6. Dipol momenti sıfır olan moleküller apolar, dipol momenti sıfırdan farklı olan moleküller ise polar olarak 
+adlandırılır. Buna göre tablodaki polar ve apolar molekülleri belirleyiniz.
+Bir element molekülünde atomları bir arada tutan kuvvet apolar kovalent 
+bağdır. Apolar kovalent bağ içeren moleküllerde ortak kullanılan elektronlar 
+atomlar tarafından eşit kuvvetle çekileceğinden molekülde elektron yük da-
+ğılımı dengelidir. Kalıcı negatif ve pozitif kutuplar oluşmaz, molekülün dipol 
+momenti sıfır olur ve molekül apolardır. Görsel 2.12 a ve b’de apolar molekül 
+örnekleri verilmiştir.
+Bir molekülde elektron yük dağılımı dengeli değilse ve elektronlar bir atomun 
+etrafında daha yoğun bir şekilde bulunuyorsa molekülün o tarafı kalıcı negatif 
+kutup, diğer tarafı ise kalıcı pozitif kutup oluşturur. Bu durumda molekülün 
+dipol momenti sıfırdan farklıdır ve molekül polardır. Örneğin su molekülünde 
+merkez atomdaki ortaklanmamış elektron çiftleri bağ yapan diğer elektronla -
+rı iter, atomların elektronegatiflik değerlerindeki farklılık nedeniyle molekülde 
+kutuplanma meydana gelir ve molekül polar olur (Görsel 2.12 c).
+Bağ yapan ametal atomla-
+rının elektronegatiflik farkı 
+kovalent bağın polarlığını 
+belirlemede kullanılır. 
+Apolar kovalent bağ içeren 
+polar yapılı molekül olabilir 
+mi? Açıklayınız.
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+δ
+−
+δ
++
+δ
++
+cba
+Görsel 2.12 
+Polar ve apolar 
+molekül örnekleri
+Molekül polarlığı ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.

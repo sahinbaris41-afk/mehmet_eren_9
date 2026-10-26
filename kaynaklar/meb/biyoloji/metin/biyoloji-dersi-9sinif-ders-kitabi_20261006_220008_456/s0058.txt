@@ -1,0 +1,93 @@
+58
+1. Tema
+Pentozlar içerisinde yer alan karbohidratlardan özellikle ikisi bi-
+yolojik açıdan oldukça önemlidir. Riboz ve deoksiriboz şekerleri 
+nükleik asitlerin temel bileşenlerindendir. Riboz şekeri RNA (ribo -
+nükleik asit), deoksiriboz şekeri ise DNA (deoksiribonükleik asit) 
+moleküllerinin yapısında bulunur. Beş karbonlu şekerler nükleik 
+asitlerin yapısında bulunmalarının yanında metabolik faaliyetlerin 
+düzenlenmesinde, hücrelerin iletişiminde ve enerjinin taşınmasın-
+da görev alır. Riboz ile deoksiriboz şekerleri arasındaki en önemli 
+yapısal farklılık deoksiribozda bir oksijen atomunun bulunmama -
+sıdır (Görsel 1.33).
+Heksozlar altı karbonlu monosakkaritlerdir ve bunların oldukça fazla yapısal izome-
+ri bulunur. Yapısal izomerlerinin çeşitliliği nedeniyle biyolojik sistemlerde heksozlar 
+yaygın olarak üretilir. Canlılarda en çok üretilen ve kullanılan heksoz çeşitleri; glikoz, 
+fruktoz ve galaktozdur (Görsel 1.34).
+Görsel 1.34
+a) Glikozun yapısı,
+b) Fruktozun yapısı,
+c) Galaktozun yapısı
+Glikoz, doğada en yaygın bulunan ve hücrelerin enerji ihtiyaçlarını karşılayan 
+önemli bir heksozdur. Kan şekeri veya üzüm şekeri olarak da bilinen glikoz me -
+tabolik olarak yıkılır ve enerji üretiminde kullanılır. Bitkilerde fotosentezle üretilir. 
+Hayvanlarda glikojen, bitkilerde nişasta formunda depolanmak üzere polimerleşti-
+rilir ve gerekli olduğu durumlarda hidroliz tepkimeleriyle tekrar oluşturulur.
+Fruktoz; meyvelerde, balda ve bazı sebzelerde doğal olarak bulunur. Meyve şekeri 
+olarak da bilinir. Glikozdan daha tatlı olması, kullanıldığı ürünün raf ömrünü uzatması 
+gibi özellikleri nedeniyle gıda endüstrisi tarafından tercih edilen bir monosakkarittir. 
+Özellikle meyve suları, meşrubatlar, tatlılar ve paketli gıdalarda yoğun bir şekilde kul-
+lanılan fruktoz; aşırı tüketildiğinde karaciğer yağlanması, obezite, diyabet gibi hasta-
+lıklara neden olur. 
+Galaktoz (süt şekeri), süt ve süt ürünlerinde fazlaca bulunur. Diğer heksozlar kadar 
+tatlı olmaması sebebiyle gıda ürünlerinde galaktozun kullanımı sınırlıdır. Hücreler-
+de glikoza dönüştürülerek enerji verici tepkimelerde kullanılır. 
+Disakkaritler, iki monosakkaridin glikozit bağ ile birleşmesi sonucu oluşur. Gli -
+koz, fruktoz, galaktoz gibi monosakkaritlerin birbirlerine bağlanmasıyla oluşan 
+disakkaritlerden canlılarda en yaygın bulunanları maltoz, sükroz ve laktozdur. Sin-
+dirim enzimleriyle monomerlere dönüştürülerek metabolik olaylarda kullanılır. 
+Arpa şekeri olarak adlandırılan maltoz, iki glikozun birleşiminden oluşan bir disak-
+karittir. Çay şekeri olarak da bilenen sükroz (sakkaroz) ise glikoz ve fruktozdan 
+oluşan bir disakkarittir. Çoğunlukla şeker kamışı ve şeker pancarından elde edilir. 
+Görsel 1.33
+Beş karbonlu 
+monosakkaritlerden
+a) Ribozun yapısı,
+b) Deoksiribozun yapısı    
+Karbohidratlar fazla 
+tüketildiklerinde yağlara 
+dönüştürülerek depolandığı 
+için şişmanlamaya neden 
+olabilir.
+Yapısal izomerlik: Kapalı 
+formülleri (C6 H12O6 ) aynı 
+ancak açık formülleri farklı 
+bileşiklerdir.
+OH OH
+CH2OH OH
+a
+HH
+OH H
+HH
+CH2OH OH
+b
+H H H H
+OH
+H
+H
+H
+H
+HOH
+OH
+CH2OH
+OH
+a
+OH
+H
+H
+H
+H
+HOH
+OH
+CH2OH
+OH
+b
+OH
+OH
+HO
+HOCH2
+CH2OH
+c
+H
+H
+H

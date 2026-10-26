@@ -1,0 +1,53 @@
+225
+7. Tema / Veriden Olasılığa
+7. Sıra Sizde      
+Yatırım Araçları
+Eğitim Durumu 
+Lise  
+ve Altı
+Ön  
+Lisans
+Lisans  
+ve Üzeri
+Gayrimenkul 3 5 21
+Altın 12 10 50
+Banka Mevduatı 16 28 83
+Menkul Kıymetler 41 51 176
+Yandaki tabloda 496 kişinin eğitim durumlarına göre 
+hangi yatırım aracını seçtiği gösterilmektedir. 
+Buna göre rastgele seçilen bir kişinin ön lisans 
+mezunu veya altına yatırım yapan biri olma ola-
+sılık değerini bulunuz.
+8. Sıra Sizde      
+Çar/uni015Famba
+Pazartes/i.dot Salı Çar/uni015Famba Per/uni015Fembe Cuma
+Per/uni015Fembe Cuma Cumartes/i.dot Pazar
+23°C 20°C
+Yağmurlu
+21°C 16°C
+Yağmurlu
+11°C 12°C 16°C 16°C
+Güne/uni015Fl/i.dot Parçalı Bulutlu
+18°C
+Parçalı Bulutlu Yağmurlu
+13°C
+Yağmurlu Fırtınalı Yağmurlu Parçalı Bulutlu
+Bir gübreleme şirketinden salı günü 
+haber alan Esma Hanım, salıdan 
+sonraki 10 günün herhangi birinde 
+tarlasının gübreleneceğini öğrenmiş -
+tir. Bu 10 günün hava tahmin raporu 
+yandaki görselde verilmiştir.
+Buna göre Esma Hanım’ın tarlasının gübrelendiği gün havanın yağmursuz veya 17 ºC’ tan sıcak 
+olma olayının olasılık değerini bulunuz. 
+9. Sıra Sizde      
+Marka A B C D E
+Arz 5000 4000 6000 5500 4500
+Talep 5000 6000 4000 4500 5500
+Bir toptancı 5 farklı markadan aynı fiyata sa-
+hip siyah, beyaz ve kırmızı renklerde çanta-
+lar almıştır. Çantaların markalara göre arz 
+talep durumları (adet) yandaki tabloda gös-
+terilmiştir.
+Buna göre mağazasına rastgele bir çanta alacak mağaza sahibinin aldığı çantanın arzının talep-
+ten az olmama ve çantanın kırmızı olma olasılık değerini ağaç şeması kullanarak bulunuz.

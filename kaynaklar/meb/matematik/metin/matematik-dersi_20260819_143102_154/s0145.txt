@@ -1,0 +1,50 @@
+145
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrencilerin birim çemberden yararlanarak sinüs ve kosinüs referans fonksiyonların  ger -
+çek sayılarda tanımlı olduğunu ve bu fonksiyonların görüntü kümesinin [ -1,1] olduğunu 
+keşfetmelerine yönelik çalışmalar yapılır. Tanjant ve kotanjant referans fonksiyonların  ta -
+nım ve görüntü kümeleri; tanx = sinxcosx , cotx = cosxsinx  eşitlikleri kullanılarak oluşturulan tablo  
+yardımıyla belirlenir (OB4). Bu ilişkiler uygun tanım ve değer kümesine sahip trigonometrik  
+referans fonksiyonlar olarak ifade edilir. Öğrencilerden elde ettikleri bilgiler yardımıyla, kâ -
+ğıt ve kalemle, dijital  araçlarla, matematik yazılımlarını kullanarak trigonometrik referans 
+fonksiyonların grafiklerini çizmeleri beklenir (OB2, MAB5). Grafik temsilleri yorumlanarak bu 
+fonksiyonların nitel özelliklerinin neler olabileceğine yönelik sınıf içi tartışmalar yapılır ve öğ-
+rencilere açık uçlu sorular sorulur. Bu tartışmalar yapılırken öğrencilerin birbirlerini etkin bir 
+şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve etkileşim sağlamaları 
+beklenir (SDB2.1, SDB3.3). Öğrencilerin trigonometrik referans fonksiyonların matematiksel 
+temsilleriyle nitel özellikleri arasındaki ilişkileri belirleyebilmesi beklenir. Bu süreçte trigono-
+metrik referans fonksiyonların grafik temsilleri üzerinden periyotlarını bulmaya yönelik ça -
+lışmalar yapılır. Öğrencilere trigonometrik referans fonksiyonların nitel özelliklerine yönelik 
+performans görevi verilebilir.
+Trigonometrik referans fonksiyonların grafiklerine uygulanan dönüşümler ile  
+g(x) = k ∙ f (mx ± r) ± s (k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0) fonksiyonları elde edilir ve bu fonksi -
+yonlar cebirsel temsillerle ifade edilir (E3.6, E3.7). Bu dönüşümler elde edilip yorumlanırken  
+matematik yazılımlarından yararlanılır (MAB5, OB2) . Cebirsel temsili verilen trigonometrik 
+fonksiyonları oluşturan k, m, r ve s gerçek sayı değerleri ile grafik  temsili arasındaki ilişkiler 
+yorumlanır (MAB3). Trigonometrik referans fonksiyonların grafik temsillerine dönüşümler 
+uygulanarak elde edilen fonksiyonların nitel özellikleri hakkında varsayımlar geliştirilir. Var -
+sayımlar geliştirilirken cebirsel ve grafiksel incelemelerin birlikte yürütülmesine önem ve -
+rilir. Örneğin bir trigonometrik fonksiyonun artanlığına veya azalanlığına yönelik varsayımlar 
+geliştirilirken o fonksiyonun grafik üzerinde gözlemlenen maksimum -minimum noktaları ve 
+artan veya azalan olduğu aralıklar ile fonksiyonun cebirsel ifadesi arasında ilişki kurulur. Tri-
+gonometrik referans fonksiyonlarda fonksiyon değerlerinin sıralamasına yönelik durumlar, 
+bu fonksiyonların grafik temsilleri incelenerek elde edilir. Varsayımlara yönelik farklı örnekler 
+incelenerek trigonometrik fonksiyonların nitel özelliklerine ilişkin genellemelere ulaşılır. Ge-
+nellemelerle varsayımlar karşılaştırılarak önermeler, matematiksel olarak doğrulanabilecek 
+şekilde sunulur.  Genellemelerden elde edilen önermeler; fizikte Newton’ın (Nüvtın) hareket 
+yasaları, sabit ivmeli hareket ve vektörler gibi trigonometrik fonksiyonların etkin bir şekilde 
+kullanılabileceği konularda değerlendirilir. Örneğin uzunluğu verilen bir basit sarkacın hare -
+keti sırasında yerden yüksekliği, sarkacın dikey düzlemle yaptığı açıya bağlı olarak bilimsel bir 
+bakış açısıyla trigonometrik fonksiyonlarla modellenebilir (D3.3). Günün belli bir saatinde bir 
+nesnenin gölge boyunun hesaplanmasında da benzer modellemeler yapılabilir. Böylece öğ -
+renciler, trigonometrik fonksiyonlarla ilgili geliştirdikleri önermelerin gerçek yaşamdaki pek 
+çok problemin çözümünde etkin bir şekilde kullanılabileceğini fark eder. Bu sayede öğrenci-
+lerin yeni ve belirsiz olan gerçek yaşam durumlarını anlamaları ve bu durumlarla başa çıkmak 
+için olumlu ve çözüm odaklı bir düşünce biçimini benimsemeleri desteklenir (SDB3.1, D12.2). 
+Öğrencilere trigonometrik fonksiyonların periyotlarının belirlenmesini gerektiren araştırma 
+ödevi verilebilir.
+Trigonometrik fonksiyonların matematiksel temsilleri, dönüşüm süreçleri ve nitel özellikleri 
+hakkında elde edilen önermeler kullanılarak nasıl matematiksel doğrulama veya ispat yapı -
+labileceği gösterilir. Örneğin bir trigonometrik fonksiyonun belli bir tanım aralığındaki sıfır -
+larının sayısı ile fonksiyonun periyodu arasındaki ilişkiyi ifade eden önermeler cebirsel olarak 
+ispatlanır. Ayrıca sinx = cos ( 3π2 + x) gibi önermelere ilişkin ilgili fonksiyonların grafik temsili 

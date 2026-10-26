@@ -1,0 +1,50 @@
+75
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.11.3.9. Merceklerin özelliklerine ilişkin karşılaştırma yapabilme
+a) Merceklerin fiziksel özelliklerini ve ışınların merceklerde kırıldıktan sonra izlediği 
+yola ilişkin özellikleri belirler. 
+b) Yakınsak ve ıraksak merceklerin benzer özelliklerini listeler.
+c) Yakınsak ve ıraksak merceklerin farklı özelliklerini listeler.
+FİZ.11.3.10. Merceklerde görüntü oluşumu ile ilgili deney yapabilme
+a) Yakınsak ve ıraksak merceklerde görüntü oluşumu ile ilgili deney tasarlar. 
+b) Yakınsak ve ıraksak merceklerde görüntü oluşumu ile ilgili tasarladığı deney düze-
+neğinden veri toplayarak analiz eder.
+İÇERİK ÇERÇEVESİ Işık Şiddeti, Işık Akısı ve Aydınlanma
+Düzlem Aynalar
+Küresel Aynalar
+Kırılma
+Görünür Derinlik
+Fiber Optik
+Prizmalar
+Mercekler
+Anahtar Kavramlar ışık şiddeti, ışık akısı, aydınlanma, merkez, tepe noktası, asal eksen, ortamın ışığı kırma 
+indisi, Snell Yasası, tam yansıma, sınır açısı, görünür derinlik, fiber optik 
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma yaprağı, ürün veya model tasarlama, çizimler, tablo oluştur -
+ma, farklı madde türleri içeren testler, poster veya slayt gösterisi kullanılarak değerlen-
+dirilebilir.
+Işık şiddeti, ışık akısı ve aydınlanma kavramlarını veri setini kullanarak tanımlamaya yönelik 
+kavram haritası hazırlama ve bu kavramların operasyonel tanımlarını açıklamaya yönelik 
+açık uçlu sorular içeren bir çalışma yaprağı verilebilir. Düzlem aynada yansıma ve görüntü 
+oluşumunun kurallarını kullanarak bir günlük hayat problemine çözüm olabilecek ürün ya 
+da model tasarlamaya yönelik bir performans görevi verilebilir. Öz ve akran değerlendir -
+me formu ve problem tanımlama, bilgi toplama, sınırlılıkları belirleme, özgün ürün ortaya 
+koyma basamaklarını içeren dereceli puanlama anahtarı ile değerlendirilebilir. Küresel 
+aynaların yapılarına ilişkin yapılan karşılaştırmaları listelemek için kullanılabilecek nitelik 
+sıralama, anlam çözümleme veya sınıflandırma tabloları ile yapılan çizimlerin değerlen-
+dirilmesinde dereceli puanlama anahtarından yararlanılabilir. Küresel aynalardaki deney 
+sürecine yönelik kontrol listesi, öz ve akran değerlendirme formları ile küresel aynalarda 
+farklı yerlerde olan cisimlerin görüntü özelliklerini açıklamaya yönelik farklı madde türle-
+rinden oluşan bir test ile değerlendirme yapılabilir. Işığın saydam ortamlardaki davranışını 
+açıklamaya yönelik deney düzeneği tasarlanması istenir. Hazırlanan deney düzeneğinin 
+değerlendirilmesinde dereceli puanlama anahtarından yararlanılabilir. Görünür derin-
+likte cismin bulunduğu gerçek derinlik ile görünür derinliğin ortamların kırıcılık indisle-
+rine bağlı olarak farklı olduğunu değerlendirmede açık uçlu maddelerden oluşan bir test 
+kullanılabilir. Açık uçlu maddeler puanlama anahtarlarıyla değerlendirilebilir. Fiber optik 
+malzemelerin yapısı ve kullanım alanlarına ilişkin hazırlanan poster veya slayt gösterisinin 
+değerlendirilmesinde dereceli puanlama anahtarından yararlanılabilir. Prizmalarda tek 
+renkli ışığın izlediği yola ilişkin hipotezlerin olduğu çalışma kâğıdının değerlendirilmesin-
+de dereceli puanlama anahtarından yararlanılabilir. Gözlemlere dayanarak merceklerde

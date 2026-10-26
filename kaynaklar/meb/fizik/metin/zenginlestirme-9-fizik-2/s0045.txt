@@ -1,0 +1,63 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+44 45
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+ ♦ Yandaki görselde bir araç kaldırma işlemi görülmek -
+tedir (Görsel 3.1). Pascal İlkesi'yle ilgili bu görseli akıllı 
+tahtada açınız.
+ ♦ Öğrencilere Archimed’in (Arşimet) "Bana yeterince 
+uzun bir kaldıraç ve onu yerleştirebileceğim bir da -
+yanak verin, dünyayı yerinden oynatayım." sözünü 
+hatırlatınız. Ardından "Tek bir parmağınızı kullanarak 
+koca bir arabayı yukarı kaldırabilir misiniz?" sorusunu 
+yöneltiniz.
+ ♦ Etkinliği yaptıracağınız dersten bir hafta önce öğren-
+cilerden aşağıdaki konularda araştırma yapmasını 
+isteyiniz.
+ ♦ Öğrencilere bir sonraki dersin laboratuvarda işleneceğini bildiriniz.
+a Pascal İlkesi
+b Pascal İlkesi’nden hareketle yapılan teknolojik çalışma ve tasarımlar
+Etkinliğin Amacı Etkinlik öğrencilerin, Pascal İlkesi’ni kullanarak STEM döngüsü basamak-
+larına uygun şekilde basit malzemelerle bir hidrolik sistem tasarlamasını 
+amaçlamaktadır.
+Zenginleştirme 
+Uygulaması
+Öğrenciler, STEM (Science, Technology, Engineering, Mathematics) dön-
+güsü basamaklarıyla kolay bulunabilecek malzemeler (serum hortumu, 
+şırınga vb.) kullanarak bir hidrolik sistem tasarlayabilirler. Tasarladıkları 
+sistemi sunabilirler. Bu sistemlerde eşit büyüklüklerde kuvvet kullanı -
+larak daha fazla yük kaldırılmasına yönelik bir yarışma düzenlenebilir ve 
+öğrencilerin rekabet ortamı içinde tasarımlarını daha fazla geliştirmeleri 
+teşvik edilebilir.
+Araç Gereç ve 
+Materyaller
+• Taslak için zımpara kâğıdı, maket bıçağı, 10 ml'lik dört şırınga, 20 ml’lik 
+iki şırınga, yeterli miktarda serum hortumu, dört kısa vida, pamuk şe -
+ker çubuğuna benzer şekilde kesilmiş altı tahta çıta, bir hasta dil çubu-
+ğu, sert köpük, kalın karton, çocuk oyun havuzu topu, silikon yapıştırı-
+cı, altı köşe başlı metrik cıvata ve vidası, sert şeffaf pipet, 1,5 V’luk iki 
+pil, iki pil yuvası, yeterli miktarda elektrik teli, 1,5 V-12 V DC çift eksenli 
+TT elektrik motoru (redüktörlü), altı bacaklı üç konumlu anahtar, mat -
+kap, ağırlık oluşturacak küp
+• Ölçüm için cetvel
+• Taslak ve tasarım için kalem
+• Araştırma için internet erişimi, kütüphane kaynakları gibi materyaller
+1. ETKİNLİK ADI YÜK AĞIR ÇÖZÜM KOLAY
+1. Adım: Etkinliğe Giriş
+Görsel 3.1: Hidrolik araç kaldırma işlemi
+Uygulanan 
+Kuvvet 
+(1 newton) 
+F1
+Üretilen 
+Kuvvet 
+(50 newton) 
+F2
+Piston 
+Alanı 
+(1 cm²) 
+Piston 
+Alanı
+(50 cm²) 
+A1
+A2

@@ -1,0 +1,36 @@
+22
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: ÇEŞİTLİLİK
+Bu tema, Etkileşimler ve Etkileşimden Maddeye olmak üzere iki bölümden oluşmaktadır. 
+Bu temada öğrencilerin metalik bağın oluşumuna yönelik akıl yürütmeleri, iyonik ve kova-
+lent bağ oluşum sürecine ilişkin gözleme dayalı tahminde bulunmaları, moleküllerin Lewis 
+nokta yapısına ilişkin çıkarım yapmaları, molekülleri polar ya da apolar olarak sınıflandır -
+maları, bileşiklerin adlandırma kurallarına ilişkin akıl yürütmeleri, moleküller arası etkile -
+şimleri sınıflandırmaları, etkileşimlerin katıların özellikleri üzerine etkisine ilişkin çıkarım 
+yapmaları, sıvıların özellikleri ve bu özellikleri etkileyen faktörlere ilişkin kanıt kullanmaları, 
+hipotez oluşturmaları, bilimsel gözlem yapmaları, çıkarımda bulunmaları ve bilimsel sor -
+gulama yapmaları amaçlanmaktadır.
+DERS SAATİ 38
+ALAN 
+BECERİLERİ FBAB1. Bilimsel Gözlem, FBAB2. Sınıflandırma, FBAB3. Bilimsel Gözleme Dayalı Tahmin, 
+FBAB6. Hipotez Oluşturma, FBAB8. Bilimsel Çıkarım Yapma, FBAB10. Tümevarımsal Akıl 
+Yürütme, FBAB12. Kanıt Kullanma, FBAB13. Bilimsel Sorgulama 
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma, KB2.16. Muhakeme (Akıl Yürütme) (KB2.16.2. Tümdengelimsel 
+Akıl Yürütme)
+EĞİLİMLER E1.1. Merak, E1.4. Kendine İnanma (Öz Yeterlilik), E1.5. Kendine Güvenme (Öz Güven), 
+E2.2. Sorumluluk, E3.2. Odaklanma, E3.7. Sistematiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sos-
+yal Farkındalık
+Değerler D3. Çalışkanlık, D4. Dostluk, D6. Dürüstlük, D7. Estetik, D8. Mahremiyet, D11. Özgürlük, 
+D14. Saygı, D16. Sorumluluk, D19. Vatanseverlik 
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB7. Veri 
+Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Coğrafya, Fizik, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.2. Gözlemleme, KB2.9. Genelleme, KB2.14. Yorumlama

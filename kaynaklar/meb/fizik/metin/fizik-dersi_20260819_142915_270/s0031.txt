@@ -1,0 +1,28 @@
+31
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+4. ÜNİTE: ENERJİ
+Bu ünitede öğrencilerin iç enerjinin ısı ve sıcaklık kavramları ile ilişkisine yönelik çıkarım 
+yapması, alınan veya verilen ısının hesaplanması için gerekli matematiksel modellere 
+ulaşması, ısıl denge durumu hakkında bilimsel gözlem yapması, ısı aktarım yollarını sınıfla-
+ması ve katı maddelerde ısı iletim hızını etkileyen etmenleri açıklaması amaçlanmaktadır. 
+DERS SAATİ 18 
+ALAN 
+BECERİLERİ FBAB1. Bilimsel Gözlem, FBAB8. Bilimsel Çıkarım Yapma, FBAB10. Tümevarımsal Akıl Yü-
+rütme
+KA VRAMSAL 
+BECERİLER KB2.5. Sınıflandırma, KB2.15. Yansıtma, KB2.16. Muhakeme (Akıl Yürütme) (KB2.16.1. Tü-
+mevarımsal Akıl Yürütme)
+EĞİLİMLER E1.1. Merak, E1.6. Seçicilik, E2.2. Sorumluluk, E3.5. Açık Fikirlilik, E3.8. Soru Sorma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenle-
+me), SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, 
+SDB2.3. Sosyal Farkındalık, SDB3.3. Sorumlu Karar Verme 
+Değerler D5. Duyarlılık, D14. Saygı, D17. Tasarruf, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB3. Finansal Okuryazarlık, OB4. Görsel Okuryazarlık, 
+OB7. Veri Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Coğrafya, Görsel Sanatlar, Kimya, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.10. Çıkarım Yapma, KB2.14. Yorumlama, KB3.1. Karar Verme, KB3.2. Problem Çözme

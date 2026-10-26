@@ -1,0 +1,23 @@
+3
+MATEMATİK 9
+4. Bir akarsuyun belirli bir kesitinden bir saniyede geçen su miktarı debi olarak isimlendirilir. Kızılırmak 
+ve Seyhan nehirlerinin bir yıl içerisinde debilerinin en düşük ve en yüksek değerleri tabloda verilmiştir.
+Tablo: Nehirlerin Debilerinin En Düşük ve En Yüksek Değerleri
+En Düşük Debi (m3/sn) En Yüksek Debi (m3/sn)
+Kızılırmak 18 1670
+Seyhan 32 242
+Kızılırmak’ın debisinin değer aralığı A kümesiyle, Seyhan’ın debisinin değer aralığı B kümesiyle gös-
+teriliyor.
+Buna göre, AB+  kümesini aralık gösterimi ile yazınız. (15 puan)
+A kümesinin aralık gösterimi [18, 1670]
+B kümesinin aralık gösterimi [32, 242] biçiminde olduğundan 
+A ∩ B’nin aralık gösterimi [32, 242] biçimindedir.
+5. Uzunluğu 120 cm olan esnek bir sporcu bandı aşağıda gösterilmiştir.
+120 cm
+Bu bant esnetildiğinde en fazla 180 cm’ye kadar uzayabilmektedir.
+Buna göre, bu bandın uzunluğunun alabileceği değerlerin aralığını mutlak değerli eşitsizlik 
+olarak yazınız. (15 puan)
+Sporcu bandının uzunluğunun en küçük ve en büyük değerlerinin ortalaması 2120 180 150+ =  cm 
+olur.
+150’nin 120 ve 180’e uzaklığı |120 – 150| = |180 – 150| = 30 olarak bulunur.
+Buna göre, bandın uzunluğunun aralığı x ∈ R  olmak üzere |x – 150| ≤ 30 biçiminde gösterilir.

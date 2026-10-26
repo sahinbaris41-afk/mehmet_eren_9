@@ -1,0 +1,73 @@
+130
+2. Tema/Çeşitlilik
+N
+H H
+HO H
+H
+ClH
+İlkinde atomların elektronları birbirini itmeye başlar. İkincisinde, atomların 
+çekirdekleri birbirini itmeye başlar ve bu itme kuvvetleri sistemin potansiyel 
+enerjisini artırır. Üçüncüsünde ise her bir atomun bir elektronu diğer atomun 
+çekirdeğine doğru çekilir ve bu çekme kuvvetiyle sistemin potansiyel enerjisi 
+azalır.
+Atomlar etkileşime ilk girdiklerinde çekme kuvvetleri itme kuvvetlerinden daha 
+güçlü olduğu için sistemdeki potansiyel enerji azalır ve bu durum kararlılığı 
+artırır. İki atom birbirine yaklaştıkça potansiyel enerji azalmaya devam eder. 
+Sonunda potansiyel enerjinin mümkün olan en düşük noktada bulunduğu bir 
+konuma ulaşılır. Potansiyel enerjinin en az seviyeye ulaştığı nokta, kararlı bir 
+kovalent bağın oluşması için atomlar arasındaki ideal mesafeyi temsil eder. 
+Atomlar birbirine biraz daha yaklaşırsa iki pozitif yüklü çekirdek arasındaki 
+itme kuvvetleri çekme kuvvetlerinden büyük olur ve potansiyel enerji artar. 
+Aynı elektronegatifliğe sahip atomlar arasında oluşan kovalent bağa apolar 
+(kutupsuz) kovalent bağ denir. Bu tür bağda bağ oluşumuna katılan elekt -
+ronlar atomlar tarafından eşit kuvvetle çekilir. Bu nedenle molekülde elektrik-
+sel yüklerin dağılımı dengelidir. Aynı elektronegatiflik değerine sahip atomlar 
+birbirine yeterince yaklaştığında bu atomlardan her birinin çekirdeği hem kendi 
+elektronunu hem de diğer atomun elektronunu güçlü olarak çeker ve bu elekt-
+ronlar iki çekirdek etrafında eşit ve dengeli olarak zaman geçirir. Dolayısıyla 
+atom çekirdeklerinin etkileşimde olduğu ortak kullanılan valans elektronları 
+belli bir atoma doğru yönlenmez. Bu süreçte iki atom da aslında aynı elektron-
+ları kendilerine doğru çekmeye çalışır ancak elektronları diğerinden alamadığı 
+için iki atomun birbirine çekildiği bir durum ortaya çıkar. Bu durumda apolar 
+kovalent bağlı bir molekül oluşur. Apolar kovalent bağ içeren moleküllere hid-
+rojen (H2), oksijen (O2), azot (N2) ve klor (Cl2) örnek verilebilir (Görsel 2.10). Bu 
+maddelerin her biri oda sıcaklığında gaz hâlinde bulunur.
+Elektronegatiflikleri arasında fark bulunan iki atom arasında oluşan kovalent 
+bağa polar (kutuplu) kovalent bağ denir. Örneğin su molekülünde (H 2O) 
+oksijen atomunun elektronegatifliği hidrojen atomunun elektronegatifliğinden 
+büyüktür. Bu nedenle su molekülünde her bir hidrojen atomu ile oksijen ato-
+mu tarafından ortaklaşa kullanılan bağ elektronları, oksijen atomu tarafından 
+daha kuvvetli çekilir ve bağ elektronlarının yük yoğunluğu oksijen atomu üze-
+rinde oluşur. Bu durumda molekülde negatif yük dengesizliği oluşur ve buna 
+bağlı olarak molekülde elektronegatifliği yüksek olan atom kısmen negatif 
+yüklü, elektronegatifliği düşük olan atom kısmen pozitif yüklü hâle gelir.
+Bağı oluşturan atomların elektronegatiflik farkı arttıkça bağın polarlığı da ar -
+tar. Örneğin su molekülündeki oksijen atomu kısmen negatif (δ¯), hidrojen 
+atomları ise kısmen pozitif (δ
++
+) yüklüdür. Polar kovalent bağlı moleküllere su 
+(H2O), hidrojen klorür (HCl) ve amonyak (NH3) örnek verilebilir (Görsel 2.11).
+H H
+ N N
+ O O
+ Cl Cl
+δ
++
+δ
++
+δ¯
+δ¯
+δ¯δ
++
+δ
++
+δ
++
+δ
++
+Görsel 2.10 
+Apolar kovalent bağ 
+içeren moleküller
+Görsel 2.11 
+Polar kovalent bağ 
+içeren moleküller

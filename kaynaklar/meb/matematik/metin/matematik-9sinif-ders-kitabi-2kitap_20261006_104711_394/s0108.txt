@@ -1,0 +1,12 @@
+108
+5. Tema/Algoritma ve Bilişim
+c) Aşağıda verilen boy ve kilo değerlerini kullanarak algoritmayı test ediniz.
+2. ,a, bv eb 0f :, fx ax bRR R"6 !! =+_i   şeklinde tanımlı doğrusal fonksiyonun sıfırını bulan
+algoritmanın işleyişini algoritmik doğal dil, akış şeması ve sözde kodla ifade ediniz.
+Boy (m) Kilo (kg) VKİ (kg/m2) Kategori
+1,67 60
+1,93 80
+1,75 120
+Algoritmik Doğal Dil
+ Akış Şeması
+Sözde Kod

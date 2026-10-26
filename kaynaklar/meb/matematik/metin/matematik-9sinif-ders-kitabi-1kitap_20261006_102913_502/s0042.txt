@@ -1,0 +1,39 @@
+42
+1. Tema /  Sayılar
+Gerçek Sayı Aralıkları
+Boks müsabakalarında sporcular kilolarına göre kategorilere ayrılmaktadır. Sporcuların yarışacağı katego-
+riler hafif sıklet, orta sıklet, ağır sıklet gibi terimlerle ifade edilmektedir. Örneğin genç erkek kategorisinde 
+yer alan boksörlerden kütlesi 69-75 kg arası olanlar orta sıklet, 81-91 kg arası olanlar ağır sıklet olarak 
+isimlendirilir. Orta sıklet veya ağır sıklette bulunan erkek boksörlerin kütlelerinin alacağı tüm sayı değerleri 
+küme gösterimiyle nasıl ifade edilebilir? Küme gösterimi dışında farklı matematiksel gösterimler kullanıla-
+bilir mi? Buna benzer farklı gerçek yaşam durumlarına örnekler veriniz.
+Aralıkların Gösterimi
+Leylaʼnın boyu 165 cm ve Ersin’in boyu 178 cm’dir.
+Buna göre aşağıdaki soruları cevaplayınız. 
+1.    a)  Ahmet’in boyu Leylaʼnın boyundan uzun, Ersin’in boyundan 
+kısa ise Ahmet’in boyunun (cm) alabileceği gerçek sayı değer-
+leri küme gösterimi olarak nasıl ifade edilebilir?
+ 
+b)  Küme gösterimi olarak ortak özellik yöntemi mi, listeleme yön -
+temi mi tercih edilmelidir? Gerekçeleriyle birlikte açıklayınız.
+165 cm
+Leyla
+178 cm
+Ersin
+12.	Uygulama
+2.  x R!  olmak üzere Nehir’in boyu x cm olsun. Leyla ve Ersin’in boyuna göre x in alabileceği gerçek sayı 
+değerlerinin bulunduğu aralık değerleri aşağıdaki tabloda dört farklı gösterimle verilmiştir. Tabloyu örnekteki 
+gibi doldurunuz.
+Sözel İfade Aralık Gösterimi ve Aralık Adı Sayı Doğrusu Gösterimi
+Nehir’in boyu Leylaʼnın bo -
+yundan uzun, Ersinʼin boyun-
+dan kısadır.
+165, 178_i  açık aralık 165 178
+Cebirsel Temsil x R!_i Küme Gösterimi
+165x 178, x R11 ! Ax 165 x 178, x R11;!= #-
+Sözel İfade Aralık Gösterimi ve Aralık Adı Sayı Doğrusu Gösterimi
+Nehir’in boyu Leylaʼnın boyu-
+na eşit veya Leyla’nın boyun-
+dan uzun, Ersin’in boyundan 
+kısadır. 
+Cebirsel Temsil x R!_i Küme Gösterimi

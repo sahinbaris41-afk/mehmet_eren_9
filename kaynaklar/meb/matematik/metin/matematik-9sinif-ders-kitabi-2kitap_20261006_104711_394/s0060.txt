@@ -1,0 +1,42 @@
+60
+4. Tema / Eşlik ve Benzerlik
+ 4.4. 	TALES,	ÖKLİD	VE	PİS AGOR	TEOREMLERİ
+Konuya Başlarken
+Benzerlik çalışmalarında sıkça karşılaşılan şekiller, paralel doğrular ve kesenlerden oluşur. 
+Tales teoremi, paralel doğrular ve kesenler arasındaki ilişkiyi açıklayan bir teoremdir.
+Tales, Mısır Piramitleri’nin yüksekliğini ölçmek için gölgelerden faydalanmıştır. Yukarıdaki 
+görsel Giza Piramidi’ni temsil etmektedir. Görselde AH7A  piramidin yüksekliğini, ED7A  T ales 
+tarafından kullanılan toprağa dikili durumdaki çubuğu, DF7A  ve HF7 A  sırasıyla güneş ışınlarının 
+belirli bir açıyla geldiği bir saatte çubuğun ve piramidin gölge uzunluklarını göstermektedir .
+Buna göre T ales’in piramidin yüksekliğini nasıl hesaplamış olabileceğini düşününüz. 
+Fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+Tales	Teoremi
+T ales,	geometrinin	sadeleştirilmesine	ve	daha	anlaşılır	olmasına	önemli	katkılarda	bulunmuştur.	Ortaya	
+koyduğu	T ales	teoremi	ile	paralel	doğrular	ve	kesenler	arasındaki	ilişkileri	açıklayarak	temel	geometrik	
+ilkeleri	daha	erişilebilir	hâle	getirmiştir.
+A
+H
+D
+E
+F
+Tales Teoremi
+Aşağıda verilen teoremin ispatına yönelik adımları uygulayınız.
+1. Teoremi inceleyiniz.
+ Teorem: Birbirine paralel en az üç doğru, farklı iki kesen üzerinde orantılı doğru parçaları oluşturur. 
+Verilenler: dd d34 5''  olacak şekilde d 3, d 4 ve d 5 doğrularını 
+kesen farklı d1 ve d2 doğruları
+İspatlanacak ifade: 
+BC
+AB
+EF
+DE
+=
+10. Uygulama
+d1
+A D
+B E
+C F
+d2
+d3
+d4
+d5

@@ -1,0 +1,62 @@
+218
+7. Ünite: BÖLGeLeR, ÜLKeLeR Ve KÜReSeL BAĞLAntILAR
+1. Adım: Aşağıdaki soruları cevaplayınız ve cevaplarınızı arkadaşlarınızla tartışınız.
+1.
+ İklim bölgelerinin oluşturulmasında belirleyici kriterler nelerdir?
+2.
+ Türkiye hangi iklim bölgelerinin sınırları içinde yer almaktadır?
+2. 
+Adım: Türkiye’deki iklim bölgelerini aşağıdaki dilsiz Türkiye haritası üzerinde oluşturunuz.
+Yönerge: Aşağıdaki işlem adımlarını dünya iklim tipleri dağılışı haritasından yararlanarak uygulayınız.
+Amaç Bölge ve bölge sınırı hakkında varsayımlarda bulunabilme
+Beceri Çıkarım Yapma, Kendini Düzenleme (Öz Düzenleme), İletişim
+ETKİNLİK Bölge Belirleme Kriterleri
+K
+DEĞERLENDİRME
+Süreç sonunda aşağıdaki soruları cevaplayınız ve cevaplarınızı arkadaşlarınızla tartışınız.
+1.
+ Oluşturduğunuz bölge, kullanmış olduğunuz kriterin özelliğine göre hangi bölge türü içerisinde yer alır?
+2.
+ Y
+eryüzündeki bölgelerin farklı kriterlere göre oluşturulmasının amacı ne olabilir?
+3.
+ Y
+eryüzünün farklı bölgelere ayrılmış olması coğrafya bilimi açısından neden önemlidir?
+0           100          200
+Gürcistan
+NÖC
+AÖC
+Ermenistan
+İran
+Irak
+Suriye
+Az.
+Bulgaristan
+Yunanistan
+Karadeniz
+Akdeniz
+Marmara 
+Denizi
+Ege Denizi
+KKTC
+GKRY km
+Yüksek dağ iklimi
+Çöl iklimi
+Ekvatoral iklim
+Tundra iklimi
+Kutup iklimi
+Savan iklimi
+Okyanusal iklim
+Akdeniz iklimi
+Karasal iklim
+Sert karasal iklim
+Muson iklimi
+0      1000    2000
+km
+Ekvator
+Hint Okyanusu
+Atlas Okyanusu
+Kuzey (Arktik) Okyanusu
+Güney Okyanusu
+Büyük Okyanus
+Büyük Okyanus

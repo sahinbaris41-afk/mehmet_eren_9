@@ -1,0 +1,110 @@
+150
+2. Tema/Çeşitlilik
+  
+H
+  
+H
+  
+H
+ Cl  Cl  Cl
+O
+ Cl  Cl
+ Cl
+  
+H
+  
+H
+  
+H
+ Cl  Cl  Cl
+O
+ Cl  Cl
+ Cl
+Moleküller arası etkileşimler elektrostatik çekim kuvvetine dayanır ve mo-
+leküllerdeki zıt kutupların birbirini çekmesiyle açıklanır. Bu etkileşimler katı 
+veya sıvı hâldeki maddeleri bir arada tutan ve maddelerin bütünsel yapısını 
+oluşturan önemli kuvvetlerdir.
+Molekülün bir bölü münde elektronca zengin ve kısmen eksi (δ¯), molekülün 
+diğer bölümünde ise elektronca fakir ve kısmen artı (δ
++
+) yüklü kutuplar bulu-
+nur. Bu durum moleküldeki iki kutuplu yapıyı oluşturur ve kalıcı dipol olarak 
+adlandırılır.
+Apolar moleküller ve soy gaz atomlarında elektron yoğunluğu dengeli dağı-
+lıma sahiptir ancak elektron dağılımındaki dalgalanmalar sonucu anlık ola-
+rak elektron yoğunluğunun arttığı bölge negatif yükle yüklenir. Bu durum yük 
+dağılımının geçici olarak bozulmasına ve kutuplaşmanın ortaya çıkmasına 
+neden olur. Bu geçici duruma geçici dipol veya indüklenmiş dipol denir.
+Görsel 2.13’teki tanecik-
+lerde elektronlarca zengin 
+bölgeler mavi, elektronca 
+fakir bölgeler kırmızı 
+ve nötral bölgeler mor 
+noktalar ile gösterilmiştir. 
+Ayrıca kalıcı dipole sahip 
+molekülde noktalı alanlar 
+için farklı boyut, geçici 
+dipole sahip moleküllerde 
+aynı boyut kullanılmıştır.
+Tanecikler arası etkileşim-
+ler ile ilişkilendirilebilecek 
+biyomimikri uygulamalarını 
+araştırınız. Seçtiğiniz bir 
+uygulama hakkında elde 
+ettiğiniz bilgilerle sınıf 
+arkadaşlarınız için bir afiş 
+oluşturunuz. Oluşturdu-
+ğunuz afişi EBA üzerinden 
+sınıf arkadaşlarınızla 
+paylaşınız.
+Dipol-dipol etkileşimi
+Dipol-indüklenmiş dipol etkileşimi
+İyon-indüklenmiş dipol etkileşimi
+İndüklenmiş dipol-indüklenmiş 
+dipol etkileşimi (London kuvveti)
+İyon-dipol etkileşimiKalıcı dipol
+İndüklenmiş 
+dipol
+İyon
+δ
+−
+δ
++
+δ
+−
+δ
++
+δ
+−
+δ
++
+δ
+−
+δ
++
+δ
+−
+δ
++
+δ
+−
+δ
++
+δ
+−
+δ
++
+δ
+−
+δ
++
+δ
+−
+δ
++
+δ
+−
+δ
++
+Görsel 2.13 
+Etkileşim türleri

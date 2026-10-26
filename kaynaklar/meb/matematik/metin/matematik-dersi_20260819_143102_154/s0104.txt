@@ -1,0 +1,49 @@
+104
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.10.4.1. Gerçek sayılarda fonksiyon olma şartları ile gerçek sayılarda tanımlı fonksi -
+yonların nitel özelliklerini matematiksel temsillerle değerlendirebilme
+a) Gerçek sayılarda fonksiyon olma şartları ile gerçek sayılarda tanımlı fonksiyonların 
+nitel özelliklerini (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, mak -
+simum-minimum noktaları, sıfırları, bire birliği, tekliği-çiftliği, örtenliği) grafik ve ce-
+birsel temsilleri üzerinden analiz eder.
+b) Gerçek sayılarda tanımlı fonksiyonların grafik ve cebirsel temsillerini fonksiyon olma 
+şartları ve fonksiyonların nitel özellikleri bakımından karşılaştırır.
+c) Karşılaştırmalarından hareketle gerçek sayılarda tanımlı fonksiyonların grafik ve 
+cebirsel temsilleri ile nitel özellikleri hakkında yargıda bulunur.
+MAT.10.4.2. Gerçek sayılarda f(x) = x2 şeklinde tanımlı karesel referans fonksiyonun nitel 
+özellikleri ile bu fonksiyondan türetilen (g(x) = a ∙ f(x ± r) ± k (a, r, k ∈ ℝ, a ≠ 0))   
+karesel fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme 
+a) Karesel referans fonksiyonun nitel özelliklerini (tanım kümesi, görüntü kümesi, 
+işareti, artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği, 
+tekliği-çiftliği, örtenliği) matematiksel temsilleri kullanarak belirler.
+b) Karesel referans fonksiyonun nitel özellikleri ile matematiksel temsilleri arasındaki 
+ilişkileri belirler.
+c) Karesel referans fonksiyonu grafik ve cebirsel temsili üzerinde yapılan işlemlerle 
+diğer karesel fonksiyonlara dönüştürür.
+ç) Karesel referans fonksiyon ile elde ettiği karesel fonksiyonların grafik ve cebirsel 
+temsilleri arasındaki ilişkiyi ifade eder.
+d) Karesel referans fonksiyonun nitel özelliklerinden hareketle diğer karesel fonksi-
+yonların nitel özellikleri hakkında varsayımlarda bulunur.
+e) Varsayımlarına dayalı olarak karesel fonksiyonların nitel özelliklerine ilişkin örüntü-
+leri (cebirsel, sayısal veya grafiksel) geneller.
+f)  Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerinden elde ettiği önermeleri uygun sözel veya cebirsel dil ile sunar.
+ğ) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını değerlendirir. 
+h) Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.
+ı) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını 
+değerlendirir.
+MAT.10.4.3. Gerçek sayılarda f(x) = x (x ≥ 0) şeklinde tanımlı karekök referans fonksiyonun 
+nitel özellikleri ile bu fonksiyondan türetilen (g(x) = a ∙ f(x ± r) ± k (a, r , k ∈ ℝ, a ≠ 0)) 
+karekök fonksiyonlarının nitel özelliklerine ilişkin matematiksel muhakeme yapabilme
+a)  Karekök referans fonksiyonun nitel özelliklerini (tanım kümesi, görüntü kümesi, işareti, 
+artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği, tekliği-çiftliği, 
+örtenliği) matematiksel temsilleri kullanarak belirler.
+b)  Karekök referans fonksiyonun nitel özellikleri ile matematiksel temsilleri arasındaki 
+ilişkileri belirler.
+c)  Karekök referans fonksiyonu grafik ve cebirsel temsili üzerinde yapılan işlemlerle diğer 
+karekök fonksiyonlarına dönüştürür.
+ç)  Karekök referans fonksiyon ile elde ettiği karekök fonksiyonlarının grafik ve cebirsel 
+temsilleri arasındaki ilişkiyi ifade eder.
+d)  Karekök referans fonksiyonun nitel özelliklerinden hareketle diğer karekök fonksiyon-
+larının nitel özellikleri hakkında varsayımlarda bulunur.

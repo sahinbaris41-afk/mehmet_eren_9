@@ -1,0 +1,42 @@
+28
+1. ÜNİTE 
+8. Yüksek Enerji ve Plazma Fiziği 
+Maddeyi ve radyasyon oluşturan parça-
+cıkların doğasını, atom altı parçacıkları 
+ve bu parçacıklar arasındaki ilişkileri 
+inceler. Maddenin temel yapısını anla-
+mayı ve temel yapı taşlarının birbiriyle 
+etkileşimlerini teorik ve deneysel olarak 
+ortaya koymayı amaçlar. Maddenin 
+dördüncü hâli olan plazma hâlini inceler. 
+Floresan lambalar, neon (Görsel 1.8) ve 
+xenon (zenon) lambalar, sodyum lam-
+balar, uzay ve roket teknolojileri, nükleer 
+ve tıbbi atıkların arıtılması gibi pek çok 
+alanda yüksek enerji ve plazma fiziğinin 
+yasa ve ilkelerinden yararlanılır.
+Görsel 1.8: Neon lambalarla yapılan ışıklandırma
+Örnek
+Yağmur yağdığında havada kalan su damlacıklarının içinden geçen güneş ışınlarının kırılması sonu -
+cunda beyaz ışık, renklerine ayrılarak gökkuşağını oluşturur. 
+Gökkuşağının oluşumu fizik biliminin hangi alt dalı ile ilişkilidir? Gerekçeleriyle yazınız. 
+Çözüm
+Gökkuşağının oluşumu optik bilimi ile ilişkilidir. Optik; ışığın özelliklerini, davranışını ve etkileşimlerini 
+inceler. Gökkuşağı; güneş ışınlarının yağmur damlalarına girip kırılması, yansıması ve tekrar kırılması 
+sonucunda oluşur. 
+3. Alıştırma
+Aşağıda fizik biliminin alt dallarıyla ilişkilendirilebilecek bazı olay ve durumlar verilmiştir.  Olay veya 
+durumların ilişkili olduğu alt dalı ifadelerin karşısındaki alana yazınız. 
+Olay veya Durumlar İlişkili Olduğu Alt Dal
+1. Yaprağın ağaçtan düşmesi
+2. Yıldırımın oluşması 
+3. Yıldırımın özellikleri 
+4. Yemek pişirilmesi
+5. Kutup ışıklarının oluşması
+6. Dokunmatik ekranların geliştirilmesi
+7. Lazer oluşumu
+8. Serap olayı
+9. Mıknatısın demiri çekmesi
+10. Fiber optik kablonun geliştirilmesi
+11. Fosillerin yaş tayini
+12. Kuşların uçması

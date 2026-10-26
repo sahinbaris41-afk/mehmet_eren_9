@@ -1,0 +1,32 @@
+166
+6. Tema / İstatistiksel Araştırma Süreci
+Nicel	Veri	Toplama	Planı	Yapma,	Verileri	Toplama	ve	
+Analize	Hazır	Hâle	Getirme
+PISA	[Programme	for	International	Student	Assessment	(Pırogrem	for	İntırneyşinıl	Sıtudınt	Essısmınt)]	
+adıyla	bilinen	Uluslararası	Öğrenci	Değerlen dirme	Programı;	üç	yılda	bir	yapılan,	15	yaş	grubundaki	
+öğrencilerin	kazandığı	bilgi	ve	becerileri	değerlendiren	bir	araştırmadır.	PISA’nın	temel	amacı,	öğren-
+cilerin	okulda	öğrendikleri	bilgi	ve	becerileri	günlük	yaşamlarında	kullanma	becerilerini	ölçmektir.	PISA	
+araştırmasında	okuma	becerileri,	matematik	ve	fen	bilimlerine	yönelik	başarı	testlerinin	yanı	sıra	anketler	
+de	uygulanmaktadı r.	Başarı	testinden	elde	edilen	sonuçlarla	anket	sonuçları	birlikte	değerlendirilerek	
+ülke	raporları	hazırlanmaktadır.
+Görsel 6.1: Ödev yapan öğrenciler
+Bir	lisenin	rehberlik	servisi,	2022	PISA	Türkiye	Rapo-
+ru’nda	ev	ödevi	yapmak	için	harcanan	süreye	ilişkin	
+sonuçları	incelemiştir .	PISA	Türkiye	Raporu'ndan	yola	
+çıkan	rehberlik	servisi,	kendi	okulunda	öğrencilerin	ev	
+ödevi	yapmak	için	ayırdıkları	günlük	süreleri	belirlemek	için	bir	araştırma	yapmaya	karar	vermiştir.	Bu	
+doğrultuda	rehberlik	servisinin	oluşturduğu	araştırma	soruları	aşağıdaki	gibidir.
+A	lisesindeki	öğrenc ilerin	ev	ödevi	yapm ak	için	ayı rdığı	günlük	sür e,	dakik a	cins inden	nası l	bir	eğilim	
+göstermektedir?
+A	lisesindeki	öğrencilerin	ev	ödevi	yapmak	için	ayırdığı	süre,	cinsiyetlerine	göre	dakika	cinsinden	nasıl	
+farklılaşmaktadır?
+A	lisesinde	toplam	1670	öğrenci	öğrenim	görmektedir.	A	lisesi	rehberlik	servisi,	öğrencilerin	ev	ödevi	
+yapmak	için	ayırdığı	günlük	süreyi	belirlemeye	yönelik	yapacağı	araştırmada	veri	toplamaya	başlamadan	
+önce	veri	toplama	planı	oluşturmak	için	nelere	dikkat	etmelidir?
+İstatistiksel	araşt ırma	sür ecinde	ikinci	aşama,	oluşturulan	istat istiksel	araşt ırma	sor usu	veya	sor uları	
+doğrultusunda	veri	toplama	planı	yapma	ve	verileri	analize	hazır	hâle	getirme	aşamasıdır .	V eri	toplama	
+planı	yapma	ve	verileri	analize	hazır	hâle	getirme	süreci,	oluşturulan	istatistiksel	araştırma	sorularına	
+göre	yapılmalıdır.
+Veri	toplama	planı	hazı rlanırken	dikkat	edilmes i	gerek en	bazı	özellik ler	Bilgi	Gör seli	6.2ʼde	yer	almakt adır.
+2022 PISA Türkiye Raporu’na 
+ulaşmak için karekodu okutabilirsiniz.

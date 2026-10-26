@@ -1,0 +1,13 @@
+198
+2. Tema/Çeşitlilik
+1 ve 2. soruları cıva ve suyla ilgili verilen görselleri inceleyerek cevaplayınız.
+25°C’ta cıvanın yüzey gerilimi 480 dyn/cm, suyun yüzey gerilimi ise 72 dyn/cm’dir.
+1. Cam bir yüzeye cıva ve su damlatıldığında suyun yüzeyde yayıldığı, cıvanın ise yayılmayıp yüzeyi 
+ıslatmadığı görülmektedir. Bu durumu iki sıvının yüzey gerilimleri ile açıklayınız. 
+2. Yüzey gerilimi fazla olan sıvıların kendi molekülleri arasındaki etkileşim (kohezyon) mi yoksa cam ile 
+olan etkileşimi (adezyon) mi daha fazladır? Açıklayınız.
+Cam taneciği Cam taneciğiSu taneciği Cıva taneciği
+3. Bir sıvının yüzey gerilimi ile kılcallık özelliği arasında nasıl bir ilişki vardır? Görselleri kullanarak 
+açıklayınız.
+Islatan SıvılarEtkinlik-2.28
+Hg(s)H20(s)

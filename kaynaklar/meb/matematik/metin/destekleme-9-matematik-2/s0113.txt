@@ -1,0 +1,25 @@
+112
+MATEMATİK 9 
+7. TEMA: VERİDEN OLASILIĞA
+1. Adım
+2. Adım
+Bu etkinlikte deneysel olasılığa yönelik bir etkileşimli içerik yer almaktadır. Grup arkadaşınızla görev 
+dağılımı yapınız ve adımları sırasıyla uygulayınız.
+Yandaki görselde yeşil, mavi ve kırmızı renkli eş bölmelere ayrılmış bir 
+çark verilmiştir. Çarkın merkezinde bulunan ok, döndürüldükten son-
+ra durduğunda bir rengi göstermektedir.
+Grup arkadaşınızla çarkı döndürünüz ve durduğunda okun göstere-
+ceği rengin olasılık değerlerini tahmin ediniz.
+Etkinlik Aşaması
+Çözüm:
+Çark deneyini etkileşimli içerik olarak gerçekleştirmek için yanda verilen karekodu 
+akıllı cihazlarınızda okutunuz.
+Uygulamayı 
+görmek için 
+karekodu 
+okutunuz.
+Genel ağda ulaşacağınız çalışmada çarkın altında bulunan döndür butonuna her tık-
+ladığınızda ok dönecek ve durduğunda gösterdiği renge yönelik sonuçlar kullanıla-
+rak deneysel olasılıklar hesaplanacaktır.
+Çark deneyinde tekrar sayısının deneysel olasılık değerine etkisini inceleyebilmek 
+için sırasıyla oku 5, 10, 20 ve 50 defa döndürünüz.

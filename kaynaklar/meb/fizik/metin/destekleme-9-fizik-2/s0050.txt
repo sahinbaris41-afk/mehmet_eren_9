@@ -1,0 +1,38 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+49
+ÜNİTE 4: ENERJİ
+1. ETKİNLİK ADI FİZİK EVRENİNİN MATEMATİKSEL YOLU
+ ► Seçilen deneyin tasarım ve düzeneğini öğrenci grubuna çıktı olarak veriniz.
+ ► Grubun deneyi gerçekleştirmesini sağlayınız.
+ ► Gruptaki öğrencilere verileri not edeceklerini ve ardından bulgular doğrultusunda çıkarımlarda buluna-
+caklarını söyleyiniz. 
+ ► Öğrencilerle birlikte seçilen deney sonuçlarına göre ısı, sıcaklık değişimi, öz ısı ve ısı sığası arasında ne 
+tür bir ilişki olabileceğini belirleyiniz. 
+ ► Öğrencilerle birlikte belirlenen ilişkilerin matematiksel modeline yönelik bir önerme sununuz.
+1. Deney
+Deneyin Amacı Isının sıcaklık değişimine etkisini belirleyebilme
+Araç Gereç 20 g kütleli bakır levha (üç adet), maşa, termometre, ısı kaynağı (bunzen beki), 
+ısıya dayanıklı eldiven, kronometre
+Deney Tasarımı Deney Düzeneği
+1. 20 g kütleli üç bakır levha alınız ve ilk sıcaklıklarını 
+termometreyle ölçünüz. Elde edilen değeri 
+Tablo 4.1'de yer alan boşluğa yazınız. 
+2. Bakır levhaları, ısıya dayanıklı eldiven ve maşayla 
+tutunuz. Ardından bir kronometre yardımıyla 1, 2 
+ve 3 dakika boyunca ısı kaynağında ısıtınız. 
+3. Verilen süre dolduğunda bakır levhaların son 
+sıcaklıklarını termometre yardımıyla okuyunuz 
+ve elde edilen değerleri Tablo 4.1'de yer alan 
+boşluğa yazınız.
+4. Sıcaklık farklarını hesaplayınız ve Tablo 4.1'de 
+yer alan boşluğa yazınız. 
+5. Elde ettiğiniz verileri Tablo 4.2'de yer alan 
+boşluğa yazıp yorumlayınız.
+Süre (dk.) Kullanılan (g) İlk Sıcaklık (Tİ: °C) Son Sıcaklık (TS: °C) Sıcaklık Farkı (ΔT = TS-Tİ)
+1 20
+2 20
+3 20
+Tablo 4.1: Eşit kütlelerdeki bakır levhaların ilk sıcaklıkları, ısı aldıklarında elde edilen son sıcaklık ve hesaplanan sıcaklık farkı değerleri
+Bakır Levha
+Bakır Levha
+Bakır Levha

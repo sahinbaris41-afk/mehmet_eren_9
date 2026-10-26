@@ -1,0 +1,23 @@
+76
+1. Tema
+2. Elma, patates, süt, yumurta, ekmek, fındık, ceviz, peynir, bakla, fasulye, ayçiçeği yağı gibi günlük hayatta sık-
+ça tüketilen besinlerin içerdiği organik molekülleri tahmin ediniz ve tahminlerinizi aşağıdaki tabloya yazınız. 
+Verilen besinlerin tabloda farklı sütunlara birden fazla yazılabileceğini unutmayınız.
+Karbohidrat İçeren Besinler Protein İçeren Besinler Yağ İçeren Besinler
+3. Öğretmeninizin rehberliğinde beşer kişilik heterojen öğrenci ekipleri oluşturunuz. 
+4. Ekip olarak besinlerde tahmin ettiğiniz organik moleküllerin niteliksel tayinini yapabilmek için ayıraçların 
+kullanılacağı deneyler tasarlayınız.  
+5. Tahminlerinize göre aşağıdaki üç besin grubu için hangi ayıraçları kullanacağınızı ve nasıl bir deney planla-
+dığınızı ilgili alanlara yazınız.
+Karbohidrat Tayini
+Kullanılacak besinler: 
+Kullanılacak ayıraçlar:
+Deney planı: 
+Protein Tayini
+Kullanılacak besinler: 
+Kullanılacak ayıraçlar:
+Deney planı: 
+Yağ Tayini 
+Kullanılacak besinler: 
+Kullanılacak ayıraçlar:
+Deney planı: 

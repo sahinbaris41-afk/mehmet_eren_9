@@ -1,0 +1,26 @@
+50
+MATEMATİK 9 
+3. TEMA: GEOMETRİK ŞEKİLLER
+1. Adım
+ ► Adnan, her kenarı farklı uzunlukta olan üçgen çerçeveler yapmak 
+için marangozdan uzunlukları santimetre cinsinden tam sayı olan 
+tahta çubuklar satın alıyor.
+Yanda verilen şekil Adnan’ın oluşturacağı üçgen çerçevelerinden bi-
+rini temsil etmektedir.
+a.  Adnan, elinde bulunan tahta çubukları uç uca ekleyerek en uzun kenarı 7 cm olan kaç farklı üçgen 
+çerçeve yapabilir? Yaptığınız çalışmaları gerekli işlem adımlarını gösterecek şekilde yazınız.
+b.  Üçgen çerçevenin en uzun kenarı olan c kenarının uzunluğunun en az kaç santimetre olabileceğini 
+hesaplayınız.
+c.  Yukarıda elde ettiğiniz sonuçlardan yola çıkarak c kenarının diğer değerleri için elde edilebilecek 
+üçgen çerçeve sayılarındaki değişimi inceleyiniz.
+Bu etkinlikte üçgenin açı-kenar ilişkilerini ve üçgen oluşturma koşullarını gerçek hayattan seçilen 
+problem durumlarında inceleyeceksiniz. Adımları sırasıyla uygulayınız.
+Etkinlik Aşaması
+Çözüm:
+Çözüm:
+Çözüm:
+c
+a
+bA
+B
+C

@@ -1,0 +1,40 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+82
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Motor yağı, motorun içindeki sürtünmeyi azaltarak, hareketli parçaları korur ve motorun uzun ömürlü 
+çalışmasını sağlar. Bu nedenle motor yağının viskozite değerlerinin bilinmesi önemlidir. Motor yağları 
+viskozite değerlerine göre 20W-50, 10W-40 gibi farklı numaralarla sınıflandırılır. Bu numaralandır -
+mada ilk sayı motor yağının düşük sıcaklıktaki viskozitesini, ikinci sayı ise yüksek sıcaklıktaki visko -
+zitesini gösterir (W harfi İngilizce kış anlamına gelen “winter” kelimesinden gelmektedir.). Bu nedenle 
+motor yağı seçilirken aracın kullanıldığı mevsim şartları ve ortam sıcaklığı dikkate alınmalıdır. Kışın 
+viskozitesi düşük yağların (ince yağlar), yazın ise viskozitesi yüksek yağların (kalın yağlar) tercih 
+edilmesi motoru korur ve performansı artırır. Aşağıdaki grafikte bazı motor yağlarının viskozitelerinin 
+sıcaklıkla değişimi verilmiştir.
+Ortam Sıcaklık değeri (oC)
+10W-30
+10W-40
+10W-60
+15W-40
+20W-60
+5W-30
+0W-30
+-35 -30 -25 -20 -15 -10 -5 +5 +10 +15 +20 +25 +30 +35 +40 +45 +500
+Grafiğe bakıldığında 10W-30 motor yağının düşük sıcaklıktaki viskozitesi ile 10W-40 yağının düşük 
+sıcaklıktaki viskozitesinin aynı olduğu görülür. Bu durum soğuk havalarda her iki motor yağının da 
+aynı performansı gösterdiğini ifade eder. Ancak yüksek sıcaklıkta 10W-40 yağının viskozitesinin daha 
+fazla olduğu görülür. Bu durum yüksek sıcaklıklarda 10W-40 motor yağının viskozitesini koruyacağı 
+ve motor için daha iyi bir performans oluşturacağı sonucuna ulaşılır.
+1. Motor yağının viskozitesinin sıcaklıkla değişim tablosundan yola çıkarak aşağıdaki bilgilerden han-
+gisine ulaşılabilir? (KB2.8 SB4)
+A) 10W-30 yağı yüksek sıcaklıklarda 10W-40 yağına göre daha kolay akar.
+B) 10W-60 yağı yüksek sıcaklıklarda 15W-40 yağına göre viskozitesi düşüktür.
+C) 5W-30 yağı hem düşük hem yüksek sıcaklıkta en yüksek viskoziteye sahiptir.
+D) 0W-30 yağı düşük viskoziteden dolayı yaz aylarında tercih edilmelidir.
+E) 15W-40 yağı ile 10W-40 yağı kışın aynı viskozite değerine sahiptir.
+2. Verilen bilgilere göre motor yağlarının sıcaklığa bağlı viskozite değişimiyle ilgili aşağıdakilerden 
+hangisi çıkarılabilir? (KB2.8 SB5)
+A) 10W-40 motor yağı, düşük sıcaklıklarda 20W-60 yağına göre daha akışkandır.
+B) Sıcaklığın fazla olduğu bölgelerde viskozitesi düşük olan yağlar tercih edilmelidir.
+C) Kış viskozitesi yüksek, yaz viskozitesi düşük yağlar motor sürtünmesini azaltır.
+D) 5W-30 numaralı yağlar yüksek sıcaklıkta viskozitesi az olduğundan yazın tercih edilebilir.
+E) Kışın sert geçtiği bölgelerde kalın yağlar tercih edilirse motor sürtünmesi azalır.

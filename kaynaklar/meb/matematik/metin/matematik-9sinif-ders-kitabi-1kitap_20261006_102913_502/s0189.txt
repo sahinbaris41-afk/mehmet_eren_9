@@ -1,0 +1,35 @@
+189
+3. Tema /  Geometrik Şekiller
+2. Bilal, uzunlukları birbirinden farklı olan mavi, pembe ve sarı renkli 
+üç çıta ile ABC üçgeni oluşturmuştur. Bu üçgenin kenar uzunluk-
+larını karşılaştırmak için evde bulduğu, ölçüleri silinmiş, eski bir 
+cetveli kullanmıştır. D, E ve F noktaları çıtaların orta noktaları 
+olmak üzere cetveli her bir çıtanın üzerine yerleştirdiğinde yan-
+daki şekil ortaya çıkmıştır.
+ Buna	göre 	aşağıdaki 	soruları 	cevaplayınız. 	(Çıta 	kalınlıkları 	
+dikkate	alınmayacaktır.) 
+a)	 Üçgenin	iç	açılarının	ölçülerini	küçükten	büyüğe	doğru	sıralayınız.
+b)	 En	kısa 	çıtanın 	uzunluğunun 	60 	cm, 	cetvelin 	uzunluğunun 	40 	cm 	olduğu 	durumda 	üçgenin	
+çevre	uzunluğunun	cm	cinsinden	alabileceği	en	küçük	tam	sayı	değerini	bulunuz.
+Teknoloji Uygulaması
+Aşağıda verilen önermeyi inceleyiniz. Verilen adımları sırasıyla uygulayarak soruları cevaplayınız.
+Önerme
+ABC bir üçgen ve D üçgenin iç bölgesinde bir nokta ise
+ DB DC AB AC1++  dur.
+1. Bilgisayar veya etkileşimli tahtada matematik yazılımını açınız.
+2. Araçlar bölümünden Çokgen aracını seçiniz ve ABC üçgenini oluşturunuz.
+3. Araçlar bölümünden Nokta aracını seçerek ABC üçgeninin iç bölgesinde bir D noktası belirleyiniz.
+4. Araçlar bölümünden Doğru Parçası aracını seçerek DB7A  ve DC7A  nı çiziniz.
+5. Ölçüm bölümünden Uzaklık veya Uzunluk aracını seçerek sırasıyla DB7A , DC7A , AB7A , AC7A  nın uzunluklarını 
+belirleyiniz.
+6.	Uygulama
+A
+B C
+D
+A
+B C
+F
+D E
+Cetvel
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.

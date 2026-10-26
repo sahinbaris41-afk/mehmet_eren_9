@@ -1,0 +1,72 @@
+64
+4. Tema / Eşlik ve Benzerlik
+13. Sıra Sizde      
+1. Arif,	yaşadığı	ilçeye	kurulan	rüzgâr	türbinlerinden	birinin	boyunu	ölçmek	için	basit	bir	kamera	düzene-
+ği		kullanmıştır.
+Yukarıdaki	şekilde	D,	G	ve	H	noktaları	doğrusaldır.	Rüzgâr	türbininin	kameradaki	görüntüsünün	uzun-
+luğu	 AB cm 4= ,	kameranın	genişliği	 FB cm 15= ,	rüzgâr	türbininin	kameranın	G	noktasında	bulu-
+nan	ayağına	uzaklığı	 DG cm 3000= ’dir.	D,	E,	A	ve	C,	E,	B	noktaları	doğrusaldır .
+Buna göre rüzgâr türbininin boyunu ifade eden DC  nun kaç cm olduğunu bulunuz.
+3000
+A
+F
+G H
+E
+B
+C
+D 15
+4
+23. ÖRNEK
+Yandaki	 görselde	 mum	 alevinin	 saydam	 olmayan	 bir	 karton	
+kutu	içindeki	görüntüsü	modellenmiştir.	Bu	modelde	mum	ale-
+vinin	ışığı	karton	kutuya	açılan	delikten	geçerek	kutunun	karşı	
+yüzeyinde	oluşmaktadır.
+B,	H,	D	ve	A,	H,	C	noktaları	doğrusaldır.	 ,AB EF CD''77 7AA A 
+,AB cm 12=  BH cm 16= 	ve	 HD cm 8= 	olarak	verilmiştir.
+Buna	göre	mum	alevinin	kutu	yüzeyinde	oluşan	görüntüsünün	boyunun	kaç	cm	olduğunu	bulunuz.	
+Çözüm
+AB CD'77 AA 	ve	 ,m ABD m BDC=`` jj%%
+m BAH m HCD=`` jj%%  ve m BHA m DHC=`` jj%%  
+olduğundan	AHB CHD+&&  dir	(A.A.).
+Buradan	 .
+HD
+BH
+CD
+AB
+HC
+AH
+dur==
+HD
+BH
+CD
+AB
+oldu undanğ=  .
+CD
+CD cm bulunur816 12 1612 8 6& $== =
+A
+B
+H
+D
+C
+Yukarıdaki şekilde 
+A, E, D; B, E, C 
+noktaları doğrusal ve 
+AB CD'77 A A  olmak 
+üzere da b fe dir.==c
+A B
+E
+a
+e
+f
+cd
+b
+C D
+C
+D
+A
+B E
+F
+H
+Karton	kutu
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

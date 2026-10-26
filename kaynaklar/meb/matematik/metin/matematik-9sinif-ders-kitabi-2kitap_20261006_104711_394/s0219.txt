@@ -1,0 +1,51 @@
+219
+7. Tema / Veriden Olasılığa
+Olayların teorik olasılık değeri hesaplanırken olası tüm çıktılar görselleştirilir. Görselleştirilen olası tüm 
+çıktılar içinden istenen çıktılar belirlenir. İstenen çıktıların sayısının olası tüm çıktıların sayısına oranı, 
+incelenen olayın teorik olasılık değerini verir.
+Olay nt eoriko laslkd ee ri Olas tm kt larn says
+Olay aitk tl ar ns ay sa
+ıı ığ ıü çı ıı ıı
+çı ıı ıı
+=
+4. Sıra Sizde      
+Gözlüklü Gözlüksüz Toplam
+Kız 
+Erkek
+Toplam
+Bir sınıftaki 48 öğrenciden 28’i kızdır. Kızların 8’i, er -
+keklerin 6’sı gözlüklüdür. 
+Buna göre bu sınıftan seçilecek bir öğrencinin 
+gözlüklü veya erkek öğrenci olma olayı ile gözlük-
+süz ve erkek öğrenci olma olayının olasılık değer-
+lerini yanda verilen tablo gösteriminden yararla-
+narak ayrı ayrı bulunuz. 
+4. ÖRNEK
+Havaya atılan hilesiz iki sayı küpünün üst yüzeyine gelen sayıların çarpımının 6’ya kalansız bölünebilme 
+olayının teorik olasılık değerini bulunuz.
+Çözüm
+Havaya atılan hilesiz iki sayı küpünün üst yüzeyine 
+gelen sayıların çarpımının 6’ya kalansız bölünebil -
+me olayının teorik olasılık değerini hesaplayabilmek 
+için olası tüm çıktılar yandaki tabloda görselleştiril -
+miştir. Tabloda maviye boyanmış hücreler, istenen 
+çıktıları belirtmektedir.
+Tablo incelendiğinde olası tüm çıktıların sayısının 
+36, istenen çıktıların sayısının 15 olduğu görülür. 
+Buna göre havaya atılan hilesiz iki sayı küpünün üst 
+yüzeyine gelen sayıların çarpımının 6’ya kalansız 
+bölünebilme olayının olasılık değeri
+36
+15
+12
+5=   şeklinde bulunur.
+Hilesiz 
+Sayı 
+Küpleri
+1 2 3 4 5 6
+1 (1, 1) (1, 2) (1, 3) (1, 4) (1, 5) (1, 6)
+2 (2, 1) (2, 2) (2, 3) (2, 4) (2, 5) (2, 6)
+3 (3, 1) (3, 2) (3, 3) (3, 4) (3, 5) (3, 6)
+4 (4, 1) (4, 2) (4, 3) (4, 4) (4, 5) (4, 6)
+5 (5, 1) (5, 2) (5, 3) (5, 4) (5, 5) (5, 6)
+6 (6, 1) (6, 2) (6, 3) (6, 4) (6, 5) (6, 6)

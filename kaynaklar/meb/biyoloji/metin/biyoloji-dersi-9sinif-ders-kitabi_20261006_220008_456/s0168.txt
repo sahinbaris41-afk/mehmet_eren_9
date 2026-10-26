@@ -1,0 +1,44 @@
+168
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+ÖLÇÜTLER Yeterli değil(1) Kabul edilebilir(2) Oldukça iyi(3) Mükemmel (4) 
+Araştırma Sorusu ve 
+Amaçlar
+Araştırma sorusu 
+belirsiz veya açıkça 
+belirtilmemiş.
+Araştırma sorusu var 
+ancak net olmayan 
+veya karmaşık.
+Net bir araştırma 
+sorusu var, ancak 
+amaçlar tam olarak 
+belirtilmemiş.
+Net ve açık bir 
+araştırma sorusu ve 
+amaçlar belirtilmiş.
+Literatür Taraması Literatür taraması eksik veya yetersiz. Literatür taraması var ancak kapsamı sınırlı veya güncel değil. Literatür taraması geniş kapsamlı, ilgili ve güncel kaynaklara dayanıyor. Yenilikçi ve derinlemesine bir literatür taraması, mevcut bilgiyi etkili bir şekilde sentezliyor.
+Bulgular ve Sonuçlar 
+Bulgular sunulmamış 
+veya anlamlı sonuçlar 
+çıkarılmamış.
+Bulgular var ancak 
+kapsamlı değil veya 
+sonuçlar net değil.
+Bulgular açıkça 
+sunulmuş, analiz 
+edilmiş ve sonuçlar 
+doğru bir şekilde 
+çıkarılmış.
+Kapsamlı, 
+derinlemesine analiz 
+edilmiş bulgular ve 
+sonuçlar, araştırma 
+sorusuna doğru 
+cevaplar sunuyor.
+Tartışma ve Yorumlar Tartışma eksik veya sonuçlara dayanmıyor. Tartışma var ancak yetersiz veya sonuçları yorumlamada zayıf. Sonuçlarla ilgili mantıklı bir tartışma, literatürle uyumlu yorumlar. Derinlemesine, eleştirel bir tartışma, sonuçların geniş bir bağlamda yorumlanması.
+Yazım ve Sunum Yazım hataları ve anlaşılması güç sunum. Yazım ve sunum zayıf, bazı hatalar var. Akıcı yazım, düzenli ve profesyonel sunum.
+Dil ve sunum 
+mükemmel, 
+profesyonel 
+standartlarda.
+FORM 6

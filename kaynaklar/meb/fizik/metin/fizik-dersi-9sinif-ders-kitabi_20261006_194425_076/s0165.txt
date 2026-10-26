@@ -1,0 +1,52 @@
+165
+AKIŞKANLAR
+Günlük hayatta farklı basınç birimleri kullanılır. Deniz seviyesinde açık hava 
+basıncı, aşağıdaki gibi ifade edilir:
+1 atm = 76 cmHg = 1,013 : 1 05 Pa
+Açık hava basıncı; hava sıcaklığı, hava yoğunluğu ve atmosferin kompozis -
+yonu (Görsel 3.18) gibi etmenlere bağlı olarak değişiklik gösterebilir. Sıcaklık 
+ve havanın yoğunluğu, açık hava basıncının yeryüzünde değişiklik gösterdi -
+ğinin anlaşılması bakımından önemli iki etmendir.
+Azot
+Oksijen%1
+%78
+%21
+Karbondioksit,
+argon, su buharı, diğer gazlar
+Görsel 3.18: Atmosferin kompozisyonu
+Sıcaklık, havanın genleşmesi ve büzülmesi üzerinde doğrudan etkiye sahiptir. 
+Sıcaklık arttığında hava molekülleri daha hızlı hareket eder ve birbirinden 
+uzaklaşır. Bu durum, havanın genleşmesine ve yoğunluğunun azalmasına 
+neden olur. Yoğunluğu azalan hava daha hafif hâle gelir ve yükselir. Böylece 
+alçak basınç bölgeleri oluşur. Sıcaklık azaldığında ise hava molekülleri yavaş-
+lar, birbirine yaklaşır ve hava yoğunluğu artar. Yoğunlaşan soğuk hava yeryü-
+züne yakın bölgelerde yüksek basınç alanları oluşturur.
+Hava yoğunluğu, birim hacimdeki hava kütlesinin miktarını ifade eder ve bu 
+yoğunluk yükseklikle değişir. Dünya yüzeyine yakın bölgelerde hava yoğun -
+luğu daha fazladır. Yoğunluk; sıcaklık, nem vb. etmenlere bağlı olarak değişir. 
+Soğuyan hava yoğunlaşır, aşağı doğru hareket eder ve yüksek basınç alan -
+ları oluşturur. Öte yandan sıcaklık arttığında veya nem yükseldiğinde hava 
+yoğunluğu azalır. Daha hafif hâle gelen hava yükselir ve alçak basınç alanları 
+meydana getirir. Bu sıcaklık ve basınç değişimleri, atmosferdeki hareketleri 
+tetikleyerek rüzgâr, yağış ve fırtına oluşumuna yol açar. Havada bulunan gaz-
+lar ve bunların oranları da hava yoğunluğunu etkiler. Atmosfer kompozisyonu, 
+havanın yoğunluğunu belirlemede önemli bir rol oynar.
+Atmosferin 
+Kompozisyonu
+Atmosferi oluşturan gaz-
+ların, parçacıkların ve 
+diğer elementlerin türleri 
+ile bu türlerin oranlarını 
+ifade eder. 
+Bilgi Notu
+Otto von Guericke (Otto Fon Gurik) tarafından yapıl an Magdeburg 
+(Magdebur) deneyi, atmosfer basıncının kuvvetini ve  etkilerini gös ­
+termek amacıyla gerçekleştirilmiştir. “Magdeburg yarım küreleri” adı 
+verilen iki metal yarım küre birleştirilmiş ve bir vakum pompası ile 
+kürelerin havası boşaltılmıştır. Daha sonra yarım küreler zıt yönlerde 
+kuvvet uygulayan atlara bağlana  rak birbirinden ayrılmaya çalışılmış 
+ancak başarılı olunamamıştır. İçeride hava kalmayın ca dışarıdaki 
+atmosfer basıncı yarım küreleri bir arada tutmuştur. 
+ 
+Magdeburg deneyini temsil eden heykel,  
+Magdeburg, Almanya

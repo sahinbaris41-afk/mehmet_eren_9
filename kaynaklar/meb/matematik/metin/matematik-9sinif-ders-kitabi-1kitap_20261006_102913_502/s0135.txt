@@ -1,0 +1,32 @@
+135
+2. Tema /  Nicelikler ve Değişimler
+ Alıştırmalar
+1.  Elektrik devrelerinde kullanılan elemanlardan biri olan dirençler, farklı değerlerde üretilebilmektedir. Tam 
+olarak istenen değerlerde direnç üretmek zor olduğundan dirençlerin değerlerinde belirli bir hata payı 
+bulunur. Bu hata payı tolerans olarak isimlendirilir ve yüzde olarak ifade edilir. Örneğin 500 ohm ±%2 
+değerinde üretilen dirençlerin hata payı %2 olduğundan hata miktarı 500  2100 = 10 ohm olur. Üreti-
+len dirençlerin gerçek değerinin 500 - 10, 500 + 10   nda olabileceği ifade edilebilir.
+	 Verilen 	bilgilere	göre	aşağıdaki	soruları	cevaplayınız.
+ 
+a)  Elektrik	devresi 	elemanları 	satışı 	yapan 	bir 	firma, 	680 	ohm ±%5	değerinde 	dirençler 	üret-
+mektedir. Üretilen	dirençlerin 	gerçek 	değerine 	(ohm) 	bağlı 	hata 	miktarının 	(ohm) 	değişimini	
+ifade	eden	f	fonksiyonunun	cebirsel	temsilini	bularak	fonksiyonun	grafiğini	çiziniz.
+	 b)   Aşağıdaki	tabloyu 	elde 	ettiğiniz 	f 	fonksiyonunun 	nitel 	özelliklerine 	göre 	uygun 	ifadelerle	 	
+											doldurunuz.
+Fonksiyonun	Nitel	Özellikleri
+En Geniş Tanım Kümesi
+Görüntü Kümesi
+Fonksiyonun Sıfırı
+Fonksiyonun İşareti
+Maksimum Noktası
+Minimum Noktası
+Bire Birliği
+Artan veya Azalan Olduğu Aralıklar
+2.  Gerçek sayılarda f(x) = 1 - 2x ve g(x) = | f(x) | - 3 şeklinde tanımlı fonksiyonlar veriliyor. 
+	 g 	fonksiyonuna	göre	aşağıdaki	soruları	cevaplayınız.	
+	 a) 		 Görüntü	kümesini	bulunuz.
+	 b) 		Sıfırlarını	bulunuz.	
+ c)		 Artan	veya	azalan	olduğu	aralıkları	bulunuz.	
+ ç)		 Minimum		ve	maksimum	değerlerini	bulunuz.	 	
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

@@ -1,0 +1,68 @@
+44
+MATEMATİK 9 
+2. TEMA: NİCELİKLER VE DEĞİŞİMLER
+Doğrusal Fonksiyonların Cebirsel Gösterimleri
+f(x) = 3x - 6 g(x) = 9 - 3x
+h(x) =x + 4 k(x) = -8 - 2x
+Mutlak Değer Fonksiyonlarının Cebirsel 
+Gösterimleri
+v(x) = |3x - 6| +1 t(x) = |9 - 3x| -2
+p(x) = |x + 4| + 2 m(x) = |-8 - 2x| - 3
+Tablo-1
+Tablo-3
+Tablo-2
+x
+y
+O
+4
+-4
+GRAFİK-1
+GRAFİK-4
+GRAFİK-7
+GRAFİK-2 GRAFİK-3
+GRAFİK-6GRAFİK-5
+GRAFİK-8
+x
+y
+O 2
+-6
+x
+y
+O
+9
+3
+x
+y
+O
+-4
+-8
+x
+y
+O
+6
+2
+-4
+x
+y
+O
+7
+1
+2x
+y
+O
+7
+3
+-2
+7
+3
+11
+3
+x
+y
+O
+5
+-3
+-4
+11
+2- 52-
+ÇALIŞMA KÂĞIDI

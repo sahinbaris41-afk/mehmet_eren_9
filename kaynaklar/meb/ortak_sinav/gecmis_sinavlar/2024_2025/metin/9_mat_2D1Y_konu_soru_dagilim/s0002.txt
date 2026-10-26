@@ -1,0 +1,23 @@
+22 
+• “Ülke Geneli Yapılacak Ortak Yazılı Sınav”da açık uçlu veya açık uçlu ve kısa cevaplı 7 soru sorulacaktır.
+Algoritma ve Bilişim 
+Algoritma Temelli Problemler 
+MAT.9.3.1. Algoritma temelli yaklaşımlarla problem çözebilme 
+a) Algoritmik yaklaşımla ele alınabilecek bir problemdeki işlem ve süreçlere yönelik
+bileşenleri belirler.
+b) Problem durumlarında temsillerle (liste, tablo, çizge, akış şeması, algoritmik doğal dil,
+sözde kod gibi) matematiksel yapılar arasındaki ilişkileri belirler.
+c) Problem durumlarındaki sözel, görsel veya cebirsel ifadeleri algoritmik dile dönüştürür.
+ç) Karşılaşılan problem durumlarında geçen algoritmik dili; sözel, görsel veya cebirsel
+olarak açıklar.
+d) Karşılaşılan problem durumlarında algoritma temelli bir çözüm stratejisi oluşturur.
+e) Karşılaşılan problem durumlarında seçtiği algoritma temelli çözüm stratejisini kullanır.
+f) Karşılaşılan problem durumlarında seçtiği algoritma temelli çözüm stratejisini kontrol
+eder.
+g) Algoritma temelli çözülebilen problemlerin olası çözüm stratejilerini gözden geçirir.
+ğ) Algoritma temelli çözülebilen problemlerde çözüme ulaştıran stratejilere yönelik
+çıkarımlar yapar.
+h) Algoritma temelli çözülebilen problemlerde çözüme ulaştıran stratejilere yönelik
+çıkarımları değerlendirir.
+1 
+1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982 - 1699720982

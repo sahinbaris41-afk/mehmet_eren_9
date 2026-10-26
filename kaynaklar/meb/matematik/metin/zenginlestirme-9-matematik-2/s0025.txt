@@ -1,0 +1,35 @@
+MATEMATİK 9 
+24 25
+Etkinliğin Amacı Doğrusal fonksiyonların cebirsel ve grafiksel temsillerini ortaya koyabilme ve bu temsilleri yorumlayabilme.
+Zenginleştirme 
+Uygulaması
+Doğrusal fonksiyonların grafikle gösteriminde etkileşimli çevrim içi uygula -
+malara (oyunlar, bilgi yarışmaları, grafik çizim programları), animasyonlara, 
+somut materyal kullanımına ve elektronik tablolara dayalı farklı etkinliklere 
+yer verilir. 
+Araç Gereç ve 
+Materyaller
+• Bilgisayar veya Etkileşimli Tahta
+• Akıllı Cihaz
+Yönerge Aşağıdaki işlem basamaklarını sırayla takip ederek etkinliği gerçekleştiriniz. Etkinlik sonunda “Değerlendirme’’ sorularını cevaplayınız.
+1. ETKINLIK Bilye Kaydırağı
+Yıldızlı  Etkinlik 
+1. Adım
+2. Adım
+Yanda verilen karekodu akıllı cihazınıza  okutunuz ve açılan “Bilye Kaydırağı" oyununa 
+giriş yapınız.
+Karekod ile açılan sayfada yer alan yönergeleri takip ederek etkinliği gerçekleştiriniz. 
+Değerlendirme
+"Bilye Kaydırağı" etkinliğinde, bilyelerin tüm yıldızları toplaması için doğrusal fonksiyonun 
+grafiğin eğimi nasıl ayarlanmalıdır? Bu ayarların, bilyelerin hareket yolunu nasıl etkilediğini 
+açıklayınız.
+Çözüm:
+1
+Etkinlik sırasında bilyeler, her seferinde tüm yıldızları toplayabildi mi? Toplayamadıysa  
+bilyelerin hareket ettiği doğrusal fonksiyon üzerinde ne tür değişiklikler yapmanız gerekti?  
+Bu değişiklikleri açıklayınız.
+Çözüm:
+2
+"Bilye Kaydırağı" oyununu oynarken doğrusal fonksiyonlar hakkında ne öğrendiniz? Bu 
+öğrendiklerinizin gerçek hayattaki uygulamalarını düşünerek bir örnek veriniz.3
+Çözüm:

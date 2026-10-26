@@ -1,0 +1,23 @@
+58
+2. ÜNİTE 
+2. Alıştırma
+Sivas’ta lise öğrencileri, Çanakkale Şehitliği’ni ziyaret etmek amacıyla bir gezi düzenliyor. Öğrencileri 
+taşıyan otobüsün şoförü gezi başlarken şu duyuruyu yapıyor: “Sivas-Çanakkale arası yaklaşık 1.100 km 
+olup tahminî yolculuk süremiz 16 saattir. Otoyolda yasal olarak belirlenen sü rat sınırımız 100 km/h’tir. 
+Çanakkale’nin rakımı 15 m’dir. Oraya ulaştığımızda hava sıcaklığının 21 oC olması beklenmektedir.” 
+Metinde geçen fiziksel nicelikleri, bu niceliklerin türünü (temel veya türetilmiş) ve birimini tabloya 
+yazınız. 
+Fiziksel Nicelik Nicelik Türü SI’daki Birimi
+3. Alıştırma
+Aşağıda bazı ölçüm aletleri verilmiştir. 
+Görsellerdeki ölçüm aletleriyle ölçülen fiziksel niceliği, niceliğin temel ya da türetilmiş olma duru-
+munu ve SI’daki birimini tabloya yazınız.
+Ölçüm Aleti Ölçülen Fiziksel Nicelik Temel veya Türetilmiş SI’daki Birimi
+Sürat göstergesi Sürat Türetilmiş m/s
+Eşit kollu terazi
+Dinamometre
+Termometre
+Dereceli silindir
+Karekoddan yararlanarak temel ve türetilmiş niceliklerin sını/f_landırmasıyla ilgili etkileşimli içeriğe 
+ulaşabilirsiniz.
+ 

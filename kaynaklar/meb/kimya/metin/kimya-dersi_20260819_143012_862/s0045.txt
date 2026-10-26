@@ -1,0 +1,54 @@
+45
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.10.1.7
+Öğrencilerden denkleştirilmiş bir tepkime denklemi için tepkenlerin verilen herhangi bir 
+mol sayısı için tepken-tepken ve tepken-ürün arasındaki olası kütle, mol sayısı ve tanecik 
+sayısı ilişkilerini belirlemeleri istenir. Belirledikleri ilişkileri aynı tepkimenin tepken ve ürün-
+lerinin mol sayıları, kütleleri, tanecik sayıları arasındaki ilişkileri hesaplamada kullanmaları 
+sağlanır (OB7). Öğrencilerden kimyasal tepkimelerde tepken ve ürünler arasındaki stoki -
+yometrik ilişkilere yönelik çıkarım yapmaları istenir. Bu şekilde öğrencilerin araştırmacı 
+olmaları teşvik edilerek çalışkanlık değeri kazanmaları desteklenir  (D3.3). Öğrenciler, bu 
+çıkarımlarını diğer kimyasal tepkimelerdeki stokiyometrik hesaplamaları yapmak için kul-
+lanır. Bu aşamadan sonra sınırlayıcı bileşen ve yüzde verim hesaplamaları temel düzeyde 
+yapılır (OB7). Öğrencilerden çalışma yaprağında verilen çeşitli kimyasal tepkimelerde mol 
+sayısı, kütle ve tanecik sayısı arasında ilişki kurmayı gerektiren problemleri cevaplandır -
+maları istenebilir.
+KİM.10.1.8
+Günlük hayattan seçilen örneklerle gazların genel özelliklerine dikkat çekilir (OB1). Öğ -
+rencilerin düşüncelerini açıkça ifade edebilecekleri, aynı zamanda iletişim becerilerini 
+geliştirebilecekleri bir tartışma ortamı oluşturulur (D6.2, D14.1) . Etkinlik kâğıdı aracılığı 
+ile öğrencilerden gazların kütle, hacim, basınç, genleşme, sıkıştırılabilirlik, karışabilirlik, 
+yoğunluk özelliklerini sıvı ve katıların özellikleri ile karşılaştırmaları; aralarındaki farkları 
+ortaya koymaları istenir (OB1). Öğrencilerin gruplara ayrılmaları sağlanır. Öğrenciler, grup 
+arkadaşlarıyla gazların her bir özelliğini gözlemlemeye uygun deneyler yaparak, simü -
+lasyonlar veya kanıt kartları kullanarak veri toplar ve topladığı verileri kaydeder (KB2.2, 
+SDB2.1, SDB2.2, OB1, OB7). Böylece öğrencilerin grupla çalışma becerisi sergilemelerine, 
+hedeflerine ulaşmak için plan hazırlayıp uygulayabilmelerine yardımcı olunarak çalışkanlık 
+değerini kazanmaları desteklenir (D3.2, D3.4). Öğrenciler, elde ettikleri verileri kullanarak 
+gazların gözlemlenebilir özelliklerini tanecik modeli çizerek açıklar (OB1,OB4). Öğrencile-
+rin grup çalışmalarına katkıları akran değerlendirme formu ile değerlendirilebilir. Etkinlik 
+sonunda gazların özellikleri, kinetik moleküler teori ile açıklanır. Etkinlik kâğıtları “öğren -
+cilerin gazların niteliklerinin farkını ortaya koyabilmeleri, gözlemlerinden veri elde edebil -
+meleri ve gazların özelliklerini tanecikli yapı modeli ile açıklayabilmeleri” ölçütlerini içeren 
+dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafından değerlendirile -
+bilir (SDB1.2, E3.6).
+KİM.10.1.9
+Dinamitin patlaması, hamurun kabarması, oksijenli solunum olaylarının gerçekleşmesi, 
+araba motorunda benzinin yanması gibi olaylar gaz yasalarını içeren örnekler olarak verilir. 
+Öğrencilerin iletişim becerilerini kullanmaları amacıyla gaz davranışlarını etkileyen değiş -
+kenler ve bunların etkileri hakkında tartışma açılarak saygı değeri çerçevesinde tartışma-
+ları sağlanır (SDB2.1, D14.1, OB1, E1.5) . Öğrencilerden gazların basınç, hacim, sıcaklık ve 
+madde miktarı değişkenleri arasındaki ilişkilerin belirlenmesine yönelik araştırılabilir soru-
+lar oluşturmaları istenir. Öğrenciler, gaz basıncı kavramını katı ve sıvıların basıncıyla ilişki-
+lendirir; gazların basınç, hacim, sıcaklık ve madde miktarı değişkenleri arasındaki ilişkilere 
+yönelik hipotez oluşturur (OB1). Öğrenciler, simülasyonlar kullanarak ya da deney yaparak 
+hipotezlerini test eder (OB7). Böylece öğrencilerin görev ve sorumluluklarını yerine ge -
+tirmeleri için planlama yapmaları ve bu planı uygulamaları sağlanır (D16.3). Elde ettikleri 
+verileri kullanarak gazların basıncı, hacmi, sıcaklığı ve madde miktarı arasındaki ikili iliş -
+kileri gösteren grafikleri çizmeleri öğrencilerden istenir. Öğrencilerden her bir grafikteki 
+değişkenler arasındaki ilişkiyi ifade eden matematiksel modelleri yazmaları istenir. Her bir 
+matematiksel modelin bilimdeki karşılığının hangi gaz yasasını (Boyle, Charles, Gay Lussac 
+ve Avogadro) ifade ettiği bilgisi verilir (OB7). Öğrenciler, elde ettikleri grafiksel ve matema-
+tiksel modellerden hareketle gazlara ilişkin değişkenler (P, V, T ve n) arasındaki ilişkileri 
+açıklar (KB2.8). Gaz yasaları ile ilgili hesaplamalara girilmez. Öğrencilerden tanecik mo -
+delleri çizerek gaz yasalarını gazların kinetik moleküler teorisi ile açıklamaları istenir (OB7). 

@@ -1,0 +1,60 @@
+90
+1. Aşağıda doğrusal ilişki içeren gerçek yaşam 
+durumları verilmiştir.
+ • Sabit hızla yürüyen bir kişinin zamana bağlı 
+        aldığı mesafe
+ •  Kullanılan su miktarına bağlı olarak su saya-
+        cında yazan değer
+ • Çekilen fotokopi sayısına bağlı ödenen ücret
+ Verilen	durumları 	inceleyerek 	doğrusal 	ilişki	
+içeren	 gerçek 	 yaşam 	 durumlarına 	 farklı 	 ör-
+nekler	veriniz.
+2. Gerçek sayılarda tanımlı f ve g fonksiyonlarının 
+cebirsel temsilleri f(x) = 2x - 4 ve g(x) = -x + 3 
+biçimindedir.
+	 Buna 	göre	aşağıdaki 	 soruları 	 cevaplayınız.
+ 
+a) Tabloda verilen x değerlerine karşılık gelen 
+f(x) ve g(x) değerlerini bularak tabloyu ör -
+nekteki gibi doldurunuz.
+x -1 0 2 5
+f(x) = 2x - 4 -6
+g(x) = -x + 3 4
+ 
+b) f ve g fonksiyonlarında x  in aldığı değerler 
+artarken f(x) ve g(x)  in aldığı değerlerin nasıl 
+değiştiğini belirleyiniz.
+3. x, y  ! R olmak üzere y = 2x + 5 denklemi ve-
+riliyor. 
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+ 
+a)  Aşağıda verilen x değerlerine karşılık ge -
+len sıralı ikilileri bulunuz ve dik koordinat 
+sisteminde gösteriniz.
+ x = -1, 0, 2, 3
+ 
+b) Elde ettiğiniz sıralı ikililere göre noktaların 
+doğrusal bir ilişki oluşturup oluşturmadığını 
+açıklayınız.
+4. Aşağıdaki dik koordinat sisteminde gerçek sa-
+yılarda tanımlı f, g, h ve k fonksiyonlarının gra-
+fikleri verilmiştir. 
+O x
+y
+g
+h
+f
+k
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+ 
+a) Doğruların eğimlerini karşılaştırınız ve han-
+gisinin daha hızlı arttığını ya da azaldığını 
+açıklayınız.
+ 
+ 
+b) Doğrunun eğimi, dik koordinat sistemindeki 
+konumunu nasıl etkilemektedir? Yorumlayınız.
+5. A8=-  ve B 328=  sayılarının sıfıra olan uzak-
+lıklarını gerçek sayı doğrusunda gös teriniz ve 
+yorumlayınız.
+Ön Değerlendirme

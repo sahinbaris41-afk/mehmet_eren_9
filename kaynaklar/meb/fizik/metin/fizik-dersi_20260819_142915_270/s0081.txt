@@ -1,0 +1,49 @@
+81
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.12.1.1. Torkun matematiksel modeline yönelik tümevarımsal akıl yürütebilme
+a) Torkun kuvvet, dönme noktasına uzaklık ve kuvvetin uygulama açısı ile ilişkisini 
+matematiksel olarak modeller. 
+b) Torkun matematiksel modelini geneller.
+FİZ.12.1.2. Denge, kütle merkezi ve ağırlık merkezi ile ilgili kanıt kullanabilme 
+a) Denge, kütle merkezi ve ağırlık merkezi ile ilgili verileri toplayarak kaydeder.
+b) Denge, kütle merkezi ve ağırlık merkezi ile ilgili veri setleri oluşturur.
+c) Denge, kütle merkezi ve ağırlık merkezi kavramlarını veriye dayalı olarak açıklar.
+FİZ.12.1.3. İtme (İmpuls) ve momentum değişimi arasındaki ilişkiye yönelik bilimsel çıka-
+rım yapabilme 
+a) İtme ve momentum değişimi arasındaki ilişkiye yönelik bileşenleri tanımlar.
+b) İtme ve momentum değişimi arasındaki ilişkiye yönelik verileri toplayarak kayde-
+der. 
+c) İtme ve momentum değişimi arasındaki ilişkiye yönelik verileri yorumlar.
+FİZ.12.1.4. Momentumun korunumunu veriye dayalı tahmin edebilme 
+a) Momentumun korunumuna ilişkin verileri toplar. 
+b) Veriler üzerinden momentumun korunumuna ilişkin hesaplamalar yapar.
+c) Momentumun farklı uygulamalardaki korunumuna ilişkin yargıda bulunur. 
+FİZ.12.1.5. Eylemsizlik momentine yönelik tümevarımsal akıl yürütebilme
+a) Eylemsizlik momentinin etkilerini birden fazla durumda gözlemler. 
+b) Eylemsizlik momentinin bağlı olduğu değişkenler ile ilişkisini bulur.
+c) Eylemsizlik momentinin bağlı olduğu değişkenler ile ilişkisini geneller.
+FİZ.12.1.6. Açısal momentumun korunumuna yönelik tümevarımsal akıl yürütebilme
+a) Açısal momentumun bağlı olduğu değişkenleri gözlemler. 
+b) Açısal momentum ile bağlı olduğu değişkenler arasındaki ilişkiyi bulur.
+c) Açısal momentumun korunumunu bağlı olduğu değişkenler üzerinden geneller.
+İÇERİK ÇERÇEVESİ Tork
+Denge
+İtme (İmpuls) ve Momentum
+Momentumun Korunumu
+Eylemsizlik Momenti
+Açısal Momentum 
+Anahtar Kavramlar tork, denge, kütle merkezi, ağırlık merkezi, itme, momentum, eylemsizlik momenti, açısal 
+momentum
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; soru kutusu, rapor hazırlama, çalışma yaprağı, sunum, test, zihin hari-
+tası kullanılarak değerlendirilebilir.
+Torkun farklı uygulama alanlarına yönelik soru kutusu kullanılabilir. Soru kutusunun değer-
+lendirilmesi öz değerlendirme formu ile yapılabilir. Öğrencilerden denge, kütle ve ağırlık 
+merkezi kanıtlarına yönelik kısa bir rapor hazırlamaları istenebilir. Raporun değerlendiril-
+mesi dereceli puanlama anahtarı ile yapılabilir. İtme ve momentum değişimi arasındaki 
+ilişkiye yönelik ve eylemsizlik momentine etki eden değişkenler arasındaki matematiksel 
+ilişkiyi değerlendirmeleri için açık uçlu sorulardan oluşan çalışma yaprağı ve test verilebilir.

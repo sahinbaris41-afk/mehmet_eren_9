@@ -1,0 +1,40 @@
+50
+4. Tema / Eşlik ve Benzerlik
+2.   
+Buna göre P ve N yıldızları arasındaki mesafenin kaç ışık yılı olduğunu bulunuz.
+Bir Üçgene Eş ve Benzer Üçgenler Oluşturma
+Bu	görevde	sizden	cetvel,	açıölçer,	pergel,	renkli	kalemler,	kâğıt	gibi	araç	gereçleri	kullanarak	bir	
+üçgene	eş	ve	benzer	üçgenler	oluşturmanız;	bu	üçgenlerin	hangi	koşula	göre	eş	veya	benzer	oldu-
+ğunu	göstermeniz	ve	çalışmanızı	sunmanız	istenmektedir.	
+Göreve başlamadan önce aşağıdaki hususa dikkat ediniz.
+• Bir	çalışma	planı	oluşturunuz.	Yapılacak	işleri	bu	planda	belirtiniz.	İhtiyaç	 	duyduğun uzda	öğ ret-
+meninize	danışabilirsiniz.
+Görev esnasında aşağıdaki hususlara dikkat ediniz.
+• Çalışmanızda	eşlik	ve	benzerlik	koşullarından	her	birini	en	az	bir	kez	kullandığı nızdan	emin	
+olunuz.
+• Eş	veya	benzer	üçgenleri	oluştururken	takip	ettiğiniz	adımlara	yer	verdiğinizden	ve	bu	adımları	
+çizimlerinizle	desteklediğinizden	emin	olarak	sunumunuzu	oluşturunuz.
+• Görevinizi	sınıfta	ve	öğretmeninizin	belirlediği	sürede	tamamlayınız.
+Görev bitiminde aşağıdaki hususlara dikkat ediniz.
+• Görevinizi	tamamladıktan	sonra	çalışmanızı	sınıfta	sunarak	arkadaşlarınızla	paylaşınız.
+• Sunumunuzda	Türkçeyi	düzgün	ve	etkili	kullanmaya	dikkat	ediniz.
+• Çalışmanızı	öğretmeninize	zamanında	teslim	ediniz.
+Performans	görev iniz	aşağı daki	kar ekodda	ver ilen	analitik	derec eli	puanlama	anahtar ı	ile	öğret meniniz	
+tarafından	değerlendirilecektir.
+Performans Görevi
+P N
+M
+L
+K
+Yandaki	yıldız	haritasında	K,	L	ve	M	yıldızlarının	konumları	birleştirilerek	
+KLM	üçgeni	oluşturulmuştur.	Yıldızların	konumu	ve	aralarındaki	uzaklıklar	
+ile	ilgili	aşağıdaki	bilgiler	verilmiştir.
+• P	ve	N	yıldızları	KLM	üçgeninin	kenarları	üzerindedir .
+• PK 6= 	ışık	yılı,	 PL 10= 	ışık	yılı,	 NK 8= 	ışık	yılı,	 NM 4= 	ışık	yılı	
+ve	 LM 14= 	ışık	yılıdır.
+Kontrol Noktası
+• Karşılıklı üç kenar uzunluğu orantılı olan üçgenler benzerdir.
+• Karşılıklı birer açısı eş ve bu açıyı oluşturan kenarların uzunlukları orantılı olan üçgenler benzerdir.
+• Karşılıklı iki açısı eş olan üçgenler benzerdir.
+Analitik dereceli puanlama anahtarına 
+ulaşmak  için karekodu okutunuz.

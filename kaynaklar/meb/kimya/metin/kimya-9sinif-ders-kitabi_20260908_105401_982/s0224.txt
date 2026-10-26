@@ -1,0 +1,21 @@
+224
+2. Tema Ölçme ve Değerlendirme Soruları
+Sizden bir kimyager olarak laboratuvar ortamında dört farklı numunenin kristal türünü belirlemeniz 
+istenmektedir. Tabloda numunelere ait analiz sonuçları verilmiştir.
+Analiz 1. Numune 2. Numune 3. Numune 4. Numune 
+Koku Kokusuz Kokusuz Kokusuz Keskin ve kendine özgü koku
+Suda çözünürlük Çözünür Çözünmez Çözünmez Çözünmez
+*Hekzanda  
+çözünürlük Çözünmez Çözünmez Çözünmez Çözünür
+**Sertlik  
+(Mohs skalası) 3,0 3,5 10,0 −
+Erime noktası (
+o
+C) 848 3825 4827 80
+Katının elektrik 
+iletkenliği İletmez İletir İletmez İletmez
+Sıvı hâlinin elektrik 
+iletkenliği İletir İletir Erime noktası çok yüksek. Sonuç yok. İletmez
+*Polar maddeler polar çözücülerde, apolar maddeler apolar çözücülerde iyi çözünür. Hekzan apolar bir çözücüdür .
+**Mohs sertlik skalasında 1’den 10’a kadar değerler yer alır ve en sert mineralin değeri 10 olarak belirlenmiştir.
+31-37. soruları aşağıdaki tabloya göre cevaplayınız.

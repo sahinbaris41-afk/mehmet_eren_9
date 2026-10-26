@@ -1,0 +1,22 @@
+5.TEMA - ALGORITMA VE BILIŞIM
+58 59
+Üçüncü adımın sonunda elde ettiğiniz kitap kayıt numaralarından oluşan ikili arama ağacındaki 
+yapıyı yansıtacak şekilde sıralı gezinti yazımını ve öncelikli gezinti yazımını oluşturunuz.
+Çözüm:
+Değerlendirme
+Üçüncü adımda ağacınızı oluştururken hangi zorluklarla karşılaştınız? Bu aşamada herhangi bir 
+hata yaptınız mı ve bu hataları nasıl düzelttiniz? Açıklayınız.
+Etkinliklerde oluşturduğunuz ikili arama ağaçlarındaki en küçük ve en büyük verinin konumları 
+ile ilgili bir genelleme yapabilir misiniz?
+Veri setinizde daha fazla veri olsaydı ikili arama ağacınızda ne tür değişiklikler yapmanız gerekir-
+di? Bu durumun ikili arama ağacı performansını nasıl etkileyeceğini açıklayınız.
+Bir ikili arama ağacında arama süresinin en iyi ve en kötü durum senaryolarını hesaplayınız. En iyi 
+ve en kötü durumlar arasındaki farkları açıklayınız.
+Çözüm:
+Çözüm:
+Çözüm:
+Çözüm:
+1
+3
+2
+4

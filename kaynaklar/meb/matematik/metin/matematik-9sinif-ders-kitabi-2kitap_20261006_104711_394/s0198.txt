@@ -1,0 +1,26 @@
+198
+6. Tema/Ölçme ve Değerlendirme
+5. Bir	 lisenin	 9.	 sınıf	 öğrencileri,	 okullarında	 üniversite	 sınavına	 giren	 12.	 sınıf	 öğrencilerinin	 sınav	
+puanlarını	belirlemeye	yönelik	bir	araştırma	yapmak	istemektedir.	Bu	doğrultuda	araştırma	sorusunu	
+“Üniversite	 sınavına	 giren	 öğrencilerin	 sınav	 puanları	 nasıl	 bir	 eğilim	 göstermektedir?”	 şeklinde	
+oluşturmuştur.
+Buna göre öğrencilerin oluşturduğu istatistiksel araştırma sorusu, aşağıda verilen istatistik-
+sel araştırma sorusunda bulunması gereken ölçütlerden hangisini karşılamaz?
+A)	 Nicel 	veri	toplamaya	uygun	olması
+B)	 Değişkenlerin 	açık	bir	şekilde	görülmesi
+C)	 Araştırma 	sorusunun	veri	toplanarak	cevaplanabilmesi
+D)	 İlgilenilen 	grubun	açıkça	görülmesi
+E)	 Amacın 	açıkça	görülmesi
+6. Uçakların	 kalkış	 saatinden	 geç	 havalanmasına	 veya	 iniş	 saatinden	 geç	 iniş	 yapmasına	 rötar	
+denmektedir.	 Hava	 yolu	 firmalarının	 rötarlı	 uçuşlar	 için	 yolculara	 karşı	 bazı	 sorumlulukları	
+bulunmaktadır.	 Hava	 yolu	 firmalarının	 gecikme	 süresine	 bağlı	 olarak	 yolculara	 ücretsiz	 yiyecek	
+içecek,	ücretsiz	konaklama	hizmeti	verme	zorunluluğu	vardır.	Bir	hava	yolu	firması,	rötarlı	uçuşlar	
+nedeniyle	 karşılaması	 gereken	 hizmetlerin	 oluşturacağı	 bütçeyi	 öngörebilmek	 için	 bir	 araştırma	
+yapmıştır.	Araştırmada	bir	ay	boyunca	gerçekleşen	78	uçuşun	gecikme	süreleri	belirlenmiş	ve	bu	
+veriler	istatistik	programına	girilmiştir.
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız.
+a) Hava	yolu	firması	istatistik	yazılımına	girdiği	verilerle	aşağıdaki	nokta	grafiğini	oluşturmuştur.
+i. Grafikte	yer	alan	veriler	78	uçuşun	gecikme	süreleri	ile	ilgili	hangi	bilgileri	sunmaktadır?	
+ii.	Grafikte	yer	alan	veriler	kimler	için	önemli	olabilir?	Fikirlerinizi	yazınız.	
+Gecikme süresi (dk.)
+0 20 40 60 80 100 120 140

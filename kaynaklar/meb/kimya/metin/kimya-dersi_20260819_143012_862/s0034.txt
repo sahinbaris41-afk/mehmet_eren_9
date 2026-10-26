@@ -1,0 +1,29 @@
+34
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: SÜRDÜRÜLEBİLİRLİK
+Bu tema, Nanoparçacıklar ve Ekolojik Sürdürülebilirlik bölümünden oluşmaktadır. Bu te -
+mada öğrencilerin sürdürülebilir kalkınmanın 12. hedefi ve yeşil kimyanın atık önleme ilkesi 
+ile yenilenebilir ham maddelerin kullanımı ilkesi temelinde deney yaparak çeşitli evsel atık-
+lardan metal nanoparçacık elde etmeleri; sürdürülebilir kalkınmanın 14 ve 15. hedefleri ile 
+yeşil kimyanın kirlilik önleme için gerçek zamanlı analiz ilkesi temelinde metal, alaşım ve 
+metal nanoparçacıkların ekosistemdeki etkilerine ilişkin problemleri çözebilmeleri amaç-
+lanmaktadır.  
+DERS SAATİ 8
+ALAN 
+BECERİLERİ FBAB7. Deney Yapma
+KAVRAMSAL 
+BECERİLER KB3.2. Problem Çözme 
+EĞİLİMLER E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. 
+Sosyal Farkındalık, SDB3.2. Esneklik, SDB3.3. Sorumlu Karar Verme 
+Değerler D3. Çalışkanlık, D5. Duyarlılık, D8. Mahremiyet, D9. Merhamet, D10. Mütevazılık, D13. Sağ-
+lıklı Yaşam, D14. Saygı, D16. Sorumluluk, D18. Temizlik, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB5. Kültür 
+Okuryazarlığı, OB6. Vatandaşlık Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Fizik, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.2. Gözlemleme, KB2.10. Çıkarım Yapma

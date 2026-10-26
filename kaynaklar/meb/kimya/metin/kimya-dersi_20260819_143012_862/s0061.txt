@@ -1,0 +1,53 @@
+61
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI VE 
+SÜREÇ BİLEŞENLERİ
+KİM.11.1.1. Fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin deney yapabilme 
+a) Fiziksel ve kimyasal olaylardaki enerji değişimini gözlemlemek amacıyla deney ta-
+sarlar ve tasarladığı deneyi gerçekleştirir. 
+b) Fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin elde ettiği sonuçları günlük 
+hayattaki olayları açıklamak için kullanır. 
+KİM.11.1.2. Maddelerin enerji kaynağı olma potansiyeline ilişkin hipotezler oluşturabilme 
+a) Yanma tepkimeleri temelinde maddelerin enerji kaynağı olma potansiyeline ilişkin 
+problemleri tanımlar. 
+b) Yanma tepkimeleri temelinde maddelerin enerji kaynağı olma potansiyeline ilişkin 
+neden-sonuç ilişkilerini belirler. 
+c) Maddelerin enerji kaynağı olma potansiyellerinin tespitine yönelik oluşturduğu ne-
+den-sonuç ilişkileri temelinde bağımlı-bağımsız değişkenleri ve kontrol değişken -
+lerini belirler.  
+ç) Değişkenler arasındaki ilişkiyi belirlemek üzere deneyler yapar. 
+d) Deneyler sonucunda yakıtların veya canlılara enerji veren maddelerin enerji kay -
+nağı olma potansiyeline ilişkin önermelerini bilimsel veriler temelinde geliştirir.
+KİM.11.1.3. Bağ enerjileri temelinde tepkimelerin entalpi değişimine ilişkin tümevarımsal 
+akıl yürütebilme 
+a) Farklı tepkimelerde kırılan ve oluşan bağların enerjileri ile tepkimelerin entalpi de-
+ğişimi arasında keşfettiği örüntüyü matematiksel olarak modeller. 
+b) Matematiksel modelini kullanarak bir tepkimenin endotermik ya da ekzotermik 
+olma durumuna ilişkin genellemeler yapar. 
+KİM.11.1.4. Kimyasal tepkimelerin standart tepkime entalpilerini standart oluşum entalpi 
+verilerini kullanarak tahmin edebilme 
+a) Standart oluşum entalpi verileri üzerinden kimyasal tepkimelerin standart tepki -
+me entalpilerinin hesaplanmasına ilişkin önermeler oluşturur. 
+b) Entalpi değişimine ilişkin veriye dayalı olan ve olmayan önermeleri karşılaştırır. 
+c) Standart oluşum entalpi verileriyle farklı tepkimelerin standart tepkime entalpile-
+rini hesaplar. 
+ç) Standart tepkime entalpi hesaplamalarının sonuçlarını önermelerinin geçerliliğini 
+sorgulamak için kullanır. 
+KİM.11.1.5. Kimyasal tepkimelerin gerçekleşme şartlarını açıklamak için kanıt kullanabilme 
+a) Kimyasal tepkimelerin gerçekleşmesi için gerekli şartları belirlemeye yönelik öl -
+çütler (gerekli enerji ve uygun doğrultuda çarpışma) oluşturur. 
+b) Kimyasal tepkimelerin oluşum sürecine ilişkin alt mikro seviyedeki gösterimlerden 
+seçtiği verilerden örüntüler oluşturur. 
+c) Kimyasal tepkimelerin gerçekleşme şartlarına yönelik iddialarını veriye dayalı ola-
+rak açıklayarak bu açıklamalarını desteklemek için çarpışma teorisi ile sembolik 
+modelleri kullanır.   
+KİM.11.1.6. Tepkime hızının zamanla değişimini bilimsel veriye dayalı tahmin edebilme
+a) Bir kimyasal tepkimede tepken ve ürünlerin derişimlerinin zamanla değişimi ile il -
+gili hazır verileri kullanarak tepkime hızının zamanla değişimine  ilişkin önermeler 
+oluşturur. 
+b) Tepkime hızının zamanla değişimine ilişkin veriye dayalı olan ve olmayan önerme -
+leri karşılaştırır. 
+c) Bir tepkimenin farklı zaman aralıklarındaki ortalama hızlarına ilişkin hesaplamalar 
+yapar. 
+ç) Tepkime hızının zamanla değişimine ilişkin çıkarımlarının geçerliliğini çarpışma te-
+orisi temelinde sorgular. 

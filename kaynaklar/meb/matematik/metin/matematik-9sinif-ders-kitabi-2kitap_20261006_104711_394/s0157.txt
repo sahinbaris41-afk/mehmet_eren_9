@@ -1,0 +1,28 @@
+157
+6. Tema / İstatistiksel Araştırma Süreci
+1. Sıra Sizde      
+Aşağıdaki	tabloda	verilen	gerçek	yaşam	durumlarına	yönelik	tek	nicel	değişkenli	veri	toplamayı	gerek-
+tiren	bağlamlar	oluşturarak	ilgili	sütuna	yazınız.	Oluşturduğunuz	bağlamların	tek	nicel	değişkenli	veri	
+toplamayı	gerektiren	bağlamlar	olup	olmadığını	sınıf	arkadaşlarınızla	paylaşınız.	Boş	bırakılan	gerçek	
+yaşam	durumu	kutucuğuna	merak	ettiğiniz,	ilgi	duyduğunuz	bir	gerçek	yaşam	durumu	ve	bu	gerçek	
+yaşam	durumuna	yönelik	tek	nicel	değişkenli	veri	toplamayı	gerektiren	bir	bağlam	yazınız.
+Gerçek Yaşam Durumları Tek Nicel Değişkenli Veri Toplamayı Gerektiren Bağlam
+Ekonomi
+Doğa
+Uzay
+Tek	Nicel	Değişkenli	Veriye	Dayalı	İstatistiksel	
+Araştırma	Sorusu	Oluşturma
+Grafik	6.2’de	yer	alan	nokta	grafiği,	bir	ülkenin	lunaparklarında	bulunan	hız	trenlerinin	maksimum	hız-
+larının	dağılımını	göstermektedir.
+Bu	grafiği	oluşturmayı	gerektiren	istatistiksel	araştırma	sorusu	ne	olabilir?	İstatistiksel	araştırma	sorusu	
+oluşturulurken	nelere	dikkat	edilmesi	gerektiğini	sınıf	arkadaşlarınızla	tartışınız.
+Çözüm
+Yukarıda	 verilen	 durumlar	 için	 araştırmacılar	 araştırmak	 istediği,	 merak	 ettiği,	 ilgi	 duyduğu	 konularda	
+tek	nicel	değişkenli	veri	toplamayı	gerektiren	bağlamlar	oluşturabilir.	Aşağıda	tek	nicel	değişkenli	veri	
+toplamayı	gerektiren	örnek	bağlamlar	yer	almaktadır.	Bu	bağlamlar	istendiği	kadar	çoğaltılabilir.
+İklim	Sorunu • Lise	öğrencilerinin	iklim	değişikliğine	ilişkin	farkındalık	düzeyleri• İklim	değişikliği	sebebiyle	buzulların	erime	miktarındaki	değişim
+Sağlık • Aile	hekimliği	uygulamasından	faydalanan	bireylerin	aile	hekimleriyle	görüşme	süreleri	• Bireylerin	aldığı	günlük	kalori	miktarı
+Spor • 100	metre	koşu	dalında	kırılan	rekorların	yıllara	göre	değişimi• Voleybol	oyuncularının	sıçrama	yükseklikleri
+Grafik 6.2: Bir ülkenin lunaparklarında bulunan hız trenlerinin maksimum hızları
+0 20 6040 80 100 120 140
+Hız (km/sa.)

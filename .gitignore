@@ -1,1 +1,4 @@
 .omc/
+# büyük MEB PDF'leri (~1,2 GB); URL'leri docs/kaynak_envanteri.md'de, yeniden indirilebilir
+kaynaklar/meb/**/*.pdf
+__pycache__/

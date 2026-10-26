@@ -1,0 +1,31 @@
+206
+2. Tema/Çeşitlilik
+1. Bağımsız değişkeninizi değiştirdiğinizde damlalarının biçim ve boyutları arasında nasıl bir fark oluştu? 
+Bu farkın oluşmasının sebebi ne olabilir? 
+2. Deneyde kullandığınız sıvıların sahip olduğu moleküller arası çekim kuvveti ile damla sayısı arasında 
+nasıl bir ilişki olduğunu açıklayınız.
+3. Ortalama damla sayılarından yararlanarak sıvıların yüzey gerilimlerini karşılaştırınız.  
+4. Sıvıların yüzey gerilimini belirlemek için kullandığınız yöntemi diğer grupların kullandığı yöntemle karşı-
+laştırınız. Benzer sonuçlara ulaştınız mı? 
+Değerlendirme
+Deneyin Adı: Sıvı Cinsinin Yüzey Gerilimine Etkisi  
+Deneyin Amacı:
+Malzemeler:
+Bağımlı Değişken Bağımsız Değişken Kontrol Değişkenleri
+İşlem Basamakları
+1.
+2.
+3.
+GÖZLEM TABLOSU
+1. Deneme 
+Damla Sayısı
+2. Deneme 
+Damla Sayısı
+3. Deneme 
+Damla Sayısı
+Ortalama 
+Damla Sayısı
+Su 
+Etil alkol
+Etilen glikol 
+Gliserin 

@@ -1,0 +1,30 @@
+45
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+3. ÜNİTE: ELEKTRİK
+Bu ünitede öğrencilerin elektrik akımının günlük hayattaki yerinin farkına varmaları, ba-
+sit elektrik devrelerinde elektrik akımının oluşumunu sağlayan sebepleri çözümlemeleri, 
+elektrik akımının işlevsel tanımını yapmaları, potansiyel fark, direnç ve elektrik akımının 
+ölçümü ve bu kavramlar arasındaki ilişkiyi analiz etmeleri amaçlanmaktadır. Ayrıca öğ-
+rencilerin dirençlerin bağlanma türüne göre eşdeğer direnci hesaplamaları, üreteçlerin 
+bağlanma türüne göre devreye sağladığı potansiyel farkı hesaplamaları, elektrik akımının 
+oluşturabileceği tehlikelere karşı alınması gereken önlemler hakkında bilgi toplamaları ve 
+topraklama olayının önemini sorgulamaları hedeflenmektedir.
+DERS SAATİ 22 
+ALAN 
+BECERİLERİ FBAB8. Bilimsel Çıkarım Yapma, FBAB10. Tümevarımsal Akıl Yürütme
+KA VRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.6. Bilgi Toplama, KB2.8. Sorgulama, KB2.16. Muhakeme (Akıl Yü-
+rütme) (KB2.16.3. Analojik Akıl Yürütme)
+EĞİLİMLER E1.1. Merak, E1.5. Kendine Güvenme (Öz Güven), E1.6. Seçicilik, E2.2. Sorumluluk, E3.2. 
+Odaklanma, E3.6. Analitiklik, E3.4. Gerçeği Arama, E3.7. Sistematiklik, E3.8. Soru Sorma 
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2 İş Birliği 
+Değerler D1. Adalet, D3. Çalışkanlık, D4. Dostluk, D5. Duyarlılık, D13. Sağlıklı Yaşam, D16. Sorumluluk
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Görsel Sanatlar, Kimya, Matematik, Türkçe
+BECERİLER ARASI 
+İLİŞKİLER KB2.7. Karşılaştırma, KB2.10. Çıkarım Yapma, KB2.11. Gözleme Dayalı Tahmin Etme

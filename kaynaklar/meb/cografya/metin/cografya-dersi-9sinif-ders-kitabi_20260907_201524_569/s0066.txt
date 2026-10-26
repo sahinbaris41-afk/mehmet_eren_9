@@ -1,0 +1,66 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+66
+Tarihî süreçte ilk haritalar, gözlem sonucu elde edilen coğrafi bilgilerin 
+düzlem üzerine resmedilmesiyle üretilmiştir. Günümüzde harita çiziminde 
+uzaktan algılama ve bilgisayar teknolojilerinden yararlanılmaktadır.
+2.1.3. Mekânsal Bilgi Teknolojilerinin     
+ 
+Bileşenleri
+A) Coğrafi Bilgi Sistemleri
+Coğrafi Bilgi Sistemlerinin Bileşenleri
+Coğrafi bilginin hızla artması, mekânsal bilginin yönetiminde bilgisayar 
+teknolojilerinden yararlanmayı zorunlu hâle getirmiştir. Coğrafi bilgi sis-
+temleri (CBS) bu ihtiyacı karşılamak için geliştirilmiştir.
+Coğrafi Bilgi Sistemleri; doğal ortam, insan ve zaman ilişkisine ait veri 
+toplama, depolama ve analiz çalışmalarıyla elde edilen mekânsal bilgilerin 
+harita, tablo veya grafiklerle görüntülenmesine imkân sağlayan bilgisayar 
+tabanlı bilgi yönetimidir.
+CBS ile konumsal verilere dayalı haritalar üretilebilir, bir yerdeki farklı coğ-
+rafi unsurlara ait bilgiler ayrı katmanlar hâlinde haritalanabilir. Ayrıca coğra-
+fi sorgulama ve mekânsal analiz yapılabilir. Bu yöntem sayesinde mekânla 
+ilgili daha doğru kararlar alınabilir (Görsel 2.12).   
+CBS’nin başlıca avantajları şunlardır:
+•
+ V
+eri toplama ve bilgi yönetme işlemleri daha kolay ve hızlı bir şekilde 
+gerçekleştirilebilir.
+•
+ Mekânsal (konum içeren) bilgilerle mekânsal olmayan (sözel, 
+niteliksel) bilgiler uyum içinde, bir arada kullanılabilir
+.
+•
+ Y
+akınlık analizi, uzunluk, alan, eğim gibi ölçüm işlemleri kolay ve 
+doğru yapılabilir.
+•
+ Mekânda meydana gelen değişimler zaman aralıklarıyla yansıtılabilir.
+•
+ Haritadaki bilgilerin güncellenmesi kolaylıkla yapılabilir
+.
+•
+ Haritalar dijital ortamda üretildiği için ürünler kolaylıkla paylaşılabilir.
+•
+ Her türlü mekânsal planlama çalışması yapılabilir
+.
+Yükselti
+Arazi kullanımı
+Parsel
+Taşkın alanı
+Görsel 2.12 
+CBS ile farklı coğrafi  
+unsurlara ait özellikler  
+katmanlar hâlinde  
+haritalanabilmektedir. 
+CBS’nin 
+Bileşenleri
+Kullanıcı Yöntem
+Veri
+Donanım
+Yazılım
+Görsel 2.13 
+CBS’nin bileşenleri
+CBS’nin temel fonksiyonlarını yerine getirmek için en az beş ana unsu-
+run bir arada olması gerekir. Bunlar; kullanıcı, veri, donanım, yazılım 
+ve yöntemdir (Görsel 2.13).   
+Coğrafi Bilgi 
+Sistemleri (CBS)

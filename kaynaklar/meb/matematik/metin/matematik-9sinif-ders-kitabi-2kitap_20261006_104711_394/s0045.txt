@@ -1,0 +1,41 @@
+45
+4. Tema / Eşlik ve Benzerlik
+b) Üçgen şeklinde bir kâğıt, iki kenarının orta noktasını birleştiren doğru boyunca kesiliyor ve yeni bir üçgen 
+oluşturuluyor. Oluşan üçgenin ilk üçgene benzer olmasının nedenini benzerlik koşullarından yararlanarak 
+açıklayınız.
+Kenar-Kenar-Kenar	Benzerliği
+İki	üçgenin	karşılıklı	üç	kenar	uzunluğu	orantılı	ise	bu	üçgenler	benzerdir.	Karşılıklı	üç	kenar	uzunluğunun	
+orantılı	olması,	iki	üçgenin	benzer	olması	için	gereken	asgari	koşullardan	biridir.
+8. ÖRNEK
+Rüzgâr,	yaz	tatilinde	gidecekleri	illerin	konumlarını	1/2 000 000	ölçekli	haritada	işaretleyip	ABC	üçgeni	
+oluşturuyor.	Oluşturduğu	ABC	üçgeninin	çevre	uzunluğunu	39	cm	olarak	ölçüyor.	Buna	göre	Rüzgâr’ın	
+tatilde		izleyeceği	rotanın	kuş	uçuşu	mesafesinin	kaç	km	olduğunu	bulunuz.
+Çözüm
+1/2 000 000	 ölçekli	 haritalar,	 gerçek	 boyutunun	 iki	 milyonda	 biri	 olacak	 şekilde	 çizildiğinden	 iki	 nokta	
+arasındaki	kuş	uçuşu	mesafeler	de	gerçek	boyutunun	iki	milyonda	biri	olur.	O	hâlde	Rüzgâr’ın	tatilde	
+izleyeceği	rota	A'B'C'	üçgeni	olarak	modellenirse	A'B'C'	ve	ABC	üçgenleri	benzerdir	(K.K.K.)	ve	bu	üç-
+genlerin	benzerlik	oranı	2 000 000’dur.	ABC	üçgeninin	çevresi	39	cm	olduğundan	A'B'C'	üçgeninin	çevre	
+uzunluğu	 cm39 2 000 000 78 000 000$ = 	olur.	 km 1 100= cm 000	olduğundan	A'B'C'	üçgeninin	çevre	
+uzunluğu	 km100 00078 000 000 780= 	bulunur.
+İki	üçgenin	karşılıklı	açıları	eş	ve	bu	açıların	karşısındaki	kenar	uzunlukları	orantılı	ise	bu	üçgenler	ben-
+zerdir.	Benzerlik	“+”	sembolü	ile	gösterilir.
+AD ,B E, CFmm mm mm===_ _ __ _ _i i ii i iW X WW X W 	ve
+DE
+AB
+EF
+BC
+DF
+AC
+k=== 	ise	
+ABC	ve	DEF	üçgenler i	benzerdir	ve	bu	üçgenler in	benzerlik	oranı	k dir.	Üçgen-
+lerin	benzerliği	ABC DEF+&& 	şeklinde	temsil	edilir.
+Benzer	iki	üçgenin	benzerlik	oranı	1	ise	bu	üçgenler	eş	üçgenlerdir.
+Benzerlik ilişkisinin 
+sembolik temsilinde 
+karşılıklı köşelerin aynı 
+sırada yazıldığına dikkat 
+ediniz.
+A
+B C
+D
+E F

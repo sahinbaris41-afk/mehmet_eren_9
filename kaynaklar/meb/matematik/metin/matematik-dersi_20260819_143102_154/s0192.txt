@@ -1,0 +1,54 @@
+192
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrencilerin anlık ve  ortalama değişimi anlamlandırmak için gerçek yaşam durumları üze -
+rinde çalışmaları sağlanır. Örneğin bir öğrencinin düzenli spor yapmaya başladıktan    t hafta 
+sonra verdiği kiloyu modelleyen uygun koşullarda  f(t) şeklinde tanımlı fonksiyon incelenebilir 
+(D13.2) . f ve f'  fonksiyonlarının  keyfî  noktalardaki değerleri verilir. Öğrencilerin anlık ve or -
+talama değişimi kullanarak  bu verileri fonksiyonun grafik temsilinde yorumlaması istenir. Bir 
+fonksiyonun grafiğine sürekli olduğu bir iç noktasının sağından ve solundan yaklaşıldığında 
+eğimi bir gerçek sayı olan tek bir teğet doğrusu çizilmesi  durumunda  bu  eğim  değerinin  
+fonksiyonun  o  nokta daki anlık  değişimine  eşit  olduğunu  göstermek  için  limit  kavramı kul -
+lanılır. f  fonksiyonunun a noktasındaki anlık değişimini veren cebirsel ifadenin sağdan ve soldan 
+limitleri, f  fonksiyonunun a noktasındaki sağdan ve soldan türevi olarak ifade edilir. Fonksiyonun  
+x = a  noktasındaki  türevi,   d(f(x))dx  = f '(a) = limxa"  f(x) - f(a)x - a  şeklinde  ifade  edilir (MAB3).  Ayrıca  elde  edilen  limitte h = x - a dönüşümü yapılarak fonksiyonun herhangi bir noktası için
+ d(f(x))dx = f '(x) = lim0h "  f(x + h) - f(x)h  şeklinde türevin diğer bir limit tanımı elde edilir (E3.7). Özel-likle cebirsel ifadesi verilen parçalı gösterimli fonksiyonların kritik noktalarında türevlenebilirlik 
+incelenirken o noktadaki sağdan türev ile soldan türevin eşit olması gerektiğine öğrencilerin ulaş-
+ması sağlanır (E3.6). Öğrencilere parçalı gösterimli fonksiyonların kritik noktalarında türev ince -
+lemeyi gerektiren sorulardan oluşan çalışma kâğıdı verilebilir. Fonksiyonun ikinci türevi ise d2y
+dx2  veya f '' (x) şeklinde gösterilir.
+Uygun koşullarda f(x) = xn (n ∈  ℕ), f(x) = x   ve f(x) = 1x şeklinde tanımlı f onksiyonların 
+herhangi bir noktasındaki anlık değişim oranı tablo, grafik ve cebirsel temsiller kullanılarak in -
+celenir. Örneğin f(x) = x2 fonksiyonunun tablo veya grafik temsilinde A (1,1) noktasına çok yakın 
+noktalar alınarak bu fonksiyonun x = 1 noktasındaki anlık değişim oranı tahmin edilir. Fonksiyo -
+nun  cebirsel  temsilinin  işe  koşulduğu  türevin  limit  tanımı  kullanılarak 
+lim
+0h "
+ f(x + h) - f(x)h  =  lim0h "  f(1 + h) - f(1)h  =  2 sonucu elde edilir ve yapılan tahminle bu sonuç 
+karşılaştırılır.  Bu şekilde polinom, köklü ve rasyonel fonksiyonların türev alma kurallarına yönelik 
+varsayımlar geliştirilir. Bu  varsayımlardan hareketle farklı fonksiyonların türev alma kurallarına iliş-
+kin genellemeler elde edilir. Genellemelerle varsayımlar karşılaştırılarak önermeler matematiksel 
+olarak doğrulanabilecek şekilde sunulur. Elde edilen önermeler fizik, kimya, biyoloji ve ekonomi 
+bağlamlarında türevi kullanmayı gerektiren gerçek yaşam problemlerinde değerlendirilir. Örneğin 
+biyolojide kandaki ilaç konsantrasyonu, bir canlı popülasyonunun artış veya azalış hızı; ekonomide 
+bankada biriktirilen tasarruflar, bir şirketin kârı; coğrafyada bir ülke nüfusunun veya petrol miktarı-
+nın artış veya azalış hızı; kimyada kimyasal reaksiyon, gaz basıncı ve fizikte anlık hız, anlık ivme gibi 
+bağlamlarda önermeler etkin bir şekilde kullanılır (OB3, D5.2, D13.4). Yine fizikte, ısıtılarak genleşen 
+küre şeklindeki bir maddenin yarıçapının uzunluğunun, yüzey alanının veya hacminin zamana bağlı 
+değişim oranı bu önermeler kullanılarak yorumlanır  (MAB2). Bu şekilde türevin fen bilimleri ve sos-
+yal bilimler için önemi uygulamalı bir şekilde gösterilir ve önemli bir ihtiyacı karşıladığından bahsedilir 
+(SDB1.2). Öğrencilere türevin kullanıldığı farklı disiplinlerin incelenmesini içeren araştırma ödevi ve 
+gerçek yaşam problemlerini türevi kullanarak çözmeye ilişkin çalışma kâğıdı verilebilir (D16.3). Ayrı-
+ca türev kavramının tarihî gelişimi incelenerek fizik ve matematik alanında çalışan Leibniz (Laybnıtz) 
+ve Newton gibi bilim insanlarının türev ile ilgili çalışmalarından bahsedilir.
+Fonksiyonların herhangi bir noktadaki türevini almaya ilişkin önermeler, türevin limit tanımı kulla-
+nılarak ispatlanır. Örneğin f karekök referans fonksiyonunun herhangi bir x = a (a ≠ 0) noktasında-
+ki türevinin lim
+xa"
+f(x) - f(a)
+x - a  =  limxa"
+√x - √a
+x - a = 12 √a  olduğu gösterilir. Buradan hareketle " Pozitif 
+gerçek sayılarda tanımlı bir fonksiyon için  f(x) = √x   ise  f'(x) = 12 √x   olur." önermesinin doğru-
+luğu ispatlanır.  Ayrıca  her   n ∈ ℚ  için  f(x) = xn  ise  f'(x) = n . xn-1 kuralı kullanılarak sıfırdan farklı 
+gerçek sayılarda  f(x) = 1x  şeklinde tanımlı fonksiyonun belirli bir noktadaki türev fonksiyonu  
+elde edilir. Yapılan ispatlar, farklı önermelerin ispatı için kullanışlılığı açısından değerlendirilir.

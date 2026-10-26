@@ -1,0 +1,45 @@
+115
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ • Sayma Stratejileri
+• Cebirsel ve Fonksiyonel İşlemlerin Algoritmik Yapısı
+Genellemeler • Sonlu sayıda nesnenin belirli bir durumdaki sayısı ile ilgili problemler, sayma stratejileri 
+kullanılarak çözülebilir. 
+• Cebirsel ve fonksiyonel işlemler,  algoritmik bir dille temsil edilebilir.
+Anahtar Kavramlar algoritma, faktöriyel, sayma, seçme sayısı, sıralama sayısı
+Sembol ve Gösterimler n!, (  ) nr
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve 
+proje ödevi  ile değerlendirilebilir.
+Toplama ve çarpma yoluyla saymaya yönelik açık uçlu soruların yer aldığı çalışma kâğıtları, 
+analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öz değerlendirme for -
+muyla öğrencilerin kendilerini değerlendirmeleri istenebilir.
+Öğrencilere cebirsel ve fonksiyonel işlemleri algoritmik dille yapılandırarak akış şeması oluş-
+turdukları bir performans görevi verilebilir. Verilen performans görevleri, derecelendirme 
+ölçeği kullanılarak değerlendirilebilir.
+Matematik tarihinde önemli yeri olan sayma veya seçme problemlerinin  (“Bir doğal sayı, do-
+ğal sayıların toplamı olarak kaç farklı biçimde yazılabilir?” gibi) ve bu problemlerin çözümüne 
+yönelik fikirlerin araştırılması hakkında öğrencilere  proje ödevi verilebilir. Ortaya konan ürü-
+nün değerlendirilebilmesi için hazırlama, içerik ve sunum süreçlerini içine alan derecelen -
+dirme ölçeği kullanılabilir.
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.10.5.1. Sayma stratejileri kullanarak problem çözebilme
+a) Verilen sayma problemindeki  sayılacak nesneleri belirler.
+b) Sayma problemlerinde yer alan  nesneler arasındaki ilişkileri belirler.
+c) Problem durumlarındaki sözel ifadeleri görsel temsillere dönüştürür.
+ç) Problem durumlarını onlara eş olan başka problem durumlarıyla ya da uygun görsel, 
+tablo veya cebirsel temsillerle yeniden ifade eder.
+d)  Sayma problemlerindeki farklı durumlara uygun çözüm stratejisi oluşturur.
+e)  Seçtiği çözüm stratejisini kullanır.
+f) Seçtiği çözüm stratejisini kontrol eder.
+g) Sayma problemlerindeki olası çözüm stratejilerini gözden geçirir.
+ğ)  Sayma problemlerinde çözüme ulaştıran stratejilere yönelik çıkarımlar yapar.
+h) Sayma problemlerinde çözüme ulaştıran stratejilere yönelik çıkarımları değerlen -
+dirir.
+MAT.10.5.2. Cebirsel ve fonksiyonel işlemleri algoritmik bir dille yapılandırabilme 
+a) Karşılaşılan problem durumlarındaki cebirsel ve fonksiyonel işlemlerin algoritmik 
+yapısını ortaya koyar.
+b) Ön bilgilerini kullanarak cebirsel ve fonksiyonel yapılar ile bu yapıların algoritmala-
+rı arasında uyumlu bir bütün oluşturur.

@@ -1,0 +1,25 @@
+141
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: NİCELİKLER VE DEĞİŞİMLER (1)
+Bu temada öğrencilerin trigonometrik referans fonksiyonlar ile bu fonksiyonlardan türe -
+tilebilen fonksiyonlara ve bunların nitel özelliklerine ilişkin muhakeme yapabilmeleri, tri -
+gonometrik fonksiyonlarla ifade edilebilen denklemler  içeren  problemleri çözebilmeleri 
+amaçlanmaktadır.
+DERS SAATİ 42
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme, MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER -
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB3.1. Uyum, SDB3.2. Esneklik, 
+SDB3.3. Sorumlu Karar Verme 
+Değerler D3. Çalışkanlık, D12. Sabır 
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Astronomi, Fizik, Mühendislik
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma 

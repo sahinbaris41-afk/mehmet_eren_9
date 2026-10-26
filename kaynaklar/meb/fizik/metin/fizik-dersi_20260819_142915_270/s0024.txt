@@ -1,0 +1,29 @@
+24
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+3. ÜNİTE: AKIŞKANLAR
+Bu ünitede öğrencilerin basınç kavramına ve akışkanların basıncına yönelik çıkarımlarda 
+bulunmaları, sıvılarda basıncın günlük hayattaki örneklerine ilişkin sorgulama yapmaları, 
+açık hava basıncına ilişkin çıkarım yapmaları, sıvılarda kaldırma kuvveti ile ilgili deney ya-
+parak kaldırma kuvvetinin nedenlerine yönelik çıkarımda bulunmaları, Bernoulli İlkesi'ne 
+yönelik genelleme yapabilmeleri amaçlanmaktadır.
+DERS SAATİ 18
+ALAN 
+BECERİLERİ FBAB7. Deney Yapma, FBAB8. Bilimsel Çıkarım Yapma, FBAB10. Tümevarımsal Akıl Yü-
+rütme
+KA VRAMSAL 
+BECERİLER KB2.8. Sorgulama, KB2.10. Çıkarım Yapma
+EĞİLİMLER E1.6. Seçicilik, E3.4. Gerçeği Arama, E3.5. Açık Fikirlilik, E3.6. Analitiklik, E3.7. Sistematik-
+lik, E3.8. Soru Sorma, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık
+Değerler D3. Çalışkanlık, D4. Dostluk, D5. Duyarlılık, D9. Merhamet, D13. Sağlıklı Yaşam, D18. Temiz-
+lik, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel 
+Okuryazarlık, OB7. Veri Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Coğrafya, Görsel Sanatlar, Matematik, Tarih, Türkçe
+BECERİLER ARASI 
+İLİŞKİLER KB2.6. Bilgi Toplama, KB2.9. Genelleme, KB2.15. Yansıtma

@@ -1,0 +1,104 @@
+8
+Kitabın Tanıtımı
+Tanım, kural veya özelliklerin 
+hatırlatıldığı alan
+Önceki yıllarda edinilen, 
+temanın gerektirdiği 
+bilgi ve becerileri içeren 
+çalışmaların bulunduğu 
+alan
+Merak uyandıran, önceki 
+bilgi ve becerilerden temanın 
+içerdiği bilgi ve  
+becerilere geçişi sağlayan 
+alan
+Temaya ait öğrenme çıktısı
+Tanım veya kuralların 
+verildiği alan
+Temanın 
+adı
+Temanın işleniş sırası
+Temanın
+konu başlıkları
+Temanın kapsamı 
+hakkında bilgi veren 
+anahtar kavramlar
+Temada kullanılan 
+sembol ve gösterimler
+Temada öğrenme 
+çıktıları bağlamında 
+gerçekleştirilmesi 
+beklenen beceriler
+Temada öğrenciden 
+beklenen görev 
+ve sorumlulukların 
+belirtildiği alan
+Temaya giriş niteliğinde, 
+temanın diğer disiplinlerle 
+ve gerçek yaşamla 
+ilişkisini yansıtan alan
+Tema sunumuna ve 
+diğer e-içeriklere 
+yönlendiren karekodlar
+Süreç bileşenlerinin bir 
+görev veya problem 
+bağlamında işletildiği alan
+Tema ile ilgili çözümlü 
+örneklerin sunulduğu alan
+Konu içinde çözümü 
+öğrenciye bırakılan 
+görevlerin yer aldığı alan
+Soruya ait örnek çözümün 
+yer aldığı alan
+11
+Başlarken
+Eş ve benzer geometrik şekillerle günlük hayatın birçok alanında karşılaşılmaktadır. Ör-
+neğin eş ve benzer geometrik şekillere geometrik dönüşümler uygulanarak süslemeler 
+yapılmakta veya sanat eserleri üretilmekte, bazı mimari yapıların belli oranda küçültül-
+müş maketleri yapılmakta, gerçek boyutların büyük oranlarda küçültülmesi ile haritalar 
+oluşturulmaktadır.
+Tema karekodu
+Tema 
+sunusuna 
+ulaşmak için 
+karekodu 
+okutunuz.
+10
+ ► Bu temada sizden
+ ● geometrik dönüşümlerle ilgili çıkarım yapabilmeniz,
+ ● iki üçgenin eş veya benzer olması için gerekli olan asgari koşullar-
+la ilgili çıkarım yapabilmeniz,
+ ● bir üçgenden hareketle ona benzer üçgenler oluşturma ile ilgili 
+yansıtma yapabilmeniz,
+ ● Tales, Öklid ve Pisagor teoremlerini ispatlayabilmeniz,
+ ● eşlik ve benzerlikle ilgili çıkarım ve teoremleri içeren problem-
+leri çözebilmeniz
+beklenmektedir.
+Tema boyunca 
+sizden çalışma 
+kâğıtlarındaki 
+soruları çözmeniz, 
+performans 
+görevlerini yerine 
+getirmeniz, ölçme 
+ve değerlendirme 
+sorularını çözmeniz 
+beklenmektedir.
+4.  4.  
+TEMATEMA
+ ► Anahtar Kavramlar
+ ● benzerlik
+ ● dönme dönüşümü
+ ● eşlik
+ ● Öklid teoremi
+ ● Pisagor teoremi
+ ● Tales teoremi
+ ► Sembol ve Gösterimler
+ ● ,  ● +
+4.1. Geometrik Dönüşümler
+4.2. Eşlik ve Benzerlik Koşulları
+4.3. Benzer Üçgenler Oluşturma
+4.4. Tales, Öklid ve Pisagor Teoremleri
+4.5. Eşlik ve Benzerlik Problemleri
+Eşlik ve Eşlik ve 
+BenzerlikBenzerlik

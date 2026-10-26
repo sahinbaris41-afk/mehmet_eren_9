@@ -1,0 +1,50 @@
+99
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları FİZ.12.4.1
+Öğrencilere klasik fizik ve modern fizik ayrımı hatırlatılabilir. Klasik fiziğin cevap veremediği ol-
+gulardan kavramsal düzeyde söz edilebilir. Bu olgulardan ilkinin siyah cisim ışıması olduğu belir-
+tilip öğrenciler bu konuda siyah cisim ışıması olgusunun çözüm öyküsünü ve kavramsal önemi-
+ni içeren bir okuma parçasına yönlendirilebilir. Öğrenciler okuma parçası aracılığıyla ulaştıkları 
+bilgileri yorumlayarak siyah cisim ışıması olgusu ile modern fizik ilişkisini fark eder (OB1). Öğren-
+cilerin siyah cisim ışıması olgusunun modern fiziğe etkisi ve termal kameralar gibi uygulamaları 
+hakkında tartışmaları (SDB2.2) sağlanır. Öğrenciler, okuma parçası üzerinden özellikle Plan-
+ck’ın siyah cisim ışıması olgusuna yaklaşımını ve Planck sabitini ortaya atarak olguyu çözmedeki 
+etkisini belirler. Öğrenciler fotoelektrik etkinin varlığından haberdar edilebilir. Planck sabitinin 
+fotoelektrik etkide kullanıldığını görmeleri sağlanabilir. Öğrenciler, Planck sabitinin fotoelektrik 
+etkideki rolünü yüzeye gönderilen ışığın frekansı ile akım arasındaki ilişkiyi gösteren simülas-
+yonlar veya animasyonlar üzerinden belirler (KB2.9). Planck sabitinin modern fizikte kullanıldığı 
+alanlar vurgulanarak Planck sabitine yönelik verilen örneklerde kavramsal düzeyle sınırlı kalınır.
+FİZ.12.4.2
+Öğrenciler, simülasyon veya animasyon gibi dijital içerikler yardımıyla (OB2) farklı metaller için 
+fotoelektrik etkiyi ve eşik enerjisinin değişimini gözlemler. Simülasyon üzerinde aynı ve farklı 
+frekanslarda ışık gönderilen aynı ve farklı tür yüzeylerdeki fotoelektrik etkiyi gözlemleyebile-
+cekleri denemeler yapabilir. Öğretmen rehberliğinde topladıkları verilerden yararlanarak (OB7) 
+fotoelektrik etkinin enerji ile ilgili olan matematiksel modeline ulaşır. Bulgularını ışığın tanecik 
+modeli ile ilişkilendirerek foton kavramına ilişkin çıkarım yapar ve çıkarımlarını kullanarak fotoe-
+lektrik etkinin matematiksel modelini geneller. Foton kavramı, ışığın tanecik modeli bağlamın-
+da ele alınır ve fotonun kuantum özelliklerinin verilmesinden kaçınılır.
+FİZ.12.4.3
+Öğretmen soru cevap tekniği ile öğrencilerin ön bilgilerinden yararlanarak fotoelektrik etkiyi 
+kendi cümleleriyle tanımlamalarını sağlar. Öğrenciler, fotoelektrik etkiye ilişkin merak ettik-
+leri konular hakkında sorular sorar (E3.8). Öğretmen rehberliğinde öğrenciler gruplara ayrılır 
+(SDB2.2). Her grup fotoelektrik etkinin güneş pilleri, fotoselli lambalar, alarm sistemleri, yangın 
+ve duman dedektörleri gibi harekete veya ışığa duyarlı sistemleri içeren günlük hayattaki uy-
+gulamalarına ve fotoelektrik devrelerin çalışma prensipleri ile bunların hesaplamalarına ilişkin 
+farklı kaynaklardan bilgi toplar (D3.3). Gruplardan güneş pillerindeki ve çevreci enerji üretmede 
+kullanılan (D5.2, OB8) güneş panellerindeki fotoelektrik etkiye ilişkin bilgisini yarı iletkenler ile 
+ilişkilendirmeleri (SDB1.1) istenir. Öğrenciler fotoselli lambalar ve benzeri tasarruf amaçlı (D17.2) 
+fotoelektrik sistemlerin sürdürülebilirlik açısından önemini tartışır (SDB2.2). İş birlikli öğrenme 
+yöntemiyle her grup topladığı bilgilerin doğruluğunu (OB1) ve güvenilirliğini eleştirel bir yakla-
+şımla (D3.3, E3.10) yorumlar ve fikir alışverişinde bulunur (D4.4). Her grup topladığı bilgileri diğer 
+gruplara sunabilir. Fotoelektrik etkinin günlük hayattaki rolüne yönelik çıkarımlarda bulunur. 
+Öğrencilere ışığın tanecik modelini, fotoelektrik etkinin uygulamalarını ve Planck sabitinin anla-
+mını yorumlayabilecekleri açık uçlu sorulardan oluşan bir çıkış kartı verilebilir. 
+FİZ.12.4.4
+Sınıfa diyot, transistör, tristör, bütünleşik (entegre) devre gibi yarı iletken malzemelerden 
+üretilmiş devre elemanlarının örnekleri getirilebilir. Öğrencilerin bu devre elemanlarını 
+inceleyerek bunları devre kartı veya devre kartı görseli üzerinde göstermeleri sağlanabi-
+lir. Devre kartlarının kullanıldığı bilgisayarlar, cep telefonları, televizyonlar gibi elektronik 
+aygıtların içinde yer alan bu devre elemanlarının yapıldığı malzemelerin yarı iletken oldu-
+ğu belirtilir. Öğrenciler yarı iletkenlere ilişkin tahminlerine dayalı olarak tanımlama yapar. 
+Öğrenciler, yarı iletken kavramı ve yarı iletken malzemelerin kullanım alanları ile ilgili sınıf

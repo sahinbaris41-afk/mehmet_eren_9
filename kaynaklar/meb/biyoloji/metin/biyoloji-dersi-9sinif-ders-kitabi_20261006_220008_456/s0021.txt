@@ -1,0 +1,49 @@
+21
+Yaşam
+Yönerge: Aşağıdaki bulmacayı biyolojideki dönüm noktalarının insan hayatına katkıları hakkında edindiğiniz 
+bilgileri dikkate alarak doldurunuz. Renkli kutucuklarda gizlenen şifreyi bularak ilgili alana yazınız.
+Soldan Sağa
+1. Geliştirdiği mikroskobu kullanarak binlerce can-
+lıyı inceleyen, gözlemlediği canlıların çizimlerini 
+içeren “Micrographia (Mikrografya)” adlı eserini 
+1665 yılında yayımlayan bilim insanı.
+4. Virüsün bir parçasının üretilmesini sağlayacak 
+yapıları bulunduran aşı çeşidi.
+7. Kalıtım biliminin öncüsü.
+11. İnsan DNA’sının ortaya çıkarılmasını ve haritalan-
+masını amaçlayan bilimsel gelişme.
+12. Günümüzde güncelliğini koruyan çift sarmal 
+DNA modelini öne süren bilim insanları.
+Yukarıdan Aşağıya
+2. Çiçek hastalığına karşı ilk başarılı aşıyı geliştiren kişi.
+3. 1973 yılında Cohen ve Boyer tarafından geliş-
+tirilen, birçok canlının genetik yapısını yeniden 
+düzenlemeye yarayan teknolojinin adı.
+5. Bulaşıcı hastalıklar üzerinde önemli çalışmalar 
+yaparak ilk defa “mikrop ve bulaşma” tezini ortaya 
+atan bilim insanı.
+6. Vücut hücresini kullanarak Dolly ismini verdikleri 
+koyunu klonlayan bilim insanlarından biri.
+8. Yaşamın ve insan sağlığının anlaşılması, hastalık-
+ların kökenlerinin incelenmesi, tedavi yöntemle-
+rinin geliştirilmesi, genetik araştırmalar gibi sağlık 
+bilimleri alanındaki önemli çalışmaların temelini 
+oluşturan bilim dalı.
+9. Bakteriyel enfeksiyonların tedavisinde çığır açan 
+antibiyotiklerin ilk örneği olan penisilini bulan 
+bilim insanı.
+10. Araştırmacıların DNA üzerinde ekleme, çıkarma 
+ya da dizilim değiştirme yapmalarına olanak 
+tanıyan özgün teknolojinin adı.
+Kontrol Noktası
+2
+1
+3 5 6
+8 4
+7
+9
+10
+11
+12
+ Şifre:
+8 5 9 11 7

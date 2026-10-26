@@ -1,0 +1,39 @@
+61
+KUVVET VE HAREKET
+Sıcaklık (..............................) Hız (..............................) Y oğunluk (..............................)
+Uzunluk (..............................) Kütle (..............................) Enerji (..............................)
+2. Fiziksel niceliklerin skaler veya vektörel olması günlük hayatınızda ne gibi kolaylıklar sağla r? 
+Açıklamanızı aşağıdaki alana yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Bazı fiziksel özelliklerin belirlenmesinde sadece bir sayı ve bir birim yeterli 
+iken diğerlerinde sayı ve birimin yanında yön bilgisine de ihtiyaç duyulur. Bir 
+kişi pazardan 3 kg sebze, 2 kg meyve aldığında kişinin taşıması gereken 
+toplam kütle 3 kg + 2 kg = 5 kg olur. Burada işlem yapılabilmesi için kütlelerin 
+büyüklüğü (miktarı) ile kütle biriminin bilinmesi yeterlidir, yön bilgisine ihtiyaç 
+yoktur. Bir sayı ve bir birimle ifade edilebilen niceliğe skaler nicelik denir. Bu 
+bakımdan kütle skaler nicelikler sınıfına girer.
+Görsel 2.2’deki gibi sürtünmelerin ihmal edildiği bir ortamda yatay zemin üze-
+rinde durmakta olan kanepe verilmiştir. Bu kanepeye iki kişi aynı anda, yere 
+paralel 60 N ve 40 N büyüklüğünde kuvvet uyguladığında ve bu iki kuvvetin 
+yönü doğu yönünde (Görsel 2.2: a) ise kanepeye etki eden toplam kuvvetin 
+büyüklüğü 40 N + 60 N = 100 N  olur. Bu toplam kuvvet doğu yönündedir ve 
+kanepe de doğu yönünde hareket eder. Aynı kanepeye iki kişiden biri doğu 
+yönünde 60 N diğeri batı yönünde 40 N büyüklüğünde kuvvet uyguladığında 
+(Görsel 2.2: b) etki eden toplam kuvvetin büyüklüğü 60 N - 40 N = 20 N  olur. 
+Bu kuvvet doğu yönündedir ve kanepe de doğu yönünde hareket eder. Bir 
+cisme etki eden toplam kuvvet, cisme etki eden kuvvetlerin büyüklüğünün yanı 
+sıra uygulanma yönüne de bağlıdır. Kuvvet niceliğinde olduğu gibi birimin 
+yanında yön bilgisi de gerektiren niceliklere  vektörel nicelikler denir. Yönlü 
+olup olmaması bakımından sınıflandırma yapılacak olursa kuvvet vektörel 
+nicelikler sınıfına girer.
+60 N
+60 N
+(a)
+Yatay Zemin
+Yatay Zemin
+(b)
+40 N
+40 N
+Batı Doğu
+Görsel 2.2: Kanepeye 
+kuvvet uygulayan kişiler

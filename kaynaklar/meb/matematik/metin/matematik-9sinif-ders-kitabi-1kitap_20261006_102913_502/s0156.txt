@@ -1,0 +1,49 @@
+156
+2. Tema /  Nicelikler ve Değişimler
+d)  Mutlak değerli denklem ve eşitsizlikler için cebirsel veya grafiksel temsiller yardımıyla çeşitli çözüm 
+stratejileri oluşturulabilir. Mutlak değerli fonksiyon parçalı olarak iki farklı cebirsel temsille ifade edil -
+diğinden her temsil için bir çözüm yapılır. f ve g fonksiyonlarının kesim noktalarının apsis değerleri, 
+cebirsel çözümde elde edilen denklemin kökünü ifade eder.
+16.	Uygulama
+fx gx ,f xg x, fx gx ,f xg x, fx gx= 21$#__ __ __ __ __ii ii ii ii ii  Biçimindeki Denklem ve Eşitsizlikler 
+Aşağıda verilenlere göre soruları cevaplayınız.
+Tabloda gerçek sayılarda tanımlı f, g ve h fonksiyonları verilmiştir.  
+Fonksiyon Cebirsel Temsil 
+f f xx=_i
+g xx 5g3 = -_i
+h hx gx 4 =-__ ii
+1. Problem: g(x) = h(x) eşitliğini sağlayan x gerçek sayı değerleri nelerdir?
+a)  Mutlak değer fonksiyonlarını kullanarak 1. problemi cebirsel temsi llerle nasıl ifade edersiniz? Bulduğunuz 
+cebirsel temsillerin problem bağlamındaki anlamını ifade ediniz.
+b)  Elde ettiğiniz cebirsel temsillerin 1. problemin çözümünde nasıl kullanılabileceğini sınıf arkadaşlarınızla tar -
+tışınız. Strateji oluşturarak problemi çözünüz.
+c)  Mutlak değer fonksiyonlarını kullanarak 1. problemi grafik temsiliyle nasıl ifade edersiniz? Bulduğunuz gra -
+fik temsilinin problem bağlamındaki anlamını ifade ediniz.
+ç)  Elde ettiğiniz grafik temsilinin 1. problemin çözümünde nasıl kullanılabileceğini sınıf arkadaşlarınızla tartışı -
+nız. Strateji oluşturarak problemi çözünüz.
+d)  1. problemin çözümünde kullandığınız yöntemleri karşılaştırarak  çözümlerinizi doğrulayınız.
+e)  1. problemin çözümünde kullandığınız yöntemleri mutlak değer fonksiyonu içeren farklı problem durumları 
+için nasıl kullanabilirsiniz? Genellemenizi oluşturunuz.
+f)  Oluşturduğunuz genellemeyi sözel, cebirsel ve grafiksel olarak değerlendiriniz.
+2. Problem: g(x) 1 h(x) eşitsizliğini sağlayan gerçek sayı değerleri kaçtır?
+1. problem için verilen adımları 2. problem için uygulayınız.
+ 
+13. ÖRNEK
+x 312  olmak üzere alanı xx41 292 ++_i  cm2 olan karenin bir kenar uzunluğu, x31 -_i  cm olarak 
+veriliyor. 
+Buna göre aşağıdaki soruları cevaplayınız. 
+a)  Karenin bir kenar uzunluğunu mutlak değerli denklemler yardımıyla belirleyiniz. 
+b)  Bulduğunuz sonucu grafik temsilleriyle doğrulayınız. 
+c)  Problemin farklı çözüm yöntemlerini ilişkilendirerek elde ettiğiniz çıkarımları değerlendiriniz. 
+Çözüm
+a)  Alanı xx41 292 ++_i  cm2 olan karenin bir kenar uzunluğu, 
+ xx xx41 29 23 232 2++ =+ =+_i cm olur. Karenin kenar uzunluklarını ifade eden cebirsel ifa-
+deler birbirine eşitlendiğinde xx23 31+= -  denklemi elde edilir.
+Mutlak değer içeren problemlerin çözümünde mutlak değer fonksiyonları yardımıyla elde edilen denk-
+lem ve eşitsizlikler kullanılır. f ve g doğrusal fonksiyonlar olmak üzere
+,,,fx gx fx gx fx gx fx gx ve fx gx21$#=__ __ __ __ __ii ii ii ii ii  gibi ifadeler yardımıyla prob-
+lem çözümüne ulaşılabilir.
+g(x) = k ,kk 0R !!_i  şeklinde sabit fonksiyon olduğunda yukarıdaki denklem ve eşitsizlikler
+,,,fx kf xk fx kf xk ve fx k21$#=_ ___ _i iii i  biçimine dönüşür.
+Özel olarak g(x) = 0 olduğunda
+,,,fx fx fx fx ve fx0 000 021$#=_ ___ _i iii i  biçimindeki denklem ve eşitsizlikler elde edilir. 

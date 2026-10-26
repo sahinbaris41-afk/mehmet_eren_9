@@ -1,0 +1,32 @@
+229
+K-L-M-N
+konteyner: Çeşitli eşyaları taşımak için uluslararası standartlara göre tahtadan veya metalden yapılmış büyük kasa taşımalık.
+levha: Yerkabuğunu oluşturan parçalardan her biri.
+lojistik: Kişilerin ihtiyaçlarını karşılamak üzere her türlü ürünün, hizmetin ve bilgi akışının çıkış noktasından varış noktasına 
+kadar taşınmasının etkili ve verimli bir biçimde planlanması ve uygulanması.
+maki: Akdeniz dolaylarında yaygın olan, bodur ağaç ve çalılardan oluşan bitki örtüsü.
+maruziyet: Afet bölgelerinde ve riskli üretim alanlarında yer alan insanların, yapıların ve sistemlerin, potansiyel kayıp tehdidi 
+altında bulunması.
+metan: Çürümekte olan karbonlu maddelerden çıkan, havada sarı bir alevle yanan, renksiz bir gaz; bataklık gazı (CH4).
+mezolitik: Orta Taş Çağı olarak da bilinen adı ile MÖ 22 bin-10 bin tarihleri arasındaki dönem. 
+neolitik: Tarım faaliyetlerinin başladığı tarih öncesi çağ.
+O-Ö-P-R-S
+ortanca yaş: Nüfusu oluşturan bireylerin yaşları, küçükten büyüğe doğru sıralandığında ortada kalan bireyin yaşı.
+öngörü: Bir işin ilerisini kestirme veya bir işin nasıl bir yol alacağını önceden anlayabilme ve ona göre davranma. 
+pandemi: 1. Küresel salgın. 2. Küresel salgın ile ilgili olan.
+rehabilitasyon: Hasara uğramış veya fonksiyonunu kaybetmiş hizmetlerin, altyapının ve binaların kısa sürede onarılarak 
+çalışabilir hâle getirilmesi faaliyetleri.
+rüzgâr frekansı: Rüzgârın yıl içerisinde belirli bir yönden esme sıklığı.
+rüzgâr gülü: Rüzgârın adını ve yönünü gösteren levha.
+sermaye: Bir işin kurulması, yürütülmesi için gereken anapara veya paraya çevrilebilir malların tamamı.
+seyahatnâme: 1. Gezginlerin gezip gördükleri yerleri yazdığı kitap. 2. Gezi yazıları.
+seyyah: Gezen, seyahat eden kimse.
+sınır: Herhangi bir toprak parçasını ayıran çizgi.
+süblimleşmek: Katı durumdan sıvı durumuna geçmeden doğrudan doğruya gaz durumuna dönüşmek.
+T-U-Ü
+tehlike analizi: Tehlikenin kaynağı, büyüklüğü, oluş sıklığı, süresi ve olası etkileri ile ilgili bilgilerin toplanmasına yönelik 
+çalışma.
+topografik faktörler: Arazi şekilleri. 
+tüketim: Üretimle elde edilen mal ve hizmetlerin kullanılması.
+unsur: Öge.
+üretim: Mal veya hizmet meydana getirme eylemi.

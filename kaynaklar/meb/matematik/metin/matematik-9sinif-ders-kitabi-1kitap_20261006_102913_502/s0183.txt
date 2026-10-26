@@ -1,0 +1,72 @@
+183
+3. Tema /  Geometrik Şekiller
+5.	Sıra	Sizde      
+Yandaki	 şekilde 	 ABC 	 eşkenar 	 üçgen, 	 H DH F= ,	 AH BC=77 AA ,	
+DA B ,! 7A  EA C! 7A ,	HB C! 7A  	 ve 	mA DE 35 o=`j% 	 olduğuna 	 göre	
+mB HD x=`j% 	değerinin	kaç	derece	olduğunu	bulunuz.
+A
+B C
+D
+E
+H
+x
+F35o
+Geometriye Katkıda Bulunan Bilim İnsanları
+Matematik	T arihinden 	Notlar
+Öklid (Temsilî)
+Sabit bin Kurra (Temsilî)
+Pisagor (Temsilî)
+ Tales (Temsilî)
+Platon (Temsilî)
+Geometri, matematik öğretim programlarında genellikle 
+muhakeme yeteneklerinizi geliştirebileceğiniz ve 
+matematiğin aksiyomatik yapısını keşfedebileceğiniz 
+bir alan olarak önemli yer tutar. Geometri alanı size 
+tanımlar ve aksiyomlar kullanarak muhakeme etme, 
+gerekçelendirme ve ispat becerilerinizi geliştirme 
+fırsatı sunar. 
+Geometrinin tarihçesi Babillilere kadar uzanmaktadır. 
+Özellikle arazi ölçümleriyle ilgilenen Babillilerde 
+geometri alanına ilişkin en eski kayıtlar, belirli 
+dörtgenlerin ölçümüne odaklanmaktadır. Benzer 
+şekilde eski Mısır’da da topraklar, eşit büyüklükte 
+kare parsellere bölünerek halk arasında paylaştırılmış 
+ve halktan paylarına düşen toprak miktarı kadar vergi 
+alınmıştır. Görüldüğü üzere Babilliler ve Mısırlılar, 
+belirli durumları çözmek için belli kurallar aramış; 
+detaylı doğrulama yapma ihtiyacı duymamış ve 
+mükemmel doğruluğa odaklanmamışlardır. Matematiği 
+hem pratikte uygulanabilir bir alan hem de özel bir bilgi 
+alanı olarak görmüşlerdir.
+Yunan filozofları; Babilliler ve Mısırlılardan farklı olarak 
+matematiği pratik bir uygulama alanı olarak görmemiş, 
+pratikteki uygulamaların mutlak gerçekle ilişkisine 
+odaklanmışlardır. Bu filozofların en önemlilerinden biri 
+olan Miletli Tales, Yunan geometrisinin öncüsü kabul 
+edilir. Tales, geometrinin basitleştirilmesine ve daha 
+anlaşılır hâle getirilmesine büyük katkı sağlamıştır. 
+Yunan geometrisinde soyut düşüncenin gelişimi 
+“Pisagor Okulu”nun kurulmasıyla hız kazanmıştır. 
+Pisagor’un öğrencileri kendilerine Pisagorcular 
+adını vermiştir. Platon, matematiği Pisagorculardan 
+öğrenmiştir. Matematiğin sistematik bir dil olduğuna 
+ve doğru düşünme için hayati önem arz ettiğine 
+inanan Platon, matematik akademisini kurmuştur. 
+Platon’un akademisinde yetişen ilk önemli matematikçi 
+Öklid’dir. Öklid, çok sayıda eser kaleme almıştır ancak 
+bu eserlerin en önemlisi Elemanlar adlı kitap serisidir. 
+On üç ciltten oluşan Elemanlar, yüzyıllar boyunca 
+geometrinin temel kaynaklarından biri olarak kabul 
+edilmiştir. Kitabın İslam dünyasında yapılan çevirileri 
+büyük ilgi görmüştür. 
+Döneminin önde gelen matematikçilerinden biri 
+olan Sabit bin Kurra (836 ­901), Arapların Öklid’i 
+olarak anılmış ve Öklid’in paralel postulatı üzerine 
+yapılan tartışmalara katılmıştır. Sabit bin Kurra’nın 
+bu konudaki çalışmalarının izleri genellikle 18. yüzyıl 
+matematikçileri Lambert (Lembırt) ve Saccheri’nin 
+(Sakheri) çalışmalarında görülmektedir.
+Siz de geometrinin tarihî gelişim sürecine Türk kültür ve 
+medeniyeti dairesinde katkı sağlamış bilim insanlarını 
+(Ebülvefa Buzcani, Kuşyar bin Lebban, Kadızade ­i 
+Rumi, Nasirüddin Tusi) ve ça lışmalarını araştırınız.

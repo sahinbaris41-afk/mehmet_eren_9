@@ -1,0 +1,82 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+64 65
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+Analitik Dereceli Puanlama Anahtarı
+"Analitik Dereceli Puanlama Anahtarı" etkinliğin değerlendirilmesi için hazırlanmıştır. Dikkat 
+edilmesi gereken ölçütler konusunda öğrencilere yol göstermesi amaçlanmıştır.
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Öğrencinin Adı-Soyadı Sınıfı No.
+Ölçütler
+Başarı Düzeyi Başarı 
+Puanı1 (Geliştirilmeli) 2 (Kabul edilebilir) 3 (Oldukça İyi)
+Etkinliğe 
+Katılım ve Fikir 
+Paylaşımı
+Etkinliğe katılım sınırlı, 
+fikir paylaşımı zayıftır.
+Etkinliğe katılım yeterli, 
+bazı fikirler paylaşıl-
+mıştır.
+Etkinliğe aktif katılım 
+sağlanmış ve fikirler 
+paylaşılmıştır.
+Grup İçi İş 
+Birliği ve 
+Görev Dağılımı
+İş birliği ve görev 
+paylaşımı grup içinde 
+zayıf kalmış ve hiçbir 
+öğrenci görevini eksiksiz 
+bir şekilde yerine 
+getirememiştir.
+"Grup içinde yeterli iş 
+birliği yapılmış ancak 
+eşit bir görev dağılı-
+mı yapılamamıştır." 
+şeklinde bir düzenleme 
+yapılabilir.
+Grup içinde güçlü bir iş 
+birliği ve adil görev dağılı-
+mı sağlanmıştır.
+Su Sporları 
+Aleti Tasarımı
+Tasarım basit ve eksik, 
+deneyin ilkelerine tam 
+uyum sağlamamaktadır.
+Tasarım deneyin 
+ilkelerine uygun ancak 
+geliştirilmelidir.
+Tasarım deneyin tüm 
+ilkelerine uygun ve yeni-
+likçi bir şekilde oluşturul-
+muştur.
+Teorik 
+Çalışma ve 
+Hesaplamalar
+Hesaplama ve teorik 
+çalışmalar hatalı veya 
+eksiktir.
+Hesaplamalar ve teorik 
+çalışma genel olarak 
+doğru ancak bazı hata-
+lar mevcuttur.
+Hesaplamalar ve teorik 
+çalışma tamamen doğru 
+ve detaylıdır.
+Araştırma ve 
+Mühendislik 
+Çözümleri
+Araştırma ve mühendislik 
+çözümleri yetersiz kalmış 
+ve kapsamlı bir şekilde 
+yapılamamıştır.
+Araştırma ve mühen-
+dislik çözümleri genel 
+olarak yeterli ancak 
+geliştirilmelidir.
+Araştırma ve mühendis-
+lik çözümleri yenilikçi ve 
+ayrıntılıdır.
+       TOPLAM PUAN
+Ölçekten alınan puanı 100 üzerinden hesaplamak için [(Toplam Puan)/15]*100 formülünü uygulayınız.

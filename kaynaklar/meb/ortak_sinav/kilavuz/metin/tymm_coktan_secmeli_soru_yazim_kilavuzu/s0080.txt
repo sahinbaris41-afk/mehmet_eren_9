@@ -1,0 +1,33 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+80
+1-2. soruları aşağıdaki metne göre cevaplayınız.
+Kayseri’de 11 Nisan 2025 tarihinde gerçekleşen şiddetli zirai don olayı, elma bahçelerinde önemli 
+hasara neden olmuştur. Hava sıcaklığının –15 °C’a kadar düşmesiyle, elma rekoltesi üzerinde ciddi 
+olumsuz etkilerin oluştuğu gözlenmiştir. Bu tür zirai don zararlarını sınırlandırmak amacıyla, elma 
+üreticileri tara  fından “su püskürtme” yöntemi uygulanmıştır. Uzmanların açıklamalarına göre bu 
+koruma tekniğinde bitkilerin yüzeyine ince damlacıklar hâlinde su püskürtülür. Hava sıcaklığı donma 
+noktasının (0 °C) altına indiğinde ise, püskürtülen su, bitki organlarının üzerinde şeffaf ve ince bir buz 
+tabakası oluşturur. Bu buz tabakasının bitkiyi koruma mekanizması, suyun donarken açığa çıkardığı 
+gizli ısı enerjisi ile açıklanmaktadır. Su donarken etrafına ısı yaydığı için bu ısı enerji aktarımı bitki -
+nin iç sıcaklığının kritik eşiğin altına düşmesini engeller ve donma zararının azaltılması sağlanır. Bu 
+yöntem sayesinde, bir elma üreticisinin 60 dönümlük bahçesinin 30 dönümlük kısmında aktif olarak 
+koruma sistemi kullanıldığı belirtilmiştir.
+1. Aşağıdaki sorulardan hangisi su püskürtme olayını bilimsel olarak açıklamak için kullanıla-
+bilir? (KB2.8.SB2.)
+A) Suyun donarken genleşmesi, bitki yüzeyinde nasıl bir etki oluşturur?
+B) Suyun donarken çevresine ısı vermesi, bitki yüzeyinin sıcaklığını nasıl korur?
+C) Suyun iyi bir ısı iletkeni olması, bitki yüzeyindeki sıcaklık değişimini nasıl etkiler?
+D) Suyun yüksek özgül ısısı, ortam sıcaklığı değiştiğinde bitkiyi nasıl korur?
+E) Suyun kohezyon özelliği, püskürtülen suyun yüzeyde tutunmasını nasıl sağlar?
+2. Elma üreticisi, kullandığı yöntemin etkisini değerlendirebilmek için aşağıdakilerden hangisini kul-
+lanmalıdır? (KB2.8.SB4.)
+A) Püskürtme yapılan alandaki hasat sonrası ağaç başına verimi ölçüp yalnızca o yılki toplam verimle 
+karşılaştırmalıdır.
+B) Püskürtme yapılan ve yapılmayan alanlarda don sonrası meyve verimini ve tomurcukların canlılık 
+oranlarını karşılaştırmalıdır.
+C) Kullanılan suyun sıcaklığını ve iyon içeriğini ölçmeli ve bu değerleri farklı sistemlerdeki suyla karşı-
+laştırmalıdır.
+D) Zirai don sonrası püskürtme yapılan ve yapılmayan bahçelerdeki sıcaklık değişimlerini karşılaştır-
+malıdır.
+E) Püskürtme yapılan alanlarda verim farkını, üreticilerin gözlem ve öznel değerlendirmelerine göre 
+karşılaştırmalıdır.

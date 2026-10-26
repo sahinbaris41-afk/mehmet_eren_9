@@ -1,0 +1,57 @@
+73
+KUVVET VE HAREKET
+b) Bu yönteme bir isim vermeniz istense hangi ismi verirdiniz? Kısaca açıklayınız. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+2. Aşağıdaki eşit bölmelendirilmiş düzlemde yer alan A  ve B  vektörleri, etkinliğin 1. basamağında kullanılan 
+toplama yönteminden farklı bir yöntemle toplanmıştır. İşlem basamakları sırasıyla verilen bu toplama yön­
+temini vektörleri birleştirme ve birleştirme sonucu elde edilen vektörün özellikleri bakımından inceleyerek 
+soruları cevaplayınız. 
+(I)
+B
+A
+(III)
+B
+A
+(II)
+B
+A
+(IV)
+B
+A
+(V)
+B
+A
+R A= +BR A= +B
+a) İşlem sırası verilen toplama yöntemine ait I. basamak, diğer işlem basamaklarına yol göstermesi için 
+aşağıda verilmiştir. Benzer şekilde diğer basamaklarda hangi işlemler yapılmıştır? Y apılan işlemleri sı­
+rasıyla yazınız. 
+I. Farklı yönlerde iki vektör verilmiştir. 
+II.  
+III.  
+IV .  
+V .   
+b) Bu yönteme bir isim vermeniz istense hangi ismi verirdiniz? Kısaca açıklayınız. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+3. Eşit bölmelendirilmiş düzlemde yer alan x­y ekseni (iki boyut) üzerindeki A  vektörünün bileşenlerine ayır­
+ma işleminin basamakları aşağıda verilmiştir. Bu vektörü ve bileşenlerini dik kartezyen koordinat sistemin­
+deki yerleri ve vektörden ayrılan bileşenlerin gösterim şekli bakımından inceleyiniz. 
+x
+y
+x
+y
+x
+y
+x
+y
+Ay
+O O O O Ax
+AxA Ay= +
+(I) (II) (III) (IV)
+A A A Ay
+Ax
+Aşağıda bileşenlerine ayırma işlemine ait I. basamak verilmiştir. Benzer şekilde diğer basamaklarda yapılan 
+işlemleri sırasıyla yazınız. 
+I. x­y ekseninin orijininde bulunan A  vektörü verilmiştir. 
+II.  
+III.  
+IV .  

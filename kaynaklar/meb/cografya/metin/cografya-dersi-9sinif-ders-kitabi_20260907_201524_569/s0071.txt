@@ -1,0 +1,44 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+71
+Bir grup dağcı, Uludağ’ın zirvesine tırmanmak için belirledikleri bir noktada kamp kurmuştur. Kamp 
+alanından zirve rotasına hareket eden dağcılar, yürüyüş sırasında ortaya çıkan yoğun sisin etkisiyle 
+kaybolmuştur. Dağcılardan haber alınamaması üzerine arama kurtarma çalışması başlatılmıştır. Arama 
+kurtarma ekipleri, dağcıların telefonlarından alınan son sinyalleri tespit etmiştir.
+1. Arama kurtarma ekip şefi, sahadaki ekipleri doğru yönlendirebilmek için kayıp dağcıların 
+mutlak ve göreceli konumlarını nasıl açıklamalıdır?
+ 
+ 
+ 
+ 
+ 
+2.
+ Dağcıların zirve yürüyüşünü tamamlayabilmeleri ve kaybolmamaları için hangi bilgi ve 
+donanıma sahip olmaları gerekirdi?
+ 
+ 
+ 
+ 
+ 
+K
+29⁰ 13'29⁰ 12'29⁰ 11'
+40⁰ 04'
+40⁰ 03'
+0 2 4 6
+km
+40⁰ 05'
+40⁰ 06'
+29⁰ 14' 29⁰ 15' 29⁰ 16'
+ULUDAĞ
+Zirve
+Kamp Alanı
+Zirve rotası
+Ormanlık alan
+Kayalık alan
+Göl
+Telefon sinyali 
+alınan son yer
+2543 m
+2. Ünite Ölçme ve Değerlendirme Soruları
+Bu testte cevaplamanız için farklı soru çeşitlerinden oluşan toplam 7 soru verilmiştir. 
+Daha fazla soruya ulaşmak için testin sonunda yer alan karekodu okutunuz.
+1 ve 2. soruları aşağıda verilen metin ve haritadan yararlanarak cevaplayınız.

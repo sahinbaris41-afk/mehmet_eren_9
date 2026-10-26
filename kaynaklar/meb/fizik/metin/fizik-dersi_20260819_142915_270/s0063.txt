@@ -1,0 +1,50 @@
+63
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.11.1.8 
+Profesyonel bir paraşütçünün uçaktan atlama deneyimine yönelik video üzerinden öğ-
+rencilerin paraşütçünün hareketini ve hareketine etki eden değişkenleri tartışıp yo-
+rumlaması sağlanır (OB4). Öğrencilerin yorumları alındıktan sonra öğretmen özdeş 
+kâğıtlardan birini yatay, diğerini buruşturulmuş olmak üzere iki farklı şekilde serbest 
+bırakarak basit gösteri deneyi gerçekleştirebilir. Yatay ve buruşturulmuş olarak bı-
+rakılan özdeş kâğıtların havada kalma süreleri arasındaki ve düşey hızları arasın-
+daki farklılıkların nedenleri soru cevap etkinliğiyle sorgulanabilir. Sınıf tartışmasında 
+öğrenciler kendi iddialarını ve destekleyicilerini paraşüt hareketini de kullanarak ortaya 
+koyabilir. Yapılan tartışmalar neticesinde, öğrencilerin limit hıza etki eden değişkenleri 
+sürtünme kuvveti ile ilişkilendirerek tanımlamaları sağlanır. Öğretmen, öğrencileri simü-
+lasyon kullanarak limit hıza etki eden değişkenlerle ilgili veri toplamaya yönlendirebilir. 
+Öğrenciler, limit hıza etki eden değişkenlerin büyüklüğünü değiştirerek limit hızın aldı-
+ğı değerleri kaydeder (OB7). Öğrenciler kendi iddialarını, tekrar eden gözlemleri (D12.3, 
+E1.3) ve gözlemler esnasında kaydettikleri verileri kullanarak (E3.6) gerekçelendirir. 
+Kendi iddialarını ve gerekçelerini (E1.6), varsa arkadaşlarının karşıt iddialarına yönelik 
+çürütücülerini saygı çerçevesinde (D4.4) ve yapıcı olarak (SDB2.3) ifade eder (SDB2.1), 
+limit hızı etkileyen değişkenleri değerlendirir (KB2.18). Matematiksel modeli ile ilgili ör -
+neklerde limit hızın bağlı olduğu değişkenlerin ilişkilerine yönelik yorumlamalarla sı-
+nırlı kalınır. Öğrenciler limit hızı etkileyen faktörler hakkında bilgi görseli hazırlayabilir.
+FİZ.11.1.9
+Öğretmen, öğrencilerin ön bilgilerinde yer alan Türksat uydularının Dünya etrafındaki do-
+lanımı ya da lunaparklardaki dönme dolap gibi çeşitli eğlence araçlarının hareketlerini 
+yorumlamaları için düzgün çembersel hareket yapan farklı cisimleri görsel içerikli diji-
+tal araçlar (OB4) ile gösterir. Öğrenciler görsellere odaklanarak (E3.2), görsellerde yer 
+alan hareketleri inceler. Öğrenciler, soru cevap tekniği yardımıyla görsellerde yer alan 
+hareketlilerin yörüngeleri, yörüngelerinin merkez noktaları ve hızları hakkında görüşlerini 
+ifade ederek (SDB2.1) düzgün çembersel hareket yapan farklı cisimlerin hareketlerinin 
+özelliklerini tespit eder. Öğretmen, öğrencilerin vektörel niceliklerle ilgili ön bilgilerini ha-
+tırlamalarına yardımcı olur ve birbirinden farklı düzgün çembersel hareket yapan cisim-
+lerin herhangi bir konumdaki hız vektörlerinin yönlerini çizmelerini ister. Öğrenciler, düz-
+gün çembersel hareket yapan cisimlerin hareketlerindeki benzerliklerden yola çıkarak 
+hız vektörü ile yörüngelerinin yarıçap vektörünün yönlerine yönelik çıkarımda bulunur. 
+Öğrenciler hız ve yarıçap vektörünün yönlerine yönelik açık uçlu sorulardan oluşan çalış-
+ma yaprağı ile değerlendirilebilir. 
+FİZ.11.1.10 
+Öğrenciler öğretmen rehberliğinde gruplara ayrılabilir. Düzgün çembersel hareketle ilgili 
+temel kavramları (çizgisel sürat, açısal hız, çizgisel hız, merkezcil ivme, açısal ivme ve 
+merkezcil kuvvet) içeren video veya animasyon izletebilir. Öğretmen, öğrencilerden düz-
+gün çembersel hareketin temel değişkenlerinden en az iki tanesinin karşılıklı etkileşimini 
+gösteren drama etkinliği yapmalarını (OB9) ister. Öğrencilerden, akranlarına değişken-
+leri doğru aktarabilmek için hazırlayacakları senaryo üzerinde tartışarak (SDB2.2) görüş 
+birliğine varmaları istenir (D4.1, E3.3). Öğretmen, canlandırma etkinliği öncesinde grup-
+lar tarafından hazırlanan bütün senaryoları inceleyerek temel değişkenlerin tamamının 
+senaryolar kapsamında yer aldığından emin olur. Öğrenciler hazırladıkları senaryoları 
+canlandırır (E2.5). Öğrenciler, canlandırma etkinlikleri sonrasında gruplar arası tartışma 
+(SDB2.2) yolu ile değişkenlere ve değişkenler arasındaki ilişkiye yönelik iddialarını, ge-
+rekçelerini ve varsa (E1.6) karşıt iddialara sahip olan arkadaşlarına yönelik çürütücülerini

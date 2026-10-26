@@ -1,0 +1,51 @@
+127
+5. Tema/Algoritma ve Bilişim  
+Algoritmik	yapılar,	bir	problemi	çözmek	veya	belirli	bir	görevi	yerine	getirmek	için	adım	adım	talimatlar	
+içeren	yapılardır.	Bil gisayar	pro gramlarının	teme li	ola n	al goritmik	yap ılar,	Cezeri ’nin	çal ışmalarında	ol duğu	
+gibi	geçmişten	günümüze	gerçek	yaşam	durumlarında	geniş	bir	alanda	kullanılır.	
+ 5.2.  MANTIK BAĞLAÇLARI VE NİCELEYİCİLER
+Konuya Başlarken
+Ünlü İslam âlimi ve mühendis Cezeri’nin 1206 yılında 
+tamamladığı Hünerli Mekanik Cihazların Bilgi Kitabı; otomatlar, 
+su saatleri, makineler ve diğer mekanik cihazlarla ilgili 
+tasarımları içerir. Modern teknolojiden yüzyıllar önce kaleme 
+alınan bu kitap; Cezeri’nin icadı olan makinelerin tasarımına, 
+üretimine, montajına ilişkin bilgi ve talimatların, ayrıca 
+günümüzdeki robotik uygulamalarını çağrıştıran yönergelerin 
+yer aldığı eşsiz bir kaynaktır.
+Fil saati, Mardin’in Artuklu ilçesindeki Kasımiye Medresesi’nde 
+sergilenmektedir. Cezeri’nin icat ettiği bu saat, 30 dakikada bir 
+sesli uyarı veren otomatik bir sistemdir. Bu sistemde su gücüyle 
+çalışan robotik prensipler geçerlidir. Saatin çalışma sistemi 
+aşağıda adım adım verilmiştir.
+1. adım: Fil figürünün dâhilî haznesi, yeterli miktarda su 
+ile doldurulur. Hazne içerisine önceden gözenek 
+genişliği ayarlanmış, yüzer bir kap yerleştirilir. Bu kap, 
+tasarlanmış gözenek boyutu sayesinde tam olarak 30 
+dakika boyunca yüzeyde kalmak üzere dengelenmiştir.
+2. adım: Kabın altındaki gözenek, suyun yavaşça içeri 
+girmesine izin verir. Bu işlem, kabın kademeli olarak 
+ağırlaşmasına ve su seviyesiyle birlikte alçalmasına yol 
+açar. Kabın batma süreci, zamanlama mekanizmasının 
+temelini oluşturur.
+3. adım: Kap, 30 dakika sonunda tamamen batar. Bu koşul sağlandığında fil figürünün baş 
+kısmında bulunan ve kabın batmasıyla etkinleşen mekanik bir tetikleyici harekete 
+geçer.
+4. adım: Tetikleyici, bir çekiç mekanizmasını aktive eder. Bu çekiç, fil figürünün baş kısmında 
+bulunan ve ses üretmek için tasarlanmış metal bir çana vurur. 
+5.adım: Çekiçten gelen darbe belirgin bir ses üretir ve bu ses yarım saatlik periyodun 
+tamamlandığını gösterir. Ses hem uyarı hem de zamanı işaret etme işlevi görür.
+6. adım: Sesli uyarıdan sonra sistem yenilenir. Kap, elle işletilen veya otomatik bir mekanizma 
+ile su yüzeyine yeniden yerleştirilir ve 30 dakikalık yeni bir süreç başlar.
+Cezeri; insan müdahalesine gerek kalmadan dış dünyanın gereksinimlerine uyum sağlayarak 
+kendini yenileyebilen, verilen görevleri yerine getirebilen, yapay veya biyolojik sistemlerin 
+kontrolü ve iletişimi üzerine odaklanan, günümüzde sibernetik olarak adlandırılan bilim 
+dalının temellerini atmıştır.
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız ve fikirlerinizi 
+arkadaşlarınızla paylaşınız. 
+1. Cezeri’nin mekanik sistemleri, günümüzün mekanik teknolojileriyle karşılaştırıldığında 
+hangi benzerlik ve farklılıklara sahiptir?
+2. Cezeri’nin mekanik sistemlerle ilgili çalışmalarının sibernetik biliminin günümüzdeki 
+gelişimine, yapay zekâ ve otomasyon teknolojilerine etkileri neler olabilir?
+3. Cezeri’nin tasarladığı fil saati otomatında sesli uyarıyı tetikleyen mekanik süreci bir 
+döngü yapısı içinde (örneğin hangi adımların tekrarlanabilir olduğunu) açıklayınız. 

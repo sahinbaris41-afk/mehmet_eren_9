@@ -1,0 +1,36 @@
+147
+2. Tema /  Nicelikler ve Değişimler
+13.	Uygulama
+Ekonomik Aracı Seçme
+İkişer kişilik gruplara ayrılarak aşağıda verilenleri inceleyiniz.
+Yeni bir araba satın almak isteyen Kerem Bey, araştırmaları sonucunda seçenekleri A ve B markaları olarak ikiye 
+indirmiştir. Arabalar zamanla değer kaybettiği için iki araba arasında bazı karşılaştırmalar yapmak istemektedir. 
+Arabaların satış fiyatını ve yıllık değer kaybını gösteren bilgiler T ablo 1’de verilmiştir.
+Tablo 1 
+Araba Markası Satış Fiyatı (TL) Yıllık Değer Kaybı (TL)
+A 1 200 000 12 000
+B 1 320 000 20 000
+Sizden Kerem Bey’in uygun arabayı seçmesine yardımcı olmanız beklenmektedir. Grup içinde her bir kişinin birer 
+araba seçmesi koşuluyla A ve B arabalarını paylaşarak aşağıdaki soruları cevaplayınız.
+1.  A  ve B marka arabaların kullanım süresine (yıl) bağlı olarak değerlerindeki değişimi veren fonksiyonları yazınız.
+2.  1. maddede elde ettiğiniz fonksiyonlardan yararlanarak arabaların kullanım sürelerine göre değerlerini  bulunuz 
+ve Tablo 2’de ilgili yere yazınız.
+Tablo 2 
+Kullanım Süresi (Yıl) A Marka Arabanın Değeri (TL) B Marka Arabanın Değeri (TL)
+5
+10
+15
+20
+3. A  ve B marka arabaların kullanım süresine (yıl) bağlı olarak değerlerini (TL) gösteren grafikleri aşağıdaki dik 
+koordinat sisteminde çiziniz.
+250
+500
+750
+1000
+1250
+5
+y  Arabanın değeri (x 1000 TL)
+x  Kullanım süresi (yıl)O 30 35 4025201510
+4. A ve B marka arabaların değerinin kaç yıl sonra eşit olacağını çizdiğiniz grafiklerden yararlanarak bulunuz.
+5. A ve B marka arabaların değerinin kaç yıl sonra eşit olacağını cebirsel çözüm yaparak bulunuz.
+6. Kerem Bey’e hangi arabayı almasının daha avantajlı olacağı söylenebilir? Nedenleri ile açıklayınız.

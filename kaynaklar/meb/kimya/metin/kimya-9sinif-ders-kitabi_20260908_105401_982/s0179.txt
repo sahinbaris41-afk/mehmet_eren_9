@@ -1,0 +1,69 @@
+179
+2. Tema/Çeşitlilik
+H F H F
+H F
+H
+Hidrojen bağı
+Hidrojen bağı
+Hidrojen bağı
+H
+HHH
+H
+H
+H
+H
+H
+O
+O
+O
+O
+O
+H
+H H H H
+H
+H H
+H
+N N
+N
+3. 5A, 6A ve 7A gruplarında bulunan ve hidrojenli bileşiklerinin kaynama sıcaklığı beklenenden farklı olan 
+elementler hangileridir?
+4. 5A, 6A ve 7A gruplarındaki bazı elementlerin hidrojenli bileşiklerinde beklenenden farklı kaynama sıcak-
+lığı görülmesinin nedenini moleküller arası etkileşim kuvvetlerini kullanarak açıklayınız. 
+Moleküller arası etkileşim kuvveti, maddelerin kaynama sıcaklığında belirleyici 
+bir etkendir. Örneğin aynı şartlarda sadece London kuvvetlerinin etkin olduğu 
+metanın (CH4) kaynama sıcaklığı 112,65 K, dipol-dipol etkileşiminin etkin ol -
+duğu hidrojen sülfürün (H2S) 213,15 K, hidrojen bağlarının etkin olduğu suyun 
+(H2O) kaynama sıcaklığı ise 373,15 K’dir.
+Saf maddelerdeki moleküller arası etkileşimlerin en güçlüsü hidrojen ba -
+ğıdır. Bu özellik hidrojen bağı içeren maddelerin yüksek kaynama sıcak -
+lığına sahip olmasını sağlar. Ayrıca moleküller arasında hidrojen bağı 
+sayısının artması, hidrojen bağının etkinliğini artırır. Örneğin her hidro-
+jen florür (HF) molekülü iki hidrojen florür molekülüyle etkileşebilir ve 
+bu nedenle iki hidrojen bağı yapabilir. Su moleküllerinde ise her su mole-
+külü dört su molekülüyle etkileşebilir ve dört hidrojen bağı oluşturabilir  
+(Görsel 2.22). Suyun kaynama sıcaklığının daha yüksek olmasının nedeni 
+yapabildiği hidrojen bağı sayısının fazla olması ile açıklanabilir.
+Hidrojen atomuna bağlı flor (F), oksijen (O) ve azot (N) atomlarının elektrone-
+gatiflik değerleriyle hidrojenin elektronegatiflik değeri arasındaki fark, molekü-
+lün kısmi yük yoğunluğunun ve moleküller arası çekimin artmasına neden olur. 
+H, F, O ve N atomlarının elektronegatiflik değerleri incelendiğinde en yüksek 
+elektronegatiflik farkının HF bileşiğini oluşturan atomlar arasında olduğu gö -
+rülmektedir. Sıvı hâldeki HF’nin kaynama sıcaklığının NH₃’ten daha yüksek 
+olması, molekülleri arasında oluşan hidrojen bağlarının daha güçlü olması ve 
+H–F bağındaki daha büyük elektronegatiflik farkı ile açıklanabilir.
+Bileşik Kaynama Sıcaklığı (°C) (1 atm) Bileşikteki Atomların Elektronegatiflik Değerleri
+H2O 100 H: 2,20  O: 3,44
+HF 19,5 H: 2,20  F: 4,00
+NH3 −33,3 H: 2,20  N: 3,04
+Görsel 2.22 
+H2O, NH3 ve HF 
+moleküllerindeki 
+moleküller arası 
+hidrojen bağları
+δ
++
+δ¯ δ+
+δ
++
+δ¯
+δ¯

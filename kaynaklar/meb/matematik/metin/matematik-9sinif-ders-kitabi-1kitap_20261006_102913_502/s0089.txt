@@ -1,0 +1,13 @@
+89
+2. Tema /  Nicelikler ve Değişimler
+Tema karekodu
+Tema 
+sunusuna 
+ulaşmak için 
+karekodu 
+okutunuz.
+Başlarken
+Günlük hayatta iki nicelik arasındaki doğrusal ilişkilere sıklıkla rastlanmaktadır. Örneğin okuldan eve 
+sabit hızla yürüyen bir kişinin katettiği mesafe ile zaman, sabit maliyeti olan bir ürünün üretim mik-
+tarı ile toplam maliyeti, sabit hızla ilerleyen bir aracın katettiği mesafe ile harcadığı yakıt miktarı ara-
+sında doğrusal bir ilişki vardır. Bu doğrusal ilişkileri ifade etmek için doğrusal fonksiyonlar kullanılır. 

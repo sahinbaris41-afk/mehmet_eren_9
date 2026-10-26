@@ -1,0 +1,56 @@
+132
+2. Tema/Çeşitlilik
+2.1.4.	Lewis	Nokta	Y apısı
+Bir atomun elektron dizilimi yapıldıktan sonra element sembolünün etrafında 
+valans elektronlarının nokta olarak gösterimine Lewis (Levis) nokta yapısı 
+denir. Lewis nokta yapısının gösteriminde element sembolü çekirdek ve iç 
+enerji seviyelerindeki elektronları temsil ederken sembol etrafındaki noktalar 
+son enerji seviyelerindeki valans elektronlarını ifade eder. Noktalar element 
+sembolü etrafına valans elektron sayısına göre önce teker teker yerleştirilir, 
+valans elektron sayısı dördü aşıyorsa fazla elektronlar çift olarak konumlan -
+dırılır.
+7N: 1s
+2
+2s
+2
+2p
+3
+   N
+13Al: 1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+1
+   Al
+Azotun valans elektron sayısı 5, alüminyumun ise 3’tür. Valans elektron sayı-
+sı kadar nokta, element sembollerinin etrafına yerleştirilir.
+1. Yönerge:  Aşağıdaki tabloda 1H, 6C, 7N, 8O ve 9F atomlarından oluşan bazı moleküler element ve bileşikle-rin Lewis nokta yapıları verilmiştir. İlk tablodaki boşlukları doldurarak soruları cevaplayınız.
+Element 
+Molekülü
+Lewis Nokta 
+Yapısı
+Bileşik 
+Molekülü
+Lewis Nokta 
+Yapısı
+H2 H H HF H F
+F2 F F CH4
+H
+H C H
+H
+N2 N  N NH3
+H N H
+H
+O2 O  O H2O H O H
+1. Bağ yapımına katılmayan valans elektronları eşleşmemiş (ortaklanmamış) valans elektronu olarak ta-
+nımlanır. Buna göre tabloda verilen moleküllerdeki elementlerin valans elektron sayısı ile ortaklanmış ve 
+ortaklanmamış valans elektron sayısını bulunuz.
+Element Sembolü 1H 9F 6C 7N 8O
+Elektron Dizilimi
+Lewis Nokta Yapısı
+Lewis Nokta YapısıEtkinlik-2.9

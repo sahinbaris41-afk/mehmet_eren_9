@@ -1,0 +1,23 @@
+148 149
+COĞRAFYA 9 
+4
+Bölge Oluşturma
+ ▶ Seçtiğiniz kısımda “Değer” bölümünde daha önce öz nitelik tablosunda verilerinizi girdiğiniz 
+sütunun adını seçip pencerenin alt kısımlarındaki “Tamam” butonuna tıklayınız.
+ ▶ “Katman” menüsünden 
+“Katman Özellikleri” bölümü-
+nü seçiniz. Açılan “Katman 
+Özellikleri” penceresinde 
+“Etiketler” ardından “Etiket 
+Yok” sekmesini tıklayıp “Tek 
+Etiket”i seçiniz. 
+ ▶ “Değer” bölümünden ha-
+ritanızın üzerinde görmek 
+istediğiniz etiketi seçiniz.
+ ▶ “Katman”ı, ardından “Kat-
+man Özellikleri” penceresin-
+deki “Semboloji” sekmesini 
+tıklayarak açtığınız menü-
+den verinizi en iyi temsil 
+edecek olan "Sınıflandırıl-
+mış”ı seçiniz.

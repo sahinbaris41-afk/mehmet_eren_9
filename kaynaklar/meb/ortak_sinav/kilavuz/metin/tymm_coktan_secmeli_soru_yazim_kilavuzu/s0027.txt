@@ -1,0 +1,33 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+27
+Yansıtma/Değerlendirme:  Öğrencinin ulaştığı sonucu veya çözüm yolunu farklı bir bağlama uyarlaması 
+ya da sonucun geçerliğini test etmesi sağlanmalıdır. “Bu çözüm başka hangi durumlarda işe yarar?” veya 
+“Elde edilen sonuç, başlangıçtaki verilerle ne kadar tutarlı?” gibi sorularla bilginin derinlemesine işlenmesi 
+ve transfer edilmesi hedeflenebilir.
+3.2.1. PROBLEM ÇÖZME BECERİSİ ÖRNEK SORULAR
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Okula yeni bir kütüphane açıldıktan birkaç hafta sonra öğrenciler arasında bir tartışma başladı. Bazı 
+öğrenciler, kütüphanenin sessiz bir yer olması, sadece kitap okumak ve ders çalışmak için kullanıl -
+ması gerektiğini savunuyorlardı. Grup çalışması yapanların konuşmalarından rahatsız olduklarını dile 
+getiriyorlardı.
+Diğer grup ise kütüphanenin öğrenciler için birlikte öğrenme alanı olduğunu düşündüklerinden sessiz 
+bir yer olmaması gerektiğini düşünüyorlardı. Çünkü grup projelerinde fikir alışverişi yapmak ve arka -
+daşlarla üretmek de öğrenmenin bir parçasıydı.
+Okul yönetimi, bu soruna çözüm üretmek için 5. sınıf öğrencilerinin görüşlerine de başvurdu.
+Öğrencilerin görüşleri şunlardır:
+5 A şubesi öğrencileri, kütüphanenin ikiye bölünerek gruplar için ayrı alanlar oluşturulmasını önerdi.
+5 B şubesi öğrencileri, kütüphaneyi pazartesi ve salı günleri sessizlik isteyenlerin; çarşamba, per -
+şembe ve cuma günleri de grup çalışması isteyenlerin kullanmasını önerdi.
+5 C şubesi öğrencileri, kütüphanede sadece sessiz çalışmaya izin verilmesini önerdi.
+5 D şubesi öğrencileri, okul bahçesinin farklı bir yerine yeni bir kütüphane yapılmasını önerdi.
+Okul yönetimi, elde ettiği bu verileri değerlendirerek az bir bütçeyle her iki grubun da memnun olaca -
+ğı bir çözüm aramaya başladı.
+1. Metne göre öğrenciler arasındaki anlaşmazlığın nedeni aşağıdakilerden hangisidir? 
+(KB3.2 SB1, KB3.2 SB2)
+A) Okul yönetiminin sene başında kütüphane kurallarını belirlerken öğrencilere danışmaması
+B) Kütüphanede sessizlik isteyenlerle grup çalışması yapmak isteyenlerin bir arada çalışamaması
+C) Kütüphane kurallarının öğrencilere zamanında duyurulmaması nedeniyle karmaşa yaşanması
+D) Sessizlik isteyen öğrencilerin, gürültü yapan öğrencileri uyarması nedeniyle huzursuzluk yaşanması
+2. Kütüphane kullanımına yönelik 5. sınıf şubelerinden hangisinin önerisi az bir bütçeyle her iki grubu 
+da memnun olacağı şekilde anlaşmazlığın çözümüyle ilgili değildir? (KB3.2 SB4)
+A) 5 A B) 5 B C) 5 C D) 5 D

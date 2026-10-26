@@ -1,0 +1,43 @@
+80
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ • Deneysel Olasılık 
+• Teorik Olasılık
+Genellemeler • Deneye ait tekrar sayısı arttıkça elde edilen göreli sıklıkların değişebilirliği azalır.
+• Deneye ait tekrar sayısı arttıkça deneysel olasılık değeri, teorik olasılık değerine yaklaşır.
+Anahtar Kavramlar ayrık olay, ayrık olmayan olay, çıktı, deney, deneysel olasılık, olay, örnek uzay, teorik olasılık
+Sembol ve Gösterimler P(A), P(B), P(A 
+⊂B), P(A 
+⊂B)
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, kısa cevaplı sorular, açık uçlu sorular, araştırma ödevi, eş-
+leştirme testi ve performans görevi ile değerlendirilebilir.
+Olayların olasılığını deneysel olarak incelemeye yönelik bir araştırma ödevi verilebilir. Araştır-
+ma ödevi, dereceli puanlama anahtarı ile değerlendirilebilir.
+Olayların olasılığını gözleme dayalı tahmin etme ve tümevarımsal akıl yürütme becerilerinin 
+aşamalarını bütünsel olarak değerlendirebilme amacı ile öğrencilerden performans görevi 
+istenebilir. Hazırlanan performans görevi, analitik veya bütüncül dereceli puanlama anahtarı 
+ile değerlendirilebilir.
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.9.7.1. Olayların olasılığını gözleme dayalı tahmin edebilme
+a) Olayların olasılığını deney yoluyla veri toplayarak istenen olayların göreli sıklıklarıyla 
+ilişkilendirir.
+b) Deneye ait tekrar sayısı ile deneyin çıktılarının göreli sıklıklarının ilişkisine yönelik 
+çıkarım yapar.
+c) Çıkarımlardan hareketle yargıda bulunur.
+MAT.9.7.2. Olayların olasılığına ilişkin tümevarımsal akıl yürütebilme 
+a) Olayların olasılığını teorik olarak incelemeye/hesaplamaya yönelik tüm olası du -
+rumları farklı gösterimler (sistematik liste, tablo, ağaç şeması gibi) ile gözlemler.
+b) Olayların olasılığını teorik olarak incelemeye/hesaplamaya yönelik matematiksel 
+ilişkilere ulaşır.
+c) Olayların deney yoluyla hesaplanan/elde edilen olasılık değerinin teorik olasılık ile 
+hesaplanan değeri arasındaki ilişkiye yönelik genelleme yapar.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin olayları ayrık olma ve ayrık olmama durumuna göre ayırt edebildiği, bir ola -
+yın olasılığı ile tümleyeninin olasılığının toplamının "1" olduğunu bildiği, olayların olasılığını 
+deneysel ve teorik  olasılık ile inceleyebildiği, deneysel ve teorik olasılık arasındaki ilişkiyi 
+açıklayabildiği, “olay, deney, çıktı ve örnek uzay ” gibi temel kavramları bildiği kabul edil -
+mektedir.

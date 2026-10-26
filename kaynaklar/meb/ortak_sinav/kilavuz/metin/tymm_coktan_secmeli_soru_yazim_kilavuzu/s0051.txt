@@ -1,0 +1,23 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+51
+2. Molekülleri arasındaki etkin etkileşim türü London kuvvetleri olan bir kumaş, en düşük sıcaklık 
+ayarında ütülendiğinde aşağıdaki sonuçlardan hangisi beklenir? (KB3.2 SB3)
+A) Kırışıklıklar kısa sürede açılır ve kumaşın yapısı korunur.
+B) Kırışıklıkların açılması için daha uzun süre ısı uygulanması gerekir.
+C) Kırışıklıklar açılır ancak kumaşın zarar görme olasılığı artar.
+D) Kırışıklıkların düzelmesi sıcaklıktan çok kumaşın kalınlığına bağlı olarak değişir.
+E) Düşük sıcaklık, kırışıklıkların düzelmesinde belirgin bir etki oluşturmaz.
+3. Pamuklu bir kumaşın kırışıklıklarını gidermek için orta sıcaklıkta 30 saniyelik bir ütüleme uygulanmıştır. 
+Uygulama sonunda kırışıklıkların tamamen açılmadığı görülmüştür.
+Bu uygulama sürecini ve sonucunu değerlendiren bir öğrencinin yöntemin uygunluğuna ilişkin 
+aşağıdaki açıklamalarından hangisi doğrudur?  (KB3.2 SB5)
+A) Elde edilen sonuç, orta sıcaklıkta yapılan ütülemenin pamuklu kumaşın yapısında istenmeyen bir 
+değişime yol açtığını düşündürmektedir.
+B) Kırışıklıkların büyük ölçüde azalması, pamuklu kumaş için seçilen sıcaklık ve sürenin en uygun 
+yöntem olduğunu göstermektedir.
+C) Uygulanan orta sıcaklık ayarı, pamuk liflerindeki etkileşimleri yeterince zayıflatmada etkili olmuş-
+tur. Ancak tam düzelme için süre ya da sıcaklık yeniden gözden geçirilmelidir.
+D) Kumaştaki kırışıklıkların tam düzelmenin sağlanamaması, seçilen sıcaklığın yeterli olduğunu ancak 
+uygulama süresinin tam sonuç için yeterli olmadığını göstermektedir.
+E) Kumaştaki kırışıklıkların kısmen düzelmesi, seçilen sürenin uygun olduğunu ancak sıcaklık düzeyi-
+nin istenen etki için yeterli olmadığını göstermektedir.

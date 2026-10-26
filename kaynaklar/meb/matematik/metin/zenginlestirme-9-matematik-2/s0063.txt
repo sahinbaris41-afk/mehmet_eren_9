@@ -1,0 +1,51 @@
+MATEMATİK 9 
+62 63
+İsim
+Köşe  
+Sayısı 
+(V)
+Her Köşedeki 
+Kenar Sayısı 
+(d)
+V.d Değeri 
+(V).(d)
+Kenar  
+Sayısı 
+(E)
+Yüz  
+Sayısı 
+(F)
+Her Yüzeyin 
+Kenar Sayısı 
+(k)
+F.k Değeri 
+(F).(k)
+Dört yüzlü
+Altı yüzlü
+Sekiz yüzlü
+On iki yüzlü
+Yirmi yüzlü
+3. Adım
+Platonik cisimler, her yüzeyinin aynı çokgen olduğu ve her köşesinin aynı sayıda kenarla bu -
+luştuğu düzenli çok yüzlülerdir. Aşağıda verilen tablodaki hücreleri doldurup her yüzeyin kenar 
+sayısı (k), her köşedeki kenar sayısı (d) olmak üzere (F) . (k) çarpım değeri, (V) . (d)  çarpım değeri ve 
+(E) değerleri arasındaki ilişkiyi bulmaya çalışınız.
+Çözüm:
+Değerlendirme
+Euler Karakteristiği'ni keşfederken hangi adımları izlediniz? Karşılaştığınız zorluklar nelerdi? Bu 
+zorluklarla nasıl başa çıktınız?
+Her bir platonik cismin Euler Karakteristiği'ni bulduktan sonra bu değerin sabit olması size ne 
+düşündürdü? Bu durumun matematiksel anlamı nedir?
+Çözüm:
+Çözüm:
+1
+2
+1. PERFORMANS 
+GÖREVI Sıralama Algoritmaları
+İsim Köşe sayısı (V) Kenar sayısı (E) Yüz sayısı (F) (V) - (E) + (F)
+Dört yüzlü
+Altı yüzlü
+Sekiz yüzlü
+On iki yüzlü
+Yirmi yüzlü
+Çözüm:

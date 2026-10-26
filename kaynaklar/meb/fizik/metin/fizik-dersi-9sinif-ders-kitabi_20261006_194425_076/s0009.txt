@@ -1,0 +1,71 @@
+9
+Kitap ünitelerden oluşmaktadır. Her ünitenin başında 
+ünite kapak sayfası yer almaktadır.
+Ünite kapaklarında ünitenin adı, içerik çerçevesi, anah-
+tar kavramlar, öğrenciden beklenen öğrenme kanıtları, 
+ünite sonunda öğrenciden yapması beklenen görev 
+ya da sorumluluklar hakkında bilgi verilmiştir. Ayrıca 
+ünite ile ilgili sunum ve diğer e-içeriklere yönlendiren 
+karekodlar bulunmaktadır.
+Kitap genelinde kullanılan tüm kare kodlar 
+akıllı cihazlarla okutulduğunda ya da 
+kitabın dijital kopyalarında karekod üze-
+rine tıklandığında kitaba ait e-içeriklere 
+ulaşılabilmektedir.
+Ünitenin günlük hayat ve 
+önceki ünitelerle ilişki-
+lendirilmesini sağlayan 
+köprü kurma alanı
+Ünite numarası
+Sayfa numarası
+Sayfa numarası
+Ünitenin adı
+Konuya hazırlık ve ön 
+değerlendirme yapılan 
+“Konuya Başlarken” 
+alanı
+Ön değerlendirmenin 
+yapıldığı ve temel kabul-
+lerin değerlendirildiği 
+“Hazır mısınız?” alanı
+Konunun başladığını 
+gösteren özel büyük harf
+Konu görseli ve görsel 
+açıklaması
+Öğrencilere yol göster-
+mek, ihtiyaç duyulan 
+konularda ek bilgiler 
+vermek, önemli görülen 
+kelime, kavram veya 
+tanımları açıklamak 
+amacıyla kullanılan metin 
+alanlarıdır. Ok uçları, ilgili 
+satırı işaret eder.
+Konuya yönelik ek açıkla-
+maların veya detaylı bilgi-
+lerin sunulduğu açıklama 
+kutusu ve karekodu
+Etkinliğin uygulanmasına 
+yönelik bilgilendirme ve 
+uyarı simgeleri alanı
+Desimal sistemle gösteri-
+len ünite konu başlığı
+Desimal sistemle gösteri-
+len ünite konu başlığı
+Ünitenin adıÜnite 
+numarası
+Ünite içerik 
+çerçevesi
+Anahtar 
+kavramlar
+Ünitede öğrenciden beklenen 
+görev ve sorumluluklar bilgisi
+Ünitede öğrenilmesi amaçlanan bilgi 
+ve becerilere yönelik öğrenme kanıtları
+Öğrencinin merak 
+duygusunu uyandırmayı 
+hedefleyen metin alanı
+Ünite, sunum ve diğer 
+e-içeriklere yönlendiren 
+karekodlar
+Kitabın T anıtımı  

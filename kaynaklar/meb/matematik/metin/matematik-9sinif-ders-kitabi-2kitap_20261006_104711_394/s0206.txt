@@ -1,0 +1,35 @@
+206
+7. Tema / Veriden Olasılığa
+Günlük hayatta hava durumu, sporcu başarıları (penaltıyı gole çevirme, üç sayılık basket atışı vb.) gibi 
+olaylarda tekrarlar sonucu elde edilen veriler olasılık tahmini için oldukça önemlidir. Böyle durumlarda 
+söz konusu olayın olasılık değerini tahmin edebilmek için eldeki verilerle göreli sıklıklar hesaplanır. 
+Göreli sıklıklar, deneysel olasılık olarak adlandırılır. 
+Bir Deneyde Tekrar Sayısının Artmasıyla Deneysel Olasılık Değerinin Değişimi
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız.
+1. Çark 2. Çark
+Yanda verilen çarklardan birincisi sarı (S), yeşil (Y) ve 
+mor (M); ikincisi turuncu (T) ve mavi (V) olmak üzere 
+kendi içinde eş parçalara ayrılmıştır. 
+•  Dörder kişilik gruplara ayrılınız. Çarklardaki oklar 
+aynı anda çevrildiğinde 1. çarkın yeşil, 2. çarkın 
+mavi alanları göstererek durmalarının deneysel ola-
+sılığını inceleyiniz. 
+•    Çarkları sınıfınızda oluşturunuz.
+•   Grubunuzda bir kişinin deneyi gerçekleştirmesine, 
+bir kişinin çıktıları kaydetmesine, bir kişinin sıklık 
+grafiğini oluşturmasına ve bir kişinin göreli sıklık 
+grafiğini oluşturmasına özen gösteriniz. Diğer görev 
+ve yorumlamaları grupça yapınız.
+Çalışmanız, uygulama sonundaki kontrol listesi ve grup değerlendirme formu ile değerlendirilecektir.
+Yandaki karekodda bulunan belgede çarklar ve oklar daha büyük boyutlarda 
+verilmiştir. Çark deneyi bu belgenin çıktısı alınarak gerçekleştirilebilir.
+3. Uygulama
+Veri İhtiyacı
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız.
+Bir kafe işletmecisi, menüsüne yeni bir tost çeşidi eklemek ve bu ürünün satılma olasılığını belirlemek istemektedir. 
+Buna göre işletmeci,
+1. Tostların hangi özelliklerini göz önünde bulundurmalıdır?
+2. Bu özelliklere ait hangi veril ere ihtiyaç duymaktadır?
+3. Ekmek, peynir ya da sucuğun yalnızca birinin çeşitlerine dair satış verilerinin elinde olması hâlinde menüsüne 
+ekleyeceği tost çeşidine karar verebilir mi? Nedenleriyle açıklayınız ve sınıfça tartışınız.    
+2. Uygulama

@@ -1,0 +1,44 @@
+47
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ COĞ.10.2.1. Örnek uygulamalar üzerinden CBS ve uzaktan algılamanın kullanım alanlarını 
+özetleyebilme
+a) Örnek uygulamalar üzerinden CBS ve uzaktan algılamanın kullanım alanlarını çö-
+zümler.
+b) Örnek uygulamalar üzerinden CBS ve uzaktan algılamanın kullanım alanlarını sı-
+nıflandırır.
+c) Örnek uygulamalar üzerinden CBS ve uzaktan algılamanın kullanım alanlarını yo-
+rumlar.
+COĞ.10.2.2. Mekânsal bilgi teknolojilerini kullanarak altlık haritalar üzerinde mekânsal ve-
+riler oluşturabilme
+a) Oluşturacağı haritanın amacını belirler. 
+b) Oluşturacağı harita için gerekli olan yöntemler ve araç gereci kullanır.
+c) Oluşturacağı haritaya ekleyeceği verileri toplar.
+ç) Oluşturacağı haritanın türünü belirler.
+d) Verileri haritaya işler ve haritanın bileşenlerini oluşturur.
+e) Oluşturduğu haritayı amacına uygun biçimde kullanır.
+f) Oluşturduğu haritayı ihtiyaç duyduğunda tekrar kullanır.
+İÇERİK ÇERÇEVESİ CBS ve Uzaktan Algılamanın Uygulama Alanları
+Mekânsal Verilerin Haritalara Aktarılması
+Anahtar Kavramlar CBS, uydu görüntüsü, uzaktan algılama, veri
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; açık uçlu sorular, kontrol listesi, performans görevi, analitik dereceli 
+puanlama anahtarı, öz değerlendirme formu kullanılarak değerlendirilebilir.
+Performans görevi olarak öğrencilerden evlerinin yakın çevresine ait uydu görüntüsü üze-
+rinde vektör veriler (nokta, çizgi ve alan) kullanarak harita oluşturmaları istenebilir. Per -
+formans görevi; amaç belirleme, yöntem ve araç gereç kullanımı, bilgi toplama, bilgileri 
+düzenleme, harita oluşturma ve harita kullanımı ölçütlerine göre değerlendirilebilir. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin mekânsal bilgi teknolojileri ile ilgili temel bilgilere sahip olduğu kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrenim görülen okulun yakın çevresinde bulunan mekânsal unsurlara (ev, okul, hastane, 
+sinema, market, park, yol vb.) ilişkin liste hazırlanabilir. Söz konusu unsurlar kullanılarak 
+bir kroki çizilebilir. Çizilen kroki üzerinden nokta, çizgi, alan verilerine uygun ve coğrafi 
+unsurlarla ilgili bir tablo oluşturulabilir.   
+Köprü Kurma CBS ve uzaktan algılamanın kullanım alanlarına yönelik farklı türde haritalar ve uydu 
+görüntüleri incelenir. Öğrencilerin yapılan incelemenin ardından bu görüntülerin hangi 
+amaçlarla elde edildiğine ilişkin görüşleri alınır. Bu sayede meteorolojik veriler ve 
+navigasyon sistemlerinin günlük hayatta sağladığı kolaylıklarla ilgili bağlantı kurulabilir.

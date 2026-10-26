@@ -1,0 +1,58 @@
+222
+7. Tema / Veriden Olasılığa
+6. ÖRNEK
+Yandaki tabloda bir teknoloji mağazasının 
+2024 Kasım ayında sattığı A, B ve C marka-
+larına ait cihazların adetleri verilmiştir. Buna 
+göre mağazadan alınan bir ürünün B marka 
+veya televizyon olma olayının olasılık değe-
+rini bulunuz.
+Çözüm
+Cihaz
+Marka
+A Marka B Marka C Marka
+Tablet 12 14 8
+Telefon 15 11 14
+Televizyon 10 0 9
+Akıllı Saat 15 13 0
+Kablosuz Kulaklık 0 16 9
+Mağazadan alınan bir ürünün B marka olma 
+olayı K, televizyon olma olayı L olsun. Mağa-
+zada B marka televizyon satılmadığından K 
+ve L olayları ayrık olaylardır.
+Tabloda yeşile boyanmış hücreler B marka 
+ürünlere ait olduğundan PK 14654=_i  olur. 
+Maviye boyanmış hücreler televizyonlara ait 
+olduğundan PL 14619=_i  olur. 
+Böylece mağazadan alınan bir ürünün B marka veya televizyon olma olayının olasılık değeri
+.
+PK LP KP L
+bulunur14654 14619 14673 21
+, =+
+=+= =
+__ _ii i
+Cihaz
+Marka
+A Marka B Marka C Marka
+Tablet 12 14 8
+Telefon 15 11 14
+Televizyon 10 0 9
+Akıllı Saat 15 13 0
+Kablosuz Kulaklık 0 16 9
+5. Sıra Sizde      
+Yandaki tabloda bir firmanın tanıtım amaçlı ürettiği 15 
+aracın benzinli veya elektrikli modellerinde var olan 
+özellikler “X” ile gösterilmiştir. Araçlar yalnızca İstanbul, 
+Ankara ve İzmir şubelerinde beşer adet olmak üzere 
+satışa sunulmuştur. Şubelerdeki 5 aracın her biri farklı 
+donanımlara sahiptir. 
+Buna göre
+a) Satın alınan bir aracın el ektrikli olma ve İzmir şubesinden alınma olasılık değerini bulunuz.
+b) Satın alınan bir aracın benzinli olma veya İstanbul şubesinden alınma olasılık değerini bulunuz.
+c) Satın alınan bir aracın cam tavanlı olma veya Ankara şubesinden alınma olasılık değerini bu-
+lunuz.
+Donanım Yakıt TipiBenzinli Elektrikli
+Deri Koltuk X
+Koltuk Isıtma-Soğutma X
+Cam Tavan X X
+Hayalet Gösterge X

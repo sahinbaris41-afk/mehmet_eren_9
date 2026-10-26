@@ -1,0 +1,51 @@
+203
+6. Aşağıda verilen olaylardaki olasılık değerlerinin hangi olasılık yaklaşımı (deneysel, teorik) ile 
+hesaplandığını belirleyerek cümlelerin başında yer alan kutucuğa olasılık yaklaşımı deneysel 
+ise “D”, teorik ise “T” yazınız.
+ Renkleri dışında özdeş kırmızı, mavi ve yeşil üç arabadan mavi arabayı seçme olasılık değeri 
+3
+1  ’tür. 
+ Havaya 27 kez atılan hilesiz bir madenî paranın üst yüzeyine 10 kez tura gelmiştir. Bu  olayda 
+üst yüzeye tura gelme olasılık değeri 1027  ’dir.
+ A ve B şehirleri arasında 5 yol bulunmaktadır. A şehrinden B şehrine giden bir yolcunun 1. yolu 
+kullanma olasılık değeri 15  ’tir.
+ Bir toptancıdan alınan 300 ampulden 12 tanesi bozuk çıktığına göre bu toptancıdan alınan bir 
+ampulün bozuk çıkma olasılık değeri %4’tür.
+7. Yandaki grafik, her yüzeyinde 1’den 6’ya kadar farklı bir 
+rakam bulunan hilesiz bir sayı küpünün defalarca havaya 
+atılması sonrasında üst yüzeye gelen sayılar dikkate alına-
+rak oluşturulmuştur. Buna göre
+a) Hilesiz sayı küpü kaç kez havaya atılmıştır?
+b) Üst yüzeye 5 gelme olayının sıklığı kaçtır?
+c) Üst yüzeye 5 gelme olayının  göreli sıklığı kaçtır?
+ç) Üst yüzeye 5 gelme olayının olasılık değerini bulunuz.
+d) Üst yüzeye çift sayı gelme olayının olasılık değerini bulunuz.
+e) Hilesiz sayı küpünün 5000 defa havaya atılması durumunda sizce sıklık dağılımı nasıl 
+değişir?
+f) Hilesiz sayı küpünün 5000 defa havaya atılması durumunda üst yüzeyine 5 gelme olayının 
+olasılık değeri sizce nasıl değişir?
+8. Görseldeki gibi yüzeylerinde 1’den 6’ya kadar farklı rakam bulunan hilesiz bir sayı küpü-
+nün havaya atılması durumunda üst yüzeyine çift sayı gelme olayı ele alınsın. Buna göre
+a)   Bu deneyin olası tüm çıktıları nelerdir?
+b)   Bu olaya ait çıktılar nelerdir?
+c)   Bu olayın olasılık değerini bulunuz.
+ç) Bu olayın tümleyeninin olasılık değerini bulunuz.
+d) Bu olay ile hilesiz sayı küpünün üst yüzeyine tek sayı gelme olaylarının çıktılarını karşı -
+laştırarak ayrık olaylar olup olmadıklarını belirleyiniz.
+e) Bu olay ile hilesiz sayı küpünün üst yüzeyine asal sayı gelme olaylarının çıktılarını karşı -
+laştırarak ayrık olaylar olup olmadıklarını belirleyiniz.
+Rakamlar
+100
+80
+60
+40
+20
+0
+54 61
+96
+2
+74
+3
+93
+79 80 78
+Sıklık

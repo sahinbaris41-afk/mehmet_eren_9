@@ -1,0 +1,41 @@
+99
+2. Tema /  Nicelikler ve Değişimler
+5.  a)  2. maddede çizdiğiniz grafiklerden yararlanarak h, k, m ve n fonksiyonlarının nitel özelliklerine ait Tablo 2’yi 
+örnekteki gibi doldurunuz.
+ Tablo 2
+f(x) = x h(x) = 3x k(x) = x2 m(x) = -2x n(x) = - 2x3
+Tanım Kümesi (Aralığı) R
+Görüntü Kümesi (Aralığı) R
+İşareti
+- (-∞, 0)
++ (0, ∞)
+Sıfırı 0
+Artanlık-Azalanlık Artan
+Maksimum Noktası Yok
+Minimum Noktası Yok
+Bire Birliği Bire bir
+Nitel Özellik
+Fonksiyon
+ 
+b)  Tablo 2’de elde ettiğiniz sonuçlardan yararlanarak a > 0 ve a < 0 durumları için g doğrusal fonksiyonunun 
+nitel özellikleri ile ilgili genellemelerinizi oluşturunuz.
+6.  Oluşturduğunuz genellemeler ile varsayımlarınızı karşılaştırarak a > 0 ve a < 0 durumları için gerçek sa -
+yılarda g(x) = ax şeklinde tanımlı doğrusal fonksiyonların nitel özellikleri ile ilgili önermelerinizi yazınız.
+7.  Ulaştığınız önermelerin günlük hayattaki kullanışlılığını değer lendirebilmek için aşağıdaki soruyu cevaplayınız. 
+ Kırmızı ışıkta duran A ve B araçları harekete başladıkları andan itibaren 20 saniye boyunca sabit ivme ile hızlan -
+mıştır. A ve B araçlarının zamana (sn.) bağlı hızlarını (m/sn.) gösteren fonksiyonlar sırasıyla h ve k olmak üzere  
+ h: 0, 207A "R, h(x) = x2 , k: 0, 207A "R, k(x) = 2x şeklindedir.
+ Aşağıda h ve  k fonksiyonlarına ait grafikler verilmiştir.
+O
+x Zaman (sn.)
+10
+10
+20
+30
+40
+20
+y Hız (m/sn.)
+k
+h
+h ve k fonksiyonlarının minimum ve maksimum değerlerini bularak  A ve B araçlarının başlangıçtaki ve bitiş-
+teki hızlarını yorumlayınız.

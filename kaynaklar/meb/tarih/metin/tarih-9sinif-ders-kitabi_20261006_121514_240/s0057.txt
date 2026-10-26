@@ -1,0 +1,25 @@
+57
+ GEÇMİŞİN İNŞA SÜRECİNDE TARİH
+Verileri Analiz Etme ve Yorumlama
+Veriler derinlemesine incelendikten sonra anlamlandırılır ve yo -
+rumlanır . Elde edilen sonucun  geçerli  ve güvenilir olması için bu 
+aşamada çok dikkatli olunması gerekir.
+Sonuçları Paylaşma ve Sunma 
+Elde edilen verilerin görsel hâle dönüştürülmesi ve paylaşılması 
+sürecidir. Bu süreçte araştırma bulgularının daha kolay anlaşılma -
+sı ve yorumlanması için tablo, grafik, diyagram, harita vb. görsel 
+araçlardan yararlanılabilir. Araştırmanın etkisini ve değerini artır -
+mak için bilimsel dergi, toplantı, rapor ya da genel ağ siteleri aracı -
+lığıyla paylaşılan sonuçlar, diğer araştırmacılar tarafından yeniden 
+analiz edilmesi için veri setleri aracılığıyla paylaşılabilir.
+Örnek Süreç
+Araştırmacı, coğrafi bilgi sistemlerini (CBS) kullanarak çay tarımı -
+nın yapıldığı bölgeleri haritalandırabilir ya da çay kelimesiyle ilgili 
+belgeleri analiz ederek tarihsel  değişimleri ortaya koyabilir.
+Örnek Süreç
+Araştırmacı, bu süreçte çay kelimesinin kökenini, çayın dünya çapında yayılımını ve farklı kültürlerdeki öne -
+mini daha anlaşılır biçimde ortaya koymak için harita, şema, bilgi görseli gibi unsurlardan yararlanabilir. Araş -
+tırma sonuçlarını kamuoyuyla paylaşmak için toplantı düzenleyebilir, rapor yazabilir ya da bir genel ağ sitesi 
+üzerinden bilgi aktarımında bulunabilir. 
+Harita 1.1: Dünyada çay kelimesinin farklı coğrafyalardaki karşılıkları ve yayılımı
+Dijital tarih çalışmaları hangi süreçler sonucunda gerçekleşmektedir? Açıklayınız.

@@ -1,0 +1,45 @@
+4
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+1. BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+1.1. BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI'NIN TEMEL YAKLAŞIMI VE ÖZEL AMAÇLARI
+Bilimsel bilginin üretilmesi, kullanılması ve aktarılmasına ilişkin teknolojik gelişmeler biyoloji biliminde de birçok 
+yeniliğin ortaya çıkmasını sağlamıştır. Özellikle moleküler biyoloji ve biyoteknoloji alanında yaşanan gelişmeler ile 
+biyoloji, günlük hayatın bir parçası hâline gelmiş ve bu durum biyoloji eğitimine yönelik gereksinimleri de artırmıştır.
+Biyoloji eğitiminin konu alanını oluşturan biyolojik olaylar, ekosistemdeki canlı ve cansız tüm varlıklar arasında görülen 
+ekolojik dengeye işaret eder. Türkiye Yüzyılı Maarif Modeli Ortak Metni (TYMM) temel alınarak yapılandırılan Biyoloji 
+Dersi Öğretim Programı’nda  yer verilen her bir konu, öğrencilere canlıların yapısını ve yaşamın uyumunu görme fırsatı 
+sunmaktadır. Program kapsamında öğrencilerin biyoloji biliminin kazandırdığı bilgi birikiminden hareketle yaşam 
+üzerine düşünmeleri, canlı ve cansız varlıkların yapı ve işlevleri arasındaki ilişkileri kavramaları amaçlanmaktadır.
+Biyoloji Dersi Öğretim Programı’nda genelde bilimin, özelde biyolojinin insan hayatındaki rolüne ve gerek Türk-İslam 
+bilim insanlarının gerekse diğer ulusların bilim insanlarının bilime sağladığı katkılara yer verilmiştir. Öğrencilerin bilim-
+teknoloji-toplum-çevre etkileşimine ilişkin bilgi, beceri, yeterlilik ve değerlerinin geliştirilmesi vurgulanmıştır. 
+Biyoloji, birçok disiplini barındıran bir bilimdir. Günlük yaşamın hemen hemen her alanında biyoloji biliminin derin 
+etkileri görülebilir. Bilim ve teknolojinin toplumsal hayatın merkezinde olduğu 21. yüzyılda yaşamak; küresel boyutta 
+biyolojik çeşitlilik krizi, iklim değişikliği ve sağlık sorunlarıyla yüzleşmeyi gerektirmektedir. Bu yüzleşme kaçınılmaz 
+olarak biyoloji bilgisine sahip olmayı, biyoloji biliminin kapsamında yer alan problemlerin çözümü için gereken tutum 
+ve davranışları geliştirmeyi zorunlu kılmaktadır.
+Biyoloji Dersi Öğretim Programı‘nın temel amacı, öncelikle canlı dünyası ile ilgili merak uyandırmak ve biyoloji 
+öğrenmenin niçin gerekli olduğunu ortaya koymaktır. Her öğrencinin biyolojiyi bir bilim olarak kavramasını ve bilim 
+sürecini nesnel bilgi edinmenin güvenilir bir yöntemi olarak görmesini sağlamaktır. Program kapsamında çok sayıda 
+kavram ve terim ile kelime dağarcığının genişletilmesi, günlük yaşam durumlarından yalıtılmış bilgilerin ezberlenmesi 
+yerine canlıların yapısı ve işlevine ilişkin farkındalığın oluşturulması, biyoloji alanıyla ilgili genel bir anlayışın geliştirilmesi 
+ve kanıtlara dayalı eleştirel bir yaklaşımın sergilenmesi hedeflenmektedir. Biyoloji Dersi Öğretim Programı ile geniş bir 
+çerçevede kazandırılmak istenen anlayış ve beceriler, biyoloji biliminin kapsamında yer alan bireysel ve toplumsal 
+sorunların çözümü için kullanıldığında yararlı olacaktır. Bu nedenle programda biyoloji alanının kavramsal yapısının 
+derinleştirilerek detaylandırılması yerine biyoloji ile ilgili genel bir anlayışın geliştirilebilmesi için beceri odaklı bütüncül 
+bir yaklaşıma yönelinmiştir.
+Biyoloji Dersi Öğretim Programı‘nda izlenen bütüncül yaklaşım, alan becerileri ve kavramsal beceriler ile bu becerileri 
+destekleyen eğilimler, sosyal-duygusal öğrenme becerileri, değerler ve okuryazarlık becerilerinden oluşan programlar 
+arası bileşenleri kapsar. Bütüncül yaklaşıma uygun olarak öğrencilerin kişisel-sosyal, eğitsel alanlarda ve kariyer 
+alanında gelişimleri açısından önemli rol oynayan bu beceri, değer ve eğilimlerin kazandırılmasında öğrenme-öğretme 
+yaşantılarının önemi büyüktür. Bu nedenle Biyoloji Dersi Öğretim Programı’nda dersin özel amaçları ile her bir öğrenme 
+çıktısına ilişkin beceri, değer ve eğilimlerin kazandırılması için ayrı bir zaman ayırmaya gerek kalmayacak şekilde 
+bütüncül anlayışla yapılandırılmış öğrenme-öğretme yaşantıları önerilmiştir.
+Öğrenme çıktıları, öğrencilerin biyoloji dersinde edinmeleri beklenen alan becerileri, kavramsal beceriler ve biyoloji 
+alanının temel konuları ile ilişkilendirilerek hazırlanmıştır. Programda her bir becerinin gelişim süreci, süreç bileşenleri 
+olarak tanımlanmıştır. Süreç bileşenleri, öğrenme-öğretme yaşantılarının düzenlenmesi ve etkinliklerin tasarımında 
+kullanılmıştır. Süreç bileşenleri aynı zamanda süreç ve ürün değerlendirme için öğrenme kanıtı işlevine sahiptir. Biyoloji 
+Dersi Öğretim Programı’nın içeriği, öğrencilerin gözlemlediği veya deneyimlediği günlük yaşam sorunlarıyla konuların 
+ilişkilendirilmesine ve bu yolla öğrencilerin çıkarım yapmasının desteklenmesine özen gösterilerek yapılandırılmıştır. 
+Böylece öğrenciler hem öğrenme çıktıları hem de programlar arası bileşenler kapsamında edindikleri bilgileri günlük 
+yaşamla ilişkilendirebileceklerdir. 

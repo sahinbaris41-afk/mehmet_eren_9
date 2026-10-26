@@ -1,0 +1,44 @@
+81
+4. Tema / Eşlik ve Benzerlik
+c)  T ahterevalli Şekil 1’deki konumunda iken AK cm 30= ’dir. Tahterevallinin zemine paralel 
+konumda dengede kalabilmesi için metal desteğin tahta parçasının hangi ucuna doğru, kaç 
+cm hareket ettirilmesi gerektiğini bulunuz.
+17. Sıra Sizde      
+Şekilde	bir	gözlem	kulesi	verilmiştir.	Gözlem	kulesinin	yerden	
+yüksekliği	 BC , m 8= 	merdivenin	zemin	ile	temas	ettiği	noktanın	
+kuleye	uzaklığı	 AB m 6= ’dir.	
+Merdiven destek direği BH7A , AC7A  na dik olduğuna göre BH nun 
+kaç m olduğunu bulunuz.
+B
+C
+H
+A 6
+8
+32. ÖRNEK
+Arda,	 Çanakkale	 Şehitler	 Abidesi’nin	 boyunu	 ölçmek	 iste-
+mektedir.	Bunun	için	elinde	bulunan	bir	kitabı,	abidenin	üst	ve	
+alt	noktası	kitabın	uzun	ve	kısa	kenarıyla	aynı	hizaya	gelecek	
+şekilde	görseldeki	gibi	gözüne	yaklaştırır.	
+Arda’nın	göz	hizasının	yerden	yüksekliği	 BH ,m16= ,	abide-
+ye	uzaklığı	 AH m 8= 	olduğuna	göre	
+a) Arda’nın	abidenin	yüksekliği	kaç	metre	olarak	ölçtüğünü	
+bulunuz.	
+b) Aynı	ölçümü	Arda’dan	daha	uzun	olan	Pelin	yapsaydı	
+BH,	CH	ve	AH	uzunlukları	nasıl	değişirdi?	
+Çözüm
+a) ABC	üçgeninde	m BAC 90o=_i% 	ve	 AH BC=77 AA 	olduğundan	Öklid	teoremi	gereğince
+AH BH CH ,C HC H. mo lur81 64 0
+2 2&&$$== =  
+Buradan	hareketle	Arda	abidenin	yüksekliğini	 BC BH CH BH ,B C, m40 16 41 6&&=+ =+ =  
+bulur.
+b) Pelin	Arda’dan	daha	uzun	olduğundan	Pelin’nin	göz	hizasının	yerden	yüksekliği	 BH 	artar,	abidenin	
+yüksekliği	sabit	olduğundan	 CH 	azalır.
+HC H B+ 	toplamı	sabit	iken	 BH 	ve	 CH 	birbirine	yakın	değerler	aldığında	 BH CH$ 	değeri	artar.
+AH BH CH
+2
+$= 	olduğundan	 H A	artar.
+H8	m
+1,6	m
+B
+C
+A

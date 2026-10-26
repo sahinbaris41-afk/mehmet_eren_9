@@ -1,0 +1,46 @@
+124
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.10.7.1. Koşullu olasılık ile çıkarım yapabilme 
+a) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu du -
+rumlara ilişkin mevcut olasılık bilgisini kullanarak varsayımda bulunur.
+b) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu ger -
+çek yaşam durumlarına ilişkin olası tüm çıktıları listeler.
+c) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu ya da 
+olmadığı durumlarda olası tüm çıktıların sayısı ile istenen durumların sayısını  karşı-
+laştırır.
+ç)  Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu du -
+rumların olasılığını hesaplamaya yönelik matematiksel önerme sunar.
+d) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu ya da 
+olmadığı gerçek yaşam durumlarının olasılığını koşullu olasılık ile değerlendirir.
+MAT.10.7.2. Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu 
+durumların olasılığını mevcut bilgiye/veriye dayalı tahmin edebilme 
+a) Bayes teoreminin kullanıldığı gerçek yaşam durumlarına ilişkin mevcut bilgileri kul-
+lanır.
+b) Mevcut bilgileri kullanarak Bayes teoremine dayalı hesaplama yapar.
+c) Bayes teoreminin kullanıldığı gerçek yaşam durumlarına ilişkin ileriye yönelik yargı-
+da bulunur.
+İÇERİK ÇERÇEVESİ • Koşullu Olasılık
+• Bayes Teoremi
+Genellemeler • Bir olay, başka olaylara bağlı olarak gerçekleşebilir. 
+• Bir olayın olasılık değeri, bağımlı olduğu olaylara göre değişebilir.
+Anahtar Kavramlar bağımlı olay, bağımsız olay, Bayes teoremi, koşullu olasılık 
+Sembol ve Gösterimler P(A), P(B), P(A ⋂ B), P(A ⋃ B), P(A|B)
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, kontrol listesi, açık uçlu sorular ve performans görevi ile 
+değerlendirilebilir.
+Gerçekleşmesi bir olaya bağlı olan veya koşul gerektiren gerçek yaşam durumlarına ilişkin 
+olası tüm çıktıların ağaç şeması, tablo, alan modeli gibi farklı temsillerle gösterilebilmesi için 
+çalışma kâğıdı kullanılabilir. Öğrencilerden çalışmalarını öz değerlendirme formlarıyla değer-
+lendirmeleri istenebilir. Gerçekleşmesi bir koşula bağlı olan ya da olmayan gerçek yaşam 
+durumlarına ilişkin olasılık değerlerinin hesaplanmasına yönelik açık uçlu sorular içeren bir 
+çalışma kâğıdını öğrencilerin cevaplaması istenebilir. Öğrencilere bağımlı ve bağımsız bir 
+grup olay verilir, olayın türünü koşullu olasılık kurallarını kullanarak belirlemeleri istenebilir. 
+Çalışma kâğıdının değerlendirilmesinde analitik veya bütüncül dereceli puanlama anahtarı 
+kullanılabilir.
+Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu gerçek yaşam 
+durumlarının olasılıklarını değerlendirmek için performans görevi  verilebilir. Hazırlanan per-
+formans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. 

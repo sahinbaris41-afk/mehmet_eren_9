@@ -1,0 +1,24 @@
+12
+MATEMATİK 9 
+1. TEMA: SAYILAR
+1. ETKINLIK ADI ÖLÇÜM SONUÇLARININ BILIMSEL GÖSTERIMI
+Etkinlik Öncesi
+ ► Bu etkinlikte, bilimsel gösterimin kullanıldığı çok büyük ve çok küçük sayı örneklerini içeren prob-
+lemlere yer verilmiştir.
+ ► Öğrencilerinize çok büyük ve çok küçük sayıların bilimsel gösterimi ile ilgili hatırlatıcı bilgiler veriniz. 
+ ► Öğrencilerinizden problemlerde verilen görselleri ve tabloları dikkatle incelemelerini isteyiniz. Öğ-
+rencilerinize rehberlik ederek onların problemlerin doğru çözümüne ulaşmalarını sağlayınız.
+ ► İşlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+ ► Çözümlerde hesap makinesi veya çevrim içi araçlar kullanabileceklerini hatırlatınız. 
+ ► Etkinlik sonunda öğrencilerinizin değerlendirme sorusunu çözmelerini isteyiniz. 
+ETKINLIĞIN AMACI Problem durumlarında bilimsel gösterimi kullanabilme
+DESTEKLEME 
+UYGULAMASI
+Bilimsel gösterimlerin kullanımına yönelik örnek veya problemlerde hesap 
+makinelerinden veya çevrim içi araçlardan yararlanılır. Öğrencilerin yakın 
+çevresi dikkate alınıp bilimsel gösterimle ilgili örnekler çeşitlendirilerek ko-
+nuya karşı olan ilgi ve motivasyonlarının artırılması hedeflenir.
+ARAÇ GEREÇ VE 
+MATERYALLER
+• Hesap makinesi
+• Çevrim içi araçlar

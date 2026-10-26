@@ -1,0 +1,56 @@
+143
+2. Tema/Çeşitlilik
+Bileşik Formülü Kullanılan Ek Anlamı Adlandırmadaki Konumu
+N2O3
+SO3 
+CS2
+CCl4
+N2O
+CO
+1. Verilen bileşiklerin sistematik adlarında element adı ve elementin anyon formundaki adı dışında kullanı-
+lan ekler nelerdir? Bu eklerin anlamlarını, ilgili element ve anyon adına göre adlandırmadaki konumunu 
+(ön ek/son ek) belirleye rek tablodaki boşlukları doldurunuz.
+2. Verilen bileşikler ile bileşiklerin sistematik adları arasındaki ilişkiyi arkadaşlarınız ile tartışarak belirleyi-
+niz. Genellediğiniz ortak kuralı yazınız ve bu kurala göre aşağıdaki bileşikleri adlandırınız.
+Genellediğiniz Kural: 
+SO2 
+N2O5
+3. SO3 ve CS2 bileşiklerinin adlandırılmasında S elementi için kullanılan adlandırma farkını belirleyiniz ve 
+bu farklılığın gerekçesini arkadaşlarınızla tartışınız.
+Moleküler	Yapılı	Bileşiklerin	Adlandırılması
+Moleküler yapıdaki bileşiklerin adlandırılabilmesi için Latince rakamların bi-
+linmesi gerekir.
+Bileşik formüllerinde genellikle elektronegatifliği az olan element öne yazılır. 
+Adlandırmada bu elementin sağ altında yazan sayı, elementin adına Latince 
+ön ek olarak yazılır. Daha sonra elektronegatifliği büyük olan elementin sağ 
+altında yazan sayı, anyon formundaki adına Latince ön ek olarak kullanılır ve 
+adlandırma tamamlanır.
+CO bileşiği için sistematik adlandırma “karbon monoksit’’ şeklinde yapılır. Bu 
+örnekte karbonda olduğu gibi ilk element için “mono” ön eki basitlik amacı ile 
+kullanılmaz. İkinci ametaller için “mono” ön eki kullanılmalıdır. Ayrıca oksit 
+adına “mono−’’, “tetra−’’ ya da “penta−’’ ön eki getirildiğinde ekteki son sesli 
+harf düşer; monoksit, tetroksit ve pentoksit şeklinde adlandırma yapılır.
+Bazı bileşiklerin sistematik adları, geleneksel adlarının çok yaygınlaşması 
+nedeniyle kullanılmaz. 
+H2O : Su (dihidrojen monoksit) 
+NH3 : Amonyak (trihidrojen mononitrür)
+Rakam Latince Adı
+1 Mono
+2 Di
+3 Tri
+4 Tetra
+5 Penta
+6 Hekza
+7 Hepta
+8 Okta
+Amonyak bileşiğinin for-
+mülü NH3 olmasına rağmen 
+sistematik adlandırması 
+trihidrojen mononitrürdür. 
+Sistematik adlandırma ve 
+formül arasındaki uyumsuz-
+luğun nedeni ne olabilir?
+N2O5
+Diazot    pentaoksit
+Tablo 2.4: Rakamların 
+Latince Adları

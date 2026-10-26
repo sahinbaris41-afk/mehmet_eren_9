@@ -1,0 +1,23 @@
+161
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+12. SINIF
+1. TEMA: NİCELİKLER VE DEĞİŞİMLER (1)
+Bu temada öğrencilerin  aritmetik ve geometrik dizilerin özelliklerine ilişkin muhakeme 
+yapabilmeleri, gerçek sayılarda tanımlı fonksiyonlar ile gerçek sayı dizilerini karşılaştıra -
+bilmeleri  amaçlanmaktadır.
+DERS SAATİ 14
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme
+KAVRAMSAL 
+BECERİLER KB2.7. Karşılaştırma
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik 
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1.  İletişim, SDB2.2. İş Birliği
+Değerler D7. Estetik, D14. Saygı, D17. Tasarruf
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Ekonomi, Fizik
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

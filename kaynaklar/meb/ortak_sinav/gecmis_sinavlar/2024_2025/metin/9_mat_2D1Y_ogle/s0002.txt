@@ -1,0 +1,28 @@
+2
+MATEMATİK 9
+2. Üç	adet	eşkenar	üçgen	aşağıdaki	gibi	kenarlarından	çakıştırılarak	bir	şekil	oluşturulmuştur.
+A
+B C
+GF
+D E
+DBE	üçgeni	ile	FCG	üçgeninin	benzerlik	oranı	 32 ,	FCG	üçgeni	ile	ABC	üçgeninin	benzerlik	oranı	 53  
+ve	|AE|  +  |AF|  =   15	cm’dir.
+Buna göre, |FC| nun kaç santimetre olduğunu işlemlerinizi göstererek bulunuz. (15 puan)
+A
+B C
+GF
+D E
+3k
+3k 3k
+3k
+2k
+2k
+2k 2k
+DBE	üçgeni	ile	FCG	üçgeninin	benzerlik	oranı	 32 	olduğundan	|DB|  =  |BE|  =  |ED|  =	 	2k,	 
+|FC|	 	=	 	|CG|	 	=	 	|GF|	 	=	 	3k’dır.	
+FCG	üçgeni	ile	ABC	üçgeninin	benzerlik	oranı	 53 	olduğundan	
+|FC|  =  |CG|  =  |GF|  =	 	3k	için	|AB|  =  |BC|  =  |CA|  =	 	5k	olur.	Buna	göre,		|AF|  =	 	2k,		|AE|  =	 	3k	olur.
+|AE|  +  |AF|  =	 	15		⇒ 3k	 	+   2k	 	=		1 5
+	 5k	 	=		1 5
+ k  =	 	3	olur.
+Buna	göre		|FC|  =		3	$	k		olduğundan		|FC|  =		3	$	3	=	 	9	cm’dir.	

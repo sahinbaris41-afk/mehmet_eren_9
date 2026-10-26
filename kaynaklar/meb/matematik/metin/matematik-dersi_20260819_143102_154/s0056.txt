@@ -1,0 +1,23 @@
+56
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: GEOMETRİK ŞEKİLLER
+Bu temada öğrencilerin üçgende açılar ve kenarlarla ilgili özelliklere, üçgenin açıları ve 
+kenarları arasındaki ilişkilere yönelik doğrulamalar ve ispatlar yapabilmeleri amaçlanmak-
+tadır.
+DERS SAATİ 12
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme (MAB1.1. Matematiksel Doğrulama veya İspat Yapma)
+KAVRAMSAL 
+BECERİLER -
+EĞİLİMLER E1.1. Merak, E1.2. Bağımsızlık, E3.4. Gerçeği Arama
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D11. Özgürlük, D14. Saygı, D19. Vatanseverlik 
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, 
+OB5. Kültür Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Görsel Sanatlar, Mühendislik, Mimari
+BECERİLER ARASI 
+İLİŞKİLER MAB2. Matematiksel Problem Çözme, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma 

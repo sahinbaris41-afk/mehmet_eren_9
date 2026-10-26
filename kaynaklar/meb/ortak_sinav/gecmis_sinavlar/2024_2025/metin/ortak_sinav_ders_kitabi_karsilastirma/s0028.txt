@@ -1,0 +1,108 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+Öğrenme Çıktısı : 9.5.5. Eşlik ve benzerlikle ilgili çıkarım ve teoremleri içeren problemleri çözebilme
+Ders Kitabı (MEB) Sayfa 92
+2
+MATEMATİK 9
+3. Boyu	20	cm	olan	bir	fidana	40	cm	uzaklıktan	bir	ışık	kaynağı	tutulduğunda	bu	fidanın	duvardaki	gölge	
+boyu	Şekil	1’deki	gibi	45	cm	olmuştur.	Bu	fidanın	boyu	bir	süre	sonra	uzamış	ve	aynı	ışık	kaynağı	aynı	
+uzaklıktan	tutulduğunda	duvardaki	gölge	boyu	Şekil	2’deki	gibi	72	cm	olmuştur.
+40
+20
+Şekil	1
+45
+DuvarIşık	kaynağı
+ 40
+Şekil	2
+72
+DuvarIşık	kaynağı
+Buna göre, son durumda bu fidanın boyu kaç santimetredir? İşlemlerinizi göstererek bulunuz.  
+(15 puan)
+4. Şekildeki	BDC	ve	BAC	dik	üçgenlerinde		 () ()mmBDCB AC 90c==%% ,		[DE] = [BC],		[AF] = [BC],		
+E ! [BC],		F	! [BC],  |DE|  =  25 	cm,		|EF|  =		6	cm  ve		|FC|  =		4	cm’dir.
+D
+A
+F C46EB
+Buna göre, ACDB  oranının kaç olduğunu işlemlerinizi göstererek bulunuz. (15 puan)
+92
+4. Tema/Ölçme ve Değerlendirme
+10. Aşağıda	1,	2	ve	3	numaralı	binaların	birbirlerine	
+göre	konumları	verilmiştir.	Metin,	evinin	zemin-
+den	15	m	yükseklikteki	penceresinden	baktı-
+ğında	her	bir	katı	eşit	yükseklikte	olan	14	katlı	
+bir	iş	merkezini	11.	katından	itibaren	görebil-
+mektedir.	Alt	katlarda	oturan	komşusunun	evi-
+nin	penceresinden	baktığında	ise	iş	merkezini	
+görmemektedir.
+	 Metin’in	 bulunduğu	1	numaralı	binanın	2	numa-
+ralı	binaya	uzaklığı	30	m,	3	numaralı	iş	merke-
+zine	uzaklığı	90	m’dir.	2	numaralı	binanın	boyu	
+20	m’dir.
+Buna göre Metin, yerden en çok kaç metre yük-
+seklikten baktığında iş merkezini göremez?
+11. Aşağıdaki görselde	yer	alan	duvar	ve	zemin	
+birbirine	diktir.	180	cm	boyundaki	Saffet’in	göl-
+gesi,	güneşli	bir	günde	300	cm	ötede	bulunan	
+120	cm	yüksekliğindeki	duvara	şekildeki	gibi	
+düşmektedir.	Boyu	30	cm	olan	kedi	duvara	Saf-
+fet’ten	100	cm	daha	yakındır.
+ Buna göre aşağıdaki soruları cevaplayınız.
+a)  Duvarın olmaması durumunda Saffet’in 
+gölgesinin boyunun kaç cm olacağını 
+bulunuz.
+b)  Kedinin gölgesinin bittiği noktanın 
+duvara uzaklığının kaç cm olduğunu 
+bulunuz.
+c)  Kedi duvara 50 cm uzaklıkta iken kedi -
+nin duvardaki gölgesinin boyunun kaç 
+cm olduğunu bulunuz.
+180
+120
+30
+100
+300
+x
+12. Şekilde	bahçedeki	iki	ağaç	arasında	gergin	
+duran	halata	üç	tane	özdeş	kuş	evi	aynı	uzun-
+luktaki	iplerle	bağlanmıştır.  
+A,	B	ve	C	noktalarında	asılı	olan	kuş	evlerinin	
+birbirine	ve	düz	zemine	uzaklıklarına	ilişkin	bil-
+giler	aşağıda	verilmiştir.
+I.	 B	noktasının	A	noktasına	uzaklığı	6	metre,	
+C	noktasına	uzaklığı	3	metredir.	
+II.	 A	noktasındaki	kuş	evinin	zeminden	yük-
+sekliği	10	metre,	C	noktasındaki	kuş	evinin	
+zeminden	yüksekliği	4	metredir.	
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  B noktasındaki kuş evinin yerden yük -
+sekliğinin kaç metre olduğunu bulunuz.
+b)  Aynı halat üzerine yerden yüksekliği   
+16 metre olan bir kuş evi D noktasından 
+asılırsa D noktasının A noktasına uzak-
+lığının kaç metre olacağını bulunuz.
+c)  Aşağıdakilerden hangisi veya hangileri 
+yapılırsa A noktasında asılı olan kuş evi-
+nin yerden yüksekliği ile C noktasında 
+asılı olan kuş evinin yerden yüksekliği 
+arasındaki fark 8 metre olur? Yazınız.
+I.  C	noktasındaki	kuş	evi	sabit	bırakılıp				
+A	noktasındaki	kuş	evi	halat	üzerinde								
+3	metre	sola	kaydırılır.
+II.  C	noktasındaki	kuş	evi	halat	üzerinde				
+1	metre	sağa,	A	noktasındaki	kuş	evi	
+halat	üzerinde	2	metre	sağa	kaydırılır.
+III. C	noktasındaki	kuş	evi	halat	üzerinde				
+2	metre	sağa,	A	noktasındaki	kuş	evi	
+halat	üzerinde	5	metre	sağa	kaydırılır.	
+A
+4
+10 3
+6 B
+C1
+15
+30
+90
+20
+2
+3
+4.Tema_13.07.2024.indd   924.Tema_13.07.2024.indd   92 17.07.2024   18:5317.07.2024   18:53
+9. SINIF ORTAK SINAV (ÖĞLE OTURUMU) - MATEMATİK

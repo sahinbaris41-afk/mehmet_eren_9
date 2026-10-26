@@ -1,0 +1,50 @@
+17
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Belirlenen içeriklerin becerilerle buluşturularak öğrenme çıktılarının oluşturulmasında Ortaöğretim Matematik Dersi 
+Öğretim Programı’nın amacı ve tematik yapısının yanı sıra İlkokul Matematik Dersi Öğretim Programı ve Ortaokul Matematik 
+Dersi Öğretim Programı’nın öğrenme çıktıları da dikkate alınmıştır. Bu anlamda söz konusu programların matematiksel 
+içeriğinin yanı sıra geliştirmeyi amaçladığı becerilerin kapsamı da göz önünde bulundurulmuştur. Örneğin daha ziyade 
+muhakeme becerisinin ilk üç bileşeninin ön planda olduğu Ortaokul Matematik Dersi Öğretim Programı ’na oranla 
+Ortaöğretim Matematik Dersi Öğretim Programı ’nda daha fazla matematiksel doğrulama veya ispat yapma bileşenine 
+yer verilmiştir. Bu anlamda farklı düzeylerin programları arasında yalnızca matematiksel içerikler bağlamında değil aynı 
+zamanda beceriler bağlamında da kademeli bir gelişim ve derinleşme amacı gözetilmiştir.    
+1.5.2. Ortaöğretim Matematik Dersi Öğretim Programı՚nın Tema İçerikleri
+Ortaöğretim Matematik Dersi Öğretim Programı ’nda yer alan temaların öne çıkan özellikleri, içerikleri ve öğrenme 
+çıktılarına ilişkin bilgiler aşağıda verilmiştir.
+1.5.2.1. “Sayılar”, “Mantıksal Çıkarım”, “Algoritma ve Bilişim”, “Sayma, Algoritma ve Bilişim”, “Nicelikler ve Değişimler”, 
+               “Değişimin Matematiği” Temaları
+Sayılar, cebir ve fonksiyonlarla ilgili kavram ve işlemlerin beceri gelişimi odaklı bir yaklaşımla ele alındığı bu temalar; 
+9. sınıftan 12. sınıfa kadar birbiri ile ilişkili bir biçimde oluşturulmuştur. 9. sınıfta Sayılar teması, gerçek sayıları 
+kapsamaktadır. Temada ortaokul 8. sınıfta kavramsal düzeyde yer verilen gerçek sayıların özellikleri ile üslü ve köklü 
+gösterimlerine, bunlarla ilgili işlemlere yer verilmekte ve  8. sınıfta doğrusal fonksiyonların grafikleri bağlamında giriş 
+yapılan gerçek sayılarda tanımlı fonksiyonlar için bir temel oluşturulmaktadır.  Temada matematiksel muhakeme ve 
+matematiksel temsil becerileri ön planda olup bu becerilere ek olarak matematiksel problem çözme becerisinin de 
+kullanılması söz konusudur.  Programda sayılarla ilgili bir diğer temaya 10. sınıfta yer verilmektedir. Bu temada doğal 
+sayıların asal çarpanları ve bölenleri ile en büyük ortak böleni, en küçük ortak katı ve bir doğal sayının belirli doğal sayılara 
+bölümünden kalanlar bağlamında muhakeme becerisi kullanılmaktadır.
+Programda fonksiyonlarla ilgili tüm çalışmalar; gerçek sayılarda veya gerçek sayıların bir alt kümesinde tanımlı, referans 
+fonksiyonlar olarak ifade edilen bir dizi fonksiyon etrafında Nicelikler ve Değişimler temalarında gerçekleştirilmektedir. 
+9. sınıfta Nicelikler ve Değişimler temasında doğrusal fonksiyonlar incelenmektedir. 8. sınıfta dik koordinat sistemindeki 
+grafikleri ile yapılan çalışmaların devamı niteliğinde olan bu temada gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal 
+referans fonksiyonun özellikleri, bu fonksiyondan türetilen ve (a, b ∈ ℝ , a ≠ 0) f(x) = ax + b şeklinde tanımlanan  
+fonksiyonların  nitel özelliklerinin incelenmesi yer almaktadır. Bu temada matematiksel muhakeme ve matematiksel 
+problem çözme becerileri ön planda olup bu becerilerin matematiksel temsil ve matematiksel araç ve teknolojiden 
+yararlanma becerileri ile iç içe bir şekilde kullanılması beklenmektedir. Doğrusal fonksiyonla ilgili çalışmaların ve 
+kullanılan becerilerin ortaöğretimin diğer sınıflarında aynı yaklaşımla sürdürülmesi amaçlanmaktadır. Bu bağlamda 
+gerçek sayılarda veya bir alt kümesinde tanımlı referans fonksiyonların hem bir fonksiyon ailesinin üreteci hem niceliklerin 
+birbirine bağlı değişimlerini inceleme aracı hem de bir problem çözme aracı olduğu göz önünde bulundurulmuştur. 
+Bu yaklaşım çerçevesinde gerçek sayılarda tanımlı fonksiyonlarla sınırlı kalınmak ta ve 12. sınıfta yer alan Değişimin 
+Matematiği teması için sağlam bir temel oluşturulmaktadır. Nicelikler ve Değişimler teması kapsamında 10. sınıfta gerçek 
+sayılarda veya bir alt kümesinde f(x) = x2, f(x) = 
+ , f(x) = 1x şeklinde tanımlı karesel, karekök, rasyonel referans 
+fonksiyonlar ile bunlardan türetilen karesel, karekök ve rasyonel fonksiyonların nitel özelliklerine, ters fonksiyonlarına 
+ve bu fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözümlerine yer verilmektedir. 11. sınıfta 
+trigonometrik, üstel ve logaritmik referans fonksiyonlar ile bu fonksiyonlardan türetilen trigonometrik, üstel ve logaritmik 
+fonksiyonların nitel özelliklerine ve bu fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözümlerine 
+yer verilmektedir. 11. sınıfta ayrıca bu fonksiyonların bileşkelerine ve dört işlem özelliklerine matematiksel muhakeme 
+odaklı bir yaklaşımla yer verilmektedir. 12. sınıfta polinom ve rasyonel fonksiyonlara Değişimin Matematiği  temasına 
+hazırlayan bir yaklaşımla yer verilmektedir. 12. sınıfta ayrıca aritmetik ve geometrik dizilere yer verilmekte, özellikleri 
+gerçek sayılarda tanımlı fonksiyonların özellikleri ile karşılaştırmalı bir şekilde incelenmektedir. Tüm sınıf düzeylerinde 
+denklem ve eşitsizlik çözümleri ayrı bir konu veya tema olarak değil incelenen referans fonksiyonlar bağlamında ele 
+alınmıştır. Gerçek yaşam problemleri bağlamında yer verilen denklem ve eşitsizlik çözümleri ile fonksiyonların problem 
+çözme ve modelleme aracı olma özellikleri ön planda tutulmuştur.

@@ -1,0 +1,80 @@
+176
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Ölçütler Alt ölçütler İyi(3) Otra(2) Yetersiz(1)
+1. Deneyin
+Planlanması
+Amaç ve Hipotez 
+Belirleme
+Amaç ve hipotez net bir 
+şekilde tanımlanmış
+Amaç ve hipotez 
+kısmen tanımlanmış
+Amaç ve hipotez 
+tanımlanmamış
+Deney Tasarımı ve
+Yöntem
+Deney tasarımı ve 
+yöntem detaylı ve 
+uygun
+Deney tasarımı ve 
+yöntem kısmen uygun
+Deney tasarımı ve 
+yöntem uygun değil 
+veya eksik
+2. Veri Toplama
+Veri Toplama Süreci Veri toplama sürecidüzenli ve sistematik Veri toplama süreci kısmen düzenli Veri toplama süreci düzensiz veya eksik
+Veri Doğruluğu ve
+Güvenirliği
+Veriler doğru ve 
+güvenilir
+Verilerin doğruluğu ve
+güvenirliği kısmen 
+şüpheli
+Veriler hatalı veya 
+güvenilir değil
+3. Veri Analizi
+Analiz Yöntemleri Uygun analiz yöntemleri kullanılmış Kısmen uygun analiz yöntemleri kullanılmış Yanlış veya Uygun olmayan analiz yöntemleri okullanılmış
+Sonuçların
+Yorumlanması
+Sonuçlar doğru ve 
+mantıklı bir şekilde
+yorumlanmış
+Sonuçlar kısmen doğru
+yorumlanmış 
+Sonuçlar yanlış 
+yorumlanmış veya 
+yorumlanmamış
+4. Raporlama
+Raporun Yapısı ve
+Organizasyonu
+Rapor iyi 
+yapılandırılmış ve 
+organize edilmiş
+Rapor kısmen iyi 
+yapılandırılmış
+Rapor kötü 
+yapılandırılmış veya 
+düzensiz
+Dil ve İfade Dil ve ifade net ve anlaşılır Dil ve ifade kısmen net Dil ve ifade belirsiz veyaanlaşılmaz
+5. Sonuçların
+Kullanılabilirliği
+Bilimsel Katkı ve
+Yenilik
+Deney sonuçları 
+bilimsel katkı sağlıyor 
+ve yenilik içeriyor
+Deney sonuçları kısmen 
+bilimsel katkı sağlıyor
+Deney sonuçları 
+bilimsel katkı 
+sağlamıyor veya yenilik 
+içermiyor
+Pratik
+Uygulanabilirlik
+Deney sonuçları pratik 
+olarak uygulanabilir
+Deney sonuçları kısmen
+uygulanabilir
+Deney sonuçları pratik 
+olarak uygulanamaz
+FORM 14

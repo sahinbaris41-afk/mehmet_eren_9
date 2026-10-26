@@ -1,0 +1,45 @@
+57
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.9.3.1. Üçgende açı ve kenarla ilgili özellikleri, üçgenin açıları ve kenarları arasındaki 
+ilişkileri doğrulayabilme veya ispatlayabilme
+a)  Üçgende iç ve dış açıların ölçülerinin toplamına, açılara karşılık gelen kenarlarla 
+ilgili özelliklere ve kenarların uzunlukları arasındaki ilişkilere  dair farklı doğrulama 
+veya ispatları kullanır.
+b) Yapılan doğrulama veya ispatları yeni durumlara uyarlayarak değerlendirir.
+İÇERİK ÇERÇEVESİ Üçgende Açı ve Kenarla İlgili Özellikler ve Bu Özellikler Arasındaki İlişkiler
+Genellemeler • Üçgende en uzun kenarın karşısındaki açının ölçüsü en büyüktür.
+• Öklid geometrisinin aksiyomatik yapısı, geometrideki bağıntıların ve ilişkilerin ispatlan -
+masının temelini oluşturur. 
+• Üçgenin temel özellikleri ve geometrik yapısının anlaşılması sayesinde üçgen oluştura-
+bilme koşulları belirlenir.
+Anahtar Kavramlar açı, dış açı, iç açı, kenar, üçgen, üçgen eşitsizliği 
+Sembol ve Gösterimler m(BAC), [AB], |AB|, ⊥,  //, ABC
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; açık uçlu sorular, çalışma kâğıtları ve performans görevleri ile değer -
+lendirilebilir.
+Öğrencilere üçgende açı ve kenar özellikleri hakkında yaptıkları doğrulama veya ispatla -
+maları kullanabilecekleri problem durumları bulmalarını ve bunları çözmelerini gerektire -
+cek bir performans görevi verilebilir. Performans görevinin ürünü olarak her bir gruptan 
+çalışmasını çevrim içi uygulamaları kullanarak sunmaları istenebilir. Öğrencilerin ürünleri, 
+analitik dereceli puanlama anahtarı ile değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin nokta, doğru, doğru parçası, ışın ve açıyı gerekli araçlarla oluşturabil -
+dikleri; açı çeşitlerine, düzlemde  iki doğrunun kesişimi ile oluşan açılara ve paralel iki 
+doğrunun bir kesenle yaptığı açılara yönelik çıkarımlar yapabildikleri; üçgen ve temel 
+elemanları (kenar, açı)  ile ilgili muhakeme becerisi bağlamında çözümleme, yorumla -
+ma ve çıkarım yapabildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere geometrinin temel kavramları (nokta, doğru parçası, doğru gibi),  tanımları ve 
+gösterimleri hakkında sorular sorularak öğrencilerin bu kavramlarla ilgili ön bilgileri değer-
+lendirilebilir. Açı çeşitlerine, düzlemde iki doğrunun kesişimi ile oluşan açılara ve paralel iki 
+doğrunun bir kesenle yaptığı açılara yönelik ön bilgileri de değerlendirilebilir. Öğrencilerin 
+sorulara verdiği cevaplar üzerinden varsa kavram yanılgıları ve yanlış anlamlandırmaları, 
+kullandıkları matematiksel semboller üzerinde durularak tutarlı bilgi, uygun ifade ve gös -
+terimlere sahip olmaları sağlanabilir.   
+Öğrencilerin üçgenin elemanları ve konuya ilişkin genellemeler ile ilgili bilgilerini açıklarken 
+prototip bir üçgen çizimi yerine farklı türde üçgenlerden de yararlanıp yararlanmadıkları 
+değerlendirilebilir. 

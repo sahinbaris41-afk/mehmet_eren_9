@@ -1,0 +1,62 @@
+213
+ENERJİ
+Maddeyi oluşturan her bir taneciğin ortalama kinetik enerjisinin göstergesine 
+sıcaklık denir. SI’da birimi kelvin (K) olan sıcaklık, termometre ile dolaylı yol-
+dan ölçülür.
+Isı, aralarındaki sıcaklık farkı nedeniyle bir maddeden veya sistemden diğe -
+rine aktarılan enerjidir. Isı maddeler arasında aktarılan enerji olduğundan 
+mad delerin sahip olduğu ısıdan bahsedilemez. SI’da birimi joule (J) olan ısı, 
+kalorimetre kabı ile dolaylı yoldan ölçülmektedir. Bazı hesaplamalarda ısı 
+birimi olarak joule yerine kalori (cal) de kullanılabilir.
+Isı aktarımının yönü, sıcaklığı fazla olan maddeden sıcaklığı düşük olan mad-
+deye doğrudur (Görsel 4.1). Aktarım sonucu ısı alan ya da veren maddenin iç 
+enerjisi kesinlikle değişir.
+İç enerji, maddeyi oluşturan tüm taneciklerin toplam enerjisidir. Bu enerji; 
+taneciklerin hareketinden kaynaklanan kinetik enerji , yüklerinden dolayı 
+sahip oldukları elektriksel potansiyel enerji  ve tanecikler arasındaki etki -
+leşimlerden kaynaklanan enerjiler olmak üzere farklı türdeki enerjilerin topla-
+mından oluşur (Görsel 4.2).
+Parçacıkların hareketiyle ilişkili 
+olan kinetik enerji, iç enerjinin bir 
+parçasıdır.
+Parçacıklar arasındaki 
+etkileşimlerle ilişkili her tür enerji, 
+iç enerjinin bir parçasıdır.
+Tüm maddelerin 
+iç enerjisi 
+vardır.
+Görsel 4.2: Maddeyi oluşturan taneciklerin temsilî iç enerjileri
+Bir maddenin ya da sistemin iç enerjisi, madde miktarına ve sıcaklığa bağlı 
+olarak değişir. Örneğin aynı sıcaklıktaki bir bardak suyla bir kova dolusu suyun 
+iç enerjisi farklı olup kovadaki suyun iç enerjisi bardaktaki suyun iç enerjisin -
+den büyüktür. Benzer şekilde aynı miktarda ama sıcaklıkları farklı sulardan 
+sıcaklığı yüksek olan suyun iç enerjisi diğerinin iç enerjisinden daha büyüktür.
+Görsel 4.1: Isının aktarım 
+yönü
+Isı aktarımı
+Soğuk
+nesne
+Sıcak
+nesne
+Örnek
+Aşağıdaki görsellerde aynı ortamdaki K, L ve M kaplarına konan suların sıcaklıkları ve kütleleri verilmiştir.
+Buna göre
+a) Kaplardaki suların iç enerjilerini karşılaştırınız.
+b) Kaplardaki suların ısılarını karşılaştırınız.
+Çözüm 
+a) İç enerji, maddenin taneciklerinin sahip olduğu toplam enerjidir. Maddenin cinsine, kütlesine 
+ve sıcaklığına bağlıdır. Aynı cins ve aynı sıcaklıktaki iki maddeden kütlesi fazla olanın tanecik 
+sayısı da fazla olacağından iç enerjisi daha büyük olur. Aynı cins ve eşit kütleli iki maddeden 
+sıcaklığı fazla olanın tanecikleri daha fazla titreşeceğinden iç enerjisi daha büyük olur. Buna 
+göre iç enerjiler arasındaki büyüklük ilişkisi L > K > M olur.
+b) Isı, aralarındaki sıcaklık farkı nedeniyle bir cisimden veya sistemden diğerine aktarılan enerjidir. 
+Maddelerin ısısından söz edilemez. Bu nedenle böyle bir karşılaştırma anlamsızdır.
+300 g
+20 oC
+K kabı
+300 g
+60 oC
+L kabı
+200 g
+20 oC
+M kabı

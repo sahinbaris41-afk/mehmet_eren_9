@@ -1,0 +1,43 @@
+122
+2. Tema
+4. Tasarladığınız deneyde bağımlı değişkenleri patateslerin ağırlıkları ve doku yapısı olacak şekilde belirleyiniz. 
+Bağımsız değişkenlerin ise patatesin bekletilme süresi ve bekletildiği ortamın derişimi olmasına dikkat ediniz.
+5. Deneyde kullanılacak bağımsız ve bağımlı değişkenlerin neler olacağını aşağıdaki tabloya yazınız.
+Patatesin Bekletileceği 
+Ortamın
+Tuz Derişimi
+Patatesin Planlanan Bekletilme 
+Süresi
+(dakika/saat)
+Bağımlı Değişken
+………………. (g tuz/ml su) 1. 
+ ………………. (g tuz/ml su) 2. 
+………………. (g tuz/ml su) 3. 
+………………. (g tuz/ml su) 4. 
+NOT: Tablo gerektiği kadar genişletilebilir. 
+6. Tasarladığınız deneyin uygulama basamaklarını maddeler hâlinde yazınız.
+..................................................................................................................................................................................
+..................................................................................................................................................................................
+..................................................................................................................................................................................
+..................................................................................................................................................................................
+..................................................................................................................................................................................
+7. Uygun deney düzeneğini hazırlandıktan sonra tasarladığınız deneyi grup arkadaşlarınızla ggerçekleştiriniz. Et-
+kinliğin  sonundaki Deney Tasarlama Formu'nda ya da kitabın sonunda verilen ekler bölümündeki Form17'de 
+"Deneyin Uygulanması" kısmını doldurunuz. 
+8. Deney bulgularının doğruluğunu ve güvenilirliğini etkileyebilecek durumlar (patateslerin bayat olması, çö -
+zeltilerin taze hazırlanmaması, uygun bekleme süresinin sağlanmaması, ortam sıcaklığının ve akışkanlığının 
+değiştirilmesi vb.) için tedbirler alınız. 
+9. Tasarladığınız deneyde soyulmuş patateslerin farklı derişimlerdeki tuzlu su çözeltilerinde ve farklı sürelerde 
+bekleterek, bekletme öncesi ve sonrası patateslerin ağırlığında ve dokusunda meydana gelen değişimleri analiz 
+ediniz. Elde ettiğiniz verileri aşağıdaki Deney Sonuç Tablosu'na yazınız.
+Deney Sonuç Tablosu 
+Bekletme öncesi ... dk. bekletme ... dk. bekletme ... dk. bekletme
+Bekletilen ortam İlk ağırlık (g) Sertlik derecesi* Ağırlık (g) Sertlik derecesi* Ağırlık (g) Sertlik derecesi* Ağırlık (g) Sertlik derecesi*
+(% …… oranda tuzlu su)
+(% …… oranda tuzlu su)
+(% …… oranda tuzlu su)
+(% …… oranda tuzlu su)
+*Sertlik derecesi: 1. Çok sert, 2. Sert, 3. Orta, 4. Yumuşak, 5. Çok yumuşak
+Bekletme süresi ve bekletilen ortam gerektiği kadar artırılabilir.
+10. Deney tasarımında belirlediğiniz ortam derişimi ve süre, deney sonuçlarında gözlenebilir ve ölçülebilir deği-
+şikliklere neden olmadıysa bu değişkenler için belirlediğiniz parametreleri değiştirerek deneyi tekrarlayınız.

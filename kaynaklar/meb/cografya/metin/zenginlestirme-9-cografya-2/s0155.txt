@@ -1,0 +1,25 @@
+154 155
+COĞRAFYA 9 
+Yönerge: Aşağıdaki kontrol listesi öğrencilerin edindiği bilgi, beceri ve çıkarımları değerlendirebilmeniz ama -
+cıyla hazırlanmıştır. Öğrencilerin hazırladıkları çalışmayı “Evet”, “Kısmen”, “Hayır” seçeneklerinden uygun gör -
+düğünüz birini işaretleyerek değerlendiriniz.
+KONTROL LİSTESİ
+Ölçütler Evet Kısmen Hayır
+1 Öğrenci belirlediği görev ile ilgili çalışma planı hazırladı.
+2 Bölge oluşturacağı yeri ve bölge belirleme kriterini tespit etti.
+3 Bölge oluşturmak için güvenilir kaynaklardan çalışmak istediği haritaları 
+belirledi.
+4 Seçtiği haritalardaki bilgilerden yararlanarak belirlediği kritere uygun 
+bölgeyi sınırlarını çizerek gösterdi.
+5 Bilgiler arasındaki ilişkileri göz önünde bulundurarak onlardan uyumlu bir 
+bütün oluşturdu.
+6 Sınırlarını belirlediği bölgeyi belirginleştirmek için renklendirdi.
+7 Oluşturduğu haritaya haritanın ögelerini ekledi.
+8 Çalışma ile ilgili rapor hazırladı.
+9 Çalışmayı sunum tekniklerine uygun olarak sundu.
+10 Sunum sonrasında kendisine yöneltilen soruları yanıtladı.
+11 Çalışmayı zamanında teslim etti.
+Öğretmenin öğrenciye dönütleri:
+Adı ve Soyadı: ...........................................................
+Sınıfı/Şubesi: ...........................................................
+Numarası: ................................................................

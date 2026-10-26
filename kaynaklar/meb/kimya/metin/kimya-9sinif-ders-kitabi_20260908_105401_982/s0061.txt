@@ -1,0 +1,59 @@
+61
+1. Tema/Etkileşim
+4. Aufbau ilkesi, Pauli dışlama ilkesi ve Hund kuralına yönelik oluşturduğunuz örüntüler doğrultusunda bu 
+kural ve ilkelerle ilgili genellemelerinizi yazınız.
+25Mn:
+26Fe:
+1s
+2
+1s
+2
+2s
+2
+2s
+2
+2p
+6
+2p
+6
+3s
+2
+3s
+2
+3p
+6
+3p
+6
+4s
+2
+4s
+2
+3d
+5
+3d
+6
+Hund kuralına uymaz.
+Hund kuralına uyar.
+Hund kuralına uyar.
+Hund kuralına uyar.
+Hund kuralına uyar.
+Hund kuralına uymaz.
+Hund kuralına uymaz.
+Hund kuralına uymaz.
+Elektronların atom orbitallerine yerleşimine ilişkin etkinlikten ulaştığınız bilgi -
+leri kontrol etmek için aşağıdaki 7N, 8O ve 11Na atomlarında elektronların atom 
+orbitallerine yerleşimini inceleyiniz.
+7N atomunda toplam 7 elektron bulunur. Elektronlar orbitallere yerleşirken 
+Aufbau ilkesine göre önce düşük enerjili, sonra daha yüksek enerjili atom or-
+bitallerine yerleşir. Bu yerleşme, atomun daha kararlı olmasını sağlar. Aufbau 
+ilkesine göre N atomunda orbitallerin bağıl enerjileri dikkate alındığında elekt-
+ronlar önce 1s atom orbitaline yerleşir. Pauli dışlama ilkesine göre bir atom 
+orbitalinde zıt yönlü olmak koşuluyla en fazla iki elektron bulunabileceğinden 
+önce 1s atom orbitaline, sonra 2s atom orbitaline zıt yönlü 2 elektron yerleşir. 
+2s
+2
+2p1s
+2
+Aufbau İlkesi
+Pauli Dışlama İlkesi
+Hund Kuralı

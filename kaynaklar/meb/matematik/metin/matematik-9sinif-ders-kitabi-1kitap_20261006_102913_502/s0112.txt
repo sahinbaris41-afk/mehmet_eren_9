@@ -1,0 +1,78 @@
+112
+2. Tema /  Nicelikler ve Değişimler
+5.	Uygulama
+Fonksiyonların Parçalı Gösterimi
+Verilen bilgileri inceleyerek soruları cevaplayınız.
+Aşağıda bir miktar buzun ısıtılarak buhar hâline getirilmesine ait, zamana (dk.) bağlı sıcaklığı ( oC ) ifade eden 
+f fonksiyonunun elektronik tablo yardımıyla elde edilen grafik temsili verilmiştir.
+C D E F G H I J K L
+Zaman (dk.)
+t
+Sıcaklık  (oC)
+f(t)
+0 -20
+1 -16
+2 -12
+5 0
+6 0
+7 0
+20 0
+21 5
+22 10
+40 100
+41 100
+42 100
+60 100
+61 101
+62 102
+80 120
+-20
+-40
+O
+20
+40
+60
+80
+100
+120
+140
+5 20 40 60 80
+y  
+Zaman 
+(dk.)
+x Sıcaklık (oC)
+1. f fonksiyonunun tablo ve grafik temsilinden yararlanarak cebirsel gösterimini nasıl elde edebilirsiniz? f fonk-
+siyonu tek bir cebirsel temsille ifade edilebilir mi? Açıklayınız.
+2. f fonksiyonunun tablo temsili yardımıyla suyun her bir hâl değişim evresinde dakika başına sıcaklıktaki de-
+ğişim miktarlarını hesaplayınız. Grafik temsilinden yararlanarak zaman ve sıcaklık aralıklarını elde ediniz ve 
+tabloyu örnekteki gibi doldurunuz.
+ 
+Suyun Hâli Dakika Başına Sıcaklıktaki (oC )  Değişim Miktarı Zaman (dk.)Aralığı Sıcaklık (oC )Aralığı Suyun Hâl Değişimini Temsil EdenFonksiyonun Cebirsel Temsili
+Buz 4 [0, 5) [-20, 0) f(t) = 4(t - 5)
+Buz ve Su
+Su
+Su ve Buhar
+Buhar
+3. Elde ettiğiniz fonksiyonlar yardımıyla f fonksiyonunun tanım ve görüntü kümelerini bularak cebirsel temsil-
+lerle ifade ediniz. Oluşturduğunuz temsilleri f fonksiyonunun grafik temsili üzerinde gösteriniz.
+ 
+                  
+                                                             
+f(t) =
+     
+4(t - 5), 0 ≤ t < 5
+.................................
+.................................
+.................................
+.................................
+Tanım kümesi: .........................
+Görüntü kümesi: .........................
+...
+...
+...
+...
+... ...
+...
+...
+...
+...

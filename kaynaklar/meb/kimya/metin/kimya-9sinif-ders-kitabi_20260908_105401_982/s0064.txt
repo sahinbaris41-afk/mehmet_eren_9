@@ -1,0 +1,65 @@
+1. Tema/Etkileşim
+64
+s
+1
+p
+3
+d
+5
+f
+7
+Yarı dolu atom orbitalleri
+s
+2
+p
+6
+d
+10
+f
+14
+Tam dolu atom orbitalleri
+1. Aşağıda yarı ve tam dolu atom orbitallerine ait şemalar verilmiştir. 
+2. İncelediğiniz  örnekleri esas alarak elektronların orbitallere dağılımı ile atom orbitallerinin doluluğu ve 
+küresel simetri özelliği arasındaki örüntüyü belirleyiniz. Belirlediğiniz örüntüyü gerekçeleriyle açıklayarak 
+aşağıya yazınız.
+3. A tom orbitallerindeki elektronlar çekirdek tarafından çekilir. Çekirdeğin çekim gücü, eş enerjili alt orbital -
+lere dengeli bir şekilde dağıldığında atomun kararlılığı artar. s orbitali küresel bir şekle sahip olduğundan 
+çekirdeğin çekim gücü bu orbitale dengeli dağılır. Bu bilgiye göre tablodaki atomlardan hangileri daha 
+kararlıdır?
+4. K ararlılık ve küresel simetri özelliği arasındaki örüntüyü akıl yürüterek belirleyiniz. Belirlediğiniz örüntü -
+yü gerekçeleriyle açıklayarak aşağıya yazınız.
+5. Oluşturduğunuz örüntülerden yola çıkarak küresel simetri özelliği için genel bir tanım yazınız.
+a) Tabloda hangi atomların son enerji seviyesindeki orbitaller tam doludur?
+b) Tabloda hangi atomların son enerji seviyesindeki orbitaller yarı doludur?
+c) Tabloda orbital şekillerinde iki farklı renk kullanılmasının sebebi nedir?
+Buna göre
+2. Yönerge: Aşağıdaki tabloyu inceleyerek soruların cevaplarını ilgili boşluklara yazınız.
+Cr Atomunun Beklenen Elektron Dağılımı Cr Atomunun Gözlenen Elektron Dağılımı
+24Cr: 1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+4s
+2
+3d
+4
+24Cr: 1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+4s
+1
+3d
+5

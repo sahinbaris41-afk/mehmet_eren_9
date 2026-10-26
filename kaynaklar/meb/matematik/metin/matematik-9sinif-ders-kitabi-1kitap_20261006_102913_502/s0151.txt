@@ -1,0 +1,58 @@
+151
+2. Tema /  Nicelikler ve Değişimler
+Mutlak Değerli Denklemler ve Eşitsizlikler İçeren Problemler
+14.	Uygulama
+Teknoloji Uygulaması
+Matematik yazılımını açarak aşağıdaki adımları sırasıyla uygulayınız ve gözlemlerinizden yararlanarak aşağıda 
+verilen soruları cevaplayınız.
+1. adım:  Giriş bölümüne fx ax b= +_i  yazıp Enter tuşuna basınız. Ekranda f fonksiyonunun grafiği ile a ve b 
+sürgüleri oluşacaktır. 
+2. adım:  Kesiştir aracını seçip sırasıyla f doğrusunu ve x eksenini işaretleyiniz. Ekranda f doğrusunun x eksenini 
+kestiği nokta oluşacaktır.
+3. adım:  Giriş bölümüne ax b0+=  yazıp Enter tuşuna basınız. Ekranda denk1 doğrusu oluşacaktır (Görsel 1).
+Görsel 1
+Giriş...
+-4-6 -2 0 2 4 6
+f
+f(x) = |ax + b |
+= |2.5x + 3.1|
+A = Keşistir(f, xEkseni)
+= (-1.24, 0)
+a = 2.5
+-5      5                    
+b = 3.1
+-5      5                    
+8
+10
+12
+6
+4
+2
+A a = 2α
+denk1 : |2.5x + 3.1| = 0
+A
+4. adım:  Giriş bölümüne f(x) ≥ 0 yazıp Enter tuşuna basınız. Ekranda f(x) ≥ 0 eşitsizliğinin çözüm aralığı 
+oluşacaktır (Görsel 2).
+Görsel 2
+Giriş...
+-4-6 -2 0 2 4 6
+f(x) = |ax + b |
+= |2.5x + 3.1|
+A = Keşistir(f, xEkseni)
+= (-1.24, 0)
+c : f(x) ≥ 0
+= |2.5x + 3.1| ≥ 0
+a = 2.5
+-5      5                    
+b = 3.1
+-5      5                    
+8
+10
+12
+6
+4
+2
+A a = 2α
+denk1 : |2.5x + 3.1| = 0
+A
+f

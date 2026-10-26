@@ -1,0 +1,43 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+69
+C) Küresel Konumlandırma Sistemi (GPS)
+a
+a
+a
+a
+c
+b
+Konum bilgisi, ulaşım ve haberleşme sektörleri başta olmak üzere geçmişten 
+bu yana günlük hayat için önemli bir ihtiyaç olmuştur. Uydu teknolojilerin -
+den yararlanılarak geliştirilen Küresel Konumlandırma Sistemi (GPS) ile canlı 
+veya nesnelere ait coğrafi koordinatlara dayalı konum belirleme süreci çok 
+daha kolaylaşmış ve nitelikli bir yapıya kavuşmuştur.
+GPS; savunma sanayisi, ulaşım, lojistik, bankacılık, iletişim teknolojileri, 
+enerji sistemleri, ticaret, doğa sporları gibi farklı alanlarda geniş bir kullanım 
+yelpazesine sahip olup günümüzde insanlar için vazgeçilmez hâle gelmiştir. 
+Bu sistemin halka açık, ücretsiz ve konum belirlemede güvenilir olması yay-
+gın bir şekilde kullanılmasında etkilidir. 
+GPS’nin her türlü hava koşulunda ve dünyanın her yerinde 24 saat çalışması, 
+toplanan verilerin kesintisiz olarak iletilmesini sağlar.
+GPS, uydular aracılığıyla bir yere ait koordinatların tespit edilmesine dayan -
+maktadır. Sistem, küresel konum belirleyici (GPS cihazı) tarafından alınan 
+radyo sinyalleriyle çalışır (Görsel 2.15).    
+GPS’nin uydular, yer kontrol ağı ve GPS alıcıları olmak üzere üç bileşeni 
+vardır (Görsel 2.16).   
+1. Uydu Ağı: Dünya’nın yörüngesinde hareket eden uydular, kullanıcılara 
+coğrafi konum ve yerel saat verisi içeren radyo sinyalleri iletir. 
+2. Yer Kontrol Ağı: Uyduların gönderdiği radyo sinyalleri, antenlerin bulun-
+duğu izleme ve kontrol istasyonları tarafından yakalanır. Dünya’daki bu is-
+tasyonlar, uyduların konumu ve hareketlerini takip ederek gerekli yönlendir -
+meleri yapar. Yer kontrol istasyonlarının amacı, GPS uydularının kontrolünü 
+yaparak sistemin hatasız çalışmasını sağlamaktır.
+3. GPS Alıcıları: Sistemin çalışmasını sağlayan diğer bir bileşen, farklı 
+amaçlarla kullanılan konum belirleme cihazlarıdır. GPS cihazları; saat, akıllı 
+telefon, araç içi navigasyon, el tipi ve ayaklı cihazlar gibi farklı tiplerde geliş-
+tirilmiştir. Alıcı ve vericiye sahip bu cihazların koordinatları uydular tarafından 
+belirlenir.
+Görsel 2.15 
+El tipi GPS alıcısı
+Görsel 2.16: Küresel konumlandırma sistemi; uydular (a), yer kontrol istasyonu (b) ve GPS alıcısı (c) arasında 
+iletilen radyo sinyalleriyle çalışır.
+69

@@ -1,0 +1,38 @@
+144
+2. Tema /  Nicelikler ve Değişimler
+9. ÖRNEK
+Güneş ve elektrik enerjisi olmak üzere iki tip ısıtma sisteminin kurulum ve işletme maliyetlerine ilişkin 
+bilgiler Tablo 1’de verilmiştir.
+Tablo 1  
+Isıtma	Sisteminin	Türü Yıllık	İşletme	Maliyeti	(TL) Kurulum	Maliyeti	(TL)
+Güneş Enerjisi 1600 57 000
+Elektrik Enerjisi 5200 21 000
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  T ablo 1’deki verileri kullanarak güneş ve elektrik enerjisi ısıtma sistemlerinin kullanım süresine (yıl) 
+bağlı toplam maliyetini (TL) veren fonksiyonları yazınız.
+b)  Elde ettiğiniz fonksiyonlar yardımıyla Tablo 2 ’de verilen kullanım sürelerine göre güneş ve elektrik 
+enerjisi sistemlerinin toplam maliyetlerini bularak tabloyu uygun şekilde doldurunuz.
+Tablo 2 
+Kullanım	Süresi	(Yıl) 0 5 10 15
+Güneş Enerjisi Isıtma Sisteminin Toplam Maliyeti (TL)
+Elektrik Enerjisi Isıtma Sisteminin Toplam Maliyeti (TL)
+c)	 Matematik yazılımı yardımıyla a maddesinde elde ettiğiniz fonksiyonlara ait grafikleri aşağıdaki adım-
+ları izleyerek çiziniz. 
+1.	adım: 	Giriş bölümüne güneş enerjisi ısıtma sisteminin maliyet fonksiyonunu yazıp Enter tuşuna 
+basınız. Cebir ve grafik ekranında fonksiyonun grafiği oluşacaktır.
+2.	adım: Giriş bölümüne elektrik enerjisi ısıtma sisteminin maliyet fonksiyonunu yazıp Enter tuşuna ba-
+sınız. Cebir ve grafik ekranında fonksiyonun grafiği oluşacaktır.
+3.	adım: Kesiştir aracını seçip sırasıyla 1 ve 2. adımlarda oluşturduğunuz fonksiyonları işaretleyiniz.
+ Güneş ve elektrik enerjisi ısıtma sistemlerinin toplam maliyetlerinin kaç yıllık kullanım süresi sonunda 
+ve kaç Türk lirasında eşitleneceğini maliyet fonksiyonlarının grafiklerinin kesim noktasından yararla-
+narak nasıl bulabilirsiniz? Stratejilerinizi açıklayınız.
+ç)  Güneş ve elektrik enerjisi ısıtma sistemlerinin toplam maliyetlerinin kaç yıllık kullanım süresi sonunda 
+ve kaç Türk lirasında eşitleneceğini cebirsel çözüm yaparak nasıl bulabilirsiniz? Stratejinizi açıklaya-
+rak istenen değeri bulunuz.
+d)  c ve ç maddelerinde problemin çözümünde kullandığınız yöntemleri karşılaştırarak çözümlerinizi 
+doğrulayınız. Hangi yöntemin daha kullanışlı olduğunu açıklayınız.
+e)  b maddesin de elde ettiğiniz değerleri fonksiyonların grafiğinden yararlanarak doğrulayınız.
+f)  c ve ç maddelerinde problemin çözümünde kullandığınız yöntemleri doğrusal ilişki içeren başka 
+problemlerin çözümünde nasıl kullanabilirsiniz? Genellemelerinizi oluşturunuz. 
+g)  Güneş ve elektrik enerjisi sistemlerine ait 5, 10 ve 15. yılların sonundaki toplam maliyetleri karşılaş -
+tırarak hangi enerji sisteminin daha ekonomik olduğunu belirleyiniz.

@@ -1,0 +1,106 @@
+1. Tema/Etkileşim
+62
+Geriye kalan 3 elektron ise 1s ve 2s atom orbitallerinden daha yüksek enerjili 
+olan 2p atom orbitallerine yerleşmelidir. 2p alt seviyesi üç özdeş atom orbi-
+talinden oluşmaktadır. Hund kuralına göre temel hâldeki elektronlar eş ener-
+jili atom orbitallerine önce birer birer aynı, daha sonra eşleşirken zıt yönde 
+yerleşir. Çünkü aynı yüke sahip olan ve birbirini iten elektronlar enerjilerini 
+azaltmak için birbirinden olabildiğince uzaklaşır. Bu durumda N atomundaki 
+3 elektron 2p atom orbitallerine birer birer aynı yönde aşağıdaki gibi yerleşir.
+Aufbau ilkesi, Pauli dışlama ilkesi ve Hund kuralı uygulanarak 8O atomunun 
+elektron dağılımı yazılırken ilk 2 elektron 1s atom orbitaline, sonraki 2 elekt -
+ron 2s atom orbitaline, kalan 4 elektron ise Hund kuralına göre 2p atom orbi-
+tallerine aşağıdaki gibi yerleşir.
+Atomların en dış temel enerji kabuğundaki elektronlarına valans elektronları 
+denir. Örneğin sodyum atomunun valans elektronu 3s orbitalindeki elektron -
+dur. Valans elektronlarının yer aldığı orbitaller ise valans orbitalleri olarak 
+adlandırılır.
+11Na atomunun elektron dağılımı yazılırken 1s atom orbitaline 2, 2s atom or -
+bitaline 2, 2p atom orbitallerine toplam 6 ve 3s atom orbitaline 1 elektron 
+aşağıdaki gibi yerleşir.
+2s
+2
+2s
+2
+3s
+1
+3s
+1
+2p
+6
+2p
+6
+1s
+2
+1s
+2
+veya
+2s
+2
+2s
+2
+2p
+3
+2p
+3
+1s
+2
+1s
+2veya
+2s
+2
+2s
+2
+2s
+2
+2p
+4
+2p
+4
+2p
+4
+1s
+2
+1s
+2
+1s
+2veya veya
+Çok elektronlu atomlarda 
+3d enerji seviyesi 4s enerji 
+seviyesine çok yakındır. Bir 
+atomun toplam enerjisi, 
+sadece orbital enerjilerinin 
+toplamına değil aynı 
+zamanda bu orbitallerdeki 
+elektronların itme kuvvetine 
+de bağlıdır. 3d orbitali, 
+sayıca 4s orbitalinden 
+daha fazla olduğundan 
+daha fazla elektron 
+bulundurabilir. Buna göre 
+bir atomda 4s orbitalinin 3d 
+orbitalinden önce dolması, 
+toplam enerjinin daha 
+düşük olmasına neden olur.
+1. Yönerge: Tabloda yer alan boşlukları örnekteki gibi doldurarak soruları cevaplayınız.
+Atom Elektron Dağılımı ve Orbital Şeması Valans Elektronlarının Orbital Şekillerindeki Dağılımı
+Küresel 
+Simetri 
+Durumu
+1H
+1s
+1
+1s
+1
+4Be
+2s
+2
+5B
+2s
+2
+2pz
+2py
+2p
+1
+x
+Etkinlik-1.10 Neden Bazı Atomlar Diğerlerinden Daha Kararlıdır?

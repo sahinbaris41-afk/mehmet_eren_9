@@ -1,0 +1,34 @@
+93
+2. Tema /  Nicelikler ve Değişimler
+e)  Bağımsız değişkenin aldığı değerler artarken g fonksiyonunun al dığı değerlerin nasıl değiştiğini belirleyiniz.
+f) Bağımsız değişkenin aldığı iki farklı değer için g fonksiyonunun aldığı değerler birbirinden farklı mıdır? 
+Bu durumun bağımsız değişkenin alabileceği tüm değerler için geçerli olup olmadığını açıklayınız.
+2.  1. maddede incelenen g fonksiyonu gerçek sayılarda tanımlanarak cebirsel temsili f(x) = x olan f doğrusal 
+referans fonksiyonu elde edilmiştir. Grafik 2’de f doğrusal referans fonksiyonunun grafik temsili verilmiştir.
+x (apsisler ekseni)
+y (ordinatlar ekseni)
+O
+1
+1 2
+2
+-2 -1
+-1
+f(x) = x
+-2
+Grafik 2
+a)  T ablo 2’de f doğrusal referans fonksiyonunda x e bağlı f(x) in aldığı bazı değerler verilmiştir. Verilmeyen 
+değerleri bularak tabloda ilgili yerlere yazınız.
+                              Tablo 2
+ 
+y=f(x) 3-     ...      -2        3-             ......               0            ......            23      ...      3
+    x 3-     ...      ......       3-            21-              ......            1             ......    ...      3
+b)  Bağımlı ve b ağımsız değişkenlerin alabileceği değerlerin aralığını bulunuz.
+c)  f fonksiyonunda f(x) = 0 eşitliğini sağlayan x değerini bulunuz.
+ç)  Bir fonksiyonda bağımlı değişken; bağımsız değişkenin bazı değerleri için pozitif, bazı değerleri için ne -
+gatif olabilir. Tablo 3’te f fonksiyonunun aldığı negatif ya da pozitif değerler belirlenecektir. Tablonun ilk 
+satırı bağımsız değişkenin 2. satırı bağımlı değişkenin aldığı değerleri temsil etmektedir. İlk satırdaki alana 
+f fonksiyonunda f(x) = 0 eşitliğini sağlayan x değerini yazınız. f fonksiyonunun negatif ya da pozitif olduğu 
+aralıkları belirleyerek ikinci satırdaki ilgili alanlara yazınız.
+                                            Tablo 3
+x     -∞                          .........                         ∞
+ f(x)=x 0........ ........

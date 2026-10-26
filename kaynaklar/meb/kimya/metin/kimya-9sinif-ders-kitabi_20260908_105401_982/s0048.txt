@@ -1,0 +1,24 @@
+1. Tema/Etkileşim
+48
+3. Aşağıdaki metinden yararlanarak soruları cevaplayınız.
+Manyetizma teorisi, mıknatıs ve manyetik alan kavramlarını inceleyen bir fizik teorisidir. “Çubuk mıknatıs modeli” 
+bu teorinin basit bir modelidir. Çubuk mıknatıslar bir ucu kuzey kutbu, diğer ucu güney kutbu olarak adlandırılan 
+manyetik kutuplara sahiptir. Bu mıknatıslar arasında manyetik çekim ve itme etkileşimleri olur. Bu model, öğren-
+cilere mıknatısın özelliklerini ve manyetik etkileşimleri anlatmak için kullanılabilir. 
+Teori ve model, atom kavramı anlatılırken de sıklıkla kullanılan ifadelerdir.
+4. Aşağıdaki soruları tabloyu v e zaman çizelgesini kullanarak cevaplayınız. 
+Tabloda atomdaki temel parçacıklar ve bu parçacıkların keşif süreçleri ile ilgili yıllar, yük ve kütle bilgileri veril-
+miştir.
+ a) Teori ve model terimlerinin atom konusunda kullanılma nedeni ile ilgili düşüncelerinizi yazınız.
+b) “Fenomen”, genel olarak gözlemlenebilir ve tanımlanabilir herhangi bir olayı veya olguyu ifade eder. Bu 
+kavram, doğal dünyada meydana gelen her türlü olayı, durumu veya değişimi kapsar. Bilim insanları; feno-
+menleri gözlemleyerek, izah ederek ve teoriler geliştirerek doğal dünyayı anlamaya ve açıklamaya çalışırlar.  
+Fenomen ile fenomenin ilgili olduğu teori ve bilimsel model arasında bire bir örtüşme var mıdır? Açık-
+layınız.
+c) Modelleme k ullanmanın avantaj ve dezavantajları nelerdir?
+Aşağıdaki zaman çizelgesinde atom teorilerinin oluşturulduğu tarihler verilmiştir.
+Atomdaki Tanecik İlgili Keşiflerin Yılı-Keşfeden Bilim İnsanı Yükü (C) Kütlesi (g)
+Elektron Katot ışınları 1832-M. FaradayAtomda eksi yük 1891-J. J. Thomson −1,6022x10−19 9,1096 x10−28
+Proton Pozitif ışınlar 1886-E. GoldsteinAtomda pozitif yük 1906-J. J. Thomson +1,6022x10−19 1,6726 x10−24    
+Nötron Yüksüz tanecikler 1913-E. RutherfordNötron 1932-J. Chadwick 0 1,6749 x10−24
+1803      1897           191 1              1913       1926

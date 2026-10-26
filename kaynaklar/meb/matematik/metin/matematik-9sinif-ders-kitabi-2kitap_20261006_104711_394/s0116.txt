@@ -1,0 +1,20 @@
+116
+5. Tema/Algoritma ve Bilişim  
+3. Belirlediğiniz işlem adımları ile toplam tokalaşma sayısını bulan algoritmanın işleyişini algoritmik doğal dil, 
+akış şeması ve sözde kodla ifade ediniz.
+ 
+ 
+Algoritmik Doğal Dil
+ Akış Şeması
+Sözde Kod
+4. Hazırladığınız algoritmayı kullanarak 5, 6 ve 7 kişilik gruplar için toplam tokalaşma sayısını hesaplayınız.  
+5. Elde ettiğiniz algoritmanın performansı, kişi sayısı artarsa nasıl etkilenir? Tokalaşacak kişi sayısı n olacak 
+şekilde algoritmanızı yeniden oluşturunuz. 
+ 
+6. Algoritmanızın her durumda  doğru yanıt verip vermediğini kontrol ediniz.
+ 
+7. Bu problemi çözmek için ku llanılabilecek her bir yöntemin (tablo, şema) avantajlarını belirleyiniz. 
+8. Bu yöntemlerden hangisinin daha sistematik ve etkili olduğunu karekoddaki etkileşimli içeriği kullanarak değer-
+lendiriniz.
+Etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.

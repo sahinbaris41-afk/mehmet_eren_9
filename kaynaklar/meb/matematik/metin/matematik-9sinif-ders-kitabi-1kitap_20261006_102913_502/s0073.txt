@@ -1,0 +1,36 @@
+73
+1. Tema /  Sayılar
+2.  Aşağıda sembolik dil kullanılarak verilen önermeleri inceleyiniz. Önermelerde yer alan   mantık bağlaçları ve 
+niceleyici sembollerinin anlamlarına dair fikirlerinizi sınıf arkadaşlarınızla paylaşınız. 
+f)  a,b için ab ab 0R &6 2 2! -__ ii  dır.
+g)  ylek i,aa 0i çinb vardır.Ö ab 1RR =$76 !!! ʼdir. 
+ğ)  a için a0 a0 a0R &/!# $ =__ ii  dır. 
+h)  ,ab için ab 0a 0b 0R +$ 0! == =__ ii  dır. 
+ı) a,b için ab ab 0R 06 11! -__ ii  dır. 
+i) a,b olmak üzere ab 0a 0b 0R +$ /!! !! __ ii  dır.
+j) a,b olmak üzere ab 0a 0b 0R &$ Q11 1! __ ii  dır.
+k) ylek i,aa 0i çinb vardır.Ö ab 1RR $67 !!! = ʼdir.
+3.  1. maddede verilen sözel önermelerin karşılıkları yukarıdakilerden hangisi ya da hangileri olabilir? Gerekçeleriyle 
+açıklayınız.
+4.  T abloda verilen önermelerin değillerini örnekteki gibi sembolik olarak yazınız. Kullanılan sembollerin anlam -
+larına ve önermelerin hükümlerine dair fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+Önerme Önermenin Değili
+, x0x R 27 1! , x0x R 26 $ !
+, 5x0x Z6 11! --
+, 0 2xx 3N7 ! -=
+,,yxy xNN6 !! +
+5.  Elde ettiğiniz sonuçlardan yararlanarak sembolik dille farklı önermeler ve bu önermelerin değillerini yazınız. Yaz -
+dığınız önermelerin sözel karşılıklarını bulunuz. Hangi gösterimlerin daha kullanışlı olduğuna dair fikirlerinizi sınıf 
+arkadaşlarınızla paylaşınız.
+22. ÖRNEK
+“Her tek doğal sayının karesi tek sayıdır.” önermesi veriliyor.
+a) Önermeyi matematiksel se mbol kullanarak yazınız.
+b)	 Önermenin cebirsel ispatını yapınız. 
+Çözüm
+a) ,ı ıı .xx tek say x tek say drN 2&6 !
+b)	 Hipotez: x tek doğal sayıdır.
+ Hüküm: x2  tek sayıdır.
+ İspat: x tek doğal sayı olduğundan ,xaa 21N7 ! =+  olur. x in karesi alındığında 
+ xa aaa aa a212121 44 14 12 2 22$=+=+ += ++ =+ +__ _ _ii i i  elde edilir.
+ ai in aa4 çN 26 ! +_i  ifadesi çift sayı olduğundan bu sayıya 1 eklenmesiyle oluşan aa 14 2 ++_i  
+ifadesi tek sayıdır.

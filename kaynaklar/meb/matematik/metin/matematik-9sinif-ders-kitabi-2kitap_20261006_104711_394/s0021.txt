@@ -1,0 +1,19 @@
+21
+4. Tema / Eşlik ve Benzerlik
+5. Tablo 3’e yazdığınız sonuçları arkadaşlarınızın sonuçlarıyla karşılaştırarak tartışınız. Şekiller ve görüntüleri ile 
+öteleme dönüşümünün özelliklerine ilişkin genellemeleri örnekteki gibi yazınız.
+Şeklin kenar uzunlukları ile öteleme dönüşümü altındaki görüntüsünün kenar uzunlukları eşittir.
+6. Aşağıdaki birim kareli zeminde farklı şekiller oluşturunuz. Oluşturduğunuz şekillere belirlediğiniz yön, doğ-
+rultu ve uzaklıkta öteleme dönüşümü uygulayınız. Şekilleri ve şekillerin görüntülerini inceleyerek varsayım-
+larınızı genellemelerinizle karşılaştırınız. Genellemelerinizin oluşturduğunuz şekiller ve öteleme dönüşümleri 
+için doğru olup olmadığını açıklayınız. 
+7. 6. adımda yaptığınız incelemelerden hareketle genellemelerinizin her birini bir önerme olarak örnekteki gibi 
+yazınız. 
+Öteleme dönüşümü, noktalar arası uzaklıkları korur.
+8. Önermelerinizi değerlendirerek bir şekle ait geometrik özelliklerden öteleme dönüşümünün koruduğu özel -
+likleri yazınız. Bir şekil ile bu şeklin öteleme dönüşümü altındaki görüntüsünün eş olup olmadığına ilişkin 
+fikirlerinizi yazarak sınıf arkadaşlarınızla paylaşınız.
+9. Öteleme dönüşümünün özelliklerine ilişkin önermelerinizi yansıma dönüşümünün özellikleri ile karşılaştırarak 
+bu dönüşümlerin özellikleri arasındaki benzerlik ve farklılıkları Tablo 4’ün ilgili alanına yazınız.
+Tablo 4 
+Yansıma ve Öteleme Dönüşümlerinin Benzer Özellikleri Yansıma ve Öteleme Dönüşümlerinin Farklı Özellikleri

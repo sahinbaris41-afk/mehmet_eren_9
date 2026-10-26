@@ -1,0 +1,33 @@
+Hedef temelli destek eğitimi; yükseköğretime hazırlanma, öğrenme eksikliklerini giderme veya önceki öğrenmeleri pekiştirme amaçlı öğrencilerin ilgi, ihtiyaç ve beklentileri 
+doğrultusunda öğrenci seçimine bağlı olarak okul idarelerince planlamanın yapılacağı derstir. Hedef temelli destek eğitimi içeriğinde Türk dili ve edebiyatı, fizik, kimya, biyoloji, 
+tarih, coğrafya, felsefe, matematik, sosyoloji, psikoloji, mantık, birinci yabancı dil, çağdaş Türk ve dünya tarihi, T.C. inkılap tarihi ve Atatürkçülük, din kültürü ve ahlak bilgisi ile Türk 
+kültür ve medeniyet tarihi derslerinden ders başına en az 1 en fazla 3 saat verilerek ilgili dersin mevcut öğretim programı doğrultusunda dersin zümresi tarafından oluşturulacak 
+program uygulanır. Ders notla değerlendirilmez. Sadece süreç değerlendirme yapılır, öğrencilere bu doğrultuda dönüt verilerek gerekli destek sağlanır.
+Öğrenciler “insan, toplum ve bilim” alanında yer alan “bilişim teknolojileri ve yazılım” dersinde oluşturulan modüllerden programlamaya giriş ve algoritma, robotik kodlama, 
+programlama dilleri, mobil uygulama geliştirme, yapay zekâ uygulamaları modüllerinden birini seçerler.
+Programlama dilleri modülünde Java, C++, C#, Dart, PHP, JavaScript, Python dillerinden biri seçilir.
+Programlamaya giriş ve algoritma modülü alınmadan robotik kodlama, mobil uygulama geliştirme ve programlama dilleri modülleri seçilemez. Programlama dilleri modülü 
+alınmadan yapay zekâ uygulamaları modülü seçilemez.
+Program dışı etkinlikler alanında yer alan “sosyal sorumluluk programı” kapsamında her öğrenci ders dışı zamanlarda  gerçekleştirmek üzere mezun olana kadar  en az 40 saatlik 
+sosyal sorumluluk programı görevine katılmalıdır.  Öğrencilerin bu çalışmalara katılım durumları ilgili resmî kurum/kuruluş/yetkili merciler tarafından belgelendirilir ve ilgili belgeler  
+okul yönetimince öğrencinin  e-portfolyosuna işlenir. Sosyal sorumluluk programı kapsamında yürütülecek çalışmalar Millî Eğitim Bakanlığı Ortaöğretim Kurumları Yönetmeliği ve 
+Millî Eğitim Bakanlığı Sosyal Sorumluluk Programı ve Hayat Boyu Öğrenme/Sertifikasyon Uygulama Yönergesi'nde belirtilen usul ve esaslar doğrultusunda gerçekleştirilecektir.
+Program dışı etkinlikler alanında yer alan “Hayat Boyu Öğrenme/Sertifikasyon” kapsamında öğrenciler gönüllü olarak Hayat Boyu Öğrenme Genel Müdürlüğü, Meslekî ve Teknik 
+Eğitim Genel Müdürlüğü ile Bilgi Teknolojileri ve İletişim Kurumu (BTK Akademi) tarafından oluşturulan uzaktan ve yüz yüze eğitim modülleri içinde yer alan paket beceri 
+setlerinden alacakları kursları belgelendirerek okul idaresine sunar. Hayat Boyu Öğrenme/Sertifikasyonla ilgili öğrencilere yönelik planlama okul yönetimi tarafından yapılır ve ilgili 
+belgeler okul yönetimince öğrencinin e-portfolyosuna işlenir.
+ANADOLU LİSESİ, HAZIRLIK SINIFI BULUNAN ANADOLU LİSESİ, FEN LİSESİ, HAZIRLIK SINIFI BULUNAN FEN LİSESİ, SOSYAL BİLİMLER LİSESİ, 
+HAZIRLIK SINIFI BULUNAN SOSYAL BİLİMLER LİSESİ HAFTALIK DERS ÇİZELGELERİNİN AÇIKLAMALARI
+Öğrencilerin 9 ve 10. sınıf seviyelerinde “insan, toplum ve bilim”, “din, ahlak ve değer” ile “kültür, sanat ve spor” seçmeli ders gruplarından her bir gruptan en az birer ders; 11 ve 
+12. sınıf seviyelerinde ise “insan, toplum ve bilim”, “din, ahlak ve değer” ile “kültür, sanat ve spor” seçmeli ders gruplarının en az ikisinden birer ders seçmeleri zorunludur. 
+Spor eğitimi dersinde bireysel sporlardan halter, yüzme, güreş, kayak, tenis, masa tenisi, badminton, oryantiring, eskrim, bisiklet ve okçuluk ile takım sporlarından basketbol, 
+voleybol, futbol ve hentbol eğitimi verilir. Öğrenciler spor eğitimi dersinde bireysel veya takım sporlarının alt branşlarından birini seçer.
+Sanat eğitimi müzik, görsel sanatlar, sahne sanatları, geleneksel Türk sanatları ve müze eğitimi alan ve alt alanlarından oluşur.
+Bu alanlar kapsamında her bir alanın alt modülleri ise
+• Müze Eğitimi
+• Müzik: Koro, piyano, bağlama, kaval, tar, kemane, ney, ut, kanun, keman, klarnet, gitar, flüt
+• Görsel Sanatlar: Fotoğrafçılık, grafik tasarım, kısa film, animasyon
+• Sahne Sanatları: Tiyatro, drama, halk oyunları
+• Geleneksel Türk Sanatları: Hüsnühat, tezhip, minyatür, ebru, ahşap oymacılık ve vitraydan oluşur.
+Öğrenciler müzik, görsel sanatlar, sahne sanatları, geleneksel Türk sanatlarının alt alanlarından birini ya da müze eğitimini seçerler.
+Uluslararası programı uygulayan liseler toplam haftalık ders saatlerinin dışında en fazla 5 saat ilave ders yapabilir.

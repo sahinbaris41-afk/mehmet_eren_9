@@ -1,0 +1,32 @@
+7
+MATEMATİK 9
+7. Bir	otobüs	firması,	satın	alınan	bir	biletin	yolcu	tarafından	iptal	edilmesi	durumunda	yolcuya	ödenecek	
+iade	tutarını,	iptal	işleminin	otobüsün	hareket	saatine	kaç	saat	kala	yapıldığına	göre	belirlemektedir.	
+Bu	iade	tutarının	belirlenmesi	için	kullanılan	algoritmanın	işleyişini	gösteren	akış	şeması	aşağıda	 
+verilmiştir.
+Başla
+Hayır
+Evet
+Otobüsün hareket saatine 
+kalan süreyi saat cinsinden 
+(x) gir ve bilet fiyatını 
+TL cinsinden (y) gir
+İade tutarı 
+y TL olur
+x 2 4
+Bitir
+Hayır
+Evet
+y y← 10090*
+y *y ← 100702 1= x 1= 4
+İki	yolcu,	bu	firmadan	her	birinin	fiyatı	750	TL	olan	biletlerden	birer	adet	satın	almıştır.	Bu	yolculardan	
+biri	otobüsün	hareket	saatine	3	saat	kala,	diğeri	ise	1	saat	kala	biletini	iptal	etmiştir.
+Buna göre, bu iki yolcunun aldıkları iade tutarları arasındaki fark kaç Türk lirasıdır? Akış şeması 
+yardımıyla bulunuz. (15 puan)
+x	değeri	için	3,	y	değeri	için	750	girildiğinde	234## 	olduğundan	iade	tutarı		y7 50 10090$= 	ile	 
+hesaplanır.	Bu	durumda		y	=	675	TL	olur.
+x	değeri	için	1,	y	değeri	için	750	girildiğinde	ise	iade	tutarı	y7 50 10070$= 	ile	hesaplanır.
+Bu	durumda		y	=	525	TL		olur.
+İade	tutarları	arasındaki	fark		675	-	525	=	150	TL’dir.
+SINAV BİTTİ.
+CEVAPLARINIZI KONTROL EDİNİZ.

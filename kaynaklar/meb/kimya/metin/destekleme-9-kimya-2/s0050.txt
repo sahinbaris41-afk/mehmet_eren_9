@@ -1,0 +1,60 @@
+49
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+2. TEMA: ÇEŞİTLİLİK
+5. ETKINLIK ADI VİSKOZİTE
+ ► Aşağıda v erilen metni öğrencilerden okumalarını isteyiniz.
+Kimya öğretmeni Mustafa Bey öğrencilerden aldığı önerilerle tasarladığı aşağıdaki deneyi gerçekleş-
+tiriyor. 
+•
+ B
+üyüklükleri ve hacimleri birbirine eşit dört adet mezür (dereceli silindir) alarak üzerine sıvıların 
+adlarının bulunduğu etiketleri yapıştırıyor.
+•
+ Mezürler
+e sırasıyla eşit hacimde gliserin, dietil eter, aseton ve su dolduruyor.
+•
+ A
+ynı koşullarda (20 
+o
+C) bulunan mezürlere aynı anda ve aynı yükseklikten demir bilyelerin atılma-
+sını sağlayarak deneyi sonlandırıyor (Görsel 2.3).
+•
+ A
+tılan demir bilyelerin 5. saniyede aşağıdaki konumları ve sıvıların 20 
+o
+C’ta viskozite değerlerinin 
+bulunduğu Tablo 2.4'ü  inceleyerek sıvıların viskozitelerini sıralamalarını istiyor.
+ETKINLIĞIN AMACI Visk ozite kavramı ve viskoziteyi etkileyen faktörleri moleküller arası etkileşim-
+lerle ilişkilendirebilme
+DESTEKLEME 
+UYGULAMASI
+Sıvıların buhar basıncı, viskozitesi ve yüzey gerilimine ilişkin deneylerin 
+tasarımı öğrencilerin önerileri alındıktan sonra öğretmen tarafından  
+gerçekleştirilir.
+ARAÇ GEREÇ VE 
+MATERYALLER
+•
+ F
+arklı sıvıların içinde demir bilyelerin yer aldığı görsel
+•
+ B
+azı sıvıların viskozitelerinin yer aldığı tablo
+Bu etkinlikte kullanılması için metni ve Görsel 2.3'ü öğrenci sayısı kadar çoğaltarak 
+öğrencilere dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Görsel 2.3: Farklı sıvıların içinde demir bilyeler
+Sıvı Viskozite (Pa.s)
+Su 1,01 x 10
+-3
+Gliserin 1,49
+Aseton 3,16 x 10
+-4
+Dietil eter 2,33 x 10
+-4
+Tablo 2.4: Su, Gliserin, Aseton ve Dietil Eter 
+İçin Viskozite Değerleri 
+Gliserin
+ Dietil Eter
+ Aseton
+ Su

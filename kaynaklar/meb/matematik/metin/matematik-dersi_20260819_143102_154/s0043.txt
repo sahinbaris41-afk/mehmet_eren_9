@@ -1,0 +1,27 @@
+43
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+9. SINIF
+1. TEMA: SAYILAR
+Bu temada öğrencilerin gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlerde 
+muhakeme sürecini kullanabilmeleri; gerçek sayı aralıklarının gösteriminde ve aralıklarla 
+ilgili işlemlerde küme sembol ve işlemlerinden yararlanabilme becerilerini geliştirebilme-
+leri amaçlanmaktadır. Ayrıca sayı kümelerini özellikleri bakımından karşılaştırarak gerçek 
+sayıları anlamlandırabilmeleri ve analojik akıl yürüterek gerçek sayıların işlem özelliklerini 
+cebirsel ifadelere genelleyebilmeleri amaçlanmaktadır.
+DERS SAATİ 38
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme, MAB3. Matematiksel Temsil (MAB3.1. Matematiksel 
+Temsillerden Yararlanma)
+KAVRAMSAL 
+BECERİLER KB2.16.3. Analojik Akıl Yürütme
+EĞİLİMLER E1.1. Merak, E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D3. Çalışkanlık, D17. Tasarruf
+Okuryazarlık Becerileri OB3. Finansal Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Astronomi, Biyoloji, Ekonomi, Fizik, Kimya, Mühendislik
+BECERİLER ARASI 
+İLİŞKİLER MAB2. Matematiksel Problem Çözme

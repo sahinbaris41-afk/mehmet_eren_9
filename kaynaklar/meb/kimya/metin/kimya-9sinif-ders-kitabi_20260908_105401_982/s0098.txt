@@ -1,0 +1,32 @@
+98
+1. Tema Ölçme ve Değerlendirme Soruları
+Aşağıdaki tabloda Aufbau ilkesi, Hund kuralı ve Pauli ilkesiyle ilişkili örnekler veril miştir . Tablodaki 
+ilgili bölüme en az iki örnek ekleyerek boşlukları doldurunuz. (Elementlerin sembolleri ve 
+atom numaraları için periyodik tabloyu kullanınız.)
+26.
+Örnekler İlişkili Olduğu İlke Gerekçe
+7N:
+2p
+3
+2p
+3
+2s
+2
+2s
+2
+1s
+2
+1s
+2
+2He:
+2s
+1
+1s
+2
+1s
+1
+2He:
+1s
+2
+1s
+2

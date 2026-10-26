@@ -1,0 +1,77 @@
+149
+2. Tema/Çeşitlilik
+5. Tabloda elde ettiğiniz beş etkileşim türünü listeleyerek bunların hangi tür taneciklerde 
+görüldüğünü verilen örnekteki gibi yazınız. Yandaki karekodu akıllı cihazınıza okutunuz ve 
+açıklamalarınızı elde ettiğiniz bilimsel bilgilerle karşılaştırınız.
+Etkileşim Türü Açıklama
+Dipol-dipol etkileşimi Aynı ya da farklı polar moleküller arasında görülür.
+2. Yönerge: Aşağıda birinci konumda verilen tanecikler yaklaştırıldığında meydana gelen değişimler ikinci 
+konumda verilmiştir. Taneciklerin iki konumu arasındaki değişimin nedenini ilgili alana yaza-
+rak açıklayınız. (Bazı tanecik lerde elektronlarca zengin bölgeler mavi, elektronca fakir bölgeler 
+kırmızı ve nötral bölgeler mor noktalar ile gösterilmiştir.)
+  
+H
+  
+H
+  
+H
+ Cl  Cl  Cl
+O
+ Cl  Cl
+ Cl
+  
+H
+  
+H
+  
+H
+ Cl  Cl  Cl
+O
+ Cl  Cl
+ Cl
+  
+H
+  
+H
+  
+H
+ Cl  Cl  Cl
+O
+ Cl  Cl
+ Cl
+  
+H
+  
+H
+  
+H
+ Cl  Cl  Cl
+O
+ Cl  Cl
+ Cl
+  
+H
+  
+H
+  
+H
+ Cl  Cl  Cl
+O
+ Cl  Cl
+ Cl
+FH
+O
+H
+H
+O O
+N N
+N
+HH
+HH
+N
+HH
+H
+HH C
+H H
+FF F
+I II

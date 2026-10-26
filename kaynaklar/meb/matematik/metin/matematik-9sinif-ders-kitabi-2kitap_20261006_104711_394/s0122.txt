@@ -1,0 +1,57 @@
+122
+5. Tema/Algoritma ve Bilişim  
+PageRank	(Peycrenk),	bir	çizge	üzerindeki	düğümlerin	(genel	ağ	adresleri,	sosyal	medya	kullanıcıları	
+gibi)	önemini	ölçen	bir	yöntemdir.	İlk	olarak	genel	ağ	sayfalarının	arama	motorları	tarafından	sıralanma-
+sında	kullanılan	bu	algoritma,	sayfalar	arası	bağlantılar	üzerinden	bir	‟oylama”	sistemi	kurarak	çalışır .	
+Örneğin	basit	bir	sosyal	ağ	üzerindeki	bilgi	yayılımı	üzerinden	PageRank	algoritması	aşağıda	incelen-
+mektedir.
+Tablo 5.4: Bir Sosyal Ağda Bilgi Yayılımı
+Kullanıcı Bilgi Paylaştığı Kullanıcılar
+A B	ve	C
+B C
+C D
+D A
+E A ve B
+Beş	kullanıcıdan	oluşan	bir	sosyal	ağın	kullanıcıları,	çeşitli	bilgilerini	farklı	şekillerde	paylaşmaktadır.	Bu	
+sosyal	ağın	bağlantıları,	Tablo	5.4’te	verilmiştir .
+0,269
+0,277
+0,266
+0,157
+0,03
+A
+C
+D
+B
+E
+Bu	bağlantılar	bir	çizge	olarak	ele	alındığında	Königsberg	proble-
+minde	elde	edilen	çizgeden	farklı	olarak	ayrıtların	yönlerinin	olduğu	
+görülmektedir.
+Yandaki	çizgede	her	kullanıcı	bir	düğümle,	bilgi	yayılımı	ise	düğüm-
+ler	arası	yönlü	ayr ıtlarla	tem sil	edilmek tedir.	Düğümler in	yanı nda	
+yer	alan	sayılar,	düğümlerin	Pagerank	değerleridir.	Bu	değerler,	
+kullanıcıların	ağdaki	etkileri	hakkında	bilgi	verir.	
+Örneğin	kullanıcı	C	en	yüksek	değere	sahip	olduğu	için	ağdaki	en	
+etkili	kullanıcı	olarak	kabul	edilir.	Kullanıcı	E,	ağ	içinde	en	düşük	
+Pagerank	de ğerine	sah iptir;	bu	da	on un	di ğer	kul lanıcılarla	da ha	
+az	bağlantısının	olduğunu	ve	bilgi	yayılımının	daha	zayıf	olduğunu	
+gösterir.
+Araştırma Ödevi
+Aşağıda	verilen	adımları	gerçekleştirerek	araştırma	ödevini	zamanında	ve	
+eksiksiz	olarak	tamamlayınız.
+• Kişisel	bilgilerin	koru nmasında	kul lanılan	temel	şifre leme	al goritmalarını	
+(AES,	DES,	RSA	gibi)	araştırınız.
+• Bu	algoritmaların	nasıl	çalıştığını	ve	hangi	tür	veri	güvenliği	sağladığını	
+inceleyiniz.
+• RSA	dışında	asal	sayı ları	kullanmayan	şif releme	yönt emlerini	(elipt ik	
+eğri	kriptografisi	gibi)	araştırınız.
+• Gelecekte	kuantum	bilgisayarların	kriptoloji	alanında	hangi	yenilikleri	
+sunabileceğini	araştırınız.
+• Araştırmalarınızı	rapor	hâline	getiriniz.	Raporunuzu	sunum	şeklinde	
+arkadaşlarınıza	sununuz.
+Araştırma	ödeviniz	karekod	içinde	verilen	derecelendirme	ölçeği	ile	öğretme-
+niniz	tarafından	değerlendirilecektir.
+Derecelendirme 
+ölçeğine  
+ulaşmak için  
+karekodu okutunuz.

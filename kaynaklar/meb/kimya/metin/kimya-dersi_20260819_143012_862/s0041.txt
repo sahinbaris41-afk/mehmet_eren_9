@@ -1,0 +1,43 @@
+41
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.10.1.7. Kimyasal tepkimelerde stokiyometrik ilişkilere yönelik tümdengelimsel akıl yü-
+rütebilme
+a)  Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünlerin katsayıları ile mol sayıları 
+arasındaki ilişkileri belirler. 
+b)  Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünler arasındaki stokiyometrik 
+ilişkileri kurar. 
+c)  Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünler arasındaki stokiyometrik 
+ilişkilere yönelik çıkarım yapar. 
+KİM.10.1.8. Gazların özelliklerine ilişkin bilimsel gözlem yapabilme 
+a)  Gazların özelliklerinin (hacim, basınç, genleşme, sıkıştırılabilirlik, karışabilirlik ve yo-
+ğunluk) farkını ortaya koyar. 
+b)  Gazların özelliklerine ilişkin veri toplar ve kaydeder. 
+c) Topladığı veriler üzerinden gazların özelliklerine (basınç, hacim, sıcaklık ve madde 
+miktarı) ilişkin keşfettiği örüntüleri tanecikli model ile açıklar. 
+KİM.10.1.9. Gazların özellikleri arasındaki ilişkileri bilimsel sorgulayabilme 
+a) Gazların hacim, basınç, sıcaklık ve madde miktarı değişkenleri arasındaki ilişkilere 
+yönelik araştırılabilir sorular oluşturur. 
+b) Değişkenler arasındaki ilişkiyi belirlemek üzere hipotez kurar. 
+c) Basınç, hacim, sıcaklık ve madde miktarı arasındaki ikili ilişkileri gösteren gaz yasa-
+larına yönelik araştırma planlar ve planladığı araştırmayı gerçekleştirir. 
+ç) Çizdiği grafikler üzerinden matematiksel modeller önerir. 
+d) Elde ettiği grafiksel ve matematiksel modelleri kullanarak gazlara ilişkin değişkenler 
+(P, V, T ve n) arasındaki ilişkileri açıklar. 
+e) Gaz yasalarını kinetik moleküler teori ile değerlendirir. 
+KİM.10.1.10. İdeal gaz denklemini tümevarımsal akıl yürütme yoluyla oluşturabilme 
+a) Boyle, Charles ve Avogadro yasaları arasında örüntü oluşturur. 
+b) Gazların basınç, hacim, sıcaklık ve mol sayısı değişkenleri arasındaki ilişkiyi genel 
+matematiksel bir eşitlikle ifade eder. 
+KİM.10.1.11. Gazların farklı ortamlarda yayılmasına ilişkin deney yapabilme
+a) Efüzyon ve difüzyon ile ilgili deney tasarlar.
+b) Deney sonuçlarını günlük hayattaki durumları açıklamak için kullanır.
+İÇERİK ÇERÇEVESİ Kimyasal Tepkimeler:  Kimyasal Değişimin Göstergeleri, Kimyasal Tepkimelerin Oluşu -
+mu, Kimyasal Tepkime Türleri, Mol Kavramı, Kimyasal Tepkime Denklemlerinin Denk -
+leştirilmesi, Kimyasal (Stokiyometrik) Hesaplamalar
+Gazlar: Gazların Özellikleri ve Kinetik Moleküler Teori, Gaz Yasaları, İdeal Gaz Yasası, 
+Graham Difüzyon ve Efüzyon Yasası 
+Genellemeler/İlkeler/
+Anahtar Kavramlar
+asit-baz tepkimesi, çökelme tepkimesi, difüzyon, efüzyon, gaz basıncı, hacim, ideal gaz, 
+indirgenme-yükseltgenme tepkimesi (redoks), kimyasal tepkime, mol, mutlak sıcaklık, sı-
+nırlayıcı bileşen, standart-normal şartlar, tepkime denklemleri, yüzde verim 

@@ -1,0 +1,91 @@
+1. Aşağıda verilen örnekten yola çıkarak haritaya ihtiyaç duyulan farklı alanlara örnekler veriniz. Verdiği-
+niz örneklerden hangilerinin dijital yöntemlerle karşılandığına dair görüşlerinizi ilgili tabloya yazınız.
+2.
+ Aşağıda Irma kasırgasına (Eylül 2017) ait bilgilerin yer aldığı
+ tablo ile kasırganın görüldüğü bölgenin 
+haritası verilmiştir. Tablo ve haritadan yararlanarak soruları cevaplayınız.
+Örnek olay Görüşler
+Bir pilotun uçuş rotasını oluşturması. Dijital teknolojiyle karşılanabilir.
+Gün Paralel Meridyen Kategori
+31 Ağustos 16°K 31°B -
+1 Eylül 17°K 34°B 3
+2 Eylül 18°K 38°B 3
+3 Eylül 18°K 44°B 2
+4 Eylül 17°K 49°B 3
+5 Eylül 16°K 54°B 4
+6 Eylül 17°K 59°B 5
+Gün Paralel Meridyen Kategori
+7 Eylül 18°K 65°B 5
+8 Eylül 20°K 71°B 5
+9 Eylül 22°K 76°B 4
+10 Eylül 23°K 80°B 3
+11 Eylül 26°K 81°B 2
+12 Eylül 31°K 84°B -
+13 Eylül 35°K 88°B -
+Buna göre
+a)
+ Kasırganın günler bazında görüldüğü koordinatları lejantı kulla
+narak harita üzerine örnekteki gibi 
+işaretleyiniz. 
+b)
+ İşaretli yerleri birleştirerek kasırganın hareket yönünü oluştu
+runuz.
+c)
+ Kasırgalar etkilerine göre kategorilere ayrılır
+. 4 ve 5. kategorideki kasırgalar etkili olduğu yer-
+lerde doğal ve beşerî çevreye ciddi zararlar verebilir. Buna göre söz konusu kasırganın en etkili 
+olduğu ülkeleri atlaslarınızdan veya dijital haritalardan yararlanarak harita üzerine yazınız.
+Harita: Irma kasırgasının hareket yönü
+31 Ağustos
+01 Eylül
+1050B
+1050B
+1000B
+1000B
+950B
+950B
+900B
+900B
+850B
+850B
+800B
+800B
+750B
+750B
+700B
+700B
+650B
+650B
+600B
+600B
+550B
+550B
+500B
+500B
+450B
+450B
+400B
+400B
+350B
+350B
+300B
+300B
+400K 400K
+300K 300K
+200K 200K
+100K 100K
+350K 350K
+250K 250K
+150K 150K
+50K 50K
+0 300
+km
+Kasırga Kategorileri
+2
+3
+3 4 5-
+-
+Tablo: Irma Kasırgasının Etkili Olduğu Gün, Konum ve Kategoriler
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+34
+BAŞLARKEN

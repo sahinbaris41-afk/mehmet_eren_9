@@ -1,0 +1,56 @@
+100
+2. Tema /  Nicelikler ve Değişimler
+8.  a)  Aşağıda g: R"R, g(x) = ax şeklinde tanımlı doğrusal fonksiyonun gerçek sayılarda artan ya da azalan 
+olma durumu cebirsel olarak gösterilmiştir.
+6c, d R!  ve c < d olmak üzere g: R"R, g(x) = ax şeklinde tanımlı g fonksiyonunda a > 0 iken c < d eşit-
+sizliğinin iki tarafı a ile çarpıldığında ac$  < ad$  olduğundan c < d için g(c) < g(d) olur. g fonksiyonunda ba-
+ğımsız değişken artarken bağımlı değişken de artmaktadır. Bu durumda g, gerçek sayılarda artan fonksiyondur.
+a < 0 iken c < d eşitsizliğinin iki tarafı a ile çarpıldığında ac$  > ad$  olduğundan c < d için g(c) > g(d) 
+olur. g fonksiyonunda bağımsız değişken artarken bağımlı değişken azalmaktadır. Bu durumda g, gerçek 
+sayılarda azalan fonksiyondur. 
+g doğrusal fonksiyonunun sıfırı ve bire birliği ile ilgili oluşturduğunuz önermelerin doğruluğunu cebirsel 
+olarak gösteriniz.
+b)  Aşağıda g: R"R, g(x) = ax şeklinde tanımlı doğrusal fonksiyonun gerçek sayılarda artan ya da azalan 
+olduğu grafiksel olarak doğrulanmıştır.
+ Bilgisayar veya etkileşimli tahtada matematik yazılımı açılarak Giriş bölümüne g(x) = ax yazılır. Enter tuşuna 
+basıldığında ekranda g fonksiyonunun grafiği ve a sürgüsü oluşur.
+ a sür güsü sıfırdan büyük değerler aldığında g fonksiyonuna ait grafik Görsel 1’deki gibi oluşur.
+A a = 2α
+Giriş...
+4
+-1
+-2
+1
+ 3
+2 g
+-1-2-3 0 1 2 3
+a = 0.5
+-5      5                    
+g(x) = ax 
+=  0.5x
+c d
+g(c)
+g(d)
+Görsel 1
+a > 0 için g fonksiyonunun grafiği incelendiğinde keyfî alınan c, d R!  değerleri için c < d iken f(c) < f(d) 
+olduğu görülmektedir. Buradan a > 0 iken g: R"R, g(x) = ax biçimindeki g fonksiyonunun artan olduğu 
+sonucuna ulaşılır.
+a sürgüsü sıfırdan küçük değerler aldığında g fonksiyonuna ait grafik Görsel 2’deki gibi oluşur.
+A a = 2α
+Giriş...
+4
+-1
+-2
+1
+ 3
+2
+g
+-1-2-3 0 1 2 3
+a = -0.7
+-5      5                    
+g(x) = ax 
+= -0.7x
+g(c)
+g(d)
+c d
+Görsel 2

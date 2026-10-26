@@ -1,0 +1,61 @@
+14
+1. Tema /  Sayılar
+1.	Uygulama
+Gerçek Sayıların Üslü Gösterimleri
+Aşağıdaki soruları cevaplayınız.
+1.  T abloda verilen üslü gösterimlerin sonuçlarını örneklerdeki gibi bularak tabloyu uygun şekilde doldurunuz.
+ 
+Üslü Gösterim Yapılması Gereken İşlem ve Sonucu
+1
+2
+4
+cm
+2
+1
+2
+1
+2
+1
+2
+1
+2
+1
+16
+14
+$$$==cm
+3
+2 3cm
+(-2)5
+(-1)6
+-34
+80 810 =
+120
+(-6)0
+05
+4-1 4-1  
+4
+1=
+3-2
+(-5)-3
+(-3)-4
+3
+1 2-cm
+5
+3 2
+-
+-
+cm
+2. Üslü gösterim lerle ilgili ulaştığınız sonuçları sözel olarak ifade ediniz.
+ 
+n negatif tam sayı ise ...a aaa a1n
+n
+$$$ $=
+tane
+12 34444444444 44444444
+ olur. a10 = ’dir. 
+b sıfırdan farklı bir gerçek sayı olmak üzere 00b = ’dır.
+a bir gerçek sayı, n pozitif tam sayı olmak üzere  n tane a sayısının çarpımı a nın n. kuvveti olarak 
+isimlendirilir. ...a aaa an $$$ $=
+tanne12 34444444444 44444444  olur. 
+an  ifadesinde a taban ve n üs olarak isimlendirilir.
+a sıfırdan farklı gerçek sayı ve n pozitif tam sayı olmak üzere a a11 =-  ve a a1n n=-  olur.

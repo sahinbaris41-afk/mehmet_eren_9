@@ -1,0 +1,51 @@
+179
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.12.3.2
+Öğrencilere farklı dik piramit ve dik prizma örnekleri sunulur. Bu örnekler üzerinden öğren-
+cilerin bu cisimlerin elemanlarını belirlemeleri beklenir. Hem dik prizma hem de dik pira -
+mit örneklerindeki elemanların benzerliklerinden yola çıkarak dik piramidin tüm elemanları 
+hakkında çıkarımlar ( “Bir dik prizmanın yan yüz yüksekliğinin uzunluğu, aynı taban ve aynı 
+yüksekliğe sahip bir dik piramidin yan yüz yüksekliğinin uzunluğundan daha küçüktür.” gibi) 
+yapmaları sağlanır. Benzer şekilde öğrencilere dik dairesel silindir ile dik dairesel koni ve 
+küre örnekleri sunularak öğrencilerin bu cisimlerin elemanları arasındaki ilişkilere yönelik 
+çıkarımlar yapmaları istenir. Dik dairesel koninin ana doğrusu tanımlanıp dik piramidin cisim 
+yüksekliği ve yan yüz yüksekliği arasındaki ilişkiden hareketle dik dairesel koninin cisim yük-
+sekliği ve ana doğrusu arasındaki ilişkiye yönelik de çıkarımlar yapılır. 
+Dik piramidin elemanlarının (cisim yüksekliği, yan yüz yüksekliği gibi) dik prizma yardımıyla 
+tanımlanıp nasıl çizileceği üzerinde durulduktan sonra öğrencilerin yüksekliği ve tabanları 
+aynı olan dik prizma ile dik piramitlerin hacimlerini matematik yazılımları kullanarak veya 
+deneysel olarak karşılaştırması sağlanır (MAB5). Öğrencilerin ortaya çıkan benzerliklerden 
+yararlanarak dik piramidin ve dik dairesel koninin hacim bağıntılarına yönelik çıkarım yap -
+maları sağlanır. Benzer şekilde öğrencilerden cisimlerin açınımlarını gözlemleyerek yüzey 
+alanlarını da karşılaştırmaları beklenir. Öğrencilerden bu cisimlerin yüzey alanları ve hacim-
+lerine ilişkin incelenen örneklerin niteliklerini (cisimleri oluşturan yan yüzeylerin hangileri 
+olduğu, alanlarının nasıl hesaplanabileceği, hacimlerin arasındaki oransal ilişki) belirlemeye 
+yönelik hazırlanan çalışma kağıdındaki soruları cevaplamaları istenir. Ortaya çıkan benzer -
+liklerden yararlanarak öğrencilerin dik prizma ile dik piramidin yüzey alanı ve hacim bağıntı-
+larına yönelik çıkarım yapmaları sağlanır.
+Benzer şekilde dik dairesel silindirin yüzey alanı ve hacminden yararlanılarak dik dairesel 
+koninin ve kürenin yüzey alanlarına ve hacimlerine yönelik farklı örnekler gözlemlenir. Göz-
+lenen örneklerin yüzey alanı ve hacmi ile ilgili nitelikleri belirlenir. Bu süreç sonunda öğren-
+cilerin dik dairesel koni ile kürenin yüzey alanları ve hacim bağıntılarına yönelik çıkarım yap-
+ması sağlanır. Yapılacak çalışmalar, öğrencilerin yaratıcılık ve sistematik olma eğilimlerinin 
+geliştirilmesini sağlar (E3.3, E3.7).
+Öğrencilerden bu çalışmalarını iş birlikli  bir şekilde çevrim içi uygulamaları kullanarak bir 
+platform üzerinden sunmaları istenir (SDB2.2). Örneğin sınıfça kullanılacak dijital pano 
+oluşturma araçlarıyla öğrencilerin tüm fikirlerinin aynı anda değerlendirilmesi ve dijital 
+okuryazarlık becerilerinin geliştirilmesi sağlanır (OB2). Ayrıca Arşimet’in kürenin yüzey alanı 
+ve hacim bağıntılarını oluşturmada dik dairesel silindirden yararlanması ile ilgili çalışmala -
+rı incelenir. Arşimet’in bu çalışmalarını cebirsel olarak inceleyen Mahani ’nin çalışmaları da 
+araştırılarak öğrencilerin merak eğilimleri harekete geçirilir (E1.1). Öğrencilere Türk-İslam 
+ve dünya mimarisinden geometrik cisimlerin bina tasarımlarında kullanımına ilişkin örnekler 
+sunulur. Seçilen örnekler arasında Türk-İslam mimarisine ait yapıların olması; öğrencilerin 
+Öğrenme-Öğretme 
+Uygulamaları MAT.12.3.1
+Öğrencilerin önceden öğrendikleri dikdörtgenler prizması, küp, kare dik prizma gibi dik 
+prizmaların ve dik dairesel silindirin elemanlarını belirlemeleri beklenir. Elemanlar belirlen-
+dikten sonra önceki bilgilerine ek olarak dik prizmaların yüksekliği, yüzey köşegeni ve cisim 
+köşegeninden; dik dairesel silindirin ise yüksekliğinden bahsedilerek bunların özellikleri in-
+celenir. Bu cisimlere ait yeni öğrenilen elemanların öğrencilerin bildiği elemanlarla ilişkisi 
+belirlenir (bir dikdörtgenler prizmasında yüzey köşegeninin uzunluğunun karesinin o yüze -
+yin kenar uzunluklarının kareleri toplamına eşit olması gibi). Öğrencilere farklı dik prizma 
+ve dik dairesel silindirler içeren çalışma kâğıdı verilerek belirledikleri ilişkileri incelemeleri 
+istenebilir.

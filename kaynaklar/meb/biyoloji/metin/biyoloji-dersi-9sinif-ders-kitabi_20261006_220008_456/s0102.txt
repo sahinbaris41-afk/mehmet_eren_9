@@ -1,0 +1,47 @@
+102
+2. Tema
+Hücre zarı, hücrenin dış sınırını oluşturan seçici geçirgen bir yapıdır. Besinlerin, ok-
+sijen ve karbondioksit gibi gazların, hücresel atıkların geçişi hücre zarı ile sağlanır. 
+Birçok arkede, alglerde (bazı protistlerde), bitkilerde, mantarlarda ve bakterilerde  
+hücre zarının dış kısmında hücre duvarı adı verilen bir yapı daha bulunur.
+Hücre zarının yapısı akıcı-mozaik zar modeli ile açıklanır. Bu modele göre zarın 
+yapısında çift katman hâlinde dizilmiş fosfolipitler, bunların arasında kolesterol 
+molekülleri (hayvan hücrelerinde) ve proteinler bulunur. (Görsel 2.2). Bu yapıda 
+fosfolipitler ve proteinler hareket edebildiğinden, hücre zarı akışkan bir görünü-
+me sahiptir. Ayrıca fosfolipitlerin arasında bulunan proteinler de büyütme gücü 
+yüksek mikroskop ile bakıldığında hücre zarına mozaik görünümü vermektedir. 
+Sıvı-mozaik modelinin adı buradan gelmektedir. Hücre zarının yapısında bulu -
+nan proteinlerin hücrelerin haberleşmesi, birbirine tutunması, birbirini tanıması, 
+madde geçişlerinin sağlanması gibi pek çok işlevi bulunur. Hayvan hücre zarındaki 
+proteinlere ve lipitlere bağlı karbohidrat molekülleri, hücrelerin birbirini tanıma -
+sında ve hücrelere özgünlük kazandırılmasında görevlidir. Hücre zarının yapısında 
+bulunan kolesterol molekülleri ise zarın akışkanlığını düzenler. Kolesterol miktarı 
+yükseldiğinde akışkanlık azalır.
+Sitoplazma, hücre zarının çevrelediği sıvı ortamdır. Su, iyonlar, küçük moleküller 
+ve makromoleküllerden oluşur. Jel görünümlü olan sitoplazma, hücre içindeki 
+kimyasal reaksiyonların ve hücrenin yaşamsal aktivitelerinin çoğunun gerçekleş-
+tiği bölgedir. Yapısındaki iskelet proteinleri sayesinde hücrenin üç boyutlu yapısı -
+nı korur. Hücre içinde madde taşınımına imkân sağlar ve hücresel yapıların hücre 
+içindeki konumunu sabitler.
+Kanal
+proteini
+Yağ asitlerine bağlı 
+karbohidrat grupları 
+(glikolipit)
+Proteine bağlı 
+karbohidrat 
+grupları 
+(glikoprotein)
+Zarın çift 
+katmanlı 
+yapısı
+Fosfolipitler
+(polar baş grupları)
+Fosfolipitler
+(Apolar kuyruk)
+Zar proteini
+Kolesterol
+Görsel 2.2
+Hayvan hücre zarının 
+çift katmanlı yapısı ve 
+kimyasal içeriği 

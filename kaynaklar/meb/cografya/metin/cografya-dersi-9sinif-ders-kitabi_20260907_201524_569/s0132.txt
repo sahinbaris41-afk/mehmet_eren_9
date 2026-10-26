@@ -1,0 +1,59 @@
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+132
+Tabloda havanın hareketi nedeniyle artan ısı kaybı (rüzgârın soğutucu etkisi) verilmiştir. 
+Rüzgâr 
+Şiddeti
+(km/sa)
+Sıcaklık (°C)
+10 5 0 -5 -10 -15 -20 -25 -30 -35
+Sakin 10 5 0 -5 -10 -15 -20 -25 -30 -35
+10 8 2 -3 -9 -14 -20 -25 -31 -37 -42
+20 3 -3 -10 -16 -23 -29 -35 -42 -48 -55
+30 1 -6 -13 -20 -27 -34 -42 -49 -56 -63
+40 -1 -8 -16 -23 -31 -38 -46 -53 -60 -68
+50 -2 -10 -18 -25 -33 -41 -48 -56 -64 -71
+60 -3 -11 -19 -27 -35 -42 -50 -58 -66 -74
+70 -4 -12 -20 -28 -35 -43 -51 -59 -67 -75
+Risk: Açık cilt yüzeyinde 5 
+saatten az sürede rüzgâr ısırığı 
+oluşma ve çatlama riski var.
+Artan Risk: Açık cilt 
+yüzeylerinin 1 dakika 
+içinde donma riski var. 
+Büyük Risk: Açık cilt 
+yüzeylerinin 30 saniye 
+içinde donma riski var.
+ 
+1. Rüzgârın donma riski oluşturduğu koşullarla ilgili hangi genellemeye ulaşılabilir?
+ 
+ 
+ 
+2.
+ Rüzgârın soğutucu etkisini bilmek neden önemlidir? Rüzgâr ve sıcaklık değerlerinin insan 
+sağlığı ve sokak hayvanları için risk oluşturduğu zamanlarda neler yapılabilir?
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+ T
+ablodaki bilgilere göre aşadakilerden hangisine ulaşılamaz?
+A)
+ Rüzgâr hızı sakin ise rüzgârın soğutucu etkisi yoktur
+. 
+B)
+ Büyük risk olması için rüzgâr hızı 30 km/sa. üzerinde olmalıdır
+.
+C)
+ Rüzgâr hızı 40 km/sa. ve sıcaklık -20 °C ise artan risk vardır
+.
+D)
+ Sıcaklık -5 °C ve üzerinde ise rüzgâr artan risk oluşturmaz.
+E)
+ Rüzgârın hızı 50 km/sa. ve sıcaklık -15 °C ise ısı kaybı - 41 °C’tur.
+3. Ünite Ölçme ve Değerlendirme Soruları
+Bu testte cevaplamanız için farklı soru çeşitlerinden oluşan toplam 16 soru verilmiştir. 
+Daha fazla soruya ulaşmak için testin sonunda yer alan karekodu okutunuz.
+1-3. soruları aşağıda verilen tabloya göre cevaplayınız.

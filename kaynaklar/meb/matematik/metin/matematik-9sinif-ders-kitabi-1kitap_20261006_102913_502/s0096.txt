@@ -1,0 +1,49 @@
+96
+2. Tema /  Nicelikler ve Değişimler
+f: R"R, f(x) = x şeklinde tanımlı f doğrusal referans fonksiyonunun nitel özellikleri aşağıdaki gibidir. 
+• f fonksiyonunun tanım ve görüntü kümeleri gerçek sayılar kümesidir.
+• f fonksiyonunun işareti, tablo ile aşağıdaki gibi ifade edilebilir.
+ x     -∞                   0                       ∞
+                     f(x)               -                 +0
+• f fonksiyonunda x = 0 için f(0) = 0 olduğundan x = 0 f fonksiyonunun sıfırıdır.
+• f fonksiyonunun işareti x, 063! -_i  için negatif, x0 ,63! _i  için pozitiftir .
+• f fonksiyonunun maksimum ve minimum noktası yoktur.
+• f fonksiyonu gerçek sayılarda artandır.
+• f fonksiyonu bire birdir.
+Kontrol Noktası
+Gerçek Sayılarda g (x)=a  f(x±r)±k Şeklinde Tanımlı Doğrusal 
+Fonksiyonlar
+m, n ! R olmak üzere g: R"R, g(x) = a  f(x ± r) ± k şeklindeki g doğrusal fonksiyonu düzenlenerek 
+g(x) = mx + n biçiminde yazılabilir.
+Doğrusal fonksiyonların grafikleri, bir doğru belirtir ve f(x) = x şeklinde tanımlı doğrusal referans fonksi-
+yondan türetilen fonksiyonlardan elde edilebilir.
+a, r, k ! R olmak üzere gerçek sayılarda f(x) = x şeklinde tanımlı f doğrusal referans fonksiyonundan 
+türetilen veya g(x) = a  f(x ± r) ± k şeklinde ifade edilen fonksiyonlara doğrusal	fonksiyon denir.
+Gerçek sayılarda f(x) = x şeklinde tanımlı f doğrusal referans fonksiyonunda bağımsız değişkenin 
+aldığı değerler artarken bağımlı değişkenin aldığı değerler de artmaktadır. Bu durum, f fonksiyonunun 
+grafiği üzerinde Grafik 2.1ʼdeki gibi gösterilir.
+Grafik 2.1:  f fonksiyonunun artanlığının gösterimi
+O x
+y
+f(x) = x
+a
+a
+b
+b
+,ab R!  ve f fonksiyonu ,ab7A  nda tanımlı olsun.
+,xa b6 ! 7A  için ffx m#__ ii  şartını sağlayan f (m) değerine f fonksiyonunun maksimum 	değeri,  
+bu değeri aldığı noktaya f fonksiyonunun maksimum 	noktası  denir.
+,xa b6 ! 7A  için fx fn$__ ii  şartını sağlayan f (n) değerine f fonksiyonunun minimum 	 d eğeri,         
+bu değeri aldığı noktaya  f fonksiyonunun minimum 	noktası  denir.
+Bir f fonksiyonunda tanım kümesinde farklı x değerlerine karşılık gelen f (x) değerleri birbirinden farklı 
+ise f, bire	bir fonksiyondur. Benzer şekilde görüntü kümesindeki bir f (x) değerine tanım kümesinde 
+sadece bir x değeri karşılık geliyorsa f, bire	bir 	fonksiyondur.
+Gerçek sayılarda tanımlı bir f fonksiyonunda 
+6a, b ! R için f(a) = f(b) ⇒ a = b ve a ! b ⇒ f(a) ! f(b) ise f, bire bir fonksiyondur.
+6a, b ! R için 
+a < b iken fa fb1__ ii  oluyorsa f, gerçek sayılarda artan; 
+a < b iken fa fb2__ ii  oluyorsa f, gerçek sayılarda azalan fonksiyondur.
+Fonksiyonun tanımlı olduğu belirli bir aralık için bağımsız değişkenin aldığı değerler artarken bağımlı 
+değişkenin aldığı değerler azalıyorsa fonksiyon bu aralıkta azalandır.
+Fonksiyonun tanımlı olduğu belirli bir aralık için bağımsız değişkenin aldığı değerler artarken bağımlı 
+değişkenin aldığı değerler de artıyorsa fonksiyon bu aralıkta artandır.

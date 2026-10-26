@@ -1,0 +1,52 @@
+100
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+yapabilme” ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem öğrenci 
+tarafından değerlendirilebilir (SDB1.2).
+KİM.12.2.5 
+Meyvelerin olgunlaştırılmasında kullanılan etilenin, mum yapımında kullanılan parafinin 
+ve yünlü kumaşları güvelerden korumakta kullanılan naftalinin moleküler yapıları örnek 
+gösterilerek öğrencilerin konuya dikkatleri çekilebilir. Öğrencilerin bazı alifatik ve aroma -
+tik hidrokarbonlara ilişkin verilen yapı formüllerini incelemeleri sağlanır. Öğrencilerden 
+hidrokarbonları sınıflandırmaları için tek, çift ya da üçlü bağların varlığı, halkalı yapıların 
+bulunması veya benzen halkasını içerip içermediği gibi ölçütler belirlemeleri istenir (OB1). 
+Öğrenciler, belirledikleri ölçütler doğrultusunda hidrokarbonları alifatik ve aromatik hid -
+rokarbonlar (benzen ve türevleri) olarak iki gruba ayrıştırır. Ayrıştırdıkları alifatik hidrokar-
+bonları ise alkan, alken, alkin, halkalı hidrokarbonlar olarak gruplandırırlar. Öğrencilerden 
+oluşturdukları grupları hidrokarbonların sınıflandırılmasına ilişkin bilimsel bilgilerle karşı -
+laştırmaları istenir (E3.6, D3.3, OB1) . Yapılandırılmış grid ile öğrencilerden verilen çeşitli 
+hidrokarbonları alifatik (alkan, alken, alkin ve halkalı) ve aromatik hidrokarbonlar olarak 
+sınıflandırmaları istenebilir.
+KİM.12.2.6 
+Öğrencilere alifatik hidrokarbonların adlandırılmasında kullanılan ön ve son eklerin; ayrı -
+ca birincil (primer), ikincil (sekonder), üçüncül (tersiyer) alkil gruplarının yer aldığı çeşitli 
+alifatik hidrokarbonların örneklerini kapsayan etkinlik kâğıtları verilir. Etkinlik kâğıtların -
+da her bir alifatik hidrokarbon sınıfına ilişkin moleküllerin yarı açık formülleri ile bunların 
+sistematik adları da bulunmalıdır. Öğrenciler, etkinlik kâğıtlarındaki örnekleri inceleyerek 
+her bir alifatik hidrokarbon sınıfının sistematik adlandırılmasına ilişkin bir örüntü bulmaları 
+için yönlendirilir (E3.6, OB7). Her grup bulduğu örüntü için genel bir formül belirler (D3.3). 
+Ardından incelediği her alifatik hidrokarbon sınıfının IUPAC sistemi adlandırma kurallarına 
+göre sistematik adlandırmasını yapar (OB7, KB2.9). Bazı aromatik bileşiklerin (benzen, to-
+luen, fenol, anilin, benzoik asit, benzaldehit ve fenil eten) özel adları ve adlandırma sırasın-
+da sıklıkla kullanılan aril grupları öğrencilere verilir. Etkinlik kâğıtları, “alifatik hidrokarbon-
+ların sistematik adlandırılmasına yönelik örüntü oluşturabilme, genellemeye ulaşabilme” 
+ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem öğrenci tarafından 
+değerlendirilebilir (SDB1.2).
+KİM.12.2.7 
+Karbon sayıları aynı olan dallanmamış ve dallanmış zincirli hidrokarbon örnekleri verilir 
+ve öğrencilerden her bir bileşik örneğinin kapalı formülünü belirlemesi istenir. Öğrenci -
+ler, dallanmamış hidrokarbon molekülünün karbon sayısını değiştirmeden olası dallanmış 
+yapı formüllerini çizer ve çizdiği her bir yapı formülünün kapalı formülünü yazar. Çizilen 
+yapı formülü örnekleri kullanılarak “kapalı formülleri aynı, yarı açık formülleri farklı olan hid-
+rokarbonların birbirleri ile izomer olduğu” bilgisi verilir.  Öğrencilere kapalı formülleri aynı 
+olan farklı alifatik hidrokarbon bileşiklerinin yer aldığı etkinlik kâğıdı verilir. Öğrencilerden 
+verilen bileşiklerin kapalı ve yarı açık formüllerini incelemeleri ve aralarındaki farkı belir -
+leyen ölçütleri (ana zincire bağlı grupların konumu, açık zincir veya halkalı yapı, ikili bağ 
+yapmış karbon atomlarına bağlı grupların konumları ve pi bağının konumu) tespit etmeleri 
+istenir (OB4). Öğrenciler; kapalı formülleri aynı olan farklı hidrokarbonları sikloalkan-alken, 
+sikloalken-alkin, karbon atomlarının farklı şekillerde dizilmesi, alkenlerde ikili bağ yapmış 
+karbon atomlarına bağlı grupların simetri eksenine göre konumları, pi bağının konumu 
+şeklinde ayrıştırır. İncelediği alifatik hidrokarbonları izomerliklerine göre gruplandırır. Öğ-
+rencilerin grupların adlarını zincir-halka, zincir-dallanma, cis-trans ve konum izomeri ola-
+rak adlandırması sağlanır. Sikloalkanlarda cis-trans izomerleri işlenmez. Yapılandırılmış 
+grid ile öğrencilerden farklı alifatik hidrokarbon örneklerinin izomerliklerini belirlemeleri 
+istenebilir.

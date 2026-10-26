@@ -1,0 +1,46 @@
+82
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Çalışma yaprağının ve testin değerlendirilmesi puanlama anahtarı ile yapılabilir. Öğrenci-
+lerden momentum korunumuna örnek oluşturacak hareketler ile ilgili sunum hazırlama-
+ları istenebilir. Sunumun değerlendirilmesi analitik dereceli puanlama anahtarı ile yapıla-
+bilir. Açısal momentumun korunumuna yönelik zihin haritası kullanılabilir. Zihin haritasının 
+değerlendirilmesi öz değerlendirme formu veya kontrol formu ile yapılabilir. Performans 
+görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir. 
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin kuvvetin döndürme etkisini, Newton'ın Hareket Yasalarını, bileşke kuvvetin 
+hesaplama yöntemlerini ve dönme hareketini bildiği kabul edilmektedir. 
+Ön Değerlendirme Süreci Bileşke kuvvet ve bileşke kuvvetin hareket üzerindeki etkileri Newton'ın Hareket Yasaları 
+ile ilişkilendirilerek soru cevap etkinliği ile hatırlatılabilir. 
+Köprü Kurma Ön öğrenmelerde yer alan kuvvetin döndürme etkisi, günlük hayattaki kapı açma, tahte-
+revalli gibi örneklerle ilişkilendirilerek torkun uygulama alanları hakkında farkındalık oluş-
+turulabilir. 
+Öğrenme-Öğretme 
+Uygulamaları FİZ.12.1.1
+Öğrenciler günlük hayatta karşılaştıkları kapı açma ve maden suyu şişesinin kapağını 
+açma gibi örnekler ile ön bilgilerindeki kuvvetin döndürme etkisini ilişkilendirir (SDB1.1). 
+Öğretmen,  öğrencilerde tork ile ilgili farkındalık oluşturabilir. Soru cevap tekniğini kul-
+lanarak öğrencilerin torkun niteliklerini tanımlamasını sağlayabilir. Öğrenciler, öğretmen 
+rehberliğinde gruplara (SDB2.2) ayrılır. Gruplar simülasyon deneyinde kuvvetin büyüklüğü, 
+kuvvetin dönme noktasına uzaklığı ve kuvvetin uygulama açısı değişkenlerini değiştirerek 
+bu değişkenlerin torka etkisine yönelik ölçümler yapabilir. Öğretmen torkun matematik -
+sel modeline ulaşabilmeleri için gruplar arası tartışma etkinliği başlatır. Grup liderleri ken-
+di gruplarının iddialarını, destekleyicilerini ve varsa arkadaşlarının karşıt iddialarını saygı 
+çerçevesinde çürütür (D14.1, E3.5, SDB2.1, SDB2.3). Öğrenciler, gruplar arası tartışma so-
+nunda ölçüm sonuçlarına dayanarak torkun bağlı olduğu değişkenler ile ilişkisini matema-
+tiksel olarak modeller (KB2.17, OB7). Öğretmen, öğrencilere torkun günlük hayattaki farklı 
+uygulama alanlarına yönelik problem durumlarını gösterir. Öğrenciler, torkun matematik-
+sel modelini kullanarak problemlere çözüm bulur (E3.1) ve torkun farklı uygulama alan-
+larına yönelik matematiksel modelini geneller. Torkun farklı uygulama alanlarına yönelik 
+sorular hazırlanarak soru kutusuna atılabilir. Öğrenciler bir soru çekerek cevap verebilir. 
+FİZ.12.1.2
+Öğretmen 5E öğrenme modelinden yararlanarak günlük hayatta ağırlık merkezinin göz 
+önüne alındığı uygulamaların örnekleri veya görselleri üzerinden ağırlık merkezinin öne-
+mine dikkat çekebilir. Öğrenciler, öğretmen rehberliğinde gruplara ayrılır (SDB2.1). Öğret-
+men, her gruba farklı cisimler ve destek noktaları verebilir ya da öğrencilerin simülasyon 
+kullanmalarını sağlayabilir. Öğrenciler, gruplar hâlinde destek noktasını kullanarak ci-
+simlerin dengede kalmasına yönelik denemeler yapar (SDB1.2). Öğrenciler denge, kütle 
+merkezi ve ağırlık merkeziyle ilgili ölçümler yaparak verileri toplar ve kayıt altına alır. Öğ-
+renciler, grup içi tartışmalar ile topladıkları verileri kütle merkezi ve ağırlık merkezi ile iliş-
+kilendirir. Gruplar, bu ilişkiye dair verileri tablolaştırarak veri setine dönüştürür (OB7). Öğ-
+retmen, gruplar arasında tartışma başlatabilir. Öğrenciler denge, kütle merkezi ve ağırlık

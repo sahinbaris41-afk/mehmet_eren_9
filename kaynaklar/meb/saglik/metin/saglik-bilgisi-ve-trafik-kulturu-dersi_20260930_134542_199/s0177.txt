@@ -1,0 +1,44 @@
+Sağlık Bilgisi ve Trafik Kültürü
+177
+Aşağıdaki metinde otonom araçların bir kazaya karışması durumunda sorumluluğun kimde olabileceğine 
+ilişkin bilgilere yer verilmiştir. Bu bilgilerden yararlanarak soruların cevaplarına dair görüşlerinizi öğret-
+meninizin rehberliğinde sınıf arkadaşlarınızla tartışarak değerlendiriniz.
+Kavşakta ilerleyen otonom bir araç, aniden yola çıkan yayaya 
+çarparak kazaya neden olur. Araçta direksiyon başında bir sürü-
+cü bulunmasına rağmen kaza anında araç kendi kendine sürüş 
+modundadır. Bu durumda akla önemli bir soru gelir: Bu kazanın 
+sorumluluğu kime aittir? Otonom araçlar; kameralar, radarlar, 
+sensörler ve yapay zekâ destekli yazılımlar sayesinde çevrele -
+rini algılayarak hareket edebilmektedir. Ancak bu sistemlerde 
+meydana gelebilecek bir yazılım hatası, sensörlerin çevre ko -
+şullarını doğru algılayamaması ya da beklenmeyen bir trafik du-
+rumu kazaya yol açabilir. Böyle bir durumda sorumluluğun araç 
+üreticisine veya yazılım geliştiricilere ait olduğu savunulmakta-
+dır. Öte yandan otonom araçların tamamen sürücüsüz olmadığı, 
+sürücünün her an müdahaleye hazır olması gerektiği durumlar 
+da bulunmaktadır. Sürücünün dikkatini yoldan ayırması, sistemi yanlış kullanması veya gerekli kontrolü 
+sağlamaması hâlinde kazanın sorumluluğu sürücüye ait olabilir. Ayrıca yol koşulları, trafik işaretleri ve di-
+ğer yol kullanıcılarının davranışları da kazaların oluşmasında etkili unsurlar arasındadır. Bu durum gelişmiş 
+teknolojilerin trafikte güvenliği artırsa da insan sorumluluğunu ortadan kaldırmadığını göstermektedir. 
+Otonom araçların kullanıldığı bir trafikte bile dikkatli davranışlar, kurallara uyum ve sorumluluk bilinci gü-
+venliğin temel unsurları olmaya devam etmektedir.
+1. Otonom araç teknolojisi gelişmiş olsa bile sürücüler neden dikkatli davranmalıdır? Açıklayınız.
+2. Trafik kazalarının sadece araç teknolojisinden kaynaklanmadığını, sürücü davranışları ve güvenlik 
+açısından açıklayınız.
+Uygulama
+Otonom araç
+Aşağıda farklı taşıt türleri verilmiştir. Her araç için güvenli sürüşü destekleyen uygulamaları düşünerek 
+tabloyu doldurunuz. Yazdığınız ifadelerin trafik kurallarına ve güvenli sürüş ilkelerine uygun olmasına 
+dikkat ediniz.
+Kontrol Noktası
+Taşıt Türü
+Kullanım Öncesi 
+Alınabilecek Güvenlik 
+Önlemleri
+Sürüş Sırasında Uyulması 
+Gereken Kurallar
+Koruyucu ve Destekleyici 
+Ekipmanlar
+Bisiklet
+Elektrikli Skuter
+Motosiklet

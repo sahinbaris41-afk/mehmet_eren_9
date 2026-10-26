@@ -1,0 +1,67 @@
+183
+AKIŞKANLAR
+Kontrol Noktası
+Tonlarca kütleye sahip 
+olmalarına rağmen gemilerin 
+suya batmaması, sıcak hava 
+balonlarının havalanması, 
+balıkların suda yüzmesi gibi 
+durumlar kaldırma kuvve­
+tiyle ilgilidir. 
+Buzun yoğunluğu suyun 
+yoğunluğundan küçük 
+olduğu için buz dağları 
+suyun üzerinde yüzer ve 
+batmaz. 
+Sıvı içine serbestçe bırakılan bir cisim, yüzeye doğru çıkıp hacmi­
+nin bir bölümü ile yüzebilir, sıvı içinde asılı kalabilir ya da batabilir. 
+Bununla birlikte cismin sıvı içindeki pozisyonundan bağımsız 
+olarak sıvının cisme uyguladığı bir kaldırma kuvveti her zaman 
+mevcuttur. 
+G
+Kaldırma kuvveti, cismin 
+yüzeylerine etki eden kuvvetle­
+rin bileşkesidir. 
+Kaldırma kuvvetinin varlığı 
+ilk kez Arşimet tarafından 
+kanıtlanmıştır. 
+Kaldırma kuvvetinin  
+matematiksel modeli: 
+Fk = Vb : ds : g
+Kaldırma 
+kuvveti 
+(N)
+Batan kıs­
+mın hacmi 
+(m3)
+Sıvının 
+yoğunluğu 
+(kg/m3)
+Y er çekimi 
+ivmesi 
+(m/s2)
+“Bir kısmı veya tamamı durgun 
+akışkana batan cisme akışkan 
+tarafından uygulanan kaldırma 
+kuvveti, cisim tarafından yeri 
+değiştirilen sıvının ağırlığına 
+eşit büyüklüktedir. ” ifadesi 
+Arşimet İlkesi olarak bilinir. 
+Kaldırma Kuvveti
+Akışkan içine kısmen ya da tamamen batan cisimlere akışkan 
+tarafından yer çekimi kuvvetinin zıt yönünde uygulanan kuvvete 
+kaldırma kuvveti denir.
+Yüzme Askıda kalma Batma
+Sıvı Sıvı Sıvı
+Fk = G
+dc < ds   
+Fk = G
+dc = ds   
+Fk < G
+dc > ds   
+FkFk
+G
+G
+Fk
+G
+ 

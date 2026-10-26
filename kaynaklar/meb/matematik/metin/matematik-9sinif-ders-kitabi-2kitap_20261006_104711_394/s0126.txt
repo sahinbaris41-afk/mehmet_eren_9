@@ -1,0 +1,47 @@
+126
+5. Tema/Algoritma ve Bilişim  
+1. Anadolu	parsı	Türkiye’nin	en	büyük	kedi	türü	
+olan,	postu	sarımsı,	üzeri	siyah	benekli,	çevik,	
+yırtıcı,	etçil,	memeli	bir	hayvandır.	Bir	hayvan	
+bilimci	olan	Zehra,	araştı rma	ekibiyle	birlikt e	
+nesli	tükenmekte	olan	Anadolu	parsının	taki-
+bini	yapmaktadır.	Zehra,	haritada	gösterilen	
+163	000	km²	lik	beyaz	renkli	bölgenin	tama-
+mında	araştırmasını	yürütmektedir.	
+	 İkili 	arama,	sıralanmı ş	bir	veri	seti	içinde	bir	ele-
+manın	bulunmasını	hızlı	bir	şekilde	gerçekleş-
+tirmek	için	kullanılan	bir	arama	algoritmasıdır.	
+Zehra,	parsın	izini	sürmek	için	ikili	arama	
+algoritmasını	kullanmayı	planlamaktadı r.	Her	
+adımda	araziyi	iki	eşit	parçaya	bölüp	sadece	
+bir	tarafında	parsın	olup	olmadığını	kontrol	
+edecektir.	Parsın	varlığının	tespit	edildiği	taraf	
+daha	sonra	yeniden	ikiye	bölünecek	ve	arama	
+alanı	1	km²	den	az	olduğunda	parsın	tespit	edil-
+diği	varsayılacaktır .	Zehra,	her	gün	sadece	bir	
+alanı	kontrol	edecektir.	
+Aşağıda	bu	iş	için	kullanılan	algoritmanın	işle-
+yişi	algoritmik	doğal	dille	ifade	edilmiştir.
+1. adım:	Başla.	
+2. adım: Alanın ikiye bölünmesi
+	 	 Kullanıcıdan 	bölgenin	alanını	al.	
+3. adım: İlk yarının kontrol edilmesi
+	 	 İlk 	yarıyı	kontrol	et,	pars	buraday-
+sa	bu	bölgeyi	detaylı	incele;
+	 	 değilse 	diğer	yarıya	geç.	
+4. adım: İncelenen alanın büyüklüğünün 
+kontrolü 
+	 	 İncelenen 	alan	1	km2 den	küçükse	
+parsın	tespit	edildiğini	varsay,
+	 	 değilse 	2.	adıma	dön.
+5. adım:	Bitir.	
+Algoritmik Doğal Dil
+Buna göre algoritmik doğal dille gösterilen 
+ikili arama algoritmasının işleyişini akış 
+şeması ve sözde kodla ifade ediniz.
+ 
+Akış Şeması
+Sözde Kod
+ Alıştırmalar
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

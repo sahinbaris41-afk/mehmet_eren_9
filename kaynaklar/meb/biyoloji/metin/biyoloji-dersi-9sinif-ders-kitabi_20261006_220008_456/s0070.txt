@@ -1,0 +1,62 @@
+70
+1. Tema
+DNA'da azotlu organik baz olarak A, T, G, C bulunurken RNA'da A, C, G ve U bazları 
+bulunur. DNA genellikle çift iplikli sarmal bir yapı oluştururken RNA tek iplikli bir 
+yapıya sahiptir (Görsel 1.58). DNA ve RNA fonksiyonları açısından karşılaştırıldığın-
+da DNA’nın genetik bilginin uzun süreli depolanmasında ve aktarılmasında görevli 
+olduğu, RNA’nın ise protein sentezi gibi süreçlerde aracı olarak görev yaptığı gö -
+rülmektedir.
+DNA’nın çift sarmal yapısında her iki iplikte karşılıklı gelen nükleotitlerin bazları 
+arasında hidrojen (H) bağları kurulur. İki iplik arasındaki eşleşmeler DNA’nın sarmal 
+yapısının oluşmasında ve bütünlüğünün korunmasında görevlidir. Bir zincirdeki 
+A bazı daima karşı zincirdeki T bazı ile, G bazı ise C bazı ile eşleşir. Dolayısıyla her 
+zaman bir pürin bazının karşısına bir tane pirimidin bazı gelir. Bu kural komple-
+menter baz eşleşmesi olarak adlandırılır. Çift sarmal DNA'daki A bazlarının sayısı 
+T bazlarının sayısına, G bazlarının sayısı ise her zaman C bazlarının sayısına eşittir. 
+Dolayısıyla çift sarmal yapısında DNA'daki toplam pürin sayısı (A + G), toplam piri-
+midin sayısına (C + T) eşittir. Ayrıca DNA çift sarmalının yapısında A ve T arasında ikili 
+hidrojen bağı, G ve C arasında ise üçlü hidrojen bağı bulunur (Görsel 1.59).
+T/i.dotm/i.dotn
+Sadece DNA
+yapısında
+bulunur.
+Baz
+eşleşmeler/i.dot
+Ç/i.dotft sarmal
+yapı
+Şeker-fosfat
+omurgası
+Şeker-fosfat
+omurgası
+DNA RNAAden/i.dotn
+DNA ve RNA
+yapısında
+bulunur.
+Guan/i.dotn
+S/i.dottoz/i.dotn
+Aden/i.dotn
+DNA ve RNA
+yapısında
+bulunur.
+Guan/i.dotn
+S/i.dottoz/i.dotn
+Sadece RNA
+yapısında
+bulunur.
+Uras/i.dotl
+Hidrojen
+bağları
+Adenin
+Adenin
+Guanin
+Guanin
+Sitozin
+Sitozin
+Timin
+Timin
+Görsel 1.58
+DNA ve RNA arasındaki yapısal 
+farklılıklar 
+Görsel 1.59
+DNA yapısında görülen baz 
+eşleşmeleri ve hidrojen bağları

@@ -1,0 +1,89 @@
+47
+4. Tema / Eşlik ve Benzerlik
+A.A.	benzerliğinden	ABE ADG+&& 	ve	
+AD
+AB
+DG
+BE
+= 	olmalıdır.	 AB x= 	alınırsa	
+x
+x xm1300 2815 1500&+ == 	bulunur.
+b) A.A.	benzerliğinden	ABE ACF+&& 	ve	
+AC
+AB
+CF
+BE
+= 	olmalıdır.	 CF y= 	alınırsa	 y ym23001500 15 23&==  
+bulunur.
+11. ÖRNEK
+Şekilde	 birim	 kareli	 zemin	 üzerinde	 AC7A 	 ile	 gösterilen	 bir	 yürüyüş	 yolu	 ve-
+rilmiştir.	A	 ve	 B	 noktalarında	 bulunan	 iki	 hareketli,	 aynı	 anda	 ve	 aynı	 yöne	
+doğru	sabit	hızlarla	harekete	başlıyor.	Hızlı	olan	hareketli,	yavaş	olanı	C	nok-
+tasında	yakalıyor.	Buna	göre	hareketlilerin	hızlarının	oranını	bulunuz.	
+Çözüm
+DC7 A 	ve	 AE7A 	çizilip	D	ile	E	noktaları	birleştirilirse	 DC , birim 2=  AE birim 3=  
+olur.	 DC AE'77 AA 	olduğu	için	iç	ters	açılardan	 EAC ACDmm =`` j j%% 	ve	
+CDB AEBmm =`` jj%% 	olur.	O	hâlde	A.A.	benzerliğinden	CDB AEB+&& 	bulunur.
+AE
+DC
+AB
+BC
+AB
+BC
+.olur32&==  BC , k birim 2=  AB k birim 3= 	alınırsa	t	süre-
+de	A	 noktasından	 yola	 çıkan	 hareketli	 5k	 birim,	 B	 noktasından	 yola	 çıkan 
+hareketli	2k	birim	yol	alır.	
+Yol hz zaman ı$= 	olduğundan	
+Vkt5 1 $=
+Vkt2 2 $= 	eşitlikleri	taraf	tarafa	bölünürse	hareketlilerin	hızlarının	oranı	 V
+V
+2
+5
+2
+1
+= 	bulunur.
+C
+A
+B
+C
+A
+B
+D
+E
+10. ÖRNEK
+Yandaki	şekilde	ABC	ve	EDC	bir	dik	üçgen,	 ABCm9 0o=`j% ,	 ECDm9 0o=`j% ,	
+DEAC =77 AA ,	 EC cm 7= ,	 AB cm 6= 	ve	 FC cm 2= 	olduğuna	göre	 AF  nun	
+kaç	cm	olduğunu	bulunuz.	
+Çözüm
+ CAB m x=`j% 	ve	 ABCmy =`j% 	alınırsa	ABC	üçgeninin	iç	açıl arının	ölçüleri	
+toplamından	xy ve xy90 1809 0oo o++ =+ =  bulunur.	FDC,	EDC	ve	EFC	
+üçgenlerinin	iç	açılarının	ölçüleri	toplamından	 FDC m x=`j% ,	 DCE m y=`j%  
+ve	 ECFmx =`j% 	olur.	Şekildeki	üçgenlerin	iç	açıları	eş	olduğundan	tüm	
+üçgenler	birbirine	benzerdir	(A.A.).	Buradan	 CBA+EFC&& 	olduğu	için	
+AB
+FC
+AC
+EC
+AC
+AC cm627 21&&== = 	elde	edilir	ve	 AF cm21 21 9=- = 	bulunur.
+A
+B
+6
+CD
+E
+F
+2
+7
+A
+x
+B
+6
+CD
+E
+F
+2
+x
+y
+y
+7
+x

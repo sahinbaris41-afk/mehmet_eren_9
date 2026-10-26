@@ -1,0 +1,22 @@
+171
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: GEOMETRİK ŞEKİLLER
+Bu temada öğrencilerin çemberin elemanlarını (kesen, kiriş, teğet, çap ve yay) çözümleye-
+bilmeleri; çemberde açı, kiriş ve teğetin özelliklerine ilişkin çıkarım yapabilmeleri; bu özel-
+likleri ve dairenin alanını farklı problem durumlarında kullanabilmeleri amaçlanmaktadır.
+DERS SAATİ 26
+ALAN 
+BECERİLERİ MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.10. Çıkarım Yapma
+EĞİLİMLER E2.1. Empati, E2.2. Sorumluluk,  E3.6. Analitiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D3. Çalışkanlık, D13. Sağlıklı Yaşam, D14. Saygı, D16. Sorumluluk, D17. Tasarruf
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Fizik, Tıp, Ziraat
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma 

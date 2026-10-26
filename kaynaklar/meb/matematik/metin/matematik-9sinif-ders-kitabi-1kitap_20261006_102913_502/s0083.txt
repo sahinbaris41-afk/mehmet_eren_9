@@ -1,0 +1,54 @@
+83
+1. Tema/Ölçme ve Değerlendirme
+3.  A  ve B şehirlerinin mart ayında ölçülen sıcaklık 
+değerleriyle ilgili bilgiler aşağıda veriliyor. 
+•  A şehrinde aylık ortalama sıcaklık değeri 
+12 oC’tur ve herhangi bir anda ölçülen sı-
+caklık değeri ortalamadan en fazla 8 oC 
+sapma yapmaktadır. 
+•  B şehrinde aylık ortalama sıcaklık değeri 
+7 oC’tur. En düşük sıcaklık -2 oC, en yüksek 
+sıcaklık 16 oC olarak ölçülmüştür.
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		 A 	ve 	B 	şehirlerinde 	mart 	ayında 	ölçülebi-
+lecek	sıcaklık 	değerlerini 	mutlak 	d eğerli	
+eşitsizlik	ve 	gerçek 	sayı 	aralığı 	biçiminde 	
+gösteriniz.
+b)		Mart ayında ölçülen bir sıcaklık değerinin 
+hem A hem B şehrine ait olabileceği biliniyor. 
+	 Ölçülen 	 sıcaklığın 	 alabileceği 	 değerleri 	
+gerçek	sayı 	aralığı 	biçimind e, 	küme 	gös-
+terimiyle	ve	sayı	doğrusunda	gösteriniz.
+c)		Mart ayında ölçülen bir sıcaklık değerinin 
+A şehrine ait olup B şehrine ait olmadığı bi -
+liniyor.  
+	 Ölçülen 	 sıcaklığın 	 alabileceği 	 değerleri 	
+gerçek	sayı 	aralığı 	biçimind e, 	küme 	gös-
+terimiyle	ve	sayı	doğrusunda	gösteriniz.
+ç)		Mart ayında ölçülen bir sıcaklık değerinin 
+A veya B şehirlerine ait olduğu biliniyor. 
+	 Ölçülen 	 sıcaklığın 	 alabileceği 	 değerleri 	
+gerçek	sayı 	aralığı 	biçimind e, 	küme 	gös-
+terimiyle	ve	sayı	doğrusunda	gösteriniz.
+4.  Aşağıdaki tabloda resmî futbol müsabakaların-
+da kullanılacak topların standartlaşmış ölçüleri-
+nin hangi aralıklarda olması gerektiği verilmiştir.
+ 
+Ölçüm Alabileceği	Değer
+Çevre 
+Uzunluğu En az 68 cm, en fazla 70 cm
+Kütlesi En az 410 gr, en fazla 450 gr
+İç Basıncı 
+(Deniz 
+Seviyesinde)
+En az 0,6 atm, en fazla 1,1 atm
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		Topun	çevre 	uzunluğunu n 	kaç 	cm 	olabi-
+leceğini	 gösteren 	 aralığı 	 mutlak 	 değerli 	
+eşitsizlik	olarak	yazınız.
+b)		Topun	 kütlesinin 	 kaç 	 gr 	 olmayacağını 
+gösteren	aralığı 	mutlak 	değerli 	eşitsizlik 	
+olarak	yazınız.
+c)		 Topun 	iç 	basıncının 	kaç 	atm 	olabileceğini	
+gösteren	aralığı 	mutlak 	değerli 	eşitsizlik 	
+olarak	yazınız.

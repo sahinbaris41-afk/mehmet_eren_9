@@ -1,0 +1,23 @@
+24
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: MANTIKSAL ÇIKARIM
+Bu temada öğrencilerin mantıksal çıkarım gerektiren problemleri farklı stratejiler kullana-
+rak çözebilmeleri  amaçlanmaktadır.
+DERS SAATİ 20
+ALAN 
+BECERİLERİ MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER -
+EĞİLİMLER E1.1. Merak, E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme) , 
+SDB2.1. İletişim, SDB2.3. Sosyal Farkındalık, SDB3.2. Esneklik, SDB3.3. Sorumlu Karar 
+Verme
+Değerler D3. Çalışkanlık, D10. Mütevazılık, D14. Saygı
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB4. Görsel Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Kimya
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil 

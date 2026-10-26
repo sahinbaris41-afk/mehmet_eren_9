@@ -1,0 +1,58 @@
+154
+2. Tema /  Nicelikler ve Değişimler
+Çözüm
+a)   
+O
+y Hata miktarı (mm)
+f
+20
+40
+60
+80
+4020 60 80 100 120 x Rulmanın çap     uzunluğu (mm)
+   Üretilen bir rulmanın çap uzunluğu x mm olsun. 
+x, fonksiyonun bağımsız değişkeni olur. Hata mik-
+tarı, x  e bağlı olarak değiştiğinden fonksiyonun 
+bağımlı değişkenidir. x e bağlı hata miktarını veren 
+fonksiyonun kuralı fx x 60=-_i  olur.
+f fonksiyonunun grafik temsili yandaki şekilde 
+çizilir. 
+b)  • Üretilen bir rulmanın çap uzunluğunun istenilen ölçüde olması için hata miktarının en fazla 0,05 
+olması gerekmektedir. Uygun rulmanların çap uzunluğunun alabileceği değerler,
+• ,,fx x00 56 00 05&## -_i  eşitsizliğini sağlar.  
+• Çap uzunluğu , x 6000 52-  aralığını sağlayan değerler için de üretilen rulmanlar uygun ölçüde 
+değildir. 
+• Ölçüsü uygun olarak üretilen bir rulmanın çap uzunluğunun alabileceği en büyük ve en küçük de-
+ğerler için hata miktarı en fazladır. Böylece en büyük ve en küçük değerler için , x 6000 5-=  
+denklemini sağlayan değerler bulunabilir.
+c) • , x 6000 5#-  eşitsizliğinin cebirsel çözümü için f fonksiyonu, parçalı gösterimli fonksiyon ola -
+rak yazılır.
+ 
+,
+,fx
+xx
+xx
+60 60
+60 60
+1
+$=
+-
+-_i *
+ Parçalı olarak yazılan cebirsel temsiller için ayrı ayrı eşitsi zlikler çözüldüğünde
+ ,, ,xx x60 00 56 00 05 59 95&&## #--
+ ,, ,.xxx bulunur60 00 50 05 60 60 05&&## #-+
+ İki eşitsizlik birlikte yazılarak x in alacağı değerlerin kümesi ,.,x r olu 60 0559 95 ##  Bulunan 
+çözüm kümesi 05,,95 60 , 597A  olarak da gösterilebilir.  
+[59,95 , 60,05] dışındaki değerler için rulmanların çap uzunluğunun uygun ölçüde olmadığı söylene-
+bilir. Buradan , x 6000 52-  eşitsizliğinin çözüm kümesi 05 , , 95R - 60 , 597A  olur. 
+• Ölçüsü uygun olarak üretilen bir rulmanın çap uzunluğunun alacağı en büyük değer ve en küçük 
+değer için , x 6000 5-=  denklemini çözmek için parçalı gösterimli fonksiyonun cebirsel temsilleri 
+sırasıyla 0,05’e eşitlendiğinde
+ ,, ,xx x60 00 56 00 05 59 95&&-= =- =  en küçük değer,
+ ,, ,xxx0 05 60 00 5560 60 0&&-= =+ =  en büyük değer olur.
+ç)  Mutlak değe rli denklem ve eşitsizliklerin cebirsel çözümleri grafik çözümleriyle doğrulanabilir. 
+• , x 6000 5#-  ve , x 6000 52-  grafik çözümü için matematik yazılımından faydalanılabilir. 
+Bunun için 
+i) Giriş bölümüne fx x 60=-_i  yazılıp Enter tuşuna basılır. 
+ii) Giriş bölümüne ,fx 00 5#_i  yazılıp Enter tuşuna basılır.
+iii) Giriş bölümüne ,fx 00 52_i  yazılıp Enter tuşuna basılır.

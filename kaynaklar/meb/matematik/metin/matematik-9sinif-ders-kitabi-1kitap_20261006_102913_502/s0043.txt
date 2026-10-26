@@ -1,0 +1,34 @@
+43
+1. Tema /  Sayılar
+Sözel İfade Aralık Gösterimi ve Aralık Adı Sayı Doğrusu Gösterimi
+Nehir’in boyu Leylaʼnın bo -
+yundan uzun, Ersin’in boyuna 
+eşit veya Ersin’in boyundan 
+kısadır.
+Cebirsel Temsil x R!_i Küme Gösterimi
+Sözel İfade Aralık Gösterimi ve Aralık Adı Sayı Doğrusu Gösterimi
+Nehir’in boyu Leylaʼnın bo -
+yuna eşit veya Leylaʼnın bo -
+yundan uzun, Ersin’in boyuna 
+eşit veya Ersinʼ in boyundan 
+kısadır.
+Cebirsel Temsil x R!_i Küme Gösterimi
+a)  T abloda sözel olarak verilen ifadelerin cebirsel temsil, sayı  doğrusu, aralık ve küme gösterimleri arasındaki 
+benzerlik ve farklılıkları yazınız.
+b)  Farklı du rumlar için cebirsel temsil, sayı doğrusu, aralık ve küme gösterimi yöntemlerinden hangisinin 
+daha kullanışlı olduğunu belirleyerek gerekçelerinizi yazınız.
+15. ÖRNEK
+Aşağıda verilen gerçek yaşam durumlarını ifade eden gerçek sayı aralıklarını cebirsel temsil, sayı doğ-
+rusu, aralık ve küme gösterimi yöntemiyle gösteriniz.
+a)  Su 0   ℃’ta donup 100 ℃’ta buharlaştığına göre suyun sıvı ve katı hâlde olduğu sıcaklık değerlerinin 
+aralığı.
+b)  Lunaparktaki çarpışan arabalara binmek isteyen bir kişinin boyunun en az 90 cm, en fazla 130 cm ol -
+ması gerektiğine göre çarpışan arabalara binmek için gerekli boy aralığı.
+Çözüm 
+a)  Su, 0 ℃’tan büyük ve 100 ℃’tan küçük sıcaklık değerlerinde sıvı hâlde bulunur. Bu değerler, ce -
+birsel olarak x R!  olmak üzere x 1000 11  biçiminde ifade edilir. 0 ve 100 arasındaki gerçek 
+sayılar, sayı doğrusu üzerinde aşağıdaki gibi gösterilir. 0 ve 100 aralığa dâhil olmadığı için bu sayılar 
+sayı doğrusunda işaretlenmez.
+0 100
+ Aralık gösterimi ,,01 00_i  küme gösterimi ,Ax xx0 100 R11;!= #-  biçimindedir.
+ Su, 0  ℃ ve 0  ℃’tan daha düşük sıcaklık değerlerinde katı hâlde bulunur. Bu aralık, cebirsel olarak 

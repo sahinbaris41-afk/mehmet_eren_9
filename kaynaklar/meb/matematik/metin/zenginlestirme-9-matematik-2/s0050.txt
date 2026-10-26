@@ -1,0 +1,61 @@
+5.TEMA - ALGORITMA VE BILIŞIM
+1. Adım
+Kripto bilimde bir algoritmanın verimliliğini ve performansını ölç -
+meye yarayan zaman karmaşıklığı hesaplaması; harcanacak zaman 
+dışında bellek kullanımı, enerji tüketimi ve diğer kaynak kullanımla -
+rını da içerir. Algoritma ne kadar çok işlem yapıyorsa çalışma süresi 
+o kadar uzun olur. Bu süre genellikle işlem sayısına göre ölçülür. Za-
+man karmaşıklığı hesaplamaları yapılarak bir algoritmanın büyük veri 
+setleriyle ne kadar verimli çalıştığı ölçülebilir.
+İki pozitif tam sayının en büyük ortak bölenini (EBOB) bulmak için 
+kullanılan Öklid algoritmasının akış şeması yanda verilmiştir.
+Bilgi Başla
+Hayır
+Evet
+Bitir
+İki sayıyı girdi
+olarak al
+Büyük sayıyı 
+küçük sayıya böl ve 
+kalanı hesapla
+Küçük sayı EBOB 
+değeridir ve sonlandır
+Küçük sayıyı 
+büyük sayı, kalanı 
+küçük sayı yap
+Kalan 0 mı?
+Sınıfınızda öğretmen rehberliğinde en az 4 grup oluşturunuz. Yu-
+karıdaki bilgi notunu inceledikten sonra (56,98), (2 8,27), (34,21) sayı 
+çiftlerinin en büyük ortak bölen değerlerini Öklid algoritması ile he -
+saplayınız. Akış şemasında oluşan öz yinelemeli hareketler nedeniyle 
+işlemciye yük olarak ortaya çıkan puanlamalı zaman karmaşıklık de -
+ğerlerini bulunuz. Bunun için kullanabileceğiniz hesaplama tablosu 
+aşağıda verilmiştir.
+Çözüm:
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+	𝑍𝑍𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+𝐾𝐾𝑃𝑃𝐾𝐾𝑃𝑃𝑃𝑃𝐾𝑃𝑃𝐾𝐾𝑃𝑃𝑃𝑃𝐾𝑃𝑃
+= 																			𝑇𝑇𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜			𝑃𝑃𝑃𝑃𝑜𝑜𝑃𝑃
+1 Puan
+1 Puan
+1 Puan 10 Puan 10 Puan
+Etkinliğin Amacı
+Öklid algoritması ve öz yinelemeli algoritmaların işleyişini anlayabilme, bu 
+algoritmaları kullanarak problem çözebilme ve algoritmaların verimliliğini 
+değerlendirebilme.
+Zenginleştirme 
+Uygulaması
+* Verilen iki sayının en büyük ortak bölenini bulma amacıyla bir algoritma 
+oluşturma görevinden hareketle Öklid algoritmasının incelendiği çalışmala -
+ra yer verilir. Öz yinelemeli (rekürsif) algoritma örnekleri Öklid algoritması ile 
+ilişkilendirilerek öğrencilerden benzer örneklerin araştırılması istenir.
+Araç Gereç ve 
+Materyaller • Çalışma Kâğıtları
+Yönerge
+Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz. Etkinlik 
+sonunda “Değerlendirme” sorularını cevaplayarak "Grup Çalışması Becerileri 
+Ölçeği"ni doldurunuz.
+1. ETKINLIK Öklid Algoritması
+Yıldızlı  Etkinlik 
+5.TEMA - ALGORITMA VE BILIŞIM
+49

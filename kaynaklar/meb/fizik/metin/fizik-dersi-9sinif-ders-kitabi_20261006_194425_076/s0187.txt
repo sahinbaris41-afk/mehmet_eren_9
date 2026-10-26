@@ -1,0 +1,49 @@
+187
+AKIŞKANLAR
+10. Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki 
+ilişki ile ilgili aşağıda verilen tabloyu doldurunuz.
+Akışkanın Sürati Akışkanın Boru Çeperlerine Y aptığı Basınç
+Akışkanın geçtiği borunun kesit alanı artarsa
+Akışkanın geçtiği borunun kesit alanı azalırsa
+11. Akışkanların sürati ile basıncı arasındaki ilişkiyi açıklayan Bernoulli (Bernulli) İlkesi’ne yönelik öğretme­
+ninizin verdiği örnekleri ve dijital içerikleri (havaya kaldırma, havalanmasını engelleme, yön değiştirme 
+vb.) dikkate alarak bu örnek ve dijital içeriklerin ortak olan ve olmayan özelliklerini belirleyiniz.
+12. Örneklerdeki olay, durum veya uygulamaların ortak olan ve olmayan yönleri ile ilgili öğretmeninizin 
+yaptığı açıklamaları dikkate alarak ve grup arkadaşlarınızın bakış açılarını da değerlendirerek aşağıdaki 
+tabloda uygun alanı işaretleyiniz.
+Havaya 
+Kaldırma
+Havalanmasını 
+Engelleme
+Yön 
+Değiştirme
+Fırtınalı havalarda çatıların uçması
+Sprey püskürtücüler
+Hızla hareket eden araçların yakınındaki 
+nesneleri çekmesi
+Y elkenli teknelerde kullanılan yelken 
+Y arış arabalarının arka kanatları
+13. Akışkanın sürati ile basıncı arasındaki ilişki ve bu ilişkinin kullanım amacına yönelik aşağıdaki cümlelerde 
+yer alan boşlukları doldurunuz. 
+ ► Fırtınalı Havalarda Çatıların Uçması: Evin çatısı üzerinden esen rüzgâr, çatı üzerindeki havanın süra­
+tini ………………. Bu durum, çatıya etki eden hava basıncını ………………. Açık havanın çatı yüze­
+yinde oluşturduğu dış basınç evin içindeki hava basıncından ……………… olduğu için çatı uçabilir.
+ ► Sprey Püskürtücüler: Sprey püskürtücünün pompasına basıldığında içine doğru hava akışı sağlanır. İç 
+tarafta ilerleyen havanın dar alandan geçerken basıncı ………………. Püskürtücünün içinde bulunan 
+sprey yukarı doğru hareket ederek çıkışa doğru gider ve sprey dışarıya dağılır.
+ ► Hızla Hareket Eden Araçların Y akınındaki Nesneleri Çekmesi: Yüksek süratle birbirine doğru 
+hareket eden iki uzun araç yan yana geldiğinde araçların arasında kalan hava molekülleri sıkışır ve bu 
+moleküllerin sürati ………………. Bu durum, araçların arasındaki hava basıncının ……………… 
+neden olur. Açık hava basıncı, araçların arasında kalan havanın basıncından ……………… olduğu için 
+araçlar birbirine doğru çekilir.
+ ► Y elkenli Teknelerde Kullanılan Y elken: Rüzgârın sürati arttıkça yelkene uygulanan hava basıncı 
+………………. Y elkenin diğer tarafındaki hava basıncı daha ……………… olduğundan yelkenlinin 
+ilerlemesine yardımcı olur.
+ ► Y arış Arabalarının Arka Kanatları: Yüksek süratle hareket eden kara araçlarının yol tutuş kabili­
+yetini artırmak için ters çevrilmiş uçak kanadına benzeyen rüzgârlıklar kullanılır. Bu rüzgârlıklar 
+hava moleküllerinin süratini ……………… ve bu sayede alt taraftan arabaya etki eden hava basıncı 
+………………. Rüzgârlıkların üst kısmına etki eden açık hava basıncı daha ……………… olduğu için 
+araba süratle giderken havalanmaz. 
+14. Uçakların havalanması ve uçmasında yalnızca Bernoulli İlkesi’nin etkili olmadığına ilişkin öğretmeninizin 
+açıklamalarını dikkatlice dinleyiniz. Bernoulli İlkesi’nin dışında etkili olan durumları kısaca yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       

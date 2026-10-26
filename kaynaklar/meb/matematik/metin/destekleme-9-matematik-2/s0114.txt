@@ -1,0 +1,32 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+113
+7. TEMA: VERİDEN OLASILIĞA
+5 defa
+Çıktılar Sıklık Göreli Sıklık
+Yeşil
+Mavi
+Kırmızı
+10 defa
+Çıktılar Sıklık Göreli Sıklık
+Yeşil
+Mavi
+Kırmızı
+20 defa
+Çıktılar Sıklık Göreli Sıklık
+Yeşil
+Mavi
+Kırmızı
+50 defa
+Çıktılar Sıklık Göreli Sıklık
+Yeşil
+Mavi
+Kırmızı
+3. Adım
+Tablolardaki bilgilere göre tekrar sayısının artmasıyla göreli sıklıkların değişimini inceleyiniz. Sizce 
+tekrar sayısı 100 olursa göreli sıklıklar nasıl değişir? Açıklayınız.
+Çözüm:
+4. Adım
+Çark deneyinin sonuçlarına yönelik 1. adımda yaptığınız tahmin ile tablolardaki göreli sıklıklıkları kar -
+şılaştırınız. 
+Çözüm:
+ ► Çalışmadaki çıktıları kullanarak aşağıdaki sıklık tablolarını doldurunuz ve göreli sıklıkları yazınız. 

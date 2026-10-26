@@ -1,0 +1,32 @@
+128
+2. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+ç)  Ali ve Kadir’in tabloda verilen hareket sürelerinde ortalama sürat ve ortalama hız 
+büyüklükleriyle ilgili
+I. Ortalama süratleri eşittir.
+II. Ortalama hızları eşittir.
+III. Ali’nin ortalama hızının büyüklüğü Kadir’inkinden büyüktür.
+yargılarından hangileri doğrudur?
+A) Yalnız I B) Yalnız II C) Yalnız III D) I ve II E) I ve III
+d) Hareketin temel kavramlarına ilişkin aşağıda verilen genellemelerden doğru olanları 
+genellemelerin başındaki yay ayracın içine “X” yazarak belirtiniz.
+(   ) Aynı yolda yer değiştirme için geçen süre arttıkça hız azalır.
+(   ) Aynı süre içinde alınan yol arttıkça sürat azalır.
+(   ) Hızın alabileceği en büyük değer süratin değerine eşittir.
+(   ) Referans noktası, konum vektörünün büyüklüğünü belirler.
+(   ) Bir hareketlinin başlangıç ve bitiş konumları arasındaki ortalama hızı ile ortalama sürati 
+birbirine eşit ise alınan yol ve yer değiştirme büyüklükleri de eşittir.
+(   ) Hareket boyunca hız değişmiyorsa ivme sıfır olur.
+12. Fizik öğretmeni, sınıfını dört gruba ayırarak her gruba doğadaki temel kuvvetlerden birini araştırma 
+görevi veriyor. Gruplar; kütle çekim kuvveti, elektromanyetik kuvvet, güçlü nükleer kuvvet ve zayıf 
+nükleer kuvvet hakkında elde ettikleri verileri diğer gruplarla paylaşıyor.
+Aşağıda her bir grup tarafından elde edilen sonuçlar verilmiştir.
+Grup Etki Uzaklığı Kuvvetin Özelliği
+1 Etki mesafesinin sonsuz olduğu kabul edilir. İki cismin birbirine uyguladığı kuvvettir.
+2 Sınırsız, uzak mesafelerde de etkilidir. Elektrik yüklü cisimlerin birbirine uyguladığı kuvvettir.
+3 Etki alanı atom çekirdeği boyutlarındadır. Atom çekirdeğinde bulunan proton ve nötronları bir arada tutan kuvvettir.
+4 Etki mesafesi atom çekirdeği ile sınırlıdır. Atom çekirdeğinin kararsız olmasına neden olan kuvvettir.
+Bu sonuçları inceleyerek hangi grubun doğadaki hangi temel kuvveti incelediğini belirleyiniz.
+1. grubun inceleme konusu olan kuvvet:  
+2. grubun inceleme konusu olan kuvvet:  
+3. grubun inceleme konusu olan kuvvet:  
+4. grubun inceleme konusu olan kuvvet:  

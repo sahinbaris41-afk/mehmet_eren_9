@@ -1,0 +1,28 @@
+186
+2. Tema/Çeşitlilik
+Otomotiv mühendisleri otomobil ve motosiklet gibi araçların motor parçala -
+rındaki aşınmayı önlemek için kullanılan motor yağının belirli aralıklarla de-
+ğiştirilmesini tavsiye eder. Motor parçalarında meydana gelen aşınmanın en 
+önemli nedenlerinden biri, temas hâlindeki hareketli parçalar arasında oluşan 
+sürtünmedir. Kullanılan motor yağı; sürtünme, aşınma ve sıcaklık artışı gibi 
+istenmeyen durumları önler ve motorun performansını artırır. Bu bakımdan 
+araç için uygun motor yağını seçmek önemlidir. Motor yağı seçilirken dikkat 
+edilmesi gereken hususlardan biri motor yağının akışkanlığı veya viskozitesi-
+dir. Halk arasında kalın yağ olarak ifade edilen viskozitesi yüksek motor yağı-
+nın akışkanlığı azdır ve bu durum yağın motor parçalarına iletilmesini zorlaş-
+tırır. İnce yağların ise viskozitesi düşük, akışkanlığı fazladır. Bu durumda ise 
+motor parçaları istenen oranda yağlanmaz ve kuru kalan yüzeylerde aşınma -
+lar meydana gelir. Bu nedenle ideal viskozite aralığına sahip motor yağı tercih 
+edilmelidir. 1950’lerden önce motor yağı seçiminde, yaşanan bölgenin iklim 
+koşulları da dikkate alınıyordu ve bunun için genellikle yaz ve kış aylarında 
+farklı motor yağı kullanılması tavsiye ediliyordu. Günümüzde ise çok dereceli 
+yağların ortaya çıkışı birçok iklimde tüm yıl boyunca aynı yağın kullanılması-
+na olanak tanımaktadır. Örneğin 10W-40 yağı gibi çok dereceli yağlar, düşük 
+sıcaklıklarda kıvrılan ancak yüksek sıcaklıklarda çözülen polimerler (polimetil 
+metakrilat vb.) içerir. Bu polimerler sayesinde motor yağı geniş bir sıcaklık 
+aralığında verimli bir şekilde kullanılabilir.
+1. Sıvıların akışkanlığı veya viskozitesi; bilim insanlarının, mühendisle-
+rin hatta doktorların sıklıkla ölçmeye ve değiştirmeye çalıştığı sıvıların 
+önemli özellikleridir. Sıvıların akışkanlığı veya viskozitesinin önemiyle 
+ilgili olarak günlük yaşamdan (otomotiv sektörü vb.) örnekler veriniz. 
+Konuya Başlarken

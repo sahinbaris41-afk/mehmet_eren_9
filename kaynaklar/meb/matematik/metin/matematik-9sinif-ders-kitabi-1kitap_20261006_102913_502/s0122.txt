@@ -1,0 +1,25 @@
+122
+2. Tema /  Nicelikler ve Değişimler
+e)  f ve g fonksiyonlarının cebirsel ve grafiksel benzerliklerini, f arklılıklarını gözlemleyiniz.
+f)  Gözlemlerin izden yola çıkarak g fonksiyonunun nitel özelliklerini tespit ediniz ve Tablo 2ʼyi doldurunuz.
+ Tablo 2
+Fonksiyonun Nitel Özellikleri f(x) = x g(x) = | x |
+En Geniş Tanım Kümesi 
+Görüntü Kümesi
+Fonksiyonun Sıfırı
+Fonksiyonun İşareti
+Maksimum Noktası
+Minimum Noktası
+Bire Birliği
+Artan veya Azalan Olduğu Aralıklar
+g)  Elde ettiğiniz nitel özelliklerden yararlanarak g mutlak değer fonksiyonunun parçalı gösterimine dair çıka rım-
+larınızı açıklayınız.
+3. g: R"R, g(x) = | x  | şeklinde tanımlı fonksiyonda mutlak değerin katsayısı değişti rilerek gerçek sayılarda 
+ h(x) = -|x| şeklinde tanımlı mutlak değer fonksiyonu oluşturuluyor. h fonksiyonuna göre  
+a)  Bağımsız değ işkenin hangi değeri için bağımlı değişkenin sıfıra eşit olduğunu bulunuz.
+b)  Bağımsız değişkenin hangi aralıktaki değerleri için bağımlı değişkenin aldığı değerlerin negatif veya pozitif oldu -
+ğunu bulunuz.
+c)  Bağımlı değişkenin alabileceği en büyük veya en küçük değerin k aç olduğunu bulunuz.
+ç)  Bağımsız değişkenin aldığı değerler artarken h fonksiyonunun al dığı değerlerin nasıl değiştiğini belirleyiniz.
+d)  Bağımsız değişkenin aldığı iki farklı değer için h fonksiyonunun aldığı değerler birbirinden farklı mıdır? 
+Bu durumun bağımsız değişkenin alabileceği tüm değerler için geçerli olup olmadığını açıklayınız.

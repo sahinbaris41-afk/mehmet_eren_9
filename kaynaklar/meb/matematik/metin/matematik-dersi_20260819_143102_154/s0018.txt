@@ -1,0 +1,51 @@
+18
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Değişimleri fonksiyonlar aracılığıyla incelemenin en etkili matematiksel yöntem ve araçlarını oluşturan limit ve türev 
+kavramları ile bu kavramların uygulamalarına 12. sınıfta Değişimin Matematiği teması altında yer verilmiştir. Programda 
+hâlihazırda oldukça sınırlı ve işlem odaklı şekilde sunulan integral kavramına yer verilmemiş, limit ve türev kavramları daha 
+kapsamlı şekilde ele alınmıştır. Limitin türevin temelini oluşturmasının yanı sıra  bir fonksiyonun belirli bir nokta civarındaki 
+veya sonsuzdaki davranışını inceleme aracı olması boyutuna da yer verilmiştir. Türevde ise mevcut içeriklere ek olarak 
+değişimleri anlamlandırmakta ve türevin uygulamalarında önemli bir rolü olduğu düşünülen diferansiyel kavramına, ortalama 
+değer teoremi ve Rolle teoremine yer verilmiştir. Türevle ilgili yorum ve çıkarımlara problem çözme odaklı bir yaklaşımla yer 
+verilmiştir.   
+Gerek Sayılar teması gerek Nicelikler ve Değişimler teması gerekse Değişimin Matematiği teması, matematiksel dil ve 
+sembolizm ile mantık bağlaçlarının ve niceleyicilerin etkin bir şekilde kullanımını destekleyecek şekilde planlanmıştır. Mantık 
+ve kümeler bağlamında kullanılan temel kavram ve işlemlere, matematiğin yalın, tutarlı ve ihtimamlı dilini ve yöntemlerini 
+yansıtacak şekilde bu temalar içindeki çalışmalarda yer verilmiştir. Tüm programda fonksiyonlarla ilgili çalışmalar gerçek 
+sayılarda tanımlı fonksiyonlarla sınırlı olduğundan küme sembol ve işlemleri bu amaca en iyi hizmet edecek şekilde gerçek sayı 
+aralıkları bağlamında ele alınmıştır. Küme sembol ve işlemlerinin öncelikle gerçek sayılarda veya bir alt kümesinde tanımlı 
+fonksiyonlar, ardından Değişimin Matematiği teması altında limit ve türev kavramlarını içeren çalışmalarda öğrenciler tarafından 
+anlamlı ve etkili bir şekilde kullanılması amaçlanmıştır. Benzer şekilde ayrı bir temada verilmesi yerine mantık bağlaçları ve 
+niceleyicilerin sayılar ve fonksiyonlarla ilgili çalışmalarda anlam kazanması amaçlanmıştır. 9. sınıftan başlamak üzere sayılarla 
+ilgili temel önermelerin ifade edilmesi ve ispatlanmasının yanı sıra fonksiyonların nitel özelliklerinin cebirsel olarak belirlenip 
+ispatlanmasında mantık bağlaçları ve niceleyicilerin anlamlı ve etkili şekilde kullanımına büyük önem verilmiştir. Kümelerle 
+ilgili işlemlerin yanı sıra mantık bağlaçları ve niceleyicilerin bu şekilde matematiksel dil ve sembolizm içindeki yeri ve öneminin 
+fark edilip etkin şekilde kullanımı ile öğrencilerin matematiksel doğrulama veya ispat yapma becerilerinin aşamalı şekilde 
+gelişiminin sağlanması amaçlanmıştır. Programda ispat yöntemlerinin öğretilmesi yerine öğrencilerin matematiksel ispat 
+yapmayı kendilerine sunulacak uygun öğrenme fırsatları aracılığıyla deneyimlemeleri yaklaşımı esas alınmıştır. Bu bağlamda 
+programın genelinde ispat yöntemi olarak doğrudan ispat ve aksine örnek verme yöntemlerinin kullanımına özellikle işaret 
+edilmiştir.
+Programda sayılar, cebir ve fonksiyonlarla yakından ilişkili diğer temalar 9. sınıf Algoritma ve Bilişim teması ile 10. sınıf Sayma, 
+Algoritma ve Bilişim temasıdır. Bu temalar altında yer verilen çalışmalar, Ortaokul Matematik Dersi Öğretim Programı’nın 
+algoritma ile ilgili öğrenme çıktılarının bir devamı niteliğindedir. Programda algoritmik düşünmenin matematiksel düşünme 
+ile ilişkisinden hareketle matematiksel muhakeme, matematiksel temsil, matematiksel problem çözme ve matematiksel 
+araç ve teknoloji ile çalışma becerileri bağlamında öğrencilerin algoritmik düşünmeden etkin bir şekilde yararlanabilmeleri 
+amaçlanmaktadır. Algoritmik bir dil ve yaklaşımla matematiksel problem çözme becerisinin odağında hazırlanan bu 
+temalarda, 9. sınıfta öğrencilerin algoritmik yapılar içindeki mantık bağlaçlarını ve niceleyicileri çözümleyebilmeleri, bunların 
+kullanımına yönelik edindikleri deneyimleri farklı matematiksel görev ve problemlere yansıtabilmeleri amaçlanmaktadır. 
+Böylelikle programın mantık bağlaçları ve niceleyicilerin kullanımına bu sınıf seviyesinde verdiği önem, algoritmik düşünmenin 
+matematiksel bağlamlardaki kullanımı ile  güçlendirilmekte ve öğrencilerin mantık bağlaçları ve niceleyicilerin kullanımı ile 
+ilgili bilgi, beceri ve eğilimleri desteklenmektedir. 10. sınıfta ise faktöriyel, sıralama, seçme gibi sayma kavramları algoritma 
+ile ilişkilendirilerek sunulmaktadır. Ayrıca temada cebirsel ve fonksiyonel işlemlerin algoritma diliyle ifade edilmesine yer 
+verilmiştir. Böylece cebirsel dilin fonksiyonlarla yapılan işlemlerde anlamlı ve tutarlı bir biçimde kullanılması desteklenmiştir.
+1.5.2.2. “Geometrik Şekiller”, “Eşlik ve Benzerlik”, “Geometrik Cisimler”, “Analitik İnceleme” Temaları 
+Geometrik Şekiller  teması ortaöğretimin tüm seviyelerinde yer almaktadır. Bu temada 9. sınıf seviyesinde üçgende 
+temel elemanlar (açı, kenar), üçgen eşitsizliği; 10. sınıf seviyesinde üçgende yardımcı elemanlar (iç açıortay, dış açıortay, 
+yükseklik, kenarortay, kenar orta dikme), iç teğet çember ve dış teğet çember, çevrel çember, trigonometrik oranlar, 
+sinüs ve kosinüs teoremleri; 11. sınıf seviyesinde çokgenler (içbükey ve dışbükey çokgen, düzgün çokgen), dörtgenler 
+(dörtgen çeşitleri) ve bunların özellikleri (kenar, açı, köşegen, simetri, alan), kenar, açı, köşegen ve simetri özelliklerinden 
+hareketle özel dörtgenlerin aralarındaki ilişkiler; 12. sınıf seviyesinde çember ve çemberle ilişkili elemanlar (kesen, kiriş, 
+teğet, çap ve yay) incelenmiştir. Bu tema bağlamında ilkokulda çözümleme ve yorumlama becerilerine ortaokulda ise 
+daha çok yorumlama ve çıkarım yapma becerilerine odaklanılmıştır. Bu programda öğrencilerin önceki seviyelerde 
+edindikleri geometrik şekil bilgileri formal biçimde ele alınarak daha çok matematiksel doğrulama veya ispat yapma 
+becerileri öne çıkarılmıştır. Geometrik Şekiller teması matematiksel muhakeme ve matematiksel problem çözme alan 

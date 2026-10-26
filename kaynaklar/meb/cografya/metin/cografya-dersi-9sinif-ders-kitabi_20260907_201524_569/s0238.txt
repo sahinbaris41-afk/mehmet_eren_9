@@ -1,0 +1,66 @@
+238
+44°
+44°
+42°
+42°
+40°
+40°
+38°
+38°
+36°
+36°
+34°
+34°
+32°
+32°
+30°
+30°
+28°
+28°26°
+40°
+40°
+38°
+38°
+36°
+36°
+DİLSİZ TÜRKİYE  FİZİKİ HARİTASI
+www.harita.gov.tr
+DATUM : WGS 1984
+PROJEKSİYON : Lambert Konformal Konik
+YÜKSEKL İK / DER İNLİK
+RENK KADEMELER İ
+(Metre)
+-
+-4000
+-3000
+-2000
+-1000
+3500
+400
+700
+2500
+1000
+1500
+2000
+-500
+-300
+0
+200
++
+DERE, NEHİR, ÇAY
+GÖL, BARAJ GÖLÜ
+GEÇİCİ GÖL
+ÖZEL İŞARETLER
+ÜLKE SINIRI
+-ÖNEMLİ NEHİRDEN GEÇEN
+-NEHİRDEN GEÇEN
+-ÖZERK BÖLGE
+ÖLÇEK 1 : 4 300 000
+0 50 100 150 20025
+Km.
+©  2023 MSB HAR İTA GENEL MÜDÜRLÜ ĞÜ
+Her  hakk ı sakl ıdır.
+Harita Genel Müdürlü ğünün yaz ılı izni al ınmadan, bu ürünün tamam ı veya bir k ısmı çoğaltılamaz, 
+yayımlanamaz ve altl ık olarak kullan ılıp yeni bir ürün üretilemez.
+NOT:  Bu haritadaki devlet hudutlar ı, yurt d ışındaki co ğrafi adlar ve detaylar standart do ğrulukta
+olmayabilir ve resmi nitelik ta şımamaktad ır.

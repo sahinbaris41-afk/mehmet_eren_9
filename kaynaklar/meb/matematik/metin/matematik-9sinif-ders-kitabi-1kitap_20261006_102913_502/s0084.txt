@@ -1,0 +1,48 @@
+84
+1. Tema/Ölçme ve Değerlendirme
+5.  Evinde organik reçel yapan Zeynep Hanım, ev 
+bütçesine katkı sağlamak için bu reçellerin satı-
+şını yapmak istemektedir. Bunun için piyasada 
+satılan reçellerin 1 kilogramının fiyatlarını araş-
+tırmış ve tablodaki değerlere ulaşmıştır.
+Reçel	Fiyatları	(TL)
+184 145 220 175
+130 155 134  225 
+ Zeynep Hanım, belirleyeceği fiyatın araştırdığı 
+fiyatların ortalamasından en fazla 20 Türk lirası 
+sapmasını istemektedir.
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		Zeynep	 Hanım’ın 	 satışını 	 yapacağı 	 1 	 kg 	
+reçel	 fiyatının	 alacağı 	 değerleri 	 mutlak 	
+değerli	eşitsizlik	kullanarak	gösteriniz.
+b)		Zeynep	 Hanım’ın 	 satışını 	 yapacağı 	 1 	 kg 	
+reçel	fiyatının 	alabileceği 	en	büyük	değer	
+ile	en	küçük	değeri	bulunuz.
+c)		Zeynep	 Hanım’ın 	 satışını 	 yapacağı 	 1 	 kg 	
+reçel	 fiyatının	 alabileceği 	 değerleri 	 sayı 	
+doğrusu	üzerinde	gösteriniz.
+ç)		 Tablodaki 	fiyatlardan 	hangilerinin 	Zeynep	
+Hanım’ın	 belirlediği 	 fiyat 	 aralığına 	 dâhil	
+olduğunu	b ulunuz.
+6.  100 metre koşu yarışı gibi kısa mesafe yarış -
+larında sporcuların sıralamalarının daha has -
+sas bir şekilde yapılması için saniyenin ondalık 
+gösterimine ihtiyaç duyulur. 
+ 5 sporcunun katıldığı bir 100 metre koşu yarı -
+şının bitiminde sporcuların yarışı kaç saniyede 
+tamamladıklarını gösteren tablo aşağıda veril -
+miştir. Her bir sporcunun yarışı bitirme süresi 
+birbirinden farklıdır.
+Sporcu Yarışı	Bitirme	Süresi	(sn.)
+Ali 12,6a
+Bora 12,6b
+Cem 12,7c
+Deniz 12,7d
+Efe 12,7e
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		 Ali 	1. 	olduysa 	a 	ve 	b 	rakamlarını 	sıralayı-
+nız.
+b)		Bora	1. 	old uysa 	a 	nın 	hangi 	değeri 	alama-
+yacağını	bulunuz.
+c)		Cem	3. 	ve 	Efe 	5. 	olduysa 	c, 	d 	ve 	e 	rakam-
+larını	sıralayınız.

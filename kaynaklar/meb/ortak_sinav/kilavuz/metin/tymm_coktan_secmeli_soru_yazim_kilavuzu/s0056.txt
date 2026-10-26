@@ -1,0 +1,39 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+56
+3.3. BÜTÜNLEŞİK BECERİLER: SORGULAMA BECERİSİ ÖRNEĞİ
+TYMM öğretim programlarında yer alan yirmi bütünleşik beceri bulunmaktadır. Bütünleşik beceriler süreç 
+modellemesi yapılabilen eylemleri ifade eder.
+KB2.8. Sorgulama Becerisi
+TYMM kapsamında sorgulama becerisi; bir olay, konu veya duruma ilişkin farkındalık geliştirme, anlamlı 
+sorular sorma, bilgi edinme ve bunları değerlendirme sürecini ifade eder. Bu süreç; bir gerçeğe ulaşmak 
+amacıyla konunun tanımlanmasını, kanıtların toplanmasını, değerlendirilmesini ve nihayetinde çıkarım ya -
+pılmasını kapsar. 
+Sorgulama Becerisine İlişkin Süreç Bileşenleri
+Bir sorgulama sorusu veya soru seti aşağıdaki basamaklardan birini veya birkaçını ölçmelidir.
+Kod Süreç Bileşeni
+KB2.8.SB1 Merak ettiği konuyu tanımlamak
+KB2.8.SB2 İlgili konu hakkında sorular sormak
+KB2.8.SB3 İlgili konu hakkında bilgi toplamak
+KB2.8.SB4 Toplanan bilgilerin doğruluğunu değerlendirmek
+KB2.8.SB5 Toplanan bilgiler üzerinde çıkarım yapmak
+Merak Ettiği Konuyu Tanımlama:  Öğrenciye belirsizlik barındıran kapsamlı bir olay veya durum sunulabi -
+lir. Soruda öğrencinin bu durumu hangi sınırlarla incelemesi gerektiğini fark etmesi hedeflenmelidir. Odak 
+noktası “Bu olayda aydınlatılması gereken durum nedir?” veya “Bu çalışmanın kapsamı ne olmalıdır?” gibi 
+sorularla öğrencinin konunun sınırlarını belirleyebilmesi olabilir.
+İlgili Konu Hakkında Sorular Sorma:  Öğrenciye sunulan belirsizlik içeren durumda netliği sağlamak adına 
+“Bu durumu açıklamak için hangi soru sorulmalıdır?” veya “Hangi soru bizi sorguladığımız duruma bir adım 
+daha yaklaştırır?” gibi sorularla öğrencinin bilgi edinmeye yönelik stratejik soru sorma yetkinliği test edil -
+melidir.
+İlgili Konu Hakkında Bilgi Toplama:  Öğrenciye bir araştırma sorusu verilebilir ve öğrenciden bu soruyu ce -
+vaplamak için gereken veri türlerini veya kaynakları seçmesi istenebilir. “Bu iddiayı kanıtlamak için ne tür 
+bir gözlem, deney veya kaynak taraması yapılmalıdır?” veya “Hangi ek verinin toplanması bu durumu aydın -
+latır?” gibi sorularla öğrencinin doğru bilgiye ulaşma stratejisi ölçülmelidir.
+T oplanan Bilgilerin Doğruluğunu Değerlendirme:  Öğrenciye birbiriyle çelişen iki farklı bilgi kaynağı/veri 
+seti/durum sunulabilir. Bu kapsamda öğrenciye “Hangi kaynağın daha güvenilir olduğunu belirlemek için 
+nasıl bir kriter kullanılmalıdır?” veya “Sunulan verilerden hangisi iddiayı desteklemek için bir kanıt niteliği 
+taşımaz?” şeklinde sorular sorulabilir. Böylece öğrencinin sunulan her bilgiyi doğru kabul etme yerine ve -
+rinin kaynağını sorgulama, kanıtları tartma ve bilginin doğruluğunu teyit etme yetkinlikleri ön plana çıkarıl -
+malıdır.
+T oplanan Bilgiler Üzerinde Çıkarım Yapma: Öğrenciye doğruluğu teyit edilmiş bulgular, kanıtlar ve veriler 
+bir arada sunulabilir. Bu kapsamda öğrenciye “Eldeki bu kanıtlar bizi hangi sonuca ulaştırır?” veya “Veriler 
+arasındaki ilişki dikkate alındığında olayla ilgili yapılabilecek en tutarlı çıkarım hangisidir?” soruları yönelti -

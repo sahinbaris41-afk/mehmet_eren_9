@@ -1,0 +1,26 @@
+36 37
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+1. Atom modellerini kronolojik sıraya göre listelemelerini ve bu modeller arasında geçiş yapabile-
+cek bir zaman çizelgesi oluşturmalarını isteyiniz. Grupların çizelgelerini paylaşmalarını sağlayınız.
+2. Her bir atom modeli için görsel temsiller hazırlanmasını isteyiniz. Bu temsillerin 2D veya 3D olarak 
+tasarlanıp paylaşılmasını isteyiniz.
+Atom modellerinin tasarlanmasında
+• kullanıcıların atom modellerini seçebileceği bir ana menünün;
+• her modelin tarihi, arka planı ve temel özelliklerini açıklayan bilgi kutucuklarının;
+• atom modellerinin farklı açılardan incelenebileceği 3D interaktif alanın olduğu,
+• kullanıcıların atom modellerini döndürebildiği ve yakınlaştırabildiği,
+• modeller üzerinde tıklayarak atom altı parçacıkları hakkında bilgilere ulaşabildiği,
+• zaman çizelgesi özelliğiyle atom teorisinin evrimini izleyebildiği bir arayüzü;
+• 3D modelleme ve animasyon için uygun yazılım ve mobil uygulama veya genel ağ platformu 
+için uygun programlama dilleri ve araçları kullanarak
+• temel atom modelleriyle çalışır bir prototip oluşturmalarını sağlayınız.
+2. Adım: Uygulama
+6. Grupların bilgi toplama sürecinde araştırdıkları modeller hakkında 
+• Araştırma sırasında hangi kriterlere dikkat ederek modellerin geçerliliğini değerlendirmelidir?
+• Uygulama veya simülasyonda atom modellerinin görselleştirilmesi için hangi grafiksel teknik-
+ler kullanılabilir?
+• Öğrencilerin atom modellerini daha iyi anlayabilmesi için kullanıcı etkileşimleri nasıl  
+tasarlanmalıdır?
+• Hangi programlama dilleri veya yazılım araçları bu proje için en uygun olacaktır?
+sorularına yanıt aramalarını isteyiniz. 

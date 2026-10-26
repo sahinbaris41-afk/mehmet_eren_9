@@ -1,0 +1,65 @@
+86
+1. Tema/Ölçme ve Değerlendirme
+  9.  
+ Y ukarıdaki görselde bir alışveriş merkezi -
+nin otoparkında doğrusal olarak yerleştirilen 
+engelli park alanı levhaları verilmiştir. Bu 
+levhaların yerleri sayı doğrusu üzerinde mo -
+dellenmiştir. 5
+12
+-  ile 5
+15
+ noktaları arasına eşit 
+aralıklarla 20 park tabelası yerleştirilmiştir.
+ Buna	göre 	ardışık 	iki 	park 	tabelası 	arasında-
+ki	mesafenin	kaç	birim	olduğunu	bulunuz.
+10. Bir radyo istasyonu, bulunduğu noktanın 
+,m12 13 10 5$  uzağına kadar yayınını ulaştıra-
+bilmektedir. Ayla, Burak ve Ceren’in radyo is-
+tasyonuna uzaklıkları sırasıyla ,,m68 41 0 4$  
+,m13 10 5$  ve ,m01 11 0 6$ ’dir.
+ Buna	göre 	radyo 	yayını 	A yla, 	Burak 	ve 	Ce-
+ren’den	hangilerine	ulaşır?
+A) Yalnız Burak
+B) Ayla ve Burak   
+C) Ayla ve Ceren    
+D) Burak ve Ceren    
+E) Ayla, Burak ve Ceren
+5
+15
+5
+12
+-
+11. Aşağıda bir önerme ve bu önermenin ispatı 
+gösterilmiştir.
+Önerme: x, y, z ve t R!  olmak üzere 
+xy1  ve zt1  ise xt yz 1--  
+olur.
+Hipotez: x, y, z ve t R!  olmak üzere 
+xy1  ve zt1  olsun.
+Hüküm: xt yz 1--  olur.
+İspatın adımları aşağıdaki gibidir.
+1.	Adım: xt yz 1--  olduğu gösterilir.
+ ab#  ise ac bc #++  sıralama 
+özelliği yardımıyla
+ xy1  eşitsizliğinden xt yt 1++
+eşitsizliği elde edilir. 
+2.	Adım: tz1--  olduğu gösterilir.
+ ab#  ve c 0$  ise ac bc$$ $  
+sıralama özelliği yardımıyla
+ z < t eşitsizliğinden tz1--  eşit-
+sizliği elde edilir. 
+3.	Adım: yt yz 1--  olduğu gösterilir.
+ ab#  ise ac bc #++  sıralama 
+özelliği yardımıyla
+ tz1--  eşitsizliğinden 
+yy zt1--  eşitsizliği elde edilir. 
+4.	Adım: xt yz 1--  olduğu gösterilir.
+ 1 ve 3. adımda elde edilen eşit -
+sizliklerden xt yz 1--  eşitsizliği 
+elde edilir.
+5.	Adım: Hükme ulaşılır .
+	 Buna 	 göre 	 ispata 	 ait 	 adımların 	 hangisinde 	
+ilk	defa	hata	yapılmıştır? 
+A) 1. adım B) 2. adım C) 3. adım
+D) 4. adım E) 5. adım

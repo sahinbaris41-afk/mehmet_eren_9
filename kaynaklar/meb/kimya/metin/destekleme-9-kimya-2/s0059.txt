@@ -1,0 +1,22 @@
+58
+KİMYA 9 
+3. TEMA: SÜRDÜRÜLEBİLİRLİK
+Yönerge: Öğrencilerden kendi çalışmalarını değerlendirmeleri için ''ÖZ DEĞERLENDİRME 
+FORMU''nu doldurmalarını isteyiniz.
+3. Adım: Değerlendirme
+ÖZ DEĞERLENDIRME FORMU
+Öğr
+encinin Adı ve Soyadı Sınıfı Numarası
+Bu form kendinizi değerlendirmeniz amacıyla hazırlanmıştır. Çalışmalarınızı en doğru yansıtan se-
+çeneği işaretleyiniz.
+Ölçütler
+Dereceler
+Evet Kısmen Hayır
+1 Etkinlikle ilgili yönergeyi okudum.
+2 Verilen hazır veri setini inceledim.
+3 Anlamadığım yerlerde sorular sordum.
+4 Hazırlanan çözeltideki portakal kabuğundan elde edilen gümüş nano-partikül (AgNP) boyutunun kaç nm aralığında olduğunu yazdım.
+5 Soğan kabuklarından elde edilen bakır nanopartiküllerin (CuNP) boyu-tunun hangi çözelti konsantrasyonunda daha büyük olduğunu yazdım.
+6 Gümüş nanopartikülleri (AgNP) üretiminde çözelti konsantrasyonunun nanopartikül boyutuna etkisini yazdım.
+7 Elde edilen nanopartikül boyutlarını artırmak için hangi faktörlerin de-ğiştirilebildiğini yazdım.
+Not: "Kısmen" ve "Hayır" cevaplarınız fazla ise etkinliğinizi gözden geçiriniz.

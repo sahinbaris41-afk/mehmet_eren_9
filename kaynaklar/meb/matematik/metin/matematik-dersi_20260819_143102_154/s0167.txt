@@ -1,0 +1,44 @@
+167
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı,  performans görevi, proje ödevi, açık uçlu sorular ve araş-
+tırma ödevi ile değerlendirilebilir.
+Üçüncü ve dördüncü dereceden polinom fonksiyonların matematik yazılımları yardımıyla çi-
+zilen grafik temsilleri incelenerek fonksiyonların cebirsel ve grafik temsili arasındaki ilişkile-
+rin belirlenmesine yönelik performans görevi verilebilir. Bu görevin değerlendirilebilmesi için 
+analitik dereceli puanlama anahtarı kullanılabilir.
+Öğrencilere polinom  fonksiyonların derecesinin, işaretinin, sıfırlarının, tekliğinin -çiftliğinin 
+ve sonsuzdaki davranışının incelendiği sorulardan oluşan çalışma kâğıdı verilebilir. Ortaya 
+konan veriler, bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir. 
+Polinom ve rasyonel fonksiyonları içeren denklem ve eşitsizliklerin kullanıldığı  gerçek yaşam 
+problemlerinden oluşan, öğrencilerin matematiksel modelleme yapabilme becerilerini ge -
+liştirmelerine katkı sağlayacak proje ödevi verilebilir.  Ödevin  değerlendirilmesinde projeye 
+hazırlık, içerik oluşturma ve sunum süreçlerini içine alan derecelendirme ölçeği kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin fonksiyonlarla dört işlem ve dönüşüm yapabildikleri; doğrusal ve karesel 
+fonksiyonların nitel özelliklerini belirleyebildikleri; doğrusal ve karesel fonksiyonlarla 
+ifade edilen denklem ve eşitsizlikleri çözebildikleri ve karesel bir fonksiyonun cebirsel 
+ifadesini, ifadenin tamkare formunu elde ederek çarpanlara ayırabildikleri kabul edil -
+mektedir.
+Ön Değerlendirme Süreci Gerçek yaşam durumu örnekleri üzerinden doğrusal ve karesel fonksiyonların nitel özellik -
+lerine yönelik açık uçlu sorular sorularak öğrencilerin kavram yanılgıları ve öğrenme eksik -
+likleri belirlenebilir. Öğrencilere fonksiyonlarda dört işlem yapma, doğrusal ve karesel fonk-
+siyonlara dönüşümler uygulayarak farklı fonksiyonlar türetebilme becerilerinin, bu konudaki 
+kavram yanılgılarının, ilgi ve ihtiyaçlarının belirlenmesi amacıyla hazır bulunuşluk testi yapıla-
+bilir. Öğrencilerin karesel bir fonksiyonun cebirsel ifadesini tamkare forma dönüştürüp çar-
+panlara ayırabilme, doğrusal ve karesel fonksiyonlarla ifade edilebilen denklem ve eşitsiz -
+likleri içeren problemleri çözebilme becerilerini test etmek için açık uçlu sorular sorulabilir.
+Köprü Kurma Öğrencilerin gerçek yaşamda karşılaşılan iki nicelik arasındaki doğrusal veya karesel olma -
+yan ilişkilerden yararlanarak farklı fonksiyon temsillerine olan ihtiyacı fark etmeleri sağla-
+nabilir. Doğrusal ve karesel fonksiyonların ortak özellikleri ve bu fonksiyonların cebirsel 
+temsilleri incelenerek aynı cebirsel yapıya sahip daha büyük dereceden fonksiyonların nasıl 
+elde edilebileceği tartışılabilir. Bu tür fonksiyonların dereceleri değiştiğinde matematiksel 
+temsillerinin ve nitel özelliklerinin nasıl değişebileceği matematik yazılımlarından faydala -
+nılarak tartışılabilir. Ayrıca doğrusal ve karesel fonksiyonlarla ilgili öğrenme güçlüklerinin 
+belirlenebilmesi için öğrencilerden yansıtıcı günlükler tutmaları istenebilir. Böylece öğren-
+cilerin konuya ilişkin ilgi ve ihtiyaçları hızlı bir şekilde belirlenebilir, konunun işleniş sürecinde 
+yaşanabilecek olası sorunlara karşı gerekli önlemler alınabilir.

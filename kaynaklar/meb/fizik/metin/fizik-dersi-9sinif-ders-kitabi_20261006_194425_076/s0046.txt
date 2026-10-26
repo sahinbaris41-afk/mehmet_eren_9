@@ -1,0 +1,35 @@
+46
+1. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+2. Bilim kulübünden bir grup lise öğrencisi, kent merkezindeki doğa parkına bir gezi düzenlemeye karar 
+veriyor. Gezinin amacı, çeşitli doğa olaylarını keşfetmek ve bunların bilimsel temellerini tartışmaktır. 
+Öğretmenleri tarafından her öğrenci grubuna gezi sırasında çevrenin farklı yönlerini gözlemleme ve 
+bunları fizik biliminin belirli alt dallarıyla ilişkilendirme görevi veriliyor.
+Birinci grup derenin akışını gözlemliyor.
+İkinci grup, gök cisimlerine bakmak için bir teleskop kullanıyor ve gözlem yapıyor.
+Üçüncü grup kamp ateşini gözlemliyor.
+Dördüncü grup pusula ile yönleri belirliyor.
+Buna göre 
+a) Grupların yaptıkları gözlem ve incelemelerin ilişkili olmadığı fiziğin alt dalı aşağıdakilerden 
+hangisidir?
+A) Elektromanyetizma
+B) Nükleer Fizik
+C) Mekanik
+D) Optik
+E) Termodinamik
+b) Grupların belirlediği fizik biliminin alt dallarını, ilgili oldukları günlük hayat örneklerinin 
+karşısına yazınız.
+Günlük Hayat Örnekleri Belirlenen Alt Dal 
+Termometre ile ölçüm yapılması
+Aynada görüntünün oluşması
+Bisikletin hareket etmesi
+Mıknatıs kullanılarak toplu iğnenin çekilmesi
+c) Gruplar görevlerini yerine getirip okula döndüğünde öğretmenleri aşağıdaki bilgi kartını 
+öğrencilere dağıtıyor. 
+Bilgi Kartı 
+Bir video oyunu oynadığınızı ve kaykay sporcusu olan karakterinizi hareket hâlinde iken iste -
+diğiniz anda durdurmak için özel bir düğmeniz olduğunu hayal ediniz. Bu düğme ile ani duruş 
+sağlayabilmektesiniz. ABS [Anti-lock braking system (Anti-lok breyking sistım) kilitlenme karşıtı 
+frenleme sistemi] adı verilen otomatik frenleme sistemi, gerçek hayatta otomobiller için de aynı 
+şeyi yapar. Özellikle ani duruşlar sırasında aracı kontrol altında tutmaya yardımcı olan ABS 
+fren sistemi, aniden fren yapmanız gerektiğinde otomobilin yoldan çıkmadan hızlı ve güvenli bir 
+şekilde durmasını sağlar.

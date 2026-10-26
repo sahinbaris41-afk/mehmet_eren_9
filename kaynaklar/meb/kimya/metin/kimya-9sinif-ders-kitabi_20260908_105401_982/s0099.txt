@@ -1,0 +1,19 @@
+99
+1. Tema Ölçme ve Değerlendirme Soruları
+27-31. soruları aşağıda verilen metin ve periyodik tabloya göre cevaplayınız.
+Eren, kimya dersinde performans görevi olarak periyodik tabloda yer bulma etkinliği ile ilgili bir yazılım 
+geliştirmiştir. Yazılım programında girdiği kod ile elementleri periyodik tabloya aşağıdaki gibi yerleştir-
+miştir. (1H, 3Li, 7N, 13Al, 18Ar, 25Mn, 28Ni, 33As, 35Br)
+Eren’in geliştirdiği yazılım programında kullandığı kod doğru mudur? Nedenlerini açıklayınız.27.
+Eren’in elementlerin periyot numarasını belirlemek için kullandığı kod örüntüsü nedir? 28.
+Elementlerin periyot numarasını belirlemeye yönelik doğru örüntünün oluşturulabileceği üç 
+örnek yazınız. 
+29.
+Eren’in elementlerin grup numarasını belirlemek için kullandığı kod örüntüsü nedir? 30.
+Elementlerin grup numarasını belirlemeye yönelik doğru örüntünün oluşturulabileceği üç 
+örnek yazınız. 
+31.
+H
+Li
+Al Ni
+PERİYODİK TABLO

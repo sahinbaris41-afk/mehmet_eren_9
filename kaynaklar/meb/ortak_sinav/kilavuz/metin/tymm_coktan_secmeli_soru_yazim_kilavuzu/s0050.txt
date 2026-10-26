@@ -1,0 +1,32 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+50
+1-3. soruları aşağıdaki bilgilere göre cevaplayınız.
+Yıkama sonrası kıyafetlerdeki kırışıklıkları gidermek için ütü yapılır. Ütünün sıcak tabanı ve buharı, 
+kumaştaki kırışıklıkları açarak kıyafetin daha düzgün görünmesini sağlar. Bu işlem sırasında kumaşı 
+oluşturan liflerdeki moleküller arası etkileşimler etki lenir ve kıyafetin pürüzsüzleşmesi sağlanır.
+Ütülerde yanda verilen görseldeki gibi sıcaklık göstergeleri yer alır. Bu göster -
+geler genellikle bir, iki veya üç nokta sembolüyle ifade edilir.
+• Bir nokta, düşük sıcaklık gerektiren kumaşlar içindir.
+• İki nokta, orta sıcaklıkta ütülenmesi gereken kumaşlar içindir.
+• Üç nokta, yüksek sıcaklığa dayanabilen kumaşlar içindir.
+Mehmet, annesine yardım etmek için kendi kıyafetlerini ütülemeye karar verir. Ancak ütünün sıcak -
+lık ayarlarını kumaş türüne göre değiştirmeden tüm kıyafetleri iki noktalı ayara göre ütüler. Bir süre 
+sonra bazı kıyafetlerin kırışıklıkları kolayca düzelmiş, bazılarında ise kırışıklıklar hiç açılmamış veya 
+kumaş zarar görmüştür. Bu durumun nedenini merak eden Mehmet, kumaşların yapısını, ütüleme 
+süresini ve gözlemlerini aşağıdaki tabloya kaydeder.
+Kumaş 
+Türü
+Kumaşın Yapısındaki Moleküller 
+Arası Etkin Etkileşim Türü
+Ütüleme 
+Süresi (sn.) Ütüleme Sonucu
+A London kuvvetleri 15 Kırışıklıklar tamamen giderildi, kumaşın bir kısmı zarar gördü.
+B Hidrojen bağı 45 Kırışıklıklar büyük ölçüde açıldı.
+C Dipol-dipol etkileşimleri 25 Kırışıklıklar tamamen açıldı.
+1. Buna göre Mehmet, problemi belirlemek için öncelikle aşağıdakilerden hangisine odaklanmalıdır? 
+(KB3.2 SB1)
+A) Kumaşın moleküller arası etkileşim türü ile uygun sıcaklık ayarı arasındaki ilişkiye
+B) Ütüleme süresi ile kırışıklığın düzelme durumu arasındaki ilişkiye
+C) Kumaşın moleküller arası etkileşim türü ile ütüleme süresi arasındaki ilişkiye
+D) Kumaşın zarar görme düzeyi ile ütüleme süresi arasındaki ilişkiye
+E) Sıcaklık ayarı ile ütünün kumaş üzerinde bekletilme süresi arasındaki ilişkiye

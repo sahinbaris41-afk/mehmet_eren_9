@@ -1,0 +1,51 @@
+34
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.9.4.3
+Öğretmen, öğrencilere buzulların erimesiyle ilgili küresel ısınmayı konu alan video veya bel-
+gesel izletir ya da konuyla ilgili haber okuyarak konu üzerine düşünmelerini sağlar (OB4). 
+Öğrenciler buzulların erimesinin çevreye etkileri ve muhtemel çözüm yolları (D5.2) konu-
+sundaki fikirlerini farklı bakış açılarına sahip akranlarını dikkatle dinleyerek tartışır (SDB2.3). 
+Öğrencilerin beyin fırtınası ve altı şapkalı düşünme gibi yöntem ve tekniklerden (E3.5) bi-
+riyle buzulların erimesi ile oluşabilecek problemlere ilişkin değişkenleri belirlemeleri istenir 
+(KB3.2, SDB3.3). Öğrenciler, buz kütlelerinin büyüklüğü ile erime süresi arasındaki ilişkiye 
+yönelik tahminlerini listeleyebilir (KB2.10). Maddelerin hâl değişimini etkileyen değişkenler 
+(basınç, saflık vb.) üzerine tartışabilir. Günlük hayatta karşılaştıkları hâl değişimiyle ilgili farklı 
+olaylar hakkında birbirlerine saygı çerçevesinde soru sorar ve gözlemledikleri olayları tar-
+tışarak (SDB2.2) hâl değişimini etkileyen nitelikleri tespit eder (D14.1, E3.5, E3.8). Öğrenci-
+ler, hâl değişiminde etkili olan nitelikleri gözlemlemek için sorumluluk alarak (E2.2) deney 
+tasarlar (SDB1.2) ya da simülasyon veya animasyon kullanabilir. Deney süresince sıcaklığı 
+ölçerek kütle miktarı ve maddenin cinsinin hâl değişimine etkisini gözlemleyebilir. Deney-
+den, simülasyondan veya animasyondan elde ettikleri veriler ve çıkarımlardan yararlanarak 
+sıcaklığın verilen ısı ile değişimini gösteren bir grafik çizer. Öğrenciler, grafik üzerinden hâl 
+değişimi ve sıcaklık arasındaki ilişkiyi açıklar (OB7). Hâl değişimi ile ilgili matematiksel modeli 
+keşfeder ve modeli kullanarak grafik üzerinden hesaplamalar yapar.
+FİZ.9.4.4
+Öğretmen, derse bir bardak sıcak su ve termometre ile girip bir öğrenciden suyun sıcaklığını 
+ölçmesini isteyebilir. Tahmin et-gözle-açıkla, düşün-eşleş-paylaş gibi yöntem ve teknik -
+lerden birini kullanarak öğrencilerden sıcak suyu soğutmak için yapılabilecekleri tartışarak 
+(SDB2.2) tahminde bulunmaları istenir. Öğrenciler, tahminlerinden yola çıkarak ısıl dengeyi 
+ve ısıl dengeye ilişkin nitelikleri tanımlar (E1.1, OB1). Öğrenciler ısıl denge ile ilgili madde mik-
+tarı, maddenin cinsi ve sıcaklık değişkenlerini değiştirebilecekleri deneyler tasarlayabilir ya 
+da simülasyon veya animasyon kullanabilir. Öğrenciler, deney, simülasyon veya animasyon-
+da kullanılan maddelerin ilk sıcaklık, son sıcaklık, kütle miktarı ve öz ısı değişkenlerine ilişkin 
+verileri bir tabloya kaydeder. Öğrenciler, elde ettikleri verileri tartışarak ısıl denge hakkında 
+yorum yapar (KB2.14, OB7). Öğretmen, dersin başında sıcaklığı ölçülen suyu dersin sonunda 
+bir öğrenciye tekrar ölçtürüp öğrencilerin suyun son sıcaklığı ile sınıfın ortam sıcaklığını kar-
+şılaştırmalarını sağlayabilir. Öğrenciler deney, simülasyon veya animasyondaki verileri kulla-
+narak ısıl dengeye ulaşan cisimlerin son sıcaklıkları hakkında çıkarımlar yapar ve bu çıkarım-
+ları açıklar. Öğrencilerden takım çalışması şeklinde arkadaşları ile yardımlaşarak (SDB2.2) 
+ısı, sıcaklık, hâl değişimi ve ısıl denge konularındaki çıkarım ve gözlemlerini ortaya koymaları 
+için kısa bir rapor hazırlamaları istenebilir.
+FİZ.9.4.5
+Öğretmen, günlük hayattan örnekler içeren sorular ile öğrencilerin ısı aktarım yollarıyla ilgili 
+beyin fırtınası yaparak alternatif fikirler ortaya koymalarını (SDB2.2) sağlar. Öğrenciler ''Soba 
+yanan odanın tavanı ile tabanının sıcaklıklarının farklı olmasının nedeni nedir?'', ''Yemek pişi-
+rirken yemeği metal kaşıkla karıştıran birisinin elinin yanmasının nedeni nedir?'', ''Soğuk ha-
+valarda metal banka oturan kişinin tahta banka oturan kişiden daha fazla üşümesinin nedeni 
+nedir?'', ''Güneş ile Dünya arasındaki ısı aktarımı hangi yolla gerçekleşir?'', ''Havası boşaltılmış 
+bir odada yanan rezistanslı, elektrikli ısıtıcı odayı ısıtabilir mi?'', ''Havası boşaltılmış bir odada 
+kalorifer peteği odayı ısıtabilir mi?'', ''Dışarının soğuk, içerinin sıcak olduğu bir günde pencere 
+açıldığında sıcak-soğuk hava giriş-çıkışı nasıl olur?'' gibi sorular üzerinden ısı aktarım yollarını 
+tartışır. Öğrenciler, tartışmalar doğrultusunda öğretmen yönlendirmesiyle ısının aktarımın-
+da maddesel olan (akışkan olan ve akışkan olmayan) ve maddesel olmayan ortam niteliklerini 
+belirler. Öğrenciler, belirledikleri nitelikleri benzerlik ve farklılıklarına göre ayrıştırır. Benzer

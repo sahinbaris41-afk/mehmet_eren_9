@@ -1,0 +1,848 @@
+{
+ "ders": "matematik",
+ "ders_adi": "Matematik",
+ "sinif": 9,
+ "haftalik_saat": 6,
+ "kaynaklar": {
+  "yillik_plan": "kaynaklar/yillik_plan/meb_taslak/matematik/matematik yp/2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN en son.xlsx [9. SINIF]",
+  "ksdt_1donem": "kaynaklar/meb/ortak_sinav/konu_soru_dagilim_2026_2027_1donem/matematik2.xlsx",
+  "ders_kitabi_metin": [
+   "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+   "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394"
+  ],
+  "haftalik_saat": "TTKB 09/05/2025 Anadolu Lisesi Haftalık Ders Çizelgesi"
+ },
+ "aciklama": {
+  "yazili": "1D1Y/1D2Y/2D1Y/2D2Y. 'KSDT' kaynaklılar resmî tablodan, diğerleri plan haftasından tahmin. Yönetmelik 45/1-d gereği her yazılı önceki konuları da azalan oranda kapsar.",
+  "kitap": "basili_* kitabın üzerinde yazan sayfa; pdf_baslangic metin klasöründeki sNNNN.txt numarası. Eşleşme içindekiler sayfasına kelime benzerliğiyle yapıldı."
+ },
+ "uretim": {
+  "arac": "tools/harita_uret.py",
+  "tarih": "2026-10-26"
+ },
+ "dogrula": [],
+ "uniteler": [
+  {
+   "id": "matematik-u1",
+   "ad": "SAYILAR",
+   "konular": [
+    {
+     "id": "matematik-u1-k1",
+     "ad": "Gerçek Sayıların Üslü ve Köklü Gösterimleri ile Yapılan İşlemler",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.1",
+       "metin": "Gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere dair muhakeme yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+      "basili_baslangic": 13,
+      "pdf_baslangic": 13,
+      "basili_bitis": 36,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      1,
+      2,
+      3
+     ],
+     "hafta_metin": "1. Hafta: 14-18 Eylül → 3. Hafta: 28 Eylül-2 Ekim",
+     "ders_saati": 14,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        3,
+        2,
+        2,
+        3
+       ]
+      ],
+      "1D2Y": [
+       "ULKE"
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u1-k2",
+     "ad": "Gerçek Sayı Aralıklarının Gösterimi ve Aralıklarla İlgili İşlemlerde Küme Sembollerinin Kullanımı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.2",
+       "metin": "Gerçek sayı aralıklarının gösteriminde ve aralıklarla ilgili işlemlerde küme sembol ve işlemlerinden yararlanabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+      "basili_baslangic": 37,
+      "pdf_baslangic": 37,
+      "basili_bitis": 56,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      3,
+      4
+     ],
+     "hafta_metin": "3. Hafta: 28 Eylül-2 Ekim → 4. Hafta: 5-9 Ekim",
+     "ders_saati": 10,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        2,
+        1,
+        2,
+        1
+       ]
+      ],
+      "1D2Y": [
+       "ULKE"
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u1-k3",
+     "ad": "Sayı Kümeleri ve İşlem Özellikleri",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.3",
+       "metin": "Farklı sayı kümelerinin özellikleri hakkında muhakeme yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+      "basili_baslangic": 57,
+      "pdf_baslangic": 57,
+      "basili_bitis": 66,
+      "eslesme_puani": 0.67
+     },
+     "haftalar": [
+      5
+     ],
+     "hafta_metin": "5. Hafta: 12-16 Ekim → 5. Hafta: 12-16 Ekim",
+     "ders_saati": 6,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        1,
+        1,
+        1,
+        1
+       ]
+      ],
+      "1D2Y": [
+       "ULKE"
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası zayıf eşleşme (kapsama 0.67)"
+     ]
+    },
+    {
+     "id": "matematik-u1-k4",
+     "ad": "Gerçek Sayıların İşlem Özelliklerini Cebirsel Olarak İfade Etme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.1.4",
+       "metin": "Gerçek sayıların işlem özelliklerini cebirsel olarak ifade etmede analojik akıl yürütebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+      "basili_baslangic": 67,
+      "pdf_baslangic": 67,
+      "basili_bitis": 90,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      6,
+      7
+     ],
+     "hafta_metin": "6. Hafta: 19-23 Ekim → 7. Hafta: 26-30 Ekim",
+     "ders_saati": 8,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        2,
+        1,
+        2,
+        2
+       ]
+      ],
+      "1D2Y": [
+       "ULKE"
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "matematik-u2",
+   "ad": "NİCELİKLER VE DEĞİŞİMLER",
+   "konular": [
+    {
+     "id": "matematik-u2-k1",
+     "ad": "Doğrusal Fonksiyonlar ve Nitel Özellikleri",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.1",
+       "metin": "Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğrusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+      "basili_baslangic": 91,
+      "pdf_baslangic": 91,
+      "basili_bitis": 169,
+      "eslesme_puani": 0.6
+     },
+     "haftalar": [
+      7,
+      8,
+      9,
+      10
+     ],
+     "hafta_metin": "7. Hafta: 26-30 Ekim → 10. Hafta: 23-27 Kasım",
+     "ders_saati": 18,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "plan haftası (ülke geneli tablo yayımlanmadı)"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        1,
+        2,
+        0
+       ]
+      ],
+      "1D2Y": [
+       "ULKE"
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": true
+     },
+     "dogrula": [
+      "Ülke geneli 1D2Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli",
+      "kitap sayfası zayıf eşleşme (kapsama 0.6)"
+     ]
+    },
+    {
+     "id": "matematik-u2-k2",
+     "ad": "Mutlak Değer Fonksiyonu ve Nitel Özellikleri",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.2",
+       "metin": "Gerçek sayılarda m(x) = ± |ax ± b| ± c (a, b, c ∈ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonlarının nitel özelliklerini incelemek için doğrusal fonksiyonlara bağlı analojik akıl yürütebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      10,
+      11
+     ],
+     "hafta_metin": "10. Hafta: 23-27 Kasım → 11. Hafta: 30 Kasım-4 Aralık",
+     "ders_saati": 8,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": true
+     },
+     "dogrula": [
+      "Ülke geneli 1D2Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli",
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "matematik-u2-k3",
+     "ad": "Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler İçeren Problemler",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.2.3",
+       "metin": "Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      11,
+      12,
+      13
+     ],
+     "hafta_metin": "11. Hafta: 30 Kasım-4 Aralık → 13. Hafta: 14-18 Aralık",
+     "ders_saati": 12,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": true
+     },
+     "dogrula": [
+      "Ülke geneli 1D2Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli",
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "matematik-u3",
+   "ad": "GEOMETRİK ŞEKİLLER",
+   "konular": [
+    {
+     "id": "matematik-u3-k1",
+     "ad": "Üçgende Açı ve Kenarla İlgili Özellikler ve Bu Özellikler Arasındaki İlişkiler",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.3.1",
+       "metin": "Üçgende açı ve kenarla ilgili özellikleri, üçgenin açıları ve kenarları arasındaki ilişkileri doğrulayabilme veya ispatlayabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+      "basili_baslangic": 170,
+      "pdf_baslangic": 170,
+      "basili_bitis": null,
+      "eslesme_puani": 0.67
+     },
+     "haftalar": [
+      13,
+      14,
+      15
+     ],
+     "hafta_metin": "13. Hafta: 14-18 Aralık → 15. Hafta: 28 Aralık -1 Ocak",
+     "ders_saati": 12,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": true
+     },
+     "dogrula": [
+      "Ülke geneli 1D2Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli",
+      "kitap sayfası zayıf eşleşme (kapsama 0.67)",
+      "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "matematik-u4",
+   "ad": "EŞLİK VE BENZERLİK",
+   "konular": [
+    {
+     "id": "matematik-u4-k1",
+     "ad": "Geometrik Dönüşümler",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.4.1",
+       "metin": "Geometrik dönüşümlerle ilgili çıkarım yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 13,
+      "pdf_baslangic": 13,
+      "basili_bitis": 35,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      15,
+      16,
+      17
+     ],
+     "hafta_metin": "15. Hafta: 28 Aralık -1 Ocak → 17. Hafta: 11-15 Ocak",
+     "ders_saati": 12,
+     "yazili": [
+      "1D2Y",
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "plan haftası",
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": true
+     },
+     "dogrula": [
+      "Ülke geneli 1D2Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli"
+     ]
+    },
+    {
+     "id": "matematik-u4-k2",
+     "ad": "Eşlik ve Benzerlik Koşulları",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.4.2",
+       "metin": "İki üçgenin eş veya benzer olması için gerekli olan asgari koşullarla ilgili çıkarım yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 36,
+      "pdf_baslangic": 36,
+      "basili_bitis": 52,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      17,
+      19
+     ],
+     "hafta_metin": "17. Hafta: 11-15 Ocak → 19. Hafta: 8-12 Şubat",
+     "ders_saati": 8,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u4-k3",
+     "ad": "Benzer üçgenler Oluşturma",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.4.3",
+       "metin": "Bir üçgenden hareketle ona benzer üçgenler oluşturma ile ilgili yansıtma yapabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 53,
+      "pdf_baslangic": 53,
+      "basili_bitis": 59,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      20
+     ],
+     "hafta_metin": "20. Hafta: 15-19 Şubat → 20. Hafta: 15-19 Şubat",
+     "ders_saati": 4,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u4-k4",
+     "ad": "Tales, Öklid ve Pisagor Teoremleri",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.4.4",
+       "metin": "Tales, Öklid ve Pisagor teoremlerini ispatlayabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 60,
+      "pdf_baslangic": 60,
+      "basili_bitis": 75,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      20,
+      21
+     ],
+     "hafta_metin": "20. Hafta: 15-19 Şubat → 21. Hafta: 22-26 Şubat",
+     "ders_saati": 6,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u4-k5",
+     "ad": "Eşlik ve Benzerlik Problemleri",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.4.5",
+       "metin": "Eşlik ve benzerlikle ilgili çıkarım ve teoremleri içeren problemleri çözebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 76,
+      "pdf_baslangic": 76,
+      "basili_bitis": 98,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      21,
+      22
+     ],
+     "hafta_metin": "21. Hafta: 22-26 Şubat → 22. Hafta: 1-5 Mart",
+     "ders_saati": 6,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "matematik-u5",
+   "ad": "ALGORİTMA VE BİLİŞİM",
+   "konular": [
+    {
+     "id": "matematik-u5-k1",
+     "ad": "Algoritma Temelli Problemler",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.5.1",
+       "metin": "Algoritma temelli yaklaşımlarla problem çözebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 99,
+      "pdf_baslangic": 99,
+      "basili_bitis": 126,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      22,
+      23,
+      24,
+      25
+     ],
+     "hafta_metin": "22. Hafta: 1-5 Mart → 25. Hafta: 29 Mart-2 Nisan",
+     "ders_saati": 20,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u5-k2",
+     "ad": "Mantık Bağlaçları ve Niceleyiciler",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.5.2",
+       "metin": "Algoritmik yapılar içerisindeki mantık bağlaçlarını ve niceleyicileri çözümleyebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 127,
+      "pdf_baslangic": 127,
+      "basili_bitis": 134,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      26
+     ],
+     "hafta_metin": "26. Hafta: 5-9 Nisan → 26. Hafta: 5-9 Nisan",
+     "ders_saati": 6,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u5-k3",
+     "ad": "Mantık Bağlaçları ve Niceleyicilerin Algoritmik Problemlerde Kullanımı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.5.3",
+       "metin": "Mantık bağlaçları ve niceleyicilerin algoritmalarda kullanımına yönelik edindiği deneyimi farklı matematiksel görev ve problemlere yansıtabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 135,
+      "pdf_baslangic": 135,
+      "basili_bitis": 153,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      27
+     ],
+     "hafta_metin": "27. Hafta: 12-16 Nisan → 27. Hafta: 12-16 Nisan",
+     "ders_saati": 4,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "matematik-u6",
+   "ad": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konular": [
+    {
+     "id": "matematik-u6-k1",
+     "ad": "Tek Nicel Değişkenli Veri Dağılımları",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.6.1",
+       "metin": "Tek nicel değişkenli veri dağılımları ile çalışabilme ve tek nicel değişken içeren veriye dayalı karar verebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 154,
+      "pdf_baslangic": 154,
+      "basili_bitis": 192,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+     ],
+     "hafta_metin": "27. Hafta: 12-16 Nisan → 32. Hafta: 17-21 Mayıs",
+     "ders_saati": 32,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u6-k2",
+     "ad": "Başkaları Tarafından Oluşturulan Tek Nicel Değişkenli Veri Dağılımlarını İnceleme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.6.2",
+       "metin": "Başkaları tarafından oluşturulan tek nicel değişkenli veri dağılımlarına ilişkin istatistiksel sonuç veya yorumları tartışabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 193,
+      "pdf_baslangic": 193,
+      "basili_bitis": 203,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      33
+     ],
+     "hafta_metin": "33. Hafta: 24-28 Mayıs → 33. Hafta: 24-28 Mayıs",
+     "ders_saati": 2,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "matematik-u7",
+   "ad": "VERİDEN OLASILIĞA",
+   "konular": [
+    {
+     "id": "matematik-u7-k1",
+     "ad": "Deneysel Olasılık",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.7.1",
+       "metin": "Olayların olasılığını gözleme dayalı tahmin edebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 204,
+      "pdf_baslangic": 204,
+      "basili_bitis": 213,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      33,
+      34
+     ],
+     "hafta_metin": "33. Hafta: 24-28 Mayıs → 34. Hafta: 31 Mayıs-4 Haziran",
+     "ders_saati": 8,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "matematik-u7-k2",
+     "ad": "Teorik Olasılık",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "9.7.2",
+       "metin": "Olayların olasılığına ilişkin tümevarımsal akıl yürütebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394",
+      "basili_baslangic": 214,
+      "pdf_baslangic": 214,
+      "basili_bitis": null,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      34,
+      35,
+      36,
+      37
+     ],
+     "hafta_metin": "34. Hafta: 31 Mayıs-4 Haziran → 37. Hafta: 21-25 Haziran",
+     "ders_saati": 10,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+88
+MATEMATİK 9 
+5. TEMA: ALGORİTMA VE BİLİŞİM
+1
+Öykü, gittiği İngilizce kursunda üst seviyeye çıkabilmesi için üç sınav olmuştur. Her 
+sınavdan aldığı not 0-100 arasındadır. Öykü, bu üç sınava ait notlarının ortalamasını 
+hesaplayarak ortalama 50 ve üzerinde ise "Üst kura geçebilir.", 50'nin altındaysa “kur 
+tekrarı" yazdıran bir algoritma yazacaktır. 
+Algoritmanın işleyişini ifade eden algoritmik doğal dil aşağıda verilmiştir. Buna göre 
+algoritmanın işleyişini ifade eden sözde kodu yazınız ve akış şemasını tamamlayınız.
+Algoritmik Doğal Dil Akış Şeması
+Sözde Kod
+1. Adım: Başla
+2. Adım: Girdilerin alınması 
+ Kullanıcıdan sayıları (sayı1, sayı2,  
+ sayı3) al.
+3. Adım: Hesaplamanın yapılması 
+ Ortalamayı bulmak için sayıları  
+ toplayıp 3’e böl.
+4. Adım: Koşulun kontrol edilmesi 
+ Ortalama 50’den küçük mü diye  
+ kontrol et.
+5. Adım: Çıktının yazdırılması 
+ Ortalama 50’den küçük ise ekrana  
+ “kur tekrarı” yaz, değilse "Üst kura  
+ geçebilir." yaz.
+6. Adım: Bitir
+Girdi: 
+Çıktı: 
+Başla: 
+Bitir:
+Bitir
+Bitir
+Başla
+Kur tekrarı
+Hayır
+Evet
+Değerlendirme

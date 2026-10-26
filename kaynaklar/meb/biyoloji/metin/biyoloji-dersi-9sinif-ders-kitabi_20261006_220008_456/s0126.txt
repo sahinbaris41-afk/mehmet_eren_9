@@ -1,0 +1,54 @@
+126
+2. Tema
+Araştırma Konusu
+Evde beslediğiniz ya 
+da çevrenizde bulunan 
+hayvanların hangi tak-
+sonlara dâhil olduğunu 
+araştırınız. 
+Yakın akraba türler, aynı cins kategorisi içerisinde yer alan bir taksonu oluşturur. 
+Hiyerarşik sınıflandırmada akraba cinsler aynı aileye yerleştirilir. Aileler takımları, 
+takımlar sınıfları, sınıflar şubeleri, şubeler ise âlemleri oluşturur. Günümüzde can -
+lılar üst âlem anlamında domain olarak isimlendirilen üç ana grupta sınıflandırılır. 
+Kaplanın [Panthera tigris (Pantera tigris)] biyolojik sınıflandırması ve içinde yer aldığı 
+taksonomik kategoriler Görsel 2.27’de özetlenmiştir.
+Âlem: Animalia 
+(Animaliya) (Hayvanlar)
+Şube: Chordata (Kordata) 
+(Kordalılar)
+Sınıf: Mammalia 
+(Mamaliya) (Memeliler)
+Takım: Carnivora
+(Karnivora) (Etçiller) 
+Aile: Felidae
+(Felide) (Kedigiller)
+Cins: Panthera
+(Pantera) (Büyük Kediler)
+Tür: Panthera tigris
+(Pantera tigris) (Kaplan)
+Âlemden türe doğru
+• Birey sayısı azalır.
+• Çeşitlilik azalır.
+• Farklı gen sayısı azalır.
+• Protein benzerliği artar.
+• Gen benzerliği artar.
+• Akrabalık artar.
+Görsel 2.27: Panthera tigrisin biyolojik sınıflandırılması ve taksonomik kategorileri
+5. Etkinlik      
+Adı Canlıların Sınıflandırılması
+Amaç Çevresindeki canlıları sınıflandırabilme
+Süre 80 dk.
+Yönerge
+• Aşağıda verilen uygulama basamaklarını takip ederek etkinliği gerçekleştiriniz.
+• Etkinlik sonunda yanıtlayacağınız tanılayıcı dallanmış ağaç, öğretmen tarafından geliştirilecek puanlama 
+anahtarı ile değerlendirilecektir. 
+1. Öğretmen rehberliğinde beş veya altı kişilik gruplar oluşturunuz.
+2. Çevrenizde gördüğünüz canlıları bireysel olarak listeleyiniz.
+3. Oluşturduğunuz listeleri diğer gruplarla paylaşınız ve karşılaştırınız. Grup olarak seçeceğiniz dört canlının 
+günlük yaşamdaki isimlerini öğretmeninize danışarak uygulama adımları sonunda verilen etkinlik tablosuna 
+yazınız.
+4. Etkinlik tablosuna yazdığınız canlıların genel özellikleriyle ilgili bilgi toplayınız, bu bilgileri grubunuzda tartı-
+şarak etkinlik tablosunun ilgili kısmına yazınız. 
+5. Bu canlıların gruplandırılmasında kullanılabilecek benzerlik ve farklılıklardan (morfolojik yapıları, yaşam 
+alanları, beslenme farklılıkları vb.) yararlanarak genelden özele doğru bir gruplama sistemi oluşturunuz.
+6. Etkinlik tablosuna yazdığınız canlıları kendi oluşturduğunuz ölçütler çerçevesinde sınıflandırınız. 

@@ -1,0 +1,48 @@
+205
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+sürecini sorgular. Hazır veriye ait örneklemin genellemeyi hedeflediği evrene uygunluğunu 
+olasılık bilgilerini kullanarak ve eleştirel bakarak tartışır (E3.10). Elde edilen hazır verilerin 
+belirlenen araştırma sorusuna cevap verebilecek değişkenleri içerip içermediği inceletilir. 
+Öğrencilerden çalıştıkları hazır veriye göre araştırma sorularında gerekiyorsa uyarlama yap-
+maları beklenir (SDB1.2).
+Öğrenciler tarafından oluşturulan istatistiksel araştırma soruları ve elde edilen/verilen veri-
+lerin nasıl toplanmış olabileceği, istatistiksel araştırma sorusu ve veri toplama planı ölçütleri 
+doğrultusunda oluşturulan kontrol listesiyle değerlendirilebilir.
+Araştırma soruları bağlamında öğrencilerden betimsel, karşılaştırma ve ilişkililik içeren veri 
+dağılımlarını analiz edebilmek için görselleştirme araçlarından ve/veya özetleme araçların -
+dan uygun olanlarını seçmeleri istenir (SDB1.2, MAB3) . Bu süreçte çıkarımsal istatistiğin 
+araçlarına (örneğin güven aralıkları, hipotez testi) yer verilmez. Uygun olan araçların belir -
+lenmesinde araştırma sorularına yeniden dönülerek hangi araçların uygun olduğuna dair sı-
+nıf içi tartışma yapılır (SDB2.1). Bu süreçte öğrenciler birbirlerinin fikirlerini nezaketle dinler, 
+arkadaşlarıyla empati yapar (SDB2.3, D14.1). Seçilecek araçlar, araştırma sorularına cevap 
+verecek ve verileri analiz edecek nitelikte olmalıdır. Öğrencilerin istatistik yazılımlarını kul -
+lanarak ve görselleştirme ve/veya özetleme araçlarıyla verileri analiz etmeleri istenir (OB2, 
+MAB5). Bu süreçte her öğrencinin betimsel, karşılaştırma ve ilişkililik içeren araştırma tasa-
+rımlarını deneyimlemeleri sağlanır.
+Analiz süreci tamamlandığında elde edilen araştırma sonuçlarına ilişkin sınıf içi tartışma ya-
+pılır (SDB2.1, D14.1). Öğrencilerden elde ettikleri sonuçlardan hareketle araştırma sorusuna 
+cevap vermeleri beklenir (SDB3.3). Bu süreçte öğrencilerin istatistiksel araştırma süreci -
+nin bütün bileşenlerini sistematik bir şekilde gözden geçirmeleri sağlanır (E3.7). Araştırma 
+sorularına verilecek cevapların istatistiksel bir dil içermesi önemlidir. Elde edilen sonuçlar 
+doğrultusunda öğrencilerin seçilen örneklem dağılımından hareketle evren dağılımı hakkın-
+da çıkarımlar yapması ve elde edilen sonuçları belirsizliği dikkate alan bir dille ifade etme -
+si beklenir. Araştırma tasarımının bütününe ilişkin poster, rapor, sunum veya dijital araçlar 
+yardımıyla hazırlanan ürünler sınıf ortamında sunulur (OB2). Ayrıca öğrenciler; dijital hikâye, 
+poster, sunum ya da bilgi görseli gibi ürünler  hazırlayarak  çeşitli  platformlarda  (EBA,  kong-
+re,  bilim olimpiyatları, çalıştay gibi) istatistiksel araştırma tasarımını ve elde ettiği sonuçları 
+paylaşır (OB2). Öğrenciler, elde ettikleri istatistiksel sonuç ve çıkarımlara dayalı olarak veri 
+temelli argümanlar ve veriye dayalı çözüm önerileri geliştirir. İstatistiksel araştırma süreci 
+kapsamında belirlemiş olduğu toplumsal veya bilimsel durumlarla  (küresel ısınma, orman 
+yangınları, nesli tükenmekte olan türler gibi)  ilgili veri temelli argümanlar ve yeni çözüm 
+önerileri üretir, ilgili kamu kurumları ile iletişime geçer ya da ilgili sivil toplum kuruluşlarında 
+çözüm önerilerini eyleme dönüştürebileceği gönüllü faaliyetlere katılır (OB6, OB8, D20.4). 
+Elde ettiği sonuçlardan hareketle ileride oluşabilecek durumlar için ne tür yeni araştırmalar 
+tasarlanabileceğine ilişkin öğrencilerden öneriler sunmaları beklenir (SDB3.1). Öğrencilerin 
+bu toplumsal ve bilimsel durumları Dünya Su Günü gibi belirli gün ve haftalarla ilişkilendir -
+meleri sağlanarak farkındalık oluşturmak hedeflenir. Öğrencilerden istatistiksel araştırma 
+tasarlama, yürütme ve sonuçlarını paylaşma süreçlerinde bireysel deneyimlerini ve varsa 
+yaşamış oldukları zorlukları günlük gibi araçlarla kayıt altına almaları istenir. Süreç boyunca 
+kendi duygu, düşünce ve davranışlarını nasıl yönettiklerini ve bu zorluklarla nasıl başa çıktık-
+larını değerlendirmeleri istenir (SDB1.2, SDB1.3). Öğrencilere hazır verilere dayalı istatistik -
+sel araştırma tasarımı yapabilmelerine, istatistiksel araştırma sürecini yürütebilmelerine ve 
+sonuçları paylaşabilmelerine yönelik bir performans görevi verilir.

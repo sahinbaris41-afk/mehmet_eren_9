@@ -1,0 +1,20 @@
+18 19
+1.TEMA - SAYILAR
+2. ETKINLIK Üslü ve Köklü Gösterimlerde Tanımsızlık Durumları
+Çözüm:
+Çözüm:
+4. Adım
+5. Adım
+Bir öğrenci,  ifadesinin doğru olduğunu düşünmekte ve bu ifadenin sonucunu bulmaya 
+çalışmaktadır. Ancak bu ifade şimdiye kadar gördüğümüz en büyük sayı sistemi olan gerçek sayılar-
+da geçerli değildir. Aşağıdaki iki adımı izleyerek negatif sayıların karekökünün gerçek sayılar küme-
+sinde tanımsız olduğunu analiz ediniz.
+a) Pozitif ve negatif bir sayının karesini hesaplayınız. Bu sonuçlardan hareketle, kökün içindeki 
+sayının neden her zaman pozitif olması gerektiğini tartışınız.
+b) Bir sayının karekökü gerçek sayılarda bulunabilir mi?  ifadesini değerlendirirken "Hangi 
+sayının karesi -4 eder?" sorusuna yanıt arayınız. Bu ifadenin gerçek sayılar arasında neden tanımsız 
+olduğunu ve matematiksel olarak ne anlama geldiğini açıklayınız.
+n, antrenman süresi olarak tanımlanmıştır. Bir sporcu, antrenman süresini her gün 2n dakika  
+artırmayı hedefliyor. Ancak bazı günler hiç antrenman yapmadığında n=0 oluyor. Bu durumda 20  ifa-
+desinin günlük hayatta nasıl yorumlandığını açıklayınız.
+Çözüm:

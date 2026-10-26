@@ -1,0 +1,50 @@
+62
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ • Geometrik Dönüşümler
+• Eşlik ve  Benzerlik Koşulları
+• Benzer Üçgenler Oluşturma
+• Tales, Öklid ve Pisagor Teoremleri
+• Eşlik ve Benzerlik Problemleri
+Genellemeler • Tüm kenar uzunlukları belli olan sadece bir üçgen vardır. Geometrik dönüşümlerle (öte-
+leme, yansıma, dönme) bu üçgene eş üçgenler üretilebilir.
+• Öteleme, yansıma ve dönme dönüşümleri sonucunda başlangıçtaki şekil ile dönüşüm 
+sonrası oluşan şeklin görüntüsü eştir.
+• Benzer üçgenlerde karşılıklı açıların ölçüleri eşittir ve bu açıların karşısındaki kenarlar 
+orantılıdır.
+• Eş üçgenlerde benzerlik oranı 1’dir.
+• Birbirine paralel en az üç doğrunun kendilerini kesen doğrular üzerinde oluşan karşılıklı 
+doğru parçalarının uzunlukları orantılıdır.
+• Bir dik üçgende hipotenüse ait yükseklik çizildiğinde oluşan dik üçgenler birbirine ve 
+başlangıçtaki üçgene benzerdir. 
+• Öklid ve Tales teoremleri, bir üçgenden hareketle o üçgene benzer üçgenler oluşturma 
+yoluyla elde edilebilir.
+Anahtar Kavramlar benzerlik, dönme dönüşümü, eşlik, Öklid teoremi, Pisagor teoremi, Tales teoremi
+Sembol ve Gösterimler ≅ , ∼
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, proje ödevi ve performans görevi ile 
+değerlendirilebilir.
+Öğrencilere dönüşümler kullanarak elde edebileceği motif ve süsleme örnekleri oluştu -
+rup bu örnekleri sunmalarına yönelik performans görevi verilebilir. Öğrencilerin tasarladığı 
+bu çalışmalar sınıfta sunulabilir. Performans görevleri, öz değerlendirme ve akran değer-
+lendirme formları ile değerlendirilebilir. Ayrıca öğrenci ürünleri, analitik dereceli puanlama 
+anahtarı kullanılarak değerlendirilebilir.
+Öğrencilere farklı benzer üçgenler çizilerek bunların benzerliklerinin hangi özelliklere göre 
+kurgulandığını ortaya koyan bir performans görevi verilebilir. Bu performans görevi, anali-
+tik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.
+Öğrencilere benzer üçgenler oluşturma ile ilgili yansıtma yapabileceği  çalışma kâğıdı ve -
+rilebilir. 
+Öğrencilere Tales, Öklid ile Pisagor teoremlerini, ispatlarını kullanabileceği ve farklı soru 
+türlerinin bulunduğu çalışma kâğıdı verilebilir. Çalışma kâğıtları, dereceli puanlama anah-
+tarı ile değerlendirilebilir.
+Öğrencilerin eşlik ve benzerlikle ilgili çıkarım ve teoremlere ilişkin bilgi ve becerilerini ko -
+nuyla ilgili farklı problem durumlarının oluşturulması ve problemlerin çözümü için kullan -
+malarını sağlayacak bir proje ödevi verilebilir. Öğrencilerin çalışmaları, analitik dereceli 
+puanlama anahtarı ile değerlendirilebilir.
+g) Problemin çözümü için geliştirdiği, kullandığı stratejilerdeki kısa yolları ve çözüme 
+ulaştırmayan stratejileri belirleyerek çözüme ilişkin deneyimini gözden geçirir.
+ğ) Çözüme ulaştıran stratejilerden hangilerinin hangi tür problemlere uygulanabileceği-
+ne ilişkin çıkarım yapar.
+h) Ulaştığı çıkarımların geçerliliğini matematiksel örneklerle değerlendirir.

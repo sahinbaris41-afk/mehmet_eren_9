@@ -1,0 +1,41 @@
+98
+1. 
+-
+-
+128
+58
+2
+56
+7
+7
+18
+       Yanda verilen bölme işleminin nasıl gerçekleştirildiğini adım adım ifade ediniz.
+2. 30 957 sayısını basamak değerlerine göre çözümleyiniz.
+3.	 48	ve	36	sayıları	veriliyor.
+Buna göre
+a) Bu sayıların ortak doğal sayı bölenlerini yazınız.
+b) Bu sayıların ortak katlarından iki tanesini yazınız.
+4.	 Aşağıda	bir	doğal	sayının	3’e	tam	bölünüp	bölünmediğini	bulma	yöntemi	adım	adım	açıklanmaktadır.
+I. Bir	doğal	sayının	her	bir	basamağındaki	rakamların	toplamını	hesaplayınız.	
+II.	 Bu	toplam	3’ün	katıysa	sayı	3’e	tam	bölünür.
+III.	 Rakamların	toplamı	3’ün	katı	değilse	sayı	3’e	tam	bölünmez.
+Bu	durumda	üç	basamaklı	abc	doğal	sayıs ının	3’e	tam	bölünüp	bölünmediği,	mantık	bağlacı	ve	
+niceleyici	yardımıyla	aşağıdaki	gibi	ifade	edilebilir.
+,kn ii na bc ka bc n33çZ &6 ! ++ ==+
+Buna göre bir sayının 9’a tam bölünüp bölünmediğini bulma yöntemini adım adım açıklayınız, 
+mantık bağlacı ve niceleyici yardımıyla ifade ediniz.
+5.	 Ahmet,	Burcu	ve	Canan	yazılımcı	olarak	A,	B	ve	C	adındaki	teknoloji	şirketlerinde	çalışmaktadır.	
+Ahmet,	Burcu	ve	Canan’ın	sosyal	ağ,	siber	güvenlik	ve	bulut	depolama	alanında	geliştirdikleri	uygu-
+lamalar	ve	çalıştıkları	şirketlerle	ilgili	aşağıdaki	bilgiler	verilmiştir.
+• Her	yazılımcı,	farklı	bir	şirkette	çalışmakta	ve	farklı	bir	uygulama	geliştirmektedir.
+• Ahmet,	C	şirketinde	çalışmamaktadır.
+• A	şirketinde	çalışan	yazılımcı,	sosyal	ağ	uygulaması	geliştirmiştir .
+• Burcu,	siber	güvenlik	uygulaması	geliştirmiştir.
+Buna göre aşağıda verilen cümlelerin başındaki noktalı yerlere ifade doğru ise ‟D”, yanlış ise 
+‟Y” yazınız. 
+(....)	 Ahmet	bulut	depolama	alanında	uygulama	geliştiriyorsa	Canan	A	şirketinde	çalışmaktadır .
+(....)	 Ahmet	A	şirketinde	çalışıyorsa	Burcu	B	ya	da	C	şirketinde	çalışmaktadır .	
+(....)	 Burcu	B	şirketinde	çalışıyorsa	Ahmet	sosyal	ağ	ya	da	bulut	depolama	alanında	uygulama	
+geliştirmektedir.
+(....)	 Ahmet	B	şirketinde	çalışıyorsa	Canan	siber	güvenlik	uygulaması	geliştirmektedir.
+Ön Değerlendirme

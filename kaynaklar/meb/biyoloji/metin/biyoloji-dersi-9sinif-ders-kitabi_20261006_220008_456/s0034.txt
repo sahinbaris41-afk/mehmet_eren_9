@@ -1,0 +1,42 @@
+34
+1. Tema
+a b
+Görsel 1.9
+a) Amip, 
+b) Öglena,
+c) Paramesyum  
+a b c
+Görsel 1.8
+a) Prokaryotik hücre yapısı,
+b) Ökaryotik hücre yapısı
+Organizasyon
+Bir canlının çeşitli bileşenlerinin bir araya gelmesi ve iç yapısının düzenlenmesi organizasyon olarak adlandırılır. 
+Bu süreç, çok hücreli canlılarda hücresel seviyeden başlayarak organlar ve sistemlere kadar uzanır. Hücresel 
+düzeydeki bir organizasyon sürecinde atomların birleşmesiyle moleküller, moleküllerin birleşmesiyle hücresel 
+yapılar ve organeller, hücresel yapıların bir araya gelmesiyle hücre oluşur. 
+Organizmaların yaşam süreçlerine sahip olma durumunu ifade eden canlılık kav -
+ramı, biyoloji biliminin ana çalışma konusudur. Bütün canlılarda ortak olan özellik-
+ler; hücresel yapı, organizasyon, beslenme, enerji üretimi ve tüketimi, metabolizma, 
+boşaltım, büyüme ve gelişme, üreme, uyarılara tepki ve homeostazi şeklinde sırala-
+nabilir. Bir organizmanın canlı olarak kabul edilmesi için bu özelliklere sahip olması 
+gerekmektedir. Ayrıca canlıların çeşitli çevresel koşullara uyum sağlamalarında 
+işlevi olan kalıtsal varyasyon (tür içi çeşitlilik), adaptasyon (uyum) gibi karakteristik 
+özellikleri de bulunmaktadır.
+Hücresel Yapı
+Hücre, bir canlının temel yapı birimidir. 
+Tüm organizmalar bir veya daha fazla 
+hücreden oluşur. Canlıları oluşturan 
+hücreler farklı büyüklük ve şekillerde 
+olabilir. Hücreler yapısal olarak prokar-
+yot ve ökaryot olmak üzere iki gruba 
+ayrılır (Görsel 1.8) . Prokaryot hücre -
+ler, belirgin bir çekirdeği ve zarla çev -
+rili organelleri bulunmayan, nispeten 
+küçük boyuttaki hücrelerdir. Bakteri ve 
+arkeler prokaryot hücre yapısına sahip 
+canlılardır.
+Ökaryot hücreler çekirdek ve zarlı 
+organellere sahiptir. Amip, öglena, 
+paramesyum (Görsel 1.9) , alg, mantar, 
+bitki ve hayvanlar ökaryot hücreli can -
+lılara örnektir.

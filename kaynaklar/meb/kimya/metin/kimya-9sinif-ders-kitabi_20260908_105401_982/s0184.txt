@@ -1,0 +1,32 @@
+184
+2. Tema/Çeşitlilik
+Tam tersine sıvı yüzeyine uygulanan basınç azaltılırsa buhar molekülleri ya -
+yılıp kabarcık oluşturur ve kaynama gerçekleşir (Görsel 2.28).
+Aynı ortamda kaynayan farklı sıvıların buhar basınçları eşittir. Sabit basınç 
+altında kaynarken saf sıvıların sıcaklıkları değişmez. Sıvıya verilen enerji, sı-
+caklığı artırmak yerine sıvının molekülleri arasındaki çekim kuvvetini kırarak 
+sıvı fazdaki moleküllerin gaz fazına geçmesi için kullanılır.
+Saf bir sıvının kaynama sıcaklığı sıvı yüzeyine etki eden dış basınç ve mo-
+leküller arası etkileşim türüne bağlıdır. Kaynama olayının meydana gelmesi 
+için sıvının buhar basıncı (kabarcıkların içindeki gaz basıncı) dış basınca eşit 
+olmalıdır. Dolayısıyla bir sıvının yüzeyine uygulanan dış basınç yüksek ise 
+kaynamanın gerçekleşmesi için sıvının buhar basıncının da yüksek olması 
+gerekir. Yüksek buhar basıncının elde edilmesi için sıvı daha fazla enerji (ısı) 
+almalıdır. Bu durum kaynama noktasının yükselmesine neden olur. Özetle 
+sıvı yüzeyine etki eden dış basınç arttıkça sıvıların kaynama sıcaklığı artar, 
+dış basınç azaldıkça kaynama sıcaklığı düşer.  
+İçinde kabarcık olan bir kaba uygulanan basınç arttığında kabarcıktaki buhar 
+molekülleri birbirine yaklaşır, kabarcık küçülür ve buhar molekülleri sonunda 
+tekrar sıvıya dönüşür (Görsel 2.27). Bu durumda sıvının üstündeki basınç, 
+daha küçük iç basınca sahip kabarcıkların oluşumunu engelleyerek kayna -
+manın oluşmasını önler.
+Görsel 2.27 
+Basınç artışıyla 
+kabarcığın küçülmesi
+Görsel 2.28
+Basınç azalmasıyla 
+kabarcığın oluşumu
+Kaynama sıcaklığı ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu akıllı cihazınıza 
+okutunuz.

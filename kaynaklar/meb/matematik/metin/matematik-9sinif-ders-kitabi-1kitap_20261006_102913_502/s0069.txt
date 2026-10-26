@@ -1,0 +1,39 @@
+69
+1. Tema /  Sayılar
+21.	Uygulama
+Çevre Uzunluğu Hesabı
+Verilenlere göre aşağıdaki soruları cevaplayınız.
+Esin Öğretmen, tahtaya iki dikdörtgen çizmiştir. Şekil 1’deki ABCD dikdörtgeninin kenar uzunluklarını tam sayı, 
+Şekil 2’deki EFGH dikdörtgeninin kenar uzunluklarını rasyonel sayı olarak vermiştir. Öğrencilerinden dikdörtgen-
+lerin çevre uzunluklarını hesaplamalarını istemiştir. 
+3
+1
+B
+A
+C
+D
+F
+E
+G
+H
+3
+7  
+2
+9  
+Şekil 1 Şekil 2
+1. T abloda doğru cevaba ulaşan bazı öğrencilerin işlem adımları verilmiştir. İşlem adımlarından yararlanarak 
+a uzun kenar uzunluğu, b kısa kenar uzunluğu olmak üzere dikdörtgenlerin çevre uzunluğunu veren ifadelerin 
+cebirsel temsillerini örnekteki gibi bulunuz.
+ 
+Öğrenci Ç (ABCD) Ç (EFGH) Cebirsel Temsili
+Cemre cm23 21 8$$ += cm2 29 2 37 341$$ += 2a + 2b
+Ali cm22 381$$ += cm2 37 2 29 341$$ +=
+Elif cm23 12 48$$ += =_i cm2 29 37 2 641 341$$ += =cm
+Hasan cm12 42 83 $$+= =_i cm29 37 2 641 2 341$$+= =cm
+2.  T abloda bulduğunuz cebirsel temsilleri karşılaştırınız. Elde ettiğiniz cebirsel temsiller birbirine eşit midir?
+3.  Cebirsel temsiller arasındaki ilişki, tam sayılarda ve rasyonel sayılarda toplama veya çarpma işlemlerinin özel -
+liklerinden (değişme, birleşme, dağılma, etkisiz eleman, ters eleman, yutan eleman) hangileriyle ilişkilendiri -
+lebilir? Gerekçelerinizi sınıfta arkadaşlarınızla saygı ve nezaket çerçevesinde tartışarak fikirlerinizi paylaşınız.
+4.  Dikdörtgenin  kenar uzunlukları ac mv eb42 32==  cm olarak seçildiğinde irrasyonel sayılarda dört 
+işlemin hangi özellikleri (değişme, birleşme, dağılma, etkisiz eleman, ters eleman, yutan eleman) gözlemlene-
+bilir? Açıklayınız.

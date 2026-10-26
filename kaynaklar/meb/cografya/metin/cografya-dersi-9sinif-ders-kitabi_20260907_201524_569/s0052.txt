@@ -1,0 +1,65 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+52
+7. Kartogram Haritalar
+Kartogram haritalarda kıta, ülke veya il alanı bir istatistiksel verinin değerine 
+göre boyutlandırılıp gösterilir. Kartogram haritalar, sosyoekonomik değişken-
+lerin görselleştirilmesinde kullanılmaktadır. Kartogramlar, bilgisayar tekno-
+lojileri ve coğrafi bilgi sistemlerindeki gelişmelere bağlı olarak gün geçtikçe 
+yaygınlaşmaktadır (Harita 2.8).   
+Harita 2.8 
+Türkiye’de illere göre  
+nüfus dağılışı kartogram 
+haritası, 2025
+Harita 2.9 
+Rize ilinin fiziki haritası 
+Türkiye Nüfus Dağılışı Kartogramı
+Haritada Yükselti ve Yer Şekilleri Nasıl Gösterilir? 
+Harita, coğrafi unsurların düzlem üzerine aktarılmasıyla oluşturulur. Buna 
+karşılık yeryüzü düz değildir. Dünya, engebeli arazi yapısıyla üç boyutlu bir 
+yüzeye sahiptir. Yeryüzünün bu özelliği, farklı yükseltilerdeki sahaların ve yer 
+şekillerinin haritada gösterilmesini zorlaştırmaktadır. Yer şekillerini ve yüksel-
+tileri haritada belirgin bir şekilde göstermek amacıyla çeşitli yöntemler geliş -
+tirilmiştir. 
+a) Renklendirme Yöntemi
+Renklendirme yönteminde aynı yükselti veya derinlikteki yerler aynı renk tonla-
+rıyla gösterilerek o yere ait yükselti ve yer şekillerinin algılanması kolaylaştırılır. 
+Renklendirme yöntemiyle çizilen haritalarda renkler yükselti aralıklarını ifade 
+eder. Deniz seviyesinden itibaren yükselti arttıkça sırasıyla yeşil, açık yeşil, sarı, 
+turuncu, açık kahverengi ve koyu kahverengi renkleri kullanılır. Göl, deniz ve 
+okyanuslarda açık maviden koyu mavi tonlara doğru geçiş ise derinliğin arttığını  
+gösterir (Harita 2.9).   
+K
+KARADENİZ
+Trabzon
+Artvin
+Rize
+Erzurum
+Akarsu
+İl sınırı
+Derinlik (Metre)
+Yükseklik (Metre)
+0  0
+-50
+-100
+-250
+250
+-500
+500
+750
+-1.000
+1.000
+1.300
+1.600
+1.900
+2.500
+3.932
+-2.000
+-3.000
+İl merkezi
+0          25         50
+km
+1 milyon kişi
+Toplam nüfus 86,09 milyon
+Ankara
+İstanbul
+İzmir

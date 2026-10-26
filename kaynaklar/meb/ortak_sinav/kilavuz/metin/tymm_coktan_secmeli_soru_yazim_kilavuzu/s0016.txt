@@ -1,0 +1,41 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+16
+2.4. TYMM BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU Y AZIM SÜRECİ
+Bu bölüm, TYMM’nin ölçme ve değerlendirme yaklaşımı doğrultusunda tanımlanan becerilerin bağlam te -
+melli çoktan seçmeli sorularla ölçülmesinde izlenecek adımları kapsamaktadır.
+2.4.1. Bağlamın Kurgulanması
+Bağlam temelli çoktan seçmeli soru yazım süreci, ölçülmesi hedeflenen öğrenme çıktısı ve süreç bileşe -
+ninin doğasına uygun günlük hayat bağlamlarının oluşturulmasıyla başlar. Bağlam kurgusunda seçilen du -
+rumun öğrencinin günlük hayatta karşılaşabileceği gerçek yaşam senaryolarını yansıtmasına ve akademik 
+merakını uyandıracak nitelikte olmasına özen gösterilmelidir. Bağlamda kullanılan dil yapısı, söz varlığı ve 
+cümle uzunluğu; öğrencinin sınıf seviyesine ve bilişsel gelişimine tam uygunluk göstermelidir. Ayrıca kulla -
+nılan matematiksel modeller, terminoloji ve sayısal veriler; öğrencinin hazırbulunuşluk düzeyini aşmama -
+lı, öğrenme çıktısıyla örtüşmeli ve kavram kargaşası oluşturmayacak nitelikte yapılandırılmalıdır. Bağlam 
+yalnızca bir dekor işlevi görmemelidir. Eğer bir soru bağlamdaki metin veya görsel incelenmeden sadece 
+genel kültür veya ön bilgiyle çözülebiliyorsa o bağlam işlevsizdir ve soru yeniden kurgulanmalıdır (Daneman 
+& Hannon, 2001).
+Bağlamlar, yalnızca belirli bir sosyoekonomik çevrenin veya grubun anlayabileceği terimlerden (örneğin 
+golf sporu, borsa işlemleri) seçilmemelidir. Herkesin erişebileceği ortak bağlamlar (okul, park, doğa, alış -
+veriş vb.) tercih edilmelidir. Bağlam, sadece bir hikaye anlatmamalı, öğrenciye gerçek bir disiplin uzmanının 
+(bilim insanı, tarihçi, mühendis vb.) karşılaşabileceği türden “karmaşık ve yapılandırılmamış” bir görev de 
+sunmalıdır (Wiggins, 1998).
+Yazar, bağlamı oluşturduktan sonra bağlamın işlevselliğini kontrol etmelidir. Bu amaçla şu soru sorulabi -
+lir: “Öğrenci bu metni veya görseli incelemeden, sadece ön bilgisiyle veya seçeneklerden giderek soruyu 
+ce vaplayabilir mi?” Eğer cevap “evet” ise bağlam işlevsizdir ve duruma göre bağlam ve/veya soru yeniden 
+kurgulanmalıdır. 
+Bağlam Oluşturmak için Kullanılabilecek Kaynaklar
+Yazarlar, sadece kurgusal metinlere bağlı kalmak yerine aşağıdaki stratejik veri kaynaklarını ve disipline 
+özgü noktaları kullanarak bağlamlarını yapılandırabilir.
+1. Bilimsel ve T eknik Veri Kaynakları (Kanıta Dayalı Bağlamlar): Fen bilimleri, matematik, coğrafya gibi 
+disiplinlerde bağlamın gücü kullanılan verinin gerçekliğinden gelir.
+• Küresel Veri Bankaları (NASA, FAO, Dünya Bankası): İklim değişikliği senaryoları, dünya gıda fi -
+yatları endeksi veya ülkelerin enerji tüketim verileri soru uyarıcısı olarak kullanılabilir.
+• Resmî İstatistikler (TÜİK, MGM, AFAD): Türkiye’nin demografik yapısındaki değişimler, meteoro -
+lojik uç değerler (aşırı sıcaklıklar, sel frekansları) veya deprem riski tabloları kullanılabilir.
+• Dijital Vatandaşlık ve Büyük Veri: Bir e-ticaret sitesindeki kullanıcı yorumlarının faydalılık oran -
+ları veya bir navigasyon uygulamasının yoğunluk haritaları matematiksel modelleme için kulla -
+nılabilir.
+2. Belge, Kanıt ve Arşiv Odaklı Bağlamlar (Sosyal ve Beşerî Bilimler): Tarih, edebiyat ve sosyal bilgilerde 
+bağlam, öğrenciyi kanıtları sorgulamaya teşvik etmelidir.
+• Müze ve Sanat Katalogları: Bir müze objesinin (bir mühür, para vb.) fiziksel özellikleri üzerinden 
+dönemin ekonomi ve hukuk sistemi hakkında çıkarım yapılması sağlanabilir.

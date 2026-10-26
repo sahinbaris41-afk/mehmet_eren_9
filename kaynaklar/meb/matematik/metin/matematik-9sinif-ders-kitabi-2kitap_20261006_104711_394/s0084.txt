@@ -1,0 +1,41 @@
+84
+4. Tema / Eşlik ve Benzerlik
+Eşlik ve Benzerlikle İlgili Problem Çözme
+Bu	ödevde	sizden	eşlik	ve	benzerlikle	ilgili	3	farklı	problem	durumu	araştırmanız	veya	oluşturmanız,	
+bu	problemlerin	çözümlerini	yapmanız	beklenmektedir.
+Ödeve başlamadan önce aşağıdaki hususlara dikkat ediniz.
+• Öğretmeninizin	rehberliğinde	3	veya	4	kişilik	gruplara	ayrılınız.	
+• Bir	çalışma	planı	oluşturunuz,	yapılacak	işleri	bu	planda	belirtiniz.
+• Çalışmanızı	oluştururken	takip	edeceğiniz	adımları	belirleyiniz.
+Ödev esnasında aşağıdaki hususlara dikkat ediniz.
+• En	az	3	farklı	problem	durumu	araştırınız	veya	oluşturunuz.
+• Problem	durumlarından	birinin	eşlik	ve	benzerlikle	ilgili	kavramların	kullanıldığı	bir	yapı	örneği	
+içerdiğinden	emin	olunuz.	
+• Problem	durumlarının	çözümlerini	aşamalı	olarak	ve	açıklayarak	yapınız.
+• Problemlerinizi	ve	çözümlerinizi	geometrik	şekiller	kullanarak	görselleştiriniz.
+• Yapı	örneği	içeren	problem	durumunu	görselleştirecek	bir	ürün	(yapının	taslak	planını	içeren	
+afiş	veya	poster,	yapının	maketi	vb.)	oluşturunuz.
+• Çalışma	süresince	grup	arkadaşlarınızla	iletişiminizi	saygı	çerçevesinde	sürdürünüz.
+• Çalışmanız	için	sunum	hazırlayınız.
+• Ödevinizi	öğretmeninizin	belirlediği	sürede	tamamlayınız.
+Ödev bitiminde aşağıdaki hususlara dikkat ediniz.  
+• Ödevinizi	tamamladıktan	sonra	sınıfta	sunarak	arkadaşlarınızla	paylaşınız.
+• Çalışmanızı	öğretmeninize	zamanında	teslim	ediniz.
+Proje	ödeviniz	aşağıdaki	karekodda	verilen	analitik	dereceli	puanlama	anahtarı	ile	öğretmeniniz	tara-
+fından	değerlendirilecektir.
+Proje Ödevi   
+Kontrol Noktası
+• Eşlik ve benzerlikle ilgili kavramların, teoremlerin ve ulaşılan çıkarımların yer aldığı problem durumlarının 
+çözümleri yapılırken öncelikle problemin sayısal ve görsel verileri ile ulaşılmak istenen sonuçlar arasındaki 
+ilişkiler belirlenir.
+• Eş ya da benzer üçgenler; bu ilişkilerden yararlanılarak, eşlik ve benzerlik koşulları ile bu koşullardan hare-
+ketle ispatlanan teoremler kullanılarak belirlenir ve problemin çözümü için gereken strateji oluşturulur. 
+Problemin çözümü yapılırken gerekli sayısal veriler, matematiksel temsiller kullanılarak elde edilir. Problemin 
+çözümü yapılarak uygulanan stratejinin başka hangi durumlarda kullanılabileceği değerlendirilir. 
+• Problem farklı yollarla çözülür ve çözümler karşılaştırılır.
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.
+Analitik dereceli puanlama anahtarına 
+ulaşmak için karekodu okutunuz.
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

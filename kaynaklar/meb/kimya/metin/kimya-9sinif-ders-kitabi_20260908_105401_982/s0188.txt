@@ -1,0 +1,67 @@
+188
+2. Tema/Çeşitlilik
+Bir kozmetik firması, yeni bir nemlendirici cilt serumu üretmeye karar vermiştir. Bu serumun formülünü 
+geliştirirken viskoziteyi dikkat edilmesi gereken durumlara eklemiştir. Serumun çok akıcı olması cilde uygu-
+lanırken dağılmasına neden olurken çok viskoz olması ise uygulanmasını zorlaştırabilmektedir. Bunun üze -
+rine kimyagerler, serumun etken maddeleri olan su ve gliserinin moleküler yapısını incelemiş ve serumun 
+viskozitesini düzenlemek amacıyla farklı viskoziteye sahip bu sıvıların kullanılabileceğine karar vermiştir. 
+Laboratuvarda yapılan testlerde farklı miktarlarda su ve gliserin kullanılarak serumun ideal bir viskoziteye 
+sahip olması sağlanmıştır. Ürün etiketinde ürünün ideal viskozitesinin korunabilmesi için buzdolabında veya 
+doğrudan güneş ışığı alan bir ortamda saklanmaması gerektiği bilgisi verilmiştir.
+Nemlendirici cilt serumunda kullanılan gliserin ve suyun moleküler yapısından, ürün etiketinde verilen 
+bilgiden ve Tablo 2.6’daki viskozite değerlerinden yola çıkarak sıvıların viskozitesini etkileyen faktörlerin 
+neler olabileceğini belirleyiniz.
+Düşün
+Eşleş
+Paylaş  
+Sıvıların viskozitesi günlük hayat ve endüstri uygulamaları için oldukça önem-
+lidir. Örneğin domates sosunun şişeden kolay veya zor çıkarılmasını; bal, 
+pekmez gibi gıdaların ekmeğe sürülebilme özelliğini ve şampuanların saça 
+yayılma kolaylığını sıvıların viskozitesi belirler. Bununla birlikte şurup for -
+mundaki ilaçlar, nar ekşisi, sos, reçel gibi sıvıların kullanımında da viskozite 
+önemlidir. Viskozitesi çok yüksek sıvıların şişeden akma süresi uzundur ve 
+akan sıvının şişede kalan kısımdan kopması zor olur. Viskozite düşük olursa 
+da miktar kontrolünü sağlamak zorlaşır. Viskoziteye endüstriden de çeşitli 
+örnekler verilebilir. Motor yağının viskozitesi motorun performansını, hidroe -
+lektrik santrallerde kullanılan yağların viskozitesi ise türbinlerin performansı-
+nı belirler. Boyanın akıcılığı hem uygulama kolaylığı sağlar hem de boyanın 
+sürülen yeri kaplama ve kapatma niteliğini etkiler. Bir ürünün viskozitesinin 
+istenen değerde olmaması tüketiciler tarafından o ürünün güvenilmez ve dü-
+şük kaliteli olduğu şeklinde yorumlanabilir. Bu nedenle fabrikalarda genellikle 
+ürünlerin viskozitesini test eden kalite kontrol laboratuvarları bulunur. Bu la -
+boratuvarlarda sıvı ürünlerin viskozitesi günlük olarak test edilir.
+Aşağıda sıvıların viskozitesini etkileyen faktörleri belirlemeye ilişkin bir metin ve soru verilmiştir. Metni oku-
+yarak sorunun cevabı ile ilgili düşüncelerinizi yazınız. Cevabınızı eşleştiğiniz bir grup arkadaşınızla değerlen-
+diriniz. Ortak düşüncelerinizi sınıf arkadaşlarınızla etkili iletişim kurarak paylaşınız.
+Sıvıların Viskozitesini Etkileyen FaktörlerEtkinlik-2.24
+Gliserin
+CH2 CH CH2
+OH OH OH
+Molekül 1
+Hidrojen 
+bağı
+Molekül 2
+H C C C H
+H C C C H
+H O
+O
+H
+O
+O
+H
+O
+H
+H
+O
+H
+H
+H
+H HH H
+Su
+H OH
+O
+O
+H
+H
+H
+H

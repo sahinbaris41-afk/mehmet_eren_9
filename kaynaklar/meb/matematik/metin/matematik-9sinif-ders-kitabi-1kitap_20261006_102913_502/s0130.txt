@@ -1,0 +1,63 @@
+130
+2. Tema /  Nicelikler ve Değişimler
+h fonksiyonunun grafiği, g fonksiyonunun grafiğinin x eksenine göre yansımasının alınmasıyla elde edilir 
+(Grafik 2.7). 
+Grafik 2.7: h fonksiyonunun grafik temsili 
+                   (a, b ! R+)
+O x
+y
+h(x) = -|ax + b|
+b
+b
+a
+Gerçek sayılarda t(x) = | ax + b | + c ve  r(x) = | ax + b | - c (a, b, c ! R+)  şeklinde tanımlı fonksiyonların gra-
+fikleri, gerçek sayılarda g(x) = | ax + b | şeklinde tanımlı fonksiyonların grafiklerinden yararlanılarak çizilebilir.
+t fonksiyonunun grafiği, g fonksiyonunun grafiği y ekseni boyunca pozitif yönde c birim ötelenerek elde 
+edilir (Grafik 2.8). r fonksiyonunun grafiği, g fonksiyonunun grafiği y ekseni boyunca negatif yönde c birim 
+ötelenerek elde edilir (Grafik 2.9). Grafik 2.9ʼda bc1  olduğundan r fonksiyonunun grafiğinin y eksenini 
+kestiği noktanın ordinat değeri negatiftir. bc2  için r fonksiyonunun grafiğinin y eksenini kestiği nokta-
+nın ordinat değerinin pozitif olacağına dikkat ediniz.
+Grafik 2.8: t fonksiyonunun grafik temsili  
+       (a, b, c ! R+)
+b
+b+c
+O x
+y
+g(x) = |ax + b|
+O x
+y
+g(x) = |ax + b|
+t(x) = |ax + b| + c
+r(x) = |ax + b| - c
+Grafik 2.9: r fonksiyonunun grafik temsili    
+       (a, b, c ! R+)
+b
+b-c
+ba
+b
+a
+Gerçek sayılarda k (x) = - | ax + b | + c ve m( x) = - | ax + b | - c (c ! R+)  şeklinde tanımlı fonksi -
+yonların grafikleri, gerçek sayılarda h (x) = - | ax + b | şeklinde tanımlı fonksiyonların grafiklerinden 
+faydalanılarak çizilebilir.
+k fonksiyonunun grafiği, h fonksiyonunun grafiği y ekseni boyunca pozitif yönde c birim ötelenerek 
+elde edilir (Grafik 2.10). m fonksiyonunun grafiği, h fonksiyonunun grafiği y ekseni boyunca negatif 
+yönde c birim ötelenerek elde edilir (Grafik 2.11). 
+Grafik 2.10: k fonksiyonunun grafik temsili  
+       (a, b, c ! R+)
+-b+c
+-b
+O x
+y
+h(x) = -|ax + b|
+O x
+y
+h(x) = -|ax + b|
+k(x) = -|ax + b| + c
+m(x) = -|ax + b| - c
+Grafik 2.11: m fonksiyonunun grafik temsili  
+       (a, b, c ! R+)
+-bb
+a
+b
+a
+-b-c

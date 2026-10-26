@@ -1,0 +1,179 @@
+277
+10. FORM
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+ Sıvıların  
+niteliklerini
+tanımlama
+ (20 puan)
+Gözlem yapacağı 
+sıvılara ilişkin nite-
+likleri tanımlamamış 
+ve niteliklerin farkını 
+belirlememiştir. 
+(1-5 puan)
+Gözlem yapacağı 
+sıvıların nitelikleri-
+ni kısmen tanım-
+lamış, niteliklerin 
+farkını kısmen 
+belirlemiştir.
+(6-10 puan)
+Gözlem yapacağı 
+sıvıların nitelik-
+lerini tanımla-
+mış, niteliklerin 
+farkını kısmen 
+belirlemiştir.
+(11-15 puan)
+Gözlem yapacağı sı-
+vılara ilişkin nitelikleri 
+tanımlamış ve nite-
+liklerin farkını doğru 
+belirlemiştir.
+(16-20 puan)
+Deney planı  
+hazırlama
+(10 puan)
+Deney planı 
+hazırlamamış 
+veya deneyle ilgili 
+olmayan bir plan 
+hazırlamıştır.
+(1-2 puan)
+Kullanacağı 
+malzemelerde ve 
+deney sürecinde 
+eksiklikler bulun-
+maktadır.
+(3-4 puan)
+Kullanacağı mal-
+zemelerde veya 
+deney sürecinde 
+eksiklikler bulun-
+maktadır.
+(5-7 puan)
+Kullanacağı mal-
+zemeleri ve deney 
+sürecini tam olarak 
+belirtmiştir.
+(8-10 puan)
+Deney 
+düzeneğini 
+hazırlama
+(10 puan)
+Deney düzeneğin-
+deki malzemelerde 
+eksiklikler vardır ve 
+yanlış yerde kulla-
+nılan malzemeler 
+bulunmaktadır. 
+(1-2 puan)
+Deney düzene-
+ğindeki malze-
+melerin bir veya 
+ikisi yanlış yerde 
+kullanılmıştır.
+(3-4 puan)
+Deney düzeneğin-
+de ihtiyaç duyulan 
+malzemelerin bir 
+veya ikisi eksiktir.
+(5-7 puan)
+Deney düzeneğini 
+tam ve doğru olarak 
+hazırlamıştır.
+(8-10 puan)
+Deneyin 
+yapılışı
+(20 puan)
+Deney basamak-
+larını doğru bir 
+şekilde gerçekleştir-
+memiştir.
+ (1-5 puan)
+Deney basamak-
+larından iki veya 
+daha fazlasında 
+hata yapmıştır.
+(6-10 puan)
+Deney basamak-
+larının birinde hata 
+yapmıştır.
+(11-15 puan)
+Deneyin basamakları-
+nı tam olarak gerçek-
+leştirmiştir.
+(16-20 puan)
+Deneyde elde 
+ettiği verileri 
+kaydetme
+(20 puan)
+Değişkenler arası 
+ilişkiyi belirlemek 
+üzere deney veri-
+lerini kaydedeme-
+miştir.
+(1-5 puan)
+Değişkenler arası 
+ilişkiyi belirlemek 
+üzere deney veri-
+lerini kaydederken 
+hata yapmıştır.
+(6-10 puan)
+Değişkenler arası 
+ilişkiyi belirlemek 
+üzere deney 
+verilerini doğru 
+kaydetmiştir fakat 
+tek gözlem verisi 
+kaydetmiştir.
+(11-15 puan)
+Değişkenler arası iliş-
+kiyi belirlemek üzere 
+deney verilerini doğru 
+kaydetmiştir ve birden 
+fazla gözlem verisi 
+kaydetmiştir.
+(16-20 puan)
+Deney veri-
+lerini
+açıklama
+ (20 puan)
+Sıvılar hakkında 
+elde ettiği benzer 
+verilerden hareketle 
+örüntüleri belirleme-
+miştir.
+(1-5 puan)
+Sıvılar hakkında 
+elde ettiği ben-
+zer verilerden 
+hareketle örün-
+tüleri belirlemiştir 
+fakat keşfettiği 
+örüntüleri doğru 
+açıklayamamıştır. 
+(6-10 puan)
+Sıvılar hakkında 
+elde ettiği benzer 
+verilerden hare-
+ketle örüntüleri 
+belirlemiştir ve 
+keşfettiği örün-
+tüleri kısmen 
+açıklamıştır.
+(11-15 puan)
+Sıvılar hakkında 
+elde ettiği benzer 
+verilerden hareketle 
+örüntüleri belirlemiştir 
+ve keşfettiği örüntüleri 
+doğru açıklamıştır.
+(16-20 puan)
+Tablo Puanı
+Öğretmen Geri Bildirimi:
+Bu form, öğrencilere “Akışkanlık” konusunda verilen performans görevini değerlendirmeniz amacıyla ha-
+zırlanmıştır. Öğrencinin belirtilen ölçütlere ilişkin öğrenme düzeyini tablodaki açıklamalardan hareketle 
+puanlayınız. 
+PERFORMANS GÖREVİ ÇALIŞMASI ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Öğrencinin Adı Soyadı:        Numarası:   Sınıfı:

@@ -1,0 +1,18 @@
+120
+5. Tema/Algoritma ve Bilişim  
+2. Tablodaki verileri kullanarak düğümler A, B, C ve D; ayrıtlar mesafeleri verilen sorumluluk sahasındaki yollar 
+olacak şekilde bir çizge oluşturunuz.
+ 
+Çizge Çizim Alanı
+3. Toplam mesafeyi en aza indiren algoritmanın çalışması için gereken girdi verilerini ve beklenen çıktıları tanım-
+layınız.
+ 
+4. Toplam mesafeyi en aza indiren algoritmanın işleyişini algoritmik doğal dil, akış şeması ve sözde kodla ifade 
+ediniz.
+ 
+ 
+Algoritmik Doğal Dil
+ Akış Şeması
+Sözde Kod
+5. Oluşturduğunuz çizge üzerinde çöp arabasının katettiği topla m mesafeyi en aza indiren rotayı bulunuz.
+ 

@@ -1,0 +1,24 @@
+85
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+10. SINIF
+1. TEMA: GEOMETRİK ŞEKİLLER
+Bu temada öğrencilerin dik üçgende trigonometrik oranlara (sinüs, kosinüs, tanjant, kotan-
+jant), üçgenin yardımcı elemanlarına ve üçgenin alanına dair çıkarımlar yapabilmeleri; sinüs 
+ve kosinüs teoremlerini doğrulayabilmeleri veya ispatlayabilmeleri amaçlanmaktadır.
+DERS SAATİ 36
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme (MAB1.1. Matematiksel Doğrulama veya İspat Yapma)
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık
+ 
+Değerler D3. Çalışkanlık
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER -
+BECERİLER ARASI 
+İLİŞKİLER MAB2. Matematiksel Problem Çözme, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

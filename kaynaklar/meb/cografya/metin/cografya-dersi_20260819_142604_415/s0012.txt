@@ -1,0 +1,28 @@
+12
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+DERS KİTABI FORMA SAYISI KİTAP EBADI
+COĞRAFY A 9 14-16 19,5 cm X 27,5 cm
+COĞRAFY A 10 14-16 19,5 cm X 27,5 cm
+COĞRAFY A 11 16-18 19,5 cm X 27,5 cm
+COĞRAFY A 12 16-18 19,5 cm X 27,5 cm
+1.5. COĞRAFY A DERSİ KİTAP FORMA SAYILARI VE KİTAP EBATLARI
+1.4. SEÇMELİ COĞRAFY A DERSİ ÖĞRETİM PROGRAMI (11 VE 12. SINIFLAR) ÖĞRENME ÇIKTILARI
+Coğrafya Dersi Öğretim Programı, 11 ve 12. sınıflarda haftada 4 ve 2 ders saati uygulanabilecek şekilde düzenlenmiştir. 
+Bu sınıflarda haftada 4 saat okutulacak seçmeli coğrafya derslerinde öğrenme çıktılarının tamamı, 2 saat okutulacak 
+seçmeli coğrafya derslerinde ise aşağıda belirtilen ünitelere ait öğrenme çıktıları uygulanacaktır.
+11. Sınıf Coğrafya Dersi (2 Saat)
+1. Ünite: Coğrafyanın Doğası: COĞ.11.1.1.
+2. Ünite: Mekânsal Bilgi Teknolojileri: COĞ.11.2.1.
+3. Ünite: Doğal Sistemler ve Süreçler: COĞ.11.3.1, COĞ.11.3.2.
+4. Ünite: Beşerî Sistemler ve Süreçler: COĞ.11.4.1.
+5. Ünite: Ekonomik Faaliyetler ve Etkileri: COĞ.11.5.1, COĞ.11.5.4.
+6. Ünite: Afetler ve Sürdürülebilir Çevre: COĞ.11.6.1.
+7. Ünite: Bölgeler, Ülkeler ve Küresel Bağlantılar: COĞ.11.7.1.
+12. Sınıf Coğrafya Dersi (2 Saat)
+1. Ünite: Coğrafyanın Doğası: COĞ.12.1.1.
+2. Ünite: Mekânsal Bilgi Teknolojileri: COĞ.12.2.1.
+3. Ünite: Doğal Sistemler ve Süreçler: COĞ.12.3.1, COĞ.12.3.3.
+4. Ünite: Beşerî Sistemler ve Süreçler: COĞ.12.4.1.
+5. Ünite: Ekonomik Faaliyetler ve Etkileri: COĞ.12.5.3.
+6. Ünite: Afetler ve Sürdürülebilir Çevre: COĞ.12.6.3, COĞ.12.6.4, COĞ.12.6.5.
+7. Ünite: Bölgeler, Ülkeler ve Küresel Bağlantılar: COĞ.12.7.1.

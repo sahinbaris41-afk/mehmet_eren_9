@@ -1,0 +1,50 @@
+63
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Ön değerlendirme sürecinde soru cevap tekniği kullanılarak  öğrencilerin öteleme ve yan-
+sıma dönüşümü, çokgende eşlik ve benzerlik kavramları, yeterli eleman ile eşlik koşulları 
+arasındaki ilişkiler  ile Pisagor teoremine ilişkin bilgileri değerlendirilebilir. Verdikleri ce -
+vaplardan hareketle öğrencilerde görülen eksiklikler ve varsa hatalı anlamalar üzerinde 
+durulur, öğrencilerin bilgilerini doğru anlamlandırmaları ve öğrenme eksikliklerini tamam-
+lamaları sağlanabilir. 
+Köprü Kurma Öğrencilerin bir şekil ve şeklin yansıma, öteleme ve dönme dönüşümü altındaki görüntü -
+lerinin bulunduğu örneği incelemesi sağlanarak dönüşümler arasında bir ilişki olup olma -
+dığını sorgulamaları beklenebilir. Öğrencilerin öteleme ile yansıma  ve dönme ile yansıma 
+dönüşümleri arasındaki ilişkileri fark etmeleri amaçlanabilir. Önceden çıkarımını yaptıkla-
+rı benzerlik koşullarını gerçek yaşam problemlerinde nasıl kullanabileceklerine dair farklı 
+fikirlerin/yöntemlerin oluşturulması amaçlanabilir. 
+Öğrenme-Öğretme 
+Uygulamaları MAT.9.4.1 
+Ortaokulda  yansıma ve öteleme dönüşümüyle ilgili çıkarımlarda bulunan öğrencilerin bu 
+dönüşümlerin özelliklerine dair çeşitli örnekler üzerinden bu çıkarımlarını hatırlamaları 
+ve yeni çıkarımlarda  bulunmaları sağlanır. Örneğin bir şeklin ve o şeklin bir doğruya göre 
+yansıma dönüşümü altındaki görüntüsünün bulunduğu örnekler incelenir. Öğrencilerin 
+şekil ile yansıma dönüşümü altındaki görüntüsünü karşılaştırmaları sağlanır. Öğrenciler -
+den şeklin değişen ve değişmeyen özelliklerinin neler olduğu hakkında tartışmaları iste -
+nir. İncelemeler sonucunda öğrencilerin bu özelliklere ilişkin varsayımlarını belirlemeleri 
+beklenir. Benzer şekilde öteleme dönüşümü ile ilgili örnekler de incelenir ve öğrencilere 
+bu dönüşümün özelliklerine ilişkin varsayımlar oluşturmaları için fırsat verilir. Öğrenciler 
+şekiller ve şekillerin dönüşümler altındaki görüntülerini karşılaştırırken sorularla  (“Şekil ile 
+şeklin dönüşümler altındaki görüntüsünün kenar uzunlukları ve çevre uzunlukları eşit mi-
+dir?” gibi) öğrencilere rehberlik edilmesi önemlidir. Öğrencilerin sundukları varsayımlarla 
+ilgili tartışma yapmaları sağlanarak konuya ilişkin genellemelere ulaşmaları beklenir. Öğ -
+rencilerin farklı örnekler üzerinden varsayım ve genellemelerini karşılaştırmaları sağlanır. 
+Sonuçta ulaştıkları genellemeler, önerme (“Bir şeklin bir doğruya göre yansıma dönüşümü 
+altındaki görüntüsü ile o şekil eştir.” gibi) olarak ifade edilir. Elde edilen önermelerin değer-
+lendirilmesi yine tartışma yoluyla yapılır. Bu değerlendirmelerde dönüşümler sonrası olu-
+şan görüntülerin baştaki şekle eş olduğu, her bir dönüşüm için vurgulanır. Ayrıca öğren -
+cilerin ortaokulda öğrendiği yansıma ve öteleme dönüşümleri arasındaki ilişkiyi (bir şeklin 
+öteleme dönüşümü altındaki görüntüsünün o şeklin düzlemde paralel iki doğruya göre 
+sırayla iki kez yansıma dönüşümü uygulanmasıyla elde edilmesi gibi) fark etmesi sağlanır. 
+Bu bağlamda dönme dönüşümünün yansıma dönüşümü ile ilişkisi vurgulanır. Öğrencilerin 
+bir şeklin dönme dönüşümü altındaki görüntüsünün o şeklin düzlemde kesişen iki doğruya 
+göre sırayla yansıma dönüşümü uygulanmasıyla elde edildiğine ilişkin çıkarımda bulunma-
+ları sağlanır. Çıkarımların değerlendirilmesi bağlamında dönme dönüşümünün bileşenleri 
+olan dönme merkezi ve dönme açısı açıklanır. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin geometrik bir şeklin yansıma ve öteleme dönüşümü altındaki görüntüsü -
+ne ilişkin çıkarım yapabildiği, dönüşümleri içeren problemleri çözebildiği, çalışmaları 
+sonucu bir üçgeni oluşturan yeterli eleman ile eşlik koşulları arasındaki ilişkileri be -
+lirleyebildiği kabul edilmektedir. Benzer nesneler/şekiller arasındaki ilişkiyi yorumla -
+yabildiği, çokgenlerin benzerliğini değerlendirebildiği, Pisagor teoremini kullanabildiği 
+ve ilgili problemleri çözebildiği kabul edilmektedir. 

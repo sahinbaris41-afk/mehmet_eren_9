@@ -1,0 +1,44 @@
+6
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+1.2.3. Disiplinler Arası ve Beceriler Arası İlişkiler
+Programda disiplinler arası ilişkiler kurularak öğrencilerin farklı disiplinlerde edindikleri bilgi ve becerileri matematik öğ-
+renme sürecinde nasıl kullanabilecekleri belirtilmiştir. Bu bağlamda hem “disiplinler arası” hem de “beceriler arası” ilişki 
+kurulması önemsenmektedir.
+Disiplinler arası ilişkiler başta fen bilimleri olmak üzere farklı disiplin ve alanların matematiği kullandığı bağlam ve prob -
+lemlere vurgu yapmakta olup programın temaları bu başlık altında farklı disiplinlerle ilişkilendirilmiştir. Böylelikle mate-
+matik öğrenme ve öğretme sürecinin disiplinler arası bağlam, problem ve etkileşimle daha nitelikli, faydalı ve ilgi çekici 
+bir hâle getirilmesi amaçlanmıştır. 
+Beceriler arası ilişkiler ise öğrenme çıktılarının odağında olmadığı hâlde temanın öğrenme çıktılarına ulaşılması için ge -
+rekli olan ve aynı zamanda temanın desteklediği alan becerilerini ve kavramsal becerileri ifade etmektedir.
+Öğrenme ve öğretme süreçlerinin disiplinler arası ve beceriler arası ilişkilerin kullanılmasını sağlayacak şekilde planlan-
+masının programın bütüncül yaklaşımının başarıya ulaşması için önemi göz önünde bulundurulmalıdır.
+1.2.4. Öğrenme Çıktıları
+Ortaöğretim Matematik Dersi Öğretim Programı’nın temaları belli bir bilgi ve beceri bütünlüğünü yansıtan “öğrenme çık-
+tıları” etrafında organize edilmiştir. Öğrenme çıktıları; temanın sonunda öğrencinin ulaşması beklenen, alana ilişkin kav-
+ram, yöntem ve işlem bilgileri ile becerileri bir arada sunan öğretimsel amaçlar olarak düşünülebilir. Öğrenme çıktıları 
+kavramsal beceriler ve matematik alan becerilerinin ortaya koyduğu eylemlerin yanı sıra bu becerileri oluşturan “süreç 
+bileşenleri”nin de rehberliğinde hazırlanmıştır. Beceri edinimi süreci; bazı eylemlerin sistematik, bilinçli ve istekli bir şe-
+kilde gerçekleştirilmesini gerektirmektedir. Bu bağlamda öğrenme çıktılarına ulaşmak için becerilerin süreç bileşenle -
+rinin titizlikle gerçekleştirilmesi ve matematik öğrenme-öğretme ortamlarının her bir öğrencinin ilgili süreç bileşenlerini 
+deneyimlemesini sağlayacak şekilde tasarlanması beklenmektedir. 
+1.2.5. İçerik Çerçevesi
+Matematik dersi öğretim programları, ilköğretim ve ortaöğretim düzeyinde bilgi ve beceriler bağlamında bütüncül ve 
+tutarlı bir yaklaşımla oluşturulmuştur. İlkokul Matematik Dersi Öğretim Programı ’nın alana özgü içeriği ve geliştirmeyi 
+hedeflediği beceriler, Okul Öncesi Eğitim Programı’na dayanmaktadır. Benzer şekilde Ortaokul Matematik Dersi Öğretim 
+Programı, bilgi ve beceriler bağlamında İlkokul Matematik Dersi Öğretim Programı’na, Ortaöğretim Matematik Dersi Öğre-
+tim Programı ise Ortaokul Matematik Dersi Öğretim Programı’na dayanmaktadır. Her bir düzeyde hangi bilgi ve becerilere 
+ne şekilde yer verilmesi gerektiği belirlendikten sonra bu bilgi ve becerilerin hem önceki yılların programı hem de iler -
+leyen yılların programları ile ilişkisinin açık ve tutarlı bir şekilde yapılandırılması amaçlanmıştır. Bu anlamda matematik 
+dersi öğretim programlarının her birinin kendi içinde bir bütün olarak değerlendirilmesi gerekir. Ayrıca bu programların 
+farklı düzeylerin matematik dersi öğretim programları ile bütünlüğü de göz önünde bulundurulmalıdır. Öğretmenlerden 
+öğrenme-öğretme süreçlerini tasarlarken sadece kendi programının bilgi ve becerileriyle ilgili amaç ve içeriği değil diğer 
+düzeylerin matematik programlarının bilgi ve becerileriyle ilgili amaç ve içeriği de incelemeleri, Türkiye Yüzyılı Maarif 
+Modeli’nin bütüncül hedeflerini gerçekleştirmeyi sağlayacak bir matematik öğretimi anlayışıyla hareket etmeleri bek -
+lenmektedir.
+Temaların içerik çerçevesindeki birinci bileşeni, içerikle ilgili “genellemeler”dir. Matematiksel kavramların, işlemlerin ve 
+becerilerin matematik öğrenme-öğretme süreçlerine yansıtılmasına rehberlik eden bu genellemeler; tema ile ilgili ana 
+fikirler olarak da düşünülebilir. Bu ana fikirler; öğretmenlerin temanın bilgi ve beceri hedefini etkin şekilde çerçevele -
+mesini, öğrenme ve öğretme sürecini uygun pratik ve kararlarla yürütmesini desteklemektedir. Program tasarımında 
+her bir tema ile ilgili sınırlı sayıda ve tema çerçevesinde belli oranda gerçekleştirilebilir genellemelere yer verilmiştir. 
+Bazı genellemeler bir temanın kapsamı ile sınırlıyken bazıları ancak benzer temalar etrafında 2-3 yıl boyunca sunulacak 
+öğretim faaliyetlerinin bir ürünüdür. 

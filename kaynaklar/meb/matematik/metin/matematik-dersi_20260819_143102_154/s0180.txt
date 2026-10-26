@@ -1,0 +1,47 @@
+180
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+millî ve manevi değerlere saygı duyma eğilimlerinin, kültürel mirası korumaya verdikleri de -
+ğerin geliştirilmesine hizmet eder (D14.3, D19.3, OB5). Bina tasarım (mühendislik) örnekleri 
+incelenir, öğrencilerin kullanılan geometrik cisimlerin neden tercih edildiğine ilişkin fikirle -
+rini paylaştığı bir ortam oluşturulur. Tartışma, sorularla (“Estetik kaygılar dışında bir binanın 
+küre şeklinde tasarlanmasının nedeni ne olabilir? ” gibi) yönlendirilir. Öğrencilerin görsel yo-
+rumlama tekniğini kullanarak konuyla ilgili fikir alışverişi yapmalarının sağlanması, kültürel 
+mirasa değer verme hassasiyetlerinin artırılmasını ve sanatsal zevklere bakış açısının ge -
+liştirilmesine yardımcı olarak estetik değerinin kazanılmasını da destekleyecektir (D7.1). Öğ-
+rencilere geometrik cisimlerin ayrıt ve yüzey açınımları ile alan ve hacim bağıntılarına yönelik 
+bir performans görevi verilebilir.
+MAT.12.3.3
+Öğrencilere geometrik cisimlerin açınımlarını, yüzey alanını, hacim bağıntılarını ve dikdört -
+genler prizmasının cisim köşegenini kullanabilecekleri farklı problem durumları sunularak 
+bu problemleri incelemeleri istenir. Öğrencilere sunulacak bu problemlerde geometrik ci -
+simlerin günlük hayatta kullanımına ilişkin örneklere özellikle yer verilir  (OB4). Öğrencilerin 
+sunulan problem durumlarına ilişkin olarak öncelikle problemin parçaları (sayısal/nicel, gör-
+sel/şekil gibi) ve bu parçalar arasındaki ilişkileri belirlemeleri sağlanır. Bu süreçte öğrenci -
+lerin bilgiyi çözümleme becerileri de desteklenir  (OB1). Öğrencilerin özellikle gerçek yaşam 
+durumlarını içeren problemleri matematiksel dil kullanarak farklı temsillerle ifade edecek 
+şekilde dönüştürmesi sağlanır. Matematiksel temsillere dönüştürdüğü problemin bileşen -
+lerini ve aralarındaki ilişkileri ifade etmesi beklenir (MAB3). Öğrencilerin problemin matema-
+tiksel ifadesini kullanarak çözüm için bir strateji geliştirmeleri ve bu stratejiyi uygulayarak 
+problemi çözmeleri sağlanır. Öğrenciler çözümlerini kontrol eder ve çözümlerini arkadaşları 
+ile karşılaştırır (SDB2.2). Böylece öğrenciler farklı çözüm stratejilerini ve yollarını da inceler. 
+Çözümlerin eleştirel bir yaklaşımla tartışma ortamında ele alınması sağlanmalıdır (SDB2.1, 
+E3.10). Ele alınan çözüm yollarından problemin çözümünü sağlayanların benzer problem 
+durumlarına genellenip genellenemeyeceği incelenir. Öğrencilerden ulaştıkları sonuçları 
+kullanarak elde edilen çözüm stratejilerinin hangi tür problemlerde kullanılabileceğini ifade 
+etmesi beklenir. Bu süreçte öğrencilerden çözüm stratejileri ile ilgili çıkarımlarda bulunarak 
+bu çıkarımlarını farklı problem durumlarında ele almaları istenir. Öğrencilere farklı problem 
+durumlarına ilişkin çalışma kâğıdı verilerek çözüm stratejilerine ilişkin çıkarımlarını mate -
+matiksel örnekler üzerinden değerlendirmeleri sağlanır. Bu süreçte öğrencilerin etkileşim 
+içinde birlikte çalışmaları desteklenmelidir  (SDB2.1). Öğrencilere geometrik cisimlerin açı -
+nımları, yüzey alanı ve hacim bağıntılarını kullanabilecekleri farklı problemleri çözmelerine 
+yönelik performans görevi verilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilere geometrik cisimlerin mimari eserlerde kullanımına yönelik olarak verilebi -
+lecek proje ödevinde Türk-İslam kültürüne değer katan eserlerin ve mimarlarının (Mimar 
+Sinan, Sedefkâr Mehmed Ağa gibi) incelenmesi istenerek öğrencilerin konuya ilişkin bilgi 
+sahibi olmaları sağlanabilir.
+(*) Geometrik cisimler tabana paralel ya da dik bir düzlemle kesildiğinde oluşan yapının 
+yüzeyleri incelenebilir. İncelenen geometrik cisimlerde hangi kesimlerle hangi tür yüzey 
+şekillerinin oluşabileceği yorumlanır. Ayrıca oluşan yeni cisimler incelenir. Bu bağlamda 
+Pergeli Apollonius ’un (Apolloniyus) çalışmalarının araştırılması ve sınıfta sunulması iste-
+nebilir.

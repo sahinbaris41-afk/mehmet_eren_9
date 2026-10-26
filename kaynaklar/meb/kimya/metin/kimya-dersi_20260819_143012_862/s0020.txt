@@ -1,0 +1,53 @@
+20
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Zenginleştirme Öğrenciler; evde kullanılan temizlik malzemelerinin, ilaçların ve diğer kimyasal maddele -
+rin güvenli kullanımına dikkat çekmek ve çevre dostu temizlik ürünlerinin üretimini des -
+teklemek amacıyla bir bilinçlendirme kampanyası planlayabilir. Bu bağlamda broşürler, 
+posterler, kamu spotu veya sosyal medya içerikleri hazırlayarak halkı kimyasal ürünlerin 
+güvenli kullanımı konusunda bilgilendirebilirler. Ayrıca evde çevre dostu temizlik ürünle -
+rinin nasıl üretileceğini gösteren rehberler oluşturabilirler. Öğrencilerden günlük hayatta 
+kullandıkları gıda ürünlerinde bulunan gıda boyalarını, antioksidanları veya koruyucuları 
+tespit etmeleri amacıyla kimyasal analizler gerçekleştirmeleri istenebilir. Öğrenciler; bu 
+analizlerin her birini adım adım açıkladıkları, kullandıkları yöntemleri ve cihazları ayrıntılı 
+olarak belirttikleri, analiz sonuçlarını detaylıca yorumladıkları bir rapor hazırlamaları için 
+yönlendirilebilir. Öğrenciler, bulgularını arkadaşları ve yakın çevreleri ile paylaşmaları için 
+teşvik edilebilir. Öğrencilerden  gıda güvenliği ile ilgili önerilerde bulunmaları istenebilir.
+Öğrencilere kimyasal ürünlerin yanlış kullanımına ilişkin çevresel etki analizi yaptırılabilir. 
+Öğrencilerden analizlerinden elde ettikleri verilerden hareketle kimyasal ürünlerin hatalı 
+kullanımı sonucu oluşacak çevresel etkileri en aza indirgemek için çözüm önerileri sun -
+maları istenebilir. Öğrenme çıktısında işletilen bilimsel çıkarım becerisine ek olarak yeni 
+örnekler üst düzey becerilerden olan karar verme becerisi temelinde de ele alınabilir. Bu 
+beceri temelinde öğrencilerin kimya bilmenin sağlık, çevre, ekonomi ve kimyasal kirlilik 
+açısından katkılarının neler olduğuna; hangi mesleğe daha fazla katkı sağladığına karar 
+vermeleri ve bu katkılardan birine yönelik kısa, bilgilendirici bir konuşma hazırlayarak ar -
+kadaşlarına sunmaları sağlanabilir.
+Öğrencilerden deşarj sularının temizlenmesine yönelik tasarımlar ortaya koymaları iste -
+nebilir. Bu amaçla öğrencilere STEM basamaklarını uygulayabilecekleri bir etkinlik yap -
+tırılabilir. Öğrencilerden çevrelerinde evsel, tarımsal ya da endüstriyel atıkların etkisiyle 
+kirlenen suları belirlemeleri istenebilir. Öğrenciler, deşarj sularının temizlenmesine ilişkin 
+problemi tanımlayabilir. Öğrenciler grup çalışması ile problemin çözüm yollarını araştıra -
+bilir. Problemin çözümüne dair ürün ya da tasarım geliştirebilir. Öğrencilerden tasarımları 
+için kullanacakları materyalleri belirlemeleri istenebilir. Ortaya çıkan ürün prototiplerini 
+test etmeleri ve başarılı olan prototiplerini sunmaları için öğrencilerden bilgi görseli hazır-
+lamaları istenebilir. 
+Öğrencilerin bir kimya işletmesinin iş güvenliği önlemlerini incelemeleri için bir saha ziya -
+reti düzenlenebilir. Öğrenciler; bu ziyaret sırasında kimyasal depolama, kimyasal atıkların 
+imhası ve çalışanların kişisel koruyucu ekipman kullanımı gibi konuları araştırarak güvenlik 
+raporu hazırlayabilirler.
+Kimya biliminin farklı mesleki hayatları kolaylaştırması temelinde öğrencilerden gruplar 
+hâlinde çalışmaları ve bir mesleği seçerek kimya biliminin ilgili mesleğe olan katkılarına 
+ilişkin bir tanıtım broşürü hazırlamaları istenebilir. Kimya biliminin günlük hayata katkıları 
+kapsamında öğrencilerin çeşitli mesleklerdeki alan uzmanları, kimyagerler, kimya mühen-
+disleri vb. ile görüşmeler yapmaları sağlanabilir. Bu görüşmelerden sentezledikleri bilgiler 
+ışığında öğrenciler, kimya biliminin günlük hayatı kolaylaştırmasına ilişkin yenilikçi çözüm 
+önerileri sunma konusunda teşvik edilebilir. Aynı amaçla öğrencilere kimya biliminin mes-
+leklere olan katkılarına yönelik bir kamu spotu hazırlatılabilir. 
+*Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan eğitici bir mobil 
+uygulama veya web tabanlı bir simülasyon geliştirme projesini detaylı bir şekilde planlaya-
+bilir. Bu projenin aşamalarını belirlerken projeye hangi atom modellerinin dâhil edileceği 
+ve bu modellerin nasıl görselleştirileceği kararını verebilirler. Ayrıca kullanıcıların etkile -
+şimli olarak bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.
+Öğrenciler; periyodik tablodan seçtikleri bir elementin tarihçesini, fiziksel ve kimyasal 
+özelliklerini, kullanım alanlarını ve önemli kimyasal bileşikleri ayrıntılı bir şekilde araştıra -
+rak bilgi toplayabilir. Bu projenin sonunda hazırladıkları etkileyici poster veya etkileşimli
+FARKLILAŞTIRMA

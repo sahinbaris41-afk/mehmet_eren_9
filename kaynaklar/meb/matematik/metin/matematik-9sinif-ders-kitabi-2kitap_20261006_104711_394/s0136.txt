@@ -1,0 +1,24 @@
+136
+5. Tema/Algoritma ve Bilişim  
+Mantık	bağlaçları	ve	ni celeyiciler,	mate matiksel	ön ermelerin	yap ı	taşl arıdır.	Bu	ara çlar,	ön ermeleri	bi rleş-
+tirerek	ve	niceliklerini	belirleyerek	matematiksel	ispat	ve	algoritmaları	şekillendirir.
+Bir Önermenin Cebirsel İspatı ve Algoritmik Yaklaşım ile Doğrulanması
+Aşağıdaki soruları cevaplayınız.
+1. Aşağıdaki ‟Her tek tam sayının karesi de tek sayıdır.ˮ önermesinin ilk adımı verilen cebirsel ispatını tamamlayınız.
+ 1. adım: n Z!  için x2 n1=+  olsun.
+ 
+2. Her tek tam sayının karesinin tek sayı olup olmadığını bulan bir algoritmanın işleyişini algoritmik doğal dil ve 
+akış şemasıyla ifade ediniz. 
+ 
+ 
+ 
+ 
+ 
+Algoritmik Doğal Dil
+ Akış Şeması
+3. Elde ettiğiniz algoritmayı  -10’ dan 10’a kadar olan tek tam sayılar için test ediniz. 
+4. Elde ettiğiniz algoritmanın işleyişi ile cebirsel ispat adımları arasındaki benzerlik ve farklılıkları açıklayınız.
+5. Cebirsel, sözel ve algoritmik yaklaşım ile ifade edilen ispat sürecinde hangi mantık bağlaçları ve niceleyicilere 
+neden ihtiyaç duyulduğunu açıklayınız.
+ 
+10. Uygulama

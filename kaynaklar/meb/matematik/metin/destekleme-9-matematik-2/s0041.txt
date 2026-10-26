@@ -1,0 +1,25 @@
+40
+MATEMATİK 9 
+2. TEMA: NİCELİKLER VE DEĞİŞİMLER
+1. Adım
+Uçangözlerin çoğu kalkış ve iniş sırasında dikey hareket eder, yani ge-
+nellikle zemine paralel bir şekilde yükselir veya alçalır. Hareketleri kal-
+kış, seyir ve iniş süreçlerinden oluşur.
+Uçangöz, üzerindeki pervaneler sayesinde havada kalır ve hareket eder. 
+Pervaneler, hava moleküllerini aşağıya doğru iter, bu itiş karşı kuvvet 
+olarak uçangözün yükselmesini sağlar. Pervanelerin hızını artırarak 
+veya azaltarak uçangözün yüksekliği kontrol edilebilir.
+Serkan, hava gözlemi yapmak için bir uçangözü programlamıştır. Deneme uçuşunda 40 metre yük -
+sekliğindeki gözlem kulesinden havalandırılan ve belli bir yüksekliğe ulaştıktan sonra gözlem alanına 
+ilerleyip görüntüleyen uçangöz geri dönüp yere iniş yapacaktır.
+Sabit hızla saniyede 5 metre yükselecek olan uçangöz 12 saniyede belirlenen yüksekliğe ulaşacak. 
+Sonra yüksekliğini değiştirmeden 40 saniye boyunca saniyede 10 metre sabit seyir hızıyla hareket 
+edecek ve sonra sabit hızla saniyede 4 metre alçalarak yere iniş yapacaktır.
+Uçangözün hareketinde kalkış, seyir ve iniş süreçlerini ayrı ayrı inceleyiniz. Uçangözün  yerden yük -
+sekliğinin (metre) zamana (saniye) bağlı değişimini açıklayınız.
+Etkinlik Aşaması
+Bu etkinlikte uçangözün hareket durumu üzerinden doğrusal ilişki, bağımlı-bağımsız değişken kav -
+ramları, doğrusal fonksiyonların cebirsel ve grafik gösterimleri incelenecektir. 
+ ► Aşağıda uçangözün hareketi ile ilgili bilgiler verilmiştir.
+Çözüm:
+Bilgi: 

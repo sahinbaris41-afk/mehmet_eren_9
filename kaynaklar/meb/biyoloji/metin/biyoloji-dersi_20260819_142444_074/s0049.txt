@@ -1,0 +1,39 @@
+49
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+BİY.11.1.9. Harekete dayalı tepkinin oluşmasında iskelet, kas ve eklemlerin eş güdümlü 
+çalışmasıyla ilgili eleştirel düşünebilme 
+a) İskelet, kas ve eklemlerin eş güdümlü çalışmasının gerekliliğini sorgular. 
+b) İskelet, kas ve eklemlerin eş güdümlü çalışması konusunda akıl yürütür.
+c) İskelet, kas ve eklemlerin eş güdümlü çalışması konusunda akıl yürütmeyle 
+ulaştığı çıkarımları yansıtır.   
+BİY.11.1.10. İskelet kaslarının kasılma ve gevşeme mekanizması ile ilgili bilimsel model 
+oluşturabilme 
+a) İskelet kaslarının kasılma ve gevşeme mekanizmasını açıklayan modeller önerir.
+b) İskelet kaslarının kasılma ve gevşeme mekanizması ile ilgili oluşturduğu modeli 
+bilimsel modellerle karşılaştır ve elde ettiği kanıtlarla modelini yeniler.
+BİY.11.1.11. Bağışıklığı sınıflandırabilme
+a) Bağışıklığı sınıflandırmak amacıyla bağışıklığın niteliklerini tanımlar.
+b) Bağışıklık sistemi yapılarını niteliklerine göre ayrıştırır.
+c) Bağışıklık sistemini gruplandırır.
+ç) Bağışıklık sistemi ile ilgili yaptığı gruplandırmayı etiketler. 
+BİY.11.1.12. Alerjik tepkilerin oluşumunu sorgulayabilme 
+a) Alerji ile ilgili merak ettiği konuları belirler.
+b) Alerji hakkında sorular sorar.
+c) Alerji hakkında bilgi toplar.
+ç) Alerji hakkında topladığı bilgilerin doğruluğunu değerlendirir.
+d) Alerjik tepkilerin oluşumu ile ilgili çıkarım yapar.
+İÇERİK ÇERÇEVESİ Canlılık ve Tepki
+Farklı Canlıların Uyaranlara Karşı Oluşturduğu Tepkiler
+Bitkilerde Tepki
+Bitkisel Hormonlar, Bitkilerde Tepki Mekanizmaları (Tropizma, Nasti)
+Hayvanlarda Tepki
+Uyartıların Alınması (Reseptörler, Uyaran Çeşitleri), Nöronların Yapısı, Nöronlarda Sinyal 
+İletimi ve Sinaps, Duyu Organları, Uyarıların Yorumlanması, Hayvanlarda Sinir Sistemi 
+Farklılıkları, İnsan Sinir Sisteminin Yapısı, Refleksler
+Uyartıya Mekanik Tepki
+Kemik, Eklem ve Kasların Hareketteki Rolü, Kemik ve Kasların Birlikte Çalışma İlişkisi, 
+Kaslarda Kasılmanın Kontrolü, Kasların Kasılma Mekanizması
+Bağışıklık 
+Doğal Bağışıklık, Kazanılmış Bağışıklık (Aktif ve Pasif Bağışıklık), Alerji
+Anahtar Kavramlar yönelme, irkilme, duyu, aksiyon potansiyeli, bütünleştirme, tepki, kasılma, hareket, 
+bağışıklık

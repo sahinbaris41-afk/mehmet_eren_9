@@ -1,0 +1,53 @@
+47
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.9.1.2
+Küme kavramına ilişkin formel bir tanıma girilmeden temel bilgiler, sembol ve işlemler 
+(eleman olma-olmama, eleman sayısı, listeleme ve ortak özellik yöntemleri, alt küme, 
+boş küme, birleşim, kesişim, fark, tümleme işlemleri) elemanları sayılar olan küme 
+örnekleri üzerinde incelenir.  Farklı gösterim yöntemlerinin (listeleme, ortak özellik) 
+kullanıldığı durumlar, sayı kümelerinin (doğal sayılar, tam sayılar, çift tam sayılar, 3 ’ün 
+katı olan doğal sayılar, rasyonel sayılar gibi) gösterimi bağlamında ele alınır. Gerçek sayı 
+aralıkları ve bu aralıklarla yapılacak  işlemlerde (kesişim, birleşim, fark, tümleme) sayı 
+doğrusu gösterimi, cebirsel temsil ve küme gösterimleri bir arada kullanılır. Gerçek sayı 
+aralıkları ve bu aralıklarla yapılacak işlemler için evrensel kümenin gerçek sayılar kümesi 
+olduğu belirtilir. Ayrıca mutlak değer kavramından hareketle bir aralığın gösteriminde 
+mutlak değer sembolünün nasıl kullanılabileceği, bu bağlam dışında denklem ve eşitsizlik 
+çözümlerine değinilmeksizin incelenir. Örneğin 2 < x < 4 eşitsizliklerini sağlayan x gerçek 
+sayıları için |x – 3 | < 1  şeklindeki gösterimin anlamı, gerçek yaşam durumu bağlamları 
+da dikkate alınarak sayı doğrusu üzerinde tartışılabilir. MAT.9.1.1 ve MAT.9.1.2 çıktılarına 
+yönelik olarak gerçek sayıların üslü ve köklü gösterimlerinin, gerçek sayı aralıklarının ve 
+bunlarla yapılan işlemlerin farklı matematiksel bağlamlarda ele alındığı performans görevi 
+verilebilir.
+MAT.9.1.3
+Farklı sayı kümelerinin tarihî bağlamda nasıl ortaya çıkmış olabileceği tartışılır  (E1.1, 
+SDB2.2). Sayı kümelerine duyulan ihtiyacı anlamlandırmaya dönük gerçek yaşam durumları 
+ile bağlantılı örnekler üzerinde durulur. Örneğin fizikteki hız ya da yer çekimi kuvveti 
+büyüklüğü gibi nicelikler, gerçek sayıların kullanımı bağlamında ele alınır. Öğrencilerden 
+sayı kümelerinin sıralı olma (bir sayı kümesindeki tüm elemanların küçükten büyüğe veya 
+büyükten küçüğe doğru belli bir düzende dizilebilmesi),  arada olma (bir sayı kümesindeki 
+herhangi iki sayı arasında aynı sayı kümesinden başka bir sayının yer alabilmesi) ve kapalılık 
+özelliği  (bir sayı kümesindeki herhangi iki sayı ile yapılan toplama, çıkarma, çarpma ve bölme 
+işlemlerinin sonucunun aynı sayı kümesinde olması) hakkında varsayımlar geliştirmesi 
+istenir. Bir işlem özelliğinin hangi sayı kümeleri için geçerli olduğunu, hangileri için geçerli 
+olmadığını belirlemeleri istenir. Örneğin herhangi iki doğal sayının toplanması durumunda 
+elde edilen sonucun bir doğal sayı olup olmadığı ve bu özelliğin başka hangi sayı kümelerinde 
+geçerli olduğu tartışılır. Benzer şekilde iki tam sayının farkının alınması durumunda 
+elde edilen sonucun her zaman bir tam sayı olup olmayacağı tartışılır. Öğrencilerden bu 
+özelliklere dayalı genellemeler yapmaları beklenir (“Her a, b ∈ ℝ için a ∙ b ∈ ℝ olduğundan 
+gerçek sayılar kümesi, çarpma işlemine göre kapalıdır.” gibi). Genellemeye ulaşılan temel 
+durumlar için cebirsel ispatlara ( “İki rasyonel sayı arasında her zaman bir rasyonel sayı 
+vardır.” önermesi gibi)  yer verilir. Genellenemeyen durumlar veya yanlış önermeler için (“İki 
+irrasyonel sayının çarpımı irrasyoneldir.” önermesi gibi) öğrencilerin karşıt örnek sunmaları 
+beklenir. Elde edilen önermelerin doğruluğu, doğrudan ispat veya aksine örnek verme 
+yöntemleri kullanılarak kontrol edilir. İspatlar yapılırken hipotez-hüküm ilişkisi, hipotezden 
+hükme giden süreç, aksine örnek verebilmenin matematiksel doğrulama ve ispattaki 
+önemi üzerinde durularak ispatlar değerlendirilir. Öğrencilere sayı kümelerinin özellikleri 
+ve aralarındaki ilişkilere dair çalışma kâğıdı verilebilir.
+MAT.9.1.4
+Önerme kavramı, matematiksel örnekler üzerinde incelenir. Sözel dille verilen önermeleri 
+sembolik dille, sembolik dille verilen önermeleri sözel dille ifade etmeye yönelik çalışma -
+lar yapılır. Sayı kümelerinde toplama, çıkarma ve çarpma işlemlerinin değişme, birleşme, 
+birim eleman, yutan eleman, ters eleman ve dağılma özelliklerinin olup olmadığına dair 
+önermeler sözel ve sembolik dil ile ifade edilir. Sayı kümeleri veya aralıklarına ilişkin öner -
+meler hakkında öğrencilerin değerlendirme yapabilmeleri için niceleyicilerin (her, bazı), 
+mantık bağlaçlarının (ve, veya, ya da, ise, ancak ve ancak) kullanımlarına ve önermelerin 

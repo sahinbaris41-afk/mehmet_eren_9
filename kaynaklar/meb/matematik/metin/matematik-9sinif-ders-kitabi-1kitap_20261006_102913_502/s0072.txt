@@ -1,0 +1,35 @@
+72
+1. Tema /  Sayılar
+10. Gerçek sayılarda çıkarma ve bölme işlemlerinin sahip olduğu ya da olmadığı işlem özelliklerine dair fikirleri -
+nizi açıklayınız.
+Niceleyiciler ve Mantık Bağlaçları
+Gerçek sayılarda işlem özelliklerini ifade eden önermeler, semboller kullanılarak yazılabilir. Matematikte 
+sembolik dilin kullanılmasının nedeni ne olabilir ve sağladığı avantajlar nelerdir? 
+“Her a gerçek sayısı sıfırla çarpıldığında sonuç sıfırdır.”, “Bazı b gerçek sayıları ba  ifadesini tanımsız 
+yapar.” önermeleri matematiksel olarak nasıl ifade edilebilir? Matematiksel ifadeler arasında yer alan ni-
+celeyicilerin (her, bazı), mantık bağlaçlarının (ve, veya, ya da, ise, ancak ve ancak) sembolleri Tablo 1.2’de 
+verilmiştir.
+Tablo 1.2: Matematiksel Sembollerin Anlamları
+Niceleyiciler Mantık	Bağlaçları
+Sembol 7 6 / 0 Q & +
+	Anlamı  bazı (En az bir)  her  ve  veya  ya da  ise  ancak ve ancak
+Tablo 1.3’te niceleyicilerle “ve”, “veya” bağlaçlarının değilleri gösterilmiştir.
+Tablo 1.3: Semboller ve Sembollerin Değilleri
+Sembol 6 7 / 0
+	Sembolün	
+Değili 7 6 0 /
+23.	Uygulama
+Önermelerin Niceleyiciler ve Mantık Bağlaçlarıyla İfade Edilmesi
+Aşağıdaki soruları cevaplayınız.
+1.  Gerçek sayılarda bazı işlemlerle ilgili sözel önermeler aşağıda verilmiştir.
+ a)  Her a, b gerçek sayısı için a, b den büyükse a nın b den çıkarılmasıyla elde edilen değer sıfırdan büyüktür.
+b)  Sıfırdan farklı her a gerçek sayısı için a ile b sayısının çarpımının 1 olmasını sağlayan en az bir b gerçek 
+sayısı vardır. 
+c)  a ile b gerçek sayı olmak üzere a ile b nin çarpım sonucu, ancak ve ancak a veya b sayıları sıfıra eşitse 
+sıfırdır. 
+ç)  a gerçek sayı sı sıfıra eşit veya sıfırdan küçükse ve sıfıra eşit veya sıfırdan büyükse a sıfıra eşittir. 
+d) İki gerçek sayının çarpımının sıfırdan farklı olması için ancak ve ancak çarp anlarının ikisinin de sıfırdan 
+farklı olması gerekmektedir. 
+e) a ve b gerçek  sayılarının çarpımlarının değeri negatifse a ya da b negatiftir.
+  Y ukarıdaki önermelerde kullanılan mantık bağlaçlarını ve niceleyicileri belirleyiniz. 
+İki veya daha fazla önermeyi birlikte ifade edebilmek için mantık bağlaçlarından faydalanılır.

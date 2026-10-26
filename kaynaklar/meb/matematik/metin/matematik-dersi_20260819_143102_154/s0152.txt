@@ -1,0 +1,51 @@
+152
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.11.3.3
+Üstel artış içeren ilişkiler, gerçek yaşam verileri kullanılarak (biyolojide hücrelerin  bölünerek be-
+lirli bir örüntü oluşturacak biçimde sayılarının zamana bağlı katlanarak çoğalması gibi)  incelenir. 
+Elde edilen veriler tablo ve grafik ile gösterilir. Gerçek sayılarda f(x) = ax (a > 0, a ≠ 1) şeklinde bir 
+fonksiyon tanımlanarak bu fonksiyonun grafik temsili elde edilir. Bu fonksiyonun nitel özellikleri,  
+a nın aldığı değerlere göre (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, bire birliği, 
+örtenliği) grafik temsiliyle ilişkilendirilerek belirlenir. Bu noktada özel olarak e sayısı ve cebirsel ifa-
+desi f(x) = ex kuralıyla verilen fonksiyon üzerinde durulur. f üstel referans fonksiyonu olmak üzere 
+f nin grafiğine yapılan dönüşümlerle [ g(x) = k ∙ f (mx ± r) ± s (k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0)] diğer üs-
+tel fonksiyonların cebirsel ve grafik temsilleri elde edilir. Dönüşümler yapılırken r ve s değerlerinin 
+her ikisinin veya birinin 0 olduğu durumlar aşamalı olarak ele alınır. Öğrencilerin grafik temsiller ile 
+cebirsel temsillerdeki k, m, r, s sayılarının ilişkilerini yorumlamaları sağlanır. Bu dönüşümler elde 
+edilip yorumlanırken öğrencilerin dijital araçlarla çalışma becerilerini de destekleyecek şekilde 
+matematik yazılımlarından yararlanılır (OB2). Fonksiyonların grafik temsilleri üzerinde yapılan bu 
+işlemler ile elde edilen fonksiyonların cebirsel temsillerindeki katsayılar arasındaki ilişkiler yorum-
+lanır. 
+Cebirsel temsilleri verilen üstel referans fonksiyondan türetilmiş fonksiyonların grafik tem -
+silini bulma çalışmaları yapılır. Cebirsel temsili verilen fonksiyonun grafik temsilinde işaretini, 
+eksenleri kestiği noktaları bulmaları için öğrencilerden elde ettikleri sonuçları hem kâğıt ve 
+kalemle hem de  matematik yazılımları ile karşılaştırmaları istenir. Aynı zamanda fonksiyonun 
+(varsa) sıfırı, işareti, artanlığı-azalanlığı cebirsel incelemeler ile eşleştirilir. 
+Öğrencilerin gerçek sayılarda f(x) = ax (a > 0, a ≠ 1) şeklinde tanımlı fonksiyonun grafik tem-
+siline dönüşümler uygulanarak elde edilen  fonksiyonların nitel özelliklerine dair varsayımlar 
+(a değerinin fonksiyonun artanlığı-azalanlığı ile olan ilişkisi, üstel fonksiyonun hangi durumda 
+sıfırının olabileceği gibi) öne sürmeleri beklenir. Farklı üstel fonksiyon örnekleri incelenerek 
+bu örneklerin öğrencilerin varsayımlarını karşılayıp karşılamadığı kontrol edilir. Bu varsayım-
+lardan üstel fonksiyonların nitel özelliklerine ilişkin genellemeler elde edilir. Varsayımlar ile 
+genellemeler karşılaştırılarak elde edilen önermeler, matematiksel olarak doğrulanabilecek 
+şekilde sunulur. Bu önermelerin kullanışlılığı ekonomi (bileşik faiz/kâr payı hesabı, yatırımla-
+rın üstel artışı ile gelirin değerlendirilmesi),  coğrafya (belirli bir nüfus artış hızına göre belirli 
+bir süre sonunda nüfusun belirlenmesi) gibi farklı disiplinlerde karşılaşılan problemler aracı-
+lığı ile değerlendirilir (OB3, SDB3.3).
+MAT.11.3.4
+Üstel referans fonksiyonun cebirsel ifadesinde bağımlı ve bağımsız değişkenin yer değiştir -
+diği durum, tablo temsili kullanılarak incelenir. Bu inceleme sonucunda öğrencilerden üstel 
+referans fonksiyonun ters fonksiyonunun tablo ve grafik temsiline dair varsayımlarda bulun-
+ması beklenir. Bu varsayımlardan yararlanarak üstel referans fonksiyonların ters fonksiyonu-
+nun grafiğine dair genellemeler yapılır. Bu genellemeler; uygun koşullarda  f(x) = ax (a > 0,                            
+a ≠ 1) şeklinde tanımlı fonksiyon ile bu fonksiyonun tersi olan ve logaritmik fonksiyon olarak 
+adlandırılan  f  -1(x) = logax şeklinde tanımlı fonksiyonun grafik temsilleri arasındaki ilişkiler, 
+kâğıt ve kalem veya matematik yazılımları kullanılarak çizilen grafikler üzerinden kontrol edilir 
+(OB2, MAB5). Uygun koşullarda  f(x) = ax (a > 0, a ≠ 1) şeklinde tanımlı üstel referans fonksiyo-
+nun tersinin cebirsel temsilinin bir fonksiyon olmasına ilişkin şartlar önerme olarak sunulur. Bu 
+önermelerden hareketle fonksiyonların terslerinin cebirsel temsilleri elde edilir. Öğrencilerin 
+üstel  ve logaritmik fonksiyonların grafik temsilleri üzerinden bir fonksiyonun y = x doğrusuna 
+göre simetriği ile fonksiyonun tersinin cebirsel temsili arasındaki ilişkiye dair çıkarımda bulun-
+maları sağlanır. Örneğin üstel referans fonksiyonun artanlığı-azalanlığı ile logaritmik referans 
+fonksiyonun artanlığı-azalanlığı arasında çıkarımda bulunmaları beklenir. Burada özel olarak 

@@ -1,0 +1,49 @@
+66
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+problemle ilgili akıl yürütme süreçlerini işleteceklerinden öğrencilerin eleştirel düşünme bece-
+rileri desteklenir. Bu bağlamda problemin yapısı ile matematiksel temsilleri arasındaki ilişkiler 
+belirlenir ve bu ilişkilerin öğrenciler tarafından ifade edilmesi sağlanır. Problemi matematiksel 
+olarak ifade ettikten sonra öğrencilerden çözüm için bir strateji geliştirip bunu uygulamaları ve 
+çözümü kontrol etmeleri beklenir. Öğrenciler, arkadaşları ile çözümlerini karşılaştırarak fark -
+lı stratejileri ve çözüm yollarını inceler (SDB2.2). Öğrenciler, çözüme ulaştıran stratejilerin tüm 
+durumlara genellenip genellenemeyeceğini matematiksel argümanlarla gözden geçirir ve ge-
+rekçeli yargılarda bulunur (SDB3.3). Öğrencilerin ulaşacakları yargılarda çözüm stratejilerinin 
+hangi tür problemlerde kullanılabileceğini açıklaması beklenir. Bu süreçte öğrencilerden yaptığı 
+çıkarımları başka problem durumlarına yansıtmaları beklenerek eleştirel düşünme becerilerinin 
+ve öz yeterlilik eğilimlerinin gelişimine katkı sağlanır (E1.4). Öğrencilerin çözüm stratejilerini ge-
+nellemelerinin ardından bu stratejileri farklı problem örnekleri ile değerlendirmesi sağlanır. Öğ-
+rencilere farklı problem durumlarını inceleyebilecekleri çalışma kâğıdı verilebilir. Problem çözme 
+süreci; öğrenciler için olumlu bir yaklaşım sergileme, kontrollü ve istikrarlı olma durumlarını ge-
+rektirdiğinden öğrencilerin sabırla çalışma becerilerine destek sağlar (D12.3). Öğrencilerin prob-
+lem çözme süreci boyunca sistematik olarak  kararlı davranmaları  beklenir (E3.7, E1.3). Ayrıca 
+problem çözerken planlı ve etkin bir şekilde özverili çalışmaları, bilimsel bir yaklaşımla yürüt -
+tükleri çalışmalara ilişkin öz denetim becerilerini geliştirmeleri desteklenir (D3.3). Öğrencilere 
+eşlik ve benzerlikle ilgili çıkarım ve teoremleri kullanabilecekleri problem durumlarına ilişkin 
+proje ödevi verilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilerden Pisagor teoreminin görsel ispatlarının ve değişik yöntemlerle yapılmış farklı 
+ispatlarının olup olamayacağı üzerine düşünmeleri, konu ile ilgili araştırma yaparak araştır -
+malarını sınıf içinde sunmaları istenebilir. 
+(*) Öğrenilen geometrik dönüşümlerden farklı geometrik dönüşümler olup olamayacağı so -
+rularak özellikle homoteti dönüşümünün incelenmesi istenebilir. Geometrik dönüşümlerin 
+eşlikle ilişkisinden yararlanılarak homoteti dönüşümünün benzerlikle ilişkisi kurulabilir.
+(*) Nasirüddin Tusi ile Ebu Cafer Hazin’in Öklid’in 5. postulatına ilişkin çalışmaları incelenebilir. 
+Öğrencilerden Öklid dışı geometrilerin nasıl oluştuğuna dair araştırma yapmaları istenebilir. 
+Öğrencilerin Nasirüddin Tusi ve Ebu Cafer Hazin ’in Öklid’in 5. postulatına ilişkin çalışmaları 
+arasında karşılaştırma yaparak bir çıkarımda bulunmaları sağlanabilir. Araştırmaların dijital 
+ortamda yapılması, öğrencilerin dijital okuryazarlık becerilerinin gelişimini destekleyebilir.
+Destekleme Öğrencilerin konuya ilişkin tasarlanmış materyaller veya matematik yazılımları ile çalışmaları 
+sağlanarak öğrenme çıktılarına ilişkin becerilere ve içerik bilgisine ulaşmaları sağlanabilir.
+Öğrencilerin eş ve benzer üçgenlerle dönüşümleri kullanarak desenler oluşturmaları istene-
+bilir. Çalışmalarını sunmalarına olanak verilebilir.
+İçerikle ilgili sunulacak problemlerin çözümünde akran öğretiminden yararlanılabilir. İkişer 
+kişilik ekipler hâlinde birbirleriyle etkileşim içinde çalışmaları sağlanabilir.
+Öğrencilerden farklı örnek durumlar üzerinden ölçümler yaparak ispatlanan teoremleri doğ-
+rulamaları istenebilir. Daha sonra teoremlerin ispatları ile ilgili görsel ve materyaller kullanıla-
+rak öğrencilerin bu ispatları anlamlandırmaları sağlanabilir.
+Öğrencilerin eşlik ve benzerlik koşullarına ilişkin çıkarımlarda bulunmaları için materyal olarak 
+özellikle geometri tahtaları kullanılabilir. Öğrencilere konuyla ilgili videolar ve günlük hayattan 
+örnekler sunulabilir. Etkileşimli içeriklerle uygulama yapma imkânı sağlanabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

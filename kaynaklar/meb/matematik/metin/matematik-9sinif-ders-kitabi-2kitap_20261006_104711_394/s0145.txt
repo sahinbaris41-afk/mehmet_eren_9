@@ -1,0 +1,77 @@
+145
+5. Tema/Ölçme ve Değerlendirme
+5.  Anatoly	Alexeevitch	Karatsuba	(Anatoli	Alek-
+siyeviç	 Karatsuba)	 tarafından	 1960	 yılında	
+keşfedilen	Karatsuba	yöntemi,	iki	büyük	sayıyı	
+çarpmak	için	kullanılır.	Bu	yöntemde	gelenek-
+sel	çarpma	yöntemlerine	göre	daha	az	çarp-
+ma	işlemi	yapılarak	büyük	sayılar	daha	verimli	
+şekilde	çarpılır.	Bu	durum	özellikle	kriptografi	
+(şifreleme)	gibi	alanlarda	verimliliği	artırır.
+	 Geleneksel 	yaklaşımla	87	ve	91’in	çarpımının	
+çözümlemesi	aşağıda	verilmiştir.
+   av eb87 91== 	için	ap q 10=+  ve br s 10=+  
+olmak	 üzere	 ,,pq rv es87 9 1== == 	 elde	
+edilir.
+  
+  ab pq rspr ps qr qs10 101001 0$$ =+ +=+ ++__ _ii i
+	 olduğundan 	
+  
+  
+. olur
+87 91 10089 10 81 79 71
+7200 7107
+7917
+$$ $$ $$=+ ++
+=+ +
+=
+_i
+	 Karatsuba, 	geleneksel	yaklaşımdaki	çarpma	
+işlemlerinin	 sayısını	 v	 değişkenini	 türeterek	
+azaltmıştır.
+ 
+  
+up r
+vq ps r
+yq s
+$
+$
+$
+=
+=- -
+=
+__ i i
+	 olmak 	üzere	 ab uu yv y10 102$$ $=+ +- +_i  
+olur.	Buradan
+  
+  
+.
+u
+v
+yb ulunur
+89 72
+78 19 8
+71 7
+$
+$
+$
+==
+=- -=
+==
+__ ii
+	 Bu 	durumda
+     
+   . elde edilir87 91 72 10 72 78 10 77917 2$$ $=+ +- += _i   
+ Buna göre aşağıdaki soruları cevaplayınız. 
+a) 96 78$  ifadesinin eşitini Karatsuba yön -
+temiyle bulunuz.
+ 
+b) Karatsub a yöntemiyle iki basamaklı iki 
+doğal sayının çarpımını bulan algoritma-
+nın işleyişini akış şemasıyla ifade ediniz. 
+ 
+ 
+Akış Şeması
+c) Karatsuba yöntemini kullanarak 99 87$   
+işleminin sonucunu akış şeması üze -
+rinde hesaplayınız. 

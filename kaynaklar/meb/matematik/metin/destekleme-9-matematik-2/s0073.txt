@@ -1,0 +1,37 @@
+72
+MATEMATİK 9 
+4. TEMA: EŞLİK VE BENZERLİK
+2. ETKINLIK ADI PISAGOR TEOREMI
+Etkinlik Öncesi
+ ► Öğrencilerinizi ikişerli gruplara ayırınız ve grup üyelerinin birbiriyle etkileşim içinde çalışmalarını 
+sağlayınız.
+ ► Bu etkinliğin Pisagor teoremini doğrulamak amacı ile yapılacağını belirtiniz. Günlük hayatta Pisa-
+gor teoreminin kullanımına yönelik örnekler vererek öğrencilerin motivasyonlarının artmasına yar-
+dımcı olunuz.
+ ► Öğrencilerinizi araç gereçleri kullanırken dikkatli olmaları konusunda uyarınız.
+ ► Etkinlik sırasında öğrencilerin çalışmalarını yakından takip ederek ihtiyaç duyduklarında öğrenci-
+lerinize rehberlik ediniz.
+ ► İşlem adımlarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız. 
+ ► Etkinlik sonunda öğrencilerinizden değerlendirme sorularını çözmelerini isteyiniz ve öğrencilerini-
+zi kontrol listesi ile değerlendiriniz.
+Bu etkinlikte Pisagor teoreminin doğrulanması ve anlamlandırılmasına yönelik çalışmalar 
+yer almaktadır. Etkinlikte kullanılacak araç gereç ve materyalleri etkinlik öncesinde hazır -
+layınız.
+ETKINLIĞIN AMACI Geometrik doğrulama yapabilme ve teoremi anlamlandırabilme
+DESTEKLEME 
+UYGULAMASI
+Öğrencilerin konuya ilişkin tasarlanmış materyaller veya matematik 
+yazılımları ile çalışmaları sağlanarak öğrenme çıktılarına ilişkin becerilere 
+ve içerik bilgisine ulaşmaları sağlanır. İçerikle ilgili sunulacak problemlerin 
+çözümünde akran öğretiminden yararlanılır. İkişer kişilik ekipler hâlinde 
+birbirleriyle etkileşim içinde çalışmaları sağlanır. Öğrencilerden farklı ör-
+nek durumlar üzerinden ölçümler yaparak ispatlanan teoremleri doğrula-
+maları istenir. Daha sonra teoremlerin ispatları ile ilgili görsel ve materyal-
+ler kullanılarak öğrencilerin bu ispatları anlamlandırmaları sağlanır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+• A4 kâğıdı
+• Makas
+• Cetvel
+• Yeşil, mavi ve kırmızı renk el işi kâğıtları
+• Genel ağ bağlantısı ve akıllı cihazlar

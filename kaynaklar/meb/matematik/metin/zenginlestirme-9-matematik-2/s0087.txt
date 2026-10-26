@@ -1,0 +1,20 @@
+86 87
+MATEMATİK 9 86 87
+6. Adım
+Biri hileli olmak üzere düzgün sekiz yüzlü iki zar atılmaktadır. Bu zarları 500 kez attıktan sonra 
+hangi zarın hileli olduğunu anlamak için gözlemlenen olasılıkları nasıl analiz edersiniz? Gözleminizde 
+hangi yöntemleri kullanırsınız ve sonuçlarınızı nasıl yorumlarsınız?
+Çözüm:
+Değerlendirme
+Bir bilim fuarında, katılımcılar üç farklı robot tasarımından (A, B, C) birini seçerek yarışmaya katıl-
+maktadır. Her robot, iki farklı güç kaynağı (pil veya güneş enerjisi) ile çalıştırılabilir ve üç farklı 
+görevden birini (engel aşma, nesne taşıma, hız testi) gerçekleştirebilir. Bu durumu temsil eden 
+olayların örnek uzayını oluşturunuz. Tüm olasılıkları göstermek için sistematik liste, tablo veya 
+ağaç şeması yöntemlerinden birini seçiniz ve neden bu yöntemi tercih ettiğinizi açıklayınız.
+Çözüm:
+1
+Zar atış sayısını 500 ve üstüne çıkardığınızda gözlemlenen olasılıklar teorik olasılıklara daha 
+yakın olacaktır. Bu durum, büyük sayılar yasasını nasıl açıklar? Bu yasanın gerçek hayatta hangi 
+durumlarda önemli olduğunu açıklayınız.
+Çözüm:
+2

@@ -1,0 +1,32 @@
+200
+3. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+5. Fizik dersinde bir grup öğrenci, birbirine destek olarak ve planlı bir şekilde çalışarak sıvılarda kal -
+dırma kuvvetine etki eden etmenleri araştırıyor. Araştırmada şu sonuçlara ulaşıyorlar:
+“Denizlerdeki tuzluluk oranları çoğunlukla %3,1 ila %3,8 civarındadır. Bu durum dünya genelinde 
+farklılık göstermektedir. Tuzlu su ile tatlı suyun karıştığı nehir ağızlarında veya buzulların erime 
+bölgelerinde tuzluluk oranları azalmaktadır. Dünyada tuzluluk oranı en yüksek deniz Kızıldeniz’dir.”
+Öğrenciler, Samsun Limanı’ndan aldığı yükü Kızıldeniz’deki liman kenti Massava’ya götüren bir kuru 
+yük gemisinin rotası ile ilgili araştırma yapıyorlar. Geminin, rotası üzerinde bulunan denizlerdeki 
+yüzme durumuyla ilgili edindikleri bilgileri kullanarak bir çıkarımda bulunmak istiyorlar. Bunun için ilk 
+önce Türkiye’yi çevreleyen denizleri ve Kızıldeniz’in özelliklerini araştırıyorlar. Araştırma sonucunda 
+ulaştıkları bilgiler aşağıdaki tabloda yer almaktadır.
+Deniz Tuzluluk Oranı
+Karadeniz %1,8–%2,0
+Marmara Denizi %2,2–%2,6
+Ege Denizi %3,5
+Akdeniz %3,8–%4,1
+Kızıldeniz %4,0–%4,2
+Geminin karaya oturmadan denizde yüzebilmesi için gerekli seviyeler gemi görselinde gösterilmiş 
+olup K ile R çizgileri üst ve alt sınır olarak belirlenmiştir. Gemi Ege Den izi'nden geçerken geminin 
+batma seviyesi M olarak gözlemleniyor.
+Buna göre
+a) Geminin belirtilen denizlerden geçerken suya batan kısmı yaklaşık olarak hangi çizgiye 
+denk gelebilir? Nedenini açıklayarak aşağıda verilen tabloyu doldurunuz.
+Seviye
+Deniz
+K L M N P R
+Karadeniz
+Marmara Denizi
+Ege Denizi X
+Akdeniz
+Kızıldeniz

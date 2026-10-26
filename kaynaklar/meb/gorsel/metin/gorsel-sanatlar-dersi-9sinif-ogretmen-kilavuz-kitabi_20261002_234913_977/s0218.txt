@@ -1,0 +1,72 @@
+4. TEMA: SANAT VE TEKNOLOJİ EVRENİ
+218
+Grafik Bilgi 4.2: Dijital teknikle afiş üretim aşamaları
+• Öğr encilere geleneksel ve dijital teknikte afiş tasarım ögelerinin düzenlenmesi ile ilgili 
+süreçlerin değişmediğini y
+alnızca uygulama araçlarında farklılık olduğunu söy
+leyiniz.
+• Öğr
+encilerin oluşturmayı düşündükleri çalışmalarıyla ilgili eskizi kâ ğıt 
+üzerine çizmele-
+rini sağla
+yınız.
+• Afişt
+e kullanılacak metin için seçilen tipografik yazı karakterinin yazma yöntemlerini, 
+özelliklerine uygun şekilde ö ğr
+encilere anlatmak için aşa ğıdaki 
+metinden faydalanabi-
+lirsiniz.
+Tipografi ve Yazı Kullanımı
+Afişte kullanılan yazı karakteri ve tarzı, mesajın etkisini doğrudan etkiler. 
+Kullanabileceğiniz bazı temel yöntemler;
+• Elle yazım (el çizimi)
+• Şablon kullanımı
+• Kolaj y
+öntemi
+• Dijital tipogra
+fi
+Seçilen yöntem ne olursa olsun yazının font türü, rengi ve okunabilirliği çok önemlidir.
+• Ren
+klendirme aşamasında uygulanacak boyama tekniği 
+ile ilgili dikkat edilmesi gereken 
+özellikleri öğr
+encilere hatırlatmak için aşağıdaki me
+tinden faydalanabilirsiniz.
+Renklendirme ve Boyama
+Boyama teknikleri, afişin duygusal etkisini doğrudan etkiler. Boya yaparken
+• Konuy
+a uygun renkler seçilmeli,
+• Ren
+k uyumu ve kontrast iyi ayarlanmalı,
+• Kullanılan malzeme tekniğe uy
+gun olmalı,
+• Temiz v
+e özenli çalışılmalıdır.
+• Dijital t
+ekniklerle çalışmayı tercih eden öğr
+encilerin kullanabilecekleri programı birlikte 
+belirleyiniz.
+• Dijital t
+eknikle kullanılacak görsellerin uygun piksel ölçülerinde ve telifsiz olmasına, ti-
+pografik fontların büyüklük ve renklerinin uyumlu olması gerektiğine dikk
+at çekiniz.
+DİJİTAL
+TEKNİKLE 
+AFİŞ ÜRETİM 
+AŞAMALARI
+1
+KONU VE HEDEF 
+KİTLE BELİRLEME
+2
+ESKİZ VE PLANLAMA 3
+TASARIM İÇİN 
+PROGRAM SEÇİMİ
+4
+TASARIMIN DİJİTAL 
+ORTAMA AKTARILMASI5
+RENK, TİPOGRAFİ 
+VE KOMPOZİSYON 
+AYARLARI
+6
+SON KONTROLLER 
+VE KAYDETME

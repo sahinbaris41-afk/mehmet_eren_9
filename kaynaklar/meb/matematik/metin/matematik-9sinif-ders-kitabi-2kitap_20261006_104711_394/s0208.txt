@@ -1,0 +1,30 @@
+208
+7. Tema / Veriden Olasılığa
+4. Tekrar sayısı 50’ye çıkarıldığında elde edilen grafiklerdeki değişim, beklentinizi karşıladı mı? 
+5. Bu deneyde tekrar sayısı 100’e çıkarıldığında oluşabilecek sıklık ve göreli sıklık dağılımının nasıl olmasını 
+beklersiniz?
+6.  Tekrar sayısının 50’ye çıkarılması durumunda oluşturduğunuz çıktıların üzerine başka bir grubun 50 tekrara ait 
+çıktılarını ekleyerek aşağıdaki tabloyu doldurunuz ve grafikleri oluşturunuz.  
+Çıktılar
+Sıklık
+Göreli Sıklık
+ 
+Sıklık
+Çıktılar
+Göreli sıklık
+Çıktılar
+7. Bu deneyde tekrar sayısı 500 ’e çıkarıldığında oluşabilecek dağılımın nasıl olmasını beklersiniz? 
+8.  Karekodda verilen simülasyon kullanılarak tekrar sayısı 500’e ayar-
+landığında oluşan çıktıları, sıklık ve göreli sıklıkları aşağıdaki tablo-
+nun ilgili alanlarına yazınız. Boş grafik şablonlarında sıklık ve göreli 
+sıklıklara ait sütun grafiklerini oluşturunuz. 
+Çıktılar
+Sıklık
+Göreli Sıklık
+Sıklık
+Çıktılar
+Göreli sıklık
+Çıktılar
+Soru ile ilgili simülasyo -
+na ulaşmak için karekodu 
+okutunuz.

@@ -1,0 +1,55 @@
+193
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.12.4.6
+Türevin limite dayalı cebirsel tanımı yorumlanarak fonksiyonların hangi durumlarda türev -
+lenebilir olmayacağına yönelik sınıf içi tartışma yapılır. Bu tartışma yapılırken öğrencilerden 
+birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve et -
+kileşim sağlamaları beklenir (SDB2.1, D14.1). Referans fonksiyonlar, polinom fonksiyonlar ve 
+bu fonksiyonlardan elde edilen parçalı gösterimli fonksiyonların grafik temsilleri incelenir. Bu 
+grafik temsillerden hareketle fonksiyonların hangi durumlarda türevlenebilir olamayacağına 
+ilişkin varsayımlar geliştirilir. Türevin limit tanımından hareketle bu limitin var olabilmesi için 
+fonksiyonun herhangi bir x = a noktasında soldan türev f  (a _)= f(a+h) - f(a)hlim0h "  ile sağdan 
+türevinin f  (a+)= f(a+h) - f(a)hlim0h "  eşit olması gerektiği ifade edilir. Parçalı gösterimli fonk-
+siyonların grafik temsilleri incelenerek süreksizlik noktalarında soldan ve sağdan türevin eşit 
+olamayacağına ilişkin varsayım elde edilir. Ayrıca gerçek sayılarda  f (x) = |x| ve f (x)  =f( x) x3=  
+şeklinde tanımlı fonksiyonların grafik temsilleri incelenerek bu fonksiyonların x = 0  nokta -
+sında sürekli olmasına rağmen bu noktada türevli olmayacağına ilişkin akıl yürütülür (OB4). 
+Böylece parçalı gösterimli fonksiyon ve mutlak değerli fonksiyonların sürekli olduğu hâlde 
+türevsiz olabileceği noktalara  dair varsayımlar geliştirilir. Bu  varsayımlardan hareketle fark-
+lı fonksiyonların türevlenemeyen noktalarına ilişkin genellemeler elde edilir. Genellemelerle 
+varsayımlar karşılaştırılarak önermeler matematiksel olarak doğrulanabilecek şekilde su -
+nulur. Elde edilen önermelerden yararlanılarak fonksiyonlarda türev -süreklilik ilişkisi ortaya 
+konur. Ayrıca cebirsel temsili verilen parçalı gösterimli fonksiyonlarda, kritik noktada türev 
+incelenirken bu önermeler kullanılır. Öğrencilere parçalı gösterimli fonksiyonların kritik nok -
+talarında türev incelemeyi gerektiren sorulardan oluşan çalışma kâğıdı verilebilir.
+MAT 12.4.7
+f ve g polinom fonksiyonlarının toplam ve fark işlemlerinde türev almaya yönelik olarak cebir-
+sel temsilleri incelenir. Örneğin gerçek sayılarda  f(x) = x2 ve  g(x) = x şeklinde tanımlı fonk-
+siyonlar kullanılarak elde edilen (f + g)(x) = x2 + x ve (f - g)(x) = x2 - x fonksiyonlarının türevi,  
+türevin limit tanımıyla elde edilir. Buradan hareketle fonksiyonların toplam ve fark işlemlerin-
+de türev alma kuralları ile ilgili varsayımlar geliştirilir. Çarpma, bölme ve bileşke işlemlerinde 
+ise f ve g fonksiyonlarının yapısının bu işlemler sonucunda oluşan yeni fonksiyonda değiştiği 
+matematik yazılımlarından yararlanılarak gözlemlenir (MAB5). Böylelikle öğrencilerin dijital 
+araç ile iş görme becerilerinin geliştirilmesi desteklenir (OB2). Aynı zamanda gerçek sayılarda 
+f(x) = x + 1, g(x) = x şeklinde tanımlı fonksiyonlar ile elde edilen f/g fonksiyonunun türevi-
+ne ilişkin olarak f ve g fonksiyonlarına bağlı yeni bir kural elde edilmesi gerekliliği ifade edilir. 
+Bileşke fonksiyonların referans fonksiyonlardan türetilebileceği fikri ile bu fonksiyonların türev 
+alma kuralı örnekler üzerinden incelenir. Örneğin gerçek sayılarda  f(x) = (3x + 1)2 şeklinde ta-
+nımlı fonksiyon; h(x) = 3x + 1 ve g(x) = x2 fonksiyonlarının bileşkesi şeklinde yazılır. Türevin limit 
+tanımı kullanılarak bu fonksiyonun türev alma kuralı belirlenir ve bileşke fonksiyonların türevine 
+ilişkin varsayımlar elde edilir. Bu varsayımlardan hareketle fonksiyonların toplamının, farkının, 
+çarpımının, bölümünün ve bileşkesinin türevine ilişkin genellemeler elde edilir. Bileşke fonk -
+siyonun türevinde iki fonksiyonun bileşkesi ile sınırlı kalınır. Genellemelerle varsayımlar kar-
+şılaştırılarak önermeler matematiksel olarak doğrulanabilecek şekilde sunulur. Elde edilen 
+önermeler fizik, kimya, biyoloji ve ekonomi bağlamlarında türevi kullanmayı gerektiren gerçek 
+yaşam problemlerinde değerlendirilir. Örneğin t saatte bir evin içerisinde iki ayrı musluktan 
+akan su miktarları f ve g fonksiyonları ile modellenebilir. Belirli bir saatte bu musluklardan 
+akan toplam su miktarındaki değişim, toplam fonksiyonunun türevi yardımıyla bulunur. Buna 
+göre hangi saatlerde en çok su tüketimi olduğu belirlenir (D17.2). Ayrıca bileşke fonksiyonun 
+türev alma kuralı kullanılarak uygun koşullarda g(x) = [f(x)]n şeklinde tanımlı fonksiyonların 
+türevi ile ilgili önermelere ulaşılır. Bu şekilde farklı görünen durumlara ilişkin bileşke fonksiyo-
+nun türev alma kuralı kullanılarak farklı çözümler üretilir. Öğrencilere fonksiyonların toplam, 
+fark, çarpım, bölüm ve bileşkesinin türevini kullanmayı gerektiren gerçek yaşam problemleri-
+ne  ilişkin çalışma kâğıdı verilebilir. 
+'
+'

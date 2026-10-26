@@ -1,0 +1,51 @@
+183
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.12.4.1. Fonksiyonların belirli bir nokta civarındaki veya sonsuzdaki davranışını limit 
+kavramını kullanarak grafikler üzerinden yorumlayabilme 
+a) Bir fonksiyonun belirli bir nokta civarındaki veya sonsuzdaki davranışını grafiği üze-
+rinden inceler.
+b) Grafikten elde ettiği bilgileri tablo veya sözel temsiller yoluyla yaklaşma fikrine ula-
+şacak şekilde dönüştürür.
+c) Bir fonksiyonun belirli bir nokta civarındaki veya sonsuzdaki limitini sözel olarak ye-
+niden ifade eder.
+MAT.12.4.2. Cebirsel temsili verilen bir fonksiyonun belirli bir noktadaki veya sonsuzdaki 
+limiti hakkında muhakeme yapabilme
+a) Bir fonksiyonun tablo, grafik ve cebirsel temsili üzerinde belirli bir nokta civarında 
+veya sonsuzda aldığı değerleri belirler.
+b) Bir fonksiyonun belirli bir nokta civarında veya sonsuzda aldığı değerler arasındaki 
+ilişkileri tablo, cebirsel ve grafik temsili üzerinde belirler.
+c) Bir fonksiyonun belirli bir nokta civarında veya sonsuzda aldığı değerler arasındaki 
+ilişkileri limit tanımını kullanarak dönüştürür.
+ç) Bir fonksiyonun belirli bir noktadaki veya sonsuzdaki limitini matematiksel temsil -
+lerle yeniden ifade eder.
+d) Farklı fonksiyonların ve bu fonksiyonlarla yapılan işlemlerin belirli bir noktadaki veya 
+sonsuzdaki limitlerine yönelik varsayımlarda bulunur.
+e) Varsayımlarına dayalı örüntüleri geneller.
+f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerini önerme olarak ifade eder.
+ğ) Önermelerini farklı problem durumlarında değerlendirir.
+MAT.12.4.3. Bir fonksiyonun bir noktadaki limitinin belirsizlik durumunu yorumlayabilme  
+a) Bir fonksiyonun bir noktadaki limitinin belirsizlik durumunu grafik veya tablo kullana-
+rak inceler.
+b) İncelediği fonksiyonun cebirsel ifadesini belirsizlik durumunu ortadan kaldıracak şe-
+kilde dönüştürür.
+c) Hesapladığı limit değerini, dönüştürdüğü fonksiyon ile başlangıç fonksiyonunun gra-
+fiklerini karşılaştırarak yeniden ifade eder.
+MAT.12.4.4. Bir fonksiyonun tanımlı olduğu noktalardaki sürekliliğini yorumlayabilme
+a) Fonksiyonların tanımlı olduğu bir noktadaki değeri ile o noktadaki limitini inceler.
+b) Fonksiyonların tanımlı olduğu bir noktadaki değeri ile o noktadaki limitini sürekliliğin 
+cebirsel ifadesine dönüştürür.
+c) Fonksiyonların tanımlı olduğu bir noktadaki sürekliliğini o noktadaki değerinin limitine 
+eşitliği olarak ifade eder.
+İÇERİK ÇERÇEVESİ • Grafik Temsili Verilen Fonksiyonların Limiti
+• Cebirsel Temsili Verilen Fonksiyonların  Limiti 
+• Fonksiyonların Limitinde Belirsizlik Durumları
+• Fonksiyonların Sürekliliği
+Genellemeler • Limit ve süreklilik, fonksiyonların belirli bir nokta civarındaki veya sonsuzdaki değişimlerini 
+inceleme  araçlarıdır.
+Anahtar Kavramlar belirsizlik, dikey -düşey asimptot, limit, sağdan limit, soldan limit, sonsuzluk, süreklilik, 
+tanımsızlık, yatay asimptot 
+Sembol ve Gösterimler limf x, limf x, limf x
+xa xa xa" " "+-
+^^ ^hh h

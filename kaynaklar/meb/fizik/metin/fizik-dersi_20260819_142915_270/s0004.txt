@@ -1,0 +1,49 @@
+4
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+1. FİZİK DERSİ ÖĞRETİM PROGRAMI
+1.1. FİZİK DERSİ ÖĞRETİM PROGRAMI'NIN TEMEL Y AKLAŞIMI VE ÖZEL AMAÇLARI
+Fizik biliminin amacı; gözlem ve deneye dayalı olarak uzay-zaman, madde ve enerji arasındaki ilişkinin anlaşılmasına 
+yardımcı olmaktır. Bu alanlarda yapılan bilimsel çalışmalar sonucunda ortaya çıkan teknolojilerin toplumların gelişmesine 
+sağladığı katkılar, gelişmenin ve ilerlemenin temelinde yatan unsurlar fizik biliminin önemini ortaya koymaktadır. Yeni 
+bilgiler ve teknolojik gelişmeler doğrultusunda hazırlanan ve Türkiye Yüzyılı Maarif Modeli temel alınarak yapılandırılan 
+Fizik Dersi Öğretim Programı’nın temel yaklaşımı öğrencilerin ilgi ve ihtiyaçları doğrultusunda deneyimsel, bağlamsal 
+ve keşfederek fizik bilimine ilişkin bilgiyi anlamlı bir şekilde yapılandırmalarını sağlamaktır. Bu bağlamda öğrencilerin 
+gelişimsel ve bireysel farklılıkları dikkate alınarak Fizik Dersi Öğretim Programı, dijital çağın gereklilik ve ihtiyaçlarına 
+çözüm bulabilecek bireyler yetiştirmeyi hedeflemektedir. Ayrıca Fizik Dersi Öğretim Programı bilimsel bilgi, beceri ve 
+tutumlara; sosyal-duygusal ve okuryazarlık becerileri ile eğilim ve değerlere sahip bireyler yetiştirmeyi amaçlamaktadır. 
+Bu sebeple Fizik Dersi Öğretim Programı bilimsel tutum ve davranışların hayatın ayrılmaz bir parçası olarak düşünülmesine, 
+etkili ve kalıcı bir fizik öğretiminin gerçekleşmesine katkı sağlayacaktır. 
+Fizik Dersi Öğretim Programı’nda Türkiye’de gerçekleştirilen fizik bilimiyle ilişkili projelere yer verilmesi, öğrencilerin 
+yalnızca bilimsel bilgi edinmelerini değil; aynı zamanda millî ve evrensel değerlerle bütünleşmiş erdemli bireyler 
+olarak yetişmelerini amaçlamaktadır. Bu yaklaşım, Türkiye Yüzyılı Maarif Modeli’nin Erdem–Değer–Eylem Çerçevesi 
+ile uyumlu biçimde, vatanseverlik, tasarruf ve yardımseverlik gibi değerlerin somut eylemler yoluyla içselleştirilmesini 
+desteklemektedir. Programda ele alınan enerji verimliliği, kaynakların etkin kullanımı, sürdürülebilirlik ve yerli bilimsel 
+çalışmaların ele alınması öğrencilerin sorumluluk, duyarlılık ve toplumsal bilinç geliştirmelerine katkı sağlamaktadır. 
+Aynı zamanda sürdürülebilirlik, dijital ve bilgi okuryazarlığı gibi beceriler aracılığıyla öğrencilerin bilimsel bilgiyi etik ve 
+bilinçli biçimde kullanmaları hedeflenmektedir. Böylece Fizik Dersi Öğretim Programı, Erdem–Değer–Eylem Çerçevesi 
+doğrultusunda bilimsel kazanımları değer temelli bir yapı içerisinde ele alarak erdemli bireylerin yetiştirilmesine katkı 
+sunmaktadır.
+Fizik Dersi Öğretim Programı’nda öğrencilerin bilimsel bilgi, beceri ve tutumlara sahip olmaları, fizik bilimine özgü bilgiyi 
+günlük hayatlarında kullanabilmeleri, doğru bilgiyi ayırt etmeleri, bilgiyi analiz edip değerlendirmeleri ve bilimsel bilgi 
+üretmeleri sayesinde disipline özgü alan becerilerini geliştirmeleri hedeflenmiştir.
+Fizik Dersi Öğretim Programı’nda üniteler oluşturulurken ve sıralanırken ünitelerde yer verilen bilimsel bilginin basitten 
+karmaşığa veya somuttan soyuta ilerleme durumları dikkate alınarak aşamalı bir yapı benimsenmiştir. Fizik Dersi 
+Öğretim Programı'nda yer alan 9, 10, 11 ve 12. sınıf ünitelerinin kapsam ve sıralaması özellikle kimya, biyoloji ve fen bilimleri 
+öğretim programları dikkate alınarak oluşturulmuştur. Bu kapsamda fizik dersi üniteleri; 9. sınıfta “Fizik Bilimi ve Kariyer 
+Keşfi, Kuvvet ve Hareket, Akışkanlar, Enerji”, 10. sınıfta “Kuvvet ve Hareket, Enerji, Elektrik, Dalgalar”, 11. sınıfta “Kuvvet 
+ve Hareket, Elektrik ve Manyetizma, Optik”, 12. sınıfta “Kuvvet ve Hareket, Enerji, Dalgalar, Madde ve Doğası” sıralaması 
+ile verilmiştir.  
+“Fizik Bilimi ve Kariyer Keşfi” ünitesiyle fizik biliminin diğer bilim dalları ve mesleklerle ilişkisi, ayrılan özellikleri, 
+gelişimi, bilimsel ve teknolojik gelişimlere etkileri gibi konulardaki öğrencilerin bilgi ve becerilerinin geliştirilmesi 
+hedeflenmektedir. "Akışkanlar" ve "Madde ve Doğası" ünitelerinde basınç ve kaldırma kuvveti konularından Modern Atom 
+Teorisine kadar bir çok alanda maddelerin özellikleri ve bu özelliklerin yeni teknolojiler için kullanımına yer verilmektedir. 
+"Dalgalar" ve "Optik" ünitelerinde enerjinin farklı biçim ve kullanım alanlarına değinilmektedir ayrıca "Dalgalar" ünitesi 
+altında depreme yönelik bir farkındalık oluşturulmaktadır. "Kuvvet ve Hareket" ve "Enerji" ünitelerinde maddenin kuvvet 
+ile etkileşimi, hareket ve kuvvetin enerjiye etkisi konuları işlenmektedir. "Elektrik ve Manyetizma" ünitelerinde elektrik 
+akımının günlük hayattaki ve teknolojideki kullanımı üzerinde durulmaktadır. Bütün ünitelerde öğrencilere uygulama 
+yapabilecekleri örnekler sunularak, öğretim programının etkililiği artırılmaktadır.
+Fizik Dersi Öğretim Programı'ndaki ünite yapılarına öğrencilerin 9. sınıf “Akışkanlar” ünitesinde öğrendiği basınç ve 
+kaldırma kuvveti kavramlarından yola çıkıp, bu kavramları bir basamak daha ileriye taşıyıp düzgün akışkanların akış hızı 
+ile basıncı arasındaki ilişkiyi keşfetmeleri, keşfettikleri bu ilişkinin uygulama alanlarını öğrenmeleri örnek gösterilebilir. 
+12. sınıfta ise maddelerin özelliklerinin incelenmesi ile ortaya çıkan bilimsel ve teknolojik gelişmeler, kapsamlı bir şekilde 
+öğrencilere keşfettirilerek hem yatayda hem de dikeyde kapsam bütünlüğü sağlanmıştır.

@@ -1,0 +1,41 @@
+161
+2. Tema/Ölçme ve Değerlendirme
+Yüksekliği 200 cm olan dik dairesel silindir şek-
+lindeki boş bir su tankına su doldurulmaktadır. 
+1 dakika boyunca sabit hızla su doldurulduğunda 
+tanktaki suyun yüksekliği 1 cm olmaktadır. Tanka 
+su doldurulmaya başlandığı andan itibaren 
+zamana (dk.) bağlı olarak tanktaki suyun yüksek-
+liğinin (cm) değişimini gösteren fonksiyon f olsun.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		f	 fonksiyonunun 	 tanım 	 ve 	 görüntü 	 kü-
+melerini	bulunuz.
+b)		 f	fonksiyonunun 	cebirsel 	temsilini 	bu-
+lunuz.	
+c)		f	fonksiyonunun 	grafik 	temsilini 	oluştu-
+runuz.
+ç)		Tanımlı	olduğu 	aralıkta 	f 	fonksiyonunun	
+bire	bir	olup	olmadığını	bulunuz.
+d)		 f	fonksiyonunun 	sıfırını 	ve 	işaretini 	be-
+lirleyiniz.
+1. Kenar uzunlukları 4 cm ve x cm olan bir dik-
+dörtgen veriliyor. x  1 olmak üzere x  e (cm) 
+bağlı olarak dikdörtgenin çevre uzunluğunun 
+(cm) değişimini gösteren fonksiyon f olsun.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		f	 fonksiyonunun 	 tanım 	 ve 	 görüntü 	 kü-
+melerini	 bularak 	 fonksiyonun 	 cebirsel 	
+temsilini	yazınız.
+b)		 f	 fonksiyonunun 	 grafik 	 temsilini 	 oluş-
+turunuz.	
+O x
+y
+c)		f	fonksiyonunun	işaretini	inceleyiniz.
+ç)		 f 	fonksiyonunun 	artan 	veya 	azalan 	olduğu	
+aralıkları	belirleyiniz.
+d)		f	fonksiyonunun 	bire 	bir 	olup 	olmadığını 	
+bulunuz.
+2.
+Ölçme ve Değerlendirme
+Bu bölümde cevaplamanız için farklı soru tiplerinde 19 adet soru bulunmaktadır.
+Ölçme ve değerlendirme bölümünün sonunda verilen karekodu okutarak ek sorulara ulaşabilirsiniz.

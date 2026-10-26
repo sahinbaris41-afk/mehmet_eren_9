@@ -1,0 +1,82 @@
+133
+Organizasyon
+7. Etkinlik      
+Adı Domainlerin Genel Özellikleri 
+Amaç Domain sisteminde yer alan canlıların özellikleriyle ilgili çıkarım yapabilme
+Süre 80 dk.
+Yönerge
+• Domainlerin genel özelliklerine ait animasyonu karekodu kullanarak izleyiniz.
+• Aşağıda uygulama basamakları verilen etkinliği gerçekleştiriniz. 
+1. Aşağıdaki bilgi kartlarında görselleri ve genel özellikleri verilen canlıları 
+inceleyiniz. Bu canlıların hangi domain (bakteri, arke, ökaryot) içerisinde yer 
+alabileceğine dair varsayımlarda bulununuz.
+Üç Üst Âlem (Domain) 
+Sistemine Ait Canlıların 
+Özellikleri
+Bilimsel adı:  Methanobrevibacter smit-
+hii (Metanobırevibakter simiti)
+Özellikleri: İnsan bağırsağında yaşayan 
+tek hücreli bir canlıdır. DNA paketleme ve 
+genetik materyalin organizasyonunda rol 
+oynayan histon proteinleri sentezleyebi -
+lir. Bu canlı plazmit içermez ancak bulun-
+duğu domaine ait birçok tür plazmit içerir 
+ve direnç geliştirebilir. Bu canlının dâhil 
+olduğu domaindeki bazı türler, aşırı sıcak 
+ve tuzlu çevre koşullarında da yaşayabilir.
+5
+Bilimsel adı: Ophrys lycia
+(Opris liyka, Likya kaş orkidesi)
+Özellikleri: Likya Kaş orkidesi, sahip 
+olduğu kloroplastlar sayesinde kendi 
+besinini kendi üretir. Çok hücreli bir or -
+ganizmadır. Hücre çekirdeği histon pro -
+teinleriyle paketlenmiş  doğrusal bir ge -
+netik materyal içerir. Selüloz içeren hücre 
+duvarına sahiptir. Bu türün bulunduğu 
+domaindeki canlıların çoğu üreticiler sı -
+nıfında yer alır.
+6
+Bilimsel adı: Apis mellifera
+(Apis mellifera, Bal arısı) 
+Özellikleri: Çok hücreli bir canlıdır. Hücre 
+duvarı bulunmaz. Hücrelerinde çekirdek 
+ve zarlı organelleri vardır. Doğrusal genetik 
+materyali histon proteinlerine sarılıdır. Aşırı 
+zorlu doğa koşullarında yaşayamaz. Bitkile-
+rin tozlaşmasında için önemli rol oynar.
+4
+Bilimsel adı: Euglena gracilis
+(Öglena gırasilis)
+Özellikleri: Çekirdek ve zarla çevrili 
+organellere sahip tatlı suda yaşayan tek 
+hücreli organizmadır. Bitkiler gibi ken-
+di besinlerini kendileri üretebilir ya da 
+hayvanlar gibi besinlerini dışarıdan hazır 
+alarak sindirir. Bu türün içinde yer aldığı 
+domain; hayvan, bitki ve mantar benzeri 
+tek ya da çok hücreli canlıları içerir. Bu 
+domaindeki canlıların bazıları fotosente -
+tik bazıları ise heterotrofiktir. 
+1
+Bilimsel adı: Escherichia coli
+(Eşerişya koli)
+Özellikleri: Tek hücreli, prokaryot yapılıdır. 
+Peptidoglikan yapıda hücre duvarı bulunur.  
+Halkasal bir kromozoma sahiptir ve genetik 
+materyali histon proteine sarılmamıştır. Plaz-
+mit içerir. Yer aldığı domaindeki canlıların ba-
+zıları zorlu çevre şartlarına oldukça dayanıklı 
+ve antibiyotiklere dirençli olabilir.
+2
+Bilimsel adı: Omphalotus nidiformis 
+(Ompalotus nidiformis, Hayalet mantarı)
+Özellikleri: Çok hücreli bir yapıya sahip 
+bu organizma genellikle ağaç gövdeleri 
+üzerinde çürükçül beslenir. Yer aldığı do-
+maindeki bazı türleri tek hücreli olabilir. 
+Bu türün yer aldığı domaindeki canlıların 
+bazıları zehirli olması yanında domain 
+ekolojik öneme sahip türleri de içerir. Ki -
+tin içeren hücre duvarına sahiptir.
+3

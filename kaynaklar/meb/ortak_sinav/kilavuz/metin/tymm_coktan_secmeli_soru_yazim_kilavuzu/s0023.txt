@@ -1,0 +1,66 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+23
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM 
+Sadece seçenek sayısını tamamlamak için bariz 
+yanlış seçenek yazılması
+•  Konuyu hiç bilmeyen öğrencinin bile elediği, genel 
+kültür bilgisiyle cevaplanabilen ve çekiciliği olma -
+yan seçeneklerdir.
+Çeldiricilerin rastgele yanlışlardan değil konuyu 
+“eksik öğrenen” veya “yanlış yapılandıran” öğrenci -
+nin düşeceği bilimsel yanılgılardan seçilmesi
+•  Bilmeyenlere çekici gelen güçlü çeldiriciler 
+kurgulanır.
+Doğru cevabın diğer seçeneklerden bariz şekilde 
+daha uzun, detaylı ve açıklayıcı olması
+•  Öğrenciye soruyu okumasa bile doğru cevabı işa -
+retlettiren “görsel” bir ipucu sağlar.
+Tüm seçeneklerin kelime sayısı, satır uzunluğu ve 
+dil yapısı bakımından birbirine benzer olması
+•  Cevabın biçimiyle değil sadece içeriğiyle öne çık -
+masını sağlayan adil bir yapıdır.
+Metinde geçen bir cümlenin, kelime grubunun ya da 
+kelimenin aynen seçeneklerde kullanılması
+•  Öğrenci metni anlamasa bile görsel eşleştirme ya -
+parak doğru cevabı bulabilir.
+Seçeneğin metindeki ifadenin aynısı değil anlamca 
+özdeşi (farklı kelimelerle ifade edilmiş hâli) olması
+•  Öğrencinin ezberini değil okuduğunu anlama ve 
+yorumlama becerisini ölçen bir yaklaşımdır.
+2.5.4. Tasarım ve Dizgi Hataları
+Aşağıdaki tablo, soru yazımında bilişsel yükü en aza indirmek ve görselin işlevselliğini artırmak amacıyla 
+hazırlanmıştır. Tabloda görsel tasarım süreçlerindeki hatalı ve doğru yaklaşımlar somut örnekler üzerin -
+den gerekçeleri açıklanarak karşılaştırılmıştır.
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM 
+Metinde yazılanı aynen resmeden görsellerin 
+kullanılması
+Örnek: ”Masanın üzerinde üç elma var ” yazarken ya-
+nına üç elma resmi koymak
+•  Ölçmeye katkısı olmayan, gereksiz bilişsel yük 
+oluşturan bir kullanımdır.
+Görselin metni tekrar etmek yerine metinde yer al -
+mayan yeni bir veriyi sunması
+Örnek: Elmaların görselini değil elmaların “çürüme 
+oranını” gösteren bir görsel sunmak
+•  Sorunun çözümü için görselin okunmasını zorunlu 
+kılan bir tasarımdır.
+Veri etiketlerinin (rakamların) çok küçük olduğu, 
+çizgilerin birbirine girdiği, gereksiz üç boyutlu gra -
+fiklerin kullanılması
+•  Algıyı zorlaştıran ve sorunun odağını bozan görsel 
+gürültü oluşturur.
+Sadece sorunun çözümü için gerekli veriyi içeren, 
+iki boyutlu, sadeleştirilmiş ve net etiketlenmiş gra -
+fiklerin kullanılması
+•  Öğrencinin doğrudan veriye odaklanmasını sağla -
+yan, gözü yormayan temiz bir tasarımdır.
+Metnin bir sayfada, sorunun diğer sayfada yer al -
+ması veya görsel ile soru kökü arasına başka içerik -
+ler bulunması
+•  Öğrencinin dikkatini dağıtan ve sürekli sayfa çe -
+virmeyi gerektiren ergonomik bir hatadır.
+Bağlam (metin/görsel) ve ona ait soruların öğrenci -
+nin gözlerini yormayacak şekilde aynı görsel alanın -
+da bulunması
+•  Odaklanmayı kolaylaştıran, bilişsel yükü azaltan 
+bütüncül bir sunumdur.

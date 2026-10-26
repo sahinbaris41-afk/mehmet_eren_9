@@ -1,0 +1,37 @@
+155
+6. Tema / İstatistiksel Araştırma Süreci
+Grafikteki verileri göz önünde bulundurarak aşağıdaki soruları sınıf içinde tartışınız.
+1. Küresel ortalama sıcaklık değerlerindeki sapmaların hangi değerlerde yoğunlaştığını 
+görebilmek için hangi veri özetleme araçlarına ihtiyaç duyulur? 
+2. 1850 ile 2023 yılında gözlemlenen sıcaklık sapma değerleri arasındaki fark 
+belirlendiğinde sıcaklık farkının neden olacağı olumsuz etkileri anlamlandırabilmek için 
+hangi veri özetleme değerine bakılması gerekir? 
+3. Dağılımın merkezine yığılan küresel ortalama sıcaklık değerlerindeki sapmaların hangi 
+aralıklarda yoğunlaştığını görebilmek için hangi veri görselleştirme aracı kullanılabilir?
+4. Küresel ortalama sıcaklık değerlerindeki sapmaların dağılımına göre çok düşük ya 
+da çok yüksek sıcaklık sapma değerleri olup olmadığını görebilmek için hangi veri 
+görselleştirme aracı kullanılabilir?
+5. Belli zaman aralıklarında sıcaklık değerlerinin sapmalarındaki değişimi görebilmek için 
+hangi veri görselleştirme aracı kullanılabilir?
+N
+icel	veri	dağılı mları	ile	yür ütülecek	ist atistiksel	araş tırma	sür eci	tek	nicel	değişk ene	odaklanı larak	
+gerçekleştirilebilir.	Bu	durumda	istatistiksel	araştırma	soruları	tek	nicel	değişkene	uygun	olarak	
+hazırlanır.	Hazırlanan	sorular	doğrultusunda	veri	toplama	planı	yapılır	ve	verilere	ulaşılır.	Ulaşılan	
+veriler	analiz	edilerek	yorumlanır.
+Tek	Nicel	Değişkenli	Veriye	Dayalı	İstatistiksel	
+Araştırmalarda	Bağlam
+Grafik	6.1'de	veri len	tek	ni cel	de ğişkenli	veri	da ğılımına	yön elik	no kta	gra fiğini	
+inceleyiniz.	Bu	verilerden	anlamlı	bir	bilgi	elde	edebilmek	mümkün	müdür?	
+Mümkün	 olmadı ğını	 düşünüyors anız	 hangi	 bilgilere	 ihtiyaç	 olduğunu	 sı nıf	
+arkadaşlarınızla	tartışınız.	
+Grafik 6.1: Tek nicel değişkenli bir veri dağılımına yönelik nokta grafiği  
+İstatistiksel	araştırmalarda	bağlam,	verilere	dayalı	bilgi	üretme	ihtiyacı	duyulan	gerçek	yaşam	durumla-
+rıdır.	İstatistiksel	araştı rma	süreci,	bağlama	yönelik	istat istiksel	araştı rma	soruları	oluşturmayla	başlar	ve	
+bağlam	sürecin	tamamında	önemli	bir	rol	oynar.	Bu	nedenle	gerçek	yaşam	durumlarından	yola	çıkılarak	
+istatistiksel	araştırmanın	bağlamının	belirlenmesi	ve	istatistiksel	araştırma	sürecinin	bağlam	doğrultu-
+sunda	oluşturulması	gerekmektedir.
+Nicel Veri
+Nicel veriler, bir grubun 
+özelliklerinin sayılması 
+veya ölçülmesiyle elde 
+edilen verilerdir.

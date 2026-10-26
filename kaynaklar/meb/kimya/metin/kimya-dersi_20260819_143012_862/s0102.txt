@@ -1,0 +1,53 @@
+102
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+sistematik adı arasında ilişki kurar (OB4). Öğrencilerden esterlerin sistematik adlandırma 
+kurallarına ilişkin genelleme yapmaları istenir. Ayrıca öğrencilere esterlerin özel adları da 
+verilir. Öğrencilere aynı molekülde farklı fonksiyonel gruba (-OH, -OR, -CHO, -COR, -COOH, 
+-COOR, -C6H5, -X) sahip organik bileşikler ve IUPAC sistemine göre adlarının bulunduğu et-
+kinlik kâğıdı verilir. Öğrencilerden gruplara ayrılmaları ve iş birliği içinde organik bileşiklerin 
+adlandırılmasında fonksiyonel grup önceliğini belirlemeleri istenir (E2.1, SDB2.1, SDB2.2, 
+D3.4, D10.3) . Etkinlik kâğıtları “fonksiyonel gruba sahip organik bileşiklerin fonksiyonel 
+grubu, ana zinciri ve yan gruplarını belirleyebilme; organik bileşiklerin fonksiyonel grubu 
+ile bileşiğin sistematik adı arasında ilişki kurabilme ve organik bileşiklerin sistematik ad -
+landırılma kurallarına ilişkin genelleme yapabilme” ölçütlerini içeren dereceli puanlama 
+anahtarı ile öğretmen tarafından değerlendirilebilir veya öğrenciden öz değerlendirme 
+yapması istenebilir (SDB1.2, SDB1.3). Öğrencilerden çalışma yaprağında verilen çeşitli al -
+kol, eter, aldehit, keton, karboksilik asit, ester bileşiklerinin IUPAC sistemine göre adlarını 
+belirlemeleri istenebilir.
+KİM.12.2.11 
+Öğrencilere kapalı formülleri aynı, fonksiyonel grubu farklı olan çeşitli organik bileşiklerin 
+(alkol, eter, aldehit, keton, karboksilik asit ve ester) sistematik adları ve kapalı formülleri 
+etkinlik kâğıdında verilir. Öğrenciler, kapalı formülleri aynı olan bileşikleri diğerlerinden ayı-
+rır ve bileşikleri alkol-eter, aldehit-keton, karboksilik asit-ester şeklinde ikili gruplara ayırır 
+(OB4). Bileşikleri ilk olarak çizimleriyle modelleyen öğrenciler, modelleri ile ilgili açıklama 
+ve tartışmalarının ardından kendilerine verilen malzemelerle (atom modelleri, hamur, kür-
+dan, tel vb.) bileşiklerin uzay-dolgu modellerini oluşturur (SDB2.1, SDB2.2). Sınıfta grupla-
+rın oluşturduğu modeller incelenir, bileşikleri temsil etme durumları açısından değerlen -
+dirilir ve bilimsel modellerle karşılaştırılır (E3.10, OB4, D3.3). Öğrencilere sorular sorularak 
+kapalı formülleri aynı, fonksiyonel grubu farklı olan bileşiklerin birbiriyle izomer olduğu 
+çıkarımına ulaşılması sağlanır. Bu tür izomerliğin fonksiyonel grup izomerliği olduğu ifade 
+edilir. Öğrencilerden çalışma yaprağında verilen kapalı formülleri aynı olan bileşikler için 
+fonksiyonel grubu farklı olan modeller önermeleri istenebilir.  
+Öğrencilere alkol ve eterlerin, aldehit ve ketonların, karboksilik asit ve esterlerin genel 
+özellikleri (hibrit türü, polar yapısı, hidrojen bağı içerme durumu, suda çözünmesi, kayna -
+ma noktası ve kokusu) hakkında bilgi verilir. Öğrencilere bazı önemli alkollerin (metil alkol, 
+etil alkol, etandiol ve propantriol) ve eterlerin sağlık, kozmetik gibi sektörlerde nasıl kul -
+lanıldığına ilişkin araştırma görevi verilebilir (KB2.6). Bazı önemli aldehitlerin ve ketonların 
+(formaldehit ve aseton) kozmetik ve gıda sektöründe nasıl kullanıldığına ilişkin araştırma 
+görevi verilebilir. Bunların yanı sıra karboksilik asitlerin ve esterlerin (formik asit, asetik 
+asit, benzoik asit, salisilik asit, ftalik asit, folik asit, sitrik asit, malik asit, lanolin, balmumu 
+ve balsam) sağlık, kozmetik, gıda sektöründe nasıl kullanıldığına ilişkin araştırma görevi 
+de verilebilir (KB2.6, D13.4). Öğrencilerden çeşitli organik bileşiklerin kullanım alanları ile 
+ilgili araştırma görevi sırasında bu bileşiklerin insana ve çevreye olumlu ve olumsuz et -
+kilerini belirlemeleri, bu bileşikleri içeren ürünlerin kullanımına yönelik kendilerini değer -
+lendirmeleri, bu süreçte neler hissettikleri ve bu bileşiklerin çeşitli sektörlerde daha etkili 
+kullanılması için neler yapılabileceği üzerine bir rapor yazmaları istenebilir (SDB1.1, SDB1.3, 
+SDB2.3, SDB3.3, OB8).
+KİM.12.2.12
+Karbon temelli enerji kaynaklarının neler olduğu sorulur. Kömür, petrol, doğal gaz ve al -
+kolün karbon temelli enerji kaynakları olduğu söylenir. Etkinlik kâğıdında kömür, petrol, 
+doğal gaz ve alkolün her birinin temel bileşenleri kapalı formülleriyle birlikte verilir. Öğren-
+cilerden fosil yakıtların temel bileşenlerinin yanma tepkimelerini yazmaları, tepkimelerin 
+ekzotermik özelliğine ve yanma ürünlerine ilişkin varsayımlarda bulunmaları istenir. Öğ -
+rencilere kömürün oluşum sürecine, türlerine, yer altındaki derinliklerine, yanma ısıları -
+na ve kimyasal içeriğine ilişkin kanıt kartları verilir. Öğrenciler, kanıt kartlarını inceleyerek 

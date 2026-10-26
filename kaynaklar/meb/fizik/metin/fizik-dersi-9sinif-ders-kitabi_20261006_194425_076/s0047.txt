@@ -1,0 +1,47 @@
+47
+1. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+ABS
+1. Sensörler
+ABS’li bir aracın her bir tekerleğinde sensörler bulunmaktadır. Bu sen-
+sörler otomobilin gözleri gibidir, tekerleklerin ne kadar hızlı döndüğünü 
+izler.
+2. Beyin
+Her bir tekerlekteki sensörü koordine eden merkezî bir beyin veya hız 
+sensörü vardır. Beyin veya merkezî hız sensörü, sürekli olarak teker -
+leklerin olması gerektiği gibi dönüp dönmediğini kontrol eder.
+3. Eylem Zamanı
+Sert bir şekilde frene basıldığında ve otomobilin beyni tekerleklerin 
+otomobilin hızıyla senkronize hareket etmediğini fark ettiğinde (örneğin 
+tekerlekler kilitlenmeye başladığında) ABS harekete geçer.
+4. Hızlı Düzeltmeler
+ABS, her tekerleğin freninde hızlı bir şekilde küçük ayarlamalar yaparak 
+tamamen kilitlenmeyi önlemeye yardımcı olur. ABS’nin frenleme sis -
+temi, savrulma ve kaymayı önlemek için saniyede yaklaşık 20 kez, çok 
+hızlı bir şekilde frene dokunmaya benzer bir çalışma ilkesine sahiptir.
+Verilen bilgi kartına göre ABS, fizik biliminin hangi alt dalları ile açıklanabilir?
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+3. Fizik bilimine önemli katkılarda bulunan bilim insanlarının bakış açıları ve çalışma biçimleri bilimsel 
+keşiflerin temelini oluşturur. Bilim insanları, doğa olaylarını sistematik bir şekilde inceler ve mate -
+matiksel modelleme yaparlar. Bu yaklaşım, modern fiziğin temellerini atmada önemli bir rol oynar. 
+Ayrıca araştırmalarında karşılaştıkları zorlukları sabır ve kararlılıkla aşan bilim insanları, deneysel 
+çalışmalara bağlılıkları sayesinde birçok yeni keşfe imza atarlar. Bu keşifler; fizik, tıp gibi alanlarda 
+çok büyük gelişmeler sağlamıştır.
+Bilim insanlarının çalışma biçimleri ve bakış açıları, onların bilime katkılarını şekillendiren en önemli 
+faktörlerden biridir. Örneğin Antik Dönem’deki görme kuramına göre gözden çıkan ışınlar nesneler 
+tarafından tutulduğunda görme olayı gerçekleşmekteydi. İbnülheysem, bu teorinin doğru olması duru-
+munda karanlıkta da görme olayının gerçekleşmesi gerektiğini belirterek bu teoriye karşı çıkmıştır. 
+İbnülheysem’e göre ışık bir cismin üzerinden sekip göze ulaştığında görme olayı gerçekleşmektedir.
+İbnülheysem, edindiği bilgilerle yetinmeyip daha fazla bilgiye ulaşmak için çaba sarf etmiş, konu 
+üzerinde derinlemesine incelemelerde bulunarak önceki bilgileri bütün yönleriyle eleştirmiş ve bunu 
+yaparken ön yargılı ya da toleranslı davranmamıştır. Yaptığı detaylı çalışmalar sayesinde görme ile 
+ilgili çok önemli bilgilere ulaşmıştır.
+Buna göre 
+a) İbnülheysem’in bilime bakış açısını, çalışma biçimini ve yaptığı çalışmaların bilime etkileri 
+ile ilgili yazılan aşağıdaki ifadeleri verilen kelimelerle uygun şekilde tamamlayınız.
+elektromanyetik şüpheci önyargılı
+sorgulayan eleştiriler optik
+İbnülheysem; ....................................., ..................................... ve delillere dayanarak savlar ileri 
+süren bir bilim insanıdır. Çalışmalarında derinlemesine incelemeler ve ..................................... 
+yaparak başarılı olmuştur. İbnülheysem, ışığın bir cismin üzerinden sekip göze ulaştığında görme 
+olayının gerçekleştiğini açıklamış, bu açıklamasıyla ..................................... alanında çok büyük 
+ilerlemelerin olmasını sağlamıştır.

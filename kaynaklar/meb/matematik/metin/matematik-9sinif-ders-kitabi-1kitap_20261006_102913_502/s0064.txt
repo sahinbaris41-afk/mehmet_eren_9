@@ -1,0 +1,30 @@
+64
+1. Tema /  Sayılar
+19.	Uygulama
+Sayı Kümelerinin Dört İşleme Göre Kapalılığını İnceleme
+Aşağıdaki soruları cevaplayınız. 
+1. N, Z, Q ve R kümelerinden alınan herhangi iki eleman ile yapılan bir işlemin (toplama, çıkarma, çarpma ve 
+bölme) sonucunun aynı kümenin elemanı olup olmaması durumuyla ilgili varsayımlarınızı oluşturunuz.
+2. T abloda verilen her bir küme için bu kümeye ait herhangi iki eleman seçiniz. Seçtiğiniz elemanlarla toplama, 
+çıkarma, çarpma ve bölme işlemlerini yaparak tabloyu örnekteki gibi doldurunuz. 
+ 
+Küme Elemanlar Toplama Çıkarma Çarpma Bölme
+N 4 ve 7 4 + 7 = 11  N 4 - 7 = -3 Ng 47 28 N$ !=  74 Ng
+Z
+Q
+R
+ T abloda elde ettiğiniz sonuçlardan yararlanarak aşağıdaki soruları cevaplayınız. 
+a)  Herhangi iki doğal sayının toplanması durumunda elde edilen sonucun bir doğal sayı olup olmadığı ve bu 
+özelliğin başka hangi sayı kümelerinde geçerli olduğu ile ilgili fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+b)  Herhangi iki tam sayının farkının alınması durumunda elde edilen sonucun her zaman bir tam sayı olup 
+olmadığı ve bu özelliğin başka hangi sayı kümelerinde geçerli olduğu ile ilgili fikirlerinizi sınıf arkadaşla -
+rınızla paylaşınız.
+3. N, Z, Q ve R kümelerinin kapalılık özelliği ile ilgili genellemelerinizi oluşturunuz.
+4. V arsayımlarınızla genellemelerinizi karşılaştırarak N, Z, Q ve R kümelerinin kapalılık özelliğine dair önerme-
+lerinizi oluşturunuz.
+5. Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini yazınız. 
+ Gerçek sayıların alt kümesi olan bir A kümesi oluşturunuz. A kümesinin toplama, çıkarma, çarpma ve bölme 
+işlemlerine göre kapalı olup olmadığını inceleyiniz.
+6. Oluşturduğunuz önermeleri matematiksel olarak doğrulayınız ve doğrulama yöntemlerinizi kullanışlılık açı -
+sından değerlendiriniz.

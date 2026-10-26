@@ -1,0 +1,62 @@
+97
+KUVVET VE HAREKET
+VII. Aşama
+Sürat göstergeleri km/h olarak ayarlanmış hareket hâlindeki bir aracın şehir içi, şehirler a rası ve otoyoldaki sürat 
+göstergelerinin anlık görüntüleri aşağıda verilmiştir. Anlık (ani) sürat kavramının tanımına ulaşmak için sürat 
+göstergelerini inceleyiniz. 
+a) Şehir içi
+ b) Şehirler arası
+ c) Otoyol
+20
+40
+60
+80
+100120 140
+160
+180
+200
+220
+2400
+20
+40
+60
+80
+100120 140
+160
+180
+200
+220
+2400
+20
+40
+60
+80
+100120 140
+160
+180
+200
+220
+2400
+1. Aracın dijital saatlerinde görünen anları ve sürat göstergelerini dikkate alarak şehir içi, şehirler arası ve 
+otoyoldaki sürati kaç km/h’tir? 
+Şehir içi:  
+Şehirler arası:  
+Otoyol:  
+2. Görüntülerin her birinin çekilmesi anlık bir olaydır. Zaman ve sürat arasındaki ilişkiden yararlanarak anlık 
+sürat kavramını tanımlayınız.  
+Anlık Sürat
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+VIII. Aşama
+Aşağıdaki eşit bölmelendirilmiş I. yol haritasının her bir bölmesinin uzunluğu 50 m, II. yol haritasının her bir böl­
+mesinin uzunluğu 60 m’ dir. Hız kavramının tanımına ulaşmak için yol haritalarını inceleyerek soruları cevaplayınız. 
+A B K L
+II. krokiI. kroki
+50 m}
+50 m} 60 m}
+60 m}
+1. İki sporcudan biri I. krokide, diğeri II. krokide yer alan yolda koşu antrenma nı yapmaktadır.  
+Buna göre
+a) A noktasından B noktasına giden sporcu için yer değiştirme kaç m’ dir? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+b) K noktasından L noktasına giden sporcu için yer değiştirme kaç m’ dir? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       

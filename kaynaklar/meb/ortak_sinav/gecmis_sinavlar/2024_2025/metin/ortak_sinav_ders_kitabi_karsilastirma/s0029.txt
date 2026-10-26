@@ -1,0 +1,69 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+Öğrenme Çıktısı : 9.5.4. Tales, Öklid ve Pisagor teoremlerini ispatlayabilme
+Ders Kitabı (MEB) Sayfa 68
+2
+MATEMATİK 9
+3. Boyu	20	cm	olan	bir	fidana	40	cm	uzaklıktan	bir	ışık	kaynağı	tutulduğunda	bu	fidanın	duvardaki	gölge	
+boyu	Şekil	1’deki	gibi	45	cm	olmuştur.	Bu	fidanın	boyu	bir	süre	sonra	uzamış	ve	aynı	ışık	kaynağı	aynı	
+uzaklıktan	tutulduğunda	duvardaki	gölge	boyu	Şekil	2’deki	gibi	72	cm	olmuştur.
+40
+20
+Şekil	1
+45
+DuvarIşık	kaynağı
+ 40
+Şekil	2
+72
+DuvarIşık	kaynağı
+Buna göre, son durumda bu fidanın boyu kaç santimetredir? İşlemlerinizi göstererek bulunuz.  
+(15 puan)
+4. Şekildeki	BDC	ve	BAC	dik	üçgenlerinde		 () ()mmBDCB AC 90c==%% ,		[DE] = [BC],		[AF] = [BC],		
+E ! [BC],		F	! [BC],  |DE|  =  25 	cm,		|EF|  =		6	cm  ve		|FC|  =		4	cm’dir.
+D
+A
+F C46EB
+Buna göre, ACDB  oranının kaç olduğunu işlemlerinizi göstererek bulunuz. (15 puan)
+68
+4. Tema / Eşlik ve Benzerlik
+25. ÖRNEK
+Yandaki	ABC	ve	DBE	dik	üçgenlerinde	B,	F,	E,	C	noktaları	doğ-
+rusaldır.	 ,BA CA=77 AA  AE BC=77 A A,	 BD DE=77 AA ,	 ,DF BE=77 AA
+,AC cm CE cm ve BF cm12 63== = 	olarak	verilmiştir.
+Buna	göre		 DB  nun	kaç	cm	olduğunu	bulunuz.
+Çözüm
+BAC	bir	dik	üçgen	ve	 AE7A 	hipotenüse	ait	yükseklik	olduğundan
+AC CE CB CB CBve cm12 62 4&$$== =2 2 	bulunur.	
+Buradan	 BE CB CE cm24 61 8=-=- = 	olur.
+BDE	dik	üçgeninde	 DF7A 	hipotenüse	ait	yükseklik	olduğundan
+DB BF BE DB DB ve DB cm31 85 45 43 6&&$$== == =22 2 	bulunur.
+A
+B
+C
+D
+E
+F
+14. Sıra Sizde      
+1. Yandaki	görselde	Atakan,	Buse,	Cemile	ve	Er-
+kan’ın	evlerinin	üstten	görünümü	sırasıyla	A,	B,	C	
+ve	E	harfleriyle	gösterilmiştir.	
+Atakan’ın	evinin	Erkan’ın	evine	olan	en	kısa	mesa-
+fesi	12	m,	Buse’nin	evinin	Cemile’nin	evine	uzak-
+lığı	25	m’dir.	Cemile	ile	Atakan’ın	evleri	arasındaki	
+mesafe	Buse	ile	Atakan’ın	evleri	arasındaki	mesa-
+feden	daha	fazladır.	 BA CA=66 @@  ve	B,	E,	C	nok-
+taları	doğrusaldır.
+Buna göre Atakan’ın evinin Cemile’nin evine uzaklığını ifade eden AC  nun kaç m olduğunu 
+bulunuz. 
+2.            Yandaki	şekilde	ABC	bir	dik	üçgen,	m BAC 90o=`j%  
+ve	 AH BC=77 AA  dır.	EA H! 7A ,	 BEDm9 0o=`j% ,   
+BD DC= 	ve	 BE cm6= 	olarak	verilmiştir.
+Buna göre AB  nun kaç cm olduğunu bulunuz.
+A
+B E C
+A
+B H
+E
+D C
+6
+4.Tema_13.07.2024.indd   684.Tema_13.07.2024.indd   68 17.07.2024   18:4717.07.2024   18:47
+9. SINIF ORTAK SINAV (ÖĞLE OTURUMU) - MATEMATİK

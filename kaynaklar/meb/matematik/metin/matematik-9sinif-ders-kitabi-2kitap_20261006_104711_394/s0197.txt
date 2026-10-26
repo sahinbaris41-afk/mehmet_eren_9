@@ -1,0 +1,25 @@
+197
+6. Tema/Ölçme ve Değerlendirme
+4. Bilim	insanları,	önceki	gece	normal	uyku	süresinden	daha	uzun	uyuyan	kişilerin	sonraki	gün	belirgin	
+bir	şekilde	daha	uyanık	hissettiği	sonucuna	varmıştır.	Bu	durumun	trafikte	yaşanan	kazaları	azalt-
+masına,	iş	ve	okuldaki	verimliliği	artırmasına,	tehlikeli	işlerde	çalışan	kişilerin	iş	kazasıyla	karşılaşma	
+riskini	azaltmasına	katkı	sunacağı	belirtilmiştir.
+Bu	bağlamda	bir	okulun	rehberlik	servisi,	öğrencilerin	uykuya	ayırdıkları	süreleri	öğrenmek	için	bir	
+araştırma	yapmaya	karar	vermiştir.	Rehberlik	servisi	belirlediği	bağlam	doğrultusunda	“Öğrencilerin	
+uyku	süreleri	ortalama	kaç	saattir?”	şeklinde	bir	istatistiksel	araştırma	sorusu	oluşturmuştur.	
+Buna göre aşağıda verilen soruları cevaplayınız.
+a) Rehberlik servisinin hazırladığı araştırma sorusunu aşağıda verilen istatistiksel araş -
+tırma sorusunda bulunması gereken ölçütlere göre inceleyiniz ve tablodaki boşlukları 
+doldurunuz.
+İstatistiksel Araştırma Sorusu Ölçütleri Sorunun İlgili Ölçütü Karşılayıp Karşılamadığına Dair Fikirleriniz
+Amaç	açık	mıdır?	
+Araştırmaya	değer	midir?
+İlgilenilen	grup	(evren)	açıkça	görülmekte	midir?
+Değişken		açıkça	görülmekte	midir?
+Veri	toplanarak	cevaplanabilir	mi?
+Değişebilirliği	yansıtmakta	mıdır?
+Odaklanılan	grup	araştırma	yapılmasına	imkân	
+vermekte	midir?
+Nicel	veri	toplamayı	gerektirir	mi?
+b) Rehberlik servisi tarafından yazılan araştırma sorusunda istatistiksel araştırma sorusu 
+ölçütlerine göre eksiklikler olduğunu düşünüyorsanız soruyu yeniden yazınız.

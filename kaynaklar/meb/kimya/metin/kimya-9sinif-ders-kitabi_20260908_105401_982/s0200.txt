@@ -1,0 +1,31 @@
+200
+2. Tema/Çeşitlilik
+Size verilen sıvıların yüzey gerilimini belirlemek amacıyla aşağıdaki malzemeleri kullanarak bir 
+deney planlayınız. Deney sırasında laboratuvar kurallarına dikkat ediniz. Deneyin işlem basamak-
+larını yazınız ve deney sonuçlarınızı sınıftaki diğer arkadaşlarınızın sonuçları ile karşılaştırarak 
+soruları cevaplayınız. 
+Deneyin Adı: Damlalar Büyükse Göl Kısa Sürede Oluşur 
+Deneyin Amacı: Damlaların boyutu ve şeklinden yararlanarak sıvıların yüzey gerilimlerini tahmin edebilme
+Malzemeler: büret (2 adet), spor (2 adet), kıskaç (2 adet), beherglas (2 adet), gliserin (10 mL), zeytinyağı 
+(10 mL), su (10 mL), mısır şurubu (10 mL), pipet, içecek pipeti, plastik kamış, kronometre, 
+mezür, yağlı kâğıt, cam yüzey , pleksi yüzey , plastik yüzey , metal yüzey
+İşlem Basamakları
+1. Damlaların boyut ve şekillerinin farklı olmasının nedeni ne olabilir? Bu farklılığı moleküller arası etkile-
+şimlerle ilişki lendirerek açıklayınız. 
+2. Damlaların boyutlarından yola çıkarak bu sıvıların yüzey gerilimlerini karşılaştırınız.  
+3. Bu sıvıların literatürdeki yüzey gerilim değerlerini “edu.tr” ve “gov.tr” uzantılı genel ağ kaynaklarını kul-
+lanarak bulunuz. Bulduğunuz yüzey gerilim değerlerini tahminlerinizle karşılaştırınız. 
+Değerlendirme
+Yüzey gerilimi kohezyon kuvvetlerinin neden olduğu sıvıların bir özelliğidir. 
+Bir sıvının iç kısmındaki bir molekül diğer moleküller tarafından her yönde 
+eşit ölçüde çekildiği için moleküle etki eden kuvvetler birbirini dengeler ve net 
+kuvvet sıfır olur. Sıvı yüzeyindeki moleküller ise yalnızca alttaki ve yanlardaki 
+sıvı moleküllerince çekildiği için yüzeydeki molekülleri etkileyen kuvvet dağı-
+lımı dengesizdir ve net kuvvet sıfırdan büyüktür. İçteki moleküllerin dengele -
+nen kuvvetleri nedeniyle enerjileri yüzeydekilerden daha düşük olur. Bütün 
+sistemler gibi sıvı molekülleri de düşük enerjili hâli tercih eder. Bu nedenle 
+yüzeydeki moleküller sıvının içine doğru girmeye çalışırken yüzeyde olabil -
+diğince az molekül kalır ve yüzeyde küçülme gerçekleşir. Kohezyon kuvvet-
+lerinin doğrudan bir sonucu olan yüzey gerilimi, suyu dış kuvvetlere karşı 
+dayanıklı hâle getirir.
+Damla BoyutuEtkinlik-2.30

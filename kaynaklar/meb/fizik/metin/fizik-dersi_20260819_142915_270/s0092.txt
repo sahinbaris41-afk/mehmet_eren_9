@@ -1,0 +1,51 @@
+92
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Anahtar Kavramlar kırınım, girişim, yarıklar arası uzaklık, yarık genişliği, girişim deseni, elektromanyetik dalga 
+spektrumu, elektromanyetik dalga enerjisi
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; farklı madde türleri içeren çalışma kâğıdı, çıkış kartı, yapılandırılmış 
+grid, tanılayıcı dallanmış ağaç ve açık uçlu maddeler kullanılarak değerlendirilebilir.
+Kırınım olayı ile ilgili yapılandırılmış grid, tanılayıcı dallanmış ağaç, açık uçlu maddeler içe-
+ren bir çalışma kâğıdı ile değerlendirme yapılabilir. Işıkta kırınım deneyini tasarlayıp yap-
+maya yönelik tahmin et-gözle-açıkla yönteminin aşamalarını içeren bir çalışma yaprağı 
+kullanılabilir. Dairesel su dalgalarında gerçekleşen girişim olayına yönelik genellemeler; 
+yapılandırılmış grid, tanılayıcı dallanmış ağaç, açık uçlu maddeler içeren çıkış kartları gibi 
+ölçme araçları ile değerlendirme yapılabilir. Işıkta girişim deneyi tasarlayıp yapma, tahmin 
+et-gözle-açıkla yönteminin aşamalarını içeren bir çalışma yaprağı ile değerlendirilebilir. 
+Elektromanyetik dalgaları sınıflandırabilme; tanılayıcı dallanmış ağaç, yapılandırılmış grid 
+ya da açık uçlu soruların olduğu çalışma yaprağı ile değerlendirilebilir. Çalışma yaprağı-
+nın değerlendirilmesinde puanlama anahtarlarından yararlanılabilir. Işık renklerinin dal-
+ga boyları hakkındaki genellemeler yapılandırılmış grid, tanılayıcı dallanmış ağaç ve açık 
+uçlu sorulardan yararlanarak değerlendirilebilir. Mekanik veya elektromanyetik dalgaların 
+kullanıldığı cihazlardan birinin çalışma prensiplerine yönelik araştırma yaparak poster ve 
+sunum hazırlanması istenebilir. Çalışma yaprağı, çıkış kartı, yapılandırılmış grid, tanılayıcı 
+dallanmış ağaç ve açık uçlu maddelerin değerlendirilmesinde puanlama anahtarlarından 
+yararlanılabilir. Poster ve sunumun değerlendirilmesinde dereceli puanlama anahtarla-
+rı ile öz ve akran değerlendirme formlarından yararlanılabilir. Performans görevi ile yazılı 
+yoklamalar sonuç değerlendirmede kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin frekans, dalga boyu, genlik, ivme, enerji, ışık prizması, kırılma ve mekanik 
+dalgalar kavramlarını bildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere soru cevap tekniği ile frekans, dalga boyu, genlik, ivme, enerji, ışık prizması, 
+kırılma ve mekanik dalgalar kavramlarına ilişkin sorular sorulabilir. 
+Köprü Kurma Limanları büyük dalgaların etkisinden korumak için kurulan dalga kıranlar ile kırınım olayı, 
+durgun su yüzeylerinde birden fazla taşın aynı anda atılması sırasında oluşan dalga deseni 
+ile girişim olayı; günlük hayatta kullanılan cep telefonu, kablosuz ağ, radyo, televizyon, uzak-
+tan kumanda ve mikrodalga fırınlar ile elektromanyetik dalgalar arasında ilişki kurulabilir. 
+Öğrenme-Öğretme 
+Uygulamaları FİZ.12.3.1
+Doğrusal su dalgalarında kırınım olayına ilişkin resim, video veya simülasyonlar gibi ma-
+teryaller kullanılabilir.  Öğrenciler kırınım olayına ilişkin gözlemler yapar. Öğrenciler kırınım 
+olayına ilişkin gözlemledikleri durum hakkında özgün çizimler yapar (D3.1, OB4). Çizimler-
+de dalga boyu ve yarık genişliğini gösterir. Öğrenciler frekansın, dalga boyunun ve yarık 
+genişliğinin değişiminin kırınım olayına etkisine yönelik tahminler yapar (KB2.11). Öğrenci-
+lerin simülasyon, animasyon veya deney düzenekleri kullanarak tahminlere ilişkin gözlem-
+ler yapmaları sağlanır. Öğrenciler, doğrusal su dalgalarında kırınım olayını frekans, dalga 
+boyu ve yarık genişliği değişkenleri ile ilişkilendirerek açıklar (OB1). Değişkenler üzerinden 
+kırınım olayına ilişkin genellemeler yapar. Öğretmen; kırınım olayı ile ilgili yapılandırılmış 
+grid, tanılayıcı dallanmış ağaç, açık uçlu maddeler içeren çalışma yaprağı ile değerlendir-
+me yapabilir.

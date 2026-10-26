@@ -1,0 +1,44 @@
+69
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ BİY.12.1.1. Hücre bölünmesinin ve üremenin canlılar için önemini yorumlayabilme
+a) Hücre bölünmesini inceler.
+b) Hücre bölünmesinin nedenlerini kendi cümleleriyle ifade eder.
+c) Hücre bölünmesinin üreme, büyüme ve gelişme için önemini yorumlar.
+BİY.12.1.2. Hücredeki genetik materyalin organizasyonunu çözümleyebilme
+a) Genetik materyalin organizasyonunu belirler.
+b) Genetik materyalin organizasyonunda görevli bileşenler arasındaki ilişkileri belirler.
+BİY.12.1.3. Canlılarda hücre döngüsü ve hücre bölünmesini sorgulayabilme
+a) Yeni hücrelerin oluşumunda hücre döngüsü sürecini tanımlar. 
+b) Mitoz ve mayozla yeni hücrelerin oluşum süreci hakkında sorular sorar.
+c) Mitoz ve mayoz ile ilgili bilgi toplar.
+ç) Mitoz ve mayozda gerçekleşen hücre döngüsü ile ilgili topladığı bilgilerin 
+doğruluğunu değerlendirir.
+d) Topladığı bilgilerden yola çıkarak tür içi kalıtsal çeşitliliğin sağlanmasında mitoz 
+ve mayozun önemi ile ilgili çıkarım yapar.
+BİY.12.1.4. Kromozomlarda ayrılmamanın sonuçlarıyla ilgili bilimsel çıkarım yapabilme 
+a) Kromozomlarda ayrılmama ile ilgili özellikleri tanımlar.
+b) Kromozomlarda ayrılmama ile ilgili bilgileri/verileri toplar ve kaydeder.
+c) Kromozomlarda ayrılmama olayının sonuçlarını yorumlar ve değerlendirir.
+BİY.12.1.5. Üreme hücrelerinin oluşum süreci ve yapılarını karşılaştırabilme 
+a) Üreme hücrelerinin oluşum sürecinin özelliklerini belirler.
+b) Üreme hücrelerinin oluşum süreci ve yapılarının benzerliklerini listeler.
+c) Üreme hücrelerinin oluşum süreci ve yapılarının farklılıklarını listeler.
+BİY.12.1.6. Eşeysiz ve eşeyli üreme ile ilgili bilimsel çıkarım yapabilme 
+a) Canlılarda eşeysiz ve eşeyli üremeyle ilgili nitelikleri tanımlar.
+b) Canlılarda eşeysiz ve eşeyli üreme arasındaki benzerlik ve farklılıklara ilişkin 
+bilgileri toplar ve kaydeder.
+c) Eşeysiz ve eşeyli üremeyi sağladıkları avantaj ve dezavantajlar açısından 
+yorumlar ve değerlendirir.
+BİY.12.1.7. Erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili bilgi toplayabilme
+a) Erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili bilgilere ulaşmak için 
+kullanacağı araçları belirler.
+b) Belirlediği araçları kullanarak erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle 
+ilgili bilgilere ulaşır.
+c) Erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili ulaştığı bilgileri doğrular.
+ç) Erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili ulaştığı bilgileri kaydeder.
+BİY.12.1.8. Embriyonik gelişimle ilgili bilgi toplayabilme 
+a) Embriyonik gelişimle ilgili bilgilere ulaşmak için kullanacağı araçları belirler.
+b) Belirlediği araçları kullanarak embriyonik gelişimle ilgili bilgilere ulaşır.
+c) Embriyonik gelişimle ilgili ulaştığı bilgileri doğrular.
+ç) Embriyonik gelişimle ilgili ulaştığı bilgileri kaydeder.

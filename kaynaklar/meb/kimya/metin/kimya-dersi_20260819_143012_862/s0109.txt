@@ -1,0 +1,50 @@
+109
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+nanoparçacıkların hücrenin verimliliği üzerinde belirgin bir etkisi olduğunu gözlemleyebilir-
+ler. Öğrencilerin bu deneylerde daha önceki kimya derslerinde yeşil kimya yöntemleri ile 
+ürettikleri metal nanoparçacıkları kullanmaları sağlanabilir. Ayrıca öğrenciler, güneş pili 
+üretiminin nasıl daha sürdürülebilir hâle getirilebileceği konusunda fikirler üretmeleri 
+için teşvik edilir (E3.10). Bu sayede öğrencilerin yeşil kimya ilkelerini hem nanoparça -
+cık üretiminde hem de güneş hücresi üretiminde kullanmaları sağlanmış olur (SDB2.3, 
+SDB3.3, OB8).
+KİM.12.3.2
+Öğrencilere turunçgillerin iç kabuğundaki pektin molekülü örnek gösterilir. Biyopolimer -
+lerin günlük hayatta kullanımına doku mühendisliği ürünleri, sargı bezleri, ameliyat ipliği, 
+eldiven yapımı, mutfak kapları, karton kutuların iç yüzey kaplamaları, şampuan ve meşru-
+bat şişelerinin yapımı, ilaç taşıyıcı sistemleri örnek verilebilir. Önceki derslerden bildikleri 
+polisakkaritler ve proteinlerin biyopolimer olduğu hatırlatılır. Kâğıdın yapısında bulunan 
+selüloz; tatlı, pasta ve reçellere konulan jelatin; sağlık ve kozmetik sektöründe kullanı -
+lan kolajen ve unlu gıdalarda bulunan glüten ve soya proteini örnek verilebilir. Sorular ile 
+öğrencilerin biyopolimerlerin biyokütle ve tarımsal kaynaklı doğal polimerler olduğu ve bi-
+yobozunur özellikte olduğu çıkarımını yapmaları sağlanır (E3.10, OB8). Öğretmen, nişasta-
+dan biyobozunur polimer elde etmek amacıyla deney yapar ve deneyin aşamalarını açıklar. 
+Öğrenciler de kendi biyobozunur polimerlerini yapmak için polimerlere kazandırmak iste -
+dikleri özellikleri belirler. Öğrencilerden kendi oluşturacakları polimer için bir ya da birden 
+fazla özellik düşünerek polimer elde etme sürecine ilişkin amaç belirlemeleri ve amacına 
+uygun bilimsel bilgi toplamaları istenir (E3.1, D3.3). Öğrencilerin polimeri nasıl elde ede -
+ceklerine ilişkin topladıkları bilgilerden yola çıkarak yöntem belirlemeleri sağlanır (OB7). Bu 
+yönteme seçenekler belirleyen öğrenciler, polimerlerini elde ederken kullanacakları bile-
+şenler için de seçenekler belirler (SDB3.2). Bu seçeneklerden deneyecekleri bileşenlerin 
+neden amacına uygun olduğuna dair mantıksal denetleme yaparlar. İstedikleri özellikteki 
+biyobozunur polimeri elde etmek için kullanacakları bileşenleri seçerler ve biyopolimeri 
+elde ederler. Öğrencilerin bilimsel gözlem ve denemeler yaparak hedeflediği özellikteki bi-
+yopolimeri elde edip etmediğine yönelik yansıtma yapmaları sağlanır (SDB1.2). Öğrenciler-
+den elde ettikleri biyopolimerin sertliğini, kırılganlığını ve iletkenliğini belirlemeleri istenir. 
+Öğrenciler, polimerin biyobozunur olup olmadığına polimerin su ile etkileşimini gözlemle -
+yerek karar verebilir (KB2.2). Biyopolimerin suda şişme ve dağılma sürelerini belirler. Öğ-
+rencilerden elde ettikleri polimere kazandırdıkları özelliklerden yola çıkarak biyopolimer 
+için kullanım alanları belirlemeleri istenir. Öğretmen, sentetik biyopolimere ve sentetik po-
+limerlerin biyomalzeme olarak kullanımına örnekler verir. Bu örnekler arasında yiyecekleri 
+saklamak amaçlı yenilebilir filmler, canlı dokuların işlevini desteklemek amacıyla sentetik 
+damar, stent, diş telleri, protez, implant, dikiş malzemeleri vb. sayılabilir (OB8). 
+Öğrenciler performans görevi çerçevesinde biyobozunur polimer eldesinde kullanılabile -
+cek bileşenlere karar verebileceği bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir.
+KİM.12.3.3
+Öğrencilere yapay zekâ uygulamaları ve makine öğrenmesi gibi bilgisayarların veri analizi 
+yapabilme, öğrenme yeteneği kazanabilme ve kararlar alabilme kapasitesini içeren bilgi 
+işlem teknolojileri hakkında temel bilgiler sunulur. Öğrenciler, bu konuların günlük hayatta 
+nasıl kullanıldığına dair örnekler vermeleri için teşvik edilir. Bu örnekler arasında akıllı tele-
+fonlardaki sesli asistanlar, sosyal medya platformlarının öneri sistemleri, otonom araçlar 
+ve sağlık sektöründeki teşhis yardımcıları gibi uygulamalar bulunabilir. Öğrencilerden et -
+kinlik kâğıdında sunulan yapay zekâ uygulamalarının özelliklerini ve kullanım alanlarını ay -
+rıntılı bir şekilde incelemeleri istenir. Bu uygulamalar arasında veri analizi yapabilme, veri 

@@ -1,0 +1,34 @@
+185
+AKIŞKANLAR
+ 3.5. BERNOULLİ İLKESİ
+Konuya Başlarken
+Rüzgâr tünellerinde hava araçlarının gerçek koşullar altında nasıl bir aerodinamik etkileşime gireceği test 
+edilir. Rüzgâr tünelleri; uçak, helikopter gibi hav a araçlarının aerodinamik özelliklerini test etmek için 
+oldukça önemlidir. Bu testler sayesinde hava akımının araç üzerindeki etkisi detaylı bir şekilde incelenir. 
+Araçların üzerine etki eden kaldırma kuvveti, hava direnci gibi kuvvetler gözlemlenerek ölçülür. Bu öl ­
+çümler; mühendislerin daha güvenli, daha verimli ve performansı yüksek hava araçla rı tasarlamalarına 
+yardımcı olur.
+Rüzgâr tünelleri havacılık dışında nerelerde kullanılabilir?
+Türk Havacılık ve Uzay Sanayii bünyesinde geliş ­
+tirilmekte olan hava araçlarının test edilmesi için  
+Türkiye’nin en büyük, Avrupa’nın ikinci büyük ses altı 
+rüzgâr tüneli tesisi inşa edilmektedir. Bu rüzgâr tüneli­
+nin başta millî muharip uçağımız KAAN olmak üzere 
+sabit kanatlı ve döner kanatlı hava araçlarının tas arı­
+mına katkı sunması beklenmektedir.
+Türk Havacılık ve Uzay Sanayii bünyesinde yerli 
+ve millî imkânlarla geliştirilen hava araçlarını te st 
+etmek için rüzgâr tünelleri inşa edilmesinin ve bu iş 
+için önemli bütçeler ayrılmasının sebebi nedir? Bu 
+rüzgâr tünellerinin yapılması Türk havacılık ve uza y 
+sanayiinin gelişimine ne gibi katkılar sağlayabilir?
+7. Etkinlik Bernoulli İlkesi    
+Amaç Akışkanın sürati ile basıncı arasındaki ilişkiyi günlük hayat örnekleri üzerinden genelleyebilme
+Süre 30 dk. 
+Araç Gereç Genel ağ bağlantısı olan cihaz, saç kurutma makinesi, pinpon topu
+Yönerge Aşağıda verilen basamakları takip ederek etkinliği gerçekleştiriniz. 
+1. Yukarıdaki görselde bahçe hortumuyla sulama yapıldığı görülmektedir. Bahçe hortumunun ucu sıkıldığın­
+da borudan akan suyun akış süratinde nasıl bir değişim meydana geleceğini ve bu değişimin nedenlerini 
+tahmin ederek aşağıdaki alana yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Millî muharip uçağımız KAAN

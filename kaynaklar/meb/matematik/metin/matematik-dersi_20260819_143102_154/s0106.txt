@@ -1,0 +1,52 @@
+106
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ • Gerçek Sayılarda Fonksiyon Olma Şartları
+• Karesel Fonksiyon ve Nitel Özellikleri
+• Karekök Fonksiyonu ve Nitel Özellikleri
+• Rasyonel Fonksiyon ve Nitel Özellikleri
+• Doğrusal, Karesel, Karekök ve Rasyonel Fonksiyonların Ters Fonksiyonları
+• Gerçek Sayılarda Tanımlı Fonksiyonlarla İfade Edilebilen Denklem ve Eşitsizlikler İçeren 
+Problemler
+Genellemeler • Fonksiyonlar, niceliklerin birbirine bağlı değişimlerini temsil eder.
+• Gerçek yaşam durumları, fonksiyonlarla modellenebilir. 
+•  Fonksiyonlar, nitel özelliklerine göre sınıflandırılabilir.
+•  Referans fonksiyonlar, bir fonksiyon grubunun üretecidir.
+•  Fonksiyon grafikleri, cebirsel denklem ile eşitsizliklerin incelemesinin ve yorumlanmasının 
+temel araçlarından biridir.
+Anahtar Kavramlar artanlık-azalanlık, bire birlik, fonksiyon, fonksiyonun işareti, fonksiyonun sıfırı, karekök fonk-
+siyonu, karesel fonksiyon, kök, maksimum-minimum değer, maksimum-minimum nokta, ör-
+tenlik, parabol, rasyonel fonksiyon, simetri doğrusu, teklik-çiftlik, ters fonksiyon
+Sembol ve Gösterimler f: A  B, f(x) = x2, f(x) = x , f(x) = 1x , g(x) = a . f (x ± r) ± k, f, f -1
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, kavram haritası, zihin haritası, performans görevi, proje ve 
+araştırma ödevi ile değerlendirilebilir.
+Öğrencilere gerçek sayılarda fonksiyon olma şartları ile gerçek sayılarda tanımlı fonksiyonların 
+nitel özelliklerini matematiksel temsillerle değerlendirebileceği çalışma kâğıdı verilebilir.
+Karesel, karekök ve rasyonel referans fonksiyonların nitel özellikleri ve bu referans fonksi -
+yonların grafiklerine uygulanan dönüşümlerin fonksiyonun cebirsel temsilinde oluşturduğu 
+değişime yönelik inceleme içeren performans görevinin değerlendirilebilmesi için analitik 
+dereceli puanlama anahtarı hazırlanabilir. 
+Ekonomi, fizik ya da kimya alanlarına ilişkin gerçek yaşam durumlarında karşılaşılan prob -
+lemler üzerinden karesel fonksiyonların nitel özelliklerini kullanmayı gerektiren proje ödevi; 
+analitik dereceli puanlama anahtarı ile değerlendirilebilir.
+MAT.10.4.6. Doğrusal, karesel, karekök, rasyonel referans fonksiyonlar ve bunlardan  türe -
+tilen fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren  problemleri çöze -
+bilme
+a)  Bu fonksiyonlarla ifade edilebilen denklem ve eşitsizliklere ilişkin matematiksel bile -
+şenleri (nitel özellikleri ile cebirsel ve grafik temsilleri) belirler.
+b) Bu fonksiyonlarla ifade edilebilen denklem ve eşitsizliklere ilişkin matematiksel bile -
+şenlerin aralarındaki ilişkileri belirler.
+c) Bu fonksiyonlarla ifade edilebilen denklem ve eşitsizliklerin problem bağlamındaki tem-
+sillerini farklı temsillere dönüştürür.
+ç) Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.
+d) Elde ettiği ve yorumladığı farklı temsillerden yararlanarak problemin çözümü için stra-
+teji oluşturur.
+e)  Belirlediği stratejiyi kullanır.
+f)  Elde ettiği çözümü farklı yöntemleri kullanarak doğrular.
+g)  Problemin olası  çözüm stratejilerini gözden geçirir.
+ğ) Problemin olası çözüm stratejilerinin farklı problem durumlarında kullanımı ile ilgili çı -
+karımlar yapar.
+h) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.

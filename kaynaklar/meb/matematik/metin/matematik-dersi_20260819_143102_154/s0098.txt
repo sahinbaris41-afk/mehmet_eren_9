@@ -1,0 +1,46 @@
+98
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.10.3.1. Bir doğal sayı ile asal çarpanları ve bölenleri arasındaki ilişkilere dair çıkarım  
+yapabilme
+a) Bir doğal sayının asal çarpanları ve bölenleri hakkında varsayımlarda bulunur.
+b) Farklı örneklerden elde ettiği örüntüleri listeleyerek bir doğal sayının asal çarpanları 
+ve bölenleri hakkındaki varsayımlarına yönelik örüntüleri geneller.
+c) Oluşturduğu genellemelerin varsayımlarını karşılayıp karşılamadığını örneklerle sı -
+nar. 
+ç) Bir doğal sayının asal çarpanları ve bölenleri ile ilgili ulaştığı sonuçlara yönelik ma -
+tematiksel önermeler sunar.
+d) Elde ettiği önermelerin gerçek yaşam durumları içeren problemlerdeki kullanışlılı -
+ğını değerlendirir.
+MAT.10.3.2. Birden çok doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katla-
+rıyla bunların en küçüğü arasındaki ilişkilere dair muhakeme yapabilme 
+a) Birden çok doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katlarıyla 
+bunların en  küçüğü arasındaki ilişkilere dair varsayımlarda bulunur. 
+b)  Farklı örneklerden elde ettiği örüntüleri listeleyerek varsayımlarına yönelik örüntü-
+leri geneller.
+c) Oluşturduğu genellemelerin varsayımlarını karşılayıp karşılamadığını örneklerle sı -
+nar.
+ç) Birden çok doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katlarıyla 
+bunların en küçüğü arasındaki ilişkilere dair elde ettiği genellemelere yönelik öner-
+meler sunar.
+d) Sunduğu önermelerin gerçek yaşam durumları içeren problemlerdeki katkısını de -
+ğerlendirir.
+e) Elde ettiği önermeler ile ilgili matematiksel doğrulama yöntemlerini seçer ve kul-
+lanır.
+f) Elde ettiği önermelere ilişkin uyguladığı matematiksel doğrulamayı  kullanışlılığı açı-
+sından değerlendirir.
+MAT.10.3.3. Bir doğal sayının belirli doğal sayılara bölümünden kalanlarına dair muhake -
+me yapabilme
+a) 2, 3, 4, 5, 9 ve 10 ile bölünebilme özelliklerinden hareketle bir doğal sayının 2, 3, 4, 
+5, 8, 9 ve 10 ile bölümünden elde edilecek kalanlara ilişkin varsayımlarda bulunur.
+b) Aynı sayı ile bölme işleminden elde edilecek kalanlara ilişkin farklı örneklerle ilgili 
+örüntüleri listeleyerek varsayımlarına yönelik örüntüleri geneller.
+c) Oluşturduğu genellemenin kendi varsayımını karşılayıp karşılamadığını örneklerle 
+sınar.
+ç) Ulaştığı sonuçlara yönelik matematiksel önermeleri doğrulayabileceği şekilde su -
+nar.
+d) Ulaştığı önermelerin katkısını bu sayıların en küçük ortak katlarından oluşan sayıla-
+ra bölümünden kalanı bulma bağlamında değerlendirir.
+e) Önermelere ilişkin matematiksel doğrulama yöntemlerini seçer ve kullanır.
+f) Önermelere ilişkin uyguladığı matematiksel doğrulama yöntemini kullanışlılığı açı -
+sından değerlendirir.

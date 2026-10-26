@@ -1,0 +1,31 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+28
+1-3. soruları aşağıdaki bilgilere göre cevaplayınız.
+Kozmetik Ürün Kullanımında Dikkat Edilecek Durumlar
+Kozmetik ürünlerinde iki farklı önemli tarih vardır:
+1. Son Kullanma Tarihi (SKT)
+Bu tarih, ürünün daha henüz açılmadığı süreçteki raf ömrünü gösterir. Bu tarihe kadar ürün, en iyi 
+kalitede ve güvenli kullanım sınırlarında kalır. Genellikle “SKT” kısaltmasıyla veya sadece bir tarih 
+olarak ambalajın üzerinde yazar. Bu tarihten itibaren ürünün yapısı bozulur ve içeriğindeki koruyucu 
+maddeler etkisini yitirir.
+2. Kapak Açıldıktan Sonra Kullanım Süresi
+Kapağı ilk kez açılan bir ürünün hava ile teması başlar. Bu süre, genellikle ürünlerin üzerinde bir açık 
+kavanoz sembolü içinde gösterilir.
+Bu sembolün içinde bir sayı ve yanında bir harf (M) bulunur. Örneğin am -
+balaj üzerinde “12 M” ifadesi yer alması, bu ürünün açıldıktan sonra 12 ay 
+boyunca güvenle kullanılabileceği anlamına gelir.
+Bu bilgiler hem sağlığın korunması hem de ürünlerin doğru zamanda tüketilmesi açısından büyük 
+önem taşır.
+12 M
+1. Ayşe’nin banyosunda bulunan üç farklı kremde şu bilgiler yer almaktadır:
+• A kremi: SKT 05.2026, açıldıktan sonra 12 M
+• B kremi: SKT 03.2025, açıldıktan sonra 24 M
+• C kremi: SKT 09.2025, açıldıktan sonra 6 M
+• D kremi: SKT 07.2026, açıldıktan sonra 9 M
+Ayşe bu ürünlerin hepsinin kapağını ilk kez 1 Mart 2024’te açmıştır.
+Buna göre Ayşe, aşağıdakilerden hangisini diğer kremlerden önce güvenle kullanabileceği zaman 
+dilimini aşmış olur?  (KB3.2.SB4)
+A) A Kremi
+B) B Kremi
+C) C Kremi
+D) D Kremi

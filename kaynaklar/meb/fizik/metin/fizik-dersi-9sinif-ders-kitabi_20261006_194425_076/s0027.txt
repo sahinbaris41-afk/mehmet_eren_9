@@ -1,0 +1,40 @@
+27
+FİZİK BİLİMİ VE KARİYER KEŞFİ
+5. Katı Hâl Fiziği
+Kristal yapıya sahip katıların oluşumu ve 
+atom dizilişleri ile ilgilenir. Bu yapıların 
+manyetik, elektriksel, esneklik, optik ve 
+termal özelliklerini inceler. Maddelerin 
+mekanik etkilere dayanıklılığı, nanotek-
+noloji, süper iletkenlik, hafızalı metaller, 
+şarjlı piller, LCD [liquid crystal display 
+(likuit kıristıl dispiley) sıvı kristal ekran] 
+televizyonlar, manyetik kaldırma destekli 
+tren (Görsel 1.5) gibi pek çok uygulama 
+alanında çalışmalar yapar.
+ Görsel 1.5: Manyetik kaldırma destekli tren modeli
+6. Atom Fiziği
+Atomun yapısı ve enerji düzeyleri, atom-
+ların ve moleküllerin etkileşimleri, atomik 
+boyutta gerçekleşen olaylar gibi konuları 
+inceler. Elektron mikroskobu, lazer, nano-
+teknoloji, kuantum bilgisayarları, yapay 
+zekâ, 3D yazıcı (Görsel 1.6) gibi pek çok 
+alanda çalışmalar yürütür.
+Görsel 1.6: 3D tasarım objeleri oluşturabilen yazıcı
+7. Nükleer Fizik
+Atom çekirdeğini ve özelliklerini, temel 
+tanecikle rin etkileşimini, çekirdek tepki-
+melerini inceler. Nükleer fizik, çekirdek 
+fiziği olarak da adlandırılır. Çekirdeklerde 
+bulunan nötron ve protonları bir arada 
+tutan kuvvetler, çekirdek ışımaları ve 
+bunların etkileri nükleer fiziğin inceleme 
+konuları arasında dır. Nükleer enerji üre-
+timi, nükleer silah teknolojisi, nükleer tıp, 
+BT [bilgisayarlı tomografi (Görsel 1.7)] 
+cihazı, karbon-14 tarihleme yöntemi 
+ile yaş tayini, gıdaların raf ömürlerinin 
+uzatılması gibi alanlarda nükleer fizikten 
+yararlanılır.
+Görsel 1.7: Hastalıkların teşhisinde kullanılan BT cihazı 

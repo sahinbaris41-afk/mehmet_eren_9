@@ -1,0 +1,113 @@
+13
+SEMBOLLERİN 
+AÇIKLAMASI
+Çalışmanın bittiği yer
+“Başlarken” alanı
+“Konuya Başlarken” alanı
+Etkinliğin başladığı yer
+“Kontrol Noktası” alanı
+Etkinliğin bittiği yer
+Bireysel etkinlik
+Grup etkinliği
+Rehberli etkinlik
+Kitap genelindeki “Etkinlik, Okuma Parçası, Örnek Çözüm vb. ” 
+çalışmalarına tema içinde sıra numarası verilmiştir. Çalışma-
+nın başladığı yer  sembolü ile, bittiği yer ise  sembolü ile 
+gösterilmiştir. 
+42
+1. T ema
+Yönerge: Canlıların ortak ve karakteristik özelliklerini kavrayabilmek için arkadaşlarınızla aşağıda kuralları ve-
+rilen "anlat bakalım" oyununu uygulama basamaklarını takip ederek oynayınız.
+Oyun kuralları
+1. Canlıların ortak ve karakteristik özellikleri anlatılırken kullanılmaması gereken kelimeler verilen kartların
+üzerine yazılmıştır.
+2. Her bir kavram kartından iki adet hazırlanır ve bütün kartlar karıştırılır.
+3. Oyun ekibinden bir kişi anlatıcı olarak bir kart çeker ve kullanmaması gereken kelimeleri kullanmadan kart -
+taki kavramı grup arkadaşlarına kendi ifadeleriyle anlatır. Gruptaki diğer üyeler de canlıların ortak özellik-
+leriyle ilgili anlatılan kelimeyi bilmeye çalışır.
+4. Diğer gruptan bir kişi anlatıcının kullanmaması gereken kelimeleri kullanıp kullanmadığını kontrol eder.
+5. Ekibin tek bir cevap hakkı vardır. Verilen süre (1 dakika) içinde kavram bilinirse anlatan ekibe 2 puan veri -
+lir. Verilen süre içinde kartta yazılı özellik bilinemezse puan verilmez.
+6. Anlatım esnasında kullanılmaması gereken kelimelerden biri kullanılırsa anlatan ekibin toplam puanından
+1 puan düşürülür.
+7. Sıra diğer ekibe geldiğinde aynı kurallar tekrar eder. Ekipler sıra kendilerine geldikçe anlatıcıları değiştirir.
+Kartlar bittiğinde oyun sona erer.
+8. Tüm oyuncular en az bir defa anlatıcılık görevi üstlenir.
+9. Oyun sonunda ekiplerin puanları toplanır ve en yüksek puana sahip olan ekip oyunu kazanır.
+Kontrol Noktası
+4. Etkinlik
+Adı Virüsler
+Amaç Virüslerin canlı veya cansız olarak sınıflandırılamama nedenlerini açıklayabilme
+Süre 40 dk.
+Yönerge
+• Aşağıda verilen uygulama basamaklarını takip ederek etkinliği yapınız.
+• Oluşturacağınız zihin haritası öğretmeniniz tarafından oluşturulacak “Puanlama Anahtarı” ile değerlendi -
+rilecektir.
+1. Virüslerin yapısı ve çoğalması hakkında karekod ile verilen videoyu izleyiniz.
+2. Konuyla ilgili videodaki bilgilerden hareketle virüslerin canlı veya cansız kabul
+edilmeme nedenlerini sınıf ortamında ve öğretmen rehberliğinde tartışınız.
+Değerlendirme
+• "Puanlama Anahtarı"
+Aşağıda virüslerle ilgili verilen etkinliği yapınız. Bu çalışma ile virüslerin yapısını, genel 
+özelliklerini ve çoğalmalarını anlayacak; canlıların ortak özelliklerinden yola çıkarak 
+virüslerin canlı veya cansız olarak sınıflandırılamama nedenlerini açıklayacaksınız.
+Virüsler
+84
+Tema Ölçme ve Değerlendirme Soruları
+1. Tema Ölçme ve Değerlendirme Soruları
+Yönerge: Aşağıda verilen metinden yararlanarak 1, 2 ve 3. soruları cevaplayınız. 
+1928 yılında İngiliz bilim insanı Alexander Fleming, bakteriler üzerin-
+de çalıştığı bir dönemde, laboratuvarında açık unuttuğu bir petri ka-
+bında beklenmedik bir durumla karşılaşmıştır. Küf mantarıyla kapla-
+nan petri kabında, küfün çevresinde bakterilerin bulunmadığını fark 
+eden Fleming, bu etkinin Penicillium notatum adlı küf mantarından 
+kaynaklandığını belirlemiştir.
+Fleming, bakterilerin gelişimini engelleyen bu maddenin varlığını 
+ortaya koymuş ve bu etkiye neden olan sıvıya penisilin adını vermiş-
+tir. Ancak penisilini saf hâlde elde edememiştir. Daha sonraki yıllar-
+da Howard Florey ve Ernst Chain, penisilini laboratuvar ortamında 
+saflaştırarak hem deney hayvanlarında hem de insanlarda etkili bir 
+tedavi aracı olarak kullanılmasını sağlamışlardır. Böylece penisilin, 
+enfeksiyon hastalıklarının tedavisinde kullanılan ilk antibiyotikler -
+den biri olmuştur.
+Metindeki 2. paragrafta Fleming’in penisilini keşfetmesine rağmen 
+bu maddeyi saflaştırmayı başaramadığı, ancak daha sonra Florey ve 
+Chain’in bu çalışmayı sürdürdüğü belirtilmiştir.
+Buna göre, bilimsel bilginin gelişim sürecinde farklı bilim insanlarının çalışmalarının 
+birbirini tamamlaması neden önemlidir?
+Cevabınızı metinden örnek vererek açıklayınız.
+Metinde 2. paragrafta penisilinin saflaştırılmasından sonra deney hayvanları ve in-
+sanlar üzerinde başarılı sonuçlar elde edildiği ifade edilmektedir.
+Eğer penisilin saflaştırılamamış ve tedavi amaçlı kullanılamamış olsaydı, toplum sağ-
+lığı üzerinde ne gibi sonuçlar ortaya çıkabilirdi?
+Cevabınızı metindeki bilgilerden yararlanarak açıklayınız.
+(Genel ağdan alınmıştır.)
+1. Alexander Fleming’in penisilin keşfi sadece tesadüflerle açıklanabilir mi? Alexander Fleming’in bu bek-
+lenmedik sonuçları değerlendirme yeteneği, bilim insanlarının hangi özellikleriyle ilgilidir? Yazınız.
+2. Bilimsel çalışmalarda ve uzun vadeli araştırmaların başarılı olmasında sürekliliğin neden gerekli 
+olduğunu açıklayınız.
+Alexander Fleming
+(1881-1955)
+Tema sonunda 
+ölçme ve değerlen-
+dirme sorularının 
+bulunduğu bölüm
+Antioksidan: Serbest 
+radikaller adı verilen 
+kararsız moleküllerin 
+oluşturabileceği hücresel 
+hasarın engellenmesinde 
+görevli maddelerdir.
+Öğrencilere yol göstermek, ihtiyaç duyulan içerikte ek bilgiler 
+vermek için önemli görülen kelime, kavram veya tanımların 
+açıklandığı metin alanlarıdır.
+Sonraki sayfada devam 
+eden çalışma
+Önceki sayfadan devam 
+eden çalışma
+“Kontrol Noktası” adı altında 
+öğrenilenleri pekiştirme 
+amacıyla çalışma yapıla-
+bilecek alanlar ayrılmıştır. 
+Çalışmanın sonlandığı yere 
+ sembolü yerleştirilmiştir.

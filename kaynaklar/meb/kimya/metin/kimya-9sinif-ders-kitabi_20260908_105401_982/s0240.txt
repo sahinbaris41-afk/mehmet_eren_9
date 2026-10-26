@@ -1,0 +1,32 @@
+240
+3. Tema/Sürdürülebilirlik
+• İlaçların sentetik nanoçip organlarda denenmesi, etkileşim ve verimlilikle -
+rinin belirlenmesi için tasarlanmış çeşitli sistemler (dolaşım, boşaltım vb.) 
+nanoteknolojik ürünler arasında yer almaktadır (Görsel 3.6). Bu ürünler 
+kimya laboratuvarını minik bir çipe dönüştürdüğünden kimya laboratuvarları 
+nanolab olarak da adlandırılmaktadır. Nanolab, kimya deneylerinin nano -
+boyuttaki maddelerle, daha az miktarda kimyasal kullanarak ve kısa sürede 
+yapılmasına olanak sağlamaktadır.  
+Nanoteknoloji, 1-100 nanometre boyutlarındaki maddelerin üretilmesi, 
+incelenmesi ve işlenmesi üzerine çalışmalar yapar. Nano bir ölçü birimi, 
+nanoteknoloji de bu ölçüde geliştirilen teknolojiler anlamına gelir. Nano (n), 
+herhangi bir ölçünün milyarda biridir. Örneğin nanometre (nm), metrenin mil-
+yarda birine eşittir (1 nm = 1 / 1 000 000 000 m veya 1nm = 10
+−9
+ m). Başka 
+bir ifadeyle bir metreye bir milyar (1 000 000 000) nanometre sığar veya bir 
+nanometre bir metrenin bir milyar katı küçüklüğündedir. Sürekli geliştirilen 
+mikroskoplar sayesinde mikro dünyadan nano dünyaya geçiş sağlanmış ve 
+bu sayede canlıların dünyasında nanoboyutta birçok yapıyla karşılaşılmıştır. 
+Örneğin DNA molekülünün boyunun 2-2,5 nm, insan saç telinin çapının yak-
+laşık 80 000 nm, grip virüsünün çapının 20 nm, en büyük atomun yarıçapının 
+yaklaşık 0,25 nm, hücre zarının 12 nm, bir yaprak kâğıdın kalınlığının yaklaşık 
+100 000 nm ve görünür ışığın dalga boyunun 400-700 nm olduğu belirlenmiştir.
+• Damar içinde oksijen taşıyan, diş temizliği yapan ve tümörlü hücrelerin 
+büyümesini engelleyen nanoparçacıklı robotlar geliştirilmiştir (Görsel 3.5).
+Görsel 3.5
+Nanoparçacık içeren 
+robotlar (nanorobotlar)
+Görsel 3.6
+İlaçların sentetik nanoçip 
+organlarda denenmesi

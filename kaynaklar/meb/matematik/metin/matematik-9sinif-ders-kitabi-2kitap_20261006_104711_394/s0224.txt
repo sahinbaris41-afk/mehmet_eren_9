@@ -1,0 +1,56 @@
+224
+7. Tema / Veriden Olasılığa
+7. ÖRNEK
+Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s); düzgün tohum şekli aleli (D), buru-
+şuk tohum şekli aleline (d) tam baskındır. 
+SD Sd sD sd
+sD SsDD SsDd ssDD ssDd
+sd SsDd Ssdd ssDd ssdd
+sD SsDD SsDd ssDD ssDd
+sd SsDd Ssdd ssDd ssdd
+SsDd genotipine sahip bezelye tohumu ile ssDd 
+genotipine sahip bezelye tohumunun çapraz -
+lanması sonucu oluşan tohumların genotipleri 
+yandaki tabloda gösterilmiştir.
+SsDd genotipine sahip bezelye tohumu ile 
+ssDd genotipine sahip bezelye tohumunun çap-
+razlanması sonucu oluşan tohumların sarı ve 
+düzgün fenotipte olma olasılık değeri 166 83=  olur. Buna göre SSDd genotipine sahip bezelye tohumu 
+ile Ssdd genotipine sahip bezelye tohumunun çaprazlanması sonucu oluşan tohumların sarı ve düzgün 
+fenotipte olma olasılık değerini bulunuz.
+Çözüm
+SSDd genotipine sahip bezelye tohumu ile Ssdd genotipine sahip bezelye tohumunun çaprazlanması 
+sonucu oluşan tohumların genotipleri aşağıdaki tabloda gösterilmiştir.
+SD Sd SD Sd
+Sd SSDd SSdd SSDd SSdd
+sd SsDd Ssdd SsDd Ssdd
+Sd SSDd SSdd SSDd SSdd
+sd SsDd Ssdd SsDd Ssdd
+Buna göre SSDd genotipine sahip bezelye to-
+humu ile Ssdd genotipine sahip bezelye tohu-
+munun çaprazlanması sonucu oluşan tohumla-
+rın sarı ve düzgün fenotipte olma olasılık değeri 
+16
+8
+2
+1=  bulunur.
+4.	 Verilen	olayın	deneyine	ait	150	tekrar	sonucu	oluşan	çıktılara	göre	tabloyu	doldurunuz.
+ 
+Sıklık Göreli Sıklık (Deneysel Olasılık Değeri) Teorik  Olasılık Değeri Deneysel ve Teorik  Olasılık Değerlerinin Farkı
+5.	 Verilen	olayın	deneyine	ait	500,	1500	ve	5000	tekrar	sonucu	oluşan	çıktılara	göre	tabloyu	doldurunuz.
+ 
+ 
+ 
+Tekrar Sayısı Sıklık
+Göreli Sıklık 
+(Deneysel  
+Olasılık Değeri)
+Teorik  
+Olasılık Değeri
+Deneysel ve Teorik  
+Olasılık Değerlerinin Farkı
+500
+1500
+5000
+6.	 Deneyin	tekrar	sayısı	arttıkça	verilen	olayın	deneysel	ve	teorik	olasılık	değerleri	arasındaki	fark,	beklediğiniz	
+değere	yaklaştı	mı?	Yukarıda	yer	alan	işlem	adımlarını	tekrar	gözden	geçirerek	bu	durumu	sor gulayınız.

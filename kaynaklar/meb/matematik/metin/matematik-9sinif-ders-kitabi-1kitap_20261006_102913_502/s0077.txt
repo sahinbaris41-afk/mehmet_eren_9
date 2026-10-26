@@ -1,0 +1,23 @@
+77
+1. Tema /  Sayılar
+ç)	 2110 -=
+d) ,aa a01 1 $2 -+ =__ ii    
+e)	 xy52 2-=_i
+2.  A,B ve C gerçek sayılar olmak üzere xA xB xC3 21 2 2-= ++dn  eşitliği veriliyor.
+ Buna	göre	 ABC+- 	ifadesinin	değerini	bulunuz.
+3.  ab ab ab 422+- -=__ ii  özdeşliği veriliyor. 
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.
+	 a) Bu	özdeşliğin	doğruluğunu	cebirsel	olarak	gösteriniz.
+	 b) 	
+a
+b
+b
+a
+a
+ab
+b
+Yandaki bir kenar uzunluğu, ab+_i  birim olan kare veril -
+miştir. Bu kare, 4 eş dikdörtgen ve 1 kare olacak şekilde beş 
+parçaya ayrılmıştır. 
+Yukarıda	verilen 	özdeşliğin 	doğruluğunu 	geometrik 	temsiller	
+yardımıyla	gösteriniz.

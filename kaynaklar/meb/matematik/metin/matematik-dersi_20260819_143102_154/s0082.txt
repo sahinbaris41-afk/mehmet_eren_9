@@ -1,0 +1,49 @@
+82
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Yapılan deneyde tekrar sayısının artırılması ile elde edilen çıktılara ilişkin dağılımda nele -
+rin değişeceğine dair kısa cevaplı sorular sorularak öğrencilerin deneydeki tekrar sayısının 
+yeterli olup olmadığı ile ilgili şüphe duymaları amaçlanır (E3.9). Öğrencilere çalışma kâğıdı 
+verilerek sınıf ortamında yapılan deneylerde deneme sayısının artırılması, deneylerin çok 
+tekrarlı olması sağlanmalıdır. Belli sayıda denemeden sonra görselleştirme yapılarak göreli 
+sıklıkların karşılaştırılmasına ilişkin sorular sorulur. 
+Yapılan deneyin tekrar sayısı, sınıftaki her bir grubun katkısı ve iş birliği ile artırılır (SDB2.2). 
+Grupların yapacağı katkılar ile  25, 50, 100, 150 ve  200 kez yapılan tekrarlar sonucu elde 
+edilen dağılımlarda deneme sayısı arttıkça göreli sıklığın nasıl değiştiği tartışılır; belli bir 
+değere yaklaştığını öğrencilerin gözlemlemeleri sağlanır. İstatistik ve olasılık konuları ara-
+sında bağ kurmak için göreli sıklığın değişimi, değişebilirlik kavramı ile ilişkilendirilmelidir.  
+Sınıf ortamında yapılan deneye ait tekrar sayısı yetersiz kalabilir. Tekrarların sayısını ar -
+tırmak için teknolojik araçlar kullanılır (MAB5). Seçilen deneye ait tekrar sayısı; istatistik 
+yazılımları veya genel ağda bulunan, kullanıma hazır simülatörler yardımıyla 500, 1000 ve 
+1500’e çıkarılır. Simülasyon birkaç defa tekrar edilir. Tekrar sayısı arttıkça sıklık tabloları ve 
+dağılımlar güncellenerek önceki dağılımlarla karşılaştırılır. Böylelikle öğrencilerin ele alınan 
+olaylara ait göreli sıklıkların değişebilirliğinin azaldığına yönelik çıkarımlar yapmaları bek -
+lenir. Deney esnasında elde edilen verilerin açıklanması ve görselleştirilmesinde poster, 
+deney raporu gibi ürünler istenebilir. 
+Yaptıkları çıkarımlarla ilişkili olarak deneyin tekrar sayısının artması durumunda gözlemle-
+dikleri olayın olasılık değerinin daha kararlı olacağına dair öğrencilerin bir kanıya ulaşmaları 
+beklenir. Ulaşılan kanıyı destekleyen ve olasılık alanında yaygın olarak bilinen büyük sayılar 
+yasasına değinilir. Bu yasaya göre olayların yapılan tekrarlar ile gözlenen olasılığının tekrar 
+sayısı arttıkça belli bir sayıya yaklaşma eğiliminde olduğu ifade edilir. Büyük sayılar yasası-
+nın formülünde limitin yer alması ve öğrencilerin limit konusunu 12. sınıfta görecek olması 
+nedeniyle bu formülden söz edilmez. Öğrencilere olayların olasılığını deneysel olarak ince-
+lemeye yönelik bir araştırma ödevi verilebilir. 
+MAT.9.7.2
+İki veya üç olaylı deneylerde (hilesiz iki sayı küpü atıp küplerin üst yüzeylerine gelen sayı -
+ların toplamını bulma, hilesiz madenî parayı üç kez havaya atıp üste gelen durumu göz -
+lemleme gibi) teorik olasılık incelenirken olaylara ait çıktılar ve olası tüm çıktılar listelenir. 
+En çok üç olaydan meydana gelen deneylerin örnek uzayını belirlerken olası tüm çıktıların 
+kaydını tutabilmek için sistematik liste, tablo, ağaç şeması gibi farklı temsiller kullanılması; 
+ele alınan deneyin olası tüm çıktılarının görselleştirilmesi önerilmektedir (MAB3). Böylece 
+öğrencilerin tüm olası çıktıları gözlemlemeleri sağlanır (SDB1.2). Ağaç şeması gösterimini 
+kullanan bilim insanlarından Kindi’ye ait çalışmalardan ve bu çalışmaların istatistik ve olası-
+lık alanına katkılarından bahsedilir. 
+Görselleştirilen tüm olası çıktılar arasından seçilebilecek “ve/veya” içeren durumlar (hilesiz 
+iki sayı küpü atıldığında üst yüzlerine gelen sayıların toplamının 7 gelmesi; hilesiz iki madenî 
+para atıldığında üst yüzlerinde birinin yazı, diğerinin tura gelmesi; 6 eş parçaya bölünmüş 
+ve 1’den 6’ya kadar numaralandırılmış iki çark çevrildiğinde gelen sayıların çift veya asal 
+sayı olması gibi) sözel olarak ifade edilir. Ardından öğrencilere bir çalışma kâğıdı verilerek 
+etkileşim oluşturabilecek bir grup çalışması kurgulanır (SDB2.2). Öğrencilerden tüm olası 
+çıktılar arasından olaya ait çıktıların sayısını planlı ve bilimsel bir şekilde belirlemeleri, olaya 
+ait çıktı sayısının olası tüm çıktıların sayısına oranıyla ele alınan her bir olayın olma olasılığını 
+hesaplamaları beklenir (E3.7, D3.2). Bu hesaplamalarda örnek uzaydaki her bir çıktının eş 
+olasılıklı olduğuna dikkat çekilir.

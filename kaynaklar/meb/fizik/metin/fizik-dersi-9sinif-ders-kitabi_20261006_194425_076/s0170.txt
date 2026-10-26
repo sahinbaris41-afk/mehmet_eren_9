@@ -1,0 +1,38 @@
+170
+3. ÜNİTE 
+5. Etkinlik Kaldırma Kuvvetini Etkileyen Değişkenler 
+Amaç Deney yoluyla kaldırma kuvvetinin bağlı olduğu değişkenleri analiz edebilme 
+Süre 30 dk. 
+Araç Gereç Tasarladığınız deneye göre belirleyiniz.
+Yönerge Aşağıda verilen basamakları takip ederek etkinliği gerçekleştiriniz. 
+1. Aşağıdaki soruları metni dikkate alarak cevaplayınız.
+Arşimet ve Kral Hiero'nun Altın Tacı
+Arşimet ve Sirakuza Kralı Hiero (Hiyero) yakın arkadaşlarmış. Ayrıca Arşi ­
+met, Kral Hiero’ya danışmanlık yapıyormuş. Günlerden bir gün Kral Hiero, 
+kuyumcuya bir külçe altın vermiş ve kuyumcudan bu altının tamamını kulla ­
+narak bir taç yapmasını istemiş. Bir müddet sonra kuyumcu Kral’a muhteşem 
+bir taç vermiş fakat Kral, kuyumcunun taca altından başka bir madde daha 
+kattığından şüphelenmiş. Bu durumu çözüme kavuşturması için Arşimet’i gö­
+revlendirmiş. Arşimet’in görevi; kuyumcu bir hile yaptı ise bu tacı eritmeden, 
+kırmadan, taca zarar vermeden bu hileyi tespit etmekmiş. Arşimet, bu görev 
+üzerine çok uzun zaman düşünmüş. Bir gün hamamda banyo yaparken kü ­
+vetten taşan su ile kendi ağırlığı arasında ilişki olduğunu fark etmiş. O anda 
+bir aydınlanma yaşayan Arşimet, "Buldum, buldum." anlamına gelen Yunan ­
+ca “Eureka, eureka!” (Evreka, evreka) diye bağırmaya başlamış ve hamamdan 
+çıkıp Sirakuza sokaklarında koşturmuş. Arşimet, elementlerin yoğunluğunu 
+tespit ederek Kral’ın tacı ile ilgili sorunu çözebileceğini anlamış. Önce bir külçe 
+altını suya daldırıp taşan suyun ağırlığını ölçmüş. Daha sonra Kral’ın tacını suya daldırıp taşan suyun ağır­
+lığını tespit etmiş. Taşan suların ağırlığının aynı olmadığını görünce kuyumcunun Kral’ı aldattığını anlamış.
+2. Öğretmeninizin rehberliğinde gruplar oluşturunuz. Grup arkadaşlarınızla günlük hayatta Arşimet ve Kral 
+Hiero’nun Altın Tacı öyküsünde geçen durumla benzerlik gösteren bir problem belirleyip aşağıdaki alana 
+yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+3. Problem durumunun çözümüne ilişkin takım çalışması yaparak ve yardımlaşarak bir hipotez kurunuz.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+4. Belirlediğiniz problemi kaldırma kuvveti ile kaldırma kuvvetinin bağlı olduğu değişkenler arasındaki ilişki­
+den yararlanarak çözmek için öyküdekine benzer bir deney düzeneği tasarlayınız.
+Deney Düzeneği
+5. Deneyin amacı, uygulama basamakları; deney düzeneğinin tasarımı, deneyde kullanacağınız araç gereç ve 
+deneyde nasıl veri toplayacağınız ile ilgili grupta arkadaşlarınızla görüş alışverişinde bulunarak ortak karar­
+lar alınız.
+Arşimet (Temsilî)

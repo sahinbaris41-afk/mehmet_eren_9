@@ -1,0 +1,52 @@
+105
+2. Tema /  Nicelikler ve Değişimler
+2. ÖRNEK
+Bir taksinin A kentinden B kentine sabit hızla 1 saatte gittiği bilinmektedir. Bu taksinin aldığı mesafeye 
+(km) bağlı olarak taksimetrenin gösterdiği ücreti (TL) ifade eden fonksiyon 
+f: ,00107A " ,030 1737A , f(x) = 17x + 30 şeklinde modellenmiştir.
+Taksinin zamana (dk.) bağlı olarak deposunda kalan benzin miktarındaki (l) değişimi ifade eden fonksi-
+yon g(x) = x101 20-+  şeklinde modellenmiştir.
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  f ve g fonksiyonlarının bağımsız ve bağımlı değişkenlerini beli rleyiniz.
+b)  g fonksiyonunun tanım ve görüntü kümesini bulunuz.
+c)  f ve g fonksiyonlarının gra fik temsillerini oluşturarak fonksiyonların eğimlerini yorumlayınız.
+ç)  T aksinin benzini bitene kadar kaç dakika yolculuk edeceğini bulunuz.
+Çözüm
+a)  f fonksiyonuna göre taksinin aldığı yol (km) bağımsız, taksimetrenin gösterdiği ücret (TL) bağımlı 
+değişkendir. 
+ g fonksiyonuna göre taksinin hareket süresi (dk.) bağımsız, kalan benzin miktarı (l) bağımlı değiş -
+kendir.
+b)  T aksinin yolculuğu 60 dakika sürdüğünden g fonksiyonunun tanım kümesi ,06 07A  dır. Başlangıçta depo-
+daki benzin miktarı xi in f00 101 02 02 0ç $== -+ =_i  litre bulunur.
+ 60 dakikanın sonunda depodaki benzin miktarı xi in f 60 60 101 60 20 62 01 4ç $== -+ =- +=_i  litre bulunur. 
+ Buradan g fonksiyonunun görüntü kümesi , 14 207A dır.
+c)  f fonksiyonunun grafiği , 0 1007A  nda Grafik 1ʼdeki gibi, g fonksiyonunun grafiği ,06 07A  nda Grafik 2ʼdeki gibi 
+çizilir.
+ Grafik 1
+O
+30
+500
+1000
+1500
+1730
+25 50 75 100
+x  Alınan mesafe (km)
+y  Ücret (TL)
+f(x) = 17x + 30  
+Grafik 2
+O
+10
+20
+30
+40
+20 40 60 80
+x  Zaman (dk.)
+y  Benzin miktarı (l)
+g(x) = - 110 x + 20
+  f fonksiyonunu temsil eden doğrunun eğimi 17ʼdir ve taksimetrenin kilometre başına yazdığı ücreti 
+ifade eder. Eğimin pozitif olması,  f fonksiyonunun artanlığıyla ilişkilidir. Dolayısıyla alınan mesafe 
+arttıkça ücret de artmaktadır. g fonksiyonuna ait grafiğin eğimi - 1
+10
+ʼdur ve 1 dakikada harcanan ben-
+zin miktarını ifade eder. Eğimin negatif olması, g fonksiyonunun azalanlığıyla ilişkilidir. Dolayısıyla 
+benzin miktarı zamanla azalmaktadır.

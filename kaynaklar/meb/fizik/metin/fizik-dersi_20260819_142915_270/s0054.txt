@@ -1,0 +1,49 @@
+54
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+alternatif fikirler ortaya koyarak (SDB2.1) yay sarkacının ve basit sarkacın periyodunu 
+belirleyen özellikleri tahmin eder. Arkadaşlarıyla dayanışma içinde (D4.1) periyodu etki-
+leyen değişkenleri belirler ve bu değişkenlerin periyoda etkisine ilişkin çıkarımlar yapar. 
+Deneyimlerinden yola çıkararak yay sarkacının ve basit sarkacın periyodunu etkileyen et-
+menler ile periyot arasındaki ilişkiyi yorumlayarak periyodik hareketlerin yapısını değer -
+lendirir (OB7). Öğretmen öğrencilerin değerlendirmelerini doğal titreşim frekansı kavramı 
+ile ilişkilendirir. Günlük hayattan doğal titreşim frekansına örnekler verir. Yay sarkacı ve 
+basit sarkacın periyoduna ilişkin matematiksel modelden ve matematiksel işlemlerden 
+kaçınılır. Öğrenciler bir form ile deneyimlerine ilişkin öz değerlendirmelerini ve kendi öğ-
+renmelerini geliştirmeye yönelik paylaşım yapabilir (SDB1.3). Yay sarkacı ve basit sarkacın 
+periyodunu etkileyen etmenler ile ilgili eşleştirme, açık uçlu ve boşluk doldurma soruları 
+ile oluşturulmuş test kullanılabilir.
+FİZ.10.4.2
+Öğrenciler dönme, öteleme ve titreşim hareketlerini önceki öğrenme-öğretme yaşan-
+tılarına bağlı olarak tanımlayabilir. Öğretmen, çeşitli dalga hareketlerine ilişkin maçlar -
+daki Meksika dalgası, bayrağın dalgalanması, yağmur yağarken durgun su yüzeyinde 
+oluşan dairesel dalga örneklerini paylaşır ya da video, simülasyon, animasyon ve dijital 
+öyküleme gibi materyallerden birini kullanarak çeşitli dalga örnekleri gösterebilir. Öğ-
+rencilerin yaratıcı drama veya rol oynama (D3.3, E2.5, OB9) gibi yöntem ve tekniklerden 
+biri ile dalga bağlamına ilişkin olarak aşağı-yukarı ve sağa-sola hareketlerini arkadaşları 
+ile yapması sağlanır (SDB2.1). Öğrencilerden, öğretmen rehberliğinde gruplara ayrılarak 
+dalga hareketinin niteliklerini gözlemlemek için sınıfta yapabilecekleri bir çalışma planla-
+maları (SDB1.2) istenir. Öğrenciler grup arkadaşları ile yapacakları çalışmaların niteliğine 
+uygun olarak kullanacakları ip, yay, küçük tahta bloklar gibi malzemelere karar vererek 
+hedefleriyle ilgili çalışmalar yapmak için gerekli araç gereci temin eder (SDB1.2). Öğren-
+ciler, planladıkları çalışmayı zamanında ve eksiksiz yaparak (D16.3) dalga hareketi ile iliş-
+kili kavramları gözlemler (KB2.11). Bu çalışmalara dayanarak öğrenciler dalga boyunu dal-
+ga tepesi ve dalga çukuru kavramları ile açıklar. Öğretmen genlik kavramından bahseder. 
+Öğrenciler dalga boyu, frekans ve periyot kavramlarını kendi cümleleri ile (OB1) tanımlar. 
+Öğrenciler dalga boyunun uzunlukla, periyot ve frekansın ise zamanla ilişkisini keşfederek 
+bu kavramlar için uygun ölçme araçlarını (E3.4, OB1) belirler. Öğrenciler, ölçüm araçlarını 
+veya simülasyonları kullanarak dalga boyu, frekans ve periyot ölçümlerini yapar (OB7). Alı-
+nan yol, zaman ve sürat arasındaki ilişkiye yönelik ön bilgi ve yaptığı ölçümlere dayalı ola-
+rak dalga sürati kavramını dalga boyu, frekans ve periyot etmenleri üzerinden ilişkilendire-
+rek (SDB1.1) tanımlar. Dalgaların temel kavramları ile ilgili  matematiksel işlemler yaptırılır. 
+Öğretmen; dalga tepesi, dalga çukuru, dalga boyu, frekans, periyot, genlik ve dalga sürati 
+kavramlarını içeren bir çalışma yaprağı verebilir. Performans görevi olarak öğrenciler ha-
+zırlayacakları kavram haritasının ilk bölümüne dalgalarla ilgili temel kavramları kaydedebilir.
+FİZ.10.4.3
+Öğretmen, dalgaları farklı özelliklerine göre sınıflandırmaları için su, ses, yay, deprem ve 
+elektromanyetik dalga içeren fotoğraf veya video gibi öğretim materyallerini sınıf orta-
+mında göstererek (OB4) öğrencilerin dikkatlerini çeker. Öğrenciler, öğretmen rehberli-
+ğinde gruplara ayrılır ve bu dalgaların ilişkili olduğu etmenleri odaklanarak (E3.2) belir -
+ler. Öğretmen, dalgaların titreşim doğrultusuna ve taşıdığı enerjiye göre sınıflandırıldığını 
+açıklar ve öğrencilerden dalgalara ilişkin günlük hayattan örnekler vermelerini ister (OB1).
+Öğrenciler dalgaları birbirinden ayıran özellikleri belirler. Öğretmen dalgaları titreşim doğ-
+rultusu ve taşıdığı enerjiye göre dalgaların isimleriyle sınırlı kalarak ifade eder. Öğrenciler,

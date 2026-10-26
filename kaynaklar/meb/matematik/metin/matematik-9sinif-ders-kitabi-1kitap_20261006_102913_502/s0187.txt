@@ -1,0 +1,53 @@
+187
+3. Tema /  Geometrik Şekiller
+b) Hangi renk çubuklar ile üçgen oluşturulamadığını nedenleri ile birlikte yazınız. Cevaplarınızı arkadaşlarını -
+zın cevapları ile karşılaştırınız.
+c) Üçgen oluşturabilmek için kullanılacak çubukların uzunlukları arasında nasıl bir ilişki olması gerektiğine 
+dair fikirlerinizi arkadaşlarınızla paylaşınız ve ulaştığınız sonuçları yazınız.
+2. Bir üçgenin çizilebilmesi için kenar uzunlukları arasında nasıl bir ilişki olması gerektiğine dair çıkarımlarınız -
+dan hareketle matematik yazılımı kullanarak farklı üçgenler çiziniz. Çizdiğiniz üçgenlerin kenar uzunluklarını 
+ölçerek çıkarımlarınızı doğrulayınız.
+10. ÖRNEK
+Aşağıda Büşra, Ahmet ve Ceylin’in evlerinin konumlarıyla ilgili bilgiler verilmiştir.
+• Büşra, Ahmet ve Ceylin’in evlerinin konumları doğrusal değildir.
+• Büşra’nın evinin Ahmet’in evine uzaklığı 7 km’dir.
+• Büşra’nın evinin Ceylin’in evine uzaklığı 11 km’dir.
+Buna göre Ahmet ile Ceylin’in evleri arasındaki uzaklığın hangi tam sayı değerleri arasında olabileceğini 
+bulunuz.
+Çözüm
+Ahmet, Büşra ve Ceylin’in evleri arasındaki mesafeler ABC üçgeni olarak modellenirse AB 7=  km, 
+BC 11=  km olur. Ahmet ile Ceylin’in evleri arasındaki en kısa mesafe AC kenarının uzunluğudur. Dola-
+yısıyla AB BC AC 2+  olmalıdır. AC x=  km olmak üzere üçgen eşitsizliği uygulanır.
+A
+B C11
+x7
+ABC üçgeninde iki kenar uzunluğunun toplamı üçüncü kenardan büyüktür. Bu durum, üç farklı şekilde 
+uygulanabilir.
+a)  x71 1 2+   b)  x
+x
+x
+71 1
+11 7
+4
+2
+2
+2
++
+-
+   c)  
+x
+x1 1
+4
+72
+2
++
+-
+a ve b maddesinden 
+.
+x
+xo lur
+11 77 11
+41 8
+11
+11
+-+

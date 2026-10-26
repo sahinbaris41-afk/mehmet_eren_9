@@ -1,0 +1,31 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+26 27
+FİZİK 9 
+ÜNITE 2: KUVVET VE HAREKET
+ ♦ Öğrencilere reel bir sayı ile çarpma ve toplama işlemleri yapması için birkaç vektör veriniz. Verece -
+ğiniz örnek vektörlerin hem x hem de y ekseninde bileşeni bulunabilecek özellikte olmasına dikkat 
+ediniz.
+Vektör x bileşeni y bileşeni
+A 4 5
+B 7 6
+ ♦ A vektörünün 3 ile ve B vektörünün -2 ile çarpılmasını ve sonuçların ayrı bir tabloda öğrenciler tara -
+fından gösterilmesini sağlayınız.
+R = 3A + (-2B ) vektörünün hesaplanmasını sağlayınız.
+˿ ˿ ˿
+Vektör x bileşeni y bileşeni
+3A
+-2B
+R
+ ♦ Yukarıdaki vektörlerin öğrenciler tarafından grafik kâğıdına çizilmesini sağlayınız.
+ ♦ Vektör büyüklüğü ve yönünü doğru bir şekilde göstermek için cetvel ve açıölçer kullanınız.
+ ♦ Orijinal vektörler, ölçeklendirilmiş vektörler ve sonuçtaki bileşke vektörün çizilmesini sağlayınız.
+Vektörleri ve işlemlerini görselleştirmek için vektör hesaplama yazılımlarından yararlanılabilir.
+UYGULAMA PROBLEMLERİ
+ ♦ Vektör toplama işlemi ve ölçeklendirmenin uygulandığı günlük hayat örneklerini öğrencilerle payla -
+şınız.
+ ♦ Öğrencilerden bileşke vektörün, işleme giren vektörlerin toplamı yerine kullanılabileceği günlük ha -
+yattan örnekler vermelerini isteyiniz.
+ ♦ Aşağıda verilen örnekleri öğrencilerle birlikte inceleyiniz ve onlardan vektörlerin günlük hayattaki 
+kullanımlarıyla ilgili çıkarımlarda bulunmalarını isteyiniz.
+Görsel Temsil
+Uygulama ve Genelleme

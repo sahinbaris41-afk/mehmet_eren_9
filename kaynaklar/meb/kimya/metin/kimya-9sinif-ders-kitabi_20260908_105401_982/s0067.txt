@@ -1,0 +1,21 @@
+67
+1. Tema/Etkileşim
+1.2.3.	Periyodik	Tabloda	Yer	Bulma
+Günümüzde kullanılan periyodik tablonun gelişiminde Johann Wolfgang 
+Döbereiner (Yohan Vayfgan Döberaynır), John Newlands (Can Nivlın-
+ds), Julius Lothar Meyer (Yulyus Lota Mayır) gibi birçok bilim insanının 
+katkısı vardır. Ancak Dimitri Mendeleyev (Dimitri Mendeleyev) bugün kul-
+lanılan periyodik tabloya en çok benzeyen tabloyu oluşturan ilk bilim insa-
+nıdır. Mendeleyev, 1869 yılında geliştirdiği periyodik tabloda elementleri 
+kütle numaralarına göre sıralamış; henüz keşfedilmemiş bazı elementleri 
+ve özelliklerini öngörerek bu elementlerin yerini boş bırakmıştır. Daha sonra 
+Henry Moseley (Henri Mözli) elementlerin atom numarasına göre sıralanma-
+sını önermiş ve elementler günümüzdeki periyodik tabloda artan atom nu -
+maralarına göre sıralanmıştır. Periyodik tabloda grupların adlandırılması iki 
+şekilde yapılmaktadır. Bunlardan biri harf ve sayıların kullanıldığı (1A, 2A, 3B, 
+4B gibi) adlandırma iken diğeri IUPAC’ın kabul ettiği yalnızca rakamlardan  
+(1. grup-18. grup) oluşan adlandırma sistemidir. Günümüzde kullanılan peri-
+yodik tablo aşağıda  görülmektedir (Görsel 1.20).
+Görsel 1.20
+Günümüzde kullanılan periyodik tablo
+Metaller Yarı metaller Ametaller Soy gazlar

@@ -1,0 +1,18 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+125
+7. TEMA: VERİDEN OLASILIĞA
+c.  Düzgün dörtyüzlülerin havaya atılması deneyinde zemine temas eden yüzeylerdeki sayılardan biri-
+nin tek, diğerinin çift sayı olması olayının olası tüm çıktılarını belirleyiniz ve olasılık değerini hesap-
+layınız.
+Çözüm:
+2. Adım
+Aşağıdaki görselde verilen iki torbadan birincisinde iki adet beyaz, bir adet sarı top ve ikincisinde birer 
+adet kırmızı, pembe ve mavi top bulunmaktadır.
+Torbaların ikisinden de aynı anda birer top çekilmesi deneyinde olası tüm çıktıları görselleştirmek 
+amacıyla ağaç şeması yöntemi seçilmiştir.
+Aşağıda verilen ağaç şemasını tamamlayınız ve şemadaki verileri kullanarak soruları yanıtlayınız.
+Beyaz
+Kırmızı Beyaz - Kırmızı
+Sarı - Mavi
+Pembe
+Mavi

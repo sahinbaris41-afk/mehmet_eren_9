@@ -1,0 +1,44 @@
+170
+6. Tema / İstatistiksel Araştırma Süreci
+4. ÖRNEK
+Okulda	ve	iş	yerinde	gün	boyu	fiziksel	ve	bilişsel	olarak	zinde	kalabilmenin	verimlilik	açısından	önemi	
+araştırmacılar	tarafından	ifade	edilmektedir.	Araştırmalar;	bir	önceki	gün	uykuda	geçirilen	sürenin,	sa-
+bah	tüketilen	besinlerin	ve	bir	önceki	gün	yapılan	fiziksel	etkinliklerin	kişilerin	gün	içerisinde	zinde	olma	
+durumlarını	etkilediğini	göstermektedir.
+Bir	ilçenin	gençlik	ve	spor	ilçe	müdürlüğü,	gençlere	yönelik	fiziksel	etkinlik	çalışmaları	başlatmayı	amaç-
+lamaktadır.	Bu	doğrultuda	ilçedeki	bir	lisenin	beden	eğitimi	öğretmenleriyle	iş	birliği	yaparak	okuldaki	
+9.	 sınıf	 öğrencilerinin	 fiziksel	 etkinlik	 yapma	 durumlarını	 incelemek	 istemektedir.	 Bunun	 için	 öncelikle	
+öğrencilerin	günlük	fiziksel	etkinlik	sürelerini	belirlemeyi	planlamaktadır.	A	lisesinde	öğrenim	gören	9.	
+sınıf	öğrenci	sayısı	620’dir.	Gençlik	ve	spor	ilçe	müdürlüğünce	kurulan	ekip,	gerçekleştirilecek	araştırma	
+doğrultusunda	araştırma	sorularını	aşağıdaki	şekilde	belirlemiştir.
+• “A	lisesinde	öğrenim	gören	9.	sınıf	öğrencilerinin	haftalık	fiziksel	etkinlik	süreleri,	dakika	cinsinden	
+nasıl	bir	eğilim	göstermektedir?”
+• “A	lisesinde	öğrenim	gören	9.	sınıf	öğrencilerinin	yaklaşık	haftalık	fiziksel	etkinlik	süreleri,	cinsiye-
+te	göre	dakika	cinsinden	nasıl	farklılık	göstermektedir?”	
+• Gençlik	ve	spor	ilçe	müdürlüğü	toplam	100	öğrenciye	ulaşarak	veri	toplamak	istemektedir.	
+• Buna	göre	veri	toplama	planında	bulunması	gereken	özellikleri	dikkate	alarak	araştırmaya	yönelik	
+bir	veri	toplama	planı	hazırlayınız.
+Çözüm
+Araştırmanın	amacı	ve	veri	toplama	planında	bulunması	gereken	özellikler	dikkate	alınarak	veri	toplama	
+planı	aşağıdaki	gibi	oluşturulabilir.
+1. Adım: Araştırma sorularına cevap bulmayı sağlayacak veri toplama aracının belirlenmesi
+Araştırmada	 biri	 betimleyen,	 diğeri	 karşılaştıran	 iki	 adet	 istatistiksel	 araştırma	 sorusu	 bulunmaktadır.	
+Araştırma,	birincil	veriler	kullanılarak	gerçekleştirilebilir.	Bu	amaçla	araştırma	sorularına	cevap	almaya	
+yönelik	bir	anket,	veri	toplama	aracı	olarak	kullanılabilir.	Araştırma	soruları	doğrultusunda	öğrencilerin	
+cinsiyetlerinin	 ve	 haftalık	 fiziksel	 etkinlik	 sürelerinin	 öğrenilmesi	 gerekmektedir.	 Bu	 doğrultuda	 anket	
+aşağıdaki	gibi	oluşturulabilir.
+Cinsiyetiniz:	Kız	(				)	 Erkek 	(			)
+Rutin	hareketleriniz	dışında	haftada	kaç	dakika	fiziksel	etkinlik	(düzenli	spor,	dans,	egzersiz	vb.)	yapı-
+yorsunuz?
+Cevabınız:	
+2. Adım: Evren ve örneklemin belirlenmesi
+Araştırma,	A	lisesinde	öğrenim	gören	9.	sınıf	öğrencilerine	yönelik	olarak	gerçekleştirilecektir.	Bu	neden-
+le	araştırmanın	evreni	bu	okulda	9.	sınıf	seviyesinde	öğrenim	gören	öğrencilerin	tamamıdır.	Örneklemi	
+ise	bu	öğrenciler	arasından	belirlenen	100	öğrencidir.
+3. Adım: Rastgeleliğin sağlanması
+İstatistiksel	araştırmalarda	örneklemin	evreni	temsil	etmesi	gerekmektedir.	Okulda	bulunan	tüm	öğren-
+cilere	anketi	uygulamak	zaman,	maliyet	ve	iş	gücü	bakımından	mümkün	olmayabilir	ancak	620	öğrenci	
+içinden	örneklem	olarak	100	öğrencinin	belirlenmesinde	rastgeleliğin	sağlanması	önemlidir.	Zira	seçi-
+lecek	öğrencilerden	elde	edilecek	sonuçların	tüm	okuldaki	öğrencileri	temsil	etmesi	gerekmektedir .	Öğ-
+rencilerin	isimlerinin	veya	numaralarının	yazılı	olduğu	kâğıtların	bir	torbaya	konulması	ve	bu	kâğıtlardan	
+100	tanesinin	çekilmesiyle	örneklem	belirlenebilir.			

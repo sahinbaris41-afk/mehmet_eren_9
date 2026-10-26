@@ -1,0 +1,27 @@
+56
+FİZİK 9 
+ÜNİTE 4: ENERJİ
+Suların hacimleri İlk sıcaklık Son sıcaklık Isıtıcı sayısı
+200 ml 1
+200 ml 2
+Tablo 4.10: Grafikten okunan veriler
+Sıvı hacimleri İlk sıcaklık Son sıcaklık Isıtıcı sayısı
+200 ml 1
+200 ml 1
+Tablo 4.11: Grafikten okunan veriler
+Öğrencilerden aşağıdaki 'Çıkış Kartı'nı  doldurmalarını isteyiniz.
+Deney 2
+ ► Beherglasların her ikisine de 200 ml su doldurunuz.
+ ► Beherglasların içine termometreleri koyunuz ve suların sıcaklıklarını ölçerek Tablo 4.10'a 
+kaydediniz.
+ ► Beherglaslardan birinin altına tek, diğerinin altına ise çift ısıtıcıyı aynı anda yerleştiriniz.
+ ► 2 dk. bekledikten sonra ısıtıcıları kapatınız ve beherglasların altından alınız.
+ ► Beherglaslardaki suların sıcaklıklarını tekrar ölçünüz ve aşağıdaki tabloya kaydediniz.
+Deney 3
+ ► Beherglasların birine 200 ml sıvı yağ diğerine 200 ml su doldurunuz.
+ ► Beherglasların içine termometreleri koyunuz ve sıvı yağ ile suyun sıcaklıklarını ölçerek Tablo 
+4.11'e kaydediniz.
+ ► Beherglasların altına birer tane ısıtıcıyı aynı anda koyunuz.
+ ► 2 dk. bekledikten sonra ısıtıcıları kapatınız ve beherglasların altından alınız.
+ ► Beherglaslardaki sıvı yağ ile suyun sıcaklıklarını tekrar ölçünüz ve aşağıdaki tabloya kaydediniz.
+3. Adım: Değerlendirme

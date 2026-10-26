@@ -1,0 +1,44 @@
+158
+6. Tema / İstatistiksel Araştırma Süreci
+Tek Nicel Değişkenli Veri Toplamayı Gerektiren Araştırma Sorusu Oluşturma
+Dörder kişilik gruplara ayrılarak aşağıda verilen bilgileri okuyunuz ve soruları cevaplayınız.
+Küresel iklim değişikliği tüm dünya ülkelerini ve toplumları ilgilendiren bir sorundur. Araştırmacılar, farklı toplum-
+ların iklim değişikliği problemine yönelik farkındalıklarının aynı olmadığını söylemektedir. Türkiye Yüzyılı kap-
+samında yürütülen projelerden biri olan Türkiye’nin ilk dijital ve engelsiz “Çevre ve Çocuk Akademisi” platformu 
+gençlerin çevre, şehir ve iklim konularında bilinçlenmesini ve gençlerde bu konularda farkındalık oluşturulmasını 
+hedeflemektedir. Bu proje kapsamında 2053 Net Sıfır Emisyon ve Yeşil Kalkınma Devrimi hedeflerine ulaşılması 
+için gençlerin bilinçlendirilmesi amaçlanmaktadır. Gençler platformda yer alan “çevre”, “şehircilik”, “iklim deği-
+şikliği”, “sıfır atık”, “doğa ve sanat”, “çevre ve iletişim” konularında istedikleri akademiye giriş yapabilmekte; vide-
+oları seyrederek topladıkları puanlarla “çevre market” bölümünden bisiklet, scooter (sıkutır), kaykay gibi hediyeler 
+kazanabilmektedir. 
+Bu bağlamda bir araştırmacı grubu, öğrencilerin iklim sorununa yönelik farkındalıklarını belirlemek için bir araş-
+tırma yapmak istemektedir.  
+1. Grup çalışması yaparak bu araştırma grubunun araştırmasına yön verecek nicel veri toplamayı gerektiren birer 
+adet betimleyen ve karşılaştıran araştırma sorusu oluşturunuz. Oluşturduğunuz soruları yazınız.
+Betimleyen Araştırma Sorunuz:
+Karşılaştıran Araştırma Sorunuz:
+2. Araştırma sorularınızı aşağıda verilen istatistiksel araştırma sorusu ölçütlerine göre grup çalışmasıyla değerlen-
+diriniz. Değerlendirmelerinizi diğer gruplarla tartışınız.
+ Araştırma sorusunun amacı net midir? 
+ Araştırmaya değer midir? 
+ İlgilenilen grup (evren) açıkça görülmekte midir? 
+ Değişken açıkça görülmekte midir? 
+ Veri toplanarak cevaplanabilir mi?
+ Değişebilirliği yansıtmakta mıdır?  
+ Odaklanılan grup araştırma yapılmasına imkân vermekte midir?
+ Nicel veri toplamayı gerektirir mi? 
+2. Uygulama
+Evren
+Araştırma kapsamında 
+ele alınan sonuçların 
+genellendiği topluluktur.
+Değişken
+Gözlemlenen elemanların 
+birinden diğerine değişen 
+veya farklılaşan özellik-
+lerdir. 
+Değişebilirlik
+Bir dağılımdaki değerle-
+rin değişkenlerden kay-
+naklı olarak birbirinden 
+farklılaşmasıdır.

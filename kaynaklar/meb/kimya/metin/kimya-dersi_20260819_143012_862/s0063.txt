@@ -1,0 +1,50 @@
+63
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin kimyasal tepkimelerin oluşum göstergesi olarak ısı değişimini, kovalent 
+bağı, gazların kinetik moleküler teorisini bildiği kabul edilmektedir. 
+Ön Değerlendirme Süreci Öğrencilerin fiziksel ve kimyasal olaylarda gerçekleşen ısı değişimi hakkındaki ön bilgilerini 
+ortaya çıkaracak günlük hayatla ilişkili örnekler üzerinden bir tartışma ortamı oluşturulur.
+Köprü Kurma Öğrencilere günlük hayatta karşılaştıkları bazı ekzotermik-endotermik fiziksel ve kimya -
+sal tepkime örneklerine ait görsel materyal verilebilir. Fiziksel ya da kimyasal her olaya ısı 
+değişiminin eşlik ettiği çıkarımına ulaşmalarına yardımcı olacak şekilde yönlendirici soru -
+lar sorulur. Öğrencilerden yakın çevrelerinde gerçekleşen fiziksel ve kimyasal olaylardan 
+örnekler (yanma, erime vb.)  seçmeleri istenebilir. Bu fiziksel ve kimyasal olaylarda ger -
+çekleşen enerji değişimlerinin benzerlikleri ve farklılıkları hakkında düşüncelerini paylaşa-
+bilecekleri bir tartışma ortamı oluşturulabilir. 
+Öğrenme-Öğretme 
+Uygulamaları KİM.11.1.1 
+Günlük hayatta karşılaşılan fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin örnek-
+ler sunularak tartışma ortamı oluşturulabilir. Böylece öğrencilerin etkili iletişim beceri -
+lerini kullanmaları, olaylar ve durumlar karşısında farklı bakış açıları olabileceğini kabul 
+etmeleri sağlanabilir (D14.1, E2.1). Öğrenciler, gruplara ayrılarak farklı fiziksel ve kimyasal 
+olayların enerji değişimini gözlemleyebilecekleri deney düzeneklerini tasarlayarak deney-
+lerini gerçekleştirir (KB2.2, OB7) . Öğrencilerden planlı olmaları, zamanı etkili bir şekilde 
+yönetmeleri ve grup çalışmalarında uyumlu davranmaları beklenir. Bu şekilde çalışkanlık 
+ve mütevazılık değerlerini kazanmaları desteklenir (D3.2, D10.3) . Öğrenciler, grup çalış -
+ması ve deney sürecinde hangi bilgileri nasıl öğrendiklerini, hangi duyguları yaşadıklarını 
+ve istenmeyen durumlarda nasıl tepki verdiklerini sınıf içinde tartışır (SDB1.1, SDB2.2) . 
+Öğrencilerin grup çalışmalarına katkıları akran değerlendirme formu ile değerlendirilebilir. 
+Öğrenciler, deney sonuçlarına göre fiziksel ve kimyasal değişimleri ısıveren (ekzotermik) 
+ve ısıalan (endotermik) değişimler olarak belirler. Deneyden elde ettikleri sonuçları günlük 
+hayatta sık karşılaşılan olaylardaki enerji değişimini açıklamak için kullanır (KB2.14, OB7). 
+Öğrenciler, fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin yaptıkları deneyi rapor-
+layabilir. Sürecin bütünü “öğrencilerin deney adımlarını takip ederek fiziksel ve kimyasal 
+değişimleri ekzotermik ve endotermik değişimler olarak belirlemeleri, deneyden elde et -
+tikleri çıktıları bilimsel bilgilerle karşılaştırabilmeleri ve günlük hayattaki olayları açıklamak 
+için kullanabilmeleri” ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen ve öğren-
+ci tarafından değerlendirilebilir. Ayrıca öğrencilerden süreci geliştirmek için neler yapabi-
+lecekleri konusunda da kendilerini değerlendirmeleri istenebilir (SDB1.2, SDB1.3, E3.10).
+KİM.11.1.2
+Öğrenciler, verilen  kimyasal tepkime örneklerini (yanma) ve bu tepkimelere ait ısıları ince-
+leyerek tepkimeler sonucu açığa çıkan enerjileri karşılaştırır. Öğrencilerden yanma tepki-
+melerini inceleyerek oksijenle tepkimeye giren maddelerin enerji kaynağı olma potansiyeli 
+ile ilgili fikir yürütmeleri istenir. Böylece öğrencilerin edindikleri bilgileri eleştirel bakış açı-
+sıyla değerlendirmesi sağlanarak çalışkanlık değeri kazanmaları desteklenir (D3.3). Öğ -
+rencilere enerji kaynağı olabilecek yakıtların ve canlıların hayatını sürdürebilmesi için ge -
+rekli enerji kaynaklarının neler olabileceği sorulabilir. Öğrencilerden çeşitli malzemelerin 
+enerji kaynağı olma potansiyelini araştırmak üzere hipotezler oluşturmaları istenir. Enerji 
+kaynağı olabilecek maddelerden (odun, kamp yakıtı, yağ, ceviz, fındık, badem, kabuklar, 
+şeker, tatlandırıcı vb.) örnekler verilir ve öğrencilerin grup oluşturmaları sağlanarak seç -
+tikleri maddelerin enerji kaynağı olma potansiyellerine ilişkin problemleri tanımlamaları

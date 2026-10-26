@@ -1,0 +1,35 @@
+56
+2. ÜNİTE 
+4. Aşağıdaki tabloda verilen fiziksel niceliklerin birimlerini, birimi oluşturan nicelikleri ve bu niceliklerin 
+SI’ daki birimlerini doğrudan ilişkili olduğu fiziksel nicelikler ve ölçüm aletleri bakımından inceleyiniz. 
+Tablodaki ivme örneğinde olduğu gibi diğer niceliklerin birimlerinin doğrudan ilişkili olduğu nicelik ­
+leri ve ölçüm aletlerini tabloya yazınız. Birden fazla niceliğin bir araya gelmesiyle oluşan niceliği “X” ile 
+işaretleyiniz. 
+Fiziksel 
+Nicelik
+Niceliğin SI’ daki 
+Birimi
+Birimle Doğrudan 
+İlişkili Nicelikler Ölçüm Aletleri Birden Fazla Nicelikten Oluşanlar
+İvme m/s2 Uzunluk, zaman Cetvel, kronometre X
+Uzunluk m
+Basınç kg /m ·s2
+Ağırlık kg ·m/s2
+Kütle kg
+5. Fiziksel niceliklerden olan uzunluk temel nicelik, ağırlık ise türetilmiş nicelik olarak adlandırılır. Bu bilgi ­
+den yararlanarak aşağıda verilen fiziksel nicelikleri niteliklerine göre gruplandırınız. Oluşturduğunuz grup­
+ları temel nicelik veya türetilmiş nicelik şeklinde adlandırıp tabloya yazınız. 
+  Sıcaklık (K)  Hız (m/s)  Zaman (s)  Kuvvet (kg : m/s2)    
+       Y oğunluk (kg/m3)  Elektrik akımı (A)  Kütle (kg)
+Fiziksel Nicelikler
+........................ Nicelikler ........................ Nicelikler
+6.  Temel niceliklerin ve türetilmiş niceliklerin nitelikleri hakkındaki fikirlerinizi diğer gruplarla paylaşınız. 
+Elde ettiğiniz verilerden yararlanarak temel niceliklerin ve türetilmiş niceliklerin niteliklerini tanımlayınız. 
+Temel Niceliklerin Nitelikleri:  
+Türetilmiş Niceliklerin Nitelikleri:  
+Değerlendirme
+1.  Fiziksel niceliklerin temel nicelik veya türetilmiş nicelik olduğuna karar vermede hangi ölçütler etkili-
+dir? Ölçütlerinizi aşağıdaki alana yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+2. Temel nicelik ve türetilmiş nicelik arasındaki ilişkiyi aşağıdaki alana yazınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       

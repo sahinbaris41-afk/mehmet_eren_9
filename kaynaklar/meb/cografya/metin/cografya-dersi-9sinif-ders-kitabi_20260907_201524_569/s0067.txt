@@ -1,0 +1,73 @@
+Görsel 2.14 
+Uydular, Dünya’dan yansıyan 
+elektromanyetik dalgaları algılar 
+(a). Uydularca alınan veriler, 
+bilgisayar aracılığıyla görüntüye 
+dönüştürülür. Uydu görüntüleri 
+harita yapımında kullanılır (b).
+a
+PamukkalePamukkale
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+67
+2.1.3. Mekânsal Bilgi Teknolojilerinin     
+ Bileşenleri
+b
+Bilgi toplamak ve iletişim hizmetleri için Dünya yörüngesine uydu-
+lar yerleştirilmiştir. Uydular, görünür dalga boyunun yanında insan du-
+yularının algılayamayacağı kızılötesi ve morötesi ışınları algılama sis-
+temleriyle donatılmıştır. Uzaydaki gözlem araçları olan uydulardan 
+Dünya’nın her yerine ait yüksek çözünürlükte görüntüler hızlı bir şekilde  
+alınabilmektedir (Görsel 2.14).   
+Harita yapımında en önemli adımlardan biri veri toplamaktır. Uydular yardı-
+mıyla sıcaklık, atmosfer kirliliği, iklim değişikliği, deniz suyu tuzluluğu, deniz 
+seviyesi değişimleri, bitki örtüsü, yer şekilleri, toprak nemi, arazi kullanımı, 
+kentleşme, tarım gibi konularda veri toplanarak bilgisayara aktarılır ve farklı 
+haritalar üretilir.
+ 
+Mekânsal veri
+Haritası oluşturulabilen, 
+konumsal özelliğe sahip 
+her türlü coğrafi veridir. 
+Mekânsal  veriler; nokta, 
+çizgi veya alan olarak 
+gösterilir.
+Coğrafi Bilgi Sistemleri 
+(CBS) kapsamında elde 
+edilen verilerin kullanımı 
+ve paylaşımı belirli etik 
+kurallar çerçevesinde 
+gerçekleştirilmelidir. Bu 
+süreçte verilerin güveni-
+lirliği korunmalı, kaynağı 
+açıkça belirtilmeli ve 
+izinsiz kullanımdan kaçı-
+nılmalıdır.
+Ayrıca kişisel verilerin 
+gizliliğine özen gösteril-
+meli, toplumsal güvenliği 
+olumsuz etkileyebilecek 
+veri paylaşımlarından 
+kaçınılmalıdır. CBS veri-
+lerinin doğru, tarafsız ve 
+amacına uygun biçimde 
+kullanılması bilimsel etik 
+açısından önem taşımak-
+tadır.
+B) Dünya’yı Uzaydan Haritalamak: Uzaktan Algılama
+Kullanıcı: CBS uygulamalarının başarısı üzerinde kullanıcının bilgi ve be-
+cerisi önemli rol oynar. Kullanıcılar, mekânsal sorunlara çözüm üretmek için 
+CBS’nin diğer bileşenlerini organize eder ve sistemi yönetir.
+Veri: CBS’de karar alma ve yönetme işlevinin yerine getirilebilmesi için bil-
+giye ihtiyaç vardır. Bilgiye ulaşmak için de doğru ve güncel veriler kullanılır. 
+Gerekli veriler; uydu görüntüleri, hava fotoğrafları, anketler gibi çeşitli kay-
+naklar ve saha araştırmalarından elde edilir. Kurum ve kuruluşlarca üretilen 
+mekânsal veriler de CBS projelerinde kullanılabilmektedir.
+Donanım: CBS’nin işlemesini sağlayan akıllı telefon, tablet, bilgisayar ve 
+buna bağlı teknolojik araçlar (bellek, tarayıcı, yazıcı, Küresel Konumlandırma 
+Sistemi vb.) bütünüdür. 
+Yazılım: CBS yazılımları; coğrafi verileri işlemek ve kaydetmek, harita üret-
+mek, sorgulama ve analiz yapmak için gerekli programlardır.
+Yöntem: CBS’de verileri bilgiye dönüştürmede kullanılır. CBS yöntemi kulla-
+nıcı tarafından belirlenir. Yöntem; veri toplama, depolama, analiz ve görüntü-
+lemenin nasıl olacağı ile ilgili kullanıcı tercihlerini içerir.
+CBS bileşenleri, bir CBS uygulamasının başarısını etkileyen temel faktörlerdir.

@@ -1,0 +1,35 @@
+ 
+1
+T .C.
+MİLLÎ EĞİTİM BAKANLIĞI
+ÖLÇME, DEĞERLENDİRME VE SINAV HİZMETLERİ GENEL MÜDÜRLÜĞÜ
+2025-2026 EĞİTİM VE ÖĞRETİM YILI
+I. DÖNEM I. YAZILI SINAVI (ÜLKE GENELİ ORTAK)
+MATEMATİK
+9. SINIF
+ÖĞRENCİLERİN DİKKATİNE!
+1.	 Bu	soru	kitapçığında	7	soru	bulunmaktadır	ve	sınav	süresi	40	dakikadır.
+2.	 Cevaplarınızı,	soruların	altında	boş	bırakılan	yerlere	yazınız.	
+3.	 Sınav	100	tam	puan	üzerinden	değerlendirilecektir.	1,	2,	3,	4,	5	ve	7.	sorular	15	puan;	6.	soru	10	puan	
+değerindedir.
+Adı	ve	Soyadı	 :	............................................................................
+Sınıfı	/	Şubesi	 :	............................................................................
+Öğrenci	Numarası	 :	............................................................................
+Aldığı	Puan
+SABAH
+OTURUMU
+1. Bir laboratuvarda incelenen insan kanının 1 litresinde bulunan akyuvar ve alyuvar sayıları aşağıdaki 
+tabloda verilmiştir.
+Tablo: İnsan Kanının 1 Litresinde Bulunan Akyuvar ve Alyuvar Sayıları
+Hücre Çeşidi Hücre Sayısı
+Akyuvar 0,06 · 108
+Alyuvar 0,5 · 1010
+Bu kandaki akyuvar ve alyuvar hücrelerinin toplam sayısı K · 106 olduğuna göre, K’nin değeri-
+ni işlemlerinizi göstererek bulunuz. (15 puan)
+Akyuvar ve alyuvar hücrelerinin toplam sayısını bulmak için üslü gösterimleri eşitleyelim.
+Akyuvar sayısı 0,06 · 108 = 6 · 106
+Alyuvar sayısı 0,5 · 1010 = 5000 · 106 dır.
+Akyuvar ve alyuvar hücrelerinin toplam sayısı K · 106 olduğundan
+6 · 106 + 5000 · 106 = K · 106
+   5006 · 106 = K · 106
+      K = 5006 bulunur.

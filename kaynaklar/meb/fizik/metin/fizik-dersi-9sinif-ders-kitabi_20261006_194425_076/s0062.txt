@@ -1,0 +1,32 @@
+62
+2. ÜNİTE 
+Örnek
+Aşağıdaki cümlelerde geçen fiziksel niceliklerin skaler mi yoksa vektörel mi olduğunu belirleyiniz.
+I. Suyun yoğunluğu 1.000 kg/m3 tür. 
+II. İzmir’de kuzeybatı yönünde 12 km/h hızla rüzgâr esmektedir.
+III. Evrende ölçülebilecek en düşük sıcaklık 0 K’dir.
+Çözüm
+Yoğunluk ve sıcaklık skaler, hız ise vektörel niceliktir.
+4. Alıştırma
+Türkiye’deki resmî kurumlar tarafından yapılan bazı açıklamalar aşağıda verilmiştir. 
+ ● Güneş kaynaklı radyasyon yer kabuğunda sıcaklık farkları oluşturur. Sıcaklık farkları, nem 
+ve basınç farklılıklarına neden olur. Basınç farklılıkları da hava hareketleri meydana getire -
+rek rüzgârları oluşturur. Böylece Dünya’ya ulaşan güneş enerjisinin bir kısmı rüzgâr enerjisine 
+dönüşmüş olur. T.C. Enerji ve Tabii Kaynaklar Bakanlığı, deniz seviyesinden 50 m yükseklikte 
+ve rüzgârın 7,5 m/s üzerinde bir sürate sahip olduğu bölgelerde rüzgâr elektrik santrallerinin 
+kurulabileceğini belirtmektedir. Çanakkale ilinin bu yükseklikte ortalama rüzgâr hızı kuzeydoğu 
+yönünde 8,1 m/s’dir. Bu sebeple ülkemizin birçok ilinde olduğu gibi Çanakkale’de de rüzgâr 
+elektrik santralleri kurulmuştur. 
+ ● Güneş, yaklaşık 3,9 ·1026 W güç ile ışıma yapan, temiz ve yenilenebilir bir enerji kaynağıdır. T.C. 
+Enerji ve Tabii Kaynaklar Bakanlığının hazırladığı Türkiye Güneş Enerjisi Potansiyeli Atlası’na 
+(GEPA) göre Türkiye’de yıllık ortalama güneşlenme süresi 2.741 h’tir. 
+ ● T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Meteoroloji Genel Müdürlüğünün 2024 yılı 
+verilerine göre hava sıcaklığının Karadeniz, Marmara, Kuzey ve Kıyı Ege ile Akdeniz kıyılarında 
+mevsim normallerinin 0,5 oC ile 1 oC üzerinde, diğer yerlerde ise mevsim normallerinin 1 oC ile 
+2 oC üzerinde seyretmesi beklenmektedir. 
+Buna göre 
+a) Açıklamalarda geçen fiziksel nicelikleri belirleyerek yazınız. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+b) Belirlemiş olduğunuz fiziksel nicelikleri skaler nicelik veya vektörel nicelik olarak 
+sınıflandırınız ve aşağıdaki tabloda ilgili alana yazınız.
+Skaler Nicelikler Vektörel Nicelikler

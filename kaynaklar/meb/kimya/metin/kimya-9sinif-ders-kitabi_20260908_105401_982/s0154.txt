@@ -1,0 +1,52 @@
+154
+2. Tema/Çeşitlilik
+Hidrojen	Bağı 
+Hidrojen atomu doğrudan F, O veya N atomuna bağlandığında bağ-
+lanan atomlar arasındaki elektronegatiflik farkı diğer kovalent bağ -
+lardan fazladır. Bu durum, söz konusu mo  leküllerde bağı meydana 
+getiren hidrojen atomundaki kısmi pozitif; ortaklanmamış elektron 
+çifti bulunduran diğer atomdaki kısmi negatif yük yoğunluğunun fazla 
+olmasına sebep olur. Yük yoğunluğunun fazlalığı nedeniyle molekül-
+ler arasındaki çekim dipol-dipol etkileşimine göre oldukça güçlüdür. 
+Genellikle komşu moleküller arasında oluşan bu güçlü etkileşime 
+hidrojen bağı denir (Görsel 2.19). Hidrojen bağının oluşması için 
+hidrojen atomunun F, O veya N atomuna bağlanmış ve kısmi pozitif 
+yüklü olması gerekir. Bunun yanı sıra hidrojen atomuna bağlanmış, 
+kısmi negatif yüklü ve ortaklanmamış elektron çifti içeren F, O veya 
+N atomu gereklidir. Aşağıdaki tabloda moleküller arası etkileşimlerin 
+türü, yeri ve kuvveti verilmiştir (Tablo 2.5).
+Tablo 2.5: Moleküller Arası Etkileşimlerin Türü, Yeri ve Kuvveti
+Aynı Moleküller Arası Dipol-Dipol Etkileşimi İçerenler Farklı Moleküller Arası Dipol-Dipol Etkileşimi İçerenler
+5. HF ve HCl moleküllerinde kısmi negatif (δ
+−
+)yük eşit büyüklükte midir? Yük yoğunluğunu gösteren görsel-
+deki farklılığı kullanarak açıklayınız.
+6. Moleküller, yapısında en az bir F−H, O−H veya N−H bağı bulunduruyorsa hidrojen bağı oluşturabilir.
+Buna göre dipol-dipol etkileşimi oluşturan molekülleri inceleyerek hidrojen bağı yapabilen moleküllerin 
+formüllerini belirleyiniz ve belirlediklerinizi bilimsel kaynaklardan elde ettiğiniz bilgilerle karşılaştırınız.
+7. Hidrojen bağı içeren maddeler karıştırıldığında farklı moleküller arasında da hidrojen bağı oluşabilir.
+Buna göre
+a) Aynı moleküller arasında hidrojen bağı etkileşimleri hangileridir?
+b) Farklı moleküller arasında hidrojen bağı etkileşimleri hangileridir?
+4. Dipol-dipol etkileşimlerinin oluşumunda etkili olan aynı ya da farklı tür molekülleri sınıflandırınız.
+Hidrojen bağı
+O
+O
+O O
+O
+HH
+H
+H H
+H
+H
+H
+H
+Hδ+
+δ¯
+Etkileşim Türü Görüldüğü Yer Kuvveti (kJ/mol)
+London kuvveti Bütün molekül ve soy gaz atomları arasında 0,05-20
+Dipol-dipol Polar moleküller arasında 3-20
+Hidrojen bağı F, O veya N atomuna bağlı H içeren moleküller arasında 10-40
+Görsel 2.19 
+Su molekülleri arasındaki 
+hidrojen bağı

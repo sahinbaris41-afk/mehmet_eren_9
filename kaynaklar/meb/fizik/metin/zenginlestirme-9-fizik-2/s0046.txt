@@ -1,0 +1,26 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+44 45
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+2. Adım:  Uygulama
+ ♦  Aşağıdaki soruları tahtaya yazınız ve beyin fırtınası yöntemiyle öğrencilerin bu sorular üzerine dü -
+şünmesini sağlayınız. Öğrencilerin verdiği cevapları tahtaya yazınız.
+ ♦ Öğrencilerden Pascal İlkesi'ni kullanarak bir hidrolik sistem düzeneği tasarlamasını isteyiniz ve tasa-
+rım sürecinde aşağıdaki bilgilere dikkat etmeleri gerektiğini belirtiniz.
+ ♦ Öğrencileri rehberliğinizde gruplara ayırınız.
+ ♦ Gruptaki öğrencilerin görev paylaşımı yapmalarını sağlayınız.
+ ♦ Tasarım bitiminde eşit büyüklüklerde kuvvet kullanılarak daha fazla yük kaldırabilen bir düzenek ya -
+rışması yapılacağını söyleyiniz.
+??
+Genel olarak sıvıların sıkıştırılamaz olması durumunu nasıl açıklarsınız?
+??
+Sıvıların basınç büyüklüğünü değiştirmeden yönünü ve doğrultusunu nasıl değiştirebi -
+lirsiniz?
+??
+Sıvılar basıncı aynen iletirken neden basınç kuvvetini olduğu gibi iletmez?
+ ♦ Dersin sonunda öğrencilerin sıvı basıncı ve sıvı basınç kuvveti ile ilgili sorularını sınıfla birlikte dinleyi-
+niz ve diğer öğrencilerin bu soruları cevaplamasını sağlayınız.
+Tartışma ve Konuya Giriş
+Tasarım Öncesi
+a Suyu pompalayan şırınga her düzenek için hacim olarak 10 ml'lik olmalıdır.
+b Düzenekte ağırlığı kaldıracak iki şırınga hacim olarak 20 ml'lik olmalıdır.

@@ -1,0 +1,42 @@
+161
+6. Tema / İstatistiksel Araştırma Süreci
+2. Sıra Sizde      
+Aşağıdaki	durumlarda	ortaya	çıkabilecek	değişebilirlik	türünü	belirleyerek	tabloyu	doldurunuz.	Belirledi-
+ğiniz	değişebilirlik	türünü	ve	gerekçesini	sınıf	arkadaşlarınızla	tartışınız.
+Durum Değişebilirlik Türü ve Gerekçesi
+Bir	kişinin	kronometre	ile	aynı	yükseklikten	30	kez	bırakılan	bir	topun	düşme	süresini	
+belirlemesi
+Voleybol	takımına	seçilecek	öğrencilerin	kol	uzunluklarının	ölçülmesi
+İki	gruba	ayrılan	aynı	türden	40	balığın	tuzluluk	oranları	farklı	iki	akvaryumda	gelişim-
+lerinin	gözlemlenmesi
+500	kişilik	bir	grupt an	ras tgele	belirlenen	ellişer	kiş ilik	iki	gruba	aynı	ölçeğin	uygulanm ası
+Bir	şehirdeki	doğal	su	kay naklarının	kir lilik	dereces ini	belirlem ek	için	70	far klı	doğal	su	
+kaynağından	alınan	su	numunelerindeki	kirlilik	derecesinin	belirlenmesi
+Lise	öğrencilerinin	haftalık	genel	ağ	kullanım	sürelerinin	belirlenmesi
+4. Bir	okulun	rehberlik	servisi,	matematik	başarısı	ile	matematiğe	yönelik	tutumlar	arasındaki	ilişkiyi	ince-
+lemek	amacıyla	rastgele	yüz	ellişer	öğrenciden	oluşan	iki	grup	belirlemiştir.	Daha	sonra	bu	öğrenci	
+gruplarının	matematik	dersi	yıl	sonu	ortalamalarını	hesaplamıştır.	Rehberlik	servisi	rastgele	belirlediği	
+150	öğrencinin	matematik	dersi	yıl	sonu	ortalamasını	72,6	olarak	hesaplarken	farklı	150	öğrencinin	
+matematik	dersi	yıl	sonu	ortalamasını	71,2	olarak	hesaplamıştır.	
+Rehberlik	servisi	öğrencilerin	matematik	dersi	yıl	sonu	ortalamalarını	neden	farklı	bulmuştur?	
+Çözüm
+1. Araştırmacının	her	ölçümde	deniz	suyu	sıcaklığı na	ilişkin	farklı	değerler	elde	ettiği	görülmektedir.	
+Bu	farklı	değerler,	doğada	var	olan	bir	değişkenin	ölçümü	sonucu	elde	edilmektedir.	Değerlerdeki	
+farklılıklar	doğal	ortamdan	kaynaklı	değişebilirliği	ortaya	çıkarmaktadır.	Doğal	ortamdan	kaynaklı	deği-
+şebilirlik,	doğada	var	olan	değişebilirliktir.	Ölçülen	değişken,	doğada	var	olduğu	biçimiyle	ölçülür	ve	
+toplanan	verilerde	görülen	değişebilirlik	anlamlandırılarak	sonuçlar	elde	edilir.
+2. Öğrencinin	masanın	uzun	kenarını	ölçerken	her	seferinde	farklı	bir	sonuç	elde	ettiği	görülmektedir.	
+Öğrencinin	20	cm’lik	cetvelle	her	seferinde	farklı	bir	sonuç	elde	etme	durumu	beklenebilir.	Bu	durum,	
+ölçümden	kaynaklanan	değişebilirliğe	örnek	gösterilebilir.	Bu	veriler	kullanılarak	masanın	uzun	kena-
+rının	gerçek	uzunluğuna	en	yakın	değerin	elde	edilmesi	istatistiksel	olarak	mümkündür.	Ölçümden	
+kaynaklı	değişebilirlik,	ölçüm	için	kullanılan	araçlardan	veya	ölçüm	yapan	kişilerin	ölçümlerinden	
+kaynaklanan	değişebilirliktir.	
+3. Öğrencinin	aynı	türden	iki	bitkinin	boylarını	ölçtüğü	deneyde	bitki	boylarının	10.	ölçüm	sonunda	
+aynı	değerde	olmadı ğı	görülmekt edir.	Bur adaki	değişebilirlik,	müdahaleden	kay naklı	değişebilirliğe	
+örnektir.	Öğrenci,	deneyinde	tüm	değişkenleri	sabit	tutarak	bir	değişkene	müdahalede	bulunmuştur.	
+Bu	müdahale	ise	bitkilerin	boylarının	farklılaşmasına,	dolayısıyla	değişebilirliğin	oluşmasına	neden	
+olmuştur.	Müdahaleden	kaynaklı	değişebilirlik,	doğal	ortama	müdahale	sonucu	görülen	değişebilirliktir.	
+4. Rehberlik	servisinin	matematik	dersi	yıl	sonu	ortalamalarını	farklı	bulması	örneklemden	kaynaklı	
+değişebilirliğe	örnektir.	Farklılığın	nedeni,	rehberlik	servisinin	rastgele	belirlediği	yüz	ellişer	öğrenci-
+nin	farklı	öğrenciler	olmasıdır.	Örneklemden	kaynaklı	değişebilirlik,	aynı	evrenden	farklı	örneklemler	
+alındığında	görülen	değişebilirliktir.

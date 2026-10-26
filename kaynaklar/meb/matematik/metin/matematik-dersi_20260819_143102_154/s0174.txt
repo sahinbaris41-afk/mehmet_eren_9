@@ -1,0 +1,51 @@
+174
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.12.2.1
+Öğrencilerin önceden öğrendikleri çember, merkez, çap, yarıçap, çemberin uzunluğu, yay 
+uzunluğu, dairenin alanı ve daire diliminin alanı gibi konular üzerinde tekrar düşünmeleri sağ-
+lanır. Hastalıklardan korunmak için insanlar arasında 1,5 metre sosyal mesafenin korunması 
+durumu, sürdürülebilirlik ve sağlıklı yaşam için motorlu taşıt kullanımının azaltılması, bisikle-
+tin aldığı yol ile tekerleğin uzunluğu arasındaki ilişki, sudan tasarruf için bahçe ve tarla gibi zi-
+raat yapılan bölgelerde dairesel sulama sistemlerinin kullanılması gibi gerçek yaşam durum-
+larıyla çember ilişkilendirilir (OB8, D13.4, D16.2, D17.2, E2.1, E2.2). Öğrenciler gruplar hâlinde 
+çalışarak matematik yazılımları, pergel, ölçüsüz cetvel veya kâğıt katlama gibi matematiksel 
+araç ve teknolojiler yardımıyla düzlemde çember ile doğrunun birbirlerine göre durumlarını 
+değerlendirir (MAB5). Bu değerlendirmeler esnasında gruplar çemberi farklı şekillerde kesen 
+doğrular oluşturarak teğet, kesen ve kiriş kavramlarını belirlemeye yönelik çalışmalar yapar.
+Öğrencilerin çemberi kesen bir doğrunun çemberi kestiği noktalardan yararlanarak kiriş ve 
+yay kavramlarını, çembere bir noktada değen doğrudan yararlanarak teğet kavramını incele-
+meleri sağlanır. Sınıf içi tartışmalarla öğrencilerin grup iletişimine katılma, etkin dinleme ve 
+düşüncelerini ifade etme süreçleri de dikkate alınarak çemberde kesen, kiriş, teğet, çap ve 
+yay arasındaki ilişkilerin belirlenmesi sağlanır (SDB2.1, SDB2.2, D14.1). Öğrencilere çember-
+de kesen, kiriş, teğet, çap ve yay arasındaki ilişkilere yönelik çalışma kâğıdı verilebilir.
+MAT.12.2.2
+Öğrencilerin matematik yazılımları veya pergel, ölçüsüz cetvel gibi matematiksel araç ve 
+teknolojiler kullanarak çember ve çemberde açı, teğet ve kiriş özelliklerine ilişkin varsayım-
+larda bulunmaları sağlanır (MAB5). Bu varsayımlardan hareketle merkez açı, çevre açı, iç 
+açı, dış açı, teğet-kiriş açının çemberde oluşturduğu yayların ölçüleri arasındaki ilişiklere 
+dair genellemeler yapmaları istenir. Öğrencilerin varsayımlar oluşturma ve genellemelere 
+ulaşma sürecinde dijital uygulamalar kullanmaları durumunda dijital okuryazarlık becerile -
+rinin gelişimi de sağlanır (OB2). Bu genellemeler ile varsayımlarını bilimsel bir bakış açısıyla 
+karşılaştırmaları beklenir (D3.3). Elde ettikleri genellemeleri kullanarak “Merkez açının ölçü-
+sü, aynı yayı gören çevre açının ölçüsünün iki katıdır.”, “Kirişler dörtgeninde karşılıklı açıların 
+ölçüleri toplamı birbirine eşit ve 180 derecedir.” gibi önermelerde bulunmaları; bu önermeleri 
+yeni durumlara uyarlayarak değerlendirmeleri öğrencilerden beklenir.
+Teğetler dörtgeninin özellikleri ile ilgili de öğrencilerin benzer şekilde çıkarımda bulunmaları 
+sağlanır. Öğrenciler teğetler dörtgeninin alanının nasıl hesaplanacağına ilişkin dijital araçlar 
+kullanarak bir bilgi notu hazırlar ve bunu arkadaşlarıyla dijital ortamda paylaşır (OB2). Öğren-
+ciler ayrıca çemberlerin birbirine göre durumlarından elde edilen uzunluk özelliklerine dair 
+benzer bir süreç işleterek önermelerde bulunur. 
+Çemberde açı, kiriş ve teğetin özellikleri ile bunların problem durumlarında kullanımlarını ge-
+rektiren açık uçlu sorulardan oluşan çalışma kâğıtları verilebilir.
+MAT.12.2.3
+Öğrencilere çemberde açı, kiriş ve teğetle ilgili çıkarımlarını kullanmayı gerektiren problem 
+durumları sunulur. Bu problemler fizik dersinde yer alan dairesel hareketle ilişkilendirile -
+bilir. Öğrencilerden sunulan problem durumlarına ilişkin olarak öncelikle problemin parça -
+ları (alan, çevre açı, teğet noktası, çap, kiriş, yay uzunluğu gibi) ve bu parçalar arasındaki 
+ilişkileri belirlemeleri beklenir. Bu tür problemlerdeki parçalar ile bunlar arasındaki ilişkiler; 
+öğrencilerin bilgiyi çözümleme, yorumlama ve sentezleme becerilerinin de gelişimini sağ -
+lar (OB1). Öğrencilerden özellikle gerçek yaşam durumlarını içeren problemleri analitik bir 
+yaklaşımla ve görsel bir temsili kullanarak dönüştürmesi ve problemin bileşenlerini ifade 
+etmesi beklenir (E3.6, MAB3). Öğrencilerin problemin çözümü için geliştirdikleri stratejileri 
+uygulayarak problemi çözmeleri ve çözümlerini kontrol etmeleri sağlanır. Bu tür problemle-

@@ -1,0 +1,33 @@
+215
+ENERJİ
+ 4.2. ISI, ÖZ ISI, ISI SIĞASI VE SICAKLIK 
+FARKI ARASINDAKİ İLİŞKİ
+Konuya Başlarken
+Canlıların yaşamında önemli bir yeri olan su, aynı za­
+manda ısı depolayabilir. Bu özelliği sayesinde su, aldığı 
+ısıyı enerji olarak depolar ve daha soğuk ortama gi rdi­
+ğinde depoladığı bu enerjiyi yavaş yavaş ısı olarak  geri 
+verir. Isı tutma kapasitesi havaya göre daha yüksek  ol­
+duğu için otomobil radyatörlerinde ve kalorifer sistem­
+lerinde çoğunlukla su kullanılır. Suyun bu özelliğinden 
+yararlanılarak günümüzde bazı konut ve iş yerlerini n 
+ısıtılmasında “su duvarı” adı verilen sistemler kul lanıl­
+maya başlanmıştır. Bu sistemde içi su dolu, şeffaf bloklar 
+gündüz güneş ışınlarıyla ısıtılır ve ısınan su, geceleri or­
+tama yavaş yavaş ısı vererek ortamın uzun süre sıcak kal­
+masını sağlar. Bu sistem; kışın ısıtma, yazın serin letme 
+amacıyla kullanılabilmektedir.
+Günlük hayatta suyun ısıtma veya soğutma amacıyla k ullanıldığı başka hangi sistemler olabilir? 
+Isıtma ve soğutma sistemlerinde su yerine başka bir madde kullanılması d urumunda ne gibi deği -
+şiklikler oluşabilir?
+İçi su dolu camdan duvar
+4.2.1. Termometreler
+Sıcaklığı değişen bir maddenin boyutu, basıncı, elektrik direnci gibi birtakım 
+özellikleri de değişir. Ayrıca canlı ya da cansız, sıcaklığı 0 K’den yüksek olan 
+her madde insan gözünün algılayamadığı kızılötesi ışınlar yayar. Görsel 4.3’te 
+kediden yayılan farklı dalga boylarındaki kızılötesi ışınların termal kameradaki 
+görüntüsü verilmiştir. Sıcaklıkla birlikte maddede meydana gelen değişimleri 
+algılayan ve bu sayede maddelerin veya ortamların sıcaklığını ölçen araçlara 
+termometre denir.
+Görsel 4.3: Kediden yayılan kızılötesi ışınların termal 
+kamerayla alınan görüntüsü

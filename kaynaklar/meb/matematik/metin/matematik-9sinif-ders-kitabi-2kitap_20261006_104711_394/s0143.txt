@@ -1,0 +1,29 @@
+143
+5. Tema/Ölçme ve Değerlendirme
+3.  Bir	markette	satılan	tereyağının	700	gramlık	
+paketinin	fiyatı	280	TL’dir .	
+ Buna göre aşağıdaki soruları cevaplayınız. 
+a)  Barkod hazırlama makinesinin yazılımı-
+nın kullandığı, tereyağının 700 gramlık 
+paket fiyatı girildiğinde 1 kilogramının 
+fiyatını veren algoritmanın işleyişini 
+algoritmik doğal dil, sözde kod ve akış 
+şemasıyla ifade ediniz.
+ 
+ 
+ 
+Algoritmik Doğal Dil
+Sözde Kod
+ 
+Akış Şeması
+b)         
+      
+  
+TEREYAĞI 700 gr
+ 280 TL
+      ...... TL / kg
+ Yukarıda verilen etiket üzerindeki değer-
+leri kullanarak algoritmayı test ediniz 
+ve etiket üzerinde boş bırakılan yeri 
+tamamlayınız.
+ 

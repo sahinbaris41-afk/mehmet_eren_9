@@ -1,0 +1,42 @@
+124
+2. Tema /  Nicelikler ve Değişimler
+7.	Uygulama
+Gerçek Sayılarda gx ax b= ! +_i  Şeklinde Tanımlı Mutlak Değer Fonksiyonlarının Cebirsel ve 
+Grafiksel Temsili
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız. 
+Türkiye Cumhuriyeti Sağlık Bakanlığının verilerine göre sağlıklı bir bireyin vücut sıcaklığı için ortalama değer 
+36,5 oC olup vücut sıcaklığı, 35,7 oC ile 37,5 oC arasında değerler alabilmektedir. 
+Aşağıdaki tabloda sağlıklı bir bireyin gün boyunca farklı zamanlarda ölçülen vücut sıcaklığı değerleri ve ölçülen 
+vücut sıcaklığı değerlerinin ortalamadan sapma miktarları verilmiştir.
+Ölçülen Vücut Sıcaklığı ( oC) Ölçülen Vücut Sıcaklığının Ortalama Sıcaklıktan Sapma Miktarı (oC)
+36,2 | 36,2 - 36,5 | = | -0,3 | = 0,3
+36,4 | 36,4 - 36,5 | = | -0,1 | = 0,1
+37 | 37 - 36,5 | = | 0,5 | = 0,5
+36,8 | 36,8 - 36,5 | = | 0,3 | = 0,3
+36,5 | 36,5 - 36,5 | = | 0 | = 0
+1. a) Ölçülen vücut sıcaklığına bağlı ortalamadan sapma miktarının bağımlı ve bağımsız değişkenlerini sözel  
+    olarak ifade ediniz. 
+b) Bağımlı ve bağımsız değişkenler hangi değerleri alabilir? Aralık şeklinde ifade ediniz. 
+ c) Sağlıklı bir bireyin vücut sıcaklığına bağlı (x) ortalamadan sapma miktarını ifade eden g fonksiyonunun  
+    cebirsel temsilini yazınız. 
+x
+y
+O
+g(x) = |x|
+Grafik 2.3: g fonksiyonunun grafik temsili
+x
+y
+O
+h(x) = −|x|
+Grafik 2.4: h fonksiyonunun grafik temsili
+Grafik 2.3 ve 2.4 incelendiğinde g ve h fonksiyonlarının parçalı gösterimli fonksiyonlar olduğu görülür. Buradan      
+g ve h fonksiyonları iki farklı cebirsel temsil kullanılarak aşağıdaki gibi ifade edilebilir.
+g(x) = 
+−x,
+x,
+x01
+x0$ h(x) = 
+x,
+−x,
+x01
+x0$

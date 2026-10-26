@@ -1,0 +1,47 @@
+172
+2. Aşağıda	verilen	işlem	basamaklarını	takip	ederek	boş	bırakılan	alana	uygun	çizimi	yapınız.
+		I .  dd12'  olacak şekilde iki doğru çiziniz.
+	II. Bu doğrulara dik olacak şek ilde d3 doğrusunu çiziniz.
+III. Add13+ = #-  ve Bdd23+ = #-  olacak şekilde A ve B noktalarını doğrular üzerine yerleştiriniz.
+3. Aşağıda	verilen	soruları	cevaplayınız.
+	I. Düzlemde bir d doğrusuna bu doğru üzerinde olmayan bir A noktasından kaç farklı paralel doğru 
+çizilebilir?
+II. Bir d doğrusu verilmiş olsun. Bu doğru üzerinde olmayan bir A noktasından doğruya paralel olma -
+yan iki farklı doğru çizildiğinde oluşan şekil hakkında ne söylenebilir? Fikirlerinizi arkadaşlarınızla 
+tartışınız.
+1. Aşağıdaki	tabloda 	harfler 	ile 	verilen 	geometrik 	şekilleri 	numaralandırılmış 	kavramlarla 	eşleş-
+tirerek	doğru	harfi	kavramın	altındaki	boşluğa	yazınız. 
+a) b) c) ç) d)
+e) f) g) ğ) h)
+1. Dar açı
+..........................
+2. Geniş açı
+..........................
+3. Dik açı 
+..........................
+4. Doğru açı
+..........................
+5. Tam açı
+..........................
+6. İkizkenar üçgen
+..........................
+7. Eşkenar üçgen
+..........................
+8. Dik üçgen 
+..........................
+A
+B
+B C
+A A
+B C
+A B
+C
+A B
+C
+A B CA B
+A
+B C
+A B
+A B
+C
+Ön Değerlendirme

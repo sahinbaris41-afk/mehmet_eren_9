@@ -1,0 +1,53 @@
+199
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+nı ve üretkenliklerini destekleyecek şekilde değerlendirilir (D3.3). Örneğin ortalama hız 
+tespitinin yapıldığı  otoyolda bir aracın hız -zaman fonksiyonunun grafiği modellenebilir . 
+Grafik temsilinden yararlanılarak aracın hareketi boyunca hız göstergesinin belirli bir de -
+ğeri kesin olarak gösterip göstermediği, seçilen zaman aralığında belirli bir hızı en az kaç 
+defa göstermiş olabileceği gibi sorulara yer verilir. Bu fikirden yararlanılarak otoyollarda 
+hız tespiti yapılır. Bu tür problemlerin en hızlı ve doğru şekilde çözülebilmesini içeren, iş 
+birliği ve grup içi çalışma gerektiren etkinlikler düzenlenebilir (SDB2.2) .
+Ayrıca cebirsel temsili verilen en fazla dördüncü dereceden polinom fonksiyonların grafik 
+temsilini elde etmek için fonksiyonun artan veya azalan olduğu aralıklar türev kullanılarak 
+belirlenir. Bu noktada çizilen grafik temsillerinin doğruluğu, öğrencilerin dijital araç ile iş gör-
+me becerilerini geliştirmek için matematik yazılımları ile kontrol edilir (OB2, MAB5). Öğrenci-
+lere aynı dik koordinat sisteminde çizilen iki fonksiyonun grafiğini incelemeyi içeren çalışma 
+kâğıdı verilebilir.
+MAT.12.4.9
+Türev bilgisini kullanmayı gerektiren (bir işletmenin maksimum kazancını hesaplama, geo -
+metrik cisimlerin yüzey alanları veya hacimlerindeki değişimi belirleme gibi) gerçek yaşam 
+durumları incelenirken türev fonksiyonu, artan -azalan aralık, eşitsizlik, maksimum -mini-
+mum nokta, maksimum -minimum değer, yerel ekstremum nokta gibi bileşenler belirlenir. 
+Bu bileşenler arasındaki ilişkiler belirlenerek gerçek yaşam durumlarının fonksiyon olarak 
+modellenmesi sağlanır. Optimizasyon problemlerinde fonksiyonun grafik temsili incelene -
+rek teğet-eğim ilişkisinden hareketle türev fonksiyonu elde edilir. Elde edilen türev fonksi -
+yonunun tablo temsiliyle hangi aralıkta hangi işareti aldığı belirlenir. Türevin geometrik yo -
+rumundan hareketle işaretler arası geçiş noktalarının, fonksiyonun maksimum ve minimum 
+noktalarını verdiği ifade edilir. Böylelikle maksimum -minimum problemlerinin çözümüne 
+ilişkin strateji geliştirilir. Çözüm stratejisini elde ettiği türev fonksiyonu ile birlikte kullanarak 
+öğrencilerin maksimum-minimum probleminin çözümüne ulaşmaları sağlanır. Küre şeklin -
+deki bir cismin ısıtılması sonucunda yarıçapındaki değişime bağlı olarak hacminde veya yüzey 
+alanındaki değişimin belirlenmesi gibi değişimlerin incelendiği problemlerde verilen ve iste-
+nen değişim oranları/hızları veya türev fonksiyonları belirlenir. Türev kavramı bilgisi ve türe-
+vin özelliklerinden yararlanılarak istenen değişim oranı/hızı veya türev fonksiyonunun bu -
+lunması sağlanır. Maksimum-minimum değer hesaplama, değişim oranı/hızı belirleme gibi 
+gerçek yaşam problemleri mümkün olduğunca geniş bir çerçevede ele alınır. Bu bağlamda 
+üretim-tüketim, kâr-zarar, alan/hacim, alandaki/hacimdeki değişim hızı hesabı gibi  prob -
+lemler incelenir (OB3). Örneğin belirli bir hacme sahip dikdörtgenler prizması şeklinde bir 
+kolinin mümkün olabilecek en küçük yüzey alanı hesaplanabilir. Böylelikle ambalaj kullanı -
+mı konusunda öğrencilerin daha duyarlı olmaları sağlanır ve öğrencilerde çevreyi koruma 
+bilinci geliştirilir (D5.2). Bir ürünün fiyatındaki artış ile o ürünü satın almak isteyen müşteri 
+sayısındaki ilişki incelenerek  bir gelir fonksiyonu modellenebilir. Gelir fonksiyonunda mak -
+simum gelirin elde edilmesini sağlayan fiyat düzenlemesi türev yardımıyla belirlenir (OB3). 
+Mühendislikte, köy yollarının otoyola bağlanmasında en kısa sürede ve en hızlı şekilde ulaşı-
+mın sağlanabilmesi için bir kente varış süresi fonksiyonlarla modellenebilir. Bu sayede yolun 
+nereden geçmesi gerektiği türev yardımı ile bulunur ve toplumsal bir menfaate veya liyakate 
+vurgu yapılır (D1.2, D16.2).
+Ayrıca belirli bir çevre uzunluğuna sahip dikdörtgen şeklindeki evinin bahçesinde sebze 
+yetiştirmek isteyen birinin bahçesinin alanının en fazla kaç m2 olabileceği ve buna göre bu 
+bahçeye belirli sıra ve aralıklarla en fazla ne kadar sebze ekilebileceği, belirli bir hacme sahip 
+silindir biçimdeki kabın en küçük yüzey alanına sahip olabilmesi için yarıçapının uzunluğunun 
+kaç olacağı  gibi gerçek yaşam durumları incelenir (OB3, D17.3). Öğrencilere gerçek yaşam 
+problemlerinde matematiksel modelleme yapabilme becerilerini geliştirmelerine katkı sağ-
+layacak yerel ve mutlak ekstremum değerlerini hesaplamayı gerektiren performans görevi 
+verilebilir.

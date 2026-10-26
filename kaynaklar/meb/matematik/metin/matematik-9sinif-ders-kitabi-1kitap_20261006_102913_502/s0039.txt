@@ -1,0 +1,36 @@
+39
+1. Tema /  Sayılar
+• Doğal sayılar, tam sayılar, çift tam sayılar, 3’ün katı olan doğal sayılar, rasyonel sayılar gibi sayı kümeleri 
+ortak özellik veya listeleme yöntemi ile gösterilebilir.
+• Sayı kümelerini oluşturan her bir sayıya o kümenin elemanı denir.
+• Kümeler A, B, C gibi büyük harflerle ifade edilir. Listeleme yönteminde kümenin elemanları küme pa-
+rantezi içinde ve aralarına virgül konarak verilir. A kümesinin elemanları Ax ,x ,x , ... ,x123n= #-  biçimin-
+de gösterilir.
+• Ortak özellik yönteminde kümenin elemanlarının taşıdığı şartlar veya ortak özellikler belirtilerek küme 
+gösterilir. A kümesinin elemanları, Ax xi ns ahip olduğut anımlayıcı özellikler= ;#-  biçiminde gösterilir.  
+“A kümesi, x elemanlarından oluşmaktadır öyle ki x in sahip olduğu tanımlayıcı özellikler” biçiminde 
+okunur.
+• Küme kavramına ilişkin semboller, işlemler ve anlamları tablodaki gibidir.
+ 
+Sembol Anlamı Sembol Anlamı
+, birleşim ! elemanıdır
++ kesişim g elemanı değildir
+= fark 3 alt küme
+Al A kümesinin tümleyeni sA_i A kümesinin eleman sayısı
+Q boş küme Ax ,x ,x , ... ,x123n= #- A kümesinin elemanlarının listeleme yöntemiyle gösterimi
+Kontrol Noktası
+11.	Uygulama
+Sayı Kümelerinin Gösterimi
+Tablodaki bilgileri inceleyerek aşağıdaki soruları cevaplayınız. 
+1. Aşağıdaki tabloda bazı sayı kümeleri ortak özellik ve listeleme yöntemi ile gösterilmiştir. Tabloda boş bırakılan 
+yerleri uygun şekilde doldurunuz.
+ 
+Sayı Kümeleri Listeleme Yöntemi Ortak Özellik Yöntemi
+Doğal Sayılar Kümesi xx 0, xNZ ;$ != #-
+Tam Sayılar Kümesi ... ,3 ,2 ,1 ,0 ,1 ,2 ,3 , ...Z ---= #-
+3’ün Katı Olan Doğal 
+Sayılar Kümesi Kx x 3k, k N;!==#-
+Tek Rakamlar Kümesi Tx x2 k1 ,0 k4 ,k Z=+;# #!= #-
+10’dan Küçük Asal 
+Sayılar Kümesi A2 ,3 ,5 ,7= #-
+Çift Tam Sayılar Kümesi Çx x 2k, k Z;!==#-

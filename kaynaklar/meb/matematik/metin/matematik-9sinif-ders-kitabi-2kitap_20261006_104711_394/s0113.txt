@@ -1,0 +1,75 @@
+113
+5. Tema/Algoritma ve Bilişim  
+Her	programlama	dilinin	kendine	özgü	bir	söz	dizimi	vardır.	Programcılar,	söz	dizimleri	yardımıyla	algorit-
+maları	kod	hâline	getir ir.	Böylece	bilgisayarlar	istenen	görevleri	yerine	getir ebilir.	Söz	dizimi,	programlama	
+dilinin	kurallarını	ve	yapılarını	içerir.	Doğru	kullanılmadığında	program	hatalı	çalışır	veya	hiç	çalışmaz.
+6. ÖRNEK
+Sözde Kod
+Girdi:	ilk	nöbet	günü,	nöbet	aralığı,	hedef	nöbet
+Çıktı:		hedef	nöbet	günü
+Başla
+	 günler 	!	(‟pazartesi",	"salı",	"çarşamba",	"perşembe",	
+"cuma",	"cumartesi",	"pazar")
+				 ilk 	nöbet	indeksi	!	[günler]	in	indeksini	bul	(ilk	nöbet	günü)
+				 toplam 	gün	!	(hedef	nöbet	-	1)	*	(nöbet	aralığı)
+				 hedef 	gün	indeksi	!	(ilk	nöbet	indeks	+	toplam	gün)	%	7
+				 hedef 	gün	!	günler	(hedef	gün	indeks)
+				 Yazdır 	"[hedef	nöbet].	nöbet,	[ilk	nöbet	günü]	gününden	 
+[toplam	gün]	gün	sonra,	[hedef	gün]	günü	tutulur."
+Bitir
+Bir	doktor,	çalıştığı	hastanede	
+yapılan	nöbet	listesindeki	plan-
+lamaya	göre	3	günde	bir	nöbet	
+tutacaktır.	İlk	nöbetini	salı	günü	
+tutacak	olan	doktorun	9.	nöbe-
+tinin	hangi	güne	denk	geleceği-
+ni	 bulan	 algoritmanın	 işleyişi	
+sözde	kodla	yanda	verilmiştir.	
+Buna	 göre	 yanda	 verilen	 al-
+goritmanın	işleyişini	algoritmik	
+doğal	dille	ifade	ediniz	ve	9.	
+nöbetin	hangi	güne	denk	gele-
+ceğini	bulunuz.	
+Çözüm
+Algoritmik Doğal Dil
+1. adım:	Başla.
+2. adım: Girdilerin alınması
+	 	 İlk 	nöbet	günü	belirlenir.
+	 	 Nöbet 	aralığı	belirlenir.
+	 	 Hedef 	nöbet	belirlenir.
+3. adım: Toplam günün hesaplanması
+	 	 Hedef 	nöbet	için	toplam	geçen	gün	sayısını	hesapla.
+	 	 Toplam 	gün:	(hedef	nöbet	-1)	.	(nöbet	aralığı)
+4. adım: İlk nöbet gününün indeksinin bulunması
+	 	 Günler 	listesi:	{pazartesi,	salı,	çarşamba,	perşembe,	
+cuma,	cumartesi,	pazar}	olsun.
+	 	 İlk 	nöbet,	günler	listesinde	bulunur	ve	ilk	nöbetin	baş-
+tan	kaçıncı	eleman	olduğu	(indeksi)	belirlenir.
+5. adım: Hedef günün indeksinin ve hedef günün bulunması
+	 	 Hedef 	gün	indeksi,	(ilk	nöbet	indeksi	+	toplam	gün)	
+ifadesinin	7	ile	bölümünden	kalana	eşittir.
+	 	 Günler 	 listesinden	 hedef	 gün	 indeksi	 yardımıyla	 
+hedef	günü	belirle	ve	yazdır.
+6. adım: Sonucun yazdırılması 
+	 	 Hedef 	nöbet	ilk	nöbet	gününden	toplam	gün	sonra,	
+hedef	günde	tutulur.	
+7. adım:	Bitir.
+Algoritmanın Çalışması
+İlk	nöbet	günü:	Salı
+Nöbet	aralığı:	3
+Hedef	nöbet:	9
+Toplam	gün	 91 38 32 4$$-= =_i  
+bulunur.
+İlk	nöbet	günü	olan	salı,	listenin	sol	
+baştan	ikinci	günü	olduğu	için	ilk	nöbet	
+indeksi	2	olur.
+(ilk	nöbet	indeksi	+	toplam	gün):	
+22 42 6+= 	olur.	26	sayısının	7	ile	bö-
+lümünden	kalan,	26 73 5$=+ 	ifadesin-
+den	hareketle	5	bulunur.	Bu	du rumda	
+hedef	gün	indeksi	5	olur.	Günler	listesi-
+nin	sol	baştan	5.	elemanı	cumadır.
+9.	nöbet	salı	gününden	24	gün	sonra,	
+cuma	günü	tutulur.
+Programlama dili,	bilgisayarların	anlayabileceği	ve	işleyebileceği	talimat lar	dizisini	oluşt urmak	için	
+kullanılan	formel	bir	dildir.	

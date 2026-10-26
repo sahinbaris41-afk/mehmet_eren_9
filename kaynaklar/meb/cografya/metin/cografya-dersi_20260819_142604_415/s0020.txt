@@ -1,0 +1,47 @@
+20
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ COĞ.9.2.1. Harita uygulamaları yapabilme 
+a) Haritaya ait bileşenlerden yararlanarak haritaları okur.
+b) Haritaya ait bileşenlerden yararlanarak haritadaki olay, olgu ve mekânlar arası 
+ilişkileri çözümler.
+c) Haritada yer alan olay, olgu veya mekânların özellik, konum, dağılış ve ilişkileri ile 
+değişim ve/veya harita türüne ilişkin çıkarım yapar. 
+ç) Harita yapım aşamalarını kullanarak harita oluşturur.
+COĞ.9.2.2. Türkiye’nin konum özelliklerini algılayabilme
+a) Türkiye’nin konum özelliklerini belirler.
+b) Türkiye’nin konum özelliklerini görselleştirir.
+c) Türkiye’nin konum özelliklerini özetler.
+COĞ.9.2.3. Mekânsal bilgi teknolojilerini oluşturan bileşenleri çözümleyebilme
+a) Mekânsal bilgi teknolojilerini oluşturan bileşenleri belirler.
+b) Mekânsal bilgi teknolojilerini oluşturan bileşenler arasındaki ilişkileri belirler.
+İÇERİK ÇERÇEVESİ Mekânın Aynası Haritalar
+Türkiye’nin Coğrafi Konumu
+Mekânsal Bilgi Teknolojilerinin Bileşenleri
+Anahtar Kavramlar coğrafi bilgi sistemleri (CBS), göreceli konum, harita, izohips, jeopolitik, koordinat siste-
+mi, mekân, mekânsal bilgi teknolojileri, mekânsal veri, mutlak konum, ölçek, projeksiyon, 
+saat dilimleri, ulusal saat, uzaktan algılama, yerel saat     
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; kontrol listesi, çalışma yaprağı, anlam çözümleme tablosu, performans 
+görevi, analitik dereceli puanlama anahtarı, öz değerlendirme formu ve grup değerlendir-
+me formu kullanılarak değerlendirilebilir.
+Performans görevi olarak öğrencilerden belirli bir konu içeriğine sahip harita oluşturmala-
+rı istenebilir. Performans görevi; amaç belirleme, araç gereç seçme ve kullanma, veri top-
+lama, toplanan verileri seçme ve işleme, sembol belirleme, harita bileşenlerini oluşturma 
+ölçütlerine göre değerlendirilebilir. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin coğrafi koordinat sistemi (paralel ve meridyen), haritaya ait temel unsurlar 
+ve bu unsurların kullanımı, bazı tematik harita türleri ve mekânsal bilgi teknolojileriyle ilgili 
+(dijital küre, uydu, dijital harita vb.) temel bilgilere sahip olduğu kabul edilmektedir.
+Ön Değerlendirme Süreci Günlük hayatta haritalara hangi alanlarda ve ne kadar ihtiyaç duyulduğu ile ilgili bir liste 
+oluşturulabilir. Bu ihtiyaçların hangilerinin dijital teknolojiyle karşılandığına ilişkin görüşler 
+toplanabilir. Tematik haritalar üzerinde öğrencilere haritanın temel unsurları, paralel ve 
+meridyenden oluşan koordinat sistemi vb. konulara yönelik uygulamalar yaptırılarak onla-
+rın harita becerisiyle ilgili ön bilgileri belirlenebilir.
+Köprü Kurma “Cep telefonu, bilgisayar veya tabletlerde haritalarla ilgili ne tür uygulamalar bulunmak -
+tadır?” sorusu yöneltilen öğrencilerden bu uygulamaların hangi amaçlarla kullanıldığına 
+ilişkin görüş belirtmeleri istenebilir.   

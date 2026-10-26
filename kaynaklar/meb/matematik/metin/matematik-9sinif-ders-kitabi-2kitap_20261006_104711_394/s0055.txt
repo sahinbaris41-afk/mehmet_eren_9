@@ -1,0 +1,27 @@
+55
+4. Tema / Eşlik ve Benzerlik
+Paralel Çizme
+Aşağıdaki ABC üçgeninin kenarları üzerindeki iki noktayı üçgenin herhangi bir kenarına paralel olacak şekilde 
+birleştiriniz. Oluşturduğunuz üçgenle ABC üçgeni arasındaki ilişkiyi inceleyerek aşağıda verilen soruları cevap -
+layınız.
+A
+B
+C
+1. Oluşan üçgen ile ABC üçgeninin benzer olup olmadığını belirleyiniz. 
+2. Oluşan üçgen ile ABC üçgeni benzer ise bu benzerliğin hangi benzerlik koşuluna dayandığını açıklayınız.
+3. Bir önceki soruda elde ettiğin iz sonucun çizilen tüm paralel doğrular için geçerli olup olmadığını açıklayınız.
+4. Bir DEF üçgeni çiziniz. KD E! 7A , LD F! 7 A  ve KL EF'77 AA  olacak şekilde bir DKL üçgeni oluşturunuz. 
+DKL üçgeni ile DEF üçgeninin benzerlik ilişkisinden hareketle bu üçgenlerin kenarları arasındaki orantıyı 
+ifade ediniz.
+9. Uygulama
+11. Sıra Sizde      
+Yandaki ABC üçgeninde DA B! 7A , FA C! 7 A , BD AD2 = , 
+FC AF ,2 =  DE 5=  birim ve FE 8=  birim olduğuna göre 
+BC  nun alabileceği en büyük ve en küçük tam sayı değer-
+leri toplamının kaç birim olduğunu bulunuz. 
+A
+E
+D F
+B
+5 8
+C

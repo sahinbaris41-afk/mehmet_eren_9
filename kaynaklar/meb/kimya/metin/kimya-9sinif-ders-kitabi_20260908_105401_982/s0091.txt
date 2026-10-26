@@ -1,0 +1,35 @@
+91
+1. Tema Ölçme ve Değerlendirme Soruları
+ Aşağıdaki önermelerden hangisi diyagramdan elde edilemez?7.
+A) 2p atom orbitallerinin enerjisi 2s atom orbitallerinin enerjisinden büyüktür.
+B) Bir atomda enerji seviyesi arttıkça atom orbitallerinin enerjisi artar.
+C) 3p orbitallerinin enerjisi 3s orbitallerinin enerjisinden büyüktür.
+D) A ynı periyottaki atomlarda elektron sayısı arttıkça valans elektronlarının bulunduğu orbitallerin 
+enerjisi düşer.
+E) Atom orbitallerinin enerjileri birbirinden farklıdır .
+7-9. soruları aşağıdaki grafiklere göre cevaplayınız.
+Aşağıda atom orbitallerinin bağıl enerji diyagramı verilmiştir.
+Aşağıdaki orbital geçişlerini, elektronun enerji alması veya enerji vermesi durumuna göre 
+işaretleyiniz.
+8.
+Orbital bağıl enerji diyagramından yararlanarak elektronların orbitallere yerleşme sırasını 
+yazınız.
+9.
+Bağıl Enerji
+5s
+4s
+2s
+3s
+1s
+3p 3p 3p
+4p 4p 4p
+2p 2p 2p
+4d 4d 4d 4d 4d
+3d 3d 3d 3d 3d
+Orbital Geçişi Enerji Alır Enerji Verir
+  I. 2s  3p
+ II. 3p  3s
+III. 4s  3d
+IV. 3d  4s
+ V. 2p  3s
+VI. 3s  2p

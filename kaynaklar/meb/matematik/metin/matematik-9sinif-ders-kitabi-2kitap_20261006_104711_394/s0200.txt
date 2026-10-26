@@ -1,0 +1,35 @@
+200
+ ► Bu temada sizden
+ ● olayların olasılığını gözleme dayalı tahmin edebilmeniz,
+ ● olayların olasılığına ilişkin tümevarımsal akıl yürütebilmeniz
+beklenmektedir.
+7.  7.  
+TEMATEMA
+ ► Anahtar Kavramlar
+ ● ayrık olay
+ ● ayrık olmayan olay
+ ● çıktı
+ ● deney
+ ● deneysel olasılık
+ ● olay
+ ● örnek uzay
+ ● teorik olasılık
+ ► Sembol ve Gösterimler
+ ● PA_i
+ ● PB_ i
+ ● BPA +_i
+ ● BPA ,_i
+7.1. Deneysel Olasılık
+7.2. Teorik Olasılık
+Veriden Veriden 
+OlasılığaOlasılığa
+Tema boyunca 
+sizden çalışma 
+kâğıtlarındaki 
+soruları çözmeniz, 
+performans 
+görevlerini yerine 
+getirmeniz, ölçme 
+ve değerlendirme 
+sorularını çözmeniz 
+beklenmektedir.

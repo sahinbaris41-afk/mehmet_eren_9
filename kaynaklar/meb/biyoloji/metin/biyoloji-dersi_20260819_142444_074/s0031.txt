@@ -1,0 +1,51 @@
+31
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+BİY.10.1.9. Fermantasyon ile ilgili deney yapabilme 
+a) Fermantasyon ile ilgili deney tasarlar.
+b) Tasarladığı deneyden elde ettiği sonuçların analizini yapar ve bu sonuçları 
+fermantasyonu açıklamak için kullanır.
+BİY.10.1.10. Besinlerden elde edilen enerjinin canlının metabolik süreçlerine katkısı ile 
+ilgili bilimsel çıkarım yapabilme 
+a) Besinlerden elde edilen enerjinin özelliklerini tanımlar.
+b) Besinlerden elde edilen enerjinin canlının metabolik süreçlerine katkısı ile ilgili 
+bilgileri/verileri toplar ve kaydeder.
+c) Besinlerden elde edilen enerjinin canlının metabolik süreçlerine katkısı ile ilgili 
+topladığı bilgileri/verileri yorumlar ve değerlendirir.
+İÇERİK ÇERÇEVESİ Güneşten Besinlere
+Canlılık İçin Enerjinin Önemi (ATP’nin Yapısı ve Enerji Aktarımında ATP’nin Rolü), Işık Enerjisi 
+Kullanılarak Besin Sentezi: Fotosentez (Işığın Kullanıldığı Tepkimeler, Işığın Kullanılmadığı 
+Tepkimeler, Fotosentez Hızına Etki Eden Çevresel Faktörler), Işık Enerjisi Kullanılmadan 
+Besin Sentezi: Kemosentez
+Besinlerden Enerjiye
+Sindirim (Hücre İçi Sindirim ve Hücre Dışı Sindirim), Canlılarda Sindirim Yapıları, İnsanda 
+Sindirim, Emilim ve Taşınma, Hücresel Solunum (Glikoliz, Sitrik Asit Döngüsü, Elektron 
+Taşıma Sistemi), Besinlerin Solunuma Katılma Yolları, Fermantasyon (Laktik Asit 
+Fermantasyonu, Etil Alkol Fermantasyonu), Enerji-Metabolizma İlişkisi
+Anahtar Kavramlar ışık enerjisi, kimyasal enerji, pigment, fotoliz, Calvin döngüsü, sindirim, sindirim sistemi, 
+emilim, hücresel solunum, fermantasyon, elektron taşıma sistemi, ATP sentezi
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; deney yapma, model oluşturma, broşür, performans görevi, öğrenme 
+günlüğü, yapılandırılmış grid, sunum, araştırma raporu, bilgi görseli kullanılarak puanlama 
+anahtarı, analitik ve bütüncül dereceli puanlama anahtarı ve öz değerlendirme ile 
+değerlendirilebilir.
+Öğrencilere fotosentez reaksiyonları hakkında bilimsel model oluşturmaya yönelik 
+performans görevi verilebilir. Öğrencilerden oluşturacakları modeli sunmaları istenebilir. 
+Performans görevi, bütüncül dereceli puanlama anahtarı ile puanlanabilir. 
+Öğrencilere fotosentezde kullanılan, üretilen maddeler ve fermantasyonla ilgili deneyler 
+yaparak deney sürecini ve sonucunu raporlaştıracakları performans görevi verilebilir. 
+Öğrencilerin deney süreci ve sonucuna ilişkin hazırlayacakları raporlar, analitik dereceli 
+puanlama anahtarı ile puanlanabilir. Analitik dereceli puanlama anahtarında “deneyde 
+olası hatalar için alınacak önlemler, deney süreci ve sonucu” gibi ölçütlere yer verilebilir. 
+Öğrencinin kendini deney süreci bakımından değerlendirmesi için öz değerlendirme formu 
+kullanılabilir.
+Öğrencilere insanda enerji eldesi için sindirim, emilim ve taşıma süreçlerine ilişkin 
+varsayımda ve önermede bulunabileceği, örüntü oluşturarak karşılaştırma ve 
+değerlendirme yapabileceği broşür oluşturmaya yönelik performans görevi verilebilir. 
+Oluşturulacak broşür, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. 
+Öğrencilere hücresel solunum reaksiyonlarının işleyişine ilişkin model oluşturup bu modeli 
+poster veya üç boyutlu model olarak sunmaya yönelik performans görevi verilebilir. 
+Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı ve 
+öğrencinin kendisini değerlendirmesi için öz değerlendirme formu kullanılabilir.

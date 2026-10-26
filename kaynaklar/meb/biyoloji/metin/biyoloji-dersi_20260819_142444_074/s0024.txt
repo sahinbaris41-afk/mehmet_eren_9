@@ -1,0 +1,42 @@
+24
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ BİY.9.2.1. Hücre alt birimlerini ve bu birimlerin işlevleri arasındaki ilişkileri çözümleyebilme 
+a) Hücre alt birimlerini ve bu birimlerin görevlerini belirler.
+b) Hücre alt birimlerini ve bunlar arasındaki bütüncül ilişkileri belirler.
+BİY.9.2.2. Hücre zarından madde geçişlerini sınıflandırabilme 
+a) Hücre zarından madde geçişlerine ilişkin nitelikleri belirler.
+b) Hücre zarından madde geçişlerini niteliklerine göre ayrıştırır.
+c) Hücre zarından madde geçişlerini gruplandırır.
+ç) Gruplandırdığı madde geçiş yöntemlerini adlandırır/etiketler.
+BİY.9.2.3. Küçük moleküllerin hücre zarından pasif geçişi ile ilgili deney yapabilme 
+a) Difüzyon ve ozmoz olaylarına ilişkin deney tasarlar.
+b) Difüzyon ve ozmozun günlük hayattaki etkilerini açıklamak için tasarladığı 
+deneyde ölçme ve veri analizi yapar.
+BİY.9.2.4. Canlıları sınıflandırabilme 
+a) Canlıları sınıflandırmak için kullanacağı nitelikleri belirler.
+b) Belirlediği/tanımladığı niteliklere göre canlıları ayrıştırır.
+c) Ayrıştırdığı canlıları belirli bir başlık altında gruplandırır.
+ç) Modern sınıflandırmaya göre gruplandırdığı canlılara ilişkin adlandırmalarını 
+bilimdeki karşılığıyla etiketler.
+BİY.9.2.5. Üç üst âlem (domain) sisteminde yer alan canlıların özellikleri ile ilgili çıkarım 
+yapabilme
+a) Üç üst âlem (domain) sisteminde yer alan canlıların özellikleri ile ilgili bilgilerinden 
+hareketle varsayımda bulunur. 
+b) Üç üst âlem (domain) sisteminde yer alan canlıların  özellikleri ile ilgili örüntüleri 
+listeler.
+c) Üç üst âlem (domain) sisteminde yer alan canlıların  özellikleri ile ilgili karşılaştırma 
+yapar.
+ç) Üç üst âlem (domain) sisteminde yer alan canlıların özelliklerine ilişkin önerme 
+sunar.
+d) Üç üst âlem (domain) sisteminde yer alan canlıların özelliklerine ilişkin 
+değerlendirme yapar.
+BİY.9.2.6. Biyoçeşitliliği oluşturan unsurlarla ilgili bilimsel çıkarım yapabilme
+a) Biyoçeşitliliği oluşturan unsurların niteliklerini tanımlar.
+b) Türkiyenin biyolojik çeşitliliği ile ilgili  veri toplar ve kaydeder. 
+c) Türkiyenin biyoçeşitliliği ile ilgili topladığı verileri biyoçeşitliliği oluşturan unsurlarla 
+ilişkilendirerek yorumlar ve değerlendirir.
+İÇERİK ÇERÇEVESİ Hücrenin Organizasyonu
+Prokaryot ve Ökaryot Hücre, Hücre Zarı, Sitoplazma, Sitoplazmik Yapılar, Organeller ve 
+Çekirdek, Hücre Zarından Madde Geçişleri (Pasif Taşıma, Basit Difüzyon, Kolaylaştırılmış 
+Difüzyon, Ozmoz, Aktif Taşıma, Endositoz, Ekzositoz)

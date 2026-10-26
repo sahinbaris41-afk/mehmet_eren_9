@@ -1,0 +1,24 @@
+60
+MATEMATİK 9 
+3. TEMA: GEOMETRİK ŞEKİLLER
+1. Adım
+3. Adım
+2. Adım
+A4 kâğıdının ortasına kesme çalışmasını rahat yapabileceğiniz ölçülerde, şekil 1'deki gibi kenar uzun -
+lukları birbirinden farklı olan bir üçgen çiziniz.
+ABC üçgeninde boyayarak  belirlediğiniz dış açıları bir makas yardımı ile kesiniz. Kesmiş olduğunuz  dış 
+açıları Şekil 3’teki gibi birleştiriniz.
+Çizmiş olduğunuz kenar uzunlukları farklı olan üçgenin her köşesine pergelin sivri ucunu yerleştiriniz 
+ve pergeli belirlemiş olduğunuz bir uzunlukta açarak birer dış açı çiziniz. Bu dış açıları Şekil 2’deki gibi 
+boyayınız.
+Etkinlik Aşaması
+A
+B
+A
+BC
+C
+Şekil 1
+Şekil 3
+Şekil 2
+Bu etkinlikte üçgenin dış açılarının ölçüleri toplamına yönelik bir doğrulama çalışması yer almaktadır. 
+Adımları sırasıyla uygulayınız.

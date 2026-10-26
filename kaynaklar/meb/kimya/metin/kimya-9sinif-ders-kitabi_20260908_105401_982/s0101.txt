@@ -1,0 +1,104 @@
+101
+1. Tema Ölçme ve Değerlendirme Soruları
+Tabloya göre iyon oluşumuna yönelik oluşturulan aşağıdaki ifadeler doğru ise “Doğru”, 
+yanlış ise “Yanlış” seçeneğini işaretleyiniz.
+32.
+Aşağıdaki reaksiyonlarda ve kutularda bulunan boşlukları örnekteki gibi doldurunuz. Her 
+reaksiyonun altına taneciklerdeki değişimi ifade eden en az bir tane genelleme yazınız. 
+33.
+a) X ve Y atomlarının iyon oluşum sürecinde elektron sayısı artmıştır.
+b) Z ve T atomlarının iyon oluşum sürecinde elektron sayısı azalmıştır.
+c) X ve Y atomları iyon oluşum sürecinde en yüksek enerji düzeyi orbital-
+lerindeki elektronları vermiştir.
+ç) Z ve T atomları iyon oluşum sürecinde en yüksek enerji düzeyindeki 
+orbitallere elektron almıştır.
+d) X
++
+, Y
+2+
+, Z
+−
+ ve T
+3−
+ iyonlarının elektron dizilimi soy gaz atomlarının elekt-
+ron dizlimine benzemiştir.
+e) X ve Y atomları elektron verdiği için pozitif (+) yük ile yüklenmiştir.
+f) Z ve T atomları elektron aldığı için negatif (−) yük ile yüklenmiştir.
+g) X
++
+, Y
+2+
+, Z
+−
+ ve T
+3−
+ iyonlarının her birinin proton ve elektron sayısı arasın-
+daki fark ile iyon yükü eşit değere sahiptir.
+Doğru Yanlış
+X e
+−X+ +
+1s
+2
+ 2s
+1
+1s
+2
+x
+7
+4
+3
++
+Bir atom katyon oluşturduğunda elektron sayısı azalır.
+e
+−
++
+1s
+2
+ 2s
+2
+2p
+6
+3s
+2
+1s
+2
+ 2s
+2
+2p
+6
+e
+−
++
+1s
+2
+ 2s
+2
+2p
+6
+3s
+2
+3p
+5
+1s
+2
+ 2s
+2
+2p
+6
+3s
+2
+3p
+6
++ e−
+1s
+2
+ 2s
+2
+2p
+3
+1s
+2
+ 2s
+2
+2p
+6

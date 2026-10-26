@@ -1,0 +1,62 @@
+167
+6. Tema / İstatistiksel Araştırma Süreci
+Evren ve örneklem belirlenmelidir.
+Evren ve evreni yansıtacak örneklemin belirlenmesi, veri toplama planında 
+dikkat edilmesi gereken bir durumdur.
+Bir ilçedeki öğrencilerin boylarının araştırıldığı bir çalışmada ilçedeki tüm 
+öğrenciler evreni oluşturur. Bu çalışmada zaman, maliyet, iş gücü gibi 
+nedenlerden dolayı evrenin tamamına ulaşmak zor olacağından ilçedeki 
+öğrenciler arasından belli ölçütlere göre belirlenen öğrenciler örneklemi 
+oluşturur. Örneklem belirlenerek ilçedeki tüm öğrencilerin boylarının nasıl 
+bir eğilim gösterdiğini görebilmek için örneklemin örneklem belirleme 
+ölçütlerine göre seçilmesi önemlidir.
+2
+Rastgelelik sağlanmalıdır.
+Bir evrenden örneklem seçerken evrendeki her elemanın seçilme olasılığının 
+eşit olmasını sağlamak önemlidir. Bu şekilde oluşturulmuş örneklemin 
+evreni temsil etme gücü daha yüksektir.
+3
+Verilerin hangi araçlarla, ne şekilde kayıt altına alınacağı belirlenmelidir.
+Verilerin nasıl kaydedileceği belirlenmelidir.
+6
+Verilerin gizliliğine dikkat edilmeli, dürüst ve nesnel olunmalıdır.
+Veri toplama aşamasında kişisel verilerin korunmasına dikkat edilmeli, 
+kişilerin haklarını ihlal edecek veriler toplanmamalıdır. İnsanların ve diğer 
+canlıların sağlığını tehlikeye sokacak çalışmalar yapılmamalıdır. Araştırma 
+için gerekliyse ilgili makamlardan resmî izin alınmalıdır. Ayrıca araştırmaya 
+katılacak reşit olmayan katılımcının yasal vasisinden onay alınmalıdır.  
+Araştırmacı veriler üzerinde oynama yapmamalı ve beklentisi doğrultusunda 
+verileri değiştirmemelidir.
+7
+İstatistiksel bir araştırmada araştırılmak istenen değişkeni etkileyecek farklı 
+değişkenlerin neler olduğunu belirlemek gerekir. Genellikle deney yoluyla veri 
+toplanan çalışmalarda bu duruma dikkat edilir.
+Değişkenler belirlenmelidir.
+4
+Verilerin nerede, hangi zaman diliminde, ne kadar sürede, kimler tarafından ve 
+ne şekilde (yüz yüze, çevrim içi) toplanacağı belirlenmelidir. 
+Verilerin nerede, ne zaman, nasıl ve kimler tarafından toplanacağı 
+belirlenmelidir.
+5
+İstatistiksel araştırma sürecinde istatistiksel araştırma soruları oluşturulduk-
+tan sonra araştırmacıların araştırma sorularını cevaplamaya yönelik veri 
+toplama araçlarını belirlemesi gerekmektedir. Bu doğrultuda araştırmacılar, 
+birincil verilerle çalışacaksa araştırma soruları doğrultusunda anket oluştura-
+bilir veya görüşmeler yapabilir. Ayrıca başka araştırmacılar tarafından 
+geliştirilen anket, ölçek veya görüşme formlarını kullanabilir. İkincil 
+verilerle çalışılacaksa başka araştırmacılar tarafından elde edilen veri 
+setlerine ulaşabilir.
+Araştırma sorularına cevap bulmayı sağlayacak veri toplama araçları 
+belirlenmelidir.
+1
+Örneklem
+Evren içinden belirlenen 
+ve evreni temsil etmesi 
+için verilerin toplandığı 
+kümedir.
+Rastgelelik 
+Bir evrenden eleman 
+seçimi yapılırken her 
+elemanın eşit olasılıkla 
+seçilmesi durumudur.
+Bilgi Görseli 6.2: Veri toplama planında bulunması gereken özellikler

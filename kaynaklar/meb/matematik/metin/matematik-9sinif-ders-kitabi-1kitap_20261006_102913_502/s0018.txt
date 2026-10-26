@@ -1,0 +1,121 @@
+18
+1. Tema /  Sayılar
+5.  Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini yazınız.
+ Y eryüzündeki kumsallarda yaklaşık 4  . 1021 kum tanesi olduğu düşünülmektedir. Arşimet, yaptığı bir çalışmada 
+bütün evreni doldurmak için gereken kum tanesi sayısını yaklaşık olarak hesaplamıştır. Arşimet’in bulduğu 
+sayı, yeryüzündeki kumsallarda bulunan kum tanesi sayısının 2 . 1042 katıdır.
+ Buna göre tüm evreni doldurmak için gereken kum tanesi sayısı n asıl hesaplanabilir?
+6.  a ve b nin pozitif tam sayı olduğu durumlar için oluşturduğunuz önermelerin doğrulama adımlarının bir kısmı  
+aşağıda verilmiştir. 
+a) 
+e e e
+xx xx... xx x ... xx x ... xxab ab
+........
+$$ $$ $$ $$ $$ $== = +
+at an bt an tan
+__
+_
+ii
+i
+12 344444444 4444441 2344444444 444444 12 34444444 44444
+b) çab ii n2   
+b
+....
+e....
+e
+e
+-
+tan
+x
+x
+xx... x
+xx... x
+xx... x .....b
+a
+$$ $
+$$ $
+$$ $== =
+ab- tan
+tan
+a_
+_
+_
+i
+i
+i
+67 844444444 444444
+12 344444444 444444
+12 34444444 44444
+    ab ii n ç1   b
+....
+e....
+e e
+-
+tan
+x
+x
+xx... x
+xx... x
+xx ... x
+1 .....1ba
+......
+ba
+ba
+$$ $
+$$ $
+$$ $
+== == -
+-tan tan
+a_
+__
+_
+i
+ii
+i
+67 844444444 444444
+12 344444444 4444441 234444444 4444444
+ Boşlukları uygun şekilde doldurup önermenizi matematiksel olarak doğrulayınız. 
+ a ve b nin negatif tam sayı olduğu durumlar için oluşturduğunuz önermeleri matematiksel olarak doğrulayınız. 
+ Doğrulama yöntemlerinizi sınıf arkadaşlarınızın kullandığı yöntemlerle karşılaştırarak kullanışlılık açısından 
+değerlendiriniz.
+1. ÖRNEK
+Üslü gösterimlerle çarpma ve bölme işlemlerine dair elde ettiğiniz önermelerden yararlanarak ,
+2
+1
+05 2
+3
+7$
+-
+-
+dn
+ 
+ifadesinin eşitini bulunuz.
+Çözüm
+,. ve olur05 105 21 2 21 221 3 3 3== =- =- =-- -d _n i
+Üslü gösterimlerde çarpma ve bölme işlemlerine dair elde edilen önermelerden yararlanılarak 
+, . bulunur
+2
+1
+05 2
+2
+22
+2
+2
+2
+2 223
+7
+3
+17
+3
+17
+3
+6
+63 3$ $
+-
+=
+-
+=- =- =- =--
+-- +
+-
+dn

@@ -1,0 +1,162 @@
+77
+1. Tema/Etkileşim
+Konuya Başlarken
+Mendeleyev, 1869’da elementlerin atom kütlesi artışına bağlı olarak organi-
+ze edildiği bir tablo yayımladı. Periyodik tablosunda elementleri atom küt-
+lelerine göre sıraladığında iyot (I) tellürün (Te) üstünde yer almalıydı ancak 
+Mendeleyev bu iki elementin yerini değiştirdi. Tellürü oksijen (O), kükürdü 
+(S) selenyum (Se), iyodu ise flor (F), klor (Cl) ve brom (Br) ile aynı gruba 
+yerleştirdi. Daha sonra 1871 yılında tablosunu geliştirerek günümüz periyodik 
+tablosunun temelini oluşturdu.
+Mendeleyev, tablosunda o dönemde bilinmeyen elementler için boşluklar bı-
+raktı. Bu boşluklardan ikisi çinkonun (Zn) sağında bulunan ve o dönemde 
+bilinmeyen galyum (Ga) ve germanyum (Ge) elementlerine aitti. Boşluklara 
+sırasıyla eka-alüminyum ve eka-silikon adlarını verdi. Mendeleyev keşfedil-
+memiş bu elementlerin birçok özelliğini tablosundan faydalanarak tahmin 
+etti. 1875’te eka-alüminyum (Ga), 1886 yılında eka-silikon (Ge) keşfedildi. 
+Keşfedilen elementlerin özellikleriyle Mendeleyev’in tahmin ettiği özellikler 
+arasında çarpıcı bir benzerlik vardı. Mendeleyev eka-alüminyum olarak isim -
+lendirdiği galyumun kütle numarasını 68, yoğunluğunu suyun altı katı olarak 
+tahmin etti. Bu tahmin galyum elementinin günümüz özellikleriyle uyuşmak-
+taydı. Benzer şekilde eka-silikon adını verdiği germanyumun özelliklerine 
+ilişkin de tahminlerde bulundu. Germanyum (Ge) elementine ilişkin tahmin 
+edilen ve bilimsel olarak belirlenen özellikler aşağıdaki tabloda görülmektedir.
+1. Mendeleyev’in tellür ve iyodun yerini değiştirmesinin sebebi nedir?
+2. Bir üstteki periyodik tablo kesitinden yararlanarak galyum elementinin 
+kaynama noktasını tahmin ediniz. Tahminlerinizi sınıf arkadaşlarınızla 
+paylaşınız.
+KN: 2519˚C KN: 2900˚C
+KN:      ˚CKN: 906˚C KN: 2820˚C
+KN: 2072˚CKN: 766˚C KN: 2602˚C
+Ge Elementinin
+Özellikleri
+Tahmin Edilen 
+(1869)
+Gözlenen
+(1886)
+Atom kütlesi 72 u 72,6 u
+Renk Koyu gri Gri-beyaz
+Yoğunluk 5,5 g/mL 5,32 g/mL
+Kaynama noktası Çok yüksek 2820 °C
+Oksit formülü EsO2 GeO2
+H
+1,01
+Li
+6.94
+Be
+9.01
+B
+10.8
+C
+12.0
+N
+14.0
+O
+16.0
+Th
+232
+U
+238
+F
+19.0
+Na
+23.0
+K
+39.1
+Cu
+63.5
+Rb
+85.5
+Ag
+108
+Ce
+133
+Au
+197
+Mg
+24.3
+Ca
+40.1
+Zn
+65.4
+Ba
+137
+Cd
+112
+Ba
+137
+Hg
+201
+Al
+27.0
+Y
+88.9
+In
+115
+La
+139
+Ti
+204
+Si
+28.1
+Ti
+47,9
+Zr
+91.2
+Sn
+119
+Pb
+207
+P
+31.0
+V
+50,9
+As
+74.9
+Nb
+92,9
+Sb
+122
+Ta
+181
+Bi
+209
+S
+32.1
+Cr
+52.0
+Se
+79.0
+Mo
+95,9
+Te
+128
+W
+184
+Cl
+35.5
+Mn
+54.9
+Br
+79,9
+I
+127
+Fe
+55.9
+Ru
+101
+Os
+194
+Co
+58,9
+Rh
+103
+Ir
+192
+Ni
+58.7
+Pd
+106
+Pt
+195
+Ga Ge

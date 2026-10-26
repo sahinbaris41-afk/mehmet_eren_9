@@ -1,0 +1,44 @@
+127
+2. Tema /  Nicelikler ve Değişimler
+c)  Ölçülen sıcaklık değeri ile ortalama sıcaklık değerinin birbirine eşit olması f fonksiyonunun hangi nitel 
+özelliği ile ilgilidir? Gerekçelerinizle açıklayınız. 
+ç)  Sapma miktarları aynı olan farklı sıcaklık değerleri var mıdır?  Oluşturulan fonksiyon yardımıyla açıklayınız.
+d)  Sapma miktarının en az ve en fazla olduğu anlarda hava sıcaklığının kaç oC ölçüldüğünü bularak bu 
+durumun fonksiyonun hangi nitel özelliği ile ilgili olduğunu açıklayınız.
+Çözüm
+a)  Ölçülen sıcaklık değerleri, g fonksiyonunun tanım kümesini temsil eder. x  in alabileceği en küçük 
+değer 20 oC - 4 oC = 16 oC, en büyük değer 20 oC + 4 oC = 24 oC olduğundan fonksiyonun tanım 
+kümesi , 16 247A  olur . Sapma miktarının alabileceği değerler, g fonksiyonunun görüntü kümesini tem -
+sil eder. Sapma miktarı en fazla 4 oC olduğundan fonksiyonun görüntü kümesi ,407A  olur. Sapma 
+miktarı, ölçülen ve ortalama sıcaklık değerleri arasındaki farkın mutlak değeri alınarak elde edilmiştir. 
+Buradan g fonksiyonunun cebirsel temsili g: , 16 247A  " ,407A  , g(x) = | x - 20 | olarak bulunur.
+x  , 16 20j7   için g(x) = -x + 20
+x  ,2 4 207A   için g(x) = x - 20 olduğundan g fonksiyonunun parçalı gösterimi aşağıdaki gibi olur.
+g(x) = 
+  -x + 20,  16  x  20
+   x - 20,  20  x  24
+b)  g fonksiyonunun grafiği aş ağıdaki gibi çizilir.
+x
+  Ölçülen sıcaklık
+    değeri (oC)
+1,8
+4
+A
+B
+C
+O 16 18,2 21,820 24
+g(x) = |x - 20|
+y  Ölçülen sıcaklığın ortalama sıcaklıktan sapma miktarı (oC)
+c)  Ölçülen sıcaklık ve ortalama sıcaklık değerleri aynı olduğunda sapma miktarı | 20 - 20 | = 0 bulunur. 
+g(x) = 0 için x = 20 olduğundan ölçülen sıcaklık ve ortalama sıcaklık değerlerinin eşit olması fonk -
+siyonun sıfırı ile ilgilidir.
+ç)  Sıcaklığın 18,2 oC ve 21,8 oC ölçüldüğü günlerde sapma miktarı sırasıyla | 18,2 - 20 | = | -1,8 | = 1,8 oC 
+ve | 21,8 - 20 | = | 1,8 | = 1,8 oC olur. 
+Ölçülen sıcaklığın farklı değerleri için sapma miktarları aynıdır. Buradan g fonksiyonunun bire bir 
+olmadığı görülür.
+d) Sapma miktarının en az ve en fazla olduğu anlarda ölçülen sıcaklık değerleri fonksiyonun maksimum 
+ve minimum noktaları ile ilgilidir. 
+Grafik incelendiğinde g fonksiyonunun minimum değerinin 0, maksimum değerinin 4 olduğu  görül-
+mektedir. Buradan g fonksiyonunun minimum değerini 0, maksimum değerini 16 ve 24 noktalarında 
+aldığı görülmektedir. Fonksiyonun maksimum değerini aldığı noktalar sapma miktarının en fazla ol -
+duğu anlarda ölçülen sıcaklık değerini temsil etmektedir.

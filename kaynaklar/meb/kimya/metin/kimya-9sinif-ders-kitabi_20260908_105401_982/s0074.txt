@@ -1,0 +1,83 @@
+1. Tema/Etkileşim
+74
+2. Yönerge: İyon oluşumuyla ilgili aşağıda verilen bilimsel bilgilerden yararlanarak etkinlik sonundaki 
+tabloyu doldurunuz.
+Atomlar, iyon oluşturabilmek için bir veya daha fazla elektron alır veya verir. Böylece iyon haline geçen 
+atomun elektron dizilimi kendine en yakın soy gazın elektron dizilimine benzer. Nötr atom, en yüksek 
+enerji düzeyindeki elektronları verdiğinde pozitif (+) yükle yüklenir ve katyon oluşturur; en yüksek enerji 
+düzeyindeki orbitallere elektron aldığında ise negatif (−) yükle yüklenir ve anyon oluşturur. İyonların 
+elektron dizilimi, sahip olduğu elektron sayısı dikkate alınarak nötr atomların elektron dizilimi gibi 
+yazılır. Elektronların atom orbitallerine yerleşimi de nötr atomlardaki gibidir.
+Örneğin 19K atomu enerji aldığında 1 valans elektronunu verir ve 19K
++
+ katyonu oluşur. Böylece 19K
++
+ katyonu 
+18Ar soy gazının elektron dizilimi ile aynı elektron dizilimine sahip olur.
+                     19K    19K
++
+ + e−     
+1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+4s
+1
+   1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+4s
+0
+  
+                                        (18Ar:1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+)
+19K atomu 1 elektron verdiğinde kararlı hâle gelir. Bu nedenle 19K atomunun ikinci elektronu verebilmesi 
+için çok daha yüksek enerji gerekmektedir. Aynı şekilde 2A ve 3A grubu elementleri de sırasıyla 2 ve 3 
+elektron verdiğinde soy gaz elektron düzenine ulaşır ve bu elementlerden bir sonraki elektronu koparmak 
+çok fazla enerji gerektirir. Aşağıdaki tabloda K atomu ve K
++
+ iyonuna ait bilgiler verilmiştir.
+19 p
++
+18 e
+−
+20 n
+K
++ 
+katyonu
+K Atomu K
++
+ İyonu
+Proton 19 Proton 19
+Elektron 19 Elektron 18
+Yük 0 İyon yükü +1
+4. T ablodaki her bir iyonun proton ve elektron sayısı arasındaki fark ile iyon yükü arasındaki örüntüyü belir -
+leyiniz. 
+5. a) Belirlediği niz örüntüleri kullanarak anyon ve katyon oluşumuna ilişkin genel bir kural oluşturunuz. Bu 
+kuralı proton sayısı, elektron sayısı, en yüksek enerji düzeyi elektronları ve orbitalleriyle ilişkilendirerek 
+açıklayınız.
+b) İyon oluşumuna dair belirled iğiniz genel kurallara dayanarak aşağıdaki atomlardan iyon oluşturunuz.
+•4Be
+•8O

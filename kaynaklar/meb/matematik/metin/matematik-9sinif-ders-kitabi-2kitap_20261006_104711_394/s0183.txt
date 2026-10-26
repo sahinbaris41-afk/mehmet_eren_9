@@ -1,0 +1,33 @@
+183
+6. Tema / İstatistiksel Araştırma Süreci
+sapma	aralığı,	10,299	±	0,24	sn.	aralığındadır.	Yani	atletlerin	çoğunluğu	10,059	sn.	ile	10,539	sn.	ara-
+sında	dereceler	elde	etmiştir	ancak	bu	aralık,	standart	sapma	değerine	göre	farklılaşmaktadır.	Grafik	
+9’da	görülen	standart	sapma	aralığı	ise	10,299	±	0,349	sn.	aralığındadır.	Yani	atletlerin	çoğunluğu,	9,95	
+sn.	ile	10,648	sn.	aralığında	dereceler	elde	etmiştir.	Her	ne	kadar	ortalama	mutlak	sapma	ile	standart	
+sapma	aralıkları	birbirine	çok	yakın	görünse	de	Grafik	8 ve  Grafik	9’a	bakıldığında	stan	dart	sapma	
+aralığındaki	atlet	sayısının	daha	fazla	olduğu	görülmektedir.
+e) 2023	Dünya	Atletizm	Şampiyonası'na	katılan	erkek	atletlerin	100	metre	koşu	derecelerine	yönelik	his-
+togram	grafiği	incelendiğinde	atletlerin	çoğunluğunun	10-10,4	saniye	aralığında	yoğunlaştığı	görülmek-
+tedir.	Bu	bulgudan	hareketle	Olimpiyat	Oyunları	100	metre	atletizm	yarışmasına	katılan	erkek	atletlerin	
+koşu	derecelerinin		de	benzer	bir	dağılım	göstermesi	beklenir.
+6. ÖRNEK
+Dünya	Bankası,	dünya	genelinde	evsel	katı	atık	miktarının	yıllık	yaklaşık	2	milyar	ton	olduğunu	belirt-
+mektedir.	Kişi	başına	günlük	katı	atık	miktarı	yaklaşık	0,75	kilogramdır.	Ülkelerin	gelişmişlik	seviyelerine	
+göre	kişi	başı	günlük	katı	atık	miktarı	0,1	kg	ile	4,5	kg	arasında	değişmektedir.	
+Bu	bilgilerden	hareketle	aşağıda	2018,	2020	ve	2022	yıllarında	Türkiye’nin	81	ilinde	kişi	başı	günlük	katı	
+atık	miktarlarına	ait	TÜİK	verileri	yer	almaktadır.	Verilen	bilgiler	doğrultusunda	uygun	görselleştirme	ve/
+veya	özetleme	araçlarını	seçerek	soruları	cevaplayınız.
+a) Aşağıdaki	grafikte	2018,	2020	ve	2022	yıllarında	Türkiye’nin	81	ilinde	kişi	başı	günlük	katı	atık	mik-
+tarları	yıl	ayrımı	yapılmadan	verilmiştir.	Üç	yıllık	verilerin	tamamı	incelendiğinde	Türkiye’deki	kişi	başı	
+günlük	katı	atık	miktarı	kilogram	cinsinden	nasıl	eğilim	göstermektedir?
+Grafik 1
+Atık miktarı (kg/gün)
+0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2 2,2
+b) Aşağıdaki	grafikte	2018,	2020	ve	2022	yıllarında	Türkiye’nin	81	ilinde	kişi	başı	günlük	katı	atık	mik-
+tarları	yıllar	ba zında	yer	al maktadır.	Türki ye’deki	kişi	ba şı	gü nlük	katı	atık	mikta rı	yıll ara	gö re	kilogram	
+cinsinden	nasıl	eğilim	göstermektedir?
+Grafik 2
+Atık miktarı (kg/gün)
+0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2 2,2
+2018 yılı 2020 yılı 2022 yılı
+Yıl

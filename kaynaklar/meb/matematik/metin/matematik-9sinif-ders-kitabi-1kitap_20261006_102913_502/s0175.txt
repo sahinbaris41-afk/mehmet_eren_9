@@ -1,0 +1,35 @@
+175
+3. Tema /  Geometrik Şekiller
+2. Teoremin iki paralel doğrunun bir kesenle yaptığı açılar kullanılarak nasıl ispatlanabileceğine ilişkin fikirlerinizi 
+sınıf arkadaşlarınızla paylaşınız.
+3. İkinci adımda karar verdiğiniz ispat yöntemine uygun olarak gerekli çizimleri yapınız ve çiziminizle ilgili 
+açıklamaları yazınız.
+ 
+4. Y aptığınız çizim sonucunda oluşan açılar ile bu açıların ölçüleri arasındaki ilişkiyi açıklayınız ve matematiksel 
+olarak ifade ediniz.
+5. Yaptığınız çizim sonucunda oluşan açılar ile üçgenin iç açıları arasındaki ilişkiyi açıklayınız ve matematiksel 
+olarak ifade ediniz.
+6. Dördüncü ve beşinci adımda elde ettiğiniz ilişkileri kullanarak üçgenin iç açılarının ölçüleri toplamına ilişkin 
+ulaştığınız sonucu yazınız. 
+7. T eoremin ispatının tamamlanıp tamamlanmadığına ilişkin fikrinizi ispat sürecinde takip ettiğiniz adımlardan 
+hareketle gerekçelendirerek açıklayınız. Ulaştığınız sonuçları arkadaşlarınızla tartışınız.
+1. ÖRNEK
+Dünya üzerindeki bir yerin Ekvator’a uzaklığının 
+derece, dakika ve saniye cinsinden açısal değeri 
+enlemdir. Kuzey yarım kürede Kutup Yıldızı’nın 
+görünüm açısının ölçüsü, bulunulan enlem dere-
+cesini verir.
+Yandaki görselde Kutup Yıldızı’nın bulunduğu 
+yer A noktası ile modellenmiştir. OA PC'77  ve yıl-
+dızın İstanbul’dan görünüm açısının ölçüsü 41o dir. 
+Buna göre İstanbul’un yer aldığı kuzey enleminin 
+alfa açı değerinin kaç derece olduğunu bulunuz.
+P (İstanbul)
+Kutup Yıldızı’nın 
+görünüm açısı
+Ekvator
+A (Kutup Yıldızı)
+C
+Enlem açısı
+a
+O

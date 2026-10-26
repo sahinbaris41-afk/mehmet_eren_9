@@ -1,0 +1,101 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+56 57
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+3. Adım: Değerlendirme
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Öğrencinin Adı-Soyadı Sınıfı No.
+Ölçütler
+Başarı Düzeyi Başarı 
+Puanı1 (Geliştirilmeli) 2 (Kabul edilebilir) 3 (Oldukça İyi)
+Etkinliğe 
+Katılım ve Fikir 
+Paylaşımı
+Etkinliğe katılım sınırlı, 
+fikir paylaşımı zayıftır.
+Etkinliğe katılım ye-
+terlidir ve bazı fikirler 
+paylaşılmıştır.
+Etkinliğe aktif katılım 
+sağlanmış ve fikirler 
+paylaşılmıştır.
+Torricelli 
+Deneyinin 
+Temellerini 
+Anlama
+Deneyin temel ilkelerini 
+anlamada zorluk 
+yaşanmış ve kavramlar 
+doğru anlaşılamamıştır.
+Deneyin temel ilkeleri 
+anlaşılmış ancak bazı 
+detaylarda eksiklik bu-
+lunmaktadır.
+Deneyin tüm temel 
+ilkeleri tam ve doğru bir 
+şekilde anlaşılmıştır.
+Grup İçi İş 
+Birliği ve 
+Görev Dağılımı
+İş birliği ve görev 
+paylaşımı grup içinde 
+zayıf kalmış ve hiç kimse 
+görevini tam olarak 
+yerine getirmemiştir.
+Grup içinde yeterli iş 
+birliği yapılmış ancak 
+eşit bir görev dağılımı 
+yapılamamıştır. 
+Grup içinde güçlü bir iş 
+birliği ve adil görev dağı-
+lımı sağlanmıştır.
+Torricelli 
+Deneyine 
+Benzer Sistem 
+Tasarımı
+Tasarım basit ve eksik, 
+deneyin temel ilkelerine 
+tamamen uyum 
+sağlamıyor.
+Tasarım, deneyin ilkele-
+rine uyum sağlamakta 
+ancak bunun
+daha fazla geliştirilmesi 
+gerekmektedir.
+Tasarım deneyin tüm 
+ilkelerine uygun ve yeni-
+likçi bir şekilde oluştu-
+rulmuştur.
+Teorik 
+Çalışma ve 
+Hesaplamalar
+Hesaplama ve teorik 
+çalışmalar hatalı veya 
+eksiktir.
+Hesaplamalar ve teorik 
+çalışma genel olarak 
+doğru ancak bazı hatalar 
+mevcuttur.
+Hesaplamalar ve teorik 
+çalışma tamamen doğru 
+ve detaylıdır.
+Araştırma ve 
+Mühendislik 
+Çözümleri
+Araştırma ve 
+mühendislik çözümleri 
+yetersiz kalmış ve 
+kapsamlı bir şekilde 
+yapılmamıştır.
+Araştırma ve mühen-
+dislik çözümleri genel 
+olarak yeterli ancak 
+geliştirilmelidir.
+Araştırma ve mühendis-
+lik çözümleri yenilikçi ve 
+detaylıdır.
+       TOPLAM PUAN
+Ölçekten alınan puanı 100 üzerinden hesaplamak için [(Toplam Puan)/18]*100 formülünü uygulayınız.
+Analitik Dereceli Puanlama Anahtarı
+"Analitik Dereceli Puanlama Anahtarı" etkinliğin değerlendirilmesi için hazırlanmıştır. Dikkat 
+edilmesi gereken ölçütler konusunda öğrencilere yol göstermesi amaçlanmıştır.

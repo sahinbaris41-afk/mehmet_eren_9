@@ -1,0 +1,179 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+9. SINIF ORTAK SINAV (SABAH OTURUMU) - MATEMATİK
+Öğrenme Çıktısı : 9.5.5. Eşlik ve benzerlikle ilgili çıkarım ve teoremleri içeren problemleri çözebilme
+Ders Kitabı (MEB) Sayfa 89
+3
+MATEMATİK 9
+5. Daire	şeklindeki	bir	havuza	C,	D	ve	E	noktalarındaki	merdivenler	kullanılarak	girilmektedir.	A	nokta-
+sında	Ayşe,	B	noktasında	Burak	bulunmaktadır.	A,	C,	D	ile	A,	E,	B	noktaları	kendi	aralarında	doğrusal	
+ve	[CE]	//	[DB]’dir.	Ayşe	ile	C	noktası	arasındaki	uzaklık	6	m,	Burak	ile	D	noktası	arasındaki	uzaklık	 
+10	m,	C	ile	E	noktaları	arasındaki	uzaklık	ise	4	m’dir.
+A	(Ayşe)
+B	(Burak)
+10
+6
+4
+D
+C E
+Buna göre, C ile D noktaları arasındaki uzaklık kaç metredir? İşlemlerinizi göstererek bulunuz. 
+(15 puan)
+6. Aşağıdaki	kareli	zemin	üzerinde	A,	B,	C	ve	D	noktaları	verilmiştir.	A	ile	B	noktaları	arasındaki	en	kısa	
+uzaklık	 20 	cm’dir.
+C
+A
+B
+D
+Buna göre, C ile D noktaları arasındaki en kısa uzaklığın kaç santimetre olduğunu işlemlerinizi 
+göstererek bulunuz. (15 puan)
+89
+4. Tema/Ölçme ve Değerlendirme
+3. Miletli	Tales,	denizdeki	bir	geminin	sahile	mesa-
+fesini	hesaplamak	için	sahile	dik	bir	uçurumun	
+ucuna	yere	paralel	bir	çubuk	yerleştirmiştir.	
+Uçurumun	 uç	 noktasında	 dik	 duran	 Tales, 
+geminin	sahile	uzaklığını	bulabilmek	için	çubu-
+ğun	ucunun	geminin	ön	tarafı	ile	aynı	noktaya	
+gelmesi	gerektiğini	belirtmiştir.
+A	Tales’in	göz	hizası,	B	çubuğun	uç	noktası,				
+C	geminin	uç	noktasıdır. 
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  A, B, C noktaları doğrusaldır. “h” 
+Tales’in yerden göz hizasına kadar yük-
+sekliği, “c” çubuğun boyu, “d” Tales’in 
+su yüzeyinden yüksekliği olmak üzere 
+ x in h, c ve d türünden eşitini bulunuz.
+b)  cm 2= , dm 68=  ve ,hm 17=  ise gemi-
+nin karaya uzaklığının kaç metre oldu -
+ğunu bulunuz. 
+c)  Aşağıdaki ifadelerden doğru olanların 
+karşısına “D”, yanlış olanların karşısına 
+“Y” yazınız.
+ 
+A
+Bh
+d
+x
+c
+C
+İfadeler D/Y
+I.
+h	ve	d	uzunlukları	değişmeyip	c	
+uzunluğu	artarsa	geminin	karaya	
+uzaklığı	azalır.
+(.....)
+II.
+c	ve	d	uzunlukları	değişmeyip	h	
+uzunluğu	artarsa	geminin	karaya	
+uzaklığı	artar.
+(.....)
+III.
+h	ve	c	uzunlukları	orantılı	olarak	
+azaltılırsa	geminin	karaya	uzak-
+lığı	aynı	kalır.
+(.....)
+4.	 Okul	yıllığı	için	fotoğraf	çekimi	yapan	Asım	
+Bey,	öğrencileri	aşağıdaki	gibi	doğrusal	sıra-
+lamıştır.	Sıranın	en	solunda	yer	alan	Aslı	adlı	
+öğrencinin	kameraya	uzaklığı	6	m	iken	sağdan	
+dördüncü	öğrencinin	kameraya	uzaklığı	 10	
+metredir.	Bu	konumda	öğrencilerin	tümünün	
+kadraja	girmediğini	gören	Asım	Bey,	onlardan	
+doğrusal	olarak	biraz	geri	gitmelerini	istemiştir. 
+6 10
+A
+B
+C
+Görselde	öğrencilerin	ilk	konumları	B	ile,	ikinci	
+konumları	A	ile	gösterilmiştir.	Fotoğrafçının	dur-
+duğu	C	noktası	ile	A	ve	B	noktaları	doğrusaldır.	
+Çekim	yapılan	fotoğraf	makinesi	en	fazla	25	
+metre	uzaklıktaki	bir	cismi	net	olarak	görüntü-
+leyebilmektedir.
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Öğrenciler 3 metre geri gittiklerinde 
+öğrencilerin hepsi kadraja tam sığdığına 
+göre en sol ve en sağdaki öğrencilerin 
+arasında en çok kaç metre mesafe ola -
+cağını bulunuz.
+b) Grubun en sağındaki öğrencinin görün-
+tüsünün net olması için öğrencilerin 
+sırayı bozmadan, doğrusal olarak en 
+fazla kaç metre geri gidebileceklerini 
+bulunuz.
+4.Tema_13.07.2024.indd   894.Tema_13.07.2024.indd   89 17.07.2024   18:5217.07.2024   18:52
+89
+4. Tema/Ölçme ve Değerlendirme
+3. Miletli	Tales,	denizdeki	bir	geminin	sahile	mesa-
+fesini	hesaplamak	için	sahile	dik	bir	uçurumun	
+ucuna	yere	paralel	bir	çubuk	yerleştirmiştir.	
+Uçurumun	 uç	 noktasında	 dik	 duran	 Tales, 
+geminin	sahile	uzaklığını	bulabilmek	için	çubu-
+ğun	ucunun	geminin	ön	tarafı	ile	aynı	noktaya	
+gelmesi	gerektiğini	belirtmiştir.
+A	Tales’in	göz	hizası,	B	çubuğun	uç	noktası,				
+C	geminin	uç	noktasıdır. 
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  A, B, C noktaları doğrusaldır. “h” 
+Tales’in yerden göz hizasına kadar yük-
+sekliği, “c” çubuğun boyu, “d” Tales’in 
+su yüzeyinden yüksekliği olmak üzere 
+ x in h, c ve d türünden eşitini bulunuz.
+b)  cm 2= , dm 68=  ve ,hm 17=  ise gemi-
+nin karaya uzaklığının kaç metre oldu -
+ğunu bulunuz. 
+c)  Aşağıdaki ifadelerden doğru olanların 
+karşısına “D”, yanlış olanların karşısına 
+“Y” yazınız.
+ 
+A
+Bh
+d
+x
+c
+C
+İfadeler D/Y
+I.
+h	ve	d	uzunlukları	değişmeyip	c	
+uzunluğu	artarsa	geminin	karaya	
+uzaklığı	azalır.
+(.....)
+II.
+c	ve	d	uzunlukları	değişmeyip	h	
+uzunluğu	artarsa	geminin	karaya	
+uzaklığı	artar.
+(.....)
+III.
+h	ve	c	uzunlukları	orantılı	olarak	
+azaltılırsa	geminin	karaya	uzak-
+lığı	aynı	kalır.
+(.....)
+4.	 Okul	yıllığı	için	fotoğraf	çekimi	yapan	Asım	
+Bey,	öğrencileri	aşağıdaki	gibi	doğrusal	sıra-
+lamıştır.	Sıranın	en	solunda	yer	alan	Aslı	adlı	
+öğrencinin	kameraya	uzaklığı	6	m	iken	sağdan	
+dördüncü	öğrencinin	kameraya	uzaklığı	 10	
+metredir.	Bu	konumda	öğrencilerin	tümünün	
+kadraja	girmediğini	gören	Asım	Bey,	onlardan	
+doğrusal	olarak	biraz	geri	gitmelerini	istemiştir. 
+6 10
+A
+B
+C
+Görselde	öğrencilerin	ilk	konumları	B	ile,	ikinci	
+konumları	A	ile	gösterilmiştir.	Fotoğrafçının	dur-
+duğu	C	noktası	ile	A	ve	B	noktaları	doğrusaldır.	
+Çekim	yapılan	fotoğraf	makinesi	en	fazla	25	
+metre	uzaklıktaki	bir	cismi	net	olarak	görüntü-
+leyebilmektedir.
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Öğrenciler 3 metre geri gittiklerinde 
+öğrencilerin hepsi kadraja tam sığdığına 
+göre en sol ve en sağdaki öğrencilerin 
+arasında en çok kaç metre mesafe ola -
+cağını bulunuz.
+b) Grubun en sağındaki öğrencinin görün-
+tüsünün net olması için öğrencilerin 
+sırayı bozmadan, doğrusal olarak en 
+fazla kaç metre geri gidebileceklerini 
+bulunuz.
+4.Tema_13.07.2024.indd   894.Tema_13.07.2024.indd   89 17.07.2024   18:5217.07.2024   18:52

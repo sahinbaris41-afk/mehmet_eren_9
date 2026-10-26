@@ -1,0 +1,46 @@
+37
+1. Tema /  Sayılar
+ 1.2.  GER ÇEK SAYI ARALIKLARININ 
+GÖSTERİMİ VE ARALIKLARLA 
+İLGİLİ İŞLEMLERDE KÜME 
+SEMBOLLERİNİN KULLANIMI
+Konuya Başlarken
+Yanda verilen iş ilanını in -
+celeyiniz. 
+İşe alınacak kişilerde ara-
+nan şartlardan bazılarının 
+belirttiği sayı değerleri ma -
+tematiksel olarak nasıl ifade 
+edilebilir?
+Görüşlerinizi sınıf arkadaşla-
+rınızla paylaşınız.
+													İŞ	İLANI
+Çalışma arkadaşları arıyoruz!
+25-35 yaş arasında
+En az lise mezunu 
+Sektörde en az 3 yıl deneyimli
+İşe alım sınavından en az 70 puan alan
+Çalışma saatleri: Hafta içi 08.30-17.30 
+Ayda 25 000-30 000 TL arası kazanç imkânı
+Sayı Kümeleri
+Sayı doğrusu üzerinde iki farklı nokta arasında yer alan gerçek sayılar bir aralık belirtir. Gerçek sayılar, 
+sayı doğrusu üzerinde veya aralık gösteriminden farklı olarak başka biçimlerde ifade edilebilir mi? 1 ile 
+6 arasındaki doğal sayılar, 21  ile 163  arasındaki rasyonel sayılar aralık şeklinde gösterilebilir mi? Aralık 
+şeklinde ifade edilen veya edilemeyen sayı topluluklarına örnekler veriniz.
+10.	Uygulama
+Sayı Kümeleri
+Verilenleri inceleyerek aşağıdaki soruları cevaplayınız. 
+Bazı firmalara ait otobüslerin otogardan kalkış peronları ile ilgili aşağıdaki bilgiler verilmiştir.
+• A firmasına ait otobüsler; karesi 100’den küçük, pozitif tam sayı olan numaralı peronlardan kalkış 
+yapmaktadır.
+• B firmasına ait otobüsler, numarası tek rakam olan peronlardan kalkış yapmaktadır.
+• C firmasına ait otobüsler; numarası 25’ten küçük, çift, pozitif doğal sayı olan peronlardan kalkış 
+yapmaktadır.
+• D firmasına ait otobüsler, numarası iki basamaklı doğal sayı olan peronlardan kalkış yapmaktadır.
+Peron numaralarının 1 ve 100 dâhil olmak üzere 1 ile 100 arasındaki tam sayılardan oluştuğu bilinmektedir.
+1.  A  kümesi A firmasına ait otobüslerin kalkış yaptığı peronların numaralarından oluşmaktadır. Örneğin A fir-
+masına ait otobüsler, 2 numaralı perondan kalkış yapmaktadır. Bu ifade, semboller yardımıyla “ A 2! ” bi-
+çiminde de gösterilebilir. A firmasına ait otobüsler, 11 numaralı perondan kalkış yapmamaktadır. Bu ifade, 
+semboller yardımıyla “11 Ag ” biçiminde de gösterilebilir. B, C ve D firmalarına ait otobüslerin kalktıkları 
+peron numaralarından yararlanarak bu gösterimlere benzer örneklerin nasıl yazılacağına dair düşüncelerinizi 
+sınıf arkadaşlarınızla paylaşınız. Sonuçlarınızı karşılaştırınız. 

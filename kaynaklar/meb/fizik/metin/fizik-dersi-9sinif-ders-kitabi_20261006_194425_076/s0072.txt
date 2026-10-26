@@ -1,0 +1,50 @@
+72
+2. ÜNİTE 
+2.3.2. Vektörlerin Toplanması
+Nicelikler arasında toplama işleminin yapılabilmesi için öncelikli olarak top -
+lanacak niceliklerin ölçü birimlerinin aynı olup olmadığı kontrol edilmelid ir. 
+Toplanacak niceliklerin ölçü birimleri aynı değilse istenen ölçü birimine dönü-
+şüm yapılarak toplama işlemi gerçekleştirilir. Örneğin 2 kg ile 700 g topla -
+nırken sonuç kg cinsinden isteniyorsa 700 g ölçü değerinin kg ölçü birimine 
+dönüştürülmesi gerekir. 700 g ölçü değeri 0,7 kg olarak dönüştürüldüğünde 
+bu iki değerin toplamı 2,7 kg şeklinde ifade edilir. Benzer şekilde vektörel 
+niceliklerden kuvvet vektörü ile kuvvet vektörü, hız vektörü ile hız vektörü 
+toplanabilir fakat hız vektörü ile kuvvet vektörü toplanamaz. Örneğin belli bir 
+yönde hareket eden bir uçak, farklı bir yönde rüzgâra maruz kaldığında isti -
+kametinden farklı bir yöne doğru hareket eder. Uçağın o andaki hızını bulmak 
+için motorunun sağladığı hız ile rüzgârın sürükleme hızını toplamak gerekir. 
+Uçak motorunun ve rüzgârın uçağa uyguladığı itme kuvvetleri de toplanarak 
+uçağa etki eden toplam kuvvet bulunabilir ancak uçağın hızı ile rüzgârın uçağa 
+uyguladığı kuvvet toplanamaz.
+İki veya daha fazla vektörel niceliğin yaptığı etkiyi tek başına yapabilen vek -
+töre bileşke vektör denir. Bileşke vektör R  veya toplanan vektörler A  ve B  
+vektörleri ise R AB şeklinde de gösterilebilir. Bileşke vektörü bulmak için vek -
+törlerin toplanması gerekir. Vektörlerin toplanması farklı yöntemlerle yapılabilir.
+4. Etkinlik Vektörlerin Toplanmasında Kullanılan Yöntemler 
+Amaç Vektörleri toplayabilme ve bileşenlerine ayırabilme 
+Süre 20 dk.
+Yönerge Aşağıda verilen basamakları takip ederek etkinliği gerçekleştiriniz.
+1. Aşağıdaki eşit bölmelendirilmiş düzlemde yer alan A  ve B  vektörleri, toplama yöntemlerinden biri kullanı­
+larak toplanmıştır. İşlem basamakları sırasıyla verilen toplama yöntemini vektörleri birleştirme ve birleştir­
+me sonucu elde edilen vektörün özellikleri bakımından inceleyerek soruları cevaplayınız. 
+B
+A
+(I) (II)
+A
+B
+(III)
+A
+B
+(IV)
+A
+B
+(V)
+A
+BR A= +B
+a) İşlem sırası verilen toplama yöntemine ait I. basamak, diğer işlem basamaklarına yol göstermesi için 
+aşağıda verilmiştir. Benzer şekilde diğer basamaklarda yapılan işlemleri sırasıyla yazınız. 
+I. Farklı yönlerde iki vektör verilmiştir. 
+II.  
+III.  
+IV .  
+V .   

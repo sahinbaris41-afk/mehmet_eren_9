@@ -1,0 +1,14 @@
+58
+MATEMATİK 9 
+3. TEMA: GEOMETRİK ŞEKİLLER
+6. Adım: Grup içi Karşılaştırma Yapma
+Grubunuzdaki diğer arkadaşlarınızın çalışmalarını inceleyiniz. Dar, dik ve geniş açılı üçgenlerin iç açı-
+larının ölçüleri toplamını gözlemleyiniz. Bu gözlemi arkadaşlarınızla değerlendiriniz ve üçgenlerin iç 
+açılarının ölçüleri toplamına yönelik çıkarım yapınız.
+1
+“Üçgende iki iç açının ölçülerinin toplamı, kendilerine komşu olmayan bir dış açının 
+ölçüsüne eşittir.” genellemesinin doğrulaması nasıl yapılabilir? Grup arkadaşlarınızla 
+tartışarak ifade ediniz.
+Çözüm:
+Çözüm:
+Değerlendirme

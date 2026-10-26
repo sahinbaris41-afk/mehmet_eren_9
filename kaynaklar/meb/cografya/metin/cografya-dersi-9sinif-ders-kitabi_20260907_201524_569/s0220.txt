@@ -1,0 +1,42 @@
+220
+7. Ünite: BÖLGeLeR, ÜLKeLeR Ve KÜReSeL BAĞLAntILAR
+7.1.2. Kriterlere Göre Bölge Sınırları
+Bölge sınırı, bölge belirlemede esas alınan kriterlere göre belirlenir. Belirlenen 
+kriterin özelliği, oluşturulmak istenen bölgenin yeryüzündeki dağılış alanını et-
+kiler. Örneğin yeryüzünde muson ikliminin etkili olduğu alan, step ikliminin etkili 
+olduğu alana göre daha azdır. Bu nedenle muson iklim bölgesinin sınırı, step 
+iklim bölgesinin sınırından daha az alan kaplar. Ayrıca bazı bölge sınırları, kul-
+lanılan kriterin özelliğine göre net olarak belirlenebilirken bazı bölge sınır
+ larında
+ 
+-oluşturulan bölgelerde geçiş alanları bulunması nedeniyle- bu netlik yoktur. 
+Örneğin doğal kriterlerden olan doğal bitki örtüsüne göre oluşturulmak istenen 
+bir bölgenin sınırının belirlenmesi, beşerî kriterlerden olan deniz turizmi alan-
+larına göre oluşturulmak istenen bir bölgenin sınırının belirlenmesinden daha 
+zordur.
+Aşağıda verilen haritaları inceleyiniz.
+Türkiye’de Bitki Topluluklarının Dağılışı Haritası
+K
+Amaç Kriterlere göre bölge sınırlarının değişebilirliği hakkında çıkarım yapabilme
+Beceri Çıkarım Yapma, İletişim, Mekânsal Düşünme, Harita
+ETKİNLİK Kritere Göre Bölgeler
+Karadeniz
+Akdeniz
+Marmara 
+Denizi
+Ege Denizi
+Gürcistan
+AÖC
+Az.
+Ermenistan
+Suriye
+Irak
+İran
+NÖC
+KKTC
+GKRY
+Bulgaristan
+Yunanistan
+0          100         200
+K
+km

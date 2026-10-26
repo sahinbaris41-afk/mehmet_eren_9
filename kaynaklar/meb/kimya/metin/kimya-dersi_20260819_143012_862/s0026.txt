@@ -1,0 +1,51 @@
+26
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Öğrencilere metallerin fiziksel özelliklerine ve bileşiklerin oluşumuna ilişkin sorular soru -
+labilir. Öğrencilerden fen bilimleri dersinde öğrendikleri bazı yaygın bileşiklerin adları ile 
+formüllerini eşleştirmeleri istenebilir. Öğrenciler, maddenin katı ve sıvı hâlini alt mikro se-
+viyede modelleyerek katı ve sıvıların özelliklerini listelemeleri için yönlendirilebilir.
+Köprü Kurma Günlük hayatta sıkça karşılaşılan metal içerikli malzemelerin, tuz gibi kristal katıların, su gibi 
+kovalent bağlı moleküler maddelerin yapısal özellikleri ile ilgili tartışma ortamı oluşturulabi-
+lir. Yağmurluk gibi bazı giysi ve eşyalar ıslanmaz iken bazı malzemelerin neden ıslandığı, su 
+damlalarının bir yaprağın üzerinde neden bir küre oluşturduğu, böceklerin su üzerinde bat-
+madan nasıl durabildiği, balın kavanozdan neden yavaş aktığı, bitkilerin köklerinden yap -
+raklarına kadar nasıl su taşıdığı gibi sorular sorulabilir. Böylece günlük hayattan endüstriyel 
+uygulamalara kadar birçok alanda uygulama alanı bulan sıvı davranışlarının önemli sonuçla-
+rının tanecikler arası etkileşim kuvvetleri ile ilişkili olduğuna dikkat çekilebilir. 
+Öğrenme-Öğretme 
+Uygulamaları KİM.9.2.1 
+Metalik bağ kavramına ilişkin etkinliğe başlamadan önce öğrencilerden bağların oluşu -
+munu gösteren model oluşturmaları istenir. Bu bağlamda öğrencilerin iki hidrojen atomu 
+arasındaki itme ve çekme kuvvetlerini temsil eden bir modeli elektrostatik çekim kuvvet-
+leri ile ilişkilendirerek çizmeleri sağlanır (OB1). Öğrencilerden bireysel modellemelerini bi-
+limsel gösterim ile karşılaştırmaları istenir (D3.3). İki atom birbirine yaklaşırken aralarında 
+oluşan itme ve çekme kuvvetlerinin nasıl değiştiği açıklanır. İki atom arasında bağ oluşa -
+bilmesi için net kuvvetin büyüklüğünün sıfır olması gerektiği ifade edilir. 
+Valans elektron sayısı farklı olan metallerin metalik bağ gösterimleri verilir. Öğrencilerden 
+atomlar arası elektrostatik etkileşimleri değerlendirmeleri ve metalik bağın doğasına iliş -
+kin genel bir örüntü bulmaları istenir. Valans elektron sayıları değişse de atomları bir arada 
+tutan elektrostatik etkileşimlerin pozitif iyonlar ile serbest valans elektronları arasında ol-
+duğunu fark etmelerini sağlayacak sondaj soruları sorulur. Soru cevap yöntemiyle öğren-
+cilerin etkili iletişim kurmaları, olay ve durumları çok yönlü bakış açısıyla değerlendirmeleri 
+sağlanır (SDB2.1, D4.2, D14.1, E1.4, E3.2, E3.10) . Öğrenciler metalik bağın oluşumuna iliş-
+kin genellemeye ulaştırıldıktan sonra metalik bağın tanımının yapılması sağlanır. Serbest 
+valans elektron sayısı ve pozitif iyon yükü ile metalik bağın kuvveti arasındaki ilişkiye vurgu 
+yapılır (KB2.9). Bu bağlamda  kavram karikatürleri verilerek öğrencilerin bu karikatürleri 
+incelemeleri sağlanabilir. Öğrencilerden kavram karikatürlerinde metalik bağ oluşumu ile 
+ilgili kavram yanılgısı içeren karakterleri belirlemeleri ve belirledikleri yanılgıyı düzeltmeleri 
+istenebilir (OB4). 
+KİM.9.2.2
+Öğrencilere deney videosu izletilerek metal ve ametal elementleri arasında gerçekle -
+şen tepkime sürecinin gözlemlenmesi sağlanır. Öğrencilerden gözlemlerinden hare -
+ketle atomlardan katyon ve anyon oluşum sürecini sorgulamaları  (OB2, OB4) , iyonların 
+elektrostatik etkileşimleri ile ilgili önermeler oluşturmaları ve oluşturdukları önerme -
+leri etkinlik kâğıdında listelemeleri istenir. Öğrencilerden tepkime sürecinde gerçekle -
+şen etkileşimlere ilişkin önermelerini iletişim becerilerini kullanarak paylaşmaları istenir 
+(SDB2.1, D14.1) . Öğrencilere önermelerinin tepkime sürecindeki hangi gözleme dayan -
+dığı sorulur. Öğrencilerin gözleme dayalı olan ve olmayan önermelerini karşılaştırmaları 
+sağlanır (OB7). Öğrenciler, tahminlerini ön bilgileri ve gözlemleri ışığında temellendirir; 
+bu sayede öğrencilerin açıklama yapmalarına, çıkarımda bulunmalarına fırsat verilir. 
+Araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri destek -
+lenir (SDB1.1, D3.3) . Öğrencilere iyonik bağ oluşumuna ilişkin açıklamalarını derinleştir -
+meleri ve belli kavramlarla ilişkilendirmeleri (örneğin iyonlaşma enerjisi) için sorular yönel-
+tilebilir. Öğrenciler, daha sonra deney videosunu izleyerek farklı iyonik tuzların bileşenleri

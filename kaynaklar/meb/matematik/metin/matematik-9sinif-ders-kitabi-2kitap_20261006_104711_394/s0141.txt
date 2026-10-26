@@ -1,0 +1,54 @@
+141
+5. Tema/Ölçme ve Değerlendirme
+Bu bölümde cevaplamanız için farklı soru tiplerinde 10 adet soru bulunmaktadır.  
+Ölçme ve değerlendirme bölümünün sonunda verilen karekodu okutarak ek sorulara ulaşabilirsiniz.
+1.  Aşağıda	100	soruluk	bir	sınavın	sonunda	belir-
+li	ölçütlere	göre	alınacak	puanı	hesaplayan	ve	
+elde	edilen	puana	göre	dönüt	veren	algoritma-
+nın	işleyişi	akış	şemasıyla	ifade	edilmiştir.
+ 
+ 
+Tebrikler!	Sınavı	
+başarıyla	geçtin
+Çalışmalarının	karşılı-
+ğını	almaya	başladın
+Başla
+Doğru	sayısı	gir
+Yanlış	sayısı	gir
+Boş	sayısı	gir
+Net	sayısı	=	Doğru	sayısı	-	(Yanlış	Sayısı	/	4)
+Puan	=	(Net	sayısı	*	5)	-	(Boş	Sayısı	*	1)
+Evet
+Evet
+Evet
+Hayır
+Hayır
+Daha	çok	 
+çalışmalısın
+Bitir
+Puan 2001=
+Puan200 40011
+Puan 4002=
+Ölçme ve Değerlendirme
+ Buna göre aşağıdaki soruları cevaplayınız. 
+a)  Aşağıdaki tabloda üç öğrencinin sınav 
+verileri paylaşılmıştır. Bu verilere göre 
+öğrencilerin sınavdan aldıkları puanları 
+ve algoritmanın verdiği çıktıları tabloda 
+uygun yerlere yazınız.
+  
+Sıla Mesut Ruhi
+Doğru 
+Sayısı 74 48 84
+Yanlış 
+Sayısı 15 21 10
+Boş 
+Sayısı 11 31 6
+Puan
+Çıktı
+b) Algoritmanın işleyişini sözde kod ile 
+ifade ediniz.    
+ 
+ 
+ 
+Sözde Kod

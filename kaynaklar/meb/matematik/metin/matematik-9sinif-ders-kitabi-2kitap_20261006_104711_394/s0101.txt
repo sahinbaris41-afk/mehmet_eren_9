@@ -1,0 +1,24 @@
+101
+5. Tema/Algoritma ve Bilişim  
+7. Para üstünün her durumda doğru verilip verilmediğini şemanızın her bir adımı için kontrol ediniz.
+8. Bu problemi çözmek için kullanılabilecek her bir yöntemin (liste, tablo, şema) avantajlarını belirleyiniz.
+9. Bu yöntemlerden hangisinin daha sistematik ve etkili olduğunu değerlendiriniz.
+Algoritmik	yaklaşım;	algoritmaların	geliştirilmesi,	değerlendirilmesi	ve	uygulanması	için	kullanılan	kap-
+samlı	bir	problem	çözme	yöntemini	tanımlar.	Özellikle	bilgisayar	bilimleri,	matematik,	mühendislik,	
+ekonomi	gibi	alanlarda	yaygın	olarak	kullanılan	bu	yaklaşımın	temel	prensipleri	her	türlü	bilim	dalında	
+uygulanabilir.	
+Doğrusal Fonksiyonun Sıfırını Algoritmik Yaklaşımla Bulma
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız.
+:,ff xx 36RR" =+_i  şeklinde tanımlı doğrusal fonksiyon veriliyor.
+1. f doğrusal fonksiyonunun sıfırını bulmak için gereken adımları ve işlemleri belirleyiniz.
+ 
+2. f doğrusal fonksiyonunun sıfırını cebirsel ve grafik temsilleri yardımıyla belirleyiniz. 
+ 
+3. Her bir temsildeki bilgileri sı ralı işlem adımlarına dönüştürünüz. 
+ 
+4. Belirlediğiniz işlem adımları nı aşağıdaki şemada gösteriniz.
+ Grafik Temsili İşlem Adımları
+ 
+ Cebirsel Temsil İşlem Adımları
+ 
+2. Uygulama

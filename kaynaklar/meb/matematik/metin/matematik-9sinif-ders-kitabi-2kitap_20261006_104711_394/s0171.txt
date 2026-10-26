@@ -1,0 +1,95 @@
+171
+6. Tema / İstatistiksel Araştırma Süreci
+4. Adım: Değişkenlerin belirlenmesi
+Bu	 araştırmada	 değişken,	 fiziksel	 etkinlik	 süresidir.	 Verile r	 toplanırken	 bu	 değişkeni	 etkileyecek	 farklı	
+değişkenler	bulunmamaktadır.
+5. Adım: Verilerin nerede, ne zaman, nasıl ve kimler tarafından toplanacağının belirlenmesi
+Veriler,	 yüz	 yüze	 uygulama	 ile	 anket	 formlarının	 öğrencilere	 dağıtılması	 ve	 doldurulması	 yoluyla	 top-
+lanabileceği	gibi	dijital	anket	araçları	ile	de	toplanabilir.	Veriler	yüz	yüze	toplanacaksa	bir	araştırmacı	
+tarafından	öğrencilere	araştırmanın	amacı	ve	uygulama	süreci	ile	ilgili	bilgi	verilir.	Dijital	araçlarla	veri	
+toplanacaksa	bir	yönergeyle	araştırmanın	amacı	ve	süreç	hakkında	bilgi	verilir.	Örneklemdeki	öğrenci	
+sayısı	göz	önünde	bulundurularak	verilerin	toplanması	planlanabilir.
+6. Adım: Verilerin kaydedilmesi
+Veriler	elektronik	tablolama	programına,	istatistik	yazılımlarına	kaydedilebilir.
+7. Adım: Verilerin gizliliğinin sağlanması, nesnel ve dürüst olunması
+Veri	toplama	aşamasında	kişisel	verilerin	korunmasına	dikkat	edilmeli,	kişilerin	haklarını	ihlal	edecek	ve-
+rilerin	toplanmasından	kaçınılmalıdır.	Ayrıca	toplanan	veriler	araştırmacının	beklentileri	doğrultusunda	
+değiştirilmemeli,	veriler	üzerinde	değişiklik	yapılmamalıdır.
+5. Sıra Sizde      
+T .C.	Ticaret	Baka nlığı	Tüketi cinin	Koru nması	ve	Piya sa	Gözetimi	Gene l	Müd ürlüğünün	ha zırladığı	Türki ye	
+İsraf	Raporu’nun	ʻʻEnerji	Tüketimi	ve	İsrafıʼʼ	bölümünde	bireylerin	evde	elektrik	tasarrufu	sağlamaya	yöne-
+lik	davranışları	ele	alınmıştır.	Bu	doğrultuda	elde	edilen	sonuçlar	(%)	aşağıdaki	grafikte	yer	almaktadır.	
+Grafikte	elektrik	tasarrufuna	ilişkin	tüm	davranışları	her	zaman	gerçekleştirme	oranının	%50’nin	oldukça	
+altında	olduğu	görülmektedir.	
+Elektrikli aletleri 
+kullanmadığım 
+zaman fişten 
+çekerim.
+6,6
+29,7
+26,1
+37,6
+5,8
+22,7
+35,4
+36,1
+5,3
+22,2
+32,8
+39,6
+5
+22,9
+31,5
+40,6
+6,1
+28,2
+36,1
+29,5
+16,1
+34,2
+26,3
+23,4
+3,4
+19,3
+31,4
+45,9
+Elektrikli alet 
+satın alacağım 
+zaman enerji 
+verimliliği 
+yüksek (A, A+ 
+gibi) cihazları 
+satın almaya 
+dikkat ederim.
+Buzdolabının 
+soğutucu 
+sıcaklığını 
+yazın yaz, 
+kışın kış 
+ayarında 
+çalıştırırım.
+Evde 
+kullanmadığım 
+odaların 
+(odam, mutfak, 
+tuvalet vb.) 
+ışıklarını 
+kapatırım.
+Tasarruflu 
+ampul 
+kullanırım.
+Elektrikli ev 
+aletlerinin 
+bakım ve 
+temizliğini 
+düzenli 
+yaparım.
+Elektrikli ev 
+aletlerini gün 
+içinde elektrik 
+tüketim bedelinin 
+düşük olduğu 
+saatlerde (akşam 
+22.00’den sonra) 
+kullanırım.
+Her zaman Sık sık Bazen Hiçbir zaman

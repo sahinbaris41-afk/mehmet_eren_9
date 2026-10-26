@@ -1,0 +1,52 @@
+93
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.12.3.2
+Öğretmen yay dalgaları üzerinden girişim hakkında bilgi verir. Dairesel su dalgalarında gi-
+rişim olayına ilişkin resim, video veya simülasyon gibi materyaller kullanılabilir. Öğrenciler 
+girişim olayına ilişkin gözlemler yapar. Öğrenciler, girişim olayına ilişkin gözlemledikleri 
+durum hakkında kendi çizimlerini yapar (E1.4, OB4). Çizimlerde dalga boyu ve kaynaklar 
+arası mesafeyi gösterilebilir. Öğretmen, dalga katarı ve düğüm çizgileri ile ilgili matema-
+tiksel modellere girmeden frekans, dalga boyu ve kaynaklar arası mesafe değişiminin gi-
+rişim desenine etkisini öğrencilerin tahmin etmesini ister (KB2.11). Öğrencilerin simülas-
+yon veya deney düzenekleri kullanarak tahminlerine ilişkin gözlemler yapmaları sağlanır. 
+Öğrenciler dairesel su dalgalarında girişim olayını frekans, dalga boyu ve kaynaklar arası 
+mesafe değişkenleri ile ilişkilendirerek açıklar (OB1). Değişkenler üzerinden girişim olayı-
+na ilişkin genellemeler yapar. Öğretmen, girişim olayı ile ilgili yapılandırılmış grid, tanılayıcı 
+dallanmış ağaç, açık uçlu maddeler içeren çıkış kartları gibi ölçme araçlarından biri ile de-
+ğerlendirme yapabilir.  
+FİZ.12.3.3 
+Öğretmen, su dalgalarındaki girişim olayının diğer dalga türlerinde de olup olamayacağı-
+nı sorar, müzikte armoni hakkında bilgi verebilir; ses ve ışık dalgalarında da girişim ola-
+yının geçerli olduğunu söyleyebilir. Öğretmen ışıkta girişim olayının anlatımı için tahmin 
+et-gözle-açıkla yöntemini kullanmak üzere hazırladığı çalışma kâğıdını kullanabilir. Öğ-
+rencilerden, düşün-eşleş-paylaş, vızıltı gibi küçük grup tartışma tekniklerinden biri ile 
+ışıkta girişim olayını etkileyebilecek değişkenleri tahmin etmeleri istenebilir. Öğrenciler, 
+öğretmen rehberliğinde gruplara ayrılarak girişim olayını etkileyen yarıklar arası uzaklık 
+ve ışığın dalga boyu ile ilgili hipotezler oluşturur (D3.3). Öğrenciler, ışıkta girişimi etkileyen 
+yarıklar arası uzaklık ve ışığın dalga boyunu değiştirebilecek deney düzeneğini tek renkli 
+ışık kullanarak tasarlar (E3.4, SDB1.2). Öğrenciler çalışma kâğıdına yaptıkları deneye iliş-
+kin gözlemlerini çizebilir. Öğrenciler, yaptıkları çizimlere ilişkin ulaştıkları sonuçları analiz 
+ederek düşüncelerini bağlama uygun şekilde açıklar ve bunları sınıf arkadaşları ile paylaşır 
+(E1.5, KB2.10, OB1, SDB2.1). Öğretmen çalışma kâğıdını değerlendirebilir. 
+FİZ.12.3.4
+Öğretmen, su dalgalarındaki kırınımın diğer dalga türlerinde de olup olamayacağını sorar, 
+kırınım ağı hakkında bilgi verir; ses ve ışık dalgalarında da kırınım olayının geçerli olduğu-
+nu söyler. Işıkta kırınım olayına ilişkin süreci tahmin et-gözle-açıkla yöntemini kullanarak 
+hazırladığı çalışma kâğıdı ile sürdürebilir. Çalışma yaprağında öğrencilerden ışıkta kırınım 
+olayını etkileyebilecek değişkenleri tahmin etmeleri istenebilir. Öğrenciler kırınım olayını 
+etkileyen yarık genişliği ve ışığın dalga boyu ile ilgili hipotezler kurabilir. Öğrenciler ışıkta 
+kırınımı etkileyen yarık genişliği ve ışığın dalga boyu değişkenlerinin etkisini test edebile-
+cekleri deney düzeneklerini tasarlar (E3.4, SDB1.2). Öğrenciler, çalışma yaprağına tasar -
+ladıkları deney düzeneklerine ilişkin gözlemlerini çizer (OB4). Öğrenciler, yaptıkları çizim-
+lere ilişkin ulaştıkları sonuçları analiz ederek düşüncelerini bağlama uygun şekilde açıklar 
+(SDB2.1) ve bunları sınıf arkadaşları ile paylaşır (E1.5, KB2.14, OB1). Öğretmen, çalışma 
+kâğıdını dereceli puanlama anahtarı ile değerlendirebilir.
+FİZ.12.3.5
+Öğrencilerin gözle görülemeyen ışıkların olup olmadığı hakkında düşünmeleri istene-
+rek dikkatleri çekilebilir. Öğrenciler ön bilgilerinden faydalanarak sürat, frekans ve dal-
+ga boyu arasındaki ilişkiyi tanımlar (SDB1.1). Öğretmen elektromanyetik dalgaların ya-
+yılımını açıklar ve genel özelliklerini listeler. Tüm elektromanyetik dalgaların boşlukta 
+ışık sürati ile yayıldığını vurgular. Soru cevap veya beyin fırtınası gibi tekniklerden biri ile 
+elektromanyetik dalgaların niteliklerini öğrencilerin tahmin etmelerini sağlayabilir. Elekt-
+romanyetik dalgaların frekans, sürat, dalga boyu ve enerji değişkenlerini içeren hazır 
+veri seti verebilir. Öğrenciler veri seti üzerinden frekans ve dalga boyu değişkenleri ile

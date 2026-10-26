@@ -1,0 +1,60 @@
+144
+5. Tema/Ölçme ve Değerlendirme
+4.  Helmut	 Hasse	 [Helmut	 Hase	 (1898-1979)],	
+sayı	teorisi	ve	cebir	alanlarında	önemli	kat-
+kılarda	 bulunmuş	 bir	 Alman	 matematikçidir.	 
+Hasse	diyagramı,	adını	Helmut	Hasse’den	alır.
+	 Hasse 	diyagramı,	bir	sayının	asal	çarpanlarını	
+ve	bu	çarpanların	birleşimlerini	göstermek	için	
+kullanılabilir.	Şekil	1’de	verilen	Hasse	diyagra-
+mında	30	sayısının	asal	çarpanları	2,	3	ve	5	
+düğümleri	olarak	yer	almaktadır.	Yukarıya	doğ-
+ru	çıkıldıkça	bu	çarpanların	çeşitli	kombinas-
+yonları	daha	büyük	çarpanları	oluşturmaktadır.	
+ 
+ 
+30
+15
+5
+1
+2
+6
+10
+3
+Şekil 1
+	 Şekil 	2’de	30’un	çarpanlarına	eklenen	yeni	çar-
+panlarla	birlikte	60	sayısının	çarpanları	Hasse	
+diyagramı	yardımıyla	gösterilmektedir.
+ 
+ 
+60
+12
+20
+30
+15
+5
+1
+2
+6
+410
+3
+Şekil 2
+ Buna göre aşağıdaki soruları cevaplayınız. 
+a) Şekil 1 ve 2 yardımıyla 30 ve 60’ın pozitif 
+tam sayı bölenlerinin sayısının düğüm 
+sayılarıyla olan ilişkisini açıklayınız.
+ 
+ 
+b) 42 sayısının çarpanlarına eklenen yeni 
+çarpanlarla 84 sayısının çarpanlarını 
+Hasse diyagramı yardımıyla gösteriniz.
+ 
+Çizge Çizim Alanı
+c) 42 sayısının çarpanlarını Hasse diyagra-
+mıyla gösteriniz.
+ 
+Çizge Çizim Alanı
+ç) Deneme bölme algoritması yardımıyla 
+42 sayısının asal çarpanlarını bulunuz 
+ve Hasse diyagramındaki çarpanlar ile 
+aynı olup olmadığını karşılaştırınız.

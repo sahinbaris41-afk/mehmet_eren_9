@@ -1,0 +1,48 @@
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+79
+Hava Basıncı ve Basıncın Ölçülmesi
+Atmosfer gaz, toz ve kimyasal tuz (aerosol) içermektedir. Atmosferi oluşturan 
+gazların belli bir ağırlığı vardır. Bu gazların birim yüzeye uyguladığı kuvve-
+te hava basıncı adı verilir. Basınç, barometreyle ölçülür ve basıncın birimi 
+milibar (mb) veya hektopaskal (hPa) olarak ifade edilir (Görsel 3.2).  Farklı 
+merkezlerde ölçülen basınç değerlerinin eşit koşullarda değerlendirilebilmesi 
+için ölçüt olarak standart hava basıncı belirlenmiştir. Standart hava basıncı; 
+45° enleminde, deniz seviyesinde (0 m) ve 15 °C sıcaklıkta, 1013 milibar (mb) 
+olarak kabul edilmiştir.
+Hava basıncındaki değişimlerin hava durumu ve iklim üzerinde belirleyici et-
+kileri vardır. Basınç farkları; rüzgârların oluşumunu, genel hava dolaşımını ve 
+yağış mekanizmalarını doğrudan kontrol eder. Mekânsal olarak basınç değer-
+leri; sıcaklık, yükselti ve dinamik etkenlere bağlı olarak değişkenlik gösterir.
+Hava basıncındaki değişimlerin insan üzerinde de etkileri vardır. Yükseltiye 
+bağlı hava basıncı değişimi kulak çınlamasına, hava basıncındaki ani düşüş 
+ve yükselmeler bu duruma alışkın olmayan kişilerde baş ağrısına neden ola-
+bilmektedir.
+Görsel 3.2  
+Barometre
+Rüzgâr ve Rüzgârın Ölçülmesi
+Hava kütlesi, yüksek basınç merkezlerinden alçak basınç merkezlerine doğru 
+hareket eder. Bu iki merkez arasındaki basınç farkından kaynaklanan ve yer-
+yüzüne paralel olarak gerçekleşen yatay hava hareketlerine rüzgâr adı verilir. 
+Rüzgârlar, bünyelerindeki sıcaklık ve nemi hareket ettikleri bölgelere taşıyarak 
+hava durumu ve iklim üzerinde belirleyici rol oynar.
+Rüzgâr; hızı (şiddet), yönü ve esme sıklığına (frekans) göre şekillenir. Hava 
+kütlesinin birim zamanda katettiği mesafe rüzgâr hızı olarak adlandırılır ve 
+bu hız anemometre (yelölçer) ile ölçülür. Ölçüm sonuçları genellikle metre/
+saniye (m/sn) veya kilometre/saat (km/sa) cinsinden ifade edilir (Görsel 3.3).  
+Rüzgârlar, atmosferik enerjinin dengeli şekilde dağılması ve beşerî faaliyet-
+lerin düzenli olarak gerçekleşmesinde önemli görevler üstlenir. Kentsel alan-
+lardaki hava kütlesini dağıtarak endüstriyel kirleticilerin yoğunlaşmasını önle-
+mesi, hava kalitesini artırması, deniz ve hava ulaşımının güvenli bir şekilde 
+sürdürülmesine katkıda bulunması bu duruma örnek verilebilir. Ayrıca rüzgâr, 
+günümüzde sürdürülebilir enerji üretiminin gerçekleşmesinde de temel bir 
+kaynak konumundadır.
+Görsel 3.3   
+Anemometre ile rüzgâr 
+ölçümü
+Su yeryüzünde katı, sıvı ve gaz hâlde bulunur. Suyun atmosfer, litosfer, hidros-
+fer ve biyosfer arasında sürekli olarak yer değiştirmesine su döngüsü denir. 
+Bu süreçte su; buharlaşma, süblimleşme ve terleme yoluyla gaz fazına geçe-
+rek su buharı şeklinde atmosfere karışır. Atmosfere karışan su buharına nem 
+adı verilir. Nem, higrometre (nemölçer) ile ölçülür. Aşırı ısınma ve soğumayı 
+engelleyerek sıcaklığın dengelenmesinde kritik rol oynar.
+Nem ve Yağışın Oluşumu, Ölçülmesi

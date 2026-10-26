@@ -1,0 +1,46 @@
+38 39
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+1. Adım: Etkinliğe Giriş
+1. Öğrencileri 2-4 kişilik gruplara ayırınız. 
+2. Öğrencilere Bohr atom teorisi ile ilgili kısaca bilgi veriniz.
+3. Öğrencilere modern atom teorisine (kuantum atom modeline) neden ihtiyaç duyulduğu konusun-
+daki düşüncelerini grup içinde ifade ederek not almaları gerektiğini belirtiniz.
+4. Öğrencilere modern atom teorisi (kuantum atom modeli) ile ilgili kısaca bilgi veriniz. Modern atom 
+teorisini işlerken Heisenberg (Haysenbörg) belirsizlik ilkesini açıklayınız ve orbital kavramını vur-
+gulayınız.
+5. Öğrencilere orbital türlerini ve orbitallerin özelliklerini, gerekli materyalleri kullanarak anlatınız.
+6. Gruplardan Schrödinger dalga denklemi ile ilgili aşağıdaki soruların cevaplarını araştırmalarını 
+isteyiniz.
+• Schrödinger dalga fonksiyonu (Ψ) (pisi) ve dalga fonksiyonunun karesi (Ψ
+2
+) kavramlarının tanı-
+mı nedir?
+• Bu denklem ile elektronun hangi özelliği açıklanmaktadır?
+• Schrödinger dalga denklemi hangi sistemler için çözülebilmiştir?
+• Bu denklemin çözümünden hangi sonuçlar ortaya çıkmıştır?
+• Bu denklemin çözümünden ortaya çıkan kuantum sayıları nelerdir?
+• Her bir kuantum sayısının anlamı nedir?
+• Kuantum sayıları ile orbitallerin şekilleri arasındaki ilişki nedir?
+• Denklemin çözümünden orbitallerin şekillerine nasıl ulaşılmıştır?
+• Schrödinger dalga denklemi sonucu elde edilen kuantum sayılarının elektronun toplam ener-
+jisine katkısı nedir?
+Etkinliğin Amacı • Schrödinger dalga denkleminin hidrojen atomu için çözümünden kuan-
+tum sayılarının ve orbital düşüncesinin nasıl ortaya çıktığını araştırabilme
+• Öğrencilerin güvenilir kaynaklardan bilgi toplayarak kanıta dayalı ürün 
+oluşturma becerilerini geliştirebilme
+• Öğrencilerin bilgileri etkili bir şekilde paylaşma becerilerini geliştirebilme
+Zenginleştirme 
+Uygulaması
+Öğrencilerden kuantum atom modelini, Schrödinger dalga denklemini ve 
+orbital şekillerinin ilişkisini araştırmaları, genel ağ tasarım araçlarını kulla-
+narak orbitallerin şekli ve uzaysal yönelimleri ile ilgili bilgi görseli, animas-
+yon ve sunu hazırlamaları istenebilir.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov, edu uzantılı)
+• Sunum yazılımları
+• Ders kitabı
+8. ETKİNLİK ADI SCHRÖDİNGER DALGA DENKLEMİ
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.

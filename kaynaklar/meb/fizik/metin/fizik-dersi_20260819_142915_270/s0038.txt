@@ -1,0 +1,38 @@
+38
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin hız, konum, yer değiştirme ve ivme kavramlarını bildiği kabul edilmektedir. 
+Ön Değerlendirme Süreci Hız, konum, yer değiştirme ve ivme kavramlarına yönelik soru cevap etkinliği yapılabilir.
+Köprü Kurma Hız, sürat ve ivme kavramlarına yönelik önceki öğrenmelerde yer alan kavramsal bilgiler 
+soru cevap etkinliği ile hatırlatılabilir. Bu kavramların günlük hayattaki karşılıkları örnek -
+lendirilerek bu örnekler sabit hızlı ve sabit ivmeli hareket ile ilişkilendirilebilir.
+Öğrenme-Öğretme 
+Uygulamaları FİZ.10.1.1
+Öğrenciler yatay doğrultuda sabit hızlı hareket eden araçların görüntülerini izleyerek hız, 
+zaman, konum ve yer değiştirme değişkenlerini tartışabilir. Öğretmen, öğrencilerden ya-
+tay doğrultuda sabit hızlı hareket eden cisimlerin konum, yer değiştirme, hız ve zaman 
+değişkenlerini gözlemleyip veri toplayabilecekleri bir deney tasarlamalarını ya da simü-
+lasyon veya animasyon kullanmalarını ister. Öğrenciler, öğretmen rehberliğinde gruplar 
+oluşturarak (SDB2.1) tasarladıkları deneyi (SDB1.2) gerçekleştirir veya dijital içeriklerden 
+yararlanarak konum, yer değiştirme, hız ve zaman değişkenleriyle ilgili tekrarlanan (D12.3, 
+E1.3) sistematik (E3.7) ölçümler yapar ve verileri kaydederek hız-zaman ve konum-zaman 
+grafiklerini çizer. Öğretmen soru cevap tekniğini kullanarak öğrencilerin grafiklerin altın-
+da kalan alan ve eğim hesaplamalarına odaklanmasını (E3.2), buldukları sonuçlarla ilgili 
+çıkarım yapmasını sağlar (KB2.10). Öğrenciler arkadaşlarıyla tartışarak (SDB2.2) grafikler 
+üzerinden (OB7) matematiksel modellere ulaşır. Matematiksel modelleri ve grafik bilgisini 
+kullanarak yatay doğrultuda sabit hızla hareket eden cisimler için konum, yer değiştirme, 
+hız ve zaman değişkenlerine ilişkin genellemeler yapar. Öğrenciler deney sürecinin basa-
+maklarındaki işlem süreçleri hakkında bir çalışma yaprağı ile değerlendirilebilir.
+FİZ.10.1.2 
+Öğretmen, yatay doğrultuda sabit ivmeli hareket yaparak farklı yönlerde hızlanan ve ya-
+vaşlayan farklı cisimlerin hız ve zaman değerlerini hazır veri seti olarak verebilir. Öğrenci-
+lere ivme kavramına ilişkin ön bilgi hatırlatılarak öğrencilerin ivme ve hız değişimi arasında 
+ilişki kurmaları sağlanır (SDB1.1). Öğrenciler farklı hız değişimi durumlarına ilişkin ivme-
+nin yönü ve büyüklüğü hakkında iddialar ortaya koyar ve bu iddiaları sınıf arkadaşları ile 
+tartışır (E3.5). Kendi gözlemlerini ifade eder (SDB2.1) ve karşıt görüşlere açık davranırlar. 
+Tartışma sürecinde öğrencilerden iddialarını veriye dayalı olarak desteklemeleri (OB7), 
+varsa akranlarının karşıt iddialarını saygı çerçevesinde çürütmeleri (D3.3, SDB2.3) istenir 
+(KB2.12). Sınıftaki öğrenciler, tartışma sürecinin sonunda akranlarıyla uyumlu olarak ivme 
+ve hız değişimi arasındaki ilişkiyi keşfeder ve geneller. Öğrencilere ivme ve hız değişimi 
+arasındaki hesaplamalar ve yorumları hakkında bir çıkış kartı verilebilir.

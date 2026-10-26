@@ -1,0 +1,36 @@
+1.TEMA - SAYILAR
+Gezegenlerin çekim kuvveti ile ilgili matematiksel temsiller incelenirken Newton’un evrensel 
+çekim yasası ve yer çekimi kavramları büyük önem taşır. Bu çerçevede gezegenler arasındaki çekim 
+kuvveti, gezegenlerin kütleleri ve aralarındaki uzaklık gibi değişkenlerin matematiksel formüllerle 
+ifade edilmesiyle modellenir. Gezegenlerin birbirleri üzerindeki çekim kuvveti:
+F : Kütle Çekim Kuvveti 
+G : Evrensel Kütle Çekim Sabiti 
+M1 ve M2  : Gezegenlerin Kütleleri 
+r : Gezegenler Arası Uzaklık
+Bu matematiksel temsiller, gezegenler arası hareketlerin modellenmesine olanak tanır ve bu 
+modellerin analiziyle gezegenlerin hareketleri hakkında bilgi edinilir.
+1. Adım
+Bilgi kutucuğunda verilen Evrensel Çekim Yasası formülünde
+M1 = 6 x 10²⁴ kg, M2 = 7 x 10²² kg ve r = 3 x 10⁸ m değerlerini yerine koyarak kütleleri verilen iki geze-
+gen arasındaki çekim kuvvetini hesaplayınız. Hesaplama yaparken üslü ifadelerin hangi özelliklerini 
+kullandığınızı belirtiniz (G = 6.561 x 10-11 N(m/kg)² alınız).
+formülüyle hesaplanır. 
+Çözüm:
+Bilgi
+Etkinliğin Amacı Çekim kuvvetine ilişkin matematiksel temsillerden yola çıkarak üslü ve kök-lü gösterimlerde işlem özelliklerini kullanabilme.
+Zenginleştirme 
+Uygulaması
+Öğrencilere astronomi (gezegenlerin birbirine uzaklığı), biyoloji (hücre, or -
+ganel yapısı), fizik (gezegenlerin çekim kuvveti), kimya (Avogadro sayısı) gibi 
+farklı disiplinlerde geçen matematiksel temsillerin incelenmesi, yorumlan -
+ması ve bilimsel gösterimle ifade edilmesine yönelik sunumlar yaptırılır.
+Araç Gereç ve 
+Materyaller • Akıllı tahta
+Yönerge
+Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz. Etkinlik 
+sonunda hazırlanması istenen sunum, öğretmeniniz tarafından "Kontrol Lis-
+tesi" ile değerlendirilecektir.
+1. ETKINLIK Gezegenler Arası Çekim Kuvveti
+Yıldızlı  Etkinlik 
+1.TEMA - SAYILAR
+13

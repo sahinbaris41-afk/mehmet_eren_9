@@ -1,0 +1,34 @@
+1. Tema/Etkileşim
+38
+Temel güvenlik uyarı 
+işaretleri ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.
+Temel	Güvenlik	Uyarı	İşaretleri
+Kimyasal maddelerin etiketlerinde çeşitli uyarı, risk ve önlem bilgileri bulun -
+maktadır. Bu nedenle herhangi bir kimyasal maddeyi kullanmadan önce kim-
+yasal maddenin etiketi dikkatle okunmalı ve o maddeyle çalışılırken gerekli 
+tedbirler alınmalıdır. Kimyasal maddelerin etiketlerinde bulunan sağlık ve gü-
+venlik amaçlı kullanılan işaretlere risk piktogramları da denir. Bu işaretler ve 
+anlamları daha önce verilmeyen risk piktogramları aşağıda verilmiştir.
+Patlayıcı Madde
+Korozif Madde
+Zehirli Madde
+Çevreye Zararlı
+Madde
+Oksitleyici Madde
+Tahriş Edici 
+Madde
+Yanıcı, Parlayıcı 
+Madde
+Sağlık Etkisi
+Gaz
+Basınç altında gaz içerir. Çıkan gaz soğuk olabilir ve ısıtıldığında patlaya-
+bilir. Deriye ve göze temas ettirilmemelidir.
+Radyoaktif Madde
+Çevresine radyasyon yayar ve canlı dokularda kalıcı hasarlara neden 
+olabilen maddelerdir. Bu işaretin bulunduğu bölgelerde dolaşılmamalı, 
+koruyucu giysiler kullanılmalıdır.
+Tıbbi Atık
+Sağlık ünitelerindeki işlemler sırasında ortaya çıkan, enfeksiyon riski ta-
+şıyan, patolojik veya kesici-delici atıklardır.

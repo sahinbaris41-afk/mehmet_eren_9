@@ -1,0 +1,51 @@
+32
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.9.4.1. İç enerjinin ısı ve sıcaklık ile arasındaki ilişki hakkında tümevarımsal akıl yürü-
+tebilme 
+a) Isı, sıcaklık ve iç enerji ile ilgili görselleri inceler.
+b) İç enerjinin ısı ve sıcaklık ile ilişkisini bulur.
+c) İç enerjinin ısı ve sıcaklık ile arasındaki ilişkiyi geneller.
+FİZ.9.4.2. Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki matematiksel modele ilişkin tü-
+mevarımsal akıl yürütebilme 
+a) Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki ilişkiyi deney yoluyla keşfederek ma-
+tematiksel modeline ulaşır.
+b) Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki matematiksel modeli farklı durumlar 
+için hesaplamalar yaparak geneller.
+FİZ.9.4.3. Hâl değiştirme sıcaklığında bulunan saf bir maddenin hâl değiştirmesi için alı-
+nan veya verilen ısı miktarının bağlı olduğu değişkenler hakkında bilimsel çıkarım 
+yapabilme
+a) Hâl değişimini etkileyen nitelikleri tespit eder.
+b) Hâl değişimini etkileyen niteliklerle ilgili veri toplayıp kaydeder. 
+c) Saf maddelerde hâl değişimini etkileyen nitelikler ile ilgili topladığı verileri yorum-
+layarak matematiksel model aracılığıyla değerlendirir. 
+FİZ.9.4.4. Isıl denge durumu hakkında bilimsel gözlem yapabilme
+a) Isıl dengede olma durumu ile ilgili nitelikleri tanımlar. 
+b) Farklı sıcaklıktaki maddelerin ısıl dengeye ulaşma sürecine ilişkin veri toplayarak 
+kaydeder. 
+c) Isıl dengeye ulaşma süreci ile ilgili elde ettiği verileri açıklar. 
+FİZ.9.4.5. Isı aktarım yollarını sınıflayabilme
+a) Isı aktarım yollarının niteliklerini belirler.
+b) Niteliklerine göre ısı aktarım yollarını benzerlik ve farklılıklarına göre ayrıştırır.
+c) Isı aktarım yollarını benzerliklerine göre gruplandırır.
+ç) Gruplandırdığı ısı aktarım yollarını adlandırır.
+FİZ.9.4.6. Günlük hayattaki deneyimlerinden yola çıkarak katı maddelerdeki ısı iletim hızı-
+nı etkileyen etmenlere yönelik yansıtma yapabilme
+a) Katı maddelerde ısı iletim hızı ile ilgili deneyimlerini gözden geçirir. 
+b) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarım yapar.
+c) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarımlarını değerlen-
+dirir.
+İÇERİK ÇERÇEVESİ İç Enerji, Isı ve Sıcaklık Arasındaki İlişki
+Isı, Öz Isı, Isı Sığası ve Sıcaklık Farkı Arasındaki İlişki 
+Hâl Değişimi 
+Isıl Denge
+Isı Aktarım Yolları 
+Isı İletim Hızı
+Anahtar Kavramlar ısı, sıcaklık, iç enerji, öz ısı, ısı sığası, hâl değişimi, ısıl denge, ısı aktarımı
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; açık uçlu soru, kısa bir rapor yazma, kavram haritası, proje ödevi kulla-
+nılarak değerlendirilebilir.
+İç enerji, ısı, öz ısı, ısı sığası ve sıcaklık farkı kavramlarına yönelik açık uçlu maddelerden 

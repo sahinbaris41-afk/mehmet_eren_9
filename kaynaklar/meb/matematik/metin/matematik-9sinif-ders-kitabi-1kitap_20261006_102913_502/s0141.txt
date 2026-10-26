@@ -1,0 +1,37 @@
+141
+2. Tema /  Nicelikler ve Değişimler
+ile eşleyen fonksiyonun grafiği y ekseni boyunca negatif yönde 3 birim ötelenerek f fonksiyonunun 
+grafiği aşağıdaki gibi oluşturulur.
+O x
+y
+f
+2
+-3
+ 
+fx xx 2323 30 3&=- ==_i .xx bulunur36 2&& ==
+ Bu değer, f fonksiyonunun sıfırıdır. Grafik incelendiğinde f fonksiyonunun grafiğinin x eksenini (2, 0) 
+noktasında kestiği ve fonksiyonun (-∞, 2) nda negatif değerler aldığı görülür.
+c)	 																																														
+x      -∞                                                  ∞
+ f(x) 0 +-
+2
+Oluşturulan işaret tablosunda f(x)  0 eşitsizliğinin çözüm aralığının (-∞, 2) olduğu görülür.
+ 
+11.	Uygulama
+Denklem ve Eşitsizliklerin Çözümünde Kullanılan Stratejiler
+Aşağıda verilen problemleri inceleyerek soruları cevaplayınız.
+Yağmur suları, iki farklı parkta bulunan A ve B depolarında toplanarak güneşli havalarda çimlerin sulanması ama-
+cıyla kullanılmaktadır. A ve B depoları tamamen dolu iken sulama sistemi çalıştırılmış ve depolardaki su tükenene 
+kadar sulamaya devam edilmiştir. Sulama sırasında birim zamanda kullanılan su miktarları sabittir. A ve B depo-
+larında kalan su miktarları (l), zamana (sa.) bağlı olarak sırasıyla uygun aralıklarda tanımlı f ve g fonksiyonları ile 
+ifade edilmiştir.
+f ve g fonksiyonlarının cebirsel temsilleri, f(x) = 38,4 – 1,2x ve g(x) = 30,4 – 0,8x biçimindedir.
+1. Problem:  A  ve B depolarında başlangıçta kaç litre su olduğunu ve depolardaki suyun tükendiği zamanı (sa.) 
+bulunuz.
+2. Problem:  Depolarda kalan su miktarları birbirine eşit olduğunda kalan su miktarını ve eşitlenme zamanını 
+bulunuz.
+3. Problem:  A  deposunda kalan suyun B deposunda kalan sudan daha az olduğu zaman aralığını bulunuz.
+1.  Matematik yazılımı yardımıyla f ve g fonksiyonlarının gerçek sayılarda grafik temsillerini aşağıdaki adımları 
+izleyerek oluşturunuz.
+a)  Giriş bölümüne f(x) = 38,4 − 1,2x yazıp Enter tuşuna basınız.
+b)  Giriş bölümüne g(x) = 30,4 − 0,8x yazıp Enter tuşuna basınız.

@@ -1,0 +1,25 @@
+61
+1. Tema /  Sayılar
+19. ÖRNEK
+“a, b Q! ,  b  a olmak üzere a ve b nin toplamının yarısı b den büyük, a dan küçüktür.” önermesinin 
+doğru olup olmadığını cebirsel olarak ispatlayınız.
+Çözüm
+Önerme: ,ab Q!  olmak üzere b  a ise b ab a211 +  olur.
+Hipotez: ,ab Q!  olmak üzere b  a olsun.
+Hüküm:		 b ab a211 +   olur.
+İspatın adımları aşağıdaki gibidir.
+1.	adım: Ortalama alınır.
+a ve b nin aritmetik ortalaması ab2+  olur.
+2.	adım: Eşitsizliğin iki tarafı b ile toplanarak b nin ortalamadan küçük olduğu gösterilir.
+ba bb ab ise ba b ise b abise 2 211 11++ + +  olur.
+3.	adım: Eşitsizliğin her iki tarafı a ile toplanarak a nın ortalamadan büyük olduğu gösterilir.
+ba ise ab aa ise ab a ise ab a2 211 11++ + +  olur.
+4.	adım: 2 ve 3. adımlarda elde edilen eşitsizlikler yardımıyla b ab a211 +  elde edilerek hükme ula-şılır. Bu durumda önermenin doğru olduğu ispatlanmış olur.
+14.	Sıra	Sizde      
+Gerçek	sayılarda	sıralama	özellikleri	yardımıyla x, y, m ve n R!  olmak	üzere 
+x  y ve m  n için x + m  y + n olup	olmadığını	cebirsel	olarak	ispatlayınız.	
+Örneğin bir mühendis, bir köprü veya bina tasarlarken yapının taşıyacağı maksimum ve minimum yük -
+leri hesaplar. Arada olma özelliği sayesinde yapının bu iki yük arasındaki herhangi bir değeri güvenle 
+taşıyabileceğini bilir ve buna göre tasarımını yapar. 
+Bir sayı kümesindeki herhangi iki sayı arasında aynı sayı kümesinden başka bir sayının yer alması, 
+o kümenin arada	olma özelliğine sahip olduğunu gösterir.

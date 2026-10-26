@@ -1,0 +1,62 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+55
+Aşağıda tabiat parkı olarak düzenlenecek bir yerin haritası verilmiştir.
+1.
+ Sazlı 
+Göl etrafında giriş noktasından başlayarak sırasıyla iskele, Kurbağalı Göl, göl evi, şelale ve tarihî ya-
+pıları ziyaret edebilecek; çıkış noktasında sona erecek şekilde bir gezi rotası oluşturunuz. Belirlediğiniz rotayı 
+harita üzerine çiziniz.
+2.
+ Çizdiğiniz 
+yürüyüş rotasında ahşap köprü yapılması gereken noktaları belirleyerek haritada işaretleyiniz. 
+Harita işaretlerinde ahşap köprü yazan yere kullandığınız sembolü ekleyiniz.
+3.
+ Çizdiğiniz yürüyüş r
+otasının uzunluğunu hesaplayıp haritanın işaretler (lejant) bölümüne yazınız.
+4.
+ Çizdiğiniz 
+yürüyüş rotasına birer kilometre aralıklarla çeşme ve çöp kutusu yerleştiriniz. Harita işaretlerinde 
+çeşme ve çöp kutusu yazan yere kullandığınız sembolü ekleyiniz.
+5.
+ T
+abiat parkına hâkim bir konuma (yükseltinin en fazla olduğu yere) gözlem kulesi yerleştirebilmek için en 
+uygun yeri belirleyiniz. Gözlem kulesini haritaya çiziniz. Gözlem kulesinin girişe göre hangi yönde olduğunu 
+belirtiniz. Harita işaretlerinde gözlem kulesi yazan yere kullandığınız sembolü ekleyiniz.
+Aşağıda verilen adımları iş birlikli çalışmayla gerçekleştiriniz.
+c) Kabartma Yöntemi
+Kabartma yöntemiyle oluşturulan haritalar, yükseltilerin üç bo-
+yutlu bir maket hâlinde gösterildiği haritalardır (Görsel 2.9).   
+  Kabartma haritaları, algılanması kolay olduğu için yer şekil-
+lerinin öğrenilmesini kolaylaştırır. Kabartma haritaları, görme 
+engelli kişilerin haritaları öğrenmelerine olanak sağlaması 
+açısından ayrı bir önem taşır. Bu haritaların üretiminde plas-
+tik malzemelerin kullanılmasıyla maliyet azalmış ve haritalar 
+rahat taşınır hâle gelmiştir. Günümüzde üç boyutlu yazıcılar 
+kullanılarak da kabartma haritalar yapılabilmektedir. Görsel 2.9: Türkiye kabartma haritası
+UYGULAMA Tabiat Parkı Planlamada Haritadan Yararlanma
+K
+Akarsu
+Göl
+Sazlı Göl
+Kurbağalı 
+Göl
+Bataklık
+Tarih� yapı
+Göl evi 
+İskele
+Giriş
+Çıkış
+Yürüyüş 
+rotasının 
+uzunluğu:
+260
+265
+270
+Tabiat Parkı Gezi Haritası
+Ahşap köprü
+Gözlem kulesi
+Çeşme
+Yol
+Çöp kutusu
+0          100         200
+m

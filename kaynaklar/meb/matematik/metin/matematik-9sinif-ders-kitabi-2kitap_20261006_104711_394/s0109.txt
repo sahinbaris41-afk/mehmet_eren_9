@@ -1,0 +1,51 @@
+109
+5. Tema/Algoritma ve Bilişim  
+3. ÖRNEK
+Sözde Kod
+(Birler basamağı b olarak kısaltılmıştır.)
+Girdi:	Pozitif	bir	tam	sayı	x
+Çıktı:		x	in	5’e	tam	bölünüp	bölünmediğine	dair	doğru	
+ya	da	yanlış	şeklinde	bir	çıktı
+Başla
+ %bx 10! 	Sayının	birler	basamağını	bul
+	 b 	0	veya	5	ise
+				 					Yazdır	DOĞRU	(x,	5’e	tam	bölünür .)
+	 b 	0	veya	5	değilse
+				 					Yazdır	YANLIŞ	(x,	5’e	tam	bölünmez.)
+Bitir
+ 
+Yanda	pozitif	bir	tam	sayının	5’e	tam	bölünüp	
+bölünmediğini	bulan	bir	algoritmanın	işleyişi	
+sözde	kodla	ifade	edilmiştir.	
+Buna	göre	aşağıdaki	soruları	cevaplayınız.	
+a)		Algoritmanın	işleyişini	algoritmik	doğal	dil-
+le	ifade	ediniz.
+b)		47’nin	5’e	tam	bölünüp	bölünmediğini	akış	
+şeması	üzerinde	test	ediniz.	
+Çözüm
+a)		Algoritmik	doğal	dil,	aşağıdaki	gibi	yazılabilir.
+ 
+Algoritmik Doğal Dil
+1. adım:	Başla.
+2. adım: Girdilerin alınması
+	 Kullanıcıdan 	pozitif	bir	tam	sayı	al.	
+3. adım: 5’e tam bölünebilme testi 
+	 b 	yi	bul.	Bu	işlem	için	sayının	10’a	bölümünden	ka lanı	bul.
+	 Birler 	basamağının	0	veya	5	olup	olmadığını	kont rol	et.
+4. adım: Sonucun yazdırılması
+	 Birler 	basamağı	0	veya	5	ise	ekrana	‟Sayı,	5’e	tam	bölünür.”	mesajını	yaz.
+	 Birler 	basamağı	0	veya	5	değilse	ekrana	‟Sayı,	5’e	tam	bölünmez.”	mesajını	yaz.
+5. adım:	Bitir.
+b)		Akış	şeması	yardımıyla	47’nin	5’e	tam	bölünüp	bölünmediği	aşağıda	test	edilmiştir.
+Başla
+Pozitif	bir	tam	sayı	(x)	gir
+Hayır b5=  veya  
+b0=
+Evet
+Bitir
+x	5’e	tam	bölünmez
+47	5’e	tam	bölünmez.
+x	5’e	tam	bölünür
+%bx 10= %b4 71 07==
+x4 7=
+veya75 70!!

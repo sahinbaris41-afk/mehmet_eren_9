@@ -1,0 +1,49 @@
+162
+6. Tema / İstatistiksel Araştırma Süreci
+3. ÖRNEK
+T .C.	Gençlik	ve	Spor	Bakanlığı,	T .C.	Millî	Eğitim	Bakanlığıyla	iş	birliği	yaparak	Türkiye	Sportif	Yetenek	
+T araması	ve	Spora	Yönlendirme	Programı’nı	başlatmıştır.	Programın	amacı;	toplumda	spor	yapma	kül-
+türünü	geliştirmek,	sporun	geniş	kitleler	arasında	yaygınlaşmasını	sağlamak,	spora	başlama	yaşındaki	
+yetenekli	çocukları	tespit	ederek	uygun	spor	branşlarına	yönlendirmektir.	Program	kapsamında	her	yıl	
+ilkokul	3.	sınıf	öğrencilerine	yönelik	test	ve	ölçümler	yapılmaktadır.
+Bu	program	doğ rultusunda	A	il kokulunun	3.	sınıf	öğren cilerinin	yete neklerini	bel irlemek	ama cıyla	yap ılan	
+ölçümlerden	biri	de	öğrencilerin	boylarıdır.	Buna	yönelik	belirlenen	araştırma	soruları	aşağıdaki	gibidir.
+a) Öğrencilerin	boyları	ne	kadardır?	
+b) Erkek	öğrencilerin	boyu,	kız	öğrencilerin	boyundan	daha	mı	uzundur?
+Buna	göre	oluşturulan	soruları	istatistiksel	araştırma	sorusunda	olması	gereken	ölçütlere	göre	incele-
+yiniz.	Sorularda	ilgili	ölçütlerde	uygun	olmayan	ifadeler	bulunduğunu	düşünüyorsanız	soruları	yeniden	
+oluşturunuz.
+Çözüm
+a) Bağlamda	verilen	amaç	doğrultusunda	“Öğrencilerin	boyları	ne	kadardır? ”	şeklinde	oluşturulan	ista-
+tistiksel	araştırma	sorusunun	ilgili	ölçütlere	göre	incelenmesi	aşağıdaki	gibidir.
+Araştırma Sorusu 
+Ölçütleri Sorunun İlgili Ölçütü Karşılayıp Karşılamadığına Dair Fikirleriniz
+Amaç	açık	mıdır?	 Amaç	açıktır.	Sor u,	öğrenc ilerin	boylar ını	betim lemeye	yönelik	hazı rlanan	betim-leyen	istatistiksel	araştırma	sorusudur.		
+Araştırmaya	değer	midir? Soru,	boyları	beli rlenen	öğren cilerin	ilg ili	spor	dall arına	yönle ndirilebilmesi	bakı-mından	düşünülürse	araştırmaya	değerdir.
+İlgilenilen	grup	(evren)	
+açıkça	görülmekte	midir?
+İlgilenilen	grup	öğrencilerdir	ancak	soruda	bu	öğrencilerin	tek	bir	okuldan	mı	
+belirleneceği,	farklı	sınıf	seviyelerinden	mi	olacağı	belli	değildir.	Bağlam	doğrul-
+tusunda	öğrencilerin	okulu	ve	sınıf	seviyeleri	soruda	belirtilmelidir.
+(“A	ilkokulunda	okuyan	3.	sınıf	öğrencileri”	gibi)
+Değişken		açıkça	
+görülmekte	midir?
+Değişken	açıkça	görülmektedir.	Araştırma	sorusundaki	değişken,	öğrencilerin	
+boyudur.
+Veri	toplanarak	cevapla-
+nabilir	mi?
+Soru,	birincil	verilerle	cevaplanabil ecek	yapıdadır .	Öğrencilerin	boyları	ölçü lerek	
+verilerin	toplanması	durumu	söz	konusudur.
+Değişebilirliği	yansıtmakta	
+mıdır?
+Araştırma	 soru sundaki	 de ğişebilirlik,	 do ğal	 orta mdan	 kayn aklı	 de ğişebilirlik	
+türündedir.	
+Odaklanılan	grup	
+araştırma	yapılmasına	
+imkân	vermekte	midir?
+Soru,	öğrencilerin	boylarının	ölçülmesi	ile	elde	edilen	verilerin	tamamını	analiz	
+etmeye	yöneliktir.
+Nicel	veri	toplamayı	
+gerektirir	mi?
+Araştırma	sorusunda	toplanması	beklenen	veriler,	öğrencilerin	boy	ölçüm	veri-
+leridir.	Boy,	bir	ölçüm	sonucu	elde	edilen	veri	olduğundan	nicel	veridir.

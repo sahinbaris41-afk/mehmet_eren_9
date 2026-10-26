@@ -1,0 +1,40 @@
+61
+architecture firm (n)  a business where people design homes, offices, and other buildings
+bank (n)  a place where people keep, borrow, or save money
+bank clerk (n)  an employee of a bank who receives and pays out money
+business office (n)  a room or building where people do office work for a business
+business person (n)  someone who works in business or owns a business
+check (v)  to examine something to see if it is correct, safe or acceptable
+clinic (n)  a place where people go for medical treatment or advice
+computer programmer (n)  someone who writes programmes for computers to do tasks
+content creator (n)  a person who creates digital content for websites or social media
+counsel (v)  to listen to someone and give professional advice
+cousin (n)  a child of a person’s aunt or uncle
+defend (v)  to try to prove in court that someone is not guilty
+design (v)  to make or draw plans for something, such as clothes or buildings
+develop (v)  to invent or create something new, like a product or service
+digital marketer (n)  someone who uses the Internet to sell products or services
+IT company (n)  a company that creates computer systems and programmes
+journalist (n)  a person who writes for newspapers, magazines, or news websites
+law firm (n)  a company where lawyers work and help people with legal problems
+lawyer (n)  a person who gives legal advice and defends clients in court
+manage (v)  to organise and control a business or employees
+nephew (n)  the son of a person’s sister or brother
+news agency (n)  an organisation that collects news and shares it with media
+niece (n)  the daughter of a person’s sister or brother
+organise (v)  to arrange things in a clear and tidy way
+pharmacist (n)  a person whose job is to prepare and sell medicines
+pharmacy (n)  a shop that sells medicines
+photographer (n)  a person who takes photographs, either as a job or hobby
+photography studio (n)  a place with equipment for taking professional photos
+promote (v)  to help sell or advertise a product, service, etc.
+psychologist (n)  someone who studies the human mind, feelings, and behaviour
+publish (v)  to print or put something online for others to read
+relative (n)  a member of a person’s family
+report (v)  to share facts about an event in newspapers, TV, or online
+research (v)  to study something carefully and try to discover new facts about it
+science lab (n)  a room or place used for science experiments and studies
+GLOSSARY
+accounting firm (n)  a company that helps clients with their financial records and taxes
+advise (v)  to tell someone what to do based on knowledge or experience
+architect (n)  a person who designs buildings and advises in their construction

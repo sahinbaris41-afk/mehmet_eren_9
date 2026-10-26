@@ -1,0 +1,45 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+86 87
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+Etkinliğin Amacı Etkinlik öğrencilerin, Bernoulli İlkesi'nin uçak, helikopter ve İHA'ların uçuş di-
+namiklerine etkisini öğrenerek aerodinamik bir model tasarlamalarını ve bu 
+yapıları görsellerle desteklemelerini amaçlamaktadır.
+Zenginleştirme 
+Uygulaması
+Uçak, helikopter, insansız hava araçları gibi araçların uçmalarında ve ma -
+nevralarında Bernoulli İlkesi’nin etkisi görsellerle desteklenerek tartışıla -
+bilir.
+Araç Gereç ve 
+Materyaller
+• A3 karton kraft kâğıt, makas, yapıştırıcı, 100 cm plastik misina teli, 
+kapalı piton çengelli vida, 2 cm x 2 cm x 60 cm tahta çıta, kalınlığı 2cm 
+yüksekliği ve kenar uzunluğu 4 cm eşkenar üçgen tahta (4 adet), mat-
+kap, vida (8 adet)
+• Cetvel
+• Vantilatör (rüzgâr oluşturmak için)
+• Grafik kâğıdı (veri toplamak ve analiz etmek için)
+• Uçak, İHA (insansız hava aracı) ve helikopterlerin çalışma prensiplerini 
+gösteren çeşitli görsel, video, makale, tez vb. kaynaklar
+1. Adım: Etkinliğe Giriş
+7. ETKİNLİK ADI İLK UÇURTMAM
+Öğrencilere "Büyük kütleli hava araçları, boş hâldeyken bile hareket ettirilemezken nasıl oluyor da 
+yolcu veya yük taşıdığında havalanıp başka bir yere ulaşabiliyor?" sorusunu yöneltiniz. Öğrencilerin 
+fikirlerini açıklamasını sağlayınız.
+Bir Soru
+ ♦ Öğrencilere akışkanların süratinin arttığı yerde basın -
+cın azaldığını anlatmak için Görsel 3.7'yi akıllı tahtada 
+açınız. “ İki kâğıt arasına üflerseniz aradaki açık hava 
+basıncı azalır ve dış açık hava basıncı aradakine göre 
+yüksek kalır. Böylece kâğıtlar yüksek basınçtan düşük 
+basınca doğru hareket ederek yapışır. ” açıklamasını 
+yapınız.
+ ♦ Öğrencilere bu ilkenin uçak kanatları gibi yüzeylerde 
+kaldırma kuvveti oluşturduğunu açıklayınız.
+ ♦ Ardından görseller üzerinden kanat profili şeklindeki 
+yüzeylerde hava akışının nasıl farklı sürat ve basınç 
+oluşturduğunu açıklayınız.
+Bernoulli İlkesi’nin Tanımlanması
+Hava akışı
+Görsel 3.7:  Bernoulli İlkesi'nin etkisiyle birbirine 
+yaklaşan kâğıtlar

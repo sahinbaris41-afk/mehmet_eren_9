@@ -1,0 +1,44 @@
+230
+3. Ünite
+     Değerlendirme Ölçütleri
+Evet
+Hayır
+Planlama ve 
+Organizasyon
+Araştırma konusu belirlenmiştir.
+Grup üyeleri arasında görev dağılımı yapılmıştır.
+Zaman çizelgesi oluşturulmuştur. 
+Çalışma planı hazırlanmıştır.
+Kaynaklardan 
+Bilgi Toplama
+Araştırmaya ilişkin ne tür bilgilere ihtiyaç duyulduğu belirlenmiştir.
+Araştırma konusuna ilişkin hangi kaynaklardan bilgi toplanacağı 
+belirlenmiştir.
+Bilgi toplama yöntemleri (kütüphane, arşiv araştırması, müze, saha, 
+genel ağ vb.) ayrıntılı bir şekilde belirlenmiş ve uygulanmıştır.
+Kaynakların 
+İncelenmesi
+Kaynakların türü, yazarı, tarihi, dijital kimliği, genel ağdaki uzantısı 
+gibi temel unsurları belirlenmiştir.
+Kaynakların ön yargı, çelişki veya tutarsızlık içerip içermediği incelen-
+miştir.
+Kaynaklarda yer alan olgu ve görüşler ayırt edilmiştir.
+Kaynaktaki bilgilerin güncelliği incelenmiştir.
+Kullanılan kaynaklar güvenilirlik açısından eleştirel bir bakış açısıyla 
+incelenmiştir.
+Kaynaklardan toplanan bilgilerin yeterli olup olmadığı araştırmanın 
+amacına göre değerlendirilmiştir.
+Tarihsel Kaynak Analiz Formu eksiksiz doldurulmuştur.
+Orta Çağ’daki başlıca medeniyet havzalarının bilim, kültür ve sanata etkilerine ilişkin yaptığınız 
+araştırmanızı aşağıdaki Kontrol Listesi aracılığıyla değerlendiriniz.
+Aşağıda listelenen davranışlardan gerçekleştirdiğiniz beceriler için “Evet”, gerçekleştiremediği -
+niz beceriler için “Hayır” kutucuğunu işaretleyerek değerlendiriniz.
+Kontrol Listesi
+Grubun Adı: 
+Araştırma Konusu: 
+Grup Üyelerinin Adı, Soyadı ve Numarası: 
+1. Üye:
+2. Üye:
+3. Üye:
+4. Üye:
+5. Üye:

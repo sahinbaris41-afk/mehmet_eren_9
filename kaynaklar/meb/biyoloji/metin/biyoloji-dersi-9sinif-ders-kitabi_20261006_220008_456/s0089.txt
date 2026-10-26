@@ -1,0 +1,34 @@
+89
+Tema Ölçme ve Değerlendirme Soruları
+Yönerge: Aşağıda verilen tablodan yararlanarak 17, 18, 19 ve 20. soruları cevaplayınız.
+Kurum  :
+Kimlik No  :
+Hasta Adı  :
+Cinsiyeti  :
+Doğum Tarihi :
+Doktor  :
+Barkod No  :
+Kabul Tarihi :
+Rapor Onay Tarihi :
+Örnek Tür  :
+Test Sonuç Birim Referans
+Magnezyum  29,0 mg/L 30-40
+Selenyum 107 μg/L 90-230
+Çinko 5,7 mg/L 4,5-7,5
+Kalsiyum  50,0 mg/L 55-70
+Potasyum   1200 mg/L 1386-1950
+Fosfor  250 mg/L 403-577
+Krom 0,17 μg/L 0,14-0,52
+Bakır 0,79 mg/L 0,7-1,39
+Manganez 11,5 μg/L 8,3-15,0
+Molibden 0,3 μg/L 0,3-1,3
+Kurşun 11,1 μg/L <28
+Kadmiyum <0,2 μg/L <0,6
+Nikel 0,4 μg/L <3,8
+Cıva  4,0 μg/L <1,0
+Sodyum  1428 mg/L 1500-1850
+15. Hangi öğrencilerin cevapları kısmen doğrudur? Bu öğrencilerin cevaplarındaki hatalı kısımları dü-
+zeltiniz.
+16. Hangi öğrencilerin cevapları tamamen hatalıdır? Bu öğrencilerin verdikleri cevapların doğrusunu 
+yazınız.
+Tahlil Sonuçları

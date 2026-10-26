@@ -1,0 +1,45 @@
+46
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.9.1.1
+Öğrencilerin gerçek sayıların üslü ve köklü gösterimleri ile karşılaşılan  gerçek yaşam du -
+rumlarına veya farklı disiplinlerdeki alanlara örnekler bulması beklenir. Farklı örnekler ince-
+lenerek üslü ve köklü gösterimler ile yapılan aritmetik işlemler (toplama, çıkarma, çarpma, 
+bölme ve kareköklü ifadeler için eşlenik) ve bu aritmetik işlemlerin genel özelliklerinin neler 
+olabileceği tartışılır. Bunlara dayalı olarak öğrencilerden varsayımlar geliştirmeleri istenir. 
+Üslü ve köklü gösterimlerle yapılan işlemlerde ortaya çıkan örüntüler belirlenir. Belirlenen 
+örüntülere göre öğrencilerin genellemeler yapmaları sağlanır.
+Öğrencilerden gerçek sayıların özel bir gösterimi olan bilimsel gösterimin kullanıldığı fizik, 
+kimya ve biyoloji derslerindeki gerçek yaşam durumlarına (atmosferdeki karbondioksit 
+miktarı, gezegenler arası mesafe, atomun büyüklüğü, bir ışık yılı gibi) ilişkin araştırma yap -
+maları istenir (E1.1). Araştırmalar sonucunda bilimsel gösterimlerin nerelerde kullanıldığına 
+yönelik örneklere yer verilebilir (D3.3).  
+Üslü gösterimlerle yapılan işlemlerde üs, rasyonel sayı seçilir. Üssün tam sayı olmadığı du-
+rumlarda üslü ve köklü gösterimlerle yapılan işlemler  arasında ilişki kurmaya yönelik ge -
+nellemelere de yer verilir. Öğrencilerden incelenen durumlardaki varsayımları ile yaptığı 
+genellemeleri karşılaştırmaları beklenir. Bu karşılaştırmalardan yararlanarak üslü ve köklü 
+gösterimlerle ilgili işlemler yapmaları ve bunlar arasındaki ilişkilere yönelik önermeler elde 
+etmeleri sağlanır. Öğrencilerden elde ettiği önermeleri farklı problem durumlarında nasıl 
+kullanabileceklerini değerlendirmeleri beklenir. İrrasyonel sayıların yaklaşık değerlerinin 
+kullanıldığı mühendislikten, astronomiden veya gerçek yaşamdan problem durumlarına da 
+yer verilir. Böylece hata payının gerçek sayıların yaklaşık değerleriyle ilişkisini öğrencile -
+rin görmeleri sağlanır. Ayrıca benzer problemlerde üslü ve köklü gösterimleriyle verilen bir 
+sayının yaklaşık değeri, tasarruf bilinci ile ilişkilendirilir (D17.3). Örneğin 1 dönümlük arsası-
+nın sınırlarını çitle çevirmek isteyen bir çiftçi için işin maliyeti, yaklaşık değer veya yuvar -
+lama stratejileri kullanılarak hesaplanır  (OB3). Öğrencilerden üslü ve köklü gösterimlerin 
+kullanıldığı işlemler hakkında elde ettikleri önermeleri cebirsel yöntemlerle doğrulamaları 
+ve doğrulama yöntemlerini kullanışlılık açısından değerlendirmeleri beklenir (E3.6, E3.7). 
+Öğrencilere fizik, kimya ve biyoloji derslerinde; astronomide, mühendislikte üslü ve köklü 
+gösterimlerin kullanıldığı durumlara dair araştırma ödevi verilebilir.
+Öğrencilerin gerçek sayıları, gerçek sayılarla yapılan işlemleri (irrasyonel sayılar hariç) ve 
+bunların özelliklerini hatırlayıp hatırlamadıklarını kontrol etmeye yönelik gerçek yaşam du -
+rumu örnekleri verilebilir. Öğrencilerden bu örneklere karşılık gelen cebirsel ifadeleri bul -
+maları istenir.  Elde ettikleri birinci dereceden  cebirsel ifadeler üzerinde işlem yapmaları 
+[2a+2b, y-(3y-2), 2 . (5x-1) gibi] sağlanabilir.
+Köprü Kurma Gerçek sayıların ondalık, üslü ve köklü gösterimlerine duyulan ihtiyaç ile ilgili olarak öğ -
+rencilerin fikirlerini paylaşması sağlanabilir. Sayıların bağlamlarla anlam kazandığı farklı 
+disiplinlerden (fizik, kimya, biyoloji, astronomi) veya gerçek yaşam durumlarından göste -
+rim örneklerine yer verilebilir. Gerçek yaşam örnekleri üzerinden farklı sayı kümelerine 
+ve sayıların farklı temsillerine neden ihtiyaç duyulduğuna dair sınıf tartışması yapılabilir. 
+Örneğin 100 metre koşu yarışlarında koşucuların sıralamalarının belirlenmesinde neden 
+ondalık gösterime ihtiyaç duyulduğu sınıf içinde tartışılabilir . 

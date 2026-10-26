@@ -1,0 +1,30 @@
+80
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+1. ÜNİTE: KUVVET VE HAREKET
+Bu ünitede öğrencilerin torku tanımlamaları ve torkun büyüklüğünü hesaplamaları; den-
+ge, kütle merkezi ve ağırlık merkezi kavramlarını açıklamaları, itme ve momentum deği-
+şimi arasındaki ilişkiyi yorumlamaları, momentumun korunumuna yönelik hesaplamalar 
+yapmaları, eylemsizlik momenti hakkında çıkarım yapmaları, açısal momentumun temel 
+kavramlarını kullanarak açısal momentumun korunumu ile ilgili olayları açıklayabilmeleri 
+amaçlanmaktadır.
+DERS SAATİ 46
+ALAN 
+BECERİLERİ FBAB8. Bilimsel Çıkarım Yapma, FBAB10. Tümevarımsal Akıl Yürütme, FBAB12. Kanıt Kul-
+lanma
+KA VRAMSAL 
+BECERİLER KB2.12. Mevcut Bilgiye/Veriye Dayalı Tahmin Etme, KB2.16. Muhakeme (Akıl Yürütme) 
+(KB2.16.1. Tümevarımsal Akıl Yürütme)
+EĞİLİMLER E3.1. Muhakeme, E3.2. Odaklanma, E3.5. Açık Fikirlilik, E3.6. Analitiklik 
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık 
+Değerler D14. Saygı, D20. Yardımseverlik
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Astronomi ve Uzay Bilimleri, Beden Eğitimi, Görsel Sanatlar, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.4. Çözümleme, KB2.14. Yorumlama, KB2.17. Değerlendirme, KB2.19. Mantıksal De-
+netleme
+12. SINIF

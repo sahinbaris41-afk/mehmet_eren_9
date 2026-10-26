@@ -1,0 +1,37 @@
+11
+5. TEMA
+6. TEMA
+7. TEMA
+1.Etkinlik: Öklid Algoritması 49
+Değerlendirme 52
+Grup Çalışması Becerileri Ölçeği 52
+2.Etkinlik: Şifreli Mesajı Bulalım 53
+Değerlendirme 55
+3.Etkinlik: İkili Arama Ağacı 56
+Değerlendirme 59
+Öz Değerlendirme Formu 60
+4.Etkinlik: Platonik Cisimlerde Euler Karakteristiği 61
+Değerlendirme 62
+1.Performans Görevi: Sıralama Algoritmaları 63
+Dereceli Puanlama Anahtarı 64
+2.Performans Görevi: Euler Turu, Hamilton Turu ve Gezgin Satıcı 65
+Dereceli Puanlama Anahtarı 66
+1.Performans: Uyku Alışkanlıkları 68
+Kontrol Listesi 69
+Etkinlik: İstatistiksel Araştırma Sorusu Hazırlama 70
+Değerlendirme 74
+Öz Değerlendirme Formu 75
+2.Performans: İstatistiğin Doğası 76
+Öz Değerlendirme Formu 77
+1.Etkinlik: Futbol Performansı 79
+Değerlendirme 83
+2.Etkinlik: Büyük Sayılar Yasası İle Olasılık Hesaplaması 84
+Değerlendirme 88
+Algoritma ve Bilişim 48
+İstatistiksel Araştırma Süreci 67
+Veriden Olasılığa 78
+Kaynakça .................................................................................................................................................. 87
+Görsel ve Genel Ağ Kaynakçası Karekodu ............................................................................................... 87
+Cevap Anahtarı Karekodu ........................................................................................................................ 87
+Türkiye’nin Mülki İdari Bölümleri ile Kara ve Deniz Komşuları Haritası ................................................ 88
+Türk Dünyası Haritası .............................................................................................................................. 89

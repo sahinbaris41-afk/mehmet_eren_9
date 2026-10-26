@@ -1,0 +1,79 @@
+167
+AKIŞKANLAR
+Kontrol Noktası
+Atmosfer; azot, oksijen ve 
+diğer gazlardan oluşan bir 
+gaz tabakasıdır. Atmosferi 
+oluşturan gazlar ağırlıkları 
+nedeniyle temas ettiği yüzey­
+lere basınç uygular. Bu basınca 
+açık hava basıncı denir. Açık 
+hava basıncı Po sembolü ile 
+gösterilir.
+Gazlar, ağırlıkları ve tanecikle­
+rinin çarpmasıyla temas ettik­
+leri yüzeylere basınç uygular.
+Atmosfer basıncını ölçmek için 
+yapılan ilk deneylerden biri 
+Evangelista Torricelli’ye aittir.
+Sıcaklık arttıkça hava molekülleri hızlanır ve 
+birbirinden uzaklaşır. Bu da yoğunluğun azalıp 
+havanın genleşmesine yol açar. Genleşen hava 
+yükselir, basınç düşer ve alçak basınç bölgeleri 
+oluşur. Sıcaklık düştükçe moleküller yavaşlar ve 
+yakınlaşır, yoğunluk artar, hava çöker ve yüksek 
+basınç alanları oluşur.
+Hava yoğunluğu, sıcaklık ve nem değişiklikle­
+rine bağlı olarak artar veya azalır. Soğuk veya 
+kuru hava yoğunlaşır, aşağı hareket eder ve 
+yüksek basınç oluşturur. Isınan veya nemlenen 
+havanın yoğunluğu azalır, hava yükselir ve alçak 
+basınç bölgeleri meydana gelir.
+Açık hava basıncı; 
+hava sıcaklığı, 
+hava yoğunluğu 
+ve atmosferin 
+kompozisyonu gibi 
+faktörlere bağlı 
+olarak değişiklik 
+gösterebilir.
+Gazlarda basınç hesaplamaları 
+genellikle yüksekliğe bağlı 
+olarak yapılır. Atmosferde 
+yükseldikçe gazın yoğunluğu 
+ve uyguladığı basınç azalır.
+Sıvıların yoğunluğu gazların 
+yoğunluğundan daha büyük­
+tür. Sıvılar sıkıştırılamaz kabul 
+edilir.
+76  cm
+BoşlukCıva
+sütunu
+Cıva
+P0 P0
+Torricelli, açık hava basıncını 
+ölçmek için yaptığı deneyde 
+0 oC sıcaklığında ve deniz 
+seviyesindeki açık hava 
+basıncını P0 = 76 cmHg olarak 
+ölçmüştür. 
+Boşluk Boşluk
+Cıva
+76 cm
+P0 P0
+0 oC sıcaklıkta deniz seviye­
+sinde gerçekleştirilen Torricelli 
+deneyinde kullanılan borunun 
+şekli, kesiti, sıvıdaki konumu 
+ve duruşu cıva seviyesini 
+değiştirmez. Cıva her zaman 
+76 cm’ye yükselir.
+Açık Hava Basıncı
+Gazların molekülleri arasın­
+daki geniş mesafeler ve zayıf 
+çekim kuvvetleri, bu maddele­
+rin yoğunluğunun sıvılara göre 
+daha düşük olmasına neden 
+olur. Gazlar sıkıştırılabilir 
+özelliğe sahiptir.
+ 

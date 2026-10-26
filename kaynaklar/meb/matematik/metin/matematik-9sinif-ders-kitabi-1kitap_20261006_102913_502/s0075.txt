@@ -1,0 +1,40 @@
+75
+1. Tema /  Sayılar
+1. a) Dikdörtgenin kesilmeden önceki çevre uzunluğunu a ve b değerlerine bağlı olarak yazınız.
+ b) Dikdörtgen kesildikten sonra oluşan şeklin çevre uzunluğunu a, b ve k değerlerine bağlı olarak yazınız.
+ c) Bulduğunuz cebirsel ifadelerin birbirine eşit olup olmadığını belirleyiniz.
+2. a) a, b ve k değişkenlerine k < b < a olacak şekilde pozitif gerçek sayı değerleri veriniz.  
+ b) Dikdörtgenin kesilmeden önceki çevre uzunluğu ile kesildikten sonraki çevre uzunluğunu hesaplayınız.
+ c) Bulduğunuz çevre uzunlukları değerlerinin birbirine eşit olup olmadığını belirleyiniz.
+25.	Uygulama
+Özdeşliklerin Cebirsel ve Geometrik Temsilleri
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız. 
+1. a)    a, b birer pozitif gerçek sayı ve b < a olmak üzere (a + b)2 ifadesinin eşitini gerçek sayılarda işlem özellik-
+lerini kullanarak bulunuz.
+ 
+b)  Aşağıda bir kenar uzunluğu (a + b) birim olan ABCD karesi verilmiştir. ABCD karesi 1, 2, 3, 4 numaralı dört 
+bölüme ayrılmıştır. 
+ 
+1
+aA
+C
+B
+D
+a
+b
+b
+3
+2
+4
+1 numaralı bölüm: Bir kenar uzunluğu a birim olan kare 
+2 numaralı bölüm: Kısa kenar uzunluğu b birim, uzun kenar uzunluğu a birim 
+olan dikdörtgen 
+3 numaralı bölüm: Kısa kenar uzunluğu b birim, uzun kenar uzunluğu a birim 
+olan dikdörtgen 
+4 numaralı bölüm: Bir kenar uzunluğu b birim olan kare
+ABCD karesi ile 1, 2, 3, 4 numaralı bölümlerin alanlarını cebirsel olarak ifade 
+ediniz. 
+ c) Bulduğunuz cebirsel ifadeleri kullanarak a maddesinde elde ettiğiniz eşitliği doğrulayınız.
+2. a, b birer pozitif gerçek sayı ve b < a olsun. Buna göre aşağıdaki soruları cevaplayınız.
+ a)  (a - b)2 ifadesinin eşitini gerçek sayılarda işlem özelliklerini kullanarak bulunuz.  
+b)  (a - b).(a + b) ifadesinin eşitini gerçek sayılarda işlem özelliklerini kullanarak bulunuz.  

@@ -1,0 +1,41 @@
+1. Tema/Etkileşim
+78
+Aşağıdaki periyodik tabloda A grubu elementlerinden bazılarının atom yarıçapları pikometre (pm) cinsin-
+den verilmiştir. Verilen bilgilerden yararlanarak soruları cevaplayınız. (1 pm = 1x10
+-12
+m)
+1. A ynı grupta yer alan atomların yarıçaplarındaki değişimin sebebini gruplardan birini seçerek açıklayınız. 
+Açıklamanızı diğer gruplardaki durumlarla destekleyiniz.
+2. A ynı periyotta yer alan atomların yarıçaplarındaki değişimin sebebini periyotlardan birini seçerek açıkla -
+yınız. Açıklamanızı diğer periyotlardaki durumlarla destekleyiniz.
+1A 2A 3A 4A 5A 6A 7A 8A
+1H 2He
+1. periyot
+37 31
+3Li 4Be 5B 6C 7N 8O 9F 10Ne
+2. periyot
+152 112 85 77 70 73 72 70
+11Na 12Mg 13Al 14Si 15P 16S 17Cl 18Ar
+3. periyot
+186 160 143 118 110 103 99 98
+19K 20Ca 31Ga 32Ge 33As 34Se 35Br 36Kr
+4. periyot
+227 197 135 123 120 117 114 112
+37Rb 38Sr 49In 50Sn 51Sb 52Te 53I 54Xe
+5. periyot
+248 215 166 140 141 143 133 131
+1.2.4.	Periyodik	Özellikler	
+Atom	Yarıçapı
+Bir daire veya kürenin merkezinden çemberine olan mesafesine yarı-
+çap denir. Küre şeklinde olan atomun çekirdeği ile en dış kabuğu ara -
+sındaki mesafe atomun yarıçapını verir. Geometrik cisimlerdeki yarıçap 
+sabit bir uzaklığı ifade eder ancak elektronların bulunma olasılığının 
+yüksek olduğu hacimsel bölgeler olan orbitallerin belirli bir sınırı olma-
+dığı için bir atomun yarıçapı tam olarak ölçülemez. Bir atomun boyutu 
+pratikte belirlenemediğinden birbiriyle temas hâlinde ya da bağ yapmış 
+iki atomun çekirdeği arasındaki uzaklıklar ölçülerek atom yarıçapları he-
+saplanabilir (Görsel 1.26).
+Görsel 1.26
+İki atom çekirdeği arasındaki 
+uzaklık ve atom yarıçapı
+Etkinlik-1.14 Atom Yarıçapı

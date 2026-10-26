@@ -1,0 +1,24 @@
+1. Tema/Etkileşim
+82
+Periyodik tabloda bir grupta yukarıdan aşağıya inildikçe atom çapı artar. Bu 
+durumda son enerji seviyesindeki elektronun çekirdeğe olan uzaklığı da artar. 
+Böylelikle elektronun koparılması daha kolay olur ve daha az enerji gerekti-
+ğinden iyonlaşma enerjisi azalır. Periyodik tabloda aynı periyotta soldan sağa 
+gidildikçe elementlerin atom yarıçapı genellikle azalır. Bu nedenle periyodik 
+tabloda soldan sağa gidildikçe iyonlaşma enerjisi artar. 2A ve 5A grupların -
+daki elementlerin iyonlaşma enerjileri kendilerinden sonra gelen gruplardaki 
+elementlerin iyonlaşma enerjilerinden büyüktür. Bunun sebebi atomun daha 
+kararlı bir elektron dizilimine sahip olmasıdır çünkü ka rarlı bir atomdan elekt-
+ron koparılması daha zordur. Periyodik tabloda soldan sağa gidildikçe 1. iyon-
+laşma enerjisindeki eğilim şu şekilde gerçekleşir: 
+1A < 3A < 2A < 4A < 6A < 5A < 7A < 8A
+Atom Numarası
+İyonlaşma Enerjisi (kJ/mol)
+Aşağıdaki verilerden faydalanarak atom numaralarına karşılık gelen iyonlaşma enerjileri değerlerinin deği-
+şimini gösteren bir grafik çiziniz ve soruyu cevaplayınız.
+Çizdiğiniz grafikte hangi atomların iyonlaşma enerjisinden sonra azalma gözlenmektedir? Bu azalmanın 
+nedenini açıklayınız.
+Atom 1H 2He 3Li 4Be 5B 6C 7N 8O 9F 10Ne
+İE
+(kJ/mol) 1312 2371 520 900 800 1086 1402 1314 1681 2080
+Etkinlik-1.17 İyonlaşma Enerjisi II

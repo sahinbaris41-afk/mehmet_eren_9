@@ -1,0 +1,35 @@
+248
+3. Tema/Sürdürülebilirlik
+1.  Atık Önleme: Kimyasal bir süreç sonucunda atık oluşumunun en aza indirilmesi ve/veya yok 
+edilmesidir.
+2.  Atom Ekonomisi: Ham maddenin daha verimli kullanılması, daha az yan ürün oluşturul-
+ması ve atık tasarrufu sağlanmasıdır. 
+3.  Daha Az Tehlikeli Kimyasal Sentez:  İnsan sağlığına ve çevreye toksik etkisi olmayan 
+veya çok az toksik etkisi olan malzemelerin üretilmesi veya kullanılmasıdır. 
+4.  Daha Güvenli Kimyasallar T asarlamak: Toksik özelliklerin en az seviyeye indirilerek 
+istenilen özelliklere sahip kimyasalların tasarlanmasıdır. 
+5.  Daha Güvenli Çözücüler ve Yardımcı Maddeler: Gerekmedikçe çözücülerin ve yar-
+dımcı malzemelerin kullanılmaması, gerektiğinde ise az miktarda kullanılmasıdır.  
+6.  Enerji V erimliliği İçin Tasarım: Enerji tasarrufu ve verimliliği daha az atık, daha az 
+kirliliğin yanı sıra daha çok tasarruf ve kazanç anlamına gelir.
+7. Y enilenebilir Ham Maddelerle Daha Yeşil Sentezler:  Kimyasal süreçte kullanılacak 
+ham maddelerin yenilenebilir ve sürdürülebilir olmasıdır.
+8.  Y an Ürünlerin Azaltılması:  Gereksiz işlemlerin mümkün olduğunca azaltılması veya 
+yapılmamasıdır.
+9.  Kataliz: Enerji ihtiyacını azaltan, seçiciliği artıran ve daha az zararlı tepkime koşulları sağ-
+layan katalizörlerin kullanılmasıdır. 
+10. Bozunmanın Tasarımı: Tasarlanan kimyasal ürünlerin zararsız bozunma ürünlerine 
+dönüşebilmesi ve çevrede kalıcı olmamasıdır.
+11. Gerçek Zamanlı Kirlilik Analizi: Kimyasal sürecin izlenmesi ve kontrolün sağlanmasıdır. 
+12. Kazanın Önlenmesi ve Daha Güvenli Bir Kimya: Kimyasal süreç ve kullanılan mad-
+delerin kimyasal kaza potansiyelini en aza indirecek şekilde seçilmesidir.
+3.1.2.	Yeşil	Kimyanın	Atık	Önleme	İlkesi
+Yeşil sentez yönteminde metal iyonların dışında kullanılacak olan tüm kim -
+yasallar yerini doğadan elde edilecek malzemelere, evsel atıklara, endüstri 
+ya da sanayi atıklarına bırakır. Özellikle evsel atıkların kullanılması atıkların 
+geri kazanılması, doğanın korunması ve ekolojik sürdürülebilirliğin sağlanması 
+için önemlidir. Bu yöntemle nanoteknoloji alanında “yeşil kimya” kavramı ön 
+plana çıkmaktadır. Yeşil kimya, zararlı maddelerin kullanımını ve oluşumunu 
+azaltmak için kimyasal işlemler tasarlamayı ve yürütmeyi amaçlamaktadır. 
+Bu bağlamda yeşil kimya uygulamalarına rehberlik edecek ilkeler şu şekilde 
+belirlenmiştir:

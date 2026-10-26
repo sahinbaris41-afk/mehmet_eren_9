@@ -1,0 +1,43 @@
+25
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.H.2.1. Mantıksal çıkarım gerektiren problemleri çözebilme
+a)  Problemlerde verilen matematiksel yapıları belirler.
+b)  Problemlerde verilen matematiksel yapılar ile problemlere uygun  farklı matema -
+tiksel temsiller arasındaki ilişkileri belirler.
+c)  Problemlerde verilen matematiksel yapıları farklı matematiksel  temsillere dönüş-
+türür. 
+ç)  Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.
+d)  Elde ettiği ve yorumladığı farklı temsillere dayalı problemlerin çözümleri için stra -
+tejiler oluşturur.
+e)  Karşılaşılan problemlerde seçtiği çözüm stratejilerini kullanır.
+f)  Kullandığı çözüm stratejilerini kontrol eder.
+g)  Çözümüne ulaştığı problemler için olası farklı çözüm stratejilerini inceler.
+ğ)  Çözüme ulaştıran farklı stratejilere yönelik çıkarımlar yapar.
+h)  Çözüme ulaştıran stratejilere yönelik çıkarımlarını bu stratejilerin kullanılabileceği 
+başka problemler açısından değerlendirir.
+İÇERİK ÇERÇEVESİ Mantıksal Çıkarım Gerektiren Problemler
+Genellemeler • Sonlu sayıda nicelik içeren mantıksal çıkarım  gerektiren problemler, sunulan nicelikle-
+rin uygun temsilleri kullanılarak çözülebilir.
+Anahtar Kavramlar ağaç şeması, mantıksal çıkarım
+Sembol ve Gösterimler -
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları, çalışma kâğıdı ve performans görevi ile değerlendirilebilir.
+Öğrencilere ağaç şeması, sistematik listeleme, diyagram ve tablo temsilinden yararlanma 
+gibi farklı çözüm stratejilerinin kullanımına uygun mantıksal çıkarım gerektiren problem -
+lerin yer aldığı çalışma kâğıdı verilebilir. Çalışma kâğıdı, analitik dereceli puanlama anahtarı 
+kullanılarak değerlendirilebilir. Öz değerlendirme formuyla öğrencilerin kendilerini değer-
+lendirmeleri istenebilir.
+Farklı disiplinlerde karşılaşılan ve mantıksal çıkarım gerektiren problem durumlarına iliş -
+kin performans görevinin değerlendirilebilmesi için hazırlık, içerik ve sunum süreçlerini 
+içine alan derecelendirme ölçeği kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin tam sayılarda toplama ve çarpma işlemlerinin özelliklerini bildiği; bir do -
+ğal sayının çarpanlarını ve katlarını, iki doğal sayının ortak bölenlerini ve ortak katlarını 
+belirleyebildiği; bölünen, bölen, bölüm ve kalan kavramlarını bildiği; temel aritmetik 
+işlemleri kullanmayı gerektiren gerçek yaşam problemlerini çözümleyebildiği  kabul 
+edilmektedir.

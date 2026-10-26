@@ -1,0 +1,22 @@
+3.TEMA - GEOMETRIK ŞEKILLER
+32 33
+3. Adım
+2000 yılı aşkın süre önce Öklid; cetvelle doğru, pergelle çember ve yine cetvelle düzgün çok -
+genler çizmiştir. Sadece bir cetvel ve bir pergelle çizdiği şekiller hakkında kesin doğru olduğunu 
+düşündüğü beş kural yazmıştır. Yukarıdaki cümle Öklid aksiyomlarının ilkidir. İlk aksiyomu çiziniz.
+Bir kâğıda iki nokta çiziniz.
+Soldaki noktayı doğrusal olarak diğer nokta ile birleştiriniz.
+İki noktadan bir doğru geçtiğini fark ettiniz mi?
+Çözüm:
+4. Adım
+5. Adım
+Araştırdığınız Öklid aksiyomlarının ilki dışında kalan dört aksiyomu kâğıdınıza  yazınız ve bu aksi-
+yomları çiziniz.
+Öklid’in “Verilen bir doğruya, doğrunun dışındaki bir noktadan yalnız bir paralel doğru çizilebilir.” 
+postulatının doğru olması için bu doğruların bir düzlem üzerinde ve paralel olması gerekir. Fakat 
+yine de bu postulatın doğru olduğunun bir ispatı yoktur. İspatı olmadığına göre bu postulatın yanlış 
+olduğunu varsayarak bu postulatı nasıl değiştirebilirsiniz? Açıklayınız.
+Çözüm:
+Çözüm:d
+k
+A

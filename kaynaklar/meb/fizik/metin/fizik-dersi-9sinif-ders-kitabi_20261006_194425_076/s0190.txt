@@ -1,0 +1,51 @@
+190
+3. ÜNİTE 
+Akışkanların sürat ve basınç değişimi arasındaki ilişki Venturi tüpü modeli 
+ile açıklanabilir. Venturi tüpünün temel işlevi, akışkanın süratini ve basıncını 
+ölçmektir. Boru şeklinde bir yapıya sahip olan Venturi tüpünün kesit alanı 
+değişiklik gösterir. Su ve hava gibi akışkanlar, kesit alanı değişmeyen bir boru 
+içinde düzenli bir akış hâlindeyken borunun herhangi bir noktasında akışkanın 
+sürati sabit kalır. Kesit alanı değişen bir tüp içinde kararlı bir şekilde akan 
+akışkanın, tüp çeperinin değişik noktalarında oluşturduğu basınç aynı olmaz. 
+Tüp içindeki akışkanların kesit alanı daraldıkça sürati artar.
+Görsel 3.30’da görülen Venturi tüpü borularının kesitleri arasındaki ilişki şu 
+şekildedir: A1 > A2 > A3
+h3
+h2
+h1
+P1
+P2
+P3 o3o2
+o1A1 A2 A3
+Görsel 3.30: Venturi tüpünde borunun kesit alanının azalması sonucu sıvının sürati 
+artar, basınç azalır ve buna bağlı olarak sıvı yüksekliğinde azalma gerçekleşir.
+Tüpün kesitlerinden birim zamanda geçen akışkanın süratleri arasındaki ilişki 
+şu şekildedir: o3 > o2 > o1
+Tüp çeperlerine etki eden sıvı basınçları arasındaki ilişki şu şekildedir:  
+P1 > P2 > P3
+Borunun farklı kesitlerinde yer alan açık uçlu borulardaki su seviyesi akışkanın 
+basıncıyla doğru orantılı olacağından yükseklikler arasındaki ilişki şu şekilde-
+dir: h1 > h2 > h3
+Akışkanlarla ilgili günlük hayatta karşılaşılan birçok 
+olay Bernoulli İlkesi ile açıklanmaktadır. Yüksek 
+süratle hareket etmekte olan araçlar yan yana gel-
+diğinde araçların arasında kalan hava molekülleri 
+sıkışır (Görsel 3.31)  ve moleküllerin sürati artar. 
+Bernoulli İlkesi’ne göre hava süratinin artması, 
+havanın basıncının düşmesine neden olur. Bunun 
+sonucunda iki araç arasındaki hava basıncı (P 1), 
+araçların dış taraflarındaki hava basıncından (P 0) 
+daha düşük olur. Araçların dış taraflarında havanın 
+sürati daha düşük ve dolayısıyla hava basıncı daha 
+yüksek olur. Yüksek basınçlı hava, düşük basınçlı 
+alana doğru hareket etmeye çalışır. Bu durum, 
+araçlar arasında bir basınç farkı oluşturur ve basınç 
+farkından dolayı oluşan kuvvet araçları birbirine 
+doğru çeker. Bu etki, özellikle yüksek süratlerde ve 
+P0
+P0 >
+P0
+P1
+P1
+Görsel 3.31: Hareket hâlindeki araçların arasında sıkı-
+şan havanın akışı

@@ -1,0 +1,34 @@
+138
+5. Tema/Algoritma ve Bilişim  
+c)		Sözde	kodda	kullanılan	‟ve”	bağlacı	‟ %%abcv ec30 20++ ==_i ”	ifadesindeki	her	iki	eşitliğin	
+sağlanması	durumunda	sayının	6’ya	tam	bölünebileceğini	göstermektedir.
+	 ‟ise” 	bağlacı	yardımıyla	abc	sayısının	6’ya	tam	bölünme	durumu	 abc ve c30 20++ ==_i8 B	kontrol	
+edilir.	Bu	yapı,	algoritmanın	girdiye	göre	dinamik	çıktılar	üretmesini	sağlar.
+Bir Cebirsel İspatın Algoritmik Yaklaşımla İncelenmesi
+Aşağıdaki soruları cevaplayınız.
+1. Artanlığın tanımından faydalanarak ‟ a06 2  için ,f: fx ax bRR" =+_i  şeklinde tanımlı doğrusal fonksiyon 
+artandır.” önermesinin doğruluğunu ispatlayınız.
+ 
+2. Yaptığınız cebirsel ispatın adımlarının her birini sözel olarak ifade ediniz. 
+ 
+11. Uygulama
+5. Sıra Sizde
+  
+   
+Aşağıdaki soruları cevaplayınız.
+a)  Üç basamaklı bir doğal sayının 8’e tam 
+bölünüp bölünmediğini gösteren bir 
+önerme yazıp bu önermenin doğruluğunu 
+ispatlayınız.
+b)  Önermeyi ispatlamak için kullandığınız 
+mantık bağlaçları ve niceleyicilere yönelik 
+çıkarımlarınız ne olur? Açıklayınız. 
+ 
+c)  İspat adımlarından hareketle üç basamaklı 
+bir doğal sayının 8’e tam bölünüp bölünme-
+diğini bulan bir algoritmanın işleyişini akış 
+şeması ile ifade ediniz.
+ 
+Akış Şeması
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

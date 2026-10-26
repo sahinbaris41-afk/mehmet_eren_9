@@ -1,0 +1,52 @@
+2120
+MÜZİK
+Görsel 1.7: Çift Nokta
+Görsel 1.8: Ölçü Sayısı
+Görsel 1.9: Nota Dizilimi
+Çift nokta: Birinci nokta notanın yarı değerinde olduğu gibi ikinci nokta da birinci noktanın 
+yarı değerindedir (Görsel 1.7). 
+Ölçü sayısı: Dizeğe anahtarlardan sonra yazılan, her ölçüde kaç birim süre değeri bulundu-
+ğunu gösteren belirteçlerdir. Üstteki rakam birim değerin sayısını, alttaki rakam ya da nota 
+görseli ise birim değerin niteliğini gösterir (Görsel 1.8). 
+Öğrencilere dizekte beş çizgi bulunduğunu, çizgilerin ve boşlukların birer nota olduğu-
+nu hatırlatınız. “…do-re-mi-fa-sol-la-si-do…” sırasını tahtaya yuvarlak bir biçimde çize-
+rek bu notaların devamlı bir şekilde sıralandığını belirtiniz (Görsel 1.9).
++ +& œ™ œ œ j œ™™ œ œ j ≈ œr& œ™ œ œ j œ™™ œ œ j ≈ œr& œ™ œ œ j œ™™ œ œ j ≈ œr=& œ™ œ œj œ™™ œ œ j ≈ œr
+24& œ œ
+Öğrencilere dizekte yukarı çıkıldıkça seslerin inceldiğini (tizleştiğini), aşağı inildikçe 
+kalınlaştığını (pesleştiğini) söyleyiniz. “Dizek dışında kullanılan ve nota yazmaya yarayan 
+çizgilere ‘ek çizgi’ adı verilir.” bilgisini hatırlatarak dizek üzerinde gösterilen notaları et -
+kileşimli tahtaya yansıtınız (Görsel 1.10).
+Ses değiştirici işaretleri açıklayınız. Tablo 1.2’de yer alan işaretleri etkileşimli tahtaya 
+yansıtınız.
+Görsel 1.10: Dizek Üzerinde Notalar
+La Si Do 1R eM iF aS ol La Si Do 2R eM i
+& w w w w w w w w w w w w
+2
+24& ∑
+&
+œ n œ # œ b
+Œ
+2
+24& ∑
+&
+œ n œ # œ b
+Œ2
+24& ∑
+&
+œ n œ # œ b
+Œ
+İşareti Adı Görevi
+Diyez Notayı yarım perde tizleştirir.
+Bemol Notayı yarım perde pesleştirir.
+Natürel Değiştirici işaret alarak tizleşmiş ya da pesleşmiş notayı doğal durumuna dönüştürür.
+Tablo 1.2: Ses Değiştirici İşaretler 
+DO RE
+Mİ
+FA
+SOL
+LA
+Sİ
+Etkileşimli tahtaya yansıtabilirsiniz.
+Etkileşimli tahtaya yansıtabilirsiniz.
+Etkileşimli tahtaya yansıtabilirsiniz.

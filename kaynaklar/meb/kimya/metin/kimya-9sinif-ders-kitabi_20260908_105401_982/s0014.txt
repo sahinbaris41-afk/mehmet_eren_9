@@ -1,0 +1,63 @@
+14
+KULLANILAN BİRİMLER VE KISALTMALAR
+Birimler
+N/m Newton/metre
+atm atmosfer
+dm desimetre
+°C derece celcius
+cm santimetre
+dk dakika
+dyn/cm dyne/santimetre
+eV elektronvolt
+g gram
+GPa gigapaskal
+kPa kilopaskal
+K kelvin
+kJ kilojoule
+L litre
+nm nanometre
+m metre
+mg miligram
+mL   mililitre
+mm milimetre
+mol mol
+MJ megajoule
+μg  mikrogram
+μm  mikrometre
+Pa.s  paskal.saniye
+pm pikometre
+s saniye
+S/m Siemens/metre
+W/m.K watt/metre kelvin
+Kısaltmalar
+A   kütle numarası 
+P  basınç (gaz basıncı)
+DNA   deoksiribo nükleik asit 
+p
++
+  proton
+e
+−
+    elektron 
+s  sıvı
+g   gaz 
+t  sıcaklık (°C)
+IUPAC   Uluslararası Temel ve Uygulamalı Kimya 
+Birliği 
+T  mutlak sıcaklık (K)
+k  katı
+r yarıçap 
+V hacim
+n   mol 
+Z  atom numarası
+n
+0
+ nötron 
+δ kısmi yük
+E enerji
+İE iyonlaşma enerjisi
+Vb  buharlaşma hızı
+Vy  yoğuşma hızı
+AgNP gümüş nanoparçacık
+CuNP bakır nanoparçacık
+C coulomb

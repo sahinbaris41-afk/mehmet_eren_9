@@ -1,0 +1,50 @@
+MATEMATİK 9 
+46 47
+2. PERFORMANS 
+GÖREVI Pisagor Teoremi
+Beklenen 
+Performans Pisagor Teoremi’nin görsel ve farklı yöntemlerle ispatlarını inceleme
+Zenginleştirme 
+Uygulaması
+* Öğrencilerden Pisagor Teoremi’nin görsel ispatlarının ve değişik yön -
+temlerle yapılmış farklı ispatlarının olup olamayacağı üzerine düşünme -
+leri, konu ile ilgili araştırma yaparak araştırmalarını sınıf içinde sunmaları 
+istenir.
+Araç Gereç ve 
+Materyaller
+• Bilgisayar veya tablet
+• Genel ağ bağlantısı
+• Geometri araçlar (cetvel, pergel vb.)
+Değerlendirme Dereceli Puanlama Anahtarı
+Pisagor Teoremi'nin çeşitli ispat yöntemlerini detaylı bir şekilde inceleyiniz. İlk olarak Pisagor Teoremi'nin 
+temel kavramlarını öğreniniz. Bu konudaki farklı görsel ispatları araştırarak bu ispatları çizerek veya dijital 
+araçlar kullanarak oluşturunuz. Sonrasında klasik ve modern ispat yöntemlerini araştırarak her bir yöntemin 
+detaylarını ve matematiksel mantığını açıklayınız. Elde ettiğiniz bulguları ve ispatları görseller ve örneklerle 
+destekleyerek kapsamlı bir rapor hazırlayınız. Raporunuzu Pisagor Teoremi'nin nasıl kanıtlandığını net bir 
+şekilde ortaya koyarak, farklı ispat yöntemlerinin avantajlarını ve sınırlamalarını değerlendirerek sınıfta açık 
+ve anlaşılır bir şekilde sununuz. Bu süreçte, Pisagor Teoremi hakkında derinlemesine bilgi edinmeyi ve ma -
+tematiksel düşünme becerilerinizi geliştirmeyi amaçlayınız.
+Çalışma Sürecinde Dikkat Edilecek Hususlar
+1. Araştırma Kalitesi:
+a) Güvenilir Kaynak Kullanımı: Pisagor Teoremi ve onun farklı ispatları hakkında bilgi toplarken güvenilir ve aka-
+demik kaynaklardan yararlanınız. Kitaplar, akademik makaleler, güvenilir internet siteleri gibi kaynakları kullana -
+rak araştırmanızı derinleştiriniz.
+b) Görsel İspatlar: Görsel ispatları araştırırken bu ispatların matematiksel temellerini anlamaya özen gösteriniz. 
+Görsellerin teoremi nasıl kanıtladığını açıklayan detaylara dikkat ediniz.
+2. Rapor Yazımı:
+a) Raporun Düzeni:  Araştırma bulgularınızı düzenli, açık ve anlaşılır bir şekilde raporlayınız. Raporunuzu bölüm 
+başlıkları kullanarak yapılandırınız ve her bölümü mantıklı bir sıralamayla sununuz.
+b) Görsel Destek: Raporunuzu, ispat yöntemlerini açıklayan görseller ve diyagramlarla destekleyiniz. Bu görsel -
+lerin açıklamalarınıza katkıda bulunmasına ve estetik olmasına dikkat ediniz.
+c) Kaynakça: Raporunuza yararlandığınız kaynakları doğru formatta ve düzenli bir şekilde eklemeyi unutmayınız.
+3. Sunum Hazırlığı:
+a) Sunumun Yapısı: Raporunuzu sınıfta sunmak üzere iyi yapılandırılmış bir sunum hazırlayınız. Sunum sırasında, 
+teoremin ispat yöntemlerini ve görsel açıklamalarını dinleyicilere net bir şekilde aktarınız.
+b) Zaman Yönetimi:  Sunumunuzu 10-15 dakika içinde tamamlayacak şekilde planlayınız. Sunum süresince her 
+bölüm için yeterli zamanı ayırmaya dikkat ediniz.
+c) Etkili İletişim: Sunum sırasında dinleyicilerin dikkatini çekecek etkili bir dil kullanınız ve konuya hakimiyetinizi 
+gösteriniz.
+4. Öğretmen Geri Bildirimi:
+Çalışmanızın her aşamasında öğretmeninizden geri bildirim alarak önerileri dikkate alınız ve çalışmalarınızı geliş -
+tirmeye çalışınız.
+Performans görevi, “Dereceli Puanlama Anahtarı” ile öğretmeniniz tarafından değerlendirilecektir.

@@ -1,0 +1,52 @@
+29
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+indüklenmiş dipol-indüklenmiş dipol (London) etkileşimleri olarak gruplandırılması sağla -
+nır. Öğrencilerden oluşturdukları grupları bilimdeki karşılığı ile kıyaslamaları istenir (D3.3). 
+Tanecikler arası etkileşimler ile ilişkilendirilebilecek biyomimikri uygulamalarına yönelik 
+araştırma ödevi verilerek öğrencilerin sorumluluk bilinci kazanmaları sağlanabilir (D16.3). 
+Öğrencilere polar bileşiklerde moleküller arası etkileşimlerin gösterildiği kanıt kartları ve-
+rilir. Öğrencilerden dipol-dipol etkileşiminin oluşum sürecine ilişkin ölçütler belirlemeleri 
+istenir. Belirlenen ölçütler temelinde dipol-dipol etkileşiminin aynı ya da farklı tür molekül-
+ler arası dipol-dipol etkileşimi veya yapısında F-H, O-H ve N-H bağlarından en az bir tane 
+bulunduran moleküllerin dipol-dipol etkileşimi olarak ayrıştırılması sağlanır. Yapısında 
+F-H, O-H ve N-H bağlarından en az bir tane bulunduran moleküllerin hidrojen bağı oluş -
+turabilen moleküller olarak gruplandırılması istenir. Öğrencilerden oluşturdukları grupları 
+bilimsel karşılığı ile kıyaslamaları istenir. 
+DNA’nın ikili sarmal yapısındaki zincirleri bir arada tutan hidrojen bağlarının genetik kodun 
+korunmasındaki rolünü konu alan bir okuma parçası verilebilir. Yapılandırılmış grid aracılığı 
+ile öğrencilerden farklı madde çiftleri arasındaki etkileşimleri belirlemeleri istenebilir.
+KİM.9.2.8
+Sofra tuzu, çelik kaşık, bilgisayar ekranı, kurşun kalem ucu, elmas, kar taneleri, cam gibi 
+katıların fiziksel görünümleri ve özelliklerinin neden birbirinden farklı olduğuna dikkat 
+çekilerek kristal ve amorf katılara ilişkin bir tartışma ortamı oluşturulabilir. Öğrencilerin 
+kristal katılardaki etkileşim türünün kristal katıların sertlik, erime noktası, iletkenlik gibi 
+niteliklerine etkisini incelemeleri ve bu niteliklerdeki farkı saygı çerçevesinde sınıf içi tar -
+tışma ile ortaya koymaları sağlanır (SDB2.1, D14.1). Etkileşimlerin kristal katıların nitelik -
+lerini nasıl etkilediğini ortaya koyan gözlem verilerinin (görsel, video vb.) veya hazır veri 
+setinin yer aldığı etkinlik kâğıdı öğrencilere verilir. Öğrencilerin verileri incelemesi sağlanır. 
+Öğrencilerden gözlemleri veya hazır veri seti üzerinden hangi kristal katının ne tür nitelik-
+lere sahip olduğu ile ilgili genellemeler yapmaları, çıkarımlarını bilim insanlarının çıkarımla-
+rı ile karşılaştırmaları istenir. Böylece öğrencilerin farklı katı türlerinin sahip olduğu genel 
+özellikleri açıklamaları sağlanır (OB7). Etkinlik kâğıtları “nitelikleri belirleme, genellemeye 
+ulaşma ve bilimsel kabul edilebilirlik ile karşılaştırma” ölçütlerine ilişkin dereceli puanla -
+ma anahtarı ile öğretmen tarafından değerlendirilebilir veya öğrenciden öz değerlendirme 
+yapması istenebilir (SDB1.2, SDB1.3). Türkiye’nin ilk endüstriyel boyutta kristal silisyum in-
+got külçesinin üretim projesinden ve bu projenin güneş enerjisi teknolojilerinde çığır açma 
+potansiyelinden kısaca bahsedilerek öğrencilerin bu tür yerli ve millî projelerin ülkenin kal-
+kınmasındaki önemini fark etmesi sağlanabilir (D19.4). Ardından bu projeyi değerli kılan 
+durumun silisyum ingot külçesinin kristal özellikleri olduğu vurgusu yapılabilir.  
+KİM.9.2.9
+Özdeş kaplarda bulunan aynı miktardaki farklı saf sıvı örneklerinin buharlaşma hızlarının 
+neden farklı olduğu öğrencilere sorulur (SDB2.1). Buhar basıncı ve denge buhar basıncı ta-
+nımı verilir, öğrencilerden bir sıvının buhar basıncını etkileyen faktörleri belirlemeleri ama-
+cıyla sorular oluşturmaları istenir. Oluşturulan sorulardan hareketle öğrencilerin bir sıvının 
+buhar basıncını etkileyen faktörlerin neler olabileceğine dair tespitlerde bulunmaları sağ-
+lanır. Farklı sıvıların 25 °C ve 1 atm basınç koşullarındaki buhar basınçlarına ilişkin hazır ve-
+riler verilir. Öğrenciler, bu hazır verileri tespit ettikleri faktörlerin sıvıların buhar basıncına 
+etkisini neden-sonuç ilişkisi bağlamında değerlendirmek amacıyla kullanır. Öğrencilerden 
+belirledikleri faktörlerin sıvıların buhar basıncına etkisini araştırabilmeleri için bağımlı-ba-
+ğımsız değişkenleri ve kontrol değişkenlerini tespit etmeleri istenir. Öğrencilerin sıvıların 
+buhar basıncına etki eden değişkenleri kontrol altına alarak denemeler yapmaları sağla -
+nır. Öğrencilerden sıvıların buhar basıncına etki eden faktörlere ilişkin sundukları önerme-
+leri bilimsel kuramlar ile desteklemeleri istenir  (OB1). Sıvıların buhar basıncına etki eden 
+faktörlerin moleküller arası etkileşimler temelinde açıklanması sağlanır. Öğrenciler, etkili 

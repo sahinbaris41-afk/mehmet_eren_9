@@ -1,0 +1,26 @@
+32
+MATEMATİK 9 
+1. TEMA: SAYILAR
+b.  Seçmiş olduğunuz iki tarife ücretini aşağıda verilen çözümleme tablosundaki boş kutucuklara 
+yazınız. (2. Adım)
+c.  2. adımda elde ettiğiniz tablolarda, aynı basamak değerine ait rakamları toplayarak aşağıdaki 
+tabloya yerleştiriniz. (3. Adım)
+ç.  Toplam tablosunda bulunan kutulardaki sayılar 10'a eşit ya da 10'dan büyük ise sayıdan 10 çıkarıp 
+kalanı aynı kutuya yazınız ve basamak değeri bir büyük olan basamağın rakamına 1 ekleyiniz  ve 
+elde edilen rakamları uygun basamaktaki kutulara yerleştiriniz. (4. Adım)
+d.  4. adımdaki kutularda elde ettiğiniz rakamların oluşturduğu ondalıklı sayı, ödemeniz gereken 
+ücrettir. Elde ettiğiniz sayıyı yazınız. 
+2 Aşağıda verilen iki sütundan birbirine eşit olan sayılar aynı renge boyanırsa hangi sayıların açıkta kalacağını belirleyiniz.
+Tarife 1     .101 + .100 + .10-1 + .10-2 
+Tarife 2     .101 + .100 + .10-1 + .10-2 
+Toplam:     .101 + .100 + .10-1 + .10-2 
+Toplam:     .101 + .100 + .10-1 + .10-2 
+I II
+4�5
+3�7
+6�10
+�63
+�80
+�60
+�75
+5�3

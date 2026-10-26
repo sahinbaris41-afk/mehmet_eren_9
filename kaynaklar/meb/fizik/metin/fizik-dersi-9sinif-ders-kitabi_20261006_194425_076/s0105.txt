@@ -1,0 +1,55 @@
+105
+KUVVET VE HAREKET
+2.5.1. Hareketin Temel Kavramları
+Nesnenin yeri, hızı, hareketindeki değişim ve hareketinin nitelikleri hareket 
+ile ilgili temel kavramlar kullanılarak belirlenir. Bu amaçla aşağıda referans 
+noktası, konum, alınan yol, yer değiştirme, sürat, anlık sürat, ortalama sürat, 
+hız, anlık hız, ortalama hız ve ivme kavramları açıklanmıştır. 
+Referans Noktası: Bir cismin hareketini tanımlamak için kullanılan, cismin 
+konumunu belirtmek için seçilen ve hareket etmediği kabul edilen noktaya 
+denir (Görsel 2.11). Örneğin Görsel 2.12’de seçilen referans noktasının kuzey-
+batısında alışveriş merkezi, batısında benzin istasyonu, güneybatısında genç-
+lik merkezi bulunmaktadır. 
+Görsel 2.11: Referans noktası
+IV
+K
+G
+D B
+Görsel 2.12: Referans noktasına göre 
+tarif edilen noktalar
+Benzin 
+istasyonu
+Alışveriş 
+merkezi
+Gençlik 
+merkezi
+Referans 
+noktası
+ 
+Konum: Cismin herhangi bir anda referans noktasına göre bulunduğu yerdir. 
+x  sembolü ile gösterilen konumun SI’da birimi metredir (m). Konum, referans 
+noktasından başlayıp cismin bulunduğu noktaya doğru çizilen konum vektörü 
+ile gösterilir. Konum vektörel bir niceliktir. Görsel 2.13’te kartezyen koordinat 
+sisteminin orijini referans alınarak verilen A noktasının konumu (4,2) şeklinde 
+ifade edilir.
+Görsel 2.13: A noktasının konumu ve konum vektörü
+O
+1
+2
+3
+4
+5
+1 2 3 4 5
+A (4,2)
+x
+y
+Konumvektörü
+Alınan Yol: Cismin hareketi boyunca çizdiği yörüngenin uzunluğuna denir. 
+x sembolü ile gösterilen alınan yolun SI’da birimi metredir (m). Alınan yol 
+skaler bir niceliktir.
+Konum ile ilgili simü-
+lasyonu incelemek için 
+karekodu okutunuz.
+Alınan yol ile ilgili simü-
+lasyonu incelemek için 
+karekodu okutunuz.

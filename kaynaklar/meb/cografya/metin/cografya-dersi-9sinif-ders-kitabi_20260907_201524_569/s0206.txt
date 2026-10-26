@@ -1,0 +1,45 @@
+206
+6. Ünite: AF et L e R V e  SÜRDÜRÜL e B i L i R Ç e VR e
+1. Uzaktan algılama sistemi verilerinden yararlanarak Fr eddy Kasırgası’na karşı tedbir alması gereken ülkeler 
+hangileridir?
+2.
+ CBS sayesinde söz konusu bölgenin afet öncesi, esnası ve sonrası durumu hakkında ne tür veriler elde edilebi-
+lir? 
+3.
+ CBS sayesinde elde edilen verilerin kullanılması afet yönetimi açısından ne gibi avantajlar sağlar?
+Bütüncül 
+afet yönetiminde ihtiyaç duyulan verilere hızlı ve doğru şekilde ula-
+şılması ve bu verilerden yeni bilgiler üretilmesinde CBS ve uzaktan algılama 
+teknolojilerinden yararlanılmaktadır. Örneğin bir sel afetinde kurtarma ve tahli-
+ye çalışmaları için afet bölgesine ulaşılması gerekmektedir. Bu durumda CBS 
+teknolojileriyle yapılan analizler sayesinde sahanın topoğrafya haritası, afet 
+bölgesinin uydu fotoğrafları, tahliye edilecek insanların lokasyonu, bölgenin 
+ayrıntılı ulaşım haritaları gibi veriler bir arada sunularak afetin etkileri asgari 
+düzeye indirilebilmektedir. Benzer şekilde uzaktan algılama teknolojileriyle 
+elde edilen uydu ve hava fotoğraflarından yararlanılarak afete uğramış ve uğ-
+rayabilecek bölgelere yönelik mekânsal sorgu ve analizler yapılabilmektedir. 
+Örneğin volkanik bir faaliyet ve lav akışının etkileri, bir kasırganın etkilediği 
+bölgeler ve bu afetin hangi yönde ilerlediği bu sayede tespit edilebilmektedir. 
+Uzaktan algılama verileri doğrultusunda afetlere karşı erken uyarı sistemleri 
+hazırlanarak önlem alma ve kurtarma çalışmaları yapılabilmektedir.
+Afetler ve Mekânsal Bilgi Teknolojileri
+Bütüncül Afet Yönetimi ve Mekânsal Bilgi Teknolojileri
+Aşağıdaki CBS ve uzaktan algılamayla ilgili görsellerden yararlanarak soruları cevaplayınız.
+UYGULAMA
+MOZAMBİK
+ZAMBİYA
+MALA Vİ
+ZİMBABVE
+MADAGASKAR
+30-60-70-100-130-180-230-240-260
+Kasırganın hızı (km/saat)
+24 Şubat
+21 Şubat
+7 Mart
+11 Mart
+0          200         400 km
+Aşağıdaki harita ve görsellerde Uluslararası Uzay İstasyonu verile-
+rine göre 2023 yılında meydana gelen Freddy Kasırgası’nın yönü ve 
+uzay istasyonundan görünümü verilmiştir.
+K
+Hint Okyanusu

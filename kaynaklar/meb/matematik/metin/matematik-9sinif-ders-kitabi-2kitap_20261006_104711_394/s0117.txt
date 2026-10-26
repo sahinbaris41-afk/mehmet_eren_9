@@ -1,0 +1,66 @@
+117
+5. Tema/Algoritma ve Bilişim  
+Bir	grupta	herkesin	birbiriyle	tokalaşması	durumu	çizge	kuramı	yardımıyla	da	açıklanabilir.	Çizge	kuramı,	
+nesneler	arasındaki	ilişkileri	düğümler	(noktalar)	ve	bu	düğümleri	birbirine	bağlayan	ayrıtlar	(çizgi)	kul-
+lanarak	inceler.		
+Görsel 5.1: İki düğümlü çizge
+A
+B
+Görsel	5.1’de	iki	kişin in	birb iriyle	tokal aşmasının	düğ üm	ve	ayrıt	
+yardımıyla	çizgesi	(model)	verilmiştir.	Bu	çizgede	A	ve	B	düğümleri,	
+kişileri;	aralarındaki	ayrıt ,	düğümler	arasındaki	tokalaşmayı	göster-
+mektedir.	
+Çizgeler;	sosyal	ağlardan	genel	ağ	bağlantılarına,	yol	bulma	sistemlerinden	elektrik	devrelerine	kadar	
+birçok	gerçek	yaşam	problemi	için	bir	model	sunar.	Algoritmalar ,	bu	modeller	üzerinde	çalışarak	belirli	
+problemleri	çözmek	için	kullanılır.
+Königsberg Şehrindeki Yürüyüş Rotası Problemini Çizgeler Yardımıyla Çözümleme
+Aşağıdaki soruları cevaplayınız.
+1. Aşağıdaki tabloda verilen görsellerde bir şehirdeki belirli noktalar arasındaki farklı yolları temsil eden çizgeler 
+yer almaktadır. Buna göre A noktasından yola çıkan bir kişi her yolu yalnızca bir kez kullanmak şartıyla başladığı 
+noktaya dönüyorsa  , dönemiyorsa  sembolü kullanarak tabloyu örnekteki gibi doldurunuz.
+ 
+Çizge Sözel Temsili
+Tüm Düğümlerin Tek  
+ya da Çift Sayıda Ayrıta 
+Sahip Olma Durumu
+Başladığı 
+Düğüme Dönme 
+Durumu
+A
+a
+b
+B
+A düğümünden yola
+çıkan bir kişi, a ayrıtını
+kullanarak B düğümüne
+ulaşır ve b ayrıtını
+kullanarak başladığı
+düğüme dönebilir.
+A ve B düğümlerine bağlı
+ikişer ayrıt vardır. Tüm
+düğümler, çift sayıda
+ayrıta sahiptir.
+A
+B
+C
+a
+c
+b
+D C
+A Ba
+bç
+c
+d e
+C
+c
+A
+a
+b
+B
+Cc
+ç
+dA
+a
+b
+B
+5. Uygulama

@@ -1,0 +1,28 @@
+231
+2. Tema Ölçme ve Değerlendirme Soruları
+Tabloda oluşturduğunuz bilgilerden hareketle
+a) 1 ve 3. büretlerdeki sıvıların akışkanlığını karşılaştırarak farklılığın nedenini belirtiniz.
+b) 1 ve 2. büretlerdeki sıvıların akışkanlığını karşılaştırarak farklılığın nedenini belirtiniz.
+c) 4 ve 5. büretlerdeki sıvıların viskozitesini karşılaştırarak farklılığın nedenini belirtiniz.
+ç) 2 ve 5. büretlerdeki sıvıların viskozitesini karşılaştırarak farklılığın nedenini belirtiniz.
+48.
+Sıvı Molekül   Formülü Molekülün Yapı Formülü Molekül  Polarlığı
+2-propanol C3H8O
+H3C CH CH3
+OH  
+Polar
+1,2-propandiol C3H8O2
+H2C CH CH3
+OH OH  
+Polar
+n-hekzan C6H14 CH3−CH2−CH2−CH2− CH2− CH3 Apolar
+n-heptan C7H16 CH3−CH2−CH2−CH2−CH2− CH2−CH3 Apolar
+Sıvılarla ilgili bilgileri kullanarak aşağıda verilen tabloyu doldurunuz.47.
+Büret
+Numarası Sıvı Moleküller Arası Etkileşim Kuvveti Sıcaklık (oC) Büretten Akan Sıvı Miktarı (mL)
+1  
+2     
+3
+4
+5
+Deneyde kullanılan sıvılarla ilgili bazı bilgiler aşağıdaki tabloda yer almaktadır. 

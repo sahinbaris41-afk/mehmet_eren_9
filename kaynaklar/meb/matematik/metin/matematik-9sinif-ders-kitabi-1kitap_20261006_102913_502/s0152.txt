@@ -1,0 +1,45 @@
+152
+2. Tema /  Nicelikler ve Değişimler
+5. adım:  Giriş bölümüne f(x) < 0  yazıp Enter tuşuna basınız. Ekranda f(x) < 0 eşitsizliğinin çözüm aralığı 
+oluşacaktır (Görsel 3).
+Görsel 3
+Giriş...
+-4-6 -2 0 2 4 6
+f(x) = |ax + b |
+= |2.5x + 3.1|
+A = Keşistir(f, xEkseni)
+= (-1.24, 0)
+c : f(x) < 0
+= |2.5x + 3.1| < 0
+a = 2.5
+-5      5                    
+b = 3.1
+-5      5                    
+8
+10
+12
+6
+4
+2
+A a = 2α
+denk1 : |2.5x + 3.1| = 0
+A
+f
+1.  a ve b sürgülerini hareket ettirerek değişimleri gözlemleyiniz. ax b+  = 0 denkleminin kökü ile f fonksi-
+yonunun sıfırı arasında nasıl bir ilişki olduğunu açıklayınız.
+2.  f fonksiyonunun işaret tablosunu doldurunuz. İşaret tablosu ile Görsel 2 ve Görsel 3’te f(x) > 0, f(x) < 0 eşit -
+sizliklerinin çözüm aralıkları ile ilgili çıkarımlarınız ne olur? Gerekçelerinizle açıklayınız.
+x      -∞                     - ba                       ∞
+ f(x) 0
+3.  f(x) = 0 denkleminin çözüm kümesini ve f(x) < 0, f(x) ≥ 0 eşitsizliklerinin çözüm aralıklarını bulmak için 
+f fonksiyonunun grafik veya cebirsel temsilini kullanarak çözüm stratejileri oluşturunuz.
+15.	Uygulama
+fx k, fx k, fx k, fx k, fx k= 21$#__ ___ii iii  (k ∈ R )  Şeklinde Tanımlı Denklem ve Eşitsizlikler 
+Aşağıda verilenlere göre soruları cevaplayınız.
+Neslihan ve Mustafa herhangi bir nesnenin kütlesini tahmin ettikleri bir oyun oynamaktadır. Tahmin eden kişinin 
+söyleyeceği sayı nesnenin gerçek kütlesinden en çok 50 gram eksik ya da 50 gram fazla olursa o kişi oyunu 
+kazanmaktadır. Neslihan Mustafa’ya bir nesne göstererek bu nesnenin kütlesini tahmin etmesini istiyor. Nesnenin 
+kütlesinin 1350 gram olduğu biliniyor. 
+1. Problem: Oyunu Mustafa kazandığına göre Mustafa hangi sayıları söylemiş olabilir?
+a)  Mutlak değer fonksiyonlarını kullanarak yukarıdaki problem durumunu cebirsel temsillerle nasıl ifade edersi -
+niz? Bulduğunuz cebirsel temsillerin problem bağlamındaki anlamını ifade ediniz.

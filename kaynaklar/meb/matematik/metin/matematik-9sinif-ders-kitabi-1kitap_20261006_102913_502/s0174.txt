@@ -1,0 +1,42 @@
+174
+3. Tema /  Geometrik Şekiller
+ 3.1.  ÜÇGENDE A ÇI VE KENARLA İLGİLİ 
+ÖZELLİKLER VE BU ÖZELLİKLER 
+ARASINDAKİ İLİŞKİLER
+Konuya Başlarken
+Görselde yandan görünümü üçgen şeklinde olan destek üzerindeki bir tahta parçasının 
+konumunun düzlemsel modellemesi verilmiştir. Desteğin ABC üçgeni, yer düzleminin KL6 @  
+ve tahta parçasının DE6 @  ile ifade edildiği görselde DE KL'66 @ @  dır. Görseldeki A noktası tahta 
+parçasının desteğe değme noktasıdır. Tahta parçasının üçgenle yaptığı açıların ölçüleri d ve 
+e, üçgenin iç açılarının ölçüleri a, b ve c olarak gösterilmiştir.
+Buna göre aşağıdaki sorularla ilgili fikirlerinizi sınıf arkadaşlarınızla paylaşınız. 
+1. Hangi açıların ölçülerinin eşit olduğunu gerekçeleriyle belirtiniz.
+2. Üçgenin iç açılarının ölçüleri toplamı ile doğru açı arasındaki ilişkiden hareketle 
+ulaştığınız sonucu açıklayınız.
+3. İkinci soruda ulaştığınız sonucun tüm üçgenlere genellenip genellenemeyeceğini 
+açıklayınız.
+Ü
+çgenlerde yer alan açılar ve bu açıların karşılarındaki kenarların uzunlukları arasındaki ilişki, 
+açı-kenar bağıntısı ile tanımlanır. Bu bağıntıya göre bir üçgende büyük açı karşısında büyük 
+kenar, küçük açı karşısında küçük kenar bulunur. Bu ilişki, Öklid geometrisinin temel aksiyomları 
+ve trigonometrik teoremler aracılığıyla matematiksel olarak ispatlanabilir. Ayrıca bir üçgenin iç açıları 
+ölçülerinin toplamının 180 derece olması, düzlemsel geometrinin temel özelliklerinden biridir. Bu özellik-
+ler, üçgenlerin yapısal tutarlılığını ve evrensel geçerliliğini ortaya koyar. 
+Üçgende Açılar
+Üçgen, geometrinin temel kavramlarından biridir. Bu nedenle üçgenin açılarına ilişkin önermelerin ispat-
+ları geometrik teoremler kullanılarak yapılır. Bununla birlikte diğer matematiksel yöntemler de bu ispat -
+larda sıklıkla kullanılır. 
+Üçgenin İç Açılarının Ölçüleri Toplamı
+Aşağıda verilen teoremin ispatına yönelik adımları uygulayınız.
+1. Teoremi inceleyiniz.
+Teorem: Üçgenin iç açılarının ölçüleri toplamı 180° dir.
+Verilenler: ABC üçgeni
+İspatlanacak ifade: mA mB mC 180o++ =__ _iiiX WW  
+A
+B C
+1.	Uygulama
+AD
+a
+b c
+B C LK
+Ed e

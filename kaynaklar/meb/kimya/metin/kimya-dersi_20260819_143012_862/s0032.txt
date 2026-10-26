@@ -1,0 +1,44 @@
+32
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilere süperhidrofilik ve süperhidrofobik malzemelerin günlük hayattaki uygula -
+malarını araştırmaları için bir görev verilebilir. Ayrıca öğrencilerin bu malzemelerin ka -
+rakterizasyonunda temas açısı değerinin önemini ve örnek uygulamaları incelemeleri 
+için uzmanlardan destek almaları sağlanabilir. Öğrenciler, süperhidrofilik ve süperhid -
+rofobik malzemelerin farklı uygulamalardaki önemi hakkında bilgi veren bilgi görselleri 
+hazırlayabilir.
+Öğrencilere farklı malzemelerin yüzey temas açılarını ölçmeleri için bir görev verilebilir. 
+Öğrenciler, gonyometre cihazını veya ImageJ akıllı telefon uygulamalarını kullanarak 
+temas açılarını ölçebilir ve bu verileri analiz edebilir. Öğrencilerden farklı malzemelerin 
+hidrofilik, hidrofobik veya süperhidrofobik özelliklerine göre sınıflandırıldığı bir rapor 
+hazırlayarak sunmaları istenebilir.
+*Öğrencilere süperhidrofobik malzemelerin tasarımında doğadaki hangi varlıklardan 
+ilham alındığını araştırmaları için bir görev verilebilir. Öğrenciler, doğadaki örnekleri in -
+celeyerek süperhidrofobik malzemelerin tasarımında kullanılan biyomimikri yöntemleri 
+belirleyebilir. Öğrencilerden süperhidrofobik malzemelerin biyomimikri kaynakları ve 
+tasarım ilkeleri hakkında bir rapor hazırlamaları istenebilir.
+*Öğrenciler, Newton tipi olan ve olmayan akışkanların viskozite özelliklerini belirlemek 
+için laboratuvar deneyleri yapabilir. Bu akışkanların viskozitesini etkileyen faktörle -
+ri açıklayan teorik hesaplamalar yapmaları da öğrencilerden istenebilir. Öğrenciler, 
+yaptıkları deneylerden elde ettikleri verileri analiz ederek Newton tipi olan ve olmayan 
+akışkanların viskozite davranışları arasındaki farkları belirleyebilir. Ayrıca bu farkların 
+pratik uygulamalara nasıl yansıdığını, endüstriyel ve biyomedikal uygulamalardaki ye -
+nilikçi çözümlerini ve avantajlarını değerlendirebilir. Öğrenciler elde ettikleri bulguları 
+raporlayabilir ve sunabilir. 
+Öğrencilere hidrojellerin fiziksel ve kimyasal davranışlarını ayrıntılı bir şekilde incele -
+meleri için bir araştırma projesi verilebilir. Bu proje kapsamında öğrencilerden hidro -
+jellerin yüzey gerilimleri, viskoelastik özellikleri ve hidrofilik davranışları üzerinde etkili 
+olan güçlü ve zayıf kimyasal etkileşimlerini araştırmaları istenebilir. Öğrenciler; hidro -
+jellerin moleküler düzeydeki yapılarını, suyla etkileşimlerini ve bu etkileşimlerin hidro -
+jellerin fiziksel özellikleri üzerindeki etkilerini analiz edebilir. Proje sürecinde öğrenci -
+lere deneyler yaptırılarak hidrojellerin özelliklerini karakterize etme fırsatı sunulabilir. 
+Ayrıca öğrenciler; hidrojellerin biyomedikal uygulamalarını, ilaç taşıma sistemlerini 
+veya doku mühendisliği gibi pratik alanlardaki potansiyel kullanım alanlarını da incele -
+yebilir. Öğrencilerden araştırma projesi sonucunda elde ettikleri verileri analiz ederek 
+hidrojellerin fiziksel ve kimyasal özellikleri ile etkileşimlerini detaylı bir şekilde açıklayan 
+bir araştırma raporu sunmaları istenebilir. Elmas, grafit gibi aynı birim taneciğe sahip 
+olan ancak farklı kimyasal özellikler sergileyen katıların özelliklerini anlamaları için öğ -
+rencilerin uzmanlarla görüşmeleri sağlanabilir. Bu görüşmeler, öğrencilerin malzeme 
+bilimi ve kimya alanında derinlemesine bilgiye sahip olmalarına katkı sağlayabilir. Ayrı -
+ca öğrenciler, farklı kimyasal özelliklere sahip bu katıların farklı endüstriyel ve bilimsel 
+alanlarda nasıl kullanılabileceği konusunda düşünmeleri için teşvik edilebilir.

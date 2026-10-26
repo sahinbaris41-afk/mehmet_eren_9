@@ -1,0 +1,22 @@
+5.TEMA - ALGORITMA VE BILIŞIM
+56 57
+Bilgi notunda verilen ikili arama ağacında 14 değerinin arama işleminin kaç adımda yapılabi -
+leceğini hesaplayınız. Büyük veri setlerinde ikili arama ağacı yönteminin sıralı dizilere göre daha 
+verimli bir arama yöntemi sunduğunu düşünüyor musunuz? Açıklayınız.
+Çözüm:
+3. Adım
+Bilgi
+15, 10, 20, 8, 12, 16, 25 şeklinde olan veri setini kullanarak ikili ara -
+ma ağacı yapısına dönüştürme işlemini inceleyiniz.
+Adım Adım İkili Arama Ağacı Oluşturma İşlemi:
+ ▶ Kök Düğüm Seçimi İşlemi:
+Veri setinden ilk veri, kök düğüm olarak seçilir. Burada 15 sayısı 
+kök düğüm olur.
+ ▶ Sol ve Sağ Alt Düğümleri Ekleme İşlemleri:
+Kalan veriler 15 sayısının sol ve sağ tarafına eklenir.
+10 < 15 bu yüzden 10, 15'in sol tarafına yerleşir.
+20 > 15 bu yüzden 20, 15'in sağ tarafına yerleşir.
+8 < 15 ve 8 < 10 bu yüzden 8, 10'un sol tarafına yerleşir.
+12 < 15 ve 12 > 10 bu yüzden 12, 10'un sağ tarafına yerleşir.
+16 > 15 ve 16 < 20 bu yüzden 16, 20'nin sol tarafına yerleşir.
+25 > 15 ve 25 > 20 bu yüzden 25, 20 sayısının sağ tarafına yerleşir.

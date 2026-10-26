@@ -1,0 +1,28 @@
+19
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+2. ÜNİTE: KUVVET VE HAREKET
+Bu ünitede öğrencilerin nicelikleri sınıflandırmaları, vektörlerde toplama işlemini farklı 
+yöntemlerle gerçekleştirmeleri, temel düzeyde kuvvet kavramını ve doğadaki temel kuv-
+vetlerin özelliklerini, hareketin temel kavramlarını ve hareket türlerinin temel niteliklerini 
+açıklamaları amaçlanmaktadır.
+DERS SAATİ 24
+ALAN 
+BECERİLERİ FBAB2. Sınıflandırma, FBAB8. Bilimsel Çıkarım Yapma, FBAB10. Tümevarımsal Akıl Yü-
+rütme
+KA VRAMSAL 
+BECERİLER KB2.7. Karşılaştırma
+EĞİLİMLER E2.3. Girişkenlik, E2.5. Oyunseverlik, E3.2. Odaklanma, E3.4. Gerçeği Arama, E3.6. Anali-
+tiklik, E3.7. Sistematiklik 
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık 
+Değerler D3. Çalışkanlık, D4. Dostluk, D7. Estetik, D16. Sorumluluk, D17. Tasarruf, D19. Vatansever-
+lik 
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB4. Görsel Okuryazarlık, OB6. Vatandaşlık Okuryazarlığı, OB7. 
+Veri Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı, OB9. Sanat Okuryazarlığı 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Görsel Sanatlar, Kimya, Matematik  
+BECERİLER ARASI 
+İLİŞKİLER KB2.2. Gözlemleme

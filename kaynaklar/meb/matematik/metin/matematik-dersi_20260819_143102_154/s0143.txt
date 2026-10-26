@@ -1,0 +1,45 @@
+143
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ • Trigonometrik Fonksiyonlar ve Nitel Özellikleri
+• Trigonometrik Fonksiyonlarla İfade Edilebilen Denklemler İçeren Problemler
+Genellemeler • Fonksiyonlar, nitel özelliklerine göre sınıflandırılabilir.
+• Referans fonksiyonlar, bir fonksiyon grubunun üretecidir.
+• Fonksiyon grafikleri, cebirsel denklem ve eşitsizlikleri inceleme ve yorumlamanın temel 
+araçlarından biridir.
+Anahtar Kavramlar artanlık-azalanlık, birim çember, derece, esas ölçü, maksimum-minimum değer, maksi -
+mum-minimum nokta, periyot, radyan, trigonometrik fonksiyon, yönlü açı
+Sembol ve Gösterimler 2π, 360°, sinx, cosx, cotx, T , tanx 
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendiri -
+lebilir.
+Grafik temsili verilen trigonometrik referans fonksiyonların bire birliğinin, örtenliğinin, pe-
+riyodunun, maksimum-minimum noktalarının, maksimum-minimum değerlerinin ve tek-
+liğinin-çiftliğinin belirlenebilmesine yönelik verilen performans görevi; dereceli puanlama 
+anahtarıyla değerlendirilebilir.
+Trigonometrik fonksiyonların periyotlarının belirlenmesini gerektiren gerçek yaşam du -
+rumlarına yönelik (bir salıncağın veya dönme dolabın yerden yüksekliğinin zamana bağlı 
+değişimi gibi)  araştırma ödevi verilebilir. Verilen ödev; hazırlık, içerik ve sunum süreçlerini 
+içine alan derecelendirme ölçeği kullanılarak değerlendirilebilir.
+Öğrencilere trigonometrik referans fonksiyonlar ve bu fonksiyonlardan türetilen fonksi -
+yonların nitel özelliklerine ilişkin önermelere yönelik matematiksel doğrulama yapmayı 
+gerektiren çalışma kâğıdı verilebilir. Ortaya konan sonuçlar dereceli puanlama anahtarıy-
+la değerlendirilebilir. Çalışma sonunda öğrenciler, öz değerlendirme formuyla kendilerini 
+değerlendirebilir.
+Trigonometrik fonksiyonlarla ifade edilebilen denklemleri kullanmayı gerektiren grup et-
+kinliğinde her bir gruba çok çözümlü problemlerden oluşan çalışma kâğıdı verilebilir. Ça-
+lışma kâğıdında grubun ortaya koyduğu cevaplar, analitik dereceli puanlama anahtarıyla 
+değerlendirilebilir. Gruptaki her birey, akran değerlendirme formuyla arkadaşlarını değer-
+lendirebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin cebirsel veya grafik temsili verilen fonksiyonların nitel özelliklerine dair 
+çıkarımlar yapabildiği; öğrendiği referans fonksiyonlara dönüşümler uygulayarak fark -
+lı fonksiyonlar türetebildiği; referans fonksiyonlardan türetilen fonksiyonların cebirsel 
+temsili ile grafik temsili arasında geçiş yapabildiği; bir dik üçgende bir dar açının sinüs, 
+kosinüs, tanjant ve kotanjant oranlarını bulabildiği; bu oranlardan yararlanarak bazı tri -
+gonometrik özdeşliklere ulaşabildiği; dik üçgende belirlenebilen trigonometrik oranla -
+rı birim çember yardımıyla gösterebildiği; yönlü açı kavramını birim çember üzerindeki 
+noktalarla ilişkilendirebildiği kabul edilmektedir.

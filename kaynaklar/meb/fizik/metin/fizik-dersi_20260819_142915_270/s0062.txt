@@ -1,0 +1,51 @@
+62
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.11.1.4 
+Öğretmen, İbni Sina’nın mekanik konusundaki çalışmalarını anlatan bir metin kullanarak 
+çalışmaları hakkında farkındalık oluşturur. Öğrencilere bileşke kuvvet ile cisimlerin hare-
+keti arasındaki ilişkilerin gözlenebildiği bir deney yaptırılır ya da animasyon, simülasyon 
+veya video gösterimi gibi dijital içeriklerden biri kullanılabilir. Öğrenciler deney veya diji-
+tal içeriklerdeki hareket veya olayları tartışma yöntemi ile yorumlar (KB2.3, OB4). Dijital 
+içeriklerdeki hareket veya olaylara ilişkin iddialarını, destekleyicilerini ve varsa akranla-
+rından farklı düşündüğü durumlarda çürütücülerini sunar (E1.2, E3.5, SDB2.2). Öğrenci-
+lerin iddialarını ortaya koyarken (SDB2.2) ön öğrenmelerinde yer alan ivme kavramı ile 
+ilişki kurması sağlanır (SDB1.1). Öğrenciler, sınıf tartışması (SDB2.2) neticesinde bileşke 
+kuvvet ve cisimlerin hareketleri arasındaki ilişkileri keşfeder. Öğrenciler, soru cevap veya 
+beyin fırtınası gibi tekniklerle desteklenen tartışma ortamında keşfettiği ilişkiler üzerin-
+den Newton'ın Hareket Yasalarına yönelik genellemeler yapar. Öğrencilere Newton'ın Ha-
+reket Yasalarına yönelik örnekler vermeleri için çıkış kartı verilebilir.
+FİZ.11.1.5 
+Öğretmen, birden fazla kuvvetin etkisinde kalan cisimlerle ilgili görseller gösterir. Öğ-
+renciler görselleri yorumlayarak cisimler üzerine etki eden tüm kuvvetleri belirler (OB4). 
+Öğrenciler belirledikleri kuvvetleri serbest cisim diyagramını kullanarak gösterir. Serbest 
+cisim diyagramını kullanarak Newton'ın Hareket Yasalarını kendi cümleleriyle yeniden 
+ifade eder. Serbest cisim diyagramı kullanmanın bir cisme etki eden net kuvvetin he-
+saplanması ile ilgili matematiksel problemlerin çözümündeki işlevini analitik bakış açı-
+sıyla tartışır (E3.6). Farklı büyüklükteki ivmeyle hareket eden cisimlerin bir arada olduğu 
+sistemlerle ilgili matematiksel hesaplamalardan kaçınılır. Sabit ivmeli hareket ile sınırlı 
+kalınır. Serbest cisim diyagramları hakkında farklı soru türleri içeren bir çalışma yaprağı 
+verilebilir. 
+FİZ.11.1.6 
+Öğretmen, örnek olay ya da dijital içeriklerde yer alan görselleri yorumlayarak (OB4) 
+öğrencilerin harekete zorlanmasına rağmen durmakta olan, kayarak öteleme hareketi 
+yapmakta olan ve dönerek öteleme hareketi yapmakta olan cisimlere etki eden sürtün-
+me kuvvetini fark etmesini sağlar. Öğrenciler, statik ve kinetik sürtünme kuvvetlerinin 
+özelliklerini belirleyerek bunları ifade eder. Öğrenciler, soru cevap tekniğinin kullanıldığı 
+etkileşimli ortamda görsellerde yer alan sürtünme kuvvetinin temel bileşenlerini, statik 
+ve kinetik sürtünme kuvvetinin benzerliklerini ve farklılıklarını sorgulayarak listeler. Öğ-
+rencilere, statik ve kinetik sürtünme kuvvetlerini karşılaştırabilmeleri için yapılandırılmış 
+grid verilebilir.
+FİZ.11.1.7
+Öğrenciler, simülasyon gibi dijital içerikler yoluyla ya da deney yardımıyla kayarak ötele-
+me hareketinde zorlanmasına rağmen duran ve sabit hızla hareket eden cisimlere etki 
+eden sürtünme kuvvetinin bağlı olduğu değişkenleri gözlemler (OB4). Öğrenciler, sınıf 
+tartışması yolu ile gözlemlerine yönelik çıkarımlarını simülasyon veya deney yoluyla elde 
+ettiği verilerle destekleyerek ifade eder (OB7, SDB2.1). Tartışma sonucunda sürtünme 
+kuvvetinin matematiksel modeline ulaşır. Öğretmen, sürtünmeli ortamda hareket eden  
+cisimlere yönelik problem durumları sunabilir. Öğrencilerden dijital içerik ya da deney 
+verilerini kullanarak sürtünme kuvveti-uygulanan kuvvet grafiğini çizmeleri istenebilir. 
+Öğrenciler, matematiksel model kullanarak statik ve kinetik sürtünme kuvvetleriyle il-
+gili hesaplamalar yapar ve modeli geneller (E3.1). Kayarak öteleme ve dönerek öteleme 
+hareketlerinde sürtünme kuvvetinin yönünün belirlendiği durumlara günlük hayattan 
+örnekler verir. Öğrencilere, sürtünme kuvveti ile ilgili hesaplamalar yapmaları için farklı 
+soru türlerinden oluşan bir test verilebilir.  

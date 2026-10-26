@@ -1,0 +1,44 @@
+40
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI VE 
+SÜREÇ BİLEŞENLERİ
+KİM.10.1.1. Kimyasal değişimlere ilişkin kanıtları belirlemeye yönelik bilimsel gözlem yapa-
+bilme 
+a) Kimyasal değişimlerin gözlemlenebilir göstergelerini (enerji değişimi, gaz çıkışı, 
+renk değişimi veya yeni bir katının oluşumu) tanımlar. 
+b) Kimyasal değişimlerin gözlemlenebilir göstergelerine ilişkin veri toplar ve kayde -
+der. 
+c) Kimyasal değişimlerin gözlemlenebilir göstergelerine ilişkin topladığı verileri tep -
+kenlerin alt mikro seviyedeki değişimi temelinde açıklar. 
+KİM.10.1.2. Kimyasal tepkimelerin oluşumunu açıklamak için bilimsel model oluşturabilme
+a) Taneciklerin yeniden düzenlenmesi temelinde kimyasal tepkimelerin oluşumu için 
+önerdiği modeli farklı kimyasal tepkimelerin oluşum süreçlerini ince leyerek sınar. 
+b) Sınama sürecinde elde ettiği kanıtlara uygun olarak modelini geliştirir. 
+KİM.10.1.3. Kimyasal tepkime türlerinin oluşum sürecine ilişkin bilimsel gözlem yapabilme 
+a) Tepkime türlerinin (çökelme, indirgenme-yükseltgenme ve asit-baz) oluşum sü -
+recine ilişkin gözlemlenebilir göstergeleri (renk değişimi, çökelek oluşumu, enerji 
+değişimi ve gaz çıkışı) tanımlar. 
+b) Tepkime türlerinin oluşum sürecine ilişkin gözlemlenebilir göstergelere yönelik 
+veri toplar ve kaydeder. 
+c) Tepkimelerin oluşum sürecine ilişkin verileri sembolik ve alt mikro seviyedeki gös-
+terimlerle açıklar. 
+KİM.10.1.4. Mol kavramına ilişkin operasyonel tanımlama yapabilme
+a) Maddelerin miktarını ifade etmek için ölçülebilir (kütle, tanecik sayısı vb.) özellikleri 
+belirler. 
+b) Maddelerin aynı sayıda tanecik içeren örneklerinin kütlesini ölçer. 
+c) Maddelerin tanecik sayısını ifade etmek için yaptığı işlemlere uygun tanım yapar.
+KİM.10.1.5. Saf maddelerin ölçülebilir özellikleri arasındaki ilişkileri belirlemeye yönelik tüm-
+dengelimsel akıl yürütebilme
+a)  Atom sayısı, molekül sayısı, kütle ile mol sayısı arasındaki ilişkiyi kuramsal temele 
+dayalı kurduğu hipotezleri ile test eder. 
+b)  Değişkenler arasındaki orantısal ilişkilere yönelik hipotezlerini yeni durumları açık-
+lamak için kullanır.
+KİM.10.1.6. Kimyasal tepkime denklemlerinde tanecik sayılarının tutarsızlıklarına ilişkin çe-
+lişkiyi giderebilme 
+a)  Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarındaki tutarsız-
+lıkların nerede olduğunu belirler.   
+b)  Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarının denkleşti-
+rilmesi için olası yolları araştırır. 
+c)  Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarının denkleşti-
+rilmesi için uygun yolu seçerek uygular. 
+ç)  Kimyasal tepkime denklemlerinde tanecik sayılarının denkliğini değerlendirir. 

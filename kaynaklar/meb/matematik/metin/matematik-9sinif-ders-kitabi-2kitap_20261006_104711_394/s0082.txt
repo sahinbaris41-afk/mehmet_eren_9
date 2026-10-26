@@ -1,0 +1,34 @@
+82
+4. Tema / Eşlik ve Benzerlik
+33. ÖRNEK
+Bir	kenarı	pencerenin	kenarına	paralel	olan	masanın	yüksekliği	75	cm,	perdeye	uzaklığı	30	cm’dir.
+Şekil	1’de	ucunun	yerden	yüksekliği	210	cm	olan	stor	perde	ve	yandan	görünümü	dikdörtgen	şeklinde	
+olan	masa	verilmiştir.	Güneş	ışınları	masa	üzerinde	en	fazla	60	cm	uzağa	ulaştığında	perde	Şekil	2’de	
+gösterildiği	gibi	75	cm	indirilmiştir.	
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a) Son	durumda	güneş	ışınlarının	masa	üzerinde	en	fazla	ne	kadar	uzağa	ulaştığını	bulabilmek	için	bir	
+geometrik	modelleme	yaparak	verilen	bilgileri	ve	istenenleri	oluşturduğunuz	modelin	üzerine	yazınız.
+b) Uygun	stratejiyi	kullanarak	son	durumda	güneş	ışınlarının	masa	üzerinde	en	fazla	ne	kadar	uzağa	
+ulaştığını	bulunuz.
+Çözüm
+a) 	 Probleme	 ilişkin	 sayısal	 veriler,	ABC	 ve	 DBK	 üçgenleri	 oluşturularak	 şekiller	 üzerine	 aşağıdaki	
+gibi	 yerleştirilebilir. 	 Oluş turulan 	 bu	 modellemede 	 perde	 yere	 dik	 konumda 	 bulunduğundan  
+m ABC m DBK 90o==_ _i i%% 	olur.	Bu	nedenle	ABC	ve	DBK	dik	üçgenlerdir .
+60
+75
+75
+x210
+30
+Şekil 1 Şekil 2
+75 75
+60
+AB
+C C
+75
+x
+B
+K
+D
+Şekil 1 Şekil 2
+210
+30 30

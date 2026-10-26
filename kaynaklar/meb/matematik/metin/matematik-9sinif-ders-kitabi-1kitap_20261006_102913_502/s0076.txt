@@ -1,0 +1,41 @@
+76
+1. Tema /  Sayılar
+c)  Aşağıda bir kenar uzunluğu a birim olan EFGH karesi verilmiştir. EFGH karesi 1, 2, 3, 4 numaralı dört bölüme 
+ayrılmıştır.
+       
+1 numaralı bölüm: Bir kenar uzunluğu (a - b) birim olan kare 
+2 numaralı bölüm: Kısa kenar uzunluğu b birim, uzun kenar uzunluğu   
+                               (a - b) birim olan dikdörtgen 
+3 numaralı bölüm: Kısa kenar uzunluğu b birim, uzun kenar uzunluğu  
+                              (a - b) birim olan dikdörtgen 
+4 numaralı bölüm: Bir kenar uzunluğu b birim olan kare
+EFGH karesi ile 1, 2, 3, 4 numaralı bölümlerin alanlarını cebirsel olarak 
+ifade ediniz. 
+1
+a
+a
+E
+G
+F
+H
+a - b
+a - b
+a - b
+b
+b
+b
+3
+2
+4
+ç)  c maddesinde bulduğunuz cebirsel ifadeleri kullanarak a ve b maddelerinden elde ettiğiniz eşitlikleri doğrula-
+yınız.
+Cebirsel ifadelerdeki değişkenlerin alacağı tüm gerçek sayı değerleri için sağlanan eşitliklere özdeşlik 
+denir. Aşağıda bazı özdeşlikler verilmiştir.
+İki	terimin	toplamının	karesi	özdeşliği: ab aa bb22 22+= ++_i
+İki	terimin	farkının	karesi	özdeşliği: ab aa bb22 22-= -+_i
+İki	terimin	karelerinin	farkı	özdeşliği: ab ab ab22 $-= -+_ _i i
+17.	Sıra	Sizde      
+1.  Aşağıdaki	ifadelerin 	 özdeşini 	 yazınız.
+a) x2 2+=_i      
+b)	 x942 -=
+c) xx 692 -+ =

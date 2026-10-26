@@ -1,0 +1,32 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+114
+Fizik Dersi Örnek Sorular
+Fizik alanı “Bilimsel Çıkarım” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Bir araştırmacı grubu, hâl değişim sıcaklığında bulunan maddelerin hâl değiştirmesi için verilmesi 
+gereken ısı miktarının hangi değişkenlere bağlı olduğunu incelemek istiyor.
+Bunun için her biri erime sıcaklığında bulunan buz, alkol ve şeker maddeleri farklı kütlelerde alınıp ör-
+neklem oluşturularak deney aşamasına geçiliyor.
+Araştırmacılar maddelerin tamamının erime süreleri ile erimesi için gerekli ısı miktarını gözlemlemiş ve 
+sonuçları bir tabloda toplamışlardır:
+Madde Kütle  (g) Erime Sıcaklığı (°C) Erime Isısı (cal/g) Gerekli ısı  (cal) Erime Süresi (dk.)
+Buz 30 0 79,8 2394 2
+Buz 60 0 79,8 4788 4
+Alkol 30 -114 25,8 774 1,5
+Alkol 60 -114 25,8 1548 3
+Şeker 30 186 35,85 1076 3
+Şeker 60 186 35,85 2151 6
+1. Elde edilen tablodaki ‘Gerekli Isı’ sütununda yer alan veriler, hangi iki sütundaki veriler ile ilişkilidir? 
+(FBAB8.SB1)
+A) Kütle – Erime Isısı
+B) Erime Sıcaklığı – Erime Süresi
+C) Kütle – Erime Süresi
+D) Erime Isısı – Erime Sıcaklığı
+E) Erime Süresi – Erime Isısı
+2. Deneyde elde edilen verilere göre erime sıcaklıklarındaki ve aynı kütledeki buz, alkol, şekerin hâl 
+değişimleriyle ilgili yorumlardan hangisi doğrudur? (FBAB8.SB3)
+A) Yeteri miktarda ısı verildiğinde tamamı en kısa sürede eriyecek olan madde buzdur.
+B) Yeteri miktarda ısı verildiğinde tamamı en uzun sürede eriyecek olan madde alkoldür.
+C) Buz ve şekerin tamamının erimesi için şekere daha fazla ısı verilmelidir.
+D) Buz ve alkolün tamamının erimesi için buza ve alkole eşit ısı verilmelidir.
+E) Şeker ve alkolün tamamının erimesi için şekere daha fazla ısı verilmelidir.

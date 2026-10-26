@@ -1,0 +1,20 @@
+MATEMATİK 9 
+30 31
+Değerlendirme
+Yükseklik ve sıcaklık arasındaki ilişkiyi inceledikten sonra günlük hayatta karşılaşabileceğiniz 
+başka hangi durumlar doğrusal bir ilişki gösterebilir? Bu durumlar için örnek fonksiyonlar 
+yazarak açıklayınız.
+1
+Deniz seviyesinden başlayarak 2000 metre yüksekliğe kadar olan sıcaklık değişimlerini temsil 
+eden bir fonksiyon grafiği çiziniz. Atmosfer koşulları değişirse ve sıcaklık, yükseklik arttıkça 
+daha az düşmeye başlarsa bu durum grafik üzerinde nasıl bir değişikliğe yol açar? Açıklayınız.
+2
+Yükseklik arttıkça sıcaklığın düştüğünü gözlemlediğiniz bu etkinlikte, Türkiye'nin batısından 
+doğusuna gittikçe ortalama sıcaklıkların düşmesini nasıl açıklarsınız? Bu durumu yükseklik ile 
+ilişkilendirerek analiz ediniz ve bu ilişkinin Türkiye'nin farklı bölgelerindeki iklim koşullarına et-
+kisini yazınız.
+3
+Çözüm:
+Çözüm:
+Çözüm:
+30

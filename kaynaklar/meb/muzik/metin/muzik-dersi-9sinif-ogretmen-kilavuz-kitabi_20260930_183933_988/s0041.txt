@@ -1,0 +1,37 @@
+4140
+MÜZİK
+Öğrencilerin oluşturdukları sol dizisini ses değiştirici işaretler yardı-
+mıyla sol majör diziye dönüştürmelerini isteyiniz (Görsel 1.28). 
+Oluşturulan sol majör dizisini çalgınızla çalarak ya da yandaki kare-
+kodda verilen içerikle birlikte seslendiriniz. 
+Öğrencilerden çıkıcı ve inici fa dizisi oluşturmalarını isteyiniz (Görsel 
+1.29). 
+Oluşturulan fa majör dizisini çalgınızla çalarak ya da yandaki karekod-
+da verilen içerikle birlikte seslendiriniz. 
+Seslendirilen fa majör dizisinin majör dizi etkisi verip vermediğini so-
+rarak öğrencilerin düşüncelerini ifade etmelerini isteyiniz.
+Öğrencilerin oluşturdukları fa dizisini ses değiştirici işaretler yardı-
+mıyla fa majör diziye dönüştürmelerini sağlayınız (Görsel 1.30). 
+Oluşturulan fa majör dizisini çalgınızla çalarak ya da yandaki karekod-
+da verilen içerikle birlikte seslendiriniz.
+Sol Majör Dizi
+Fa Dizisi
+Fa Majör Dizi
+Görsel 1.28: Sol Majör Dizi
+Görsel 1.29: Çıkıcı-İnici Fa Dizisi
+Görsel 1.30: Fa Majör Dizi
+Tam Tam Tam Tam
+Yarım Yarım
+TamTam TamT am TamTam
+Yarım Yarım
+&
+Sol Majör Dizisi
+w w w w w w w #ww w #w w w w w w
+Çıkıcı Fa Dizisi İnici Fa Dizisi
+& w w w w w w w ww w w w w w w w
+Tam Tam Tam Tam Tam
+Yarım Yarım Yarım Yarım
+Tam TamT am Tam Tam
+&
+Fa Majör Dizisi
+w w w w bw w w ww w w w w bw w w

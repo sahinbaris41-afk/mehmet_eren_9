@@ -1,0 +1,65 @@
+153
+2. Tema/Çeşitlilik
+Tabloda verilen molekül yapılarını, etkileşimi ifade eden rakamları ve görselleri kullanarak aşağıdaki soru-
+ları cevaplayınız.
+Aşağıdaki tabloda hidrojen atomu içeren bazı moleküllerin yapısı verilmiş, moleküller arasında oluşan etkileşimler 
+kesikli kırmızı çizgiyle gösterilmiştir. Bazı moleküllerde ise elektron yük dağılımını gösteren elektrostatik potansiyel 
+haritası görselleri kullanılmıştır.
+F F  ........... H F H N  ........... H O
+H H
+H
+H
+H O  ........... H N
+H
+H
+H H
+H O  ........... H O
+H F  ........... H F
+  
+H
+  
+H
+  
+H
+  
+H
+H H
+H S  ........... H S
+H Cl  ........... H Cl
+  
+H
+  
+H
+  
+H
+  
+H
+H F  ........... H Cl H N  ........... H N
+H
+H
+H
+H
+1 2 3
+4
+7
+5
+8
+6
+9
+Atom Elektronegatiflik Değeri
+H 2,20
+N 3,04
+O 3,44
+F 4,0
+P 2,19
+S 2,58
+Cl 3,16
+1. Elektronegatiflik farkı bağdaki polarlığın bir ölçüsüdür ve bu polarlık moleküldeki yük dağılımını etkiler. 
+Buna göre etkileşimleri oluşturan kalıcı dipole sahip moleküllerin kısmi negatif (δ¯) ve kısmi pozitif(δ
++
+) 
+kısımlarını belirleyerek tablo üzerinde gösteriniz.
+2. Hangi etkileşimler dipol-dipol etkileşimidir?
+3. Dipol-dipol etkileşiminin oluşmasına neden olan ölçüt nedir? Belirlediğiniz ölçütü kullanarak seçtiğiniz 
+bir etkileşimin oluşumunu açıklayınız.
+Hidrojenli Moleküllere Yakından BakalımEtkinlik-2.15

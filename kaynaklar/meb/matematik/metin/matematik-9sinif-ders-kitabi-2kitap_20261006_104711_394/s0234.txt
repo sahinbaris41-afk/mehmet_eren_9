@@ -1,0 +1,43 @@
+234
+Kaynakça
+KAYNAKÇA
+Akkuş, R., Boz Yaman, B., Duatepe Paksu, A., Bulut, S., ve Toluk Uçar, Z. (Ed.). (2022). Geometri öğretim 
+bilgisi. Ankara: Pegem Akademi.
+Allen, J. D., Anderson, D., Becker, J., Cook, R., Davis, M., Edberg, P ., ... & Jenkins, J. H. (2012). The unicode 
+standard version 7.0 – Core specification. Mountain View, CA: Unicode Consortium.
+al-Jazarī, I. A. R. (1973). The book of knowledge of ingenious mechanical devices: (Kitāb Fī Ma’rifat Al-
+hiyal Al-handasiyya). Netherlands: Springer.
+Al-Kadit, I. A. (1992). Origins of cryptology: The Arab contributions. Cryptologia, 16(2), 97-126.
+Arkhipov, G. I., & Chubarikov, V . N. (2016). Anatoly Alekseevich Karatsuba. Chebyshevskii Sbornik, 
+16 (1), 32-51.
+Baraka, A., Salem, R. M., & Joseph, N. J. (1998). The origin of the “algorithm”. The Journal of the 
+American Society of Anesthesiologists, 89 (1), 277-277.
+Conway , J. H., & Guy , R. (1998). The book of numbers. New York, NY: Springer Science & Business 
+Media.
+Creţ, O., Mathe, Z., Grama, C., Văcariu, L., Roman, F ., & Dărăbant, A. (2006, July). Solving the 
+maximum subsequence problem with a hardware agents-based system. Proceedings of the 10th WSEAS  
+international conference on Circuits (s. 75-80) içinde.
+Crossley , J. N., & Henry , A. S. (1990). Thus spake al-Khwārizmī: A translation of the text of Cambridge  
+University Library Ms. Ii. vi. 5. Historia Mathematica, 17 (2), 103-131.
+Desurvire, E. (2009). Classical and quantum information theory: An introduction for the telecom scientist. 
+New York, NY: Cambridge University Press.
+Dode, A., & Hasani, S. (2017). PageRank algorithm. IOSR Journal of Computer Engineering (IOSR-JCE), 
+19(1), 01-07.
+Dwivedi, S. P . (2013, Eylül). An efficient multiplication algorithm using Nikhilam method. Fifth 
+International Conference on Advances in Recent Technologies in Communication and Computing (ARTCom) 
+konferansında sunulan bildiri. Bangalore, IET .
+Eren, Z. ve Taşarsu, N. (2023). Katı atıkların geri dönüşümü için depozito iade sisteminin önemi: 
+Kızılcahamam pilot uygulaması örneği, Çevre, İklim ve Sürdürülebilirlik, 24(2), 65–74.
+Hegde, N., & Deepthi, P . (2015). Pollard RHO algorithm for integer factorization and discrete logarithm 
+problem. International Journal of Computer Applications, 121 (18), 14-17.
+Jungnickel, D., & Jungnickel, D. (2005). Graphs, networks and algorithms (Vol. 3). Berlin: Springer.
+Keys, A., Fidanza, F ., Karvonen, M. J., Kimura, N., & Taylor, H. L. (1972). Indices of relative weight and  
+obesity . Journal of Chronic Diseases, 25 (6-7), 329-343.
+Maurer, U. M., & Wolf, S. (2000). The diffie–hellman protocol. Designs, Codes and Cryptography, 19(2), 
+147-171.
+Murty , M. N., Padhy , B., & Rao, B. J. (2020). Some fascinating observations on Harshad numbers and 
+amicable pairs. IOSR Journal of Mathematics (IOSR-JM), 16(3), 60-66.
+Rivest, R. L., Shamir, A., & Adleman, L. (1978). A method for obtaining digital signatures and public-
+key cryptosystems. Communications of the ACM, 21 (2), 120-126.
+Shallit, J. (1994). Origins of the analysis of the Euclidean algorithm. Historia Mathematica, 21 (4), 401-
+419.

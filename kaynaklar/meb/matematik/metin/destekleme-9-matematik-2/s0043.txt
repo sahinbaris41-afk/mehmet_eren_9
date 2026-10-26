@@ -1,0 +1,19 @@
+42
+MATEMATİK 9 
+2. TEMA: NİCELİKLER VE DEĞİŞİMLER
+KONTROL LISTESI
+Adı - Soyadı Sınıfı
+Tarih Numarası
+Bu form öğrencilerinizin etkinlik ile ilgili performansını değerlendirmek amacıyla hazırlanmıştır. Aşağıdaki 
+maddeleri okuyarak ilgili alanı işaretleyiniz. Öğrencinizin "Hayır" bölümündeki işaretlemelerinizle ilgili  
+eksikliklerini gidermesine yardımcı olunuz.
+Ölçütler Evet Hayır
+1 Doğrusal ilişkili durumları fark etti.
+2 Bağımlı ve bağımsız değişkenleri belirledi.
+3 Doğrusal fonksiyonların cebirsel temsillerini yazdı.
+4 Doğrusal fonksiyonların grafik temsillerini inceledi.
+5 Doğrusal ilişkili durumların incelenmesinde teknolojiyi etkin kullandı.
+Etkinlik sonunda öğrencilerinizi değerlendirmek için aşağıda verilen "KONTROL LİSTESİ"ni kulla-
+nınız.
+Değerlendirme
+Yönerge:

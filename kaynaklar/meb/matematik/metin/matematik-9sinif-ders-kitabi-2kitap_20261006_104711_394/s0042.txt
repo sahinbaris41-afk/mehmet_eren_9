@@ -1,0 +1,63 @@
+42
+4. Tema / Eşlik ve Benzerlik
+Benzer	şekilde	
+KAB ADL MCD CBN ,mm mm x== ==`` ``jj jj%% %%  
+KBA DAL MDC BCNmm mm yv e== ==`` ``jj jj%% %%   
+AB AD DC BC== = 	olduğundan	AKB,	
+DLA,	CMD	ve	BNC	üçgenleri	eştir	(A.K.A.).	
+O	hâlde	 AK LD MC BN , cm 40== ==   
+AL MD NC BK cm 30== == ’dir.	Masa	örtüsünün	
+alanı,	Alan	 KLMNc m70 70 4900 2$==_i 	bulunur.
+b) AKB	üçgeninde	Pisagor	teoreminden	
+AB KB KA 30 40
+2 22=+ =+22 	olur.	Buradan	
+AB cm 50= 	bulunur.	Masa	yüzeyinin	alanı,	
+Alan ABCD cm50 50 2500 2$==_i 	elde	edilir.
+C
+BA
+L N
+K
+30
+40
+D
+x
+x
+x
+xy
+y
+y
+y
+M
+7. ÖRNEK
+Bir	ikizkenar	üçgenin	eş	kenarlarına	ait	yüksekliklerin	birbirine	eşit	olduğunu	ispatlayınız.
+Çözüm
+AB AC= 	olacak	şekilde	bir	ABC	üçgeni	ile	bu	üçgenin	eş	kenarlarına	ait	
+BE7A 	ve	 CD7 A 	yükseklikleri	çizildiğinde	BEC	ve	CDB	üçgenlerinde	 BC7A 	ortak	
+kenar	olur.	 ABC ACBmm =`` jj%% 	ve	 BEC CDBmm 90o==`` jj%% 	olduğundan	üç-
+genin	 iç	 açılarının	 ölçüleri	 toplamından	 EBC DCBmm =`` j j%%  dür.	 Buradan	
+BEC	ve	CDB	üçgenleri	eş	(A.K.A.)	ve	 BE CD= 	olur.
+A
+C
+ED
+B
+7. Sıra Sizde
+1.
+     
+Yandaki	şekilde	verilen	ABC	ve	CDE	üçgenlerinde 
+ABC ACE CDEmmm ==``` jj j%% % ,	 AC CE= ,	 AB birim 2= 	ve	
+ED 7= 	birimdir. 
+B, C ve D noktaları doğrusal olduğuna göre BD  nun kaç 
+birim olduğunu bulunuz.
+Yandaki	şekilde	ABCD	kare,	AHG	üçgen,	GB C! 7 A 	ve	H,	D,	C	noktaları	
+doğrusaldır.
+BAG HADmm =`` jj%%  olduğuna göre AGHmx =`j%  değerini bulunuz.
+A 7
+E
+2
+B C D
+A
+DH
+B
+C
+Gx
+2.

@@ -1,0 +1,43 @@
+76 77
+KİMYA 9 
+3. TEMA: SÜRDÜRÜLEBİLİRLİK
+1. Adım: Etkinliğe Giriş
+1. Öğrencileri 2-4 kişilik gruplara ayırınız.
+2. Etkinlik sonrasında öğrencilerden grup çalışmasını değerlendirme ölçeğini doldurmalarını isteyiniz.
+3. Grupların bitkisel özler (çay, nane, zeytin yaprağı vb.) ve mikroorganizmalar (bakteriler, mantar -
+lar) üzerine kapsamlı bir kaynak taraması yapmaları gerektiğini belirtiniz. Öğrencilerden kaynak 
+taraması için iş birliği yapacakları kişi, grupları belirlemelerini ve grup sözcüsü seçmelerini iste-
+yiniz. Öğrencilere kaynak taramasından elde ettikleri sonuçları grup sözcüleri ile paylaşacakları 
+bilgisini veriniz.
+4. Grup sözcülerinin bitkisel özler ve mikroorganizmalar üzerine yaptıkları kaynakça taramalarını 
+öğrencilerle sırasıyla paylaşmalarını, grup sözcüleri paylaşımlarını yaparken öğrencilerin etkin 
+şekilde dinlemesini sağlayınız.
+5. Metal nanoparçacıkların nasıl üretildiği ile ilgili uygulama aşamasında verilen deneyi gerçekleş-
+tirmelerini öğrencilerden isteyiniz.
+6. Gruplardan evsel atıkları kullanarak ve metal nanoparçacıkların üretimi hakkındaki kaynakları in-
+celeyerek deneyle ilgili çıkarımlar yapmalarını isteyiniz.
+1. ETKİNLİK ADI METAL NANOPARÇACIK SENTEZİ
+Etkinliğin Amacı Evsel atıkları kullanarak metal nanoparçacıkların üretimiyle ilgili yapay 
+zekâ uygulamaları üzerinden elde edilen sonuçları analiz edebilme
+Zenginleştirme 
+Uygulaması
+Öğrencilerden yeşil sentez yöntemleri ile metal nanoparçacıklar üretme-
+leri istenebilir. Bu amaçla öğrencilere bitkisel özler (çay, nane, zeytin yap-
+rağı vb.) ve mikroorganizmalar (bakteriler, mantarlar vb.) üzerine kapsamlı 
+bir kaynak taraması yaptırılabilir. Öğrencilerden metal nanoparçacıkların 
+(gümüş, altın, bakır vb.) sentezinde kullanılacak bitkisel ve mikrobiyal kay -
+nakları belirleyerek metal nanoparçacıkların sentezini gerçekleştirmeleri 
+istenebilir. Ayrıca derişim, pH ve tepkime süreleri gibi faktörlerin nano-
+parçacıkların boyutu, şekli ve dağılımı üzerindeki etkilerinin araştırılması 
+sağlanabilir. Öğrenciler, yeşil sentez yöntemiyle metal nanoparçacıkların 
+üretiminin çevresel etki analizini yapabilir; enerji tüketimini, atık üretimi-
+ni ve karbon ayak izini geleneksel yöntemlerle karşılaştırabilir. Elde edilen 
+nanoparçacıkların potansiyel uygulama alanlarını (tıp, elektronik, çevre te-
+mizliği vb.) inceleyebilir.
+Araç Gereç ve 
+Materyaller
+• Güvenli internet siteleri (gov ve edu uzantılı)
+• Farklı bitki özleri (yeşil çay, nane yaprağı…), saf su, 0,1 M’lık gümüş nitrat 
+çözeltisi, beher, pipet, ısıtıcı, manyetik karıştırıcı, pH kâğıdı, süzgeç 
+kâğıdı, huni
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.

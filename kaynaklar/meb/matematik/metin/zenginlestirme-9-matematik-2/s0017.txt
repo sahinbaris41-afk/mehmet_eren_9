@@ -1,0 +1,10 @@
+16 17
+MATEMATİK 9 
+7. Adım
+Dünya ve Jüpiter arasındaki çekim kuvvetini hesaplayınız (Dünya'nın kütlesi yaklaşık 6 x 10 27 kg, 
+Jüpiter'in kütlesi 18 x 1029 kg ve aralarındaki mesafe 625 x 1011 m'dir).
+Çözüm:
+Değerlendirme
+Gezegenler arasındaki çekim kuvvetinin matematiksel temsillerini incelediniz. Sizler de kimya 
+disiplininden bir konu (örneğin "Gazların İdeal Hâl Yasası") seçiniz ve bu konuya uygun matema-
+tiksel temsilleri kullanarak sunum hazırlayınız.

@@ -1,0 +1,660 @@
+239
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!( !(
+!(
+Süperior G.
+Huron G.
+Vic toria G.
+Michigan G.
+Bay kal G.
+Bü y ü k  Ay ı G .
+Ç a d  G .
+Ara l G .
+Bü y ü k  E sir  G .
+La d o g a  G .
+Ba lk a ş G .
+On e g a  G .
+Rybinsk Baraj G.
+Ama zon  N.
+Tuna N.
+Ko n go  N.
+Bar
+ış
+ N.
+Nil N.
+Oslo
+Bakü
+TUNUS
+Paris
+Varşova
+İslamabad
+Rabat Kâbil
+Pekin
+Riyad
+Berlin
+Lizbon
+Tahran
+Nursultan
+Madrid
+Ankara
+Muskat
+Havana
+Londra
+Bağdat
+BELARUS
+Cezayir
+LETONYA
+ESTONYA
+UKRAYNA
+Aşkabat
+Meksiko
+Moskova
+TASMAN YA
+KİRİBAT İ
+Kanberra
+Stokholm
+GİNE-B İSSAU
+Pretorya
+Brazilya
+BARBADOS
+M O Ğ O L İ S TA N
+AFGAN İSTAN
+ÖZBEK
+İSTAN
+K A Z A K İ S T A N
+KORE CUM.
+Yeni Delhi
+BRUNEY
+Tokyo
+EKVATOR
+TACİKİSTAN
+FİNLAND İYA
+Trablus
+LİTVANYA
+Helsinki
+Vaşington 
+SUUD İ  ARAB İSTAN
+KUVEYT
+R U S Y A  F E D E R A S Y O N U
+VAT
+PANAMA
+GAMB İYA
+Ottava
+Cakarta
+Karakas
+ST. L UCİA
+MALTA
+GRENADA
+Ulanbator
+C A R O L I N E  A D A L A R I
+Baffin Ad.
+M A RŞ A L  A D A LA R I
+Borneo  Ad.
+H A W A
+İ İ
+ A D A L A R I
+( A . B . D . )
+PAPUA YEN İ  
+GİNE
+Victor ia A das ı
+İZLANDA
+M
+O
+R
+İT
+Y
+U
+S
+SVALBARD  ADALARI
+(N or.)
+SOLOMON ADALARI
+P A R R Y  A D A L A R I
+B A H A M A L A R
+KÜBA
+İRLANDA
+Güney Ad.
+YENİ S İBİRYA ADALARI
+Ber kner  Ad.
+SRİ LANKA
+K U R
+İL  A D A L A R I
+MALD İVLER
+COOK ADALARI
+(Y.Zel.)
+KANARYA ADALARI
+(İspanya)
+ALEX AND ER TA KI MA DALA RI
+KOMORLAR B İRL İĞİ
+Tayv an Ad.
+Sicilya A d.
+GÜNEY SHETLAND
+ADALARI
+(İngiltere)
+FALKLAN D ADA LARI
+(İngiltere)
+JAMA İKA
+GÜN EY G EO RG İA ADA LARI
+(İngilt ere)
+GÜN EY O RKNE Y
+ADAL ARI
+(İngilt ere)
+SAO TOME VE PR İNS İPE
+F i l i p i n
+D e n i z i
+Mer can
+Den izi
+T a s m a n
+D e n i z i
+S ar ga ss o D e ni z i
+K a r a y i p  D e n i z i
+W e d d e l l  D e n i z i
+B a r e n t s
+D e n i z i
+Güney Çin Denizi
+B e r i n g  D e n i z i
+Ohotsk Denizi
+Meks ika K örf ezi
+L a b r a d o r
+D e n i z i
+H ud so n
+K ör f ez i
+L a p t e v  D e n i z i
+D o ğ u  S i b i r y a  D e n i z iB e a u f o r t  D e n i z i
+Ku zey
+Den izi
+D a v i s  D e n i z i
+Ç u k ç i   D e n i z i
+A l a s k a  K ö r f e z i
+Andaman
+Denizi
+Kız ıl d e n i z
+Timor Denizi
+C el e b e s
+D en i z i
+Tir e n  D e n iz i
+Bi s ma rc k
+De ni zi
+Be ri n g  B
+ğ.
+(DAN İMARKA)
+Ka ra D en izi
+Ümit  B r.
+Mississippi N.
+RUSYA
+(A.B.D.)
+K R A L İ Ç E  E L İ Z A B E T H  A D A L A R I
+B a f f in  K ö rf e z i
+NORVEÇ
+İSVEÇ
+DAN
+İSKOÇYA
+JAPONYA
+KORE DEMOKRAT İK
+HALK CUM.
+Ç İ N  H A L K  C U M H U R İ Y E T İ
+SİNCAN UYGUR ÖZERK BÖLGES İ
+KIRGIZ İSTAN
+CAMMU VE KE ŞMİR
+(İhtilafl ı Bölge)
+(BM Kontrol Hatt
+ı)
+Tarafs ız Bölge
+İ R A NIRAK
+SUR İYE
+T Ü R K İ Y E
+H a z a r D e n iz i
+GÜRC İSTAN
+İSR ÜRDÜN
+LÜBNAN
+GKRY
+KKTC
+AZ
+NÖC
+(AZ)
+ERM
+Kahire
+TÜRKMEN İSTAN
+MOLMAC
+SVK
+POLONYA
+AV
+ALMANYA
+ÇEKYA
+LİH
+İSV
+SVN
+HRV
+ROMANYA
+BGR
+BH SRB
+KSVKRD
+ARN
+KMKD
+B Ü Y Ü K
+O K Y A N U S
+A N T A R K T İ K A
+G Ü N E Y  K U T B U
+H İ N T
+O K Y A N U S U
+B A T I  A N T A R K T İ K A D O Ğ U  A N T A R K T İ K A
+BAHREYN
+KATAR
+BAE
+YEMEN
+UMMAN
+L İ B Y A
+N İ J E R
+MI S I R
+YE N G EÇ  D ÖN EN C ES İ
+EK VATO R
+SOMAL İ
+E T İ Y O P Y A
+KENYA
+UGANDA
+ER İTRE
+CİBUT İ
+A V U S T R A L Y A
+GÜ N EY  KU T U P  D Aİ R E Sİ Scotia D enizi
+BAŞLAN GI Ç  MERİD YENİ
+G IL B E RT
+ AD AL A R I
+OĞ L A K  D Ö N EN C ESİ
+K U Z E Y  K U T B U
+A L E U T  A D A L A R I
+( A . B . D . )
+(RF)
+İNG İLTERE
+HOLGALLER
+BEL
+K A N A D A
+A
+L
+E
+U
+T
+A
+D
+A
+LA
+R
+I
+FR A N S A
+İTA LYA
+SMR
+İSPANYA
+PORTEK İZ
+AND
+LÜK
+YUNAN İSTAN
+NEPAL
+BUTANPAK İSTANC E Z A Y İ R
+FA S
+A T L A S
+O K Y A N U S U
+AMER İKA B İRLE ŞİK DEVLETLER İ
+MEKS İKA
+GUATEMALA HONDURAS
+NİKARAGUA
+EL SALVADOR
+KOSTA R İKA
+BEL İZE
+DOM İN İK CUMHUR İYET İ
+ANT İGUA VE
+ BARBUDA
+TRİN İDAD VE TOBAG O
+ST. V İNCENT VE
+GRENAD İNLER ADALARI
+ST. K İTT S 
+VE NEV İS
+DOM İN İKA
+CABO VERDE
+SENEGAL
+G İN E
+MOR İTANYA M A Lİ
+BEN İN
+BURK İNA FASO
+S A H R A
+N İ J E RYA
+Ç A D
+SU D A N
+H İ N D İ S T A N
+BANGLADE Ş
+MY
+A NM AR
+TAY L AN D
+LAOS
+KAMBOÇYA
+V İ E T N A M
+NAURU
+M A L
+İ
+N E Z Y A
+M İ K R O N EZ YA
+PALAU
+DOĞU T İMOR
+E
+N
+D
+O
+N
+E
+Z
+Y
+A
+M
+A
+L
+E
+Z
+Y
+A
+SİNGAPUR
+TANZANYA
+SEYŞE
+L
+L
+E
+R
+ORTA AFR İKA
+CUMHUR İYET İ
+GÜ N E Y
+SU D A N
+KONGO DEMOKRAT İK
+ CUMHUR İYET İ
+GABON
+KONGO
+KAMERUN
+EKVATOR G İNES İ
+EKVATOR G İNES İ
+KOTD İVUAR
+LİBERYA GANA
+TOGOSİERRA  LEONEV E N E Z U E L A
+K O L O M B İ Y A
+P E R U
+B R E Z İ L Y A
+GUYANA
+SUR İNAM
+B Ü Y Ü K
+O K Y A N U S
+K İ R İ B A T İ
+P
+O
+L
+İ
+N
+E
+Z
+Y
+A
+TU VALU
+TONGAFİ Jİ
+SAMOA
+FRANSIZ POL İNEZYASI B O Lİ V YA
+ŞİLİ
+PARAGUAY
+AN G O L A ZAMB İYA
+NAM İBYA
+ZİMBABVE
+BOTSVANA 
+MOZAMB İK
+MALAV İ
+MADAGASKAR
+VANUATU
+TUVALU
+FİJ İ
+YE N İ
+ZE L A N D A
+ESV KRALLI ĞI
+LESOTHO
+GÜNEY AFR İKA
+CUM.
+URUGUAY
+A R J A N T İ N
+S V E R D R U P  A D A L A R I
+AN D REAN OF  AD AL ARI
+FOX AD ALAR I
+JAPO
+N
+TAKIM
+ADALARI
+Y E N İ  G İ N E
+BURUND İ
+RUANDA
+HAİTİ
+Tunus
+KU Z E Y KU T U P D A
+İR ES
+İ
+KUZEY İRLANDA
+MON
+TUAM
+OTUTAKIM ADALARI
+Lena N.
+KU Z E Y KU T U P D A İ R ES İ
+YE N G EÇ  D ÖN EN C ES İ
+OĞ L A K  D Ö N EN C ESİ
+EK VATO R
+BA ŞL A N G I Ç   ME Rİ D Y EN İ
+FLS
+(ANGOLA)
+Yemen Denizi
+Bengal
+KörfeziUmman Denizi
+A k d e n i z
+K a r a d e n i z
+F İ L İ P İ N L E R
+No rv eç  De ni zi
+G r ö n l a n d  D e n i z i
+Doğu Çin
+Denizi
+Japon Denizi
+Do ğu Denizi
+Sar ı Deniz
+GÜ N EY  KU T U P  D Aİ R E Sİ
+İnd u s N.
+FRA NS IZ  G U YA NA S I
+(Fra ns a)
+G R Ö N L A N D
+BATI SAHRA
+K U Z E Y  ( A R K T İ K )  O K Y A N U S U
+G Ü N E Y  O K Y A N U S U
+180°
+180°
+170°D
+170°D
+160°D
+160°D
+150°D
+150°D
+140°D
+140°D
+130°D
+130°D
+120°D
+120°D
+110°D
+110°D
+100°D
+100°D
+90°D
+90°D
+80°D
+80°D
+70°D
+70°D
+60°D
+60°D
+50°D
+50°D
+40°D
+40°D
+30°D
+30°D
+20°D
+20°D
+10°D
+10°D
+0°
+0°
+10°B
+10°B
+20°B
+20°B
+30°B
+30°B
+40°B
+40°B
+50°B
+50°B
+60°B
+60°B
+70°B
+70°B
+80°B
+80°B
+90°B
+90°B
+100°B
+100°B
+110°B
+110°B
+120°B
+120°B
+130°B
+130°B
+140°B
+140°B
+150°B
+150°B
+160°B
+160°B
+170°B
+170°B
+180°
+90°
+80°K 80°K
+70°K 70°K
+60°K 60°K
+50°K 50°K
+40°K 40°K
+30°K 30°K
+20°K 20°K
+10°K 10°K
+0° 0°
+10°G 10°G
+20°G 20°G
+30°G 30°G
+40°G 40°G
+50°G 50°G
+60°G 60°G
+70°G 70°G
+80°G 80°G
+90°
+90°90°
+180°
+DÜNYA SİYASİ HARİTASI
+KISALTMALAR
+AMERİKA BİRLEŞİK DEVLETLERİABD
+ANDORRAAND
+ARNAVUTLUKARN
+AVUSTURYAAV
+AZERBAYCANAZ
+BİRLEŞİK ARAP EMİRLİKLERİBAE
+BELÇİKABEL
+BULGARİSTANBGR
+BOSNA HERSEKBH
+DANİMARKADAN
+ERMENİSTANERM
+ESVATİNİESV
+FLS FİL İSTİN
+GÜNEY KIBRIS RUM YÖNETİMİGKRY
+HOLLANDAHOL
+HIRVATİSTANHRV
+İSRAİLİSR
+İSVİÇREİSV
+KUZEY KIBRIS TÜRK CUMHURİYETİKKTC
+KUZEY MAKEDONYAKMKD
+KARADAĞKRD
+KOSOVAKSV
+LİHTENŞTAYNLİH
+LÜKSEMBURGLÜK
+MACARİSTANMAC
+MOLDOVAMOL
+MONAKOMON
+NAHÇIVAN ÖZERK CUMHURİY ETİNÖC
+RUSYA FEDERASYONURF
+SAN MARİNOSMR
+SIRBİSTANSRB
+SVK SLOVAKYA
+SLOVENYASVN
+VATİKANVAT
+HARİTA İŞARETLERİ
+www.harita.gov.tr
+KISALTMALAR
+Ada
+Burun
+Cumhuriyet 
+Saint                  
+Ad.
+Br.
+Cum.
+St.
+Göl                   
+Körfez              
+Nehir                
+Boğaz
+G.
+Krf.
+N.
+Bğ.
+NOT:  Bu haritadaki devlet hudutlar ı, yurt d ışındaki co ğrafi adlar ve detaylar
+standart do ğrulukta olmayabilir ve resmî nitelik ta şımamaktad ır.
+"Kontrol hattı 1972 Simla Anlaşması ile belirlenmi ş olup Keşmir'in nihai statüsü
+hakkında Hindistan ile Pakistan taraf ından henüz bir anla şmaya varılamamıştır."
+Her  hakkı  saklıdır.
+Harita Genel Müdürlü ğünün yazı lı izni al ınmadan bu ürünün tamam ı veya bir k ısm ı
+çoğaltılamaz , yayımlanamaz ve altl ık olarak kullan ılıp yeni bir ürün üretilemez.
+ÖLÇEK   1: 100 Milyon
+© MSB HAR İTA GENEL MÜDÜRLÜ ĞÜ
+GÖL
+AKARSU
+NEHİRDEN GEÇEN SINIR
+ULUSLARARASI SINIR
+TARTIŞMALI SINIR
+ULUSLARARASI SINIR (DEN İZ)
+BAŞKENT Ankara!(
+km
+0 1.000 2.000 3.000 4.000500
+Datum: WGS84
+Projeksiyon: Plate-Carree

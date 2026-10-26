@@ -1,0 +1,31 @@
+140
+2. Tema /  Nicelikler ve Değişimler
+7. ÖRNEK
+Dikildiğinde boyu 22 cm olan bir bitkinin boyu, ayda 6 cm uzamaktadır.
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  Bitkinin zam ana (ay) bağlı boyunu (cm) ifade eden fonksiyonun cebirsel temsilini oluşturunuz.
+b)  Bitkinin boyunun kaçıncı ayda 40 cm olduğunu elde etmeye yarayan denklemi oluşturarak denklemin 
+kökünü bulunuz.
+c)  Bitkinin boy unun 52 cm’nin altında olduğu zaman aralığını bulunuz.
+Çözüm
+a)  Bitkinin zamana (ay) bağlı boyunu (cm) gösteren fonksiyon f olsun. Uygun aralıkta tanımlı f fonksiyonu 
+doğrusal bir fonksiyon olup cebirsel temsili, f(x) = 22 + 6x olur.
+b)  22 + 6x = 40    6x - 18 = 0 denklemi çözülerek bitkinin boyunun kaçıncı ayda 40 cm olduğu bulu-
+nabilir.
+ Denklemin kökü 6x - 18 = 0    6x = 18    x = 3 bulunur.
+c)  f(x)  52 eşitsizliğini sağlayan değerler için bitkinin boyu 52 cm’nin altındadır.
+     Buradan 22 + 6x  52    6x  52 - 22    6x  30    x  5 bulunur.
+    Bitkinin boyu ,05 i8  zaman aralığında  52 cm’nin altındadır. Eşitsizliğin çözüm aralığı ,05 i8  dır.
+8. ÖRNEK
+f: R"R, f(x) = x3 2 1-cm  olmak üzere f(x)  0 eşitsizliğinin çözüm aralığını
+a)  f fonksiyonu nun cebirsel temsilinden yararlanarak bulunuz.
+b)  f fonksiyonu nun grafiğinden yararlanarak bulunuz.
+c)  İşaret tablosu kullanarak g österiniz.
+Çözüm
+a)  f(x)  0 olmak üzere  x3 2 1-cm   0     3x2  −3  0   
+                                           3x2   3    
+                                          3x  6    
+                                           x    2 olur.
+ Buradan f(x)  0 eşitsizliğinin çözüm aralığı (-∞, 2) olur.
+b)  f fonksiyonu nun cebirsel temsili, f(x) = x3 2 1-cm    f(x) = 3x2  −3 şeklinde düzenlenebilir.  
+ Buradan g: R"R, g(x) =  x şeklinde tanımlı g fonksiyonunun tanım aralığındaki değerleri 32  katı 

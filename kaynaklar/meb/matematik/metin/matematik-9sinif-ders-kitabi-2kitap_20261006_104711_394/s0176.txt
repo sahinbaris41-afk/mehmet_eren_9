@@ -1,0 +1,44 @@
+176
+6. Tema / İstatistiksel Araştırma Süreci
+Veri Analizi Yapma
+Aşağıdaki soruları verilen bilgilere göre cevaplayınız.
+Araştırmacılar hayat döngüsünü anlayabilmek için canlıları gözlemleyerek sınıf  landırmakta ve canlıların özel -
+liklerini belirlemek için çalışmalar yapmaktadır. Bu çalışmalar, canlıların davranışları ve gelişimleri hakkında 
+insanlara bilgiler sunmaktadır. 
+Bir grup araştırmacı, memeli türlerinin günlük uyku sürelerinin nasıl eğilim gösterdiğini görebilmek için 24 me-
+meli türünün günlük uyku sürelerini belirlemiştir. Araştırmacıların elde ettiği verilerle oluşturduğu nokta grafiği, 
+Grafik 1’de yer almaktadır. 
+0 2 4 6 8 10 12 14 16 18 20 22
+Günlük uyku süresi (sa.)
+Grafik 1
+Araştırmacılar Grafik 1’deki verileri analiz etmek için Grafik 2’de görülen veri görselleştirme aracını kullanmıştır.
+0 2 4
+2 7 11 16 20
+6 8 10 12 14 16 18 20 22
+Günlük uyku süresi (sa.)
+Grafik 2
+Grafik 2’de yer alan veri görselleştirme aracı, dağılımın hangi değerlerini temsil ediyor olabilir? Sınıf arkadaşla-
+rınızla tartışınız.
+5. Uygulama
+Dağılımları	karşılaştırmak	için	kullanılan	farklı	bir	görselleştirme	aracı	da	kutu	grafiğidir.	Kutu	grafiği;	bir	
+dağılımın	en	küçük	(minimum)	değer,	alt	çeyrek	değer	(Ç1	veya	%25’lik	dilim),	ortanc a	(Ç2	veya	%50’lik	
+dilim),	üst	çeyrek	değer	(Ç3	veya	%75’lik	dilim)	ve	en	büyük	(maksimum)	değerden	oluşan	beş	sayılı	
+özetinin	görselleştirilmesidir .	Başka	bir	deyişle	beş	sayılı	özet	verileri	ile	çeyrekler	oluşt urulur	(Her	grup	
+verilerin	yaklaşık	%25’ini	içerir.)	ve	ardından	bu	değerler	kutu	grafiği	çizmek	için	kullanılır.	Beş	sayılı	
+özetle	oluşturulan	bir	kutu	grafiği	örneği	Grafik	6.4’te	yer	almaktadır.
+Matematik dersi notları
+20 40 60 80 100
+Grafik 6.4: Kutu grafiği üzerinde beş sayılı özet değerlerinin gösterilmesi
+Ç2 
+ortancaÇ1%25
+%25 %25
+%25Ç3alt uç değer (minimum) üst uç değer (maksimum)
+Çeyreklikleri	bulmak	için	veriler	sıralanır	ve	sıralanan	veriler	her	grupta	yaklaşık	aynı	sayıda	veri	nok-
+tası	olacak	şekilde	dört	parçaya	bölünür.	Verilerin	yaklaşık	%25’i	alt	çeyreklik	(Ç1)	değerinin,	yaklaşık	
+%50’si	ikinci	çeyreklik	(Ç2	aynı	zamanda	ortanca)	değerinin	ve	yaklaşık	%75’i	üst	çeyreklik	(Ç3)	değe-
+rinin	altındadır.	Kutu	grafiğinde	üst	uç	değer	(maksimum)	ile	alt	uç	değer	(minimum)	arasındaki	fark,	
+açıklığı	vermektedir.	Açıklık,	verilerin	yayılımı	hakkında	fikir	veren	ve	yaygın	olarak	kullanılan	bir	yayılım	
+ölçüsü	olsa	da	aykırı	değerlerden	etkilenmekt edir.	Bu	nedenle	aykırı	değerlerden	daha	az	etkilenen	
+çeyrekler	açıklığının	kullanılması	açıklığa	göre	daha	güvenilir	bilgi	sunmaktadır.	Çeyrekler	açıklığı,	
+sıralanmış	bir	veri	dizisinin	ortanca	etrafında	toplanmış	%50’sini	diğer	bir	deyişle	Ç3	ile	Ç1	aralığını	
+(Ç3-Ç1)	gösteren	bir	yayılım	ölçüsüdür.

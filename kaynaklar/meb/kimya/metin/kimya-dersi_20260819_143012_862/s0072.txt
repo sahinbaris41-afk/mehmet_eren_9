@@ -1,0 +1,55 @@
+72
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, 
+çalışma yaprağı, öz değerlendirme formu, performans görevi, sınıf içi tartışma, çıkış kartı, 
+Venn diyagramı, deney raporu ve yansıtma notu kullanılabilir.
+Öğrenciler performans görevi çerçevesinde sıcaklık ve ortak iyonun bir tuzun çözünür -
+lüğüne etkisini araştırmak üzere bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir.  
+Performans görevi “farklı gözlem ortamları oluşturabilme, deney verilerini kaydederek çı-
+karımda bulunabilme, çıkarımlarını Le Chatelier ilkesi ile açıklayabilme” ölçütlerini içeren  
+dereceli puanlama anahtarı ile değerlendirilebilir.  
+Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında 
+toplanarak değerlendirme amaçlı kullanılabilir.
+İÇERİK ÇERÇEVESİ Denge: Tersinir Tepkimelerin Özellikleri, Fiziksel ve Kimyasal Değişimlerde Denge,  Denge 
+Sabiti İfadesinin Yazılması, Tepkime Oranı, Dengeyi Etkileyen Faktörler (Derişim, Hacim, 
+Basınç, Sıcaklık ve Katalizör)
+Asit ve Baz Çözeltilerinde Denge: Suyun Otoiyonizasyonu, Asit Baz Teorilerinin Karşılaştı-
+rılması, Asitlerin ve Bazların Kuvveti, Kuvvetli Asit-Zayıf Asit ve Kuvvetli Baz-Zayıf Baz Sulu 
+Çözeltilerindeki pH Hesaplamaları, Kuvvetli Asit ve Kuvvetli Bazların Nötralleşme Tepki -
+meleri, Kuvvetli Asit-Kuvvetli Baz Titrasyonları, Asidik ve Bazik Ürünlerin Seçiminde Dikkat 
+Edilmesi Gerekenler
+Çözünürlük Dengesi: Suda Az Çözünen Tuzların Molar Çözünürlükleri, Çözünürlük Çarpımı 
+(Kçç), Tuzların Çözünürlüğüne Etki Eden Faktörler (Sıcaklık ve Ortak İyon)
+Genellemeler/İlkeler/
+Anahtar Kavramlar
+asit-baz çifti, asitlik/bazlık sabiti, Arrhenius asidi/bazı, Brønsted-Lowry asidi/bazı, çözünürlük 
+çarpımı, denge sabiti, eş değerlik noktası, fiziksel denge, indikatör, kimyasal denge, kuvvetli 
+asit/baz, Le Chatelier ilkesi, nötralleşme, otoiyonizasyon, pH/pOH, titrasyon, zayıf asit/baz
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin tepken, ürün ve tepkime denklemleri hakkında temel bilgileri, denge bu -
+har basıncını, homojen ve heterojen kavramlarını, asit-baz tepkimelerini, ayıraç (belir -
+teç) kavramını ve çözünürlüğe etki eden faktörleri bildiği kabul edilmektedir. 
+Ön Değerlendirme Süreci Öğrencilere tuzların sudaki çözünürlüklerinin nelere bağlı olduğuna ilişkin sorular sorulabilir. 
+Bir değişimin kimyasal olduğunu gösteren kanıtların (renk değişimi, gaz çıkışı, enerji değişimi, 
+pH değişimi vb.) neler olduğunu, asit-baz tepkimelerini ve indikatörü açıklamaları istenebilir. 
+Köprü Kurma Atmosferdeki karbon dioksit miktarının artması ile okyanus sularının asitlik düzeyi arasın-
+daki ilişki sorularak bu durumun kabuklu canlılar üzerindeki etkisi örnek verilebilir.
+Öğrenme-Öğretme 
+Uygulamaları KİM.11.2.1 
+Öğrencilere “İçerisinde demlenmiş çay bulunan bir bardağa karbonat atıldığında veya li -
+mon sıkıldığında oluşan renk değişimini nasıl açıklarsınız?” gibi bir soru sorularak konuya 
+dikkat çekilir. Öğrencilerden tersinir bir tepkimeye ilişkin gözlemlenebilir nitelikleri (renk 
+değişimi, yeni bir katının oluşumu gibi) belirlemeleri istenir. Öğrencilerin deney yaparak, 
+görselleri inceleyip, bilimsel bakış açısıyla yorumlayarak veya sunulan dijital materyal -
+ler üzerinden çıkarım yaparak gözlem ortamı oluşturmaları sağlanır (D3.3, OB2, OB4) . 
+Böylece araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri 
+desteklenir. Öğrenciler, tepkimenin ileri ve geri yönde ilerlediğini gözlemler; etkinlik kâ -
+ğıdına gözlem verilerini kaydeder (OB7). Öğrencilerden tepkimelerin tersinir de olabile -
+ceğini gözlem verilerini kullanarak açıklamaları istenir (KB2.2). Farklı tersinir tepkimele -
+re ilişkin makro, alt mikro ve sembolik seviyede örnekler verilerek öğrencilerin gözlem 
+yapmaları sağlanır (OB7). Gözlem sonrasında öğrencilerden etkinlik kâğıdında tersinir 

@@ -1,0 +1,41 @@
+196
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.12.4.8. Bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsillerine ve 
+bunlar arasındaki ilişkilere dair çıkarımlar yapabilme 
+a) Referans fonksiyonlar, türevin limit tanımı, fonksiyonlarda türev alma kuralları ile 
+ilgili önceki bilgilerinden faydalanarak bir fonksiyonun ve onun türev fonksiyonunun 
+matematiksel temsilleri ve bunlar arasındaki ilişkiye dair varsayımlarda bulunur.
+b) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek bir fonk -
+siyonun ve onun türev fonksiyonunun matematiksel temsilleri ve bunlar arasındaki 
+ilişkiye  yönelik örüntüleri geneller.
+c) Bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsilleri ve bunlar ara-
+sındaki ilişkiye dair genellemeleri ile varsayımlarını karşılaştırır.
+ç) Elde ettiği genellemelerden önermeler sunar.
+d) Bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsilleri ve bunlar 
+arasındaki ilişkiye dair önermeleri polinom fonksiyonların grafik temsilini inceleme-
+de ve elde etmede değerlendirir.
+MAT.12.4.9. Gerçek yaşam durumlarında türevi kullanarak problemler çözebilme 
+a) Türev bilgisinin kullanılabileceği problemlerdeki matematiksel bileşenleri (problemi 
+temsil eden fonksiyonun nitel özellikleri ile cebirsel ve grafik temsilleri) belirler.
+b) Problemlerdeki matematiksel bileşenler arasındaki ilişkileri türev bağlamında ince -
+ler.
+c) Problemlerdeki değişim bağlamını fonksiyon, denklem ve türev temsillerine dönüş -
+türür.
+ç) Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.
+d) Elde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji 
+oluşturur.
+e) Belirlediği stratejiyi kullanarak problemi çözer.
+f) Elde ettiği çözümü farklı yöntemleri kullanarak doğrular.
+g) Problemin olası çözüm stratejilerini gözden geçirir.
+ğ) Problemin olası çözüm stratejilerinin maksimum-minimum değer hesaplamayı içeren 
+farklı problem durumlarında kullanımı ile ilgili çıkarımlar yapar.
+h) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.
+İÇERİK ÇERÇEVESİ • Türevin Geometrik Yorumu
+• Türev Uygulamaları
+Genellemeler • Türev, gerçek yaşam problemlerinde karşılaşılan niceliklerdeki (eğim, hız, alan, hacim gibi) 
+değişimleri modellemek için kullanılabilen matematiksel bir araçtır.
+Anahtar Kavramlar artanlık, azalanlık, eğim, ekstremum değer, mutlak maksimum -minimum değer, mutlak 
+maksimum-minimum nokta, polinom fonksiyon, teğet doğrusu, türev, yerel ekstremum de-
+ğer, yerel ekstremum nokta 
+Sembol ve Gösterimler -

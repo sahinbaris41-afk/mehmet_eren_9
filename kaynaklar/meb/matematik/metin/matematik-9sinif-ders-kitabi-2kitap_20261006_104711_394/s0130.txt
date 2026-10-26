@@ -1,0 +1,41 @@
+130
+5. Tema/Algoritma ve Bilişim  
+4. Yazdığınız algoritmik doğal dil yardımıyla Tablo 1’de öğrencilerin burs almaya hak kazanıp kazanamadığını 
+belirten sütunu tamamlayınız ve algoritmanızı test ediniz.
+ 
+5. Tablo 3’te verilen iki koşul için 3. soruda elde ettiğiniz algoritmayı test ediniz ve tabloyu doldurunuz. 
+ Tablo 3
+ 
+ 
+ 
+Koşullar Koşulu Sağlayan Öğrenciler
+Not ortalaması 83’ten az olanlar veya bilimsel projede yer almayanlar
+Not ortalaması en az 83 olanlar ve bilimsel projede yer alanlar
+6. Tablo 3’te verilen her iki koşulu da sağlayan öğrenci olup olmadığını belirleyiniz. Bu durumun Tablo 3’teki 
+koşulları sağlayan öğrencileri bulan bir algoritma oluşturma sırasında sağladığı avantajları açıklayınız. 
+ 
+7. ÖRNEK
+Bir	müzik	aletleri	üreticisi,	metal	çubukları	kullanarak	üçgen	şeklinde	çalgılar	üretmektedir.	Hangi	çubuk-
+ların	birleştirilebileceğini	ve	birleştirildiğinde	hangi	tür	üçgen	çalgının	oluşacağını	belirlemek	için	üretim	
+sürecinde	bir	algoritma	kullanılmaktadır.
+Başla
+Üç	metal	çubuğun	uzunluklarını	cm	
+cinsinden	kullanıcıdan	al	(a,	b	ve	c)
+Hayır
+Hayır
+Hayır
+HayırHayır
+Bitir
+Evet
+Evet Evet
+Evet
+İkizkenar
+Evet
+bc av ea bc11-+
+ac= bc=ab=bc=Eşkenar Çeşitkenar
+Çalgı	üretilemez
+Buna	göre	akış	şemasının	hangi	adımlarında	mantık	bağlaçlarının	kullanıldığını	ve	algoritmanın	işleyi-
+şindeki	rollerini	açıklayınız.
+Algoritmaların	işleyişinde	niceleyiciler,	genellikle	doğrudan	gözlemlenmez	ancak	algoritmanın	doğru	ve	
+verimli	çalışmasını	sağlamak	için	arka	planda	etkin	bir	şekilde	işler.	Bu	yapılar,	belirli	koşulları	sağlayan	
+veri	ögelerini	belirleme	ve	işlemede	önemlidir.

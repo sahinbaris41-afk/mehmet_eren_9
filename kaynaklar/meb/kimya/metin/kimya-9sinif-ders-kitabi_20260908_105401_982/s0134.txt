@@ -1,0 +1,31 @@
+134
+2. Tema/Çeşitlilik
+Kontrol Noktası 2.4
+1H, 5B, 6C, 7N, 8O, 16S, 17Cl ve 35Br atomlarından oluşan aşağıdaki moleküllerin Lewis nokta yapılarını çiziniz.
+3. Yönerge: Aşağıdaki tabloda bazı moleküller ve moleküllerin Lewis nokta yapılarıyla uzay-dolgu molekül 
+modelleri verilmiştir. Tablodan faydalanarak soruları cevaplayınız.
+Bileşik Atomların Elektron Dizilimi Lewis Nokta Yapısı
+BH3
+CCl4
+CO2
+Bileşik Atomların Elektron Dizilimi Lewis Nokta Yapısı
+NBr3
+CH4
+H2S
+1. Merkez atom, bir molekül veya çok atomlu iyonun yapısında, diğer atomların bağlandığı atomdur. T ab-
+lodaki merkez atomunda ortaklanmamış elektron çifti içeren moleküllerdeki elektron itmesi molekül 
+yapısını nasıl etkiler? Açıklayınız. Düşüncelerinizi sınıf arkadaşlarınızla saygı çerçevesinde tartışınız.
+2. 1H, 6C, 7N, 9F ve 35Br atomlarından oluşan HBr, CF4 ve NF3 moleküllerinin Lewis nokta yapısını gösteriniz. 
+2. yönergedeki Lewis nokta yapısına ilişkin önermelerinizin uygunluğunu Lewis nokta yapılarını göster-
+diğiniz moleküllere göre değerlendiriniz.
+3. Moleküllerin Lewis yapıları ile ilgili etkileşimli içeriğe ulaşmak için karekodu okutunuz.
+Bileşik Lewis Nokta Yapısı Uzay-Dolgu Molekül Modeli
+CH4
+H
+H  C  H
+H
+NH3
+H  N  H
+H
+H2O H  O  H
+CO2  O   C   O  

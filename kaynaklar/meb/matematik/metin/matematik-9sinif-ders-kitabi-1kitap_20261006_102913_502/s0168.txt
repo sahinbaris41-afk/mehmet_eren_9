@@ -1,0 +1,91 @@
+168
+2. Tema/Ölçme ve Değerlendirme
+16-19. çoktan seçmeli soruları cevaplayınız.
+Bir kayak merkezinde kayakçıların kullanması 
+için yürüyen bant yer almaktadır. Üç kayakçı, 
+yürüyen bandın başladığı yerden yola çıkmış-
+tır. 1. kayakçı, bandın yanındaki zeminde sabit 
+hızla yürümektedir. 2. kayakçı; 1. kayakçı ile 
+aynı sabit hızla ve bandın ilerleme yönünde, 
+bant üzerinde yürümektedir. 3. kayakçı, yürü -
+yen bant üzerinde durarak pistin diğer ucuna 
+gitmektedir. Yürüyen bandın hızı, zeminde sa-
+bit hızla yürüyen kayakçının hızının 2 katıdır.
+1. kayakçıya ait grafik f, 2. kayakçıya ait grafik 
+g ve 3. kayakçıya ait grafik n fonksiyonu ile gös-
+terilmiştir.
+Buna	göre	zama na 	(dk.) 	bağlı 	olar ak 	bandın	
+başlangıcından	 p istin	 d iğer 	 u cuna 	 kadar 	 b u	
+kayakçıların	 aldıkları 	 mesafeyi 	 (m) 	 gösteren	
+fonksiyonların	grafik 	temsiller i 	aşağıdakiler den	
+hangisi	olabilir?
+16. İç mekânları belirli sıcaklık, nem ve hava ka-
+litesi seviyelerine getirme işlemine iklimlen -
+dirme denir. İklimlendirilen bir odada yapılan 
+hava sıcaklığı ölçümlerinde zamana (sa.) bağ-
+lı sıcaklık ( oC) değerlerindeki değişimi göste-
+ren, uygun aralıkta tanımlı f ve g fonksiyonları-
+nın grafikleri aşağıda verilmiştir.
+-2
+4
+8
+O 8 10 14 22
+y = f(x)
+y Sıcaklık (oC)
+y = g(x)
+Buna	göre	aşağıdakilerden	hangisi	doğrudur?
+A) Hava sıcaklığı, 7 saat boyunca 0 oCʼun altın-
+dadır.
+B) Hava sıcaklığı, 18 saat boyunca 0 oCʼun üze-
+rindedir.
+C) Hava sıcaklığı, 11 saat boyunca azalmıştır.
+D) Hava sıcaklığı, 12 saat boyunca artmıştır .
+E) Y apılan ilk ölçüm ile son ölçüm arasındaki 
+sıcaklık farkı 10 oCʼtur.
+17.
+x 
+Zaman
+(sa.)
+x
+Zaman 
+(dk.)
+x
+Zaman 
+(dk.)
+x
+Zaman 
+(dk.)
+O xZaman 
+(dk.)
+y Alınan mesafe (m)
+n
+f
+g
+A)
+O
+Alınan mesafe (m)
+g
+f
+n
+B)
+O
+y Alınan mesafe (m)
+g
+f
+n
+C)
+O
+y Alınan mesafe (m)
+g
+n
+f
+D)
+O
+y Alınan mesafe (m)
+g
+n
+f
+E)
+x
+Zaman 
+(dk.)

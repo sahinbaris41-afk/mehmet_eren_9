@@ -1,0 +1,55 @@
+107
+Organizasyon
+Golgi aygıtında üretilen salgılar ile metabolizma atıklarının hücre dışına verilmesi-
+ni sağlayan kofullar salgı kofulu olarak adlandırılır. Birçok canlıda üretilen sindirim 
+enzimleri salgı kofulları oluşturularak ekzositozla hücre dışına verilir.
+Mitokondri, hücrelerde enerji üretiminden sorumlu ve metabolizmanın merkezi ka-
+bul edilen organeldir. Yapısında dış zar, iç zar, zarlar arası boşluk ve matriks bulunur 
+(Görsel 2.11). Dış zar oldukça geçirgen bir yapıya sahiptir, sitoplazma ile iç zar arasın-
+daki madde geçişini düzenler. Geçirgenliği oldukça düşük olan iç zar ise kıvrımlar ya-
+parak yüzey alanını artırır. Kıvrımlı bu yapı krista olarak adlandırılır. İç zarda elektron 
+taşıma zinciri ve ATP sentezleyen proteinler bulunur. İç ve dış zar arasındaki boşluk 
+ATP sentezinde oldukça önemlidir. Matriks ise DNA, RNA, ribozomlar, enzimler içe-
+ren ve enerji metabolizmasında önemli süreçlerin gerçekleştiği alandır.
+Mitokondrinin ana görevi ATP üretmektir. Programlı hücre ölümü (apoptoz) süre -
+cinin başlatılmasında, hücre içi kalsiyum seviyesinin düzenlenmesinde ve ısı üreti-
+minde de rol oynar. Kendi genetik materyallerine (halkasal DNA) sahiptir ve ihtiyaç 
+duyduğu proteinlerin bazılarını ribozomları aracılığı ile 
+sentezler. Prokaryotlar, zarlı organel bulundurmadığı 
+için mitokondrinin işlevleri, hücre zarında gerçekleşir.
+Plastitler; çift katlı zara sahip organellerdir, bitki hüc -
+relerinde ve bazı alglerde bulunur. Plastitler besin 
+üretilmesinde ve depolanmasında, çevresel koşullara 
+uyum sağlanmasında, tozlaşma gibi olaylarda etkilidir. 
+Bitki hücrelerinde öncü plastitlerden gelişen klorop -
+last, kromoplast, lökoplast adında üç tip plastit görü -
+lür ve gerekli koşullar altında birbirine dönüşür.
+Kloroplastlar, bazı protistlerde (örneğin alglerde) ve 
+bitkilerde (tam parazitler hariç) çift katlı zarla çevrili or-
+ganellerdir. Klorofil adı verilen pigmentleri içerir ve bu 
+pigmentler bitkilere yeşil renk verir. Kloroplastlar, biyo-
+kimyasal bir süreç olan fotosentezle güneş enerjisini 
+kullanarak glikoz sentezi yapar (Görsel 2.12).  
+Kloroplastın içini dolduran sıvıya stroma denir. Klo -
+Görsel 2.11
+Mitokondrinin yapısı 
+ Matriks
+Enzimler
+Krista
+İç zar
+ATP üretiminden 
+sorumlu yapılar
+Dış zar
+Halkasal DNA
+Zarlar arası boşuk
+Görsel 2.12
+Bir bitkinin gerçekleştirdiği 
+fotosentez süreci 
+Oksijen
+üretimi
+Besin
+üretimi
+Karbondioksit 
+kullanımı
+Su
+Mineraller

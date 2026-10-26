@@ -1,0 +1,37 @@
+65
+1. Tema/Etkileşim
+1. Tabloda Cr atomuna ait hangi dağılımda çekirdeğin çekim gücü dengelenmiştir?
+2. Cr atomu hangi dağılımda daha kararlıdır?
+3. Cr atomunun küresel simetri özelliği gösterip göstermediğini gerekçeleriyle açıklayınız.
+4. 29Cu atomunun küresel simetri özelliği gösterip göstermediğini gerekçeleriyle açıklayınız.
+1. Çekirdekten uzaklaştıkça aynı tür orbitallerin bağıl enerjisinde ve hacminde meydana gelen değişimin ne-
+denleri hakkındaki düşüncelerinizi açıklayınız.
+2. Bir atomda aynı enerjiye sahip orbitaller bulunabilir mi? Cevabınızı sayfa 58’deki orbitallerin bağıl enerji 
+diyagramını kullanarak açıklayınız.
+3. Çok elektronlu bir atomda aynı enerji seviyesine sahip iki farklı tür orbital bulunabilir mi? Cevabınızı orbi-
+tallerin bağıl enerji diyagramını kullanarak açıklayınız.
+4. Dokuz tam dolu ve altı yarı dolu orbitali bulunan X atomunun elektron dağılımını Aufbau ilkesi, Pauli dışla-
+ma ilkesi ve Hund kuralına uygunluğu açısından değerlendiriniz.
+Kontrol Noktası 1.5
+Günlük hayatın birçok alanında etkili olan atom orbitalleri ve elektron dağılımı 
+özellikle metal iyonlarını içeren bileşiklerde renkli malzemelerin oluşumunu 
+sağlar. Elektron geçişleri malzemelerin renklerini etkilediği için birçok pigment 
+ve renklendirici, atomların elektron dağılımına dayanarak tasarlanır. Kimyasal 
+tepkimelerin anlaşılmasında belirleyici olan elektron dağılımı, moleküler bağ-
+lar ve tepkime mekanizmaları elektronların nasıl hareket ettiğine ve atomların 
+birbirleriyle nasıl etkileşime girdiğine bağlıdır. Kimyasal tepkimeler ve molekü-
+ler etkileşimler ilaçların geliştirilmesinde önemli bir etkendir. İlaç molekülleri -
+nin hedef proteinlere bağlanma şekilleri, atomların elektron dağılımına bağlı 
+olarak ilaçların tasarımında ve etkilerinin anlaşılmasında kullanılır. Elektronik 
+cihazlar elektronların kontrol edilmesi prensibine dayanır. Örneğin transistör-
+ler, yarı iletken malzemelerdeki elektron dağılımının değiştirilmesiyle çalışır. 
+Bu prensip; bilgisayar, telefon ve diğer elektronik cihazlar için temel bir ilkedir. 
+Atomların elektron dağılımı ise termal iletkenliği etkiler. Özellikle yarı iletken 
+malzemelerdeki elektron dağılımı termal izolasyon özelliklerini belirleyerek ısı 
+yalıtım malzemelerinin tasarımında kullanılır. Bu kavramlar kimyanın yanı sıra 
+fizik, malzeme bilimi, biyokimya gibi farklı disiplinler için de önemlidir.
+Elektronların atom 
+orbitallerine yerleşimiyle 
+ilgili etkileşimli içeriğe 
+ulaşmak için karekodu 
+okutunuz.

@@ -1,0 +1,41 @@
+232
+4. ÜNİTE 
+Basıncın artması, madde ayrımı olmadan tüm maddelerin kaynama sıcaklığını 
+yükseltir. Örneğin yanan bir ocağın üstündeki düdüklü tencerenin içinde olu -
+şan yaklaşık 2 atmosfer (atm) basınç, yemeğin içindeki suyun kaynama sıcak-
+lığının 100 oC’tan yaklaşık 120 oC’a yükselmesine neden olur. Sıvı hâldeki 
+sıcaklığı 120 oC’a yükselen su yardımıyla düdüklü tencerelerde yemekler 
+daha kısa sürede pişer (Görsel 4.14).
+100 oC 
+(Kaynama sıcaklığı)
+120 oC 
+(Kaynama sıcaklığı)
+P = 1 atm P = 2 atm
+Görsel 4.14: 1 atm ve 2 atm basınç altında suların kaynama sıcaklığı
+Kütle, maddenin tamamının hâl değiştirmesi için gereken ısı miktarını belir -
+leyen, dolayısıyla hâl değişimini etkileyen bir niceliktir. Örneğin küçük bir buz 
+parçasının tamamını eritmek için gereken ısı, büyük bir buz parçasını eritmek 
+için gereken ısıya göre daha az olacağından büyük buz parçaları, küçük olan-
+lara göre daha uzun süre tamamı erimeden kalabilir. 
+Hâl değişimini etkileyen diğer bir nicelik maddenin cinsidir. Eşit kütlede farklı 
+cins maddelerin tamamının hâl değiştirmesi için gereken ısı miktarı birbirin -
+den farklıdır ve bu, hâl değişim ısısı olarak ifade edilir. Hâl değişim ısısı, hâl 
+değişim sıcaklığındaki bir maddenin birim kütlesinin tamamen hâl değiştirmesi 
+için gereken ısı miktarıdır. L sembolü ile gösterilen hâl değişim ısısının SI’daki 
+birimi joule/kilogramdır (J/kg). Hâl değişim ısısı maddeler için ayırt edici özel-
+liktir. Tablo 4.1’de bazı saf maddelerin deniz seviyesindeki (1 atm basınç) hâl 
+değişim sıcaklıkları ile hâl değişim ısıları verilmiştir.
+Tablo 4.1: Bazı Saf Maddelerin Deniz Seviyesindeki Hâl Değişim Sıcaklıkları ile Hâl 
+Değişim Isıları
+Madde Erime Sıcaklığı (oC) Erime Isısı (kJ/kg) Kaynama Sıcaklığı (oC) Buharlaşma Isısı (kJ/kg)
+Buz 0 334 - -
+Su - - 100 2.260
+Yemek tuzu 801 77,2 1.465 3.568
+Demir 1.538 289 3.023 6.340
+Alüminyum 659 399 2.327 10.500
+Etil alkol –114 104 78 854
+Cıva –38,9 11,8 357 272
+Hidrojen –259 58 –253 448
+Hâl değiştirme sıcaklığındaki saf maddelerin katı hâlini eritmek için maddeye 
+verilmesi gereken ısıyla sıvı hâlini dondurmak için maddeden alınması gere-
+ken ısı miktarı aynıdır. Örneğin 0 oC’taki 1 kg buzu eritmek için buza 334 kJ 

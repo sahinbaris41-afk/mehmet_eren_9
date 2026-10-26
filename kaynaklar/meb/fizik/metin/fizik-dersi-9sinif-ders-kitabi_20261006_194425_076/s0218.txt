@@ -1,0 +1,52 @@
+218
+4. ÜNİTE 
+Termometrelerin ölçeklendirilmesi, bir sıcaklık ölçeği içinde belirlenen refe -
+rans noktalarının ve bu noktalar arasındaki sayısal aralığın tanımlanmasıyla 
+gerçekleştirilir. Ölçeklendirme süreci, kullanılan sıcaklık ölçeğine (Celsius, 
+Fahrenheit, Kelvin vb.) ve termometrenin fiziksel çalışma prensibine (gen -
+leşme, elektriksel direnç değişimi, bimetal etkileşimi, kızılötesi ışınım ölçümü 
+vb.) bağlı olarak değişiklik gösterir. 
+Sıvılı termometrelerin ölçeklendirilmesi birbirinden farklı olabilir. Ölçeklen-
+dirmede suyun deniz seviyesindeki donma ve kaynama sıcaklıkları temel alı-
+nır. Kelvin ölçeğinde suyun donma sıcaklığı 273 K, kaynama sıcaklığı 373 K 
+kabul edilirken Celcius (Selsiyus) ölçeğinde suyun donma sıcaklığı 0 °C,  
+kaynama sıcaklığı 100 °C kabul edilir. Fahrenheit (Fahrenhayt) ölçeğinde ise 
+suyun donma sıcaklığı 32 °F, kaynama sıcaklığı 212 °F alınır (Görsel 4.9).
+Suyun donma
+sıcaklığı
+Suyun 
+kaynama
+sıcaklığı
+Kelvin
+K
+Celsius
+ oC Fahrenheit oF
+373 K 100 
+o
+C 212 
+o
+F
+273 K 0 
+o
+C 32 
+o
+F
+Görsel 4.9: Kelvin, Celcius ve Fahrenheit ölçeklendirmeleri
+Celcius ölçeklendirmeli termometreler dünyada ortam sıcaklıklarının ölçü -
+münde Fahrenheit ve Kelvin ölçeklendirilmeli termometrelere göre daha çok 
+kullanılır. Fahrenheit termometresinin bölme sayısı Celcius ve Kelvin termo -
+metrelerine göre daha fazladır. Termometrelerde bölme sayısının fazla olması 
+hassas ölçümleri mümkün kılar. Bu nedenle bazı ülkeler, sağlık alanında 
+Fahrenheit ölçeklendirmeli termometreler kullanır. Bilimsel çalışmalarda ise 
+Kelvin ölçeklendirmeli termometreler tercih edilir.
+Karekoddan yararlanarak farklı termometre türlerinden, ölçeklendirmelerinden ve kullanım amaçlarından 
+bahseden videoya ulaşabilirsiniz.
+2. Alıştırma
+Aşağıda verilen görsellerdeki ortamlarda sıcaklık ölçümü için hangi tür termometrelerin tercih 
+edilmesi gerektiğini tartışınız. Tartışma bulgularınıza göre görsellerin altında verilen tabloyu 
+doldurunuz.
+1 2 3 4
+Ölçüm Yapılacak Ortamın Sıcaklığı Görsel No. Kullanılabilecek Termometre Türü
+Yüksek sıcaklık
+Oda sıcaklığı
+Düşük sıcaklık

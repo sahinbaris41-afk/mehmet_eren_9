@@ -1,0 +1,82 @@
+229
+7. Tema/Ölçme ve Değerlendirme
+Bu bölümde cevaplamanız için farklı soru tiplerinde 6 adet soru bulunmaktadır.
+Ölçme ve değerlendirme bölümünün sonunda verilen karekodu okutarak ek sorulara ulaşabilirsiniz.
+Ölçme ve Değerlendirme
+1.   Bir şirket alacağı gülen yüz çıkartma makinesi-
+nin baskı performansını değerlendirmek için 4 
+deneme yapmış ve bu denemelerde 11 gülen 
+yüz çıkartmasından sırasıyla rastgele 50, 150, 
+1500 ve 5000 adet çıkartma bastırmıştır. Yap-
+tığı denemelerde sırası ile 3, 5, 77 ve 217 kez 
+hatalı baskı tespit etmiştir. Şirket çalışanları 
+her denemede elde ettikleri 11 ürün ve 1 hatalı 
+ürün için göreli sıklık grafikleri oluşturmuştur. 
+Şirketin bilgisayarında oluşan bir hata sonucu 
+grafiklerdeki dikey eksende yer alan değerler 
+silinmiştir. Şirketin elinde kalan grafikler aşağı-
+da verilmiştir.
+ 
+ 
+ 
+Çıkartma 
+çeşitleri1. 4. 7. 9.3. 6. Hatalı 11.2. 5. 8. 10.
+Göreli sıklık
+Grafik 1
+Göreli sıklık
+Çıkartma 
+çeşitleri1. 4. 7. 9.3. 6. Hatalı 11.2. 5. 8. 10.
+Grafik 2
+Göreli sıklık
+Çıkartma 
+çeşitleri1. 4. 7. 9.3. 6. Hatalı 11.2. 5. 8. 10.
+Grafik 3
+Göreli sıklık
+Çıkartma 
+çeşitleri1. 4. 7. 9.3. 6. Hatalı 11.2. 5. 8. 10.
+Grafik 4
+ Buna göre 
+a) Hangi grafiğin hangi deneme sayısına 
+ait olduğunu belirleyiniz.
+b) Makinenin hatalı çıkartma basma ola -
+yına ait teorik olasılık değeri hakkında 
+yorum yapınız.
+2. Bir mağaza, 10.00-20.00 saatleri arasında 
+hizmet vermektedir. Bu mağazadan alışveriş 
+yapan müşterilerin kaydını tutan bir mağaza 
+çalışanı, aşağıdaki tabloyu hazırlamıştır.
+ 
+Zaman  
+Aralığı
+Kişi Sayısı
+30  
+Kişi
+80  
+Kişi
+150 
+Kişi
+300 
+Kişi
+10.00-11.59 2 9 17 38
+12.00-13.59 11 15 40 61
+14.00-15.59 10 23 43 95
+16.00-17.59 4 26 33 69
+18.00-19.59 3 7 17 37
+ Buna göre
+a) 30, 80, 150 ve 300 kişinin alışveriş yaptı-
+ğı saatlerin dağılımına uygun sütun gra-
+fikleri oluşturunuz. 
+b) Bu mağazadan alışveriş yapan bir kişi -
+nin 12.00-13.59 saatleri arasında alışve-
+riş yapma olasılık değerini 30, 80, 150 
+ve 300 kişiye göre hesaplayınız.
+c) Yeni çıkan ürünlerinizin tanıtımını yapmak 
+için mağazadan 2 saatliğine stant kurma 
+talebinde bulunduğunuzu varsayınız. 30 
+kişi ile oluşan sıklıkları ele aldığınızda 
+tanıtımı hangi zaman aralıklarında ya-
+parsınız?
+ç) c seçeneğinde belirlediğiniz zaman ara-
+lığı, 300 kişinin sıklığı göz önüne alındı-
+ğında doğru bir karar mıdır? Nedenle-
+riyle açıklayınız.

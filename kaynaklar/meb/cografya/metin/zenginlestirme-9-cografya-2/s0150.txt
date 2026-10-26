@@ -1,0 +1,10 @@
+148 149
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+5
+Oluşturulan Bölgenin Çıktısını Alma
+ ▶ Altlık haritanız “Öz Nitelik Tablosu”na aktardığınız verileri, belirlediğiniz özelliklere göre yansı-
+tır hâle gelmiş olacaktır.
+ ▶ Sayfanın en alt kısmında yer alan bölümden ölçek değerinizi belirleyerek haritanızı kaydedi-
+niz.
+ ▶ Haritanızın çıktısını almak için “Proje” menüsünden “Yeni Çıktı Yerleşimi” sekmesini seçiniz. 
+Açılan pencereye dosya adı vererek alttaki “Tamam” butonuna tıklayınız. 

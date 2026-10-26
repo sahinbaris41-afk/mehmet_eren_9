@@ -1,0 +1,48 @@
+36 37
+COĞRAFYA 9 
+1. Adım: Bilgilendirme
+1. Günümüzde haritacılık çalışmaları, klasik kartografik yöntemlerin ötesine geçerek Coğrafi Bilgi Sis-
+temleri (CBS), uydu görüntüleme, LIDAR (Işık Tespiti ve Uzaklık Tayini) teknolojisi, 3D modelleme 
+gibi dijital haritalama teknolojileri ile desteklenmektedir. Özellikle CBS uygulamaları ve uydu tekno-
+lojilerinin gelişimi, Türkiye’nin haritacılık alanındaki yeteneklerini artırmaktadır.
+Türkiye, ulusal ve uluslararası düzeyde haritacılık alanında önemli bir konuma sahiptir ve bu alan -
+daki kapasitesini sürekli olarak geliştirmektedir. Gelecekte haritacılık çalışmalarının daha da dijital-
+leşeceği, yapay zekâ ve büyük veri analizleri ile entegre olacağı öngörülmektedir. Ayrıca iklim de -
+ğişikliği ve sürdürülebilir kalkınma hedefleri doğrultusunda çevresel verilerin toplanması ve analiz 
+edilmesi için haritacılık ve CBS’nin önemi artacaktır.
+Yönerge: Türkiye’de haritacılık çalışmaları hakkında araştırma görevini gerçekleştirmesi için öğrenciyi aşağıda-
+ki adımlar doğrultusunda yönlendiriniz. 
+ÖĞRENME ÇIKTISI COĞ.9.2.1. Harita uygulamaları yapabilme
+PROGRAMLAR ARASI 
+BİLEŞENLER
+SDB1.1. Kendini Tanıma (Öz Farkındalık)
+SDB1.2. Kendini Düzenleme (Öz Düzenleme)
+SDB1.3. Kendine Uyarlama (Öz Yansıtma)
+SDB2.1. İletişim
+D3. Çalışkanlık
+D10. Mütevazılık
+D19. Vatanseverlik
+OB1. Bilgi Okuryazarlığı
+OB2. Dijital Okuryazarlık
+OB4. Görsel Okuryazarlık
+ARAÇ-GEREÇ VE 
+EĞİTİM ORTAMLARI, 
+MATERYALLER
+• Bilgisayar
+• Genel ağ
+• Akıllı tahta
+• Kalem
+• Kâğıt
+• Haritalar
+• Fotoğraflar ve resimler
+• Kitap
+• Bilimsel makale
+• Bilimsel dergi
+ZENGİNLEŞTİRME 
+UYGULAMASI
+Türkiye’de haritacılık çalışmaları hakkında araştırma görevi
+ETKİNLİĞİN AMACI Türkiye’de haritacılık çalışmaları ile ilgili bilgi toplama, bilgileri düzenleme, 
+sonuçlara ulaşma ve bunları paylaşma
+6. ETKİNLİK TÜRKİYE’DE HARİTACILIK ÇALIŞMALARI
+1 
+Hafta

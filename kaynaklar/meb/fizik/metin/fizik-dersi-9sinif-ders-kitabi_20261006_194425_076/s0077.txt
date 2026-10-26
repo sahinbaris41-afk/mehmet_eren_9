@@ -1,0 +1,35 @@
+77
+KUVVET VE HAREKET
+a)  A  ve B  vektörlerinin yönleri ve büyüklükleri 
+değiştirilmeden başlangıç noktaları aynı nok -
+taya getirilir. A B
+b)  Her bir vektörün bitiş noktasından diğer vektöre 
+paralel çizilir.
+A B
+c)  A  ve B  vektörlerinin başlangıç noktasından 
+çizilen paralellerin kesişme noktasına doğru 
+bir vektör çizilir. A B
+ç)  Çizilen vektör bileşke vektör ( R ) olarak işaret-
+lenir. Bileşke vektör R  = A  + B ye eşittir.
+A
+R
+B
+R = A + B
+Vektör ekleme ile ilgili 
+simülasyona ulaşmak için 
+karekodu okutunuz.
+Örnek 
+Yandaki şekilde aynı düzlemde verilen A  ve B  vektörlerinin toplamını 
+paralelkenar yöntemi ile bulunuz.
+Çözüm
+A  ve B  vektörlerinin başlangıç noktaları aynı noktaya getirilir. A  vektörünün 
+bittiği noktadan B  vektörüne paralel çizilir. B  vektörünün bittiği noktadan 
+A  vektörüne paralel çizilir. A  ve B  vektörlerinin başlangıç noktası ile çizilen 
+paralellerin kesim noktası düz bir çizgi ile birleştirilir. 
+Çizilen paralellerin birleştiği noktaya ok işareti konarak bileşke vektörün yönü belirtilir. Yukarıdaki şekilde 
+bulunan R  vektörü, A  ve B  vektörlerinin paralelkenar yöntemiyle toplanması ile elde edilmiştir.
+A
+B
+R = A + B
+A
+B

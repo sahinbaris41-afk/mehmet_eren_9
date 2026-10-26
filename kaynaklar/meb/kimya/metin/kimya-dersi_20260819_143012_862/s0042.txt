@@ -1,0 +1,51 @@
+42
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, 
+deney raporu, yansıtma notu, performans görevi, kısa cevaplı sorular, çalışma yaprağı, 
+akran değerlendirme formu ve öz değerlendirme formu kullanılabilir.
+Performans görevi çerçevesinde öğrencilerden seçtiği kimyasal bir tepkimenin gerçek -
+leşme sürecini farklı materyaller kullanarak süreç aşamalı modellemesi istenebilir. Per -
+formans görevi “tepkimeyi belirleme, uygun materyal seçme, tepkime aşamalarını takip 
+etme, kendi modelinin bilimsel modele uygunluğu” ölçütlerini içeren dereceli puanlama 
+anahtarı ile değerlendirilebilir.
+Öğrenciler performans görevi çerçevesinde gazların madde miktarı, hacmi, basıncı ve 
+sıcaklığı arasındaki ilişkileri ortaya koyacağı bir deneyi tasarlayabilir; uygulayabilir ve ra -
+porlayabilir. Performans görevi “araştırma sorusu oluşturabilme, bağımlı-bağımsız değiş-
+kenleri ve kontrol değişkenlerini belirleyebilme, denemeler yapabilme, elde ettiği sonuç -
+lara dayalı grafik çizebilme ve belirlediği ilişkileri matematiksel modelleyebilme” ölçütlerini 
+içeren dereceli puanlama anahtarı ile değerlendirilebilir.  
+Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında 
+toplanarak değerlendirme amaçlı kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin fiziksel ve kimyasal olayları, fiziksel ve kimyasal bazı olayların sembolik 
+gösterimlerini, asit-baz kavramlarını, kütlenin korunumu kanununu, maddenin tane -
+cikli yapısını, atom ve molekül kavramlarını, gazların temel özelliklerini bildiği kabul 
+edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin verilen örnek olayları fiziksel ve kimyasal değişim olarak sınıflandırmaları, 
+kimyasal tepkimenin gerçekleşme süreci ile kütlenin korunumu kanunu arasında ilişki kur-
+maları, maddenin gaz hâline ait bilgilerini katı ve sıvı hâline ait bilgileri ile karşılaştırmaları 
+istenebilir.
+Köprü Kurma Öğrencilere bir  değişimin kimyasal olup olmadığının nasıl anlaşılabileceği sorulabilir. Gün-
+lük hayatta karşılaşılabilecek kimyasal bir olay örnek verilebilir. Bu örnek aracılığı ile olayın 
+alt mikro boyutuna, makroskobik boyutuna ve sembolik gösterimine öğrencilerin dikkati 
+çekilebilir.
+Öğrenme-Öğretme 
+Uygulamaları KİM.10.1.1
+Öğrencilerden herhangi bir kimyasal değişimin gözlemlenebilir göstergelerinin neler oldu-
+ğuna ilişkin fikirlerini açıkça paylaşmaları istenir (SDB2.1). Öğrenciler; kimyasal değişim -
+lerin kanıtları olarak enerji değişimi, gaz çıkışı, renk değişimi veya yeni bir katının oluşu -
+mu gibi göstergeleri tanımlar (OB1). Öğrenciler, farklı gözlemlenebilir göstergelere sahip 
+kimyasal tepkimelere ilişkin deneyleri gözlemler; veri toplar ve gözlem sonucunda bilim -
+sel bakış açısıyla elde ettiği veri sonuçlarını etkinlik kâğıdına kaydeder (KB2.2, D3.3, OB1, 
+OB7). Bu şekilde araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık 
+değeri desteklenir.  Öğrencilerin gözlemlenen göstergeleri alt mikro seviyede tepken ta -
+neciklerinin yeniden düzenlenmesi (kimyasal değişim) temelinde açıklamaları açık uçlu 
+sorular sorularak sağlanır (OB1). Etkinlik kâğıtları “öğrencilerin kimyasal değişimlerin ka -
+nıtlarını tanımlayabilmesi, kanıtlara ilişkin veri toplayabilmesi ve kanıtları açıklayabilmesi” 
+ölçütlerine ilişkin dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafın -
+dan değerlendirilebilir (SDB1.2).

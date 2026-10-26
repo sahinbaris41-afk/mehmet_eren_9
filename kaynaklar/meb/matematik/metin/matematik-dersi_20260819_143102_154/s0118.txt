@@ -1,0 +1,49 @@
+118
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Destekleme Sıralama ve seçme içeren gerçek yaşam durumu örnekleri, öğrencilerin yakın çevresi dik-
+kate alınarak çeşitlendirilebilir. Cebirsel ve fonksiyonel işlemler algoritmik bir dille yapılan-
+dırılırken sadece doğal dil veya akış şemasının kullanıldığı basit örneklere yer verilebilir. 
+Akış şemalarının belirli aşamaları hazır bir şekilde verilir. Böylelikle öğrencilerin konuya 
+karşı olan ilgi ve motivasyonları artırılır.
+Seçme veya sıralama sayısının temsil edilebileceği  somut materyaller  kullanılabilir. Öğ-
+rencilere seçme veya sıralama sayısını yorumlayabilmeye yönelik, kişiselleştirilmiş geri 
+bildirimler verilerek değerlendirmeler yapılabilir. Seçme veya sıralama sayısıyla ilgili per -
+formans görevleri ve çalışma kâğıtları için daha fazla zaman verilebilir. Geri bildirimlerde 
+ve değerlendirmelerde çoklu ortam (sözlü, yazılı, görsel gibi) kullanılabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Bilgisayar bilimleriyle ilişkili matematik alanlarında [Boole (Bul) cebri, çizge kuramı, en-
+formasyon kuramı gibi] karşılaşılan ve sayma gerektiren durumların araştırılması sağla-
+nabilir.
+(*) İş birlikli öğrenme temelinde sayma gerektiren farklı durumlar veya oyunlar (dört renk 
+problemi, mayın tarlası oyunu, tic tac toe oyunu gibi) üzerinden grup çalışmaları veya pro-
+jeler yaptırılabilir. 
+(*) Bilişim alanında kullanılan ve cebirsel, fonksiyonel işlemler içeren program veya uygula-
+maların sözde kod örnekleri incelenerek bunların akış şemasıyla ifade edilmesi istenebilir.  
+(*) Öğrencilerin bir problemin çözümüne yönelik elde ettikleri algoritmaları bildikleri bir 
+programlama dilinde yansıtarak bilgisayarda çalıştırmaları sağlanabilir.
+inceleme ve karekökle ifade edilmiş bir irrasyonel sayının yaklaşık değerini bulmada kul-
+lanılan farklı yöntemlerin algoritmalarını oluşturma gibi örneklere yer verilir. Oluşturulan 
+algoritmalarda kullanılan mantık bağlaçlarının işlevini yorumlamaya dayalı olarak algorit -
+ma çözümlemesi yapılır. Bu algoritmaların teknolojik gelişmelerin odak noktasında bulu-
+nan programlama dillerinin temel yapısını oluşturduğu ve bu teknolojilere sahip olmanın 
+ülkemizin gelişmesindeki önemi; yapay zekâ, enerji sistemleri ve savunma sanayisi gibi 
+örneklerle  açıklanır  (D19.4). 
+Öğrencilere algoritma oluşturmadaki ön bilgilerini kullanarak cebirsel ve fonksiyonel 
+işlemlerin algoritmik yapısını incelemeleri için fırsatlar tanınır. Bu noktada cebirsel ve 
+fonksiyonel işlemleri kullanmayı gerektiren problem örnekleri verilerek öğrencilerin bu 
+problemlere algoritma temelli  (doğal dil, akış şeması ve sözde kod) bir çözüm üretmesi 
+beklenir. Örneğin verilen bir doğal sayının kaç basamaklı olduğunu belirlemeyi,   a ve b 
+(a, b ∈ ℝ, a ≠ 0) katsayılarına göre f(x) = ax + b doğrusal fonksiyonunun sıfırını bulmayı 
+veya belirlenen kişi sayısına göre oluşturulan bir gruptaki insanların yan yana kaç farklı 
+şekilde sıralanabileceğini hesaplamayı sağlayan algoritmalar  (doğal dil, akış şeması ve 
+sözde kod) oluşturmaları istenir. Bu ve bunun gibi örnekler üzerinden öğrencilerin olası 
+tüm koşulları değerlendirmeleri beklenir. Problem çözümlerinde mantık bağlaçları ve ni-
+celeyicileri kullanmalarına yönelik uygulamalar yapmaları istenir. Bu sayede öğrenciler, 
+cebirsel ve fonksiyonel yapılarla algoritmik dil arasında bir bütünlük sağlamaya yönelik 
+genellemelere ulaşır.  Öğrencilere cebirsel ve fonksiyonel işlemleri algoritmik dille yapı -
+landırarak akış şeması oluşturdukları bir performans görevi verilebilir. Öğrencilere cebir-
+sel ve fonksiyonel işlemler içeren problem durumlarına dair algoritmik çözümler geliştir-
+me üzerine proje ödevi verilebilir.

@@ -1,0 +1,28 @@
+28
+MATEMATİK 9 
+1. TEMA: SAYILAR
+1
+Aşağıdaki tabloda A, B, C, Ç, D ve E sayılarının farklı gösterimleri verilmiştir. Tabloya 
+göre aşağıdaki soruları cevaplayınız.
+2
+Sayıların a.10b biçimindeki bilimsel gösteriminde a sayısını sabit tutarak b sayısını 
+değiştiriniz ya da b sayısını sabit tutarak a sayısını değiştiriniz ve elde ettiğiniz sayıların 
+sıralamasının nasıl yapılacağını değerlendiriniz.
+3
+Aşağıda bir sayının farklı gösterimlerini görmektesiniz. Bilimsel gösterim ile yazılmış 
+ifadeleri yuvarlak içine alınız.
+ <  <  <  <  <  
+   20 000.10-1    2.103    0,2.104
+Çözüm:
+Çözüm:
+Çözüm:
+Sayılar Bilimsel Gösterim
+A 8.10-2 
+B 0,25 
+C 80 000 
+Ç 3.104 
+D 62 
+E 8.10-9 
+a.  Tablodaki gösterimlerde eksik kalan kısımları tamamlayınız.
+b.  Tabloda verilen altı sayıyı küçükten büyüğe doğru sıralayınız ve verilen boşluklara yazınız.
+Değerlendirme

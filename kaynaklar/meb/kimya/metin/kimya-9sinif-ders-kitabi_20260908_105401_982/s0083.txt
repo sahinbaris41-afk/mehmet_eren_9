@@ -1,0 +1,45 @@
+83
+1. Tema/Etkileşim
+Aşağıda verilen bilgi ve tablodan yararlanarak soruları cevaplayınız.
+Gaz fazında bulunan X
++
+ yüklü iyondan bir elektron koparmak için gerekli olan enerjiye 2. iyonlaşma enerjisi 
+denir. Gaz fazında bulunan X
+2+
+ yüklü iyondan bir elektron koparmak için gerekli olan enerjiye 3. iyonlaşma 
+enerjisi adı verilir. Aynı enerji seviyesindeki elektronların koparılması için gereken enerji bir öncekinden daha 
+fazladır. Bir atomun kaç tane iyonlaşma enerjisine sahip olduğu elektron sayısına bağlıdır.
+1. T ablodaki boşlukları doldurunuz. Bir elementin art arda verilen iyonlaşma enerjisi değerlerindeki artışın 
+sebebi nedir? İlk elektronun koparılmasından sonra ikinci elektronun koparılması neden daha fazla ener-
+ji gerektirir? 
+ 
+2. Bir elementin verilen iyonlaşma enerji değerleri arasındaki farkın en büyük olduğu değere kadar olan iyon -
+laşma enerjisi sayısı o atom ile ilgili hangi bilgiye ulaşılmasını sağlar?
+3. V erilen elementlerin periyodik tablodaki grup numaralarını iyonlaşma enerjisi değerlerinden yararlanarak 
+bulunuz.
+4. Na, Mg ve Al elementlerinin aynı periyotta olduğunu göz önünde bulundurarak bu elementlerin atom ya -
+rıçaplarını karşılaştırınız.
+Element Elektron Dizilimi İE1
+(kJ/mol)
+Oluşan 
+İyon
+İE2
+(kJ/mol)
+Oluşan 
+İyon
+İE3
+(kJ/mol)
+Oluşan 
+İyon
+İE4
+(kJ/mol)
+Oluşan 
+İyon
+3Li 520 7298 11 815 −
+4Be 900 1757 14 849 21 006
+5B 800 2427 3660 25 026
+11Na 496 4562 6912 9544
+12Mg 738 1451 7733 10 540
+13Al 577 1817 2745 11 578
+Aşağıdaki tabloda bazı elementlerin ilk dört iyonlaşma enerjisi değerleri verilmiştir.
+Etkinlik-1.18 İyonlaşma Enerjisi III

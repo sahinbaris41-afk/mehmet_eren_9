@@ -1,0 +1,29 @@
+4948
+MÜZİK
+ESER SESLENDİRME DERECELEME ÖLÇEĞİ
+Öğrencinin 
+Adı, Soyadı             : ..........................................
+Sınıfı, Numarası   : ..........................................
+Bu form, öğrencinin “Müzik Dili” temasındaki öğrenme becerilerini ölçmeniz amacıyla 
+hazırlanmıştır. Öğrencinin belirtilen ölçütleri öğrenme düzeyini en doğru yansıtan seçe-
+neği işaretleyiniz (1: Çok Zayıf-5: Çok İyi).
+DEĞERLENDİRME ÖLÇÜTLERİ
+PUANLAR
+1 2 3 4 5
+1 Seslendireceği eseri belirledi.
+2 Seçtiği eserin notalarına ve ses kayıtlarına ulaşabilmek için farklı kaynakları taradı. 
+3 Seçtiği eserin söz yazarı, bestecisi, türü hakkında araş-tırma yaptı.
+4 Seçtiği eserin eşliğini buldu.
+5 Eseri seslendirmeye başlamadan önce bedensel rahat-lama hareketleri yaptı.
+6 Eseri seslendirmeye başlamadan önce ses açma çalış-maları yaptı.
+7 Eserde uygulanması gereken söyleme tekniklerini kullandı.
+8 Eseri söylerken hız ve gürlük terimlerini doğru yerlerde kullandı.
+9 Eseri temposuna uygun söyledi.
+10 Çalışmasını sınıf arkadaşlarına sundu.
+TABLO PUANI
+DEĞERLENDİRME: 100 üzerinden 75 puan, öğrenmenin yeterli düzeyde olduğunu gös-
+terir. 74 ve altı puanlar için öğrenme etkinlikleri tekrar edilmelidir.
+Ölçek Puanını 100’lük sisteme dönüştürme: Tablodan her bir kriter için alınabilecek 
+en yüksek puan 5’tir. Tabloda toplam 10 ölçme kriteri vardır. Tablodan alınabilecek en 
+yüksek puan 10x5=50 yöntemiyle bulunur.
+PUAN= [(Tablo Puanı x 100) / 50] formülü uygulanır.

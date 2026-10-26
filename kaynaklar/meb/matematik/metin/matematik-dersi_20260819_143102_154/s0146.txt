@@ -1,0 +1,46 @@
+146
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+verilir veya birim çember kullanılarak matematiksel doğrulama yapılır. Cebirsel ispat yapı -
+lırken mantık bağlaçları ve niceleyicilerin etkin bir şekilde kullanılabilmesi beklenir. Bu aşa -
+mada önermeler öncelikle , öğrenciler tarafından çözümlenir ve sonrasında bireysel olarak 
+matematiksel doğrulama yapabilmeleri için önermelerden oluşan çalışma kâğıdı öğrencilere 
+verilebilir. Çalışma kâğıdında cevaplanan sorulara ilişkin olarak öğrenciler kendilerini öz de -
+ğerlendirme formu ile değerlendirebilir (SDB1.1, SDB1.2). Yapılan matematiksel doğrulama 
+ve ispatların kullanışlılığı değerlendirilir.
+MAT.11.3.2
+f  bir trigonometrik referans fonksiyon olmak üzere [ g(x) = k ∙ f (mx ± r) ± s (k, m, r, s ∈ ℝ, 
+k ≠ 0, m ≠ 0)] fonksiyonları ile ifade edilebilen denklemlere ilişkin matematiksel bileşen -
+ler belirlenir. Bu bileşenlerle ilgili fonksiyonların periyotları [ T, fonksiyonun periyodu olmak 
+üzere f ( x + T) = f (x)], tanım ve değer kümeleri arasındaki ilişkiler kullanılarak g(x)=0 ve 
+g(x)=h(x) gibi eşitliklerle  trigonometrik denklemlerin tanımlanması sağlanır. 
+Trigonometrik referans fonksiyonlar ve bu fonksiyonlardan türetilen  fonksiyonları içeren 
+problem durumları incelenir ve bu problem durumlarından elde edilen denklemlerin  ma -
+tematiksel temsilleri arasında (sözel, tablo, grafik, cebirsel) dönüşüm yapılır.  Bu temsiller 
+arasındaki geçişlerin gösterilebilmesi için elektronik tablolardan ve matematik yazılımların -
+dan yararlanılır  (OB2, MAB5). Bu problemlerde kullanılan gerçek yaşam durumlarının fizik, 
+astronomi ve mühendislik gibi alanlarla ilgili olması beklenir. Örneğin fizikte eğik düzlem, 
+eğik atılan cisim, basit sarkaç problemlerine yer verilebilir.  Bu problemlerden elde edilen 
+denklemlerin çözümlerine ulaşabilmek için problem durumunda geçen fonksiyonun belirli 
+noktalardaki değerlerini yorumlama, trigonometrik özdeşlik kullanma ve grafik temsilinden 
+yararlanma gibi yöntemler kullanılır. Denklemde kullanılan trigonometrik fonksiyonun pe-
+riyodu, denklem çözümlerinde yorumlanır. Burada kullanılan trigonometrik denklemlerde 
+trigonometrik fonksiyonların birinci kuvvetleri ile sınırlı kalınmasına  dikkat edilir. Denklem 
+çözümlerinde elektronik tablo ve matematik yazılımlarından yararlanılılır (OB2, MAB5). Ve-
+rilen farklı problem durumlarında uygun bir strateji seçilerek denklem ve eşitsizliklerin çö -
+züm kümeleri elde edilir. Elde edilen çözüm kümelerinin doğruluğuna ilişkin sonuçlar farklı 
+çözüm stratejileriyle kontrol edilir. Örneğin 0 < x < 2π olmak üzere sin (x - π6 ) = cosx denk-lemini sağlayan köklerin sayısı hem cebirsel olarak bulunur hem de denklemi oluşturan 
+trigonometrik fonksiyonların grafik temsilleri referans fonksiyonlardan hareketle çizilerek 
+kesişim noktaları yorumlanır (OB4). Matematik yazılımları kullanılarak sonuçların doğruluğu 
+kontrol edilir (OB2). Çözümün doğruluğunu kontrol etmek için farklı çözüm yollarına duyu -
+lan ihtiyaç vurgulanır (SDB3.2).
+Trigonometrik fonksiyon ile ifade edilebilen denklem içeren problemlerin çözümleri  ile ilgili 
+kullanılan stratejiler gözden geçirilir. Bu problemlerin farklı yollardan çözülebilmesi için grup 
+çalışması yapılabilir (SDB2.2). Yapılan grup çalışması, grup değerlendirme formu ile değer -
+lendirilebilir. Çözüme ulaştıran stratejilerin başka problem durumlarına uyarlanıp uyarlana -
+mayacağına dair çıkarımlar yapılır (SDB3.1). Bu çıkarımlar, matematiksel bir modele dönüş -
+türülür. Elde edilen matematiksel modeller  sınırlılık ve verimlilik açısından (gerçek yaşam 
+durumlarını modellerken kullanılan trigonometrik fonksiyonların toplam, fark ve çarpımını 
+içeren denklemleri cebirsel temsiller kullanarak çözerken karşılaşılan sınırlılıklarda grafik 
+temsili kullanma gibi) değerlendirilir. Öğrencilere konuyla ilgili bir sorunun farklı yollardan çö-
+zülmesine yönelik problemlerden oluşan çalışma kâğıdı verilebilir.  Böylece öğrenciler, farklı 
+çözüm yolları  bulmaya yönlendirilir (SDB3.2).

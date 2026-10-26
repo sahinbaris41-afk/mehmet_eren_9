@@ -1,0 +1,112 @@
+5. Tema
+164
+Kontrol Noktası
+Aşağıda Doğru (D) / Yanlış (Y) önermeleri içeren tanılayıcı dallanmış ağaç verilmiştir. Verilen önerme-
+nin doğru olduğunu düşünüyorsanız (D), yanlış olduğunu düşünüyorsanız (Y) seçeneğini işaretlemeniz 
+gerekmektedir. İlk önermeden başlayarak yapacağınız seçimlerle ve oklar yönünde ilerleyerek bir 
+çıkış noktası belirleyiniz.
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+Kask takmak, motosik-
+let sürücülerinin trafik 
+kazalarında hayatta kalma 
+ihtimalini artırır.
+Deniz taşıtlarında can 
+yeleği yalnızca kaptanlar 
+tarafından kullanılmalıdır.
+Uçaklarda emniyet 
+kemerinin bağlanması, 
+türbülans gibi tehlikeli 
+durumlarda yolcu gü-
+venliğini sağlar.
+Emniyet kemeri tak-
+mak, trafik kurallarına 
+uymaktan çok kişisel 
+tercihe bağlıdır.
+Kask, yalnızca başın 
+arka kısmını korumaya 
+yöneliktir.
+Can yelekleri, su üze-
+rinde kalmayı sağlar 
+ve boğulmayı önler.
+ D
+ Y
+Emniyet kemeri yalnızca 
+şehirler arası yolculuklar-
+da takılması gereken bir 
+ekipmandır.
+Emniyet kemeri, düşük 
+hızlarda meydana 
+gelen kazalarda da 
+yaralanma riskini 
+azaltır.
+Can yelekleri, suda 
+bilinç kaybı yaşanması 
+durumunda hayatta 
+kalma ihtimalini artırır.
+Bisiklet kullanan bi-
+reylerin kask takması, 
+baş yaralanmalarını 
+önemli ölçüde azaltır.
+Trafik güvenliğinde 
+alınan kişisel önlemler, 
+bireyin yanı sıra çevre-
+sindekilerin güvenliğini 
+de etkiler.
+Arka koltukta oturan 
+yolcuların emniyet 
+kemeri takmasına 
+gerek yoktur.
+Yüzme bilen kişilerin 
+su taşıtlarında can 
+yeleği kullanmasına 
+gerek yoktur.
+Kask takmak sadece 
+motorlu taşıt kullanan-
+lar için gereklidir.
+1. Çıkış
+2. Çıkış
+9. Çıkış
+10. Çıkış
+5. Çıkış
+6. Çıkış
+13. Çıkış
+14. Çıkış
+3. Çıkış
+4. Çıkış
+11. Çıkış
+12. Çıkış
+7. Çıkış
+8. Çıkış
+15. Çıkış
+16. Çıkış
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+ D
+ Y
+Trafikte güvenliği 
+sağlamak sadece 
+sürücülerin sorumlulu-
+ğundadır.

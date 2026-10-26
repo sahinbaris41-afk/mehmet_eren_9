@@ -1,0 +1,68 @@
+131
+Organizasyon
+Üçlü domain sisteminde yer alan canlılar, ortak özellik-
+lerinin yanı sıra birbirlerinden farklı birçok özellik taşır. 
+Genel olarak değerlendirildiğinde hücre tipi, hücre 
+duvarı, hücre zarı ve kromozom yapıları, gen dizileri, 
+metabolik ve ekolojik özellikleri açısından her doma -
+inin kendine özgü özellikleri bulunur. 
+Bakteriler ve arkeler, prokaryot hücre yapısındadır. 
+Prokaryotlarda belirgin bir çekirdek ve zarla çevrili 
+yapılar bulunmaz. Ancak ökaryotlar daha karmaşık 
+ve zarla çevrili yapıları olan hücre tipine sahiptir. Pro -
+karyot hücre yapısına sahip bakteriler ve arkeler bir -
+birlerinden hücre duvarlarında içerdikleri protein-kar-
+bohidrat grupları ve ribozomlarındaki RNA dizileri 
+bakımından oldukça farklıdır. Ökaryotlar, kromozom -
+larında DNA’nın histon proteinleriyle birlikte bulun -
+masıyla bakterilerden ayrılır. Üç domaini birbirinden 
+ayıran başka özellikler de bulunur. 
+Değişen çevre koşullarına uyum sağlama yetenekleriyle 
+bilinen prokaryotik canlılar, uygun ortamlarda çok hızlı 
+çoğalıp koloni oluşturabilmektedir. Çoğunluğu suyun 
+akışı ve hava hareketi gibi çevresel koşulların etkisiyle 
+pasif olarak hareket eden prokaryotik canlıların bazıları, 
+kamçıları aracılığıyla da hareket edebilmektedir. Bazı 
+prokaryotlar pilus isimli yapılarıyla birbirlerine tutunur. Neredeyse tamamı dayanıklı 
+bir hücre duvarına sahip bu canlılarda genetik materyal olarak halkasal yapıda büyük 
+ve tek bir kromozomal DNA bulunur (Görsel 2.29). Bazı prokaryotlarda kromozomal 
+DNA'dan bağımsız, çoğunlukla antibiyotik direnci gibi hücreye avantaj sağlayan gen-
+leri  barındıran küçük DNA halkaları da bulunabilir. Bu küçük halkasal DNA parçalarına 
+plazmit adı verilir. Prokaryotik canlılar beslenmelerini ototrof veya heterotrof olarak 
+gerçekleştirir. 
+Bakteriler
+Bakteriler domaininde yer alan organizmalar, tek hücreli ve prokaryotik hücre yapı-
+sına sahip canlılardır (Görsel 2.30). Genellikle bakterilerin hücre duvarı diğer canlılar-
+dan ayırt edici biçimde peptidoglikan adı verilen bir molekül içerir. Peptidolikan, 
+kısa zincirli aminoasit zincirleri (peptid) ile karbohidrat moleküllerinin birbirine bağ-
+lanmasıyla oluşur. Toprak, su, hava, canlı organizmaların yüzeyi, içi gibi çeşitli ortam-
+larda yaşayabilen bakteriler; canlılar arasında önemli bir çeşitliliğe sahiptir. Ekosis-
+temlerin işleyişinde ve yaşamın devamlılığında kritik rol oynar. Bakterilerin insan 
+hayatına hem yararlı hem de zararlı etkileri vardır. Örneğin bazı bakte-
+riler çeşitli hastalıklara sebep olurken bazıları ilaç sektöründe kullanılır. 
+Bakteriler, besin ve enerji elde etme yöntemleri bakımından büyük bir 
+çeşitlilik gösterir. Bazı bakteriler, bitkiler gibi ışık enerjisinden yararlana-
+rak fotosentez yapabilirken bazıları bu yeteneğe sahip değildir. Oksijen 
+gereksinimi açısından da bakteriler arasında önemli farklılıklar bulunur. 
+Bazı bakteriler yaşamlarını sürdürebilmek için mutlaka oksijene ihtiyaç 
+duyarken bazıları oksijensiz ortamlarda da yaşayabilir. Hatta bazı bakteri 
+türleri için oksijen, yaşamı tehdit eden zararlı bir madde niteliğindedir. 
+Bakteriler kısa sürede hızla çoğalma yeteneğine sahiptir.
+Kapsül
+Pilus
+Nükleoit
+(DNA)
+Ribozom
+Plazmit
+Kamçı
+Hücre duvarı
+Hücre zarı
+Sitoplazma
+Görsel 2.30
+Salmonella bakterisi önemli 
+sağlık problemlerine yol açar.
+Görsel 2.29
+Prokaryotik bir hücrenin genel 
+yapısı. Görseldeki  yapıların 
+bazıları prokaryotik canlıların 
+tamamında bulunmayabilir.

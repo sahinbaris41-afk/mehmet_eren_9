@@ -1,0 +1,33 @@
+58
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+1. ÜNİTE: KUVVET VE HAREKET
+Bu ünitede öğrencilerin serbest düşmeye yönelik matematiksel hesaplamaları yapmaları, 
+matematiksel modelleri ve grafiksel dönüşümleri iki boyutta sabit ivmeli harekete yönelik 
+problem durumlarına çözüm getirmek için kullanabilmeleri, Newton'ın Hareket Yasaları-
+nı açıklamaları, bir cisme etki eden kuvvetleri serbest cisim diyagramında göstermeleri, 
+statik ve kinetik sürtünme kuvvetinin bağlı olduğu değişkenleri gözlemleyerek sürtün-
+me kuvvetinin matematiksel modelini oluşturmaları, limit hızı tanımlamaları ve limit hıza 
+ait değişkenleri belirlemeleri, çembersel hareketin temel kavramları arasındaki ilişkileri 
+açıklamaları amaçlanmaktadır.
+DERS SAATİ 54
+ALAN 
+BECERİLERİ FBAB8. Bilimsel Çıkarım Yapma, FBAB10. Tümevarımsal Akıl Yürütme, FBAB12. Kanıt Kul-
+lanma 
+KA VRAMSAL 
+BECERİLER KB2.7. Karşılaştırma, KB2.14. Yorumlama, KB2.16. Muhakeme (Akıl Yürütme) (KB2.16.3. 
+Analojik Akıl Yürütme) 
+EĞİLİMLER E1.2. Bağımsızlık, E1.3. Azim ve Kararlılık, E1.6. Seçicilik, E2.5. Oyunseverlik, E3.1. Muha-
+keme, E3.2. Odaklanma, E3.3. Yaratıcılık, E3.5. Açık Fikirlilik, E3.6. Analitiklik, E3.10. Eleş-
+tirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sos-
+yal Farkındalık 
+Değerler D3. Çalışkanlık, D4. Dostluk, D12. Sabır, D14. Saygı 
+Okuryazarlık Becerileri OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı, OB9. Sanat Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Astronomi ve Uzay Bilimleri, Beden Eğitimi, Görsel Sanatlar, Matematik  
+BECERİLER ARASI 
+İLİŞKİLER KB2.3. Özetleme, KB2.18. Tartışma, KB3.2. Problem Çözme
+11. SINIF

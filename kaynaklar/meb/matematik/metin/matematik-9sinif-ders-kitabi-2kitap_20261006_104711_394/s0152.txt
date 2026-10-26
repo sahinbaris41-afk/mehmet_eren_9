@@ -1,0 +1,21 @@
+152
+1.	 Aşağıda 	yer	alan	döngüsel	şemada	istatistiksel	araştırma	süreci	aşamalarından	biri	verilmiştir.	
+Diğer aşamaları istatistiksel araştırma sürecinin döngüsel yapısına uygun şekilde yazınız. 
+2. Bir	grup	öğrenci,	Dünya	Sağlık	Haftası’nda	(7-13	Nisan)	şekerin	insan	sağlığı	üzerindeki	olumsuz	
+etkilerine	dikkat	çekmek	amacıyla	ambalajlı	gıdalardaki	şeker	miktarlarını	gösteren	bir	poster	hazırla-
+maktadır.	Gençlerin	özellikle	tercih	ettiği	ve	şeker	içeren	33	ambalajlı	gıdayı	belirleyen	öğrenciler,	bu	
+gıdalarda	bulunan	şeker	miktarlarını	kaydederek	aşağıdaki	nokta	grafiğini	oluşturmuştur.
+2 4 6 8 10 12 14 16 180
+Şeker	miktarı	(g)
+Grafikte verilenlere göre aşağıdaki soruları cevaplayınız.
+a) Öğrencilerin	planladığı	araştırmaya	kaynaklık	eden	istatistiksel	araştırma	sorusu	ne	olabilir?
+b) Öğrenciler	verileri	nasıl	toplamış	olabilir?	Açıklayınız.
+c) Dağılımda	yer	alan	verilerin	eğilim	gösterdiği	merkez	neresi	olabilir?	Merkezi	bulabilmek	için	
+hangi	veri	özetleme	değerlerine	bakmak	gerekir?
+ç)	 Dağılımda 	yer	alan	verilerin	geneline	göre	daha	uzakta	kalan	veri	veya	veriler	hangileri	olabilir?	
+Bu	veriler,	veri	özetleme	değerlerini	nasıl	etkiler?	Açıklayınız.
+d) Grafikte	yer	alan	verilerden	yola	çıkılarak	hangi	veri	özetleme	değerlerine	ulaşılabilir?	Bu	değer-
+lerin	sunduğu	bilgileri	açıklayınız.
+Verileri	
+analiz	etme
+Ön Değerlendirme

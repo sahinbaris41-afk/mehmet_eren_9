@@ -1,0 +1,139 @@
+8
+Kitabın Tanıtımı
+Tanım, kural veya özelliklerin 
+hatırlatıldığı alan
+Önceki yıllarda edinilen, 
+temanın gerektirdiği 
+bilgi ve becerileri içeren 
+çalışmaların bulunduğu 
+alan
+Merak uyandıran, önceki 
+bilgi ve becerilerden temanın 
+içerdiği bilgi ve  
+becerilere geçişi sağlayan 
+alan
+Temaya ait öğrenme çıktısı
+Tanım veya kuralların veril-
+diği alan
+Temanın 
+adı
+Temanın işleniş sırası
+Temanın
+konu 
+başlıkları
+Temanın kapsamı 
+hakkında bilgi veren 
+anahtar kavramlar
+Temada kullanılan 
+sembol ve gösterimler
+Temada öğrenme 
+çıktıları bağlamında 
+gerçekleştirilmesi  
+beklenen beceriler
+Temada öğrenciden 
+beklenen görev 
+ve sorumlulukların 
+belirtildiği alan
+Temaya giriş niteliğinde, 
+temanın diğer disiplinlerle 
+ve gerçek yaşamla 
+ilişkisini yansıtan alan
+Tema sunumuna ve 
+diğer e-içeriklere 
+yönlendiren karekodlar
+10
+1.1.  Gerçek Sayıların Üslü ve Köklü 
+Gösterimleri ile Yapılan İşlemler
+1.2.  Gerçek Sayı Aralıklarının Gösterimi 
+ve Aralıklarla İlgili İşlemlerde Küme 
+Sembollerinin Kullanımı
+1.3.  Sayı Kümeleri ve İşlem Özellikleri
+1.4.  Gerçek Sayıların İşlem Özelliklerini 
+Cebirsel Olarak İfade Etme
+Bu temada sizden
+ ● gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere 
+dair muhakeme yapabilmeniz,
+ ● gerçek sayı aralıklarının gösteriminde ve aralıklarla ilgili 
+işlemlerde küme sembol ve işlemlerinden yararlanabilmeniz,
+ ● farklı sayı kümelerinin özellikleri hakkında muhakeme 
+yapabilmeniz,
+ ● gerçek sayıların işlem özelliklerini cebirsel olarak ifade 
+etmede analojik akıl yü rütebilmeniz
+beklenmektedir.
+Anahtar Kavramlar
+• alt küme
+• ancak ve ancak
+• aralık
+• bazı
+• bilimsel gösterim
+• birleşim işlemi
+• boş küme
+• eşitsizlik
+• eşlenik
+• evrensel küme
+• fark işlemi
+• her
+• ise
+• ispat
+• kapalılık
+• kesişim işlemi
+• köklü gösterim
+• küme
+• kümenin elemanı
+• mutlak değer
+• önerme
+• önermenin değili
+• özdeşlik
+• sayı kümesi
+• tümleme
+• üslü gösterim
+• ve
+• veya
+• ya da
+SayılarSayılar
+1.  1.  
+TEMATEMA
+Sembol ve Gösterimler 
+• !, g, Q, +, ,, = , 3, sA_i
+• x, x, x, ..., x123n#-
+• xx in sahipo lduğut anımlayıcı özellikler$.
+• 1, #, 2, $, a , xn , xn
+• /, 0, Q, & , + , 6 , 7
+• a, b_i , a, b_ A , a, bi8 , a, b7A
+• N , Z , Q , Ql, R
+Tema boyunca 
+sizden çalışma 
+kâğıtlarındaki 
+soruları çözmeniz, 
+performans 
+görevlerini yerine 
+getirmeniz, ölçme 
+ve değerlendirme 
+sorularını çözmeniz 
+beklenmektedir.
+11
+Başlarken
+Günlük hayatta çoğunlukla tam sayılar kullanılırken fizik, kimya, biyoloji, ekonomi, astronomi, mü -
+hendislik gibi alanlarda farklı sayılara ihtiyaç duyulmaktadır. Örneğin mikroskobik canlıların kütlesini 
+hesaplarken çok küçük sayılara, gezegenler arası uzaklıkları ifade ederken çok büyük sayılara ihtiyaç 
+duyulmaktadır. Eş kenar uzunlukları 3 metre olan ikizkenar dik üçgen şeklindeki bir havuzun en uzun 
+kenarının uzunluğunu ifade etmek için köklü gösterimden yararlanılmaktadır. Bir bitkinin ideal koşullar-
+da yetiştirilmesini sağlayan sıcaklık değerlerini ifade etmek için gerçek sayı aralıkları kullanılmaktadır. 
+Örneklerde verilen durumları ifade ederken gerçek sayıların ondalık, üslü, köklü gösterimlerinden ve 
+gerçek sayı aralıklarından yararlanılmaktadır. 
+Tema karekodu
+Tema 
+sunusuna 
+ulaşmak için 
+karekodu 
+okutunuz.
+Süreç bileşenlerinin bir 
+görev veya problem 
+bağlamında işletildiği alan
+Tema ile ilgili çözümlü 
+örneklerin sunulduğu alan
+Konu içinde çözümü 
+verilmeyen görevlerin 
+yer aldığı alan
+Soruya ait örnek çözümün 
+yer aldığı alan

@@ -1,0 +1,24 @@
+106
+2. Tema /  Nicelikler ve Değişimler
+ç) T aksinin benzini bitene kadar yolculuk edeceği süre g fonksiyonunun sıfırı ile ilişkilidir. Buradan
+ g(x) = - 1
+10
+x + 20 = 0    - 1
+10
+x = -20    x = -20
+- 1
+10
+ = 200 dakika olur.
+1.	Sıra	Sizde   
+g: R"R, g(x) = x + 2 ve h: R"R, h(x) = x - 2 şeklinde tanımlı g ve h fonksiyonları veriliyor.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		f:	R"R,	f(x) =	x 	şeklinde 	tanımlı 	f 	doğrusal 	referans 	fonksiyonunun 	grafiğinden 	yararlana-
+rak	g	ve	h	fonksiyonlarının	grafiklerini	çiziniz.
+O x
+y
+b)		f,	 g 	 ve 	 h 	 fonksiyonlarının 	 grafiklerinden 	 yararlanara k 	 fonksiyonları 	 temsil 	 eden 	 doğruların 	
+eğimlerini	bulunuz	ve	karşılaştırınız.
+c)		g	 ve 	 h 	 fonksiyonlarının 	 maksimum 	 ve 	 minimum 	 noktalarını, 	 sıfırlarını, 	 fonksiyonları 	 temsil 	
+eden	grafiklerin	y	eksenini	kestikleri	noktaları	bulunuz.
+ç)		g	ve	h	fonksiyonlarının	artan	veya	azalan	olduğu	aralıkları	belirleyiniz.
+d)		g	ve	h	fonksiyonlarının	bire	bir	olup	olmadıklarını	inceleyiniz.

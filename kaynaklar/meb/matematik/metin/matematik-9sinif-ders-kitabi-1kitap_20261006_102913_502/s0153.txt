@@ -1,0 +1,31 @@
+153
+2. Tema /  Nicelikler ve Değişimler
+b)  Bulduğunuz cebirsel temsillerin problemin çözümünde nasıl kullanılabileceğini sınıf arkadaşlarınızla tartışı-
+nız. Strateji oluşturarak problemi çözünüz.
+c)  Mutlak değerli fonksiyonları kullanarak yukarıdaki problem durumunu grafik temsiliyle nasıl ifade edersiniz? 
+Bulduğunuz grafik temsilinin problem bağlamındaki anlamını ifade ediniz.
+ç)  Bulduğunuz grafik temsilinin problemin çözümünde nasıl kullanılabileceğini sınıf arkadaşlarınızla tartışınız. 
+Strateji oluşturarak problemi çözünüz.
+d)  1. problemin çözümünde kullandığınız yöntemleri karşılaştırarak  çözümlerinizi doğrulayınız.
+e)  1. problemin çözümünde kullandığınız yöntemleri mutlak değer fonksiyonu içeren farklı problem durumları 
+için nasıl kullanabilirsiniz? Genellemenizi oluşturunuz.
+f)  Oluşturduğunuz genellemeyi sözel, cebirsel ve grafiksel olarak d eğerlendiriniz.
+g) 1. problem için verilen adımları 2 ve 3. problemler için uygulayınız. 
+2. Problem: Oyunu Mustafa kaybettiğine göre Mustafa hangi sayıları söylemiş olabilir?
+3. Problem: Mustafa’nın oyunu kazanması için söyleyebileceği en küçük sayı ile en büyük sayı kaçtır?
+12. ÖRNEK
+Mühendislikte yapıların bileşenlerinin kabul edilebilir ölçülerinin aralığı için 
+tolerans terimi kullanılır. Tolerans, üretilen parçaların üretilmesi gereken de-
+ğerden sapma miktarı (hata payı) olarak da ifade edilmektedir. 
+Mil, rulman, dişli gibi makine parçaları büyüklüklerine göre farklı tolerans ile 
+üretilir. Görseldeki rulmanlar, çap uzunluğu 60 mm ! 0,05 mm olacak şekil -
+de üretilmektedir. 
+Verilenlere göre aşağıdaki soruları cevaplayınız. 
+a)  Üretilecek bir rulmanın çap uzunluğuna bağlı hata miktarını veren fonksiyonu cebirsel ve grafik temsi-
+liyle ifade ediniz. 
+b)  Üretilen bir rulmanın çap uzunluğunun istenen ölçüde üretilip üretilmediğini, uygun ölçülerde üretilen 
+bir rulmanın çap uzunluğunun alabileceği en büyük ve en küçük değeri belirleyecek çözüm stratejileri 
+oluşturunuz. 
+c)  Belirlediğiniz stratejileri kullanarak problemleri çözünüz.  
+ç)  Elde ettiğiniz çözümleri farklı yöntemlerle doğrulayınız.
+d)  Problemin farklı çözüm yöntemlerini ilişkilendirerek elde ettiğ iniz çıkarımları değerlendiriniz.

@@ -1,0 +1,12 @@
+84
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Destekleme Ele alınan deneyler iki olay ile sınırlı tutulabilir. 
+Olasılık deneyleri, farklı duyulara hitap edebilecek (dokunma ve görme duyularına hitap etmek 
+amacıyla farklı renklerdeki eşit bölmeli çarkları öğrencilerin elle çevirmesi ve elde ettikleri 
+renklerin kaydedilmesi gibi) şekilde tasarlanabilir.
+Olayların olasılığını teorik olarak incelemek için gerekli çıkarımların ve matematiksel ilişkilerin 
+daha erişilebilir kılınması amacıyla destek, ipuçları ve görseller sağlanabilir. Ulaşılan sonuç ve 
+genellemeleri içeren hatırlatma notları, afiş veya poster ile sınıfta sunularak tartışılabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

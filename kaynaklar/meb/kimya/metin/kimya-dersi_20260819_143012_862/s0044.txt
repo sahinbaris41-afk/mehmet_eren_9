@@ -1,0 +1,50 @@
+44
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.10.1.4
+Öğrencilerden küçük taneciklere sahip mercimek, pirinç, nohut gibi maddelerin miktarını 
+ifade etmede kullanabilecekleri kütle, tanecik sayısı gibi ölçülebilir özellikleri belirlemele-
+ri istenir (OB1). Öğrenciler, belirlenen özelliklerden yola çıkarak küçük taneciklere sahip 
+maddelerin aynı sayıda tanecik içeren örneklerinin kütlesini ölçer. Madde örneklerinden 
+herhangi biri standart madde (örneğin mercimek) olarak seçilir. Her bir kütle ölçümü, 
+standart olarak alınan maddenin kütlesine bölünür. Ardından her bir madde örneği için 
+bulunan kütle oranına karşılık gelecek kadar tanecik tartılır. Bu kütledeki tanecik sayısı 
+belirlenir. Öğrenciler, ölçümleri sonucunda belirledikleri tanecik sayısına karşılık gelen bir 
+birimi tanımlar. Tanımladığı birimi kullanarak küçük taneciklere sahip her bir maddenin 
+miktarını ifade eder. Küçük taneciklere sahip maddelerin tanecik sayısı ve kütlesi arasın -
+daki ilişkiyi veren bu birime benzer olarak kimya biliminde de aynı amaçla tanımlanmış bir 
+birim olduğuna, bu birime mol denildiğine dikkat çekilir. Son olarak mol kavramının tanımı 
+verilir (OB1). Bu bağlamda izotop atom, ortalama atom kütlesi ve atomik kütle biriminin 
+sadece tanımları yapılır. Öğrencilerden ders öncesi ve sonrasında, madde miktarının ifade 
+edilmesinde kullanılan birimlerle ilgili değişen görüşlerini özetledikleri bir yansıtma notu 
+yazmaları istenebilir (SDB2.1). 
+KİM.10.1.5
+Öğrencilerden 1 mol metal örneğinin içerdiği atom sayısı ve kütlesi arasındaki ilişkiye dair 
+hipotez kurmaları ve hipotezlerini hesaplamalarla test etmeleri istenir. Bu şekilde araş -
+tırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir  
+(D3.3). Öğrenciler; metal örneği için belirledikleri mol-atom sayısı ve mol-kütle arasındaki 
+ilişkilere yönelik hipotezlerini su, karbon dioksit gibi yeni örneklerin mol-molekül sayısı ve 
+mol-kütle ilişkilerini belirlemek için kullanır (OB7). Öğrencilere farklı maddelerin mol sayısı 
+ile atom sayısı, molekül sayısı ve kütlesi arasındaki ilişkiyi hesaplamaları için kısa cevaplı 
+sorular yöneltilir ve bu soruların cevaplandırılması istenir. Öğrencilere ilk defa karşılaştık-
+ları mol kavramı ile ilgili öğrenme sürecindeki düşüncelerini belirttikleri bir metin yazdırı -
+labilir (SDB1.1).
+KİM.10.1.6
+Denkleştirilmemiş bir tepkime denklemi verilir ve öğrencilerden tepkime denkleminde 
+sayıları eşit olmayan atomları belirlemeleri istenir. Öğrenciler, kimyasal tepkime denklem-
+lerinin denkleştirilmesi ile ilgili hesaplamaları yapar. Denkleştirilmemiş tepkime denklemi-
+nin kütlenin korunumu yasasına uyup uymadığına, ilgili tepkimedeki taneciklerin sayılarını 
+eşitlemek için katsayıların nasıl belirlenmesi gerektiğine dair sorular sorularak öğrencile-
+rin düşüncelerini etki altında kalmadan özgürce ifade etmeleri sağlanır (D11.2, E3.5). Öğ-
+renciler, tepken ve ürünlerdeki taneciklerin sayılarının eşitlenmesi için olası yolların neler 
+olabileceği ile ilgili araştırma yapmaları için yönlendirilir; bu sayede öğrencilerin araştırma-
+cı ve sorgulayıcı olmaları teşvik edilerek çalışkanlık değeri kazanmaları desteklenir (OB7, 
+D3.3). Deneme yanılma yöntemi ile tepkime denklemindeki tepken ve ürünlerdeki tane -
+ciklerin sayılarının eşitlenmesi istenir. Yapılan denkleştirmenin daha az basamaklı olması 
+için tanecik sayılarının denkleştirme sırasının nasıl olması gerektiği öğrencilere sorulur. 
+Öğrencilerin etkili iletişim kurmaları, olay ve durumları çok yönlü bakış açısıyla değerlen -
+dirmeleri, farklı bakış açılarını dikkate almaları sağlanır; en uygun denkleştirme yöntemi -
+nin ne olduğuna sınıf içi tartışma ile karar verilir (E1.6). Karar verme aşamasında adalet ve 
+saygı değerleri hatırlatılır (SDB2.1, D1.2, D14.1). Öğrenciler, en uygun denkleştirme yönte-
+mini kullanarak çeşitli kimyasal tepkime denklemlerini denkleştirerek değerlendirir (OB7). 
+Çalışma yaprağında verilen çeşitli denkleşmemiş tepkime denklemlerinin denkleştirilmesi 
+istenebilir.

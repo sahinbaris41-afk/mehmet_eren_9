@@ -1,0 +1,34 @@
+184
+6. Tema / İstatistiksel Araştırma Süreci
+c) Elde	ettiğiniz	bulgulardan	hareketle	2024	yılında	Türkiye'nin	81	ilindeki	kişi	başı	günlük	katı	atık	
+miktarının	kg	cinsinden	nasıl	bir	eğilim	göstermesi	beklenir?
+Çözüm
+a) Verilerin	merkezinin	nerey e	eğilim	göst erdiğini	görebilm ek	için	graf ik	üzer inde	mer kezî	eğilim	değerle-
+rinden	aritmetik	ortalama	ve	ortancaya	bakmak	gerekmektedir.	Aşağıdaki	grafikte	dağılımın	aritmetik	
+ortalama	ve	ortanca	değerleri	yer	almaktadır.
+Grafik 3
+Atık miktarı (kg/gün)
+0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2 2,2
+Ortalama: 1,123 kg/günOrtanca: 1,07 kg/gün
+Grafikteki	de ğerler	in celendiğinde	ari tmetik	orta lamanın	1,1 23	kg	ve	orta ncanın	1,0 7	kg	ol duğu	gö rül-
+mektedir.	Dağılı mda	2	kg	civarı nda	yı ğılan	verilerin	ort alamayı	etk ilediği	öngörülebilir.	Bu	durum da	
+dağılımın	eğilim	gösterdiği	merkezin	1,07	kg	olduğu	söylenebilir.	Dolayısı yla	2018,	2020	ve	2022	
+yıllarında	Türkiye’nin	kişi	başı	günlük	katı	atık	miktarının	yaklaşık	olarak	1,07	kg	olduğu	söylenebilir .
+b) Verilerin	merkezinin	nereye	eğilim	gösterdiğini	görebilmek	için	grafik	üzerinde	merkezî	eğilim	değer-
+lerinden	aritmetik	ortalama	ve	ortancaya	bakmak	gerekmektedir.	Aşağıdaki	grafikte	her	üç	yıla	ait	
+dağılımların	aritmetik	ortalama	ve	ortanca	değerleri	yer	almaktadır.
+Grafik 4
+Atık miktarı (kg/gün)
+0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2 2,2
+2018 yılı 2020 yılı 2022 yılı
+Yıl
+Ortalama: 1,069 kg/gün
+Ortalama: 1,144 kg/gün
+Ortalama: 1,158 kg/gün
+Ortanca: 0,96 kg/gün
+Ortanca: 1,09 kg/gün
+Ortanca: 1,09 kg/gün
+Grafikteki	değerler	incelendiğinde	2018	yılına	ait	verilerin	aritmetik	ortalamasının	1,158	kg	ve	ortan-
+canın	1,09	kg,	2020	yılına	ait	verilerin	aritmetik	ortalamasının	1,144	kg	ve	ortancanın	1,09	kg,	2022	
+yılına	ait	verilerin	aritmetik	ortalamasının	1,069	kg	ve	ortancanın	0,96	kg	olduğu	görülmektedir.	Her	
+üç	yıla	ait	verilerin	dağılımında	1,8	kg	civarında	yığılan	verilerin	ortalamayı	etkilediği	öngörülebilir.	

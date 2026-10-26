@@ -1,0 +1,46 @@
+91
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.12.3.1. Doğrusal su dalgalarında kırınım olayına ilişkin tümevarımsal akıl yürütebilme
+a) Doğrusal su dalgalarında kırınım olayını gözlemler.
+b) Doğrusal su dalgalarında kırınım olayını frekans, dalga boyu ve yarık genişliği de-
+ğişkenleri ile ilişkilendirir.
+c) Doğrusal su dalgalarında gerçekleşen kırınım olayına ilişkin genelleme yapar.
+FİZ.12.3.2. Dairesel su dalgalarında girişim olayına ilişkin tümevarımsal akıl yürütebilme
+a) Dairesel su dalgalarında girişim olayını gözlemler.
+b) Dairesel su dalgalarında girişim olayını frekans, dalga boyu ve kaynaklar arası me-
+safe değişkenleri ile ilişkilendirir.
+c) Dairesel su dalgalarında gerçekleşen girişim olayına ilişkin genelleme yapar.
+FİZ.12.3.3. Işıkta girişim ile ilgili deney yapabilme
+a) Işığın girişimi ile ilgili deney tasarlar.
+b) Işığın girişimi ile ilgili deney düzeneğinden veri toplayarak analiz eder.
+FİZ.12.3.4. Işıkta kırınım ile ilgili deney yapabilme
+a) Işığın kırınımı ile ilgili deney tasarlar.
+b) Işığın kırınımını deney düzeneğinden veri toplayarak analiz eder. 
+FİZ.12.3.5. Elektromanyetik dalgaları sınıflandırabilme
+a) Elektromanyetik dalgaların niteliklerini belirler.
+b) Elektromanyetik dalgaları niteliklerine göre ayrıştırır.
+c) Elektromanyetik dalgaları niteliklerine göre gruplandırır.
+ç) Elektromanyetik dalgaları adlandırır. 
+FİZ.12.3.6. Işık renklerinin dalga boyları hakkında tümevarımsal akıl yürütebilme
+a) Işık renkleri ve dalga boyları arasındaki ilişkiyi bulur.
+b) Tüm ışık renklerinin ana ışık renkleri ile ilişkisine yönelik genelleme yapar. 
+FİZ.12.3.7. Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardaki dalga türle-
+rini sorgulayabilme
+a) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği ci-
+hazı belirler.
+b) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği ci-
+haz hakkında sorular sorar.
+c) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği ci-
+haz ile ilgili bilgi toplar.
+ç) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği ci-
+haz ile ilgili topladığı bilgilerin doğru olup olmadığını değerlendirir.
+d) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği ci-
+haz ile ilgili topladığı bilgiler üzerinden çıkarım yapar.
+İÇERİK ÇERÇEVESİ Su Dalgalarında Kırınım
+Işıkta Kırınım
+Su Dalgalarında Girişim
+Işıkta Girişim
+Elektromanyetik Dalgalar
+Işık Renkleri
+Mekanik veya Elektromanyetik Dalgaların Kullanıldığı Cihazlar

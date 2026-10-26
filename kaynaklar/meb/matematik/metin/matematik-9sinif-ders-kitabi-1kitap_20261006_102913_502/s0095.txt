@@ -1,0 +1,20 @@
+95
+2. Tema /  Nicelikler ve Değişimler
+h)  Bağımsız değişkenin aldığı iki farklı değer için f fonksiyonunun aldığı değerler birbirinden farklı mıdır? Bu 
+durumun bağımsız değişkenin alabileceği tüm değerler için geçerli olup olmadığını açıklayınız.
+3.  Grafik 5’te gerçek sayılarda tanımlı k doğrusal fonksiyonunun grafiği verilmiştir.
+x
+y
+O
+k
+Grafik 5
+ Grafik 5’i inceleyerek k fonksiyonunda bağımsız değişkenin aldığı değerler artarken bağımlı değişkenin aldığı 
+değerlerin nasıl değiştiğini bulunuz.
+Cebirsel temsili f(x) = x olan f fonksiyonunda x, tüm gerçek sayı değerlerini alabilir. Bu sebeple f fonk-
+siyonunun en geniş tanım kümesi gerçek sayılardır. f fonksiyonu, x  in aldığı tüm gerçek sayı değerlerini 
+kendisi ile eşleştirir. Bu sebeple f fonksiyonunun görüntü kümesi gerçek sayılardır. 
+Buradan f fonksiyonu, f: R"R biçiminde tanımlanabilir.
+f fonksiyonunda f(x) = 0 eşitliğini sağlayan x değerine f fonksiyonunun sıfırı	denir.
+Bir fonksiyonda bağımsız değişkenin alabileceği tüm değerler, fonksiyonun tanım	kümesi 	olarak adlan-
+dırılır. Bağımsız değişkenin alabileceği tüm değerlere karşılık bağımlı değişkenin alabileceği tüm değer-
+lerin oluşturduğu küme, görüntü	kümesi 	olarak adlandırılır.

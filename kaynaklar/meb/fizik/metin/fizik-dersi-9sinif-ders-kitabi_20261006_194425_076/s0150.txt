@@ -1,0 +1,37 @@
+150
+3. ÜNİTE 
+Sıvılar, içinde bulunduğu kabın yüzeylerine basınç uygular. Bu basınç, sıvının 
+temas ettiği yüzeye dik ve net bir kuvvet uygulamasından kaynaklanır. Bir 
+yüzeye uygulanan basıncın o yüzeyin alanı ile çarpımı sonucunda net bir 
+kuvvet oluşur.
+P AF=  matematiksel modelinde basıncı oluşturan kuvvetin matematiksel 
+modeli F P A$=  olur (4).
+Görsel 3.7’de verilen ve taban alanı A olan düzgün kap içindeki d yoğunluklu, 
+h yüksekliğindeki sıvının kap tabanında oluşturduğu basınç P h d g $ $ =  
+olur. 
+4 numaralı matematiksel model kullanıldığında
+F h d g A $ $ $ =  
+matematiksel modeli elde edilir.
+h
+d
+A
+F
+Görsel 3.7: Kabın tabanına etki eden kuvvet
+Sıvılardaki basınç; sıvının yüksekliği, yoğunluğu ve yer çekimi ivmesine bağlı 
+olup kabın şekli ve taban alanı ile ilişkili değildir. Sıvılarda basıncı oluştu -
+ran kuvvet, kabın şekline ve basıncın etki ettiği yüzey alanına göre değişiklik 
+gösterir.
+Örnek
+Aşağıdaki görselde içi sıvı dolu dereceli silindir verilmiştir.
+Buna göre
+a) Sıvı dolu dereceli silindirin tabanındaki sıvı basıncını artırmak 
+için neler yapılabilir? Gerekçesiyle açıklayınız.
+b) Silindirin tabanındaki sıvı basıncını azaltmak için neler 
+yapılabilir? Gerekçesiyle açıklayınız.
+Çözüm
+a) Dereceli silindirin tabanındaki sıvı basıncını artırmak için kaba aynı cins sıvı eklenerek derinlik 
+artırılabilir, sıvının içine tuz atılarak yoğunluğu artırılabilir, dereceli silindir yer çekimi ivmesinin 
+büyük olduğu bir yere (kutup bölgeleri) götürülebilir ya da hepsi yapılabilir.
+b) Dereceli silindirin tabanındaki sıvı basıncını azaltmak için kaptaki sıvı miktarını azaltma ve 
+dereceli silindiri yer çekimi ivmesinin küçük olduğu bir yere (Ekvator veya Ekvator’a yakın 
+bölgeler) götürme işlemlerinden biri ya da hepsi yapılabilir.

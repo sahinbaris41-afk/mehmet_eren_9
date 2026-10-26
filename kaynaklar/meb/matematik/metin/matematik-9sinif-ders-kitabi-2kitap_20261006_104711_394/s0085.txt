@@ -1,0 +1,36 @@
+85
+4. Tema / Eşlik ve Benzerlik
+Alıştırmalar
+1. Zübeyde	Öğretmen,	öğrencilerine	üçgenlerde	benzerlik	konusunu	anlatmak	için	B	ve	C	noktaları	
+etrafında	dönebilen	üç	çubuğun	oluşturduğu	bir	mekanizma	tasarlamıştır.	Şekil	1’deki	 AB7A ,	 BC7A 	ve	
+CD7 A 	çubuklarının	uzunlukları	sırasıyla	17	cm,	12	cm	ve	18	cm’dir.	Zübeyde	Öğretmen,	 AB7A 	ve	 CD7 A  
+çubuklarını	oklar	yönünde	döndürerek	Şekil	2’de	gösterildiği	gibi	 DK cm 12= 	ve	 KAc m 8= 	olacak	
+biçimde	K	noktasında	sabitliyor;	oluşan	şekilde	A	ile	D	noktaları	arasına	bir	çubuk	daha	koyuyor .	
+Buna göre aşağıdaki soruları cevaplayınız.
+a) A ve D noktaları arasına konulan çubuğun uzunluğunun kaç cm olduğunu bulunuz.
+b) AD7A  çubuğu kullanılarak düzenek AD BC'77 AA  olacak şekilde hareket ettirilirse K noktası 
+CD7 A  üzerinde yaklaşık kaç cm yer değiştirir?
+2. Evinin	bulunduğu	H	noktasından	arkadaşı	Halûk’un	evini	görebilen	Gonca,	Halûk’un	evi	ile	kendi	evi	
+arasındaki	uzaklığı	hesaplamak	için	aşağıdaki	adımları	uyguluyor.
+• L	şeklinde	bir	cetvelin	iki	kenarına	Şekil	1’deki	gibi	lazer	yerleştiriyor.	
+• 2	metrelik	bir	sopayı	evinin	bulunduğu	H	noktasında	zemine	dik	şekilde	konumlandırıyor.
+• Lazer	ışınlarından	biri	Halûk’un	evinde	belirec ek	şekilde	cet veli	T	nokt asında	sopanı n	üzerine	
+Şekil	2’deki	gibi	sabitliyor.	
+Gonca,	bu	adımları	uyguladıktan	sonra	diğer	kenardaki	lazer	ışınının	yerde	belirdiği	A	noktası	ile	 	 	 	 	 	 	
+H	noktası	arasındaki	mesafeyi	5	cm	olarak	ölçüyor.	Halûk’un	evinin	lazer	ışının	AH	üzerinde	belirdiği	
+noktada	olduğu	bilinmektedir.
+Buna göre Halûk’un evinin Gonca’nın evine uzaklığının kaç m olduğunu bulunuz. 
+A B C D
+A
+CB
+D
+Şekil 1 Şekil 2
+K
+12
+8
+Şekil 2
+T
+200	
+5
+A H
+Şekil 1

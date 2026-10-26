@@ -1,0 +1,47 @@
+86
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.10.1.1. Dik üçgende trigonometrik oranlara (sinüs, kosinüs, tanjant, kotanjant) ve tri-
+gonometrik özdeşliklere ilişkin çıkarım yapabilme 
+a)  Dik üçgende trigonometrik oranlar ve trigonometrik özdeşliklerle   ilgili varsayım -
+larda bulunur. 
+b) Trigonometrik oranlar ve trigonometrik özdeşliklerle ilgili örüntüleri geneller.
+c) Trigonometrik oranlar ve trigonometrik özdeşliklerle ilgili elde ettiği genellemelerini 
+varsayımlarıyla karşılaştırır.
+ç) Yaptığı karşılaştırmalardan dik üçgende trigonometrik oranlara ve trigonometrik 
+özdeşliklere ilişkin önermeler sunar. 
+d) Ulaştığı trigonometrik oranları ve trigonometrik özdeşlikleri problemler bağlamında 
+değerlendirir. 
+MAT.10.1.2. Üçgenin yardımcı elemanlarının özellikleri ile ilgili çıkarım yapabilme  
+a) Üçgende iç ve dış açıortayların, kenarortayların, kenar orta dikmelerin ve yükseklik-
+lerin özelliklerine ilişkin varsayımda bulunur. 
+b) Farklı üçgen örneklerini inceleyerek varsayımlarına ilişkin örüntüleri geneller.
+c) Üçgenin yardımcı elemanlarıyla ilgili genellemelerini varsayımlarıyla karşılaştırır.  
+ç) Elde ettiği genellemelerden hareketle yardımcı elemanların özelliklerine ilişkin  
+önermeler sunar. 
+d) Üçgenin yardımcı elemanlarıyla  ilgili önermeleri problemler bağlamında değerlen-
+dirir. 
+MAT.10.1.3. Üçgenin bir kenarı ve o kenara ait yüksekliğinin değişimine bağlı olarak alanı-
+nın değişimine ilişkin çıkarım yapabilme 
+a) Üçgenin bir kenarı ve o kenara ait yüksekliğindeki değişimin üçgenin alanındaki de-
+ğişime etkisine dair varsayımlarda bulunur.
+b) Farklı üçgenlerdeki gözlemlerinden yararlanarak varsayımlarına yönelik örüntüleri 
+geneller.
+c) Genellemelerini varsayımlarıyla karşılaştırır. 
+ç) Elde ettiği genellemelerden üçgenin alanının hangi elemanlara göre değiştiğine iliş-
+kin önermeler sunar.
+d) Önermeleri gerçek yaşam problemleri bağlamında değerlendirir.
+MAT.10.1.4. Sinüs ve kosinüs teoremlerini doğrulayabilme veya ispatlayabilme         
+a) Üçgende sinüs ve kosinüs teoremlerine ilişkin farklı doğrulama veya ispatları kul-
+lanır. 
+b) Yapılan doğrulama veya ispatları yeni durumlara uyarlayarak değerlendirir. 
+İÇERİK ÇERÇEVESİ • Dik Üçgende Trigonometrik Oranlar ve Trigonometrik Özdeşlikler
+• Üçgende Yardımcı Elemanlar
+• Üçgenin Alanı
+• Sinüs ve Kosinüs Teoremleri
+Genellemeler • Trigonometrik oranlar, bir açının benzer üçgenlerde korunan oran yapısını temsil eder.
+• Benzer üçgenlerin alanları orantılıdır.
+Anahtar Kavramlar ağırlık merkezi, alan, birim çember, çevrel çember, dış açıortay, dış teğet çember, iç açıor-
+tay, iç teğet çember, kenar orta dikme, kosinüs teoremi, sinüs teoremi, trigonometrik oran-
+lar, yönlü açı, yükseklik 
+Sembol ve Gösterimler ⊥, AB, [AB], A(ABC), Ç(ABC), r, nA , n'A , ha , Va , G, sinx, cosx, tanx, cotx

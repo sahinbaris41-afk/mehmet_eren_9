@@ -1,0 +1,40 @@
+172
+3. ÜNİTE 
+Performans Görevi  /alarm-clock 35 dk.   
+Beklenen Performans: 5. Etkinlik'te Elde Edilen Verileri Raporlaştırıp Sunma
+Değerlendirme: Dereceli Puanlama Anahtarı
+5. Etkinlik’te yer alan Arşimet ve Kral Hiero’nun Altın Tacı adlı metinden ve tasarladığınız deney düzeneğinden 
+elde ettiğiniz verileri sınıf ortamında bir araştırma raporu biçiminde hazırlayınız. Raporunuzu arkadaşlarınıza 
+sununuz.
+Çalışma Sürecinde Dikkat Edilecek Hususlar
+Arşimet İlkesi’ne Giriş: Arşimet İlkesi’nin, kaldırma kuvvetini ve kaldırma kuvvetinin bağlı olduğu değişkenleri 
+anlamadaki önemini kısaca açıklayınız.
+Deneyin Amacı: Deneyin amacını ve deneyde Arşimet İlkesi ile ilgili neleri araştırdığınızı belirtiniz.
+Araç Gereç: Deneyi gerçekleştirirken kullandığınız araç gereci listeleyiniz.
+Deneyin Kurulumu: Malzemelerin düzeni, bağlantıları ve deney şemaları da dâhil olmak üzere deneyi nasıl kur ­
+duğunuzu açıklayınız.
+Yöntem: Deneyi nasıl yaptığınıza ilişkin yöntemleri özetleyiniz. Cismin sıvı içinde batan kısmına ait hacmin kal ­
+dırma kuvvetini nasıl değiştirdiği, deneyde kullanılan sıvının yoğunluğunun cismin sıvı içinde ba tan kısmına ait 
+hacim ile ilişkisi, deneyin yapıldığı ortamın yer çekimi ivmesi değerinin deney sonuçlarını nasıl etkilediği, ölçümler 
+sonucunda elde edilen verilerin nasıl kaydedildiği gibi ayrıntılara özetinizde yer veriniz.
+Veri Toplama: Deney sırasında nasıl veri topladığınızı açıklayınız. Raporda yaptığınız ölçümleri ve ilgili hesapla ­
+maları belirtiniz.
+Veri Analizi: Arşimet İlkesi’ne dayanarak kaldırma kuvveti ve kaldırma kuvvetinin bağlı olduğu değişkenleri doğ­
+rulamak için toplanan verileri nasıl analiz ettiğinizi açıklayınız. 
+Sonuç: Deney sonucunda ulaştığınız verileri özetleyiniz.
+Elde ettiğiniz veriler doğrultusunda kaldırma kuvveti ve kaldırma kuvvetinin bağlı olduğu değişkenler ile ilgili 
+aşağıdaki soruyu grup arkadaşlarınızla tartışarak cevaplayınız.
+Deneyden elde ettiğiniz veriler, Arşimet İlkesi’nin öngörülerini ne şekilde destekliyor veya on unla hangi ba-
+kımlardan çelişiyor?
+Sunumunuz, “Dereceli Puanlama Anahtarı” ile öğretmeniniz tarafından değerlendirilecektir. 
+“Dereceli Puanlama Anahtarı”na karekodu okutarak ulaşabilirsiniz.
+Akışkanların içindeki cisimlere akışkan tarafından yukarı doğru bir kuvvet 
+uygulanır. Bu kuvvet, cismin ağırlığı ile zıt yönlü olduğu için cismi yukarı doğru 
+itmeye çalışır. Akışkan içindeki cisimleri yukarı doğru iten bu kuvvete kaldırma 
+kuvveti denir.
+Durgun akışkanlar tarafından cisimlere uygulanan itme kuvvetini ilk ispatla -
+yan bilim insanının Arşimet olduğu kabul edilmektedir. Bu keşif, Arşimet İlkesi 
+olarak bilinmektedir. Kaldırma kuvvetinin matematiksel modeli, basınç kavra-
+mının detaylı şekilde incelenip açıklanmasının ardından geliştirilmiştir.
+Kaldırma kuvveti, akışkanların içindeki cisimlere etki eden bir kuvvettir. Bu 
+kuvvet; özellikle mühendislik, fizik ve uygulamalı bilimler alanında büyük önem 

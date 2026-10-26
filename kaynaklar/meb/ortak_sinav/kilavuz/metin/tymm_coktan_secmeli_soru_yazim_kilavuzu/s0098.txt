@@ -1,0 +1,29 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+98
+Ortaöğretim Matematik Dersi Örnek Sorular
+Matematik alanı “Matemetiksel Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Aslı “Enerji Kaynaklarının Bilinçli Kullanımı ve Sürdürülebilir Çevre” adlı projesi için aydınlatma gereçleri 
+ile elektrikli ev aletlerinin enerji tasarrufundaki yeri ve önemini araştırmaktadır. Bunun için ailesi ile 
+yaşadığı evde kullanılan elektrikli aletlerin 1 saatte tükettiği yaklaşık elektrik değerlerini watt cinsinden 
+bulmuş, verileri aşağıdaki tabloda sıralamıştır. 
+Aydınlatma Gereçleri ile Elektrikli Aletler Elektrik Tüketimi (watt/saat)
+Akkor Ampül 26
+Led Ampül 24
+Buzdolabı 26
+Çamaşır Makinesi 26 . 102
+Ütü 52 . 102
+1. Aslı’nın ailesi bir günde
+• 2 saat ütü,
+• 24 saat buzdolabı,
+• 8 saat LED ampul,
+• 4 saat akkor ampul,
+• 1 saat çamaşır makinesi
+kullanmıştır.
+Buna göre ailenin bir günlük toplam elektrik tüketimi watt/saat cinsinden aşağıdakilerden hangi -
+sidir?  (MAB2.1)
+A)  2 7 . 26 + 110 . 102
+B)  2 5 . 26 + 112 . 102
+C)  1 5 . 26 + 114 . 102
+D)  2 5 . 27 + 114 . 102
+E)  1 5 . 27 + 112 . 103

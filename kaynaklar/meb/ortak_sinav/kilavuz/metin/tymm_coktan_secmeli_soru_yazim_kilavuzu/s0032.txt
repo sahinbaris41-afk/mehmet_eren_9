@@ -1,0 +1,29 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+32
+1-3. soruları aşağıdaki metne göre cevaplayınız.
+Bir okulun elektrik giderleri son dönemde artmaya başlamıştır. Okul yönetimi, çevreci yaklaşımla 
+enerji tasarrufu sağlamak amacıyla yenilenebilir enerji kaynaklarını incelemeye karar vermiştir. 
+Mevcut hava durumu verilerini incelemiş ve okul çatısının güneş ışığı alma süresini gözlemlemiştir. Bu 
+gözlemlerden hareketle güneş panellerini farklı yerleşim planlarıyla yerleştirerek en yüksek verimde 
+enerji üretmeyi planlamaktadır. Yönetim, kurulacak sistemin çevreye ve okul bütçesine etkilerini de 
+düşünerek kararlarının avantajlarını ve sınırlılıklarını da değerlendirmiştir.
+1. Okul yönetimi, aşağıda verilen tahminlerden hangisinin sonucunda okul çatısına güneş paneli kur-
+durmaya karar vermiştir? (KB3.2.SB3)
+A)  Yenilenebilir enerji kaynağı kullanmak elektrik giderlerini azaltır.
+B)  Okulun ışıklandırma sistemini yenilemek elektrik giderlerini azaltır.
+C)  Enerji tasarrufu ile ilgili posterler hazırlamak elektrik giderlerini azaltır.
+D)  Öğrencilerden enerji timleri kurmak elektrik faturasını azaltır.
+2. Okul yönetimi, güneş panellerinin verimini artırmak için öğrencilerden çözüm önerileri istemiştir. 
+Aşağıdakilerden hangisi problemin çözümüne yönelik uygun bir öneridir?  (KB3.2.SB4)
+A)  Panellerin üzerine lambalar yerleştirmek
+B)  Panellerin üzerine gölgelik koymak
+C)  Panellere ısıtma sistemi eklemek
+D)  Panelleri düzenli olarak temizlemek
+3. Okul çatısına yerleştirilen güneş panelleri sayesinde elektrik üretimi başlamış ve sorunsuz devam 
+etmiştir. Şirket çalışanları bir yıl sonra yaptıkları ölçümlerde daha az enerji üretildiği sonucunu kaydet-
+mişlerdir. 
+Elektrik üretiminin azalmasına ilişkin aşağıdakilerden hangisi söylenemez? (KB3.2.SB5)
+A)  Havanın bulutluluk ve yağış oranı artmıştır.
+B)  Okul çevresindeki ağaçların boyu uzamıştır.
+C)  Bölgede kömür kullanımı artmıştır.
+D)  Bölgede güneşli gün sayısı artmıştır.

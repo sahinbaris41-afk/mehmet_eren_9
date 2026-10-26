@@ -1,0 +1,35 @@
+216
+4. ÜNİTE 
+Termometreler, kullanım amacına göre farklı maddelerden üretilir. Termo -
+metrelerde kullanılan maddenin seçiminde maddenin erime ve kaynama 
+sıcaklığı ile basınç ve direnç değişimleri dikkate alınır. Kullanım amacına göre 
+termometreler; sıvılı, metal, gazlı, kızılötesi ve dijital olmak üzere beş gruba 
+ayrılır. 
+Kullanım Amacına Göre Termometreler
+Sıvılı 
+Termometre
+Metal 
+Termometre
+Gazlı 
+Termometre
+Kızılötesi 
+Termometre
+Dijital 
+Termometre
+Her termometre türünün diğerlerine göre avantaj ve dezavantajları bulu -
+nur. Doğru sıcaklık ölçümü yapabilmek için ortama en uygun termometre 
+seçilmelidir. 
+Sıvılı, metal ve gazlı termometreler maddenin genleşme özelliğinden yarar -
+lanarak sıcaklık ölçümü yapar. Sıvılı termometreler (Görsel 4.4), yapımında 
+kullanılan sıvının donma ve kaynama sıcaklıkları arasında ölçüm yapabilir. 
+Yaygın olarak vücut sıcaklığını ve ortam sıcaklıklarını ölçmek için kullanılır. 
+Görsel 4.4: Sıvılı termometre
+Metal termometreler (Görsel 4.5), erime sıcaklığı yüksek olan metallerden 
+yapılır. Metal termometrelerin çalışma ilkesi, sıcaklığı artan metalin genleş -
+mesi ilkesine dayanır. Bu termometreler, çok düşük sıcaklıklarda hassas 
+ölçüm yapamaz. Yaygın olarak yüksek sıcaklıklarda çalışan termostatlarda, 
+fırınlarda ve yüksek endüstriyel sıcaklık ölçümlerinde kullanılır.
+Görsel 4.5: Metal termometre
+Gazlı termometreler (Görsel 4.6), sabit hacimdeki gaz basıncının sıcaklıkla 
+değişimi prensibine göre çalışan ve hassas ölçüm yapabilen termometrelerdir. 
+Bu termometreler, içinde kullanılan gazın cinsine bağlı olarak 1 K gibi çok 

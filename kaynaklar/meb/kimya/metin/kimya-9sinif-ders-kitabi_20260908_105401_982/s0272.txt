@@ -1,0 +1,187 @@
+272
+5. FORM
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+Önerme 
+oluşturabilme
+ (25 puan)
+Atomlar birbirine 
+yaklaştığında 
+atomların ara-
+sında elektro- 
+statik etkileşim-
+lerin oluştuğunu 
+belirlemiştir.
+(1-6 puan)
+Bağ yapacak 
+atomlardaki
++ ve - yüklü ta-
+necikler arasında 
+itme ve çekme 
+kuvvetlerinin oluşa-
+cağını belirlemiştir.
+(7-12 puan)
+Bağ yapan atomla-
+rın çekirdekleri ve 
+elektronları arasında 
+itme kuvvetleri oluşa-
+cağını, ayrıca her bir 
+atomun + yükü ile di-
+ğer atomun - yükünün 
+birbirini çekeceğini 
+belirlemiştir.
+(13-18 puan)
+Bağ yapan atomlar 
+belli bir uzaklıkta bir 
+arada durduklarında 
+her bir atoma etki 
+eden itme ve çekme 
+kuvvetlerinin den-
+gelendiğini ve net kuv-
+vetin sıfır olduğunu 
+belirlemiştir.
+(19-25 puan)
+Gözleme 
+dayalı olan 
+ve olmayan 
+önermeleri 
+belirleyebilme
+(25 puan)
+Oluşturulan 
+önermeleri 
+gözleme dayalı 
+olan ve olma-
+yan şeklinde 
+sınıflandırama-
+mıştır.
+(1-6 puan)
+Gözleme dayalı 
+önermeleri kısmen 
+belirleyebilmiş an-
+cak gözleme dayalı 
+olmayan önermele-
+ri belirleyememiştir.
+(7-12 puan)
+Gözleme dayalı öner-
+meleri belirleyebilmiş 
+ancak gözleme dayalı 
+olmayan önermeleri 
+kısmen belirleyeme-
+miştir.
+(13-18 puan)
+Gözleme dayalı olan 
+ve olmayan önermele-
+ri belirleyebilmiştir.
+(19-25 puan)
+Açıklama 
+yapabilme
+(25 puan)
+Gözlemlerinden 
+elde ettiği kanıt-
+lara dayanarak 
+kovalent bağ 
+oluşumunu 
+tanecik seviye-
+sinde açıklaya-
+mamıştır.
+(1-6 puan)
+Gözlemlerinden 
+elde ettiği kanıt-
+lara dayanarak 
+kovalent bağ 
+oluşumunu tanecik 
+seviyesinde kıs-
+men açıklayabilmiş 
+ancak gözlemle-
+yemediği (farklı 
+ametal atomlarının 
+birbirine yaklaş-
+ması) durumları 
+açıklayamamıştır.
+(7-12 puan)
+Gözlemlerinden elde 
+ettiği kanıtlara daya-
+narak kovalent bağ 
+oluşumunu tanecik 
+seviyesinde açıklaya-
+bilmiş fakat gözlem-
+leyemediği (farklı 
+ametal atomlarının 
+birbirine yaklaşması) 
+durumları açıklaya-
+mamıştır.
+(13-18 puan)
+Gözlemlerinden elde 
+ettiği kanıtlara daya-
+narak kovalent bağ 
+oluşumunu tanecik 
+seviyesinde açıklaya-
+bilmiş ve gözlemleye-
+mediği (farklı ametal 
+atomlarının birbirine 
+yaklaşması) durum-
+lara ait kovalent bağ 
+oluşumunu açıklaya-
+bilmiştir.
+(19-25 puan)
+Gözlemleme-
+diği duru-
+ma ilişkin 
+tahminde 
+bulunabilme 
+(25 puan)
+Aynı iki ametal 
+atomunun bir-
+birine yaklaş-
+ması sırasında 
+gerçekleşen 
+olayları içe-
+ren modelde 
+elektrostatik 
+etkileşimlerin 
+gösteriminde 
+hatalar yap-
+mıştır.
+(1-6 puan)
+Aynı iki ametal 
+atomunun birbirine 
+yaklaşması sıra-
+sında gerçekleşen 
+olayları içeren mo-
+delde elektrostatik 
+etkileşimleri doğru 
+gösterebilmiş 
+ancak farklı ametal 
+atomlarını modelle-
+yememiştir.
+(7-12 puan)
+Aynı iki ametal 
+atomunun birbirine 
+yaklaşması sırasında 
+gerçekleşen olay-
+ları ve farklı ametal 
+atomlarının birbirine 
+yaklaşması sırasında 
+gerçekleşen olayları 
+doğru bir şekilde mo-
+dellemiş fakat estetik 
+bir çizim yapama-
+mıştır.
+(13-18 puan)
+Aynı iki ametal atomu-
+nun ve farklı ametal 
+atomlarının birbirine 
+yaklaşması sırasında 
+gerçekleşen olayları 
+doğru bir şekilde mo-
+dellemiş ve bilimsel 
+olarak kabul edilebilir 
+estetik bir çizim yapa-
+bilmiştir.
+(19-25 puan)
+Tablo Puanı
+Öğretmen Geri Bildirimi:
+Bu form, öğrencilere “Kovalent Bağın Oluşum Sürecini Gözleme Dayalı Tahmin Edebilme” konusuyla ilgili 
+verilen etkinlik kâğıdını değerlendirmeniz amacıyla hazırlanmıştır. Öğrencinin belirtilen ölçütlere ilişkin 
+öğrenme düzeyini tablodaki açıklamalardan hareketle puanlayınız.
+ETKİNLİK KÂĞIDI ÇALIŞMASI ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Öğrencinin Adı Soyadı:       Numarası:   Sınıfı:

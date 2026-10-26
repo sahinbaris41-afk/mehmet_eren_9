@@ -1,0 +1,8 @@
+Grafik 1: Tundra iklimi sıcaklık ve yağış grafiği
+Grafik 3: Ekvatoral iklim sıcaklık ve yağış grafiği
+Grafik 5: Step iklimi sıcaklık ve yağış grafiği
+Grafik 2: Savan iklimi sıcaklık ve yağış grafiği
+Grafik 4: Okyanusal iklim sıcaklık ve yağış 
+grafiği
+36 37
+COĞRAFYA 9  

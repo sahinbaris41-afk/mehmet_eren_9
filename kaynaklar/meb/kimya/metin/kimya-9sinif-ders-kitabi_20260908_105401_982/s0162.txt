@@ -1,0 +1,33 @@
+162
+2. Tema/Çeşitlilik
+İyonik katılar örgü noktalarında iyonların bulunduğu katılardır. Sofra tuzu (NaCl) ve kalsiyum oksit (CaO) iyonik 
+katılara örnek gösterilebilir. İyonik katılar pozitif ve negatif yüklü iyonlar arasındaki elektrostatik kuvvetlerle bir arada 
+tutulur. 
+Moleküler katılar örgü noktalarında moleküllerin bulunduğu katılardır. Buz (katı H 2O) ve kuru buz (katı CO 2) mole-
+küler katılara örnek verilebilir. Kristal örgüsünde molekülleri bir arada tutan kuvvetler; hidrojen bağı, dipol-dipol ve 
+London kuvvetleridir. 
+Kovalent katılar örgü noktalarında kovalent bağlı atomların bulunduğu katılardır. Elmas ve grafit kovalent katılara 
+örnek verilebilir. Bu katılar kovalent bağlar tarafından bir arada tutulur.
+Metalik katılar örgü noktalarında elektron denizi ve metal katyonlarının bulunduğu katılardır. Sodyum (Na) ve magnez-
+yum (Mg) metalik katılara örnek gösterilebilir. Bu katılar metalik bağlarla bir arada tutulur.
+2. Yönerge: Aşağıdaki tabloda bazı kristal katıların özellikleri bulunmaktadır. Tablodan yararlanarak soru-
+ları cevaplayınız.  
+Kristal Katı Erime Noktası (°C) Isı İletkenliği (W/m.K) Elektrik İletkenliği (S/m) 20 °C Sertlik (Mohs Skalası)* Elastikiyet Young Katsa-yısı (E)** (GPa) Parlaklık
+Elmas 3550 1000,00 İletmez 10,00 1220 Parlak
+Potasyum 
+iyodür 681 2,10 İletmez 2,00 32 Parlak değil
+Grafit 3927 104,00 3.5×105 1,50 12 Parlak değil
+Buz 0 1,60 İletmez 1,50 9 Parlak değil
+Sodyum 98 72,10 2,1×107 0,50 10 Parlak
+Kuvars 1785 8,79 İletmez 7,00 90 Parlak değil
+Alüminyum 660 237,00 3,8×107 2,75 69 Parlak
+Sodyum 
+klorür 801 3,13 İletmez 2,50 40 Parlak değil
+Kalsiyum 
+oksit 2572 19,50 İletmez 3,50 − Parlak değil
+Magnezyum 650 156,00 2,3×107 2,50 45 Parlak
+Kuru buz −79 0,28 İletmez 2,00 5 Parlak değil
+1. Kristal katılardaki etkileşim türü ile erime noktaları arasında nasıl bir ilişki vardır? Bu ilişkiyi verilen 
+örnekleri kullanarak açıklayınız. 
+* Mohs sertlik skalasında 1’den 10’a kadar değerler yer alır ve en sert mineralin değeri 10 olarak belirlenmiştir. 
+** Young katsayısı (E) elastik şekil değiştirme için maddeye uygulanması gereken kuvveti belirtir.

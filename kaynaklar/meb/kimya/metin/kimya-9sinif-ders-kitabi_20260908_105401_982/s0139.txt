@@ -1,0 +1,40 @@
+139
+2. Tema/Çeşitlilik
+2.1.6.	Bileşiklerin	Adlandırılması
+Bileşikler, kendilerini oluşturan elementlerin sembollerini içeren kimyasal for-
+müllerle gösterilir. Formül, bileşiği oluşturan elementlerle bu elementlerin sa-
+yıca birleşme oranı hakkında bilgi verir.
+Organik bileşikler için adlandırma kuralları farklıdır fakat organik bileşikler dı-
+şında bilinen binlerce anorganik bileşik vardır. Bu bileşiklerin sistematik ad -
+landırılması IUPAC tarafından belirlenen sistematik adlandırma kuralları ile 
+yapılır. 
+İyonlar arasında oluşan iyonik yapılı bileşikler ve kovalent bağ ile oluşan mo-
+leküler yapılı bileşikler için farklı adlandırma sistematiği vardır.
+1. Aşağıdaki tabloda bazı iyonik bileşiklerin formülü ve bu bileşiklerin sistematik adları verilmiştir. Tabloda-
+ki bilgileri kullanarak soruları cevaplayınız.
+İyonik Bileşik Formülü Bileşiğin Sistematik Adı
+NaCl Sodyum klorür
+Na2S Sodyum sülfür
+Al2S3 Alüminyum sülfür
+MgBr2 Magnezyum bromür
+MgCl2 Magnezyum klorür
+İyonik Bileşik Formülü Bileşiği Oluşturan Katyon Bileşiği Oluşturan Anyon
+NaCl
+Na2S 
+Al2S3
+MgBr2
+MgCl2
+a) İyonik bileşikleri oluşturan anyon ve katyonları belirleyip tablodaki ilgili alanlara yazınız.
+b) Bileşikleri oluştu ran iyonların adlarını aşağıda verilen örnek iyonlar ve bu iyonların adlandırılmasın-
+daki ilişkiyi kullanarak yazınız.
+K
++
+ potasyum iyonu, Li
++
+ lityum iyonu, Ba
+2+
+ baryum iyonu, Ca
+2+
+ kalsiyum iyonu
+Tablodaki bileşikleri oluşturan katyonlar ve adları
+Kuralları Keşfetme Yolculuğu IEtkinlik-2.11

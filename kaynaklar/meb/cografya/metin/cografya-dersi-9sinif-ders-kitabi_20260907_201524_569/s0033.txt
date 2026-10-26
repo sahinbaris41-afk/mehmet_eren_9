@@ -1,0 +1,11 @@
+ANAHTAR KAVRAMLAR
+coğrafi bilgi sistemleri (CBS), göreceli konum, harita, izohips, jeopolitik, koordinat sistemi, 
+mekân, mekânsal bilgi teknolojileri, mekânsal veri, mutlak konum, ölçek, projeksiyon,  
+saat dilimleri, ulusal saat, uzaktan algılama, yerel saat
+33
+Ünite
+Karekodu
+Ünite sunusuna 
+ulaşmak için 
+karekodu 
+okutunuz.

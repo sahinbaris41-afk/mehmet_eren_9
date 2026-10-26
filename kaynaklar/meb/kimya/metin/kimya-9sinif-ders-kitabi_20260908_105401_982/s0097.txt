@@ -1,0 +1,42 @@
+97
+1. Tema Ölçme ve Değerlendirme Soruları
+Sodyumun valans elektronunu üst enerji seviyesine taşımak için gereken ışınların 22.
+Buna göre ekran görüntüsündeki orbitallerin enerjilerini sıralayınız ve sıramalarınızın sebe-
+bini ikinci ekran görüntüsündeki verileri kullanarak açıklayınız.
+Aşağıdaki ekran görüntüsünde seçilmiş atom orbitalleri görülmektedir.25.
+Ekran görüntülerindeki verilerden ulaşabileceğiniz ifadeleri işaretleyiniz.24.
+a) Şekilleri arasında nasıl bir fark vardır? Bu farkın ışınların enerjileri ile nasıl bir ilişkisi 
+bulunmaktadır?
+b) Enerjileri arasındaki farkın sebebini açıklayan bir önerme yazınız.
+Sodyum atomunda aynı enerji seviyesindeki orbitallerde elektron geçişini sağlayan ışınların 
+enerjileri arasında nasıl bir fark vardır? Bu farkın sebebini açıklayan bir önerme yazınız.
+23.
+Üçüncü ekran görüntüsü
+n orbital
+sn= 1
+sn= 2
+sn= 3
+n orbital
+sn= 3
+pn= 3
+dn= 3
+n orbital
+sn= 1
+sn= 2
+sn= 3
+n orbital
+sn= 3
+pn= 3
+dn= 3
+5s orbitalinin enerjisi 4s orbitalinin enerjisinden fazladır.
+3s orbitalinden 4d orbitaline uyarılan elektron 4p orbitaline geçiş yaptığında yayınlanan ışın gözle 
+görülmez.
+Sodyumun valans elektronunu 6s orbitaline geçirmek için gereken enerji 5s orbitaline geçirmek için 
+gereken enerjiden fazladır.
+3s orbitalinden 7s orbitaline uyarılan elektron 4p orbitaline geçiş yaptığında yayınlanan ışının rengi 
+kırmızı olur.
+3s orbitalinden 5p orbitaline uyarılan elektron 5s orbitaline geçiş yaptığında yayınlanan ışının rengi 
+sarı olur.
+3d orbitallerinin enerjisi 4s orbitalinden fazladır.
+3d orbitaline uyarılmış olan valans elektronu 3s orbitaline geçiş yaptığında yayınlanan ışının rengi 
+sarı ile mor arasındaki renklerden biri olur.

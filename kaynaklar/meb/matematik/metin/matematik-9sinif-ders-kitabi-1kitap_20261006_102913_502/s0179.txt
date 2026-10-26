@@ -1,0 +1,128 @@
+179
+3. Tema /  Geometrik Şekiller
+3. ÖRNEK
+21 Mart Down Sendromu Farkındalık Günü’nde gerçekleştirilecek uçurtma 
+şenliği için görseldeki uçurtmayı tasarlayan Mahmut, uçurtmanın köşelerin -
+deki açı ölçülerini aşağıdaki gibi belirliyor.
+m BAC x
+m ABD x
+mB DC x
+mD CA x
+10
+32 0
+51 0
+80 2
+o
+o
+o
+o
+=+
+=-
+=+
+=-
+`
+`
+`
+`
+j
+j
+j
+j
+%
+%
+%
+%
+Buna göre BDC açısının ölçüsünün kaç derece olacağını bulunuz.
+Çözüm
+Şekildeki  BD7 A, D noktasından AC7 A na kadar uzatılsın. Uzatılan doğru parçası 
+AC7 A ile E noktası üzerinde kesişsin. 
+.
+mm m
+mD EC
+mD EC x
+DECB AC ABD
+xx
+elde edilir0
+10 32 0
+41
+oo
+o
+=+
+=+ +-
+=-
+`
+`
+`
+``j
+j
+j
+jj%% %
+%
+%
+   
+.
+.
+mB DC mD EC m DCA
+xx x
+xx
+x
+xe ldee dilir Burada n
+mB DC x
+bulunur
+51 04 10 80 2
+51 02 70
+36 0
+20
+51 0
+11052 01 0
+oo o
+oo
+o
+o
+o
+oo o$
+=+
++= -+-
++= +
+=
+=
+=+
++=
+`
+`
+``j
+j
+jj%% %
+%
+   
+                                         
+2.	Sıra	Sizde      
+Yandaki şekilde kenarları birbirine paralel olan doğrusal yollar 
+ve bu yolların kesişmesiyle oluşan açı ölçüleri x, y, z, t, w olarak 
+verilmiştir.
+Buna	g öre 	tab loda 	veri len	i fadelerden	d oğru	o lanın	k arşısına	
+“D”,	yanlış	olanın	karşısına	“Y”	yazınız.
+x z
+t
+yw
+A
+D
+B C
+x+10o
+3x-20
+o 80o
+-2x
+5x+10o
+E
+A
+D
+B C
+x+10o
+3x-20
+o 80o
+-2x
+5x+10o
+İfadeler D/Y
+yw z+=
+xy wt++ =
+xz wy+= +

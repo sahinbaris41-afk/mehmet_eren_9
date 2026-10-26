@@ -1,0 +1,36 @@
+94
+2. Tema /  Nicelikler ve Değişimler
+d)  T ablo 3’te elde ettiğiniz bilgilerden yararlanarak uygun gerçek sayı aralıklarını aşağıdaki cümlede boş bı -
+rakılan alanlara yazınız.
+ İşaret tablosuna göre x6  ………… için fonksiyonun işaretinin negatif olduğu, x6  ………… için fonksiyonun 
+işaretinin pozitif olduğu görülür.
+e)  f fonksiyonunda bağımsız değişkenin aldığı değerler artarken bağımlı değişkenin aldığı değerlerin nasıl 
+değiştiğini bulunuz.
+f)  Grafik 2’yi inceleyerek f fonksiyonunda bağımlı değişkenin mini mum ve maksimum değerlerini bulunuz.
+g)  f doğrusal referans fonksiyonu 1, 57A nda tanımlanarak h fonksiyonu elde edilmiştir. Grafik 3’te h fonksiyo-
+nunun grafik temsili verilmiştir.
+Grafik 3
+y
+1
+3
+2
+4
+5
+h
+x
+O 31 4 52
+ Grafikten yararlanarak bağımlı değişkenin minimum ve maksimum de ğerlerini bulunuz.
+ğ)  f doğrusal referans fonksiyonu 1, 5_i nda tanımlanarak m fonksiyonu elde edilmiştir. Grafik4’te m fonksiyo-
+nunun grafik temsili verilmiştir.
+Grafik 4
+y
+1
+3
+2
+4
+5
+m
+x
+O 31 4 52
+ Grafik 4’ü inceleyerek m fonksiyonunun maksimum veya minimum değerinin olup olamayacağını sınıf 
+arkadaşlarınızla tartışınız.

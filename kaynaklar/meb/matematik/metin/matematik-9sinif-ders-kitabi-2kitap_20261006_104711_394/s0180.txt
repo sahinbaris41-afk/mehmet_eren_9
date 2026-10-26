@@ -1,0 +1,33 @@
+180
+6. Tema / İstatistiksel Araştırma Süreci
+b) 2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	koşu	derecelerini	
+yaklaşık	olarak	belirleyebilmek	için	merkezî	eğilim	ölçülerinden	aritmet ik	ortalama	ve	ortanca	değerine	
+bakılmalıdır.	Atletlerin	aritmetik	ortalama	ve	ortanca	değerleri	Grafik	2’de	yer	almaktadır .
+Derece (sn.)
+Ortalama: 10,299 sn.Ortanca: 10,2 sn.
+9,8 10,210 10,610,4 10,8 11 11,2 11,4 11,6
+Grafik 2
+Değerler	incelendiğinde	aritmetik	ortalama	değerinin	10,299	saniye	ve	ortanca	değerinin	10,2	saniye	 	
+olduğu	görülmektedir.	Her	ne	kadar	değerler	birbirine	yakın	görünüyor	olsa	da	100	metre	koşula-
+rında	santisaniyelik 	farkların	oldukça	önemli	ve	belirleyici 	olduğu	bilinmektedir.	Bunun	için	dağılım-
+daki	aykırı	de ğerlerin	bel irlenmesi, 	ari tmetik	orta lama	ve	orta nca	de ğerlerinin 	bun a	göre	yoru m-
+lanması	gerek mektedir.	Çünkü	arit metik	ort alama	değeri,	ayk ırı	değerler den	etk ilenmektedir.	Bir	
+dağılımda	ay kırı	de ğerlerin	görüldüğü	veri	görselleştirme	araçlarından	biri	kutu	grafiğidir.	Grafik	3’te	
+dağılıma	ait	kutu	grafiği	yer	almaktadır.
+Grafik 3
+Derece (sn.)
+9,8 10,2
+9,86 11,5810,11 10,2 10,31
+10 10,610,4 10,8 11 11,2 11,4 11,6
+Nicel	veri	dağılımı,	kutu	grafiği	ile	incelendiğinde	verilerin	yoğunlaştığı	bölgenin	sağında	ve	görece	
+uzağında	kalan	verilerin	aykırı	veriler	olduğu	söylenebilir	ancak	teknoloji	desteğiyle	kutu	grafiği	üze-
+rinden	aykırı	değerleri	görmek	mümkündür.	Grafik	4’te	kutu	grafiğinin	aykırı	değerlerinin	görüldüğü	
+hâli	yer	almaktadır.
+Derece (sn.)
+9,8 10,210
+9,86 10,11 10,31 10,48 10,7 11,31 11,58
+10,83
+10,9110,9510,99
+11,0910,2
+10,610,4 10,8 11 11,2 11,4 11,6
+Grafik 4

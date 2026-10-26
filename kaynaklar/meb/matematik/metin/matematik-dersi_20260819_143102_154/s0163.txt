@@ -1,0 +1,47 @@
+163
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin önceden edindikleri bilgilerden sayı örüntüleri hakkında çıkarım yapabildik -
+leri ve doğrusal değişim içeren bir durumu doğrusal fonksiyonun cebirsel ifadesi olarak 
+genelleyebildikleri kabul edilmektedir. Ayrıca cebirsel temsilleri verilen üstel fonksiyon -
+ların istenen değerlerini bulabildikleri ve üstel değişimi yorumlayabildikleri kabul edil -
+mektedir.
+Ön Değerlendirme Süreci Öğrencilere farklı sayı örüntüleri içeren çalışma kâğıtları verilerek örüntülerin farklı ele -
+manlarını veya kuralını bulma çalışmaları yaptırılabilir. Öğrencilere cebirsel temsilleri veri -
+len üstel fonksiyonların istenilen değerlerini bulmalarına ve üstel değişimi yorumlamalarına 
+yönelik hazır bulunuşluk testi yaptırılabilir. Tespit edilen hataları veya öğrenme eksikliklerini 
+gidermek için gerekli açıklama, hatırlatma ve kavramlar arası ilişkilendirmeler yapılabilir.
+Köprü Kurma Öğrencilerin örüntü bilgilerinden yararlanarak örüntünün terimlerinin bir dizi oluşturduğu 
+fikri üzerine tartışmaları sağlanabilir. Doğrusal ilişki içeren bir gerçek yaşam durumundan 
+elde edilen örüntünün tablo ve cebirsel temsilinin bulunması çalışmalarına yer verilerek  bu 
+ilişkiyi temsil eden fonksiyonun cebirsel ifadesi ile artış miktarı ve ilk terim ilişkilendirilebilir. 
+Doğrusal değişim ile üstel değişimin karşılaştırılması amacıyla uygun gerçek yaşam durum-
+ları (her gün belirli bir sayfa sayısı kadar kitap okuma, bir pastayı dilimlere ayırma, kâğıt kat -
+lama gibi) incelenebilir.
+Öğrenme-Öğretme 
+Uygulamaları MAT.12.1.1
+Öğrenciler gruplara ayrılarak her gruba farklı sayı örüntüleri içeren çalışma kâğıdı verilebi -
+lir. Böylelikle öğrencilerin iletişim ve iş birliği becerilerinin geliştirilmesine olanak sağlanır 
+(SDB2.2). Öğrencilerin sayı örüntülerindeki ardışık terimleri inceleyerek bu terimler arasın -
+daki fark ya da orana odaklanmaları istenir. Her grubun kendi sayı örüntülerindeki ardışık te-
+rimler arasındaki aritmetik ilişkileri ortaya çıkarmaları istenir. Öğrencilerden ardışık terimleri 
+arasındaki farkı ya da oranı sabit olan örüntüleri ve terimleri arasında bu tür bir ilişki olmayan 
+örüntülerden ayırt edebilmeleri beklenir. Bu örüntülerin terimlerini ifade etmek için adım sa-
+yısı n sıfır hariç bir doğal sayı olmak üzere örüntünün n. teriminin an şeklinde temsil edildiği 
+ifade edilerek farklı örnekler üzerinden örüntünün genel terimini bulmaya yönelik çalışma -
+lar yapılır (MAB3). Bu dizilerin genel terimlerinin elde edilen ortak fark/ortak oran ile ifade 
+edileceği üzerinde durulur. Bu çalışma sürecinde öğrencilerin kendi düşüncelerini etkin bir 
+şekilde ifade edebilmeleri, arkadaşlarıyla düşüncelerini paylaşabilmeleri ve diğerlerinin dü -
+şüncelerini saygı çerçevesinde dinleyerek sözlü/sözsüz iletişimde bulunabilmeleri destekle-
+nir (SDB2.1, SDB2.2, D14.1) . Aritmetik ve geometrik dizi tanımları birlikte verilir. Öğrenciler -
+den verilen farklı aritmetik ya da geometrik dizilerin ilk n teriminin toplamının ne olabileceği 
+hakkında varsayımlarda bulunmaları istenir. Bu toplamların dizinin genel terimi ile ifade edil-
+mesine dair genellemeler elde edilir. Öğrencilerin farklı örnekler üzerinden ulaştıkları genel-
+lemeleri varsayımları ile karşılaştırmaları  beklenir. Buradan yola çıkarak öğrencilerin “Arit-
+metik dizilerde ilk n terimin toplamı ilk terim ile son terim toplamının terim sayısının yarısı ile 
+çarpımına eşittir.”, “Ardışık terimleri arasındaki ortak oranı r olan bir (an) geometrik dizisinin  
+ilk n teriminin toplamı Sn = a1. 1 - r n1 - r  ye eşittir.” gibi önermeleri elde edebilecekleri çalışmalar yapılır (D17.2). Elde edilen önermeler gerçek yaşam durumlarında ve farklı problem durum -
+larında (birikim yapma, bir sonraki doğum gününün hangi güne geleceğini belirleme, belli bir 
+yükseklikten serbest bırakılan topun her defasında belirli bir oranda sıçradığı durumlar gibi) 
+kullanılarak değerlendirilir.

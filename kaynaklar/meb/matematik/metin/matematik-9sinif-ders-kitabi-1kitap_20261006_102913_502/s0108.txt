@@ -1,0 +1,44 @@
+108
+2. Tema /  Nicelikler ve Değişimler
+b) B aracına ait g fonksiyonunu temsil eden grafiğin eğimi 130, A aracına ait f fonksiyonunu temsil eden 
+grafiğin eğimi 70’tir. B aracına ait doğrunun eğimi daha büyüktür. Buradan B aracının A aracından 
+daha hızlı olduğu söylenebilir.
+c) Görsel 1 incelendiğinde f ve g fonksiyonlarının temsil ettiği doğruların kesişim noktasının apsis değe-
+rinin 4 ile 5 arasında bir değer aldığı görülür. Buradan A ve B araçları,  4 ile 5. saatler arasındaki bir 
+zamanda yan yana gelir.
+ç)  f ve g fonksiyonlarının grafikleri matematik yazılımı ile çizildikten sonra Kesiştir aracı seçilip sırasıyla 
+f doğrusu ve x ekseni işaretlenir. f fonksiyonunu temsil eden doğrunun x eksenini A(0, 0) noktasında 
+kestiği görülür. Benzer şekilde Kesiştir aracı seçilip sırasıyla g doğrusu ve x ekseni işaretlenir. 
+g fonksiyonunu temsil eden doğrunun x eksenini B(2, 0) noktasında kestiği görülür (Görsel 2).
+ Bu durum, B aracının A aracından 2 saat sonra yola çıktığı anlamına gelmektedir. 
+Görsel 2
+A a = 2α
+Giriş...
+g(x) = 130x - 260
+A = Kesiştir(f, xEkseni)
+= (0, 0)
+B = Kesiştir(g, xEkseni)
+= (2, 0)
+f(x) = 70x
+10 2 3 4 5 6
+200
+100
+300
+500
+400
+600
+f
+g
+A B
+d) f ve g fonksiyonlarında xi in f66 70 6 420ç $== =_i
+                                                           
+g6 130 6 260
+780 260
+$=-
+-=
+. olur 520=
+_i
+ Buradan 6. saatin sonunda A aracının 420 km, B aracının 520 km yol aldığı görülür. 6. saatin sonunda 
+B aracı, A aracından 100 km daha fazla yol almıştır.
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.

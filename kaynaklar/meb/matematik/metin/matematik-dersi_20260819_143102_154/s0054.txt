@@ -1,0 +1,50 @@
+54
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.9.2.2
+Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri dikkate 
+alınarak gerçek sayılarda n(x) = ± |x| şeklinde tanımlı mutlak değer fonksiyonunun grafik temsili 
+incelenir. İki fonksiyon arasındaki benzerlikler ve farklılıklar tespit edilir. n(x) = ± |x| şeklinde 
+tanımlı fonksiyonun cebirsel temsili olarak fonksiyonun parçalı gösterimine yer verilir. Bu 
+incelemenin ardından bir h doğrusal fonksiyonu ile gerçek sayılarda m(x) = ± |h(x)| ± c (c∈ℝ) 
+şeklinde tanımlı mutlak değer fonksiyonunun cebirsel ve grafiksel ilişkileri incelenir. Burada 
+fonksiyonların nitel özellikleri arasındaki farklılıklara odaklanılır. Özel olarak gerçek sayılarda 
+tanımlı, cebirsel temsili t(x) = ± |ax + b| (a, b ∈ ℝ, a ≠ 0) şeklinde verilen fonksiyonun sıfırı 
+ile grafik temsili arasındaki ilişki gözlemlenir. Yapılan inceleme ve gözlemler sonucu fonksiyona 
+ait nitel özellikler belirlenir. Belirlenen nitel özelliklere ilişkin önermeler, sözel olarak ifade edilir. 
+Ayrıca öğrencilerin bir h doğrusal fonksiyonunun sıfırı ile grafik temsili arasındaki gözlemlerinden 
+gerçek sayılarda       m(x) = ± |h(x)| ± c (c∈ℝ) şeklinde tanımlı mutlak değer fonksiyonunun farklı bir 
+cebirsel temsili olarak parçalı gösterimine dair çıkarımlar (iki farklı doğrusal fonksiyonun cebirsel 
+temsilinin parçalı gösterimle tek bir cebirsel temsille ifade edilebilmesi gibi) yapmaları beklenir 
+(MAB3). Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen 
+örneklerin belirlenmesine yönelik bir araştırma ödevi verilebilir.
+MAT.9.2.3
+Gerçek yaşam bağlamlarında sunulan problemler, cebirsel veya grafik olarak temsil edilir 
+(MAB3) . Problemlerdeki sözel, cebirsel veya grafik temsillerinden hareketle, f ve g doğru -
+sal fonksiyonlar olmak üzere, f(x) = g(x), f(x) ≤ g(x), f(x) ≥ g(x), f(x) = 0, f(x) < 0, f(x) > 0, 
+|f(x)| = g(x), |f(x)| ≥ g(x),|f(x)| ≤ g(x), |f(x)| < 0, |f(x)|  > 0, |f(x)| = 0, |f(x)| < k, |f(x)| > k, 
+|f(x)| = k (k∈ℝ) gibi denklem ve eşitsizlikler; cebirsel temsil veya grafik temsili olarak elde 
+edilir. Bu denklem ve eşitsizliklerin matematiksel bileşenleri ve aralarındaki ilişkiler belirlenir 
+(E3.6, E3.7) . Öğrencilerden bu denklem ve eşitsizliklerin matematiksel temsilleri arasında 
+geçişler yapmaları beklenir. Bu geçişlerde öğrencilerin problemin olası çözümü hakkında 
+grafikten bir yorum elde edebilmeleri ve cebirsel çözümler  için bir strateji belirlemeleri he -
+deflenir. Örneğin gerçek sayılarda f(x) = ax + b (a, b ∈ ℝ, a ≠ 0) şeklinde tanımlı doğrusal 
+fonksiyonun grafiği ile f(x) < 0  eşitsizliğinin çözüm aralığı arasında ilişki kurulabilmesi için                  
+x = - b/a kök değerine göre ayrılmış bir işaret tablosu kullanılır. Bu temsiller arası geçişin 
+gösterilebilmesi için elektronik tablolardan ve matematik yazılımlarından yararlanılır  (OB2, 
+MAB5). Özel olarak f(x) < 0 şeklindeki bir eşitsizliğin f(x) < g(x) şeklindeki eşitsizliklerin özel 
+bir hâli (g(x) = 0) olduğunu ve grafik temsilinde g fonksiyonunun grafiğinin x ekseni ile temsil 
+edildiğini öğrencilerin fark etmeleri sağlanır. Bunun için g fonksiyonunun tanım kümesindeki 
+her a gerçek sayısının görüntüsünün 0 olduğu ve bu durumun dik koordinat sisteminde A (a, 0) 
+şeklinde temsil edildiği  yorumuna ulaşmaları sağlanır. Doğrusal fonksiyonlardan elde edilen 
+denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam durumlarındaki sözel temsille -
+rin matematiksel temsillere dönüştürülebilmesine yönelik açık uçlu sorular sorulur. Doğrusal 
+fonksiyonların grafiklerinin kesişim noktaları ile fonksiyonların birbirine eşitlenmesi sonucu 
+elde edilen denklemlerin çözüm kümesi arasındaki ilişki incelenir. Bunun için cebirsel ve grafik 
+temsiller arası ilişkilere analitik bir bakış açısıyla sistematik bir şekilde yer verilir  (E3.6, E3.7).
+Öğrencilerin incelenen denklem ve eşitsizliklerin çözümlerine ulaşabilmek için grafiksel ve 
+cebirsel yaklaşımlara dayalı çözüm stratejileri geliştirmeleri sağlanır. Problem durumuna uy -
+gun bir strateji seçilerek denklem veya eşitsizliğin çözüm kümesi, fonksiyonun sıfırı ile ilişki -
+lendirilerek elde edilir. Matematiksel araç ve teknolojilerden, denklem ve eşitsizliklerin grafik 
+gösterimlerinden ve yerine koyma yönteminden yararlanılarak elde edilen çözüm kümelerinin 
+doğruluğuna ilişkin değerlendirmeler yapılır. Bu noktada çözümler, farklı bir stratejiyle kontrol 
+edilerek olası hatalar düzeltilir (SDB3.2, MAB5).

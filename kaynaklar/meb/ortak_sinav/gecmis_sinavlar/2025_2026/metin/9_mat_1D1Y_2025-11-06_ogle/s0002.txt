@@ -1,0 +1,52 @@
+2
+MATEMATİK 9
+2. 
+72
+1
+5
+2
++
++  işleminin sonucunu işlemlerinizi göstererek bulunuz. (15 puan)
+72
+72
+1
+5
+2
+72
+17 2
+5
+2·
++
+-
++= -- +
+_
+_
+i
+i
+  
+.bulunur
+5
+72
+5
+2
+5
+722
+5
+7
+= - +
+= -+
+=
+3. Kenar uzunlukları 1283  cm ve 542 3  cm olan bir dikdörtgen aşağıdaki gibi eş dikdörtgensel bölge-
+lere ayrılmıştır.
+128 cm
+Mavi
+3
+cm542 3
+Buna göre, mavi renkli dikdörtgensel bölgenin çevresinin uzunluğunu santimetre cinsinden 
+işlemlerinizi göstererek bulunuz. (15 puan)
+Dikdörtgenin kenar uzunluklarını kök dışına çıkaralım.
+cm128 42 42·3 33 3==  
+·c m25 42 32 23 26 2·3 33 33== =
+Mavi renkli bölgenin kısa kenarının uzunluğu 424 23 3=  cm, 
+uzun kenarının uzunluğu ’.cm dir6 3 2 223 3=
+Mavi renkli bölgenin çevresi cm22 22 23 26 2·· 33 33+= =_i  bulunur.

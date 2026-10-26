@@ -1,0 +1,54 @@
+228
+2. Tema Ölçme ve Değerlendirme Soruları
+Ayrımsal damıtma, iki veya daha fazla sıvı bileşen içeren homojen karışımları kaynama noktaları farkın-
+dan yararlanarak birbirinden ayırma yöntemidir. Bu yöntemdeki amaç, kaynama noktası yüksek bileşeni 
+sıvı fazda tutup kaynama noktası düşük bileşeni gaz faza geçirerek sıvı bileşenleri birbirinden ayırmak-
+tır. Sıvı karışımı ısıtıldığında kaynama noktası düşük olan madde önce kaynar. Isıtma sonucu elde edi-
+len gaz fazı soğutularak yoğunlaştırılır ve ayrı bir kap içerisinde toplanır. Isıtma esnasında karışımdaki 
+tüm maddeler buharlaşır ve gaz fazında karışımdaki diğer maddelerin tanecikleri de bulunduğundan 
+toplama kabındaki sıvı saf değildir. Fraksiyon kolonu yardımıyla kaynama noktası yüksek bileşenin bu-
+harlarının soğutucuya gitmeden ısıtma kabına geri dönmesi sağlanır. İşlemin birkaç kez tekrarlanması 
+ile kaynama noktası düşük olan maddenin saflık yüzdesi artırılır. Aşağıda bazı kimyasalların yapıları ve 
+kaynama noktaları verilmiştir.
+Termometre
+Fraksiyon kolonu
+Buharlar
+Damıtma balonu
+Damıtılmış sıvı
+Toplama kabı
+Su çıkışı
+Su girişi
+Soğutucu
+Isıtıcı
+Çözücü Yapı Formülü Kaynama Noktası (
+o
+C)
+Su  
+(H2O) 100
+Etil Alkol
+(C2H6O) 78
+Aseton
+(C3H6O) 56
+Bütirik Asit 
+(C4H8O2) 164
+Etil Asetat 
+(C4H8O2) 77
+O
+HH
+CH2
+H3C O H
+O
+CH3H3C
+C
+H3C OH
+O
+CH2
+CH2 C
+H3C
+O
+O
+CH2
+CH3
+C
+40-43. soruları aşağıdaki görsel, metin ve tablodan yararlanarak cevaplayınız.
+Aşağıdaki görselde ayrımsal damıtma düzeneği verilmiştir.

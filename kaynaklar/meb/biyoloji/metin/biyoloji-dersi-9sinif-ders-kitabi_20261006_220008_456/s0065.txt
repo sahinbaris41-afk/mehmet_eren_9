@@ -1,0 +1,44 @@
+65
+Yaşam
+Görsel 1.50
+Enzim ve substrat arasında 
+görülen a) İndüklenmiş uyum 
+modeli, b) Anahtar-kilit ilişkisi
+Görsel 1.51
+Enzimlerin kofaktör ve 
+koenzimlerle ilişkisi
+a b
+Substrat
+Enzim Enzim
+Substrat
+Apoenzim 
+(inaktif)
+Holoenzim 
+(aktif)
+Holoenzim 
+(aktif)
+İnorganik 
+madde
+Organik 
+madde
+Organik 
+madde
+Metal 
+element
+Apoenzim 
+(inaktif)
+Çalışması için ilave bileşene ihtiyaç duymayan enzimler basit, metal elemente veya 
+organik moleküller gibi yardımcı bileşenlere ihtiyaç duyanlar ise bileşik enzim ola-
+rak adlandırılır. Enzimlerin yardımcı yapılar içermeyen ve sadece proteinden oluşan 
+kısmı apoenzim, yardımcı bileşenlerle aktif forma dönüşen bileşik yapı ise holoen-
+zimdir (Görsel 1.51). Reaksiyonların gerçekleşmesi için bu yapıların geçici olarak enzi-
+me bağlanması gereklidir. Birçok enzim, aktivite gösterebilmek için protein olmayan 
+yardımcı maddelere ihtiyaç duyar. Bu yardımcı maddelere kofaktör denir. Bazı en-
+zimlerin kofaktörleri iyonik formdaki çinko, demir, bakır gibi inorganik metal atom-
+larıdır. Kofaktör, organik bir molekülse daha ayırt edici bir sözcükle koenzim olarak 
+adlandırılır. Vitaminler enzimlerin koenzimi veya koenzimlerin öncülü olan önemli 
+biyomolekül grubudur. Bazı enzimlerde yardımcı kısım hem organik hem de inorga-
+nik yapılı moleküllerden oluşabilir.
+Bununla birlikte bazı enzimlerin substratlarıyla ilişkisinde enzimlerin yapısında be-
+lirgin bir değişim olmaz ve enzim substrat ilişkisi anahtar-kilit modeli ile açıklanır 
+(Görsel 1.50).

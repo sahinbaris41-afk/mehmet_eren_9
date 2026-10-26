@@ -1,0 +1,45 @@
+5.TEMA - ALGORITMA VE BILIŞIM
+52 53
+1. Adım
+2. Adım
+Tabloyu kullanarak aşağıda şifrelenmiş hâlde verilen metni Polybius Karesi yöntemine göre 
+çözümleyiniz.
+“ 54 55 42 11 42 21 25 51 32 11 34 41 11 41 15 32 63 43 51 ”
+Kripto bilimde bir metindeki harflerin ne sıklıkla tekrarlandığını inceleyerek şifre çözmeye 
+frekans analizi denir. Bu yöntem, şifrelenmiş bir metinde belirli harflerin veya harf gruplarının sıklı -
+ğını inceleyerek şifrenin çözülmesine yardımcı olmaktadır. Şifreli metinde her bir harfin ne sıklıkta 
+kullanıldığı sayılır. Örneğin bir şifreli metinde "E" harfi 15 kez, "K" harfi 10 kez geçebilir. Bu frekanslar, 
+hedef dildeki doğal frekanslarla karşılaştırılır. Şifreli metinde en sık kullanılan harfler, hedef dilde en 
+sık kullanılan harflerle eşleştirilmeye çalışılır.
+Her dilde bazı harfler diğerlerinden daha sık kullanılır. Grup arkadaşlarınızla birlikte Türkçenin 
+doğal frekansını tahmin etmeye çalışınız. Alfabemizde en çok  ve en az  kullanılan harfler  
+hangileridir? Yazınız.
+Polybius (Polibiyus) Karesi: Antik Yunan döne-
+mine dayanan ve ilk olarak MÖ 2. yüzyılda Polybi -
+us tarafından kullanıldığı düşünülen bir şifreleme 
+yöntemi olan Polybius Karesi ile ilgili sayılardan ve 
+harflerden oluşan tablo yanda verilmiştir. Önce -
+likle kullanılacak dilin alfabesindeki harflerin sığa-
+cağı sayıda satır ve sütunlardan oluşan Polybius 
+Karesi hazırlanır. Her harf için satır ve sütunlarda-
+ki değerlerden oluşan sayısal eşleşmeler elde 
+edilir. Örneğin E harfi için 21, T harfi için 54 gibi.
+Bilgi 1 2 3 4 5
+1 A B C Ç D
+2 E F G Ğ H
+3 I İ J K L
+4 M N O Ö P
+5 R S Ş T U
+6 Ü V Y Z
+Çözüm:
+Çözüm:
+Etkinliğin Amacı Şifreleme yöntemlerini kullanarak şifre çözebilme, bu yöntemleri karşılaştı -rabilme ve şifreleme tekniklerinin güvenliğini analiz edebilme.
+Zenginleştirme 
+Uygulaması
+* Şifrelenmiş mesaj metinlerinde şifreleme algoritmasının tespitine ve met-
+nin ortaya çıkarılmasına yönelik çalışmalar yapılır.
+Araç Gereç ve 
+Materyaller Çalışma Kâğıtları
+Yönerge Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz.
+2. ETKINLIK Şifreli Mesajı Bulalım
+Yıldızlı  Etkinlik 

@@ -1,0 +1,49 @@
+71
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+kuvvetten kaynaklandığını vurgular. Öğrencilere iletken bir tel üzerinde manyetik kuvvet 
+oluşmasını sağlayan etmenler hakkında sorular sorulur (E1.1). Öğrenciler, öğretmen reh-
+berliğinde gruplara ayrılabilir. Gruplar manyetik alanda akım geçen tele etki eden manye-
+tik kuvvet ve büyüklüğünü etkileyen faktörler hakkında bir deney tasarlayarak (SDB1.2) 
+veri toplar. Veri analizine dayalı olarak manyetik kuvvet ve büyüklüğünü etkileyen etmen-
+ler arasındaki ilişkiyi keşfeder ve matematiksel modele ulaşır. Öğrenciler manyetik alanda 
+akım geçen tele etki eden manyetik kuvvetin büyüklüğünü etkileyen değişkenlere bağ-
+lı matematiksel modeli oluşturabilir. Öğretmen manyetik kuvvetin vektörel olduğundan 
+bahsederek sağ el kuralını açıklar. Öğrenciler her bir değişkeni ayrı ayrı değiştirerek çöz-
+düğü problemler üzerinden, manyetik kuvvet ile değişkenler arasındaki ilişkiyi geneller. 
+Öğrencilerin grup içindeki performanslarını ölçmek üzere öz veya akran değerlendirme 
+formu verilebilir. 
+FİZ.11.2.9
+Öğretmen öğrencilere fosil yakıtlı araçların yerlerini elektrikli araçların almaya başladığını 
+ve Türkiye’nin de bu alanda girişimleri (D19.4) olduğunu söyler. Bu konuda güncel ve dikkat 
+çekici haber metinleri öğrencilere gösterilebilir. Öğrencilere elektrikli motorların çalışma 
+prensibi hakkında fikirleri olup olmadığı sorulabilir. Manyetik alandaki akım geçen düz tele 
+etki eden kuvvet ile ilgili önceki bilgi ve deneyimleri hatırlatılır (KB2.12).Öğrenciler öğret -
+men rehberliğinde gruplara ayrılır (SDB2.1). Gruplara elektrik motorlarının iç yapıları ile 
+ilgili görseller dağıtılabilir. Öğrenciler inceledikleri görsellere (OB4) ve deneyimine dayalı 
+olarak manyetik alanda akım geçen dikdörtgen şeklindeki telin bir eksen etrafında dön-
+mesi hakkında çıkarım yapar. Öğrenciler çıkarımlara dayanarak basit bir elektrik motoru 
+tasarlayıp çalıştırır. Görsellerden faydalanarak veya yaptıkları tasarımı kullanarak elektrik 
+motorlarını, çalışma prensibi açısından değerlendirir.  
+FİZ.11.2.10
+Öğretmen manyetik akı kavramını kavramsal olarak açıklar. Püskürtme boya ile kâğıt üze-
+rine bir kez boya püskürterek manyetik akı ve püskürtülen boyanın tanecik yoğunluğu 
+arasında analoji kurulabilir. Öğrencilerin analojideki boyanın tanecik yoğunluğunu etkile-
+yebilecek etmenler üzerine düşünmeleri istenebilir. Öğretmen, öğrencilerin manyetik ala-
+nın boya gibi taneciklerden oluşmadığını fark etmelerini sağlar. Öğrenciler analojiden yola 
+çıkarak manyetik akıya etki eden etmenleri belirler. Öğrenciler manyetik akının manyetik 
+alanın büyüklüğü ve yüzey alanının büyüklüğü ile olan ilişkisini belirler (OB4).
+FİZ.11.2.11 
+Öğretmen, öğrencilere Türkiye’de Atatürk Barajı ve Keban Barajı gibi elektrik üreten hid-
+roelektrik santrallerin olduğunu belirterek suyun mekanik enerjisinin elektrik enerjisine 
+dönüştürülmesine yönelik sorular sorar (D19.4). Öğretmen barajlarda olduğu gibi öğren-
+cilerin de mekanik enerjiyle elektrik üretebileceklerini belirtebilir. Öğrenciler, öğretmen 
+rehberliğinde gruplara ayrılabilir. Öğrenciler mekanik enerjiden elektrik üretebilecekleri 
+basit araç gereçle yapılabilen bir düzenek tasarlar (SDB1.2). Tasarladığı düzenek üzerin-
+den indüksiyon akımı oluşturabilir ve indüksiyon akımını etkileyen etmenleri tespit ede-
+bilir. Öğrenciler birim zamandaki manyetik akı değişiminin indüksiyon akımını oluşturdu-
+ğunu fark eder. İndüksiyon akımının indüksiyon gerilimi ile birlikte oluştuğunu keşfederek 
+indüksiyon geriliminin matematiksel modeline ulaşır. Oluşturduğu matematiksel modeli 
+örnekler üzerinden geneller. Öğretmen, manyetik akı ve indüksiyon akımı ile ilgili dijital 
+içerikler kullanarak öğrencilerden yaptıkları genellemeleri dijital içeriklerdeki gözlem-
+leri ile karşılaştırarak değerlendirmelerini isteyebilir. Manyetik akı ve indüksiyon gerili-
+minin matematiksel modeline yönelik açık uçlu maddelerden oluşan bir test verilebilir.

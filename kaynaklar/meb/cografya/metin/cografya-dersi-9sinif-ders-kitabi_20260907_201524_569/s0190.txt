@@ -1,0 +1,124 @@
+190
+6. Ünite: AF et L e R V e  SÜRDÜRÜL e B i L i R Ç e VR e
+6.1.1. Tehlike, Risk ve Afet
+Bir olayın afet kabul edilebilmesi için insanlar, diğer canlılar ve çevre üzerinde 
+etkiler meydana getirmesi gerekmektedir. Bu açıdan Türkiye; söz konusu et-
+kilere neden olan deprem, sel ve taşkın, heyelan, maden kazası gibi afetlerin 
+yaşandığı bir ülkedir. Örneğin Türkiye’de aktif fay hatlarının geçtiği bölgeler 
+deprem tehlikesi olan yerlerdir (Harita 6.1).  Bu bölgelerde depreme dirençli 
+olmayan yerleşim alanlarının kurulması afet riskini artırmaktadır. Söz konusu 
+bölgelerde meydana gelebilecek bir deprem sonucu sağlam olmayan yapıla-
+rın zarar görmesiyle ciddi can ve mal kayıpları yaşanabilmektedir.
+Harita 6.1: Türkiye deprem tehlike haritası (AFAD)
+Türkiye nüfusunun yaklaşık 
+%75’i deprem riskinin 
+yüksek olduğu alanlarda 
+yaşamaktadır.
+Afetler; tehlike, maruziyet ve risk kav-
+ramlarıyla doğrudan ilişkilidir. Afet-
+lerin kaynağını oluşturan tehlikelerin 
+belli bir zaman ve yerde ortaya çıka-
+rak insan hayatını, mal varlıklarını, 
+beşerî faaliyetleri ve doğal çevreyi 
+olumsuz etkileyebilecek potansiyeli 
+vardır. Ancak tehlikeler; büyüklüğü, 
+meydana gelme sıklığı, coğrafi konu-
+mu, oluş şekli ve etki düzeyi bakımın-
+dan birbirinden farklıdır. Deprem, sel, 
+taşkın, volkanik patlama, tsunami, 
+çığ, fırtına, tayfun vb. doğa olayları ile 
+yangın, patlama, kaza, salgın hasta-
+lık, savaş vb. insan kaynaklı olaylar; 
+yeterli önlemler alınmadığı takdirde 
+afete dönüşmektedir (Görsel 6.1).  
+Görsel 6.1: Yıldırım düşmesi veya aşırı sıcaklara bağlı meydana 
+gelen orman yangınları, doğa kaynaklı tehlikeler arasındadır.
+Ardahan
+MardinŞanlıurfa
+Adıyaman
+Gaziantep
+Kilis
+Şirnak
+SiirtBatmanDiyarbakır
+Eskişehir
+Kırşehir
+Sivas
+Niğde
+Nevşehir
+Aksaray
+Karaman
+Konya
+Ankara
+Y ozgat
+Kırıkkale
+Çankırı
+Elazığ
+Malatya
+Erzincan
+Ağrı
+Hakkari
+Muş
+Kars
+Erzurum
+VanBitlis
+Iğdır
+Bingöl
+Tunceli
+Antalya
+Burdur
+Isparta
+Mersin
+Kahramanmaraş
+Hatay
+Osmaniye
+Adana
+Kastamonu
+Samsun
+Tokat
+Ordu Giresun Trabzon Rize
+Artvin
+BayburtGümüşhaneÇorum
+Amasya
+Sinop
+KarabükZonguldak
+Bolu
+Bartın
+Muğla
+İzmir
+Manisa Afyonkarahisar
+Uşak
+Aydın Denizli
+Kütahya
+Çanakkale
+Edirne
+İstanbulTekirdağ
+Kırklareli
+Bursa
+Bilecik
+Y alova
+Balıkesir
+Kocaeli DüzceSakarya
+Kayseri
+Düşük 
+Tehlike
+Yüksek 
+Tehlike
+İl Merkezi Diri Faylar
+Karadeniz
+Akdeniz
+Ege Denizi
+Marmara 
+Denizi
+Gürcistan
+Ermenistan
+İran
+Irak
+Suriye
+KKTC
+GKRY
+NÖC.
+Az.Bulgaristan
+Yunanistan
+0          100         200 km
+K
+AÖC.

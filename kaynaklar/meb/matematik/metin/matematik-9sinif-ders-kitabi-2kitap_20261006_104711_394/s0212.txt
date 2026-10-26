@@ -1,0 +1,33 @@
+212
+7. Tema / Veriden Olasılığa
+Kontrol Noktası
+Bir olayın aynı tekrar sayısına ait sıklık ve göreli sıklık grafiklerinin şekli, eksenlerdeki değerler hariç aynıdır. 
+Deneme sayısı ne kadar çok olursa ortaya çıkan olasılık değeri o kadar kararlı olur (büyük sayılar yasası). Az sayıda 
+denemenin sonuçları, uzun vadede (tekrar sayısının artmasıyla) görülen sonuçlardan oldukça farklı olabilir. 
+b) İki düzgün dört yüzlünün alt yüzeyine gelen sayıların toplamının 4 olma olayının deneysel 
+olasılık değerini 50, 100, 500 ve 1000 tekrardaki sıklıklara göre bulunuz.
+c) Tekrar sayısı arttıkça dağılımda ve ele alınan olayın deneysel olasılık değerinde oluşan deği -
+şimler nelerdir?
+Araştırma Ödevi
+Hilesiz bir madenî para ve hilesiz bir sayı küpünün aynı anda havaya atılması 
+deneyine ait çıktıların 100, 200, 500, 1000 ve 10 000 kez tekrarında oluşan sık-
+lıklarını ve göreli sıklıklarını simülasyon yardımıyla bulunuz. Buna göre
+• Elde ettiğiniz göreli sıklıklara ait sütun grafiklerini istatistik yazılımı yar -
+dımıyla oluşturunuz. 
+• Elde ettiğiniz grafikleri değ işebilirlik bağlamında değerlendiriniz. 
+• 100, 200, 500, 1000 ve 10  000 k ez tekrar sonucunda hilesiz madenî 
+paranın yazı ve hilesiz sayı küpünün üst yüzeyine 4 gelme olayının 
+deneysel olasılık değerini bulunuz. Elde ettiğiniz deneysel olasılık değer-
+lerini tekrar sayılarını göz önünde bulundurarak değerlendiriniz. 
+• Değerlendirme sonuçlarını sizden istenen zamanda raporlaştırınız ve 
+arkadaşlarınızla paylaşınız.
+Araştırma ödeviniz, karekod içinde verilen bütüncül dereceli puanlama 
+anahtarı ile öğretmeniniz tarafından değerlendirilecektir.
+Araştırma ödevi ile 
+ilgili simülasyona 
+ulaşmak için  
+karekodu okutunuz.
+Bütüncül dereceli 
+puanlama anahtarına
+ulaşmak için
+karekodu okutunuz.

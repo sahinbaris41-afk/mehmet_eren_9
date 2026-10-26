@@ -1,0 +1,42 @@
+129
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.11.1.1. İki nicel değişkenli veri ile çalışabilme ve iki nicel değişken arasındaki ilişkililiğe 
+dayalı karar verebilme
+a) İki nicel değişkenli veriye dayalı istatistiksel araştırma gerektiren gerçek yaşam du-
+rumlarını belirler.
+b) Bağlam içerisinde iki nicel değişken arasındaki ilişkililiğe odaklanan araştırma so -
+ruları oluşturur.
+c) İki nicel değişkenli veri toplamak/elde etmek için plan yapar.
+ç) İki nicel değişkenli verileri toplayarak/elde ederek analize hazırlar.
+d) Araştırma sorusu bağlamında toplanan/elde edilen iki nicel değişkenli verileri ana-
+liz etmek için görselleştirme ve/veya özetleme [tablo, serpme diyagramı (saçılım 
+grafiği), bölgelere göre sayım oranı, korelasyon katsayısı] araçlarından uygun olanı 
+seçer.
+e) Araştırma sorusu bağlamında toplanan/elde edilen verileri belirlediği araçlarla ana-
+liz eder.
+f) İki nicel değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan elde edilen 
+bulguları yorumlayarak sonuç çıkarır.
+g) İki nicel değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan elde edilen 
+sonuçları araştırma sorusu bağlamında değerlendirir.
+MAT.11.1.2. Başkaları tarafından oluşturulan iki nicel değişkenli verilerin ilişkililiğine dayalı 
+istatistiksel sonuç veya yorumları tartışabilme  
+a) Başkaları tarafından oluşturulan iki nicel değişkenli verilerin ilişkililiğine dayalı ista-
+tistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.
+b) Başkaları tarafından oluşturulan iki nicel değişkenli verilerin ilişkililiğine dayalı ista-
+tistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.
+c) Başkaları tarafından oluşturulan iki nicel değişkenli verilerin ilişkililiğine dayalı ista-
+tistiksel sonuç veya yorumları çürütür ya da kabul eder.
+İÇERİK ÇERÇEVESİ • İki Nicel Değişkenli Veriler
+• Başkaları Tarafından Oluşturulan İki Nicel Değişkenli Verileri İnceleme
+Genellemeler • Aynı gözlem birimlerinden elde edilen/toplanan verilerden hareketle oluşturulan iki nicel 
+değişkenli dağılımlar, verilerin birlikte değişebilirliğindeki eğilimine ilişkin bilgi verir. 
+• İki nicel değişken arasındaki ilişkililik, bu iki değişken arasındaki ilişkili olma durumunu ifa-
+de eder. 
+•  İki nicel değişken arasındaki doğrusal ilişkinin yönü ve gücü, sayısal bir değer olan korelas-
+yon katsayısı olarak ifade edilir.  
+•  İki nicel değişkenin ilişkili olması, bu iki değişken arasında bir neden -sonuç ilişkisi olduğu 
+anlamına gelmez. 
+Anahtar Kavramlar bölgelere göre sayım oranı, iki nicel değişkenli veri dağılımları, ilişkililik, korelasyon katsayısı, 
+serpme diyagramı (saçılım grafiği), tablo 
+Sembol ve Gösterimler -

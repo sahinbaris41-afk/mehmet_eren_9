@@ -1,0 +1,33 @@
+37
+4. Tema / Eşlik ve Benzerlik
+a) ABC ile DEF üçgenine hangi dönüşümler uygulanarak A'B'C' ve D'E'F' üçgeni oluşturulmuştur? Fikirleri-
+nizi açıklayınız.
+b) ABC üçgeni ile A'B'C' üçgeni ve DEF üçgeni ile D'E'F' üçgeni arasında nasıl bir ilişki vardır? Fikirlerinizi 
+açıklayınız.
+c) Verilen üçgen çiftlerinin eş olduğunu gösterebilmek için karşılıklı tüm açı ve kenarların eş olduğunu gös -
+termenin gerekip gerekmediğine ilişkin fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+ç)  İki üçgenin eş olduğunu söyleyebilmek için bu üçgenlerin asgari hangi elemanlarının eş olması gerektiğine 
+ilişkin varsayımlarınızı açıklayınız. Varsayımlarınızı farklı görüşteki arkadaşlarınızın varsayımları ile kar-
+şılaştırınız.
+d)  İki üçgenin karşılıklı tüm kenar uzunluklarının eşit olması, üçgenlerin eş olduğunu söyleyebilmek için 
+yeterli midir? Düşüncelerinizi farklı görüşteki arkadaşlarınız ile saygı çerçevesinde tartışınız.
+e)  İki üçgenin karşılıklı iki kenar uzunluğunun ve karşılıklı herhangi bir açısının ölçüsünün bilinmesi, üçgen-
+lerin eş olduğunu söyleyebilmek için yeterli midir? Fikirlerinizi açıklayınız.
+f )  İki üçgenin karşılıklı tüm açı ölçülerinin eşit olması, üçgenlerin eş olması için yeterli midir? Fikirlerinizi 
+açıklayınız.
+2. Aşağıdaki tabloda üçgen çiftleri ve bu üçgenlerin bazı kenar uzunlukları ile açı ölçüleri verilmiştir. Varsayım-
+larınızı incelemek için bu üçgen çiftlerini cetvel ve açıölçer kullanarak çiziniz. Çizdiğiniz üçgenleri bir makas 
+yardımıyla kesiniz. Kestiğiniz üçgenleri eşleşip eşleşmediklerini kontrol etmek amacıyla üst üste getiriniz. 
+Üçgenler eşleşiyorsa tabloya örnekteki gibi “+”, eşleşmiyorsa “-” işareti koyunuz. Bu kısmı matematik yazı-
+lım programı kullanarak da yapabilirsiniz.
+Üçgenler Kenar Uzunlukları İç Açı Ölçüleri Eşleşir/Eşleşmez
+ABC& AB 6 cm, BC 8 cm, AC 10 cm== = +
+DEF& DE 6 cm, EF 8 cm, DF 10 cm== =
+DHI& DH 5 cm, DI 7c m== mH 60o=_iX  
+JKL& JK 5 cm, KL 7c m== mJ 60o=_iT
+MNO& MN 5 cm, MO 8c m== mM 60o=_iY
+PRS& PR 5 cm, PS 8c m== mP 60o=_iW
+TUV& mT 80 ,m U7 0, mV 30ooo== =_ __i iiW XX
+YZW& mY 80 ,m Z7 0, mW 30ooo== =_ _ _i i iX W Y
+ADK& AK 6c m = mA 100 ,m D5 0oo==__ iiXX
+NRU& NR 6c m = mN 100 ,m U5 0oo==__ iiX X

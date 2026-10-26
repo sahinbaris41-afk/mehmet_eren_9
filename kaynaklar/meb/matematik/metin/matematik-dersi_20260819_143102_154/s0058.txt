@@ -1,0 +1,50 @@
+58
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Köprü Kurma Öğrencilerden bu sınıf seviyesine kadar geometrik nesnelerin özelliklerine yönelik muha -
+keme becerisi bağlamında kullandıkları çözümleme, yorumlama, çıkarım yapma ve doğ -
+rulama becerilerini bu sınıfta ispat yapabilme becerisine dönüştürmeleri beklenebilir.  
+Genelleme yaparak ortaya koydukları önermelerin tüm durumlarda geçerli olduğunu gös-
+terebilmek için öğrencilerin ispata ihtiyaç duyulduğunun farkında olmaları sağlanır. 
+Önceki bilgilerinden faydalanılarak öğrencilere “Düzlemde üçgenin iç açılarının ölçüleri 
+toplamı 180°dir.” ifadesinin ispatının nasıl yapılabileceği sorulabilir. Bu ispatın hangi bilgile-
+re dayandırılabileceği hakkında öğrencilerin görüşleri alınır, ispat için doğruluğundan emin 
+olunan ön bilgilerin önemine vurgu yapılabilir.  
+Öğrenme-Öğretme 
+Uygulamaları MAT.9.3.1
+Öğrencilerden ortaokulda öğrendikleri düzlemde verilen bir üçgende iç açıların ölçüle -
+ri toplamının 180° olduğuna dair bilgilerinin düzlemde verilen bütün üçgenler için doğru 
+olup olmadığını düşünmeleri beklenir. Düzlemde verilen bir üçgenin iç açılarının ölçüleri 
+toplamının 180° olduğuna dair genellemenin ispata muhtaç olduğunun anlaşılması gerek-
+mektedir. Öğrencilerin bu genellemenin nasıl ispatlanabileceği ile ilgili fikir yürütmesi ve 
+fikirlerini paylaşması sağlanarak gerçeği arama ve bağımsızlık eğilimleri desteklenir (E3.4, 
+E1.2, D11.2). Sonrasında öğrencilerin düzlemde kesişen doğrular ve oluşturdukları açılarla 
+ilgili bilgilerini kullanarak ispat yapmayı denemeleri sağlanır. Öğrencilerden bu ispat için 
+düzlemde bir doğruya dışındaki bir noktadan yalnızca bir paralel doğru çizilebileceğini dü-
+şünmeleri beklenir. Öğrencilerden düzlemde verilen bir üçgenin dış açılarının ölçülerinin 
+toplamının ne olabileceği ile ilgili çıkarımda bulunmaları da istenir. Bu toplamın 360° oldu-
+ğuna dair önermenin ispatına yönelik farklı doğrulama ve ispatlar üzerine sınıf içi tartış -
+ma yapılır. Yapılacak tartışma etkinlikleri; öğrencilerin etkin dinleme, düşüncelerini saygı 
+çerçevesinde ifade etme, farklı yollarla etkileşim sağlama ve grup iletişimine katılma be -
+cerilerinin geliştirilmesine katkı sağlayacaktır (SDB2.1, D14.1). Bu tartışmalar sonrasında 
+öğrencilerin fikirlerine ilişkin değerlendirme yapılarak uygun ispatın kullanılması sağlanır. 
+Öğrencilere önermenin farklı ispatlarının ispat adımları ve gerekçelerinin yer aldığı çalışma 
+kâğıtları verilerek öğrencilerden bırakılan boşlukları doldurmaları istenebilir. Öğrencilerin  
+verilen önermeye ilişkin yaptıkları farklı ispatları karşılaştırmaları sağlanır. Bu ispatlar -
+dan yararlanılarak öğrencilerden düzlemde verilen bir üçgende bir dış açının ölçüsünün 
+kendisine komşu olmayan iki iç açının ölçüleri toplamına eşit olduğuna dair önermeyi de 
+ispatlamaları istenir. Bu çalışmalar sırasında öğrencilerden gruplar hâlinde fikir alışverişi 
+yapmaları ve etkileşim içinde olmaları beklenir  (SDB2.1, SDB2.2).
+Öğrencilerden bu sınıf düzeyinde üçgende açı ve kenar ilişkilerini ifade eden önermeler (“Üç-
+gende en uzun kenarın karşısındaki açının ölçüsü en büyüktür.” gibi) ile üçgenin kenarlarının 
+uzunlukları arasındaki  ilişkiyi  ifade  eden üçgen eşitsizliğini doğrulamaları beklenmektedir.
+Bu genellemelerin doğrulanması hakkında öğrencilerin kendi fikirlerini dile getirmeleri is -
+tenir. Öğrencilere yöneltilecek açık uçlu sorular ve öğrenci cevaplarına verilen dönütlerle 
+öğrencilerin fikirlerini geliştirmeleri sağlanır. Farklı doğrulamalar arasından uygun olanı 
+kullanılır. Öğrenciler, doğrulama yaparken  matematiksel araç gereç ya da teknoloji kul -
+lanmaları hususunda teşvik edilir (MAB5). Bu çalışmalarla öğrencilerin dijital ortamlar için 
+içerik tasarlama, geliştirme, düzenleme ve paylaşma becerilerinin gelişimi de desteklene-
+cektir (OB2). 
+Öğrencilerin önermeleri, kullandıkları ispat veya doğrulamaları değerlendirmeleri sağlanır. 
+Bu değerlendirmede öğrencilerden ulaşılan önermeleri, önermelerin ispat ve doğrulama-
+sını geometrik problemler ile gerçek yaşam problemleri (görsel sanatlarda üçgen kullanı-
+mı, mimari ve mühendislikte yapıların üçgen formları gibi)  bağlamında kullanmaları bek-

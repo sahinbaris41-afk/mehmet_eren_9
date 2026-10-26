@@ -1,0 +1,29 @@
+134
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: GEOMETRİK ŞEKİLLER
+Bu temada öğrencilerin üçgende açı, benzerlik ve alan özelliklerinden yola çıkarak dört -
+genlerin kenar, açı, köşegen, simetri ve alan  özelliklerine ilişkin muhakeme yapabilmele-
+ri; özel dörtgenlerin kenar, açı, köşegen ve simetri özelliklerinden hareketle aralarındaki 
+ilişkileri yapılandırabilmeleri; çokgenleri sınıflandırabilmeleri; dışbükey çokgenlerin kenar, 
+açı, köşegen, simetri ve alan özelliklerine ilişkin çıkarımda bulunabilmeleri; dışbükey çok-
+genlerin ve özelliklerinin kullanıldığı durumlara ilişkin problem çözebilmeleri amaçlan -
+maktadır.
+DERS SAATİ 62
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme, MAB2. Matematiksel Problem Çözme 
+KAVRAMSAL 
+BECERİLER KB2.5. Sınıflandırma, KB2.10. Çıkarım Yapma, KB2.13. Yapılandırma
+EĞİLİMLER E1.1. Merak, E1.5. Kendine Güvenme (Öz Güven), E1.6. Seçicilik, E3.5. Açık Fikirlilik, 
+E3.6. Analitiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.3. Kendine Uyarlama ( Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği,
+SDB3.3. Sorumlu Karar Verme
+Değerler D14. Saygı, D16. Sorumluluk
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, 
+OB5. Kültür Okuryazarlığı, OB9. Sanat Okuryazarlığı 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Görsel Sanatlar, Mimari
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma  

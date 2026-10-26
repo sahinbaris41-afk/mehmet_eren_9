@@ -1,0 +1,31 @@
+69
+4. Tema / Eşlik ve Benzerlik
+Pisagor	Teoremi
+MÖ	6.	yüzyılda	A ntik	Yunan	mat ematikçisi	Pis agor	ve	“P isagor	Ok ulu ”nda	yet işen	öğrenc iler,	Pis agor	
+teoremini	sistematik	olarak	çalışmış	ve	kanıtlamıştır.	Pisagor,	teoremini	yalnızca	geometrik	şekiller	üze-
+rinde	değil	sayıların	arasındaki	ilişkileri	anlamak	için	de	kullanmıştır.	Pisagor	teoreminin	bilinen	300’den	
+fazla	kanıtı	vardır.
+Pisagor	teoremi,	Öklid’in	Elemanlar adlı	eserinde	detaylı	bir	şekilde	ele	alınmış	ve	geometrinin	temel	
+taşlarından	biri	ola rak	kabu l	edi lmiştir.	Ökli d,	teo remin	çeşi tli	kanıtl arını	suna rak	mate matiksel	düşü ncenin	
+gelişimine	büyük	katkıda	bulunmuştur.
+Pisagor Teoremi
+Aşağıda verilen teoremin ispatına yönelik adımları uygulayınız.
+1. Teoremi inceleyiniz. 
+ Teorem: Bir dik üçgenin dik kenarlarının uzunluklarının kareleri toplamı, hipotenüs uzunluğunun karesine 
+eşittir.
+Verilenler: ACB bir dik üçgen, m ACB 90 o=`j% , BC a birim = , AC b birim =  ve  
+ AB c birim =
+İspatlanacak ifade: ab c22 2+=
+2. Teoremin Öklid teoremi kullanılarak nasıl ispatlanabileceğine ilişkin fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+3. Gerekli çizimleri Öklid teoremine uygun olarak yapınız ve elde ettiğiniz dik üçgenler ile ACB dik üçgeni 
+arasında herhangi bir benzerlik kuralının olup olmadığını tespit ediniz. Varsa ulaştığınız benzerlik kuralını 
+yazınız.
+4. Üçüncü adımda yaptığınız çizim sonucunda ACB dik üçgeni içinde elde ettiğiniz iki farklı dik üçgen ile ACB dik 
+üçgeni arasında belirlediğiniz benzerlik kurallarına uygun olarak ayrı ayrı kenarlar arasındaki ilişkiyi yazınız.
+5. Teoremin ispatının tamamlanıp tamamlanmadığına ilişkin fikrinizi ispat sürecinde takip ettiğiniz adımlardan 
+hareketle gerekçelendirerek açıklayınız ve arkadaşlarınızla tartışınız.
+A
+C B
+12. Uygulama
+b c
+a

@@ -1,0 +1,38 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+108
+Türk Dili ve Edebiyatı Dersi Örnek Sorular
+Türk Dili ve Edebiyatı alanı “Anlam Oluşturma” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1. 
+Gazel; bir edebiyat terimi olarak ilk beytinin mısraları birbiriyle, diğer beyitlerinin ikinci mısraları 
+ilk beyitle kafiyeli, aynı vezinle söylenmiş, genellikle beş beyit ile on beş beyit arasında şiirlerin 
+yazıldığı bir nazım biçiminin adıdır. Gazelde kafiye düzeni kasidede olduğu gibidir: aa, xa, xa, 
+xa, xa… Gazelin başlıca konusu aşktır. Ancak farklı konularda yazılmış gazeller de vardır. Aşkın 
+verdiği mutluluk ya da acıyı dile getiren gazellere âşıkane gazel, dünya zevklerinden söz eden 
+gazellere rindâne gazel, doğrudan sevgilinin güzelliğinden ve ona duyulan arzudan bahseden 
+gazellere şûhâne gazel, tasavvufî düşüncenin hâkim olduğu gazellere sûfiyâne ya da ârifâne 
+gazel, felsefî gazellere de hikemî veya hakîmâne gazel adlarının verildiği görülmektedir. Kaside -
+de olduğu gibi gazelin mısraları birbiriyle kafiyeli ilk beytine matla, matladan sonra gelen beytine 
+hüsnimatla, son beytine makta, makta beytinden önceki beyte de hüsnimakta adı verilmiştir. 
+Gazelde şairler mahlaslarını genellikle son beyitte kullanmışlardır. Gazellerde konu bütünlüğü 
+şart değildir. Yani gazelin her beytinde farklı bir konu işlenmiş olabilir. Ancak bütün beyitlerde 
+aynı konunun işlendiği gazeller de vardır. Beyitleri arasında konu bütünlüğü olan bu tür gazellere 
+yek-âhenk gazel adı verilmiştir. 
+Aşağıda XVII. yüzyılda yazılmış gazellerin ilgili ölçütlere göre dağılımını gösteren bir grafik yer 
+almaktadır.
+Gazel Sayısı
+Beyit Sayısı
+2500
+2000
+1500
+1000
+500
+0
+2    3     4    5   6     7   8   9    10   11  12  13  14  15  16  17  18  19  20
+Grafik 1: Beyit Sayılarına Göre Gazellerin Dağılımı
+Bu grafik parçada anlatılanlarla ilişkilendirildiğinde XVII. yüzyılda yazılmış gazellerle ilgili aşağıda 
+verilen çıkarımlardan hangisi yapılabilir?  (TAB2.2.SB3)
+A) Mutluluk ya da acıyı dile getiren gazeller sayıca çoğunluktadır.
+B) Beyitleri arasında konu bütünlüğü olan gazellere ağırlık verilmiştir.
+C) Şairlerin mahlaslarını son beyitte kullanmadıkları da görülmektedir.
+D) Beyit sayısına göre gazelin standart özelliğinin dışına çıkıldığı da olmuştur.
+E) Gazellerin konu seçiminde beyit sayıları belirleyici etken olmuştur.

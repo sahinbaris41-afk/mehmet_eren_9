@@ -1,0 +1,51 @@
+88
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+simülasyondan elde ettiği verileri kullanarak kuvvet-uzanım grafiğini çizer (OB7). Öğrenci-
+ler Hooke Yasası'nı ve kuvvet-uzanım grafiğini kullanarak yayın esneklik potansiyel ener-
+jisinin matematiksel modeline ulaşır (KB2.10). Farklı veri setleri ile hesaplamalar yaparak 
+esneklik potansiyel enerjisi ile ilgili matematiksel modeli geneller. Öğrenciler performans 
+görevi olarak bireysel ya da ikili gruplar hâlinde iş birliği içerisinde (SDB2.2) STEM döngüsü 
+çerçevesinde esneklik potansiyel enerjisini kullanarak hareket eden araba veya gemi gibi 
+bir model tasarlar (D3.3, SDB1.2). Öğrencilerden bu mekanizmayı hazırlama süreci ile ilgili 
+öz değerlendirme formları doldurmaları ve kendi öğrenme durumlarını geliştirmeye yöne-
+lik görüşlerini paylaşmaları istenebilir (SDB1.3). Matematiksel hesaplamalar için açık uçlu 
+maddelerden oluşan test verilebilir.
+FİZ.12.2.4
+Tahmin et-gözle-açıkla yöntemi kullanılarak öğrencilerden aynı yolda giden araçların 
+frene basıldığında durma mesafelerini etkileyen etmenler konusunda tahmin yürütmeleri 
+istenebilir. Öğrenciler mevcut bilgilerinden yola çıkarak düşüncelerini ifade edebilir. Öğ-
+rencilerin, tahta blok gibi bir cismin yatay zeminde farklı ilk hızlarla ilerlerken aldığı yolları 
+gözlemlemesi sağlanabilir. Öğrenciler cismin kinetik enerji değişimi hakkında beyin fırtı-
+nası yapabilir. Cismin durma nedeni ile ilgili benzer örnekler vererek düşüncelerini birbir -
+leriyle paylaşabilir (D15.1, SDB2.1). Simülasyon veya animasyon yardımıyla sürtünme kuv -
+vetinin yaptığı işi gözlemler (KB2.11). Gözlemleri sonucunda cisimlerin kinetik enerjileri ile 
+sürtünme kuvvetinin yaptığı iş arasında ilişki kurar ve bu işi matematiksel olarak modeller. 
+Hazır veri setlerini kullanarak sürtünme kuvvetinin yaptığı işi matematiksel modelden ya-
+rarlanarak geneller (OB7). Sürtünme kuvvetinin yaptığı işin azaltılmasına yönelik araştır -
+ma yaparak bireysel poster sunumu hazırlayabilir. Bu poster sunumunda günlük hayat-
+ta tasarruf (D17.2) sağlanmasının sürdürülebilirlik bilinci kazandırılması (OB8) açısından 
+önemine vurgu yapılması istenir. Matematiksel hesaplamalar için açık uçlu maddelerden 
+oluşan test kullanılabilir.  
+FİZ.12.2.5
+Öğretmen örnek olay, grup çalışması, küçük grupla tartışma gibi yöntem ve tekniklerden 
+birini kullanabilir. Öğrenciler sürtünmenin ihmal edildiği ve edilmediği bir eğik düzlemin 
+tepesinden bırakılan cismin aşağı kayarken enerjisinin dönüşümü ve korunumu hakkında 
+tartışır (SDB2.2). Tartışma sonucunda öğrenciler enerji dönüşümünün özelliklerini tanım-
+lar. Enerji dönüşümleri, güneş enerji sistemleri ve elektrikli arabalar üzerinden örneklen-
+dirilir. Elektrik enerjisinin diğer enerji biçimlerine dönüşümü, elektrik enerjisiyle çalışan 
+ısıtıcılar gibi örnekler üzerinden açıklanabilir. Öğrenciler enerjinin bir türden başka bir türe 
+dönüşümü ile ilgili simülasyondan veya animasyondan faydalanarak enerjinin korunumu-
+na yönelik veri toplar ve kaydeder. Öğrenciler, ön bilgilerinden faydalanıp simülasyona 
+veya animasyona odaklanarak (E3.2) enerjinin dönüşümünü gözlemler ve günlük hayat -
+taki bir problemle ilişkili bir olay üzerinden enerji dönüşümü hakkında gerekçeli yargıda 
+(E1.6, SDB3.3) bulunur. Enerjinin korunumunu matematiksel modeller kullanarak yorum-
+lar ve değerlendirir (OB7). Öğretmen enerji dönüşümleri ile ilgili farklı soru tiplerinden olu-
+şan bir çalışma yaprağı ile öğrencileri değerlendirebilir. 
+FİZ.12.2.6
+Öğretmen 5E öğrenme modeli, örnek olay, problem çözme gibi yöntem veya stratejilerinin 
+birinden yararlanarak Fatih Sultan Mehmet’in İstanbul’u fethi sırasında gemileri Haliç’e indir-
+mek için kullandığı yöntemleri içeren görseller sunar veya bu konuda hazırlanan bilgi kartları 
+verir  (D19.2, OB4). Günlük hayatta çeşitli mekanik sistemlerin verimini artırmak için uygula-
+nan yöntemlerle ilgili fotoğraf veya videolar gibi görseller üzerinden örnekler verebilir. Öğren-
+ciler benzer örnekler vererek mekanik sistemlerin verimini etkileyen değişkenleri sistem-
+den alınan enerji, sisteme verilen enerji olarak belirler. Öğrenciler, öğretmen rehberliğinde

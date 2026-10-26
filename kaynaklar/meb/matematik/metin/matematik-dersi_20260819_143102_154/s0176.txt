@@ -1,0 +1,25 @@
+176
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: GEOMETRİK CİSİMLER
+Bu temada öğrencilerin dik prizma ve dik dairesel silindirin elemanlarına ilişkin çözümleme 
+yapabilmeleri; dik piramit, dik dairesel koni ve kürenin elemanları ile yüzey alanı ve hacim 
+bağıntılarına ilişkin analojik akıl yürütebilmeleri; geometrik cisimlerin elemanları, yüzey 
+alanı ve hacim bağıntılarının kullanıldığı durumlara ilişkin problem çözebilmeleri amaçlan-
+maktadır.
+DERS SAATİ 30
+ALAN 
+BECERİLERİ MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.16.3. Analojik Akıl Yürütme
+EĞİLİMLER E1.1. Merak, E3.3.Yaratıcılık, E3.7. Sistematiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D7. Estetik, D14. Saygı, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB5. Kültür 
+Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Mühendislik, Mimari
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

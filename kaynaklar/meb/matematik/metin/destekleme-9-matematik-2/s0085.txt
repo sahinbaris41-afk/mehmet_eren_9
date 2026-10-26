@@ -1,0 +1,26 @@
+84
+MATEMATİK 9 
+5. TEMA: ALGORİTMA VE BİLİŞİM
+1. ETKINLIK ADI ALGORITMANIN IŞLEYIŞI
+Etkinlik Öncesi
+ ► Etkinlik süresince öğrencilerinizin çalışmalarını yakından takip ediniz. Algoritmaları çözümleyebil-
+meye ve yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler veriniz.
+ ► İşlem adımlarını takip ederek etkinliğin gerçekleştirilmesini isteyiniz. 
+ ► Öğrencilerin etkinlik sonunda değerlendirme sorularını cevaplamalarını sağlayınız.
+ ► Öğrencilerinize aşağıdaki bilgilendirmeyi kullanarak akış şemasında yer alan sembolleri hatırlatınız.
+Bilgi: 
+Akış şemasının başlangıcını veya sonunu gösterir.
+Veri girişini veya çıktıyı temsil eder. Değişkenlere değer atamak için 
+kullanılır.
+İşlem yapmak için kullanılır.
+Karar verme işlemlerinde kontrol noktası olarak kullanılır.
+Bilgiyi yazdırmak için kullanılır.
+Akış yönünü gösterir.
+ETKINLIĞIN AMACI Problemleri algoritma temelinde ifade edebilme
+DESTEKLEME 
+UYGULAMASI
+Akış şemaları oluşturulması gerektiren problemlerde, adım sayısı daha az 
+olan ve basit algoritmik işlemler içeren problem örnekleri tercih edilir.
+ARAÇ GEREÇ VE 
+MATERYALLER
+• Bilgi kutusu

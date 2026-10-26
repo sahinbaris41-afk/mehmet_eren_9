@@ -1,0 +1,88 @@
+49
+ GEÇMİŞİN İNŞA SÜRECİNDE TARİH
+Analitik Dereceli Puanlama Anahtarı 
+Aşağıdaki Analitik Dereceli Puanlama Anahtarı, bilgi görselinizi değerlendirmek için hazırlanmıştır. Bu anahtar, bilgi
+görselinizi hazırlarken hangi ölçütlere dikkat etmeniz gerektiği konusunda da size bilgi vermektedir.
+Grubun Adı: Sınıf:
+Grup Üyelerinin 
+Adı ve Soyadı:
+Ölçütler
+Başarı Düzeyi
+Başarı 
+Puanı1(Geliştirilmeli) 2(Kabul Edilebilir) 3(Oldukça İyi)
+İçeriğin
+Uygunluğu
+Bilgi görseli, tarihsel 
+bilginin üretim aşama-
+ları ve bu aşamalar ara-
+sındaki ilişki hakkında 
+gerekli bilgileri içerme-
+mektedir.
+Bilgi görseli, tarihsel bilgi-
+nin üretim aşamaları ve bu 
+aşamalar arasındaki ilişki 
+hakkında yüzeysel bilgiler
+içermektedir. 
+Bilgi görseli, tarihsel bilgi-
+nin üretim aşamaları ve bu 
+aşamalar arasındaki ilişki 
+hakkında kapsamlı bilgiler 
+içermektedir. 
+İçeriğin
+Özgünlüğü
+Bilgi görselinde 
+öğrenciye ait ifadeler 
+bulunmamaktadır.
+Bilgi görselinde öğrenciye
+ait bazı ifadeler bulunmak-
+tadır.
+Bilgi görselindeki tüm 
+ifadeler öğrenciye aittir.
+İçeriğin
+Bilimselliği
+Bilgi görselinde çok 
+fazla bilimsel hata 
+bulunmaktadır.
+Bilgi görselinde az sayıda
+bilimsel hata bulunmak-
+tadır.
+Bilgi görselinde bilimsel
+hata bulunmamaktadır.
+Görsel ve 
+Yazılı Materyal
+Kullanımı
+Konuyla ilgili görsel ve 
+yazılı materyal kullanıl-
+mamıştır.
+Görsel ve yazılı materyaller-
+den bazıları konuyla ilgilidir.
+Tüm görsel ve yazılı ma-
+teryaller konuyla ilgilidir.
+Kaynak
+Kullanımı
+Yetersiz ve konuyla 
+ilgili olmayan kaynaklar 
+kullanılmıştır.
+Sınırlı ve konuyla kısmen il-
+gili kaynaklar kullanılmıştır.
+Çok sayıda ve konuyla 
+doğrudan ilgili kaynaklar 
+kullanılmıştır.
+Dil ve
+Anlatım
+İçerikte yazım ve 
+noktalama kurallarına 
+uyulmamıştır.
+İçerikte yazım ve noktalama 
+kurallarına kısmen
+uyulmuştur.
+İçerikte yazım ve noktala-
+ma kurallarına uyulmuştur.
+Toplam Puan:
+Alınan Not: 
+Değerlendirme Sistemi
+Analitik Dereceli Puanlama Anahtarı’ndan alınan puan, toplam puana bölünür. Örneğin bu anahtarda altı öl-
+çüt (içeriğin uygunluğu, içeriğin özgünlüğü, içeriğin bilimselliği, görsel ve yazılı materyal kullanımı, kaynak 
+kullanımı, dil ve anlatım) ve üç başarı düzeyi (geliştirilmeli, kabul edilebilir, oldukça  iyi) bulunmaktadır. Öğren-
+cinin her ölçütten alabileceği puan en fazla 3x6=18 olacaktır. Bir öğrenci analitik puanlamada 12 puan aldıysa 
+bu yüzde olarak (12/18) x100=%67 edecek, bu durumda öğrenci 67 puan almış olacaktır.

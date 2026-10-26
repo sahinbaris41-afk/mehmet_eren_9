@@ -1,0 +1,41 @@
+14
+4. Tema / Eşlik ve Benzerlik
+Yansıma	Dönüşümü	ve	Özellikleri
+Düzlemde	bir	şeklin	bir	doğruya	göre	yansıma	dönüşümü	altındaki	görüntüsü,	şekil	üzerindeki	noktala-
+rın	verilen	doğruya	göre	simetriği	olan	noktalar	belirlenerek	oluşturulur.	Şeklin	değişen	ve	değişmeyen	
+özellikleri	ile	yansıma	dönüşümünün	özellikleri,	düzlemde	verilen	şekiller	ve	şekillerin	bir	doğruya	göre	
+yansıma	dönüşümü	altındaki	görüntüleri	karşılaştırılarak	belirlenebilir.
+Yansıma Dönüşümünün Özellikleri
+Aşağıda verilen adımları takip ederek soruları cevaplayınız.
+Birim kareli zemin üzerinde ABCDE bölgesinin d doğrusuna göre, KLM bölgesinin k doğrusuna göre yansıma 
+dönüşümü altındaki görüntüleri verilmiştir. ABCDE ve KLM bölgelerinin belirtilen doğrulara göre yansıma dönü-
+şümleri altındaki görüntüleri sırasıyla A'B'C'D'E' ve K'L'M' bölgeleridir. 
+kd
+K L
+L'
+K'
+M'
+M
+A
+E'
+D'
+A'
+B'C'B C
+D
+E
+1. Verilen şekillerin d ve k doğrularına göre yansıma dönüşümü sonrasında değişen ve değişmeyen özelliklerinin 
+neler olabileceğine ilişkin fikirlerinizi yazınız. Fikirlerinizi sınıf arkadaşlarınızla tartışınız.
+2. Tablo 1’de şekillere ait özellikler verilmiştir. Belirtilen özelliklerin şekillerin verilen doğrulara göre yansıma 
+dönüşümü altındaki görüntüleri olan şekillerde değişip değişmediğine ilişkin varsayımlarınızı tablonun ilgili 
+alanına örnekteki gibi yazınız. Şekil üzerindeki bir noktanın görüntüsü olan noktaya uzaklığı ile şekil ve gö-
+rüntüsünün yansıma doğrusuna uzaklıkları arasında bir ilişki olup olmadığını sözlü olarak ifade ediniz.
+Tablo 1
+Özellik Varsayım
+Şeklin kenar uzunlukları  Değişmez.
+Şeklin iç açı ölçüleri  
+Şeklin çevre uzunluğu
+Şeklin alanı
+Şekil üzerindeki noktalar ile bu noktaların görüntüleri arasındaki 
+uzaklık
+Şekil ile görüntüsünün yansıma doğrusuna uzaklığı
+1. Uygulama

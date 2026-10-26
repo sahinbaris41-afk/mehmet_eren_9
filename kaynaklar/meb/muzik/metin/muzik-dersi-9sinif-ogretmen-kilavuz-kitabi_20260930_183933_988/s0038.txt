@@ -1,0 +1,37 @@
+3938
+1. TEMA: MÜZİK DİLİ
+Altılı Yedili Sekizli (oktav)
+Birli (ünison) İkili Üçlü Dörtlü Beşli
+Müzikte “aralık” kavramını ayrıntıya girmeden açıklayarak ardışık ya da aynı anda duyu-
+lan iki ses arasındaki yükseklik (incelik-kalınlık) farkına “aralık” denildiğini ve aralığın iki 
+ses arasındaki uzaklığa göre adlandırıldığını belirtiniz (Görsel 1.24).
+Müzik yapmada kültürel özelliklere göre farklılıklar gösterebilen tonal ve makamsal/
+modal ses dizilerinden yararlanıldığı bilgisini vererek birçok müzik türüne temel oluş-
+turan tonal müziğin iki temel dizisinin majör ve minör dizi (ton) olduğunu vurgulayınız.
+Tonal müzikte iki ses arasındaki en küçük aralığın ikili aralıklar olduğunu, ikili aralıkların 
+da “küçük ikili” (yarım aralık= Y) ve “büyük ikili” (tam aralık= T) olarak ikiye ayrıldığını 
+belirterek dizilerin tam ve yarım aralıkların sıralanmasıyla oluştuğunu söyleyiniz.  
+Majör dizilerin “iki tam, bir yarım, üç tam ve bir yarım aralık (1, 1, 1/2, 1, 1, 1, 1/2)” sırasına 
+göre oluşan diziler olduğunu, do dizisinin de doğal yapısı gereği bir majör dizi olduğunu 
+ve aynı aralık yapısını barındırdığını belirtiniz. Piyanodaki beyaz tuşlardan oluşan do 
+majör dizisinin temel majör dizi olarak kabul edildiğini söyleyiniz. 
+Görsel 1.25’i tahtaya yansıtarak do majör dizisini piyano klavyesinde gösteriniz.
+1.4.1. Majör Dizi (Ton)
+& œ œ œ œ œ œ
+& œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+w w w w w w w w w w
+w w w w w w
+& œ œ œ œ œ œ
+& œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+w w w w w w w w w w
+w w w w w w
+Görsel 1.24: Aralıklar
+Görsel 1.25: Do Majör Dizisinin Piyano Klavyesindeki Sıralanışı
+Tam Tam Tam Tam Tam Tam Tam Tam Tam Tam
+Yarım Yarım
+Yarım Yarım
+&
+Do Majör Dizisi
+w w w w w w w ww w w w w w w w
+FA SOL LA SİDO DORE Mİ
+Etkileşimli tahtaya yansıtabilirsiniz.

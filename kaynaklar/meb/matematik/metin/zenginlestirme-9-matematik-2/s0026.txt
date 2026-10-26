@@ -1,0 +1,54 @@
+2.TEMA - NICELIKLER VE DEĞIŞIMLER
+24 25
+1. ETKINLIK Bilye Kaydırağı
+1. Adım
+Bir ilimizde farklı yüksekliklerde gerçekleştirilen sıcaklık ölçümleri aşağıdaki şekilde gösteril-  
+miştir. Deniz seviyesinde 24 °C olarak ölçülen sıcaklık, her 200 metrelik yükselişte 1 °C düşmektedir.
+Belirli bir noktadan itibaren yüksekliğe (m) bağlı olarak sıcaklık değerlerinin (°C) nasıl değiştiğini 
+ifade eden, yükseklik arttıkça sıcaklık değişimini gösteren fonksiyon f olsun.
+Buna göre f fonksiyonunun cebirsel temsilini bulunuz ve grafiğini çiziniz.
+Atmosferin üst katmanlarına doğru çıktıkça hava yoğunluğu azalır. Yer yüzeyinden yan -
+sıyan güneş ışınlarının daha uzun bir yol katederek enerjisini kaybetmesi nedeniyle yüksek -
+lik arttıkça sıcaklık değerleri düşer. Ayrıca daha yüksek irtifalarda atmosferin daha az yoğun  
+olması, ısıyı tutma kapasitesini de azaltır. Bu sebeplerle yükseklik arttıkça sıcaklık genellikle 
+azalır.
+Bilgi
+Yükseldikçe sıcaklık azalır.
+Alçaldıkça sıcaklık artar.
+24 ˚C 24 ˚C
+0 metre
+23 ˚C 23 ˚C
+22 ˚C 22 ˚C
+21 ˚C 21 ˚C
+20 ˚C 20 ˚C
+19 ˚C 19 ˚C
+18 ˚C 18 ˚C
+17 ˚C 17 ˚C
+16 ˚C 16 ˚C
+15 ˚C 15 ˚C
+14 ˚C
+1800 m
+1600 m
+1400 m
+1200 m
+1000 m
+800 m
+600 m
+400 m
+200 m
+14 ˚C
+Etkinliğin Amacı Doğrusal fonksiyonların cebirsel ve grafiksel temsillerini ortaya koyabilme ve gerçek yaşam durumlarına uyarlayabilme becerilerini geliştirebilme.
+Zenginleştirme 
+Uygulaması
+* Öğrencilere doğrusal fonksiyonları cebirsel olarak ifade edebilme, grafik temsillerini 
+ortaya koyabilme ve yorumlayabilmeye yönelik kişiselleştirilmiş geri bildirimler verile-
+rek değerlendirmeler yapılır. İş birlikli öğrenme temelinde öğrencilere gerçek yaşam 
+durumlarında doğrusal ilişkileri tartışabileceği, grafik yorumlarını yapabileceği grup 
+çalışmaları, ortak sunumlar ve projeler yaptırılır. Bilgisayar bilimleri, ekonomi, fizik, 
+kimya gibi farklı disiplinlerde geçen doğrusal ilişkili durumların keşfedilmesine ve bu 
+durumların matematiksel temsillerle ilişkilendirilmesine yönelik görevler verilir.
+Araç Gereç ve 
+Materyaller • Çalışma Kâğıtları
+Yönerge Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz. Etkinlik sonun-da "Değerlendirme" sorularını cevaplayınız.
+2. ETKINLIK Hava Sıcaklığı İle Yükseklik Arasındaki İlişkinin İncelenmesi
+Yıldızlı  Etkinlik 

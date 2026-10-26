@@ -1,0 +1,83 @@
+62
+4. Tema / Eşlik ve Benzerlik
+Çözüm
+BC DE'77 AA 	olduğundan	ABC	ve	AED	üçgenleri	benzerdir .	
+Buradan	
+AD
+AC
+ED
+BC
+=  dur.
+AD
+AC
+ED
+BC
+CD CD12
+12
+25
+5
+12
+12
+5
+1&&=
++
+=
++
+=
+CD12 51 2& $ =+
+.CD ve CD m bulunur60 12 48& =+ =
+E
+DC12
+5
+B
+A
+25
+20. ÖRNEK
+Selin	 Öğretmen,	 sınıfa	 AB AC= 	 ve	 BC cm 28= 	 olan	 ikizkenar	 üçgen	 biçiminde	 bir	 karton	 parçası	
+getirmiştir.	Selin	Öğretmen,	bu	karton	parçasını	önce	 AD7A 	boyunca	ok	yönünde	C	köşesi	B	köşesiyle	
+çakışacak	şekilde	katlıyor;	sonra	 EF7 A 	boyunca	ok	yönünde	B	köşesi	D	köşesiyle	çakışacak	şekilde	kat-
+lıyor.	Katlama	işlemleri	sonunda	elde	edilen	şekilde	AED	üçgeninin	çevre	uzunluğu	42	cm’dir .
+Buna	göre	Selin	Öğretmen’in	elde	ettiği	son	şekildeki	EFD	üçgeninin	çevre	uzunluğunun	kaç	cm	oldu-
+ğunu	bulunuz.
+Çözüm
+ABC	ikizkenar	üçgeni	 AD7A 	boyunca	C	köşesi	B	köşesiyle	çakışacak	şekilde	
+katlandığından	 AD BC=77 AA 	olur.	Aynı	şekilde	 EF7 A 	boyunca	B	köşesi	D	köşe-
+siyle	çakışacak	şekilde	katlandığından	 EF BD ED EBve= =77 AA 	olur.
+EBD	ikizkenar	üçgeninde	 ,m EBF m EDF a==`` jj%%  BEF DEF ,mm b==`` jj%%
+ EB ED cm x== 	ve	 EF cm y= 	olmak	üzere	 BF DF ’.cm dir 7==
+m ADB 90 o=`j% 	olduğundan	m EDA b=`j% 	olur.	m BED 2b=`j% 	olduğundan
+ m EAD b=`j%  dır.	Bu	nedenle	EAD	üçgeni	ikizkenar	üçgen	ve	
+EA ED xc m== 	olur.
+E	 ve	 F	 noktaları	 AB ve BD77 A A  nın	 orta	 noktalarıdır.	 EF7 A  ise	 ABD	 üçgeninin	 orta	 tabanını	 oluşturur.	
+EBF ABD+&& 	olduğundan	
+BA
+BE
+BD
+BF
+AD
+EF
+== 	bulunur.	Buradan	orta	taban	 EF yc m= 	iken	 AD yc m 2=  
+olarak	bulunur.	
+AED	üçgeninin	çevre	uzunluğu	42	cm	olduğundan xx yx yc m24 22 1&++ =+ = ’dir.
+EFD	üçgeninin	çevre	uzunluğu	xy cm72 17 28&++ += 	bulunur.
+A
+B CD
+A
+B D
+E
+F
+A
+E
+DF
+A
+B CD
+E
+x x
+y
+x
+2y
+b
+a
+F7 7 14
+a
+bb

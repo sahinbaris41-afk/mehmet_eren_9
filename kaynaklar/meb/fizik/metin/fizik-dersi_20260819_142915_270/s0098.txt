@@ -1,0 +1,45 @@
+98
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+İÇERİK ÇERÇEVESİ Siyah Cisim Işıması
+Fotoelektrik Etki
+Yarı İletkenlik
+Süper İletkenlik
+Standart Model
+Modern Atom Teorisi
+Nükleer Enerji
+ Anahtar Kavramlar fotoelektrik etki, foton, eşik enerjisi, yarı iletken, süper iletken, kuark, anti madde, büyük 
+patlama, temel kuvvetler, atom, nükleon, fisyon, füzyon, iyonize radyasyon, iyonize olma-
+yan radyasyon
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çıkış kartı (açık uçlu sorular), yapılandırılmış grid, poster, çalışma yap-
+rağı, tanılayıcı dallanmış ağaç, yapılandırılmış grid, görsel tasarım (yapboz) aracılığıyla de-
+ğerlendirilebilir.
+Işığın tanecik modeli, Planck sabitinin anlamı ve fotoelektrik etkinin uygulamaları hakkın-
+da açık uçlu sorulardan oluşan bir çıkış kartı verilebilir. Yarı iletken devre elemanlarının 
+görselleri, simgeleri veya kullanım alanlarını kapsayan yapılandırılmış grid kullanılabilir. 
+Yarı iletken malzemelerin tarihsel gelişimi konulu bir poster hazırlayıp sunmaya yönelik 
+performans görevi verilebilir. Poster ve sunumun değerlendirilmesinde dereceli puanla-
+ma anahtarı kullanılabilir. Süper iletkenlerin kullanım alanları hakkında farklı soru türle-
+rinden oluşan çalışma yaprağı verilebilir. Değerlendirmelerde öz, akran veya grup değer -
+lendirme formu kullanılarak çeşitlilik sağlanabilir. Temel parçacıklar ve temel kuvvetler 
+hakkındaki bilgileri içeren yapılandırılmış grid ve tanılayıcı dallanmış ağaç gibi araçlar 
+kullanılabilir. Atomu oluşturan parçacıkların kuarklarla nükleonları, nükleonlarla ve elekt-
+ronlarla atomu, bozonlar yardımıyla etkileşimini görselleştiren bir yapboz tasarlamaları 
+performans görevi olarak istenebilir. Test, yapılandırılmış grid ve tanılayıcı dallanmış ağaç 
+puanlama anahtarı ile; performans görevi ise dereceli puanlama anahtarı ile değerlen-
+dirilebilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin elektrik akımı ile ilgili temel bilgileri, iletkenlik ve yalıtkanlık kavramlarını, ilet-
+kenlik ve yalıtkanlık kavramlarının hangi koşullarda tanımlandığını ve atom modellerini bil-
+diği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin elektrik akımı ile ilgili temel bilgilerine, elektriksel olarak iletkenlik ve yalıt -
+kanlık kavramlarına, atom modellerine ilişkin ön bilgilerinin belirlenmesi amacıyla sorular 
+sorulabilir.
+Köprü Kurma Günlük hayattaki iletken ve yalıtkan malzemeler ile yarı iletken ve süper iletken malze-
+meler arasında ilişki kurulabilir. Klasik fiziğin yetersiz kaldığı durumları açıklayabilmek için 
+yapılan çalışmalar sonucunda modern fiziğin ortaya çıktığı ifade edilebilir. Günlük hayatta 
+modern fiziğin uygulamalarından örnekler verilebilir.

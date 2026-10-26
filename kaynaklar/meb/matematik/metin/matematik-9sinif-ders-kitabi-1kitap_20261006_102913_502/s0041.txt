@@ -1,0 +1,34 @@
+41
+1. Tema /  Sayılar
+2.	 Tablodaki	kümelerden 	yararlanarak 	aşağıdaki 	ifadeleri 	listeleme 	veya 	ortak 	özellik 	yöntemiyle 	
+gösteriniz.
+	 a) 	 TD+
+b)	 ÇD=
+c)	 GB+
+ç)	 Gl
+• a, A kümesinin elemanı ise aA ;!  elemanı değilse aAg  biçiminde gösterilir . Kümelerde her eleman 
+bir kez yazılır .
+• Herhangi bir A kümesinin eleman sayısı, sA_i  ile gösterilir .
+• Herhangi iki küme A ve B olmak üzere bu kümelerin elemanlarının tamamının oluşturduğu kümeye 
+A ve B kümelerinin birleşim kümesi denir, AB,  biçiminde gösterilir . AB,  ifadesi, “A birleşim B” biçi-
+minde okunur. Burada kullanılan “,” sembolü, “birleşim” anlamına gelir.
+• Herhangi iki küme A ve B olmak üzere bu kümelerin ortak elemanlarından oluşan kümeye A ve B 
+kümelerinin kesişim kümesi  denir, AB+  biçiminde gösterilir . AB+  ifadesi, “ A kesişim B” 
+biçiminde okunur. Burada kullanılan “+” sembolü, “kesişim” anlamına gelir.
+• A kümesinde olup B kümesinde olmayan elemanların oluşturduğu kümeye A fark B kümesi denir, 
+AB=  biçiminde gösterilir . AB=  ifadesi, “A fark B” biçiminde okunur. Burada kullanılan “= ” sembolü, 
+“fark” anlamına gelir.
+• Bir A kümesinin elemanı olmayıp evrensel kümeye ait olan elemanların oluşturduğu küme, Al ile ifade 
+edilir; “A kümesinin tümleyeni” biçiminde okunur. Burada kullanılan “ Al ” sembolü, “tümleme” anla-
+mına gelir.
+• Herhangi bir A kümesindeki elemanların tümü bir B kümesinin de elemanı ise bu durum A kümesinin 
+B kümesine eşit veya A kümesinin B kümesinin alt kümesi olduğu anlamına gelir. AB3  biçiminde 
+gösterilir ve “A alt kümesidir B nin ” biçiminde okunur. Burada kullanılan “ 3” sembolü, “alt küme” 
+anlamına gelir.
+• Gerçek sayılar kümesi R_i ; doğal sayılar N_i , tam sayılar Z_i , rasyonel sayılar Q_i  ve irrasyonel sa-
+yılar Ql_i  kümelerini kapsayan en geniş kümedir. Üzerinde işlem yapılan kümelere ait tüm elemanları 
+kapsayan kümeye evrensel küme denir. Verilen sayı kümeleri için gerçek sayılar kümesi, evrensel küme 
+olarak ifade edilebilir.
+Kontrol Noktası
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

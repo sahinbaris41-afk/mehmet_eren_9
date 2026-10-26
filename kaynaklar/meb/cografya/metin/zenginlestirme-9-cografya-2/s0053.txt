@@ -1,0 +1,50 @@
+52 53
+COĞRAFYA 9 
+1. 2008 yılında Türkiye Cumhuriyeti Cumhurbaşkanlığı Dijital Dönüşüm Ofisinin koordinesinde ve çe -
+şitli kamu kurumlarının iş birliğiyle başlatılmış olan “Türkiye Ulusal Konumsal Veri Altyapısı”, Türki -
+ye'deki coğrafi bilgilerin ve konumsal verilerin toplanması, yönetilmesi, paylaşılması ve kullanılması 
+amacıyla oluşturulan bir altyapıdır. 
+Türkiye Ulusal Konumsal Veri Altyapısı, Türkiye'nin dijital dönüşüm sürecinin bir parçası olarak diji-
+tal haritalar, uzaktan algılama, uydu görüntüleri gibi coğrafi bilgi teknolojilerini kullanarak afet yö -
+netimi, çevresel sürdürülebilirlik, akıllı şehir projeleri gibi birçok alanda önemli rol oynamaktadır. 
+Gelecekte Türkiye Ulusal Konumsal Veri Altyapısı'nın dijital hükümet ve akıllı şehir uygulamalarının 
+entegrasyonu ile daha da geliştirilmesi ve genişletilmesi beklenmektedir.
+1. Adım: Bilgilendirme
+Yönerge: Türkiye’nin ulusal konumsal veri altyapısını araştırma görevini gerçekleştirmesi için öğrenciyi aşağı -
+daki adımlar doğrultusunda yönlendiriniz.
+ÖĞRENME ÇIKTISI COĞ.9.2.3. Mekânsal bilgi teknolojilerini oluşturan bileşenleri 
+çözümleyebilme
+PROGRAMLAR ARASI 
+BİLEŞENLER
+SDB1.1. Kendini Tanıma (Öz Farkındalık)
+SDB1.2. Kendini Düzenleme (Öz Düzenleme)
+SDB1.3. Kendine Uyarlama (Öz Yansıtma)
+SDB2.1. İletişim
+D3. Çalışkanlık
+D10. Mütevazılık
+D19. Vatanseverlik
+OB1. Bilgi Okuryazarlığı
+OB2. Dijital Okuryazarlık
+OB4. Görsel Okuryazarlık
+ARAÇ-GEREÇ VE 
+EĞİTİM ORTAMLARI, 
+MATERYALLER
+• Bilgisayar
+• Genel ağ
+• Akıllı tahta
+• Haritalar
+• Kalem
+• Kâğıt
+• Kitap
+• Bilimsel makale
+• Bilimsel dergi
+ZENGİNLEŞTİRME 
+UYGULAMASI
+Türkiye’nin ulusal konumsal veri altyapısı hakkında araştırma görevi
+ETKİNLİĞİN AMACI Türkiye’nin ulusal konumsal veri altyapısı ile ilgili bilgi toplama, bilgileri dü-
+zenleme, sonuçlara ulaşma ve bunları paylaşma
+10. ETKİNLİK
+1 
+Hafta
+TÜRKİYE’NİN ULUSAL KONUMSAL 
+VERİ ALTYAPISI

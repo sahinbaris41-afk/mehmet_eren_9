@@ -1,0 +1,53 @@
+67
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme *Öğrencilere Enerji ve Kimyasal Tepkimelerde Hız  konusu temelinde ilaç kapsüllerinin 
+k imyasal yapısı, sindir im sisteminde çözünme süreci, çözünme hı zı, çözünme sırasında-
+ki enerji değişimi ve etki mekanizmasına yönelik proje görevleri verilebilir. Proje görevi 
+ile Kimyasal Tepkimelerde Hız  konusu ele alınırken aynı zamanda sağlık ile ilgili kavram -
+lar da kullanılabilir. Aynı kapsamda ilaç kapsüllerinin mide ya da bağırsakta çözünme -
+sine yönelik tercihlerin neler olabileceği veya aynı organda çözünme hızını artırmak ya 
+da azaltmak amacıyla kapsül tasarımı olarak neler yapılabileceği ile ilgili proje görevle -
+ri verilebilir. İlaç kapsülünün tasarım sürecinde mevcut yapay zekâ uygulamalarından 
+(Quantum Machine Learning Predicting ADME, ReactionDataExtractor 2.0 vb.) destek 
+alınabilir. Benzer proje ödevi ilaç tabletleri için de gerçekleştirilebilir. Kapsüllerle ilgili 
+proje görevinden farklı olarak tablet şeklindeki ilaçların etken maddesinin miktarı ile 
+diğer yan maddelerin (dağıtıcı madde, dolgu maddesi; bağlayıcı, kaydırıcı, topaklanma -
+yı önleyici maddeler; aroma ve renk verici maddeler vb.) oranlarının belirlenmesi, yan 
+maddelerin tepkime sürecindeki enerji değişimleri ve hıza etkileri, sağlık açısından et -
+kileri ve bitkisel kökenli alternatiflerinin denenmesi konularında da projelerin yapılması 
+sağlanabilir. Tabletlerin kimyasal bileşimini belirlemede ve etkilerine ilişkin öngörülerin 
+tespitinde yapay zekânın özellikle makine öğrenmesinin kullanımı tercih edilebilir. Ebu 
+Bekir Razi’nin ilaçlar üzerine yaptığı çalışmalar konusunda araştırma görevi verilebilir.
+Öğrenciler, evsel atıkların kimyasal ve fiziksel değişim süreçlerinin toplum sağlığına etkile-
+rini belirlemek amacıyla evsel atık örnekleri üzerinde deneyler yapabilir. Kimyasal analizler 
+ile evsel atıkların içeriğini belirleyebilir. Öğrencilerden evsel atıkların içerikleri ve toplum 
+sağlığına zararları ile ilgili kamu spotu oluşturmaları istenebilir. Böylece öğrencilerin bilgi 
+ve sağlık okuryazarlığı ile görsel okuryazarlık becerilerini kullanmaları desteklenebilir. Öğ-
+renciler, toplumsal bilinci artırmak adına okullar ile iş birliği içerisinde seminerler düzenle-
+yebilir. Bu durum, alt kademede öğrenim gören öğrencilerin evsel atık yönetimi konusun-
+da fikir edinmelerini destekleyebilir. 
+Öğrencilere paslanma tepkimesindeki enerji değişiminin inceleneceği, paslanmanın ön -
+lenmesi için alınabilecek tedbirler, paslanma hızının yavaşlatılması için kullanılabilecek in-
+hibitörler ve paslanma önleyici sıvıların tepkime hızına etki mekanizmasının inceleneceği 
+projeler yaptırılabilir. Demirin paslanma sürecini görselleştiren animasyonlar ve farklı me-
+tallerin korozyon süreçlerini görselleştiren simülasyonlar kullanılabilir. Öğrencilerin mev -
+cut yapay zekâ uygulamaları (Nvidia, Leonardo vb.) kullanarak paslanma sürecine ilişkin 
+taslak çizimler yapmaları ve kendi içerikleri üzerinden simülasyonlar oluşturmaları sağla -
+nabilir. Bunların yanı sıra öğrencilerden paslanmaz malzemelerin yapılarını incelemeleri ve 
+“İnşaatlarda kullanılabilecek ve korozyona uğramayacak ekonomik alternatifler oluşturu-
+labilir mi?” sorusuna cevap aramaları istenebilir. 
+*Hazır gıdaların içeriği ve kullanılan korucuyu maddelerin gıdanın bozunma hızına etkisinin 
+inceleneceği proje görevleri verilebilir. Koruyucu maddelere alternatiflerinin denendiği ve 
+bu alternatiflerin gıdanın bozunma hızı üzerine etkilerinin incelendiği projeler yaptırılabilir.  
+“Ge lecekte karşılaşılabilecek bir gıda krizi için var olan gıdaların bozunma hızını düşürmeye 
+ve raf ömrünü artırmaya yönelik neler yapılabilir?” sorusu çerçevesinde proje görevleri de 
+verilebilir. Öğrencilerin çeşitli kimyasal tepkimelerin enerji verimliliğini belirlemeleri ama -
+cıyla deneyler gerçekleştirmeleri ve tepkimelerin atom ekonomisi hesaplamalarını yap -
+maları sağlanabilir. Öğrencilerin yapay zekâ uygulamaları (Quantum Machine Learning 
+Predicting ADME, ReactionDataExtractor 2.0 vb.) ile yeşil kimya ilkelerine uygun kimyasal 
+tepkimeleri seçmeleri, tepkimelerin oluşum süreçlerini hızlandırmaları ve atom ekonomi-
+sini hesaplamaları sağlanabilir. Öğrencilere belirli endüstriyel süreçlerin tepkime entalpisi 
+üzerindeki etkileri inceletilebilir. Finansal okuryazarlık becerileri kullanılarak bu süreç -
+lerin maliyetleri hesaplatılabilir. Öğrencilerden kimyasal süreçleri ekonomik açıdan de -
+ğerlendirmeleri, ekonomik fayda ve inovasyona yönelik öneriler geliştirmeleri istenebilir.

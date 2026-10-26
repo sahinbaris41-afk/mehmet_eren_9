@@ -1,0 +1,60 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+49
+4. Noktalama Haritaları
+Mekânsal bir verinin dağılışını göstermek için nokta türü sembollerin kullanıldığı 
+haritalardır. Bu haritalarda semboller; daire, kare, üçgen ya da başka bir şekilde 
+olabilir. Harita üzerindeki her bir nokta belirli bir miktarı temsil eder. Örneğin nü-
+fus dağılışının gösterildiği noktalama haritasında bir nokta 1 milyon nüfusu temsil 
+edebilir. Nüfus dağılışı dışında tarımsal üretim miktarları, liman ve havalimanı gibi 
+coğrafi unsurlar da noktalama haritalarıyla gösterilebilir. Noktalama haritalarında 
+nokta sayısının fazla olduğu alanlar yoğunluğun fazla olduğunu ifade eder. 
+Dr. John Snow’un 1854 yılındaki kolera salgınında vakaların 
+dağılışını gösteren haritası 
+1854’te Londra’nın (İngiltere) Soho bölgesinde 
+kolera salgını nedeniyle can kayıpları yaşanma-
+ya başlamıştır. Durum kötüye gidince hastalığın 
+nedenlerinin tespit edilmesi ve salgının yayılışının 
+durdurulabilmesi için araştırma yapılmıştır.
+Araştırmacılardan biri olan Dr. John Snow (Can 
+Sınov), hastalığın dağılışı ile nedenini ilişkilen-
+dirmek için öncelikle bir harita hazırlamıştır. Dr. 
+John Snow, hastalık ile su kaynağı arasında ilişki 
+olabileceğini düşünmüştür. Haritada kolera nede-
+niyle hayatını kaybedenlerin ev adresine ve içme 
+suyu temin etmek için kullanılan su pompalarının 
+konumlarına yer vermiştir. 
+Dr. John Snow, haritadaki mekânsal dağılımdan ha-
+reketle bir su pompasının çevresinde vakaların yo-
+ğunlaştığını görmüştür. Bunun sonucunda salgının 
+kaynağının bir su kuyusundan pom
+ palanan virüslü 
+su olduğu tespit edilmiş ve su pompasının hizmet 
+dışı bırakılmasıy
+ la kolera salgını sona ermiştir
+.
+1.
+ K
+olera salgınının önlenmesi için yapılan çalışmada dağılış kavramından nasıl yararlanılmıştır?  
+............................................................................................................................................................................................................................................... 
+............................................................................................................................................................................................................................................... 
+...............................................................................................................................................................................................................................................
+2. Mekânsal olaylar daki farklı unsurların ilişkilendirilmesinde haritalar neden önemlidir? 
+............................................................................................................................................................................................................................................... 
+............................................................................................................................................................................................................................................... 
+............................................................................................................................................................................................................................................... 
+...............................................................................................................................................................................................................................................
+3. Günümüzde toplum sağlığı (hastalıkların önlenmesi, hayat kalite sinin artması ve ortalama yaşam süresinin 
+uzaması) için tıpla ilgili hangi haritalama çalışmaları yapılabilir? 
+............................................................................................................................................................................................................................................... 
+............................................................................................................................................................................................................................................... 
+............................................................................................................................................................................................................................................... 
+............................................................................................................................................................................................................................................... 
+K
+Su pompası
+0 90 180
+m
+Koleradan hayatını 
+kaybedenin ev adresi
+(Bir nokta bir kişiyi 
+gösterir.)
+UYGULAMA Noktalama Haritası Okuyorum

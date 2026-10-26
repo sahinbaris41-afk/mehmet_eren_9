@@ -1,0 +1,25 @@
+216
+7. Tema / Veriden Olasılığa
+2. ÖRNEK
+Yanda verilen özdeş torbaların birinde 2 sarı, 1 mavi, 1 yeşil; 
+diğerinde 2 gri, 1 siyah, 1 turuncu renkte toplar bulunmaktadır. 
+Torbalardaki toplar renkleri dışında özdeştir. Bu torbaların iki-
+sinden aynı anda birer top çekilecektir. Çekilen toplardan biri -
+nin mavi, diğerinin gri olma olayına ait tüm çıktıları görselleşti-
+riniz. Görselleştirdiğiniz tüm çıktılar arasından istenen çıktıları 
+belirtiniz.
+Çözüm
+I. Torba II. Torba
+ Yandaki görselde I. torbadaki toplardan II. torbadaki toplara çe-
+kilen 16 44$_i  çizgi yer almaktadır. Bu 16 çizgi tüm çıktıları gös-
+terirken farklı renkte çekilen iki çizgi istenen çıktıları göstermek-
+tedir. (Sistematik liste oluşturma aşamasında bu şekilde bir 
+gösterim yapmak, çıktıları fark etmek açısından kolaylık sağla -
+yabilir.)
+Olası tüm çıktılar sistematik liste yöntemiyle aşağıdaki şekilde görselleştirilebilir. Bu gösterimde çerçeve 
+içine alınmış çıktılar, istenen çıktıları göstermektedir.
+II. Torba
+I. Torba
+2. Hilesiz iki sayı küpünün havaya atılması deneyinde olası tüm çıktılar kaç tanedir?
+3. Hilesiz iki sayı küpünün havaya atılması deneyinde üst yüzeyine gelen sayıların toplamının asal sayı olması 
+olayında olası tüm çıktıları listeleyiniz.

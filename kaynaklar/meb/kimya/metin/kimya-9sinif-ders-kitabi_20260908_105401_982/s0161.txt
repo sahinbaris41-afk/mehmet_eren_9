@@ -1,0 +1,26 @@
+161
+2. Tema/Çeşitlilik
+6. Verilen örnekleri gruplayınız. Gruplama yaparken örneklerin tekrarlayan birimlerini ve aralarındaki etki-
+leşim türünü göz önünde bulundurunuz.
+7. Aşağıdaki metni inceleyerek katı türleri ile belirlediğiniz katı gruplarını karşılaştırınız.
+Katılar temelde amorf ve kristal olmak üzere ikiye ayrılır. Amorf katıları oluşturan tanecikler düzensiz bir 
+yapıya sahiptir ve belirli bir geometrik düzen göstermez. Bu nedenle amorf katılar belirli bir erime ve donma 
+noktasına sahip değildir. Cam, lastik, plastik, mum, tereyağı gibi maddeler amorf katılara örnek verilebilir. 
+Katıyı oluşturan tanecikler aynı şekilde tekrarlayan düzenli bir yapı oluştur. Bu nedenle kristal katılar belirli 
+bir geometrik şekle sahiptir. Bu katıların belirli bir erime ve donma noktası vardır. Kristal katıyı oluşturan 
+tanecikler üç boyutlu bir kristal örgü içerisinde belirli bir düzene göre dizilir. Bütün bir örgünün tüm özellik-
+lerini gös teren en küçük örgü parçası birim hücre olarak adlandırılır. Günlük hayatta karşılaşılan katıların 
+çoğu kristal katılardır. Kristal katılar, katıyı oluşturan birime dayalı olarak dört gruba ayrılabilir. Aşağıda 
+katıların sınıflandırılması gösterilmektedir.
+5. Her bir görselde verilen katının yapısını oluşturan taneciklerin düzenli bir yapı oluşturup oluşturmadığını, 
+tanecikler arasındaki etkileşim türlerini ve belirlediğiniz türleri seçme nedeninizi aşağıdaki tabloya yazınız.  
+Sodyum (Na) Cam (SiO2) Sodyum Klorür (NaCl)
+Buz (Katı H2O) Magnezyum (Mg) Kuru Buz (Katı CO2)
+Elmas (C) Kalsiyum Oksit (CaO) Alüminyum (Al)
+Kuvars (SiO4) Grafit (C) Potasyum İyodür (KI)
+Katılar
+Amorf Katılar Kristal Katılar
+a) İyonik katılar
+b) Moleküler katılar
+c) Kovalent katılar
+ç) Metalik katılar

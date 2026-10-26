@@ -1,0 +1,46 @@
+203
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.12.5.1. Toplumsal ve bilimsel durumlara ilişkin hazır veri ile çalışabilme ve hazır veriye 
+dayalı karar verebilme
+a) İstatistiksel araştırma tasarlamayı gerektiren toplumsal ve/veya bilimsel durumla-
+rı belirler.
+b) Bağlam içerisinde ve tasarladığı istatistiksel araştırmaya yönelik veri dağılımlarını 
+betimleyen, karşılaştıran ve/veya değişkenler arasındaki ilişkililiğe odaklanan araş-
+tırma soruları oluşturur.
+c) Verileri elde etmeye yönelik plan yapar. 
+ç) Verileri elde ederek analize hazırlar.
+d) Araştırma sorusu bağlamında verileri analiz etmek  için görselleştirme ve/veya 
+özetleme araçlarından uygun olanları seçer.
+e) Araştırma sorusu bağlamındaki verileri belirlediği araçlarla analiz eder.
+f) Tasarladığı istatistiksel araştırmadan elde ettiği çıktılardan hareketle yorumlaya -
+rak sonuç çıkarır.
+g) Tasarladığı istatistiksel araştırmadan elde edilen sonuçları araştırma sorusu bağ-
+lamında değerlendirir.
+İÇERİK ÇERÇEVESİ Toplumsal ve Bilimsel Durumlara İlişkin Hazır Veriler
+Genellemeler • Veri dağılımları, verilerin değişebilirliği hakkında bilgi verir.
+•  Örneklemin dağılımı, evrenin dağılımına ilişkin fikir verir.
+•  Tek değişkenli verilerin dağılımlarını tanımlamada kullanılacak görsel ve özetler, ilgili dağı-
+lımın merkezinin nereye eğilim gösterdiğini ve nasıl yayıldığını belirlemede kullanılır.
+•  Aynı gözlem birimlerinden elde edilen verilerden hareketle oluşturulan iki değişkenli (ka -
+tegorik-kategorik, nicel-nicel) dağılımlar, verilerin birlikte değişebilirliğindeki eğilime ilişkin 
+bilgi verir.
+•  İki değişkenin ilişkili olması, bu iki değişken arasında bir neden -sonuç ilişkisi olduğu anla-
+mına gelmez.
+Anahtar Kavramlar istatistiksel araştırma tasarımları
+Sembol ve Gösterimler -
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları, kontrol listesi ve performans görevi ile değerlendirilebilir.
+Öğrencilere hazırladıkları istatistiksel araştırma tasarımlarının bütününü değerlendirmeye 
+yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli 
+puanlama anahtarı ile değerlendirilebilir. Bu performans görevi sonunda elde ettikleri so -
+nuçların benzerlik veya farklılıklarının nedenleri üzerine sınıf içi tartışma yapılabilir. Öğrenci-
+ler, ürünlerini akran değerlendirme ve grup değerlendirme formu ile değerlendirebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin tek değişkenli (kategorik veya nicel) ve iki değişkenli (kategorik-kategorik, 
+nicel-nicel) veri setleri ile çalışarak istatistiksel araştırma sürecini yürütebildikleri kabul 
+edilmektedir.

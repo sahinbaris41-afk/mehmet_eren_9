@@ -1,0 +1,42 @@
+173
+AKIŞKANLAR
+taşır. Kaldırma kuvveti sayesinde teknelerin denizde yüzmesi (Görsel 3.19), 
+uçak ve sıcak hava balonlarının havada süzülmesi, denizaltıların su altında 
+hareket etmesi mümkün olmaktadır. Sıvıların sağladığı kaldırma kuvvetinden 
+faydalanan pek çok araç bulunmaktadır.
+Akışkanın Yoğunluğu  
+Yüzen bir cismin içinde 
+bulunduğu akışkanın 
+yoğunluğu arttıkça cismin 
+batan hacmi azalır. Bununla 
+birlikte kaldırma kuvveti 
+cismin ağırlığına eşit kalır.
+Kaldırma Kuvveti: Bir cismin bir akışkan içindeki kısmına akışkan tarafın-
+dan etki eden kuvvete kaldırma kuvveti denir. Bu kuvvet, genellikle Arşimet 
+İlkesi ile açıklanır.
+Cismin Batan Hacmi 
+Cismin sıvıya batan (sıvı ile 
+temas eden) hacmi ne kadar 
+büyük olursa yeri değişen 
+akışkanın miktarı da o kadar 
+fazla olur. Bu durum, akış-
+kanın kaldırma kuvvetinin 
+büyüklüğünü artırır. 
+Cismin Ağırlığı  
+G = m : g 
+Görsel 3.19: Denizde yüzmekte olan bir tekneye etkiyen kaldırma kuvveti ile ilgili değişkenler
+Örnek
+Özdeş iki gemiden Şekil I’de verilen tam yüklenmiş iken Şekil II'deki boştur.
+Şekil I   Şekil II
+Buna göre
+a) Gemilerin su üzerindeki duruşları arasında ne gibi farklar olduğunu gerekçeleri ile açıklayı-
+nız. Yüklü ve yüksüz durumdaki gemilere etki eden kaldırma kuvvetinin büyüklüğünde ne 
+gibi değişiklikler gözlenebilir?
+b) Bu iki gemiye etki eden kaldırma kuvvetleri arasında fark var mıdır? Açıklayınız.
+Çözüm
+a) Özdeş iki gemiden biri tam yüklenmiş, diğeri boş durumdayken gemilerin su üzerindeki duruşlarında 
+farklılıklar görülür. Tam yüklenmiş geminin batan hacmi, boş olan geminin batan hacminden daha 
+büyük olur. Yüklü gemiye etki eden kaldırma kuvveti, yüksüz gemiye etki edenden daha büyüktür.
+b) Cismin sıvıya batan hacmi ne kadar büyük olursa cismin ağırlığından dolayı yer değiştirecek 
+akışkanın miktarı o kadar fazla olur. Dolayısıyla sıvının kaldırma kuvveti artar. Bu sebeple yüklü 
+gemiye yüksüz gemiden daha büyük bir kaldırma kuvveti etki eder.

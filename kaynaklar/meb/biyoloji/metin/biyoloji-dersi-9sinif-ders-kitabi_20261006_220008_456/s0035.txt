@@ -1,0 +1,33 @@
+35
+Yaşam
+Görsel 1.10
+Canlılarda organizasyon 
+şeması
+Çok hücreli canlılarda benzer yapı ve işleve sahip hücrelerin bir araya gelmesiyle 
+dokuların oluşması; dokuların organları, organların ise sistemleri oluşturması orga-
+nizasyon sürecinin basamaklarını oluşturmaktadır (Görsel 1.10).  Canlıların yapısal 
+ve işlevsel düzeni, canlıların yaşamlarını sürdürebilmesi ve çevresine uyum sağlaya-
+bilmesi için oldukça önemlidir. Hücrelerin farklı yapıları, organize olarak görevlerini 
+yerine getirir ve bu şekilde canlılığın devam etmesi sağlanır. Hücresel organizasyon 
+bir saatin dişlilerine benzetilecek olursa saatin çalışması için bu dişlilerin organize 
+şekilde görevlerini yerine getirmesi gerekir. 
+Beslenme
+Canlılar, yaşamları için gerekli olan yapısal bileşenlerini oluşturmak ve enerjilerini 
+temin edebilmek için beslenmek zorundadır. Beslenme canlılık için vazgeçilmez bir 
+süreçtir. Farklı canlılar farklı şekillerde beslenir.
+Ototrof (üretici) canlı olarak adlandırılan bitkiler gibi bazı canlılar ihtiyaç duydukları 
+besinleri dışarıdan almadan sentezleyebilir (Görsel 1.11.a). Heterotrof (tüketici) olarak 
+bilinen hayvanlar ve mantarlar gibi bazı canlılar besinlerini dışarıdan hazır alır (Görsel 
+1.11.b). Öglena gibi bazı tek hücreli canlılarda ise hem ototrof hem heterotrof bes-
+lenme gözlenebilir (Görsel 1.11.c). Öglena, ışık varlığında fotosentez yaparak kendi 
+besinini üretirken ışık olmadığında besinlerini dış ortamdan hazır olarak alır.
+a b c
+Görsel 1.11
+a) Ototrof beslenen bitkiler,
+b) Heterotrof beslenen hay-
+vanlar, 
+c) Hem ototrof hem heterotrof 
+beslenen öglena
+Çok hücreli canlılar
+Atom Molekül Hücresel yapı ve organel Hücre Doku Organ Sistem Organizma
+Tek hücreli ökaryot canlılar

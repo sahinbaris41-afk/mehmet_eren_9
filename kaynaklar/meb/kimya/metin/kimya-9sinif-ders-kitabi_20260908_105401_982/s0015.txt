@@ -1,0 +1,74 @@
+15
+Eldiven Giy: Bu piktogram, işlemde çok 
+sıcak bir yüzey veya ısıtıcı olduğundan 
+eldiven kullanılması gerektiğini gösterir. 
+Kesici/Delici Cisim Güvenliği: Bu piktog-
+ram, işlemlerde kesici/delici araçların kul-
+lanılacağını gösterir. Dikkatli olunmalıdır.
+Koruyucu Elbise Giy: Bu piktogram, iş-
+lemlerde kıyafetlere zarar verici madde-
+lerin kullanılacağını gösterir. Önlük ya da 
+tulum kullanılmalıdır.
+Elektrik Güvenliği: Bu piktogram, işlem-
+lerde şehir elektriğinin kullanılacağını 
+gösterir. İletken uçlara dokunulmamalıdır. 
+Gerekli önlemler alınmalıdır.
+Gözlük Kullan:  Bu piktogram, işlemlerde 
+göz sağlığı için zararlı maddelerin kullanı-
+lacağını gösterir. Gözlük kullanılmalıdır.
+Sıcak Cisim Güvenliği: Bu piktogram, 
+işlemlerde bir ısıtıcı ya da sıcak bir yüzeyin 
+olduğunu gösterir. El, ayak ve diğer or-
+ganların yanmaması için gerekli önlemler 
+alınmalıdır.
+Maske Kullan: Bu piktogram, işlemler-
+de kimyasal tepkimeler sonucu gazlar 
+oluşabileceğinden maske kullanılması 
+gerektiğini belirtir. 
+Kırılabilir Cam Güvenliği: Bu piktogram, 
+işlemlerde kırılabilecek malzemelerin 
+kullanılacağını gösterir. Cam malzemeler 
+aşırı ısıtılmamalı ve ani sıcaklıklara maruz 
+bırakılmamalıdır.
+Oksitleyici Madde: Yanıcı maddelerle 
+karıştırıldığında patlamaya neden olabilir. 
+Yanan maddelerle teması önlenmelidir. 
+Ateş, kıvılcım ve ısıdan uzak tutulmalıdır. 
+Uygun mesafede durulmalı ve koruyucu 
+giysi giyilmelidir.
+Yanıcı, Parlayıcı Madde: Yanıcı ve parla-
+yıcıdır. İşlemlerde yangın çıkarabilecek 
+malzemelerin kullanılacağını gösterir. Bu 
+tür maddeler ateş, kıvılcım ve ısıdan uzak 
+tutulmalıdır.
+Patlayıcı Madde: Kıvılcım, ısınma, alev, 
+vurma, çarpma ve sürtünmeye maruz 
+kaldığında patlayabilir. Ateş, kıvılcım ve 
+ısıdan uzak tutulmalıdır. Uygun mesafede 
+durulmalı ve koruyucu giysi giyilmelidir.
+Zehirli Madde: Zehirli veya çok zehirlidir. 
+Ağız, deri ve solunum yolu ile zehirlenme-
+lere yol açar. Vücut ile temas ettirilmeme-
+lidir. Kanser riski taşır.
+Korozif Madde: Canlı dokuyu tahrip 
+eden ya da metalleri aşındıran/paslan-
+dıran maddelerdir. Deriye ve göze hasar 
+verir. Gözleri ve deriyi korumak için özel 
+önlemler alınmalı, koruyucu giysi giyilmeli 
+ve buharı solunum yoluyla alınmamalıdır. 
+Metallerden uzak tutulmalıdır.
+Tahriş Edici Madde: Bu maddeler deriye, 
+göze ve ozon tabakasına zarar verebilir. 
+Buharı solunmamalıdır ve vücutla temas 
+ettirilmemelidir. Gözleri ve deriyi korumak 
+için özel önlemler alınmalıdır ve koruyucu 
+giysi giyilmelidir. 
+Çevreye Zararlı Madde: Suya ve doğadaki 
+canlılara zarar verir. Doğaya dökülmemeli 
+ve salınmamalıdır.
+Sağlık Etkisi: İnsan sağlığına kısa veya 
+uzun dönemli hasarlar verebilir. Vücut/cilt 
+ile temas ettirilmemeli, ağız yoluyla alın-
+mamalı ve solunmamalıdır. Ayrıca kanser 
+riski taşır.
+TEMEL UYARI VE GÜVENLİK İŞARETLERİ

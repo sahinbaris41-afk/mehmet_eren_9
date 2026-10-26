@@ -1,0 +1,54 @@
+65
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+“öğrencilerin önerme oluşturabilmeleri, standart tepkime entalpisini belirlemeye yönelik 
+çıkarım yapabilmeleri, standart tepkime entalpisini hesaplayabilmeleri ve hesaplamala -
+rıyla tahminlerini karşılaştırabilmeleri” ölçütlerini içeren dereceli puanlama anahtarı ile 
+öğretmen ve öğrenci tarafından değerlendirilebilir (SDB1.2).
+KİM.11.1.5
+Öğrencilerin kimyasal bir tepkimenin oluşum sürecine ilişkin ön bilgilerinin ortaya çıkarıldı-
+ğı bir tartışma ortamı oluşturulabilir. Uygulanan tartışma yöntemi ile öğrencilerin düşünce 
+ve izlenimlerini etki altında kalmadan ifade etmeleri ve etkili iletişim becerilerini kullan -
+maları sağlanabilir  (SDB2.1, D11.2, D14.1, E1.2) . Öğrencilerden günlük hayatta karşılaş -
+tıkları yemeklerin bozulması, metallerin paslanması gibi istenmeyen durumları kimyasal 
+tepkimeler ile ilişkilendirmeleri ve bu tepkimelerin gerçekleşme şartlarını tartışarak çö -
+züm üretmeleri istenebilir (SDB3.3, E1.4). Tartışma süresince verilen günlük hayatta kar-
+şılaşılan kimyasal tepkime örnekleri üzerinden kimyasal bir değişimin gerçekleşme ya da 
+gerçekleşmeme durumuna ilişkin ölçütler (gerekli enerji ve uygun doğrultuda çarpışma) 
+belirlenmesi sağlanır. Kimyasal bir değişimin gerçekleşme ya da gerçekleşmeme duru -
+munu alt mikro seviyede gözlemleyebilmeleri için çarpışma teorisi ile ilişkili görsel mater-
+yaller kullanılır. Öğrenciler, görsel materyallerden elde ettiği gözlem verilerini kullanarak 
+bir kimyasal tepkimenin gerçekleşebilmesi için gerekli şartlar ile ilgili örüntüler oluşturur 
+(OB4, E3.7). Öğrencilerden kimyasal tepkimelerin gerçekleşme şartlarına yönelik iddiala-
+rını görsel materyallerden elde ettiği gözlem verilerine dayalı olarak açıklamaları istenir. 
+Öğrencilere etkin çarpışma, eşik değeri, aktivasyon enerjisi ve aralarındaki ilişki açıklanır. 
+Öğrenciler, açıklamalarını desteklemek için çarpışma teorisine ilişkin bilgileri ve sembolik 
+modelleri kullanır. Etkinlik kâğıtları “öğrencilerin bir tepkimenin gerçekleşmesi için gerekli 
+şartları belirleyebilmek adına ölçütler geliştirebilmesi, gerekli şartlarla ilgili örüntü oluş -
+turabilmesi, gerekli şartları sembolik modeller ve çarpışma teorisini kullanarak açıklaya -
+bilmesi” ölçütlerini içeren  dereceli puanlama anahtarı ile öğretmen ve öğrenci tarafından 
+değerlendirilebilir. Hazırlanan öz değerlendirme formu ile öğrenci kendi öğrenme sürecini 
+de değerlendirebilir (SDB1.2, SDB1.3). 
+KİM.11.1.6 
+Günlük hayatta karşılaşılan çok hızlı ve çok yavaş gerçekleşen tepkime örnekleri üzerinden 
+tepkimelerin hızlarının farklı olabileceğine dikkat çekilir. Öğrencilere belirli bir tepkimeye 
+ait tepken ve ürünlerin derişiminin zamanla değişimine ilişkin hazır veri seti verilir. Öğren-
+ciler, bu veri setini kullanarak etkinlik kâğıdına derişim-zaman grafiğini çizer (OB7). Çizdiği 
+derişim-zaman grafiğini kullanarak tepkime hızının zamanla değişimi ile ilgili önermeler 
+oluşturur. Öğrenciler önermelerini arkadaşlarıyla paylaşabilir. Bunu yaparken öğrencile -
+rin düşünce ve izlenimlerini etki altında kalmadan ifade etmeleri, arkadaşlarının sözünü 
+kesmemeleri, arkadaşlarını etkin dinlemeleri gibi etkili iletişim becerilerini kullanmaları 
+sağlanabilir (SDB2.1, D11.2, D14.1, E2.1). Öğrenciler, tepkime hızının değişimine ilişkin deri-
+şim-zaman grafiğini kullanarak ulaştığı önermeleri ve tepkime hızları ile ilgili önceki bilgile-
+rine dayalı olarak oluşturduğu önermeleri karşılaştırır (OB1). Tepkime hızı kavramı, tepken 
+ve ürünlerin birim zamanda derişimlerindeki değişim temelinde hem sözel olarak hem de 
+matematiksel bir eşitlikle tanımlanır. Ardından ortalama hız kavramı, derişim-zaman gra -
+fiği ile ilişkilendirilerek açıklanır. Öğrenciler, bu bilgileri kullanarak ellerindeki veri setinden 
+verilen tepkimenin farklı zaman aralıklarına ilişkin ortalama hızlarını hesaplar ve tepkime 
+hızının zamanla değişimine yönelik çıkarımda bulunur (KB2.10). Öğrencilerden tepkime 
+hızının zamanla değişimini çarpışma teorisi ile ilişkilendirerek çıkarımlarının geçerliliğini 
+sorgulamaları istenir (OB1). Etkinlik kâğıtları “öğrencilerin derişim-zaman grafiklerini çize-
+bilmesi, tepkime hızının zamanla değişimine ilişkin önerme oluşturabilmesi, matematiksel 
+bir eşitlikle tepkime hızını hesaplayabilmesi ve çarpışma teorisi ile tepkime hızındaki deği-
+şimi açıklayabilmesi” ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. 
+Öğrencilerden çalışma yaprağında verilen farklı tepkimeler üzerinden maddelerin harcan-
+ma ve oluşum hızlarını hesaplamaları istenebilir.

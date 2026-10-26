@@ -1,0 +1,55 @@
+189
+AKIŞKANLAR
+Akışkanların sürati ile basıncı arasında ilişki olduğunu ilk kez Daniel Bernoulli 
+(Danyel Bernulli) ortaya koymuştur. “Bir boruda veya kanalda akmakta olan 
+akışkanın basıncı, durgun hâldeki basıncından küçüktür.” ifadesi Bernoulli 
+İlkesi olarak bilinir. Bernoulli İlkesi'ne göre akışkanların sürati arttığında 
+basıncı azalır.
+Fırtınalı bir havada evlerin çatısı üzerinden ve çevresinden hızla geçen rüz -
+gâr, çatı üzerindeki havanın süratini artırır ( o2 > o1). Bu durumda çatının ve 
+duvarların yüzeyine etki eden hava basıncı azalır. Evin içinde kapılar ve pen-
+cereler kapalı olduğunda hava nispeten daha durgun kalır, bu da iç basıncın 
+dışarıdaki hava basıncından daha büyük olmasına neden olur. Sonuç ola -
+rak içerideki yüksek basınç (P 1) ile dışarıdaki alçak basınç (P 2) arasındaki 
+fark, çatıyı yukarı doğru iten güçlü bir kuvvet oluşturur (Görsel 3.28). Eğer bu 
+basınç farkı, yeterince büyükse çatı bağlantı elemanlarının dayanımını aşabilir 
+ve çatıyı evden ayırabilir. Kapı veya pencerelerin aniden açılması durumunda 
+iç ve dış basınç arasındaki fark hızla değişir, bu da kapıların ve pencerelerin 
+şiddetle çarpmasına neden olur.
+o1
+o2
+Alçak basınç
+Yüksek basınç
+P1
+P2
+Görsel 3.28: Fırtınalı havada evin çatısında oluşan alçak basınç
+Rüzgârlı bir günde şemsiye kullanılırken şemsiyenin ters dönmesi olayı ile 
+sıklıkla karşılaşılır. Rüzgârlı günlerde hareket hâlindeki hava, açık şemsiyenin 
+tümsek yüzeyinin hemen hemen tamamını dolanır. Şemsiyenin üst yüzeyi 
+bombeli olduğundan üzerinden geçen rüzgâr süratlenir (Görsel 3.29: a). Bu 
+da üst yüzeydeki hava basıncını düşürür. Şemsiyenin alt yüzeyinde ise hava 
+nispeten daha yavaş hareket eder. Yavaş hareket eden hava daha yüksek bir 
+basınca sahiptir. Dolayısıyla alt ve üst yüzey arasında bir basınç farkı oluşur. 
+Bu basınç farkı, şemsiyenin üst yüzeyine doğru bir kaldırma kuvveti uygular. 
+Eğer rüzgârın sürati belirli bir sınırı aşarsa oluşan kuvvet şemsiyeyi ters çevi-
+rebilir. Şemsiye, Görsel 3.29: b’deki gibi rüzgârın geliş yönüne doğru bir miktar 
+eğildiğinde hava akışı şemsiye yüzeyinde bölünmeye zorlanır ve şemsiyenin 
+ters dönmesi engellenebilir.
+a) b)
+Görsel 3.29: a) Şemsiyenin alt ve üst kısmından rüzgârın akışı b) Şemsiyenin rüzgâ-
+rın akış yönüne karşı eğilerek ters dönmesinin engellenmesi
+Daniel Bernoulli
+Daniel Bernoulli, 1700-
+1782 yılları arasında 
+yaşamış matematikçi ve 
+fizikçidir. Matematiği 
+akışkan mekaniğine 
+uygulamış, olasılık ve is -
+tatistik alanlarında öncü 
+çalışmalar yapmıştır. 
+Adı, karbüratör ve uçak 
+kanadı gibi XX. yüzyılın 
+önemli teknolojilerine 
+matematiksel temel sağ -
+layan Bernoulli İlkesi ile 
+özdeşleşmiştir.

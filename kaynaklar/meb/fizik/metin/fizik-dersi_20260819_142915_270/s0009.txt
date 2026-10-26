@@ -1,0 +1,41 @@
+9
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+kullanmaları ile deneyime dayalı olarak anlamlı bir şekilde yapılandırmaları anlayışı benimsenmiştir. Bu sebeple, 
+beceri odaklı öğrenme çıktılarının kazandırılmasında buluş yoluyla öğretim stratejileri ile aktif öğretim yöntem 
+ve tekniklerinin kullanılması önemlidir. Ayrıca yöntem ve materyal çeşitliliği sağlanmalı; bilimsel gözlem, deney 
+yapma, bilimsel çıkarım yapma ve tümevarımsal akıl yürütme gibi fen bilimleri alan becerilerine özgü becerilerin 
+geliştirilmesi için yeterli süre ve uygun öğrenme ortamları oluşturulmalıdır.
+• Fizik Dersi Öğretim Programı'nda kazandırılması amaçlanan alan becerileri, kavramsal beceriler ve üst düzey 
+düşünme becerileri; fen bilimlerine uygun STEM, 5E, probleme dayalı öğrenme, argümantasyona dayalı 
+öğrenme vb. model, yöntem ve tekniklerle programın yapısına uygun şekilde öğrenme-öğretme uygulamalarına 
+yansıtılmalıdır.
+• Programda yer alan öğrenme-öğretme yaşantıları; öğrencilere bütüncül bir bakış açısı kazandıran, kalıcı 
+öğrenmenin gerçekleşmesine hizmet eden, farklı öğretim yöntem ve tekniklerini kullanan,, disiplinler arası 
+ilişkiler ile mevcut bilgi ve becerilerini zenginleştiren kapsamlı bir çerçevede sunulmuştur. Öğrenme-öğretme 
+uygulamalarında öğrenme çıktıları ve süreç bileşenlerine yönelik yazılan tüm süreçlerin yürütülmesi esastır. 
+Bununla birlikte öneri niteliğinde olan uygulamalarda ilgili ünitenin öğrenme çıktıları ve süreç bileşenleri başta 
+olmak üzere ilişkilendirilen tüm eğilimler ve programlar arası bileşenler dikkate alınarak planlamalar yapılır ve bu 
+doğrultuda uygulamalar farklılaştırılabilir.
+• Öğrencilerin hazır bulunuşluk düzeyleri ve öğrenme profilleri göz önünde bulundurularak öğrenme çıktılarıyla 
+tutarlı olan farklı öğretim materyalleri (bilgi notu, sunum, etkinlik, çalışma yaprakları, okuma parçaları vb.) 
+yapılandırılmalı ve kullanılmalıdır. Öğretim materyalleri hazırlanırken zümre öğretmenleriyle ve diğer branşlarda 
+çalışan öğretmenlerle iş birliği yapılmalıdır.
+• Fizik Dersi Öğretim Programı'nda fizik bilimine katkı sağlayan önemli kişilere vurgu yapılmaktadır. Bu nedenle 
+önemli şahsiyetlerin biyografileri verilirken ezber yönteminden kaçınılmalı, bu kişilerin söz konusu alana katkılarına 
+ve ortaya koydukları eserlere vurgu yapılmalıdır.
+1.2.5. FARKLILAŞTIRMA
+Farklılaştırma bölümünde yer alan zenginleştirme kısmında öğretim programında var olan öğrenme çıktıları ve süreç 
+bileşenlerine herhangi bir ekleme yapılmadan konu derinleştirilmeli, destekleme kısmında ise yine öğrenme çıktıları 
+ve süreç bileşenlerinde herhangi bir değişiklik yapılmadan sadeleştirme yoluna gidilmelidir. Farklılaştırma sürecinin 
+yapılandırılması açısından aşağıdaki hususlar dikkate alınmalıdır:
+• Farklılaştırma kapsamında zenginleştirme bölümünde yer alan öneri niteliğindeki uygulamalardan “*” ile 
+işaretlenenlerin fen liselerinde gerçekleştirilmesi zorunludur. Zorunlu olan zenginleştirme uygulamalarına yıllık 
+planlarda yer verilir.
+• Farklılaştırma kapsamında zenginleştirme ve destekleme bölümlerinde yer verilen uygulamalara (“*” sembolü ile 
+verilen uygulamalar dâhil) ders kitaplarında yer verilmez. Ancak materyal hazırlayıcılar tarafından “*” ile belirtilen 
+uygulamalara yönelik e-içerik hazırlanır. Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç 
+ve istekleri göz önünde bulundurularak öğretmenler tarafından Türkiye Yüzyılı Maarif Modeli kapsamında sunulan 
+açıklamalar ile MEB tarafından onaylanmış dijital veya basılı materyallerden yararlanılarak planlanır ve uygulanır.
+• Destekleme kapsamında öğrencilere yalın içerikler sunulabilir; basit, kolay ve anlaşılır görevler verilebilir, 
+etkinlikler yaptırılabilir. Bununla beraber farklı öğretim yöntem ve teknikleri kullanılarak ya da deneyler ile görev 
+ve etkinlikler yeniden yapılandırılabilir.

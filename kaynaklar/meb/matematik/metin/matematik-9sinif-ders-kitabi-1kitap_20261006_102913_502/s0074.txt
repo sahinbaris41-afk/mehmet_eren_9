@@ -1,0 +1,37 @@
+74
+1. Tema /  Sayılar
+16.	Sıra	Sizde      
+“Her çift tam sayının karesi çift tam sayıdır.” önermesi veriliyor.
+a) Önermeyi	matematiksel	sembol	kullanarak	yazınız.
+b)	 Önermenin	cebirsel	ispatını	yapınız. 
+Gerçek Sayılarda İşlem Özellikleri
+• Değişme özelliği: a, bi çina bb av ea bb aR +=+ =$$6 !  olur.
+• Birleşme özelliği: a, bR için ab ca bc ve ab ca bc++ =+ += $$ $$6 ! __ __ii ii  olur.
+• Birim eleman: ai çina 00 aa ve a1 1a aR +=+ ==$$6 ! =  olur.
+  Toplama işleminin birim elemanı 0 ve çarpma işleminin birim elemanı 1’dir.
+• Ters eleman: av ea 0i çinR6 !!
+ aa aa 0==+- -+__ ii olduğundan a nın toplama işlemine göre tersi –a olur.
+ a a1 a1 a1==$$  olduğundan a nın çarpma işlemine göre tersi a1 a 1= -  olur.
+• Yutan eleman: ai çina 00 a0R =$$6 ! =  olduğundan çarpma işleminin yutan elemanı 0’dır.
+• Çarpma işleminin toplama işlemi üzerine dağılma özelliği: a, b, ci çinR6 !  
+ ab ca ba c=+$$ $+_i  ve bc ab ac a=+$$ $+_i  olur.
+ Çarpma işleminin çıkarma işlemi üzerine dağılma özelliği: a, b, ci çinR6 !  
+ ab ca ba c=$$ $--_i  ve bc ab ac a=$$ $--_i  olur.
+• Gerçek sayılarda toplama, çıkarma ve bölme işlemlerinin yutan elemanı yoktur.
+• Gerçek sayılarda çıkarma ve bölme işlemlerinin değişme özelliği, birleşme özelliği, birim elemanı ve 
+ters elemanı yoktur.
+Kontrol Noktası
+24.	Uygulama
+İki Gerçek Sayının Farklı Gösterim lerinin ve İki Farklı Cebirsel İfadenin Birbirine Eşitliğini İnceleme 
+Verilenlere göre aşağıdaki soruları cevaplayınız.
+Aşağıda kenar uzunlukları a cm ve b cm olan dikdörtgen şeklinde bir karton verilmiştir. Bu dikdörtgenin her köşe-
+sinden bir kenar uzunluğu k cm olan kare şeklindeki parçalar kesilerek çıkartılmıştır.
+a
+b
+k k
+k
+k
+k
+k
+k
+k

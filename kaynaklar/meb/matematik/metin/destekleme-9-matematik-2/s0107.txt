@@ -1,0 +1,31 @@
+106
+MATEMATİK 9 
+6. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ
+2. Adım
+İnceleme sonrasında firma yetkilisi Grafik 1 ile Grafik 2’yi karşılaştırarak “Konut satışı arttıkça yabancı-
+lara yapılan konut satışı da artmaktadır.” sonucuna varmıştır.
+Buna göre verilen grafiği inceleyiniz ve soruları yanıtlayınız.
+Firma yetkilisi yabancılara yapılan konut satışı sayısı için Grafik 2'de verilen TÜİK verilerini incelemiştir.
+a.  Bu araştırmacının çıkarımına yönelik tespit ettiğiniz hataları/yanlılıkları varsa yazınız.
+b.  Tespit ettiğiniz bir hata/yanlılık varsa düzeltmek için araştırmacıya ne önerirsiniz?
+c.  Verilen grafiğe bakılarak "Yabancılara en fazla konut satışı Antalya'da olmuştur." çıkarımı yapılabilir 
+mi? Neden?
+Çözüm:
+Çözüm:
+Çözüm:
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+2022-112022-122023-012023-022023-032023-042023-052023-062023-072023-082023-092023-102023-112023-122024-012024-022024-032024-042024-052024-062024-072024-082024-092024-102024-11
+Grafik 2: Yabancılara yapılan konut satışı, Kasım-2022, Kasım-2024
+6 083
+2 342
+2 122
+2 151
+Satış Miktarı (Adet)
+Tarih

@@ -1,0 +1,14 @@
+51
+Ünite sunusuna 
+ulaşmak için 
+karekodu okutunuz.
+Fizik bilimi, gözlemlere ve deneysel çalışmalara da yanmaktadır. Bu gözlemler ve deneysel çalışmalarda 
+yapılan ölçümler, gözlemlenen olayların aktarılmasında önemlidir. Öl çülen büyüklüklerin ve birimlerinin 
+bilinmesi, bilimsel gelişmeleri sağlayan faktörler arasındadır. M atematiksel büyüklüklerden farklı olarak 
+fizik bilimindeki büyüklüklerden bazılarının ifade edilmesinde bü yüklük ve birim yeterli değildir. Böyle 
+büyüklüklerin gösterimi ve işlemleri de farklılık göstermektedir. Fizi k biliminde büyüklükler benzerlik ve 
+farklılıklarına göre gruplandırılmaktadır. Olgu ve olaylarla aç ıklanan doğadaki temel kuvvetler de grup ­
+landırılan nicelikler arasında yer alır. Yağmur tanelerinin yere doğru ha reket etmesi, uyduların Dünya’nın 
+etrafında yörüngede dolanması, mıknatısın toplu iğneleri çekmesi, a tom çekirdeğindeki parçacıkların bir 
+arada kalması bu kuvvetlerin etkisi sonucu gerçekleşen olaylardan bazı larıdır.
+Ünite Karekodu

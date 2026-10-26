@@ -1,0 +1,63 @@
+1. Tema/Etkileşim
+76
+1. 12Mg ile ilgili aşağıda verilen soruları cevaplayınız.
+a) Elektron dizilimini yazınız. 12Mg atomundan iyon oluşum sürecinde elektronların hangi orbitalden ve-
+rilebileceğini veya hangi orbitale alınabileceğini belirleyiniz.
+b) İyon yükünü belirleyiniz ve iyon hâlinin elektron dizilimini yazarak oluşan iyon türünü (anyon veya 
+katyon) tespit ediniz.
+2. Aşağıda verilen iyonların elektron dizilimini yazınız ve orbital şemasının hangi soy gaz atomunun orbital 
+şemasına benzediğini belirtiniz. (2He, 10Ne, 18Ar, 36Kr)
+a) 15P
+3−
+: 
+b) 3Li
++
+:  
+c) 7N
+3−
+:
+3. Aşağıda verilen tanecik çiftlerinden her birinin elektron dizilimini yazınız ve izoelektronik olup olmadık -
+larını belirleyiniz.
+a) 9F
+−
+ ve 11Na
++
+b) 3Li
++
+ ve 2He
+c) 16S
+2−
+ ve 15P
+3−
+ 
+ç) 7N
+3−
+ ve 11Na
+d) 19K
++
+ ve 20Ca
+2+
+Birbiriyle izoelektronik olan taneciklere 11Na
++
+, 12Mg
+2+
+ ve 10Ne örnek verilebilir. 
+11Na
++
+ iyonu 11 protona ve 10 elektrona, 12Mg
+2+
+ iyonu 12 protona ve 10 elektrona, 
+10Ne atomu ise 10 protona ve 10 elektrona sahiptir. Hepsinin elektron dizilimi 
+ise 1s
+2
+2s
+2
+2p
+6
+ şeklindedir. Bu örnekten yola çıkarak izoelektronik tanecikler 
+elektron sayıları ve elektron dizilimleri aynı, proton sayıları farklı tanecikler 
+olarak tanımlanabilir. 
+Kontrol Noktası 1.7
+İyon oluşumu ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.

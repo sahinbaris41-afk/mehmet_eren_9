@@ -1,0 +1,55 @@
+139
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrencilerin Türk-İslam kültürüne ilişkin yapacakları bu çalışmalarla kültürü oluşturan un -
+surları ve kendi kültürlerini fark etmeleri sağlanır. Bu sayede kültürel mirasa sahip çıkma 
+duyarlılıkları da desteklenir (OB5). Bu aşamada öğrencilerin çokgenlerin açı özelliklerine 
+ilişkin çıkarımlarından hareketle düzgün çokgen tanımını da kullanarak bir düzgün çokgenin 
+bir iç ve bir dış açısının ölçüsünü veren bağıntıları kenar sayısına bağlı olarak ifade etmeleri 
+sağlanır. Böylece önceki bilgi ve çıkarımlarını kullanarak, yorumlayarak yeni sonuç ve çıka -
+rımlara ulaşan öğrencilerin bilgi okuryazarlığı becerileri desteklenmiş olur (OB1). Çokgenlere 
+ilişkin yapılan çıkarımların değerlendirilmesi bağlamında ayrıca düzgün beşgen, düzgün altı-
+gen ve düzgün sekizgenin açı özellikleri kullanılarak köşegen ve simetri özellikleri incelenir. 
+Bu çokgenlere dair çıkarımlar (“Düzgün beşgenin tüm köşegen uzunlukları eşittir.” gibi) yapıl-
+masını sağlayacak süreç işe koşulur. Öğrencilerin düzgün beşgen, düzgün altıgen ve düzgün 
+sekizgen örnekleri üzerinden kenar sayısı tek veya çift sayı olan düzgün çokgenlerin köşegen 
+ve simetri (“Kenar sayısı çift sayı olan düzgün çokgenlerde en uzun köşegenler simetri ekse-
+nidir.”, “Düzgün çokgenlerde bir köşeden çizilen iç açıortay simetri eksenidir ve farklı köşeler-
+den çizilen iç açıortaylar tek noktada kesişir.” gibi) özelliklerine ilişkin genellemeler yaparak 
+çıkarımlarda bulunması sağlanır. Düzgün çokgenlerin köşegen ve simetri özelliklerine ilişkin 
+yapılan çıkarımlara bağlı olarak düzgün altıgen, düzgün sekizgen ve düzgün onikigenin alan-
+larının nasıl hesaplanabileceğine ve alan özelliklerine ilişkin çıkarımda bulunmalarına yöne-
+lik çalışmalar yapılır. Bu süreç sonunda ortaya konan önermeler, farklı problem durumlarına 
+uyarlanarak kullanışlılık açısından değerlendirilir. Öğrencilere çokgenler ve çokgenlerin özel-
+liklerine ilişkin çıkarımlarının değerlendirilmesi için farklı soru türlerinin bulunduğu çalışma 
+kâğıtları verilebilir.
+MAT.11.2.5
+Öğrencilere çokgenler ve dörtgenlerin özelliklerine ilişkin çıkarımlarını ve özel dörtgenler ara-
+sındaki ilişkilere dair edindikleri bilgi ve becerileri kullanabilecekleri farklı problem durumları 
+sunularak bu problemleri incelemeleri istenir. Öğrencilere sunulacak bu problemlerde çok-
+gen ve dörtgenlerin günlük hayatta ve başka disiplinlerde kullanımına ilişkin örneklere özellik-
+le yer verilir. Tekstil ve dokumacılık sektörü, süsleme ve görsel sanatlar, çokgen ve dörtgen 
+kullanılarak oluşturulan eserler, mimari yapılar, yapıların yüzey kaplamaları ve doğada kar-
+şılaşılan örneklerle ilgili problem durumlarında çokgen ve dörtgenler kullanılır (OB4). Prob-
+lemlerde kullanılacak örnekler seçilirken Türk kültürüne ait yöresel halı dokuma örnekleriyle 
+çokgen ve dörtgenlerin süsleme ve resim sanatındaki kullanımları ele alınarak öğrencilerin 
+kültürü oluşturan unsurlarla kendi kültürünün özelliklerini fark etmeleri sağlanır (OB5). Türk 
+kültürüne ilişkin örnekler, öğrencilerin kültürel mirasa ilişkin duyarlılıklarını pekiştirir (D14.3). 
+Öğrencilerin sunulan problem durumlarına ilişkin olarak öncelikle problemin parçaları (sayı-
+sal veya nicel, görsel veya şekil gibi) ve bu parçalar arasındaki ilişkileri belirlemeleri sağlanır. 
+Öğrencilerden özellikle gerçek yaşam durumlarını içeren problemleri analitik bir yaklaşımla 
+matematiksel temsillerle ifade edecek şekilde dönüştürmesi ve problemin bileşenlerini be-
+lirlemesi beklenir (E3.6, MAB3). Öğrencilerin problemin çözümü için geliştirdikleri stratejileri 
+uygulayarak problemi çözmeleri ve çözümlerini kontrol etmeleri sağlanmalıdır (SDB3.3). Bu 
+tür problemlerin çözümlerinde çokgen olabilme koşullarının verilen noktaların içbükey, dış-
+bükey çokgen olacak şekilde bir araya getirilmesini; pergel, cetvel, ölçüsüz cetvel veya mate-
+matik yazılımlarının kullanımını; farklı çokgen ve dörtgen çeşitlerinin özelliklerinin kullanımını 
+içeren stratejiler kullanılır. Daha sonra öğrencilerin farklı çözüm yollarını ve stratejileri eleş-
+tirel bir yaklaşımla gözden geçirmeleri teşvik edilir (E3.10). Bunun için öğrencilerin çözümleri 
+tartışma ortamında ele almaları sağlanır. Tartışılan çözüm yolları üzerinden problemin çözü-
+münü sağlayan yolların benzer tüm durumlara genellenip genellenemeyeceğine yönelik çıka-
+rımlar yapılır. Çözüm stratejilerinden hangilerinin hangi tür problemlerde kullanılabileceğine 
+ilişkin (pergel, cetvel, ölçüsüz cetvel veya matematik yazılımlarının, çokgenlerin özelliklerinin 
+kullanımı gibi) çıkarımların matematiksel örneklerle desteklenerek değerlendirilmesi yapılır. 
+Öğrencilerden kendi uyguladıkları stratejilerin doğruluğu ya da yanlışlığı üzerinden ayrıca bir 
+değerlendirme yaparak kendilerinin belirlediği stratejileri farklı problem durumlarına uyar -
+lamaları beklenir. Bu değerlendirmeler sonucunda öğrencilerin elde ettikleri genellemeleri 

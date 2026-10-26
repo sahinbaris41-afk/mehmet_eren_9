@@ -1,0 +1,52 @@
+36
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+reket etmeleri, araç ve teknolojileri bireysel olarak kullanmaları da desteklenir (E1.2). Her 
+bir inşa için farklı yollar olup olmadığının ve farklı çözümlerin neler olabileceğinin sorgulan-
+ması sağlanır. Öğrencilerin bu süreçte farklı çözümler için probleme farklı açılardan bak -
+maları teşvik edilerek esneklik becerilerinin gelişimine destek olunur (SDB3.2). Öğrencile-
+re inşaların farklı şekillerde nasıl yapılabileceğine ilişkin performans görevleri verilebilir. Bu 
+performans görevinde öğrencilerin inşaların farklı şekillerde nasıl yapılabileceğine ilişkin 
+yürütecekleri akıl yürütme ve çalışma süreci, kendi öğrenme durumlarını geliştirmeye yö-
+nelik çalışmalar da olduğundan öz düzenlenme becerileri ve sorumluluk eğilimlerinin geli-
+şimi desteklenir (SDB1.2, D16.3, E2.2). Öğrencilere yapılan inşaların bazı adımlarının boş bı-
+rakıldığı, açık uçlu ve kısa cevaplı  soruların bulunduğu çalışma  kâğıdı verilebilir. Farklı inşa 
+yöntemlerini araştırmalarına ve bu yöntemleri sunmalarına yönelik proje ödevi verilebilir.
+MAT.H.4.2
+Öğrencilerin öncelikle bazı özel dörtgenlerin (sırasıyla yamuk, paralelkenar, dikdörtgen, 
+eşkenar dörtgen, kare)  inşasını yapmaları beklenir. Bu dörtgenlerin inşası pergel, ölçü -
+süz cetvel veya matematik yazılımları ile yapılır. İnşanın matematik yazılımları kullanılarak 
+yapılması durumunda öğrencilerin dijital araçlarla iş görme becerilerinin gelişimi de des -
+teklenir (OB2). Ardından öğrencilerin bu dörtgenlerin açı, kenar ve köşegen özelliklerine 
+yönelik varsayımlarda bulunmaları sağlanır. Öğrencilerin inşası yapılan özel dörtgenlerin 
+farklı durumlarını inceleyerek varsayımlarına yönelik genellemelere ulaşmaları istenir. Öğ-
+rencilerden yaptıkları genellemelerin varsayımlarını karşılayıp karşılamadığını belirleyerek 
+genellemeleri önermeler (“Dikdörtgenin köşegen uzunlukları eşittir.”, “Paralelkenarın kar-
+şılıklı açılarının ölçüleri birbirine eşittir. ” gibi) olarak ifade etmeleri istenir. İncelenen dört -
+gen ile diğer dörtgenlerin karşılaştırılması, ortak olan ve olmayan özelliklerin belirlenmesi 
+için öğrencilere fırsat verilir. Öğrencilerin inceledikleri özel dörtgenlerin özelliklerine dair 
+bilgi ve çıkarımları, tanılayıcı dallanmış ağaç kullanılarak değerlendirilebilir (SDB1.2).
+MAT.H.4.3
+Geometrik yapı örnekleri sunulur ve öğrencilerin bu örnekleri görsel yorumlama yöntemi 
+ile incelemesi sağlanır. Öğrencilerin inceledikleri örneklerde yer alan şekil ve desenlerle 
+ilgili fikirlerini paylaşması, farklı örneklerde gördükleri benzer özellikleri ifade etmesi bek -
+lenir. İncelenen örneklerin fraktal olarak adlandırılan geometrik yapılar olduğu ifade edile-
+rek öğrencilerin fraktal tanımını incelemesi sağlanır. Öğrencilerin sınıf veya grup tartışma-
+sı yoluyla örnek olarak sunulan fraktalları oluşturan şekilleri belirlemeleri istenir. Tartışma 
+ortamında öğrenciler özellikle karışık fraktalları oluşturan şekilleri belirlerken düşüncele -
+rini müzakere ederek farklı fikirler üzerinde uzlaşma sağlayacaklarından iş birliği becerileri 
+desteklenir (SDB2.2). Öğrencilerin her bir örnek fraktal için belirledikleri şekiller özetlenir. 
+Her bir fraktal örneği için belirlenen bu şekiller arasındaki ilişkilere ve bu ilişkileri nasıl kur-
+duklarına dair açıklama yapması sağlanır. Öğrencilerin şekiller arasındaki ilişkiler üzerinden 
+fraktalın nasıl oluşturulduğunu, desenlerdeki tekrar ve benzerlikleri ifade ederek fraktalın 
+özelliklerini belirlemesi beklenir. Fraktalların çözümlenmesi, sunulan fraktal görsellerinin 
+tanınması, yorumlanması ve sorgulanması ile öğrencilerin görsel okuryazarlık becerile -
+rinin gelişimi desteklenir (OB4). Öğrencilere farklı fraktal örneklerini belirlemeye yönelik 
+araştırma ödevi verilebilir. Araştırma ödevlerinin sınıf ortamında sunulması desteklenerek 
+öğrencilerin öz güven ve girişkenlik eğilimlerinin, iletişim ve iş birliği becerilerinin gelişimi 
+sağlanır (E1.5, E2.3, SDB2.1, SDB2.2) . Öğrencilerin araştırmalarını dijital ortamda hazırla -
+ması ve sunması ile dijital okuryazarlık becerilerinin gelişimi desteklenir (OB2). Öğrencilere 
+fraktalları çözümleyebilmeye yönelik proje ödevi verilebilir. 
+MAT.H.4.4
+Geometrik şekiller kullanılarak oluşturulan süsleme örnekleri öğrencilere sunularak merak 
+duyguları harekete geçirilir (E1.1). Öğrencilerin bu örnekleri incelemeleri sağlanır. Geomet-
+rik şekiller ile yansıma veya öteleme dönüşümleri sonrası oluşan görüntüler; süslemenin 

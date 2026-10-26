@@ -1,0 +1,47 @@
+78
+2. ÜNİTE 
+9. Alıştırma
+ 
+F1
+F2
+ Yandaki şekilde verilen yatay zemin üzerinde sabitlenmiş kan-
+caya F1 ve F2 kuvvetleri uygulanarak kancanın hareket 
+etmesi istenmektedir. 
+Kancaya uygulanan kuvvetler aynı düzlemde olduğuna 
+göre kancanın hareket yönünü ve uygulanan kuvvetlerin 
+bileşkesinin büyüklüğünü paralelkenar yöntemini kulla -
+narak gösteriniz. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Örnek 
+Yandaki şekilde eşit bölmelendirilmiş düzlem üzerinde 
+, , , , veA B C D E F  vektörleri verilmiştir. 
+Buna göre uç uca ekleme yöntemi kullanılarak bu vektörlerden 
+elde edilecek bileşke vektör, verilen vektörlerden hangisi ile 
+ifade edilebilir?
+Çözüm
+Bileşke vektör, R A B C D E F= + + + + + işlemi yapılarak bulunur. 
+Düzlem üzerinde , v eA B C  vektörleri uç uca eklenmiş durumdadır. 
+Bu vektörlerden elde edilen bileşke vektör RABC, F  vektörüne eşittir. 
+Düzlem üzerinde D  ve E  vektörleri de uç uca eklenmiş durumdadır. 
+Bu vektörlerden elde edilen bileşke vektör RDE, F  vektörüne eşittir. 
+Bu durumda R  bileşke vektörü, 
+ş . eklinde i fade edilir
+R A B C D E F
+R F F F 
+R F 3
+= + + + + + 
+= + +
+=
+A
+F
+E
+B
+C
+D
+A
+F
+B
+C
+RABC = A + B + C
+RDE = D + E 
+ED

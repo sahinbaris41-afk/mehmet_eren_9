@@ -1,0 +1,15 @@
+218
+7. Tema / Veriden Olasılığa
+3. Sıra Sizde      
+Yukarıda kendi içinde eş bölmelere ayrılmış çarklardan birinin bölmeleri yeşil, mor ve mavi; diğerinin 
+bölmeleri ise pembe ve gri renklerle boyanmıştır. Bu çarklardaki oklar aynı anda çevrilecektir.
+a) Bu deneye ait olası tüm çıktıları ağaç şeması, tablo ve sistematik liste yöntemleri ile görselleş-
+tirerek aşağıdaki ilgili alanları doldurunuz. Çarklardaki oklardan birinin yeşil, diğerinin pembe 
+gelme olayına ait çıktıları belirleyiniz.
+ 
+ 
+Ağaç Şeması
+Tablo Sistematik Liste
+b) Kullandığınız farklı görselleştirme yöntemlerinin sağladığı kolaylıkları tartışınız.
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.

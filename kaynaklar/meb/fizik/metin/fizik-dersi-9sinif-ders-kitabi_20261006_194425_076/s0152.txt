@@ -1,0 +1,62 @@
+152
+3. ÜNİTE 
+6. Alıştırma
+Hidroelektrik santralleri, akan suyun kinetik enerjisinden elektrik enerjisi 
+üreten bir teknolojiye sahiptir. Bu tür santraller, genellikle bir nehir üze-
+rine inşa edilir. Baraj, nehirden gelen suyun akışını engelleyen ve suyu 
+toplayarak depolayan ana yapıdır. Nehir yatağına inşa edilen bu büyük 
+engel, arkasında geniş bir su kütlesi biriktirir. Barajların alt duvarları üst 
+duvarlarına göre daha kalındır.
+Metinden yararlanarak barajların alt duvarlarının üst duvarlarına göre daha kalın olmasının sebe-
+bini açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Kontrol Noktası
+Kapta eşit yükseklikte, aynı sıcak­
+lıkta, aynı cins durgun sıvı olması 
+durumunda sıvı basıncı kabın 
+şekline ve sıvının miktarına bağlı 
+değildir. 
+Basıncın 
+birimi:  
+Pa
+Sıvının 
+yoğunlu­
+ğunun (d) 
+birimi:  
+kg/m3
+Derinliğin 
+(h) birimi: m
+Y er çekimi 
+ivmesinin  
+(g) birimi:  
+m/s2
+Yüzey 
+alanının 
+birimi: m2
+Sıvılar, bulundukları kabın şeklini 
+alır. Sıvı molekülleri, bulunduğu 
+kabın her noktasına belirli bir basınç 
+uygular. Bu, kabın tabanına olduğu 
+gibi yan yüzeylerine de basınç uygu­
+lanmasına neden olur.
+Sıvı
+d
+h
+Sıvının kabın tabanına 
+yaptığı basıncın 
+matematiksel modeli:
+P h d g$ $ =
+F g h d A$ $ $ =
+Kuvvetin birimi: N
+Sıvılarda Basınç
+Durgun sıvının belirli bir noktadaki basıncı; o 
+sıvının yoğunluğuna (d), bulunduğu çevrenin yer 
+çekimi ivmesine (g) ve o noktanın sıvının serbest 
+yüzeyinden olan dik uzaklığına (h), diğer bir deyişle 
+derinliğine bağlıdır.
+Durgun sıvılar, içinde bulunduğu kabın temas ettiği 
+yüzeylerine basınçla beraber dik bir kuvvet uygular. 
+PK = PL = PM 
+K L M
+h
+ 

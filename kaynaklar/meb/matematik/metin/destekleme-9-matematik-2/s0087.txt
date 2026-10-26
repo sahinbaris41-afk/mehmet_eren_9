@@ -1,0 +1,25 @@
+86
+MATEMATİK 9 
+5. TEMA: ALGORİTMA VE BİLİŞİM
+3. Adım
+Esra, Burcu, Yiğit ve Alp isimli dört arkadaş yurt dışına seyahat edeceklerdir. Seyahat için havayolunu 
+tercih etmişlerdir. Tercih ettikleri havayolu firmasının, yolcuların bagaj haklarına göre talep ettikleri 
+ücret aşağıdaki tabloda verilmiştir.
+Akış ŞemasıSözde Kod
+Girdi:
+ 
+Çıktı:
+ 
+Başla: 
+Bitir:
+Başla
+Hayır
+Evet
+Evet
+Büyük sayı X
+X >  Y
+X = Y
+Bagaj Hakkı (kg) Ücret (TL)
+x � 20 ücretsiz
+20 � x � 25 30 TL
+x � 25 40 TL

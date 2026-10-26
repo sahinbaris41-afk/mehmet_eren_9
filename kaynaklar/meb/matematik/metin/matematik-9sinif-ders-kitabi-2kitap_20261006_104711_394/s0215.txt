@@ -1,0 +1,27 @@
+215
+7. Tema / Veriden Olasılığa
+5. Hilesiz üç madenî paranın ha vaya atılması deneyinde olası tüm çıktıların sayısı kaçtır? 
+6. İstenen çıktıları oluşturmadan önce ağaç şeması oluşturmanın ne gibi faydaları olabilir?   
+7. Herhangi bir olayda çıktı sayısı çok daha fazla olduğunda olası tüm çıktıları görselleştirmek için nasıl bir yol 
+izlenebilir?
+Matematik Tarihinden Notlar
+Kindi (801-873)
+MS 801 yılında babasının vali olduğu Küfe’de doğan Kindi, eğitimini Bağdat’ta almıştır. Felsefe, tıp, astronomi, 
+matematik, dil bilimi, müzik gibi birçok alanda başarı göstermiştir. Farklı alanlarda zengin bir bilgi birikimine 
+sahip olan Kindi, şifrelenmiş metinlerin çözümlenmesini konu alan el yazması bir eser bırakmıştır. Günümüzde 
+İstanbul’daki Süleymaniye Yazma Eser Kütüphanesinde yer alan bu eserde Kindi, başlıca şifreleme sistemi türle-
+rini ağaç şeması kullanarak sınıflandırmıştır. Bu yönüyle Kindi, ağaç şemalarını ilk kullanan bilim insanı olmuştur.
+Havaya Atılan Hilesiz İki Sayı Küpünün Üst Yüzeyine Gelen Sayılar 
+Verilen bilgilere göre aşağıdaki soruları cevaplayınız.
+Havaya atılan hilesiz iki sayı küpünün üst yüzeyine gelen sayıların toplamının asal sayı olması olayında tüm çık-
+tıları görselleştirmek için aşağıdaki tablo oluşturulmuştur.
+1. Tabloda boş bırakılan alanları örnekteki gibi doldurunuz.
+ 
+Hilesiz Sayı Küpleri
+(1, 1)
+(2, 1) (2, 5)
+(3, 2) (3, 6)
+(4, 3) (4, 4)
+(5, 5)
+(6, 6)
+5. Uygulama

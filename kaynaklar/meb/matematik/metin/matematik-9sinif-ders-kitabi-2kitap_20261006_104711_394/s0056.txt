@@ -1,0 +1,75 @@
+56
+4. Tema / Eşlik ve Benzerlik
+15. ÖRNEK
+İki	 dağcı,	ABC	 üçgeni	 şeklinde	 modellenmiş	 bir	 dağın	 B	 ve	 C	
+noktalarından	 zirveye	 doğru	 tırmanmaya	 başlamıştır.	 C	 nokta-
+sından	hareket	eden	dağcı	yolun	 53 ’ini	tırmandığında	D	nokta-
+sında	1500	metre	yüksekliğe	ulaşmıştır.	Bu	sırada	B	noktasın-
+dan	 hareket	 eden	 dağcı	 yolun	 yarısında	 bulunan	 E	 noktasına	
+varmıştır.	Verilen	bilgilere	göre
+a) Dağın	zirvesinin	kaç	metre	yükseklikte	olduğunu	bulunuz.
+A
+B C
+DE
+Bir	üçgenin	iki	kenarının	orta	noktasını	birleştiren	doğru	parçası	üçgenin	orta	tabanıdır.	Orta	taban,	
+üçüncü	kenara	paralel	ve	kenar	uzunluğunun	yarısına	eşittir.
+16. ÖRNEK
+Yandaki	ABC	üçgeninde	DA C! 7A ,	EB C! 7A ,	 AD DC= ,	
+AB birim 6= ,	 BE birim 10= ,	 EC birim 4= 	ve	 ABCm7 0o=`j% 	oldu-
+ğuna	göre	 DEC m` j%  nün	kaç	derece	olduğunu	bulunuz.
+Çözüm
+KB C! 7A 	olmak	üzere	ABC	üçgenine	D	noktasından	 AB7A  na	paralel	
+olacak	şekilde	 DK7A 	çizilsin.	
+CDK CAB+&& 	olduğundan	(A.A.)	 ABC DKCmm ve 70o==`` jj%%  
+AC
+DC
+CB
+CK
+AB
+DK CK DK
+2
+1
+14 6&== == 	eşitliğinden	
+CK birim 7= ,	 DK birim 3= 	bulunur. KE birim74 3=-= 	ve	 KE DK birim 3== 	olduğundan	
+DKE	ikizkenar	üçgen	ve	 KDE DEKmm5 5o==`` jj%%  olur.	 DEC m 180 55 125oo o=- =`j% 	bulunur.
+70o
+A
+B E 410
+6 D
+C
+70o 70o
+A
+B K E 4
+6
+3
+D
+C
+3
+b) E	noktasında	bulunan	dağcının	kaç	metre	yükseğe	tırmandığını	bulunuz.
+Çözüm
+AC DC53$ =  olduğundan	 ADDC 23= ’dir.
+ EB
+AB
+2= 	olduğundan	 BE
+AE
+1= ’dir.
+a) Dağcı	D	noktasında	1500	m	yükseklikte	olduğundan	 DG7 A 	yüksekliği	çizilirse	 DG m 1500= ’dir.	
+AH7A 	yüksekliği	çizilirse	CGD CHA+&& 	olduğundan	
+AC
+DC
+AH
+DG
+AH
+AH m53 1500 2500&&== =  olur.
+b) EF7 A 	yüksekliği	çizilirse	EBF ABH+&& 	olduğundan	
+BA
+BE
+AH
+EF EF
+EF m21 2500 1250&&== =  olur.
+A
+B C
+D
+F H G
+E 3k
+2k

@@ -1,0 +1,27 @@
+60
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+4. TEMA: EŞLİK VE BENZERLİK
+Bu temada öğrencilerin geometrik dönüşümlere (yansıma, öteleme, dönme), üçgende eş-
+lik ve benzerliğe ilişkin çıkarımlar yapabilmeleri; Tales, Öklid ve Pisagor teoremlerini ispat-
+layarak bu teoremlerle üçgende eşlik ve benzerliğin kullanılmasını gerektiren problemleri 
+çözebilmeleri amaçlanmaktadır. 
+DERS SAATİ 36
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme (MAB1.1. Matematiksel Doğrulama veya İspat Yap -
+ma), MAB2. Matematiksel Problem Çözme 
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma, KB2.15. Yansıtma
+EĞİLİMLER E1.3. Azim ve Kararlılık, E1.4. Kendine İnanma (Öz Yeterlilik), E3.6. Analitiklik, 
+E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, 
+SDB3.3. Sorumlu Karar Verme
+Değerler D3. Çalışkanlık, D7. Estetik, D12. Sabır, D14. Saygı, D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, 
+OB5. Kültür Okuryazarlığı 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Görsel Sanatlar, Mimari
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

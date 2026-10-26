@@ -1,0 +1,64 @@
+88
+2. Tema /  Nicelikler ve Değişimler
+2.  2.  
+TEMATEMA
+2.1. Doğrusal F onksiyonlar ve Nitel 
+Özellikleri
+2.2. Mutlak Değer F onksiyonu ve Nitel 
+Özellikleri
+2.3. Doğrusal F onksiyonlarla İfade Edilebilen 
+Denklem ve Eşitsizlikler İçeren 
+Problemler
+Anahtar Kavramlar
+• artanlık-azalanlık 
+• bağımlı-bağımsız 
+değişken 
+• bire birlik 
+• doğrusal denklem ve 
+eşitsizlik 
+• doğrusal fonksiyon 
+• doğrusal ilişki
+• eğim
+• fonksiyonların parçalı 
+gösterimi
+• fonksiyonun işareti
+• fonksiyonun sıfırı
+• katsayı
+• kök
+• maksimum-minimum 
+noktaları
+• mutlak değer 
+fonksiyonu
+• sabit fonksiyon
+• sabit terim
+Nicelikler ve Nicelikler ve 
+DeğişimlerDeğişimler
+Sembol ve Gösterimler 
+• f: R"R 
+• f(x) = x
+• h(x) = ax ± b
+• n(x) = |x|
+• m(x) = ± |ax ± b| ± c
+Bu temada sizden
+ ● gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans 
+fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen 
+g(x) = a ∙ f(x ± r) ± k, (a, r, k ! ℝ, a≠0) doğ  rusal 
+fonksiyonlarının nitel özelliklerine ilişkin matematiksel 
+muhakeme yapabilmeniz,
+ ● gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ! ℝ, a ≠ 0)
+şeklinde tanımlı mutlak değer fonksiyonlarının nitel 
+özelliklerini incelemek için doğrusal fonksiyonlara bağlı 
+analojik akıl yürütebilmeniz,
+ ● doğrusal fonksiyonlarla ifade edilebilen denklem ve 
+eşitsizlikleri içeren problemleri çözebilmeniz
+beklenmektedir.
+Tema boyunca 
+sizden çalışma 
+kâğıtlarındaki 
+soruları çözmeniz, 
+performans 
+görevlerini yerine 
+getirmeniz, ölçme 
+ve değerlendirme 
+sorularını çözmeniz 
+beklenmektedir.

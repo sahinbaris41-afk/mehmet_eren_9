@@ -1,0 +1,20 @@
+102
+MATEMATİK 9 
+6. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ
+3. Adım
+Il Şeker Hastalığı Oranı (%) Diyabet Risk Faktörü Taşıyanlar (%)
+İstanbul 14 23
+Ankara 13 21
+İzmir 13 19
+Gaziantep 16 24
+Trabzon 11 19
+Bazı şehirlerde şeker hastalığı oranı ve risk faktörüne yönelik Türkiye Diyabet Vakfı, 2024 yılı verileri 
+Tablo 4'te verilmiştir.
+a.  Diyabet risk faktörü taşıyan bireylerin oranı ile şeker hastalığı oranı arasında nasıl bir ilişki gözlem-
+liyorsunuz? 
+b.  Trabzon’daki diyabet oranının neden diğer illere göre daha düşük olduğunu değerlendiriniz.
+NOT: "Diyabet Risk Faktörü Taşıyanlar" ifadesi, henüz şeker hastalığı tanısı almamış olmalarına rağmen 
+diyabet geliştirme riski yüksek olan bir grubu ifade eder.
+Çözüm:
+Çözüm:
+Tablo 4: Şeker Hastalığı ve Diyabet Risk Faktörü Taşıyanlar Tablosu

@@ -1,0 +1,28 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+63
+3. TEMA: GEOMETRİK ŞEKİLLER
+1. Adım
+2. Adım
+3. Adım
+Grup arkadaşlarınızla iki adet A4 kâğıdını üst üste koyunuz ve birinin üzerine cetvelle kenar uzunlukları 
+birbirinden farklı bir üçgen çiziniz. Çizmiş olduğunuz üçgeninizi kesiniz. Kesme işlemi sonucunda iki 
+adet eş üçgen elde ediniz.
+Eş üçgenlerin karşılıklı kenarlarını a, b ve c olarak isimlendiriniz. Her köşeye pergelin sivri ucunu yer -
+leştiriniz ve belirlemiş olduğunuz sabit bir uzunlukta açarak iç açılarını aşağıdaki şekilde olduğu gibi 
+belirleyiniz. Bu iç açıları ∝, � ve θ olarak isimlendiriniz ve farklı renk kalemler ile boyayınız.
+Grup arkadaşlarınızla üçgenlerin birini kullanarak kenar uzunluklarını karşılaştırınız. Bunun için üçgeni 
+a kenarı c kenarının üstüne gelecek şekilde � açısının bulunduğu köşeden katlayınız. Üçgenin a kenarı 
+ile c kenarının uzunluğunu karşılaştırınız. Sonucu not ediniz.
+Üçgeni a kenarı b kenarının üstüne gelecek şekilde θ açısının bulunduğu köşeden katlayınız. Üçgenin 
+a kenarı ile b kenarının uzunluğunu karşılaştırınız. Sonucu not ediniz.
+Üçgeni b kenarı c kenarının üstüne gelecek şekilde ∝ açısının bulunduğu köşeden katlayınız. Üçgenin 
+b kenarı ile c kenarının uzunluğunu karşılaştırınız. Sonucu not ediniz.
+Bulduğunuz üç eşitsizliği kullanarak kenar uzunluklarının sıralamasını yapınız.
+Etkinlik Aşaması
+∝
+� θ
+c b
+a
+Bu etkinlikte üçgende açı kenar ilişkisine yönelik bir grup çalışması yer almaktadır. Adımları sırasıyla uy-
+gulayınız.
+Çözüm:

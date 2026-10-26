@@ -1,0 +1,33 @@
+29
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+10. SINIF
+1. TEMA: ENERJİ
+Bu temanın içeriğini canlı yaşamında enerjinin önemi, besinlerden enerji eldesi ve enerji 
+metabolizması oluşturmaktadır. Tema kapsamında öğrencilerin canlı yaşamının devamlılığı 
+için enerjinin neden gerekli olduğunu sorgulamaları, besinlerden elde edilen enerjinin 
+metabolik süreçlere katkısına ve insanda enerji eldesi için sindirim, emilim ve taşımanın 
+gerekliliğine dair bilimsel çıkarım yapmaları, fotosentez ve fermantasyonla ilgili deney 
+yapmaları, farklı besin gruplarından enerji eldesi süreçlerini karşılaştırmaları, kemosentez 
+hakkında bilgi toplamaları, fotosentez ve hücresel solunum reaksiyonlarıyla ilgili 
+bilimsel model oluşturmaları, canlılarda sindirim çeşitlerini ve yapılarını sınıflandırmaları 
+amaçlanmaktadır.  
+DERS SAATİ 34
+ALAN 
+BECERİLERİ FBAB2. Sınıflandırma, FBAB7. Deney Yapma, FBAB8. Bilimsel Çıkarım Yapma, 
+FBAB9. Bilimsel Model Oluşturma  
+KAVRAMSAL 
+BECERİLER KB2.6. Bilgi Toplama, KB2.7. Karşılaştırma, KB2.8. Sorgulama
+EĞİLİMLER E1.1. Merak, E2.2. Sorumluluk, E3.3. Yaratıcılık, E3.4. Gerçeği Arama, E3.5. Açık Fikirlilik, 
+E3.7. Sistematiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık
+Değerler D3. Çalışkanlık, D12. Sabır, D13. Sağlıklı Yaşam, D14. Saygı
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, 
+OB7. Veri Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Kimya, Fizik
+BECERİLER ARASI 
+İLİŞKİLER KB3.1. Karar Verme

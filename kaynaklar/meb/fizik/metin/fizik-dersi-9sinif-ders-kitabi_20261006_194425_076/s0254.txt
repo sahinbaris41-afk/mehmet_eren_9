@@ -1,0 +1,40 @@
+254
+4. ÜNİTE 
+Öz Değerlendirme Formu
+Öğrencinin
+ Adı Soyadı:     Numarası:     
+Cevaplarınızı tabloda verilen ilgili kutucuğa yazınız.
+Davranışlar Cevaplar
+1. Performans görevi boyunca hangi zorluklar ve problemlerle 
+karşılaştınız? Bu zorluk ve problemlerle nasıl başa çıktınız? 
+2. Bu görev sırasında sınıf arkadaşlarınızdan veya dışarıdan yar ­
+dım aldınız mı? Belirtiniz. 
+3. Bu performans görevini yeniden planlasaydınız ne tür değişik­
+likler önerirdiniz? 
+4. Bu çalışmanızla topluma hizmet ettiğinizi düşünüyor musu ­
+nuz? Açıklayınız. 
+5. Edindiğiniz deneyimleri hayatınızda nasıl kullanacağınızı dü ­
+şünüyorsunuz? Açıklayınız. 
+Not: Performans göreviniz, yanda verilen “Dereceli Puanlama Anahtarı” ile öğretmeniniz tarafın­
+dan değerlendirilecektir. “Dereceli Puanlama Anahtarı”na karekodu okutarak ulaşabilirsiniz.
+Kontrol Noktası
+Isı İletim Hızı
+Sıcaklıkları farklı iki ortam arasında 
+birim zamanda aktarılan ısı miktarıdır.
+Birimi: joule/saniye (J/s)
+Etkileyen Faktörler
+Isı iletim katsayısı ile karşılaştırılır. Maddenin ısıyı iletme kabiliyetinin bir ölçüsüdür.
+Isıl İletkenlik
+Isı İletkeni Isı Y alıtkanı
+Maddenin 
+Cinsi
+Sıcaklık 
+Farkı
+Yüzey 
+Alanı Kalınlık
+ilişkilidir
+büyükse küçükse
+ 
+Karekoddan yararlanarak çeşitli malzemelerin ısı iletim hızlarındaki farklılıkların gözlemlendiği videoya 
+ulaşabilirsiniz.
+ 

@@ -1,0 +1,42 @@
+185
+3. Tema /  Geometrik Şekiller
+3. Ulaştığınız genellemelerin farklı şekilde nasıl doğrulanabileceğine ilişkin fikirlerinizi arkadaşlarınızla paylaşınız.
+4. Elde ettiğiniz önermelerin matematik yazılımı kullanılarak farklı üçgenler üzerinden doğrulanıp doğrulanama -
+dığını test ediniz.
+8. ÖRNEK
+Yandaki ABC üçgeninde ,AB cm 5=  AC cm 8=  ve BC cm42=  olduğuna 
+göre mA_iW , mB_iW  ve mC_iX  değerlerini büyükten küçüğe doğru sıralayınız.
+Çözüm
+ve42 32 32 64 25>>=
+oldu undan3285 ğ>>  AC BC AB>>  dur.
+Uzun kenar karşısında ölçüsü en büyük olan açı bulunduğundan 
+mB mA mC>>__ _ii iWW X  olur.
+A
+B C
+5
+8
+42
+9. ÖRNEK
+Şekilde BC cm42= a birim, AC cm 8= b birim, ,AB cm 5= c birim, CBD B= m birim ve 
+cm CD 8= n birimdir.
+Yandaki şekilde verilenlere göre a, b, c ve n kenar uzunluklarını küçükten 
+büyüğe doğru sıralayınız.
+Çözüm
+ABC üçgeninde iç açıların ölçüleri toplamı m ABC1004 01 80oo o++ =`j%  
+olduğundan m ABC 0 4o=`j%  olur.
+m BAC mA BC mA CB>=``` jjj%%%  olduğundan abc>=  .............. (1) olur.
+BDC üçgeninde iç açıların ölçüleri toplamı mD BC66 46 180oo o++ =`j%  
+olduğundan mD BC 68o=`j%  olur.
+       mD BC mB DC m DCB>>``` jjj%% %  olduğundan nam>>  .............. (2) olur.
+       (1) ve (2) den bcan <<=  bulunur.
+C
+A
+B a
+bc
+n
+D
+66o
+40o
+46o
+100o
+m

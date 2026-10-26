@@ -1,0 +1,40 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+47
+2. Koroplet Haritalar
+Belirli sınırların (kıta, ülke, il, ilçe vb.) bir coğrafi unsura ait sayısal değerlere göre 
+renk veya desenlerle gösterildiği haritalardır. Koroplet haritalarda miktar veya yo-
+ğunluk verisine bağlı olarak dereceli bir renklendirme yapılır. Buna göre istatistiksel 
+değişkenler orantılı olarak gösterilir. Örneğin illere göre mısır üretiminin dağılışı 
+gösterilmek istendiğinde üretim miktarı renk tonlarıyla ifade edilir (Harita 2.5).   Nü-
+fus miktarı, nüfus yoğunluğu, kişi başına düşen gelir, doktor başına düşen hasta 
+sayısı gibi özelliklerin dağılışı gösterilmek istendiğinde koroplet haritalar kullanılır. 
+0 1 100 400 2.0501.100
+Mısır üretimi (bin ton)
+K
+Sosyal psikoloji alanında yürütülen bir çalışmada farklı ülkelerdeki insanların kaygı ve depresyonla nasıl 
+başa çıktıkları araştırılmıştır. 113 ülkede 119.000’den fazla kişiyle yapılan bir ankette katılımcılara kaygı 
+ve depresyonla başa çıkmada aile ve arkadaşlarıyla iletişime geçip geçmedikleri sorulmuş, sonuçlar 
+haritada gösterilmiştir.
+Veri yok
+1. Y ukarıdaki çalışma sonuçlarının gösterilmesinde haritadan yararlanılmasının sağladığı avantajlar nelerdir? 
+............................................................................................................................................................................................................................................... 
+................................................................................................................................................................................................................................................
+2. K aygı veya depresyonla baş etmede aile ve arkadaşla konuşma oranının kıtalara göre dağılışı için hangi çıkarım 
+yapılabilir? 
+............................................................................................................................................................................................................................................... 
+...............................................................................................................................................................................................................................................
+Harita 2.5 
+Türkiye’de mısır 
+üretiminin dağılışı, 
+TÜİK (2024)
+Ülkelere göre kaygı veya dep-
+resyonla baş etmede aile ve 
+arkadaşla konuşma oranı, 2020 
+(Wellcome)
+K
+Koroplet Harita Okuyorum
+UYGULAMA
+0      100     200
+km
+0           3.000        6.000
+km

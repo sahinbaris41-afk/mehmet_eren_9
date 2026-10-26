@@ -1,0 +1,30 @@
+257
+3. Tema/Sürdürülebilirlik
+1. Gemi kazası sonucu denizde kirliliğe neden olabilecek metaller, alaşımlar ve nanoparçacıklar neler olabi-
+lir? Düşüncelerinizi açıklayınız.
+ 
+2. Geminin kendisi veya taşıdığı yüklerin (metaller, alaşımlar ve nanoparçacıklar), sucul ekosistemlere (de-
+niz, nehir, göller ve yer altı suları) ve deniz canlılarına olası etkileri nelerdir?
+ 
+3. Geminin kendisi veya taşıdığı yükler kara ekosistemini (kıyı şeridi ve toprak) nasıl etkiler?
+ 
+4. Denizde yaşanan bu sorunun insan sağlığına olası etkileri nelerdir? Açıklayınız.
+ 
+Pirina, zeytinyağı üretim sürecinin bir yan ürünüdür. Zeytinlerin sıkılması ve yağının alınmasından 
+sonra kalan katı kısımdır. Pirina ağır metal temizliğinde kullanılır ve geleneksel tekniklere göre daha 
+çok tercih edilir çünkü pirinanın elde edildiği biyokütleler doğada bol miktarda bulunur ve düşük 
+maliyetlidir. Pirinanın ağır metal bağlama kapasitesi yüksektir ancak bu yöntem her ağır metal için 
+kullanılamaz. Bilim insanları suya karışan ağır metalleri sudan uzaklaştırmak için pirinayı kullanmış 
+ve belirli konsatrasyonlarda ağır metallerin aşağıdaki % giderim değerlerini elde etmiştir.
+Madde Derişim0,2 mg/L Derişim 1 mg/L Derişim 2 mg/L
+Fe(%) 90,77% 91,51% 87,55%
+Mn(%) 80,70% 80,86% 80,64%
+Zn(%) 88,60% 91,64% 87,87%
+Al(%) 73,68% 73,68% 71,05%
+Ni(%) 80,00% 83,67% 76,00%
+3. Yönerge: Çevre ile ilgili problemin çözümü için ekipteki mühendis ve biyologlar, yaptıkları araştırmaların 
+sonuçlarını bir rapor hâlinde sunmuştur. Sınıf arkadaşlarınızla üçer kişilik gruplar oluşturarak 
+sunulan çözüm raporunu inceleyiniz. Rapordaki verilere dayanarak problemin çözümüne ilişkin 
+önermeler yazınız ve soruları cevaplayınız.
+Çözüm Raporu-1 Pirinayla Sudan Ağır Metal Temizliği
+Önerme

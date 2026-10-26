@@ -1,0 +1,19 @@
+6.TEMA - ISTATISTIKSEL ARAŞTIRMA SÜRECI
+72 73
+3. Adım
+4. Adım
+5. Adım
+Oluşturduğunuz araştırma sorusuna yönelik istatistiksel araştırma sürecinizi planlayınız.
+Araştırma sürecinde verileri analiz etmek için görselleştirme (nokta grafiği, histogram, kutu 
+grafiği) ve/veya özetleme [aritmetik ortalama, ortanca (medyan), tepe değer (mod), açıklık, çeyrekler 
+açıklığı, standart sapma] araçlarından uygun olanı seçiniz. Seçtiğiniz bu araçları kullanarak verileri 
+analiz ediniz.
+Verileri analiz etmek için genel ağ üzerindeki birçok görselleştirme aracını kullanabi-
+lirsiniz. Yanda verilen karekodu akıllı cihazınıza okutunuz, açılan genel ağdan veri analizi 
+aracına giriş yapınız ve ekrandaki yönergeyi takip ediniz.
+Çözüm:
+Çözüm:
+6. Adım
+Nicel veri dağılımlarına dayalı istatistiksel araştırma sonucu elde ettiğiniz çıktılardan hareketle 
+verileri yorumlayarak sonuç çıkarınız.
+Çözüm:

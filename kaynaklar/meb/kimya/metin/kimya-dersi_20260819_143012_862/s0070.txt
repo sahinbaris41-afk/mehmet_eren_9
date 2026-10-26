@@ -1,0 +1,49 @@
+70
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI VE 
+SÜREÇ BİLEŞENLERİ
+KİM.11.2.1. Tepkimelerin tersinir olabileceğine ilişkin bilimsel gözlem yapabilme 
+a) Tersinir tepkimelerin oluşumuna kanıt oluşturacak gözlemlenebilir nitelikler belirler. 
+b) Tersinir tepkimelerde gözlemlenebilir niteliklere ilişkin veri toplar ve topladığı veri-
+leri kaydeder. 
+c) Tepkimelerin tersinir olabileceğini verilere dayalı olarak açıklar. 
+KİM.11.2.2. Tepkimelerdeki denge sürecine ilişkin bilimsel gözleme dayalı tahminde bu -
+lunabilme 
+a) Denge sürecine ilişkin önermeler oluşturur. 
+b) Denge sürecine ilişkin gözleme dayalı olan ve olmayan önermeleri karşılaştırır. 
+c) Denge sürecine ilişkin önermelerini temellendirmek için gözlem verilerinden hare-
+ketle sonuç çıkarır. 
+ç) İleri ve geri tepkime hızlarının eşitliğine ilişkin tahminlerde bulunur.  
+d) Bilimsel verilerden hareketle tahminlerinin geçerliliğini sorgular. 
+KİM.11.2.3. Denge sabiti ifadesinin oluşturulmasına ilişkin tümevarımsal akıl yürütebilme 
+a) Homojen ve heterojen denge tepkimelerinin denge sabiti ifadelerinde keşfettiği 
+örüntüyü matematiksel olarak modeller. 
+b) Denge sabiti ifadesinin matematiksel modelini geneller. 
+KİM.11.2.4. Tersinir tepkimelerin dengeye ulaşıp ulaşmadığını bilimsel veriye dayalı tah -
+min edebilme 
+a) Tersinir tepkimelerin dengeye ulaşıp ulaşmadığına ilişkin önermeler oluşturur. 
+b) Tersinir tepkimelere ilişkin veriye dayalı olan ve olmayan önermeleri karşılaştırır. 
+c) Tepkime oranını hesaplayarak denge durumuna ilişkin tahminde bulunur. 
+ç) Tahminlerinin geçerliliğini sorgular.
+KİM.11.2.5. Dengeye etki eden faktörleri bilimsel sorgulayabilme 
+a) Derişim, hacim, basınç, sıcaklık ve katalizör değişkenlerinin dengeye etkisine iliş -
+kin araştırılabilir sorular oluşturur. 
+b) Değişkenlerin dengeye etkisini belirlemek üzere hipotezler kurar. 
+c) Derişim, hacim, basınç, sıcaklık ve katalizör değişkenlerinin dengeye etkisine yö -
+nelik deney gerçekleştirir. 
+ç) Deneyden elde ettiği verileri analiz ederek yorumlar. 
+d) Deney sonuçlarını çarpışma kuramını kullanarak açıklar. 
+e) Dengeye etki eden faktörleri Le Chatelier ilkesi ile ilişkilendirir. 
+KİM.11.2.6. Saf suyun otoiyonizasyonuna ilişkin bilimsel gözlem yapabilme 
+a) Saf suyun otoiyonizasyonunu gözlemleyebileceği nitelikleri tanımlar.    
+b) Saf suyun otoiyonizasyonuna ilişkin gözlem yoluyla veri toplar ve kaydeder. 
+c) Saf suyun otoiyonizasyonunu suyun iyonlaşma sabitini kullanarak açıklar. 
+KİM.11.2.7. Asit ve baz teorilerini karşılaştırabilme 
+a) Arrhenius ve Brønsted-Lowry asit ve baz teorilerinin varsayımlarına ilişkin özellik-
+leri belirler. 
+b) Belirlediği özelliklerin benzerliklerini listeler.  
+c) Belirlediği özelliklerdeki farklılıkları listeler.
+KİM.11.2.8. Asitlerin ve bazların kuvvetlerine ilişkin bilimsel sorgulama yapabilme 
+a) Asitlerin ve bazların kuvvetlerine ilişkin araştırma soruları oluşturur. 
+b) Asitlerin ve bazların kuvvetlerine ilişkin sembolik ve alt mikro seviyede modeller ge-
+liştirir.

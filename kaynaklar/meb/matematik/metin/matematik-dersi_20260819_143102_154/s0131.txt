@@ -1,0 +1,52 @@
+131
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.11.1.1
+İstatistiksel araştırma süreci; bağlamı belirleme, bağlama yönelik soru sorma, veri topla -
+ma planı yapma, verileri analize hazır hâle getirme, verileri analiz etme ve sonuçları yorumla-
+ma aşamalarının tamamını içerecek şekilde ele alınır. Bu sınıf seviyesinde öğrenciler, iki nicel 
+değişken içeren dağılımlarla istatistiksel araştırma sürecini yürütür.
+İki nicel değişkenli verilerdeki ilişkililiğe yönelik araştırma sorularına kaynaklık eden bağlam-
+lar, öğrencilerin merak ettiği gerçek yaşam durumlarını içermelidir (E1.1). Öğrencilerin ista-
+tistiksel araştırma gerektirebilecek gerçek yaşam durumlarını belirleyebilmeleri için sağlık, 
+eğitim, çevre, doğa veya iklim gibi alanlardan gerçek yaşam durumlarına ilişkin bilgilere ihti-
+yaçları olduğunu gözlemlemeleri sağlanır (OB1). Toplumsal konulara yer verilmesi öğrenci -
+lerin etrafında olup bitenleri merak  etmesini ve merak ettiği konular doğrultusunda sorular 
+sormasını destekleyerek kendisine, topluma, çevreye ve canlılara karşı hassasiyetle yaklaş-
+masını destekler (SDB1.1, D5.2, E1.1, E3.8). Öğrenciler bireysel çalışma veya grup çalışma -
+sı ile belirledikleri gerçek yaşam durumlarını (örümcek ağı, kavram haritası gibi tekniklerle)  
+gösterir veya dijital ortamlarda zihin haritası gibi araçlarla oluşturarak paylaşır (OB2). Belirle-
+nen gerçek yaşam durumları, veri toplamayı gerektirip gerektirmeme ölçütüne göre sınıf içi 
+tartışmayla incelenir. Bu süreçte öğrencilerin düşüncelerini ifade etmelerinin yanı sıra diğer 
+arkadaşlarının düşüncelerini nazik bir şekilde dinleyerek onlarla empati kurabilmesine yöne-
+lik yönlendirmeler yapılır (SDB2.1, D14.1).
+Öğrencilerin belirlenen bağlamlardan yola çıkarak merak ettikleri soruları ifade edebilme -
+lerine izin verilir (E3.8). Bu aşamada örnek bir bağlamdan hareketle bir araştırma sorusu 
+oluşturulur. Örneğin bireylerin boylarının inceleneceği bir problemle hangi değişkenlerin boy 
+ile ilişkili olabileceğine yönelik sınıf içi tartışma başlatılabilir. Uygun değişkenin belirlenmesi 
+sürecinde öğrencilerin birbirlerinin fikirlerini dinlemeleri ve bu fikirlerden hareketle yorum 
+yapabilmeleri sınıf içi tartışma ile desteklenir. Tartışma sırasında öğrencilerden farklı bakış 
+açılarını dikkate almaları ve birbirleriyle etkili iletişim kurmaları konusunda özveriyle dav -
+ranmaları beklenir (SDB2.1, D14.1). Bu tartışmanın sonunda öğrencilerle bir bireyin boyunun 
+çeşitli değişkenlerle (zıplama yüksekliği, günlük süt tüketim miktarı, uyku süresi gibi) ilişkili 
+olabileceğinden hareketle araştırma soruları oluşturu labilir. Öğrencilerin farklı bağlamlardan 
+hareketle hazırladıkları araştırma sorularına ilişkin fikirlerini gerekçeleriyle tartışmaları ve bu 
+tartışmalar sonucunda iki nicel değişkenli veri dağılımlarının ilişkililiğine odaklanan istatistik-
+sel araştırma sorularına ulaşmaları sağlanır (SDB2.1).
+Ayrıca öğrencilerden farklı disiplinlerle ilişkili araştırma soruları hazırlamaları istenir. Örneğin 
+öğrenciler; ekonomi dersi konularından yola çıkarak kişilerin gelir miktarları ile yaptıkları ta -
+sarruf miktarı arasında bir ilişkililik olup olmadığını, astronomi ve uzay bilimleri dersi konula -
+rından yola çıkarak gezegenlerin Güneş’e olan uzaklıkları ile dönme hızları arasındaki ilişkililiği, 
+biyoloji dersi konularından yola çıkarak omurgalı hayvanların kilosu ile yaşam süreleri arasın-
+daki ilişkililiği inceleyebilir (OB3). Bunun yanı sıra bilinçli tüketici olmaya dikkat çekmek ama-
+cıyla öğrencilerin “Ev yaşam alanı (m2) ile tüketilen elektrik miktarı (kWh) arasında bir ilişkililik 
+var mıdır?” şeklinde bir soru üzerinde tartışmaları sağlanır (OB3, D17.1). Bu süreçte öğrenciler 
+tarafından hazırlanacak bazı araştırma soruları, sağlıklı yaşama ilişkin duyarlılığı artırma ama-
+cı gözetebilir. Örneğin bireylerin spor yapma süresi ile kalp atış hızı arasındaki ilişki üzerine 
+sınıf içi tartışma yapılarak öğrencilerin düşüncelerinin ortaya çıkarılması sağlanabilir (SDB2.1, 
+D13.2). 
+Hazırlanan araştırma sorularına cevap bulabilmek amacıyla öğrencilerle veri toplama sü -
+recine geçilir . Bu süreçte verileri öğrencilerin kendilerinin toplayabileceği ya da hazır veri 
+kaynaklarından elde edebileceği ifade edilmelidir. Öğrencilerin hazır veriye ulaşmaları süre -
+cinde dijital kaynakları nasıl doğru kullanmaları gerektiğine yönelik tartışmalar yapmaları teş-
+vik edilmelidir (OB2). Öğrencilerden iki nicel değişkenli veri setlerinin nasıl toplanacağına yö-

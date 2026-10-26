@@ -1,0 +1,30 @@
+100
+5. Tema/Algoritma ve Bilişim  
+Para Üstünün Hesaplanması
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız.
+Bir kitapçıda satılan bir kitabın fiyatı 68 TL’dir. Kitabı satın alan müşteri kasiyere 200 TL vermiştir. Yazar kasa-
+da bulunan kâğıt ve madenî paralar 1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL’dir. 
+1. Kitap satın alımı ve para üstü hesaplama sürecindeki temel matematiksel işlemleri ve karar adımlarını belirleyiniz.
+ 
+ 
+2. Para üstü hesaplamasını yaparken müşteriye verilecek kâğıt ve madenî paraların sayısını liste veya tablo temsili 
+yardımıyla belirleyiniz. 
+ 
+ 
+3. Liste veya tablodaki bilgileri sıralı işlem adımlarına dönüştürünüz. 
+ 1. adım: Müşterinin verdiği 200 TL’yi al.
+4. Belirlediğiniz işlem adımlarını para üstü verme sürecini gösterecek şekilde aşağıdaki şema üzerinde gösteriniz.
+ 
+ 
+" 32 [En büyük banknot (100 TL) seçilir ve 132 TL’den düşülür. Kalan tutar 132 - 100 = 32 TL bulunur.]
+" ...
+" ...
+100
+20
+...
+5. Kasada 100 TL’lik banknot bulunmadığı durumda 2, 3 ve 4. soruda yer alan basamakları yeniden oluşturunuz. 
+ 
+6. Her bir kâğıt paranın kasada olup olmama durumunu da dikkate alarak para üstü vermenin genel bir şemasını 
+oluşturunuz.
+ 
+1. Uygulama

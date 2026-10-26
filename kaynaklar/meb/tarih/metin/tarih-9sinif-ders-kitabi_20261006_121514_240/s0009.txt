@@ -1,0 +1,56 @@
+9
+Kitap genelinde kullanılan 
+tüm karekodlar akıllı cihazlarla 
+okutulabilir ya da kitabın dijital 
+kopyasındaki karekodun üzeri-
+ne tıklanarak kitaba ait e-içerik-
+lere ulaşılabilir.
+* Kitap genelinde bu işaretin bulunduğu metinler, o metnin 
+yazıldığı dönemin yazım ve noktalama kurallarına sadık 
+kalınarak alınmış ya da kısaltılmıştır. Alıntı metinler üzerinde 
+günümüz yazım ve noktalama kurallarına göre değişiklik 
+yapılma mış, metinlerde geçen bazı kelimelerin anlamları 
+ise sözlük bölümünde açıklanmıştır.
+Alıntı metinlerle ilgili kaynakça 
+bilgilerinin verildiği alan
+Konuyla ilgili ek bilgi-
+lerin verildiği alan
+Öğrenilen bilgileri 
+etkinlikler aracılığıyla 
+yeni olaylara ve du-
+rumlara aktarmak için 
+hazırlanan “Uygulaya-
+lım” alanı
+Sonraki derse gelir-
+ken yapılması veya 
+getirilmesi gerekenle-
+rin ifade edildiği alan
+Ünitede ele alınan 
+tüm öğrenme 
+çıktılarının pekiştiril-
+mesine yönelik soru-
+ların bulunduğu alan
+Zenginleştirme 
+etkinliklerinin verildiği 
+alan
+Konuyla ilgili özgün 
+kaynaklardan yapılan 
+alıntıların ya da özgün 
+metinlerin bulunduğu 
+alan
+İncelenecek örnek ça-
+lışmaların başlangıcını 
+gösteren ikon
+Öğrencilerin konuyla 
+ilgili edindikleri bilgi-
+leri ya da ulaştıkları 
+çıkarımları yazması 
+için bırakılan alan
+İncelenecek örnek 
+projelerin başlangıcını 
+gösteren ikon
+Konuyla ilgili öğrenme 
+durumlarını belirlemek 
+için hazırlanan 
+”Değerlendirelim” 
+alanı

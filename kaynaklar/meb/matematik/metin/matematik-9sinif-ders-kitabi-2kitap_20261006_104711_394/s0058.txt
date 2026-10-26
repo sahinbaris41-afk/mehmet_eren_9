@@ -1,0 +1,66 @@
+58
+4. Tema / Eşlik ve Benzerlik
+18. ÖRNEK
+Yandaki	 şekilde	 bir	 köprünün	 yandan	 görünüşü-
+nün	modellemesi	verilmiştir.	 PR7A 	ve	 PS7A 	h a l a t l a r ı										
+P noktasında	birbirine	diktir.	
+PRS TGS,&& ,	 PH RG=77 A A ,	 TK RG=77 AA ,	
+HK m 180= 	ve	 RH m 40=  olduğuna	göre
+a) Hangi	üçgenlerin	benzer	olduğunu	gerekçeleriyle	belirtiniz.
+b) PH  nun	kaç	metre	olduğunu	bulunuz.
+c) Kullanılan	toplam	halat	uzunluğunun	yaklaşık	değerini	metre	cinsinden	bulunuz.
+Çözüm
+a) PRH	 üçgeninde	 PRH m a=`j% 	 ve	 RPHmb =`j% 	 alınırsa	 üçgenin	 iç	
+açılarının	ölçüleri	toplamından	ab 90o+= 	olur.	 RPSm9 0o=`j% 	ol-
+duğundan	 HPS ,ma =`j% 	PHS	üçgeninde	 	 HPS PSHmm 90o+=`` jj%%  
+olduğundan	 PSHmb =`j%  olur.	PRH,	SPH	ve	SRP	üçgenlerinin	iç	
+açılarının	 ölçüleri	 eşit	 olduğundan	 bu	 üçgenler	Açı-Açı	 benzerlik	
+koşuluna	göre	benzer	üçgenlerdir.
+b) PHR SHP+&& 	olduğundan	
+HS
+PH
+PH
+RH PH
+PH
+PH m90 40 60&&== = 	bulunur.
+c) PHR SPR+&& 	olduğundan	
+RS
+PR
+PR
+RH PR
+PR
+PR m130 40 5200 72&& .== = ,
+PHS RPS+&& 	olduğundan	
+RS
+PS
+PS
+HS PS
+PS
+PS m130 90 11700 108&& .== = 	bulunur.
+PR PS m72 108 180+= += 	olduğundan	toplam	halat	uzunluğu	yaklaşık	 m180 2 360$ = 	bulunur.	
+R H K
+P
+S G
+T
+Kontrol Noktası
+• Bir üçgende farklı iki kenar üzerindeki iki nokta birleştirilerek bir başka üçgen oluşturulduğunda bu üçgen-
+lerin ortak köşesini oluşturan kenarların uzunlukları orantılı ise bu üçgenler Kenar-Açı-Kenar benzerliğine 
+göre benzerdir.
+• Bir ABC dik üçgeninin dik köşesinden çizilen yüksekliğin oluşturduğu üçgenler ABC üçgeni ile benzerdir.
+• Bir üçgenin herhangi bir kenarına paralel çizilerek oluşturulan üçgen, Açı-Açı benzerliğine göre bu üçgene 
+benzerdir.  
+       Yandaki ABC üçgeninde dd12'  ise ADE ABC+&&  dir (A.A.). 
+ Buradan ABAD ACAE BCDE==  olur .
+A
+E
+CB
+D d1
+d2
+SR H
+P
+60
+40 90
+a
+a
+b
+b

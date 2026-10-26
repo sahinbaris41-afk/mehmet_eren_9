@@ -1,0 +1,68 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+9. SINIF ORTAK SINAV (SABAH OTURUMU) - MATEMATİK
+Öğrenme Çıktısı : 9.3.1. Algoritma temelli yaklaşımlarla problem çözebilme
+Ders Kitabı (MEB) Sayfa 107
+4
+MATEMATİK 9
+7. Bir	spor	kulübünün	altyapı	takımına	oyuncu	seçmek	için	yaş,	kütle	ve	boy	değerlerine	göre	ölçütler	
+belirlenmiştir.	Bu	değerlere	göre	takıma	oyuncu	seçmek	için	kullanılan	algoritmanın	işleyişini	gösteren	
+akış	şeması	aşağıda	verilmiştir.
+Başla
+25 1= y 1= 4510 1= x 113
+Yaş	(x),	kütle	(y)	ve
+boy	(z)	gir
+Aday	takıma	
+seçilmedi
+Bitir
+Bitir
+Evet Evet
+EvetHayır HayırHayır
+z 2= 140
+Aday	takıma	
+seçildi
+Oyuncu	seçmelerine	katılan	adaylara	ilişkin	bilgiler	tabloda	verilmiştir.
+İsim Yaş Kütle (kg) Boy (cm)
+Aysu 10 38 145
+Banu 12 48 154
+Cem 11 41 139
+Deniz 12 34 159
+Buna göre, bu adaylardan hangilerinin takıma seçildiğini akış şeması yardımıyla bulunuz.  
+(15 puan)
+SINAV BİTTİ.
+CEVAPLARINIZI KONTROL EDİNİZ.
+107
+5. Tema/Algoritma ve Bilişim  
+1. Sıra Sizde      
+1.  VKİ Aralığı Sağlık Durumu Kategorisi
+VKİ	#	18,5 Düşük	kilolu
+18,5	1	VKİ	# 25 Normal	kilolu
+25 1	VKİ	#	30 Fazla	kilolu
+VKİ	2	30 Obezite
+	 	 					Vücut	kitle	indeksi	(VKİ)	bir	kişinin	kilosunun	(kg)	
+boyunun	 (m)	karesine	 bölünmesiyle	 hesaplanan	
+bir	 değerdir,	 kategoriler	 yardımıyla	 genel	 sağlık	
+durumu	 hakkında	 önemli	 bilgiler	 sunar.	Yandaki	
+tabloda	vücut	kitle	indeksi	değerlerine	göre	sağlık	
+durumu	kategorileri	verilmiştir.
+ Buna göre aşağıdaki soruları cevaplayınız.
+a) Aşağıda	vücut	kitle	indeksini	bulan	ve	ilgili	kategoriyi	belirleyen	algoritmanın	işleyişinin	ifade	
+edildiği	akış	şeması	verilmiştir.	
+ Şemada boş bırakılan alanları gerekli sembol, metin ve matematiksel ifadelerle tamamla-
+yınız.
+ 
+HayırHayır Hayır
+VKİ	=	kilo	/	boy2
+Evet
+Düşük	kilolu
+Bitir
+,18 5 1	VKİ	ve
+VKİ	 251=
+Evet Evet
+Fazla	kilolu
+Bitir
+Akış Şeması
+b) Algoritmanın işleyişini algoritmik doğal dil ve sözde kodla ifade ediniz.
+ 
+ 
+Algoritmik Doğal Dil
+ Sözde Kod

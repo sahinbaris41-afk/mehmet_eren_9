@@ -1,0 +1,26 @@
+102
+2. Tema /  Nicelikler ve Değişimler
+3.	Uygulama
+Gerçek Sayılarda gx ax b= +_i  Şeklinde Tanımlı Doğrusal Fonksiyonların İncelenmesi
+Aşağıdaki soruları cevaplayınız.
+1.  T ablo 1’de a ve b gerçek sayılarının bazı değerleri için oluşturulan, gerçek sayılarda tanımlı fonksiyonlar ve -
+rilmiştir. Bu fonksiyonların verilen x değerleri için aldığı değerleri bularak tabloda ilgili yere örnekteki gibi 
+yazınız. 
+ Tablo 1
+Fonksiyon x = -2 x = -1 x = 0 x = 1 x = 2
+f(x) = x f(-2) = -2 f(-1) = -1 f(0) = 0 f(1) = 1 f(2) = 2
+h(x) = 2x - 5
+k(x) = x4  + 1
+m(x) = -x + 3
+n(x) = -3x - 4
+2.  T ablo 1’de elde ettiğiniz bilgilerden yararlanarak h, k, m ve n fonksiyonlarının grafiklerini aşağıdaki dik koordinat 
+sisteminde çiziniz.  b gerçek sayısının aldığı değerlerin h, k, m ve n fonksiyonlarına ait grafiklerin y eksenini kestiği 
+noktayı nasıl değiştirdiğini açıklayınız.
+O x
+y
+f(x) = x
+3.  a ve b nin 0ʼdan farklı gerçek sayı değerleri için g: R"R, g(x) = ax + b şeklinde tanımlı doğrusal fonksiyonların 
+grafiklerindeki dönüşümü f doğrusal referans fonksiyonunun grafiğinden hareketle genelleyiniz.
+4.  f doğrusal referans fonksiyonunun nitel özelliklerinden yararlanarak gerçek sayılarda g(x) = ax + b şeklinde tanım-
+lı fonksiyonların nitel özellikleri (tanım ve görüntü kümeleri, işareti, artanlığı­azalanlığı, maksimum­minimum 
+noktaları, sıfırı ve bire birliği) ile ilgili varsayımlarınızı oluşturunuz. 

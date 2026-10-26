@@ -1,0 +1,36 @@
+209
+7. Tema / Veriden Olasılığa
+9. Çarklardaki oklar aynı anda çevrildiğinde okların yeşil ve mavi alanlarda durmasının olasılık değerinin daha 
+kararlı hâle gelmesi için sizce kaç tekrar yeterli olacaktır? Sınıfça tartışınız. 
+10. Tekrarlar sonrası (25, 50, 100 ve 500) oluşturduğunuz sıklık ve göreli sıklıklara ait sütun grafiklerindeki ben -
+zerlik ve farklılıklar nelerdir?
+11. Yaptığınız deneyde tekrar sayısı arttıkça nelerin değiştiğini gözlemlediniz? Elde ettiğiniz sıklık ve göreli sık -
+lıklara ait sütun grafiklerinden yararlanarak (yeşil-mavi gelmesi olayının olasılık değerine ilişkin veya göreli 
+sıklığın değişebilirliğine ilişkin) hangi çıkarımlarda bulunabilirsiniz?  (Bir yargıya varabilmek için tekrar sayı-
+sını simülasyonla artırabilirsiniz.)
+Grup değerlendirme formuna 
+ulaşmak için karekodu okutunuz.
+Kontrol listesine ulaşmak için  
+karekodu okutunuz.
+ 
+1. ÖRNEK
+Aşağıdaki tabloda hilesiz iki sayı küpünün havaya atılması deneyinde üst yüzeye gelen sayıların topla-
+mının sıklığı ve deneyin tekrar sayısı verilmiştir. 
+ Tekrar Sayısı
+Toplam
+2 3 4 5 6 7 8 9 10 11 12
+50 0 3 5 3 7 9 9 2 6 2 4
+100 1 6 11 9 16 15 17 8 11 3 3
+500 14 17 44 55 73 90 74 61 30 33 9
+1000 32 51 77 110 132 151 137 128 96 54 32
+Bu tabloya göre aşağıdaki soruları cevaplayınız.
+a) 50, 100, 500 ve 1000 tekrarda oluşan sıklıklara ait sütun grafiklerini çiziniz veya istatistik yazılımları, 
+tablolama programları gibi araçlar yardımıyla oluşturunuz. 
+b) Hilesiz iki sayı küpünün üst yüzeyine gelen sayıların toplamının 5 olma olayının deneysel olasılık 
+değerini 50, 100, 500 ve 1000 tekrarda elde edilen sıklıklara göre bulunuz.
+c) Tekrar sayısı arttıkça dağılımda ve ele alınan olayın deneysel olasılık değerinde oluşan değişimler 
+nelerdir?
+ç) Bu değişimlere göre bir olayın deneysel olasılık değerinin daha kararlı hâle gelmesi için kaç tekrarın  
+yeterli olacağı söylenebilir?
+Gözleme dayalı tahmin edebilmede gerçek yaşamda sınırlılık olduğu için istatistik yazılımı yardımıyla 
+tekrar sayısı istendiği kadar artırılabilir.

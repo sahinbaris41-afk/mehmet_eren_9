@@ -1,0 +1,65 @@
+22
+MATEMATİK 9 
+1. TEMA: SAYILAR
+44 = 
+43 = 
+         = 
+       = 
+28 = 
+25 = 
+          = 
+       = 
+Özellik 4
+Aşağıdaki işlem özelliğini inceleyiniz ve verilen sayılara yönelik doğrulama işlemi yapınız.
+43 = 64
+23 = 8
+         = 
+       = 
+84 = 
+44 = 
+          = 
+       = 
+Özellik 5
+Aşağıdaki işlem özelliğini inceleyiniz ve verilen sayılara yönelik doğrulama işlemi yapınız.
+52 = 25
+253 = 15625
+ (52)3 = 
+ (52)3 = 
+ 
+(73)2 = 
+(73)2 = 
+ (xa)b  =  (xa) ·  (xa) · ... · (xa) = xa + a + ... + a = xa.b
+b tane
+b tane
+44
+43
+28
+25
+43
+23
+84
+44
+84
+44
+43
+23
+28
+25
+44
+43
+         =                        = �       � · �       � · ... · �       � = �       � xa
+ya
+ x
+y
+ x
+y
+ x
+y
+ (x · x · ... · x)
+ (y · y · ... · y)
+a tane
+a tane
+a tane
+ x
+y
+a

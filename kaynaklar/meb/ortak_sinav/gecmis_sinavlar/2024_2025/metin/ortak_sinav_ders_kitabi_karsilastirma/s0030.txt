@@ -1,0 +1,94 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+Öğrenme Çıktısı : 9.5.4. Tales, Öklid ve Pisagor teoremlerini ispatlayabilme
+Ders Kitabı (MEB) Sayfa 71
+3
+MATEMATİK 9
+5. Dört	eş	kare	şekildeki	gibi	kenarları	çakışacak	biçimde	yerleştirilerek	[AB]	ve	[BC] çizilmiştir.
+CA
+B
+Buna göre, BCAB  oranının kaç olduğunu işlemlerinizi göstererek bulunuz. (15 puan)
+6. Aşağıda,	kare	şeklinde	bir	kartonun	üzerine	kısa	kenar	uzunluğu	4	cm	olan	11	cm’lik	bir	cetvel	ile	ABC	
+ve	FED	dik	üçgenleri	yerleştirilmiştir.	ABC DEF,&& ,		[AB] = [BC],		[FE] = [ED] ve	üçgenlerin	A	ile	F	
+köşeleri	kartonun	kenarları	üzerindedir.
+A
+B
+F
+C
+E D
+4
+E
+11109876543210
+11109876543210
+Buna göre, kartonun bir kenar uzunluğunun kaç santimetre olduğunu işlemlerinizi göstererek 
+bulunuz. (15 puan)
+71
+4. Tema / Eşlik ve Benzerlik
+28. ÖRNEK
+Yandaki	birim	kareli	zeminde	I,	II	ve	III	numaralı			
+düzlem	aynalar	ile	A	noktası	verilmiştir.
+A	noktasının	I	numaralı	aynadaki	yansıması	A'	nok-
+tasıdır.	II	numaralı	aynadaki	yansıması	B'	noktası	
+ve	B'	noktasının	III	numaralı	aynadaki	yansıması	
+C'	noktasıdır.
+Buna	göre	 ''AC  nun	kaç	birim	olduğunu	bulunuz.
+I
+A
+II
+III
+27. ÖRNEK
+Yandaki	şekilde	ABC	eşkenar	üçgen,	 DE AB'77 A A,	 AD BC=77 AA ,	 EF AD ,=77 AA  
+CDB CE Ave!!77 AA  dır.
+Buna	göre	
+FB
+AB
+	oranını	bulunuz.
+Çözüm
+ABC	eşkenar	üçgeninde	
+mA mB mC 60o== =__ _ii iWW X  dir.	 AB DE'77 A A 
+olduğundan	m ABC mE DC 60o==`` jj%% ,	EDC	
+üçgeni	eşkenar	üçgen	ve	 ED DC CE x2== =
+olur.	ADC	üçgeninde	 2DC x= 	ve	 FE7 A	orta	taban	
+olduğundan	 FE x= 	elde	edilir.	ABC	eşkenar	
+üçgeninde	 AD7A 	hem	açıortay	hem	yükseklik	hem	
+de	kenarortay	olduğundan	 BD x2=  tir.	Bura-
+dan	ABC	eşkenar	üçgeninin	kenar	uzunlukları	
+AB BC AC x4=== 	olarak	bulunur.
+FED	dik	üçgeninde	Pisagor	teoreminden		
+xF Dx FD xx24 &+= =-2 2 2 2 22_i  
+FD x3& =2 2	ve	 FD x3= 	olur.
+FDB	dik	üçgeninde	Pisagor	teoreminden	
+xx FB23 +=2 2 2_ _i i  FB xx43& =+2 22  
+ve	 FB x7= 	olur.	Buradan	
+FB
+AB
+x
+x
+FB
+AB
+7
+4
+7
+4
+7
+47&== = 	bulunur.
+A
+B
+EF
+D C
+A
+B
+E
+4x
+2x
+60o 60o60o
+30o 30o
+60o
+2x
+2xx3
+xF
+D C
+2x
+2x
+x3
+4.Tema_13.07.2024.indd   714.Tema_13.07.2024.indd   71 17.07.2024   18:4817.07.2024   18:48
+9. SINIF ORTAK SINAV (ÖĞLE OTURUMU) - MATEMATİK

@@ -1,0 +1,40 @@
+181
+6. Tema / İstatistiksel Araştırma Süreci
+Kutu	 grafiğinin	 bu	 formunda	 aykırı	 değerler	 	 ile	 işaretlenen	 değerlerdir.	 Bu	 değerler,	 dağılımın	
+aritmetik	ortalama	değerini	etkilemekt edir.	Aykı rı	değerler	ihmal	edildiğinde	dağılı ma	ait	aritmet ik	
+ortalama	ve	ortanca	değerleri	Grafik	5’te	yer	almaktadır.
+11,6
+Grafik 5
+Derece (sn.)
+9,8 10,210 10,610,4 10,8 11 11,2 11,4
+Ortalama: 10,173 sn.
+Ortanca: 10,17 sn.
+Grafik	5’te	görüldüğü	üzere	aykırı	değerler	dikkate	alındığında	dağılımın	aritmetik	ortalaması	10,299	
+saniyeyken	aykırı	değerler	dikkate	alınmadığında	bu	değerin	10,173	saniye	olduğu,	aykırı	değerler	
+dikkate	alındığında	dağılımın	ortancası	10,2	saniyeyken	aykırı	değerler	dikkate	alınmadığında	bu	
+değerin	10,17	saniye	olduğu	görülmektedir.	Diğer	bir	deyişle	ortancanın	aykırı	değerlerden	aritmetik	
+ortalamaya	göre	daha	az	etkilendiği	ancak	ortancanın	etkilenmediği	söylenebilir.	
+Elde	edilen	sonuçlar	doğrultusunda	“2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarış-
+masına	katılan	atletlerin	koşu	dereceleri	saniye	cinsinden	nasıl	bir	eğilim	göstermektedir?”	sorusunu	
+dağılımdaki	aykırı	değerleri	göz	önünde	bulundurarak	Grafik	3’te	yer	alan	ortanca	değeri	ile	cevapla-
+mak	daha	doğru	olacaktır.	Bu	durumda	araştırma	sorusunun	cevabı	aşağıdaki	gibidir.
+“2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	koşu	dereceleri	
+yaklaşık	10,2	saniyedir.”
+c) 2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	koşu	derecele-
+rine	ait	veri	dağılımının	merkezine	yığılan	performans	derecelerinin	hangi	aralıklarda	yoğunlaştığını	
+görebilmek	için	kutu	grafiği	incelenmelidir.	Grafik	6’da	dağılıma	ait	kutu	grafiği	yer	almaktadır.
+Derece (sn.)
+9,8
+9,86 11,58Ç1=10,11 Ç3=10,32
+Ortanca
+10,20
+10,210 10,610,4 10,8 11 11,2 11,4 11,6
+Grafik 6
+Kutu	grafiğindeki	bilgilerden	yola	çıkılarak	2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	
+yarışmasına	katılan	atletlerin	koşu	derecelerine	ait	veri	dağılımının	merkezine	yığılan	performans	
+derecelerinin	hangi	aralık larda	yoğunlaştı ğını	görebilmek	için	kutu	grafiğinde	yer	alan	beş	sayılı	özet-
+lerden	alt	çeyrek	ve	üst	çeyrek	arasındaki	değerlere	bakılabilir.	Bu	değerler,	dağılımdaki	verilerin	
+%50’sinin	bu	aralıkta	yoğunlaştığını	göstermektedir.	Bu	durumda	araştırma	sorusunun	cevabı	aşa-
+ğıdaki	gibidir.
+“2023	Dünya	Atletizm	Şampiyonası	erkekler	100	metre	yarışmasına	katılan	atletlerin	%50’sinin	elde	
+ettiği	dereceler	10,11	saniye	ile	10,32	saniye	arasındadır.”

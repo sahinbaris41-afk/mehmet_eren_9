@@ -1,0 +1,47 @@
+64
+1. Tema
+Görsel 1.48
+Proteinlerin denatürasyonu ve 
+renatürasyonu
+Görsel 1.49
+Enzimler substratlarını ürüne 
+dönüştürmek için aktif 
+bölgelerini kullanır.
+Katalizör: Kimyasal 
+reaksiyonların hızını 
+artıran, reaksiyon sonunda 
+kendi yapısında değişiklik 
+olmayan maddelerdir.
+Konformasyon: Bir 
+molekülü oluşturan 
+atomların bağları 
+etrafında dönmesiyle 
+meydana getirdiği farklı üç 
+boyutlu yapılardır.
+Substrat Aktif bölge Ürünler
+Enzim
+Isı
+Isı Isı
+Aktif protein Aktif protein
+Aktif protein
+İnaktif protein
+İnaktif protein
+İnaktif protein
+Denatürasyon Denatürasyon
+Soğutma Soğutma
+Süt
+Renatürasyon
+Enzimlerin aktif bölgesi, substratların bağlandığı ve reaksiyonların gerçekleştiği böl-
+gedir. Kendine özgü yapı ve kimyasal özellikleri sayesinde enzimler substratları ile 
+etkileşim içine girer. Bu süreçte enzimler genellikle konformosyonlarını değiştirerek 
+reaksiyonların daha kolay gerçekleşmesini sağlar.  Bu olay indüklenmiş uyum olarak 
+adlandırılır. 
+Enzimler, hücre içinde gerçekleşen kimyasal reaksiyonların hızını artıran, bu reak-
+siyonların düşük sıcaklıklarda ve daha az enerjiyle gerçekleşmesini sağlayan biyo -
+lojik katalizörlerdir. Genellikle protein yapılı olan enzimler, ürüne dönüştüreceği 
+maddeleri (substrat) aktif bölgelerine bağlar ve ürüne dönüştürür (Görsel 1.49).
+Örneğin süt ısıtıldığında içerisinde bulunan proteinler denatüre olur fakat soğu -
+tulduğunda üç boyutlu yapılarını geri kazanabilir. Bazı durumlarda ise bu şekilde 
+olmayabilir. Yumurtanın içinde bulunan proteinler yüksek sıcaklıkta denatüre olur 
+ancak proteinler soğuduğunda yapı tekrar eski hâline gelmez (Görsel 1.48).
+Proteinler

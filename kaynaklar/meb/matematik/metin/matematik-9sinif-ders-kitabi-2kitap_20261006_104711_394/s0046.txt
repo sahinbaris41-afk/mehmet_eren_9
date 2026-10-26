@@ -1,0 +1,48 @@
+46
+4. Tema / Eşlik ve Benzerlik
+Açı-Açı	Benzerliği
+İki	üçgenin	karşıl ıklı	iki	açısı	eş	ise	bu	üçg enler	ben zerdir.	Karşıl ıklı	iki	açısın ın	eş	ol ması,	iki	üçg enin	
+benzer	olması	için	gereken	asgari	koşullardan	biridir.	Karşılı klı	iki	açısı nın	ölçüsü	eşit	olan	üçgenlerin	
+üçüncü	açı	ölçüleri	de	eşittir	ve	karşılıklı	kenar	uzunlukları	orantılıdır.
+9. ÖRNEK
+Üstte	aynı	sırada	demir	atmış	üç	geminin	olduğu	bir	görsel	verilmiştir.	Deniz	tabanının	doğrusal	olarak	
+derinleştiği	kabul	edilmektedir .	I	ve	II	numaralı	gemiler	arasındaki	uzaklık	770	m,	II	ve	III	numaralı	ge-
+miler	arasındaki	uzaklık	470	m;	suyun	B	noktasındaki	derinliği	15	m,	D	noktasındaki	derinliği	28	m’dir.	
+A,	 B,	 C,	 D	 noktaları	 doğrusal	 ve	 gemilerin	 her	 biri	 30	 m	 uzunlukta	 olduğuna	 göre	 aşağıdaki	 soruları	
+cevaplayınız.
+a) I	numaralı	geminin	A	noktasına	uzaklığının	kaç	metre	olduğunu	bulunuz.	
+b) Suyun	C	noktasındaki	derinliğinin	kaç	metre	olduğunu	bulunuz.	
+Çözüm
+a) 		 	 	 	 	 	 	 Gemilerin 	boyu	30	m	olduğundan
+ BC m30 770 800=+ = ,	
+CD m30 470 500=+ = 	olur.	AGD	üçgenin-
+de	 BE CF DG''777 AA A	olduğu	için	yöndeş	
+açılardan	 ABE ACF ADGmmm ==`` `jj j%% % 	ve 
+AEB AFC AGDmmm ==`` `jj j%% % 	olur.
+8. Sıra Sizde      
+Yandaki  birim kareli kâğıda çizilmiş üçgenler-
+den benzer olanları belirleyiniz. Benzer üçgen-
+lerin sembolik gösterimini ve benzerlik oranla-
+rını yazınız.
+C
+A
+B
+E F K
+L
+M
+D
+R
+P
+S
+15
+28
+470770
+A B
+I II III
+C D
+A Bx C800 500 D
+G
+F
+E
+15
+y 28

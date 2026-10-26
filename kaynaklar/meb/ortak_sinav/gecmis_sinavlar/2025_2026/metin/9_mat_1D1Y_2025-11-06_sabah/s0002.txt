@@ -1,0 +1,51 @@
+2
+MATEMATİK 9
+2. 
+5
+1
+2 3
+2
+-
+-  işleminin sonucunu işlemlerinizi göstererek bulunuz. (15 puan)
+()
+()
+.bulunur
+52
+52
+1
+3
+2
+52
+15 2
+3
+2
+3
+52
+3
+2
+3
+522
+3
+5
+·
+-
++
+-= -+ -
+= + -
+= +-
+=
+3. Kenar uzunlukları 22 703  m ve 803  m olan dikdörtgen şeklindeki bir bahçe aşağıda modellenmiştir. 
+Bu bahçe 6 eş dikdörtgensel bölgeye ayrılmış ve bu bölgelerden birine domates ekilmiştir. 
+80 m3
+2 270 m3
+Domates
+Ekili
+Bölge
+Buna göre, domates ekili bölgenin çevresinin uzunluğunu metre cinsinden işlemlerinizi göste-
+rerek bulunuz. (15 puan)
+Bahçenin kenar uzunluklarını kök dışına çıkaralım.
+m22 70 23 10 23 10 61 0··3 3 333== =
+80 21 01 0·3 33 3 m2==
+Domates ekili bölgenin uzun kenarının uzunluğu ,m361 0 21 03 3=  
+kısa kenarının uzunluğu .md ir221 0 10 ’3 3=
+Domates ekili bölgenin çevresi 22 10 10· 33 +=_i  .mb ulunur23 10 61 0· 33 =

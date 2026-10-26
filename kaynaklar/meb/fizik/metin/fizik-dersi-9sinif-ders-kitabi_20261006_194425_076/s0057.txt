@@ -1,0 +1,31 @@
+57
+KUVVET VE HAREKET
+Fiziksel nicelikler, temel ve türetilmiş nicelikler olarak ikiye ayrılır. Bu nicelikler 
+birtakım yöntemlerle ölçülür ve hepsinin ayrı bir birimi vardır. Temel nicelikler, 
+doğrudan ölçülüp kendi başına ifade edilebilir. Türetilmiş nicelikler ise temel 
+niceliklerle oluşturulan matematiksel model sonucu tanımlanır. Ölçmede kul-
+lanılan bazı türetilmiş nicelikler, bu niceliklerin sembolleri, SI’daki birimleri ve 
+birimlerin sembolleri Tablo 2.2’de verilmiştir.
+Tablo 2.2: Bazı Türetilmiş Nicelikler, Bu Niceliklerin Sembolleri, SI’daki Birimleri ve Bi -
+rimlerin Sembolleri
+Türetilmiş 
+Nicelik
+Niceliğin 
+Sembolü SI’daki Birimi Birimin Sembolü 
+Alan A metrekare m2
+Sürat o metre/saniye m/s 
+Kuvvet F kilogram ·metre/saniyekare  (newton) kg ·m/s2  (N)
+Enerji E kilogram ·metrekare/saniyekare (joule) kg ·m2/s2  (J)
+Basınç P kilogram/metre ·saniyekare  (pascal) kg/m ·s2  (Pa)
+Elektrik yükü q amper ·saniye  (coulomb) A ·s  (C)
+Örnek
+Fizik biliminde kullanılan niceliklerden biri olan gücün birimi kg ·m2/s3tür.
+Buna göre güç niceliğini türetmek için hangi temel niceliklerden yararlanıldığını belirleyiniz.
+Çözüm
+Güç niceliğinin türetilmesinde kullanılan kg ile kütle birimi, m ile uzunluk birimi, s ile zaman birimi ifade 
+edilmektedir. Buna göre güç niceliğini türetmek için kütle, uzunluk ve zaman temel nicelikleri kullanılmıştır.
+1. Alıştırma
+Bildiğiniz fiziksel nicelikleri ve bu fiziksel niceliklerin birimlerini aşağıdaki tabloya yazınız. Bu 
+niceliklerin temel nicelik mi yoksa türetilmiş nicelik mi olduğunu belirleyerek tablodaki ilgili kısmı 
+“X” ile işaretleyiniz.
+Niceliğin Adı Niceliğin Birimi (SI) Temel Nicelik Türetilmiş Nicelik

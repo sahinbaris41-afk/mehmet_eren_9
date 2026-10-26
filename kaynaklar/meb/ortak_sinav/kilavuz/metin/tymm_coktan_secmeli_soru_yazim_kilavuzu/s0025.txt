@@ -1,0 +1,37 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+25
+ 3. BÖLÜM
+3.1. TYMM BECERİLERİNİN ÖLÇÜLMESİ
+Bu bölümde bağlam temelli çoktan seçmeli soru yazımı; üst düzey düşünme becerilerinden biri olan “prob -
+lem çözme”, bütünleşik becerilerden biri olan “sorgulama” becerileri ve alan becerilerinden her branş için 
+seçilen bir “alan becerisi” üzerinden örneklendirilmiştir. Ancak TYMM’nin beceri çerçevesi; eleştirel düşün -
+me, karar verme gibi diğer üst düzey düşünme becerileri ile karşılaştırma, çıkarım yapma, yapılandırma gibi 
+bütünleşik becerileri de kapsayan iç içe geçmiş üç farklı boyut (temel, bütünleşik ve üst düzey düşünme) 
+içeren geniş bir beceri kümesine sahiptir. Bu becerilerin ölçülmesinde de kılavuzun genelinde vurgulanan 
+“Bağlam Temelli Çoktan Seçmeli Soru Yazım İlkeleri” geçerliğini korumaktadır. 
+Bu kılavuzda yer alan örnek sorular becerilerin ölçülmesi için geliştirilen ve pilotlaması yapılan sorulardan 
+seçilmiştir. Kılavuzda yer alan örnek soruların pilot analizlerine ilişkin ayrıntılı bilgiler araştırma raporunda 
+yer almaktadır. Bu sorular hem alan bağımsız hem de alan bağımlı olacak şekilde kurgulanmıştır.  Alan ba -
+ğımsız sorularla TYMM’de tanımlanan bu becerilerin süreç bileşenleri arasındaki ilişkisel yapının içerikten 
+bağımsız olarak incelenmesi amaçlanmıştır. Problem çözme ve sorgulama becerilerine ilişkin sunulan soru 
+örnekleri alan bağımsız iken bazı alan becerilerinin kullanıldığı öğrenme çıktılarına yönelik sorular alan ba -
+ğımlıdır. Soru kurgusu, hangi beceriyi hedeflediğine bakılmaksızın öğrenciyi pasif bir okuyucu olmaktan çı -
+karıp bağlamdaki verileri kullanarak zihinsel bir eylem gerçekleştiren aktif bir katılımcıya dönüştürmelidir. 
+Dolayısıyla bu kılavuzda problem çözme ve sorgulama özelinde sunulan bağlam kurgulama, seçenek yapı -
+landırma ve bilişsel yük kontrolü ilkeleri; TYMM kapsamındaki tüm öğrenme çıktıları/süreç bileşenlerinin 
+ölçülmesi için ortak bir çerçeve niteliği taşımaktadır.
+3.2. ÜST DÜZEY DÜŞÜNME BECERİLERİ: PROBLEM ÇÖZME BECERİSİ 
+ÖRNEĞİ
+Üst düzey düşünme becerileri, bütünleşik becerilerden en az ikisini içeren ve çok boyutlu zihinsel süreçler 
+gerektiren eylemleri ifade eder. Kavramsal becerilerde vurgulanan temel ve bütünleşik beceriler arasında 
+aşamalı bir ilişki bulunmamaktadır. Bu beceriler, üst düzey düşünme becerilerinin hayata geçirilmesindeki 
+altyapıyı oluşturmaktadır. TYMM’de karar verme, problem çözme ve eleştirel düşünme olmak üzere üç üst 
+düzey düşünme becerisi tanımlanmıştır. Bu beceriler, öğrencinin bilgiyi yeni durumlara transfer etmesini, 
+analiz etmesini ve yeniden üretmesini gerektirir. 
+Söz konusu becerilere ilişkin soru yazımında aşağıdaki ilkelerin gözetilmesi önerilir.
+a)  Rutin Olmayan Problemler Kullanılmalı
+Öğrencinin daha önce sadece verileri formülde yerine koyarak sonuca ulaştığı sorular, hedeflenen üst 
+düzey becerileri ölçmekte yetersizdir. Bu nedenle soru kurgulanırken bağlamdaki değişkenler farklılaş -
+tırılmalı; yapı günlük hayatla ilişkili, disiplinler arası bağlantılar içeren ve birden fazla çözüm stratejisi ge -
+rektiren bir forma dönüştürülmelidir. Temel hedef, öğrenciyi “Bu sorunu çözmek için nasıl bir yol haritası 
+çizmeliyim?” sorusunu sormaya yönlendirmektir.

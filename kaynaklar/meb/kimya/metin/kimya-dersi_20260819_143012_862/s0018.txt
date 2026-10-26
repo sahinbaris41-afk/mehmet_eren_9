@@ -1,0 +1,54 @@
+18
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.9.1.4
+Öğrencilere orbital türleri bilgisi verilir. Öğrenciler, etkinlik kâğıdında karışık olarak verilen 
+atom orbitallerinin bağıl enerjileriyle ilgili önermeler oluşturmaları için yönlendirilir. Öner -
+me oluştururken öğrencilerden konuyla ilgili hangi ön bilgilerini kullanacaklarını belirleme-
+leri de istenebilir (SDB1.1). Veriye dayalı olan ve olmayan önermeler, öğrenciler tarafından 
+karşılaştırılır. Bu sayede olay ve durumların çok yönlü bakış açısıyla değerlendirilmesi, 
+olay ve durumlar karşısında değişik bakış açılarının olabileceğinin fark edilmesi sağlanır 
+(SDB2.1, D10.3, D14.1) . Öğrencilerin orbital türleri ve bağıl enerji düzeylerini gösteren di -
+yagramı kullanarak geçersiz çıkarımları ayıklamaları ve geçerli tahminleri üzerinden atom 
+orbitallerinin bağıl enerjilerine ilişkin yargıya varmaları sağlanır (KB2.10, OB7).  Etkinlik 
+kâğıtları “öğrencilerin önerme oluşturabilmesi, önermelerin veriye dayalı olup olmadığını 
+ayrıştırabilmesi, geçersiz çıkarımları ayıklayabilmesi ve bir yargıya varabilmesi” ölçütlerini 
+içeren dereceli puanlama anahtarı ile değerlendirilebilir. Etkinlik kâğıtlarında öğrencile -
+rin etkinlikteki öğrenme sürecini ve kendilerinde geliştirebilecekleri yönleri belirlemeleri 
+istenebilir (SDB1.2). Öğrencilerden çalışma yaprağında karmaşık bir liste hâlinde verilen 
+orbital türlerini bağıl enerjilerine göre sıralamaları istenebilir. 
+KİM.9.1.5 
+Elektronların atom orbitallerine yerleşimi ile atomun kararlılığı arasındaki ilişkiye dair tar -
+tışma ortamı oluşturulur (SDB2.1). Öğrencilerin elektronların atom orbitallerine dizilim il -
+kelerine ulaşmasını sağlamak için farklı atomlara ait elektron dizilimleri, orbital şemalarıyla 
+birlikte örnek olarak verilir. Elektron dizilim ilkelerine ilişkin sorular sorularak elementlerin 
+elektron dizilimlerindeki örüntüyü öğrencilerin belirlemeleri sağlanır. Örüntülerden genel-
+lemeler yaptırılarak Aufbau ilkesi, Pauli dışlama ilkesi ve Hund kuralına ulaşılması sağlanır 
+(OB7). Valans elektron kavramı açıklanır. Küresel simetri özelliği gösteren atomların elekt-
+ron dizilimi ile atomların kararlılığı arasında ilişki kurulur (KB2.9). Öğrencilerden çalışma 
+yaprağında verilen farklı atomların elektron dizilimlerini Aufbau ilkesi, Pauli dışlama ilke -
+si ve Hund kuralına göre yazmaları istenebilir. Atom orbitallerinin ve elektron diziliminin 
+renklerin algılanmasından elektronik cihazların işleyişine, ilaç geliştirmeden yenilenebilir 
+enerji teknolojilerine kadar günlük hayatın birçok yönü ile nasıl bütünleştiğini gösteren ör-
+nekler verilebilir.
+KİM.9.1.6 
+Periyodik tablodaki grupların harf ve sayı (1A, 2B gibi) kullanılarak ya da IUPAC sistemine  
+göre numaralar (1. grup, 18. grup gibi) verilerek adlandırılabileceği bilgisi verilir. Katman 
+elektron dağılımının ilk 36 element için uygulanabilirliğine dair sorular sorulabilir. Öğren -
+cilerin elementlerin periyodik tabloda yerlerinin belirlenmesine ilişkin kurallarla ilgili akıl 
+yürütebilmelerini sağlayacak örnekler etkinlik kâğıdında yer alır. Elementlerin elektron di-
+zilimi ve periyodik tablodaki yer bilgisi örneklerde verilir. Öğrencilerden örnekleri inceleye-
+rek atomların elektron dizilimi ile periyodik tablodaki yerleri arasındaki ilişkiyi açıklamaları 
+istenir. Bu açıklamalar doğrultusunda verilen örnekleri kullanarak öğrencilerin periyodik 
+tabloda yer bulma kurallarına ilişkin örüntü bulmaları sağlanır  (E3.4, OB1).  Öğrencilerden 
+buldukları örüntüyü A ve B grubu elementlerini içeren yeni örnekler üzerinde denemeleri 
+istenir. Öğrenciler, elementlerin periyodik tablodaki yerlerini belirleyen kurallara ilişkin ge-
+nelleme yapmaları için yönlendirilir. Elementlerin periyodik tablodaki yerlerini  belirleyen 
+bilimsel kurallar verilir. Öğrencilerden yaptıkları genellemeleri bilimsel kurallar ile karşı -
+laştırmaları istenir (OB1). Elementlerin elektron dizilimleri, periyodik tabloda yer aldığı blok 
+ile ilişkilendirilir. Periyodik tablo üzerinde d ve f blokları (lantanit ve aktinit) ile 1A, 2A, 3A, 
+7A ve 8A gruplarının özel adları ve bu grupların genel özellikleri verilir. Yapılandırılmış grid 
+aracılığı ile öğrencilerden atomların periyodik tablo bilgilerini belirlemeleri istenebilir. Ayrı-
+ca etkinlik kâğıtları “örüntü oluşturabilme, örüntüleri yeni örnekler üzerinde deneyebilme, 
+örüntüleri genelleyebilme ve genellemeleri verilen kurallarla karşılaştırabilme” ölçütlerini 
+içeren dereceli puanlama anahtarı ile öğretmen veya öğrenci tarafından değerlendirilebi-
+lir (SDB 1.2).

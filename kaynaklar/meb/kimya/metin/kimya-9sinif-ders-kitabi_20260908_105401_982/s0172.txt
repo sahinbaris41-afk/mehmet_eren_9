@@ -1,0 +1,41 @@
+172
+2. Tema/Çeşitlilik
+Öz Değerlendirme Formu
+1. Bu deneyden neler öğrendim? 
+2. Bu deneyde hangi bölümlerde başarılı oldum?
+3. Bu deneyde en çok hangi bölümlerde zorlandım? 
+4. Hangi alanda kendimi daha çok geliştirmeliyim?
+5. Daha sonraki çalışmalarda neleri farklı yapacağım?
+Saf bir sıvının denge buhar basıncını etkileyen faktörlerden biri sıvının cin -
+sidir. Bir sıvının molekülleri arasındaki çekim kuvvetleri zayıfladıkça buhar 
+fazına geçebilen sıvı moleküllerinin sayısı artacağından buhar basıncı da 
+artar. Aynı sıcaklıktaki iki farklı saf sıvıdan buhar basıncı büyük olan daha 
+uçucu olarak nitelenir. Bu nedenle molekülleri arasında hidrojen bağları oluş-
+turabilen bileşiklerin benzer mol kütlesine sahip ancak molekülleri arasında 
+hidrojen bağları oluşturamayan bileşiklerden daha az uçucu olması beklenir. 
+Saf bir sıvının denge buhar basıncını etkileyen diğer bir etken sıcaklıktır. Bir 
+sıvının sıcaklığı artırılırsa sıvı moleküllerinin kinetik enerjisi ve buhar fazına 
+geçebilen sıvı moleküllerinin sayısı artacağından buhar basıncı da artar. Aynı 
+buhar basıncına sahip iki farklı saf sıvıdan düşük sıcaklıkta olanı daha uçucu 
+olarak nitelenebilir. Görsel 2.21’de denge buhar basıncını etkileyen ve etkile-
+meyen faktörler verilmiştir.
+Görsel 2.21 
+Denge buhar 
+basıncını etkileyen ve 
+etkilemeyen faktörler
+Denge Buhar 
+Basıncı
+Sıvının
+içinde bulunduğu
+kabın hacmine
+Sıvının
+içinde bulunduğu
+kabın şekline
+Sıvı miktarına
+Sıvının cinsine Saflık derecesine Sıcaklığa
+Bağlıdır Bağlıdır
+Bağlı değildirBağlı değildir Bağlı değildir
+Bağlıdır
+Sıvıların buhar basınçları 
+ile ilgili içeriğe ulaşmak 
+için karekodu okutunuz.

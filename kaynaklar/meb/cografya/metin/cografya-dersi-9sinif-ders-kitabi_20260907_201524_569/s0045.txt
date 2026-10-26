@@ -1,0 +1,33 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+45
+Haritalama Teknikleri
+Sınırları belirlenmiş bir yerde tespit edilen coğrafi unsurların mekânsal dağı-
+lışı harita üzerinde gösterilir. Haritada doğal, beşerî ve ekonomik özelliklerin 
+nerede olduğuna ilişkin model ve desenler görünür hâle gelir. 
+Coğrafi olay, olgu veya unsurlar haritada sembollerle ifade edilir. Haritaya 
+aktarılmak istenen mekânsal veriler; nokta, çizgi veya alan olarak sembolleş-
+tirilir ve gösterilir (Görsel 2.6).   
+Harita, incelediği konuların mekânsal dağılışlarını ortaya koyan coğrafya bilimi için vazgeçilmez bir tem-
+sil yöntemidir. Bunun yanında haritalar; tarih, arkeoloji, sosyoloji, psikoloji, meteoroloji, jeoloji, ekoloji, 
+çevre, tıp, kamu yönetimi, ekonomi gibi farklı alanlar için de etkili bir ifade aracıdır.
+Yeryüzündeki olgu, olay ve unsurların konumu, mekânsal yayılışı, nitelikleri, miktarı ya da hareketliliğini 
+ifade etmek amacıyla çeşitli haritalama teknikleri geliştirilmiştir (Görsel 2.7).   Geliştirilen bu tekniklerin 
+her birinin kendine özgü avantaj ve sınırlılıkları vardır. Bu bağlamda haritalama teknikleri mevcut örnek-
+lerle sınırlı olmayıp üretilecek haritanın niteliğine göre dinamik bir yapı sergiler. Haritalarda dağılışların 
+görselleştirilmesinde tercih edilecek haritalama teknikleri, temelde verinin türü ve ölçeği ile kullanıcıya 
+iletilmek istenen mesaja göre belirlenir. 
+1. Korokromatik 3. İzoplet
+6. Akış5. Oransal Sembol 7. Kartogram
+2. Koroplet
+4. Noktalama
+Gösterim Yöntemi Sembol Örneği Coğrafi Unsur
+Nokta +   Zirve, su kuyusu, sokak lambası, şehir, konut vb.
+Çizgi Sınır çizgisi, yol, akarsu, fay vb.
+Alan Ülke, bölge, göl, orman, tarım alanı vb.
+Görsel 2.6 
+Haritada coğrafi 
+unsurların gösterimi
+Başlıca
+Haritalama
+Teknikleri
+Görsel 2.7: Haritalama teknikleri

@@ -1,0 +1,173 @@
+279
+12. FORM
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+Deney tasa-
+rım adım-
+larını takip 
+edebilme
+ (20 puan)
+Deneyin amacını 
+doğru olarak belirle-
+miştir. 
+(1-5 puan)
+Belirlediği amaca 
+uygun bir deney 
+yapmak için gerekli 
+malzemeleri doğru 
+seçmiştir. 
+(6-10 puan)
+Deney düzeneğini 
+doğru bir şekilde 
+kurmuştur. 
+(11-15 puan)
+İşlem basamaklarını 
+doğru belirleyerek 
+deneyi veri elde 
+edecek şekilde 
+uygulamıştır. 
+(16-20 puan)
+Sıvıların yü-
+zey gerilimini 
+etkileyen 
+faktörleri be-
+lirleyebilme 
+(20 puan)
+Deney bulguların-
+dan hareketle sıvıla-
+rın yüzey gerilimini 
+etkileyen faktörleri 
+belirleyememiştir. 
+(1-5 puan)
+Sıvıların yüzey 
+gerilimini etkile-
+yen faktörlerden 
+yalnızca birini doğru 
+belirlemiştir. 
+(6-10 puan)
+Sıvıların yüzey 
+gerilimini etkileyen 
+iki faktörü doğru 
+belirlemiştir.
+(11-15 puan)
+Sıvıların yüzey 
+gerilimini etkileyen 
+üç faktörü doğru 
+belirlemiştir. 
+(16-20 puan)
+Sıvıların yü-
+zey gerilimini 
+etkileyen 
+faktörleri 
+moleküller 
+arası etkile-
+şimleri göz 
+önüne alarak 
+açıklayabil-
+me (20 puan)
+Sıvıların yüzey 
+gerilimini moleküller 
+arası etkileşimlerin 
+gücü ile ilişkilendir-
+miştir. 
+(1-5 puan)
+Sıvıların yüzey 
+gerilimini etkileyen 
+faktörlerden yalnız-
+ca birini moleküller 
+arası etkileşimleri 
+dikkate alarak açık-
+lamıştır. 
+(6-10 puan)
+Sıvıların yüzey 
+gerilimini etkileyen 
+iki faktörü molekül-
+ler arası etkileşim-
+leri dikkate alarak 
+açıklamıştır.
+(11-15 puan)
+Sıvıların yüzey ge-
+rilimini etkileyen üç 
+faktörü moleküller 
+arası etkileşimleri 
+dikkate alarak açık-
+lamıştır. 
+(16-20 puan)
+Deney 
+sonuçlarını 
+raporlayabil-
+me 
+(20 puan)
+Sıvıların yüzey 
+gerilimini etkileyen 
+faktörleri belirleme-
+ye yönelik gerçek-
+leştirdiği deneylerin 
+sonuçlarını raporla-
+yamamıştır.
+ (1-5 puan)
+Sıvıların yüzey 
+gerilimini etkileyen 
+faktörlerden yalnız-
+ca birine ait deney 
+sonuçlarını raporla-
+yabilmiştir.
+(6-10 puan)
+Sıvıların yüzey 
+gerilimini etkileyen 
+iki faktöre ilişkin 
+deney sonuçlarını 
+raporlayabilmiştir.
+(11-15 puan)
+Sıvıların yüzey ge-
+rilimini etkileyen üç 
+faktöre ilişkin deney 
+sonuçlarını raporla-
+yabilmiştir. 
+(16-20 puan)
+Deneyden 
+elde edilen 
+çıktıları 
+bilimsel bil-
+gilerle karşı-
+laştırabilme 
+ve günlük 
+hayatla ilişki-
+lendirebilme 
+(20 puan)
+Sadece bir fak-
+töre ilişkin deney 
+sonuçlarını bilimsel 
+bilgilerle karşılaş-
+tırabilmiş ancak 
+günlük hayatla 
+ilişkilendirememiştir. 
+(1-5 puan)
+Sadece bir fak-
+töre ilişkin deney 
+sonuçlarını bilimsel 
+bilgilerle karşılaştı-
+rabilmiş ve günlük 
+hayatla ilişkilendire-
+bilmiştir. 
+(6-10 puan)
+İki faktöre ilişkin 
+deney sonuçlarını 
+bilimsel bilgilerle 
+karşılaştırabilmiş 
+ve günlük hayatla 
+ilişkilendirebilmiştir. 
+(11-15 puan)
+Üç faktöre ilişkin 
+deney sonuçlarını 
+bilimsel bilgilerle 
+karşılaştırabilmiş 
+ve günlük hayatla 
+ilişkilendirebilmiştir. 
+(16-20 puan)
+Tablo Puanı
+Öğretmen Geri Bildirimi:
+Bu form, öğrencilere “Sıvıların Yüzey Gerilimini Etkileyen Faktörlere İlişkin Bilimsel Sorgulama Yapabil-
+me” konusunda verilen etkinlik kâğıdını değerlendirmeniz amacıyla hazırlanmıştır. Öğrencinin belirtilen 
+ölçütlere ilişkin öğrenme düzeyini tablodaki açıklamalara göre puanlayınız.
+ETKİNLİK KÂĞIDI ÇALIŞMASI ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Öğrencinin Adı Soyadı:       Numarası:   Sınıfı:

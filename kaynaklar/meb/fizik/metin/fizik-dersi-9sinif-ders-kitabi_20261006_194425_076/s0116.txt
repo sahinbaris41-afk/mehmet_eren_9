@@ -1,0 +1,20 @@
+116
+2. ÜNİTE 
+Karekoddan yararlanarak farklı hareket türlerinin sını/f_landırılması ile ilgili etkileşimli içeriğe ulaşabilirsiniz.
+ 
+Kontrol Noktası
+Hareket Türleri
+Öteleme
+Cismin bütün parçaları eşit 
+yer değiştirme yapar.
+Dönme
+Cismi oluşturan bütün 
+parçalar, bir eksene eşit 
+uzaklıkta kalacak şekilde 
+hareket eder.
+Titreşim
+Cisim, bir nokta etrafında 
+gidip gelme hareketi yapar.
+Farklı Kaydet
+Bu ünitede öğrendiğiniz bilgileri bu alana kısaca not edebilirsiniz.
+ 

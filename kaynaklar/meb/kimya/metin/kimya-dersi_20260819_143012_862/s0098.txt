@@ -1,0 +1,51 @@
+98
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında çalışma yaprağı, 
+etkinlik kâğıdı, yapılandırılmış grid, performans görevi, Venn diyagramı ve öz değerlendir-
+me formu kullanılabilir.
+Performans görevi çerçevesinde öğrencilerden verilen çeşitli molekülleri farklı materyal-
+ler kullanarak modellemeleri istenebilir. Performans görevi “uygun materyal seçme, mole-
+kül geometrilerini belirleme, kendi modelinin bilimsel modele uygunluğu” ölçütlerini içeren 
+dereceli puanlama anahtarı ile değerlendirilebilir.
+Performans görevi çerçevesinde öğrencilerden seçtiği alifatik hidrokarbonların izomer -
+lerini farklı materyaller kullanarak  modellemeleri istenebilir. Performans görevi “uygun 
+materyal seçme, izomerleri belirleme, model oluşturma, kendi modelinin bilimsel modele 
+uygunluğu” ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.
+Öğrencilerden performans görevi çerçevesinde farklı fosil yakıtların kullanımıyla ortaya 
+çıkan enerji miktarını ve sera gazlarını araştırarak bunların çevreye olan etkilerini belir -
+lemeleri ve sürdürülebilir bir çevre için hangi fosil yakıtın kullanılması gerektiği çıkarımını 
+yapmaları istenebilir. Performans görevi “fosil yakıtların açığa çıkardığı enerji miktarını, 
+açığa çıkan sera gazları türünü ve miktarını, hava kirliliği ve asit yağmuruna neden olma 
+potansiyelini, emisyon ayak izini belirleme, en uygun fosil yakıta karar verebilme” ölçütleri-
+ni içeren dereceli puanlama anahtarı ile değerlendirilebilir.
+Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında 
+toplanarak değerlendirme amaçlı kullanılabilir.
+Genellemeler/İlkeler/
+Anahtar Kavramlar
+aldehit, alifatik bileşik, alkan, alken, alkin, alkol, aromatik bileşik, basit formül, ester, eter, 
+fonksiyonel grup, halkalı yapı, hidrokarbon, izomerlik, karboksilik asit, keton, molekül for-
+mülü, molekül geometrisi, pi bağı, sigma bağı, yapı formülü, yapısal izomerlik, yarı açık 
+formül  
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin kovalent bağı, moleküller arası etkileşimleri, bağ enerjisini, atomların te -
+mel hâl elektron dizilimlerini bildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Kovalent bağ, moleküller arası etkileşimler ve bağ enerjisine yönelik hatırlatıcı sorular so-
+rulabilir. Elektronların orbitallere yerleşimine yönelik alıştırmalar yapılabilir.
+Köprü Kurma Günlük hayatta yakıt olarak kullanılan doğal gaz, benzin; tatlılarda ve içeceklerde kulla -
+nılan şeker, doğal asitler; kozmetik ürünlerde bulunan alkol ve eterler; baharatların yapı -
+sında bulunan aromatik bileşikler; canlı organizmalar için vazgeçilmez olan amino asitler, 
+proteinler, karbonhidratlar vb. organik bileşikler örnek verilerek karbon elementinin öne-
+mine vurgu yapılabilir.
+İÇERİK ÇERÇEVESİ Organik Kimyaya Giriş:  Sigma ve Pi Bağları, Hibritleşme, Molekül Geometrisi ve VSEPR 
+Kuramı
+Organik Bileşikler: Organik Bileşiklerin Yapı Formülleri, Alifatik ve Aromatik Hidrokarbon-
+lar, Alifatik Hidrokarbonların Sınıflandırılması, Alifatik Hidrokarbonların Sistematik Ad -
+landırılması, Alifatik Hidrokarbonların İzomerlikleri, Alifatik Hidrokarbonların Fiziksel ve 
+Kimyasal Özellikleri, Organik Bileşikleri Fonksiyonel Gruplarına Göre Sınıflandırma, Fonk -
+siyonel Gruba Sahip Organik Bileşiklerin Sistematik Adlandırılması, Fonksiyonel Grup İzo -
+merliği, Karbon Temelli Enerji Kaynakları

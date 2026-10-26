@@ -1,0 +1,72 @@
+217
+7. Tema / Veriden Olasılığa
+3. ÖRNEK
+“Aşağıdaki deneylerde olası tüm çıktıları belirlemek amacıyla görselleştirme araçlarından (sistematik 
+liste, tablo ve ağaç şeması) hangisini seçersiniz? ”, “Söz konusu seçimi yapmanızın nedeni nedir?" so-
+rularına cevap vererek  tablodaki ilgili alanları doldurunuz.
+Deney Görselleştirme Aracı Açıklama
+Yüzeylerinde farklı sayılar 
+yazan düzgün dört yüzlünün  
+ve hilesiz sayı küpünün atıl -
+ması
+3 torbadan topların çekilmesi
+1 1
+1
+222
+2
+2
+1 1
+1
+1
+1
+122
+2
+2
+2
+2
+Biri 12, diğeri 8 eş bölüme 
+ayrılmış iki çarkın çevrilmesi
+Çözüm
+Deney Görselleştirme Aracı Açıklama
+Yüzeylerinde farklı sayılar 
+yazan düzgün dört yüzlünün  
+ve hilesiz sayı küpünün atıl -
+ması
+Tablo
+Ele alınan deney bağ -
+lamında yalnızca 2 
+olay ve bu olayların 
+çıktı sayılarının az 
+olması nedeniyle tablo 
+yapılması kolaylık sağ-
+layabilir.
+3 torbadan topların çekilmesi Ağaç Şeması
+Ele alınan deney bağ -
+lamında 3 olay oldu -
+ğundan her olay için 
+bir dalın çizilebileceği 
+ağaç şeması kolaylık 
+sağlayabilir.
+1 1
+1
+222
+2
+2
+1 1
+1
+1
+1
+122
+2
+2
+2
+2
+Biri 12, diğeri 8 eş bölüme 
+ayrılmış iki çarkın çevrilmesi Sistematik Liste
+Ele alınan deney 
+bağlamında çıktı  
+sayısı fazla olduğu 
+fakat genelde çıktılar 
+tekrar ettiği için sis -
+tematik liste kolaylık 
+sağlayabilir.

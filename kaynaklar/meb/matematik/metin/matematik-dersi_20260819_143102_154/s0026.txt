@@ -1,0 +1,47 @@
+26
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Öğrencilerin tam sayılarda toplama ve çarpma işlemlerinin özellikleri, bir doğal sayının 
+çarpanları ve katları, iki doğal sayının ortak bölenleri ve ortak katları, bölünen, bölen, bö -
+lüm ve kalan kavramlarıyla ilgili bilgilerinin, temel aritmetik işlemlerle ilgili becerilerinin be-
+lirlenebilmesi için soru cevap tekniği uygulanabilir. 
+Köprü Kurma Gerçek yaşamda karşılaşılan (bir öğrencinin farklı seçmeli derslerden aynı gün ve saatte 
+olmayan dersleri seçmesi, bir gökdelende  duracağı katlar farklı algoritmalara göre belirle-
+nen asansörlerden gidilecek kata göre en uygun olanın çağrılması gibi), mantıksal çıkarım 
+gerektiren durumlara ilişkin örneklere yer verilebilir. Gerçek yaşamda verilerin sıralandı -
+ğı  (tren veya otobüs sefer saatlerinin sıralı olarak verilmesi, doktor nöbet günlerinin sıralı 
+olarak belirtilmesi gibi), diyagram (bir spor organizasyonunda yapılacak elemelerin göste-
+riminde, biyolojide canlıların özelliklerine göre sınıflandırılmasında kullanılan diyagramlar 
+gibi) veya tablo ile gösterildiği (haftalık ders programları gibi), gruplandırıldığı (ülkemizdeki 
+şehirlerin isimlerinin baş harflerine göre gruplandırılması gibi)  örneklere yer verilebilir. Bu 
+örneklerden hareketle, hangi temsil biçimine ne amaçla yer verildiği, tercih edilen temsil 
+biçiminin olumlu veya olumsuz yönlerinin neler olduğu gibi farklı konulara ilişkin sınıf içi 
+tartışmalar yapılabilir.
+Öğrenme-Öğretme 
+Uygulamaları MAT.H.2.1
+Sözel mantık problemleri, zekâ soruları, bilmeceler, kelime oyunları, nim oyunları gibi farklı 
+soru veya problemlerin mantıksal çıkarım gerektirdiği üzerinde durularak mantıksal çıka-
+rım kavramının anlamlandırılması üzerine çalışmalar yapılır. Kimyada maddelerin homojen 
+karışım oluşturup oluşturmama bilgisine göre bir karışımdaki maddelerin türlerinin belir -
+lenmesi; maddenin katı, sıvı veya gaz hâlinde olduğu sıcaklık aralıklarına göre sıcaklığı sa-
+bit olan bir ortamda belirli hâllerde bulunan maddelerin türlerinin belirlenmesi; biyolojide 
+besleme-beslenme ilişkilerine göre canlıların yaşayabilecekleri uygun ekolojik koşulların 
+belirlenmesi gibi farklı disiplinlerde karşılaşılan ve mantıksal çıkarım gerektiren durumla -
+rın neler olduğuna dair sınıf içi tartışmalar yapılır (SDB2.1, SDB3.3, E1.1). 
+Problem örnekleri üzerinden gruplandırma, örüntü elde etme, sistematik liste yapma, 
+sıralama gibi stratejiler uygulanarak matematiksel temsiller ile problemdeki algoritmik 
+yapılar arasındaki  ilişkiler belirlenir (E3.6). Belirlenen ilişkilerden hareketle problemlerde 
+yer verilen bilgilere dayalı olarak sözel veya görsel temsilleri tablolaştırma, cebirsel temsil 
+elde etme gibi matematiksel dil veya temsillerin kullanılması sağlanır (OB1, OB4, MAB3) . 
+Dönüştürülen temsillerin problem bağlamındaki anlamı ifade edilir. Örneğin bir kısmı oy -
+nanmış tic tac toe (tik tak to), sudoku gibi bir oyuna ait görsel verilerek oyunun kalan kıs -
+mının kaç farklı şekilde oynanabileceği sorulur. Sorunun çözümü için olası durumlar belir-
+lenip her bir olası durum için yapılabilecek farklı  hamleler, tablo ile temsil edilir. Ardından 
+farklı hamlelerin sayısı, tablodan elde edilen veriler yardımıyla basit sayma stratejileri ile 
+bulunur (OB4). Bu tür etkinlikler esnasında öğrencilerden disiplinli ve istikrarlı çalışma 
+alışkanlıkları geliştirmesi beklenir (D3.1).
+Öğrencilerin karşılaşılan problemlerde elde edilen mantıksal çıkarımla ilgili olarak ağaç şe-
+ması, sistematik listeleme, diyagram ve tablo temsilinden yararlanma gibi çözüm strate -
+jilerinden uygun olanı belirlemeleri sağlanır (SDB1.2, SDB3.2, E3.7, MAB3). Öğrencilerden 
+belirlenen çözüm stratejilerinden birini kullanarak problemi çözmeleri beklenir. Öğrenci -
+ler, çözülen problemin sonucunu farklı çözüm stratejileriyle elde edilen diğer çözümlerin 
+sonuçlarıyla karşılaştırmaya teşvik edilir (E3.6).

@@ -1,0 +1,45 @@
+66
+1. Tema
+Hücre içindeki metabolik reaksiyonlar, 
+genellikle farklı enzimler tarafından 
+katalize edilen reaksiyonlar dizisi ola-
+rak gerçekleşir. Bu süreçte bir enzim 
+tarafından oluşturulan ürün sonraki 
+reaksiyon için substrat olarak işlev gö -
+rür ve aşamalı olarak farklı enzimlerin 
+devreye girmesiyle zincirleme şekilde 
+devam eder (Görsel 1.53). Metabolik 
+yol olarak bilinen bu reaksiyonlar, hücresel işlevlerin düzgün ve koordineli bir şe -
+kilde yürütülmesini sağlar. Negatif geri bildirim [feedback (fidbek)] son ürünün 
+aşırı üretiminin engellenmesi için genellikle yolun ilk enziminin baskılanmasıdır. 
+Böylece hücrenin kaynakları verimli bir şekilde kullanılır.
+Enzim Enzim Enzim
+Enzimsiz aktivasyon enerjisi
+Enzimli aktivasyon enerjisi
+Net reaksiyon enerjisi
+Net reaksiyon enerjisi
+a
+b
+B DA C
+1. Enzim 2. Enzim 3. Enzim
+Geri bildirim baskılaması
+–
+Görsel 1.53
+Zincirleme enzim reaksiyonları 
+ve geri bildirim baskılaması
+Görsel 1.52
+a) Enzim kullanılmadan 
+gerekli aktivasyon enerjisi,
+b) Enzimli bir reaksiyonun 
+aktivasyon enerjisi
+Bir reaksiyonun başlayabilmesi için öncelikle aktivasyon enerjisi adı verilen enerji 
+engeli aşılmalıdır (Görsel 1.52). Enzimler, aktivasyon enerjisini düşürerek reaksiyon-
+ların daha hızlı ve daha düşük enerji ile gerçekleşmesini sağlar. Aktivasyon enerjisi-
+nin düşürülmesinde enzim-substrat ilişkisi oldukça önemlidir. Enzimlerin belirli bir 
+reaksiyonda net reaksiyon enerjisi üzerine etkisi bulunmamaktadır.
+Enzimler genellikle substratlarına özgüdür. Birbirine yapısal olarak benzeyen subst-
+ratlar arasında kendi substratını tanır. Örneğin sükraz enzimi sadece sükroz üzerin-
+de etkiliyken yapısal olarak sükroza benzeyen maltoz gibi diğer disakkaritler üzeri-
+ne etkili değildir. Enzimler, hücre içinde üretilir ve çoğunlukla hücre içi faaliyetlerde 
+kullanılır ancak pepsin, kimotripsin gibi bazı enzimler üretildikleri hücrelerin dışına 
+salgılanabilir ve hücre dışında da çalışabilir.

@@ -1,0 +1,49 @@
+91
+2. Tema /  Nicelikler ve Değişimler
+G
+erçek yaşamda iki değişken arasında bulunan doğrusal ilişki, doğrusal fonksiyonlarla ifade edi-
+lebilir. Doğrusal fonksiyonların grafikleri dik koordinat sisteminde doğru belirtir. Fonksiyonların 
+cebirsel ve grafik temsillerinden yararlanılarak doğrusal ilişki hakkında çıkarımlar yapılabilir.
+ 2.1. DOĞR USAL FONKSİYONLAR VE NİTEL 
+ÖZELLİKLERİ
+Konuya Başlarken
+Geçmişte haberleşme aracı olarak kullanılan dilek fenerleri, 
+günümüzde genellikle açık hava etkinliklerinde kullanılmaktadır. 
+Dilek fenerlerinin iç kısmında görseldeki gibi bir mum 
+bulunmaktadır. Mum yakıldığında dilek feneri ısının etkisiyle 
+yükselmeye başlar.
+Başlangıçta deniz seviyesinde bulunan bir dilek feneri, tabanındaki 
+mum yakıldıktan sonra gökyüzüne doğru bırakılmıştır. Sabit 
+hızla yükseldiği kabul edilen dilek feneri, 1 saniyede 10 cm 
+yükselmektedir. 
+Dilek fenerinin zamana (sn.) bağlı olarak deniz seviyesinden yüksekliğini (cm) gösteren ilişki, 
+uygun aralıkta f(x) = 10x şeklinde tanımlı f fonksiyonu ile ifade edilebilir.
+Bu ilişkide zaman bağımsız değişken, yükseklik bağımlı değişkendir.
+Buna göre aşağıdaki sorularla ilgili fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+a)  f fonksiyonunun doğrusal bir ilişkiyi temsil ettiği göz önüne alınırsa fonksiyonun 
+grafiği nasıl çizilebilir?
+b)  f fonksiyonunun grafiği bir doğru belirtir mi? Fonksiyonun grafiği bir doğru belirtiyorsa 
+doğrunun eğimi nasıl hesaplanabilir?
+2.  A şağıda A, B ve C sıvılarının farklı ortamlarda ısıtılması ile elde edilen zamana (dk.) bağlı 
+sıcaklıkları (oC) sırasıyla uygun aralıkta tanımlı f, g ve h fonksiyonları ile ifade edilmiştir. 
+f, g ve h fonksiyonlarının grafik temsilleri aşağıda verilmiştir.
+ 
+x  Zaman   
+   (dk.)
+y  Sıcaklık (oC)
+O
+g
+x  Zaman   
+   (dk.)
+y  Sıcaklık (oC)
+O
+h
+x  Zaman   
+   (dk.)
+y  Sıcaklık (oC)
+O
+f
+Buna göre aşağıdaki sorularla ilgili fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+a)  f , g ve h fonksiyonlarının cebirsel temsillerinin ne gibi ortak yönleri vardır?
+b)  S ıcaklık (oC) ve zaman (dk.) değişkenleri arasındaki ilişki nasıl değişmektedir?
+1.

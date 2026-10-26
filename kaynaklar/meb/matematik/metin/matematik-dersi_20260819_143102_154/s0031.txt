@@ -1,0 +1,37 @@
+31
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.H.3.3
+Önceden bilinen algoritmalara göre oluşturulmuş şifreli metinler incelenir. Bölme 
+işleminden elde edilen kalana göre oluşturulan şifreleme örnekleri gibi farklı şifreleme 
+yöntemleri kullanılan metinlerin incelenmesi sağlanır. Örneğin “A, B, C, ... , Z, nokta, 
+virgül, tırnak işareti, boşluk ” gibi 33 sembolden oluşan bir metinde harfler kodlanırken 
+A harfi için 00, B harfi için 01, … , boşluk için 32 sayısı atanabilir. Harflere karşılık gelen 
+her bir sayının 6 fazlasının 33 ’e bölümünden kalanların alfabedeki harf karşılıkları dikkate 
+alınarak oluşturulmuş bir şifreleme örneği verilebilir. Sonrasında öğrencilerin şifreleme 
+kurallarını incelemesi sağlanır. Yapılan incelemeler sonucunda şifreleme kurallarındaki 
+nitelikler (şifrenin yazıldığı dilin alfabesindeki harflerin numara karşılıkları, ileri/geri 
+kaç adım ötelendiği, en çok hangi harflerin kullanıldığı, hangi sayı eklenip hangi sayıya 
+bölümden elde edilen kalanlara göre şifreleme yapıldığı gibi) tespit edilir. Bu süreçte sınıf 
+içi tartışmalar yapılır. Bu tartışmalar yapılırken öğrencilerin düşüncelerini temellendirerek 
+ifade etmeleri ve diğerlerinin düşüncelerini saygı çerçevesinde dinleyerek arkadaşlarıyla 
+etkileşim kurmaları sağlanır (D14.1, SDB2.1) . Öğrencilerden tespit edilen özelliklere 
+ilişkin çıkarımlar yapmaları beklenir (MAB1). Sonrasında öğrencilerden yeni şifreler 
+oluşturmaları istenir. Bu süreçte gruplar oluşturularak öğrencilere şifreli metinler 
+hazırlama ve birbirlerinin metinlerini deşifre etme esasına dayanan sınıf içi uygulamalar 
+yaptırılır (SDB2.2) . Uygulama sonrası öz değerlendirme ve grup değerlendirmeleri 
+yapılabilir (SDB1.2). Gruplar, oluşturdukları şifreli metinleri mahremiyete dikkat ederek 
+dijital ortamlarda birbirleriyle paylaşır (OB2). Öğrencilere şifreli metin oluşturmaya yönelik 
+performans görevi verilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilerden tarihte farklı zamanlarda kullanılan matematiksel bilgiye göre geliştirilmiş 
+şifreleme araçlarını (Sezar çarkı, Enigma, SIGABA gibi) incelemeleri istenebilir. Bu araçlar-
+da ve günümüzde kullanılan şifreleme yöntemlerinde yer alan matematiksel yapıyı belirle -
+meleri ve kendilerinin  de farklı araç ya da şifreleme yöntemi geliştirmeleri istenebilir.
+Destekleme Şifre oluşturmayı veya oluşturulan şifreyi çözümlemeyi  gerektiren durumlarda öğrencile -
+rin bilgi ve beceri düzeylerine uygun, basit algoritmik işlemler içeren problem örnekleri ter-
+cih edilebilir. Öğrencilere farklı çevrim içi şifreleme uygulamaları  kullandırılarak şifreleme 
+örneklerini görmeleri ve kendilerinin de uygulamanın  ilgili kısmında değişiklikler yaparak 
+şifre oluşturmaları istenebilir. 
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

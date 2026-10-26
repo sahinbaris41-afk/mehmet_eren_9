@@ -1,0 +1,35 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+40 41
+FİZİK 9 
+ÜNITE 2: KUVVET VE HAREKET
+2. Adım: Uygulama
+ ♦ Öğrencilere ‘‘Araç göstergesinde okunan anlık sü -
+rate ek olarak hangi verilerin alınması durumunda 
+anlık hız bilgisine ulaşılabilir? ’’ sorusunu yönelte -
+rek onlarla bir beyin fırtınası etkinliği başlatınız 
+(Görsel 2.9).
+ ♦ Öğrencilere "Anlık sürate ilave olarak alınacak 
+veriler hangi teknolojik cihazlarla elde edilebilir?’’ 
+sorusunu yönelterek bu cihazları belirlemelerini 
+isteyiniz. 
+ ♦ Öğrencileri rehberliğinizde gruplara ayırınız.
+ ♦ Araç göstergelerine yapılacak eklentilerle anlık 
+hız tespitinin yapılacağı bir teknolojik model ta -
+ ♦ Jiroskop hakkında öğrencilerinize kısaca bil -
+gi veriniz. Jiroskopun çalışma ilkesi ve kulla -
+nım alanlarıyla ilgili detaylı bir araştırma yap -
+malarını onlardan isteyiniz (Görsel 2.6).
+ ♦ Öğrencilerden, araç göstergelerine jiroskop 
+ekleyerek veya jiroskop özelliği olan bir cihaz 
+kullanarak aracın hareket ettiği düzlemin na-
+sıl değiştiğini belirlemeye yönelik bir teknolo-
+jik model tasarlamalarını isteyiniz.
+ ♦ Öğrencilerden, bu tasarımı yaparken ihtiyaç 
+duyulabilecek yazılım ve donanımları detaylı 
+olarak belirtmelerini isteyiniz.
+Ek Araştırma-Geliştirme Çalışması
+Görsel 2.9: Araç navigasyon sistemi
+Görsel 2.10: Jiroskop
+sarlamasını öğrencilerden isteyiniz. 
+ ♦ Öğrencilerin bu tasarım yapılırken ihtiyaç duyulabilecek yazılım ve donanımları detaylı olarak belirtmesini 
+isteyiniz.

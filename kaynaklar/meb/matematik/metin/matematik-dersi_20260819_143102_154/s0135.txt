@@ -1,0 +1,50 @@
+135
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.11.2.1. Üçgenlerde açı, benzerlik ve alan özelliklerinden yola çıkarak dörtgenlerin açı, 
+kenar, köşegen, simetri ve alan özelliklerine ilişkin muhakeme yapabilme
+a) Dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin varsayımlarda 
+bulunur.
+b) Varsayımlarını kullanarak dörtgenlerin kenar, açı, köşegen, simetri ve alan özellik -
+lerine ilişkin örüntüleri geneller.
+c) Dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin varsayımları ile 
+genellemelerini karşılaştırır.
+ç) Elde ettiği genellemeleri kullanarak dörtgenlerin kenar, açı, köşegen, simetri ve 
+alan özelliklerine ilişkin önermeler sunar.
+d) Dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin sunduğu öner-
+meleri yeni durumlara uyarlayarak değerlendirir.
+e) Elde ettiği önermeleri üçgenlerde açı, benzerlik ve alan özelliklerini kullanarak is -
+patlar.
+f) Uyguladığı ispatı kullanışlılık açısından değerlendirir.
+MAT.11.2.2. Özel dörtgenlerin kenar, açı, köşegen ve simetri özelliklerinden hareketle ara-
+larındaki ilişkileri yapılandırabilme
+a) Dörtgenlerin özelliklerini kullanarak özel dörtgenler arasında hiyerarşik veya ne -
+densel ilişkiler ortaya koyar.
+b) Özel dörtgenler arasındaki hiyerarşik ilişkilere dair anlamlı bir bütün oluşturur.
+MAT.11.2.3. Çokgenleri içbükey veya dışbükey olarak sınıflandırabilme
+a) Çokgenleri ayırt etmek için ölçütler belirler.
+b) Çokgenleri belirlediği ölçütlere göre ayrıştırır.
+c) Ayrıştırdığı çokgenleri tasnif eder.
+ç) Çokgenleri belirlediği ölçüte uygun olarak etiketler/belirler.
+MAT.11.2.4. Dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine dair çı -
+karım yapabilme
+a) Dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine dair varsayım-
+larda bulunur.
+b) Varsayımlarını kullanarak dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan 
+özelliklerine ilişkin örüntüleri geneller.
+c) Dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin genelle-
+melerini varsayımları ile karşılaştırır.
+ç) Elde ettiği genellemeleri kullanarak dışbükey çokgenlerin kenar, açı, köşegen, simetri 
+ve alan özelliklerine ilişkin önermeler sunar.
+d) Dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin sunduğu 
+önermeleri problem durumlarına uyarlayarak kullanışlılık açısından değerlendirir.
+MAT.11.2.5. Çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerini içeren problemler 
+çözebilme
+a) Çokgenleri içeren problemlerin parçalarını (nicelik, şekil gibi) belirler.
+b) Problemin parçaları arasındaki ilişkileri belirler.
+c) Problemin bileşenlerini ve aralarındaki ilişkileri bağlama uygun olarak matematiksel 
+temsillere dönüştürür.
+ç) Matematiksel temsillere dönüştürdüğü problemin öncüllerini ve ulaşmak istediği so-
+nucu kendi ifadeleri ile açıklar.
+d) Problemin çözümü için stratejiler geliştirir.
+e) Geliştirdiği stratejileri kullanarak problemi çözer.

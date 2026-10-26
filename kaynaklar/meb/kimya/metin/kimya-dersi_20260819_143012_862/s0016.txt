@@ -1,0 +1,53 @@
+16
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Öğrencilerden günlük hayatta karşılaştıkları ve kimya bilgisinin faydalı olduğu durumları 
+örneklendirmeleri istenebilir. Evlerinde kullandıkları kimyasal maddelerin özellikleri ve 
+bunların kullanımı sırasında dikkat edilmesi gerekenler ile ilgili grup tartışması yaptırılabilir.
+Öğrencilerden bir atom modeli çizmeleri ve atom altı parçacıklarını göstermeleri istene -
+bilir. Öğrencilerden atom numarası 20’ye kadar olan elementlerin katman elektron dağılı-
+mını kullanarak periyodik tabloda yer bulmaları; metal, ametal, yarı metal ve soy gazların 
+konumlarını periyodik tabloda göstermeleri istenebilir. Element sembolü ile birlikte veri -
+len sayısal verileri kullanarak kütle numarasını; proton, nötron, elektron sayısını ve iyon 
+yükünü belirlemeleri sağlanabilir.
+Köprü Kurma Kimya biliminin günlük hayata katkıları hakkında öğrencilerin düşüncelerini paylaşmalarını 
+teşvik etmek amacıyla toplumdaki bireylerin kimya bilgisine sahip olmasının sağlık ve çev-
+re üzerindeki etkileri üzerine bir tartışma ortamı oluşturulabilir. 
+Öğrenme-Öğretme 
+Uygulamaları KİM.9.1.1
+Kimya alanında önemli projelerden biri olan İstanbul Kimya Teknoloji Merkezi (KTM) ve bu-
+nun gibi çalışmalar örnek verilerek kimya biliminin günlük hayata ve Türkiye ekonomisine 
+katkısı vatanseverlik değeri kapsamında vurgulanabilir (D19.3, D19.4, OB6). Kimya biliminin 
+günlük hayata katkısına ilişkin çıkarım yapabilmeleri için öğrencilere çeşitli ürünler (temizlik 
+malzemeleri, mutfak gereç ve malzemeleri, öz bakım ürünleri, hazır gıdalar vb.) örnek olarak 
+verilir. Öğrencilerden bu ürünlerin niteliklerini gözlemlemeleri istenir. Öğrencilerin bu ürün-
+lerin özelliklerini, ürünlerin yapıldığı materyallerin kimyasal özellikleri ile kullanım biçimleri 
+arasındaki ilişkiyi incelemeleri sağlanır. Öğrencilere bu süreçte gözlemledikleri ürünlere 
+ilişkin niteliklerin farkını belirtmeleri amacıyla sınıf içi tartışma yaptırılabilir. Öğrencilerden 
+ürünlerin kimya bilimi ile ilişkisini ve insan sağlığına etkisini belirlemek üzere veri toplamaları 
+istenir (OB7). Öğrencilerin doğru ve güvenilir bilgiyi ayırt etmeleri, güvenilir bilgiye ulaşma 
+yollarını bilmeleri sağlanır (D3.3). Kimya biliminin günlük hayata katkılarına ilişkin toplanan 
+verilerin sağlık ve ekoloji açısından yorumlanması ve değerlendirilmesi için öğrenciler yön-
+lendirilir (OB1). Böylece öğrencilerin edindikleri bilgileri eleştirel bakış açısıyla değerlendir-
+meleri, kimyasal maddelerin zararlı etkilerine karşı önlem almalarının sağlık açısından öne-
+mini fark etmeleri sağlanabilir (D13.4). Ayrıca veri toplama sürecinde öğrencilerin kendilerini 
+değerlendirmeleri ve süreci geliştirmek için neler yapabileceklerini belirlemeleri istenebilir 
+(SDB1.2). Kimya biliminin tanımı yapılır. Kimya biliminin alt disiplinleri, ele alınan örneklerle 
+ilişkilendirilerek kısaca tanıtılır (OB1). Kimya biliminin gelişen teknolojilerle bağlantısı kuru-
+larak öğrencilerde kariyer bilinci oluşturulur. Kariyer bilinci oluşturulmasında Aziz Sancar ve 
+Oktay Sinanoğlu’nun çalışmaları örnek verilir. Türk-İslam âlimlerinin ve kimya bilimine katkı 
+sağlayan bilim insanlarının çalışmalarına ilişkin okuma parçası verilerek öğrencilerin kimya 
+bilimine katkıda bulunan âlimlerin ve bilim insanlarının değerini bilmesi, onları takdir etmesi 
+ve onlara karşı vefalı olması sağlanabilir (D15.2, OB5). Öğrencilere sunulan çalışma yaprağı 
+ile çeşitli kimyasal maddelerin özelliklerinin ve günlük hayattaki kullanım alanlarının belirlen-
+mesi istenebilir. 
+Performans görevi olarak öğrencilerden kimyasal maddelerin özelliklerini ve günlük hayat-
+taki kullanım alanlarını belirlemeleri veya kimyasal maddelerin toplum ve çevre sağlığına et-
+kilerine yönelik haber yazısı yazmaları veya kamu spotu hazırlamaları istenebilir (D16.2, E1.4).
+Öğrencilerin kimya dersine yönelik duygu ve düşüncelerini ifade etmeleri, bu dersin oluştur-
+duğu yeni durumları fark etmeleri sağlanabilir; bu süreci kolaylaştırmak için neler yapılabile-
+ceği üzerinde durulabilir (SDB3.1).
+KİM.9.1.2
+Kimyasal maddelerin kullanımı ve güvenlikle ilgili olarak Türk savaş gemilerini kimyasal, bi-
+yolojik, radyoaktif ve nükleer tehditlere karşı 7/24 koruma altına almak için geliştirilen Kim-
+yasal, Biyolojik, Radyoaktif ve Nükleer (KBRN) Tespit ve Teşhis Sistemi Projesi ve bunun 
+gibi çalışmalar örnek verilerek kimyasal maddelerin kullanımının önemine dikkat çekilebilir. 

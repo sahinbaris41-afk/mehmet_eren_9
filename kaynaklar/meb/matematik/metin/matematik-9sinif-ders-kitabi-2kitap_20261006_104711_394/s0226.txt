@@ -1,0 +1,56 @@
+226
+7. Tema / Veriden Olasılığa
+Kontrol Noktası
+Bir olayın deneyine ait tekrar sayısı arttıkça olaya ait deneysel olasılık değeri, teorik olasılık değerine yaklaşma 
+eğilimindedir.
+Yeni Bir Sayı Küpü
+Bu görevde sizden yüzeylerinde 1, 1, 2, 3, 3, 4 yazan hilesiz iki 
+sayı küpü simülasyonu kullanarak sayı küplerinin üst yüzeylerine 
+gelen sayıların toplamına ait sıklık, göreli sıklık ve ağaç şemasını 
+elde etmeniz; bunları kullanarak oluşturduğunuz raporu sunmanız 
+beklenmektedir.
+Göreve başlamadan önce aşağıdaki hususa dikkat ediniz.
+• Teknoloji kullanımında sınıf arkadaşlarınız ile iş birliği yapınız.
+Görev esnasında aşağıdaki hususlara dikkat ediniz.
+•  Simülasyonu kullanarak 50, 150, 300, 900, 1800 ve 3000 tekrardan oluşan sıklıkları ve göreli 
+sıklıkları hesaplayınız.
+•  Hesapladığınız göreli sıklıklara ait grafikleri oluşturunuz.
+•  Oluşturduğunuz grafikleri değişebilirlik bağlamında değerlendiriniz.
+•  Teorik olasılık değerini elde etmek için yaptığınız deneyi görselleştiriniz ve küplerin üst yüzey-
+lerine gelen sayıların toplamının 5 olma olayına ait çıktıları belirtiniz.
+• Küplerin üst yüzeylerine gelen sayıların toplamının 5 olma olayına ait aşağıdaki tabloyu doldurunuz.
+ 
+ 
+Tekrar 
+Sayısı
+Deneysel  
+Olasılık Değeri
+Teorik  
+Olasılık Değeri
+Deneysel ve Teorik  
+Olasılık Değeri  
+Arasındaki Fark
+50
+150
+300
+900
+1800
+3000
+•  Tablo ve grafikleri eksiksiz oluşturunuz.
+•  Çalışma sırasında yapılanları kaydediniz. 
+• Tekrar sayısı arttıkça deneysel ve teorik olasılık değeri arasındaki fark nasıl değişmektedir? 
+Nedenleriyle açıklayınız.  
+Görev bitiminde aşağıdaki hususlara dikkat ediniz.
+•  Çalışma notlarını, tabloları ve grafikleri sınıf arkadaşlarınız ile paylaşınız.
+•  Bu görevi zamanında öğretmeninize teslim ediniz. 
+Performans göreviniz, karekod içinde verilen analitik dereceli puanlama anahtarı ile öğretmeniniz tara-
+fından değerlendirilecektir.
+Öz değerlendirme formuna ulaşmak  
+için karekodu okutunuz.
+Analitik dereceli puanlama anahtarına 
+ulaşmak için karekodu okutunuz.
+Performans Görevi
+Performans görevi 
+ile ilgili simülasyona 
+ulaşmak için 
+karekodu okutunuz.

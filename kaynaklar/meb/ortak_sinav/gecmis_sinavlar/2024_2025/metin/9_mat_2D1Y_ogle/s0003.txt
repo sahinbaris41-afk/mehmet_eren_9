@@ -1,0 +1,58 @@
+3
+MATEMATİK 9
+3. Boyu	20	cm	olan	bir	fidana	40	cm	uzaklıktan	bir	ışık	kaynağı	tutulduğunda	bu	fidanın	duvardaki	gölge	
+boyu	Şekil	1’deki	gibi	45	cm	olmuştur.	Bu	fidanın	boyu	bir	süre	sonra	uzamış	ve	aynı	ışık	kaynağı	aynı	
+uzaklıktan	tutulduğunda	duvardaki	gölge	boyu	Şekil	2’deki	gibi	72	cm	olmuştur.
+40
+20
+Şekil 1
+45
+DuvarIşık kaynağı
+ 40
+Şekil 2
+72
+DuvarIşık kaynağı
+Buna göre, son durumda bu fidanın boyu kaç santimetredir? İşlemlerinizi göstererek bulunuz.  
+(15 puan)
+40
+20
+Şekil 1
+45
+DuvarIşık kaynağı
+C
+F
+B
+D
+E
+A BA
+ 40
+Şekil 2
+72
+DuvarIşık kaynağı
+ D
+H
+Şekil	1’de		[BC]	//	[ED]	olduğundan	temel	orantı	teoremine	göre,
+ .( .)olur ei tlikAD 4520 1ş=AB
+Şekil	2’de		[FB]	//	[HD] olduğundan	temel	orantı	teoremine	göre,
+ .( .)olur ei tlik72 2ş=ABAD FB
+1.	ve	2.	eşitlik	dikkate	alınırsa		 .FB olur4520 72==ADAB
+   
+'.
+FB
+FB
+FB
+FB cm dir
+45
+20
+72
+45 20 72
+45
+20 72
+32
+$$
+$
+=
+=
+=
+=
+Buna	göre,	son	durumda	fidanın	boyu	32	cm’dir.

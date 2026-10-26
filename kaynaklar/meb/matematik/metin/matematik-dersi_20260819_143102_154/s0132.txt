@@ -1,0 +1,50 @@
+132
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+nelik veri toplama planı oluşturmaları istenir. Bu plan doğrultusunda veri toplama araçlarını 
+(anket, görüşme, gözlem, ölçüm gibi) belirleyip oluşturmaları, verileri toplamaları ve analize 
+hazır hâle getirmeleri beklenir (OB1). Bu süreçte dijital araçlar oluşturulup kullanılır (OB2). 
+Verileri toplarken kişisel verilerin gizliliğine; tutarlı, tarafsız, doğru ve güvenilir olmasına 
+dikkat edilmesinin önemine vurgu yapılmalıdır (D6.2, D8.2) .  Ayrıca bu süreçte toplanan 
+verilerin araştırma sorusuna cevap vermesi ile elde edilen sonuçların evrene genellenip 
+genellenemeyeceği, eleştirel bir bakış açısıyla tartışılmalıdır (E3.10). Örneğin A okulunda 
+öğrenim gören 11. sınıf öğrencilerinden belirlenen bir örneklemden elde edilen sonuçlarla 
+B okulunda öğrenim gören 11. sınıf öğrencilerinden elde edilen sonuçların benzerlik veya 
+farklılık gösterip göstermeyeceği, bu sonuçların aynı ildeki tüm 11. sınıf öğrencilerine ge -
+nellenip genellenemeyeceği tartışılabilir.  
+Öğrenciler tarafından oluşturulan istatistiksel araştırma soruları ve veri toplama planları, 
+istatistiksel araştırma sorusu ve veri toplama planı ölçütleri doğrultusunda oluşturulan 
+kontrol listesiyle değerlendirilebilir. İstatistiksel araştırma sorusu ölçütleri arasında yer 
+alan değişebilirlik ölçütü incelenirken değişebilirlik türlerine değinilmez.
+Öğrencilerin iki nicel değişken arasındaki ilişkililiğin mantığını anlamaları için öncelikle 
+bölgelere göre sayım oranı kullanılır ve öğrencilerin iki nicel değişken arasındaki ilişkililiği 
+anlamlandırmaları sağlanır. İki nicel değişken arasındaki ilişkiyi analiz etme aşamasında 
+öğrencilerden araştırma soruları bağlamında iki nicel değişken arasındaki ilişkililiği gör -
+selleştirmeleri, özetleme araçlarıyla (serpme diyagramı, korelasyon katsayısı) verileri göz -
+lemlemeleri ve analiz etmeleri istenir (MAB3). Burada öğrencilerin bir değişkenin değerleri 
+değişirken diğer değişkenin değerlerinin değişimine (veri setindeki değişkenlerin birlikte 
+değişebilirliği) odaklanmaları sağlanır. Korelasyon katsayısının anlamlandırılabilmesi için 
+istatistik yazılımları yardımıyla serpme diyagramı oluşturulur ve bölgelere göre sayım oranı 
+hesaplanır ancak korelasyon katsayısının formülle hesabı yaptırılmaz (MAB5). İki değişkenin 
+ilişkililiğinde aykırı değerlerin korelasyon katsayısını etkileyeceği dikkate alınmalıdır.
+Analiz süreci tamamlandığında elde edilen sonuçlara ilişkin olarak öğrencilerle sınıf içi tar-
+tışma yapılmalıdır. Öğrenciler, elde ettikleri sonuçları arkadaşlarıyla paylaşarak birbirlerinin 
+düşüncelerini nazik bir şekilde dinler; ayrıca kendi sonuçlarıyla arkadaşlarınınkileri karşılaş-
+tırır (SDB2.1, D14.1). Bu tartışma sürecinde öğrencilerin iki nicel değişken arasındaki doğru-
+sal ilişkinin yönü (pozitif/negatif) ve gücüne (ilişki yok/zayıf/orta/güçlü) ilişkin yorumlar yap-
+maları istenir. Sonuçları yorumlarken öğrencilerin iki nicel değişkenli verilerde ortaya çıkan 
+ilişkinin bir neden -sonuç ilişkisi olmadığını ayırt etmelerine yönelik tasarımlar yapılmalıdır. 
+Örneğin atomların ağırlığı ile yoğunluğu arasında pozitif yönde bir ilişki ortaya çıktığında 
+atomların atomik ağırlığı arttıkça yoğunluğunun artma eğiliminde olduğu yorumu yapıla-
+bilir. Ancak bu durum, atomun atomik ağırlığının artmasının yoğunluğun artmasına sebep 
+olduğu anlamına gelmemektedir. Atomun farklı özellikleri (metal olup olmaması, katı, sıvı, 
+gaz olma hâli) yoğunluğu etkileyebilir.
+Analizler tamamlandıktan sonra öğrencilerin araştırma sorularına dönerek elde ettikleri 
+sonuçlardan hareketle araştırma sorusuna belirsizliği dikkate alarak cevap vermeleri bek-
+lenir. Bu süreçte öğrencilerin istatistiksel araştırma sürecinin bütün bileşenlerini sistema-
+tik bir şekilde gözden geçirmeleri desteklenmelidir (E3.7). Araştırma sorularına verilecek 
+cevapların istatistiksel ifadeler içermesi önemlidir. Bu süreçte ayrıca öğrencilerin seçilen 
+örneklem dağılımından hareketle evren dağılımı hakkında genellemeler yapmaları ve elde 
+edilen sonuçları, belirsizliği dikkate alan bir dille ifade etmeleri beklenir. Öğrencilerden ista-
+tistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir kavram haritası oluştur-
+maları istenebilir. Öğrencilere iki nicel değişken arasındaki ilişkililiğe odaklanan istatistiksel 
+araştırma süreçlerinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir.

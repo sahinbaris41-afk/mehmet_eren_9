@@ -1,0 +1,48 @@
+159
+2. Tema /  Nicelikler ve Değişimler
+ Alıştırmalar
+1-4.	 soruları 	 aşağıdaki 	 bilgilerden 	 yararlanarak	
+cevaplayınız.
+Bir firma, veri güvenliğini sağlamak amacıyla virüs 
+koruma programı satın almak istemektedir. Firma-
+nın incelediği M ve N programları için kurulum ve 
+aylık kullanım ücretleri (TL) aşağıdaki tabloda ve-
+rilmiştir.
+M N
+Kurulum	Ücreti	(TL) 1500 600
+Aylık	Ücret	(TL) 200 250
+M programı için kullanım süresine bağlı (ay) öde -
+necek ücreti (TL) gösteren fonksiyon f, N programı 
+için kullanım süresine bağlı (ay) ödenecek ücreti 
+(TL) gösteren fonksiyon g olsun. (Bir ay tamam-
+lanmadığında ücret kullanılan süreye göre hesap -
+lanmaktadır.)
+1.  Tanım	 ve 	 görüntü 	 kümelerini 	 belirleyerek	 	 	 	 	 	 	 	
+f	ve 	g fonksiyonlarının	cebirsel 	temsilini 	bu-
+lunuz.
+2.  Firma, satın aldığı virüs koruma programını 
+1 yıl kullanacaktır. 
+ Firmanın	 hangi 	 programı 	 seçmesinin 	 daha 	
+ekonomik	olacağını	belirleyiniz.
+3.  Matematik	 yazılımı 	 yardımıyla 	 f 	 ve 	 g 	 	fonk-
+siyonlarının	grafiklerini 	çizerek 	iki 	program 	
+için	 ödenecek 	 ücretin 	 kaç 	 Türk 	 lirasında 	
+eşitlendiğini	bulnuz.
+ 
+4.  İki	programa 	ödenecek 	ücretin 	kaç 	aylık 	kulla-
+nım	sonunda	birbirine	eşit	olacağını	bulunuz.
+5-6.	soruları 	aşağıdaki 	bilgilerden 	yararlanarak	
+cevaplayınız.
+Bir ilkokuldaki asansörün yük taşıma kapasitesi 
+720 kg’dır ve asansörde çocuklara refakat eden 
+bir yetişkinin bulunması zorunludur. Bir çocuğun 
+ortalama kütlesi 30 kg ve asansörde çocuklara re-
+fakat eden yetişkinin kütlesi 80 kg’dır.
+5.  Asansörün	 aşırı 	 yüklenmesini 	 önlemek 	
+amacıyla	 bir 	 uyarı 	 yazısı 	 hazırlanacaktır . 	 	 	 	 	
+x	asansöre 	binen 	kişilerin 	toplam 	kütlesini 	
+(kg)	 göstermek 	 üzere 	 aşırı 	 yükleme 	 duru-
+munu	ifade	eden	eşitsizliği	yazınız.
+6.  Asansörün	refakatçi 	ile 	birlikte 	en 	fazla 	kaç 	
+çocuğu	taşıyabileceğini	bulunuz.
+ 

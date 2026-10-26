@@ -1,0 +1,73 @@
+244
+4. ÜNİTE 
+Isının Konveksiyon Yoluyla Yayılması
+Sıvı veya gaz gibi akışkanlarda taneciklerin yer değiştirmesiyle ısının akışkan 
+içinde yayılmasına ısının konveksiyon yoluyla yayılması  denir. Akışkan 
+ısıtıldığında ısının akışkana temas ettiği bölgelerde taneciklerin titreşim hızı 
+ve aralarındaki mesafe artar. Sıcaklığın arttığı bu bölgelerde akışkanın yoğun-
+luğu azalır. Yoğunluğu azalan tanecikler yukarıya, üstte bulunan ve yoğunluğu 
+daha fazla olan tanecikler aşağıya doğru hareket eder. Bu olaya sürüklenme 
+denir. Yoğunluğu azalan sıcak tanecikler yukarı çıkarken aldığı enerjiyi de 
+beraberinde taşır. Bu hareket sırasında sıcak ve soğuk tanecikler birbiriyle 
+çarpışır ve çarpışma anında yüksek enerjili tanecikler enerjisinin bir kısmını 
+soğuk taneciklere aktarır. Bu olaya da yayılma denir. Konveksiyon, “sürük -
+lenme” ve “yayılma” hareketlerinin birleşimidir (Görsel 4.19). Isının konveksi-
+yon yoluyla yayılmasına sobada yanan odunların oluşturduğu ısının tüm 
+odaya yayılması ve ocakta bulunan ten  cere içindeki suyun ısınması örnek 
+gösterilebilir.
+Isının Işıma Yoluyla Yayılması
+Isının elektromanyetik dalgalar aracılığıyla yayılmasıdır. Isının iletim ve kon -
+veksiyon yoluyla yayılmasında maddesel ortam gerekliyken ışıma yoluyla 
+yayılmasında maddesel ortama ihtiyaç yoktur. Diğer bir deyişle ısı ışıma 
+yoluyla boşlukta da yayılabilir. Sıcaklığı 0 Kelvinin üzerindeki tüm maddeler-
+den elektromanyetik dalgalar grubunda yer alan kızılötesi ışınlar yayılır. Sıcak 
+cisimlerden yayılan ve enerji taşıyan bu dalgalar, bir cisme çarpana kadar 
+boşlukta ışık hızında yayılır. Bu dalgalar, bir cisme çarptığında enerjisinin 
+bir kısmını ya da tamamını cisme aktarır. Bu cismin ya sıcaklığı artar ya da 
+cisim hâl değiştirir. Böylece ısı ışıma yoluyla yayılmış olur. Isının ışıma yoluyla 
+yayılmasında kızılötesi ışınların yanı sıra görünür ışık ve morötesi ışınlar da 
+etkilidir. Görünür ışık ve morötesi ışınlar da madde tarafından soğurulduğunda 
+maddeye enerji aktarır. Güneş’ten bu ışınların üçü de yayılır. Koyu renkli nes-
+neler, açık renkli nesnelere göre bu ışınları daha fazla soğurur.
+Kamp ateşinin yanında bulunan kişinin ısınmasında ısının ışıma yoluyla yayıl-
+ması etkilidir. Kamp ateşinden yayılan elektromanyetik dalgalar kişinin ateşe 
+dönük kısımları tarafından soğurulur ve kişi ısınır. Bu kişinin ateşe dönük tarafı 
+ısınırken ateşe dönük olmayan kısımlarına herhangi bir elektromanyetik dalga 
+çarpmayacağı için bu kısımlar doğrudan ısınmaz. Bununla birlikte ısının vücut 
+içinde yayılmasıyla tüm vücut ısınmış olur. Güneş’in Dünya’yı ısıtması ısının 
+ışıma yoluyla yayılmasına örnek verilebilir (Görsel 4.20).
+Görsel 4.19: Isının kon-
+veksiyon yoluyla yayılması 
+(Temsilî)
+Konveksiyon
+Soğuk
+tanecikler
+Sıcak
+tanecikler
+Elektromanyetik 
+Dalgalar
+Elektrik yüklü parça -
+cıkların ivmeli hareket -
+leri sonucunda oluşan 
+dalgaların genel adıdır. 
+Görünür ışık, birçok türü 
+olan elektromanyetik 
+dalgalar ailesinin bir 
+üyesidir. Elektromanyetik 
+dalga türlerinin ortak 
+özellikleri bulunmakta -
+dır. Örneğin elektroman -
+yetik dalgaların tamamı 
+yansıma, soğurulma, 
+kırılma olaylarını gerçek -
+leştirir. Elektromanyetik 
+dalgalar boşlukta ışık 
+hızıyla yayılır.
+Görsel 4.20: Isının ışıma 
+yoluyla yayılması (Temsilî)
+Örnek 
+İçinde akışkan bulunan bir ortamın ısıtılmasında kullanılan ısıtıcı sistemler, 
+ortamın zeminine yakın bir yere konumlandırılır. Örneğin su ısıtıcılarında ısı-
+tıcı tel, su ısıtıcısının tabanına yerleştirilir. Benzer şekilde kalorifer petekleri 
+odanın zeminine yakın kısımlarına yerleştirilir.
+Bu uygulamanın amacı nedir?

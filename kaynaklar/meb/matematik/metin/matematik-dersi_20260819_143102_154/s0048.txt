@@ -1,0 +1,38 @@
+48
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilere astronomi (gezegenlerin birbirine uzaklığı), biyoloji (hücre, organel yapısı), 
+fizik (gezegenlerin çekim kuvveti), kimya (Avogadro sayısı) gibi farklı disiplinlerde geçen 
+matematiksel temsillerin incelenmesi, yorumlanması ve bilimsel gösterimle ifade edilme-
+sine yönelik sunumlar yaptırılabilir. 
+(*) Öğrencilerden gerçek sayılar kümesinin tamlık ve sıralama özellikleri ile ilgili araştırma 
+yapmaları istenebilir. İş birlikli öğrenme temelinde üslü ve köklü gösterimlerde karşılaşılan 
+tanımsız olma durumunun nedenlerinin tartışıldığı grup çalışması yaptırılabilir.
+Destekleme Bilimsel gösterimlerin kullanımına yönelik örnek veya problemlerde hesap makinelerin -
+den veya çevrim içi araçlardan yararlanılabilir. Ondalık, üslü ve köklü gösterimlerle ilgili 
+özelliklere ulaşılamadığı durumlarda öğrencilerden sayısal örnekler kullanarak sadece o 
+sayılara yönelik doğrulamalar yapmaları istenebilir. Öğrencilerin yakın çevresi dikkate alı-
+nıp bilimsel gösterimle ilgili örnekler çeşitlendirilerek konuya karşı olan ilgi ve motivasyon-
+larının artırılması hedeflenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+değillerine yer verilerek anlamları tartışılır. Örneğin  “∀a, b ∈ ℝ için a + b = b + a”, “∀a ∈ ℝ, 
+a ≠ 0 için ∃b ∈ ℝ vardır, öyle ki a ∙ b = 1՚dir.”, “∀a, b ∈ ℝ için a < b ⇒ b - a > 0’ dır.”, “a, b ∈ ℝ 
+olmak üzere a ∙ b= 0 ⇔ a = 0 v b = 0՚ dır.”, “a, b ∈ ℝ olmak üzere a ∙ b ≠ 0 ⟺ a ≠ 0 ∧ b ≠ 0՚dır.” 
+gibi önermelerde mantık bağlaçları ve niceleyicilerin anlamları üzerine tartışmalar yapılır. 
+Bu sırada öğrencilerin birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendi -
+rerek ifade etmeleri ve etkileşim sağlamaları beklenir (SDB2.1). Ayrıca işlemler arasında 
+kurulan ilişkiler gözlemlenir. Yapılan  inceleme ve gözlemler sonucunda gerçek sayılardaki 
+özelliklerin cebirsel ifadelerdeki karşılıkları tespit edilir. İki gerçek sayının farklı gösterimle-
+rinin ve iki farklı cebirsel ifadenin birbirine eşit olabileceğinden yola çıkılarak özdeşlikler (iki 
+terimin toplamının/farkının karesi ve iki terimin karelerinin farkı)  belirlenir. Bu özdeşlikler, 
+geometrik modellerle temsil edilir. Benzer şekilde öğrencilerin iki cebirsel ifadenin çar -
+pımının sıfıra eşit olmasının ifadelerden en az birinin sıfıra eşit olmasını gerektireceği gibi 
+çıkarımlara ulaşmaları beklenir.
+Aynı zamanda cebirsel ifadeleri çarpanlarına ayırmanın, sayıların işlem özelliklerinin bir 
+uygulaması olarak ele alındığı çalışmalar yapılır. Üslü veya köklü gösterimlerle işlemler 
+içeren problemlerde farklı çözüm stratejisi olarak özdeşliklerden yararlanmayı gerektiren 
+durumlara yer verilir (MAB2). Öğrencilere sayı kümelerinin işlem özelliklerine yönelik 
+önermelerden ve cebirsel  özdeşliklerin kullanımına yönelik sorulardan oluşan çalışma 
+kâğıdı verilebilir. 

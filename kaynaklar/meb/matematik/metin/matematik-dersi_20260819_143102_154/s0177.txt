@@ -1,0 +1,41 @@
+177
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.12.3.1. Dik prizma ve dik dairesel silindirin elemanlarını çözümleyebilme
+a) Dik prizma ve dik dairesel silindirin elemanlarını belirler.
+b) Dik prizma ve dik dairesel silindirin elemanları arasındaki ilişkileri belirler.
+MAT.12.3.2.  Dik prizma ile dik dairesel silindirden yararlanarak dik piramit, dik dairesel koni 
+ve kürenin elemanları, yüzey alanları ve hacimleri arasındaki ilişkilere dair analojik akıl 
+yürütebilme
+a) Dik prizma ile dik dairesel silindirden yararlanarak dik piramit, dik dairesel koni ve küre-
+nin elemanları, yüzey alanları ve hacimleri arasındaki ilişkileri inceleyebileceği örnek -
+leri gözlemler. 
+b) Dik prizma ile dik dairesel silindirden yararlanarak dik piramit, dik dairesel koni ve kü -
+renin elemanları, yüzey alanları ve hacimlerine yönelik örneklerin niteliklerini belirler. 
+c) Gözlemlediği benzerliklerden yararlanarak dik piramit, dik dairesel koni ve kürenin ele-
+manları, yüzey alanları ve hacim bağıntılarına yönelik çıkarım yapar. 
+MAT.12.3.3. Geometrik cisimlerin elemanları, yüzey alanı ve hacim bağıntılarını içeren prob-
+lemleri çözebilme
+a) Geometrik cisimleri içeren problemlerin bileşenlerini (nicelik, şekil gibi) belirler.
+b) Bileşenler arasındaki ilişkileri belirler. 
+c) Problemin bileşenlerini ve aralarındaki ilişkileri uygun matematiksel temsillere dönüş-
+türür. 
+ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar. 
+d) Problemin çözümü için gerekli işlemleri ve çözümü gerçekleştirebilmek için stratejiler 
+geliştirir. 
+e) Belirlediği stratejileri çözüm için uygulayarak problemi çözer. 
+f) Çözümü kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. 
+g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri ve olası farklı stratejileri 
+gözden geçirir.
+ğ) Çözüme ulaştıran stratejilerin hangi problemlere uyarlanabileceğine ilişkin çıkarımda 
+bulunur. 
+h) Ulaştığı çıkarımların geçerliliğini matematiksel örneklerle değerlendirir.
+İÇERİK ÇERÇEVESİ • Dik Prizma ve Dik Dairesel Silindir
+• Dik Piramit, Dik Dairesel Koni ve Küre
+• Geometrik Cisimlerle İlgili Problemler
+Genellemeler •  Tabanları ve yükseklikleri eş olan dik prizma ile dik piramidin hacim bağıntıları ilişkilidir.
+•  Tabanları ve yükseklikleri eş olan dik dairesel silindir ile dik dairesel koninin hacim bağın-
+tıları ilişkilidir.
+Anahtar Kavramlar ana doğru, ayrıt, cisim köşegeni, cisim yüksekliği, dik dairesel koni, dik dairesel silindir, dik 
+piramit, dik prizma, hacim, küre, yan yüz yüksekliği, yarıçap, yüzey alanı, yüzey köşegeni
+Sembol ve Gösterimler -

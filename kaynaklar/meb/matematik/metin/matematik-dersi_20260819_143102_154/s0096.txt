@@ -1,0 +1,47 @@
+96
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.10.2.2
+Öğrencilerin başkaları tarafından oluşturulan istatistiksel bilgilere eleştirel gözle bakabilmesi 
+ve bu bilgileri değerlendirebilmesi önemlidir (E1.6, E3.10). Bu bağlamda öğrencilere iki kate -
+gorik değişkenli verilerin ilişkililiğine yönelik hatalı/yanlı sonuç, yorum, çıkarım ve/veya tah -
+minleri  içeren çalışma kâğıdı verilerek incelemeleri istenebilir. Öğrencilerin var olan istatis -
+tik bilgileri doğrultusunda istatistiksel temellendirme yapmaları sağlanır. Buradan hareketle 
+öğrencilerin verilen durumlara eleştirel ve şüphe ile bakmaları, istatistik bilgilerini kullanarak 
+hataları/yanlılıkları tespit etmeleri istenir (E1.6, E3.9, E3.10) . Öğrencilerin belirlediği hata ve 
+yanlılıklar tartışmaya açılır (SDB2.1). Öğrencilerden bu hata ve yanlılıkları eleştirel gözle de -
+ğerlendirmeleri beklenir (KB3.3). Öğrencilerin fikir ve değerlendirmelerinden hareketle iki 
+kategorik değişkenli verilerin ilişkiliğine yönelik hatalı/yanlı sonuç, yorum, çıkarım ve/veya 
+tahminleri çürütülür ya da kabul edilir (D6.2). 
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilere çok değişkenli veri setleri dağıtılarak bu veri setinden hareketle öğrencilerden 
+uygun iki kategorik değişken belirleyerek bir araştırma sorusu hazırlamaları ve bu doğrultuda 
+istatistiksel araştırma süreci tasarlayarak yürütmelerine yönelik proje hazırlamaları istenebilir. 
+Öğrencilerin elde ettiği sonuçları sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlar-
+da içerik oluşturarak diğer arkadaşlarıyla paylaşmaları ve deneyimlerini ifade etmeleri sağlana-
+bilir.
+Öğrencilerden iki kategorik değişkenin ilişkililiğine yönelik dağılımlar içeren istatistiksel gör -
+sel, özet, sonuç, yorum, çıkarım ve/veya tahminleri içeren  durumları araştırmaları istenebilir. 
+Bu durumları araştırırken hangi kaynakları (gazete haberleri, dijital kaynaklar, resmî kaynak -
+lar gibi) kullanabileceklerini bilmeleri ve bu kaynakları kullanırken nelere dikkat etmeleri ge -
+rektiğine dair paylaşımlar yapmaları beklenebilir. Bu araştırmalarında fark ettikleri noktaları 
+eleştirel olarak değerlendirmeleri istenebilir. Örneğin spor yapıp yapmama ile vücut kitle in -
+deksinin 25’in altında olup olmamasına ilişkin yayımlanan bir haberi öğrencilerin incelemeleri 
+istenebilir. Elde edilen sonuçlar ile görseller (iki yönlü tablo ile koşullu göreli sıklıkları gösteren 
+kümeli sütun grafikleri gibi) arasında tutarlılık olup olmadığı; yanlı, yanlış veya eksik bilgile -
+rin olup olmadığı incelenerek öğrenciler tarafından değerlendirilebilir. Öğrencilerin yaptıkları 
+bu değerlendirmeleri sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içerik 
+oluşturarak diğer arkadaşları ile paylaşmaları ve deneyimlerini ifade etmeleri sağlanabilir. 
+Destekleme Öğrencilerin iki kategorik değişkenin ilişkililiğini içeren istatistiksel araştırma sürecine dâhil 
+olmaları için grup çalışması yapılabilir. Gruplar heterojen şekilde düzenlenir. Bu sayede öğ -
+rencilerin akran öğrenmesi ile istatistiksel araştırma sürecini daha etkin şekilde yürütmeleri 
+sağlanabilir. Öğrencilerin günlük hayatlarında daha fazla karşılarına çıkma ihtimali olan kate-
+gorik veri setlerinden (saç rengi, favori spor branşı gibi) hareketle araştırma sorusu oluştur -
+maları, veri toplamaları ve bu verileri analiz ederek yorumlamaları istenebilir.  Öğrencilerin 
+daha küçük veri setleri üzerine çalışmaları sağlanabilir.
+İki kategorik değişkenin ilişkililiğine yönelik dağılımlara ilişkin istatistiksel görsel, özet, sonuç, 
+yorum, çıkarım ve/veya tahminleri içeren durumlar; daha basit düzeyde (öğrencilerin daha 
+aşina oldukları durumları içermesi gibi) öğrencilere sunulur ve öğrencilerin bu durumlara iliş-
+kin değerlendirme yapmaları istenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

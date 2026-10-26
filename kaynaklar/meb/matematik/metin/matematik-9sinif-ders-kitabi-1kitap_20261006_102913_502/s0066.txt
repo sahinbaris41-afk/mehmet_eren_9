@@ -1,0 +1,36 @@
+66
+1. Tema /  Sayılar
+ Alıştırmalar
+1.  Bir yüzme yarışmasında farklı yaş gruplarında en hızlı yüzen üç yüzücünün kronometre ile elde 
+edilen yarışı tamamlama süreleri aşağıdaki tabloda verilmiştir.
+Yaş	Aralığı Yüzücüler Yarışı	Tamamlama	Süreleri	(sn.)
+18-25
+Barış 57,32
+Ayşe 57,38
+Azra 57,67
+26-35
+Batuhan 58,15
+Elif 58,59
+Özlem 58,02
+36-45
+Uğur 57,88
+Engin 59,75
+Esra 59,43
+	 Buna 	göre	aşağıdaki 	 soruları 	 cevaplayınız. 	
+a)  18-25 yaş aralığındaki yüzücülerden birinci olanı belirlemek için gerçek sayılarda sıralamanın 
+özelliklerinden hangisinin kullanılabileceğini bulunuz.
+b)  18-25 yaş aralığındaki yüzücülerin her biri yarışı ikişer saniye geç tamamlasaydı sıralama değişir 
+miydi? Bu durum gerçek sayılarda sıralamanın hangi özelliği ile açıklanabilir?
+c)  26-35 yaş aralığındaki yüzücülerin dereceleri arasında sadece saniyeler dikkate alınsaydı sırala-
+manın nasıl değişeceğini açıklayınız.
+ç)  36-45 yaş aralığındaki yüzücülerin dereceleri yardımıyla “a  b ve b  c ise a  c” özelliğini doğ-
+rulayınız. 
+2.  Herhangi iki farklı irrasyonel sayının arasında yer alan beş tane irrasyonel sayı bulunuz. Bulduğunuz 
+sayıların arasında başka irrasyonel sayılar olup olmadığını inceleyiniz.
+3.  ,Ax xk k21 Z$;!== +#-  kümesinin dört işleme göre kapalı olup olmadığını inceleyiniz.
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

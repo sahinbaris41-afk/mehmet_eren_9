@@ -1,0 +1,43 @@
+83
+Yaşam
+13. Gerçekleştirdiğiniz deneyleri ve deneyin sonuçlarını yansıtacağınız deney raporunu “Deney Tasarlama 
+Formu”na göre hazırlayınız.
+Değerlendirme
+ 
+Balon
+Deney 
+tüpü
+Analitik Dereceli 
+Puanlama Anahtarı
+Deney Tasarlama 
+Formu
+Yönerge: Aşağıdaki örnek deney düzeneğini inceleyiniz. Beklenen deney sonuçla-
+rından yola çıkarak soruları yanıtlayınız.
+Tavuk karaciğeri özütü ve hidrojen peroksit kullanılarak yapılan bir deneyde aşa -
+ğıdaki tabloda verilen sekiz ayrı deney düzeneği hazırlanmıştır. Bu düzeneklerde 
+deney tüplerinin içerisine tabloda belirtilen bileşenler eklenmiş ve her bir deney 
+tüpünün ağzına balon takılmıştır. Deney tüpleri, tabloda verilen sıcaklıklardaki su 
+içerisinde bekletilerek balonun hacmindeki değişimler gözlenmiştir.
+1. Tüp 2. Tüp 3. Tüp 4. Tüp
+Karaciğer Özütü (ml) 10 10 10 10
+Hidrojen Peroksit (ml) - 10 10 10
+Saf Su (ml) 10 - - -
+pH 7 7 4 7
+Sıcaklık (ºC) 37 37 37 5
+5. Tüp 6. Tüp 7. Tüp 8. Tüp
+Karaciğer Özütü (ml) 10 10 5 5
+Hidrojen Peroksit (ml) 10 10 10 10
+Saf Su (ml) - - - -
+pH 7 12 7 7
+Sıcaklık (ºC) 80 37 55 25
+1. Deney düzeneğindeki 1. tüpte nasıl bir sonuç beklenebilir? Açıklayınız.
+……………………………………...................................……..............................
+2. Deneyin bağımlı, bağımsız ve kontrol değişkenleri nelerdir? Yazınız.
+……………………………………...................................…….............................
+3. Hangi deney tüpündeki sonuçlar, pH değerindeki değişikliğin enzim aktivitesi 
+üzerine etkisini ölçebilmek için kullanılmalıdır? Açıklayınız.
+……………………………………...................................…….............................
+4. Hangi deney tüpündeki sonuçlar, sıcaklık değerindeki değişikliğin enzim akti-
+vitesi üzerine etkisini belirlemek için kullanılmalıdır? Açıklayınız.
+……………………………………...................................…….............................
+Kontrol Noktası

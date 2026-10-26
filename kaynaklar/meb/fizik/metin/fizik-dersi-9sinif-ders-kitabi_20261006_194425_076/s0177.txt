@@ -1,0 +1,40 @@
+177
+AKIŞKANLAR
+3. Cevaplarınız doğrultusunda kaldırma kuvvetinin matematiksel modelini oluşturunuz.
+Kaldırma Kuvvetinin Matematiksel Modeli
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+4. Sıvı basıncı (a, b) ve kaldırma kuvvetine (c, ç) ait görseller 
+ile karekodlarda verilen "Basınç Altında" ve "Kaldırma Kuvveti"  
+isimli simülasyonları inceleyiniz.
+Sıvı
+Kaldırma
+kuvveti
+Ağırlık
+a)  Sıvı tarafından cisim 
+üzerine etkiyen sıvı 
+basıncı
+b)  Bir aracın hidrolik 
+fren sistemi
+c)  Yüzen bir insana su 
+içinde etkiyen sıvı 
+basıncı ve kaldırma 
+kuvveti
+ç)  Sıvı tarafından cisme 
+uygulanan kaldırma 
+kuvveti
+5. Görsellerden ve simülasyondan hareketle sıvı basıncı ve kaldırma kuvvetinin matematiksel modellerini kar­
+şılaştırınız. Karşılaştırma sonunda elde ettiğiniz verileri ve bilgileri kullanarak basıncı oluşt uran kuvvet ile 
+kaldırma kuvveti arasındaki neden­sonuç ilişkisine dair önermelerde bulununuz.
+Sıvı Basıncının Matematiksel Modeli Kaldırma Kuvvetinin Matematiksel Modeli
+Önermeler: 
+6. Arşimet İlkesi, günlük hayatta gemi ve denizaltı gibi araçlarda kullanılmaktadır. Bu gibi araçlarda kaldırma 
+kuvveti, yüzme ve batma kavramlarından yararlanılmaktadır.
+Aşağıda verilen okuma parçasından yararlanarak soruyu cevaplayınız.
+Türkiye ve Teknolojik Gelişmeler
+Türkiye, tarih sahnesine çıktığı ilk andan itibaren dışarıdan gelen tehditlere karşı kendini koruyacak güçlü 
+savunma sistemleri inşa etme gerekliliği hissetmiştir. Savunma sanayisi, yeni teknolojilere ayak uydurara k 
+kendini yenilemeyi ve ileriye taşımayı gerektiren dinamik bir sektördür.
+İ sınıfı fırkateyn TCG İstanbul (F-515)
+ Denizaltı
+ Çok amaçlı amfibi hücum gemisi 
+TCG Anadolu

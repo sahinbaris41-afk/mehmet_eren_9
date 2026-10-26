@@ -1,0 +1,50 @@
+35
+4. Tema / Eşlik ve Benzerlik
+1.  Aşağıdaki	birim	kareli	zeminde	ABCDE	beşge-
+ni	verilmiştir.	
+ Buna göre
+a) ABCDE beşgeninin 6 birim sağa, 8 birim 
+aşağıya ötelenmesi sonucu oluşan gö-
+rüntüsünü birim kareli zemine çiziniz.
+b) ABCDE beşgeninin uygulanan öteleme 
+dönüşümü sonrası oluşan görüntüsünü 
+elde etmek için ABCDE beşgenine baş-
+ka hangi dönüşüm ya da dönüşümlerin 
+uygulanabileceğini açıklayınız. 
+2.  Bir şekle hangi geometrik dönüşüm veya 
+dönüşümler uygulandığında şeklin düzlem-
+deki yeri kesinlikle değişir? Farklı şekiller 
+için matematik yazılımında incelemeler ya-
+parak ulaştığınız sonuçları açıklayınız. 
+B C
+D
+E
+A
+3.  Aşağıdaki	birim	kareli	zeminde	KLM	üçgeni	ve	
+KLM	üçgenine	uygulanan	geometrik	dönüşüm	
+sonucu	oluşan	K'L'M'	üçgeni	verilmiştir.
+ Buna göre
+a) KLM üçgenine uygulanan hangi dönü -
+şüm sonucunda K'L'M' üçgeninin elde 
+edildiğini ifade ediniz.
+b) KLM üçgenine hangi dönüşümün uygu-
+landığına nasıl karar verdiğinizi açıkla-
+yınız. 
+4.		 Aşağıdaki 	görselde	geleneksel	desenlerin	kul-
+lanıldığı	kilim	örneği	verilmiştir.	
+ Buna göre
+a) Görseli inceleyerek yansıma, öteleme 
+ve dönme dönüşümleri uygulanan de-
+senlere birer örnek bulunuz.
+b) Bulduğunuz desenlere uygulanan 
+geometrik dönüşümlerin bileşenlerini 
+açıklayınız.
+K
+L'
+L
+K'
+M
+M'
+	Alıştırmalar
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

@@ -1,0 +1,32 @@
+101
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ COĞ.12.2.1. Web tabanlı CBS ile oluşturulan tematik haritaları kullanarak uygulamalar ya-
+pabilme 
+a) Web tabanlı CBS ile oluşturulan tematik haritaları okur.
+b) Web tabanlı CBS ile oluşturulan tematik haritaları çözümler. 
+c) Web tabanlı CBS ile oluşturulan tematik haritalardan çıkarım yapar.
+ç) Web tabanlı CBS ile tematik haritalar oluşturur.
+İÇERİK ÇERÇEVESİ Web Tabanlı CBS Uygulamaları ve Tematik Haritalar
+Anahtar Kavramlar analiz, birleştirme, çakıştırma, değişken, dijital hikâye haritası, katman, öz nitelik tablosu, 
+sembol, tematik harita, veri aralığı, veri girişi, veri görüntüleme
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktısı; kontrol listesi, performans görevi, analitik dereceli puanlama anahtarı, 
+öz değerlendirme formu kullanılarak değerlendirilebilir.
+Performans görevi olarak öğrencilerden mekânsal verilere ait tanımlayıcı bilgiler aracı-
+lığıyla tematik harita oluşturmaları istenebilir. Performans görevi; harita okuma, bilgileri 
+çözümleme, bilgilerden çıkarım yapma ve harita oluşturma ölçütlerine göre değerlendi-
+rilebilir. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin mekânsal bilgi teknolojilerine ait bileşenleri kullanarak basit tematik haritalar 
+oluşturabildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerden tematik haritaları incelemeleri ve bu haritaların oluşturulma amaçlarına 
+ilişkin fikir sunmaları istenebilir. 
+Köprü Kurma Öğrencilerden günlük hayatta karşılaşabilecekleri durumlarla (ulaşım durumu, seyahat, 
+hava durumu tahmini vb.) ilgili örnek haritalar kullanarak işlerini nasıl kolaylaştıracaklarına 
+ilişkin yorum yapmaları istenebilir. Daha sonra farklı tematik harita örnekleri gösterilerek 
+öğrencilerin bu haritalarla ilgili düşünceleri alınabilir.

@@ -1,0 +1,126 @@
+DERECELI PUANLAMA ANAHTARI
+Ölçütler (Çok İyi)4 (İyi)3 (Orta)2 (Geliştirilmeli)1 PUAN
+Tehlike, 
+risk ve afet 
+kavramlarını 
+tanımlama
+Öğrencinin 
+tehlike, risk ve 
+afet kavramları 
+ile ilgili tanımları 
+tamamen 
+doğrudur.
+Öğrencinin 
+tehlike, risk ve 
+afet kavramları 
+ile ilgili tanımları 
+oldukça doğrudur.
+Öğrencinin 
+tehlike, risk ve 
+afet kavramları 
+ile ilgili tanımları 
+kısmen doğrudur.
+Öğrencinin 
+tehlike, risk ve 
+afet kavramları ile 
+ilgili tanımları çok 
+az doğrudur.
+Tehlike, 
+risk ve afet 
+kavramlarına 
+yönelik görsel 
+kullanımı 
+Öğrenci tehlike, 
+risk ve afet 
+kavramlarının 
+tamamı ile 
+ilgili görsel 
+kullanmıştır.
+Öğrenci tehlike, 
+risk ve afet 
+kavramları ile ilgili 
+görselleri oldukça 
+iyi kullanmıştır.
+Öğrenci tehlike, 
+risk ve afet 
+kavramları ile ilgili 
+görselleri kısmen 
+kullanmıştır.
+Öğrenci tehlike, 
+risk ve afet 
+kavramları ile ilgili 
+görselleri çok az 
+kullanmıştır.
+Sunumun 
+amaca 
+uygunluğu
+Öğrenci, 
+sunumunu 
+amaca tamamen 
+uygun biçimde 
+hazırlamıştır.
+Öğrenci, 
+sunumunu 
+amaca oldukça 
+uygun biçimde 
+hazırlamıştır.
+Öğrenci, 
+sunumunu 
+amaca kısmen 
+uygun biçimde 
+hazırlamıştır.
+Öğrenci, 
+sunumunu 
+amaca çok az 
+uygun biçimde 
+hazırlamıştır.
+Çalışmanın 
+sunulması
+Öğrenci, 
+sunumunu sunum 
+tekniklerine 
+tamamen 
+uygun biçimde 
+sunmuştur.
+Öğrenci, 
+sunumunu sunum 
+tekniklerine 
+oldukça uygun 
+biçimde 
+sunmuştur.
+Öğrenci, 
+sunumunu sunum 
+tekniklerine 
+kısmen uygun 
+biçimde 
+sunmuştur.
+Öğrenci, 
+sunumunu sunum 
+tekniklerine çok 
+az uygun biçimde 
+sunmuştur.
+Süre kullanımı
+Öğrenci, verilen 
+süre içinde 
+sunumunu 
+tamamlamıştır.
+Öğrenci, verilen 
+süre içinde 
+sunumunu 
+olabildiğince 
+tamamlamıştır.
+Öğrenci, verilen 
+süre içinde 
+sunumunu 
+kısmen 
+tamamlamıştır.
+Öğrenci, verilen 
+süre içinde 
+sunumunun 
+çok azını 
+tamamlamıştır.
+TOPLAM PUAN
+Ölçekten alınan puanı 100 puan üzerinden hesaplamak için [(Toplam Puan)/20]*100 
+formülünü uygulayınız.
+88 89
+COĞRAFYA 9  

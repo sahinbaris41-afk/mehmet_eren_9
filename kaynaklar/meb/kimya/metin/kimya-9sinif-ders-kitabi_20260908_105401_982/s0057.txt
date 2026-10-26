@@ -1,0 +1,23 @@
+57
+1. Tema/Etkileşim
+6. Geçersiz önermelerinizi ayıklayarak atom orbitallerinin bağıl enerjilerine dair geçerli tahminleriniz doğ -
+rultusunda atom orbitallerinin bağıl enerjilerine ilişkin çıkarımlarınızı yazınız.
+7. A tom orbitallerinin bağıl enerji diyagramını kullanarak bir atomun orbital enerjilerini düşükten yükseğe 
+sıralayınız.
+1. İlk 4 enerji seviyesindeki orbitalleri yazarak her enerji seviyesindeki toplam orbital sayısını belirleyiniz.
+1. enerji seviyesi
+2. enerji seviyesi
+3. enerji seviyesi
+4. enerji seviyesi
+2. Bir orbital en fazla iki elektron alabilir. Buna göre ilk 4 enerji seviyesi için her bir enerji seviyesinde buluna-
+bilecek en fazla elektron sayısını belirleyiniz.
+1. enerji seviyesi
+2. enerji seviyesi
+3. enerji seviyesi
+4. enerji seviyesi
+3. Enerji seviyelerindeki orbital sayısıyla enerji seviyesinde bulunabilecek en fazla elektron sayısı arasındaki 
+örüntüyü yazınız. Belirlediğiniz örüntüyü arkadaşlarınızın örüntüleriyle karşılaştırarak örüntülerdeki ben-
+zerlik ve farklılıkları belirtiniz.
+4. Atom orbitallerinin enerjileri ile ilgili içeriğe ulaşmak için yandaki karekodu akıllı 
+    cihazınıza okutunuz.
+Kontrol Noktası 1.4

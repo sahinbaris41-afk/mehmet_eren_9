@@ -1,0 +1,50 @@
+37
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.9.3.2 
+Metal, alaşım ve metal nanoparçacıklarından üretilen malzemelerin kullanımındaki artış 
+üzerine dikkat çekilir. Metal, alaşım ve metal parçacıkların canlılar üzerindeki etkileri ve 
+doğadaki birikim süreçlerine ilişkin örnek olay verilir ve kanıt kartları öğrencilere dağıtılır 
+(OB4). Öğrencilerden örnek olayı ve kanıt kartlarını incelemeleri; metal, alaşım ve metal 
+nanoparçacıkların ekosistemde neden olduğu problemleri belirlemeleri istenir (OB8). 
+Öğrencilerden su veya toprakta kimyasal madde birikiminin etkilerini kanıt kartlarındaki 
+sözel ve görsel bilgileri kullanarak sağlıklı yaşam açısından özetlemeleri istenir (D13.4). 
+Küçük gruplara ayrılan öğrencilerden problemi özetlemeleri ve bilimsel raporlardan elde 
+ettikleri verilere dayalı olarak problemin çözümüne yönelik tahminlerde bulunmaları iste-
+nir (SDB2.2, OB8). Öğrencilerin grup çalışmasına aktif katılarak çalışkanlık değeri kazan -
+maları desteklenir (D3.4). Gruplardan seçtikleri problemin çözümüne yönelik önermeler 
+sunmaları ve önermelerini sunulan diğer önermeler ile belirledikleri ölçütler temelinde 
+karşılaştırmaları istenir. Problemlerin çözümü için önermelerde bulunan grupların ağır 
+metal ve metal nanoparçacıkların kimyasal ayak izini azaltacak etmenler üzerinde çözüm 
+önerilerini değerlendirmeleri sağlanır (KB2.10, E3.10). Öğrencilerin küçük grup çalışmala-
+rına katkıları akran değerlendirme formu ile değerlendirilebilir. Bu süreçte sürdürülebilir 
+kalkınmanın sudaki yaşam hedefine (14. hedef) yönelik uygulama yaparken öğrencilerin 
+kimyasal ayak izini azaltmak için bireysel olarak neler yapabileceklerini de fark etmeleri 
+sağlanır (OB5). Yapılan etkinlik ile öğrencilerin doğayı ve canlıları korumalarına, gelecek 
+nesillere temiz bir çevre bırakmak için çaba göstermelerine, ekosistemi korumak için etkili 
+atık yönetiminin önemini bilmelerine, davranışlarının çevre temizliği üzerindeki etkilerini 
+değerlendirebilmelerine yardımcı olunarak çevreye saygı, çevresel  temizliğe ve sürdü -
+rülebilirliğe önem verme değerleri vurgulanır (SDB2.2, SDB3.3, D14.3, D18.3, OB6, OB8) . 
+Bu etkinlik ile öğrenciler aynı zamanda metal, alaşım ve metal nanoparçacıkların sürdü -
+rülebilir kalkınmanın karasal yaşam hedefine (15. hedef) yönelik değerlendirmede bulunur. 
+Öğrencilerin değerlendirmelerini toprak verimliliği ve tarımda sürdürülebilirlik ile ilişkilen-
+dirmeleri sağlanır. Türkiye’de sürdürülebilir tarımın tarihsel gelişimi kapsamında Atatürk 
+Orman Çiftliği hakkında bilgi verilir. Öğrencilere sürdürülebilir tarım uygulamalarına yönelik 
+araştırma ödevi verilebilir. Öğrencilerden yakın çevrelerinde bulunan bir ekosistemde me-
+tal, alaşım ve metal nanoparçacıkların sebep olduğu problemler üzerine bir performans 
+görevi gerçekleştirmeleri istenebilir. Bu şekilde öğrencilerin görev bilincine sahip olmaları 
+ve sorumluluk değeri kazanmaları desteklenebilir (D16.3). Aynı zamanda öğrencilere sana-
+yi ve teknoloji alanındaki değişimler sonucunda oluşan çevresel koşullardaki problemleri 
+anlamaları, bunların insan hayatına ve doğaya etkilerini fark etmeleri gibi durumlar ile ilgili 
+çözüm önerileri geliştirmelerine yönelik performans görevi verilebilir (SDB3.2, OB2).
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerden yeşil sentez yöntemleri ile metal nanoparçacıklar üretmeleri istenebilir. 
+Bu amaçla öğrencilere bitkisel özler (çay, nane, zeytin yaprağı vb.) ve mikroorganizmalar 
+(bakteriler, mantarlar vb.) üzerine kapsamlı bir kaynak taraması yaptırılabilir. Öğrenciler -
+den metal nanoparçacıkların (gümüş, altın, bakır vb.) sentezinde kullanılacak bitkisel ve 
+mikrobiyal kaynakları belirleyerek metal nanoparçacıkların sentezini gerçekleştirmeleri 
+istenebilir. Ayrıca derişim, pH, tepkime süreleri gibi faktörlerin nanoparçacıkların boyutu, 
+şekli ve dağılımı üzerindeki etkilerinin araştırılması sağlanabilir. Öğrenciler, yeşil sentez 
+yöntemiyle metal nanoparçacıkların üretiminin çevresel etki analizini yapabilir; enerji tü -
+ketimini, atık üretimini ve karbon ayak izini geleneksel yöntemlerle karşılaştırabilir. Elde 
+edilen nanoparçacıkların potansiyel uygulama alanlarını (tıp, elektronik, çevre temizliği 
+vb.) inceleyebilir.

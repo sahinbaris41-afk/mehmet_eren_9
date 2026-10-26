@@ -1,0 +1,35 @@
+50 51
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+7. Öğrencilere etkileşimlerin kristal katıların niteliklerini nasıl etkilediğini ortaya koyan hazır veri setinin yer 
+aldığı aşağıdaki tabloyu veriniz.
+Kristal Katı Erime Noktası (°C) Isı İletkenliği (W/m.K) Elektrik İletkenliği (S/m) 20°C Sertlik (Mosh Skalası) Elastikiyet Young Katsayısı (E) GPa Parlaklık
+Grafit 3 927 104 3,5x105 1,5 11,5 Parlak değildir.
+Elmas 3 550 1 000 10-13 iletmez. 10,0 1 220 Parlaktır.
+Gruplardan tabloyu inceleyerek aşağıdaki soruların cevaplarını araştırmalarını isteyiniz. 
+• Elmas ve grafitin özelliklerini karşılaştırınız.
+• Elmas ve grafitin farklı özellikler göstermesinin nedeni nedir?
+• Elmas iyi bir ısı iletkeni iken neden elektriği iletmez?
+• Elmas, doğada bilinen en sert maddelerden biridir. Elmasın sertliğinin nedeni nedir?
+• Elmas ve grafitin kullanım alanları nelerdir?
+8. Öğrencilerden farklı kimyasal özelliklere sahip bu katıların farklı endüstriyel ve bilimsel alanlarda nasıl 
+kullanılabileceği konusunda düşüncelerini grup içinde ifade etmelerini isteyiniz.
+9. Öğrencilerden grup içinde tartıştıkları ve araştırmaları sonucu ulaştıkları bilgileri düzenleyerek poster 
+hazırlamalarını isteyiniz.
+10. Gruplardan grup sözcüsü seçmelerini, grup içinde iş bölümü ve iş birliği yapılması gerektiğini  
+vurgulayınız.
+11. Grup sözcülerinin yaptıkları sunumlarında bilgileri etkili ve anlaşılır bir şekilde paylaşmaları gerektiğini  
+belirtiniz.
+12. Öğrencileri; karbonun doğal allotropları, malzeme bilimi ve kimya alanında yeterli bilgiye sahip olmaları 
+için bu alanda uzman kişilerin görüşlerini almaya yönlendiriniz.
+13. Araştırma sürecinde güvenilir kaynakların kullanımı hakkında öğrencileri bilgilendiriniz.
+1. Her grubun hazırladığı posterleri sınıfa sunmalarını sağlayınız.
+2. Elmas ve grafitin aynı elementten meydana gelmelerine rağmen aralarındaki farklılığın nelerden 
+kaynaklandığını tartışmalarını isteyiniz.
+3. İnceledikleri faz diyagramına göre grafitin hangi şartlarda elmasa dönüşeceğini tartışmalarını 
+sağlayınız.
+4. Farklı kimyasal özelliklere sahip katıların farklı endüstriyel ve bilimsel alanlarda nasıl kullanılabi-
+leceğini tartışmalarını isteyiniz.
+5. Grupların sunum sonrasında posterlerini okul genel ağ sayfası veya çevrim içi sınıf gibi platform-
+larda sergilemelerini sağlayınız.
+2. Adım: Uygulama

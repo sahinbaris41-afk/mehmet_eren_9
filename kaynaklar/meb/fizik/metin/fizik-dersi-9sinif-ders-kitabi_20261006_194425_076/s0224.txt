@@ -1,0 +1,35 @@
+224
+4. ÜNİTE 
+6. Alıştırma
+Ekim, kasım aylarında hava soğumaya başlarken deniz suyu hâlâ yaz mevsimindeki kadar sıcaktır. 
+Bu durumu ısı sığası kavramından yararlanarak açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+1. Çalışma Yaprağı  
+1. Fizik dersinde öğrenciler, ısı ve sıcaklık değişimine etki eden etmenler ile ilgili deney düzenekleri hazırlamış 
+ve tablodaki değerleri elde etmişlerdir.
+I. Deney Düzeneği 
+Özdeş bardaklardan birine m kütleli, diğerine 2 m kütleli limonata konuyor. Her iki bardak da buzdolabının 
+aynı rafına aynı anda yerleştiriliyor ve eşit zaman aralıklarında termometre yardımıyla bardakların sıcaklık­
+ları ölçülüp elde edilen sonuçlar aşağıdaki tabloya kaydediliyor.
+Kütle/Zaman 0. dk. 5. dk. 10. dk. 15. dk.
+m kütleli 23 °C 20 °C 17 °C 14 °C
+2 m kütleli 23 °C 21,5 °C 20 °C 18,5 °C
+Buna göre öğrenciler, bu deneyde hangi iki kavram arasında ilişki kurmayı planlamıştır?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+II. Deney Düzeneği 
+Özdeş iki kaptan birine m kütleli su, diğerine m kütleli zeytinyağı konuyor. İki kap özdeş ısıtıcılarla aynı 
+anda ısıtılmaya başlanıyor ve eşit zaman aralıklarında termometre yardımıyla kapların sıcak lıkları ölçülüp 
+elde edilen sonuçlar aşağıdaki tabloya kaydediliyor.
+Madde/Zaman 0. dk. 5. dk. 10. dk. 15. dk.
+Su 24 °C 27 °C 30 °C 33 °C
+Zeytinyağı 24 °C 30 °C 36 °C 42 °C
+(csu = 1 cal : g/°C, czeytinyağı = 0,5 cal : g/°C alınız.)
+Buna göre öğrenciler, bu deneyde hangi iki kavram arasında ilişki kurmayı planlamıştır?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+III. Deney Düzeneği 
+Özdeş iki kaba ilk sıcaklıkları aynı olan eşit kütleli zeytinyağı konuyor. Birim zamanda verdikleri ısı miktarı 
+farklı olan iki ısıtıcı yardımıyla kaplar ısıtılıyor. Kaplardaki zeytinyağının bir termometre yardımıyla sıcak­
+lıkları ölçülüp elde edilen sonuçlar aşağıdaki tabloya kaydediliyor.
+Isıtıcı/Zaman 0. dk. 5. dk. 10. dk. 15. dk.
+1. ısıtıcı 25 °C 32 °C 39 °C 46 °C
+2. ısıtıcı 25 °C 28 °C 31 °C 34 °C

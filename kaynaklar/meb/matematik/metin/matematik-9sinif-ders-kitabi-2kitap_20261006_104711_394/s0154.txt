@@ -1,0 +1,40 @@
+154
+6. Tema / İstatistiksel Araştırma Süreci
+ 6.1. 	TEK	NİCEL	DEĞİŞKENLİ	
+VERİ	DAĞILIMLARI
+Konuya Başlarken
+Küresel ısınma nedeniyle Dünya’nın ortalama yüzey sıcaklığının arttığı bilinmektedir. Küresel 
+ısınma; buzul miktarının azalmasına, deniz seviyesinin yükselmesine, aşırı hava olaylarının 
+daha sık görülmesine neden olmaktadır. Aşağıdaki görselde küresel ısınmadan kaynaklanan 
+bazı sorunlarla ilgili bilgiler yer almaktadır. 
+Araştırmacılar, küresel ısınmayla mücadele edebilmek için ısınmanın hangi hızla 
+gerçekleştiğinin tespit edilmesi gerektiğini belirtmektedir. Dünya’nın ortalama yüzey sıcaklığı 
+ile ilgili ölçümlerin uzun yıllardan beri yapıldığı bilinmektedir. Bu ölçümlere göre Dünyaʼnın 
+ortalama yüzey sıcaklığı 2021 yılında Sanayi Devrimi öncesi ortalamanın 1,1 oC üzerine 
+çıkmıştır. 
+Grafik 1’de 1850-2023 yılları arasındaki küresel ortalama sıcaklık değerlerinin 1850-1900 
+yılları arası küresel ortalama sıcaklık değerlerinden ne kadar saptığına dair veriler yer 
+almaktadır. Örneğin 2020 yılı küresel sıcaklık değerinin 1850-1900 yılları arası küresel 
+ortalama sıcaklık değerinden yaklaşık 1,4 oC fazla olduğu görülmektedir. 
+Küresel yüzey sıcaklığı 1970’den bu yana daha 
+hızlı yükseliyor.
+Kıyıların	ve	sulak	alanların	neredeyse	%50'si	geçen	Kıyıların	ve	sulak	alanların	neredeyse	%50'si	geçen	
+100	yılda	yok	oldu.100	yılda	yok	oldu.
+İklim	değişikliği,	son	50	yılda	tarımsal	üretimdeki	İklim	değişikliği,	son	50	yılda	tarımsal	üretimdeki	
+büyümeyi	küresel	ölçekte	yavaşlattı.büyümeyi	küresel	ölçekte	yavaşlattı.
+1860 1880 1900 1920 1940 1960 1980 2000 2020
+1,6
+1,4
+1,2
+1
+0,8
+0,6
+0,4
+0,2
+0
+-0,2
+-0,4
+Yıllar
+Sapma değerleri (oC)
+1850 2023
+Grafik 1: 1850-2023 yılları arasında küresel ortalama sıcaklıklarının sapma değerleri

@@ -1,0 +1,18 @@
+54
+MATEMATİK 9 
+3. TEMA: GEOMETRİK ŞEKİLLER
+KONTROL LISTESI
+Adı - Soyadı Sınıfı
+Tarih Numarası
+Bu form, öğrencilerinizin üçgenin açı ve kenarları arasındaki ilişkilere yönelik becerilerini değerlendirmek 
+amacıyla hazırlanmıştır. Aşağıdaki maddeleri okuyarak ilgili alanı işaretleyiniz. Öğrencinizin "Hayır" 
+bölümündeki işaretlemelerinizle ilgili eksikliklerini gidermesine yardımcı olunuz.
+Ölçütler Evet Hayır
+1 Verilen geometrik problemler için üçgen eşitsizliği kuralını doğru bir şekilde uyguladı.
+2 Üçgen oluşturma koşullarını kullanarak verilen uzunluklardan uygun çözümler elde etti.
+3 Matematiksel adımları sistematik bir şekilde gösterdi.
+4 Çözüm stratejilerini kullanarak elde ettiği sonuçları mantıksal bir şekilde yorumladı.
+5 Verilen yeni problem durumlarına üçgen eşitsizliği kuralını uyguladı.
+Etkinlik sonunda öğrencilerinizi değerlendirmek için aşağıda verilen "KONTROL LİSTESİ"ni kulla-
+nınız.
+Yönerge:

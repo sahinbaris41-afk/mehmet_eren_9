@@ -1,0 +1,12 @@
+199
+6. Tema/Ölçme ve Değerlendirme
+b) Hava	yolu	firması	istatistik	programına	girdiği	verilerle	aşağıdaki	kutu	grafiğini	oluşturmuştur.
+i.	 Grafikte 	yer	alan	veriler	78	uçuşun	gecikme	süreleri	ile	ilgili	hangi	bilgileri	sunmaktadır?		
+ii.	 Hava 	yolu	firması	bu	kutu	grafiğini	neden	oluşturmuş	olabilir?	Fikirlerinizi	yazınız.
+Gecikme süresi (dk.)
+0
+0 20 40 60 80 100 120 140
+15 37 70
+125
+Tema ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

@@ -1,0 +1,24 @@
+Sağlık Bilgisi ve Trafik Kültürü
+173
+1. Aşağıdaki tabloda farklı ulaşım türlerinde yolcu güvenliğini sağlamaya yönelik uygulamalar veril-
+miştir. Her bir uygulamanın hangi ulaşım türü için geçerli olduğunu belirleyerek ilgili kutucuğa "√ " 
+işareti koyunuz. Bazı uygulamalar birden fazla ulaşım türü için geçerli olabilir. Bu durumda uygun 
+gördüğünüz tüm kutucukları işaretleyiniz.
+2. Ulaşım türlerinde güvenlik uygulamalarının farklı olmasının temel nedenleri nelerdir? Açıklayanız.
+3. Bu kurallardan hangisinin ihmal edilmesi en ciddi güvenlik sorunlarına yol açabilir? Gerekçenizi 
+belirtiniz.
+Kontrol Noktası
+Yolcu Güvenliği Kuralı Kara Yolu Hava Yolu Deniz Yolu
+Taşıta binerken ve taşıttan inerken sıraya girme
+Görevlilerin yönlendirme ve anonslarını dikkatle takip etme
+Hareket hâlindeki araca binmeye veya araçtan inmeye çalışmama
+Kapılar açıldığında önce inen yolculara öncelik verme
+Taşıt tamamen durmadan yerinden kalkmama
+Güvenlik amacıyla oluşturulmuş mekanizmaları gereksiz yere kullanmama
+El bagajında tehlikeli maddeler bulundurmama
+Kalkış sırasında emniyet kemerini bağlı tutma
+Üst dolapları dikkatli yerleştirip kapalı tutma
+Elektronik cihazları gerekli durumlarda kapatma
+Taşıt iskeleye/istasyona tam yanaşmadan inmeme
+Açık alanlarda düşme riskine karşı dikkatli hareket etme
+İhtiyaç durumunda bireysel hareket etmek yerine görevlilerden yardım isteme

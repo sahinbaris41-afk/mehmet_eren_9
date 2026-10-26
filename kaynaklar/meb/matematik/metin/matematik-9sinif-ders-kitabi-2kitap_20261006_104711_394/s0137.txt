@@ -1,0 +1,64 @@
+137
+5. Tema/Algoritma ve Bilişim  
+8. ÖRNEK
+‟abc	üç	basamaklı	bir	doğal	sayı;	 ,km ve nZZ!! +	olmak	üzere	
+abcm ck abc n32 6&/++ == =_i ”	önermesi	için	aşağıdaki	soruları	cevaplayınız.
+a)	Önermenin	doğruluğunu	is patlayınız.
+b)	Elde	ettiğiniz	ispat	adımları	yardımıyla	üç	basamaklı	bir	doğal	sayının	6’ya	tam	bölünüp	bölünmedi-
+ğini	bulan	bir	algoritmanın	işleyişini	algoritmik	doğal	dille	ifade	ediniz.
+c)	Aşağıdaki	sözde	kodu	inceleyerek	mantık	bağlaçlarının	işlevini	açıklayınız.
+ 
+Sözde Kod
+Girdi:		abc	doğal	sayısı
+Çıktı:		abc	nin	6’ya	tam	bölünüp	bölünmediğine	dair	bir	çıktı
+Başla
+ /aa bc 100! 	(Bölümün	tam	kısmı	alınır.)
+ /%ba bc 10 10! _i 	(Önce	bölümün	tam	kısmı	alınır.	Ardından	10	ile	bölümünden	kalan	bulunur.)
+ % c abc 10!
+ %%abcv ec02 03++ ==_i 	ise	yazdır	‟abc,	6’ya	tam	bölünür.”	
+	 Değilse 	yazdır	‟ abc,	6’ya	tam	bölünmez. ”
+Bitir
+Çözüm
+a) ,, ,kmnp ve r Z! +	olsun.
+ abcm ab abc abc39 99
+ab33 3 3
+p
+&++ =+ +++ =
++_i
+12344444 4444 4
+12 3 4444444 44444
+	(Eşitliğin	iki	tarafına	3’ün	katı	olan	 ab99 9+ 	eklenir.)
+             
+.
+ma bc
+ma bc
+abce ldee dilir
+p
+p
+r
+33
+3
+3
++=
++=
+=
+_i
+ ck 2= 	ise	abc	2’ye	tam	bölünür.	abc	hem	2’ye	hem	de	3’e	tam	bölündüğünden	abcn 6= 	bulunur.
+b) 
+ 
+Algoritmik Doğal Dil
+1. adım:	Başla.
+2. adım: Girdilerin alınması
+	 Kullanıcıdan 	üç	basamaklı	bir	doğal	sayı	alın.	
+3. adım: Sayının basamaklarının ayrılması 
+	 Sayının 	yüzler	basamağı	olan	a	yı	elde	etmek	için	sayıyı	100’e	bölün	ve	bölümün	tam	
+kısmını	alın.
+	 Sayının 	onlar	basamağı	olan	b	yi	elde	etmek	için	sayıyı	10’a	bölün,	bölümün	birler	basa-
+mağını	alın.
+	 Sayının 	birler	basamağı	olan	c	yi	elde	etmek	için	sayıyı	10’a	bölün	ve	kalanı	alın.
+4. adım: Sayının 6’ya tam bölünüp bölünmediğinin kontrol edilmesi
+ cv ea bc++ 	ifadesini	elde	edin.
+5. adım: Sonucun kontrol edilmesi ve yazdırılması
+	 c 	2’nin	katı	ve	abc++ 	3’ün	katı	ise	abc	6’ya	tam	bölünür,
+	 değilse 	abc	6’ya	tam	bölünmez.
+6. adım:	Bitir.

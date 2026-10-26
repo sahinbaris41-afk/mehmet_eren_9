@@ -1,0 +1,22 @@
+21
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Destekleme Günlük hayatta kimyasal maddelerin yanlış kullanımı sonucu oluşan problemleri çöze -
+bilme becerisinin süreç bileşenleri gerçekleştirilirken öğrenciler için bileşenlerin takibini 
+kolaylaştıracak dönütlerin sayısı artırılabilir. Problem çözme becerisi yerine kavramsal 
+becerilerden tümevarımsal akıl yürütme becerisi tercih edilebilir. Öğrencilerin bilgiyi yeni-
+den düzenleme, önceki bilgilerle birleştirme ve işleme süreçlerini kolaylaştırmak amacıyla 
+atom teorileri ile ilgili görsel materyaller kullanılıp konunun daha iyi anlaşılması ve hatırlan-
+ması sağlanabilir. Gördükleri şekilleri algılama ve hatırlama güçlüğü çeken öğrenciler için 
+bilgi kartları kullanılabilir. Atom teorileri, atom orbitalleri, periyodik özellikler konularında 
+karşılaştırma becerisi işletilebilir. Bu becerinin kazandırılması sürecinde benzerlik ve fark-
+lılıkları belirlemeye yönelik sorular sorulabilir, öğrencilerin bilgileri daha kolay öğrenmesi 
+ve genellemesi sağlanabilir. Öğrencilerin cevaplarına olumlu dönütler verilerek öz güven-
+lerinin artması sağlanabilir. 
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+sunumda elementin atom yapısından elektron dizilimine, kimyasal tepkimelerinden en -
+düstriyel kullanımına kadar tüm yönlerini derinlemesine sunabilirler.
+*Öğrencilerden kuantum atom modelini, Schrödinger denklemini ve orbital şekillerinin 
+ilişkisini araştırmaları; web tasarım araçlarını kullanarak orbitallerin şekli ve uzaysal yöne-
+limleri ile ilgili bilgi görseli/animasyon/sunu hazırlamaları istenebilir.

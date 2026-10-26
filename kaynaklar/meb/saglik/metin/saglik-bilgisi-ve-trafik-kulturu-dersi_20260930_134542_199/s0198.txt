@@ -1,0 +1,28 @@
+198
+Ekler
+GRUP DEĞERLENDİRME FORMU
+Bu form, bir grup çalışmasında grubu oluşturan öğrencilerin birbirlerinin grup performanslarını değerlen-
+dirmeleri için hazırlanmıştır. Nesnel ve yapıcı geri bildirim vererek grup çalışmasını geliştirmeye yönelik 
+katkıda bulunmanız beklenmektedir.
+Etkinliğin Adı:  
+Öğrencinin 
+Adı ve Soyadı:             Tarih:  /  / 
+Sınıfı: 
+Numarası: 
+Grup Üyeleri : 
+Davranışlar
+ Dereceler 
+Evet Kısmen Hayır
+1. Grup çalışmalarına sürekli ve istekli katıldı.
+2. Üzerine düşen görevleri eksiksiz ve zamanında yerine getirdi.
+3. Grup üyeleriyle saygılı, yapıcı ve etkili iletişim kurdu.
+4. Yaya güvenliğine ilişkin riskler, bu risklerin olası sonuçları ve 
+bunları ortadan kaldırmak için alınması gereken önlemler 
+konusunda nitelikli katkıda bulundu.
+5. Grup üyeleri iş birliği içinde çalıştı.
+6. Güvenli yaya davranışlarına yönelik uygulanabilir öneriler 
+sundu.
+7. Sunum, verilen sürede tamamlandı.
+Grubunuzun güçlü yanları nelerdir? 
+Grubunuz etkinlik sürecinde hangi zorluklarla karşılaştı? 
+FORM 10

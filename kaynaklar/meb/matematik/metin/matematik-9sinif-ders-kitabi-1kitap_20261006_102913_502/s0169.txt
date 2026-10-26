@@ -1,0 +1,47 @@
+169
+2. Tema/Ölçme ve Değerlendirme
+Görselde verilen haritada doğrusal bir yol üze-
+rinde gerçek sayı doğrusu modellenmiştir. Sayı 
+doğrusu üzerinde Can’ın evinin konumu O nok-
+tasıyla, kütüphane ve marketin konumları sıra-
+sıyla K(-5) ve M(3) noktalarıyla gösterilmiştir.
+K(-5)
+M(3)
+O
+Sayı doğrusunda 1 birimlik uzaklık, 100 met -
+reye karşılık gelmektedir. Can’ın kütüphane ve 
+market arasındaki yol üzerinde herhangi bir ko-
+numu x, konumuna bağlı bulunduğu noktanın 
+evine olan mesafesini (m) ifade eden fonksi -
+yon f dir .
+a, b, c, d, k, n   R	ve k0! 	olmak 	üzere 	f 	fonk-
+siyonu	f: (a, b)" ,cd i8 , f(x) = | kx + n |	şeklin-
+de	tanımlı 	olduğuna	göre 	a + b - c - n + dk  
+ifadesinin	değeri	kaçtır?
+A) -8 B) -2 C) 0 D) 3 E) 13
+18. Fadime Hanım, evden ofisine doğru sabit hızla 
+yürümeye başlamıştır. Fadime Hanım’ın tele -
+fonunu evde unuttuğunu fark eden kızı Derya 
+da bir süre sonra evden çıkmış ve sabit hızla 
+annesi ile aynı yoldan ilerlemeye başlayarak 
+annesi ofise varmadan ona yetişmiştir. Aynı 
+noktadan harekete başlayan Fadime Ha -
+nım ve Derya’nın zamana (dk.) bağlı aldıkları 
+mesafeyi (m) gösteren fonksiyonlar sırasıyla 
+f ve d fonksiyonları olsun. Uygun aralıkta ta -
+nımlı f ve d fonksiyonlarının cebirsel temsilleri                  
+f(t) = 70t ve d(t) = 90t - 360 biçimindedir.
+Buna	göre	
+I.  Derya, Fadime Hanım’dan 4 dk. sonra yola 
+çıkmıştır.
+II.  Derya, Fadime Hanım’a evden 1260 m uzak -
+ta yetişir.
+III.  Fadime Hanım evden çıktıktan 12 dk. sonra 
+Derya ona yetişmiştir.
+ifadelerinden	hangisi 	veya 	hangileri 	doğru-
+dur?
+A) Yalnız I B) Yalnız II C) I ve II
+D) I ve III E) II ve III
+19.
+Tema ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

@@ -1,0 +1,25 @@
+80
+1. Tema /  Sayılar
+ Alıştırmalar
+1.  “a,	b 	ve 	c 	gerçek 	sayılar 	olmak 	üzere 	b, 	a 	dan 	büyük 	ve 	c, 	b 	den 	büyük 	ise 	a, 	c 	den 	küçüktür .” 	
+önermesini	sembolik	dille	ifade	ediniz.
+2. “Tabanı 1’den büyük gerçek sayı olan üslü gösterimlerin kuvveti arttıkça üslü gösterimin değeri artar.” 
+önermesi veriliyor. 
+	 Buna 	göre	aşağıdaki	soruları	cevaplayınız.	
+	 a) 	Önermeyi	matematiksel	sembol	kullanarak	yazınız.
+	 b) 	Önermenin	cebirsel	ispatını	yapınız.	
+3.  ,ab R!  olmak üzere a sayısı 45 ʼin toplama işlemine göre tersine, b sayısı 512 ʼnin çarpma işle-
+mine göre tersine eşittir.
+	 Buna 	göre	 aa bb222++ 	ifadesinin	değerini	bulunuz.	
+4.  Aşağıda verilen şekillerde yuvarlak içindeki ifadelerin çarpımı dikdörtgenlerin içine yazılmıştır ,ab R!_i .
+ 
+3a 2
+6a
+L ab 2-
+aa bb4422-+
+Ka 21-
+a 142 -
+ Kv eL231 48= + = 	olduğuna	göre	 ab$ 	ifadesinin	değerini	bulunuz.	
+5.  xv ey4026 2374==  olarak veriliyor.
+	 Buna 	göre	 xy xy4 2+-_i 	ifadesinin	değerini	bulunuz.
+6. ...31 323334 33 0$$$$ $-- -- -_ ___ _i iiii  işleminin	sonucunu	bulunuz.

@@ -1,0 +1,68 @@
+178
+3. Tema /  Geometrik Şekiller
+Üçgenin İç ve Dış Açılarının Ölçüleri Arasındaki İlişki
+Aşağıda verilen teoremin ispatına yönelik adımları uygulayınız.
+1. T eoremi inceleyiniz.
+Teorem: Bir üçgende bir dış açının ölçüsü, kendisine komşu olmayan iki iç açının ölçüleri toplamına eşittir.
+Verilenler: ABC üçgeni, ACD dış açısı
+İspatlanacak ifade: mA CD mA BC mB AC=+`` `jj j%% %
+2. T eoremin doğrulamasının veya ispatının nasıl yapılabileceğine ilişkin fikirlerinizi sınıf arkadaşlarınızla payla -
+şarak tartışınız.
+3. Aşağıdaki ta blonun boş alanlarına uygun ifadeleri ve gerekçeleri yazarak teoremin ispatını tamamlayınız.
+Adım İfadeler Gerekçe
+I. ABC üçgeninin iç açılarının ölçüleri toplamı
+II. mA CD mA CB 180 o=+`` jj%%
+III. mA CD mA CB mB AC mA BC mA CB=++ +`` `` `jjjj j%% %%%
+I V. Sadeleştirme
+3.	Uygulama
+A
+B C D
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.
+Çözüm
+I ve III numaralı çubuklar P noktasında çakıştıkları anda PBC üçgeni oluşur. mC Em BDPP23$$ =`` jj%%  
+eşitliğinden mC ExP3 =`j%  ve mB DxP2 =`j%  elde edilir. Üçgenin P köşesine ait dış açısının ölçüsü ise 
+1800 1062oo o-=  olur. Üçgenin dış açılarının ölçüleri toplamı 360 o olduğundan 
+                                       
+.
+xx
+x
+x
+xe ldee dilir
+32 1203 60
+51 20 360
+52 40
+48
+oo
+oo
+o
+o
+++ =
++=
+=
+=
+.
+mB Dx oldu unda n
+bulunur
+P2
+24 8
+96
+ğ
+o
+o
+$
+=
+=
+=
+`j%
+D B
+I
+II
+III
+C E
+P
+3x2x
+60o
+120o
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

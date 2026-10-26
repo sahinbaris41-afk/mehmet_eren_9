@@ -1,0 +1,52 @@
+28
+1. Tema
+Ayrıntılı gözlemler bilim insanlarının deneyler tasarlamasına ve soruları cevaplamasına yardımcı olur. Bilim in-
+sanları gözlem sonucu elde ettiği verilerden yararlanarak problemin çözümü için varsayımlar (hipotezler) gelişti-
+rir. Verilen örnek durumda bir bilim insanının varsayımı aşağıdaki gibi olabilir.
+"Gölün güney kıyısındaki drenaj hattına yakın bulunan söğüt ağaçları, otoparktan sızan ve motorlu taşıt atıkları 
+içeren kimyasal suları kökleriyle alır, yapraklarında klorofil kaybı yaşanır ve bitkiler hastalanır."
+Bilim insanları varsayımlarını sınamak için deneyler yaparak kanıt arar. Verilen bu örnek olayda bilim insanı 
+varsayımına kanıt bulmak için aşağıdaki gibi kontrollü bir deney tasarlayabilir. 
+“Söğütlerdeki hastalık nedeninin motorlu taşıtların atık sularından kaynaklanıp kaynaklanmadığının belirlenmesi 
+için laboratuvar ortamında özdeş genç söğüt fidanları ayrılır. Bir grubu normal göl suyuyla (kontrol grubu), diğer 
+grubu ise otopark drenajından alınan atık su karışımlı göl suyuyla (deney grubu) sulanarak test edilebilir.”
+Bilim insanları bir sonuca varmak için asla tek bir kanıtla yetinmez. Söğüt ağaçları fark edilmeyen başka bir ne-
+denden (örneğin o bölgeye özgü bir mantar enfeksiyonu veya taban suyu seviyesinin farkı) dolayı da hastalanmış 
+olabilir. Bu nedenle farklı kontrollü deneylerle varsayımlarını doğrulayacak yeni kanıtlar aramaya devam ederler.
+Söğüt ağaçları örneğinde bilim insanının karşılaştığı bir problemi çözerken hangi adımları izlediğini ve nasıl 
+kontrollü deney tasarladığını incelediniz. Söğüt ağaçlarının gizemini çözen bilim insanı gibi siz de sınıf arkadaş-
+larınızla yakın çevrenizden biyoloji disipliniyle ilgili bir problemi tespit ederek kendi bilimsel araştırma sürecinizi 
+tasarlayınız.
+1. Öğretmeninizin rehberliğinde beşer kişilik heterojen gruplar oluşturunuz.
+2. Yakın çevrenizde (okul bahçesi, parklar, yerel akarsular vb.) gözlemleyebileceğiniz benzer bir problem duru-
+munu ortaya koyunuz.
+Gözleminiz: …………………………………………………………………..................................................…………
+…………………………………………………………………………………………………………………...……………
+3. Tespit ettiğiniz problemle ilgili araştırılabilir bir soru cümlesi oluşturunuz.
+Araştırma Sorunuz: …………………………………………………………...................................................………..
+…………………………....................……………………….................................………………………………………
+4. Araştırma sorunuza yönelik, doğruluğu ya da yanlışlığı deneylerle test edilebilecek geçici çözüm önerinizi 
+(hipotezinizi) yazınız.
+Hipoteziniz: .......................................................................................................................................................... 
+.............................................................................................................................................................................. 
+5. Hipotezinizi sınamak için kuracağınız kontrollü deneyin değişkenlerini belirleyiniz ve deney düzeneğinizi 
+açıklayınız.
+Bağımsız Değişken: .............................................................................................................................................
+Bağımlı Değişken: ...............................................................................................................................................
+Kontrol Grubu: ....................................................................................................................................................
+6. Öğretmeninizin rehberliğinde belirlediğiniz problemle ilgili deneysel veri toplayınız veya konuyla ilgili yapı-
+lan bilimsel araştırmaları güvenilir kaynaklardan araştırıp kaydediniz.
+7. Grup olarak incelediğiniz araştırma konusuna yönelik hipotezinizin doğruluğunu veya yanlışlığını destekle -
+yen kanıtları tartışınız.
+8. Bu süreçte grup olarak birbirinizin fikirlerine saygı duymayı, ortak düşünceleri belirlemeyi, farklı fikirler 
+üzerine tartışarak uzlaşmayı ve iş birliği içinde çalışmayı unutmayınız.
+9. Grup olarak araştırma sürecinizde bilimin doğasıyla ilgili özellikleri tespit ederek raporlaştırınız.
+10. Bilimin doğasıyla ilgili özelliklere yönelik tespitlerinizi içeren bir zihin haritasını bireysel olarak oluşturunuz.
+Değerlendirme
+ 
+Öz Değerlendirme 
+Formu
+Grup Değerlendirme 
+Formu
+Bütüncül Dereceli 
+Puanlama Anahtarı

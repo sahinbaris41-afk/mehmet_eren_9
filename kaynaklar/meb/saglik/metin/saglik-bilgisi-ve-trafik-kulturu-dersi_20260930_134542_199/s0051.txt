@@ -1,0 +1,47 @@
+Sağlık Bilgisi ve Trafik Kültürü
+51
+Ağrı Kesiciler
+Doktor kontrolü olmadan bilinçsizce kullanılan ağrı kesiciler, ağrıyı geçici olarak baskılayarak hastalığın 
+doğru şekilde teşhis edilmesini zorlaştırabilir ya da tanının gecikmesine yol açabilir. Bu nedenle ağrı kesici 
+kullanmadan önce mutlaka doktora danışılmalı ve ağrı kesiciler doktorun reçete ettiği şekilde kullanılmalıdır.
+Kimyasal ve fiziksel özellikleri birbirinden farklı, çeşitli etki ve dozlara sahip birçok ağrı kesici ilaç 
+bulunmaktadır. Her ağrı kesici her bireyde aynı etkiyi göstermez; bir kişiye iyi gelen ilaç, bir başkasında 
+olumsuz sonuçlar doğurabilir. Bu nedenle kişisel ilaç tavsiyesinde bulunmaktan kesinlikle kaçınılmalıdır. 
+Kontrolsüz ağrı kesici kullanımı, özellikle böbrek ve karaciğer olmak üzere birçok organda ciddi hasara 
+neden olabilir.
+Ağrı Kesicilerin Vücuttaki Ağrılı Bölgeyi Bulması
+Ağrı kesici ilaçlar, vücutta ağrının azaltılması amacıyla kullanılan kimyasal maddelerdir. Ağız yoluyla alındık-
+larında sindirim sisteminde emilir ve kan dolaşımı aracılığıyla dokulara taşınırlar. Ancak ilacın vücuda yayıl -
+ması, her hücrede aynı etkiyi oluşturduğu anlamına gelmez. Ağrı kesiciler yalnızca belirli hücresel proteinler-
+le etkileşime girerek etkilerini gösterir.
+Her ağrı kesici, içerdiği etken maddeye bağlı olarak 
+kendine özgü bir kimyasal yapıya sahiptir. Bu yapı, 
+hücre yüzeyinde ya da hücre içinde bulunan özel pro-
+teinlerle (reseptör veya enzimler) etkileşime girebilir 
+(Görsel 1.38). İlaç molekülü hedef proteine yaklaştı -
+ğında bağlanma bölgesinde küçük yapısal değişiklik-
+ler meydana gelebilir. Bu durum “indüklenmiş uyum 
+modeli” ile açıklanır. Buna göre hedef protein, ilacın 
+bağlanması sırasında kısmen şekil değiştirerek bağ-
+lanmayı kolaylaştırır.
+İlaç ile hedef protein arasındaki bu etkileşim sonu -
+cunda, ağrı oluşumunda görev alan kimyasal mad -
+delerin üretimi azalır ya da ağrı sinyallerinin iletimi 
+zayıflar. Böylece ağrı kesiciler tüm hücrelere etki et-
+mek yerine ağrı iletiminde görev alan belirli hücre ve 
+dokularda etkili olur.
+Antibiyotikler
+Antibiyotikler, bakterilerin neden olduğu enfeksiyonların tedavisinde kullanılan ilaçlardır. Virüslerin yol aç -
+tığı nezle, grip ve çoğu soğuk algınlığı gibi hastalıklarda etkili değildir. Amaç, vücudun bağışıklık sistemiyle 
+birlikte çalışarak bakterilerin çoğalmasını durdurmak ya da bakterileri etkisiz hâle getirmektir.
+Antibiyotik Kullanımında Temel Kurallar
+Antibiyotik kullanımı, doktorun değerlendirmesi sonucunda hastalığın bakteriyel olduğunun düşünülmesi 
+veya testlerle desteklenmesi durumunda eczacı danışmanlığında kullanılmalıdır. Üst solunum yolu enfeksi-
+yonlarının çoğu viraldir, bu nedenle genellikle antibiyotik gerekmez. Bazı hafif bakteriyel enfeksiyonlarda da 
+antibiyotik kullanılmadan dinlenme ve destek bakım uygulamaları yeterli olabilir. Yanlış, eksik ya da gereksiz 
+kullanım tedaviyi zorlaştırır ve antibiyotik direncini artırır. Bu nedenle antibiyotik kullanımında dikkat edilme-
+si gereken temel kurallara uyulması çok önemlidir.
+1. Doz ve saatlere uyulmalıdır.
+Reçetede belirtilen doz ve aralıklar aynen uygulanmalı, doz atlanırsa çift doz alınmamalı, bir sonraki doza 
+geçilmelidir.
+Görsel 1.38: İlaç molekülünün hedef reseptöre bağlanması 

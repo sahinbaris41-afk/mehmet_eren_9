@@ -1,0 +1,89 @@
+155
+2. Tema/Çeşitlilik
+DNA hayati faaliyetlerin sürdürülmesini sağlayan ve genetik özellikleri taşıyan bir moleküldür. Deoksiribo-
+nükleik asit; beş karbonlu riboz şekerinin halkalı yapısını, nükleik hücre içindeki çekirdekte bulunmasını, 
+asit ise fosfat grubunun asidik özellik göstermesini ifade eder.
+DNA’nın sarmal bir merdivene benzeyen yapısında şeker ve fosfattan oluşan zincir dış kısımda, azotlu orga-
+nik bazlar ise merkezde merdivenin basamaklarında yer alır. Fosfat, şeker ve azotlu organik bazın birleşme-
+sinden meydana gelen ve DNA’da tekrarlayan yapıya nükleotit adı verilir.
+DNA’nın yapısında kalıtsal özellikleri belirleyen gen yapısı çok sayıda nükleotitten oluşur. Nükleotitler 
+DNA’nın temel yapı birimleridir.
+Nükleotit yapısında dört farklı azotlu organik baz [adenin (A), sitozin (C), guanin (G) ve timin (T)] bulu-
+nur. G-C ve A-T arasında bulunan molekül içi hidrojen bağları, DNA molekülünün yapısında birbirine dolan-
+mış şekilde iki zinciri birleştirir ve genetik kodu korur.
+DNA YAPISINDA HİDROJEN BAĞIOkuma Parçası
+Adenin (A)
+Timin (T)
+Sitozin (C)
+Guanin (G)
+Fosfat Şeker Azotlu Organik Baz Nükleotit
+CH3 O O
+O O
+N
+N
+N
+N
+N N N
+N
+N
+N
+N
+N
+N
+NN
+H H
+H
+H
+H
+H
+H
+H
+Timin Adenin Guanin Sitozin
+G
+G
+T
+TA
+A
+C
+C
+Nükleotit
+Fosfat
+Şeker
+(deoksiriboz)
+T
+T
+T
+G
+G
+G
+G
+G
+TT A
+C
+C
+C
+A
+Timin
+Sitozin
+Adenin
+Guanin
+DNA çİft sarmal yapısı
+T
+G
+G
+G
+G
+G
+T
+T
+T
+A
+A
+A
+C
+C
+C
+C
+C
+A
+Şeker fosfat zinciri

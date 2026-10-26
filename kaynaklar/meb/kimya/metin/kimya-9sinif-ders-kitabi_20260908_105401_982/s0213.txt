@@ -1,0 +1,33 @@
+213
+2. Tema Ölçme ve Değerlendirme Soruları
+Modellenen etkileşim türü ile oyunun amacı ve kuralı arasında nasıl bir ilişki vardır? Bu 
+özellikle ilgili bir örüntü oluşturunuz.
+2.
+Balon oyunundaki her grubu periyodik cetveldeki bir element ile eşleştiriniz. Eşleştirmeleri-
+nizin gerekçelerini açıklayınız.
+3.
+En yüksek erime ve kaynama noktasına sahip grubu belirleyerek bu durumun nedenini 
+açıklayınız. (Grupların aynı periyottaki elementleri temsil ettiği varsayılacaktır.)
+4.
+Çizdiğiniz modellerdeki farklılıklar ile metallerin tablodaki özellikleri arasında nasıl bir ilişki 
+vardır? Açıklayınız.
+6.
+5-7. soruları aşağıdaki tabloya göre cevaplayınız. 
+Element Erime Noktası (oC) Sertlik Elektrikselİletkenlik
+11Na 98 0,5 2,1
+12Mg 650 2,5 2,3
+13Al 660 2,8 3,8
+19K 64 0,4 1,4
+ a) Tabloda yer alan metallerin metalik bağlarının oluşumunu gösteren modelleri aşağıya 
+çiziniz.
+b) Çizdiğiniz modellerin benzerlik ve farklılıklarını yazınız.
+5.
+Çizdiğiniz modellere ve tabloda sunulan özelliklere göre aşağıdaki sonuçlardan hangisine 
+ulaşılamaz?
+A) Metal katyonlarının yarıçapı küçüldükçe elektrostatik çekim kuvvetleri artar.
+B) Serbest valans elektron sayısı arttıkça metalik bağ kuvveti artar.
+C) Metallerde elektron verme isteği arttıkça metalik bağ kuvveti artar.
+D) Metalik bağdaki serbest valans elektron sayısı arttıkça iletkenlik artar.
+E) Metalik bağın kuvveti arttıkça metalin sertliği artar .
+Aşağıdaki tabloda bazı metallerin özellikleri verilmiştir.
+7.

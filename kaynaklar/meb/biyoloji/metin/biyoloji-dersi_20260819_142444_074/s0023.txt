@@ -1,0 +1,29 @@
+23
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+2. TEMA: ORGANİZASYON
+Bu temanın içeriğini hücre ve hücresel organizasyon ile canlıların sınıflandırılması ve 
+biyoçeşitlilik konuları oluşturmaktadır.  Tema kapsamında öğrencilerin hücre alt birimlerini 
+ve bu birimler arasındaki ilişkileri çözümlemeleri, hücre zarından madde geçişlerini 
+sınıflandırmaları, hücre zarından madde geçişleriyle ilgili deney yapmaları, canlılardaki 
+yapısal organizasyon hakkında tümevarımsal akıl yürütmeleri, üç üst âlem (domain) 
+sisteminde yer alan canlıların özellikleri ile biyoçeşitliliği oluşturan unsurlara ilgili çıkarım 
+yapmaları ve çevrelerindeki canlıları sınıflandırma ölçütlerine göre sınıflandırmaları 
+amaçlanmaktadır.
+DERS SAATİ 24
+ALAN 
+BECERİLERİ FBAB2. Sınıflandırma, FBAB7. Deney Yapma, FBAB8. Bilimsel Çıkarım Yapma, 
+FBAB10. Tümevarımsal Akıl Yürütme
+KAVRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.10. Çıkarım Yapma
+EĞİLİMLER E1.1. Merak, E3.2. Odaklanma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB2.1. İletişim
+Değerler D3. Çalışkanlık, D12. Sabır, D14. Saygı, D16. Sorumluluk 
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB5. Kültür 
+Okuryazarlığı, OB7. Veri Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Fizik, Kimya
+BECERİLER ARASI 
+İLİŞKİLER KB2.9. Genelleme, KB3.3. Eleştirel Düşünme 

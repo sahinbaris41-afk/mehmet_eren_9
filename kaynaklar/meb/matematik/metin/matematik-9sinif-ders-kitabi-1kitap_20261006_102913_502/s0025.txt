@@ -1,0 +1,48 @@
+25
+1. Tema /  Sayılar
+6.	Uygulama
+Üslü ve Köklü Gösterimlerin Birbiri Cinsinden İfade Edilmesi
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız. 
+Kuvveti rasyonel sayı olan üslü gösterimler, köklü gösterim olarak ifade edilebilir. Benzer şekilde köklü gösterim-
+ler de üslü gösterim olarak ifade edilebilir.
+1. Tablo 1’de verilen üslü gösterimleri örneklerdeki gibi köklü gösterim olarak yazınız.
+ T ablo 1
+ 
+Üslü Gösterim Köklü Gösterime Dönüştürme
+2 2
+3
+22 82
+3
+32==
+2 2
+5
+3 2
+1
+33 32
+1
+12==
+6 2
+1
+5 3
+2
+55 253
+2
+23 3==
+7
+2
+5
+2 5
+3
+-_i 22 853 35 5-= -= -__ ii
+2 3
+5
+-_i
+2. Tablo 2’de verilen köklü gösterimleri örnekteki gibi üslü gösterim olarak yazıp tabloyu uygun şekilde doldurunuz.
+ T ablo 2
+ 
+Köklü Gösterim Üslü Gösterime Dönüştürme
+6 66 21=
+73
+165
+57 3
+ 

@@ -1,0 +1,49 @@
+22
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.H.1.1
+Doğrusal ilişkiler içeren problemlerden elde edilen veriler; tablo, cebirsel ve grafik temsiller-
+le ifade edilir (MAB2, MAB3). Bu problemlerde yer alan doğrusal ilişkiyi temsil eden doğru-
+ların eğiminin pozitif/negatif olması durumlarına, bu doğruların orijinden geçen/geçmeyen 
+farklı durumlar içermesine dikkat edilir. Doğruların tablo, cebirsel ve grafik temsillerinde 
+elektronik tablo ve dijital grafik hesaplayıcılar içeren matematik yazılımları kullanılır (D3.3). 
+Problemdeki bilgilere göre öğrencilerin elektronik tabloyu doldurmaları ve doğrusal ilişkiyi 
+keşfettikten sonra elektronik tablo yardımıyla problemdeki bağlama uygun başka noktalar 
+bulmaları sağlanır. Tablodaki değerlerin bağımlı-bağımsız değişkene göre dik koordinat sis-
+teminde noktalarla temsil edildiği çalışmalar için dijital grafik hesaplayıcı içeren matematik 
+yazılımları kullanılır. İki nokta verildiğinde bu noktalarla aynı doğru üzerinde olacak üçüncü 
+bir nokta bulmaya dönük çalışmalar için öğrenciler, dijital grafik hesaplayıcılar içeren mate-
+matik yazılımları kullanır. Bu matematiksel araç ve teknolojilerin hangi durumlarda ve nasıl 
+kullanılacağına ilişkin örnek çalışmalar yapılır (OB2, SDB1.2). Öğrencilere benzer çalışmalara 
+yönelik performans görevi verilebilir. Öğrencilerden verilen performans görevini zamanında 
+ve eksiksiz olarak yerine getirmeleri beklenir. Böylece sorumluluk değerini kazanmaları des-
+teklenir (D16.3). 
+Öğrencilerin verilen bir problem durumundan yola çıkarak doğrusal ilişkiye ait cebirsel temsil 
+elde etmek  ya da doğrusal ilişkinin grafiğini çizmek için matematiksel araç ve teknolojiler-
+den uygun olanları kullanmaları sağlanır. Öğrencilerden doğrusal ilişkilerin grafik temsilleri 
+ile cebirsel temsillerindeki katsayıları matematiksel araç ve teknolojiden yararlanarak yo-
+rumlamaları beklenir. Örneğin dik koordinat sisteminde verilen bir doğruya paralel doğrular 
+oluşturmak, bir doğrunun verilen bir göreve uygun olarak grafiğinin ötelenmesini sağlayacak 
+şekilde katsayılarını değiştirmek gibi görevler etkileşimli dijital araçlar üzerinde gerçekleş-
+tirilir. Bu dijital araçlarla öğrencilerin bireysel denemeler yapmaları sağlanarak  kendi öğ -
+renme deneyimlerini oluşturmaları desteklenir (E2.3, SDB1.2). Öğrencilere olası tüm çözüm 
+stratejilerini inceleyebilecekleri açık uçlu sorulardan oluşan dijital testler verilebilir.
+Öğrencilerden fizik, kimya, biyoloji veya ekonomi alanlarında karşılaştıkları doğrusal iliş -
+kilerden hareketle denklem ve eşitsizlikleri kullanmayı gerektirecek sözel temsilleri ma -
+tematiksel temsillere dönüştürebilmeleri beklenir  (MAB3). Bu temsiller arası geçişin 
+gösterilebilmesi için elektronik tablolardan ve matematik yazılımlarından yararlanılır. Öğ -
+rencilerin problem çözmede farklı yollar denemelerine imkân veren, dijital olarak hazırlan-
+mış, iş birlikli öğrenme yöntemiyle yapılan etkinlikler veya yarışmalar düzenlenir (SDB2.2, 
+SDB3.2). Bu süreçte öğrencilerin grup dinamiğinde etkin olmaları ve kendilerine uygun 
+görevleri almaya istekli olmaları beklenir (D3.4). Öğrencilerin problem çözme sürecinde 
+farklı yollar denemeleri, sözel temsillerle cebirsel ve grafik temsilleri arasındaki ilişkileri 
+yorumlayabilme becerileri desteklenerek esneklik becerilerinin gelişimine katkı sağlanır 
+(SDB3.2). Öğrencilere doğrusal ilişkiler içeren problem çözümlerine yönelik performans 
+görevi verilebilir.
+Köprü Kurma Öğrencilerin önceki öğrenmelerinden hareketle hangi durumların doğrusal ilişkilerle tem-
+sil edilebileceğine dair fikir yürütmelerini sağlayacak doğrusal ilişki ve doğrusallık kavram-
+larının ne anlama geldiğiyle ilgili sorulara yer verilebilir. Doğrusal ilişkilerin grafik temsilleri 
+ile cebirsel temsilleri arasındaki ilişkiler, gerçek yaşam bağlamlarında (sıcaklık değişimi, 
+ücret tarifeleri, tasarruf edilen suyun hacmine göre aile bütçesinde azalan gider gibi) öğ -
+rencilere sorgulatılabilir. Böylelikle öğrencilerin ilgi ve motivasyonlarının artırılması ve bi -
+lişsel açıdan temaya hazır olmaları sağlanabilir. 

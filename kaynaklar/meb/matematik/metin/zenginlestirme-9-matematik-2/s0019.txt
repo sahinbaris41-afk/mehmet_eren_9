@@ -1,0 +1,30 @@
+18 19
+MATEMATİK 9 
+Etkinliğin Amacı Üslü ve köklü gösterimlerin tanımsızlık durumlarını kavrayabilme ve bu kav -ramları günlük hayattaki örneklerle ilişkilendirebilme.
+Zenginleştirme 
+Uygulaması
+* İş birlikli öğrenme temelinde üslü ve köklü gösterimlerde karşılaşılan ta -
+nımsız olma durumunun nedenlerinin tartışıldığı grup çalışması yaptırılır.
+Araç Gereç ve 
+Materyaller Çalışma kâğıdı
+Yönerge Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz. Etkinlik sonunda “Değerlendirme’’ sorularını cevaplayınız.
+2. ETKINLIK Üslü ve Köklü Gösterimlerde Tanımsızlık Durumları
+2. Adım
+1. Adım
+3. Adım
+Bir internet sağlayıcısı, bağlantı hızını her yıl iki katına çıkaran bir kampanya sunuyor. Bağlantı 
+hızının 2n (Mbps) formülüne göre ifade edildiğini düşününüz. Ancak n negatif olduğunda bağlantı 
+hızını nasıl yorumlarsınız? Negatif üslerin günlük hayatta bir karşılığının olup olmadığını grup  
+arkadaşlarınızla tartışınız.
+Öğretmen rehberliğinde en az beş kişilik gruplara ayrılınız.
+Bir havacılık mühendisi, bir uçağın hava direncini hesaplamak için formüller üzerinde çalışmak-
+tadır. Hava direncinin uçak hızıyla ters orantılı olarak değiştiğini fark edip bu ilişkiyi R=  formülüyle 
+ifade etmiştir. ( R= Hava direnci; c= sabit; v= Uçak hızı)
+Eğer uçak hızı sıfıra kadar düşerse ( v=0 olursa) hava direnci R=  şeklinde hesaplanır.
+Buna göre
+a)  ifadesinin matematiksel olarak ne anlama geldiğini ve neden tanımsız kabul edildiği yönün-
+deki tahminlerinizi yazınız.
+b) Paydanın sıfır olma durumunu mühendislik açısından nasıl yorumlarsınız? Gerçek hayatta böy-
+le bir senaryonun ne gibi sorunlara yol açacağını düşünüyorsunuz? Açıklayınız.
+Çözüm:
+Yıldızlı  Etkinlik 

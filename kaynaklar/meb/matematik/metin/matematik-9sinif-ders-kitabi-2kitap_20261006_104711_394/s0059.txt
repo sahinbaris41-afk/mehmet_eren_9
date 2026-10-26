@@ -1,0 +1,73 @@
+59
+4. Tema / Eşlik ve Benzerlik
+1.		 Cetveller 	birleştirilerek	aşağıdaki	üçgen	şekli	
+oluşturulmuştur.	
+ 1 ve 2 numaralı cetveller üzerindeki hangi 
+sayılar arasına bir doğru parçası yerleştiri-
+lirse mevcut üçgene benzer bir üçgen elde 
+edilebileceğini bulunuz.
+2.		 Aşağıdaki 	şekilde	 LP7A 	ve	 MN7A ,	KLM		üçgeni-
+nin	kenarortaylarıdır.	 LP MN G+ =77 AA # -  dir.
+ Buna göre GP GL2 =  olduğunu gösteriniz.
+3.		 Aş ağıdaki	ABC	ve	DCE	üçgenlerinde 										
+B,	C,	E	doğrusal;	 AB BC ,A DD C,= =77 AA  
+BAC DECmm =`` j j%% ,	 BC birim 2= 	ve	
+CE . birimdir 8=  
+ Buna göre AB  nun kaç birim olduğunu bu-
+lunuz.
+0 1 2 3 4 5 6 7 8 9 10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+K
+PN
+G
+L M
+2 8
+A
+B EC
+D
+4.  Aşağıdaki	görselde	duvara	belli	bir	açı	ile	da-
+yanmış	merdivene	çıkan	bir	kişi	yer	almaktadır.	 	
+ Birbirine eşit mesafede toplam 15 basama-
+ğı bulunan bu merdivenin duvara dayandığı 
+noktanın yerden yüksekliği 4 metre olduğu-
+na göre merdivenin 7. basamağında bulu -
+nan kişinin ayak tabanının yerden yüksekli-
+ğinin kaç m olduğunu bulunuz.  
+5.		 Aşağıda 	 AB BC=77 AA 	olmak	üzere	ABC	dik	üç-
+geni	verilmiştir.
+ DA C! 7A ,	 ABD BCAmm =`` jj%% , AD birim 3=  
+ve	 DC birim 12= 	olacak	şekilde	 BD7A  nı	çiziniz.
+ Buna göre aşağıdaki soruları cevaplayınız.
+a) Hangi üçgenlerin benzer olduğunu ne-
+denleri ile yazınız.
+b) BD  nun kaç birim olduğunu bulunuz. 
+c) BC  nun kaç birim olduğunu bulunuz. 
+4
+A
+B C
+Alıştırmalar
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

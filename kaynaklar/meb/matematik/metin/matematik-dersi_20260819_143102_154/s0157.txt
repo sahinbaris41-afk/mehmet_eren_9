@@ -1,0 +1,53 @@
+157
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.11.3.7. Fonksiyonların bileşkelerine ilişkin muhakeme yapabilme
+a) İki veya daha fazla fonksiyonun bileşkesinden oluşan bir fonksiyonun bileşenlerini 
+(bileşke fonksiyon ile bileşkeyi oluşturan fonksiyonların cebirsel ve grafik temsilleri) 
+belirler.
+b) İki veya daha fazla fonksiyonun bileşkesinden oluşan bir fonksiyonun bileşenleri ara-
+sındaki ilişkileri belirler.
+c) İki veya daha fazla fonksiyonun bileşkesiyle elde ettiği fonksiyonları sembolik bir dile 
+dönüştürür.
+ç) Verilen fonksiyonları iki veya daha fazla fonksiyonun bileşkesi şeklinde ifade eder.
+d) Bileşke fonksiyonlara ve bu fonksiyonların nitel özelliklerine (işareti, artanlığı-azalan-
+lığı, maksimum-minimum noktaları, sıfırları, bire birliği, tekliği-çiftliği, örtenliği) ilişkin 
+varsayımlarda bulunur.
+e) Varsayımlarına dayalı olarak bileşke fonksiyonlara ve bileşke fonksiyonların nitel özel-
+liklerine ilişkin örüntüleri geneller.
+f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerinden elde ettiği önermeleri matematiksel olarak doğrulayabileceği 
+şekilde sunar.
+ğ) Bileşke fonksiyonu gerçek yaşam bağlamında kullanışlılık açısından değerlendirir.
+h) Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.
+ı)  Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını 
+değerlendirir.
+MAT.11.3.8. Fonksiyonlarda dört işlem özelliklerini yorumlayabilme
+a) Fonksiyonlarda dört işlemin yapılabilme koşullarını inceler.
+b) Fonksiyonlarda dört işlemi uygun cebirsel veya grafik temsillerle ifade eder.
+c) Fonksiyonlarda dört işlem özelliklerini dönüştürdüğü fonksiyonlar bağlamında sözel 
+olarak açıklar.
+İÇERİK ÇERÇEVESİ • Fonksiyonların Bileşkesi
+• Fonksiyonlarda Dört İşlem
+Genellemeler •  Fonksiyonlar, nitel özelliklerine göre sınıflandırılabilir.
+• Fonksiyon grafikleri, cebirsel denklem ve eşitsizlikleri inceleme ve yorumlamanın temel 
+araçlarından biridir.
+Anahtar Kavramlar artanlık-azalanlık, bileşke fonksiyon, bire birlik, fonksiyonun işareti, fonksiyonun sıfırı, mak-
+simum-minimum değer, maksimum-minimum nokta, örtenlik, teklik-çiftlik, ters fonksiyon
+Sembol ve Gösterimler (f ° g) (x), f (g (x)), ( f + g) (x) ,(f - g) (x), (f . g) (x), (  f  ) (x)
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; açık uçlu sorular, çalışma kâğıdı, araştırma ödevi ve performans görevi ile 
+değerlendirilebilir.
+Bileşke fonksiyonlara ve bu fonksiyonların nitel özelliklerine ilişkin verilen performans göre-
+vi, analitik dereceli puanlama anahtarıyla değerlendirilebilir.
+Gerçek yaşam bağlamında bileşke fonksiyonların kullanım alanlarını incelemeye yönelik 
+araştırma ödevi, derecelendirme ölçeği kullanılarak değerlendirilebilir.
+Bileşke fonksiyonlara ve bu fonksiyonların nitel özelliklerine ilişkin önermelerde doğrulama 
+veya ispat yapılmasını içeren çalışma kâğıdı, analitik dereceli puanlama anahtarıyla değer -
+lendirilebilir.
+Fonksiyonlarda dört işlem özelliklerini yorumlamaya ilişkin açık uçlu sorulardan oluşan ça -
+lışma kâğıdı, analitik dereceli puanlama anahtarıyla değerlendirilebilir.
+g

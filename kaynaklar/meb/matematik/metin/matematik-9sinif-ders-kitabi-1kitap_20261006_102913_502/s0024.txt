@@ -1,0 +1,38 @@
+24
+1. Tema /  Sayılar
+Gerçek Sayıların Köklü Gösterimi 
+x metre yükseklikten bırakılan cismin yere düşme süresi t saniye ve yer çekimi 
+ivmesi (g) m/sn.2 olmak üzere t gx 2=  eşitliği ile hesaplanır. 
+11,5 metre yükseklikten bırakılan cismin yere düşme süresi t saniye olsun 
+(Görsel 1.3). Dünya’da yer çekimi ivmesi (g) yaklaşık 9,8 m/sn. 2 olmak üze-
+re cismin yere düşme süresi , ,t 9821 15$=  sn. olur.
+3.	Sıra	Sizde      
+Newton’ın (Nivtın) evrensel kütle çekim teorisine göre yer çekimi sabiti 
+. sn$/,Gm 6 673 10 11 3$= - kg 2`j  olarak hesaplanmıştır. Gezegenlerin yer çekimi ivmesi (m/sn.2), yer 
+çekimi sabiti yardımıyla aşağıdaki gibi hesaplanır.
+gG
+R
+M
+2$=
+g: yer çekimi ivmesi (m/sn2.), M: gezegenin kütlesi (kg), R: gezegenin yarıçap uzunluğu (m)
+Aşağıdaki tabloda Dünya ve Marsʼın kütle, yarıçap uzunluğu ve yer çekimi ivmesi büyüklüklerinden 
+bazıları yaklaşık olarak verilmiştir.
+Gezegen Kütle	(kg) Yarıçap	Uzunluğu	(m) Yer	Çekimi	İvmesi	(m /sn2.)
+Dünya ,59 71 024$ , 6 371 106$
+Mars , 3 389 106$ 3,711
+Buna	göre 	aşağıdaki 	soruları 	hesap 	makinesi 	kullanarak 	cevaplayınız 	(Cevaplarınızı 	onda 	birler	
+basamağına	yuvarlayarak	ve	bilimsel	gösterim	kullanarak	yazınız.).
+a)		Mars’ın	kütlesinin 	kaç 	kg 	olduğunu 	bularak 	Dünya’nın 	kütlesinin 	Mars’ın 	kütlesinin 	kaç 	katı	
+olduğunu	yaklaşık	olarak	hesaplayınız.
+b)		 Dünya’nın 	yer 	çekimi 	ivmesinin 	yaklaşık 	kaç 	m/sn2. 	olduğunu 	bularak 	Mars’ın 	yer 	çekimi 	ivmesi	
+ile	karşılaştırınız.
+a, b, c birer gerçek sayı; x, y sıfırdan farklı gerçek sayı; m, n birer tam sayı olsun. Üslü gösterimler ile aşağıdaki 
+işlemler yapılabilir.
+• ax bx cx ab cxmm mm=$$ $$+- +-_i  • xx xmn m n$ = +
+• xx xnm m n= -  • xy xymm m$$ = _i
+• yx yxmm m= cm  • xxm n mn= $_i
+Kontrol Noktası
+Görsel 1.3: Belirli bir 
+yükseklikten bırakılan cisim
+11,5 m
+Zemin

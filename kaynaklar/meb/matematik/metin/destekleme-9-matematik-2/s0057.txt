@@ -1,0 +1,22 @@
+56
+MATEMATİK 9 
+3. TEMA: GEOMETRİK ŞEKİLLER
+DİK AÇI
+Ölçüsü 90 derece olan açı
+GENİŞ AÇI
+Ölçüsü 90 dereceden büyük fakat 180 dere-
+ceden küçük olan açı
+DAR AÇI
+Ölçüsü 90 dereceden küçük olan açı
+BÜTÜNLER AÇI
+A°
+B°
+Toplamları 180 derece olan iki açı
+A° + B° = 180°
+DOĞRU AÇI TÜMLER AÇI
+Ölçüsü 180 derece olan açı
+180°
+Toplamları 90 derece olan iki açı
+A° + B° = 90°
+B°
+A°

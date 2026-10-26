@@ -1,0 +1,122 @@
+4. Ünite: B e Ş e RÎ S i S te ML e R V e  SÜR e ÇL e R
+156
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90-94
+95-99
+100 +
+Kanada (2023)
+1 212 0Nüfus (Milyon)
+KadınErkek
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90-94
+95-99
+100 +
+Meksika (2023)
+22 66 44 0
+Nüfus (Milyon)
+KadınErkek
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90-94
+95-99
+100 +
+Japonya (2023)
+22 66 44 0
+Nüfus (Milyon)
+KadınErkek
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90-94
+95-99
+100 +
+Etiyopya (2023)
+2,52,5 7,57,5 55 0
+Nüfus (Milyon)
+KadınErkek
+Ülke Nüfus Nüfus Artış Hızı (%) Doğal Nüfus Artış Hızı (%) Doğurganlık Hızı Doğum Oranı (‰) Ölüm Oranı (‰) Ortalama Ömür
+Meksika 130.739.927 0,72 0,78 1,79 14,3 6,5 74
+Japonya 123.201.045 -0,43 -0,50 1,40 6,9 11,9 85
+Etiyopya 118.550.298 2,37 2,38 3,84 29,6 5,8 67
+Kanada 38.794.813 0,71 0,18 1,58 10,0 8,2 84
+Aşağıda bazı ülkelerin nüfus özellikleri ve piramitleri verilmiştir. Bunlardan yararlanarak verilen ülkelerin 
+demografik dönüşüm modelinin hangi aşamasında olduğunu gerekçeleriyle yazınız.
+Ülke
+Demografik 
+Dönüşüm 
+Aşaması
+Gerekçe
+Meksika
+Japonya
+Etiyopya
+Kanada
+UYGULAMA Demografik Dönüşüm
+Yaş Grupları
+Yaş Grupları
+Yaş Grupları
+Yaş Grupları

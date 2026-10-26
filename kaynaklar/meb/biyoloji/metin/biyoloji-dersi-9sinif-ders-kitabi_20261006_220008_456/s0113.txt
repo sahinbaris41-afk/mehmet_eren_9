@@ -1,0 +1,57 @@
+113
+Organizasyon
+5. Aşağıdaki bilgi kartlarının üzerine yazılan bilgileri ve hücre zarından madde geçişlerinin bilimsel isimlerini 
+inceleyiniz.
+BASİT DİFÜZYON
+• Moleküllerin yüksek derişimli ortamdan 
+düşük derişimli  ortama hareketidir.
+• Enerji (ATP) gerekmez.
+• Hücre zarından geçiş çift yönlü olabilir.
+• Geçen maddeler küçük boyutludur.
+• Yardımcı proteinler görev almaz.
+• Derişim farkı kalmadığında geçiş sonlanır.
+• Canlı ortamlarda gerçekleşmesi zorunlu değildir.
+OZMOZ
+• Su molekullerinin secici gecirgen zardan 
+gecişidir.
+•  Su molekullerinin, düşük derişimli ortamdan 
+yuksek derişimli ortama geçişidir.
+• Hücrelerde genellikle kanal proteinleri 
+aracılığı ile gerçekleşebilir.
+• Cansız yapılarda da görülebilir.
+• Enerji (ATP) gerekmez.
+• Derişim farkı kalmadığında geçiş sonlanır.
+AKTİF TAŞIMA
+• Enerji (ATP) gereklidir.
+• Moleküllerin düşük derişimli ortamdan 
+yüksek derişimli ortama hareketidir.
+• Geçiş taşıyıcı proteinler aracılığı ile gerçek-
+leşir.
+• Hücre zarından geçiş çift yönlü olabilir.
+• Yalnızca canlı ortamlarda gerçekleşir.
+KOLAYLAŞTIRILMIŞ DİFÜZYON
+• Pasif taşıma çeşitlerinden biridir.
+• Moleküllerin yüksek derişimli ortamdan 
+düşük derişimli ortama hareketidir.
+• Maddeler, hücre zarından kanal veya taşıyıcı 
+proteinler yardımıyla geçer. 
+• Enerji (ATP) gerekmez.
+• Derişim farkı ortadan kalktığında net madde 
+geçişi durur. 
+ENDOSİTOZ
+• Geçiş için derişim farkı önemli değildir.
+• Enerji (ATP) gereklidir.
+• Sadece canlı hücrelerde gerçekleşir.
+• Geçiş hücrenin içine doğrudur.
+• Hücre zarının sitoplazma içine boğumlanması 
+ile gerçekleşir.
+• Alınan maddenin cinsine ve boyutlarına göre 
+farklı çeşitleri bulunur.
+• Hücre içine kütlesel alım vardır.
+EKZOSİTOZ
+• Geçiş için derişim farkı önemli değildir.
+• Enerji (ATP) gereklidir.
+• Geçiş hücrenin dışına doğrudur.
+• Sitoplazmik keseciklerin hücre zarıyla birleş-
+mesi şeklinde gerçekleşir.
+• Hücre dışına kütlesel atım vardır.

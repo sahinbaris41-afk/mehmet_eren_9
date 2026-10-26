@@ -1,0 +1,22 @@
+114
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+5. TEMA: SAYMA, ALGORİTMA VE BİLİŞİM
+Bu temada öğrencilerin saymayı gerektiren durumlarda problem çözme becerisini uy -
+gulayabilmeleri, algoritmik bir dille cebirsel ve fonksiyonel işlemleri yapılandırabilmeleri 
+amaçlanmaktadır.
+DERS SAATİ 28
+ALAN 
+BECERİLERİ MAB2. Matematiksel Problem Çözme
+KAVRAMSAL 
+BECERİLER KB2.13. Yapılandırma
+EĞİLİMLER -
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB3.2. Esneklik  
+Değerler D19. Vatanseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Bilgisayar Bilimleri
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

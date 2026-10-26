@@ -1,0 +1,30 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+57
+3. TEMA: GEOMETRİK ŞEKİLLER
+1. Adım: Üçgen çizme
+2. Adım: Üçgenin açılarını çizme
+3. Adım: Üçgenin açılarını boyama ve kesme
+4. Adım: Yapıştırma
+5. Adım: Şekli tanımlama ve sonuç çıkarma
+Grup üyeleri olarak her biriniz, çizim yapmak amacıyla aşağıda verilen maddelerden farklı birini seçi-
+niz.
+• A4 kâğıdının üzerine cetvelinizi kullanarak kâğıdınızın çoğunluğunu dolduracak şekilde dar açılı bir 
+üçgen çiziniz.
+• A4 kâğıdının üzerine cetvelinizi kullanarak kâğıdınızın çoğunluğunu dolduracak şekilde dik açılı bir 
+üçgen çiziniz.
+• A4 kâğıdının üzerine cetvelinizi kullanarak kâğıdınızın çoğunluğunu dolduracak şekilde geniş açılı 
+bir üçgen çiziniz.
+Çizdiğiniz üçgenin açılarını, pergelle aşağıda gösterildiği gibi yay şeklinde çiziniz. Pergelin iki ucunu 
+açarak sabit bir aralık belirleyiniz. Üç açıyı da bu aralığı değiştirmeden çiziniz. 
+Bu etkinlikte üçgenin iç açılarının ölçüleri toplamına yönelik bir doğrulama çalışması yer almaktadır. 
+Adımları sırasıyla uygulayınız.
+Üçgenin açı parçalarını farklı renklere boyayınız ve boyadığınız kısımları makas ile kesiniz. (Bu işlem 
+sonucunda elinizde üç farklı renkte açı parçası olacaktır.)
+A4 kâğıdı üzerine bir doğru çiziniz ve kesip hazırladığınız açı parçalarını bu doğruya temas edecek 
+şekilde yan yana yapıştırınız.
+Yapıştırdığınız açı parçalarının oluşturduğu şekli inceleyiniz. Bu açı parçalarının birleşiminin hangi 
+şekli oluşturduğuna karar veriniz. Şekil doğrultusunda açı parçalarının toplam ölçüsünün kaç derece 
+olduğunu not ediniz. 
+Etkinlik Aşaması
+c c cb b b
+a a a

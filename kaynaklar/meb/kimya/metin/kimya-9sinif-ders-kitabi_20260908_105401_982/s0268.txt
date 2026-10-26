@@ -1,0 +1,183 @@
+268
+Ekler
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+ Kimyasal madde 
+seçimi ve kimya-
+salların nitelikleri-
+ni gözlemleyeceği 
+ortam oluşturma
+ (20 puan)
+Evde kullanı-
+lan bir kimyasal 
+madde seçmiştir 
+fakat kimyasalın 
+niteliklerini göz-
+lemleyeceği ortam 
+oluşturmamıştır.
+(1-5 puan)
+Evde kullanılan bir 
+kimyasal madde 
+seçmiştir ve kim-
+yasalın niteliklerini 
+gözlemleyeceği 
+bir ortam oluştur-
+muştur.
+(6-10 puan)
+Evde kullanılan iki 
+kimyasal madde 
+seçmiştir ve kim-
+yasalların nitelik-
+lerini gözlemleye-
+ceği farklı ortamlar 
+oluşturmuştur.
+(11-15 puan)
+Evde kullanılan iki-
+den fazla kimyasal 
+madde seçmiştir 
+ve kimyasalların 
+niteliklerini göz-
+lemleyeceği farklı   
+ortamlar oluştur-
+muştur.
+(16-20 puan)
+Kimyasal madde-
+lerin niteliklerini
+tanımlama ve 
+farklılıklarını  
+ortaya çıkarma
+(20 puan)
+Evde kullanılan 
+kimyasallara 
+ilişkin nitelikleri 
+tanımlamamış ve 
+niteliklerin farkını 
+belirlememiştir.
+(1-5 puan)
+Evde kullanılan 
+kimyasalların 
+niteliklerini kısmen 
+tanımlamış ve 
+niteliklerin farkını 
+kısmen belirle-
+miştir.
+(6-10 puan)
+Evde kullanılan 
+kimyasalların nite-
+liklerini tanımlamış 
+ve niteliklerin 
+farkını kısmen 
+belirlemiştir.
+(11-15 puan)
+Evde kullanılan 
+kimyasallara ilişkin 
+nitelikleri tanımla-
+mış ve niteliklerin 
+farkını doğru 
+belirlemiştir.
+(16-20 puan)
+Kimyasal madde-
+lerin niteliklerin-
+deki farklılıkları 
+kimya bilimiyle 
+ilişkilen dirmek 
+üzere veri topla-
+ma ve kaydetme
+(20 puan)
+Kimyasal madde-
+lerin niteliklerindeki 
+farklılıkları kimya 
+bilimiyle ilişkilen-
+dirmek üzere veri 
+toplayamamıştır. 
+(1-5 puan)
+Kimyasal madde-
+lerin niteliklerin-
+deki farklılıkları 
+kimya bilimiyle iliş-
+kilendirmek üzere 
+topladığı verileri 
+kaydederken hata 
+yapmıştır.
+(6-10 puan)
+Kimyasal madde-
+lerin niteliklerin-
+deki farklılıkları 
+kimya bilimiyle iliş-
+kilendirmek üzere 
+tek gözlem verisi 
+kaydetmiştir. 
+(11-15 puan)
+Kimyasal madde-
+lerin niteliklerin-
+deki farklılıkları 
+kimya bilimiyle iliş-
+kilendirmek üzere 
+birden fazla veriyi 
+doğru kaydetmiştir. 
+(16-20 puan)
+Kimyasal madde-
+lerin niteliklerinin 
+toplum ve çevre 
+sağlığına etki-
+lerini belirleme 
+ve haber yazısı 
+oluşturma
+(20 puan)
+Kimyasal madde-
+lerin niteliklerinin 
+toplum ve çevre 
+sağlığına etkilerini 
+belirleyememiştir.
+(1-5 puan)
+Kimyasal madde-
+lerin niteliklerinin 
+toplum ve çevre 
+sağlığına etkileri-
+nin çoğunu yanlış 
+belirleyerek haber 
+yazısı oluşturmuş-
+tur.
+(6-10 puan)
+Kimyasal madde-
+lerin niteliklerinin 
+toplum ve çevre 
+sağlığına etkilerini 
+kısmen belirleye-
+rek haber yazısı 
+oluşturmuştur.
+(11-15 puan)
+Kimyasal madde-
+lerin niteliklerinin 
+toplum ve çevre 
+sağlığına etkileri-
+nin hepsini doğru 
+belirleyerek haber 
+yazısı oluşturmuş-
+tur.
+(16-20 puan)
+Kaynakça  
+Belirtme 
+(20 puan)
+Kaynakça  
+belirtilmemiştir. 
+(1-5 puan)
+Belirtilen kaynakça 
+hatalar  
+içermektedir. 
+(6-10 puan)
+Belirtilen kaynak-
+çada eksiklikler 
+vardır. 
+(11-15 puan)
+Yer alan tüm 
+bilgilerin kaynak-
+çası tam ve doğru 
+olarak verilmiştir. 
+(16-20 puan)
+Tablo Puanı  
+PERFORMANS GÖREVİ ÇALIŞMASI ANALİTİK DERECELİ PUANLAMA ANAHTARI
+1. FORM
+Bu form, öğrencilere “Günlük Yaşamda Kimya” konusunda verilen performans görevini değerlendirmeniz 
+amacıyla hazırlanmıştır. Öğrencinin belirtilen ölçütlere ilişkin öğrenme düzeyini tablodaki açıklamalar -
+dan hareketle puanlayınız.
+Öğrencinin Adı Soyadı:        Numarası:   Sınıfı:

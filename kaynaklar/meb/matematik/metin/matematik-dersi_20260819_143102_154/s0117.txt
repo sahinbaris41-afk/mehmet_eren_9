@@ -1,0 +1,76 @@
+117
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin doğal sayılarla aritmetik işlemler yapabildikleri, mantık bağlaçları ve nice -
+leyicilerin sözel temsillerdeki anlamını yorumlayabildikleri, cebirsel ifadeler ve özdeşlik -
+lerle ilgili işlemleri yapabildikleri, sayma gerektiren problem durumlarında toplama ya da 
+çarpma yaparak çözüm geliştirebildikleri, problem durumlarına uygun algoritma (doğal 
+dil, akış şeması ya da sözde kod) oluşturabildikleri veya verilen algoritmayı çözümleye -
+bildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin sayma gerektiren basit durumlarda (ardışık doğal sayılarla ilgili problemlerde 
+sayma istendiğinde, olasılıkta çıktı sayılarının hesaplanması gibi durumlarda) yaptıkları iş -
+lemlere dair bilgi ve becerilerinin belirlenebilmesi için soru cevap tekniği uygulanabilir. Cebir-
+sel ifadeler ve özdeşliklerle işlem yapma becerilerini değerlendiren kısa cevaplı sorular soru-
+labilir. Algoritma temelli örnek problem durumları verilerek öğrencilerin probleme uygun bir 
+şekilde algoritma oluşturmaları istenebilir. Ayrıca bu problemlerde geçen mantık bağlaçları 
+ve niceleyiciler ile bunlar arasındaki ilişkileri belirlemeye yönelik sorular sorulabilir. Doğrusal 
+ve ikinci dereceden fonksiyonların nitel özellikleri ve cebirsel gösterimlerin anlamlarıyla ilgili 
+olarak öğrencilerin becerilerini, kavram yanılgılarını ve öğrenme eksikliklerini tespit etmek 
+için açık uçlu sorulardan oluşan hazır bulunuşluk testi yapılabilir.
+Köprü Kurma Öğrencilerin eski çağlarda insanların sayılar olmadan sayma gerektiren durumlarda nasıl 
+çözümler geliştirmiş olabileceğine (nesne topluluklarında oluşan azalma veya artma durum-
+larını belirleme, nesne topluluklarını karşılaştırma gibi) yönelik görüşleri alınabilir. Bu süreç, 
+öğrencilerin merak duygusunu harekete geçirir. Aynı örnek durum için toplama ve çarpma 
+yoluyla sayma yollarından hangisinin tercih edilmesinin uygun olabileceğine yönelik sorulara 
+yer verilebilir. Gerçek yaşam durumlarında karşılaşılan sayma örnekleri üzerinden bunların 
+hangilerinin sıralama, hangilerinin seçme sayısıyla ilişkili olduğu incelenebilir.
+da işlemleri kısaltacak bir gösterim olarak faktöriyel gösterimi kullanılır. Doğal sayılarda 
+tanımlı olan faktöriyel gösterimi, sadece sayma bağlamında ele alınır (MAB3). Bilgisa -
+yar bilimi ile ilişkili olarak ikili sistem ve bit/byte (bit/bayt) hesapları, sıralama gerektiren 
+problemler bağlamında ele alınır. r ≤ n (r ∈ ℕ , n ∈ ℤ +) olmak üzere n nesneden r ta -
+nesinin sıralama sayısı, çarparak sayma stratejisinin kullanıldığı  bir uygulama olarak ve 
+formel tanımlamaya girilmeden ele alınır.
+İçinde özdeş nesnelerin de olduğu topluluğun sıralama sayısını içeren problemlerde yeni 
+bir çözüm stratejisi geliştirmek için çarparak sayma stratejisi kullanılır. Bu tür problemler-
+de faktöriyel gösterimi kullanılır. Buradan elde edilecek yeni strateji, farklı örnekler üzerin-
+de incelenir. Bu incelemeler, çözüm stratejisi aynı olan farklı sorular (3 özdeş sarı, 2 özdeş 
+beyaz topun sıralama sayısının 10 olabileceği ile birim karelerden oluşan yeterince büyük 
+bir dikdörtgende bir birim karenin köşesinden yola çıkılıp 3 birim sağa, 2 birim yukarı gidi -
+lerek belirli bir köşe noktasına 10 farklı şekilde gidilebileceği gibi) içermelidir. İçinde özdeş 
+nesnelerin de olduğu topluluğun sıralanmasına ilişkin kullanılan strateji hakkında çıkarım 
+yapılır. Bu çıkarım, sözel ve cebirsel ifadelerle önerme olarak sunulur. 
+Farklı nesnelerden oluşan bir nesne topluluğundan nesne seçim sayılarını bulmayı gerekti-
+ren problemler incelenir. Bu problemlerin çözümünde daha önceki stratejilerin (içinde öz-
+deş nesnelerin de olduğu topluluğun sıralanması) kullanılabilmesi hedeflenir. Problemlerin 
+çözüm stratejilerindeki benzerlikler üzerinde durulur ve buradan yola çıkılarak seçim sayısı 
+bulmayı gerektiren problem durumları için çıkarımda bulunma süreci işletilir. Bu sayede 
+ulaşılan sonuçlar, sözel ve cebirsel olarak ifade edilir. n tane farklı nesne içerisinden r tane 
+farklı nesnenin seçim sayısı şeklinde sözel temsille ifade edilir veya (  ) nr gösterimine yer ve-
+rilir (MAB3). Öğrencilerin ulaştığı çıkarımları işe yararlık, verimlilik ve kapsayıcılık açısından 
+değerlendirmesini sağlayacak farklı problem dur umlarına yer verilir. Örneğin öğrenciler 
+tarafından n tane eleman arasından 0, 1, 2, …, n tane elemanın kaç farklı şekilde seçilebi -
+leceği ayrı ayrı hesaplanır; elde edilen sonuçlar listelenir ve üçgen şekilde yerleştirilir. Bu 
+modellemenin genellikle “Pascal üçgeni” olarak adlandırıldığı ancak Pascal’dan önce başka 
+matematikçiler tarafından da kullanıldığı, bu konuya ilişkin araştırma ödevi verilerek sınıf 
+ortamında tartışılır. Bu araştırmalar dijital ortamda yapıldığında öğrencilerin karşılaştır -
+malar yaparak bir çıkarımda bulunabilme becerisinin gelişimi de desteklenir (MAB5, OB2). 
+Araştırmanın sonuçları sınıfta tartışılırken Ömer Hayyam ’ın çalışmalarından da bahsedilir. 
+Türk-İslam kültüründe yetişen matematikçilere ve bu matematikçilerin çalışmalarına iliş -
+kin yapılacak araştırmalarla öğrencilerin kültürel mirasa yönelik duyarlı olmaları sağlanır. 
+Bir sayma stratejisi olarak güvercin yuvası ilkesinin kullanılabileceği sayma problemlerine 
+yer verilir. Öğrencilere sayma stratejileri kullanmayı gerektiren farklı problemler içeren ça-
+lışma kâğıtları verilebilir.
+MAT.10.5.2
+Öğrencilerin mantık bağlaçlarını (ve, veya, ya da, ise, ancak ve ancak) ve niceleyicileri (her, 
+bazı) kullanarak bunların problem durumlarına ait algoritmalardaki anlamlarına ve işlevle -
+rine odaklanması sağlanır. Özellikle birden çok farklı durum veya döngü içeren algoritmik 
+yapılarda “ise” bağlacının önemine vurgu yapılır. Cebirsel işlemler ve fonksiyonel işlemle -
+re (katsayıları verilen fonksiyonun değerini hesaplama, referans fonksiyon üzerinden yeni 
+fonksiyon türetme gibi) ilişkin algoritmaların nasıl oluşturulabileceği ve nelere dikkat edil -
+mesi gerektiği konusunda eski bilgilerden yararlanılarak sınıf içi tartışmalar yapılır. Burada 
+özellikle mantık bağlaçları ve niceleyicilerin anlamı ve önemi üzerinde durulur. Yapılacak 
+tartışmaların öğrencilerin konu kapsamına yönelik hedef belirlemesine katkı sağlaması 
+beklenir (SDB1.2). Ayrıca bu süreç, öğrencilerin bilgiyi çözümleyebilmesini destekler (OB1). 
+Cebirsel ve fonksiyonel işlemlere ilişkin algoritma oluşturma çalışmalarında bir fonksiyo -
+nun sıfırlarını bulmada kullanılan  algoritmik yöntemi (ortalama alarak yineleme yöntemi) 

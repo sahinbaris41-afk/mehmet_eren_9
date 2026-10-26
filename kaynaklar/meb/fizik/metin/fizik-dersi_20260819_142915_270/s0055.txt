@@ -1,0 +1,53 @@
+55
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+dalgaları birbirinden ayıran özellikler hakkındaki gerekçelerini (E1.6) belirterek gruplan-
+dırır. Öğrenciler, grup arkadaşları ile tartışarak (SDB2.2) dalgaları titreşim doğrultusu ve 
+taşıdığı enerjiye göre ayrıştırır ve gruplandırır. Gruplandırma yapıldıktan sonra öğretmen 
+dalgaları açıklayarak adlandırır. Öğrenciler; grup içi iletişimle (SDB2.1) zihin haritası, kav-
+ram haritası, sınıflandırma tablosu veya anlam çözümleme tablosu (E3.7) gibi araçlardan 
+birini seçer. Seçtikleri aracı dalgaları sınıflandırma hedefine uygun şekilde planlayarak 
+(SDB1.2) oluşturur (D3.4). Eşleştirme tablosu, boşluk doldurma ve açık uçlu sorulardan 
+oluşan bir test kullanılarak verilen çeşitli dalga örneklerini öğrencilerin sınıflandırmaları 
+istenir. Öğrenciler, performans görevi olarak hazırlayacağı kavram haritasının ikinci bölü-
+münde yer alacak kavramları kaydedebilir. 
+FİZ.10.4.4
+Öğretmen, dalgaların yayılma süratini etkileyen etmenlere ilişkin gözlem yaptırmak için 5E 
+öğrenme modeli, argümantasyon, örnek olay, gezi-gözlem veya beyin fırtınası gibi öğre-
+tim yöntem ve tekniklerden birini kullanabilir. Öğrencilerin ön bilgileri ile dalgaların yayılma 
+sürati arasında ilişki kurmalarını sağlayacak (SDB1.1) video ve simülasyon gibi materyaller 
+veya dijital öyküleme (OB4) kullanarak dikkatlerini çeker. Öğrenciler su ve ses dalgaların-
+da yayılma süratini etkileyen etmenleri sınıf arkadaşlarının bakış açılarını da dikkate ala-
+rak (SDB2.1) tahmin eder. Öğrenciler, öğretmen rehberliğinde gruplara ayrılarak su ve ses 
+dalgalarının yayılma süratini test edebileceği ortamları planlar (SDB1.2) ve bu planları kap-
+samında tartışırlar (D3.3, E1.5). Su ve ses gibi mekanik dalgaların yayılması için madde-
+sel ortamın gerekliliği vurgulanarak sesin boşlukta yayılmadığına değinilir. Sesin yayılma 
+sürati ile ortamın katı, sıvı ve gaz hâli arasında ilişki kurulur. Öğretmen,  sesin oluşumunu 
+titreşim ve ortam ilişkisi üzerinden ele alan Farabi'nin açıklamalarından bahsedebilir. Su 
+dalgalarının hareketi farklı derinlikte ortamlar oluşturularak gözlemlenir. Öğrenciler, su ve 
+ses dalgalarının farklı ortamlardaki yayılma süratlerini karşılaştırırlar (KB2.7). Öğrenciler, 
+yaptıkları gözlemler ile dalgaların yayılma süratini etkileyen etmenlere ilişkin bir sonuca 
+ulaşır (E3.4). Grup üyeleri kendi aralarında tartışarak (SDB2.2) elektromanyetik dalgaların 
+farklı ortamlarındaki yayılma sürati ile ilgili tahminlerde bulunurlar ve diğer gruplar ile tah-
+minlerini paylaşırlar. Öğrenciler, tahminlerinin geçerliliğini sınıf ortamında arkadaşlarıyla 
+tartışarak (SDB2.2) sorgular. Öğretmen, öğrencilerden dalga süratinin ortama bağlılığı ile 
+ilgili slogan oluşturmalarını isteyebilir. Öğrencilerin performans görevi olarak hazırlayaca-
+ğı kavram haritasının üçüncü bölümünde yer alacak kavramları kaydetmesi sağlanabilir. 
+Öğrenciler bu ünite kapsamında ele alınan ilk üç öğrenme çıktısında kaydettiği kavramları 
+kullanarak kavram haritası oluşturup sunabilir.
+FİZ.10.4.5
+Öğretmen su dalgalarında yansıma ve kırılma olaylarını fark ettirmek için argümantasyon 
+ve tahmin et-gözle-açıkla gibi öğretim yöntemlerinden birini kullanabilir. Öğrencilerin su 
+dalgalarının farklı derinlikteki ortamlarda yansıma ve kırılma olayları sırasında yayılma 
+doğrultusu, yönü ve süratinin değişimine ilişkin tahminler yapması sağlanabilir. Öğrenci-
+lerden tahminleri ile ses ve yay dalgalarının yayılma süratinin ortama bağlılığı ön bilgisi 
+ve günlük hayattaki deneyimleri arasında ilişki kurması istenir (KB2.12, SDB1.1). Deney, 
+simülasyon veya video gibi öğretim materyallerinden biri ile dalgaların hareketlerini göz-
+lemler (OB4). Öğretmen doğrusal su dalgalarını kullanarak yansıma ve kırılma olaylarını 
+açıklar. Öğrencilere ses dalgalarının bir engelden yansımasına özel bir isim verildiğinden 
+bahsederek yankı olayını günlük hayattan örnekler kullanarak açıklar. Mimar Sinan'ın bazı 
+eserlerinde akustiğe verdiği önem hakkında bilgi verilebilir. Yankı ile ilgili matematiksel iş-
+lemlere girilmez. Doğrusal su dalgalarının oluşumunu simülasyon ve görsel gibi materyal-
+ler kullanarak gösterebilir. Doğrusal dalgaların düz engelden yansıma ve farklı derinliklere 
+geçişi sırasındaki kırılma olaylarında gelme açısı, yansıma açısı, kırılma açısı kavramlarına 
+bağlı olarak yansıma ve kırılma yasalarını açıklar. Öğrencilerin, doğrusal su dalgalarının 
+doğrusal engelden yansımasını ve farklı derinlikteki ortamlarda kırılmasını çizim yaparak

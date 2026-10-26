@@ -1,0 +1,36 @@
+256
+4. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+2. Bir fizik öğretmeni, maddelerin hâl değiştirme sıcaklıklarını etkileyen faktörlerle ilgili aşağıdaki deney 
+düzeneklerini kuruyor ve öğrencilerinden deneylerin sonuçlarıyla ilgili olarak verilen soruları cevap -
+lamalarını istiyor.
+1. Düzenek
+Özdeş A, B ve C kaplarından A kabına 0 oC sıcaklığında 150 g buz; B kabına 0 oC sıcaklığında 300 g 
+buz ve C kabına erime sıcaklığı olan 30 oC’ta 150 g tereyağı konup kaplar özdeş ısıtıcılarla aynı 
+ortamda ısıtılıyor. Daha sonra kaplardaki maddelerin tamamının erimesi için geçen süreler tabloya 
+kaydediliyor.
+Maddeler Tamamının Erimesi İçin Geçen Süre (dk.)
+A kabındaki buz 4
+B kabındaki buz 8
+C kabındaki tereyağı 3
+Buna göre
+a) Öğretmen, bu düzeneği kurarak hâl değişimini etkileyen etmenlerden hangilerini tespit 
+etmeyi amaçlamış olabilir? Gerekçesiyle açıklayınız.
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+b) Aynı düzenekte 0 oC sıcaklıktaki 500 g buzu ve 30 oC sıcaklıktaki 800 g tereyağının tamamını 
+eritmek kaç dakika sürer?
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      
+2. Düzenek
+Maddelerin üzerine etkiyen basıncın değişmesi, o maddenin hâl değişim sıcaklığını değiştirir. Fizik 
+öğretmeni, öğrencilerine deniz kenarında ve rakımı 5.137 m olan Ağrı Dağı’nın zirvesinde buz, alü-
+minyum ve cıvanın erime ve kaynama sıcaklık değerlerini içeren aşağıdaki tabloyu veriyor. 
+Maddeler Deniz Kenarındaki Sıcaklık (oC) Ağrı Dağı’nın Zirvesindeki Sıcaklık (oC)
+Buzun erime sıcaklığı 0 2
+Suyun kaynama sıcaklığı 100 97
+Alüminyumun erime sıcaklığı 660 658
+Alüminyumun kaynama sıcaklığı 2.467 2.462
+Cıvanın erime sıcaklığı –39 –38
+Cıvanın kaynama sıcaklığı 357 355
+Not: Tabloda yaklaşık değerler verilmiştir.
+c) Tablodaki değerleri dikkate alarak basınç ile hâl değişim sıcaklığı arasındaki ilişkiyi 
+açıklayınız.
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      

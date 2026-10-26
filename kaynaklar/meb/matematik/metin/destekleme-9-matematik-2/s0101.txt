@@ -1,0 +1,33 @@
+100
+MATEMATİK 9 
+6. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ
+1. Adım
+Etkinlik Aşaması
+Bu etkinlikte ekmek tüketimi, obezite ve şeker hastalığı (diyabet) oranları arasındaki ilişkinin incelen-
+diği bir çalışma yer almaktadır.
+"Tablo 1: Ekmek Tüketim Miktarı" tablosundaki kişi başına ekmek tüketimini ve  "Tablo 3: Obezite Oran-
+ları" verilerini değerlendiriniz. "Tablo 4: Şeker Hastalığı" oranlarında ise risk faktörlerini dikkate alarak 
+öneriler geliştiriniz. Sonuçlarınızı diğer gruplarla paylaşınız ve arkadaşlarınızın sonuçlarına yönelik de-
+ğerlendirme yapınız.
+Bazı şehirlerin kişi başına günlük ekmek tüketimine yönelik Türkiye İstatistik Kurumunun (TÜİK) 2024 
+yılı verileri Tablo 1'de verilmiştir.
+a.  Kişi başına ekmek tüketiminin yüksek olduğu iller hangi ortak özelliklere sahip olabilir?
+b.  Trabzon’un kişi başına ekmek tüketim miktarı diğer illerle karşılaştırıldığında neden daha düşük olabilir?
+c.  Kişi başına düşen ekmek tüketimi ile Tablo 2’de gördüğünüz illerin nüfusu arasında bir ilişki var mı-
+dır? Fark ettiğiniz bir ilişki varsa bunu en iyi hangi il göstermektedir?
+Çözüm:
+Çözüm:
+Il Kişi Başına Günlük Tüketim (gram)
+İstanbul 250
+Ankara 230
+İzmir 200
+Gaziantep 240
+Trabzon 150
+Tablo 1: Ekmek Tüketim Miktarı
+Il Nüfus
+İstanbul 15.655.924
+Ankara 5.803.482
+İzmir 4.479.525
+Gaziantep 2.164.134
+Trabzon 824.352
+Tablo 2:İllerin nüfusu, TÜİK 2023

@@ -1,0 +1,53 @@
+73
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+tepkime oluşum sürecine ilişkin nitelikler belirlemeleri istenebilir. Öğrenciler, gözlemlerin-
+den hareketle elde ettiği kanıtlarla tersinir tepkimelere ilişkin yansıtma notu yazmaları için 
+yönlendirilebilir (SDB1.2).
+KİM.11.2.2
+Öğrenciler, tersinir bir tepkime için farklı zaman aralıklarında alt mikro seviyede gerçek -
+leşen değişimlere ilişkin önermeler oluşturur. Oluşturulan önermelerin sınıf ortamında 
+etkili iletişim kurmaya dikkat edilerek paylaşılması sağlanır ve dostluk değeri pekiştirilir 
+(SDB2.1, D4.2) . Öğrencilerden gözleme dayalı olan ve olmayan önermelerini karşılaştır -
+maları istenir. Öğrencilerin animasyon, simülasyon, deney gibi gözlem ortamlarından 
+edindikleri verilerle denge sürecine ilişkin tahminlerini temellendirerek sonuç çıkarmaları 
+sağlanır (OB2). Bu çalışma ile çalışkanlık değeri desteklenir (D3.3). Öğrenciler, tepkimenin 
+denge sürecindeki ileri ve geri tepkime hızlarına ilişkin tahminlerde bulunur; her iki yön -
+deki tepkime hızlarını dikkate alarak denge durumunu açıklar (KB2.13). Öğrencilerin tep-
+kimenin denge sürecindeki ileri ve geri tepkime hızları ile ilgili tahminlerinin geçerliliğini 
+hız-zaman grafiklerini kullanarak sorgulamaları sağlanır (OB2).  Bu çalışma ile çalışkanlık 
+değeri desteklenir (D3.3). Öğrencilere gözlemlerinden elde ettikleri verilerle ileri ve geri 
+tepkime hızları üzerinden dengeyi açıkladıkları bir metin yazdırılabilir. Ayrıca ileri ve geri 
+tepkime hızlarının denge sürecindeki değişimini hız-zaman grafiği çizerek açıkladıkları bir 
+yansıtma notu yazdırılabilir. Etkinlik kâğıtları “önerme oluşturabilme, gözleme dayalı olan 
+ve olmayan önermeleri belirleyebilme ve açıklama yapabilme” ölçütlerini içeren dereceli 
+puanlama anahtarı ile öğretmen tarafından değerlendirilebilir. Ayrıca öğrencilerden öner-
+me oluşturma aşamasından deney sonuçlarının yorumlanmasına kadar tüm deney süre -
+cine yönelik değerlendirme yapmaları istenebilir (SDB1.2).
+KİM.11.2.3
+Öğrencilere farklı denge tepkimelerinin sembolik gösterimi, ileri ve geri tepkimelerin hız 
+sabiti değerleri, denge sabiti değerleri, denge derişimleri ve derişim-zaman grafikleri ve -
+rilir. Öğrencilerin denge sabiti ifadesine ilişkin örüntü keşfetmeleri ve örüntüyü matema -
+tiksel modelle ifade etmeleri sağlanır (OB7). Öğrencilere farklı homojen ve heterojen den-
+ge tepkimelerinin bileşenlerine ilişkin denge derişimleri ve denge sabiti değerleri verilir. 
+Öğrenciler, oluşturdukları matematiksel modeli geneller ve modelin doğruluğunu bilimsel 
+genellemelerle karşılaştırır (E3.10, SDB2.1). Böylelikle öğrenciler araştırmacı olmaya teş-
+vik edilerek çalışkanlık değeri desteklenir (D3.3). Öğrencilerden çalışma yaprağında verilen 
+dengedeki bileşenlerin derişimlerini kullanarak denge sabitini hesaplamaları ya da denge 
+sabitini kullanarak dengedeki bileşenlerden birinin derişimini hesaplamaları istenebilir.
+KİM.11.2.4 
+Tersinir bir tepkime bileşenlerinin herhangi bir andaki derişimleri verilerek öğrencilerden 
+tepkimenin dengeye ulaşıp ulaşmadığına ve dengeye ulaşmamışsa gerçekleşme yönüne 
+ilişkin önermeler oluşturmaları istenir (OB7). Oluşturulan farklı önermelerin saygılı bir tar-
+tışma ortamı içinde paylaşılması sağlanır (SDB2.1, D14.1). Öğrenciler, inceledikleri tersinir 
+tepkimenin dengeye ulaşıp ulaşmadığına ve dengeye ulaşmamışsa gerçekleşme yönüne 
+ilişkin veriye ve ön bilgilerine dayalı önermeleri karşılaştırmaları için yönlendirilir (OB7). 
+Tepkime oranı (Q) kavramı tanımlanır ve öğrencilerden verilen tepkimenin Q değerini he -
+saplamaları istenir. Öğrenciler, dengeye ulaşmak için herhangi bir tepkimenin hangi yöne 
+ilerleyeceğini Q ve K değerlerini karşılaştırarak tahmin eder. Öğrencilerden aynı tepkime -
+nin farklı derişim örneklerini ve bu derişim durumlarına ait tepkime yönü verilen denge 
+tepkimelerini kullanarak tahminlerinin geçerliliğini sorgulamaları istenir (OB7). Öğrenciler-
+den çalışma yaprağında verilen çeşitli tepkime bileşenlerinin derişimlerini kullanarak tep-
+kimelerin denge durumunu, dengede değil ise tepkimenin yönünü belirlemeleri istenebilir.
+KİM.11.2.5 
+Öğrencilere “Yaz günlerinde sığ deniz ve göllerde balıkların kafalarını suyun dışına çıkar -
+malarının veya hava sıcaklığı çok yükseldiğinde toplu balık ölümleri gözlemlenmesinin 

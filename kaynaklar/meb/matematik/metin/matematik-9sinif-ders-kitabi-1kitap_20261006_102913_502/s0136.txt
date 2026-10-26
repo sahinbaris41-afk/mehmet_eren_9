@@ -1,0 +1,34 @@
+136
+2. Tema /  Nicelikler ve Değişimler
+DOĞRUSAL FONKSİYONLARLA 
+İFADE EDİLEBİLEN DENKLEM VE 
+EŞİTSİZLİKLER İÇEREN PROBLEMLER
+2.3.
+Konuya Başlarken
+Yanda verilen silindir şeklindeki 
+deponun içinde 120 litre su bulunmak-
+tadır. Deponun tabanında bir çatlak 
+oluşmuştur. Oluşan çatlaktan birim 
+zamanda sızan su miktarı sabittir. 
+Zamana (dk.) bağlı olarak depoda 
+kalan su miktarını (litre) gösteren 
+fonksiyon f olmak üzere uygun aralıkta 
+tanımlı f fonksiyonunun cebirsel temsili 
+f(t) = 120 – 0,8t şeklindedir.
+Buna göre aşağıdaki sorularla ilgili fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+1. Belirli bir sürenin sonunda depoda kalan su miktarının kaç litre olduğu nasıl  
+     bulunabilir?
+2. Depodaki suyun tamamının kaç dakika sonra tükeneceği nasıl bulunabilir? 
+3.  Depoda kalan su miktarının kaçıncı dakikalar arasında 40 litre ile 80 litre arasında 
+    olduğunu hesaplamak için nasıl bir yol izlenebilir?
+Doğrusal ilişki içeren problemlerin çözümünde doğrusal fonksiyonlar yardımıyla elde edilen denklem 
+ve eşitsizlikler kullanılır.
+10.	Uygulama
+Teknoloji Uygulaması
+,ab R6 !  olmak üzere matematik yazılımını açarak aşağıdaki adımları sırasıyla uygulayınız.
+1.  Giriş bölümüne f(x) = ax + b yazıp Enter tuşuna basınız. Ekranda f fonksiyonunun grafiği ile a ve b sürgüleri 
+oluşacaktır.
+2.  Giriş bölümüne g(x) = 0 yazıp Enter tuşuna basınız. Ekranda g fonksiyonunun grafiği oluşacaktır. g doğrusu-
+nun x ekseni üzerinde olduğuna dikkat ediniz.
+3.  Kesiştir aracını seçip sırasıyla f ve g doğrularını işaretleyiniz. Ekranda f ve g doğrularının kesim noktası olu -
+şacaktır.

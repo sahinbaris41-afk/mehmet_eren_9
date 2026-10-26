@@ -1,0 +1,54 @@
+12
+1.	 Aşağıdaki	işlemleri	yapınız.
+	 a) 0,19 + 2,01
+	 b) ,,, 2102 19 00 09-
+	 c) ,, ,02 01 00 04$|-__ ii
+2.  Aşağıda tabanı rasyonel sayı, kuvveti tam sayı 
+olan bir sayının kuvvetinin nasıl alındığına yö -
+nelik örnekler verilmiştir.
+ 21 21 21 21 21 1614 $$$-= ---- =d ddddn nnnn
+ 52 52 52 125852 3 $$==dn
+ Verilen	örneklerden	yararlanarak	
+1
+34
+32 4
+$-d dn n  işleminin	sonucunu	bulunuz.
+3.  Aşağıda	verilen 	köklü 	gösterimleri 	kök 	dışına	
+çıkartarak	 ulaştığınız 	 sonuçların 	 rasyonel 	
+sayı	olup	olmadıklarını	belirleyiniz.
+	 a) 49
+	 b)  ,16 9
+	 c)  8164-
+4.  14,076	sayısının 	basamak 	değerlerini 	belir-
+leyiniz.
+5.  Aşağıda	 verilen 	 aralıkları 	 sayı 	 doğrusu	
+üzerinde	gösteriniz.
+6.  Aşağıda	verilen 	gerçek 	sayıların 	sayı 	doğrusu	
+üzerindeki	yaklaşık	yerini	gösteriniz.
+	 a) 8    b) 11- 	 	 c) 29
+ 
+-4 -3 -2 -1 0 1 2 3 4 5 6
+7.  Aşağıda dikdörtgen şeklinde bir bahçe ve içine 
+yapılan kare şeklinde bir havuz modellenmiştir. 
+Bahçe ve havuzun kenar uzunlukları model üze-
+rinde verilmiştir. 
+2a+b
+2a-b
+3y
+3y
+	 Buna 	göre 	bahçe 	ve 	havuzun 	çevre 	uzunluk-
+larına	karşılık 	gelen 	cebirsel 	ifadeleri 	yazınız.
+ Bahçenin çevre uzunluğu: ..............................
+ Havuzun çevre uzunluğu: ..............................
+Ön Değerlendirme
+Sayı	
+Doğrusu	Gösterimi
+Aralık	
+Gösterimi
+Cebirsel	
+Temsil
+,-33_ i
+71x12
+,14- i8
+-2 8
+-5 0

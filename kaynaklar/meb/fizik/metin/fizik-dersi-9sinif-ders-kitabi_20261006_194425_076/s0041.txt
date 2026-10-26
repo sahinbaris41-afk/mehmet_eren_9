@@ -1,0 +1,46 @@
+41
+FİZİK BİLİMİ VE KARİYER KEŞFİ
+CERN (Görsel  1.14), dünyanın en büyük parçacık fiziği laboratuvarıdır. 
+1954 yılında kurulan CERN, atom altı parçacıkları incelemek için büyük par -
+çacık hızlandırıcıları kullanır. En ünlü cihazı, protonları ışık süratine yakın 
+süratlerde çarpıştıran Büyük Hadron Çarpıştırıcısı’dır (LHC).
+NASA (Görsel 1.15); ABD’de yer alan, uzay çalışmaları ve programlarını yürü-
+ten bilimsel araştırma merkezidir. ESA (Görsel 1.16) ise uzayın keşfini amaç-
+layan, hükûmetler arası bir organizasyon olarak Fransa’nın başkenti Paris’te 
+kurulmuştur. Bu kurumlarda fizikçiler ve astrofizikçiler; gezegen, yıldız, galaksi 
+ve kara delikler üzerine araştırmalar yapmaktadır.
+Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda farklı 
+disiplinler iş birliği içinde çalışır. Fizik, kimya, biyoloji gibi disiplinler ve farklı 
+mühendislik alanları çalışmanın amacı doğrultusunda birbirine katkı sağlar. 
+Bu tür çalışmalara katılan bilim insanları, alanında uzmanlaşmış kişilerdir. 
+Kendi alanlarında aldıkları eğitimlerin üzerine farklı disiplinlerde de eğitim 
+alarak uzmanlık alanlarını genişletebilirler. Fizik alanında kariyer planlaması 
+yapılırken bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlara 
+düzenlenen ziyaretler, bu kurumlarda çalışanlarla yapılan söyleşiler ve kariyer 
+planlama merkezlerinden edinilen bilgiler büyük öneme sahiptir. 
+Görsel 1.14: CERN logosu
+Görsel 1.15: NASA logosu 
+Görsel 1.16: ESA logosu 
+Örnek
+Aşağıdaki tabloda bir üniversitenin makine mühendisliği bölümünden bazı dersler ve bu derslere ait 
+açıklamalar verilmiştir.
+Mühendisliğe giriş Mühendisliğin tanımı, çalışma alanları, sorumlulukları ve mühendislikle ilgili genel 
+kavramlar incelenir.
+Lineer cebir Denklemler ve çözüm metotları incelenir.
+Mukavemet Kuvvet etkisi altındaki cisimlerin dayanıklılığı ile durgun ve hareketli hâlleri incelenir.
+Teknik çizim Temel teknik çizim konuları anlatılır. Resim çizebilme ve okuyabilme gibi özellikler 
+geliştirilir.
+Dinamik Kuvvet ve kuvvetin cisimler üzerindeki etkilerine yönelik konular işlenir.
+Isı transferi Isı ve ısı iletimi incelenir.
+Nanoteknolojilere 
+giriş
+Nanoteknolojilerin üretim yöntemleri, nanoteknoloji görüntüleme teknikleri ve 
+uygulamaları incelenir.
+Bu tabloda yer alan bilgilere göre başarılı olmak isteyen bir makine mühendisinin fizik biliminin 
+özellikle hangi alt dallarıyla ilgili bilgi sahibi olması gerekir?
+Çözüm 
+Dersler İlişkili Olduğu Alt Dal
+Mukavemet Mekanik 
+Dinamik Mekanik 
+Isı transferi Termodinamik 
+Nanoteknolojilere giriş Katı hâl fiziği

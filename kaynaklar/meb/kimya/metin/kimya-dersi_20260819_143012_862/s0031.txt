@@ -1,0 +1,46 @@
+31
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+belirlemesi istenebilir (SDB1.1). Ayrıca öğrencilerden öz değerlendirme formu aracılığıyla 
+başlangıçta hedeflediği noktaya ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve 
+bu süreçte neleri daha farklı yapabileceğini belirlemesi istenebilir (SDB1.2, SDB1.3).
+KİM.9.2.12
+Öğrencilerin gözlemlerinden ve hazır veri setinden hareketle sıvıların adezyon ve kohezyon 
+kuvvetleri, yüzey gerilimi, kılcallık, ıslatmazlık gibi niteliklerini fark etmeleri sağlanır. Öğ -
+rencilerin farklı sıvıların belirli bir sıcaklıktaki yüzey gerilimi verileri ile bu sıvıların alt mikro 
+gösterimlerinin verildiği hazır veri setinden ve gözlemlerinden hareketle adezyon-kohez -
+yon kuvvetleri ile sıvıların yüzey gerilimi, kılcallık (kapiler etki), içbükey-dışbükey görünümü 
+ve yüzeyi ıslatma/ıslatmama özelliği arasındaki ilişkileri belirlemek üzere çıkarımlar yap -
+maları sağlanır. Öğrencilerden çıkarımlarını bilim insanlarının çıkarımları ile karşılaştırma -
+ları istenir (OB1). Suyun organizmalardaki hayati rolü konusu adezyon-kohezyon kuvvetle-
+ri, kılcallık, yüzey gerilimi gibi kavramlarla ilişkilendirilebilir. Öğrencilerden tanecikler arası 
+etkileşim kuvveti belirtilen sıvıların yüzey gerilimi, adezyon-kohezyon kuvvetleri, kılcallık, 
+içbükey-dışbükey görünüm ve yüzeyi ıslatma özelliği ile ilgili boşluk doldurma sorularını 
+cevaplandırmaları istenebilir.
+KİM.9.2.13
+Öğrencilerin etkili iletişim becerilerini kullanmaları sağlanarak sıvıların yüzey gerilimini 
+etkileyen faktörlerin neler olabileceğine ilişkin tartışma ortamı oluşturulabilir (SDB2.1, 
+D14.1). Öğrencilerden yaptıkları açıklamalar doğrultusunda yüzey gerilimini etkileyen fak -
+törlerle ilgili araştırılabilir sorular oluşturmaları istenir. Soruların moleküller arası etkile -
+şimler temelinde cevaplanması için çeşitli önermeler oluşturulması sağlanır. Bu aşamada 
+aynı önermeyi oluşturan öğrencilerin grup çalışması yapmaları istenebilir (SDB2.2, D3.4). 
+Öğrenciler; gerekli malzemeyi seçmeleri, araştırmayı planlamaları ve gerçekleştirmeleri 
+için yönlendirilir (D3.2). Öğrencilerin grup çalışmalarına katkıları akran değerlendirme for-
+mu ile değerlendirilebilir. Öğrenciler, sıvıların yüzey gerilimine sıcaklığın ve çözünen mad-
+de cinsinin etkisini dolaylı olarak belirlemek için yöntemler araştırmak üzere yönlendirilir.  
+İlgili faktörlerin sıvıların yüzey gerilimine etkisini dolaylı olarak belirlemek için deney yapıl-
+ması sağlanır. Öğrencilerden gözlemlerini veya ölçüm verilerini kaydetmeleri istenir (OB7). 
+Öğrenciler, kaydettikleri verilerden yüzey gerilimini etkileyen faktörlere ilişkin sonuçlar çı-
+kararak yorumlarda bulunmaları için yönlendirilir (KB2.14). Öğrenciler, suyun yüzey gerili-
+mini etkileyen faktörlere ilişkin çıkarımlarını sıvının moleküller arası etkileşim kuvvetlerinin 
+büyüklüğü temelinde gerekçelendirir (OB1). Yüzey gerilimini etkileyen faktörleri belirleyen 
+öğrenciler, sonuçlarını bilimsel bilgilerle karşılaştırmaları için yönlendirilir. Yüzey gerilimi 
+ile ilintili günlük hayat problemlerinin bilimsel bilgilerle ilişkilendirilmesi sağlanır. Öğrenci -
+ler, sıvıların yüzey gerilimini etkileyen faktörlere ilişkin öğretim sürecindeki deneyden fark-
+lı bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Sürecin bütünü “deney tasarım 
+adımlarının takip edilerek sıvıların yüzey gerilimini etkileyen faktörlerin belirlenebilmesi ve 
+bu faktörlerin moleküller arası etkileşim göz önüne alınarak açıklanabilmesi, deney so -
+nuçlarının raporlanarak deneyden elde edilen çıktıların bilimsel bilgilerle karşılaştırılabil -
+mesi ve günlük hayatla ilişkilendirilebilmesi” ölçütlerini içeren dereceli puanlama anahtarı 
+ile değerlendirilebilir. Aynı zamanda öğrencilerden öz değerlendirme formu aracılığıyla 
+hedef belirlemesi, deney sürecinde duygularını ve davranışlarını kontrol edebilmesi, son -
+raki öğrenmeleri geliştirmek için neler yapabileceğini belirlemesi istenebilir (SDB1.2).

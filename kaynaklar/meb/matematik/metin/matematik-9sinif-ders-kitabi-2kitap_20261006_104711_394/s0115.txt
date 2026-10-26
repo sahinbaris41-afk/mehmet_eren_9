@@ -1,0 +1,31 @@
+115
+5. Tema/Algoritma ve Bilişim  
+6. Elde ettiğiniz algoritmanın kullanışlılığı, kütlesi farklı olan paranın hafif ya da ağır olmasından etkilenir mi? 
+Açıklayınız.
+ 
+7. Algoritmanın performansını artırmak için hangi stratejileri önerirsiniz? Alternatif algoritma yaklaşımları neler 
+olabilir? Açıklayınız.
+8. Bir otomobil parçaları üreticisi, üretim hattından çıkan vida paketlerinin kalite kontrolünü yapmak için yeni bir 
+test sistemi kurmayı planlamaktadır. Her vida paketinde 1024 vida bulunmaktadır. Her bir vida paketi, belirle-
+nen tolerans aralığındaki kütleye sahip olmalıdır. Elde ettiğiniz algoritma ile 1024 vidanın içindeki 1 hatalı 
+vidayı (hafif ya da ağır) tespit etmek için en az kaç tartım yapılması gerektiğini bulunuz.
+ 
+ 
+9. Bir ilaç üretim tesisi, yeni geliştirdiği bir ilacın üretim sürecinde kalite kontrolünü sağlamak amacıyla bir test 
+protokolü oluşturmak istemektedir. Her parti, 2187 ilaç kapsülü içermektedir ve bu kapsüllerin her biri, belirle-
+nen etken madde miktarına sahip olmalıdır. Etken maddenin eksik veya fazla olması durumunda ilaç kapsülünün 
+kütlesi etkilenmektedir. Buna göre elde ettiğiniz algoritma ile varsa 1 hatalı (etken maddesi eksik veya fazla) 
+kapsülü tespit etmek için en az kaç tartım yapılması gerektiğini bulunuz. 
+Grup İçi Toplam Tokalaşma Sayısını Hesaplama
+Aşağıdaki soruları cevaplayınız.
+n kişilik bir grupta gruptaki her bir kişinin diğer kişilerle bir kez tokalaşması durumunda toplam tokalaşma sayısı 
+tespit edilmek istenmektedir. Aşağıdaki tabloda gruptaki kişi sayısına göre toplam tokalaşma sayısı verilmiştir.
+Kişi Sayısı 2 3 4 5 6 ... n
+Toplam Tokalaşma Sayısı 1 3 6 10 15 ...
+1. Kişi sayısı n olduğunda toplam tokalaşma sayısının cebirsel temsilini elde ediniz.
+ 
+ 
+2. Tablo veya cebirsel temsil ile elde ettiğiniz bilgileri sıralı işlem adımlarına dönüştürünüz.
+ 
+ 
+4. Uygulama

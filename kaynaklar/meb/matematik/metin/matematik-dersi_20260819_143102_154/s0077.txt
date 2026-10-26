@@ -1,0 +1,49 @@
+77
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Araştırma sorularının farklı disiplinlerden hareketle yapılandırılması, istatistiksel araştırma sürecinin 
+daha iyi anlamlandırılmasına yardım eder. Örneğin biyoloji dersiyle ilişkilendirmek için memelilerin 
+boylarının nasıl bir dağılım gösterdiği incelenebilir. Meteorolojik verilerden hareketle ortalama sı-
+caklıkların değişimine dair çıkarım yapılarak coğrafya dersiyle, farklı kültürlere ait bilgiler toplanarak 
+tarih dersiyle, bireylerin psikolojik değişkenlerine yönelik veri toplanarak psikoloji dersiyle, toplumsal 
+olaylara yönelik araştırmalar yapılarak sosyoloji dersiyle ilişkilendirme yapılabilir. Bu ilişkilendirmeler-
+le öğrencilerin istatistiksel araştırma sürecini deneyimlemeleri sağlanır. 
+Belirlenen araştırma soruları doğrultusunda yürütülecek nicel veri toplama sürecine yönelik öğrenci 
+fikirleri alınarak sınıf içi tartışma süreci yürütülür (SDB2.1, D14.1). Öğrencilere taslak bir veri toplama 
+planı  yaptırılır. Taslak veri toplama planları;
+• Araştırma sorularına cevap bulmayı sağlayacak veri toplama araçlarını belirleme, 
+• Rastgeleliği sağlama, 
+• Evren ve örneklemi belirleme, 
+• Değişkenleri belirleme, 
+• Verilerin nerede, ne zaman, nasıl toplanacağını belirleme,
+• Verilerin nasıl kaydedileceğini belirleme ölçütlerine göre incelenir. 
+Oluşturulan veri toplama planı doğrultusunda öğrencilerden veri toplama araçlarının (anket, görüş-
+me, gözlem gibi) belirlenip oluşturulması ve verilerin toplanması istenir (OB1). Bu süreçte toplanan 
+verilerin analize hazır hâle getirilmesi beklenir. Öğrenciler verileri toplarken kişisel verilerin gizliliğine, 
+nesnel ve dürüst olmaya dikkat etmeleri hususunda teşvik edilir (D8.2, D6.1). Toplanan verilerin araş-
+tırma sorusuna cevap vermesi ve evrene uygunluğu,  eleştirel bir bakış açısıyla tartışılır (E3.10). Sınıf 
+içi tartışma sonrası son hâli verilen veri toplama planları sınıfta paylaşılır. 
+Öğrenciler tarafından oluşturulan istatistiksel araştırma soruları ve veri toplama planları, istatistiksel 
+araştırma sorusu ve veri toplama planı ölçütleri doğrultusunda oluşturulan kontrol listesiyle değer-
+lendirilebilir.
+Araştırma soruları bağlamında toplanan verileri analiz etmek için görselleştirme (nokta grafiği, his-
+togram, kutu grafiği) ve/veya özetleme (aritmetik ortalama, ortanca, tepe değer, açıklık, çeyrekler 
+açıklığı, standart sapma) araçlarından uygun olanların seçilmesi sağlanır (MAB3). Standart sapma 
+formül ile hesaplanmaz, kavramsal olarak ele alınır. Standart sapma değeri teknolojik araçlar veya 
+istatistik yazılımları kullanılarak belirlenebilir. Kutu grafiğinin veri grubuna ilişkin özet bilgilerin (ortan-
+ca, açıklık, çeyrekler açıklığı, alt çeyrek, üst çeyrek, alt uç değer, üst uç değer) görselleştirilmesine 
+olanak sağladığına dikkat çekilir. Uygun olan araçların belirlenmesinde araştırma sorularına yeniden 
+dönülür, hangi araçların uygun olduğuna dair sınıf içi tartışma yapılır (SDB2.1). Seçilecek araçların 
+araştırma sorularına cevap verecek ve verileri analiz edecek nitelikte olmasına dikkat edilir. Analiz 
+sürecinde verilerin nasıl dağıldığının görülebilmesi ve/veya veri özetleme araçlarının dağılım üzerin-
+den değerlendirilebilmesi amacıyla istatistik yazılımları kullanılır (MAB5).
+Analiz süreci tamamlandığında elde edilen sonuçlardan yola çıkılarak öğrencilerle veriler arasını ve 
+ötesini yorumlamaya yönelik sınıf içi tartışma yapılır (SDB2.1). Öğrenciler veriler arasını okumada 
+analizden elde edilen sonuçlara ilişkin verileri karşılaştırmaya, verilerin ötesini okumada analizden 
+elde edilen sonuçlara ilişkin verilerden hareketle geleceğe yönelik tahmin yapmaya teşvik edilir.
+Öğrencilerin araştırma sorularına geri dönmeleri, elde ettikleri sonuçlardan hareketle belirsizliği dik-
+kate alarak araştırma sorusuna cevap vermeleri sağlanır. Araştırma sorularına verilecek cevapların 
+istatistiksel ifadeler (verilerin merkezinin nasıl bir eğilim gösterdiğine, verilerin nasıl yayıldığına dair 
+ifadeler) içermesi önemlidir. Bu süreçte seçilen örneklem dağılımından hareketle öğrencilerin evren 
+dağılımı hakkında genellemeler yapmaları ve elde edilen sonuçları belirsizliği dikkate alan cümlelerle 
+ifade etmeleri beklenir. Öğrencilere nicel veriye dayalı istatistiksel araştırma sürecinin bütününü de-
+ğerlendirmeye yönelik bir performans görevi verilebilir.

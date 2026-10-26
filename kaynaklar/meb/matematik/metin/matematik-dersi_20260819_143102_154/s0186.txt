@@ -1,0 +1,58 @@
+186
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrencilerin polinom, trigonometrik, üstel ve logaritmik fonksiyonların grafik temsillerini 
+inceleyerek fonksiyonların tanımlı olduğu her noktada limitinin olabileceğine dair varsayım -
+lar geliştirmeleri sağlanır. Fonksiyonlarda dört işlem ve bileşke işleminin limit özelliklerine 
+yönelik varsayımlar, fonksiyonların matematiksel temsilleri incelenerek elde edilir. Ör -
+neğin uygun koşullarda f(x) = 1x  ve g(x) = x şeklinde tanımlı fonksiyonlar incelenerek  
+lim f x g x limf x limg x
+x0 x0 x0
+$ $!
+"" "
+^ ]] ]]gg h gg  s onucuna ulaşılır ( x =  0   dışındaki noktalarda bu eşitlik 
+sağlanır.). Buradan hareke tle öğrencilerin fonksiyonların çarpımlarının belirli bir noktada 
+limit altında ayrılabilmesi için çarpımı oluşturan fonksiyonların ayrı ayrı o noktada limitinin 
+olması gerektiği varsayımına ulaşmaları sağlanır. Bu varsayımlardan hareketle farklı fonksi-
+yonların ve bu fonksiyonlarla yapılan işlemlerin belirli bir noktadaki veya sonsuzdaki limitle -
+rine ilişkin genellemeler elde edilir. Genellemelerle varsayımlar karşılaştırılarak önermeler 
+matematiksel olarak doğrulanabilecek şekilde sunulur. Genellemelerden elde edilen öner-
+meler; f + g,  f - g, f  . g,  f / g,  f ° g ve g ° f  fonksiyonlarının belirli bir noktadaki veya sonsuzdaki 
+limitlerini bulmayı gerektiren problemlerde değerlendirilir. Öğrencilere fonksiyonların limit 
+özelliklerini yorumlamaya ve belirli bir noktadaki veya sonsuzdaki limitini bulmaya ilişkin açık 
+uçlu sorulardan oluşan çalışma kâğıdı verilebilir (D16.3). 
+MAT.12.4.3
+Fonksiyonlarda dört işlem özelliklerinden elde  edilen limitin bölüm kuralı f / g fonksiyonla-
+rında incelenir. Buradaki g fonksiyonunun belirli bir x = a (a∈ℝ) noktasındaki limitinin sıfır 
+olduğu durumların nasıl yorumlanabileceğine ilişkin sınıf içi tartışma yapılır. Bu tartışma ya -
+pılırken öğrencilerin birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendirerek 
+ifade etmeleri ve birbirleriyle etkileşim sağlamaları beklenir (SDB2.1, D14.1). Öncelikle f fonk-
+siyonunun x = a noktasındaki limit değerinin sıfırdan farklı bir gerçek sayı olduğu durumlar 
+incelenir. Bu durumda f / g  fonksiyonunun sonsuzdaki davranışı önceki bilgilerden yararla -
+nılarak yorumlanır. Burada öncelikle tanımsızlık ve belirsizlik kavramları incelenir. Belirsizlik 
+kavramıyla tanımsızlık kavramı arasındaki farklılık, limit bağlamında ele alınır. 
+Uygun koşullarda tanımlı f / g rasyonel fonksiyonlarının grafik ve tablo temsilleri incelene -
+rek belirsiz olduğu noktalar belirlenir. Öğrenciler, grafiğini çizemedikleri fonksiyonlar olursa 
+matematik yazılımları yardımıyla da grafik temsilleri inceleyebilir (MAB5). x = a noktasındaki 
+limiti sıfıra eşit olan f ve g fonksiyonlarından elde edilen f / g  fonksiyonunun x = a nokta-
+sındaki limitinin 0/0 belirsizliği oluşturduğu kabul edilir. Bu noktada f ve g fonksiyonlarının 
+polinom fonksiyon, karekök fonksiyonu ve rasyonel fonksiyon olmasına dikkat edilir. f ve g 
+fonksiyonlarının trigonometrik, üstel veya logaritmik fonksiyon olduğu durumlar incelen -
+mez. İncelenen fonksiyonun cebirsel ifadesi, çarpanlara ayırma kuralları kullanılarak belir -
+sizlik durumu ortadan kaldırılacak şekilde dönüştürülür. Dönüşümle beraber yeni fonksiyo -
+nun x = a noktasındaki limit değeri elde edilir (MAB2). Böylece belirsizliğin giderilebilmesi 
+için farklı bir çözüm üretilmiş olur. Dönüştürülen yeni fonksiyon ile başlangıç fonksiyonunun 
+grafikleri karşılaştırılır. Bu şekilde fonksiyonların x = a noktasındaki limit değerlerinin de -
+ğişmediği vurgulanır. Limitteki 0/0 belirsizliğinin çarpanlara ayırma yöntemleriyle en hızlı 
+ve doğru şekilde çözülebilmesini içeren, iş birliği ve grup içi çalışma gerektiren etkinlikler 
+düzenlenebilir (SDB2.2, D4.2). Öğrencilere belirli bir x = a noktasındaki limiti 0/0 belirsizli-
+ğine sahip fonksiyonların gerçek yaşam problemlerinde kullanımına yönelik araştırma ödevi 
+verilebilir. 
+MAT.12.4.4
+Limitin tarihî gelişiminden kısaca söz edilerek Salih Zeki ’nin Âsâr-ı Bâkıye ve Kâmûs -ı 
+Riyâziyyât adlı eserlerindeki limit ve süreklilik ile ilgili çalışmalarından bahsedilir. Burada -
+ki çalışmalardan hareketle limit ve süreklilik arasındaki ilişkiye dair sınıf içi tartışma ya -
+pılır. Cebirsel temsili verilen fonksiyonların tablo ve grafik temsili incelenir. x = a (a∈ℝ) 
+noktasının fonksiyonun tanım aralığı içerisinde olmasına dikkat edilerek  bu fonksiyon -
+ların x = a noktasındaki limiti ve değeri karşılaştırılır. Bu karşılaştırma neticesinde limit 
+değerinin o noktadaki fonksiyon değerine eşit olmadığı durumlarda fonksiyonların grafik 
+temsilinin x = a noktasında sürekli olmadığı  yorumu  yapılır.  Böylece  f  fonksiyonunun  

@@ -1,0 +1,93 @@
+19
+ GEÇMİŞİN İNŞA SÜRECİNDE TARİH
+Yandaki karekodda verilen etkinliği yapınız.
+Zenginleştirme
+Analitik Dereceli Puanlama Anahtarı 
+Aşağıdaki Analitik Dereceli Puanlama Anahtarı, afişinizi değerlendirmek için hazırlanmıştır. Bu anahtar, afişinizi 
+hazırlarken hangi ölçütlere dikkat etmeniz gerektiği konusunda da size bilgi vermektedir.
+Öğrencinin Adı ve Soyadı:                                                                                        Numarası:                             Sınıfı:
+Ölçütler
+Başarı Düzeyi
+Başarı 
+Puanı1
+(Geliştirilmeli)
+2
+(Kabul Edilebilir)
+3
+(Oldukça İyi)
+İçeriğin
+Uygunluğu
+Afiş, tarih öğrenmenin 
+bireye ve topluma fay-
+daları hakkında gerekli 
+bilgileri içermemek-
+tedir.
+Afiş, tarih öğrenmenin bi-
+reye ve topluma faydaları 
+hakkında yüzeysel bilgiler 
+içermektedir.
+Afiş, tarih öğrenmenin bi-
+reye ve topluma faydaları 
+hakkında kapsamlı bilgiler 
+içermektedir.
+İçeriğin
+Özgünlüğü
+Afişte öğrenciye ait
+ifadeler bulunmamak-
+tadır.
+Afişte öğrenciye ait
+bazı ifadeler bulunmak-
+tadır.
+Afişteki tüm ifadeler
+öğrenciye aittir.
+İçeriğin
+Bilimselliği
+Afişte çok fazla bilimsel 
+hata bulunmaktadır.
+Afişte az sayıda bilimsel 
+hata bulunmaktadır.
+Afişte bilimsel hata bulun-
+mamaktadır.
+Görsel ve 
+Yazılı Materyal
+Kullanımı
+Afişte konuyla ilgili 
+görsel ve yazılı materyal 
+kullanılmamıştır.
+Afişteki görsel ve
+yazılı materyallerden 
+bazıları konuyla
+ilgilidir.
+Afişteki bütün görsel ve 
+yazılı materyaller konuyla 
+ilgilidir.
+Kaynak
+Kullanımı
+Kullanılan kaynaklar 
+yetersiz ve konuyla 
+ilgisizdir.
+Kullanılan kaynaklar 
+sınırlı ve konuyla kısmen 
+ilgilidir.
+Kullanılan kaynaklar çok 
+sayıda ve konuyla doğru-
+dan ilgilidir.
+Dil ve
+Anlatım
+İçerikte yazım ve 
+noktalama kurallarına 
+uyulmamıştır.
+İçerikte yazım ve nokta-
+lama kurallarına kısmen 
+uyulmuştur.
+İçerikte yazım ve noktala-
+ma kurallarına uyulmuş-
+tur.
+Toplam Puan:
+Alınan Not:
+Değerlendirme Sistemi
+Analitik Dereceli Puanlama Anahtarı’ndan alınan puan, toplam puana bölünür. Örneğin bu anahtarda altı 
+ölçüt (içeriğin uygunluğu, içeriğin özgünlüğü, içeriğin bilimselliği, görsel ve yazılı materyal kullanımı, kay-
+nak kullanımı, dil ve anlatım) ve üç başarı düzeyi (geliştirilmeli, kabul edilebilir, oldukça iyi) bulunmaktadır. 
+Öğrencinin her ölçütten alabileceği puan en fazla 3x6=18 olacaktır. Bir öğrenci analitik puanlamada 12 puan 
+aldıysa bu yüzde olarak (12/18) x100=%67 edecek, bu durumda öğrenci 67 puan almış olacaktır.

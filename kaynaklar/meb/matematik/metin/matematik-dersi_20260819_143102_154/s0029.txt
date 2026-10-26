@@ -1,0 +1,42 @@
+29
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.H.3.1. Sonlu sayı örüntülerine yönelik tümevarımsal akıl yürütebilme
+a) Sonlu sayı örüntülerinin terimleri arasındaki ilişkileri gözlemler.
+b) Sonlu sayı örüntülerinin terimleri arasındaki örüntüleri belirler.
+c) Belirlediği ilişkileri sözel ve cebirsel olarak geneller.
+MAT.H.3.2. Şifreli metinleri çözebilmek için tümevarımsal akıl yürütebilme
+a) Şifreli metinlerdeki ilişkileri gözlemler.
+b) Şifreli metinlerdeki örüntüleri belirler.
+c) Belirlediği örüntüleri sözel ve cebirsel olarak geneller.
+MAT.H.3.3. Şifreli metinler oluşturabilmek için analojik akıl yürütebilme
+a) Farklı şifreleme yöntemlerini inceler.
+b) İncelediği şifreleme yöntemlerinin niteliklerini tespit eder.
+c) Benzerliklerden çıkarım yaparak yeni şifreler oluşturur.
+İÇERİK ÇERÇEVESİ • Sonlu Sayı Örüntüleri
+• Şifreli Metinler 
+• Şifreleme Yöntemleri 
+Genellemeler • Sayı örüntüleri, şifreli metinlerin temelini oluşturur. 
+Anahtar Kavramlar anahtar, deşifre etme, sayı örüntüsü, şifreleme, şifre alfabesi, şifreli metin 
+Sembol ve Gösterimler -
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, performans görevi, öz ve akran değerlendirme formları 
+ile değerlendirilebilir.
+Öğrencilere günlük hayattan sonlu sayı dizilerinin terimleri arasındaki ilişkileri sözel ve ce-
+birsel olarak genelleyebileceği açık uçlu sorulardan oluşan çalışma kâğıdı verilebilir.
+Şifrelemede kullanılan sayı örüntüsü ilişkilerinin ve bu sayı örüntülerinin genel terimleri -
+nin cebirsel temsilinin bulunmasının istendiği çalışma  kâğıdı hazırlanabilir. Çalışma kâğıdı, 
+analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.
+Öğrencilere şifreli metin oluşturmaya yönelik bir performans görevi verilebilir. Performans 
+görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir.
+Sınıf içi tartışmalar, öz ve akran değerlendirme formları kullanılarak değerlendirilebilir. 
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin bir doğal sayının çarpanlarını ve katlarını belirleyebildiği; bölünen, bölen, 
+bölüm, kalan kavramlarını ve bölme algoritmasını bildiği; doğal sayılarda bölünebilme 
+kurallarını kullanarak işlemler yapabildiği; iki doğal sayının ortak bölenlerini ve ortak 
+katlarını belirleyebildiği; örüntü, terim ve cebirsel ifade kavramlarını bildiği kabul edil -
+mektedir.

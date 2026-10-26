@@ -1,0 +1,49 @@
+191
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Köprü Kurma Doğrusal fonksiyonların eğimi, fonksiyonlarda değişim oranı kavramı ile ilişkilendirilebilir. 
+Gerçek yaşamda bir hareketlinin ortalama hızının ne anlama geldiği sorularak değişim oranı 
+kavramı somutlaştırılabilir.
+Ayrıca bir hareketlinin t saniyede metre cinsinden aldığı yolu veren bir fonksiyonun grafik 
+temsili çizilerek öğrencilerden bu fonksiyonda belirli saniyeler arasındaki ortalama hızın 
+tespit edilmesi istenebilir. Bir kentin nüfusunun artış hızı, bir bankadaki mevduatın büyüme 
+hızı, kimyada hacmi küçülen bir gazın basıncının artış hızı gibi ifadelerin ne anlama geldiği 
+ile ilgili tartışmalar yapılabilir. Limitte öğrenilen ve türevde etkin bir şekilde kullanılacak olan 
+0/0 belirsizliği ve süreklilik ile ilgili soruların çözülebilmesine yönelik grup çalışması yapıla -
+bilir. Limit ve süreklilik konusunda öğrendikleriyle ilgili geri bildirimler verilerek öğrencilerin 
+kendi seviyelerini, eksikliklerini ve ihtiyaçlarını belirlemesi sağlanabilir.
+Öğrenme-Öğretme 
+Uygulamaları MAT.12.4.5
+Gerçek yaşam durumu içeren problemler fonksiyonlarla temsil edilerek fonksiyonların 
+nitel özellikleri ile cebirsel ve grafik temsilleri belirlenir. Ardından fonksiyonun nitel özel -
+liklerinin problem verilerine uygun aralığındaki veya noktasındaki durumuna odaklanılarak 
+ortalama değişim, anlık değişim, eğim, kesen doğrusu, teğet doğrusu gibi kavramlar be -
+lirlenir. Örneğin bir şirketin yıllık kazancı, önceki yıl ile içinde bulunulan yıl karşılaştırılarak 
+elde edilebilir ve ardından bu şirketin aylık ortalama kazancının ne kadar olduğu sorgulanır 
+(D17.3). Yıllık kazançtaki değişimin 12 aya bölünmesi ile aylık ortalama kazanç elde edilir 
+(OB3). Bu tarz gerçek yaşam örnekleri üzerinden ortalama değişim oranı kavramı cebirsel 
+olarak ifade edilir. Bir şirketin gelirinin zamana bağlı olarak verildiği bir grafik temsili üze -
+rinden 12 ay önceki gelirini temsil eden nokta ve mevcut gelirini temsil eden nokta bir ke -
+sen doğrusu ile birleştirilir. Bu kesen doğrusunun eğimi aylık ortalama kazanç ile ilişkilen-
+dirilir. Benzer örnekler cebirsel ifadesi verilen fonksiyonlarda incelenir. Örneğin bir şehrin 
+belirli bir gündeki sıcaklık değişimi, zamana bağlı bir fonksiyonla modellenerek verilebilir. 
+Fonksiyon incelenerek belirli bir zaman aralığındaki ortalama sıcaklık değişimi, ortalama 
+değişim oranının cebirsel ifadesi kullanılarak bulunur (MAB2).
+Bir hareketlinin t zamanında aldığı yolu modelleyen fonksiyonlar öncelikle ortalama hızı bul-
+mak için incelenir. Bu modellemelerin grafik temsillerinde herhangi iki zaman aralığındaki 
+noktaları birbirine bağlayan kesen doğrusunun eğimi yorumlanır. Buradan bir hareketlinin 
+belirli bir saniyedeki anlık hızının nasıl bulunabileceği tartışılır. Grafik temsiller incelenerek 
+kesen doğrusuna benzer bir şekilde fonksiyonun sadece tek bir noktasından geçen teğet 
+doğrusu çizilir. Grafik temsil üzerindeki iki noktayı birbirine bağlayan kesen doğruları teğet 
+doğrusuna yaklaştırıldıkça bu doğruların eğim değerlerinin birbirine çok yaklaştığı tablo veya 
+matematik yazılımları kullanılarak  gösterilir (MAB3, MAB5). Böylelikle öğrencilerin dijital 
+araç ile iş görme becerilerinin geliştirilmesi desteklenir (OB2). Benzer şekilde öğrencilerden 
+fonksiyonun sürekli olduğu bir noktadan çizilebilen ve eğimi gerçek sayı olan tek teğet doğrusu 
+olması durumunda bu doğrunun eğiminin fonksiyonun o noktadaki anlık değişim oranını ver-
+diğini grafik üzerinden limit kullanmadan keşfetmeleri beklenir. Bir hareketlinin t zamanındaki 
+konumunu veren bir fonksiyon modellemesi üzerinden anlık değişim oranı ortalama değişim 
+oranı kullanılarak “konumdaki çok küçük değişim/zamandaki çok küçük değişim” şeklinde sö-
+zel temsille ifade edilir. Bu konum fonksiyonunun t = a (a∈ℝ) noktasındaki anlık değişimi, bu 
+nokta ve bu noktaya çok yakın bir nokta arasındaki zaman değişiminin limitinin sıfıra gitmesi 
+durumunda   d(x(t))dt  t = a= x'(a)  şeklinde gösterilir. f(x) = y olmak üzere  dydx = f'(x) eşitliği 
+kullanılarak elde edilen dy = f'(x) dx diferansiyel olarak tanımlanır (MAB3). Grafik temsili üzerin-
+den anlık değişim oranı kullanılarak diferansiyelin geometrik yorumu yapılır. 

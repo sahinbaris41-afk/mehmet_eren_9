@@ -1,0 +1,36 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+70
+1-4. soruları aşağıdaki bilgilere göre cevaplayınız.
+Konya Ovası’nda yaşayan lise öğrencisi Ayşe, ailesiyle birlikte yaz tatillerinde tarlada çalışmaktadır. 
+Ayşe; son yıllarda sulama için kullanılan suyun kuyulardan daha geç geldiğini, bazı ürünlerin eskisi ka -
+dar verimli yetişmediğini, toprağın da daha hızlı kuruduğunu fark eder. Bu durumun nedenlerini tespit 
+edebilmek amacıyla çeşitli kaynaklardan bilgi toplar. Bu doğrultuda Konya Kapalı Havzası’na ait bir 
+yağış haritası ile bazı tarım ürünlerinin su tüketimini gösteren bir grafiğe ulaşır ve elde ettiği bilgileri 
+aşağıda listeler.
+K
+0 80 160
+km
+Yıllık Ortalama Yağış Dağılışı
+Yüksek
+İl sınırları
+Düşük
+1063
+479500 411
+181
+661
+429482
+284
+Şeker pancarı
+Fiğ
+Yonca
+Fasulye, nohut Buğday, arpa
+Mısır
+Ayçiçeği
+Patates, sebzeler
+Meyveler
+Grafik: Konya Kapalı Havzası’ndaki Tarımsal Üretimde Kilogram Başına Harcanan Su Miktarı (Litre)
+Harcanan Su Miktarı (Litre)
+Harita: Konya Kapalı Havzası’na Düşen Yılık Ortalama Yağışın Dağılışı
+Ürünler
+Tuz Gölü
+Harita İşaretleri

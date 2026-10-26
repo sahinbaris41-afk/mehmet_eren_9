@@ -1,0 +1,34 @@
+7.TEMA - VERIDEN OLASILIĞA
+78 7978 79
+79
+Etkinliğin Amacı Futbolcuların geçmiş performans verilerini kullanarak olasılık hesaplamaları yapabilme ve bu hesaplamaları yorumlayabilme. 
+Zenginleştirme 
+Uygulaması
+* Öğrencilerden dört olaydan meydana gelen olayların olasılığını içeren ger -
+çek yaşam durumlarına ilişkin değerlendirmeler yapmaları istenir. Örneğin 
+spor müsabakalarında oyuncu performanslarının yıllara göre istatistikleri 
+incelenerek öğrencilerden olayların olasılıklarını hesaplamaları ve elde ettik-
+leri sonuçlardan hareketle bir karara ulaşmaları beklenir.
+Araç Gereç ve 
+Materyaller Genel ağ bağlantısı
+Yönerge Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz. Etkinlik sonunda ’Değerlendirme” sorularını cevaplayınız.
+1. ETKINLIK Futbol Performansı
+Sezon Oynanan Maç Sayısı Atılan Gol Yapılan Asist Pas Başarı Oranı (%)
+2018-19 43 28 10 85
+2019-20 40 31 7 86
+2020-21 44 36 5 87
+2021-22 37 24 6 84
+2022-23 42 30 8 86
+Sezon Oynanan Maç Sayısı Atılan Gol Yapılan Asist Pas Başarı Oranı (%)
+2018-19 50 36 14 88
+2019-20 44 25 18 87
+2020-21 47 30 12 89
+2021-22 40 21 15 86
+2022-23 45 19 10 87
+Ali'nin Performansı
+Ozan'ın Performansı
+1. Adım
+Etkinlik öncesinde öğretmen rehberliğinde en az 5 kişilik gruplara ayrılınız. Aşağıda, Ali ve Ozan’ın 
+2018-2023 yılları arasındaki performans verileri gösterilmiştir. Bu tabloyu inceleyerek aşağıdaki 
+adımları gerçekleştiriniz.
+Yıldızlı  Etkinlik 

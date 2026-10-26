@@ -1,0 +1,116 @@
+221
+7. Tema / Veriden Olasılığa
+A ile B ayrık olmayan olaylar ve E olası tüm çıktıların kümesi olmak üzere
+s
+sA B
+sE
+s
+sE
+s
+sE
+sA B
+PPP AB
+E
+AB
+PA BA B&
+,+
+,+=+ -= +-
+_
+_
+_
+_
+_
+_
+_
+_
+_ ___
+i
+ii
+i
+i
+ii
+i
+ii i i olur.
+A ve B ayrık olaylar olmak üzere
+sE
+sA B
+sE
+sA
+sE
+sB
+PA BP AP B&
+,
+,=+ =+
+_
+_
+_
+_
+_
+_
+__ _
+i
+ii
+i
+i
+i
+ii i olur.
+Ayrık Olay ve  
+Ayrık Olmayan 
+Olay
+Aynı örnek uzaya 
+ait iki olayın ortak 
+çıktısı yoksa bunlar 
+ayrık olaylar ,  
+ortak çıktısı varsa 
+ayrık olmayan 
+olaylar olur.
+5. ÖRNEK
+Pazartesi Salı Çarşamba
+Resim  
+Kursları Yağlı Boya Ebru Grafiti
+Spor  
+Kursları Futbol Basketbol Voleybol
+Müzik  
+Kursları Bağlama Gitar Keman
+Yandaki listede bir halk eğitim merkezinin 
+verdiği kurslar ve kursların günleri yer al-
+maktadır. Resim kursları mavi, spor kursları 
+yeşil, müzik kursları mor renk ile yazılmıştır. 
+Buna göre yalnızca 1 kursa giden Kerim’in 
+pazartesi günü veya spor kurslarından birine 
+gitmesinin olasılık değerini bulunuz.
+Çözüm
+1. Yol
+Tabloda görüldüğü üzere halk eğitim merkezinde toplam 9 kurs bulunmaktadır. Kerim’in pazartesi günü 
+olan kurslardan birine gitmesi olayı A, spor ile ilgili kurslardan birine gitmesi olayı B olsun. Buna göre 
+pazartesi günü 3 kurs olduğundan PA 93=_i , spor ile ilgili 3 kurs olduğundan PB 93=_i  olur.
+Kerim’in pazartesi günü ve spor kurslarından birine gitmesi AB+  olarak ifade edilebilir. Buna göre 
+AB Futbol+ = #-  olduğundan PA B 91+ =_i  olur. Buradan
+.
+PA B PPP ABAB
+bulunur
+9
+3
+9
+9
+9
+3 1
+5
+,+ =+ -
+=+ -
+=
+_ ___ii ii
+2. Yol
+Pazartesi Salı Çarşamba
+Resim  
+Kursları Yağlı Boya Ebru Grafiti
+Spor  
+Kursları Futbol Basketbol Voleybol
+Müzik  
+Kursları Bağlama Gitar Keman
+Yandaki tabloda sarıya boyanmış hücreler 
+pazartesi günü veya spor kurslarını göster-
+mektedir. Görüldüğü üzere sarıya boyanmış 
+hücrelerin sayısı 5’tir. Buna göre Kerim’in 
+pazartesi günü veya spor kurslarından birine 
+gitmesinin olasılık değeri 95  bulunur.

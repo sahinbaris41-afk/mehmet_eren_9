@@ -1,0 +1,52 @@
+42
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+b) Öğrencilerden gözlemlerinden yola çıkarak beslenme ilişkileri ve ekosistemlerde enerji 
+akışını gösteren zihin haritası oluşturması istenebilir. Öğrencilere besin zincirlerinin basit 
+görünürlükte olduğu, ekosistem içinde örtüşen çok sayıda besin zincirinin karmaşık 
+besin ağlarını oluşturduğu, besin ağlarının da habitattaki tüm organizmalar arasındaki 
+enerji aktarımını gösterdiği hatırlatılır. Sınıfta farklı türleri (üretici, tüketici, ayrıştırıcı) 
+içeren listeler/kartlar dağıtılır. Öğrencilerden gruplara ayrılmaları ve bu türlerle besin 
+zincirleri oluşturmaları istenir. Besin zincirinde her türün bulunduğu trofik basamak ve 
+bu basamaktaki enerji eldesinin nedenleri hakkında sorular sorulur. Ekosistemlerdeki 
+enerji akışının anlaşılmasına katkı sağlamak amacıyla konu, Termodinamiğin 1 ve 2. 
+yasaları ile ilişkilendirilerek fizik alanı ile disiplinler arası bağlantı kurulabilir. Bu süreçte 
+su ekosisteminde besin zinciri, parazit besin zinciri ve biyokütle piramidine değinilmez. 
+Öğrencilerden oluşturdukları besin zincirini açıklamaları, grupça oluşturdukları besin 
+zincirlerini bir araya getirerek besin ağlarına dönüştürmeleri (E3.6) ve besin ağlarındaki 
+ilişki örüntülerini tanımlamaları beklenir.
+c) Gruplardan tanımladıkları örüntüleri kullanarak ekosistemlerdeki enerji akışı hakkında 
+genellemeler yapmaları istenir. Genelleme ve değerlendirme sürecinde çeşitli dijital 
+uygulamalardan yararlanılabilir. Gruplardan yaptıkları genellemelerden hareketle enerji 
+piramidi oluşturmaları, piramidin düzeylerini ve piramitteki organizmaların görevlerini 
+açıklamaları istenir (E3.7). Gruplardan oluşturdukları piramidi diğer gruplarla paylaşmaları 
+ve piramitlerini diğer grupların piramitleriyle karşılaştırmaları beklenir. Öğrencilerden 
+enerji akışıyla ilgili oluşturdukları örüntüleri kullanarak biyolojik birikim kavramını 
+tanımlamaları istenir. Biyolojik birikim ile ilgili kısa videolar izletilir ve örnek olaylar paylaşılır 
+(OB4). Biyolojik birikimin organizmalar üzerindeki etkilerine dikkat çekmek için sorular 
+sorulur. Bir biyolojik birikim sorunu seçilerek öğrencilerden bu soruna çözüm üretmeleri 
+istenir. Öğrencilerin kendi beslenme alışkanlıklarının güvenirliğini sorgulamaları sağlanır. 
+Öğrencilerden yaptıkları çıkarımlar çerçevesinde kendi beslenme alışkanlıkları hakkında 
+düşünmeleri, varsa olumsuz beslenme alışkanlıklarının sonuçlarını tahmin etmeleri ve 
+bu konuda yaşadıkları sorunlara çözüm önerileri üretmeleri istenir (SDB3.3, E2.2, D13.1, 
+OB7).
+Öğrencilere; madde ve enerji akışıyla ilgili durumların sunulduğu, bu örüntüleri bularak 
+genelleme yapmalarına imkân tanıyan ve açık uçlu sorulardan oluşan bir çalışma yaprağı 
+verilebilir. Öğrencilerin çalışma yaprağına vereceği cevaplar puanlama anahtarı ile 
+değerlendirilebilir.
+BİY.10.2.4 
+a) Ekosistemde enerji akışı olduğu gibi maddenin de bir akış hâlinde olduğu, döngüsel 
+olarak çeşitli formlarda ekosistemin cansız ve canlı bileşenleri arasında yer değiştirdiği 
+hatırlatılır. Su, karbon ve azot döngüsünde değişikliklere sebep olan fiziksel, kimyasal ve 
+biyolojik süreçlerle ilgili sorular sorulur. Bu süreçte nitrifikasyon olayında gerçekleşen 
+tepkimelerin kimyasal formüllerine değinilmez. Öğrenciler bilim dergileri, bilimsel 
+makaleler gibi güvenilir kaynakları, söz konusu kaynaklara ulaşmanın mümkün olmadığı 
+durumlarda ders kitabını kullanarak madde döngüsü modellerini araştırıp bilgi toplar 
+(OB1). Öğrencilerden su, azot ve karbon döngüleri ile ilgili model önermeleri,  önerdikleri 
+modeli kullanarak madde döngülerini açıklamaları beklenir. Bu süreçte nitrifikasyon ve 
+denitrifikasyon bakterileri hakkında bilgi verilmez. 
+b) Öğrenciler, inceledikleri bilimsel içerikli kaynaklarda yer alan madde döngüsü 
+modelleri ile kendi önerdiği modeli karşılaştırır. Karşılaştırmalarında farklılık olduğu 
+tespit edilirse öğrencilerden bu farklılıkların sebeplerinin neler olabileceğini 
+açıklamaları istenir (E1.4). Öğrencilerin tespit edilen farklılıkların madde döngülerinin 
+açıklanmasında bilimsel bir hataya sebep olup olmayacağını değerlendirerek 
+modellerini yenilemeleri beklenir  (OB4, E3.3).

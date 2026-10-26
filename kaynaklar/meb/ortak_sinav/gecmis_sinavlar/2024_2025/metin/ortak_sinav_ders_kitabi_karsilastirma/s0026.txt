@@ -1,0 +1,72 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+Öğrenme Çıktısı : 9.5.1. Geometrik dönüşümlerle ilgili çıkarım yapabilme
+Ders Kitabı (MEB) Sayfa 22
+ 
+1
+T.C.
+MİLLÎ EĞİTİM BAKANLIĞI
+ÖLÇME, DEĞERLENDİRME VE SINAV HİZMETLERİ GENEL MÜDÜRLÜĞÜ
+2024-2025 EĞİTİM VE ÖĞRETİM YILI
+II. DÖNEM I. YAZILI SINAVI (ÜLKE GENELİ ORTAK)
+MATEMATİK
+9. SINIF
+ÖĞRENCİLERİN DİKKATİNE!
+1.	 Bu	soru	kitapçığında	7	soru	bulunmaktadır	ve	sınav	süresi	40	dakikadır.
+2.	 Cevaplarınızı,	soruların	altında	boş	bırakılan	yerlere	yazınız.	
+3.	 Sınav	 100	tam	puan	üzerinden	değerlendirilecektir.	1.	soru	10	puan;	2,	3,	4,	5,	6	ve	7.	sorular	15	puan	
+değerindedir.
+Adı	ve	Soyadı	 :	............................................................................
+Sınıfı	/	Şubesi	 : 	............................................................................
+Öğrenci	Numarası	 : 	............................................................................
+Aldığı	Puan
+ÖĞLE
+OTURUMU
+1. Birim	kareli	zemin	üzerinde	ABC	üçgeni,	d	doğrusu	ve	KLMN	dikdörtgeni	verilmiştir.
+K L
+MN
+B C
+A
+d
+ABC	üçgeninin	d	doğrusuna	göre	yansıma	dönüşümü	altındaki	görüntüsü	AʹBʹCʹ	üçgeni	olmak	üzere,	 
+AʹBʹCʹ	üçgenine	8	birim	sağa	öteleme	dönüşümü	uygulanarak	AʺBʺCʺ	üçgeni	elde	edilmiştir.
+Buna göre, son durumda oluşan AʺBʺCʺ üçgeni ile KLMN dikdörtgeninin kesişim bölgesini  
+şekil üzerinde boyayarak gösteriniz. (10 puan)
+2. Üç	adet	eşkenar	üçgen	aşağıdaki	gibi	kenarlarından	çakıştırılarak	bir	şekil	oluşturulmuştur.
+A
+B C
+GF
+D E
+DBE	üçgeni	ile	FCG	üçgeninin	benzerlik	oranı	 32 ,	FCG	üçgeni	ile	ABC	üçgeninin	benzerlik	oranı	 53  
+ve	|AE|  +  |AF|  =  15	cm’dir.
+Buna göre, |FC| nun kaç santimetre olduğunu işlemlerinizi göstererek bulunuz. (15 puan)
+22
+4. Tema / Eşlik ve Benzerlik
+9. Tablo 4’ten hareketle bir şekil ve şeklin dönüşüm altındaki görüntüsünün kenar uzunlukları veya açı ölçüleri 
+eşit ise şekle uygulanan dönüşümün yansıma mı yoksa öteleme mi olduğunun anlaşılıp anlaşılamayacağına 
+dair fikirlerinizi yazınız.
+10. Şekil üzerindeki tüm noktalar ile bu noktaların görüntüleri arasındaki uzaklık eşit ise şekle hangi dönüşümün 
+uygulandığına karar verilip verilemeyeceğine dair fikirlerinizi yazınız.
+11. Bir şekle yansıma ve öteleme dönüşümlerinden hangisinin uygulandığının nasıl tespit edilebileceğine ilişkin 
+fikirlerinizi açıklayınız. Fikirlerinizi sınıf arkadaşlarınızla tartışınız.
+Kontrol Noktası
+• Öteleme dönüşümü; düzlemdeki tüm noktaları belirli bir doğrultu, uzaklık ve yönde bulunan tüm noktalara 
+dönüştüren bir dönüşümdür.
+• Bir şekle öteleme dönüşümü uygulandığında şeklin düzlemdeki yeri değişir.
+• Şekil üzerindeki tüm noktalar öteleme dönüşümü altındaki görüntüleri olan noktalara eşit uzaklıktadır. Bu 
+nedenle şeklin yönü değişmez.
+• Bir şeklin öteleme dönüşümü altındaki görüntüsü ile şekil eştir.
+• Öteleme dönüşümünün bileşenleri; dönüşümün uygulandığı belirli doğrultu, yön ve uzaklıktır.
+Yansıma ve Öteleme Dönüşümleri Arasındaki İlişki
+Aşağıdaki yönergeleri takip ederek soruları cevaplayınız.
+Aşağıdaki birim kareli zeminde CDEF bölgesi ile birbirine paralel d1 ve d2 doğruları verilmiştir. 
+1. CDEF bölgesinin d1 doğrusuna göre yansıma dönüşümü altındaki görüntüsü C'D'E'F' ve C'D'E'F' bölgesinin 
+ d2 doğrusuna göre yansıma dönüşümü altındaki görüntüsü C''D''E''F'' olmak üzere C'D'E'F' ve C''D''E''F'' böl-
+gelerini yukarıda verilen birim kareli zemin üzerinde oluşturunuz.
+3. Uygulama
+D
+C
+F
+E
+d1 d2
+4.Tema_13.07.2024.indd   224.Tema_13.07.2024.indd   22 17.07.2024   18:4117.07.2024   18:41
+9. SINIF ORTAK SINAV (ÖĞLE OTURUMU) - MATEMATİK

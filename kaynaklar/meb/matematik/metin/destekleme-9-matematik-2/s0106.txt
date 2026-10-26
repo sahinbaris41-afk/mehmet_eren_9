@@ -1,0 +1,33 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+105
+6. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ
+1. Adım
+Etkinlik Aşaması
+Türkiye'de bir inşaat firması konut satışlarına dair bazı bilgileri araştırmak istemiştir. Bu sebeple veri 
+dağılımlarına ilişkin bazı grafikleri incelemiştir.
+Verilen adımları sırasıyla uygulayınız ve grafiklerdeki verilerden yola çıkarak soruları cevaplayınız.
+İnceleme sonrasında firma yetkilisi  “2022 ve 2023 yılı Aralık aylarında konut satışı sayısı bir önceki 
+aya kıyasla arttığına göre 2024 Aralık ayı için de aynı durum geçerli olacaktır.” şeklinde bir çıkarımda 
+bulunmuştur.
+Buna göre verilen grafiği inceleyiniz ve soruları yanıtlayınız.
+Firma yetkilisi konut satışı sayısı için Grafik 1'de verilen TÜİK verilerini incelemiştir.
+a.  Bu firma yetkilisinin çıkarımına yönelik tespit ettiğiniz hataları/yanlılıkları varsa yazınız.
+b.  Tespit ettiğiniz bir hata/yanlılık varsa düzeltmek için araştırmacıya ne önerirsiniz?
+c.  Verilen grafiğe bakılarak konut satışındaki artış konut yapımı sayısındaki artış ile ilişkilidir çıkarımı 
+yapılabilir mi? Neden?
+Çözüm:
+Çözüm:
+Çözüm:
+50 000
+100 000
+150 000
+200 000
+250 000
+2022-112022-122023-012023-022023-032023-042023-052023-062023-072023-082023-092023-102023-112023-122024-012024-022024-032024-042024-052024-062024-072024-082024-092024-102024-11
+Grafik 1: Konut satışı, Kasım-2022, Kasım-2024
+117 806
+93 514
+153 014
+165 138
+Satış Miktarı (Adet)
+Tarih

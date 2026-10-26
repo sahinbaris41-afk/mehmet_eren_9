@@ -1,0 +1,42 @@
+7
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+1.2.2. İÇERİK ÇERÇEVESİ
+Fizik Dersi Öğretim Programı’nın uygulanması sürecinde içerik çerçevesi açısından aşağıdaki hususlar dikkate alınmalıdır:
+• Fizik Dersi Öğretim Programı’nın uygulanmasında ders içeriğinden ziyade öğrenme çıktıları önceliklendirilmeli, 
+öğrencilerin öğrenme çıktılarını kazanmalarını sağlayacak içerik bilgisi sunulmalı, konu yoğunluğuna sebep 
+olmayacak şekilde matematiksel hesaplamalar ile ilgili sınırlamalara dikkat edilmelidir.
+• Fizik dersinin içerik bilgisinde yer alan konularla ilgili bilim ve teknolojideki gelişmeler takip edilmelidir. Alan ile 
+ilgili bilimsel gelişmelerin öğrencilerle paylaşılmasına özen gösterilmelidir. Güncel bilimin takip edilebilmesi için 
+öğrencilere süreli yayınlar hakkında bilgi verilmelidir.
+• Fizik bilimine yönelik kavram yanılgılarına sebep olabilecek içeriklerden kaçınılmalı, var olan yanılgıların ise tespit 
+edilip iyileştirilmesi sağlanmalıdır.
+1.2.3. ÖĞRENME KANITLARI (Ölçme ve Değerlendirme)
+Fizik Dersi Öğretim Programı’nda verilen öğrenme-öğretme uygulamalarında yer alan her öğrenme çıktısının sonunda 
+süreci değerlendirmek amacıyla öğrenme kanıtlarında belirtilen yöntem ve teknikler bulunmaktadır. Bu yöntemler 
+öğretmen tarafından farklılaştırılabilir ancak her süreç sonunda uygun öğrenme kanıtları uygulamasının öğretmen 
+tarafından yapılması gerekmektedir. Bu gerekliliğin temel amacı öğrencileri öğrenmeye teşvik ederek öğrenmelerindeki 
+eksiklerin öğretmen tarafından fark edilmesi ve giderilmesidir. Geliştirilen Fizik Dersi Öğretim Programı ile özellikle 
+biçimlendirici değerlendirmenin etkin olarak kullanımı sağlanmalıdır.
+Fizik Dersi Öğretim Programı’nın uygulanması sürecinde öğrenme kanıtları açısından aşağıdaki hususlar dikkate 
+alınmalıdır:
+• Öğrenme kanıtlarında belirtilen yöntem ve teknikler öğrencilerin yeteneklerine, ihtiyaçlarına ve özel durumlarına 
+göre çeşitlendirilmelidir. Bilgi ve becerilerin ölçülmesi ve değerlendirilmesinde ilgi çekici, günlük hayatla ilgili, 
+uzak ya da yakın çevrede karşılaşılabilecek problemlere dair görevler verilmeli; öğrenciye yönelik yargısal nitelik 
+taşımayan ve motive eden geri bildirimler sağlanmalı, dijital teknolojilerden yararlanılmalıdır.
+• Ölçme ve değerlendirme faaliyetleri, öğretim sürecini en üst düzeyde destekleyen ve yapıcı geri bildirim sağlayan 
+beceri odaklı bir yapıda planlanıp yürütülmelidir. Fizik Dersi Öğretim Programı'nın "Öğrenme Kanıtları" bölümünde 
+öğretmenlere bazı ölçme araç ve yöntemleri sunulmuştur. Burada sunulan araç ve yöntemler öneri niteliğindedir. 
+Öğretmenler ve materyal hazırlayıcılar, öğrenme çıktıları ve içerik çerçevesiyle uyumlu olmak kaydıyla farklı ölçme 
+araç ve yöntemlerini de kullanabilirler.
+• İlgi çekici, yaşantıyla ilişkili, dijital teknolojilerin kullanıldığı ve çeşitliliğin sağlandığı bir öğrenme kanıtları uygulama 
+yapısı benimsenmelidir.
+• Her ünite için en az bir performans görevi verilmelidir. Bu görevlerin fizik konu alanında elde edilen bilgi ve 
+becerilerin yaşantıya transfer edilmesine ve gerçek hayat ile ilişkili bağlamsal durumlara dayandırılmasına özen 
+gösterilerek bilimsel becerilerin geliştirilmesini sağlayacak ve özellikle ders süresi içerisinde yürütülecek şekilde 
+yapılandırılmasına dikkat edilmelidir. Ayrıca farklılıkların desteklenmesi, ilgi ve motivasyonlarının artırılması 
+açısından öğrencilerin ortaya koyacakları ürünler için resim, karikatür, röportaj, drama, oyun geliştirme, poster, 
+afiş ve dijital çalışmalar gibi seçenekler sunulması önemlidir.
+• Öğrencilerin performans görevleri ile ortaya koydukları ürünlerin bilim şenlikleri, bilim köşeleri gibi ortamlarda 
+sergilenerek motivasyonlarının artırılması sağlanabilir.
+• Ünite içerisinde kazandırılan beceriler, ilgili olduğu öğrenme çıktısının dışında aynı ünitedeki farklı öğrenme 
+çıktılarının içeriği ile ilişkilendirilerek de ölçülebilir.

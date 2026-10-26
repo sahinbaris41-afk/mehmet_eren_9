@@ -1,0 +1,34 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+35
+3.2.1.2. Ortaöğretim Örnek Sorular
+1-4. soruları aşağıdaki bilgilere göre cevaplayınız.
+Reklam ajansında görev yapan Barış, bir müşterisinin siparişi doğrultusunda belirli sayıda anahtarlık 
+üretmeyi planlamaktadır. Üretim sürecinde kullanılacak ham madde miktarı ve üretim süresi sınırlıdır. 
+Barış, üretimi gerçekleştirmek için atölyesinde bulunan farklı teknik özelliklere sahip M ve P marka üç 
+boyutlu yazıcıları kullanacaktır. Aşağıdaki tabloda yazıcıların 1 saat sonunda bastığı anahtarlık sayısı ve 
+kullandığı ham madde bilgisi verilmiştir.
+Basılan anahtarlık sayısı Kullanılan ham madde (gram)
+M yazıcısı 2 80
+P yazıcısı 1 30
+1. Barış’ın üretim sürecinde basabileceği toplam anahtarlık sayısını ve yazıcıların çalışma stratejisini 
+belirleyen en temel kısıtlayıcı bileşenler aşağıdakilerden hangisidir? (KB3.2.SB1)
+A) Bir adet anahtarlığın basımı için gereken sürenin kısa olmasıdır.
+B) M yazıcısının P yazıcısına oranla iki kat daha hızlı baskı yapabiliyor olmasıdır.
+C) Toplam üretim süresinin sınırlılığı ve mevcut ham madde kapasitesidir.
+D) Atölyedeki teknik imkânların ve kullanılan yazıcı modellerinin çeşitliliğidir.
+E) Yazıcıların birim zamanda tükettikleri ham madde miktarları arasındaki farktır.
+2. Barış’ın istenen anahtarlıkları basabilmesi için 600 gram ham maddesi ve 15 saat süresi vardır. Ancak 
+elektrik sistemindeki bir arıza sebebiyle yazıcıların ikisi aynı anda birlikte çalıştırılamamaktadır.
+Bu koşullarda M yazıcısı ile basılan anahtarlık sayısı x, P yazıcısı ile basılan anahtarlık sayısı y 
+olmak üzere verilen zamanda tüm ham maddeyi kullanarak basılan anahtarlık sayılarını veren ce -
+birsel ifadeler aşağıdakilerden hangisidir?  (KB3.2.SB2)
+A)  4x + 3y = 60 
+3x + 2y = 30
+B)  4x + 3y = 60 
+x + 2y = 30
+C)  x + 2y =60 
+4x + 3y =30
+D)  3x + 4y = 60 
+3x + 2y = 30
+E)  2x + y = 30 
+3x + 4y = 60

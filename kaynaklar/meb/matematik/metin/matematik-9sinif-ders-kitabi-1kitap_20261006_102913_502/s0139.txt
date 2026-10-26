@@ -1,0 +1,24 @@
+139
+2. Tema /  Nicelikler ve Değişimler
+. 
+f ve g gerçek sayılarda tanımlı doğrusal fonksiyonlar olsun.
+f(x)  g(x), f(x)  g(x), f(x)  g(x), f(x)  g(x) eşitsizlikleri düzenlenerek mx + n < 0, mx + n  0, mx + n > 0, 
+mx + n  0 şeklinde yazılabilir. m, n  R ve m  0 olmak üzere mx + n = 0 denkleminin çözüm kümesi mn-&0  dir. 
+Eşitsizliklerin çözüm aralıkları Tablo 2.2 ʼdeki gibidir.
+Tablo 2.2: Birinci Dereceden Bir Bilinmeyenli Eşitsizlikler ve Çözüm Aralıkları
+Eşitsizlik Eşitsizliğin Düzenlenmiş Hâli m > 0 İçin Çözüm Aralığı m < 0 İçin Çözüm Aralığı
+f(x)  g(x) mx + n  0 mn,3--b l mn , 3-b l
+f(x)  g(x) mx + n  0 mn,3--c D mn ,-: 3l
+f(x)  g(x) mx + n  0 mn , 3-b l mn,3--b l
+f(x)  g(x) mx + n  0 mn ,-: 3l mn,3--c D
+Kontrol Noktası
+f ve g doğrusal fonksiyonlar olmak üzere f (x) = g(x), f(x)  g(x), f(x)  g(x), f(x)  g(x), f(x)  g(x) 
+benzeri ifadeler yardımıyla çözüme ulaşılabilir.
+Özel olarak g(x) = 0 olduğunda f(x)  g(x) eşitsizliği f(x)  0, f(x) = g(x) denklemi f(x) = 0 biçimine 
+dönüşür.
+a, b, c, d  R, a  c, a ve c gerçek sayılarından en az biri sıfırdan farklıdır. Gerçek sayılarda tanımlı 
+f ve g fonksiyonlarının cebirsel temsilleri f(x) = ax + b ve g(x) = cx + d olsun. 
+Buradan elde edilen f(x) = g(x) ifadesine birinci	d ereceden 	b ir 	b ilinmeyenli 	d enklem; f(x)  g(x), 
+f(x)  g(x), f(x)  g(x), f(x)  g(x) ifadelerine birinci	d ereceden 	b ir 	b ilinmeyenli 	e şitsizlik denir. 
+m, n  R ve m  0 olmak üzere f(x) = g(x) denkleminden ax + b = cx + d ⇒ (a - c)x + b - d = 0 elde 
+edilir. a - c = m ve b - d = n olmak üzere mx + n = 0 elde edilir. 

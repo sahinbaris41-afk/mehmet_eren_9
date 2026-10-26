@@ -1,0 +1,43 @@
+50
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Gruplar belirledikleri kaynaklar yoluyla gerekli bilgilere ulaşır (OB1, OB7). Elektriğin kullanı-
+mıyla ilgili tehlikeler ve alınması gereken tedbirler hakkında derlenen bilgiler sınıfla payla-
+şılır. Öğrenciler tartışma ortamında toplanan bilgilerin doğruluklarını test eder (OB1). Öğ-
+renciler, doğruluğu teyit edilen bilgilerden elektrik akımının oluşturabileceği tehlikelere 
+karşı alınması gereken önlemler ile ilgili sunum hazırlar (OB1). Öğrenci sunumları dereceli 
+puanlama anahtarı ile değerlendirilebilir.
+FİZ.10.3.7
+Öğrencilere, yıldırım düşme ihtimaline karşı binalarda kullanılan paratonerlerin veya 
+elektrik akımının oluşturabileceği tehlikelere karşı elektrik tesisatında kullanılan topraklı 
+prizlerin çalışma sistemleri hakkında sorular sorularak öğrencilerde konu hakkında merak 
+duygusu oluşturulur (E1.1). Öğrenciler soru cevap tekniği ile topraklamayı tanımlar. Öğ-
+renciler 5N1K sorularından yararlanarak topraklamanın işlevi, topraklama yöntemleri ve 
+türleri hakkında sorular sorar (E3.8). Öğrenciler gelen cevaplar doğrultusunda toprakla-
+ma hakkında güvenilir kaynaklardan araştırma yapar. Araştırma yapmak üzere hedefine 
+uygun strateji, yöntem veya teknikleri seçer (SDB1.2). Elektrik akımı hakkında önceden 
+öğrendiği konularla topraklama hakkında topladığı bilgileri değerlendirir (SDB1.1). Elektrik 
+kaçağı olan topraklı ve topraklanmamış bir buzdolabına dokunulduğunda insan üzerinden 
+geçebilecek elektrik akımı ile ilgili hesaplama yapılabilir. Öğrenciler, topraklama hakkın-
+da elde ettikleri bilgilerin doğru olup olmadığını değerlendirir. Öğrenciler, doğruluğu te-
+yit edilen bilgiler ışığında topraklamanın güvenli elektrik kullanımındaki önemine yönelik 
+çıkarım yapar. Öğrenciler elektrik akımı tehlikelerine karşı alınacak önlemler (D13.4) ile 
+topraklamanın önemi hakkında topladıkları bilgilerle grup çalışması hâlinde bir sunum ha-
+zırlayabilir.
+FARKLILAŞTIRMA
+Zenginleştirme Katı bir iletkenin direncinin sıcaklığa bağlı olarak değişimi incelenebilir. Öğrencilerden di-
+rençlerin renk kodları ile hesaplama yapmaları istenebilir. Öğrencilerin batarya üzerinde 
+bulunan değerleri yorumlayarak bataryaların şarj olma veya tükenme süreleri hakkında 
+çıkarımlarda bulunması sağlanabilir. Dirençlerin bağlanmasında Wheatstone köprüsüyle 
+ilgili matematiksel işlemler yapılabilir.
+*Elektromotor kuvvet kavramını açıklayarak iç dirençleri olan üreteçler ile ilgili matema-
+tiksel işlemler yapılabilir.
+*Programlama ile sanal deney hazırlama ve paylaşma yapılabilir.
+Destekleme Bileşenler ve bileşenlerin rolleri hakkında yönlendirici sorular kullanılabilir. Deney tasar -
+lama, veri toplama, veri işleme ve sonuca varma süreçlerinde deneyin yapılışına dönük, 
+adım adım yönergeler ve hazır veri toplama şablonları geliştirilebilir. Deney tasarlama, veri 
+toplama, veri işleme ve sonuca varma süreçlerinde deneyin yapılışına dönük adım adım 
+yönergeler ve hazır veri toplama şablonları geliştirilebilir. Dirençlerin birleşik bağlanması 
+ve üreteçlerin seri bağlandığı devrelerde ters bağlanma işlemleri verilmeyebilir. 
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

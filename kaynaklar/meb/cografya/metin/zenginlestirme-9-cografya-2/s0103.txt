@@ -1,0 +1,30 @@
+102 103
+COĞRAFYA 9 
+Yönerge: Aşağıdaki kontrol listesi öğrencilerin edindiği bilgi, beceri ve çıkarımları değerlendirebilmeniz amacıy-
+la hazırlanmıştır. Öğrencilerin hazırladıkları çalışmayı “Evet”, “Kısmen”, “Hayır” seçeneklerinden uygun gördüğü-
+nüz birini işaretleyerek değerlendiriniz.
+KONTROL LİSTESİ
+Ölçütler Evet Kısmen Hayır
+1 Öğrenci inceleme konusu ile ilgili çalışma planı hazırladı.
+2 Kitap, bilimsel dergi, bilimsel makaleler ve çevrim içi resmî genel ağ say-
+falarından inceleyeceği makaleyi belirledi.
+3 Belirlediği makalenin güvenilir olması için resmî bir kurum tarafından 
+onaylanmış olmasına dikkat etti.
+4 Bilgileri değerlendirip çıkarımlar yaptı. 
+5 Yaptığı çıkarımları göz önünde bulundurarak onlardan uyumlu bir rapor 
+oluşturdu.
+6 Beyin göçünün nedenlerine ilişkin önermelerde bulundu. 
+7 Oluşturduğu önermeleri değerlendirerek beyin göçünün nedenlerini 
+belirledi.
+8 Beyin göçünün nedenlerini grafikler, tablolar ve çizelgelerle ifade etti.
+9 Gelecekte  beyin göçüne eklenebilecek yeni nedenlere ilişikin öngörüde 
+bulundu.
+10 Çalışma, incelemenin tüm aşamalarını ve sonuçlarını kapsadı.
+11 Çalışmayı sunum tekniklerine uygun olarak sundu.
+12 Sunum sonrasında kendisine yöneltilen soruları yanıtladı.
+13 Çalışma sürecinde arkadaşlarının düşüncelerine saygı gösterdi.
+14 Çalışmayı zamanında teslim etti.
+Öğretmenin öğrenciye dönütleri:
+Adı ve Soyadı: ...........................................................
+Sınıfı/Şubesi: ...........................................................
+Numarası: ................................................................

@@ -1,0 +1,55 @@
+65
+1. Tema /  Sayılar
+21. ÖRNEK
+,Ax xk k 2 Z;!==#-  kümesinin dört işleme göre kapalı olup olmadığını inceleyiniz.
+Çözüm
+A kümesinin herhangi iki elemanı x1  ve x2  olsun. xa ve xb2212==  olacak şekilde ,ab Z!  vardır.
+xx ab ab A22 212 !+ =+= +_i  olur. xx ab ab A22 212 !- =-= -_i  olur.
+xx ab A ab22 412$$ !==  olur.
+x
+x a
+bb
+a
+2
+2
+2
+1
+==  olur. x
+x
+2
+1
+ ifadesi bazı ,ab Z!  için A kümesinin elemanı olmaz. Bu durum, karşıt örnek 
+sunularak da gösterilebilir. av eb13==  seçilirse x
+x
+b
+a A3121 g==  elde edilir.
+Bu durumda A kümesi toplama, çıkarma ve çarpma işlemlerine göre kapalıdır; bölme işlemine göre kapalı 
+değildir. Aksine örnek verme yöntemi hipotezin doğru olmadığını gösterirken matematiksel olarak kolaylık 
+sağlamaktadır.
+Aşağıdaki bilgi görselinde N, Z, Q ve R kümelerinin hangi işlemlere göre kapalı olduğu verilmiştir. 
+Bölme
+Kapalılık 
+Özelliği
+Toplama
+R
+R
+N
+N
+Q
+QZ
+Z
+Çıkarma
+Çarpma
+Q
+R
+Z
+Kontrol Noktası
+20. ÖRNEK
+İrrasyonel sayılar kümesinin çarpma işlemine göre kapalı olup olmadığını gösteriniz.
+Çözüm
+İrrasyonel sayılar kümesinin çarpma işlemine göre kapalı olmadığı karşıt örnek sunularak gösterilebilir. 
+,ç .ii no lur31 231 23 66QQ $ g! ==ll  Böylece aksine örnek verme yöntemi ile doğrula -
+ma yapılmış olur. 
+Bu durumda bazı ,i inab abçQQ $ g! ll  olduğundan Ql kümesi çarpma işlemine göre kapalı değildir.
+15.	Sıra	Sizde      
+İrrasyonel	sayılar	kümesinin	bölme	işlemine	göre	kapalı	olup	olmadığını	gösteriniz.

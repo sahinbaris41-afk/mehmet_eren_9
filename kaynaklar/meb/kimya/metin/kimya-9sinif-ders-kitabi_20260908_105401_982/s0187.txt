@@ -1,0 +1,50 @@
+187
+2. Tema/Çeşitlilik
+Viskozite
+Sıvılar akışkan özellik gösterir. Örneğin süt, su, bal, pekmez, zey -
+tinyağı, benzin, motor yağı, şurup, şampuan gibi birçok sıvı madde 
+akışkan özelliktedir. Ancak aynı şartlarda sıvıların akışkanlığı bir-
+birinden farklıdır. Tüm sıvılar akmaya karşı farklı ölçülerde direnç 
+gösterir. Sıvıların akmaya karşı gösterdiği dirence viskozite denir. 
+Viskozitenin SI birim sistemindeki birimi paskal.saniye (Pa.s) şeklin-
+dedir. Viskozitesi büyük sıvılara ise viskoz sıvı adı verilir.
+Sıvıların akışkan özellikte olmasının nedeni, öteleme hareketi yapan 
+taneciklerinin birbirleri üzerinde kaymasıdır. Eğer sıvı taneciklerinin 
+öteleme hareketi yavaşsa sıvılar akmaya karşı direnç gösterir. Örne-
+ğin bir bisiklet, el freni yavaşça çekilerek sürülmeye çalışılırsa (bir tür 
+sürtünme) bisikletin ileri doğru hareket etmesi zorlaşır ve bisikletin 
+harekete karşı direnci yüksek olur. Aynı şekilde viskozitesi yüksek 
+sıvıların da akmaya karşı direnci yüksek, akışkanlıkları düşüktür. Bu 
+nedenle sıvıyı oluşturan tanecikler birbiri üzerinde kayarken yavaş 
+hareket eder.
+Sıvı Viskozite  (20 °C, Pa.s)
+Su 1,01.10
+−3
+Bal 2-10
+Zeytinyağı 81.10
+−3
+Motor yağı 0,06-0,30
+Pekmez 5-10
+Aseton 0,316.10
+−3
+Etanol 1,20.10
+−3
+Propanol 1,94.10
+−3
+Benzen 0,625.10
+−3
+Karbontetraklorür 0,969.10
+−3
+Etilen glikol 19,83.10
+−3
+Gliserin 1,49
+Aşağıdaki görselde özdeş büretlerde su, zeytinyağı ve bal aynı koşullarda bulunmaktadır. Büretlerin muslukları 
+aynı anda kısa bir süre açılıp tekrar kapatıldığında sıvılara ait damlaların yarıçaplarının sıralanışı r1> r2 >r3 şeklinde oluyor. Buna göre aşağıdaki soruları cevaplayınız. 
+1. Aynı sürede hangi sıvının tanecikleri daha hızlı öteleme hareketi yapmaktadır? 
+2. Büretten akan sıvının damla boyutunun büyüklüğü ile sıvının akışkanlığı arasında nasıl bir ilişki vardır? 
+3. Sıvıların viskozitelerini büyükten küçüğe doğru sıralayınız. Sıralamayı neye göre yaptığınızı açıklayınız.
+4. Sıralamanızı Tablo 2.6’da verilen su, bal ve zeytinyağının viskoziteleri ile karşılaştırınız. 
+Tablo 2.6: Bazı Sıvıların Viskozitesi 
+su zeytinyağı bal
+ViskoziteEtkinlik-2.23
+r1 r2 r3

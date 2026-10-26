@@ -1,0 +1,49 @@
+227
+2. Tema Ölçme ve Değerlendirme Soruları
+H2O(g)
+H2O(g)
+H2O(g)
+C2H5OH(s)
+C2H5OH(s)
+C2H5OH(g)
+C2H5OH(g)
+H2O(s) H2O(s)
+Hg(s)
+Hg(s) Hg(s)
+Hg(s)
+h3
+h4
+h5
+h2h1
+25 °C
+25 °C
+25 °C 70 °C
+2V
+V
+V V
+V
+Hg(s)
+25 °C
+H2O(s)
+IV V
+IIII II
+Öğrenciler bağımlı ve bağımsız değişkenler arasındaki ilişkiyi gözlemlemek üzere deney düzenekleri 
+kurup saf su ve etil alkol sıvılarının denge buhar basınçlarını karşılaştırırlar. Aşağıdaki görsellerde bu 
+sıvıların buharları ile denge hâlinde olduğu bazı durumlar verilmiştir.
+39.
+Manometrelerdeki cıva seviyeleri farklarının karşılaştırılması h3 > h5 > h1 = h2 = h4 şeklindedir. 
+Her bir öğrencinin karşılaştırma sonucunda elde edeceği çıkarımları belirtiniz.
+Mete: 
+Defne: 
+Doruk: 
+Ada: 
+a) Her bir öğrencinin belirlediği değişkenlere göre karşılaştırılması gereken denge buhar 
+basıncı durumlarını tabloda işaretleyiniz. (Her bir öğrenci için yalnızca iki durum seçiniz.) 
+b) Mete ve Defne’nin çıkarımlarını moleküller arası etkileşimleri dikkate alarak açıklayınız. 
+Öğrenci
+Karşılaştırılacak Denge Buhar Basıncı
+I II III IV V
+Mete
+Defne
+Doruk
+Ada

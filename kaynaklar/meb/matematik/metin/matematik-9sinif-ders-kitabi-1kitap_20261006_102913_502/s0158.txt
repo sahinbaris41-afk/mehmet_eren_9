@@ -1,0 +1,37 @@
+158
+2. Tema /  Nicelikler ve Değişimler
+ Elde edilen denklemin sol tarafı parçalı hâle getirilerek her cebirsel temsil için denklemler ayrı ayrı çö zülür. 
+xx23 0 23&+= =-  olmak üzere  ,xi in xx xx23 23 31 52 52ç &&1 -- -= -= -= -
+ .xi in xx x bulunur23 23 31 4ç &$ -+ =- =
+ Bulunan x 52=-  değeri, x 231 -  şartını sağlamaz. Bu nedenle çözüme alınmaz. 
+ x4=  değeri, x 23$ -  şartını sağlar.  Buradan çözüm kümesi 4#-  olur.  Karenin bir kenar uzunluğu,  
+xc m31 34 11 1$-= -=  bulunur. 
+b)  xx23 31+= -  denkleminin grafik çözümü için matematik yazılımından faydalanılabilir. Bunun için 
+i) Giriş bölümüne fx x23=+_i  yazılıp Enter tuşuna basılır. 
+ii) Giriş bölümüne gx x31=-_i  yazılıp Enter tuşuna basılır.
+	 iii)  Kesiştir aracı seçilerek f ve g fonksiyonlarının grafikleri üzerine tıklanır. 
+Giriş...
+2 40-4-6-8 6-2
+-2
+8 10
+ff(x) = |2x + 3 |
+g(x) = 3x - 1
+8
+10
+12
+6
+4
+2
+A a = 2α
+A = Kesiştir(f, g,(4, 11))
+= (4, 11)
+g
+A
+Görsel incelendiğinde fonksiyonların grafiklerinin kesim noktasının ,A4 11_i  olduğu görülür. A nokta-
+sının apsis değeri, fx gx x33 1&=+ =-x 2__ ii  denkleminin kökünü ifade eder. Cebirsel çözüm-
+dekine benzer şekilde bu denklemin bir tane kökü bulunmaktadır.
+c)  Cebirsel temsille iki farklı kök elde edilmiştir. x için belirlenen aralıkları sağlayıp sağlamadığı kontrol 
+edildikten sonra bulunan değerlerden biri çözüm kümesine alınmıştır. Grafik çözümünde f ve g fonk-
+siyonlarının tek noktada kesişmesi, denklemin bir kökü olduğunu doğrulamıştır. Mutlak değerli denk-
+lemler cebirsel temsillerle çözüldüğünde bu denklemlerin x için belirlenen aralığı sağlayıp sağlamadığı 
+kontrol edilmelidir.

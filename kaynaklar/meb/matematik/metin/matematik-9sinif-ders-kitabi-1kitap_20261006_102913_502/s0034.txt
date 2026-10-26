@@ -1,0 +1,88 @@
+34
+1. Tema /  Sayılar
+12. ÖRNEK
++
+2
+1
+23
+1  işleminin sonucunu bulunuz.
+Çözüm 
++= +=+=
+2
+1
+23
+1
+2
+2
+6
+3
+6
+32
+6
+3
+6
+32 3
+2 3 3
++
+aa _kk i
+  olur.
+13. ÖRNEK
+31
+3
+31
+1
+-
+-
++
+  işleminin sonucunu bulunuz.
+Çözüm 
+. bulunur
+31
+3
+31
+1
+31
+33 1
+31
+31
+2
+33
+2
+31
+2
+33 31
+2
+4 2
+31 31
+-
+-
++
+= -
++
+- -- = + - - = +-+ ==
+-+
+_
+aa
+i
+kk
+8.	Sıra	Sizde      
+53
+1
+31
+1
+2
+1
++
++
+-
++   işleminin	sonucunu	bulunuz.
+14. ÖRNEK
+Ahmet Bey, 1200 m 2lik kare şeklindeki arazisinin çevresini çitle çevirmek istemektedir. Ahmet Bey’in 
+kullanacağı çit 5 metrelik paneller hâlinde satılmakta olup panelin tanesi 1700 Türk lirasıdır.
+Buna göre Ahmet Bey’in bu işi en az maliyetle yaklaşık kaç Türk lirası harcayarak tamamlayabileceğini 
+bulunuz.
+Çözüm 
+Kare şeklindeki 1200 m 2lik arazinin bir kenarının uzunluğu 1200  m’dir. Ahmet Bey’in kaç metre çite 
+ihtiyacı olduğunu bulmak için bir kenar uzunluğunun yaklaşık değeri hesaplanmalıdır.
+1200 20 32 032 $==  olur.
+312 22 211_i  olduğundan 3  sayısı, 1 ve 2 sayıları arasındadır.

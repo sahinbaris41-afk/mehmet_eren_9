@@ -1,0 +1,48 @@
+94
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+elektromanyetik dalgaların enerjisini ilişkilendirir. Elektromanyetik dalgaların enerji, fre-
+kans ve dalga boyu niteliklerini belirler. Hazır veri seti üzerinden farklı ortamların elekt -
+romanyetik dalgaların süratine etkisini belirler (OB1, OB7). Öğrenciler, öğretmen rehber -
+liğinde gruplara ayrılarak elektromanyetik dalga spektrumunda yer alan radyo dalgaları, 
+mikrodalga, kızılötesi ışınlar, görünür ışık, morötesi ışınlar, x ışınları, gama ışınlarını araş-
+tırır. Her grup ayrı bir dalga türünü araştırmak üzere grup üyeleriyle görev paylaşımı yapar 
+(SDB2.2). Araştırma sonucu sınıfta paylaşılarak öğrencilerin dalga türlerini ayrıştırmaları 
+ve gruplandırmaları sağlanır (OB1). Öğrenciler elektromanyetik spektrumu oluşturan dal-
+gaları adlandırır. Öğretmen; tanılayıcı dallanmış ağaç, yapılandırılmış grid ya da açık uçlu 
+soruların olduğu çalışma yaprağı ile değerlendirme yapabilir.
+FİZ.12.3.6
+Öğretmen, Newton’ın ışığın prizmada renklere ayrılmasına ilişkin yaptığı çalışmaları ve 
+günlük hayatta gökkuşağının oluşumu gibi olayları kullanarak öğrencilerin dikkatini çeke-
+bilir. Öğrenciler simülasyon, deney veya görseller kullanarak ışık renklerinin dalga boyuna 
+göre değiştiğini bulur (OB1). Öğretmen cisimlerin farklı renklerde görünme nedenlerini 
+ışığın yansıması ile ilişkilendirerek açıklar. Işık spektrumunu oluşturan renklerin dalga bo-
+yuna ilişkin hazır veri setini kullanarak açıklamalar yapar. Öğrenciler, ışıktaki renkleri araş-
+tırarak ana ve ara ışık renklerini bulur (E3.4). Renklerin birleşimi ile ilgili sınıf içi etkinlikler 
+yapabilir. Öğrenciler ana ışık renklerinin birleşiminden tüm renkli ışıkların oluşabileceği-
+ne ilişkin genelleme yapar (OB1). Öğretmen yapılandırılmış grid, tanılayıcı dallanmış ağaç 
+veya açık uçlu sorulardan yararlanarak değerlendirme yapabilir. 
+FİZ.12.3.7
+Öğretmen, mekanik ve elektromanyetik dalga türlerinin günlük hayatta kullanıldıkları 
+yerlere ilişkin görsellerde kullanılan dalga türlerini öğrencilerin ön bilgilerinden faydala-
+narak belirtmelerini isteyebilir. Öğrenciler mekanik ve elektromanyetik dalga türlerinin 
+kullanıldığı cihazlardan bir tanesine ilişkin araştırmalarında kullanacakları kaynaklara ar -
+kadaşları ile fikir alışverişi yaparak karar verir (E2.4, E3.9, SDB1.2) ve bu kararını uygular 
+(D11.2, D16.1). Araştırmalarında sağlık alanında kullanılan ultrason, tomografi ve MR, as-
+kerî alanda kullanılan sonar ve radar, astronomi alanında kullanılan radyo teleskobu ve 
+güvenlik alanında kullanılan X-ray ve metal dedektörü ile sınırlı kalınır. Öğrenciler, belirle-
+dikleri cihazın kullanım alanlarına, yöntemlerine ve bu cihazlarda kullanılan dalga türlerine 
+ilişkin birbirlerine sorular sorar (E3.8). Öğrenciler belirledikleri sorulara ilişkin bilgi toplar 
+(KB2.6). Öğrenciler topladığı bilgilerin doğru olup olmadığını farklı kaynakları kullanarak 
+değerlendirir (OB1). Topladığı bilgiler ile belirledikleri cihaza ilişkin poster hazırlayarak sınıf 
+arkadaşlarına sunum yapabilir. Öğrenciler araştırdıkları cihazı, insan ve çevre sağlığı, kişi-
+sel mahremiyet (D8.2), askeri alanda Türkiye'nin bağımsızlığı ve korunması konularıyla iliş-
+kilendirerek çıkarımda bulunur (SDB3.3) ve bu çıkarımlarına sunumlarında yer verir (D3.1, 
+D19.4, OB1). Öğrenciler, belirledikleri cihazın kullanım alanlarına ve cihazlarda kullanılan 
+dalga türlerine ilişkin çıkarımlar yapar. Öğretmen, performans görevi olarak mekanik veya 
+elektromanyetik dalgaların kullanıldığı cihazlara ilişkin öğrencilerin hazırladıkları ve sun-
+dukları posterleri değerlendirebilir. 
+FARKLILAŞTIRMA
+Zenginleştirme Elektromanyetik spektrumda frekans sınırlarının net olmadığı, bazı dalgaların iki bölgede 
+birden yer aldığı örnekleri araştırmaları istenebilir.
+*Mekanik veya elektromanyetik dalgaların uygulamalarına ilişkin araştırmaya cihazın ça-
+lışma prensipleri eklenebilir.

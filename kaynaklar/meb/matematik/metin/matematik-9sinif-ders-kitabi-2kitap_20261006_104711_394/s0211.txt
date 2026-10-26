@@ -1,0 +1,31 @@
+211
+7. Tema / Veriden Olasılığa
+b) Hilesiz iki sayı küpünün üst yüzeyine gelen sayıların toplamının 5 olma olayının deneysel olasılık 
+değeri, 
+ 50 tekrarda ,035 00 6=
+ 100 tekrarda ,0 00109 9=
+ 500 tekrarda ,50 0055 11=
+ 1000 tekrarda ,0 0100110 11=  olur. 
+c) Tekrar sayısı arttıkça dağılımda ve ele alınan olayın deneysel olasılık değerinde oluşan değişebi -
+lirlik azalmıştır. Hilesiz iki sayı küpünün üst yüzeyine gelen sayıların sıklığına ait grafik, kararlı hâle 
+gelmiştir. Hilesiz iki sayı küpünün üst yüzeyine gelen sayıların toplamının 5 olma olayının deneysel 
+olasılık değeri 0,11’e yaklaşma eğilimindedir.
+ç) Bu değişimlere göre bir olayın deneysel olasılık değerinin daha kararlı hâle gelmesi için o deneye ait 
+tekrar sayısının mümkün olduğunca fazla olması gerekmektedir. 
+2. Sıra Sizde      
+Aşağıdaki tabloda üzerinde 1’den 4’e kadar sayıların yazılı olduğu iki düzgün dört yüzlünün havaya 
+atılması deneyinde alt yüzeyine gelen sayıların toplamının sıklığı ve deneyin tekrar sayısı verilmiştir.
+ Tekrar Sayısı
+Toplam
+2 3 4 5 6 7 8
+50 0 6 14 16 6 5 3
+100 6 12 23 32 14 10 3
+500 31 77 97 124 84 59 28
+1000 68 118 201 229 176 139 69
+Bu tabloya göre aşağıdaki soruları cevaplayınız.
+a) 50, 100, 500 ve 1000 tekrarda oluşan sıklıklara ait sütun grafiklerini çiziniz veya istatistik yazı-
+lımları, tablolama programları gibi araçlar yardımıyla oluşturunuz. 
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.
+Soru ile ilgili simülasyona ulaşmak 
+için karekodu okutunuz.

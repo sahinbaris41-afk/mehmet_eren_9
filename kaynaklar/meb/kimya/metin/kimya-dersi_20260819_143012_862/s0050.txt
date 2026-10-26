@@ -1,0 +1,49 @@
+50
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.10.2.8. Çözünen maddenin tanecik sayısının çözeltilerin kaynama ve donma noktası-
+na etkisini belirlemeye yönelik hipotez oluşturabilme 
+a) Katı-sıvı çözeltilerin kaynama ve donma noktasının saf suya göre değişimine yöne-
+lik araştırma sorusu belirler. 
+b) Çözeltilerin kaynama ve donma noktasının değişimine yönelik neden-sonuç ilişki -
+lerini belirtir. 
+c) Neden-sonuç ilişkilerini araştırabilmek için bağımlı-bağımsız değişkenleri ve kont-
+rol değişkenlerini belirler. 
+ç) Değişkenler arasındaki ilişkiyi belirlemek üzere deneyler yaparak elde ettiği verile-
+re dayalı önermeler sunar.
+d) Çözeltilerin kaynama noktasının yükselmesi ve donma noktasının düşmesine ne -
+den olan faktörlere yönelik sunduğu önermeleri bilimsel kuramlar ile destekler.
+ İÇERİK ÇERÇEVESİ Çözeltiler: Çözünme Süreci, Maddelerin Birbiri İçindeki Çözünebilirliği, Çözünme Olayının 
+Sınıflandırılması, Çözünürlük, Çözünürlüğe Etki Eden Faktörler (Sıcaklık, Basınç ve Madde 
+Cinsi), Çözeltilerin Sınıflandırılması, Derişim Birimleri (Molarite ve ppm), Koligatif Özellikler 
+(Kaynama Noktası Yükselmesi ve Donma Noktası Düşmesi) 
+Genellemeler/İlkeler/
+Anahtar Kavramlar
+aşırı doymuş çözelti, çözelti, çözücü, çözünen, çözünme, çözünürlük, derişik çözelti, 
+doymuş çözelti, doymamış çözelti, elektrolit çözelti, elektrolit olmayan çözelti, iyonik çö -
+zünme, koligatif özellik, milyonda bir derişim (ppm), molar derişim, moleküler çözünme, 
+seyreltik çözelti
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında yansıtma notu, 
+çalışma yaprağı, yapılandırılmış grid, performans görevi, etkinlik kâğıdı, deney raporu ve 
+sınıf içi tartışma kullanılabilir.
+Öğrenciler performans görevi çerçevesinde aynı miktar çözücüdeki tanecik sayısının 
+kaynama noktası ve donma noktasına etkisini araştırmak için neden-sonuç ilişkisini or -
+taya koyacağı bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Performans görevi 
+“araştırma sorusunu, neden-sonuç ilişkisini, bağımlı-bağımsız değişkenleri ve kontrol de-
+ğişkenlerini belirleyebilme; deneyler yapabilme ve elde ettiği sonuçları bilimsel kuram ile 
+destekleyebilme” ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. 
+Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında 
+toplanarak değerlendirme amaçlı kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin çözünme, çözelti, çözücü ve çözünen kavramlarını ve sıcaklığın çözünür -
+lüğe etkisini, çözünme hızına etki eden faktörleri, homojen ve heterojen karışımları, 
+karışımları ayırma tekniklerini bildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Bir gösteri deneyi, video, animasyon ya da çeşitli görseller yardımıyla öğrencilerin çözün-
+me, çözelti, çözücü ve çözünen kavramları ile ilgili bilgilerini paylaşmaları sağlanabilir. 
+Köprü Kurma Günlük hayattan somut örnekler ile öğrencilere farklı maddelerin birbiri içinde çözünme 
+sürecine ilişkin sorular sorulabilir. Öğrencilerin çözünme ve erime kavramları hakkında 
+sahip olabilecekleri kavram yanılgıları uygun yöntem ve teknik aracılığı ile sorgulanabilir.

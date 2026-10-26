@@ -1,0 +1,37 @@
+221
+ENERJİ
+8. Isı, sıcaklık değişimi, öz ısı ve ısı sığası arasındaki ilişkinin matematiksel modeline dair bir önerme sununuz. 
+Önerdiğiniz matematiksel modeli diğer grupların modelleriyle karşılaştırınız ve modeli değerlendiriniz.
+Matematiksel Model
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+9. Önerdiğiniz matematiksel modelden yararlanarak aşağıdaki soruları cevaplayınız. Sorulara ver diğiniz ce­
+vapları sınıf arkadaşlarınızla paylaşınız. 
+Sorular Cevaplar
+300 g suyun sıcaklığını 20 °C’tan 30 °C’a çıkarmak için suya 
+verilmesi gereken ısı Q1, 400 g bakırın sıcaklığını aynı miktarda 
+artırmak için bakıra verilmesi gereken ısı Q2 olduğuna göre  
+Q1/Q2 oranı nedir?
+(csu = 1 cal/g : °C, cbakır = 0,1 cal/g : °C alınız.)
+Kütlesi 2 m, öz ısısı c olan bir cisme 2 Q kadar ısı verildiğinde 
+cismin sıcaklığındaki değişim T oluyor. 
+Buna göre aynı maddeden yapılmış m kütleli bir başka cisme 8 Q 
+kadar ısı verilirse cismin sıcaklığındaki değişim kaç T olur?
+Değerlendirme
+1. Y aptığınız deneyde karşılaştığınız zorluklar nelerdi ve bu zorlukları nasıl aştınız?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+2. Deneyi yeniden tasarlasaydınız neleri değiştirirdiniz?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Etkinlik, öğretmeniniz tarafından “Dereceli Puanlama Anahtarı” ile değerlendirilecektir. 
+“Dereceli Puanlama Anahtarı”na karekodu okutarak ulaşabilirsiniz. 
+ 
+Saf bir maddeye ısı verildiğinde ya maddenin sıcaklığı artar ya da madde hâl 
+değiştirir. Hâl değişiminin gerçekleşmediği durumlarda maddenin sıcaklığın -
+daki değişim maddeye verilen ısıyla doğru orantılıdır (Görsel 4.12). 
+Sıcaklık (K)
+Isı (J)Q
+Verilen ısı (Q)
+0
+T1
+T2
+Sıcaklık değişimi (∆T = T2 - T1)
+Görsel 4.12: Isı alan saf bir maddenin sıcaklığındaki değişimi gösteren grafik

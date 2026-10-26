@@ -1,0 +1,49 @@
+33
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+ç-d)    Öğrencilerden ulaştıkları bilgilerin doğruluğunu bilim dergileri ve bilimsel makaleler 
+gibi güvenilir kaynaklardan yararlanarak değerlendirmeleri istenir (D3.3, OB2). Topladıkları 
+bilgileri görsel ve şematik olarak sunmaları istenir (OB4). Hazırladıkları sunulardan 
+yararlanarak canlılık ve enerji ilişkisi hakkında çıkarım yapmaları beklenir. 
+Öğrencilerden canlıların yaşamının devam edebilmesi için enerjinin gerekliliğini ve önemini 
+tanımladıkları, konu hakkında sorular sorarak sorularını cevapladıkları, topladıkları bilgilerin 
+doğruluğunu değerlendirerek çıkarım yaptıkları bir öğrenme günlüğü oluşturmaları istenir. 
+Öğrenme günlüğü, bütüncül dereceli puanlama anahtarı ile puanlanabilir; öğrencilerin öz 
+değerlendirme yapması sağlanır (E3.5). 
+BİY.10.1.2 
+a) Öğrencilere fotosentez reaksiyonlarının temel adımlarını gösteren slayt gösterisi veya 
+kısa animasyon/video izletilebilir. Öğrencilerden fotosentezin genel aşamalarını (ışığın 
+kullanıldığı tepkimeler, elektron taşıma sistemi, ATP sentezi, suyun parçalanması, ışığın 
+kullanılmadığı tepkimeler, Calvin döngüsü) gösteren bir modeli grup çalışmasıyla önermeleri 
+istenir. Öğrenciler diyagram, şema, maket veya etkileşimli görsel iletişim uygulamaları 
+kullanarak önerdikleri modelleri dijital araçlarla, etkileşimli olarak arkadaşlarıyla paylaşır 
+(OB2, E3.3). Bu süreçte pigmentlerin (klorofil, ksantofil, karoten, likopen vb.) fotosentez 
+sürecindeki görevleri verilir. Pigmentlerin yapısına ve klorofil çeşitlerine girilmez. 
+Fotofosforilasyon olayının mekanizması, devirli ve devirsiz fotofosforilasyon, fotosistem 
+çeşitleri, Calvin döngüsünün ara basamakları, CAM ve C4 bitkilerinde görülen farklı 
+fotosentez türleri ve fotosenteze etki eden genetik faktörler verilmez.
+b) Bilim insanlarının geliştirdiği fotosentez reaksiyonu modeli paylaşılarak öğrencilerden 
+bu modeli kendi önerdikleri modellerle karşılaştırmaları istenir. Bu karşılaştırma sayesinde 
+öğrencilerin aynı konuya ilişkin farklı bakış açılarını fark etmeleri sağlanır (E3.10). 
+Öğrenciler, karşılaştırma sonucunda  kendi modellerini yeniler. 
+BİY.10.1.3 
+a-b)  “Fotosentezde bitkiler tarafından kullanılan ve üretilen maddeler nelerdir?” gibi 
+sorularla konuya dikkat çekilir (E1.1). Öğrencilerin fotosentezin gerçekleşme sürecine ilişkin 
+bilgi ihtiyaçlarını fark etmeleri sağlanır. Bilim tarihinde fotosentez ile ilgili yapılan çalışmalara 
+(Jan Baptist van Helmont, Joseph Priestley, Jan Ingenhousz, Melvin Calvin, Robert 
+Hill’in çalışmaları) ilişkin bilgiler verilir. Öğrencilerden bu bilgileri fotosentezde kullanılan 
+ve üretilen maddelere göre yapılandırmaları ve fotosentezle ilgili kontrollü bir deney 
+tasarlamak üzere kullanmaları istenir. Sentezledikleri bilgileri kullanarak tasarladıkları 
+deneylerin amaçları ile bağımlı ve bağımsız değişkenlerini tanımlamaları istenir. 
+Deneylerini grup çalışması ile yapmaları beklenir.  Öğrenciler, deneyi gerçekleştirirken 
+dikkatlerini olumsuz etkileyen faktörleri kontrol etmeleri ve deneye devam etmek için 
+isteklerini sürdürmeleri konusunda cesaretlendirilir (SDB1.2, D3.4, D12.3). Öğrenciler, 
+deney sonuçlarının analizini yaparak ulaştıkları sonuçları fotosentez olayı ile ilişkilendirir; 
+elde ettikleri verileri açıklamak için sunum veya rapor hazırlar. Öğrencilerden etkili iletişim 
+becerilerini kullanmaları ve grup arkadaşlarına nazik davranmaları istenerek saygı değeri 
+vurgulanır (D14.1, OB7, E3.7).
+BİY.10.1.4
+a-b-c)  Öğrencilerden “Işık enerjisi kullanılmadan besin sentezi nasıl gerçekleşir?” sorusuna 
+cevap bulmaları istenir. Öğrenciler, bilgiye ulaşmak için kullanacakları araçları belirler. 
+Öğrencilerden belirledikleri araçları kullanarak kemosentez hakkında araştırma yapmaları, 
+bilgi toplamaları (OB1) ve ulaştıkları bilgileri doğrulamaları istenir. Bu süreçte kemosentez 
+tepkimelerine değinilmez.

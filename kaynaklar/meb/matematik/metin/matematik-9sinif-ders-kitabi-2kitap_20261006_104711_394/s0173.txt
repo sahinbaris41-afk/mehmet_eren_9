@@ -1,0 +1,14 @@
+173
+6. Tema / İstatistiksel Araştırma Süreci
+Üzerinde Uzlaştığınız Veri Toplama Planınız
+1. Adım:	Araştırma	sorularına	cevap	bulmayı	sağlayacak	veri	toplama	aracının	belirlenmesi	veya	
+oluşturulması
+2. Adım:	Evren	ve	örneklemin	belirlenmesi
+3. Adım:	Rastgeleliğin	sağlanması
+4. Adım:	Değişkenlerin	belirlenmesi
+5. Adım:	Verilerin	nerede,	ne	zaman,	nasıl	ve	kimler	tarafından	toplanacağının	belirlenmesi	
+6. Adım:	Verilerin	kaydedilmesi
+7. Adım:	Verilerin	gizliliğinin	sağlanması,	nesnel	ve	dürüst	olunması
+Kontrol Noktası
+İstatistiksel araştırma sürecinde veri toplamaya başlamadan önce verinin nasıl toplanacağına dair planlama yap-
+mak önemlidir.

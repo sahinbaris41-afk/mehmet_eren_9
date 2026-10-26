@@ -1,0 +1,49 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+85
+5. TEMA: ALGORİTMA VE BİLİŞİM
+1. Adım
+2. Adım
+Bir algoritmanın işleyişi; algoritmik doğal dil, sözde kod veya akış şeması ile ifade edilebilir. 
+Aşağıda üçgenin alanını bulan bir algoritma verilmiştir. Algoritmanın işleyişini ifade eden algoritmik 
+doğal dil, sözde kod ve akış şemasını inceleyiniz.
+Aşağıda farklı iki sayıdan büyük olanı bulan algoritmanın işleyişi algoritmik doğal dil ile ifade edilmiştir. 
+Algoritmanın işleyişini sözde kod ile ifade ediniz ve akış şemasını tamamlayınız.
+Etkinlik Aşaması
+Bu etkinlikte, algoritmaların işleyişi farklı örnekler üzerinden incelenecektir. Adımları sırasıyla uygu-
+layınız.
+Algoritmik Doğal Dil
+1. Adım: Başla
+2. Adım: Girdilerin alınması 
+ Kullanıcıdan birinci sayıyı (X) ve ikinci sayıyı (Y) al.
+3. Adım: Koşulun kontrolü 
+ Birinci sayı (X) ikinci sayıya (Y) eşit mi diye kontrol et. Eşitse sayıları yeniden girmesini iste. Eşit 
+  değilse birinci sayı (X) ikinci sayıdan (Y) büyük mü diye kontrol et.
+4. Adım: Çıktının yazdırılması 
+ Eğer X>Y ise ekrana “Büyük sayı X” yaz. Değilse “Büyük sayı Y” yaz.
+5. Adım: Bitir
+Algoritmik Doğal Dil Akış Şeması
+Sözde Kod
+1. Adım: Başla
+2. Adım: Girdilerin alınması 
+ Kullanıcıdan yükseklik (h) ve taban 
+ uzunluğunu (a) al.
+3. Adım: Hesaplamanın yapılması 
+ Alanı bul. Bunun için yükseklik ile 
+ taban uzunluğunu çarp 2’ye böl.
+4. Adım: Çıktının yazdırılması 
+ Ekrana alanı yazdır.
+5. Adım: Bitir
+Girdi: yükseklik 
+ taban uzunluğu
+Çıktı: alan
+Başla: A=yükseklik*taban uzunluğu/2 
+ Yazdır “alan”, A, “birimkaredir.”
+Bitir: Bitir
+Başla
+Yükseklik 
+(h) gir.
+Taban uzunluğu 
+(a) gir.
+A=a*h/2
+Alanı A  
+birimkaredir.

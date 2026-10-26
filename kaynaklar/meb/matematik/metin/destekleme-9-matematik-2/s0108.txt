@@ -1,0 +1,30 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+107
+6. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ
+3. Adım
+İnceleme sonrasında firma yetkilisi “2024 yılında Türkiye'de en az konut satışı İngiltere vatandaşlarına 
+yapılmıştır.” sonucuna varmıştır.
+Buna göre verilen grafiği inceleyiniz ve soruları yanıtlayınız.
+Firma yetkilisi 2024 yılı Kasım ayında uyruklara göre konut satışı sayısı için Grafik 3'te verilen TÜİK 
+verilerini incelemiştir.
+a.  Bu araştırmacının çıkarımına yönelik tespit ettiğiniz hataları/yanlılıkları varsa yazınız.
+b.  Tespit ettiğiniz bir hata/yanlılık varsa düzeltmek için araştırmacıya ne önerirsiniz?
+c.  Verilen grafiğe bakılarak "Kasım 2024’te Rusya Federasyonu'na yapılan konut satışı sayısı bir önceki
+yılın kasım ayına göre azalmıştır." çıkarımı yapılabilir mi? Neden?
+Çözüm:
+Çözüm:
+Çözüm:
+0 50 100 150 200 250 300 350 400 450
+İngiltere
+Çin
+Suudi Arabistan
+Azerbaycan
+Kazakistan
+Almanya
+Irak
+Ukrayna
+İran
+Rusya Federasyonu
+Grafik 3: Uyruklara göre en çok konut satışı yapılan 10 ülke
+Satış Miktarı (Adet)
+Ülke

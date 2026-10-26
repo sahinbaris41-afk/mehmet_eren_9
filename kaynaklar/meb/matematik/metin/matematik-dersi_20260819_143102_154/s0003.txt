@@ -1,0 +1,30 @@
+3
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+1. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI 4
+1.1. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI՚NIN TEMEL Y AKLAŞIMI VE ÖZEL AMAÇLARI 4
+ 1.2. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI՚NIN UYGULANMASINA İLİŞKİN ESASLAR 5
+1.2.1. Alan Becerileri, Kavramsal Beceriler ve Eğilimler 5
+1.2.2. Programlar Arası Bileşenler 5
+1.2.3. Disiplinler Arası ve Beceriler Arası İlişkiler 6
+1.2.4. Öğrenme Çıktıları 6
+1.2.5. İçerik Çerçevesi 6
+1.2.6. Öğrenme Kanıtları (Ölçme ve Değerlendirme) 7
+1.2.7. Öğrenme-Öğretme Yaşantıları 7
+1.2.8. Farklılaştırma 8
+ 1.3. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI’NIN TEMA, ÖĞRENME ÇIKTISI SAYISI VE 
+SÜRE TABLOLARI 10
+1.4. ORTAÖĞRETİM MATEMATİK DERSİ KİTAP FORMA SAYILARI VE KİTAP EBATLARI 13
+1.5. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI՚NIN Y APISI 14
+1.5.1. Ortaöğretim Matematik Dersi Öğretim Programı՚nın İçerik Tasarımı 16
+1.5.2. Ortaöğretim Matematik Dersi Öğretim Programı՚nın Tema İçerikleri 17
+1.5.2.1. “Sayılar”, “Mantıksal Çıkarım”, “Algoritma ve Bilişim”, “Sayma, Algoritma ve Bilişim” , “Nicelikler ve  
+                Değişimler”, “Değişimin Matematiği” Temaları 17
+1.5.2.2. “Geometrik Şekiller”, “Eşlik ve Benzerlik”, “Geometrik Cisimler”, “Analitik İnceleme” Temaları 18
+1.5.2.3. “İstatistiksel Araştırma Süreci”, “Veriden Olasılığa”, “Hazır Veriler Üzerinde Çalışma” Temaları 19
+2. ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI SINIF DÜZEYLERİNE AİT TEMALAR 20
+HAZIRLIK SINIFI 20
+9. SINIF 43
+10. SINIF 85
+11. SINIF 128
+12. SINIF 161
+İÇİNDEKİLER

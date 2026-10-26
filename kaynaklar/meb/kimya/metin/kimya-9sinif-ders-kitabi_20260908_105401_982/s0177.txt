@@ -1,0 +1,24 @@
+177
+2. Tema/Çeşitlilik
+1. Sıvıların tanecikleri arasındaki etkileşimleri inceleyerek etkileşim türlerini belirleyiniz. 
+2. Sıvıların etkileşim kuvvetlerini kıyaslayınız.
+3. Sıvıların etkileşim kuvvetleri ve belirlediğiniz kaynama sıcaklıkları arasında nasıl bir ilişki vardır? 
+Açıklayınız.
+4. Tahminleriniz ve gözlemleriniz arasında karşılaştırmalar yapınız. Tahminlerinizle gözlemleriniz arasında 
+tutarsızlık var mı? Eğer tahminlerinizle gözlemleriniz arasında tutarsızlık varsa bunun nedenlerini 
+açıklayınız. 
+Deneyin Adı: Hangi Sıvının Kaynama Sıcaklığı En Yüksek?
+Deneyin Amacı: Moleküller arası etkileşimlerin kaynama sıcaklığına etkisini belirleyebilme
+Malzemeler: 250 mL’lik erlenmayer (3 adet), saf su (150 mL), etanol (150 mL), aseton (150 mL), termomet-
+re, elektrikli ısıtıcı, spor, kıskaç
+İşlem Basamakları
+1. 150 mL saf su, 150 mL etanol ve 150 mL asetonu 3 farklı erlenmayere ayrı 
+ayrı doldurunuz. Ardından erlenmayerleri elektrikli ısıtıcı üzerine konum-
+landırınız. 
+2. Her erlenmayerin içine kıskaç ile sabitlenmiş bir termometre yerleştiriniz ve 
+ısıtıcıyı çalıştırarak sıvıları ısıtınız. 
+3. Isıtmaya başladıktan sonra her sıvının sıcaklığını üçer dakika arayla not alınız. 
+Bu işlemi sıvılar kaynayana kadar devam ettiriniz ve her bir sıvının kaynama-
+sını gözlemleyerek bu gözlemleri not alınız. (Okulunuzda çeker ocak yoksa 
+deney esnasında laboratuvarın havalandırılmasına özen gösteriniz.)
+Değerlendirme

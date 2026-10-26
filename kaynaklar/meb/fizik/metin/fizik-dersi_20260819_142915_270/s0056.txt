@@ -1,0 +1,47 @@
+56
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+(OB4) karşılaştırması sağlar. Öğrenciler doğrusal su dalgalarının doğrusal engelden yansı-
+ması sırasında gelme açısı ile yansıma açısı, farklı derinlikteki ortamlar arasındaki kırılma-
+sı sırasında gelme açısı ile kırılma açısı hakkında  tartışarak (SDB2.2) kavramlar arasında 
+ilişki kurar. Öğrenciler yapılan gözlem ve ilişkilerden sonra su dalgalarında derinliğin yayıl-
+ma doğrultusu, yönü ve süratine etkisi üzerine genelleme yapar. Öğretmen, öğrencileri 
+yapılandırılmış grid ve tanılayıcı dallanmış ağaç sorularından oluşan çalışma yaprağı ile 
+değerlendirebilir. 
+FİZ.10.4.6
+Frekansları aynı iki diyapozondan birinin titreşiminin diğerinde de titreşime neden olduğu 
+gösteri deneyi veya dijital içerikler gösterilebilir. Köprülerin rezonans ile salınımı üzerine 
+videolar izletilebilir. Öğretmen; rezonans, depreme ilişkin depremin odak noktası, mer -
+kez üssü, şiddeti ve büyüklüğü kavramları ile ilgili dijital içerikler sunar. Öğrenciler bu kav-
+ramları kendi cümleleri ile tanımlar. Öğretmen tartışma, soru cevap veya beyin fırtınası 
+tekniklerini kullanarak öğrencilerin açık fikirlilikle (E3.5) sorular sormasını sağlar (E3.8). 
+Öğrenciler öğretmen rehberliğinde gruplar oluşturabilir (SDB2.2). Gruplar soruların ce-
+vaplarını ve depremle ilişkili kavramları planlama yaparak araştırır (D3.3, OB1). İş birlik -
+li öğrenme yöntemiyle (SDB2.2)  her grup kendi içinde topladığı bilgilerin güvenilirliği ve 
+doğruluğu ile ilgili  fikir alışverişinde bulunarak sonuçları değerlendirir (KB2.6). Gruplar 
+sorumlu oldukları araştırmaları sınıf arkadaşlarına sunar (E2.2, OB1). Öğrenciler rezonans 
+ve depreme ilişkin kavramlardan yola çıkarak depreme yönelik çıkarımlar yapar. Öğret -
+men öğrencilerden kavram haritası hazırlamalarını isteyebilir. Kavram haritaları dereceli 
+puanlama anahtarı kullanılarak değerlendirilebilir.  
+FİZ.10.4.7
+Öğretmen sismograf ve izolatör gibi depremle ilişkili aygıtların fotoğraf ya da videoları ile 
+öğrencilerin dikkatini çeker (OB4). Öğretmen sismograf ve izolatörün çalışma prensibine 
+ilişkin açıklamalarda bulunabilir. Öğrenciler, STEM yaklaşımı doğrultusunda depremin bü-
+yüklüğünü ölçmeye, depremin etkilerini azaltmaya veya depreme ilişkin bir günlük hayat 
+problemini tanımlayıp çözmeye yönelik bir ürün (D5.3, D16.2, D20.3) ya da model geliştirir 
+(E3.1, E3.3, SDB1.2, SDB2.3). Öğrenciler bu süreçte problemi saptayıp probleme ilişkin 
+alternatif çözümler üretir, en uygun çözümü belirler ve uygular (SDB3.3). Öğrenciler bu 
+süreçte karşı karşıya kaldığı zor durumlarla baş edebilmek için önünde farklı birçok se-
+çeneğin olacağını fark eder (SDB3.2). Önerdikleri modeli sınıf arkadaşları ile paylaşarak 
+modelin geliştirilmesine yönelik tartışma (SDB2.2) yapar (D3.3). Öğrenciler aktif rol alarak 
+önerdikleri modeli geliştirir (KB3.2). Öğretmen oluşturulan modelleri dereceli puanlama 
+ölçeği ile değerlendirilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme Öğrenciler, yaylarda (tellerde) dalgaların yayılma süratinin yayın birim uzunluğunun kütlesi 
+ile yaya etki eden kuvvetin büyüklüğüne bağlı olduğunu ifade eden matematiksel modele 
+araştırma yaparak ulaşabilirler. Müzik aletlerinde kullanılan tellerin cinsi, gerginlikleri ve 
+uzunlukları ile oluşan ses dalgalarının frekansı arasındaki ilişki araştırılabilir. Öğrenciler, 
+geçmişten bugüne kullanılan zaman ölçümünde periyot kavramını kullanan saatlerin ça-
+lışma prensipleri hakkında araştırma yaparak saatlerin değişimini gösteren bir tarih şeridi 
+hazırlayıp paylaşabilir. Yay ve basit sarkacın periyodu ile ilgili matematiksel model verile-
+rek hesaplamalar yaptırılabilir. Öğrencilerin yay dalgalarında yaptıkları etkinliklere yapıcı 
+ve yıkıcı girişim durumları eklenebilir. Su dalgalarında ayrılma olayına ilişkin araştırmalar

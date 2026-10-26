@@ -1,0 +1,54 @@
+64
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrencilere dönüşümler kullanılarak oluşturulmuş farklı kültürlere ait motif ve süsleme örnek-
+leri verilerek geometrik dönüşümlerin süsleme sanatı, görsel sanatlar ve mimarideki yeri ile ilgili 
+fikirlerini sunmaları sağlanır (OB5). Öğrencilere geometri kullanılarak oluşturulmuş, millî kültüre 
+ait sanat eserlerini ve mimari eserleri görsel yorumlama yöntemiyle incelemesi için fırsat verilir 
+(OB5). Millî kültüre ilişkin bu incelemeler; öğrencilerin kendi millî ve manevi değerlerine duyarlı 
+olmalarına ve saygı duymalarına, kültürel mirasa değer vermelerine katkı sağlayacaktır (D14.3). 
+Sanat eserleri ve mimari eserlere ilişkin tüm bu çalışmalar, öğrencilerin hayal güçlerini ve ruhsal 
+gelişimlerini  destekleyecek; sanatı ve estetiği hayatlarının parçası hâline getirmelerine  yardım-
+cı olacaktır (D7.2). Öğrencilerden Türk kültürüne ait kilim ve halı motiflerini görsel yorumlama 
+yöntemiyle incelemeleri, bu motifleri kendi yaptıkları süsleme örnekleri ile karşılaştırmaları is-
+tenir. Sınıfta kilim ve halı motifleri, örnek olarak sunulur. İletişim ve paylaşma becerilerini ge-
+liştirmek için öğrencilere  tasarladıkları bu çalışmaları sınıf panosuna astıkları posterlerle ya da 
+çevrim içi uygulamalardan yararlanarak sergileme imkânı sunulur  (OB2, D19.3). 
+Dönme dönüşümü uygulanmış şekiller ve bu şekillerin görüntüleriyle ilgili örnekleri inceleme-
+leri sağlanarak öğrencilere dönme dönüşümü ile ilgili özelliklere dair çıkarımlarda bulunmaları 
+için fırsat verilir. Öğrencilerin geometrik dönüşümlerle ilgili çıkarım yapmalarını kolaylaştırmak 
+için matematik yazılımları kullanılarak şekiller ve şekillerin dönüşümler altındaki görüntüleri 
+karşılaştırılır (MAB5). Kullanılan matematik yazılımında öğrencilerin çalışmasının sağlanması, 
+dijital ortamda içerik geliştirme ve paylaşma becerilerinin oluşması ve geliştirilmesinde önemli 
+olacaktır (OB2). Süreç boyunca yapılacak çalışmalarda kullanılan çizimler, bu çizimlere ilişkin 
+öğrenci yorumları ve öğrencilerin yaptığı paylaşımlar; görselleri dijital ortamda tanıma, anlama, 
+oluşturma, yorumlama ve dönüştürme becerilerinin gelişimini sağlar (OB4). Öğrencilerin verilen 
+bir görsel üzerinde çalışması, görselin sorgulanarak farklı problem durumlarının çözümünde 
+kullanılmasını ve öğrencilerin özgün görseller oluşturma becerisini destekler (OB4). Öğrenci-
+lerden dönüşümler kullanarak elde edebilecekleri motif ve süsleme örnekleri oluşturmaları ve 
+bu örnekleri sunmalarına yönelik performans görevi istenebilir. 
+MAT.9.4.2 
+Öğrenciler önceki bilgileri ile bir üçgeni oluşturan yeterli eleman ve eşlik koşulları arasında -
+ki ilişkileri belirleyebilmektedir. Öğrencilere çeşitli eş ve benzer üçgen örnekleri inceletilerek 
+öğrencilerin bu bilgileriyle geometrik dönüşümlere ilişkin çıkarımlarını birlikte yorumlamaları 
+istenir. Bu yorumlarından yola çıkılarak üçgenlerin eş ve benzer olmasına ilişkin koşullara dair 
+varsayımlarda bulunmaları sağlanır. Öğrencilerin varsayımlarını oluşturmalarına yardımcı ola-
+cak sorularla (“Tüm açılarının ölçüleri karşılıklı olarak ikişer ikişer eşit olan üçgenler eş midir?”, 
+“İki üçgenin eş olmadığı durumda karşılıklı açıların ölçüleri eşit olabilir mi?” gibi) süreç yönetilir. 
+Öğrencilerden eşlik ve benzerlik koşullarına dair örnekleri inceleyerek ulaştıkları varsayımları-
+nı genellemelere dönüştürmeleri ve bu genellemeleri ifade etmeleri beklenir. Öğrencilerin ör-
+nekler üzerinde yaptıkları ölçüm ve incelemelerden ulaştıkları genellemeler, organize edilerek 
+tahtada özetlenir. Bu tartışmalar ve özetler sayesinde öğrencilerin farklı bakış açılarını diğer öğ-
+rencilerin de görmeleri sağlanır ve her bir düşüncenin genellemeye ulaşmada önemli, saygın ve 
+katkı sağlayıcı olduğu vurgulanır. Bu bağlamda öğrenciler, arkadaşlarının fikirlerini anlama ve bu 
+fikirlere saygı duyma konusunda da motive olur (SDB2.3). Ulaşılan genellemeler ile varsayım-
+ların karşılaştırılması tartışma yoluyla sağlanır. Ulaşılan genellemelere dair  önermeler ifade 
+edilerek iki üçgenin eşlik ve benzerlik koşullarının (Kenar-Kenar-Kenar eşliği ve benzerliği, 
+Açı-Açı benzerliği, Açı-Kenar-Açı eşliği gibi) belirlenmesini hedefleyen öğrenme ortamları 
+oluşturulur. Bu süreçte sınıfta grup çalışması yapılarak her bir grubun eşlik ve benzerlik 
+koşullarını belirlemesi; öğrencilerin iş birliği ve ekip çalışması yapma, düşüncelerini baş -
+kalarıyla tartışma, başkalarının düşüncelerini ve bakış açılarını anlama, grup iletişimine 
+katılma ve başka düşüncelerde uzlaşma becerilerine katkı sağlar (SDB2.1, SDB2.2, SDB2.3). 
+Önermelerin değerlendirilmesinde öğrencilerin eş ve benzer üçgenlerle nerelerde karşılaşabi-
+leceklerine dair düşünmelerine ve fikirlerini paylaşmalarına olanak sağlanır. Eş üçgenlerin süs-
+leme sanatında dönüşümler yardımıyla üretildiği ve sanat eserlerinin oluşturulmasını sağladığı, 
+çeşitli örneklerle vurgulanır. Öğrencilerin başka disiplinlerde ve günlük hayatta karşılaşılan eş 

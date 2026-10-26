@@ -1,0 +1,36 @@
+153
+3. Aşağıda verilen istatistiksel araştırma sorularını amaçlarına göre inceleyiniz. Belirlediğiniz 
+amaca uygun durumu X ile işaretleyiniz.  
+İstatistiksel Araştırma Sorusu Betimleyen Karşılaştıran
+A	ilindeki	lise	öğrencilerinin	haftalık	ders	çalışma	süreleri	dakika	cinsinden	
+nasıl	eğilim	göstermektedir?
+A	lisesindeki	öğrencilerden	sabah	kahvaltısı	yapanlarla	yapmayanların	ders	
+başarıları	farklılaşmakta	mıdır?
+A	mahallesinde	yaşayan	insanların	günlük	su	tüketimleri	(litre)	cinsiyetlerine	
+göre	farklılaşmakta	mıdır?
+A	ilçesindeki	öğrencilerin	günlük	ortalama	kitap	okuma	süresi	dakika	cinsin-
+den	yaklaşık	olarak	ne	kadardır?
+4. Her	sınıf	seviyesinden	altı	şubenin	bulunduğu	bir	lisede	spor	kulübündeki	öğrenciler,	kulüpleri	için	
+dört	farklı	logo	tasarlamıştır.	Öğrencilerden	kulüp	logosunu	belirlemek	üzere	dört	logodan	birini	seç-
+meleri	istenmektedir.	Spor	kulübü	öğrencileri,	en	beğenilen	logoyu	tespit	etmek	için	aşağıdaki	beş	
+farklı	yöntemi	belirlemiştir.
+1. Yöntem Her	sınıfın	başkan	ve	başkan	yardımcısına	sormak
+2. Yöntem Spor	kulübüne	üye	öğrencilerin	tümüne	sormak
+3. Yöntem 9.	sınıfların	okula	yeni	başlaması	ve	12.	sınıfların	okuldan	ayrılacak	olması	nedeniyle	10	ve	11.	sınıf	öğrencilerinden	rastgele	belirlenen	200	öğrenciye	sormak
+4. Yöntem Her	sınıf	seviyesindeki	tüm	şubelerden	rastgele	belirlenen	10	öğrenciye	sormak
+5. Yöntem Her	sınıf	seviyesinden	belirlenen	bir	şubedeki	öğrencilere	sormak
+ Spor kulübünün amacı doğrultusunda kulüp logosunun belirlenmesinde hangi yöntemlerin 
+öğrenci görüş lerini en iyi şekilde temsil edeceğine karar veriniz. Diğer yöntemlerin temsil 
+etme gücünün neden düşük olduğunu düşünüyorsunuz? Açıklayınız.
+5. Bir	şehirde	belediye	başkanlığı	seçimi	için	yapılan	ankette	vatandaşlara	hangi	adayı	tercih	ettikleri	
+sorulmuş	ve	soruya	cevap	verirken	birden	fazla	adayın	ismini	söyleyebilecekleri	bilgisi	verilmiştir .	
+Anket	sonuçları,	araştırmacılar	tarafından	aşağıdaki	daire	grafiğiyle	paylaşılmıştır.	
+ Verilen daire grafiğindeki sonuçları inceleyiniz. Bilgilerde bir hata olup olmadığını belirleyiniz. 
+Hata olduğunu düşünüyorsanız bu bilgileri doğru bir şekilde sunmak için ne yapılması gerek-
+tiğini açıklayınız.
+1.	Aday
+%72
+3.	Aday
+%53
+2.	Aday
+%60

@@ -1,0 +1,40 @@
+79
+KUVVET VE HAREKET
+10. Alıştırma
+Yandaki şekilde aynı düzlem üzerinde bulunan , , , v eK L M N O  vek-
+törleri verilmiştir. 
+Buna göre uç uca ekleme yöntemi kullanılarak bu vektörlerden 
+elde edilecek bileşke vektör, verilen vektörlerden hangisi ile ifade 
+edilebilir?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+11. Alıştırma
+Yandaki şekilde aynı düzlem üzerinde bulunan , , , v eK L M N O  vek-
+törleri verilmiştir. 
+Buna göre paralelkenar yöntemi kullanılarak bu vektörlerden 
+elde edilecek bileşke vektör, verilen vektörlerden hangisi ile ifade 
+edilebilir?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+3. Vektörlerin Bileşenlerine Ayrılması
+Vektörler bir, iki veya üç boyutlu düzlemde incelenebilir. İki boyutta bulunan 
+vektörler için yapılan hesaplamalar, bir boyutta bulunan vektörler için yapılan 
+hesaplamalardan daha karmaşıktır. Bu sebeple hesaplamaları basitleştirmek 
+ve doğru sonuçlar elde etmek için iki boyutta bulunan bir vektör bileşenlerine 
+ayrılabilir. Bir vektörün koordinat sisteminin eksenleri üzerindeki iz düşümünün 
+her birine bileşen denir. Görsel 2.9’daki gibi bir A  vektörü iki boyutlu (x-y) 
+düzlemdedir. A  vektörünün bileşenleri, A  vektörünün eksenler üzerindeki iz 
+düşümüne karşılık gelen ve vektörel toplamları A  vektörüne eşit olan vektör-
+lerdir. Bu vektörün iz düşümü, x ekseninde A x bileşeni ve y ekseni üzerinde 
+A y bileşeni olarak gösterilir. A  vektörünü bileşenlerine ayırmak için aşağıdaki 
+işlem basamakları sırasıyla uygulanır.
+Görsel 2.9: Eşit bölme-
+lendirilmiş düzlemdeki 
+A  vektörü
+A
+K
+M
+N O
+L
+K
+M
+N O
+L

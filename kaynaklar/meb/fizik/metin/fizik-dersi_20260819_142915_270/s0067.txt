@@ -1,0 +1,42 @@
+67
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.11.2.8. Manyetik alanda akım geçen düz bir tele etki eden kuvvete ilişkin matematiksel 
+modele yönelik tümevarımsal akıl yürütebilme
+a) Manyetik alanda akım geçen düz bir tele etki eden kuvvetin etmenleri arasındaki 
+keşfettiği ilişkiyi matematiksel olarak modeller.
+b) Manyetik alanda akım geçen düz bir tele etki eden kuvvete ilişkin matematiksel 
+model üzerinden genelleme yapar.
+FİZ.11.2.9. Manyetik alanda akım geçen düz bir tele etki eden kuvvet ile ilgili deneyimini 
+elektrik motorlarının çalışma prensibine yansıtabilme
+a) Manyetik alanda akım geçen düz bir tele etki eden kuvvet ile ilgili deneyimini göz-
+den geçirir. 
+b) Deneyimine dayalı olarak manyetik alanda akım geçen dikdörtgen telin bir eksen 
+etrafında dönmesi hakkında çıkarım yapar.
+c) Yaptığı çıkarımları elektrik motorlarının çalışma prensibi açısından değerlendirir.
+FİZ.11.2.10. Manyetik akıya etki eden etmenleri çözümleyebilme
+a) Manyetik akıya etki eden etmenleri belirler. 
+b) Manyetik akıya etki eden etmenler arasındaki ilişkiyi belirler.
+FİZ.11.2.11. İndüksiyon geriliminin matematiksel modeline ilişkin tümevarımsal akıl yürü-
+tebilme
+a) İndüksiyon geriliminin oluşmasında keşfettiği etmenler arasındaki ilişkiyi mate-
+matiksel olarak modeller.
+b) İndüksiyon geriliminin matematiksel modeli üzerinden genellemeler yapar.
+FİZ.11.2.12. İndüklenme sonucu oluşan alternatif (değişken) akım hakkında bilimsel çıka-
+rım yapabilme
+a) İndüklenme sonucu oluşan alternatif akımı etkileyen etmenleri belirler.
+b) İndüklenme sonucu oluşan alternatif akımı etkileyen etmenler arasındaki ilişkiyi 
+belirlemek üzere veri toplayarak kaydeder.
+c) İndüklenme sonucu oluşan alternatif akımı topladığı verilerden yola çıkarak yo-
+rumlayıp değerlendirir. 
+FİZ.11.2.13. Transformatörün yapısı ve kullanım alanlarına yönelik bilimsel çıkarım yapa-
+bilme
+a) Transformatörün niteliklerini deney yaparak tanımlar.
+b) Transformatörlerin kullanım alanlarına yönelik topladığı verileri kaydeder. 
+c) Elde ettiği verilerden yola çıkarak transformatörün kullanım alanlarındaki rolünü 
+yorumlar ve değerlendirir.
+İÇERİK ÇERÇEVESİ Elektriksel Kuvvet ve Elektriksel Alan
+Manyetik Alan ve Manyetik Kuvvet
+İndüksiyon Akımı
+Transformatörler
+Anahtar Kavramlar elektriksel kuvvet, elektriksel alan, manyetik alan, manyetik kuvvet, manyetik akı, indük -
+siyon akımı, indüksiyon gerilimi, alternatif akım, transformatör

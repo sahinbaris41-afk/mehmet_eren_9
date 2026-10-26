@@ -1,0 +1,47 @@
+192
+2. Tema/Çeşitlilik
+Deneyin Adı: Akışkanlık-Sıcaklık İlişkisi 
+Deneyin Amacı: Sıcaklığın sıvıların akışkanlığına etkisine ilişkin bilimsel gözlem yapabilme
+Malzemeler: etil alkol, propil alkol, etilen glikol, gliserin, bal, mezür, beherglas, kronometre, çelik bilye, 
+damlalık, eğik düzlem, termometre, üç ayak, tel kafes, bünzen beki ya da ispirto ocağı, asetat 
+kalemi, fırın eldiveni ya da ısıya dayanıklı eldiven, tüp maşası, erlenmayer, delikli lastik tıpa, 
+pipet, büret, musluklu şişe
+İşlem Basamakları
+Sıcaklığın sıvının akışkanlığına etkisine ilişkin bir deney gerçekleştirebilmeniz için aşağıda deneyde kullana-
+cağınız sıvılar ve malzemeler verilmiştir. Deneyiniz için iki sıvı seçiniz, ihtiyacınız olan malzemeleri kullanı-
+nız ve aşağıdaki adımları sırasıyla uygulayınız.
+1. Deneyde farklı sıcaklıklardaki sıvıların akışkanlığını nasıl bulacağınızı işlem basamaklarına yazınız.
+2. Deneyden sıvıların akışkanlığına ilişkin elde ettiğiniz verileri tablodaki “ölçülen akışkanlık değeri 1” yazılı satıra 
+yazınız. Sıvıların akışkanlıklarını birden fazla yöntemle belirlediyseniz “ölçülen akışkanlık değeri 2” yazan satırı 
+kullanınız.
+3. Bulduğunuz değerleri sınıftaki arkadaşlarınızın bulduğu değerlerle karşılaştırınız.
+ 1. Sıvı 2. Sıvı
+Sıcaklık (
+o
+C)
+Ölçülen 
+Akışkanlık 
+Değeri 1
+Ölçülen 
+Akışkanlık 
+Değeri 2
+Ölçülen 
+Akışkanlık 
+Değeri 1
+Ölçülen 
+Akışkanlık 
+Değeri 2
+25
+50
+80
+1. Seçtiğiniz sıvıların akışkanlığı ile sıcaklıkları arasındaki örüntüyü belirleyerek aşağıya yazınız.
+2. Deneyden elde ettiğiniz örüntüleri kullanarak sıvıların akışkanlığı ile sıcaklık arasındaki ilişkiyi açıklayı-
+nız. 
+3. Zeytinyağının viskozitesinin (81.10
+−3
+ Pa.s) suyun (1,01.10
+−3
+ Pa.s) viskozitesine eşit hâle nasıl getirilebile-
+ceğini açıklayınız.
+Değerlendirme
+Sıcaklık Sıvıların Akışkanlığını Nasıl Etkiler? Etkinlik-2.26

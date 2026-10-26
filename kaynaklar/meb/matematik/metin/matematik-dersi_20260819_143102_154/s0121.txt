@@ -1,0 +1,52 @@
+121
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin dik koordinat sistemini tanıdığı; dik koordinat sisteminde doğruların eğim -
+lerini belirleyebildiği; dik koordinat sisteminde doğruların birbirlerine göre durumlarını 
+yorumlayabildiği; üçgende benzerliği , Tales ve Pisagor teoremlerini bildiği ve bunları uy -
+gulayabildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilere dik koordinat sisteminin bileşenleri, dik koordinat sisteminde doğruların eğimle-
+ri ve dik koordinat sisteminde doğruların birbirine göre durumları hakkında sorular sorularak 
+ön bilgileri değerlendirilebilir. Bunun yanı sıra öğrencilerin üçgende benzerlik, Tales ve Pisa-
+gor teoremi ile ilgili bilgileri sorularla belirlenebilir. Sorulara verdikleri cevaplardan hareketle 
+varsa hatalarının düzeltilmesi  amacıyla görevler verilebilir.  
+Köprü Kurma İki nokta arasındaki uzaklığı hesaplayabilmek için öğrencilerin 9. sınıfta üçgen üzerinde öğ -
+rendikleri uzunluk hesaplama yöntemlerini nasıl kullanacakları sorgulanabilir.
+Dik koordinat sisteminde bir doğru parçasını içten veya dıştan bölen noktanın koordinatları-
+nı belirlemek için orantılı doğru parçalarıyla ilgili üçgen üzerinde yapılan uygulamaların nasıl 
+kullanılabileceği tartışılabilir.
+Öğrenme-Öğretme 
+Uygulamaları MAT.10.6.1
+Ömer Hayyam, Descartes (Dekart) ve Fermat ’nın analitik geometriyle ilgili çalışmaları tanı -
+tılarak öğrencilerin konuya merak duymaları  sağlanır (E1.1). Sayı doğrusu üzerinde iki nokta 
+aracılığıyla belirlenen bir doğru parçasının uzunluğunu hesaplayabilen öğrencilerin bu dü -
+zeyde gruplar hâlinde çalışmaları ve dik koordinat sisteminde herhangi bir şekilde konumlan-
+dırılan doğru parçasının uzunluğunun eksenlere paralel doğru parçalarından yararlanılarak 
+nasıl hesaplanacağına dair varsayımlarda bulunmaları beklenir. Farklı grupların varsayımla -
+rındaki örneklerin genellemelere dönüştürülmesi için varsayımların doğruluğu veya yanlışlığı 
+üzerine tartışılır (SDB2.2). Bu tartışma; öğrencilerin etkili iletişim kurmasını, arkadaşları -
+nın düşüncelerine empati ile yaklaşmasını ve olumlu bir bakış açısına sahip olmasını sağlar 
+(D12.2, D14.1). Öğrencilerin seçilen farklı doğru parçalarının uzunlukları üzerinden elde ettik-
+leri varsayımlarını ve genellemelerini gruplarda karşılaştırmaları istenir (SDB2.1). Dik koor-
+dinat sisteminde iki nokta arasındaki uzaklık bağıntısına dair ulaşılan genellemelerden yola 
+çıkarak bir önerme sunmaları sağlanır. Her grup kendi ulaştığı önermeleri sınıfta sunarak bu 
+önermelerin doğruluğunu akran değerlendirme formu yardımıyla değerlendirebilir (SDB2.2). 
+Öğrencilerden üçgende benzerlik bilgilerini kullanarak dik koordinat sisteminde herhangi bir 
+şekilde konumlandırılan doğru parçasını belli bir oranda içten veya dıştan bölen noktanın koor-
+dinatlarının nasıl belirleneceğine ilişkin varsayımlarda bulunmaları beklenir. Sınıf içi tartışma-
+larla varsayımlardaki örüntülerin genellemelere dönüştürülmesi sağlanır. Öğrencilerden seçi-
+len farklı doğru parçalarını içten veya dıştan belli bir oranda bölen noktaların koordinatlarına 
+ilişkin elde ettikleri varsayım ve genellemelerini karşılaştırmaları beklenir. Dik koordinat siste-
+minde doğru parçasını içten veya dıştan belli bir oranda bölen noktaların koordinatlarına ilişkin 
+ulaşılan genellemelere yönelik olarak öğrencilerin önermeler sunması  ve bu önermeleri değer-
+lendirmesi sağlanır. Dik koordinat sisteminde alınan belirli bir doğru parçasının orta noktasının 
+koordinatlarını ve köşelerinin koordinatları verilen bir üçgenin ağırlık merkezinin koordinatları-
+nı veren bağıntılara da bu değerlendirme kapsamında ulaşılması sağlanır. Değerlendirmeleri 
+yapabilmek için matematik yazılımlarından yararlanılır (MAB5). Çevrim içi  haritalarda  enlem 
+ve boylamın ne için kullanıldığı üzerinde durularak coğrafya dersi ile ilişki kurulur. Ayrıca harita 
+üzerinde iki nokta arasındaki uzaklık (kuş bakışı ve yol olarak)  analitik olarak hesaplanıp gerçek 
+uzaklıkla karşılaştırılarak dijital okuryazarlık becerisi kullanılır (OB2).
+Öğrencilere dik koordinat sisteminde iki nokta arasındaki uzaklık ilişkisini kullanabilecekleri bir 
+performans görevi ve bir doğru parçasını içten veya dıştan belli bir oranda bölen noktanın ko-
+ordinatlarını bulmayı gerektiren, gerçek yaşam problemleri içeren bir çalışma kâğıdı verilebilir. 

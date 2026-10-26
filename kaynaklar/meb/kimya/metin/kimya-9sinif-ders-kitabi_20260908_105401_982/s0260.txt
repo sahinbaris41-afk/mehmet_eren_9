@@ -1,0 +1,44 @@
+260
+3. Tema/Sürdürülebilirlik
+1. Sizce sucul ekosistem nasıl temizlenebilir ve deniz canlıları için tehlikesiz bir hâle getirilebilir? Bunun için 
+bazı koşullar veya ölçütler belirlemelisiniz. Ölçütlerinizi belirlerken bazı metallerin veya nanoparçacıkların 
+toksik olma, zararsız olma, kolay temizlenebilme veya temizlenememe özelliklerinden yola çıkabilirsiniz. 
+Denizi temizleme başarısını artırmak için yöntemlerden çeşitleme yapabilirsiniz. 
+ Ölçütler
+ a) Deniz çok toksik olan ağır metallerden tamamen temizlenmeli.
+ b) 
+2. Kaza sonrası oluşan problemin çözümüne yönelik önermelerde bulununuz. 
+ Denizden ağır metalleri temizlemek için 
+ Denizdeki nanoparçacıkları temizlemek için 
+3. Sunduğunuz önermeleri belirlediğiniz ölçütler temelinde diğer grupların önermeleri ile karşılaştırınız.
+ 
+4. Sunulan önermelerin ağır metallerin ve nanoparçacıkların denizde oluşturduğu kimyasal ayak izini nasıl 
+ve ne kadar azaltacağını grup arkadaşlarınızla tartışınız.
+ 
+120,00
+100,00
+80,00
+60,00
+40,00
+20,00
+00,00
+% Giderim Verimi
+As Cd Pb Ni Cu Zn
+10 mg 40 mg
+65,67
+31,91
+37,57
+56,83
+87,71
+43,84
+60,98
+100,00 99,08 99,52100,00
+89,99
+Manyetik özellik gösteren demir oksit nanoparçacıklar ile metal nanoparçacıkları sudan uzaklaştırmak 
+mümkündür. Bilim insanları suya karışan metal nanoparçacıkları sudan uzaklaştırmak için manyetik 
+özellik gösteren demir oksit nanoparçacıkları veya demir oksit nanoparçacık içeren filtreleri kullanmış-
+tır. Bu yöntem; filtrelerin tekrar kullanılabilir olması, adsorpsiyonun ve ağır metal gideriminin çok kısa 
+sürede gerçekleşmesi ve özellikle kurşun (Pb) ve bakır (Cu) gibi ağır metallerde gösterdikleri mükemmel 
+giderim ile birçok yönden avantajlıdır.
+Çözüm Raporu-6 Manyetit Nanoparçacıklarla Sudan Nanoparçacık Temizliği
+Önerme

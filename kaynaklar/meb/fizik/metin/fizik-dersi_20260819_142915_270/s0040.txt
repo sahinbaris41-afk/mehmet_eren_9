@@ -1,0 +1,26 @@
+40
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+2. ÜNİTE: ENERJİ
+Bu ünitede öğrencilerin yapılan işin büyüklüğünü hesaplaması; iş, enerji ve güç arasındaki 
+ilişkiye yönelik çıkarım yapması, güç hesapları yapması, enerji biçimlerini karşılaştırması, 
+mekanik enerjinin korunumuna yönelik hesaplamalar yapması, yenilenebilen ve yenilene-
+meyen enerji kaynaklarını karşılaştırması amaçlanmaktadır.  
+DERS SAATİ 16
+ALAN 
+BECERİLERİ FBAB10. Tümevarımsal Akıl Yürütme
+KA VRAMSAL 
+BECERİLER KB2.4. Çözümleme, KB2.7. Karşılaştırma, KB2.10. Çıkarım Yapma
+EĞİLİMLER E2.2. Sorumluluk, E3.4. Gerçeği Arama
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. 
+Sosyal Farkındalık
+Değerler D2. Aile Bütünlüğü, D4. Dostluk, D14. Saygı, D16. Sorumluluk, D17. Tasarruf, D18. Temizlik, 
+D19. Vatanseverlik 
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB3. Finansal Okuryazarlık, OB4. Görsel Okuryazarlık, OB7. Veri 
+Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Matematik, Görsel Sanatlar
+BECERİLER ARASI 
+İLİŞKİLER KB2.11. Gözleme Dayalı Tahmin Etme, KB2.14. Yorumlama, KB3.3. Eleştirel Düşünme

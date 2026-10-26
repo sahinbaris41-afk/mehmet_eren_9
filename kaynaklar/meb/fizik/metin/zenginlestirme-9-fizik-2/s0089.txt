@@ -1,0 +1,35 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+88 89
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+ ♦ Öğrencilere helikopter rotorlarının ve İHA pervanelerinin nasıl çalıştığını, bu araçların uçuş ve manevrala-
+rında kullanılan aerodinamik ilkeleri, karekodu taratarak dokümanlarla açıklayınız.
+ ♦ Öğrencilerin karekod ile ulaştığı dokümanlardaki görsellerden faydalanarak helikopter rotor modeli ve 
+pervane sistemini incelemelerini isteyiniz.
+ ♦ Öğrencilerin rotorların dönme süratini ve açısını değiştirerek hava akışının nasıl kontrol edildiğini karekod 
+ile ulaştıkları dokümanlardan araştırıp gözlemlemesini sağlayınız.
+ ♦ Öğrencilere İHA'ların manevra yeteneklerini artırmak için neden birden fazla pervane kullandığını açıkla-
+yınız.
+ ♦ Öğrencilerin dört pervaneli bir İHA'nın farklı motor süratleriyle nasıl yükseldiğini, alçaldığını ve döndüğü-
+nü internetten araştırmasını isteyiniz.
+ ♦ Öğrencilerin araştırmasını görsellerle zenginleştirip sınıf panosunda sergilemesini sağlayınız.
+Veri Toplama ve Analiz
+ ♦ Her grubun yaptığı gözlem ve elde ettiği verileri sınıftaki diğer gruplarla paylaşmasını sağlayınız.
+ ♦ Öğrencilerin sınıfta yaptığı sunumlarda Bernoulli İlkesi'nin hava taşıtlarının tasarımında nasıl bir 
+rol oynadığını açıklamasını sağlayınız.
+ ♦ Sunulan farklı model tasarımlarının test edilmesi aşamasında öğrenciler tarafından elde edilen 
+verilerin karşılaştırılmasını ve en verimli kanat profilinin belirlenmesini sağlayınız.
+Geri Bildirim ve Tartışma
+ ♦ Öğrencilerden, tasarladıkları modeli kullanarak rüzgâr tüneli deneyinde elde ettikleri verileri gra-
+fik kâğıdına işlemesini isteyiniz.
+ ♦ Grafik kâğıdına işlenen verileri kullanarak öğrencilerin hava akış süratinin ve basıncın Bernoulli 
+İlkesi'yle ilişkisini tartışmasını sağlayınız.
+1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+HELİKOPTER VE İHA İNCELEMESİ
+VERİ ANALİZİ VE GERİ BİLDİRİM

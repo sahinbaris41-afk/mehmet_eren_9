@@ -1,0 +1,47 @@
+27
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Öğrencilere yoğunluk kavramına ve katı ile sıvıların temel özelliklerine ilişkin ön bilgilerinin 
+belirlenmesi amacıyla sorular sorulabilir.
+Köprü Kurma Basınç ve akışkanların basıncı ile günlük hayattaki uygulamaları arasında ilişki kurulabi-
+lir. Bu amaçla öğrencilerin çevrelerinde gördükleri olaylar ve olgularla (topuklu ayakkabı 
+ve düz ayakkabı, baraj duvarları vb.) basınç arasında nedensel ilişki kurması sağlanabilir. 
+Yoğunluk ve kaldırma kuvveti kavramları günlük hayattan örneklerle (gemiler, denizaltılar, 
+denizlerdeki plastik adaları vb.) ilişkilendirilebilir.
+Öğrenme-Öğretme 
+Uygulamaları FİZ.9.3.1
+Öğrencilerden basıncın etkili olduğu durumlarla ilgili günlük hayattan örnekler vermele-
+ri istenebilir. Öğrencilerin örneklerdeki durumları konfor, kolaylık ve işe yararlık gibi açı-
+lardan değerlendirmeleri sağlanabilir. Örnek durumların daha kolay, rahat, işe yarar hâle 
+getirilmesi için yapılabilecekler konusunda öğrencilerden fikir üretmeleri istenebilir. Öğ-
+rencilerde konunun günlük hayatla ilişkisine yönelik bir farkındalık oluşturulur. Basınç ile 
+ilgili sistemlerin işleyişinde basıncın rolü öğrencilerle birlikte açıklanabilir. Basınç ile ilgili 
+basit gösteri deneyleri yapılır veya basınca etki eden etmenlerin tanımlanabileceği dijital 
+ve görsel içerik gibi araçlardan biri kullanılarak öğrencilerin bu etmenleri belirlemesi sağ-
+lanır. Öğrenciler, öğretmen rehberliğinde gruplar oluşturarak takım hâlinde (SDB2.2) ve 
+dostluk bilincinin gereği olarak dayanışma içinde (D4.1) çalışır. Öğrenciler deneyimlerini 
+dikkate aldıkları (SDB1.1) bir tartışma ortamında (SDB2.1) deney düzenekleri, simülasyon-
+lar veya animasyonlar kullanarak basınç, basınca neden olan kuvvet ve yüzey alanı ile il-
+gili verileri toplar. Elde edilen verileri yorumlayarak (OB7) basıncın matematiksel modelini 
+oluştururlar ve matematiksel modelden yararlanarak basınca ilişkin çıkarımda bulunur -
+lar. Matematiksel model ile ilgili örneklerde basıncın bağlı olduğu değişkenlerin ilişkileri-
+ne yönelik yorumlamalarla sınırlı kalınır. Öğrenciler, basınç ve basınca etki eden etmen-
+ler konusunda çıkarımlarda bulunabilecekleri bir çalışma yaprağı ile değerlendirilebilir.
+FİZ.9.3.2
+Öğrencilerden Türk millî sporcularının serbest dalışta rekor kırdığı (D19.2) görüntü üzerin-
+den suda derine dalmanın zor olmasının nedenlerini, dalış yapan sporcunun yerinde ken-
+dileri olsalar bu durum karşısındaki duygularını sorgulamaları (SDB1.1) istenebilir. Öğren-
+cilere dalınan derinliğe uygun teknik ve teçhizat ile dalmak gerektiğini anlatan bir metin 
+verilebilir. Uygun olmayan koşullarda dalmanın vücutta oluşturabileceği sorunlardan ve 
+vurgun kavramından söz edilebilir. Benzer örneklerle konuya ve konu bağlamında su altı 
+sporları yapılırken sağlık ile ilgili risklere (D13.2) dikkat çeker. Öğrenciler, durgun sıvı basın-
+cına etki eden etmenleri dijital veya görsel içeriklerden yararlanarak tanımlar. Öğretmen 
+rehberliğinde öğrenciler gruplara ayrılabilir. Öğrenciler, takım hâlinde çalışarak (SDB2.2) 
+durgun sıvılarda basıncı etkileyen değişkenleri belirlemeye yönelik deney tasarlayıp ta-
+sarladıkları deneyi yaparak (SDB1.2) elde ettikleri verileri (OB7) kaydeder. Öğrenciler elde 
+ettikleri verileri analiz ederek durgun sıvı basıncının matematiksel modelini oluşturur ve 
+matematiksel modelden yararlanarak durgun sıvılarda basınca ilişkin çıkarımda bulunur. 
+Matematiksel model ile ilgili örneklerde basıncın bağlı olduğu değişkenlerin ilişkilerine 
+yönelik yorumlamalarla sınırlı kalınır. Örneklerde kabın yan yüzeylerine etki eden basınca 
+neden olan kuvvete  ilişkin matematiksel işlemlerden kaçınılır. Öğrenciler, durgun sıvılar-
+da basınç ve basınca etki eden etmenleri belirleyerek çıkarımlarda bulunabilecekleri açık 
+uçlu sorulardan oluşan bir test ile değerlendirilebilir.

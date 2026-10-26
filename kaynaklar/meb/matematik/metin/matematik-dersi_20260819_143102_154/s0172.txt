@@ -1,0 +1,39 @@
+172
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.12.2.1. Çemberle ilişkili elemanları (kesen, kiriş, teğet, çap, yay) çözümleyebilme
+a) Kesen, kiriş, teğet, çap ve yayı çemberin elemanları olarak belirler.
+b) Çemberde kesen, kiriş, teğet, çap ve yay arasındaki ilişkileri belirler.
+MAT.12.2.2. Çemberin açı, kiriş ve teğet özellikleri ile ilgili çıkarım yapabilme
+a) Çemberde açı, kiriş ve teğetin özelliklerine ilişkin varsayımlarda bulunur.
+b) Varsayımlarından yararlanarak çemberde açı, kiriş ve teğetin özelliklerine ilişkin 
+örüntüleri geneller.
+c) Genellemelerini varsayımlarıyla karşılaştırır. 
+ç) Elde ettiği genellemelerden önermeler sunar.
+d) Önermelerinin farklı problem durumlarındaki kullanışlılığını değerlendirir.
+MAT.12.2.3. Çemberin açı, kiriş, teğet özelliklerini ve dairenin alanını kullanarak problem 
+çözme
+a) Çemberde açı, kiriş, teğetin özelliklerini ve dairenin alanını içeren problemlerin bile -
+şenlerini (nicelik, şekil gibi) belirler.
+b) Problemlerde verilen bileşenler arasındaki ilişkileri belirler.
+c) Problemin bileşenlerini ve bileşenlerin aralarındaki ilişkileri uygun matematiksel 
+temsillere dönüştürür.
+ç) Matematiksel temsillere dönüştürdüğü problemin öncüllerini ve problemde ulaşmak 
+istediği sonucu kendi ifadeleri ile açıklar.
+d) Problemlerin çözümü için stratejiler geliştirir.
+e) Geliştirdiği stratejileri kullanarak problemi çözer .
+f) Çözümünü kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.
+g)  Problem çözme sürecini gözden geçirir.
+ğ) Çözüme ulaştıran stratejilerin hangi problemlere uyarlanabileceğine yönelik çıkarım-
+lar yapar. 
+h) Ulaştığı çıkarımları değerlendirir.
+İÇERİK ÇERÇEVESİ • Çemberin Elemanları
+• Çemberin Açı, Kiriş ve Teğet Özellikleri
+• Çember ve Daire ile İlgili Problemler
+Genellemeler • Yarıçap, teğet doğrusuna teğetin çembere değme noktasında diktir.
+• Çapı gören çevre açının ölçüsü 90odir.
+•  Merkezden kirişe indirilen dikme, kirişi iki eş parçaya ayırır.
+•  Teğet çemberlerin birbirine değme noktası ve merkezleri doğrusaldır.
+Anahtar Kavramlar çap, çember, çevre açı, daire, daire dilimi, dairenin alanı, dış açı, iç açı, kesen,  kiriş, kirişler 
+dörtgeni, merkez açı, teğet, teğetler dörtgeni, teğet-kiriş açı, yay, yay uzunluğu 
+Sembol ve Gösterimler r, R, AB% , ABC\ , m AB^h% , π

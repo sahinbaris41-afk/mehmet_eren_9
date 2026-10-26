@@ -1,0 +1,50 @@
+185
+2. Tema/Çeşitlilik
+Dietil eterEtil alkolSu
+1. V erilen saf sıvıların kaynama sıcaklıklarını yaklaşık olarak belirleyiniz.
+2. Belirlediğiniz  kaynama sıcaklıklarını dikkate alarak sıvıların moleküller arası etkileşimlerinin büyüklüğü-
+nü kıyaslayınız.
+3. V erilen yapıları kullanarak sıvıların moleküller arası etkileşim kuvvetini belirleyiniz.
+4. Moleküller arası etkileşim ku vveti ile sıvıların kaynama sıcaklıkları uyumlu mudur? Açıklayınız.
+Kontrol Noktası 2.10
+Aşağıda deniz seviyesinde bulunan bazı saf sıvıların elektrostatik potansiyel haritaları ve çeşitli sıcaklıklar-
+daki buhar basıncı değerleri kPa cinsinden verilmiştir. Aşağıdaki görselleri ve tabloyu kullanarak soruları 
+cevaplayınız. (1 atm=101.325 kPa)
+Elektrostatik potansiyel haritalarında kırmızı bölgeler elektronca zengin (kısmi negatif yük), mavi bölgeler ise elekt-
+ronca fakir bölgeleri (kısmi pozitif yük) temsil eder. Daha az elektron içeren bölgeler sarıyla, hemen hemen nötral 
+bölgeler ise yeşille gösterilir.
+0 °C’taki
+Buhar Basıncı 
+(kPa)
+20 °C’taki
+Buhar Basıncı 
+(kPa)
+40 °C’taki
+Buhar Basıncı 
+(kPa)
+60 °C’taki
+Buhar Basıncı 
+(kPa)
+80 °C’taki
+Buhar Basıncı 
+(kPa)
+100 °C’taki
+Buhar Basıncı 
+(kPa)
+Su 0,61 2,33 7,37 19,92 47,34 101,33
+Etil alkol 1,63 5,85 18,04 47,02 108,34 225,75
+Dietil 
+eter 24,70 58,96 122,80 230,65 399,11 647,87
+Sıvı fazdaki moleküllerin gaz fazına geçebilmesi için moleküller arası kuvvet-
+lerin ısı ile yok edilmesi gerekir. Sıvı molekülleri arasındaki çekim kuvvetleri 
+büyükse sıvının buharlaşma oranı ve buhar basıncı düşük olur. Dolayısıyla 
+sıvının buhar basıncının dış basınca eşitlenmesi için sıvının daha fazla enerji 
+(ısı) alması gerekir, bu da kaynama noktasının yükselmesine neden olur.
+Saf bir sıvıya uçucu olmayan bir çözünen eklenirse  oluşan çözeltinin kay-
+nama sıcaklığı saf çözücüye göre yükselir. Çözünen madde miktarı arttıkça 
+kaynama sıcaklığı da artar. Kaynama sıcaklığı ısıtıcının gücüne, sıvının mik-
+tarına ve kabın şekline bağlı değildir.
+Basıncın kaynama noktası 
+üzerindeki etkisi ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.

@@ -1,0 +1,44 @@
+142
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.11.3.1. f (x) = sinx (x ∈ ℝ), f (x) = cosx (x ∈ ℝ), f (x) = tanx (x ∈ ℝ, x ≠  π2  + kπ, k ∈ ℤ ) ve  f (x) = cotx (x ∈ ℝ, x ≠ kπ, k ∈ ℤ)  şeklinde  tanımlı  trigonometrik  referans  fonk-
+siyonların  nitel  özellikleri ile bu fonksiyonlardan türetilen [g(x) = k ∙ f (mx ± r) ± s 
+(k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0)] trigonometrik fonksiyonların nitel özelliklerine ilişkin 
+matematiksel muhakeme yapabilme 
+a)  Trigonometrik referans fonksiyonların nitel özelliklerini (tanım kümesi, görüntü kü-
+mesi, işareti, artanlığı -azalanlığı, maksimum-minimum noktaları, sıfırları, bire bir -
+liği, tekliği-çiftliği, örtenliği, periyodu) matematiksel temsilleri kullanarak belirler.
+b) Trigonometrik referans fonksiyonların nitel özellikleri ile matematiksel temsilleri 
+arasındaki ilişkileri belirler.
+c)  Trigonometrik referans fonksiyonları grafik ve cebirsel temsili üzerinde yapılan iş-
+lemlerle diğer trigonometrik fonksiyonlara dönüştürür.
+ç) Trigonometrik referans fonksiyonlar ile bu fonksiyonlardan türetilen fonksiyonların 
+grafik temsilleri ile cebirsel temsilleri arasındaki ilişkiyi ifade eder.
+d) Trigonometrik referans fonksiyonlardan türetilen fonksiyonların nitel özelliklerine 
+ilişkin varsayımlarda bulunur.
+e) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek türetilen 
+fonksiyonların nitel özellikleriyle ilgili örüntüleri geneller.
+f)  Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.
+g) Genellemelerinden elde ettiği önermeleri uygun sözel veya cebirsel dil ile sunar.
+ğ) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını değerlendirir.
+h)  Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.
+ı) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını de-
+ğerlendirir.
+MAT.11.3.2. Trigonometrik fonksiyonlarla ifade edilebilen denklemleri içeren problemleri 
+çözebilme
+a) Trigonometrik fonksiyonlarla ifade edilebilen denklemlere ilişkin matematiksel bi -
+leşenleri (denklemi oluşturan fonksiyonların nitel özellikleri ile cebirsel ve grafik 
+temsilleri) belirler.
+b) Trigonometrik fonksiyonlarla ifade edilebilen denklemlere ilişkin matematiksel bile-
+şenlerin aralarındaki ilişkileri belirler.
+c) Trigonometrik fonksiyonlarla ifade edilebilen denklemlerin problem bağlamındaki 
+temsillerini farklı temsillere dönüştürür.
+ç)  Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.
+d) Elde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için stra-
+teji oluşturur.
+e)  Belirlediği stratejiyi kullanır.
+f)  Elde ettiği çözümü farklı yöntemleri kullanarak doğrular.
+g)  Problemin olası çözüm stratejilerini gözden geçirir.
+ğ) Problemin olası çözüm stratejilerinin trigonometrik fonksiyon içeren farklı problem 
+    durumlarında kullanımı ile ilgili çıkarımlar yapar.
+h) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.

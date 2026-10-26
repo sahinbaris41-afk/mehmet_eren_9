@@ -1,0 +1,30 @@
+144
+2. Tema/Çeşitlilik
+2. Tarsia (tarsiya) yapbozu, küçük üçgenlerin belirli bir düzene göre eşleştirilerek büyük bir geometrik şeklin oluş-
+turulmasını sağlayan bir oyundur. 
+Küçük üçgendeki bileşik formülüyle diğer küçük üçgendeki bileşik adlandırması doğru eşleştirilmeli ve üçgenin 
+kenarlarının üst üste gelmesi sağlanmalıdır.
+Karekod ile ulaşacağınız tarsia yapbozunu tamamlayınız.
+3. Bileşik formülleri ile ilgili etkileşimli içeriğe ulaşmak için karekodu okutunuz.
+1. Aşağıdaki yapılandırılmış kutucuklarda bileşik formülleri verilmiştir. Kutucuklardaki numaraları kullana-
+rak soruların cevaplarını yazınız. (Aynı kutucuğu birden fazla cevap için kullanabilirsiniz.)
+Kontrol Noktası 2.6
+Al2(SO4)3 MgH2 SF6
+N2O CuCl FeO
+Ca(OH)2 BH3 NH4Br
+1
+5
+3
+7
+2
+64
+8 9
+a) İyonik yapılı bileşikler hangileridir?
+b) Moleküler yapılı bileşikler hangileridir?
+c) Çok atomlu iyon içeren bileşikler hangileridir?
+ç) Birden fazla katyon oluşturma olasılığına sahip metal içeren bileşikler hangileridir?
+d) Hangi bileşikler 1. kutudaki bileşik adlandırma kuralı ile adlandırılır?
+e) Adlandırma yapılırken Romen rakamı kullanılan bileşikler hangileridir?
+f) Adlandırılırken bir ametalin anyon ismi kullanılan bileşikler hangileridir?
+g) Hangileri kovalent bağ içerir?
+ğ) Hangileri SO3 (kükürt trioksit) adlandırılmasında kullanılan kural ile adlandırılır?

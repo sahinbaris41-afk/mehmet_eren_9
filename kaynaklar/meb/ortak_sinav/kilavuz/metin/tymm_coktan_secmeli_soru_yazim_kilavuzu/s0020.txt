@@ -1,0 +1,16 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+20
+Aşağıdaki akış şeması, bağlam temelli soru yazım sürecinin aşamalarını göstermektedir.
+Başla
+Bitir
+1. Hedefin netleştirilmesi: 
+Ölçülecek öğrenme çıktısı ve süreç bileşeninin belirlenmesi
+2. Günlük hayat ile ilişkili bağlamın oluşturulması
+4. Güçlü çeldiricilerin yapılandırılması
+3. İlgili süreç bileşenlerini ölçmeyi hedefleyen  
+bağlam temelli soruların hazırlanması
+5. Bağlamın işlevselliğinin test edilmesi
+(Bağlam olmadan soru  
+çözülebiliyor mu?)
+Evet Hayır
+Bağlam Temelli Çoktan Seçmeli Soru Yazım Süreci

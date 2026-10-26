@@ -1,0 +1,47 @@
+43
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+biçiminin özelliklerini müzakere eder (D4.1, D14.1, SDB2.2). Uzman grup üyeleri araştırılan 
+enerji biçimine ilişkin benzerlik ve farklılıkları listeler. Tekrar asıl grubuna dönen öğrenci-
+ler grup arkadaşları ile belirledikleri enerji biçimine ilişkin benzerlik ve farklılıkları paylaşır. 
+Öğrenciler açık uçlu test, eşleştirme ve boşluk doldurma gibi farklı madde türlerinden 
+oluşan test ile değerlendirilebilir. Öğrenciler, performans görevi olarak yaşadıkları çevre-
+de bulunan farklı enerji biçimlerini araştırıp kullanılan enerji kaynaklarına yönelik kısa bir 
+rapor hazırlayabilir.  
+FİZ.10.2.4 
+Öğretmen, derse bir topla girip topu farklı yüksekliklerden serbest bırakarak topun sahip 
+olduğu enerjinin değişimi hakkında öğrencilerin düşüncelerini sorabilir. Sorgulama süre-
+cinin sonunda öğrenciler mekanik enerjinin bileşenlerini belirler. Öğrenciler, simülasyon 
+veya animasyon ile mekanik enerjinin korunumunu deneyimleyebilir ve ortaya çıkan enerji 
+biçimlerindeki değişimleri not alabilir. İlgili değişimlere yönelik elde ettikleri verileri kar -
+şılaştırabilir. Öğrenciler, simülasyondaki veya animasyondaki kinetik ve potansiyel enerji 
+değişimleri ile mekanik enerjinin korunumuna yönelik matematiksel ilişkiyi belirler (OB7). 
+Öğrencilerden bu kavramları ve aralarındaki ilişkiyi göstermeleri için bilgi görseli hazırla-
+maları istenebilir. Öğretmen, öğrencilerin hazırladıkları bilgi görselini dereceli puanlama 
+anahtarı ile değerlendirebilir. 
+FİZ.10.2.5
+Enerji kaynakları ile ilgili video ve benzer içerikleri izleyen öğrenciler konuşma halkası 
+(SDB2.1), vızıltı grupları, düşün-eşleş-paylaş gibi öğretim tekniklerinden biri ile yenilene-
+bilen ve yenilenemeyen enerji kaynaklarına ilişkin özellikleri belirler. Türkiye’de yürütülen 
+yenilenebilen enerji projeleri, vampir cihazlar, tasarruflu (CFL) ampul, LED lambalar ile ak-
+kor ampullerin karşılaştırılması, enerji etiketlerinin anlamı gibi konularda metinler verilir ya 
+da videolar üzerinden enerji tasarrufu hakkında farkındalık kazanmaları sağlanır (D16.2, 
+D17.1, E2.2, OB4). Öğrencilerin enerji kaynaklarının avantajlarını ve dezavantajlarını, 
+çevresel temizlik ve sürdürülebilirlik (D18.3) konuları ile küresel ısınma bağlamında zıt 
+panel, münazara, altı şapkalı düşünme gibi yöntem ve tekniklerden biri kullanılarak say -
+gı çerçevesinde tartışmaları (SDB2.2) sağlanır (KB3.3). Öğrenciler, belirledikleri özellik -
+lerden yola çıkarak enerji kaynaklarının avantaj ve dezavantajlarını listeler. Performans 
+görevi olarak öğrencilerden elektrikli cihaz alınırken dikkat edilmesi gereken hususlar ile 
+ilgili millî servet bilinci, sürdürülebilirlik, küresel ısınma ve tasarruf konularında topluma 
+olumlu katkıda bulunmak için (SDB2.3) farkındalık kazanmaları hedeflenerek broşür, pos-
+ter, afiş vb. hazırlayarak sunmaları istenir (D16.2, D17.2, D19.4, OB8). Performans görevi 
+dereceli puanlama anahtarı ile değerlendirilebilir.
+FARKLILAŞTIRMA
+Zenginleştirme Öğrenciler, enerji tasarrufu hakkında anket yoluyla veri toplayarak raporlaştırabilir. Öğ-
+renciler kendi okullarında enerji tasarrufu konusunda yapılabilecek faaliyetleri araştırıp 
+önerilerini bir rapor hâlinde okul yönetimine sunabilir. 
+*Öğrenciler, yenilenebilen ve yenilenemeyen enerji kaynaklarının OECD’nin hazırlamış ol-
+duğu Sürdürülebilir Kalkınma Amaçları’ndaki yeri ve önemi konusunda bir araştırma ya-
+pabilir.
+*Öğrenciler, STEM yaklaşımına uygun enerji tasarruflu binalar veya aydınlatmalara ilişkin 
+modeller hazırlayabilir.
+Destekleme Deneylerde öğrencilere yönlendirici kılavuz kitapçıklar hazırlanabilir. 

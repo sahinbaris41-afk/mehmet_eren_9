@@ -1,0 +1,26 @@
+71
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+2. ÜNİTE: MEKÂNSAL BİLGİ TEKNOLOJİLERİ
+Bu ünitede web tabanlı CBS aracılığıyla tematik haritalar üzerinde uygulamalar (harita 
+okuma, haritayı çözümleme, haritadan çıkarım yapma ve harita oluşturma) yapılabilmesi 
+amaçlanmaktadır.
+DERS SAATİ 12
+ALAN 
+BECERİLERİ SBAB10. Harita
+KAVRAMSAL 
+BECERİLER -
+EĞİLİMLER E1.4. Kendine İnanma (Öz Yeterlilik), E3.4. Gerçeği Arama, E3.7. Sistematiklik,
+E3.8. Soru Sorma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3. Kendine Uyarlama (Öz Yansıtma), 
+SDB2.1. İletişim, SDB2.2. İş Birliği
+Değerler D3. Çalışkanlık, D7. Estetik, D8. Mahremiyet
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB4. Görsel Okuryazarlık, OB7. Veri Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Bilişim Teknolojileri ve Yazılım
+BECERİLER ARASI 
+İLİŞKİLER BTYAB1. Bilişim Teknolojilerini Kullanma, BTYAB4. Dijital Ürün Geliştirme, KB3.2. Problem 
+Çözme, MAB4. Veri ile Çalışma ve Veriye Dayalı Karar Verme, SBAB11. Tablo, Grafik, Şekil 
+ve/veya Diyagram (SBAB11.2. Tablo, Grafik, Şekil ve/veya Diyagram Hazırlama)

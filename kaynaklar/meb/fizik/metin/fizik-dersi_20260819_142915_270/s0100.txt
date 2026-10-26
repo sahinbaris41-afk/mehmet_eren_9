@@ -1,0 +1,51 @@
+100
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+içinde ortaya atılan tahminleri temel alarak merak ettikleri konular hakkında sorular sorar 
+(E3.8). Öğretmen rehberliğinde öğrenciler gruplara ayrılır (SDB2.2). Öğrenciler sordukları 
+sorulara cevap bulmak için farklı dijital kaynaklardan grup hâlinde bilgi toplar (OB1, OB2, 
+SDB1.2). Bilgi toplarken diyot ve transistörlerin devredeki simgeleri, kullanım alanları ve 
+devredeki işlevleri konusunda kavramsal düzeyde bilgilere de ulaşmaları istenir. İş birlikli 
+öğrenme yöntemiyle her grup topladığı bilgilerin güvenilirliğini ve doğruluğunu eleştirel 
+bakış açısıyla öğretmen rehberliğinde fikirlerini ifade ederek (D3.3, E3.10, OB1, SDB2.1) 
+değerlendirir (KB2.6). Gruplar topladıkları bilgileri sınıflandırır, değerlendirir ve diğer 
+gruplara sunar. Öğrenciler, sunumlar sırasında yapılan tartışmalardan yarı iletken malze-
+melerin kullanım alanları ve günlük hayattaki önemi hakkında çıkarımlarda bulunur . Yarı 
+iletkenlerle ilgili bilgilerin kapsamı, kavramsal düzeyde ve günlük hayata etkileri ile sınır -
+landırılır. Öğrencilere yarı iletken devre elemanları hakkında yapılandırılmış grid verilebilir. 
+Gruplar, tarih disiplini ile ilişki kurarak yarı iletken malzemelerin tarihsel gelişimi konulu 
+bir posteri performans görevi olarak hazırlayıp sunabilir. Poster hazırlanmasında istasyon 
+tekniği kullanılabilir. Yarı iletkenlerin iç yapısı, bant kuramı ve yarı iletken eklemleri ile ilgili 
+kısımlar kapsam dışında bırakılır.
+FİZ.12.4.5
+Öğretmen rehberliğinde öğrenciler, toplu taşımanın önemini (D3.3) daha ekonomik 
+(D17.2, OB3), daha çevreci (D9.3) ve sürdürülebilir (OB8) olmasıyla ilişkilendirerek beyin 
+fırtınası yaparlar (OB.5). Toplu taşımada kullanılan trenlerin görselleri gösterilerek sü-
+ratlerini karşılaştırmaları istenebilir. Demir yolu taşıtlarının daha süratli gitmesini engel-
+leyen etmenler ve bu etmenlerin en aza indirilmesinin yollarını tartışmaları (SDB2.2) ve 
+akranları ile kendi düşünceleri arasındaki benzerlik ve farklılıkları belirlemeleri (SDB2.3) 
+istenir. Manyetik kaldırma destekli (maglev) trenler tanıtılır. Manyetik kaldırma destekli 
+trenlerin çalışma prensiplerine ilişkin öğrencilerin tahminde bulunmaları istenebilir. Öğ-
+renciler, manyetik kaldırma destekli trenlerde kullanılan teknolojinin süper iletken adında 
+bir malzemeye dayandığı bilgisi üzerinden düşün-eşleş-paylaş tekniği ile tartışarak süper 
+iletkenin tanımını yapar. Öğrenciler, tahminleri temel alarak süper iletken kavramı ve sü-
+per iletken malzemelerin MR cihazları, süper iletken kablolar gibi kullanım alanları ile ilgili 
+merak ettikleri konulara ilişkin sorular sorar (E3.8). Öğretmen rehberliğinde öğrenciler 
+gruplara  ayrılır (SDB2.2). Öğrenciler sordukları sorulara cevap bulmak için sınıf ortamın-
+da farklı kaynaklardan grup hâlinde bilgi toplar. İş birlikli öğrenme yöntemiyle her grup 
+topladığı bilgilerin güvenilirliğini ve doğruluğunu eleştirel bakış açısıyla fikir alışverişinde 
+bulunarak (D3.3, D10.3, E3.10, OB1, SDB2.1) değerlendirir. Her grup topladığı bilgileri diğer 
+gruplara sunabilir. Öğrenciler, sunulan bilgiler çerçevesinde süper iletken malzemelerin 
+kullanım alanları ve önemi hakkında tartışarak çıkarımlarda bulunur. Süper iletkenler -
+le ilgili bilgilerin kapsamı, kavramsal düzeyde ve günlük hayata etkileri ile sınırlandırılır. 
+Süper iletken malzemeler hakkında farklı madde türlerinden oluşan bir çalışma yaprağı 
+kullanılarak değerlendirme yapılabilir. Süper iletkenlerin iç yapısına ilişkin bilgiler kapsam 
+dışında bırakılır.  
+FİZ.12.4.6
+Evrenin oluşumu ile ilgili Büyük Patlama Teorisi'ne göre büyük patlamadan sonra temel 
+parçacıkların oluştuğundan söz edilebilir. Evreni oluşturan temel parçacıklar hakkında 
+bilgi edinmeye odaklanan CERN ve benzeri araştırma merkezlerinde yapılan deneylerle 
+ilgili genel bilgi verilebilir. Bu deneylerin Büyük Patlama Teorisi ile ilişkisinden söz edile-
+bilir. Öğrencilere deneylerle tespit edilen temel parçacıkların ve bu parçacıklar arası iliş-
+kilerin Standart Model adında bir modelin unsurları olduğu bilgisi verilir. Öğrenciler Stan-
+dart Model’i güvenilir kaynaklardan araştırır (SDB1.2) ve modelde geçen temel parçacıkları 
+belirleyerek şematize eder (OB4). Öğrencilerin maddelerin temelde aynı parçacıklardan

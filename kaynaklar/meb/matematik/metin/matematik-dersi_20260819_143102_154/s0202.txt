@@ -1,0 +1,25 @@
+202
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+5. TEMA: HAZIR VERİLER ÜZERİNDE ÇALIŞMA
+Bu temada öğrencilerin 12. sınıf seviyesine kadar öğrendiği istatistik ve olasılık bilgilerini 
+kullanabileceği hazır verilere dayalı istatistiksel araştırma tasarımı yapabilmeleri, istatis -
+tiksel araştırma sürecini yürütebilmeleri ve sonuçları paylaşabilmeleri amaçlanmaktadır.
+DERS SAATİ 30
+ALAN 
+BECERİLERİ MAB4. Veri ile Çalışma ve Veriye Dayalı Karar Verme
+KAVRAMSAL 
+BECERİLER -
+EĞİLİMLER E1.1. Merak, E3.7. Sistematiklik, E3.8. Soru Sorma, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3. Kendine Uyarlama (Öz Yansıtma), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.1. Uyum,
+SDB3.3. Sorumlu Karar Verme
+Değerler D3. Çalışkanlık, D5. Duyarlılık, D14. Saygı, D20. Yardımseverlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık,
+OB6. Vatandaşlık Okuryazarlığı, OB8. Sürdürülebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Coğrafya, Ekonomi, Sosyoloji
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

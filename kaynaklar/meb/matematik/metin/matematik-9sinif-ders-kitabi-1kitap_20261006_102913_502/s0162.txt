@@ -1,0 +1,78 @@
+162
+2. Tema/Ölçme ve Değerlendirme
+Bir barajın su depolama kapasitesi, o barajda 
+depolanabilecek maksimum su miktarını ifade 
+eder. Bu kapasite erozyon, kirlilik gibi etkenler-
+den dolayı zamanla azalmaktadır.
+Yandaki grafikte bir 
+barajın zamana (yıl) 
+bağlı su depolama 
+kapasitesinin (m3) 
+değişimi;
+ 
+b   R, f: 0, 20 "0, b , f(x) = -10 000x + b 
+şeklinde tanımlı  f doğrusal fonksiyonu ile ifa -
+de edilmiştir.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		 Barajın 	su 	depolama 	kapasitesinin 	en	fazla 
+kaç	m3	olduğunu	hesaplayınız.
+b)		 Hangi 	yılın 	sonunda 	barajın 	su 	depolama	
+kapasitesinin	en	az	olduğunu	bulunuz.
+c)		 Barajın 	zamana 	(yıl) 	bağlı 	su 	depolama 	ka-
+pasitesinin	(m3)	değişim	oranını	bulunuz.
+4.
+O
+x  
+ Zaman 
+(Yıl)
+y   Su depolama kapasitesi 
+(x1000 m3)
+20
+b
+f(x) = -10 000x + b
+Gerçek sayılarda tanımlı f fonksiyonunun grafi-
+ği aşağıda verilmiştir.
+O x
+y
+-1
+2
+y = f(x)
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		 f 	fonksiyonunun 	cebirsel 	temsilini 	yazınız.
+b)		 f 	 fonksiyonunun 	 grafiğinin 	 eğimini 	 bu-
+lunuz.	
+c)		f	fonksiyonunun	sıfırını	bulunuz.
+ç)		f	fonksiyonunun	işaretini	bulunuz.
+3. Bir boyacı, mavi ve beyaz renkleri belirli oranlar-
+da karıştırarak K, L ve M renklerini elde ediyor. 
+K, L ve M renklerini elde etmek için kullanılan 
+mavi ve beyaz boyaların miktarları arasındaki 
+ilişki; a, b, c   R
++ olmak üzere sırasıyla uygun 
+aralıkta f(x) = ax, g(x) = bx ve h(x) = cx şeklinde 
+tanımlı doğrusal fonksiyonlar ile ifade ediliyor.
+K, L ve M renklerini elde etmek için kullanılan 
+mavi ve beyaz boya miktarları arasındaki ilişki 
+aşağıda verilmiştir.
+• K rengini elde etmek için kullanılan mavi boya 
+miktarı, beyaz boya miktarından azdır.
+• L rengini elde etmek için kullanılan mavi boya 
+miktarı, beyaz boya miktarına eşittir.
+• M rengini elde etmek için kullanılan mavi boya 
+miktarı, beyaz boya miktarından fazladır. 
+Mavi	 boya 	 miktarı 	 bağımsız 	 ve 	 beyaz 	 boya	
+miktarı	 b ağımlı 	 değişken 	 olmak 	 üzere 	 aşa-
+ğıdaki	soruları	cevaplayınız.
+a)		 Aşağıdaki 	dik 	koordinat 	sisteminde 	f, 	g 	ve	
+h	 fonksiyonlarının 	 grafik 	 temsilleri 	 veril-
+miştir.	 V erilen 	 grafiklerin 	 hangi 	 fonksiyo-
+na	ait	olduğunu	bulunuz.
+O x Mavi boya miktarı (l)
+y Beyaz boya miktarı (l)
+I
+II
+III
+b)		b	katsayısının	alacağı	değeri	bulunuz.
+c)		 a 	ve 	c 	katsayılarının 	alabileceği 	değerlerin	
+aralıklarını	bulunuz.
+5.

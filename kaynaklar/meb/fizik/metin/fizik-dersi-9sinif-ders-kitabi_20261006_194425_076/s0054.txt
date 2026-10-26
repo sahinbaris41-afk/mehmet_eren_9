@@ -1,0 +1,60 @@
+54
+2. ÜNİTE 
+ 2.1. TEMEL VE TÜRETİLMİŞ NİCELİKLER
+Konuya Başlarken
+Diğer bilim dallarında olduğu gibi fizik biliminde de 
+gözlem sonuçları, niceliklerin doğru ölçülmesi ve ölçüm 
+sonuçlarının birimlerle ifade edilmesine dayanır. B ilim 
+ve teknolojide tüm dünyada geçerli olan bazı biriml er 
+kullanılmaktadır. Örneğin terazi ile kütlesi ölçülen pata­
+tes için kilogram, dereceli silindir ile hacmi ölçülen süt 
+için litre, kronometre ile süresi ölçülen koşu için saniye, 
+elektronik kumpas ile çapı ölçülen cisim için milimetre 
+birimi kullanılır. 
+Fizik biliminde niceliklerin ölçülmesinde kullanılan 
+birimlerle ilgili küresel bir dil nasıl oluşturulmu ş 
+olabilir? 
+Fizik biliminde farklı yöntemlerle ölçülebilen nicelikler 
+benzerlik ve farklılıklarına göre gruplandırılmaktadır. 
+Fizik biliminde gruplandırmalar niceliklerin hangi özelliklerine bağlı olarak yapılmış olabilir? 
+Günlük hayatta fiziksel niceliklerden hangileri kullanılmaktadı r?
+Kütle, uzunluk, sıcaklık, zaman, basınç, direnç gibi niceliklerin büyüklükleri 
+aynı cinsten başka bir büyüklük ile karşılaştırılarak ölçülebilir. Bir niceliğin 
+büyüklüğünü karşılaştırmak amacıyla birimleri aynı cinsten olan nicelikler seçi-
+lir ve ölçüm sonuçlarının herhangi bir karışıklık olmadan belirlenebilmesi için 
+birimlerin standart olması gerekir. Örneğin Görsel 2.1’deki terazi ile bir karpu-
+zun kütlesi 8 kg ölçüldüğünde bu ölçüm, karpuzun daha önce standart olarak 
+belirlenmiş 1 kg’lık büyüklüğün 8 katı kütleye sahip olduğunu ifade eder. Bu 
+ölçme işlemi sırasında kütle birimi olarak kg kullanılmış ve bu birimin 8 katı 
+olan kütle için ölçme yapılmıştır.
+İnsanlar, yaşadıkları dönemin ve toplumun özelliklerine göre ölçme işlemi için 
+farklı birimler kullanmıştır. Bununla birlikte toplumlar arası etkileşimin artması, 
+ticaretin gelişmesi, bilimin evrensel yayılımı gibi durumlar ortak birim sistemi 
+belirleme ihtiyacını ortaya çıkarmıştır. Böylece birimler sistemi, küresel bir dil 
+olarak tüm bilim dallarının olmazsa olmazlarından biri hâline gelmiştir.
+Dünya üzerinde kullanılan birçok birim sistemi vardır. En çok kullanılan birim 
+sistemlerinden biri de Türkiye’de de kullanılan Uluslararası Birimler Sistemi’dir 
+[Système International d’Unités (SI)]. Bu birimler sisteminde uzunluk “metre 
+(m)”, kütle “kilogram (kg)”, zaman “saniye (s)” ile ölçülmektedir. 
+Uluslararası Birimler Sistemi; bilim, teknoloji, ticaret ve mühendislikteki 
+ihtiyaçlar üzerine 1960 yılında Paris’te düzenlenen “Ağırlıklar ve Ölçümler 
+Konferansı”nda tanımlanmış ve bu birimler sistemine resmî bir statü veril -
+miştir. SI’nın kabulü, uluslararası iletişimi kolaylaştırmıştır. Konferansta yedi 
+“temel nicelik” belirlenmiştir. Bu konferansta kabul edilen temel niceliklerin 
+sembolleri, SI’daki birimleri, bu birimlerin sembolleri ve niceliği ölçmede kul -
+lanılan ölçüm aletleri Tablo 2.1’de verilmiştir.
+Türkiye’ de yapılan tüm 
+ölçümleri güvence altına 
+alan TÜBİTAK Ulusal 
+Metroloji Enstitüsü 
+(UME) hakkında detaylı 
+bilgi için karekodu 
+okutunuz. 
+Elektronik kumpas kullanılarak yapılan ölçme 
+işlemi
+Görsel 2.1: Standart küt-
+lelerle karpuzun kütlesinin 
+ölçülmesi
+2 kg
+5 kg
+1 kg

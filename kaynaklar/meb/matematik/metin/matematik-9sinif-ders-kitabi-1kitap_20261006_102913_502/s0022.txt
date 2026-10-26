@@ -1,0 +1,58 @@
+22
+1. Tema /  Sayılar
+2.	Sıra	Sizde      
+1.  
+3
+18
+14
+7 63126 66 55$$+ -- -fp 	işleminin	sonucunu	bulunuz.
+2.  23x = 	olduğuna	göre	 4 x21+ 	ifadesinin	eşitini	bulunuz.
+3. 
+Şekil 1
+3a
+27a
+Şekil 2
+3
+a bir pozitif tam sayı olmak üzere Şekil 1’de bir kena-
+rının uzunluğu 3a birim olan kare verilmiştir. Şekil 2, 
+bir kenarının uzunluğu 27a birim olan karenin bir kö-
+şesinden bir kenarının uzunluğu 3 birim olan kare çı-
+kartılarak elde edilmiştir.
+Buna	göre 	Şekil 	1’deki 	karenin 	alanı 	x 	birimkare 	olmak 	üzere 	Şekil 	2’nin 	alanını 	x 	cinsinden	
+bulunuz.
+4. ÖRNEK
+Aşağıdaki tabloda Adana, Kahramanmaraş ve Tokat il merkezleri ile Çanakkale il merkezi arasındaki 
+karayolu mesafeleri metre cinsinden ve yaklaşık olarak verilmiştir.
+Adana-Çanakkale ,m10 91 06$
+Kahramanmaraş-Çanakkale  m123 10 4$
+Tokat-Çanakkale ,m10 54 10 5$
+Buna göre Adana, Kahramanmaraş ve Tokat il merkezleri ile Çanakkale il merkezi arasındaki karayolu 
+mesafelerini küçükten büyüğe sıralayınız.
+Çözüm
+Adana, Kahramanmaraş ve Tokat il merkezleri ile Çanakkale il merkezi arasındaki karayolu mesafeleri 
+sırasıyla A, B ve C olsun. A, B ve C değerlerinin büyüklüklerinin karşılaştırılması için üslü gösterimlerin 
+eşitlenmesi gerekmektedir.
+A = ,m10 91 06$
+B = ,mm1231 01 23 1046$$ =
+C = ,, mm10 54 10 10 54 1056$$ =  olur.
+Üslü gösterimler eşit olduğundan ,, ,10 54 10 91 2311  katsayılarının sıralaması A, B ve C değerleri 
+arasındaki sıralamayı belirler. 
+Buradan CA B11  bulunur.
+Araştırma	Ödevi
+Çok büyük ya da çok küçük sayıların yazımını kolaylaştırmak için bilimsel 
+gösterimden yararlanılır. Aşağıda bilimsel gösterimin kullanıldığı bazı du -
+rumlara yer verilmiştir. Verilen adımları gerçekleştirerek araştırma ödevini 
+zamanında ve eksiksiz olarak tamamlayınız.
+• 1 ışık yılının kaç km olduğunu ışık hızından yararlanarak hesaplayınız. 
+• Güneş sisteminde bulunan üç gezegen belirleyip bu gezegenlerin birbir-
+lerine olan uzaklıklarının kaç km olduğunu araştırınız. 
+• Hidrojen atom çekirdeğinin çapının kaç m olduğunu araştırınız.
+• Atmosferdeki karbondioksit miktarının kaç ppm olduğunu araştırınız.
+• Araştırmalarınızdan elde ettiğiniz üslü gösterimlerin başındaki gerçek 
+sayıların kullanımında ne gibi benzerlikler bulunduğunu belirleyiniz.
+• Bulduğunuz değerleri rapor hâline getirerek sınıf arkadaşlarınızla pay-
+laşınız.
+Ödeviniz, derecelendirme ölçeği ile öğretmeniniz tarafından değerlendiri -
+lecektir.
+n tam sayı, a sıfırdan farklı gerçek sayı ve a11 01#  olmak üzere a1 0n$  ifadesine bilimsel	
+gösterim	denir.

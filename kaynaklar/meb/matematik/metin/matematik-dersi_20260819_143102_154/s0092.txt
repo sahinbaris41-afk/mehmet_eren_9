@@ -1,0 +1,38 @@
+92
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.10.2.1. İki  kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında-
+ki ilişkililiğe dayalı karar verebilme 
+a) İki kategorik değişkenli veriye dayalı, istatistiksel araştırma gerektiren gerçek ya -
+şam durumlarını belirler.
+b) Bağlam içerisinde iki kategorik değişken arasındaki ilişkililiğe odaklanan araştırma 
+soruları oluşturur.
+c) İki kategorik değişkenli veri toplamak/elde etmek için plan yapar. 
+ç)  İki kategorik değişkenli verileri toplayarak/elde ederek analize hazırlar.
+d) Araştırma sorusu bağlamında toplanan/elde edilen iki kategorik değişkenli verileri 
+analiz etmek için görselleştirme ve/veya özetleme (toplam satır veya sütunlardaki 
+göreli sıklıkları gösteren iki yönlü tablo, koşullu göreli sıklıkları gösteren sütun gra -
+fikleri, koşullu göreli sıklıklar gibi) araçlarından uygun olanı seçer.
+e) Araştırma sorusu bağlamında toplanan/elde edilen verileri belirlediği araçlarla ana-
+liz eder.
+f) İki kategorik değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan hareketle 
+elde edilen bulguları yorumlayarak sonuç çıkarır.
+g) İki kategorik değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan hareketle 
+elde edilen sonuçları araştırma sorusu bağlamında değerlendirir. 
+MAT.10.2.2. Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine 
+dayalı istatistiksel sonuç veya yorumları tartışabilme 
+a) Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı 
+istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.
+b) Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı 
+istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.
+c) Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı 
+istatistiksel sonuç veya yorumları çürütür ya da kabul eder.
+İÇERİK ÇERÇEVESİ • İki Kategorik Değişkenli Veriler
+• Başkaları Tarafından Oluşturulan İki Kategorik Değişkenli Verileri İnceleme
+Genellemeler • Aynı gözlem birimlerinden elde edilen/toplanan verilerden hareketle oluşturulan iki kate-
+gorik değişkenli dağılımlar, verilerin birlikte değişebilirliğindeki eğilimine ilişkin bilgi verir. 
+• İki kategorik değişkenin ilişkili olması, bu iki değişken arasında bir neden-sonuç ilişkisi ol -
+duğu anlamına gelmez. 
+Anahtar Kavramlar iki kategorik değişken, iki yönlü tablo, ilişkililik, koşullu göreli sıklıklar, kümeli sütun grafikleri, 
+veri dağılımları 
+Sembol ve Gösterimler -

@@ -1,0 +1,18 @@
+38
+MATEMATİK 9 
+2. TEMA: NİCELİKLER VE DEĞİŞİMLER
+ÖZ DEĞERLENDIRME FORMU
+Adı - Soyadı Sınıfı
+Tarih Numarası
+Bu form, doğrusal ilişkili problem durumlarını çözebilme becerinizi değerlendirmek amacıyla hazırlanmıştır. 
+İlgili ifadelere katılıyorsanız “Evet”, kısmen katılıyorsanız “Kısmen”, katılmıyorsanız “Hayır” seçeneğini “X” ile 
+işaretleyiniz. "Hayır" ve "Kısmen" bölümlerindeki işaretlemelerinizle ilgili öğrenme eksikliklerinizi gideriniz.
+Ölçütler Evet Kısmen Hayır
+1 Doğrusal ilişkili durumu fark ettim. 
+2 Doğrusal fonksiyonların cebirsel temsillerini yazdım.
+3 Doğrusal fonksiyonların grafik temsillerini çizdim.
+4 Doğrusal ilişkili durumların incelenmesinde teknolojiyi etkin kullandım.
+5 Doğrusal fonksiyonlarla ifade edilebilen denklemleri içeren problemleri  çözdüm.
+Etkinlik sonunda kendinizi değerlendirmek için aşağıda verilen "ÖZ DEĞERLENDİRME FORMU"nu 
+kullanınız.
+Yönerge:

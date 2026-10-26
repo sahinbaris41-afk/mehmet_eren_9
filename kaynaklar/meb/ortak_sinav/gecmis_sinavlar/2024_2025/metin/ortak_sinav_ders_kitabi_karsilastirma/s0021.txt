@@ -1,0 +1,108 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+9. SINIF ORTAK SINAV (SABAH OTURUMU) - MATEMATİK
+Öğrenme Çıktısı : 9.5.2. İki üçgenin eş veya benzer olması için gerekli olan asgari koşullarla ilgili çıkarım yapabilme
+Ders Kitabı (MEB) Sayfa 52
+2
+MATEMATİK 9
+3. Panayır	alanına	kurulacak	bir	çadır	için,	numaralanmış	8	adet	demir	çubuk	başlangıç	noktasından	
+bitiş	noktasına	kadar	birbirine	paralel	olacak	biçimde	eşit	aralıklarla	aşağıdaki	gibi	sıralanmıştır.	 
+4	numaralı	demir	çubuğun	uzunluğu	10	m’dir.
+ 
+Başlangıç	noktası Bitiş	noktası1 2 3 4 5 6 7 8
+10
+Buna göre, 6 numaralı demir çubuğun uzunluğu 2 numaralı demir çubuğun uzunluğundan kaç 
+metre fazladır? İşlemlerinizi göstererek bulunuz. (15 puan)
+4. Bir	fidan,	üzerindeki	A	ve	D	noktalarından	ipler	gerdirilerek	sırasıyla	zemindeki	C	ve	E	noktalarına	
+aşağıdaki	gibi	sabitlenmiş	ve	zemine	dik	bir	şekilde	dikilmiştir.
+Zemin
+A
+D
+EB
+20100
+C
+40
+E	noktasına	sabitlenen	ipin	zeminle	yaptığı	açının	ölçüsü	ile	C	noktasına	sabitlenen	ipin	fidanla	yaptığı	
+açının	ölçüsü	birbirine	eşittir.
+|BE|  =  20 cm, |DB|  =  40 cm ve |CB|  =  100 cm  olduğuna göre, |AD| kaç santimetredir? 
+İşlemlerinizi göstererek bulunuz. (15 puan)
+52
+4. Tema / Eşlik ve Benzerlik
+8.  Aşağıda	verilen	ABC	üçgeninde	DA B! 7A ,	
+AEC! 7A ,	 BC DE'77 AA ,	 ABE EBCmm =`` jj%% ,	
+AD cm8= ,	 DB cm4= 	ve	 EC cm5=  
+olduğuna	göre
+a) 
+BC
+DE
+ oranını bulunuz.
+b) AE  nu ve BC  nu bulunuz.
+9.  Aşağıdaki	şekilde	A,	C,	E	ve	B,	C,	D	noktaları	
+doğrusaldır.	 DEAB '77 A A,	 BC cm4= ,	
+CD cm6= 	ve	 AC cm3= ’dir.
+Buna göre AE  nu ve 
+AB
+DE
+ oranını bulunuz.
+10.  Aşağıdaki		ABC	üçgeninde	DA ,B! 7A  
+EB C,! 7A  DE AC'77 AA , AC cm6= , 
+DE cm4= ’dir. 
+Buna göre  
+BC
+BE
+ ve 
+BD
+DA
+ oranlarını bulunuz.
+A
+8
+4 5
+B C
+D E
+A
+B
+C
+D
+E
+6
+4
+3
+E
+4
+6
+A
+B C
+D
+11.  Aşağıdaki	şekilde	bir	merdivenin	yandan	
+görüntüsü	verilmiştir.	 DAEF CBmm =`` jj%% ,	
+DC AB ,'77 AA  DE AB ,=77 AA  CF AB ,=77 AA  
+AE ,m9=  EF m6= 	ve	 FB m4= ’dir.
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Merdivenin yerden yüksekliğini ifade 
+eden DE  nu bulunuz.
+b) Merdivenin tüm yüzeyi halı ile kapla-
+nacaktır. Basamakların genişliği 1,5 m 
+olduğuna göre kaç metrekare halıya ih-
+tiyaç olduğunu bulunuz.
+12.  Aşağıdaki	görselde	uzunlukları	48	cm	olan,	A	
+ve	B	noktalarından	aynı	hizada	işaretlenmiş	iki	
+metal	çubuk	ve	bu	çubuklar	ile	yapılan	farklı	iki	
+şekil	verilmiştir.	Çubuklar	Şekil	1’de	A	nokta-
+sında,	Şekil	2’de	B	noktasında	kesiştirildiğinde	
+çubukların	uçları	arasındaki	mesafeler	görsel-
+de	verildiği	gibi	olmaktadır.
+ Buna göre çubuk üzerinde alınan A ve B 
+noktaları arasındaki uzaklığı bulunuz.
+F B	
+C	D
+9 4EA 6
+x
+A
+B
+4 12A
+Şekil 1
+16 8
+B
+Şekil 2
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.
+4.Tema_13.07.2024.indd   524.Tema_13.07.2024.indd   52 17.07.2024   18:4417.07.2024   18:44

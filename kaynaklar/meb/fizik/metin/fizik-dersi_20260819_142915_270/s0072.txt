@@ -1,0 +1,43 @@
+72
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.11.2.12
+Öğrencilere indüksiyon akımıyla ilgili önceki öğrenmeleri hatırlatılabilir. Öğrencilerin man-
+yetik alandaki tel çerçeve bir tam turunu tamamlarken akımın büyüklüğü ve yönünün 
+değişimini sorgulaması sağlanır. Öğretmen zamanla değişkenlik gösteren bu akımın al-
+ternatif (değişken) akım olarak adlandırıldığını ifade eder. Öğrenciler alternatif akımı etki-
+leyen etmenleri öğretmenin yönlendirici soruları yardımıyla belirler. Öğrenciler indüksiyon 
+akımının oluşturulabileceği bir deney tasarlar (SDB1.2). Deney sırasında LED lambanın 
+parlaklığını gözlemleyerek indüklenme sonucu oluşan alternatif akımı etkileyen etmen-
+ler arasındaki ilişki ile ilgili verileri kaydeder. Kaydettikleri verilere dayalı olarak öğrenciler 
+indüklenme sonucu oluşan alternatif akımı yorumlayarak değerlendirir (OB7).  İndüksiyon 
+akımı ile alternatif akım arasındaki ilişkiye yönelik grafik ve açık uçlu maddelerden oluşan 
+bir çalışma yaprağı verilebilir.
+FİZ.11.2.13
+Öğretmen, elektrik üretim santrallerinde üretilen elektriğin taşınması sırasında harcanan 
+elektrik enerjisi miktarının iletkenlerin direncine bağlı olarak değiştiğini belirtir (OB8). Öğ-
+rencilere bu kaybı azaltmanın en verimli yolları sorularak verilen cevaplar doğrultusunda 
+toplum yararına (SDB2.3) en verimli yolun, elektriğin en düşük akımlarla taşınması olduğu 
+sonucuna varmaları sağlanır (D17.2, KB3.2). Öğretmen transformatörü tanıtarak tartışma 
+ortamı oluşturur. Tartışma sonucunda öğrenciler transformatörün birincil gerilim, birincil 
+akım, ikincil gerilim, ikincil akım ve sarım sayısı gibi niteliklerini tanımlar. Öğrenciler bu 
+nitelikler arasındaki ilişkileri deneylerle veri toplayarak ortaya koyar (SDB1.2) ve verileri 
+kaydeder. Transformatörlerin nitelikleri arasındaki ilişkilere yönelik yorumlamalarla sınırlı 
+kalınır. Matematiksel işlemlerden kaçınılır. Öğrenciler transformatörlerin kullanım alanla-
+rını araştırarak kullanım alanlarındaki rolünü yorumlar ve değerlendirir. Transformatörle-
+rin nitelikleri arasındaki ilişkilere yönelik açık uçlu maddelerden oluşan bir çalışma yaprağı 
+verilebilir. Öğrencilerden performans görevi olarak transformatörün yapısı ve kullanım 
+alanlarına yönelik bilgi görseli hazırlamaları istenebilir.
+FARKLILAŞTIRMA
+Zenginleştirme Ferromanyetik, diyamanyetik ve paramanyetik maddelerin özellikleri ve manyetik alanla 
+etkileşimleri araştırılabilir. Yüksek gerilim hatları ve trafoların etrafında oluşan manyetik 
+alanın veya elektrikli cihazlar kullanılırken oluşan manyetik alanın sağlığa etkileri araştırı-
+labilir.
+*Elektrik jeneratörlerinde manyetik akı değişimiyle elektrik elde edilmesine ve cevher 
+tespitinde metal dedektörlerin kullanılmasına yönelik uygulamalara yer verilebilir. 
+*STEM basamaklarını uygulayarak transformatörlerde elektrik gerilimini yükseltip alçalt-
+ma işlemine dayalı bir düzenek kurulabilir.
+Destekleme Deney tasarlama, veri toplama, veri işleme ve sonuca varma süreçlerinde deneyin yapılı-
+şına dönük adım adım yönergeler ve hazır veri toplama şablonları kullanılabilir.
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

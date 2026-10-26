@@ -1,0 +1,43 @@
+192
+3. ÜNİTE 
+Örnek 
+Ezgi, Bernoulli İlkesi’nin sonuçlarını gözlemlemek için basit bir 
+deney gerçekleştiriyor. Şekildeki gibi iki ucundan sabit tutarak 
+A4 boyutundaki bir kâğıda üflediğinde kâğıdın aşağıda kalan uçla -
+rının yukarıya doğru hareketlendiğini gözlemliyor. Daha sonra Ezgi, 
+Bernoulli İlkesi’yle günlük hayatta nerelerde karşılaşabileceğini 
+merak ediyor ve bu konuda bir araştırma yapıyor. Araştırma sonu -
+cunda rüzgârlı bir havada şemsiyenin dışa katlanması, parfüm şişe-
+sinden sıvının yükselmesi, hızla hareket eden araçların yakınındaki 
+nesneleri çekmesi gibi günlük hayattan pek çok olayın bu ilke ile 
+açıklanabildiğini tespit ediyor.
+Buna göre
+a) Ezgi’nin gerçekleştirdiği deneyde kâğıdın aşağıda kalan uçlarının yukarıya doğru 
+hareketlenmesini Bernoulli İlkesi’nden yararlanarak açıklayınız. 
+b) Parfüm şişesinden sıvının yükselmesini Bernoulli İlkesi’ni kullanarak açıklayınız.
+Çözüm
+a) Ezgi’nin kâğıda üflemesiyle oluşan hava akımı, kâğıdın üst yüzeyindeki basıncı azaltır. Bernoulli 
+İlkesi’ne göre alt yüzeydeki yüksek basınçtan üst yüzeydeki düşük basınca doğru hareket eden 
+hava, kâğıdın alt kısmının havalanmasına neden olur. 
+b) Parfüm şişesindeki pompa başlığına basıldığında içerideki hava sıkışarak basıncı artırır. Bu 
+yüksek basınç, parfümün içindeki sıvının, şişenin dışındaki düşük basınca doğru itilmesine ve 
+kesit alanı daha küçük olan delikten geçmesine neden olur. Dar delikten geçerken Bernoulli İlkesi 
+gereği sıvının sürati artar ve basıncı düşer; böylece sıvı, yüksek hızda püskürerek havaya ince 
+bir sis şeklinde dağılır.
+11. Alıştırma
+Fizik öğretmeni Ayşenur Hanım, Bernoulli İlkesi’nin günlük hayatta nasıl kullanıldığı ile ilgili öğrencilerin-
+den araştırma yapmalarını istiyor. Zeynep, evdeki su tesisatını ve arabaların yakıt sistemini incelemeye 
+karar veriyor.
+Zeynep, evdeki su tesisatının farklı çaplardaki borulardan oluştuğunu fark ediyor. Eve giren ana şebeke 
+borusunun kalın, çeşmeye giden boruların ise daha ince olduğunu gözlemliyor. Mutfak musluğunu açtı-
+ğında suyun ince borulardan geçerken süratinin arttığını tespit ediyor. Benzer şekilde arabalardaki yakıt 
+sistemlerinde de farklı çaplarda borular kullanıldığını ve bu borulardan geçerken yakıtın akış süratinin 
+arttığını öğreniyor.
+Buna göre
+a) Evlerdeki su tesisatında farklı çaplardaki borulardan geçen suyun akış süratinin ve 
+basıncının nasıl değiştiğini Bernoulli İlkesi’ni kullanarak açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Son durum Üflenen
+hava
+İlk
+durum

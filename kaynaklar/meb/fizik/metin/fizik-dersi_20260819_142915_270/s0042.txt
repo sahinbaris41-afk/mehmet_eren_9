@@ -1,0 +1,49 @@
+42
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin iş ve enerji kavramları hakkında temel düzeyde bilgiye sahip olduğu kabul edil-
+mektedir. 
+Ön Değerlendirme Süreci Öğrencilerin iş ve enerji kavramları hakkında ön bilgilerinin belirlenmesi amacıyla soru ce-
+vap tekniği kullanılabilir.  
+Köprü Kurma İş ve enerji kavramları arasındaki ilişkilere yönelik günlük hayattaki uygulamaları ile ilişki 
+kurulabilir. Bu amaçla öğrencilerde, çevrelerinde gördüğü yenilenebilen enerji, yenilene-
+meyen enerji gibi olay ve olgular hakkında farkındalık sağlanabilir.
+Öğrenme-Öğretme 
+Uygulamaları FİZ.10.2.1
+Tahmin et-gözle-açıkla, beyin fırtınası gibi yöntem ve tekniklerden biri kullanılarak öğ-
+rencilere sunulan günlük hayat örneklerine ilişkin görsellerden kuvvetin yer değiştirme-
+ye olan etkileri hakkında tahminde bulunmaları istenebilir. Öğrenciler, tahminlerini göz-
+lemlemek ve pratik yapmak için simülasyon kullanarak kuvvetin yer değiştirmeye etkisini 
+anlamaya yönelik çalışmalar yapar (SDB1.2). Simülasyondan elde ettikleri verileri veya 
+hazır veri seti kullanarak kuvvet-yer değiştirme grafiğini çizer (KB2.14, OB7). Öğrenciler, 
+elde ettikleri grafikleri analiz ederek öğretmen yönlendirmesiyle kuvvet, yer değiştirme 
+ve iş arasındaki ilişkiyi matematiksel olarak modeller. Öğretmen, kuvvetin sabit olmadı-
+ğı durumlara ilişkin kuvvet-yer değiştirme grafiklerini gösterebilir. Öğrenciler, çizdikleri 
+kuvvet-yer değiştirme grafikleri ile kendilerine verilen grafikleri analiz ederek grafikler 
+üzerinden açıklamalar yapar. Kuvvet-yer değiştirme grafikleri yardımıyla iş kavramına 
+ilişkin genellemeler yapar (OB7). Öğretmen, farklı kuvvet-yer değiştirme grafikleri ile ilgili 
+sorular içeren bir çalışma yaprağı verebilir.
+FİZ.10.2.2
+Öğrenciler tahmin et-gözle-açıkla ve beyin fırtınası gibi öğretim yöntem ve tekniklerinden 
+birinin kullanıldığı ortamda transfer edilen enerjiyi dikkate alıp yapılan iş, birim zamanda 
+yapılan iş ve enerjiye ilişkin sorgulamalar yapar. İş, enerji ve güç kavramlarına ilişkin tah-
+minde bulunur (E3.4). Öğrenciler, iş kavramı ile ilgili mevcut bilgisini kullanarak verdiği 
+cevapları ilişkilendirir ve iş, enerji ve güç kavramları ile ilgili hipotezlerini ifade eder. İş ve 
+enerji konularında negatif ve pozitif durumlar olabileceğine yönelik tahminler yaptırılır. 
+Simülasyon veya animasyon üzerinden gözlem yaparak verdikleri cevapları tekrar yapı-
+landırır ve iş, enerji ile güç kavramları arasındaki ilişkileri listeleyerek karşılaştırır (OB7). 
+Öğrenciler, iş ve işin yapılma süresini ilişkilendirerek güç kavramı hakkında önermede 
+bulunur (KB2.11). Öğrenciler iş ve güç kavramları arasındaki ilişkiden yararlanarak mate-
+matiksel model oluşturur. Öğrenciler, matematiksel modeli kullanarak evlerindeki elekt -
+rikli araçların güç etiketlerini okuyup kullanım süresine göre cihazların harcadığı enerjiyi 
+hesaplar. Bunları  aile bütçesinde tasarruf yapma (D2.4, D17.2, OB3) ve topluma olumlu 
+katkıda bulunma (SDB2.3.) açısından değerlendirir. Öğrencilerden iş, enerji ve güç kav -
+ramlarına ilişkin çıkarımlarını bir sanal pano veya bülten panosuna yazmaları istenebilir.
+FİZ.10.2.3
+Öğrenciler, öğretmen rehberliğinde gruplara ayrılır (SDB2.2). Grup üyeleri mekanik enerji, 
+kimyasal enerji, nükleer enerji, ısı, ışık, ses ve elektrik enerjisi biçimlerini araştırır. Gruplar 
+bulgularını tartışarak (SDB2.2) enerji biçimlerinin özelliklerini belirler (OB1). Öğrenciler iş 
+birlikli öğrenme yöntemlerinden ayrılıp birleşme tekniğine göre asıl ve uzman gruplarına 
+ayrılabilir. Öğrenciler asıl gruplarında uzmanlaşmak istedikleri enerji biçimini belirleyebilir. 
+Her öğrenci sorumlu olduğu enerji biçimine ilişkin uzman grubu ile bir araya gelerek enerji

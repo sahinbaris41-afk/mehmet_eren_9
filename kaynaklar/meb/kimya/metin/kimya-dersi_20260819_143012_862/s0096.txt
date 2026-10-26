@@ -1,0 +1,50 @@
+96
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI VE 
+SÜREÇ BİLEŞENLERİ
+KİM.12.2.1. Molekülleri oluşturan atomlar arasındaki sigma ve pi bağlarını açıklamak için 
+kanıt kullanabilme
+a) Molekülleri oluşturan atomlar arasındaki bağ türlerini belirlemek için ölçütler (bağ 
+sayısı, bağ uzunluğu, bağ enerjisi ve orbital örtüşmesi) geliştirir. 
+b) Hazır veri setinden seçtiği veriler üzerinden atomlar arasındaki tek, çift ve üçlü 
+bağların niteliklerine ilişkin örüntü belirler.  
+c) Tek, çift ve üçlü bağların niteliklerine ilişkin örüntülerini kanıta dayalı açıklar.  
+KİM.12.2.2. Hibrit orbitallerinin oluşumunu açıklamak için kanıt kullanabilme
+a) Hibrit orbitallerinin oluşumuna ilişkin ölçütler (karbon bağ sayıları, atom orbitalle -
+rinin bağıl enerjileri ve valans orbitalleri) belirler.
+b) Hibrit orbitallerinin bağıl enerji diyagramları ve orbital şekillerini, belirlediği ölçüt -
+lerle ilişkilendirerek hibrit orbitallerinin oluşumuna ilişkin örüntü belirler. 
+c) Hibrit orbitallerinin oluşumuna ilişkin belirlediği örüntüleri kanıta dayalı açıklar. 
+KİM.12.2.3. Moleküllerin geometrisinin belirlenmesine ilişkin çıkarımda bulunabilme 
+a) Molekül geometrisine ilişkin varsayımda bulunur. 
+b) Hibrit orbitallerinin uzaydaki yönelimlerine göre oluşan molekül geometrisine iliş -
+kin örüntü belirler. 
+c) Belirlediği molekül geometrilerini bilimsel molekül geometrileri ile karşılaştırır. 
+ç) Karşılaştırmaları sonucunda molekül geometrisinin oluşumuna ilişkin önermeler 
+sunar.
+d) Önermelerini VSEPR [Valans (Değerlik) Kabuğu Çifti İtmesi] kuramı üzerinden de -
+ğerlendirir. 
+KİM.12.2.4. Organik bileşiklerin gösterimi için kullanılan farklı formüllere ilişkin tümeva -
+rımsal akıl yürütebilme 
+a) Organik bileşiklerin farklı gösterim biçimleri (açık, yarı açık, çizgi bağ, molekül ve 
+basit formülü) üzerinden yapı formülüne ilişkin örüntü belirler.
+b) Organik bileşiklerin yapı formüllerine ilişkin genelleme yapar.
+KİM.12.2.5. Hidrokarbonları sınıflandırabilme 
+a) Hidrokarbonların sınıflandırılmasına ilişkin ölçütler (tek, çift ya da üçlü bağların 
+varlığı, halkalı yapıların bulunması veya benzen halkasını içerip içermediği) belirler. 
+b) Belirlediği ölçütler doğrultusunda hidrokarbonları alifatik ve aromatik olarak ay -
+rıştırır. 
+c) Alifatik hidrokarbonları gruplandırır. 
+ç) Oluşturduğu grupları adlandırıp bilimsel karşılığı ile kıyaslar.
+KİM.12.2.6. Alifatik hidrokarbonların sistematik adlandırılmasına ilişkin tümevarımsal akıl 
+yürütebilme  
+a) Alifatik hidrokarbonların sistematik adlandırılmasına ilişkin örüntü bulur.  
+b) Alifatik hidrokarbonların IUPAC sistemine göre adlandırılmasına ilişkin genelleme 
+yapar.
+KİM.12.2.7. Alifatik hidrokarbonların izomerliklerini sınıflandırabilme 
+a) Alifatik hidrokarbonların izomerliklerinin sınıflandırılmasına ilişkin ölçütler (ana zin-
+cire bağlı grupların konumu, açık zincir veya halkalı yapı, ikili bağ yapmış karbon 
+atomlarına bağlı grupların konumları ve pi bağının konumu) belirler. 
+b) Belirlediği ölçütler doğrultusunda alifatik hidrokarbonların izomerliklerini ayrıştırır. 
+c) Alifatik hidrokarbonların izomerliklerini gruplandırır. 
+ç) Oluşturduğu grupları adlandırıp bilimdeki karşılığı ile kıyaslar.

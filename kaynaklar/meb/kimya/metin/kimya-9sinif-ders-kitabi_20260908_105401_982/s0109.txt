@@ -1,0 +1,40 @@
+109
+2. Tema/Çeşitlilik
+Bağ Nasıl Oluşur?Etkinlik-2.2
+1. Yönerge: Aşağıdaki görselde birbirine yaklaşan iki atom verilmiştir. Bu atomlar arasında elektrostatik 
+etkileşimleri açıklamada kullanılabilecek modeli görsel üzerinde çizerek gösteriniz ve çiziminizi 
+arkadaşlarınızın çizimiyle karşılaştırınız. 
+2. Yönerge: Aşağıda verilen metindeki açıklamaları kullanarak görsel üzerinde bir model çiziniz. Çizdiğiniz 
+modeli 1. yönergede yaptığınız çizimle ve arkadaşlarınızın çizimleriyle karşılaştırınız.
+3. Yönerge: Aşağıdaki görselde birbiriyle bağ yapmış iki atom arasındaki itme ve çekme kuvvetleri numara-
+landırılarak verilmiştir. Bu kuvvetlerin her birini itme veya çekme kuvveti olarak belirleyiniz ve 
+büyüklüklerini karşılaştırınız. Cevabınızı gerekçeleriyle açıklayarak tabloyu doldurunuz.
+Coulomb (Kulon) yasasına göre birbirine yaklaşan iki atomun aynı yüklü tanecikleri birbirini iterken zıt 
+yüklü tanecikleri de birbirini çeker. Aynı anda gerçekleşen bu etkileşimlerden çekme kuvvetleri itme kuvvetle-
+rinden çok daha büyükse iki tanecik arasında oluşan güçlü elektrostatik çekim kuvveti nedeniyle tanecikler 
+arasında güçlü bir etkileşim oluşur. Böylece iki atom birbirine doğru çekilir ve iki atom arasında net potansi-
+yel enerji azalarak kimyasal bir bağ oluşur. Kimyasal bağ oluştuğunda bağı oluşturan taneciklerin arasında 
+itme-çekme kuvvetleri dengelenir ve bu taneciklerin çekirdekleri üzerinde net kuvvet gözlenmez.
++
+- -
++
++
+- -
++
++
+- -
++
++
+- -
++
+1 Numaralı Etkileşim 2 Numaralı Etkileşim 3 Numaralı Etkileşim 4 Numaralı Etkileşim
+Gerekçeleriniz Gerekçeleriniz Gerekçeleriniz Gerekçeleriniz
++
+- -
++
++
+- -
++
+3 32 2
+1
+4

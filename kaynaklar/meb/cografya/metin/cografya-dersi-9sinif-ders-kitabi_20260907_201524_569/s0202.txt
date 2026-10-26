@@ -1,0 +1,65 @@
+202
+6. Ünite: AF et L e R V e  SÜRDÜRÜL e B i L i R Ç e VR e
+Bütüncül afet yönetimi, afetlerle baş edebilen bir toplum oluşturmak için tüm 
+tehlikelerin dikkate alındığı; risk ve zarar azaltma, hazırlık, müdahale ve iyileş-
+tirme aşamalarında yapılması gereken çalışmalar ve alınması gereken önlem-
+lerin toplumdaki kaynakların kullanılmasıyla gerçekleştirilebildiği bir süreçtir.
+Bütüncül afet yönetiminin her aşamasında planlama, risk azaltma gibi çalış-
+malar vardır. Aşamalar, her zaman birbirini takip etmek zorunda olmayıp ge-
+nellikle iç içedir. Bu nedenle risk yönetimi, her aşamada ortaya çıkabilecek 
+yeni riskleri de dikkate almalıdır. İyileştirme aşamasında yürütülen faaliyetler-
+de ise oluşması muhtemel tehlike ve risklerin önlenmesi veya etkilerinin en 
+aza indirilmesi amaçlanmalıdır.
+6.1.3. Bütüncül Afet Yönetimi
+HAZIRLIKLI OLMA
+Herhangi bir afet yaşanmadan önce risk analizi ve zarar azalt-
+ma evresinde elde edilen verilerden hareketle afetin olası so-
+nuçlarına yönelik ihtiyaçların belirlenmesi, tahliye sürecinin 
+şekillendirilmesi, toplanma merkezinin belirlenmesi, acil 
+eylem planının hazırlanması ve afete müdaha -
+lede ihtiyaç duyulabilecek malzemelerin 
+yer alacağı bölge teçhizat merkezlerinin 
+kurulmasını kapsamaktadır. Ayrıca 
+erken uyarı sistemlerinin kurulma -
+sı, kontrol edilmesi, işletilmesi ve 
+güncellenmesi bu aşamada ya-
+pılması gerekenler arasındadır.
+MÜDAHALE 
+Bu aşamanın amacı olaya en kısa 
+sürede müdahale edilmesi, arama 
+kurtarma faaliyetlerinin gerçekleş-
+tirilmesi; gıda, barınma, ilaç, güvenlik 
+gibi zaruri ihtiyaçların karşılanmasını sağ-
+lamaktır. Bu aşama; hasar tespitinin yapılması 
+ve enkazların kaldırılmasıyla afet sonrasında oluşa-
+bilecek yangın, patlama, salgın hastalıklar, çevreye yönelik teh-
+ditler gibi olumsuzluklara karşı önlem almayı da kapsamaktadır.
+İYİLEŞTİRME 
+Bu aşamanın amacı; afe-
+te maruz kalan bölgelerde 
+temel ihtiyaçlar, haberleş-
+me, ulaşım, elektrik, kanalizas-
+yon, eğitim, kalıcı konut, ekono-
+mik ve sosyal hayat gibi hususların 
+normale dönmesi için gerekli çalışmaların 
+yapılmasıdır. Sosyal ve ekonomik hayatın normale 
+dönmesiyle yeniden yapılanma faaliyeti, kriz yönetiminin en 
+uzun süren evresidir.
+RİSK VE ZARAR AZALTMA
+Afetlerin etkisini azaltmak veya yok etmek için atılan adımlar-
+dan oluşur. Bu adımlar; afet oluşma riskinin yerel, bölgesel ve 
+ülkesel bazda yeniden belirlenerek tehlike haritalarının hazır-
+lanması, afet için uygulanacak yasal düzen -
+lemelerin oluşturulması, yapılanma ve 
+afetlere ilişkin yönetmeliklerin yeni-
+den düzenlenmesini kapsar.
+RİSK YÖNETİMİ
+Bu aşamada afet öncesinde yürütülecek risk ve zarar azaltma ile afete hazırlık çalışmaları kapsamında olası bir 
+afetten etkilenmenin önüne geçilebilmesi amaçlanmaktadır.
+KRİZ YÖNETİMİ
+Bu aşamada afet esnası ve sonrasında yürütülecek faaliyetlerin bütüncül afet yönetim planına göre mevcut 
+kaynak ve imkânlar dâhilinde en hızlı ve etkili şekilde gerçekleştirilmesi amaçlanmaktadır.
+AFET
+BÜTÜNCÜL 
+AFET YÖNETİMİ
+  Risk ve Zarar Azaltma                Hazırlıklı Olma                         Yeniden yapılandırma                            Etki analizi                                 Önlem                              Tahmin ve erken uyarı          İyileştirme                             MüdahaleRehabilitasyonRehabilitasyon

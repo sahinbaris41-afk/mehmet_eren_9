@@ -1,0 +1,57 @@
+137
+2. Tema /  Nicelikler ve Değişimler
+4.  Giriş bölümüne ax + b = g(x) yazıp Enter tuşuna basınız. Ekranda denk1 doğrusu oluşacaktır (Görsel 1).
+Görsel 1
+Giriş...
+-2-3-4-5 -1 0 1 2
+f
+f(x) = ax + b
+=  1.4x+  4.2
+A = Kesiştir(f, g)
+= (-3, 0)
+denk1 : 1.4 x + 4.2 = g(x)
+g(x) = 0
+a = 1.4
+-5      5                    
+b = 4.2
+-5      5                    
+3
+4
+5
+2
+-1
+A a = 2α
+A
+1
+denk1
+g
+5.  Giriş bölümüne f(x) < g(x) yazıp Enter tuşuna basınız. Ekranda f(x) < g(x) eşitsizliğinin çözüm aralığı oluşa-
+caktır (Görsel 2).
+Görsel 2
+-2 -1 0 1 2
+f
+c : f(x) < g(x)
+=  1.4x+  4.2 < 0
+3
+4
+5
+2
+A a = 2α
+1
+denk1
+A
+-3-4-5
+g
+Giriş...
+f(x) = ax + b
+=  1.4x+  4.2
+A = Kesiştir(f, g)
+= (-3, 0)
+denk1 : 1.4 x + 4.2 = g(x)
+g(x) = 0
+a = 1.4
+-5      5                    
+b = 4.2
+-5      5                    
+-1
+-2

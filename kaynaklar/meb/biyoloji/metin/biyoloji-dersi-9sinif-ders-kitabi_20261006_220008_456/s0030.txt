@@ -1,0 +1,47 @@
+30
+1. Tema
+Konuya Başlarken
+Yönerge: Aşağıdaki metinden ve önceki öğrenmelerinizden yararlanarak soruları cevaplayı-
+nız.
+2021 yılının Şubat ayında İngiltere’de COVID-19’a ilişkin dikkat çekici bir 
+araştırma için onay verildi. “Human Challenge (Humın çelınç)” olarak ad-
+landırılan bu çalışmada, klasik aşı araştırmalarından farklı bir yöntem uygu-
+landı. Geleneksel çalışmalarda çok sayıda gönüllünün virüse doğal yollarla 
+maruz kalması beklenirken bu araştırmada 18-30 yaş arasındaki sağlıklı 36 
+gönüllüye kontrollü koşullarda bilerek canlı SARS-CoV-2 verildi.
+Bu araştırmanın amacı, virüsün bulaşması için gereken en düşük dozu belir-
+lemek, bağışıklık sisteminin özellikle ilk saatlerde verdiği tepkiyi incelemek 
+ve bazı bireylerin neden daha fazla bulaştırıcı olabildiğini anlamaktı. Elde 
+edilecek verilerin, aşı ve tedavi geliştirme çalışmalarını hızlandırabileceği 
+düşünülüyordu. Böylece normalde uzun sürebilecek bazı araştırma basa -
+maklarının daha kısa sürede tamamlanması hedefleniyordu.
+Çalışma, Londra’daki Royal Free (Royıl fri) 
+Hastanesinde yüksek güvenlik önlemleri al-
+tında yürütüldü. Gönüllüler özel hava filtre-
+leme sistemlerine sahip birimde tutuldu, 14 
+gün boyunca dış dünya ile temas etmeden izo-
+le edildi ve sürekli doktor gözetiminde takip 
+edildi (Görsel 1.6). Katılımcılara, zaman ayır-
+maları ve karşılaşabilecekleri riskler nedeniyle 
+yaklaşık 4.500 sterlin ödeme yapıldı.
+Araştırma kamuoyunda ve bilim çevrelerin-
+de önemli tartışmalara yol açtı. Çünkü çalış -
+ma yürütüldüğü sırada virüsün özellikle genç 
+bireylerde uzun vadede oluşturabileceği etkiler henüz tam olarak bilinmi -
+yordu. Bazı uzmanlar, sağlıklı bireylerin bilerek enfekte edilmesinin tıbbın 
+temel etik ilkeleriyle çelişebileceğini savundu. Buna karşılık bazı araştırma-
+cılar ise böyle bir çalışmanın toplum sağlığı açısından büyük yarar sağlaya-
+bileceğini ve milyonlarca insanın yaşamını korumaya katkıda bulunabilece-
+ğini ileri sürdü.
+1. “Human Challenge” yönteminde katılımcılara yüksek miktarda ödeme 
+yapılması ve sağlıklı bireylerin bilerek enfekte edilmesi, gönüllü onamı 
+ve adalet ilkeleri açısından hangi riskleri ortaya çıkarabilir? Bu duru-
+mun gönüllülerin kararını etkileyip etkilemediğini değerlendiriniz.
+2. Pandemi gibi küresel ölçekte acil durumlarda aşının daha kısa süre-
+de geliştirilebilmesi amacıyla etik kuralların esnetilmesi ya da bazı 
+araştırma aşamalarının hızlandırılması etik açıdan savunulabilir mi? 
+Görüşünüzü bireysel haklar ile toplumsal yarar arasındaki dengeyi dik-
+kate alarak açıklayınız.
+Görsel 1.6: Doktor 
+gözetimindeki gönüllü
+ 1.3. BİLİM  ETİĞİ

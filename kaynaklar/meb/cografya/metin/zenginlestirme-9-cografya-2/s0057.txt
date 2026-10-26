@@ -1,0 +1,43 @@
+56 57
+COĞRAFYA 9 
+1. Adım: Bilgilendirme
+1. Öğrenciye öncelikle araştırma konusu ile ilgili bir çalışma planı hazırlaması gerektiğini belirtiniz.
+2. Öğrenciyi gerektiğinde sizden yardım alabileceği konusunda bilgilendiriniz.
+3. Öğrenciye araştırma sonunda çalışmanın tüm aşamalarını içeren bir rapor oluşturması gerektiğini 
+belirtiniz.
+4. Öğrenciye çalışmayı verilen süre içinde bitirmesi gerektiğini bildiriniz.
+Yönerge: Dijital araçlar kullanarak bir yerin koordinatlarını bulma görevini gerçekleştirmesi için öğrenciyi aşa -
+ğıdaki adımlar doğrultusunda yönlendiriniz. 
+ÖĞRENME ÇIKTISI COĞ.9.2.3. Mekânsal bilgi teknolojilerini oluşturan bileşenleri 
+çözümleyebilme
+PROGRAMLAR ARASI 
+BİLEŞENLER
+SDB1.1. Kendini Tanıma (Öz Farkındalık)
+SDB1.2. Kendini Düzenleme (Öz Düzenleme)
+SDB1.3. Kendine Uyarlama (Öz Yansıtma)
+SDB2.1. İletişim
+D3. Çalışkanlık
+D10. Mütevazılık
+D19. Vatanseverlik
+OB1. Bilgi Okuryazarlığı
+OB2. Dijital Okuryazarlık
+OB4. Görsel Okuryazarlık
+ARAÇ-GEREÇ VE 
+EĞİTİM ORTAMLARI, 
+MATERYALLER
+• Bilgisayar
+• CBS uygulaması
+• Akıllı tahta
+• Kalem
+• Kâğıt
+• Genel ağ
+ZENGİNLEŞTİRME 
+UYGULAMASI
+Dijital araçlar kullanarak bir yerin koordinatlarını bulma
+ETKİNLİĞİN AMACI Bir yerin konumunu belirleme, mutlak ve göreceli konum özelliklerini çö -
+zümleme, sınıflandırma ve yorumlama
+11. ETKİNLİK
+1 
+Hafta
+DİJİTAL ARAÇLARLA BİR YERİN 
+KOORDİNATINI BULMA

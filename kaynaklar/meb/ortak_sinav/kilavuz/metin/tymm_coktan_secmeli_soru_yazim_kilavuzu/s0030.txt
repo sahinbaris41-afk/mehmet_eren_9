@@ -1,0 +1,32 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+30
+1-3. soruları aşağıdaki bilgilere göre cevaplayınız.
+Tuğba, evinin çatısına bir güneş paneli sistemi kurarak kendi elektriğini birim enerji olarak üretmiştir. 
+Ürettiği elektrikle evdeki aydınlatmaları çalıştırmak, telefon ve tabletini şarj etmek istemektedir. Bir 
+güneş paneline sistem tüketimi için gerekli olan enerjinin 500 birim enerjiden fazla olması gerektiği 
+bilgisine ulaşmıştır. Sistemin her gün ne kadar enerji ürettiğini anlamak için günlük üretilen enerji 
+miktarını kaydetmiştir. Bu veriler ile güneş panellerinin verimli çalışıp çalışmadığını değerlendirmiş -
+tir. Değerlendirme sonucunda bazı günlerde güneş panelinin günlük verim miktarının yeterli olmadığı 
+tespit edilmiştir. Beş gün boyunca panelin günlük enerji üretimini aşağıdaki gibi ölçmüştür. 
+GÜNLER ENERJİ ÜRETİMİ
+Pazartesi 600 birim enerji
+Salı 550 birim enerji
+Çarşamba 400 birim enerji
+Perşembe 650 birim enerji
+Cuma 500 birim enerji
+1. Bu durumda aşağıdakilerden hangisi Tuğba’nın cevap aradığı soruyu ifade eder? (KB3.2.SB1)
+A) Güneş panelleri her gün aynı miktarda birim enerji üretir mi?
+B) Üretilen enerji Tuğba’nın ihtiyacını karşılar mı?
+C) Güneş panellerinin günlük verim miktarı yeterli midir?
+D) Cihazların kullanım sürelerinin azaltılması gerekir mi?
+2. Güneş paneli ile ilgili verilenlerden hangisi Tuğba’nın yaşadığı problemi yansıtmaktadır? (KB3.2.SB2)
+A) Güneş paneli, bazı günlerde yeterli enerji üretemediği için yetersiz kalmaktadır.
+B) Güneş paneli, bazı günlerde fazla enerji ürettiği için sistemin gücü değişmektedir.
+C) Güneş paneli, bazı günlerde hiç enerji üretmediği için sistem tamamen durmaktadır.
+D) Güneş paneli, bazı günlerde eşit enerji ürettiği için sistem kararlı görünmektedir.
+3. Güneş panellerinin beş gün boyunca ürettiği birim enerji miktarı göz önünde bulundurulduğunda 
+aşağıdaki tahminlerden hangisi yapılamaz? (KB3.2.SB1)
+A) Cihazların günlük yaklaşık tüketim miktarı
+B) Panellerin üretim miktarının tüketimden fazla olduğu gün sayısı
+C) Panellerin beş gün boyunca toplam üretim miktarı
+D) Cihazların aylık verimli çalıştığı gün sayısı

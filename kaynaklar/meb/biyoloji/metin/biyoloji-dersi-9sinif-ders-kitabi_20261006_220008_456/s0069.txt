@@ -1,0 +1,57 @@
+69
+Yaşam
+Bu süreçlerde kullanılan proteinlerin yapı ve fonksiyonlarını belirleyen amino asit 
+dizileri, nükleik asitlerden oluşan ve gen olarak bilinen kalıtsal birimler aracılığıyla 
+kodlanır.
+Nükleotitler, yapılarında riboz şekeri bulundurduğunda ribonükleotit ve deoksiri-
+boz şekeri bulundurduğunda ise deoksiribonükleotit olarak adlandırılır. Nükleo- 
+titlerin yapısında bulunan azotlu organik bazlar pürin ve pirimidin olmak üzere 
+iki çeşittir. Azotlu organik bazlar; kimyasal yapıları, moleküler boyutları ve biyolojik 
+rolleri açısından belirgin farklılıklar gösterir. Pürinler, iki halkalı yapılarıyla pirimi -
+dinlerden daha büyük ve karmaşıktır. Guanin (G) ve adenin (A) pürin bazlarıdır. 
+Pirimidinler ise tek halkalı yapıya sahiptir ve sitozin (C), timin (T) ile urasil (U) baz -
+larını içerir (Görsel 1.56).
+Görsel 1.56
+Pürin ve pirimidinlerin yapısı 
+ve çeşitleri  
+Polimerleşme
+Fosfodiester bağı
+Nükleotitler
+(C, A, G, T veya U)
+Nükleik asitler
+(DNA veya RNA)
+Görsel 1.57
+Nükleotitlerin polimerleşmesi 
+ve fosfodiester bağlarının 
+oluşumu
+Guanin Adenin
+PÜRİNLER PİRİMİDİNLER
+Sitozin Timin Urasil
+NH2
+O
+NH
+NH N
+N
+NH2
+NH N
+N N
+O
+NH2
+NH
+N
+O
+O
+NH
+NH
+O
+O
+NH
+NHH2C
+Biyolojik sistemlerde deoksiribonükleik asit (DNA) ile ribonükleik asit (RNA) olmak üze-
+re yapısal ve işlevsel olarak birbirinden farklı iki nükleik asit çeşidi bulunur. Yapısal ola-
+rak karşılaştırıldığında DNA deoksiriboz şekeri içerirken RNA riboz şekeri içerir.
+Nükleotitler, fosfat grubu ve pentoz şekerleri arasında kurulan fosfodiester bağla -
+rıyla polimerleşir (Görsel 1.57). Bu bağın oluşumu sırasında su molekülü açığa çıkar 
+(dehidrasyon reaksiyonu). Fosfodiester bağları, nükleik asit zincirlerinin omurga-
+sını oluşturan güçlü kovalent bağlardır. Bu bağlar aracılığıyla nükleotit polimerleri-
+nin (nükleik asitlerin) yapısal bütünlüğü sağlanır.

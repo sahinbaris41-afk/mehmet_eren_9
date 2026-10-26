@@ -1,0 +1,30 @@
+200
+Sözlük
+SÖZLÜK
+A-D
+akyuvar : Kan, lenf gibi vücut sıvılarında bulunan çekirdekli, yuvarlak hücre.
+alyuvar : Kana al rengini veren, çekirdeksiz, yuvarlak, küçük hücre.
+apsis : Düzlemdeki bir noktayı belirten sıralı ikilinin birinci bileşeni.
+aralık : Birbirinden farklı iki sayı arasındaki gerçek sayıların belirttiği küme.
+arz : Piyasaya mal sürülmesi, sunu. 
+atom : Birkaç türü birleştiğinde çeşitli molekülleri, bir tek türü ise bir kimyasal ögeyi oluşturan parçacık.
+deniz feneri :
+Kıyıların tehlikeli yerlerinde, bazı kaya ve adacıkların üzerinde geceleri 
+deniz taşıtlarına yol gösteren, tepesinde güçlü bir ışık kaynağı olan ışık 
+kulesi; fener.
+denklem : İçinde yer alan bazı niceliklere ancak uygun bir değer verildiği zaman sağlanabilen eşitlik; muadele.
+dik koordinat sistemi : Tüm eksenleri birbirine dik olan koordinat sistemi.
+direnç : Bir nesnenin elektrik akımına karşı dayanma özelliği; mukavemet, rezistans.
+düzlem : Üzerine, kesişen iki doğrunun her noktasının dokunması gereken yüzey, müstevi.
+G-H-I
+genel ağ : Dünya üzerindeki tüm bilgisayarların birbirine bağlanmasını sağlayan genelleştirilmiş bilgi iletişim ağı.
+hipotez : Deneylerle henüz yeter derecede doğrulanmamış ancak doğrulanacağı umulan kuramsal düşünce. 
+hüküm : Bir yargı bildiren önerme.
+ışık yılı : Işığın bir yılda aldığı yol.
+K-M-O-Ö
+kalori : Besinlerin, dokular içinde yanarak vücudun sıcaklık ve enerjisini sağlama değerlerini gösteren ölçü.
+kolesterol : Kanda ve büyük ölçüde ödde bulunan, besinlerle alınan sterol.
+kurye : Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse.
+kuş bakışı : Yüksek bir yerden aşağıya doğru, bütün genişliği içine alacak biçimde bakış.
+mil : Türlü işlerde kullanılmak için yapılan ince ve uzun metal çubuk.
+model : Resim, heykel vb. yapılırken baka baka benzetilmeye çalışılan nesne veya kimse, örnek.

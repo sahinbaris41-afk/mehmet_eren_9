@@ -1,0 +1,36 @@
+15
+1. Tema /  Sayılar
+1.	Sıra	Sizde      
+3
+124 22 1 30+- +- -- -d _n i 	işleminin	sonucunu	bulunuz.
+Gerçek Sayıların Üslü Gösterimleriyle Yapılan Toplama ve 
+Çıkarma İşlemleri 
+İnsan kanı, plazma adı verilen sıvıdan ve kan hüc-
+relerinden oluşur (Görsel 1.1). Kan hücreleri; alyu-
+varlar, akyuvarlar ve trombositler olmak üzere üç çe-
+şittir. Bir laboratuvarda incelenen kanın 1 litresinde 
+51 09$  alyuvar, 61 06$  akyuvar ve ,1 002 9$  
+trombosit hücresi bulunduğu tespit edilmiştir.
+Kandaki alyuvar ve trombosit hücrelerinin toplam 
+sayısını ya da alyuvar hücresi sayısının trombosit 
+hücrelerinin sayısından kaç fazla olduğunu hesap-
+lamak için hangi matematiksel işlemlere ihtiyaç 
+duyulur?
+2.	Uygulama
+Üslü Gösterimlerle Toplama ve Çıkarma İşlemi
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız. 
+n tam sayı; a, b, x birer gerçek sayı ve x sıfırdan farklı olsun.
+1. Üslü gösterimlerle a . xn + b . xn  ve a . xn - b . xn işlemlerinin sonuçları nasıl bulunabilir? Varsayımlarınızı 
+oluşturunuz.
+2. T abloda verilen işlemlerin sonuçlarını örneklerdeki gibi bularak ilgili yere yazınız. 
+ 
+İşlem Ortak Çarpan Parantezindeki İşlem Sonuç
+3 . 510 + 510 (510 + 510 + 510) + 510 = (3 + 1) . 510 4 . 510
+5 . 712 - 2 . 712 (5 - 2) . 712 3 . 712
+-7 . 115 + 4 . 115
+0,4 . 57 + 2,1 . 57
+3 . 105 - 105 + 2,5 . 105
+a . 54 + b . 54
+a . xn + b . xn
+a . xn - b . xn
+Görsel 1.1: Kan hücrelerinin görüntüsü

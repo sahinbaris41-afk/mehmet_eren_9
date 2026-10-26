@@ -1,0 +1,55 @@
+151
+2. Tema/Çeşitlilik
+ Cl
+Dipol-dipol etkileşimi
+  
+H
+ Cl
+ Cl
+İyon-Dipol	Etkileşimi 
+İyonlar ve polar moleküller arasında görülür. İyonik yapılı bileşiklerin polar 
+çözücülerde çözünmesi sırasında oluşan etkileşim iyon-dipol etkileşimine ör-
+nek verilebilir. Yemek tuzu (NaCl) gibi iyonik yapılı bileşik, su (H2O) gibi polar 
+çözücüde çözündüğünde iyonlarına ayrışır. Ortamdaki anyon ve katyonun 
+polar moleküldeki kısmi yüklü bölgeler ile oluşturduğu etkileşime iyon-dipol 
+etkileşimi denir (Görsel 2.15).
+London	Kuvveti
+Yük dağılımının konumunun değişmesi tüm moleküllerde gözlemlenen bir 
+durumdur. Bu durum sonucu oluşan etkileşim türü tüm moleküller ara  sında 
+bulunur ancak maddenin fiziksel özelliklerini belirleyen etkin kuvvet sadece 
+geçici dipole sahip moleküllerde görülür. Soy gaz atomları ve bütün apolar 
+molekül lerde fiziksel özellikleri belirleyen bu çekim kuvvetine dağılma kuv-
+veti, in düklenmiş dipol-indüklenmiş dipol etkileşimi veya London (Lan-
+dın) kuvveti denir.
+Genel olarak apolar moleküller ve soy gaz atomlarının yapısında elektron 
+bulutunun dağılımı simetriktir ancak bu yapıya yaklaşan bir başka atom, iyon 
+ya da molekülle simetrik yük dağılımı bozulur ve geçici dipol oluşur.
+HCl molekülünde kalıcı dipol HCl molekülünde atomlar arası ve moleküller arası etkileşim
+Dipol-Dipol	Etkileşimi
+Polar moleküller bir araya geldiğinde ayrı moleküllerdeki zıt kutuplu atomlar 
+arasında elektriksel bir çekim kuvveti ortaya çıkar. Bu etkileşime dipol-dipol 
+etkileşimi denir. 
+Dipol-dipol etkileşimi polar moleküller içeren saf bir maddenin kendi mole -
+külleri arasında görülür (Görsel 2.14). Farklı tür polar moleküllerin bir araya 
+gelmesiyle oluşan karışımlarda ve bu moleküller arasında da görülebilir.
+δ¯ δ¯ δ¯δ
++
+δ
++
+δ
++
+iyon-dipol etkileşimi δ+
+Na
++ Hδ¯
+H
+O
+CI¯
+δ
++
+δ
++
+iyon-dipol etkileşimi
+Görsel 2.14 
+Etkileşim türleri
+Görsel 2.15 
+İyon-dipol etkileşimi

@@ -1,0 +1,46 @@
+76
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Belirlenen bağlamlardan yola çıkılarak öğrencilerin merak ettikleri soruları ifade etmeleri beklenir 
+(E3.8). Öğrencilerin hazırladığı sorulara ilişkin fikirler üzerinden tartışma yürütmeleri, tartışma so-
+nucunda nicel veri dağılımlarını betimleyebileceği ve karşılaştırabileceği istatistiksel araştırma so-
+rularına ulaşmaları sağlanır (SDB2.2). Belirlenen araştırma soruları bireysel veya grup olarak sınıfa 
+sunulur. Araştırma sorularının istatistiksel araştırma soruları olup olmadığı;
+• Amacın net olması, 
+• Araştırmaya değer olması, 
+• İlgilenilen grubun (evrenin) açık olması, 
+• Değişkenlerin açık bir biçimde görülmesi, 
+• Veri toplanarak cevaplanabilmesi, 
+• Değişebilirliği yansıtması, 
+• Odaklanılan grubun araştırmaya imkân vermesi (veri setindeki verileri tek tek ya da veri dağı-
+lımını bütüncül olarak incelemeye yönelik analize imkân vermesi), 
+• Nicel veri toplamaya uygun olması
+ölçütleri dikkate alınarak tartıştırılır (SDB1.1). Öğrencilerden bireysel olarak veya grup çalışmasıyla 
+bağlam doğrultusunda belirledikleri, sınıf içi tartışma sonrası son hâlini verdikleri nicel veriye dayalı 
+istatistiksel araştırma sorularını oluşturmaları beklenir. Öğrencilerin sınıf tartışmalarına katılması; 
+istatistiksel araştırma sorularına ulaşmaları sürecinde argümanlarını ortaya koyabilmesini, bu argü-
+manlarını savunabilmesini ve farklı fikirleri değerlendirebilmesini destekler. 
+İstatistiksel araştırma sorusu ölçütlerinden değişebilirlik ölçütünün dört çeşidini de yansıtabilecek 
+örnekler verilmesine dikkat edilir. Doğal ortamdan kaynaklanan değişebilirlik, doğada var olan deği-
+şebilirlik olarak ifade edilir. Öğrencilerin boylarının farklılık göstermesi, bu duruma örnek olarak veri-
+lebilir. Ölçümden kaynaklanan değişebilirlik, ölçüm için kullanılan araçlarda veya bu araçları kullanan 
+kişiler arasında farklılıklar olduğunda ortaya çıkar. Örneğin öğrencilerden bir topun düşme süresini 
+bir kronometre ile ölçmeleri istendiğinde öğrencilerin kronometreyi yanlış okuması, ölçüm ayarının 
+farklı seçilmesi, kronometre ayarının yanlış yapılması gibi sebeplerden dolayı ölçüm değişebilirliği 
+yaşanabilir. İki farklı kişinin kronometreyi aynı anda başlatması veya aynı anda durdurması mümkün 
+olmadığında ölçümden kaynaklanan değişebilirlik ortaya çıkar. Müdahaleden kaynaklanan değişe-
+bilirlik isteyerek ortaya çıkarılır. Güneş ışığının bitkilerin büyümesini nasıl etkilediğini gözlemlemek 
+için bitkilerin farklı güneş ışığı alma süresine sahip ortamlara yerleştirilmesi, bu değişebilirliğe örnek 
+olarak verilebilir. Örneklem değişebilirliği ise aynı evrenden birden fazla örneklem alındığında ortaya 
+çıkar. Evrenden farklı örneklemler alındığında ortalamalarının farklılık göstermesi, örneklem değişe-
+bilirliğine örnek olarak gösterilebilir. 
+İstatistiksel araştırma problemlerine kaynaklık edecek bağlamlar, gerçek yaşam durumlarına 
+uygun olarak belirlenir. İstatistiksel araştırma sürecine başlarken öğrencilere merak ettiği sağ-
+lık, eğitim, çevre, doğa, iklim gibi gerçek yaşam durumlarına ilişkin bilgilere ihtiyaçlarının olduğu 
+fark ettirilir (E1.1, OB1). Öğrencilerin gerçek yaşam durumlarına ulaşabilmelerinde fikir alışverişi 
+önemli olduğu için grup çalışmalarına katılımı teşvik edilir ve farklı fikirler üretmeleri destek -
+lenir. Öğrenciler, ortaya koydukları gerçek yaşam durumlarını arkadaşlarıyla tartışarak süreçte 
+etkin rol alır (SDB2.2, D3.4). Bireysel çalışma veya grup çalışması yoluyla belirledikleri gerçek 
+yaşam durumlarını (örümcek ağı, kavram haritası gibi tekniklerle) gösterir veya dijital ortamlarda 
+zihin haritası araçları yardımıyla oluşturarak paylaşır (OB2). Belirlenen gerçek yaşam durumla -
+rı, veri toplamayı gerektirip gerektirmeme ölçütüne göre sınıf içi tartışmayla belirlenir (SDB2.1, 
+SDB2.2). Bu süreç, öz ve akran değerlendirme formu ile değerlendirilebilir (SDB1.2, SDB1.3). 

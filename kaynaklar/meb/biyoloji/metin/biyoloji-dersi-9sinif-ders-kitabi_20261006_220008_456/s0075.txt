@@ -1,0 +1,37 @@
+75
+Yaşam
+8. Etkinlik      
+Adı Organik Moleküllerin Tayini 
+Amaç Besinlerin yapısında karbohidrat, lipit ve protein varlığının belirlenmesiyle ilgili deney yapabilme
+Süre 80 dk.
+Yönerge 
+• Besinlerdeki organik moleküllerin tespitine yönelik aşağıda uygulama basamakları verilen etkinliği gerçek -
+leştiriniz.
+• Etkinlik sonunda deney raporunuzu “Deney Raporu” formatına uygun olarak hazırlayınız. Deney raporları 
+“Analitik Dereceli Puanlama Anahtarı” ile puanlanacaktır.
+• Etkinlik sonunda karekod ile verilen “Öz Değerlendirme” ve “Grup Değerlendirme” formlarını doldurunuz. 
+Bu formlara etkinliğin sonundaki karekodları kullanarak ya da kitabın sonunda verilen ekler bölümündeki 
+Form11, Form 12, Form 13, Form 14'ten ulaşabilirsiniz.
+1. Karbohidrat, protein ve lipitler için kullanılan ayıraç çeşitlerini ve oluşturdukları renkleri gösteren aşağıdaki 
+“Organik Moleküllerin Ayıraçları” tablosunu inceleyiniz. 
+Organik Moleküllerin Ayıraçları
+Organik Molekül Ayıraç Oluşan Renk
+Nişasta İyot çözeltisi (Lugol) Mavi-mor
+Glikojen İyot çözeltisi (Lugol) Kahverengi-kırmızı
+Selüloz İyotlu çinko klorür Açık mavi veya yeşil
+Glikoz, fruktoz Benedict (Benedik) çözeltisi Kiremit kırmızısı 
+Glikoz, fruktoz Fehling (Fehling) çözeltisi Kiremit kırmızısı veya turuncu
+Monosakkaritler Barfoed (Barfed) reaktifi Kırmızı
+Amino asitler Ninhidrin reaktifi Sarı veya mor (amino asit çeşidine göre)
+Proteinler Nitrik asit Sarı 
+Proteinler Fehling çözeltisi menekşe rengi
+Proteinler Biüret (Biüre) reaktifi Açık mavi veya mor
+Proteinler Commasie (Komasi) mavisi G-250 Mavi
+Yağlar Sudan III ve Sudan IV çözeltisi Kırmızı veya turuncu
+Yağlar Sudan kırmızısı Kırmızı
+Doymamış yağlar Osmik asit Siyah veya koyu kahverengi
+Çevre analizi, atık yönetimi gibi alanlarda da organik moleküllerin ayıraçları önemli 
+rol oynar. Kirleticilerin ve toksik maddelerin tespiti ile analizi, çevresel standartlara 
+uyumu sağlamada ve çevre koruma önlemlerinin uygulanmasında önemlidir. Ayı-
+raçlar, atık su ile endüstriyel atıkların analizinde, ayrıca zararlı organik bileşiklerin 
+belirlenmesinde ve izlenmesinde kullanılır.

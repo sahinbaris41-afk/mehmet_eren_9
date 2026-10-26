@@ -1,0 +1,61 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+54
+Topoğrafya Haritalarında Başlıca Yer Şekillerinin Gösterilmesi 
+Topoğrafya haritaları; yer şekilleri, göller, akarsular gibi yeryüzüne ait doğal 
+özellikleri içeren haritalardır. Topoğrafya haritalarında eş yükselti eğrileri yön-
+teminden yararlanılarak yeryüzündeki yükselti ve yer şekillerinin temsil edilme-
+si sağlanır. Bu haritalarda ayrıca yerleşmelerin yeri; yollar, köprüler, arkeolojik 
+kalıntılar gibi yeryüzünün beşerî özellikleri de yer alabilir. Topoğrafya haritala-
+rı, askerî harekât ve savunma stratejilerinin geliştirilmesinde kullanılan önemli 
+araçlardır. Bunun yanında jeoloji, arkeoloji, inşaat mühendisliği, madencilik, 
+ormancılık, şehir ve bölge planlaması, doğa sporları gibi alanlarda da topoğ-
+rafya haritaları kullanılır.
+Dağ: Çevresine göre 
+belirgin bir yükselti 
+durumunda bulunan; 
+yüksek, eğimli 
+yamaçlarıyla çevresine 
+egemen olan ve oldukça 
+geniş bir alana yayılan 
+yer şeklidir.
+Şelale: Akarsu boylarındaki bir 
+eğim kırığında suların yüksekten 
+dökülüp aktığı yerdir.
+Boyun: İki tepe 
+arasında kalan ve 
+çevresine göre 
+yükseltinin daha az 
+olduğu yerdir.
+Falez (Yalı Yar): Dalga 
+aşındırması sonucu oluşan dik 
+kıyılardır.
+Vadi: Akarsu veya buzul 
+aşındırması sonucu oluşan, 
+bir taban ve bunun iki yanında 
+yamaçların olduğu eğimli oluktur.
+K
+Deniz
+100200
+Çukur (Çanak): Yüksek 
+kesimlerle çevrili alçak 
+sahalardır.
+Delta: Akarsuların 
+getirdiği alüvyonların 
+deniz kıyısında 
+birikmesiyle oluşan ve 
+denize doğru çıkıntı 
+yapan ovalardır.
+Sırt: Tepe veya 
+dağlarda farklı yöne 
+bakan yamaçları 
+birleştiren yerdir.
+Zirve (Doruk): Dağ 
+ya da tepelerin en 
+yüksek noktasına 
+zirve (doruk) denir. 
+Eş yükselti eğrilerinde 
+zirve, nokta (.) ya da 
+üçgen ( ) sembolü ile 
+gösterilir.
+0         5        10
+km

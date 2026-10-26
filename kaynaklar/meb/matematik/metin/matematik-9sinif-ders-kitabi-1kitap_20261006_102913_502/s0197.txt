@@ -1,0 +1,50 @@
+197
+3. Tema/Ölçme ve Değerlendirme
+7.  Erkan’ın Şekil 1’de verilen renkli kalemlerinin 
+uzunlukları sırasıyla 3, 5, 6, 8 ve 12 cm’dir.
+ 
+ 
+ Buna	göre	aşağıdaki	soruları	cevaplayınız.	
+(Kalemlerin	kalınlıkları	dikkate	alınmaya-
+caktır.)
+a)	 	 Erkan’ın	 bu 	 kalemlerden 	 herhangi 	
+üçünü	kullanarak 	kaç 	farklı 	üçgen 	oluş-
+turabileceğini	bulunuz.		
+b)	 Erkan, kahverengi ve mavi kalemleri Şekil 
+2’deki gibi 90> oa  olacak biçimde düz bir 
+zemine yerleştirmiştir. 
+Erkan’ın	 Şekil 	 2’deki 	 üçgeni 	 tamamla-
+yabilmesi	için 	Şekil 	1’deki 	kalemlerden	
+kaç	tanesini	kullanabileceğini	bulunuz.
+8. Aşağıdaki görselde nehir ağızlarını temizle-
+mek ve nehirleri atıklardan arındırmak için kul-
+lanılan bir araç verilmiştir. Araç operatörü, AC 
+kolunu C noktası etrafında hareket ettirerek 
+uzunluğu sabit çelik halatla vincin ucundaki 
+toplama kafesini indirip kaldırabilmektedir.
+ 
+Görselde	 AC m 12= , CB m 20= 	 ve 	 topla-
+ma	kafesi 	su 	yüzeyinde 	oldu ğuna 	göre 	aşa-
+ğıdaki	soruları	cevaplayınız.
+a)	 Toplama	kafesi 	suyun 	içine 	girerken 	A	ve	
+B	noktaları 	arasındaki 	çelik 	halatın 	uzun-
+luğu	azalır	mı,	artar	mı?	Y orumlayınız.
+b)	 A	ve 	B 	noktaları 	arasında 	halatın 	uzunlu-
+ğunun	m 	cinsinden 	alabileceği 	en	büyük 
+tam	sayı	değerini	bulunuz.
+c)	 ACB	açısının 	ölçüsü 	BAC 	açısının 	ölçü-
+sünden	büyük 	değerler 	almaya 	başladı-
+ğında	kafesin 	B 	noktasına 	uzaklığı 	nasıl 	
+değişir?	Y orumlayınız.
+A
+12 20
+B
+C
+Şekil 2
+Şekil 1
+3
+5
+6
+8
+12
+a

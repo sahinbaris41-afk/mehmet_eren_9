@@ -1,0 +1,66 @@
+23
+1. Tema /  Sayılar
+5. ÖRNEK
+Evrendeki canlı ve cansız varlıkların atomlardan oluştuğu bilinmektedir. İnsan vücudundaki atom sayısı, 
+insanın kütlesi (kg) ile 10 26 sayısı çarpılarak yaklaşık olarak hesaplanabilir. ,1 060 2 23$  tane atom, 
+1 mol kabul edilmektedir. 
+Buna göre kütlesi 66,22 kg olan bir kişinin vücudunda yaklaşık kaç mol atom olduğunu bilimsel göste -
+rim kullanarak ifade ediniz.
+Çözüm
+Kütlesi 66,22 kg olan kişinin vücudunda yaklaşık ,,66 22 10 66 22 1026 27$$ =  tane atom bulunur. 1 mol 
+,1 060 2 23$  tane atomdan oluştuğundan ,66 22 10 27$  tane atom
+,
+,
+60 21 0
+6 622 10
+6020 10
+6622 10
+602 10 10
+6622 10
+602 10
+6622 10
+23
+27
+23
+27
+23
+27
+24
+27
+27 24
+3
+$
+$
+$
+$
+$$
+$
+$
+$
+=
+-11 10$=
+=
+=
+11 10$=
+                      ,. molo lur11 104$=
+Araştırma	Ödevi
+Çok büyük ya da çok küçük sayıların yazımını kolaylaştırmak için bilimsel 
+gösterimden yararlanılır. Aşağıda bilimsel gösterimin kullanıldığı bazı du -
+rumlara yer verilmiştir. Verilen adımları gerçekleştirerek araştırma ödevini 
+zamanında ve eksiksiz olarak tamamlayınız.
+• 1 ışık yılının kaç km olduğunu ışık hızından yararlanarak hesaplayınız. 
+• Güneş sisteminde bulunan üç gezegen belirleyip bu gezegenlerin birbir-
+lerine olan uzaklıklarının kaç km olduğunu araştırınız. 
+• Hidrojen atom çekirdeğinin çapının kaç m olduğunu araştırınız.
+• Atmosferdeki karbondioksit miktarının kaç ppm olduğunu araştırınız.
+• Araştırmalarınızdan elde ettiğiniz üslü gösterimlerin başındaki gerçek 
+sayıların kullanımında ne gibi benzerlikler bulunduğunu belirleyiniz.
+• Bulduğunuz değerleri rapor hâline getirerek sınıf arkadaşlarınızla pay-
+laşınız.
+Ödeviniz, derecelendirme ölçeği ile öğretmeniniz tarafından değerlendiri -
+lecektir.
+n tam sayı, a sıfırdan farklı gerçek sayı ve a11 01#  olmak üzere a1 0n$  ifadesine bilimsel	
+gösterim	denir.
+Derecelendirme 
+ölçeğine ulaşmak için 
+karekodu okutunuz.

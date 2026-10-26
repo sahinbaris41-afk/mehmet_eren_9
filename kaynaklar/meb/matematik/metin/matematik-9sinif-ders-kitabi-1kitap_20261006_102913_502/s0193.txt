@@ -1,0 +1,68 @@
+193
+3. Tema /  Geometrik Şekiller
+3. Aşağıdaki ABC üçgeninde mxB2 5o=+_iW , 
+mC x1 5o=+_iX , AC AB2  ve x bir tam 
+ sayıdır .
+ 
+A
+B C
+2x+5o x+15o
+	 Buna 	göre 	mA_iW 	nün 	derece 	cinsinden 	alabi-
+leceği en	büyük	tam	sayı	değerini	bulunuz. 
+4.  Aşağıdaki adımları takip ederek çiziminizi 
+oluşturunuz ve soruyu oluşturduğunuz çizime  
+göre cevaplayınız.
+  I. A  açısı geniş açı olacak şekilde bir ABC 
+üçgeni çiziniz.
+ II.  BC kenarı üzerinde AE E B=  olacak şe-
+kilde bir E noktası işaretleyiniz.
+III.  BC kenarı üzerinde AF FC=  olacak şe-
+kilde bir F noktası işaretleyiniz.
+ EAFm2 4o=`j% 	 ise 	 BACm`j%  nün	 kaç 	 derece 	
+olduğunu	bulunuz.
+5.  ABE bir üçgen olmak üzere özdeş kibrit çöpleri 
+aşağıdaki şekilde görüldüğü gibi yerleştirildi -
+ğinde BACma =`j% , CBDmb =`j% , DEC,mc =`j%  
+CA E! 7A  ve EDB! 7A  olur.
+A C E
+D
+B
+b
+a c
+ 
+ Buna	göre
+  I. a c3 =
+ II.  bc 2=
+III.  bc a+=
+ifadelerinden	 hangilerinin 	 doğru 	 olduğunu	
+bulunuz. (Kibrit	çöplerinin 	kalınlığı 	dikkate	
+alınmayacaktır.)
+6.  Aşağıda verilen ABC üçgeninde DB C! ,7A  
+AB AC= c birim, CAc m 8=b birim, BC AD 8== n birim, 
+CBD B= m birim ve DC 4= p birimdir. 
+ BADm0 8 o=`j% , BDAm0 6 o=`j%  ve 
+DACm0 2 o=`j%  dir. 
+80o 20o
+60o
+A
+c b
+n
+m pB CD
+	 Buna 	göre 	b, 	c, 	m, 	n 	ve 	p 	kenar 	uzunluklarını	
+küçükten	büyüğe	doğru	sıralayınız.
+7.  Amblem tasarımı yapan Hikmet, Şekil 1’de 
+gösterilen ikizkenar üçgen biçimindeki dört öz-
+deş kartonu bir masa üzerinde aralarında boş-
+luk bırakmadan birleştiriyor. Tepe açısının öl-
+çüsü 22 o olan dört kartonu birleştirdiğinde 
+meydana gelen boşluğa ise taban açılarının 
+ölçüsü x olacak şekilde kırmızı renkli ikizkenar 
+üçgeni yerleştiriyor ve Şekil 2’deki deseni elde 
+ediyor.
+ Buna	göre	x in	derece	cinsinden	değerini	
+bulunuz. 
+x
+x
+Şekil 2
+22o
+Şekil 1

@@ -1,0 +1,15 @@
+14 15
+1.TEMA - SAYILAR
+5. Adım
+Kepler'in Üçüncü Yasası'na göre bir gezegenin yörünge periyodu T² = r³ tür. Dünya'nın Güneş etra-
+fındaki yörünge yarıçapı yaklaşık 16 x 1013 m ve yörünge periyodu 32.1014 saniyedir. Jüpiter'in yörünge  
+yarıçapı yaklaşık 8 x 1014 m'dir.
+Jüpiter'in yörünge periyodunu bulunuz. Hesaplama sırasında üslü ve köklü gösterimlerin özellik-
+lerini nasıl uyguladığınızı açıklayınız.
+Çözüm:
+6. Adım
+Bir gezegenin yörüngesel hızını hesaplamak için
+yaklaşık 5.184 x 1026 kg ve Güneş'e olan ortalama uzaklığı yaklaşık 1296 x 10¹² m'dir.
+Satürn'ün yörüngesel hızını hesaplayınız.
+formülü kullanılır. Satürn'ün kütlesi
+Çözüm:

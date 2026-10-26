@@ -1,0 +1,50 @@
+78
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.11.3.6
+Günlük hayattan görünür derinliğe ilişkin örneklerin fotoğraf ya da videoları sınıf ile pay -
+laşılabilir. Öğrenciler kullanılan görsellerdeki cisimlerin gerçek derinlikleri ile görünür 
+derinliklerinin farklı olmasının nedenlerini sorgular (E1.1, E3.8, OB4). Işığı kırma indisleri 
+farklı olan ortamlardaki cisimlerin görünür derinlikleri üzerine yapılan tahminler, soru ce-
+vap veya beyin fırtınası gibi tekniklerden biri kullanılarak not edilebilir. Öğrenciler görünür 
+derinliği etkileyen ortamların sahip oldukları farklı kırıcılık indisleri ve cismin bulunduğu 
+gerçek derinlik değişkenlerini tanımlar. Görünür derinliğe ilişkin düzenekler su, sıvı yağ, 
+cam gibi ortamlar; bozuk para ve kalem gibi malzemeler kullanılarak sınıf ortamında ku-
+rulabilir. Öğrenciler bu düzeneklerdeki cismin bulunduğu gerçek derinlik ile görünür de-
+rinlik arasındaki ilişkiyi gözlemleyerek kaydeder. Yapılan gözlemler üzerinden öğrenciler 
+ortamların ışığı kırma indisi ve cismin bulunduğu gerçek derinlik ile görünür derinlik ara-
+sındaki ilişkiyi açıklar (KB2.11, OB7). Görünür derinliğe ilişkin matematiksel model ve iş-
+lemlerden kaçınılır. Öğretmen açık uçlu sorulardan oluşan bir test veya gözlem formu ile 
+değerlendirme yapabilir.
+FİZ.11.3.7
+Öğretmen genel ağ alt yapısında fiber optik malzemelerin kullanıldığını belirtilebilir. Öğ-
+renciler öğretmen rehberliğinde gruplara ayrılarak (SDB2.1) fiber optik malzemelerin 
+yapısı, çalışma prensibi ve kullanım alanları ile ilgili araştırma planlar. Öğrenciler uygun 
+düşünme ve öğrenme stratejisi seçip (SDB1.1) kütüphane, genel ağ, uzman kişiler ve ku-
+rumlar gibi kaynaklardan birini belirler (E3.4). Öğrenciler fiber optik malzemelerin yapısı, 
+çalışma prensibi ve kullanım alanları hakkında bilgi toplar (OB7) ve kaydeder. Yaptıkları 
+araştırma sonuçları ile poster veya slayt gösterisi şeklinde bir sunum hazırlayabilir. Grup-
+lar fiber optik malzemelerin tam yansıma olayı ile çalışmasına odaklanıp sunumlarını sı-
+nıf arkadaşları ile paylaşarak toplanan bilgileri tartışır (E1.5, SDB2.2). Grupların ulaştıkları 
+bilgiler tartışma sırasında birbirleri ile karşılaştırılarak doğrulanır (OB1). Öğrencilerin fiber 
+optik kabloların yapısı, çalışma prensibi ve kullanım alanları ile ilgili hazırladıkları sunum 
+dereceli puanlama anahtarı ile değerlendirilebilir.
+FİZ.11.3.8
+Öğrenciler öğretmen rehberliğinde gruplara ayrılır (SDB2.2). Öğretmen gruplara birer ça-
+lışma yaprağı verebilir. Öğrencilerden çalışma yaprağında ışığın kırılma sırasındaki davra-
+nışlarını listelemeleri için nitelik sıralaması yapmaları, sınıflandırma tablosu oluşturmaları 
+veya anlam çözümleme tablosu hazırlamaları istenebilir. Öğretmen, öğrencilere prizma 
+dağıtıp öğrencilerden prizmaları şekil, büyüklük ve yapıldığı malzeme gibi özelliklerini dik-
+kate alarak incelemelerini isteyebilir. Öğrenciler çalışma yaprağındaki ilgili bölüme priz-
+manın özelliklerini yazabilir ve şeklini çizebilir. Gruplar ekip çalışması (SDB2.2) ile ışığın 
+prizma içinde izlediği yola ilişkin hipotezlerini çizerek gösterir veya yazar (OB4). Öğren-
+ciler hipotezlerini simülasyon veya deney düzeneği ile test eder. Hipotezlerinin doğru 
+olup olmadığına karar vererek sonuçlarını çalışma kâğıdına yazar (E1.5, OB7). Prizmalar 
+ile oluşturulmuş birleşik sistemlere geçiş yapılabilir. Öğrenciler geçerli hipotezlerden yola 
+çıkarak birden fazla prizmadan oluşan sistemlerde tek renkli ışığın izleyeceği yolu belirler 
+(OB7). Gruplar, süreci sınıf arkadaşlarına anlatır. Öğretmen çalışma kâğıdını dereceli pu-
+anlama anahtarı ile değerlendirebilir. 
+FİZ.11.3.9
+Öğrencilere merceklerin kullanıldığı fotoğraf makinesi, kamera, gözlük, büyüteç gibi aygıt-
+ların görselleri sunularak ilgileri çekilir. Öğretmen merceklerin yakınsak ve ıraksak olmak 
+üzere ikiye ayrıldığını belirterek yapıları hakkında bilgiler verebilir. Merceklerin asal ekse-
+ni, optik merkezi ve odak noktalarını simülasyon, animasyon veya deney düzeneklerini

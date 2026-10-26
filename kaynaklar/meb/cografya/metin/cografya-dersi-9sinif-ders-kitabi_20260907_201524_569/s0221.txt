@@ -1,0 +1,249 @@
+221
+7. Ünite: BÖLGeLeR, ÜLKeLeR Ve KÜReSeL BAĞLAntILAR
+Malatya
+Gaziantep
+Ordu
+Tokat
+Giresun
+Mersin
+SakaryaYalova
+Düzce
+Bartın
+Zonguldak
+Kocaeli
+Denizli
+Uşak
+Aydın
+Tekirdağ
+Edirne
+Manisa
+Muğla
+Hatay
+Trabzon
+Rize
+Samsun
+Diyarbakır
+Adıyaman
+Mardin
+Şanlıurfa
+Kahramanmaraş
+Adana
+Osmaniye
+Erzurum
+Artvin
+Ardahan
+Kars
+Ağrı
+Iğdır
+Hakkâri
+Kayseri
+Konya
+Isparta
+Burdur
+Karaman
+Bolu
+Karabük
+Kastamonu
+Kırklareli
+Sinop
+Çorum
+Yozgat
+Sivas
+Erzincan
+Tunceli
+Elâzığ
+Bingöl
+Bayburt
+Muş
+Bitlis
+Batman
+Gümüşhane
+Amasya
+Kırşehir
+Aksaray
+Niğde
+Nevşehir
+Çankırı
+Kütahya
+Eskişehir
+Afyonkarahisar
+Ankara
+Bilecik
+Çanakkale
+Gökçeada
+Bozcaada
+Balıkesir
+Kırıkale
+Bursa
+Van
+Siirt
+Şırnak
+İzmir
+Antalya
+İstanbul
+Kilis Harita İşaretleri (Lejant)
+Gürc�s tan
+Ermen�stan
+İran
+Irak
+Sur� ye
+Az.
+AÖC
+NÖC
+Bulgar
+�stan
+Yunan
+�stan
+Karaden �z
+Akden�z
+Marmara 
+Den�z�
+Ege Den�z�
+KKTC
+GKRY
+Nüfus yoğunluğu (km2 /kişi)
+11-41 42-59 60-99 100-553 553+
+1. Bölge
+İSTANBUL
+4. Bölge
+ANKARA
+15. Bölge
+KASTAMONU 7. Bölge
+SAMSUN
+14. Bölge
+BURSA
+2. Bölge
+İZMİR
+13. Bölge
+ANTALYA
+3. Bölge
+KONYA
+6. Bölge
+KAYSERİ
+5. Bölge
+MERSİN
+16. Bölge
+SİVAS
+8. Bölge
+ELAZIĞ
+9. Bölge
+DİYARBAKIR
+11. Bölge
+VAN
+12. Bölge
+ERZURUM
+18. Bölge
+KARS10. Bölge
+TRABZON
+Malatya
+Gaziantep
+Ordu
+Tokat
+Giresun
+Mersin
+SakaryaYalova
+Düzce
+Bartın
+Zonguldak
+Kocaeli
+Denizli
+Uşak
+Aydın
+Tekirdağ
+Edirne
+Manisa
+Muğla
+Hatay
+Trabzon Rize
+Samsun
+Diyarbakır
+Adıyaman
+MardinŞanlıurfa
+Kahramanmaraş
+Adana
+Osmaniye
+Erzurum
+Artvin Ardahan
+Kars
+Ağrı
+Iğdır
+Hakkâri
+Kayseri
+KonyaIsparta
+Burdur
+Karaman
+Bolu
+Karabük
+Kastamonu
+Kırklareli
+Sinop
+Çorum
+Yozgat
+Sivas
+Erzincan
+Tunceli
+Elâzığ
+Bingöl
+Bayburt
+Muş
+Bitlis
+Batman
+Gümüşhane
+Amasya
+Kırşehir
+Aksaray
+Niğde
+Nevşehir
+Çankırı
+Kütahya
+Eskişehir
+Afyonkarahisar
+Ankara
+Bilecik
+Çanakkale
+Balıkesir
+Kırıkale
+Bursa
+Van
+Siirt
+Şırnak
+İzmir
+Antalya
+İstanbul
+Kilis
+Gürc�s tan
+Ermen�stan
+İran
+IrakSur� ye
+Az.
+Bulgar
+�stan
+Yunan
+�stan
+Karaden �z
+Akden�z
+Marmara 
+Den�z�
+Ege D en�z�
+KKTC
+GKRY
+Gökçeada
+Bozcaada
+AÖC
+NÖC
+Türkiye Nüfus Yoğunluğu Haritası (2024)
+Türkiye Karayolları Genel Müdürlüğü Hizmet Bölgeleri Haritası
+DEĞERLENDİRME
+Süreç sonunda aşağıdaki soruları cevaplayınız ve cevaplarınızı arkadaşlarınızla tartışınız.
+1.
+ Türkiye haritalarında gösterilen bölgelerin oluşturulmasında ku
+llanılan kriterler nelerdir? 
+2.
+ Türkiye’deki bir alanın farklı bölge sınırları içinde yer almas
+ının gerekçeleri neler olabilir?
+K
+K
+0          100         200
+0            100          200
+km
+km

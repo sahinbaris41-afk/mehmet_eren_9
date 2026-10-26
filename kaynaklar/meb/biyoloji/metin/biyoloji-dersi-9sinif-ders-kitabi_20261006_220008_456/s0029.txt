@@ -1,0 +1,48 @@
+29
+Yaşam
+Kontrol Noktası
+Yönerge: Aşağıdaki metin ve grafikten yararlanarak soruları yanıtlayınız.
+Mineral girdisi ve çıktısı dengeli olan bir deney ormanında 3 yıl boyunca ekolojik bir araştırma gerçekleştirilmiştir. 
+Seçilmiş iki vadiden birinde ağaçların tamamı 1966 yılında kesilerek alan imara açılmıştır. Grafik, ağaçsız kalan 
+su toplama havzalarından gelen yağmur suyundaki ve ağaçlı (kontrol) su toplama havzalarından gelen yağmur 
+suyundaki nitrat derişimini göstermektedir.
+Ağaçsızlaştırılmış alan
+Ağaç kesiminin 
+tamamlanması 
+Akan yağmur suyundaki 
+nitrat derişimi (mg/L)
+Kontrol
+1965
+4.0
+3.0
+2.0
+1.0
+0
+1966
+Yıllar
+1968 1969
+80.0
+60.0
+40.0
+20.0
+a) Bu projeyi gerçekleştiren bilim insanlarıyla ilgili aşağıdaki soruları cevaplayınız.
+• Çalışmayı hangi amaçla gerçekleştirmişlerdir?
+• Hangi hipotezleri ileri sürmüş olabilirler?
+• Bu deneyden elde edilen verilere dayanarak hangi çıkarımlarda bulunabilirler?
+b) Bu çalışmada bilimin doğası ile ilgili tespit edilebilen özellikler nelerdir?
+Yönerge: Aşağıda verilen bilimsel yöntem basamaklarına ait şemada boş bırakılan yerleri doldurunuz.
+Bilimsel Yöntem Basamakları
+Sonuçlar hipotezi
+desteklemiyor ise
+Sonuçlar hipotezi
+destekliyor ise
+A)
+B)
+C)
+Ç)
+D)
+Gözlemlerin yapılması
+Verilerin toplanması
+Kontrollü deneylerin tasarlanarak uygulan-
+ması
+Hipotez oluşturulması

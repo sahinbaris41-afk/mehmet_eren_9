@@ -1,0 +1,57 @@
+29
+4. Tema / Eşlik ve Benzerlik
+6. Ölçüm bölümünden sırasıyla Uzaklık veya Uzunluk, Açı ve Alan araçlarını seçerek ABC ve A'B'C' üçgenle-
+rinin kenar uzunluklarını, çevre uzunluklarını, açı ölçülerini ve alanlarını belirleyiniz. 
+7. Araçlar bölümünden Doğru Parçası aracını seçiniz. AD D, D, A'D 'D 'D,, BC Bv eC7 777 77AAA AA A nı oluşturunuz.
+8. Ölçüm bölümünden Uzaklık veya Uzunluk aracını seçerek 7. adımda oluşturduğunuz doğru parçalarının 
+uzunluklarını belirleyiniz.
+9. Tablo 2’nin boş olan ilk sütununa 6 ve 8. adımlarda yaptığınız ölçümleri yazınız. Daha sonra dönme merkezini 
+sürükleyiniz ve elde ettiğiniz değerleri tabloya not ediniz. Son olarak a sürgüsünü hareket ettiriniz ve ulaştığı-
+nız değerleri tabloya yazınız.
+Tablo 2
+ABC üçgeninin
+kenar uzunlukları
+AB
+AC
+BC
+A'B'C' üçgeninin
+kenar uzunlukları
+A'B'
+A'C'
+B'C'
+ABC üçgeninin 
+iç açı ölçüleri
+m BAC`j%
+m ABC`j%
+m ACB`j%
+A'B'C' üçgeninin 
+iç açı ölçüleri
+m B'A'C'` j%
+m A'B'C'` j%
+m A'C'B'` j%
+ABC üçgeninin
+çevre uzunluğu Ç ABC` j&
+A'B'C' üçgeninin
+çevre uzunluğu A'B'C' Ç`j&
+ABC üçgeninin
+alanı ABC A` j&
+A'B'C' üçgeninin
+alanı A'B'C' A` j&
+ABC üçgeninin
+köşe noktalarının
+dönme merkezine
+uzaklıkları
+AD
+BD
+CD
+A'B'C' üçgeninin
+köşe noktalarının
+dönme merkezine
+uzaklıkları
+A'D
+B'D
+C'D
+10. Tablo 2’ye yazdığınız değerleri kullanarak varsayımlarınızı arkadaşlarınızla saygı çerçevesinde tartışınız. Tar-
+tışma sonucunda ulaştığınız genellemeleri örnekteki gibi yazınız.
+Şeklin kenar uzunlukları ile dönme dönüşümü altındaki görüntüsünün kenar uzunlukları eşittir.
+ 

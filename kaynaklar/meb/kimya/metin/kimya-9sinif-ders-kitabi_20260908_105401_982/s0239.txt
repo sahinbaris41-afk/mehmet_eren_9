@@ -1,0 +1,36 @@
+239
+3. Tema/Sürdürülebilirlik
+• Farklı dalga boylarında ışıma yaparak renk değiştiren kuantum nokta nano-
+parçacıklar tıpta görüntüleme amaçlı kullanılmaktadır (Görsel 3.3).
+• Kanserli hücrelerin tespiti ve tedavisinde  kanserli hücrelerin dıştan tespiti 
+ve tedavisi için demir nanoparçacıkların kullanımı, akıllı ilaç tasarımıyla 
+nanoparçacıklı ilaçların kanserli hücrelerin içine taşınması, kuantum nok -
+talar veya altın nanoparçacıkların taşındıkları bölgenin dışarıdan ısı veya 
+ışık uygulanarak etkisiz hâle getirilmesi gibi bazı yöntemler bulunmaktadır 
+(Görsel 3.4).
+Görsel 3.3 
+Nanogörüntüleme ile tıpta 
+teşhis (nanoteşhis)
+Görsel 3.4: Nanoparça-
+cıklar ile tıpta teşhis ve 
+tedavi (nanotedavi)
+Sağlıklı hücre
+Sağlıklı hücre
+Sağlıklı hücre
+Kanserli hücre
+Kanserli hücre
+Kanserli hücre
+Kanserli hücre
+Kanserli hücre
+Kuantum nokta
+nanoparçacıklar
+Nanoparçacıklar
+Nanoparçacık Hücreye giriş
+Tedavi süreci
+Altın 
+nanoparçacıklar
+Kan damarı
+Kuantum nokta
+nanoparçacıklar
+Kuantum nokta
+nanoparçacıklar

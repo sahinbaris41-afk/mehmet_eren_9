@@ -1,0 +1,58 @@
+MATEMATİK 9 
+56 57
+2. Adım
+1. Adım
+İkili arama ağaçları belirli bir sırada düzenlen-
+miş verileri depolamak, arama yapmak, eklemek 
+ve silmek için kullanılan veri yapılarıdır.
+İkili arama ağaçlarında her düğümün en fazla 
+iki alt düğümü olur. Her düğümün sağ tarafında -
+ki düğüm kendisinden büyük, sol tarafındaki 
+düğüm ise kendisinden küçüktür.
+Bu ağaçlarda çalışan arama algoritması önce 
+en üst düğümden (kökten) başlar. Aranan eleman 
+kökten büyükse sağ tarafındaki düğüme, kökten 
+küçükse sol tarafındaki düğüme ilerler. Böylece 
+aranan eleman bulunana kadar en alt düğümlere 
+(yapraklara) kadar yinelemeli bir şekilde ilerleme 
+sağlanır.
+Bilgi
+Derinlik değeri 3 olan ve 9 adet veriden oluşan şekildeki ikili arama ağacı yapısında ve aynı verilerin sıralı 
+yazımında 5 numaralı verinin kaç adımda bulunabileceği karşılaştırıldığında ikili arama ağacı şeklinde olan 
+veri yapısında aranan değer 3 adımda, sıralanmış dizide ise 4 adımda bulunduğu görülür.
+İkili Arama Ağacında Arama Küçükten Büyüğe Sıralanmış Dizide Arama
+Adım 1: 5<7 sol tarafa ilerle
+Adım 2: 5>3 sağ tarafa ilerle
+Adım 3: 5=5 bitti.
+Adım 1: 5≠1 sağ tarafa ilerle
+Adım 2: 5≠3 sağ tarafa ilerle
+Adım 3: 5≠4 sağ tarafa ilerle
+Adım 4: 5=5 bitti.
+Not: Verilerin küçükten büyüğe sıralanmış hâli:  
+1, 3, 4, 5, 6, 7, 8, 11, 14
+Öğretmeniniz rehberliğinde en az 4 kişiden oluşan gruplar oluşturunuz.
+4
+Kök
+Derinlik : 3
+3
+2
+1
+Yapraklar
+6
+8
+7
+11
+14
+Etkinliğin Amacı İkili arama ağacı yöntemiyle veri yapılarını oluşturabilme, sıralı dizilerle karşı-laştırabilme ve bu yapıların performansını analiz edebilme.
+Zenginleştirme 
+Uygulaması
+* İkili arama ağacı yöntemini kullanmayı gerektiren problem durumlarına yer 
+verilir.
+Araç Gereç ve 
+Materyaller Çalışma kâğıtları
+Yönerge
+Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz. Etkin -
+lik sonunda "Değerlendirme" sorularını cevaplayarak “Öz Değerlendirme For-
+mu”nu doldurunuz.
+3. ETKINLIK İkili Arama Ağacı
+Yıldızlı  Etkinlik 

@@ -1,0 +1,21 @@
+46
+1. Tema /  Sayılar
+a) Tablodaki kişilerden hangileri, sadece dönen şato bileti alabilir?
+b) Tablodaki kişilerden hangileri, hem nefeskesen hem de macera odası bileti alabilir?
+c) Tablodaki kişilerden hangileri macera odası bileti alamaz?
+ç) Tablodaki kişilerden hangileri, macera odası bileti alıp nefeskesen bileti alamaz?
+11.	Sıra	Sizde      
+Trafik Kanunu’na göre bir otomobilin yerleşim yeri içinde hızı saatte 50 km’yi, yerleşim yeri dışında çift 
+yönlü yollarda saatte 90 km’yi aşamaz. Bu kurala uymayan sürücülere trafik cezası uygulanır.
+Bir	otomobilin 	yerleşim 	yeri 	içindeki 	ve 	dışındaki 	çift 	yönlü 	bir 	yolu 	kullanarak 	yolculuk 	yaptığı	
+bilindiğine	göre	aşağıdaki	soruları	cevaplayınız. 
+a)		Otomobilin	yerleşim 	yeri 	içindeki 	hızının 	alabileceği 	değerlerin 	cebirsel 	temsilini 	yazarak 	bu	
+değerleri	aralık	biçiminde	gösteriniz.
+ 
+b)		 Otomobilin	 yerleşim 	 yeri 	 dışındaki 	 hızının 	 alabileceği 	 değerlerin 	 cebirsel 	 temsilini 	 yazarak	
+bu	değerleri	aralık	biçiminde	gösteriniz.	
+ 
+ 
+c)		Sürücünün tüm yolculuk boyunca hızının sabit olduğu ve hız değerinin trafik kurallarına uygun oldu-
+ğu biliniyor. 
+ Buna	göre 	kümelerde 	işlemler 	özellikleri 	yardımıyla 	hızının 	alacağı 	değerlerin 	aralığını 	bulunuz.

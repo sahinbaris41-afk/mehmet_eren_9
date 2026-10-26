@@ -1,0 +1,38 @@
+191
+3. Tema /  Geometrik Şekiller
+Üçgenlerin	Gerçek	Hayat	ve	Geometrik	Problemlerde	Kullanımı
+Bu görevde sizden üçgenlerin açı ve kenar özelliklerini kullanarak gerçek hayat problemlerini çözme-
+niz, geometrik ispatlar yapmanız ve görsel sanatlar, mimari veya mühendislik gibi alanlarda üçgen -
+lerin kullanımını analiz etme becerilerinizi geliştirmeniz beklenmektedir. Üçgenlerle ilgili önermeleri 
+doğrulamanız, bu önermeleri kullanarak yeni problemler oluşturmanız ve oluşturduğunuz problemlere 
+çözümler sunmanız istenmektedir. 
+Göreve	başlamadan	önce	aşağıdaki	hususa	dikkat	ediniz.
+Üçgenlerin açı ve kenar özellikleriyle ilgili en az iki önerme belirleyiniz.
+Görev	esnasında	aşağıdaki	hususlara	dikkat	ediniz.
+1.	Önermelerin	Belirlenmesi	ve	Doğrulanması
+• Belirlediğiniz önermeleri geometrik ispatlarla veya somut örneklerle doğrulayınız.
+• Görsel materyaller (çizimler, diyagramlar) kullanarak doğrulama sürecinizi adım adım açık-
+layınız.
+2.	Gerçek	Hayat	Problemlerinin	Analizi
+• Görsel sanatlar, mimari veya mühendislik gibi alanlarda genlerin kullanımına ilişkin en az 
+iki örnek bulunuz.
+• Bulduğunuz örnek yapılarda üçgenlerin kullanım amacını açıklayınız.
+• Üçgenlerin açı ve kenar özelliklerinin bu yapılara nasıl katkı sağladığını analiz ediniz.
+• Analizlerinizi desteklemek için görseller (fotoğraflar, çizimler) kullanınız.
+3.	Y eni 	 Problem 	 Durumları 	 Oluşturma 	 ve 	 Çözme
+• Üçgenlerin açı ve kenar özelliklerini kullanarak gerçek hayat veya geometrik problemlerle 
+ilgili iki yeni problem durumu oluşturunuz.
+• Bu problemleri adım adım çözünüz. Çözümlerinizde üçgenlerin özelliklerinden nasıl yarar -
+landığınızı açıklayınız.
+• Problemlerinizi çözerken görsel materyaller kullanınız.
+4.	Eleştirel	Düşünme	ve	Y orumlama
+• Yaptığınız çalışmaları eleştirel bir bakış açısıyla değerlendiriniz.
+• Üçgenlerin farklı alanlarda kullanımına ilişkin kişisel yorumlarınızı görev sonunda hazırla -
+yacağınız rapora ekleyiniz.
+Görev	bitiminde	aşağıdaki	hususlara	dikkat	ediniz.
+• Tüm çalışmalarınızı bir rapor hâline getirerek sınıfta arkadaşlarınızla paylaşınız.
+Performans göreviniz aşağıdaki karekodda verilen analitik dereceli puanlama anahtarı ile öğretmeniniz 
+tarafından değerlendirilecektir.
+Performans 	Görevi
+Analitik dereceli puanlama anahtarına 
+ulaşmak için karekodu okutunuz.

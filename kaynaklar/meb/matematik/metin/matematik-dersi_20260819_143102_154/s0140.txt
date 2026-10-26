@@ -1,0 +1,41 @@
+140
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerden origamiyle düzgün çokgenler oluşturmaları istenir. Bu oluşumlarda katlamala-
+rın nasıl yapıldığı, neden o şekilde katlandığı gibi sorulara cevap vermeleri beklenebilir. Ayrıca 
+düzgün çokgenlerin ötelenmesi, yansıması ve dönmesinden yararlanarak çeşitli desenler elde 
+etmeleri istenebilir. Bu desenler hazır kâğıtlarla yapılabileceği gibi dijital araçlarla da yapılabilir.
+Öğrencilerden doğadaki düzgün çokgen örnekleri (bal peteklerinin altıgen olması gibi) hakkın-
+da araştırma yaparak çalışmalarını özetlemek üzere afiş hazırlamaları ve bu afişleri sunmaları 
+beklenebilir. Olanaklar dâhilinde öğrencilerin afişi dijital ortamda geliştirmeleri ve sınıfta pay-
+laşmaları istenir.
+Öğrencilere matematik yazılımları kullanılarak çokgenin kenar sayısının artmasıyla oluşan kö-
+şegen sayısındaki ve çokgenin içinde oluşan üçgen sayısındaki değişimleri gösteren bir çalışma 
+verilebilir. Öğrencilerin çalışmalarını sınıf arkadaşlarına sunmaları sağlanabilir.
+(*) Çokgenin farklı köşelerden çizilen köşegenlerle veya farklı yollarla üçgenlere parçalandığı 
+durumlarda iç açıların ölçüleri toplamını veren bağıntının nasıl elde edilebileceğine dair bir ça-
+lışma yapmaları istenebilir.
+(*) Altın oranın ve yıldızın düzgün beşgenle ilişkisini, Mimar Sinan’ın eserlerinde beşgen kullanıla-
+rak oluşturulmuş geometrik desenleri ve Leonardo da Vinci’nin (Leyonardo da Vinçi) altın oranla 
+ilgili yaptığı çalışmaları araştırmaları istenebilir.
+(*) Matematik yazılımları veya pergel, ölçüsüz cetvel kullanılarak inşa edilebilen düzgün çokgen-
+ler araştırma ödevi olarak verilebilir. Düzgün yıldız çokgenlerle ilgili araştırma yapılması iste-
+nebilir. Öğrencilerin yaptığı araştırmaları afiş, poster ve çevrim içi uygulamalar kullanarak sınıf 
+arkadaşlarına sunmaları sağlanabilir.
+Destekleme Öğrencilerin konuya ilişkin içerik bilgisine ulaşmalarında ve hedeflenen becerileri kazanmala-
+rında çoklu ortam araçlarının (cetvel, gönye, pergel gibi matematiksel araç gereç veya mate-
+matik yazılımları) kullanımına dikkat edilebilir. Özellikle dijital etkileşimli içeriklerle uygulama 
+yapma imkânı sağlanabilir. Öğrencilere temel bilgileri edinebilecekleri farklı görseller içeren 
+çokgen örnekleri sunulur, bunlarla ilgili olarak akranlarıyla çıkarım yapma sürecine girmeleri 
+beklenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+farklı problem durumlarına yansıtmaları sağlanır (SDB1.3). Öğrencilere farklı disiplinlerde çok-
+gen ve dörtgenlerin kullanımına dayalı problemler içeren çalışma kâğıdı verilerek problemleri 
+çözmeleri istenebilir. Öğrencilerin çözüm sürecinde birbirleri ile etkileşim hâlinde çalışmaları 
+desteklenir.
+Öğrencilere MAT.11.2.3, MAT.11.2.4 ve MAT.11.2.5 öğrenme çıktılarına yönelik olarak çokgenler 
+ve dörtgenlere dair yaptıkları sınıflandırma, yapılandırma ve çıkarımlara ilişkin bilgi ve becerile-
+rini konuyla ilgili farklı problem durumlarının oluşturulması ve problemlerin çözümü için kullan-
+malarını sağlayacak bir performans görevi verilebilir.

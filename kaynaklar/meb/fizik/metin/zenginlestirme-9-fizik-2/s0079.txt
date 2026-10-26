@@ -1,0 +1,81 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+78 79
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+3. Adım: Değerlendirme
+Öğrencilerin çalışmalarını değerlendirmek için aşağıda verilen "Dereceli Puanlama Anahtarı"nı 
+kullanınız.
+Dereceli Puanlama Anahtarı
+DERECELİ PUANLAMA ANAHTARI
+Öğrencinin Adı-Soyadı Sınıfı No.
+Ölçütler 4(Çok iyi) 3(Yeterli) 2(Kabul edilebilir) 1(Geliştirilmeli) PUAN
+Sunum
+Model tamdır 
+ve doğru bir 
+bütünlükle 
+sunulmuştur.
+Model anlamlı 
+bir bütünlükle 
+sunulmuştur.
+Model kısmen 
+anlamlı bir 
+bütünlük içinde 
+sunulmuştur.
+Model bütünlük 
+içinde sunulama-
+mıştır.
+Çalışma Alanının 
+Kullanımı
+Çalışma alanı 
+oldukça düzenli 
+ve planlı 
+kullanılmıştır.
+Çalışma alanı 
+düzenli ve planlı 
+kullanılmıştır.
+Çalışma alanı 
+kısmen düzenli 
+ve planlı kullanıl-
+mıştır.
+Çalışma alanı 
+düzenli ve planlı 
+kullanılmamıştır.
+Grup İletişimi
+Grup içinde 
+iş bölümü 
+sağlanmış ve 
+iş birliği içinde 
+çalışılmıştır. 
+Grup içinde 
+iş bölümü 
+sağlanmış ancak 
+iş birliği içinde 
+çalışılmamıştır.  
+Grup içinde iş 
+bölümü ve iş 
+birliği anlamında 
+sorunlar oluş-
+muştur. 
+Grup içinde iş 
+bölümü yapılma-
+mış ve iş birliği 
+içinde çalışılma-
+mıştır.
+Modelin İçeriği
+Modelin içeriği 
+tam ve doğru 
+aktarılmıştır. 
+İçerik 
+bakımından 
+yaratıcıdır.
+Modelin 
+içeriği doğru 
+aktarılmıştır.
+Modelin içeriği 
+kısmen doğru 
+aktarılmıştır.
+Modelin içeriği 
+aktarılamamıştır.
+       TOPLAM PUAN
+Dereceli puanlama anahtarından alınacak puanı 100 üzerinden hesaplamak için
+[(alınan puan)/16]*100=Toplam puan  formülünü uygulayınız.

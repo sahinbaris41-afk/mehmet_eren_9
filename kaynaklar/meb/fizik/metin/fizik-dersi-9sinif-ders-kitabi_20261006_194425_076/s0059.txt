@@ -1,0 +1,36 @@
+59
+KUVVET VE HAREKET
+Kontrol Noktası
+Aşağıdaki tabloda verilen fiziksel nicelikler, temel ve türetilmiş nicelikler olarak sınıflandırılmıştır.
+Niceliklerin Sınıflandırılması
+Temel Nicelikler  
+(SI’ daki Birimleri)
+Türetilmiş Niceliklerden Bazıları  
+(SI’ daki Birimleri)
+Kütle (kg) Kuvvet (N)
+Işık şiddeti (cd) Hacim (m3)
+Hız (m/s)
+Enerji (N· m)
+Sürat (m/s)
+Sıcaklık (K) Y oğunluk (kg/m3)
+Elektrik akımı (A)
+Madde miktarı (mol)
+Uzunluk (m)
+Zaman (s)
+ 2.2. SKALER VE VEKTÖREL NİCELİKLER
+Konuya Başlarken
+Doğa yürüyüşüne çıkan bir kişinin hareket yönü ve m esafe ile ilgili bilgilere sahip olması son derece 
+önemlidir. Bu bakımdan yürüyüşe çıkan kişilerin yanlarına pusula ve harita almaları önerilir. Örn eğin 
+ormanda yürüyüş yaparak bulunduğu noktadan harita üzerinde belirlediği 10 km uzaklıktaki bir noktaya 
+gitmek isteyen bir kişinin, belirlediği bu noktaya ulaşabilmesi için hangi yönde kaç km mesafe katettiğini 
+bilmesi gerekir. Kişi, pusuladan yararlanarak yönünü, harita ile de gideceği mesafeyi belirleyebilir.
+Bir hedefe ulaşmak için yönü mü yoksa mesafeyi mi bilmek daha önemlidir? Fiziksel nicelikler 
+yön ve büyüklükleri açısından ne gibi farklılıklar gösteriyor olabilir?
+2. Etkinlik Skaler ve Vektörel Nicelikler 
+Amaç Skaler ve vektörel nicelikleri karşılaştırabilme
+Süre 20 dk.
+Yönerge Aşağıda günlük hayatta karşılaşılabilecek olaylarla ilgili örnek metinler verilmiştir. Metinleri fiziksel nice­
+liklerle ilişkilendirerek soruları cevaplayınız.
+Sevinç Hanım, kahvaltı hazırlarken boş bir elektrikli ısıtıcıya musluktan akan 20 oC sıcaklıktaki sudan 1 L koy ­
+duktan sonra suyun yetmeyeceğini düşünerek 0,5 L daha su ekliyor. Elektrikli ısıtıcıyı çalıştırdıktan bir süre sonra 
+suyun sıcaklığının 70 oC arttığını görüyor. 

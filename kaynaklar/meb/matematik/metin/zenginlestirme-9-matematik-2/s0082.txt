@@ -1,0 +1,15 @@
+7.TEMA - VERIDEN OLASILIĞA
+80 81
+5. Adım
+6. Adım
+7. Adım
+Ali’nin 2024 sezonunda bir maçta en az 1 gol atma olasılığını Poisson dağılımı kullanarak hesap -
+layınız.
+Ozan’ın 2024 sezonunda bir maçta en az 1 asist yapma olasılığını Poisson dağılımı kullanarak he-
+saplayınız.
+Ali'nin 2024 sezonunda pas başarı oranının %85’in üzerinde olma olasılığını  belirleyiniz.
+Ozan’ın 2024 sezonunda bir maçta hem gol atma hem asist yapma olasılığını hesaplayınız.
+Çözüm:
+Çözüm:
+Çözüm:
+Çözüm:

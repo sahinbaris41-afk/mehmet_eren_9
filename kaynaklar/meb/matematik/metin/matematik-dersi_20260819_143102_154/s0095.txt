@@ -1,0 +1,53 @@
+95
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenciler tarafından oluşturulan istatistiksel araştırma soruları ve veri toplama planları, is -
+tatistiksel araştırma sorusu ve veri toplama planı ölçütleri doğrultusunda oluşturulan kontrol 
+listesiyle değerlendirilebilir. İstatistiksel araştırma sorusu ölçütleri arasında yer alan değişe -
+bilirlik ölçütü incelenirken değişebilirlik türlerine değinilmez. 
+Araştırma soruları bağlamında iki kategorik değişken arasındaki ilişkililiği analiz edebilmek 
+için görselleştirme araçlarından (iki yönlü tablo ile koşullu göreli sıklıkları gösteren kümeli 
+sütun grafikleri) uygun  olanlar seçilir (MAB3). Uygun olan  araçların belirlenmesinde araştır -
+ma sorularına yeniden dönülür ve hangi araçların uygun olduğuna dair sınıf içi tartışma yapılır 
+(SDB2.1). Bu süreçte öğrencilerin birbirlerinin fikirlerini nezaketle dinlemeleri ve arkadaşla -
+rının düşüncelerine ilişkin empati yapabilmeleri sağlanır (D14.1). Araştırma sorularına cevap 
+verecek ve verileri analiz edecek nitelikte araçlar seçilmesine dikkat edilir. 
+Analiz sürecinde teknolojik araçlar (hesap makinesi, elektronik tablolama programı gibi) kul-
+lanılır (MAB5). Öğrencilerden verileri, sıklık veya göreli sıklıkları gösteren iki yönlü tablo ve ko-
+şullu göreli sıklıkları gösteren kümeli sütun grafikleriyle göstermeleri istenir. Bu süreçte sıklık 
+analizi üzerine çalışan bilim insanlarından Kindi’nin çalışmalarından bahsedilir.
+Analiz süreci tamamlandığında elde edilen sonuçlara ilişkin sınıf içi tartışma yapılır (SDB2.1). 
+Bu tartışma sürecinde bağımsız değişkenin aldığı her değer için bağımlı değişkenin aldığı her 
+bir değer sıklık veya koşullu göreli sıklıkları gösteren tablolar üzerinden karşılaştırılarak ara -
+larındaki ilişkililik yorumlanır. Örneğin apartmanda yaşayıp yaşamama ile evcil hayvanı olup 
+olmama arasındaki ilişkililiğin analiz edildiği bir araştırmada apartmanda oturup oturmama 
+ve evcil hayvanı olup olmama değişkenleri arasındaki ilişkililiği incelemek için iki değişkenli 
+veriler, iki yönlü tabloda hem sıklık hem de yüzde temsili kullanılarak toplamdaki göreli sıklık 
+olarak ifade edilir. Apartmanda oturan ve oturmayan bireyler ile evcil hayvanı olan ve olma -
+yan bireylerin koşullu göreli sıklıkları hesaplanır. Bu tarz bir araştırmada öğrencilerin bağımsız 
+değişkenin aldığı her değer için bağımlı değişkenin aldığı her bir değerin koşullu göreli sıklık -
+larından hareketle elde edilen sonuçları yorumlamaları sağlanır. Buna ek olarak kümeli sü -
+tun grafiğinde koşullu göreli sıklık dağılımları, iki kategorik veri dağılımlarının ilişkililiğini analiz 
+ederken kullanılabilecek bir diğer araç olarak dikkate alınır. Örneğin A ilinde yaşayan bireylerin 
+doğduğu yerde yaşayıp yaşamamaları ile mutlu olup olmamaları arasındaki ilişkililiğin ince -
+lendiği bir araştırma analiz edilirken kümeli sütun grafiğinde koşullu göreli sıklık dağılımları, 
+doğum yerinde yaşayıp yaşamama değişkenine göre  hazırlanır. Benzer şekilde aynı grafik, 
+mutlu olup olmama değişkenine göre de hazırlanır. Bu örnekte her iki değişken de bağımsız 
+değişken olarak belirlenir. Burada öğrencilerin, sonuçları yorumlarken iki kategorik değişkenli 
+verilerde ortaya çıkan bir ilişkinin bir değişkenin diğer değişkene neden olduğu anlamına gel-
+mediğini fark etmeleri önemlidir. Örneğin kitap okuyup okumamanın spor yapıp yapmama ile 
+ilişkililiğine odaklanan bir araştırmada bu iki değişken arasında bir ilişki varsa “Kitap okumak, 
+spor yapmaya neden olur veya olmaz.” şeklinde neden-sonuç ilişkisini ifade eden bir yorumda 
+bulunulamayacağını fark etmeleri, sınıf içi tartışmalarla sağlanır (SDB2.1). Bu süreçte ayrıca 
+tek kategorik değişkenli verilerde tablo, sütun grafiği, koşullu göreli sıklıklar gibi görselleştir-
+me araçlarının verileri özetlemeye imkân verdiğine, iki kategorik değişkenli verilerde kullanı -
+lan görselleştirme araçlarının ise değişkenler arasındaki ilişkililik konusunda yorum yapmaya 
+olanak sağladığına dikkat çekilir.
+Analizler tamamlandıktan sonra öğrencilerin araştırma sorularına dönerek elde ettikleri so -
+nuçlardan hareketle araştırma sorusuna belirsizliği dikkate alarak cevap  vermeleri beklenir. 
+Bu süreçte öğrencilerin istatistiksel araştırma sürecinin bileşenlerini sistematik bir şekilde 
+gözden geçirmeleri sağlanır (E3.7). Araştırma sorularına verilecek cevapların istatistiksel ifa-
+deler (verilerin merkezinin nasıl bir eğilim gösterdiğine, verilerin nasıl yayıldığına dair ifadeler) 
+içermesi önemlidir. Bu süreçte öğrencilerin seçilen örneklem dağılımından hareketle evren 
+dağılımı hakkında genellemeler yapmaları ve elde edilen sonuçları belirsizliği dikkate alan 
+cümlelerle ifade etmeleri de beklenir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe 
+odaklanan istatistiksel araştırma sürecine yönelik bir performans görevi verilebilir.

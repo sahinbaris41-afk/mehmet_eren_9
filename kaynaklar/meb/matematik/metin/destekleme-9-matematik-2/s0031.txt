@@ -1,0 +1,27 @@
+30
+MATEMATİK 9 
+1. TEMA: SAYILAR
+ÇALIŞMA KÂĞIDI BÖLÜM A
+1 Aşağıda verilen sayıların bilimsel gösterimini örnekteki gibi bularak tabloda boş bırakılan yerleri doldurunuz. 
+2
+Ürün fiyatlarının üslü gösterimlerle ifade edildiği bir teknoloji mağazasına giden bir müşteri aşağıdaki 
+ürünleri almak istemektedir. Elinde her biri 10 2 birim değerinde banknotlar bulunan müşterinin 
+birer adet telefon ve tablet alımında ödeme için kaç tane banknot vermesi gerektiğini hesaplayınız. 
+Hesaplamalarınızda hesap makinelerinden veya çevrim içi araçlardan yararlanınız.
+3
+Işık boşlukta yaklaşık olarak saniyede 300 000 000 metre hızla yol alır. Buna göre ışığın 2000 saatte 
+aldığı yolun km cinsinden bilimsel gösterimini bulunuz. Hesaplamalarınızda hesap makinelerinden 
+veya çevrim içi araçlardan yararlanınız.
+ ► Bu bölümde bilimsel gösterime yönelik çalışma soruları yer almaktadır.
+Sayı Bilimsel Gösterimi
+0,0006 6.10-4
+35400
+ 4800000
+0,00000733
+381. 1020
+565,4. 1016
+254,8. 10-10
+Telefon
+ 0,53.103
+Tablet
+ 2,7.102

@@ -1,0 +1,50 @@
+101
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilerden genel ağ üzerindeki kişisel verilerin gizlenmesi için kullanılan şifreleme 
+algoritmalarında asal sayıların nasıl kullanılabileceği hakkında fikirler öne sürmeleri ve 
+bu fikirlerini tartışmaları istenebilir. Araştırmalar yaparak fikirlerinin uygun olup olmadı -
+ğını değerlendirmeleri sağlanabilir. 
+(*) Bir sayının asal olabilmesi için gerekli şartların neler olabileceği konusunda araştırma 
+yapmaları istenebilir ve bu şartları, büyük sayıların (1577, 20 193 gibi asal olmayan; 1579, 
+20 201 gibi asal sayılar)  asallığı üzerinde denemeleri beklenebilir. Öğrencilerin “Bir doğal 
+sayı asal çarpanlarının çarpımı şeklinde genel formda yazıldığında her bir çarpanın kuv -
+vetlerinin birer fazlasının çarpımı, o sayının pozitif bölenlerinin sayısını verir. ” önermesi-
+ne ulaşmaları sağlanabilir.
+(*) Öğrencilerden asal sayıların kullanıldığı ilgi çekici asal sayı problemleri [Goldbach 
+(Goltbah) sanısı gibi] veya asal sayıların özellikleri hakkında [ikiz asallar, Fermat (Feğma) 
+asalları, Mersenne (Mersen) asalları gibi]  araştırmalar yapmaları istenebilir. Bu araştır -
+ma sonuçlarından yola çıkılarak asal sayı kavramının matematikteki yeri ve önemi üze -
+rine tartışılabilir.  
+kullanılır. Öğrencilerin verilen bir doğal sayının 2, 3, 4, 5, 8, 9 ve 10 ile bölümünden elde 
+edilebilecek kalanları bu doğrulama yöntemlerinden hareketle bölme yapmadan bulmaya 
+dair varsayımlar geliştirmeleri beklenir. Burada yöntemsel yakınlık dikkate alınarak 
+önce 2, 5, 10, 4 ve 8 için, daha sonra 3 ve 9 için olacak şekilde iki grupta inceleme yapılır. 
+Öğrencilerden farklı örnekler üzerinden elde ettikleri örüntüleri listeleyerek varsayımlarına 
+yönelik genellemelerde bulunmaları ve bu genellemellerinin varsayımlarını karşılayıp 
+karşılamadığını kontrol etmeleri istenir. Listeleme sırasında farklı bölünenleri ve farklı 
+bölenleri içeren işlemlerin yer aldığı çalışma kâğıtları kullanılabilir. Bu çalışma kâğıtları, 
+öğrencilerin genellemelerini listeleyebilecekleri tablolar içerir  (MAB3). Bu genellemelerde 
+öğrencilerin verilen bir doğal sayının bölünebilme kuralı elde edilen sayılardan aralarında 
+asal olan ikisinin çarpımına ( 6, 12, 30, 45 gibi) bölünebilmesine dair değerlendirmeler 
+yapmaları sağlanır. Öğrencilerden oluşturdukları genellemelerin varsayımlarını karşılayıp 
+karşılamadığını örnekler ile sınamaları beklenir. Öğrenciler, genellemelerinden yola çıkarak 
+her bir bölen için bölme yapmadan kalan bulmaya dair önermeler sunar. Öğrencilerden 
+sunulan önermeleri bu doğal sayıların en küçük ortak katları olan 6, 12, 30, 45 gibi sayılara 
+bölümünden kalanı bulma bağlamında değerlendirmeleri istenir.  Örneğin sıfırdan farklı 
+bir doğal sayının 3, 4 ve 12 sayıları ile bölümünden elde edilen kalanlar sırasıyla a, b ve c 
+olmak üzere c sayısının 3 ve 4 sayıları ile bölümünden elde edilecek kalanların sırasıyla  a 
+ve b olacağına yönelik değerlendirme yapılması beklenir. 
+Öğrencilere farklı bölünebilme kurallarını ve bu konuda yazılmış eserleri (Mehmed Nadir ’in 
+Hesab-ı Nazari adlı kitabı gibi) inceleyecekleri araştırma ödevleri verilebilir. Böylece öğren-
+cilerin kültürel mirasa yönelik duyarlı olmaları desteklenerek kültürel mirasın tanıtımına 
+katkı sağlanmış olur  (OB1). Öğrencilerden ödevleri zamanında ve eksiksiz teslim etmele -
+ri beklenir. Böylece sorumluluk değerini kazanmaları sağlanır (D16.3). Bu görevlerde öğ -
+rencilerden yapmış oldukları araştırmaların sonuçlarını sınıfta sunmaları istenir (SDB2.1). 
+Doğrulama yöntemleri; farklı sayıları listeleyerek, bölünen sayıyı basamaklarına göre çö -
+zümleyerek, kat ilişkilerine odaklanarak kullanılır. Bu yöntemlerin uygunluğu, kullanışlılık 
+açısından değerlendirilir. Değerlendirilen doğrulama yöntemi, farklı sayılar üzerinde dene-
+nir (SDB3.2). Açık uçlu sorularla öğrencilerin belirlediği algoritmaları farklı sayılar üzerinde 
+kullanıp kullanamadığı değerlendirilebilir. Öğrencilere bir doğal sayının 2, 3, 4, 5, 8, 9 ile 10’a 
+ve bu doğal sayıların en küçük ortak katlarından oluşan sayılara bölümünden elde edilen 
+kalanlara yönelik performans görevi verilebilir.

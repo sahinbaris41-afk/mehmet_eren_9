@@ -1,0 +1,53 @@
+30
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.9.2.11
+Viskozite, sıvıların akmaya karşı gösterdiği direnç şeklinde tanımlandıktan sonra öğrenci-
+lerin etkili iletişim kurması sağlanarak sıvıların akışkanlığını etkileyen faktörlerin neler ola-
+bileceği tartışmaya açılabilir (SDB2.1, D4.2). Öğrencilerden sıvıların akışkanlığı ve viskozite 
+kavramı arasında ilişki kurmaları ve sıvıların viskozitesine ilişkin niteliklerin farkını ortaya koy-
+maları istenir. Öğrenciler, farklı saf sıvıların (su, etil alkol, propanol, glikol, gliserin gibi) akış-
+kanlıklarını karşılaştırabilecekleri bir deney yaparlar. Böylece öğrencilerin planlı olmalarına 
+yardımcı olunur (D3.2). Öğrencilerin moleküller arası etkileşimlerin sıvıların akışkanlığını nasıl 
+etkilediğine ilişkin keşfettikleri örüntüleri açıklamaları sağlanır. Öğrenciler; sıcaklığın sıvıların 
+akışkanlığını nasıl etkilediğine ilişkin yeni bir deney yapmaları, veri toplamaları ve bu verile-
+ri kaydetmeleri için yönlendirilir (KB2.2, OB7) . Öğrencilerden sıcaklığın sıvıların akışkanlığı 
+üzerindeki etkisine ilişkin keşfettiği örüntüleri açıklamaları istenir. Deneylerden elde ettikleri 
+verileri moleküller arasındaki etkileşim kuvvetlerinin büyüklüğü ve sıcaklık ile ilişkilendire-
+bilmeleri amacıyla öğrencilere sorular sorulur. Öğrenciler performans görevi çerçevesinde 
+moleküller arası etkileşimler ile sıvıların akışkanlığı arasındaki neden-sonuç ilişkisini ortaya 
+koyan bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Öğrencilerden çalışma önce-
+sinde bir form aracılığıyla konu ile ilgili ön bilgilerinin neler olduğunu, deney sürecinde neyi 
+öğrenmeyi beklediğini, ne tür stratejiler kullanacağını ve bu süreçte neler hissedebileceğini
+iletişim becerilerini kullanarak açıklamalarını sınıf arkadaşlarıyla paylaşmaları için yönlen-
+dirilir (SDB2.1, D14.1, E1.4). Öğrenciler, sıvıların buhar basıncını etkileyen faktörlere ilişkin 
+bir deney tasarlayabilir. Öğrencilerden çalışma öncesinde bir form aracılığıyla konu ile ilgili 
+ön bilgilerinin neler olduğunu, deney sürecinde neyi öğrenmeyi beklediğini, ne tür strate -
+jiler kullanacağını ve bu süreçte neler hissedebileceğini belirtmeleri istenebilir  (SDB1.1). 
+Sürecin bütünü “deney tasarım adımlarının takip edilerek buhar basıncına etki eden fak -
+törlerin belirlenebilmesi ve bu faktörlerin moleküller arası etkileşimler göz önüne alınarak 
+açıklanabilmesi” ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Ay -
+rıca öğrencilerden öz değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya 
+ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve bu süreçte neleri daha farklı 
+yapabileceğini belirlemesi istenebilir (SDB1.2, SDB1.3, OB7).
+KİM.9.2.10
+Suyun 100 °C’tan farklı sıcaklıklarda kaynayabildiğinin gözlemlenebileceği gösteri dene -
+yi yapılır ya da öğrencilere bu örneğe ilişkin video seyrettirilir. Öğrencilerin saf sıvıların 
+kaynama özelliği ve kaynama sıcaklığına etki eden faktörleri belirlemede kullanılabilecek 
+ölçütleri tespit etmelerini sağlamak amacıyla sınıf içi tartışma yaptırılabilir, tartışma es -
+nasında saygı kurallarına dikkat edilmesi gerektiği hatırlatılır (SDB2.3, D14.1). Bu tartışma 
+sonunda öğrencilerin saf sıvının kaynama sıcaklığını etkileyen ölçütlere (sıvı yüzeyine etki 
+eden açık hava basıncı ve moleküller arası etkileşimin türü) ulaşmaları sağlanır (SDB2.1, 
+OB2). Öğrencilerden hidrojen bağının sıvıların kaynama noktasına etkisini verilen kanıtlar 
+üzerinden değerlendirmeleri istenir. Hidrojen bağı içeren sıvıların aynı ortamdaki kaynama 
+noktaları arasındaki farklılığın nedeni; hidrojen bağ sayısı ile F, O ve N atomlarının elektro-
+negatiflik değerleri ölçüt alınarak açıklanır. Öğrencilere saf bir sıvının sıcaklık-buhar ba -
+sıncı ilişkisini gösteren grafik ve kaynama olayını açıklamada kullanabilecekleri tanecikli 
+model verilir. Öğrencilerin verilen modeli ve grafiği inceleyerek sıvının buhar basıncının sıvı 
+yüzeyine etki eden dış basınca eşit olduğu andaki sıcaklık değerinde kaynadığı çıkarımına 
+ulaşmaları sağlanır. Öğrencilerden grup arkadaşları ile dayanışma içinde çalışarak hem dış 
+basıncın hem de sıvı türünün kaynama noktasına etkisini açıklayabilmeleri için verileri dü-
+zenlemeleri istenir (D4.1). Öğrencilerden sıvı yüzeyine etki eden dış basıncın sıvının kayna-
+ma noktasını nasıl etkilediğini gösteren kanıtlar kullanarak iddialarını açıklamaları istenir  
+(OB1, OB4). Açıklamalarını desteklemeleri için bilimsel bilgileri kullanmaları sağlanır. Sınıf 
+içi tartışma ortamında dış basınç ve sıvı türünün kaynama noktasına etkisi belirtilir ve bi -
+limsel bilgiler ile karşılaştırma yaptırılır (SDB2.2).

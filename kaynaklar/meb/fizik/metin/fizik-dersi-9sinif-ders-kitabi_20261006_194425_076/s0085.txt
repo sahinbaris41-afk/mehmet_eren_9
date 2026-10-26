@@ -1,0 +1,61 @@
+85
+KUVVET VE HAREKET
+6. Vektörleri bileşenlerine ayırma yönteminin adımlarını açıklayınız ve yöntemi bir vektör üzerinde 
+uygulayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+7. İki vektörün toplanmasında kullanılan uç uca ekleme ve paralelkenar yöntemlerini karş ılaştırınız. 
+Hangi durumlarda, hangi yöntemin daha uygun olduğunu açıklayınız.
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Kontrol Noktası
+Uç Uca Ekleme 
+Yöntemi
+A A
+B
+R = A + B
+B
+⇒
+ ● Bir vektör yönü ve büyüklüğü değişti ­
+rilmeden diğer vektörün bitiş noktasına 
+taşınır.
+ ● İlk vektörün başlangıç noktasından son 
+vektörün bitiş noktasına doğru bir vektör 
+çizilir.
+ ● Çizilen bu vektör bileşke vektör olarak 
+işaretlenir. İlk vektörün başlangıç nok ­
+tası ile son vektörün arasındaki uzaklık 
+bileşke vektörün büyüklüğünü verir.
+Paralelkenar 
+Yöntemi
+B B
+A
+A
+R = A + B
+⇒
+ ● İki vektörün başlangıç noktaları aynı 
+noktaya getirilir.
+ ● Vektörlerin bitiş noktalarından diğer 
+vektöre paralel çizilir.
+ ● Vektörlerin başlangıç noktasından para­
+lellerin kesişim noktasına doğru bir vek­
+tör çizilir.
+ ● Çizilen bu vektör bileşke vektör olarak 
+işaretlenir. Bileşke vektör R A B= + ye 
+eşittir.
+Vektörlerin 
+Bileşenlerine 
+Ayrılması
+y y
+xx
+A 
+Ay
+O O Ax
+A ⇒
+ ● Vektörün başlangıç noktası koordinat 
+sisteminin orijinine getirilir.
+ ● Vektörün bitiş noktasından eksenlere 
+paralel çizgiler çizilerek düzgün paralel ­
+kenar şekli oluşturulur.
+ ● Koordinat sisteminin orijininden paralel 
+çizginin ayrı ayrı x ve y eksenlerini kes ­
+tiği noktaya kadar yönlü bir doğru çizilir 
+ve bileşenler işaretlenir.

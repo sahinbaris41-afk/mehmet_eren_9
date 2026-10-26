@@ -1,0 +1,40 @@
+220
+2. Tema Ölçme ve Değerlendirme Soruları
+Eslem, saçını tararken saçlarının çok kabardığını ve düzel -
+mesi için ıslatılması gerektiğini düşünür. Plastik tarağı ıslat-
+mak için musluğu az açar ve tarağı musluğa yaklaştırdığında 
+suyun akış yönünde bükülme olduğunu görür. Bu durumun 
+nedenini merak eden Eslem, kimya öğretmenine yaşadığı 
+olayı anlatır; statik elektriklenmenin musluktan akan suyun 
+yönünü neden etkilediğini ve tüm sıvılarda bu etkinin söz ko-
+nusu olup olmadığını sorar. Kimya öğretmeni de Eslem için 
+suyun (H2O) ve karbon tetraklorürün (CCl 4) statik elektriklen-
+meye karşı davranışına yönelik bir deney planlar. Deneyde 
+Eslem, plastik bir balonu saçına sürterek balonun negatif yük-
+lenmesini, cam bir çubuğu ipek kumaşa sürterek çubuğun pozitif yüklenmesini sağlar ve deney verilerini 
+aşağıdaki tabloya kaydeder. 
+Olay Gözlemler
+1 Büretten akan suya balon yaklaştırıldı. H2O akış yönünde bükülme var.
+2 Büretten akan suya cam çubuk yaklaştırıldı. H2O akış yönünde bükülme var.
+3 Büretten akan karbon tetraklorüre balon yaklaştırıldı. CCl4 akış yönünde bükülme yok.
+4 Büretten akan karbon tetraklorüre cam çubuk yaklaştırıldı. CCl4 akış yönünde bükülme yok.
+Eslem, deneyden elde ettiği gözlem sonuçlarından H2O ve CCl4 sıvılarının farklı davranış göstermesi-
+nin nedenlerini tespit edebilmek için sıvılara ait aşağıdaki ölçütleri belirler. (1H, 6C, 8O ve 17Cl)
+I. İyonlaşma enerjisi
+II. Elektronegatiflik
+III. Ortaklanm amış elektron çiftleri varlığı
+IV. Ortaklanm ış elektron çiftleri varlığı
+V. Molekül ya pıları
+VI. Molekülde ki atom sayısı
+VII. T oplam vala ns elektron sayısı
+Yukarıdaki ölçütlerden hangilerinin H2O ve CCl4 sıvılarının farklı davranış göstermesine 
+neden olabileceğini gerekçeleriyle açıklayınız.
+20.
+Belirlediğiniz ölçütlere dayalı olarak H2O ve CCl4 molekül yapılarının benzerlik ve farklılıkla-
+rını listeleyiniz.
+21.
+Listenizi dikkate alarak H2O ve CCl4 moleküllerini gruplandırıp adlandırınız. H2O ve CCl4 
+sıvılarının elektrostatik çekim kuvvetleri varlığında farklı davranışlar gösterme nedenini 
+yazınız.
+22.
+20-22. soruları aşağıdaki metne ve görsellere göre cevaplayınız.

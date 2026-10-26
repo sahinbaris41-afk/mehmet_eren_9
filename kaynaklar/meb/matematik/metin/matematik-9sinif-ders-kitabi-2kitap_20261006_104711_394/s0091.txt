@@ -1,0 +1,50 @@
+91
+4. Tema/Ölçme ve Değerlendirme
+10. Aşağıdaki	 görselde	 odanın	 düz	 zeminine	 bir	
+yüzleri	duvara	denk	getirilerek	üst	üste	dizilmiş	
+küp	biçiminde	koliler	ve	bu	kolilere	her	bir	koli-
+nin	köşesine	temas	edecek	şekilde	dayanmı ş	
+süpürge	 yer	 almaktadır.	 Süpürgenin	 zemine,	
+koli	köşelerine	ve	duvara	değdiği	noktalar	sıra-
+sıyla	A,	B,	C,	D,	E dir	ve	bu	noktalar	doğrusal-
+dır.	En	üstte	bulunan	kolinin	bir	yüzünün	alanı	4	
+birimkare,	en	altta	bulunan	kolinin	bir	yüzünün	
+alanı	64	birimkaredir.	Kolilerin	ön	yüzleri	aynı	
+hizadadır.
+Buna göre aşağıdaki soruları cevaplayınız.
+a)  Süpürgenin uzunluğunun kaç birim 
+olduğunu bulunuz.
+b)  Süpürge hareket ettirilmeden en üstte 
+bulunan kutunun üzerine yerleştirilebi -
+lecek en büyük hacimli kutunun bir ayrı-
+tının uzunluğunun kaç birim olduğunu 
+bulunuz. 
+11. Aşağıdaki görselde	 yer	 alan	 duvar	 ve	 zemin	
+birbirine	diktir.	180	cm	boyundaki	Saffet’in	göl-
+gesi,	güneşli	bir	günde	300	cm	ötede	bulunan	
+120	cm	yüksekliğindeki	duvar a	şek ildeki	gibi	
+düşmektedir.	 Boyu	 30	 cm	 olan	 kedi	 duvara	
+Saffet’ten	100	cm	daha	yakındır.
+180
+120
+30
+100
+300
+x
+ Buna göre aşağıdaki soruları cevaplayınız.
+a)  Duvarın olmaması durumunda Saffet’in 
+gölgesinin boyunun kaç cm olacağını 
+bulunuz.
+b)  Kedinin gölgesinin bittiği noktanın 
+duvara uzaklığının kaç cm olduğunu 
+bulunuz.
+c)  Kedi duvara 50 cm uzaklıkta iken kedi -
+nin duvardaki gölgesinin boyunun kaç 
+cm olduğunu bulunuz.
+4
+64
+A
+B
+C
+D
+E

@@ -1,0 +1,46 @@
+201
+2. Tema/Çeşitlilik
+Sıvı ile yüzey arasındaki adezyon kuvvetleri kohezyon kuvvetlerinden bü -
+yükse sıvı yüzeyde yayılır. Böyle sıvılara yüzeyi ıslatan sıvılar denir. Eğer 
+sıvının kohezyon kuvvetleri sıvı ile yüzey arasındaki adezyon kuvvetlerinden 
+büyükse sıvı yüzeyde damlacıklar hâlinde kalır ve yüzeyi ıslatmaz.
+Bir kap içerisinde bulunan sıvının kohezyon kuvvetlerinin adezyon kuvvet-
+lerinden büyük olması sıvı yüzeyinde dışa doğru bir kavis (dışbükey) oluş -
+tururken adezyon kuvvetlerinin büyük olması içe doğru bir kavis (içbükey) 
+meydana getirir. Kohezyon ve adezyon kuvvetleri eşitse sıvı yüzeyi düz kalır.
+Adezyon kuvvetleri, bir su kabına yerleştirilen ince cam tüpler (kılcal tüpler) 
+boyunca suyun yukarı doğru tırmanmasını sağlar. Kılcal hareket (kapiler etki) 
+olarak bilinen ve yer çekimine karşı yapılan bu yukarı doğru hareket, su mo-
+lekülleri ile tüpün cam duvarları arasındaki çekime (adezyon) ve ayrıca su 
+molekülleri arasındaki etkileşimlere (kohezyon) bağlıdır. Kılcal tüplerde adez-
+yon kuvvetleri yeterince büyükse sıvı sütunu kendiliğinden yükselir. Bu olaya 
+kapiler etki denir. Adezyon kuvveti kohezyon kuvvetinden zayıfsa sıvı çok az 
+yükselir hatta sıvı seviyesinde alçalma bile gözlenebilir.
+Sağlık görevlisi kan örneği alırken kılcal hareketten yararlanır. Hastanın par-
+mağını bir iğne ile deler ve kanı toplamak için ince bir tüp kullanır. Tüpün ucu 
+kanla temas ettiğinde kanı kılcal hareketle tüpe çeker. Aynı güç suyun bitkiler 
+tarafından topraktan çekilmesinde de rol oynar. Suyun bitki dokuları boyunca 
+hareketinde kohezyon ve adezyon çok önemlidir. Su molekülleri birbirlerine 
+ve bitki hücrelerinin duvarlarına yapışarak güçlü kohezyon ve adezyon kuv-
+vetleri oluşturur. Kohezyon ve adezyon kuvvetleri bitkilerin topraktan suyu 
+kökleri aracılığıyla etkili bir şekilde çekmesini, yapraklara ve bitkinin diğer 
+kısımlarına taşımasını sağlar. Bu sayede bitki yer çekimine karşı büyüyerek 
+hayatta kalır (Görsel 2.31).
+1. Aşağıdaki cümlelerde yer alan boşlukları uygun şekilde doldurunuz. 
+a) Ağzına kadar suyla dolu bir bardağa damlalıkla yavaş yavaş birkaç damla daha su eklendiğinde suyun taşma-
+dan bir kubbe şekli oluşturması su moleküllerinin .................................. kuvvetlerinden kaynaklanır. 
+b) Kâğıt havlunun masaya dökülen suyu çekmesi sıvıların .................................. özelliğine örnektir.
+c) Suda yüzen  ördeğin tüyleri ıslanmaz çünkü suyun .................................. kuvveti, su ve  tüyler arasındaki ................
+.................. kuvvetinden büyüktür. 
+ç) Islanmayan kıyafet tasarlayan bir üretici kullanacağı malzeme ile su arasındaki .................................. kuvvetleri-
+nin su molekülleri arasındaki .................................. kuvvetlerinden daha .................................. olmasına dikkat eder.
+d) Cıvanın cam bir yüzeye döküldüğünde yüzeyi .................................., metal üzerine döküldüğünde yüzeyi ................
+.................. söylenebilir çünkü metal yüzey ile cıvanın tanecikleri arasında .................................. bağ gözlenir.
+Kontrol Noktası 2.12
+Görsel 2.31: Bitkilerdeki 
+adezyon ve kohezyon 
+kuvveti
+Yüzey gerilimi, adezyon 
+ve kohezyon kuvvetleri ile 
+ilgili videoya ulaşmak için 
+karekodu okutunuz.

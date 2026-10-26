@@ -1,0 +1,61 @@
+199
+3. Tema/Ölçme ve Değerlendirme
+12.  Şekil 1’deki ön yüzü turuncu, arka yüzü mavi 
+olan üçgen şeklindeki kâğıt, AB ve AC kenarla-
+rı çakışacak biçimde katlandığında Şekil 2’deki 
+görüntü elde edilmektedir.
+ ACBm4 8o=`j% ,	DB C! 7A 	ve 	 AAD B'= 	oldu-
+ğuna	göre 	ABC 	açısının 	ölçüsü 	kaç 	derecedir? 
+A)62 B)66 C)76 D)84 E)86
+13.  Aşağıda üçgenlerle ilgili bazı bilgiler verilmiştir.
+  I. Her üçgenin iç açılarının ölçüleri toplamı, 
+bir doğru açının ölçüsüne eşittir.
+ II. Kenar uzunlukları BC cm 12= , AC cm 5=  
+ve ACBm3 0o=`j%  olan bir ABC üçgeni çizi-
+lebilir.
+ III. İç açılarının ölçüleri sırasıyla 1, 2 ve 3 sa-
+yıları ile orantılı olan bir üçgenin en küçük 
+dış açısı dik açıdır.
+IV. İkizkenar üçgenlerde tepe açısına ait dış 
+açıortay, üçgenin tabanını keser.
+  Bu	ifadelerden	hangileri	doğrudur?
+A) I ve II         B) I ve IV          C) II ve III                 
+D) I, II, III E) II, III, IV 
+Şekil 1
+B
+D
+A C
+48o
+Şekil 2
+A B' C
+D
+14.  Aşağıdaki görselde bir otobüsün ring seferi 
+yaptığı yol ve bu yol üzerindeki duraklar veril-
+miştir. Otobüs; otelden aldığı yolcuları lunapar-
+ka, lunaparktan aldığı yolcuları ören yerine ve 
+ören yerinden aldığı yolcuları tekrar otele doğ-
+rusal yolları takip ederek getirmektedir. Oto-
+büs, lunapark ve ören yeri duraklarında sıra-
+sıyla 10 dakika ve 8 dakika beklemiş; yol 
+boyunca başka bir durakta durmayıp duraklar 
+arasında aynı sabit hızla hareket etmiştir.  
+ 
+Otobüsün	otel 	durağından 	harekete 	başla-
+yıp	tekrar 	aynı 	durağa 	varma 	süresi 	1 	saat 	
+olduğuna	göre	aşağıdakilerden	hangisi	
+ kesinlikle	yanlıştır?
+A)  Otobüs otelden hareket ettikten 30 dakika 
+sonra ören yerine ulaşmıştır. 
+B)  Lunapark ile ören yeri arası yolculuk           
+16 dakika sürmüştür.
+C)  Ören yeri ile otel arası yolculuk 19 dakika 
+sürmüştür. 
+D)  Otel ile lunapark arası yolculuk, lunapark 
+ile ören yeri arasındaki yolculuktan uzun 
+sürmüştür. 
+E)  Yolculuk süresinin en uzun olduğu güzer -
+gâh ören yeri ile otel arasıdır.
+Otel
+LunaparkÖren yeri
+Tema ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

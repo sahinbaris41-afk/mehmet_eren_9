@@ -1,0 +1,65 @@
+23
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+1. TEMA: ETKİLEŞİM
+✔ 2. Bilgi Kartı : p orbitalleri
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+2px 2py 2pz
+3px 3py 3pz
+✔ 3. Bilgi Kartı : d orbitalleri
+z
+y
+x
+3dz2
+z
+y
+x
+3dxz
+z
+y
+x
+3dyz
+z
+y
+x
+3dxy
+z
+y
+x
+3dx2-y2
+z
+y
+x
+4dz2
+z
+y
+x
+4dxz
+z
+y
+x
+4dyz
+z
+y
+x
+4dxy
+z
+y
+x
+4dx2-y2

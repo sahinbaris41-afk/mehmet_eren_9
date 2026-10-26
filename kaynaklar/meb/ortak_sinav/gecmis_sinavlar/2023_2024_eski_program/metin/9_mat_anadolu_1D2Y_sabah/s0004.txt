@@ -1,0 +1,82 @@
+18. xy
+xy
+22
+32 42
+-=
++= -
+3
+denklem sisteminin çözüm kümesi aşağı-
+dakilerden hangisidir?
+A) ,10 9--^h",
+B) ,10 6--^h",
+C) ,10 6-^h",
+D) ,10 9-^h",
+E) ,10 6^h",
+19. 
+x
+mx y
+ny
+0
+40
+21
+2
+++ =
+++ =
+3
+denklem sisteminin çözüm kümesi sonsuz  
+elemanlı olduğuna göre mn+  kaçtır?
+A) 6-  B) 4-  C) 0
+D) 4 E) 6
+20. ,xy R!  olmak üzere
+x
+y
+3
+2
+H
+G
+3  
+eşitsizlik sisteminin çözüm kümesinin ana-
+litik düzlemde gösterimi aşağıdakilerden 
+hangisidir?
+A) B)
+C) D)
+E)
+x
+y
+y = 2
+x = 3
+O
+2
+3
+x
+y
+y = 2
+x = 3
+O
+2
+3 x
+y
+y = 2
+x = 3
+O
+2
+3
+x
+y
+y = 3
+x = 2
+O
+3
+2
+x
+y
+y = 3
+x = 2
+O
+3
+2
+TEST BİTTİ.
+CEVAPLARINIZI KONTROL EDİNİZ.
+4
+Ölçme Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü (ÖDSGM)
+MATEMATİK9 A

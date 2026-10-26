@@ -1,0 +1,67 @@
+165
+2. Tema/Ölçme ve Değerlendirme
+Ekonomide bir ürünün piyasa fiyatı belirlenir -
+ken arz ve talep fonksiyonlarından yararlanılır. 
+Fonksiyonların kesim noktası, denge noktası 
+olarak ifade edilir.
+Polar kumaş üretimi yapmak isteyen bir fabrika, 
+kumaşın üretim miktarını ve fiyatını belirlemek 
+istemektedir. Kumaş fiyatına (TL) bağlı üretim 
+miktarını (ton) ifade eden arz ve talep, sırasıyla 
+uygun aralıkta f(x) = x2  − 3 ve g(x) = 21 − x 
+şeklinde tanımlı f ve g doğrusal fonksiyonları ile 
+modellenmiştir. Aşağıda f ve g fonksiyonlarının 
+grafikleri verilmiştir.
+O 6 x Fiyat (x50 000 TL)
+y  Miktar (Ton)
+21
+21 g f
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		Kumaş	üretimi 	için 	arz 	ve 	talebin 	denge-
+de	olduğu 	durumda 	kaç 	ton 	kumaş 	üre-
+tilmesi	 gerektiğini 	 ve 	 üretilen 	 kumaş 	 fi-
+yatının	kaç 	Türk 	lirası 	olması 	gerektiğini	
+bulunuz.
+b)		Arzı	modelleyen 	f 	fonksiyonunun 	grafiği 	
+y	ekseni 	boyunca 	pozitif 	yönde 	3 	birim 	
+ötelendiğinde	elde 	edilecek 	yeni 	denge 	
+noktasına	 göre 	 kumaşın 	 üretim 	 mikta-
+rındaki	ve 	1 	ton 	kumaşın 	fiyatındaki 	de-
+ğişimi	bulunuz.
+11. Araç kiralamak isteyen Hatice Hanım, A ve B 
+şirketleriyle iletişime geçmiştir. A ve B şirketle-
+rinin aldığı sabit ücretler sırasıyla 2000 TL ve 
+1500 TL’dir. Her iki şirket de sabit ücrete ek 
+olarak mesafeye (km) bağlı ücretlendirme (TL) 
+yapmaktadır. A şirketinin aldığı ücret 1 km için 
+3 TL, B şirketinin aldığı ücret 1 km için 5 TL’dir.
+a)		x	kilometre 	kullanılan 	bir 	aracın 	toplam 	ki-
+ralama	maliyetini 	(TL) 	A	ve 	B 	şirketleri 	için	
+ifade	eden 	maliyet 	fonksiyonlarını 	yazınız.
+b)		 A 	ve 	B 	şirketleri 	için 	toplam 	kiralama 	ma-
+liyetini	ifade 	eden 	maliyet 	fonksiyonları-
+nın	grafiklerini 	dik 	koordinat 	sisteminde	
+çiziniz.
+c)		 Kaç 	 kilometrelik 	 kullanımda 	 A	 ve 	 B 	 şir-
+ketlerinin	 aldıkları 	 araç 	 kiralama 	 ücret-
+lerinin	eşit 	olduğunu 	cebirsel 	olarak 	he-
+saplayıp	grafik	üzerinde	gösteriniz.
+ç)		En	 az	 kaç 	 kilometrelik 	 kullanımda 	 A	 şir-
+ketinin	 araç 	 kiralama 	 maliyetinin 	 B 	 şir-
+ketinin	 araç 	 kiralama 	 maliyetinden 	 daha	
+ekonomik	olduğunu	bulunuz.
+12.
+Orhan Bey, yaz tatilinde bir tatil köyünde ko-
+naklamayı planlamıştır. Tatil köyünde bir gece-
+lik kişi başı ücret 8000 Türk lirası ve yolculuğun 
+sabit gideri 2000 Türk lirasıdır. Orhan Bey, bu 
+tatil için 35 000 Türk liralık bütçe belirlemiştir.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)	 	Orhan 	 Beyʼin 	 bütçesini 	 aşmayacak 	 şe-
+kilde	oluşturacağı 	tatil 	planını 	ifade 	eden	
+eşitsizliği	tatil 	köyünde 	kalacağı 	gece 	sa-
+yısına	bağlı	olarak	oluşturunuz.
+b)		Bütçesini	aşmadan 	tatil 	köyünde 	Orhan 	
+Bey’in	en	fazla	kaç 	gece 	konaklayabile-
+ceğini	bulunuz.
+13.

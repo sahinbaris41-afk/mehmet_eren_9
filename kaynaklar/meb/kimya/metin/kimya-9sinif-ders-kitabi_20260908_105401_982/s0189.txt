@@ -1,0 +1,36 @@
+189
+2. Tema/Çeşitlilik
+Bir sıvının sahip olduğu moleküller arası etkileşim türü sıvının akışkanlığını 
+belirler. Sıvıların moleküler arası etkileşim kuvvetleri değiştikçe akışkanlık -
+ları da değişir. İki farklı sıvının moleküller arası etkileşim türü aynı olsa bile 
+akışkanlıkları farklıdır. Örneğin su ve gliserinin molekülleri arasında hidro -
+jen bağı vardır. İki sıvının akışkanlığında  sıvı molekülleri arasında olu -
+şan hidrojen bağlarının sayısı ve kuvveti etkili olacağından akışkanlıkları 
+da farklıdır. Sıvıların akışkanlığını belirleyen bir diğer etken ise sıcaklıktır. 
+Sıvıların viskozitesini ölçmek için kullanılan araçlara viskozimetre denir 
+ve laboratuvarlarda genellikle Ostwald (Osvald) viskozimetresi kullanılır  
+(Görsel 2.29). Sıvıların akışkanlıkları birbirleriyle kıyaslanarak da belirlenebi-
+lir. Bunun için birçok farklı yöntem kullanılabilir. Aynı miktardaki farklı sıvıların 
+ince bir boru, damlalık veya büretten akma süresi ya da belirli eğime sahip bir 
+yüzeyden serbest akış hızı tespit edilirse sıvıların viskozitesi belirlenmiş olur. 
+Sıvıların vizkositesini tespit etmek için büret veya pipetten belirli bir sürede 
+akan sıvının hacmi ölçülebilir. Uzun bir kabın içindeki sıvılara bırakılan çelik 
+bir bilyenin sıvı yüzeyinden tüpün dibine iniş süresi de sıvıların viskozitesinin 
+belirlenmesini sağlar.
+Görsel 2.29
+Ostwald viskozimetresi 
+Deneyin Adı: Akışkanlık-Moleküller Arası Etkileşim İlişkisi
+Deneyin Amacı: Moleküler arası etkileşimlerin sıvıların akışkanlığına etkisine ilişkin bilimsel gözlem yapabilme
+Malzemeler: saf su, etil alkol, propil alkol, etilen glikol, gliserin, aseton, karbon tetraklorür, mezür , beherglas, 
+kronometre, pipet, büret, musluklu şişe, çelik bilye, damlalık, eğik düzlem, termometre
+İşlem Basamakları
+Aşağıda sıvıların akışkanlıklarıyla ilgili bir deneyde kullanacağınız sıvılar hakkında bazı bilgiler ve mal -
+zemeler verilmiştir. Deneyiniz için ihtiyacınız olan malzemeleri kullanınız ve aşağıdaki adımları sırasıyla 
+uygulayınız. 
+1. Deneyde sıvıların akışkanlığını nasıl bulacağınızı işlem basamaklarına yazınız. 
+2. Sıvıların akışkanlıklarına ilişkin deneyden elde ettiğiniz verileri aşağıdaki tabloda “ölçülen akış -
+kanlık değeri 1” yazılı satıra yazınız. Sıvıların akışkanlıklarını birden fazla yöntemle belirlediyseniz 
+“ölçülen akışkanlık değeri 2” yazılı yeri kullanınız. 
+3. Bulduğunuz değerleri sınıftaki arkadaşlarınızın bulduğu değerlerle ve Tablo 2.6’daki viskozite de-
+ğerleri ile karşılaştırınız.
+Moleküller Arası Etkileşimler Sıvıların Akışkanlığını Nasıl Etkiler?Etkinlik-2.25

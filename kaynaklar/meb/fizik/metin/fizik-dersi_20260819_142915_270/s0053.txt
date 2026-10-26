@@ -1,0 +1,51 @@
+53
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; açık uçlu, kısa ve uzun cevaplı, eşleştirme, boşluk doldurma soruları 
+madde türlerinden oluşan test; öz değerlendirme formu, yapılandırılmış grid, tanılayıcı 
+dallanmış ağaç, doğru yanlış sorularından oluşan çalışma yaprağı, ürün veya model geliş-
+tirme kavram haritası ve slogan ile değerlendirilebilir. 
+Dalga tepesi, dalga çukuru, dalga boyu, frekans, periyot, genlik ve dalgaların yayılma süra-
+ti kavramlarını içeren bir çalışma yaprağı ve çeşitli dalga örneklerini sınıflandırmaları için 
+farklı soru türlerinden oluşan test verilebilir. Dalgaların yayılma süratinin ortama bağlılığını 
+yansıtacak slogan oluşturmaları istenebilir. Öğrenciler, öz veya grup değerlendirme form-
+ları kullanılarak değerlendirilebilir. Dalgaların temel kavramları, dalgaların sınıflandırılması 
+ve ortamların dalgaların yayılma süratine etkisi ile ilgili kavram haritası hazırlayıp öğrenci-
+lerin sunum yapmalarına yönelik bir performans görevi verilir. Bu görev için daha önce ve-
+rilen çalışma yaprağı, test ve slogan oluşturma çalışmalarını yaparken karşılaştıkları kav-
+ramları kaydetmeleri ve not almaları hatırlatılır. Hazırladıkları kavram haritası ve sunumlar 
+dereceli puanlama anahtarı ile değerlendirilebilir. Öz ve akran değerlendirme formları 
+kullanılabilir. Öğrencilerin öz değerlendirmeleri için kullanılan form puanlama anahtarı ile 
+değerlendirme yapılabilir. Testlerin değerlendirilmesi puanlama anahtarı ile yapılabilir. Su 
+dalgalarının yansıma ve kırılma olaylarına ilişkin farklı madde türlerinden oluşan çalışma 
+yaprağı kullanılabilir. Çalışma yaprağının değerlendirilmesinde puanlama anahtarı kulla-
+nılabilir. Öğrencilerden depremle ilişkili kavramlar ile kavram haritası oluşturmaları iste-
+nebilir. Kavram haritasının değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir. 
+Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+YAŞANTILARI
+Temel Kabuller Öğrencilerin dönme, öteleme ve titreşim gibi hareket çeşitlerinin özelliklerini bildiği, ses dalga-
+larının yayılma süratinin ortamın özelliklerine göre değiştiği bilgisine sahip olduğu, uzunluk ve 
+zaman ölçümü yapabildiği ve süratin matematiksel modelini kullanabildiği kabul edilmektedir. 
+Ön Değerlendirme Süreci Hareket çeşitleri, ses dalgalarının özellikleri, uzunluk ve zaman ölçümlerine ilişkin soru 
+cevap tekniği kullanılabilir. Günlük hayatta karşılaştığı dalga olaylarına ilişkin sorular so-
+rulabilir. 
+Köprü Kurma Maçlardaki Meksika dalgası, bayrağın dalgalanması, gitarda ses çıkaran telin hareketi, 
+yağmur yağarken durgun su yüzeyinde oluşan dairesel dalgalar gibi günlük hayatta karşı-
+laşılan olaylar ile dalga hareketi ilişkilendirilebilir. Bisiklet, motosiklet, araba gibi araçlar ve 
+kalem, kapı kolu, zımba gibi aletlerde kullanılan yay çeşitleri, zemberek ve sarkaçlı saatle-
+rin çalışma prensipleri, deniz ve göllerde su dalgalarının yayılması ve deprem gibi günlük 
+hayattan olaylar arasında ilişki kurulabilir.  
+Öğrenme-Öğretme 
+Uygulamaları FİZ.10.4.1
+Öğretmen zaman ve zamanın ölçülmesi (zemberekli ve sarkaçlı saatlerin çalışma prensip-
+leri) ile ilgili sorular sorar. Yay sarkacı ve basit sarkaçta periyot kavramına ilişkin simülas-
+yon, görsel, gösteri deneyi veya videolar ile Galileo’nun ilk basit sarkacı kullanarak yaptığı 
+deneylere ilişkin hikâyeleri kullanarak merak uyandırır (E1.1). Öğrenciler öğretmen rehber-
+liğinde gruplara ayrılır (SDB2.2). Öğretmen, öğrencilerin periyot kavramını yakından dene-
+yimleyebilmeleri için sınıfa farklı uzunlukta ipler, farklı sertlikte yaylar ve farklı kütlelerde 
+cisimler getirebilir. Öğrenciler yay sarkacının ve basit sarkacın periyoduna ilişkin dene-
+yimlerini grup hâlinde tartışarak (E1.6, SDB2.2) gözden geçirir. Grup arkadaşları ile birlikte

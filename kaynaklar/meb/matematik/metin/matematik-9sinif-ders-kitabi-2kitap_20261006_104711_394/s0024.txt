@@ -1,0 +1,34 @@
+24
+4. Tema / Eşlik ve Benzerlik
+7. Şeklin	köşe	noktaları	için	5	ve	6.	adımlarda	yaptığınız	işlem	ve	ölçümleri	şekil	üzerindeki	farklı	nok-
+talar	ve	görüntüleri	için	de	yapınız.
+8. Aşağıdaki	soruları	yaptığınız	çizime	göre	cevaplayınız.
+a) 6	ve	7.	adımlarda	elde	ettiğiniz	uzaklıklar	ile	paralel	doğruların	birbirine	uzaklığı	arasında	nasıl	bir	
+ilişki	olduğunu	belirtiniz.
+b) Doğruları	sürükleyerek	4.	adımda	oluşturduğunuz	üçgen	ile	6	ve	7.	adımlardaki	uzaklıkların	deği-
+şimini	gözlemleyiniz.	Paralel	doğruların	birbirine	uzaklığının	6	ve	7.	adımlardaki	uzaklıkları,	bu	
+uzaklıklar	arasındaki	ilişkiyi	ve	4.	adımda	oluşturduğunuz	üçgeni	nasıl	etkilediğini	açıklayınız.
+c) Paralel	 doğruları	 1.	 adımda	 oluşturduğunuz	 üçgenin	 farklı	 taraflarında	 olmalarını	 sağlayacak	
+şekilde	sürükleyiniz.	Paralel	doğrular	1.	adımda	oluşturduğunuz	üçgenin	farklı	taraflarında	oldu-
+ğunda	4.	adımda	oluşturduğunuz	üçgenin,	6	ve	7.	adımlardaki	uzaklıkların	ve	bu	uzaklıklar	ara-
+sındaki	ilişkinin	nasıl	değiştiğini	gözlemleyiniz.	Gözlemlerinizden	elde	ettiğiniz	verileri	açıklayınız.	
+ç) Oluşturduğunuz	doğruların	paralel	olmaması	durumunda	a,	b,	c	sorularına	verdiğiniz	cevapların	
+nasıl	değişeceğine	ilişkin	fikirlerinizi	yazınız.	
+Kontrol Noktası
+Düzlemde bir şekle iki paralel doğrudan birine göre yansıma dönüşümü uygulanıp elde edilen görüntüye diğer 
+doğruya göre tekrar yansıma dönüşümü uygulanırsa şekil, doğrular arasındaki uzaklığın iki katı kadar uzaklığa 
+ötelenmiş olur. Şeklin elde edilen son görüntüsü, ilk şeklin öteleme dönüşümü altındaki görüntüsüdür.
+Teknoloji Uygulaması
+Matematik yazılımı kullanarak aşağıdaki adımları sırasıyla uygulayınız ve verilen soruları cevaplayınız.
+1. Araçlar bölümünden sırasıyla Çokgen ve Doğru araç-
+larını seçerek ABC üçgenini ve f doğrusunu oluşturunuz.
+2. Dönüşüm bölümünden Doğruda Yansıt aracını seçerek 
+ABC üçgeninin f doğrusuna göre yansıma dönüşümü altındaki görüntüsü olan A'B'C' üçgenini oluşturunuz.
+3. Araçlar bölümünden Doğru aracını seçiniz ve f doğrusu ile D noktasında kesişen g doğrusunu çiziniz. Noktalar 
+bölümünden Nesne Üzerinde Nokta aracını seçerek g doğrusu üzerinde bir G noktası belirleyiniz. 
+4. Uygulama
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.
+Dönme	Dönüşümü	ve	Özellikleri
+Kesişen	doğrulardan	birine	göre	yansıma	dönüşümü	uygulanarak	elde	edilen	görüntüye	diğer	doğruya	
+göre	tekrar	yansıma	dönüşümü	uygulandığında	yeni	bir	geometrik	dönüşüm	elde	edilir.

@@ -1,0 +1,31 @@
+44
+FİZİK 9 
+ÜNİTE 3: AKIŞKANLAR
+Görsel 3.3: Fırtınalı havalarda evlerin çatısının uçması Görsel 3.4: a) Şemsiyenin alt ve üst kısmından rüzgârın akışı 
+havada şemsiyenin ters dönmesi b) Şemsiyenin rüzgârın akış 
+yönüne karşı eğilerek ters dönmesinin engellenmesi
+Görsel 3.5: Musluktan akan suyun aşağıya doğru indikçe incelmesi Görsel 3.6: Seyir hâlindeki iki aracın yan yana geçtikleri sırada 
+birbirlerine doğru çekilmesi
+V1 V2
+Po
+Po
+Pi
+Pi
+Görsel 3.2: Deney düzeneği
+ ► Bernoulli İlkesi'nin başka bir uygulaması olarak 
+Görsel 3.2'deki gibi tek bir kâğıda üfleyiniz ve onun 
+yukarı doğru kalkmasını sağlayınız.
+ ► Bu deneylerde gerçekleşen olayları Bernoulli İlke-
+si’ni kullanarak açıklayınız.
+ ► Bernoulli İlkesi'nin günlük yaşamdaki uygulamalarıyla ilgili aşağıda yer alan görselleri öğrencilere sununuz 
+ve bu görsellerdeki olaylar ile durumları ilkeyle ilişkilendirerek açıklayınız.
+Son pozisyon
+Hava üfleme
+Başlangıç 
+konumu
+Yüksek basınç
+V1
+V2
+P1
+P1
+Alçak basınç ba

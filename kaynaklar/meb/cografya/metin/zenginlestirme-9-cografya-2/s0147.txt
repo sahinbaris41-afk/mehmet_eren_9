@@ -1,0 +1,8 @@
+146 147
+COĞRAFYA 9 
+ ▶ Öğretmeniniz tarafından verilen altlık haritayı CBS yazılımında “Katman”ı daha sonra “Kat-
+man Ekle”yi ve “Vektör Katman Ekle”yi seçerek açınız.
+ ▶ Açılan pencerede “Dosya” seçeneğini işaretleyiniz. “Kaynak” bölümünün altındaki “Vektör 
+Veriseti(leri)” kısmında yer alan "..." işaretini kullanarak altlık haritanızı daha önce kaydetti-
+ğiniz klasörden seçip “Ekle” butonuna tıklayınız. 
+ ▶ Haritanız proje sayfasında görünecektir. 

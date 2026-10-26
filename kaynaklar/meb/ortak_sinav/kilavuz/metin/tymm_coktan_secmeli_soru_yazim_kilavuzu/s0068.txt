@@ -1,0 +1,40 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+68
+3. Selin bir hafta boyunca 60 dakika yürüyüş yaptığını, 30 dakika bisiklet sürdüğünü ve 50 dakika koşu 
+yaptığını not almıştır.
+Buna göre Selin’in mobil uygulama ekranında karşılaşması muhtemel görüntü aşağıdakilerden 
+hangisidir?  (KB2.8.SB5)
+(Mobil uygulama ekranında hedefe ulaşıldığı ☺ , ulaşılamadığı ☹  ile gösterilmektedir.)
+Haftalık Süre
+☹
+Kalori Hedefi
+☺
+Yakılan Kalori
+1060
+Haftalık Süre
+☺
+Kalori Hedefi
+☺
+Yakılan Kalori
+1100
+Haftalık Süre
+☺
+Kalori Hedefi
+☺
+Yakılan Kalori
+1140
+Haftalık Süre
+☹
+Kalori Hedefi
+☺
+Yakılan Kalori
+1100
+Haftalık Süre
+☹
+Kalori Hedefi
+☹
+Yakılan Kalori
+960
+A)
+D) E)
+B) C)

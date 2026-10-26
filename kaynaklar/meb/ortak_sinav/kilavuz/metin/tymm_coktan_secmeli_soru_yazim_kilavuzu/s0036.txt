@@ -1,0 +1,26 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+36
+3. Barış 960 gramlık ham madde ile en kısa sürede en çok anahtarlık basabilmek için 4 senaryo belirle-
+miştir. Senaryolar ile ilgili bilgiler aşağıdaki tabloda verilmiştir.
+1. Senaryo Sadece M yazıcısı kullanılır.
+2. Senaryo Sadece P yazıcısı kullanılır.
+3. Senaryo Her iki yazıcı eşit süre kullanılır.
+4. Senaryo Önce M yazıcısı 6 saat çalıştırılıp kapatılır daha sonra ham madde bitene kadar P yazıcısı kullanılır.
+Buna göre her senaryo için gerekli süre ve basılan anahtar sayısı ile ilgili aşağıdaki bilgilerden 
+hangisi yanlıştır ? (KB3.2.SB4)
+A)  1. senaryoya göre 12 saatte 24 adet anahtarlık basılır.
+B)  2. senaryoya göre 32 saatte 32 adet anahtarlık basılır.
+C)  3. senaryoya göre 9 saatte 26 adet anahtarlık basılır.
+D)  4. senaryoya göre 22 saatte 24 adet anahtarlık basılır.
+E)  Birim zamanda en çok anahtarlık 3. senaryoda basılır.
+4. Barış daha fazla anahtar basabilmek için bir S yazıcısı satın almış ve üç yazıcı birlikte 1 saatte 6 anahtar 
+basarken 170 gram ham madde kullanmıştır.
+Bu verilere göre, yazıcıların verimlilikleri (birim anahtar başına harcanan ham madde) dikkate alın -
+dığında aşağıdaki çıkarımlardan hangisi doğrudur?  (KB3.2.SB5)
+A) P yazıcısı 1 saatlik toplam tüketimi en az olan cihaz olduğu için üretim süreci boyunca en ekonomik 
+seçenektir.
+B) Üretim hızı (adet/saat) ile birim başına düşen ham madde miktarı arasında doğru orantı bulunmak-
+tadır. 
+C) Birim anahtar başına en az ham maddeyi S yazıcısı tükettiği için en yüksek verimliliğe sahiptir.
+D) M yazıcısı üretim hızı bakımından S yazıcısı ile aynı performansı göstermektedir. 
+E) Yazıcıların her biri birim anahtar üretimi için eşit miktarda ham madde harcamaktadır.

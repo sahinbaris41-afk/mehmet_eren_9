@@ -1,0 +1,36 @@
+179
+BÜTÜNCÜL DERECELİ PUANLAMA ANAHTARI
+Puan Özellikler
+Mükemmel 
+(4)
+• Poster, hücre zarını ve organelleri çok detaylı ve doğru şekilde temsil ediyor. Renkler ve görsel düzen-
+leme son derece etkili ve profesyonel.
+• Organellerin tamamı doğru bir şekilde adlandırılmış ve işlevleri ayrıntılı ve açık bir şekilde açıklan-
+mış. Hücresel süreçlerin tüm adımları doğru ve mantıklı bir şekilde gösterilmiş.
+• Organeller arasındaki ilişkiler ve işlevlerin anlaşılması çok iyi bir şekilde gösterilmiş.
+• Açıklamalar bilimsel doğruluğa sahip, içerik zenginliği ve sunum etkinliği mükemmel düzeyde.
+Oldukça iyi 
+(3)
+• Poster, hücre zarını ve organelleri genellikle doğru şekilde temsil ediyor. Renkler ve görsel düzenle-
+me büyük ölçüde etkili.
+• Organellerin çoğu doğru bir şekilde adlandırılmış ve işlevleri genellikle açık bir şekilde açıklanmış. 
+Hücresel süreçlerin çoğu doğru ve mantıklı bir şekilde gösterilmiş.
+• Organeller arasındaki ilişkilerin ve işlevlerin büyük çoğunluğu anlaşılabilir şekilde gösterilmiş.
+• Açıklamalar genellikle bilimsel doğruluğa sahip, içerik anlaşılabilir ve sunum etkili.
+Kabul edilebilir 
+(2)
+• Poster, hücre zarını ve organelleri bazı eksikliklerle veya doğruluk konusunda zayıf bir şekilde temsil 
+ediyor. Renkler ve görsel düzenleme sınırlı etkili.
+• Organellerin çoğu adlandırılmış ancak işlevleri yeterince açıklanmamış veya doğru değil. Hücresel 
+süreçlerin bazı adımları eksik veya yanlış gösterilmiş.
+• Organeller arasındaki ilişkiler ve işlevlerin çoğu eksik veya yanlış anlaşılmış.
+• Açıklamalar genellikle eksik, bilimsel doğruluktan uzak veya sunum yeterince etkili değil.
+Yetersiz
+(1)
+• Görsel Temsil: Poster, hücre zarını ve organelleri doğru bir şekilde temsil etmiyor veya görsel olarak 
+anlaşılmaz.
+• Organellerin adlandırılması ve işlevleri hatalı veya eksik. Hücresel süreçlerin gösterimi büyük ölçüde 
+hatalı veya anlaşılmaz.
+• Organeller arasındaki ilişkiler ve işlevlerin hatalı veya eksik anlaşılması.
+• Açıklamalar eksik, hatalı veya anlaşılmaz, sunum yetersiz veya hemen hemen hiç yapılmamış.
+FORM 17

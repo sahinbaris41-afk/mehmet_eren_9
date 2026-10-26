@@ -1,0 +1,721 @@
+8 98 9
+Kitap genelinde kullanılan 
+tüm karekodlar, akıllı ci -
+hazlarla okutularak ya da 
+kitabın dijital kopyalarında 
+karekod üzerine tıklana -
+rak açılabilmektedir.
+16 17
+FİZİK 9 
+ÜNİTE 1: FİZİK BİLİMİ VE KARİYER KEŞFİ
+FİZİK 9
+Görsel ve genel ağ 
+kaynakçasına
+ karekoddan ulaşabilirsiniz.
+Akın, G. (2006). Küresel Isınma, Nedenleri ve Sonuçları. Ankara Üniversitesi Dil Ve Tarih-Coğrafya Fakültesi 
+Dergisi, 46(2), 29-43.
+Fazliç M. A. (2018) Güneş enerjisi destekli hava kaynaklı ısı pompası sisteminin yardımıyla bir evin ısıtılması, 
+soğutulması ve evsel sıcak su ihtiyacının karşılanması üzerine fizibilite çalışması. Bursa Uludağ 
+Üniversitesi Fen Bilimleri Enstitüsü.
+KAYNAKÇA 
+SEMBOLLERİN 
+AÇIKLAMASI
+Bireysel etkinlik
+Grup etkinliği
+Rehberli etkinlik
+Yıldızlı etkinlik
+14 15
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU
+Bu form kendinizi değerlendirebilmeniz amacıyla hazırlanmıştır. Çalışmalarınızı en doğru yansıtan seçeneğe 
+(X) işareti koyunuz. Daha sonraki iki soruya verdiğiniz cevaplarınızı boş bırakılan yerlere yazınız. 
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+Ölçütler
+Dereceler
+Evet Kısmen Hayır
+1. Yönergeleri izledim.
+2. Grup arkadaşlarımın anlattıklarını ve önerilerini dinledim.
+3. Verilen görevleri yerine getirdim.
+4. Grup arkadaşlarıma çalışmalarında destek oldum.
+5. Tartışma ortamlarına katılarak istenen soruları cevapladım.
+6. Çalışmalarım sırasında zamanımı verimli kullandım.
+7. Araştırmamda güvenli kaynaklardan yararlandım.
+8. Araştırma sonuçlarımı ve düşüncelerimi grup arkadaşlarımla 
+paylaştım.
+9. Bu çalışmada güvenlik önlemlerini dikkate aldım.
+Sorular
+1. Bu etkinlik sırasında grubumdaki arkadaşlarıma nasıl destek oldum?  
+2. Bu etkinlik sonucunda neler öğrendim?
+Not: Öğrenci Öz Değerlendirme Formu sonucunda işaretlediğiniz "Kısmen" ve "Hayır" cevaplarınız fazla ise 
+etkinliğinizi gözden geçirerek eksiklerinizi tamamlayınız.
+• Araştırma yöntemleri konusunda öğrencilere rehberlik ediniz.
+• Güvenilir bilgi kaynakları kullanmaları gerektiği konusunda uyarılarda bulununuz.
+• Öğrenciler bilmedikleri bir yazılım kullanıyorsa broşür tasarımında öğrencilere rehberlik yapınız.
+• Öğrencilerin araştırma sonucundaki bulgularını kimya bilgileri ile karşılaştırmalarını teşvik ediniz.
+Öğretmenler İçin İpuçları
+Öğrencilerin kendilerini değerlendirmeleri amacıyla "ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU"nu dol-
+durmalarını sağlayınız.
+• Öğrencilerden evde veya başka bir ortamda kimyasal maddeler kullanılırken güvenlik için hangi 
+önlemlerin alınabileceğini araştırmaları; araştırma sonuçlarından yararlanarak posterler, kamu 
+spotları veya sosyal medya içerikleri hazırlamaları istenebilir.
+• Öğrencilerden bir kimya işletmesinin iş güvenliği önlemlerini incelemeleri, buna yönelik bir gü-
+venlik raporu hazırlamaları ve bu raporu broşür hâline getirmeleri istenebilir.
+Sınıf Dışı Uygulama Önerileri
+14 15
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU
+Bu form kendinizi değerlendirebilmeniz amacıyla hazırlanmıştır. Çalışmalarınızı en doğru yansıtan seçeneğe 
+(X) işareti koyunuz. Daha sonraki iki soruya verdiğiniz cevaplarınızı boş bırakılan yerlere yazınız. 
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+Ölçütler
+Dereceler
+Evet Kısmen Hayır
+1. Yönergeleri izledim.
+2. Grup arkadaşlarımın anlattıklarını ve önerilerini dinledim.
+3. Verilen görevleri yerine getirdim.
+4. Grup arkadaşlarıma çalışmalarında destek oldum.
+5. Tartışma ortamlarına katılarak istenen soruları cevapladım.
+6. Çalışmalarım sırasında zamanımı verimli kullandım.
+7. Araştırmamda güvenli kaynaklardan yararlandım.
+8. Araştırma sonuçlarımı ve düşüncelerimi grup arkadaşlarımla 
+paylaştım.
+9. Bu çalışmada güvenlik önlemlerini dikkate aldım.
+Sorular
+1. Bu etkinlik sırasında grubumdaki arkadaşlarıma nasıl destek oldum?  
+2. Bu etkinlik sonucunda neler öğrendim?
+Not: Öğrenci Öz Değerlendirme Formu sonucunda işaretlediğiniz "Kısmen" ve "Hayır" cevaplarınız fazla ise 
+etkinliğinizi gözden geçirerek eksiklerinizi tamamlayınız.
+• Araştırma yöntemleri konusunda öğrencilere rehberlik ediniz.
+• Güvenilir bilgi kaynakları kullanmaları gerektiği konusunda uyarılarda bulununuz.
+• Öğrenciler bilmedikleri bir yazılım kullanıyorsa broşür tasarımında öğrencilere rehberlik yapınız.
+• Öğrencilerin araştırma sonucundaki bulgularını kimya bilgileri ile karşılaştırmalarını teşvik ediniz.
+Öğretmenler İçin İpuçları
+Öğrencilerin kendilerini değerlendirmeleri amacıyla "ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU"nu dol-
+durmalarını sağlayınız.
+• Öğrencilerden evde veya başka bir ortamda kimyasal maddeler kullanılırken güvenlik için hangi 
+önlemlerin alınabileceğini araştırmaları; araştırma sonuçlarından yararlanarak posterler, kamu 
+spotları veya sosyal medya içerikleri hazırlamaları istenebilir.
+• Öğrencilerden bir kimya işletmesinin iş güvenliği önlemlerini incelemeleri, buna yönelik bir gü-
+venlik raporu hazırlamaları ve bu raporu broşür hâline getirmeleri istenebilir.
+Sınıf Dışı Uygulama Önerileri
+Etkinliği gerçekleştiren öğretmene yararlı 
+olabilecek bazı yönlendirmeler ve ipuçları bu-
+lunmaktadır.
+14 15
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU
+Bu form kendinizi değerlendirebilmeniz amacıyla hazırlanmıştır. Çalışmalarınızı en doğru yansıtan seçeneğe 
+(X) işareti koyunuz. Daha sonraki iki soruya verdiğiniz cevaplarınızı boş bırakılan yerlere yazınız. 
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+Ölçütler
+Dereceler
+Evet Kısmen Hayır
+1. Yönergeleri izledim.
+2. Grup arkadaşlarımın anlattıklarını ve önerilerini dinledim.
+3. Verilen görevleri yerine getirdim.
+4. Grup arkadaşlarıma çalışmalarında destek oldum.
+5. Tartışma ortamlarına katılarak istenen soruları cevapladım.
+6. Çalışmalarım sırasında zamanımı verimli kullandım.
+7. Araştırmamda güvenli kaynaklardan yararlandım.
+8. Araştırma sonuçlarımı ve düşüncelerimi grup arkadaşlarımla 
+paylaştım.
+9. Bu çalışmada güvenlik önlemlerini dikkate aldım.
+Sorular
+1. Bu etkinlik sırasında grubumdaki arkadaşlarıma nasıl destek oldum?  
+2. Bu etkinlik sonucunda neler öğrendim?
+Not: Öğrenci Öz Değerlendirme Formu sonucunda işaretlediğiniz "Kısmen" ve "Hayır" cevaplarınız fazla ise 
+etkinliğinizi gözden geçirerek eksiklerinizi tamamlayınız.
+• Araştırma yöntemleri konusunda öğrencilere rehberlik ediniz.
+• Güvenilir bilgi kaynakları kullanmaları gerektiği konusunda uyarılarda bulununuz.
+• Öğrenciler bilmedikleri bir yazılım kullanıyorsa broşür tasarımında öğrencilere rehberlik yapınız.
+• Öğrencilerin araştırma sonucundaki bulgularını kimya bilgileri ile karşılaştırmalarını teşvik ediniz.
+Öğretmenler İçin İpuçları
+Öğrencilerin kendilerini değerlendirmeleri amacıyla "ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU"nu dol-
+durmalarını sağlayınız.
+• Öğrencilerden evde veya başka bir ortamda kimyasal maddeler kullanılırken güvenlik için hangi 
+önlemlerin alınabileceğini araştırmaları; araştırma sonuçlarından yararlanarak posterler, kamu 
+spotları veya sosyal medya içerikleri hazırlamaları istenebilir.
+• Öğrencilerden bir kimya işletmesinin iş güvenliği önlemlerini incelemeleri, buna yönelik bir gü-
+venlik raporu hazırlamaları ve bu raporu broşür hâline getirmeleri istenebilir.
+Sınıf Dışı Uygulama Önerileri
+26 27
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Ölçütler Mükemmel(4) Oldukça İyi(3) Kabul Edilebilir(2) Yeterli Değil(1) PUAN
+Problem 
+tanımlama
+Konuya ilişkin 
+problem açık 
+ve anlaşılır bir 
+şekilde  
+tanımlanmıştır.
+Konuya ilişkin 
+problem  
+tanımlanmıştır.
+Konuya iliş-
+kin problemin 
+tanımlanmasında 
+eksikler vardır.
+Konuya ilişkin 
+problem  
+tanımlanama-
+mıştır.
+Araştırma
+Araştırma so-
+nuçları yeterli ve 
+doğrudur.
+Araştırma sonuç-
+ları yeterli değil 
+ama doğrudur.
+Araştırma sonuç-
+ları yeterli değildir 
+ve sonuçların 
+doğruluğu kesin 
+değildir.
+Araştırma sonuç-
+ları yetersizdir ve 
+doğru değildir.
+Tasarım 
+ve 
+inovasyon
+Tasarım yenilikçi 
+ve  
+uygulanabilirdir.
+Tasarım yenilikçi-
+dir ama uygula-
+nabilir değildir.
+Tasarım yenilikçi 
+değil ancak  
+uygulanabilirdir.
+Tasarım yenilikçi 
+değildir ve uygu-
+lanabilir durumda 
+değildir.
+Materyal 
+ve
+ yöntem
+Kullanılan ma-
+teryaller uygun, 
+kolay ulaşılabilir 
+ve geri dönüştü-
+rülmüş ma-
+teryallerdir ve 
+yöntem etkilidir.
+Kullanılan mater-
+yaller uygun, ko-
+lay ulaşılabilir ve 
+yöntem etkilidir.
+Kullanılan ma-
+teryaller uygun 
+ve kolay ulaşılır 
+değildir ancak 
+yöntem etkilidir.
+Kullanılan mater-
+yaller uygun de-
+ğildir ve yöntem 
+etkili değildir.
+Ürün 
+ve
+ uygulama
+Ürün kullanışlıdır 
+ve uygulamada 
+tam verimli, ba-
+şarılı olmuştur.
+Ürün kullanışlıdır 
+ve uygulamada 
+başarılı olmuştur.
+Ürün kullanışlıdır 
+ancak uygula-
+mada başarılı 
+olamamıştır.
+Ürün kullanışlı 
+değildir ve uygu-
+lamada başarılı 
+olmamıştır.
+Bilgi görseli 
+veya
+ sunum
+Bilgi görseli 
+veya sunumda 
+görseller ile 
+metin destekle-
+nerek ilgi çekici 
+hâle getirilmiştir, 
+sunum etkili 
+ve bilgilendirici 
+olmuştur.
+Bilgi görseli veya 
+sunumda gör-
+seller ile metin 
+desteklenmiştir, 
+sunum etkili 
+ve bilgilendirici 
+olmuştur.
+Bilgi görseli 
+veya sunumda 
+görsellere yer 
+verilmiştir ve su-
+num bilgilendirici 
+olmuştur.
+Bilgi görseli veya 
+sunumda görsel-
+ler ve metinler 
+yetersiz kalmıştır 
+ve sunum bilgi-
+lendirici değildir.
+Grup iletişimi
+Grup içinde iş 
+bölümü ve iş bir-
+liği yapılmıştır.
+Grup içinde iş 
+bölümü yapılmış 
+ancak iş birliği 
+yapılmamıştır.
+Grup içinde iş 
+bölümü ve iş bir-
+liğinde sorunlar 
+oluşmuştur.
+Grup içinde iş bö-
+lümü ve iş birliği 
+yapılmamıştır.
+TOPLAM PUAN
+Dereceli puanlama anahtarından alınacak puanı 100 üzerinden hesaplamak için
+(Toplam Puan/28) x 100 formülünü uygulayınız.
+3. Adım: Değerlendirme
+Öğrencilerin çalışmalarını değerlendirmek için aşağıda verilen "ANALİTİK DERECELİ PUANLAMA 
+ANAHTARI"nı kullanınız.
+26 27
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Ölçütler Mükemmel(4) Oldukça İyi(3) Kabul Edilebilir(2) Yeterli Değil(1) PUAN
+Problem 
+tanımlama
+Konuya ilişkin 
+problem açık 
+ve anlaşılır bir 
+şekilde  
+tanımlanmıştır.
+Konuya ilişkin 
+problem  
+tanımlanmıştır.
+Konuya iliş-
+kin problemin 
+tanımlanmasında 
+eksikler vardır.
+Konuya ilişkin 
+problem  
+tanımlanama-
+mıştır.
+Araştırma
+Araştırma so-
+nuçları yeterli ve 
+doğrudur.
+Araştırma sonuç-
+ları yeterli değil 
+ama doğrudur.
+Araştırma sonuç-
+ları yeterli değildir 
+ve sonuçların 
+doğruluğu kesin 
+değildir.
+Araştırma sonuç-
+ları yetersizdir ve 
+doğru değildir.
+Tasarım 
+ve 
+inovasyon
+Tasarım yenilikçi 
+ve  
+uygulanabilirdir.
+Tasarım yenilikçi-
+dir ama uygula-
+nabilir değildir.
+Tasarım yenilikçi 
+değil ancak  
+uygulanabilirdir.
+Tasarım yenilikçi 
+değildir ve uygu-
+lanabilir durumda 
+değildir.
+Materyal 
+ve
+ yöntem
+Kullanılan ma-
+teryaller uygun, 
+kolay ulaşılabilir 
+ve geri dönüştü-
+rülmüş ma-
+teryallerdir ve 
+yöntem etkilidir.
+Kullanılan mater-
+yaller uygun, ko-
+lay ulaşılabilir ve 
+yöntem etkilidir.
+Kullanılan ma-
+teryaller uygun 
+ve kolay ulaşılır 
+değildir ancak 
+yöntem etkilidir.
+Kullanılan mater-
+yaller uygun de-
+ğildir ve yöntem 
+etkili değildir.
+Ürün 
+ve
+ uygulama
+Ürün kullanışlıdır 
+ve uygulamada 
+tam verimli, ba-
+şarılı olmuştur.
+Ürün kullanışlıdır 
+ve uygulamada 
+başarılı olmuştur.
+Ürün kullanışlıdır 
+ancak uygula-
+mada başarılı 
+olamamıştır.
+Ürün kullanışlı 
+değildir ve uygu-
+lamada başarılı 
+olmamıştır.
+Bilgi görseli 
+veya
+ sunum
+Bilgi görseli 
+veya sunumda 
+görseller ile 
+metin destekle-
+nerek ilgi çekici 
+hâle getirilmiştir, 
+sunum etkili 
+ve bilgilendirici 
+olmuştur.
+Bilgi görseli veya 
+sunumda gör-
+seller ile metin 
+desteklenmiştir, 
+sunum etkili 
+ve bilgilendirici 
+olmuştur.
+Bilgi görseli 
+veya sunumda 
+görsellere yer 
+verilmiştir ve su-
+num bilgilendirici 
+olmuştur.
+Bilgi görseli veya 
+sunumda görsel-
+ler ve metinler 
+yetersiz kalmıştır 
+ve sunum bilgi-
+lendirici değildir.
+Grup iletişimi
+Grup içinde iş 
+bölümü ve iş bir-
+liği yapılmıştır.
+Grup içinde iş 
+bölümü yapılmış 
+ancak iş birliği 
+yapılmamıştır.
+Grup içinde iş 
+bölümü ve iş bir-
+liğinde sorunlar 
+oluşmuştur.
+Grup içinde iş bö-
+lümü ve iş birliği 
+yapılmamıştır.
+TOPLAM PUAN
+Dereceli puanlama anahtarından alınacak puanı 100 üzerinden hesaplamak için
+(Toplam Puan/28) x 100 formülünü uygulayınız.
+3. Adım: Değerlendirme
+Öğrencilerin çalışmalarını değerlendirmek için aşağıda verilen "ANALİTİK DERECELİ PUANLAMA 
+ANAHTARI"nı kullanınız.
+Değerlendirme adımlarında öğretmen tara -
+fından yapılacak değerlendirmelere yer ve -
+rilmiştir.
+60 61
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+KİMYA 9
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+Ölçütler
+Dereceler
+Evet Kısmen Hayır
+1. Yönergeleri izledim.
+2. Hazırlık aşamasında grup arkadaşlarıma yardım ettim.
+3. Grup arkadaşlarımın anlattıklarını ve önerilerini dinledim.
+4. Verilen görevleri yerine getirdim.
+5. Grup arkadaşlarıma çalışmalarında destek oldum.
+6. Diğer grupların anlattıklarını ve önerilerini dinledim.
+7. Anlamadığım yerlerde sorular sordum.
+8. Çalışmalarım sırasında zamanımı verimli kullandım.
+9. Çalışmalarım sırasında değişik kaynaklar kullandım.
+Sorular
+1. Bu etkinlik sırasında en iyi yaptığım şeyler nelerdir? 
+2. Bu etkinlik sırasında grubumdaki arkadaşlarıma nasıl destek oldum?   
+3. Bu etkinlik sonucunda neler öğrendim?
+Not: Öğrenci Öz Değerlendirme Formu sonucunda işaretlediğiniz "Kısmen" ve "Hayır" cevaplarınız fazla ise 
+etkinliğinizi gözden geçirerek eksiklerinizi tamamlayınız.
+ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU
+Bu form kendinizi değerlendirebilmeniz amacıyla hazırlanmıştır. Çalışmalarınızı en doğru yansıtan seçeneğe 
+(X) işareti koyunuz. Daha sonraki dört soruya verdiğiniz cevaplarınızı boş bırakılan yerlere yazınız. 
+Öğrencilerin kendilerini değerlendirmeleri amacıyla "ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU"nu dol-
+durmalarını sağlayınız.
+Öğretmenin dikkat etmesi gereken hususlar, 
+ikonlarla birlikte ayrıştırıcı yazım karakteri ve 
+büyüklükle verilmiştir.
+48 49
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+KİMYA 9
+4. Aşağıdaki görsellerin (Görsel 2.1, 2.2) her bir grupta bulunmasını sağlayınız. 
+5. Öğrencilerden görselleri inceleyerek elmas ve grafitin aynı elementten meydana gelmelerine rağmen 
+aralarındaki farkların neler olduğu konusundaki düşüncülerini grup içinde ifade ederek not almaları ge-
+rektiğini belirtiniz.
+6. Gruplara karbonun aşağıdaki faz diyagramını (Grafik 2.1) veriniz. Öğrencilerden faz diyagramını incele-
+melerini ve bu faz diyagramına göre grafitin hangi şartlarda elmasa dönüşeceği konusundaki düşünce-
+lerini grup içinde ifade ederek not almaları gerektiğini belirtiniz.
+0 1 000100
+101
+102
+103
+104
+105
+106
+2 000 3 000 4 000 5 000 6 000 Sıcaklık oC
+Basınç (atm)
+Elmas
+Grafit
+Sıvı
+Buhar
+Görsel 2.1: Elmas ve elmasın top çubuk modeli
+Görsel 2.2: Grafit ve grafitin top çubuk modeli
+Grafik 2.1: Karbonun faz diyagramı
+1. ETKİNLİK ADI ELMAS VE GRAFİT
+Görseller, sayfalara orantılı şekilde yerleşti -
+rilmiştir. Görsel açıklamaları, ayrıştırıcı yazım 
+karakteri ve harf büyüklüğü dikkate alınarak 
+verilmiştir. 
+60 61
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+KİMYA 9
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+Ölçütler
+Dereceler
+Evet Kısmen Hayır
+1. Yönergeleri izledim.
+2. Hazırlık aşamasında grup arkadaşlarıma yardım ettim.
+3. Grup arkadaşlarımın anlattıklarını ve önerilerini dinledim.
+4. Verilen görevleri yerine getirdim.
+5. Grup arkadaşlarıma çalışmalarında destek oldum.
+6. Diğer grupların anlattıklarını ve önerilerini dinledim.
+7. Anlamadığım yerlerde sorular sordum.
+8. Çalışmalarım sırasında zamanımı verimli kullandım.
+9. Çalışmalarım sırasında değişik kaynaklar kullandım.
+Sorular
+1. Bu etkinlik sırasında en iyi yaptığım şeyler nelerdir? 
+2. Bu etkinlik sırasında grubumdaki arkadaşlarıma nasıl destek oldum?   
+3. Bu etkinlik sonucunda neler öğrendim?
+Not: Öğrenci Öz Değerlendirme Formu sonucunda işaretlediğiniz "Kısmen" ve "Hayır" cevaplarınız fazla ise 
+etkinliğinizi gözden geçirerek eksiklerinizi tamamlayınız.
+ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU
+Bu form kendinizi değerlendirebilmeniz amacıyla hazırlanmıştır. Çalışmalarınızı en doğru yansıtan seçeneğe 
+(X) işareti koyunuz. Daha sonraki dört soruya verdiğiniz cevaplarınızı boş bırakılan yerlere yazınız. 
+Öğrencilerin kendilerini değerlendirmeleri amacıyla "ÖĞRENCİ ÖZ DEĞERLENDİRME FORMU"nu dol-
+durmalarını sağlayınız.
+26 27
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+KİMYA 9
+Adı ve Soyadı:                Sınıfı:                     Numarası:                      Tarih:
+ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Ölçütler Mükemmel(4) Oldukça İyi(3) Kabul Edilebilir(2) Yeterli Değil(1) PUAN
+Problem 
+tanımlama
+Konuya ilişkin 
+problem açık 
+ve anlaşılır bir 
+şekilde  
+tanımlanmıştır.
+Konuya ilişkin 
+problem  
+tanımlanmıştır.
+Konuya iliş-
+kin problemin 
+tanımlanmasında 
+eksikler vardır.
+Konuya ilişkin 
+problem  
+tanımlanama-
+mıştır.
+Araştırma
+Araştırma so-
+nuçları yeterli ve 
+doğrudur.
+Araştırma sonuç-
+ları yeterli değil 
+ama doğrudur.
+Araştırma sonuç-
+ları yeterli değildir 
+ve sonuçların 
+doğruluğu kesin 
+değildir.
+Araştırma sonuç-
+ları yetersizdir ve 
+doğru değildir.
+Tasarım 
+ve 
+inovasyon
+Tasarım yenilikçi 
+ve  
+uygulanabilirdir.
+Tasarım yenilikçi-
+dir ama uygula-
+nabilir değildir.
+Tasarım yenilikçi 
+değil ancak  
+uygulanabilirdir.
+Tasarım yenilikçi 
+değildir ve uygu-
+lanabilir durumda 
+değildir.
+Materyal 
+ve
+ yöntem
+Kullanılan ma-
+teryaller uygun, 
+kolay ulaşılabilir 
+ve geri dönüştü-
+rülmüş ma-
+teryallerdir ve 
+yöntem etkilidir.
+Kullanılan mater-
+yaller uygun, ko-
+lay ulaşılabilir ve 
+yöntem etkilidir.
+Kullanılan ma-
+teryaller uygun 
+ve kolay ulaşılır 
+değildir ancak 
+yöntem etkilidir.
+Kullanılan mater-
+yaller uygun de-
+ğildir ve yöntem 
+etkili değildir.
+Ürün 
+ve
+ uygulama
+Ürün kullanışlıdır 
+ve uygulamada 
+tam verimli, ba-
+şarılı olmuştur.
+Ürün kullanışlıdır 
+ve uygulamada 
+başarılı olmuştur.
+Ürün kullanışlıdır 
+ancak uygula-
+mada başarılı 
+olamamıştır.
+Ürün kullanışlı 
+değildir ve uygu-
+lamada başarılı 
+olmamıştır.
+Bilgi görseli 
+veya
+ sunum
+Bilgi görseli 
+veya sunumda 
+görseller ile 
+metin destekle-
+nerek ilgi çekici 
+hâle getirilmiştir, 
+sunum etkili 
+ve bilgilendirici 
+olmuştur.
+Bilgi görseli veya 
+sunumda gör-
+seller ile metin 
+desteklenmiştir, 
+sunum etkili 
+ve bilgilendirici 
+olmuştur.
+Bilgi görseli 
+veya sunumda 
+görsellere yer 
+verilmiştir ve su-
+num bilgilendirici 
+olmuştur.
+Bilgi görseli veya 
+sunumda görsel-
+ler ve metinler 
+yetersiz kalmıştır 
+ve sunum bilgi-
+lendirici değildir.
+Grup iletişimi
+Grup içinde iş 
+bölümü ve iş bir-
+liği yapılmıştır.
+Grup içinde iş 
+bölümü yapılmış 
+ancak iş birliği 
+yapılmamıştır.
+Grup içinde iş 
+bölümü ve iş bir-
+liğinde sorunlar 
+oluşmuştur.
+Grup içinde iş bö-
+lümü ve iş birliği 
+yapılmamıştır.
+TOPLAM PUAN
+Dereceli puanlama anahtarından alınacak puanı 100 üzerinden hesaplamak için
+(Toplam Puan/28) x 100 formülünü uygulayınız.
+3. Adım: Değerlendirme
+Öğrencilerin çalışmalarını değerlendirmek için aşağıda verilen "ANALİTİK DERECELİ PUANLAMA 
+ANAHTARI"nı kullanınız.
+Değerlendirme adımlarında öğrencinin ken -
+dini değerlendirebileceği ölçme ve değerlen-
+dirme araçlarına yer verilmiştir.
+48 49
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+KİMYA 9
+4. Aşağıdaki görsellerin (Görsel 2.1, 2.2) her bir grupta bulunmasını sağlayınız. 
+5. Öğrencilerden görselleri inceleyerek elmas ve grafitin aynı elementten meydana gelmelerine rağmen 
+aralarındaki farkların neler olduğu konusundaki düşüncülerini grup içinde ifade ederek not almaları ge-
+rektiğini belirtiniz.
+6. Gruplara karbonun aşağıdaki faz diyagramını (Grafik 2.1) veriniz. Öğrencilerden faz diyagramını incele-
+melerini ve bu faz diyagramına göre grafitin hangi şartlarda elmasa dönüşeceği konusundaki düşünce-
+lerini grup içinde ifade ederek not almaları gerektiğini belirtiniz.
+0 1 000100
+101
+102
+103
+104
+105
+106
+2 000 3 000 4 000 5 000 6 000 Sıcaklık oC
+Basınç (atm)
+Elmas
+Grafit
+Sıvı
+Buhar
+Görsel 2.1: Elmas ve elmasın top çubuk modeli
+Görsel 2.2: Grafit ve grafitin top çubuk modeli
+Grafik 2.1: Karbonun faz diyagramı
+1. ETKİNLİK ADI ELMAS VE GRAFİT
+Etkinlikler bittikten sonra planlanabilecek ek 
+çalışmalar için de farklı etkinliklere yer veril -
+miştir.

@@ -1,0 +1,53 @@
+75
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.11.2.11 
+Öğrencilere derişimi bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltisinin derişiminin 
+nasıl belirlenebileceğine yönelik sorular sorulabilir. Böylece öğrencilerin çeşitli fikir ve 
+yeni bilgilere açık olmaları, olay ve durumları çok yönlü bakış açısıyla değerlendirmeleri, 
+etkili iletişim kurmaları sağlanabilir (SDB2.1, D3.3, D14.1, E2.1) . Öğrenciler, derişimi bili -
+nen kuvvetli bir asit ya da kuvvetli baz çözeltisini kullanarak derişimi bilinmeyen kuvvetli 
+bir baz ya da kuvvetli asit çözeltisinin derişimini belirlemeye yönelik deney planlamaları 
+için yönlendirilir. Gruplar oluşturularak öğrencilerden planladıkları deneyi yapmaları,
+oluşturmaları istenir (OB1). Öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olma -
+ları; bilimsel gelişim için merak duygusunun peşinden gitmeleri gerektiğini fark etmeleri 
+sağlanır (D3.3).Öğrencilerin asitlerin ve bazların saf suda iyonlaşma yüzdelerini kullana -
+rak asit ve baz kuvvetlerine ilişkin sembolik ve alt mikro seviyede modeller geliştirmeleri 
+sağlanır. Öğrencilerden farklı asitlerin ve bazların kuvvetini karşılaştırmaları amacıyla aynı 
+sıcaklık ve derişimde asit ve baz çözeltilerinin pH ve iletkenlik değerlerini ölçmeleri iste -
+nir. Öğrenciler, ölçtükleri pH ve ilet kenlik değerlerini kullanarak hem inceledikleri asitlerin 
+kuvvetlerini hem de bazların kuvvetlerini karşılaştırmaya yönlendirilir. Öğrencilerin karşı -
+laştırma yaparken asit ve bazın saf suda iyonlaşma yüzdesini kullanmaları sağlanır. Öğren-
+cilerden asitlerin ve bazların kuvvetine ilişkin açıklamalarını alt mikro ve sembolik seviyede 
+gösterimleri kullanarak yapmaları istenir (SDB2.1). Asitlerin ve bazların kuvvetine ilişkin 
+açıklamalarının bilimsel bilgiler ile değerlendirilmesi sağlanır (OB1, E3.6) . Etkinlik kâğıtları 
+“araştırma sorusu oluşturabilme, model geliştirebilme, araştırma gerçekleştirebilme, araş-
+tırma verilerini yorumlayabilme, verilere dayalı açıklama yapabilme ve açıklamalarını bilim-
+sel bilgilerle karşılaştırabilme” ölçütlerini içeren dereceli puanlama anahtarı ile öğrenci ve 
+öğretmen tarafından değerlendirilebilir (SDB1.2).
+KİM.11.2.9
+Öğrencilerden derişimleri aynı monofonksiyonel kuvvetli asit ve zayıf asit çözeltilerinin pH 
+değerlerine ilişkin özellikleri belirlemek için ölçüm yapmaları veya hazır veri seti kullanmaları 
+istenir. Böylece öğrencilerin hedefine ulaşmak için plan yapmaları ve bu planı uygulamaları 
+sağlanır (SDB1.2, D3.2). Öğrencilerden incelenen monofonksiyonel kuvvetli asit ve  zayıf asit 
+çözeltilerinin pH değerlerine ilişkin verileri kullanarak H3O+ iyon derişimlerini hesaplamaları 
+istenir. Öğrenciler, monofonksiyonel kuvvetli asit ve zayıf asit çözeltilerinin pH hesaplamala-
+rına ilişkin benzerlik ve farklılıkları listelemeleri için yönlendirilir (OB7). Benzer hesaplamalar 
+monofonksiyonel kuvvetli baz ve zayıf baz çözeltileri için de tekrarlanır. Bu hesaplamalarda 
+yapılan ihmallerde büyük hatalar yapılmaması için asit (Ca) veya bazın (Cb) derişiminin ilgili K 
+(Ka ve Kb) iyonlaşma sabitine oranının Ca/Ka > 102 ve Cb/Kb > 102 olmasına dikkat edilir. Öğ-
+rencilerden çalışma yaprağında verilen kuvvetli asit, baz ve zayıf asit, baz çözeltilerinin pH 
+hesaplamalarını yaparak kuvvetlerini karşılaştırmaları istenebilir.
+KİM.11.2.10
+Öğrencilerden makro, alt mikro ve sembolik seviyede gösterimleri kullanarak kuvvet -
+li asitlerin ve kuvvetli bazların sulu çözeltileri karıştırıldığında gerçekleşen nötralleşme 
+tepkimelerini gözlemleyebilmeleri için iletkenlik, pH değişimi ve indikatörün renk değişimi 
+ölçütlerini belirlemeleri istenir (OB1). Öğrenciler, deney yaparak asit ve baz sulu çözeltile-
+rinin nötralleşmesi ile ilgili tespit ettikleri ölçütlerin geçerliğini test eder. Deneyler ile öğ -
+rencilerin hedeflerine ulaşmak için etkili bir yol haritası çizerek çalışmalarını planlamaları 
+ve hazırladıkları planı uygulamaları sağlanır (D3.2). Öğrenciler, yaptıkları deneyden elde et-
+tikleri verileri kullanarak alt mikro ve sembolik seviyede gösterimlerle nötralleşme olayını 
+açıklar. Nötralleşme olayı ile ilgili matematiksel ilişkilendirmeyi yapar (OB7). Öğrencilerden 
+makro ve sembolik gösterimleri kullanarak nörtalleşme olayını açıklamaları istenebilir. Ay-
+rıca öğrencilere deney sürecinde kendilerini değerlendirmelerine, deney sürecinde yaşa-
+dıkları duyguları fark etmelerine ve süreci geliştirmek için yapılması gerekenleri belirleme-
+lerine yönelik bir yansıtma raporu yazdırılabilir (SDB1.1, SDB1.2, SDB1.3).

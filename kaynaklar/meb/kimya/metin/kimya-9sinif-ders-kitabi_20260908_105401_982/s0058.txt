@@ -1,0 +1,51 @@
+1. Tema/Etkileşim
+58
+Atomlarda	Elektron	Dağılımı 
+Çok elektronlu atomlarda birden fazla elektronun varlığı atom orbitallerinin 
+bağıl enerji seviyelerini büyük ölçüde değiştirir. Atomların proton sayısı art -
+tıkça 2s ve 2p atom orbitalleri arasındaki enerji farkının artmasının nedeni 
+elektron-elektron itmeleridir. Elektron itmeleri bir kabuktaki çeşitli alt kabukla-
+rın farklı enerjilerde olmasına neden olur. 
+Çok elektronlu atomlarda atom orbitallerinin bağıl enerji sıralaması genellikle 
+1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < … şek -
+lindedir. Belirli bir alt kabuğun tüm orbitallerinin (3p orbitalleri gibi) enerjileri 
+birbirleriyle aynıdır. Orbitallerin enerjileri ve enerji düzeyleri arasındaki farklar, 
+atomdan atoma farklılık gösterir. Bu sıralamayı daha kolay hatırlamak için 
+aşağıdaki elektron dağılımı şeması kullanılabilir (Görsel 1.18).
+Burada belirlenen orbital enerji sıralamasına göre bir 
+atomdaki elektronların orbitallerdeki düzenini göster-
+menin iki yöntemi vardır. İlk yönteme elektron dağılımı 
+(konfigürasyonu) denir. Bu yöntemde Görsel 1.19’da 
+görüldüğü gibi önce orbitalin bulunduğu temel enerji se-
+viyesi ve orbital türü yazılır, ardından orbitaldeki elektron 
+sayısı üs olarak gösterilir.
+1s
+2s
+3s
+4s
+5s
+6s
+7s
+2p
+3p
+4p
+5p
+3d
+4d
+5d
+4f
+5f
+6p 6d
+7p
+n=1
+n=2
+n=3
+n=4
+n=5
+n=6
+n=7
+Görsel 1.18
+Elektron dağılımı şeması
+Görsel 1.19
+Elektron dağılımındaki sayı ve harflerin 
+anlamı

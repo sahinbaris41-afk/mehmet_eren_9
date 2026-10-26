@@ -1,0 +1,42 @@
+21
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ MAT.H.1.1. Doğrusal ilişkiler içeren problemlerin çözümlerinde matematiksel araç ve tek-
+nolojilerden yararlanabilme 
+a) Doğrusal ilişkiler içeren problemlerin çözümlerinde kullanılabilecek matematiksel 
+araç ve teknolojileri tanır.
+b) Doğrusal ilişkiler içeren problemlerin çözümleri için kullanılabilecek matematiksel 
+araç ve teknolojilerden uygun olanları seçer.
+c) Doğrusal ilişkiler içeren problemlerin çözümleri için belirlediği matematiksel araç 
+ve teknolojiyi kullanır.
+İÇERİK ÇERÇEVESİ Doğrusal İlişki İçeren Problemler
+Genellemeler • Doğrusal ilişkiler; niceliklerin eşit aralıklarda, eşit farklarla birbirlerine bağlı değişimlerini 
+temsil eder.   
+Anahtar Kavramlar dik koordinat sistemi, doğrusal ilişki, doğru, eğim,  koordinat
+Sembol ve Gösterimler A(x, y), y = mx + n
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; performans görevi, açık uçlu sorular ve dijital testlerle değerlendirile -
+bilir.
+Doğrusal ilişkiler içeren problem çözümlerinde matematiksel araç ve teknolojilerin  kulla-
+nımına yönelik performans görevi verilebilir. Performans görevi, analitik dereceli puanla -
+ma anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir. 
+Doğrusal ilişkiler içeren gerçek yaşam problemlerinden hareketle matematiksel araç ve 
+teknolojileri kullanarak öğrencilerin olası tüm çözüm stratejilerini inceleyebilecekleri açık 
+uçlu sorulardan oluşan dijital testler kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin dik koordinat sistemini tanıdığı, dik koordinat sisteminde sıralı ikilileri 
+gösterebildiği, doğrusal ilişkili nicelikleri bağımlı-bağımsız değişkenlerle cebirsel ola -
+rak ifade edebildiği, doğrusal ilişkili iki çokluk arasındaki ilişkiyi fonksiyon olarak ifade 
+edebildiği, dik koordinat sisteminde verilen doğrusal ilişkilerin  grafiklerini eğimlerine 
+göre yorumlayabildiği, doğrusal ilişkili iki niceliğe ait cebirsel bir ifadede bir niceliğin 
+değeri verildiğinde diğerinin değerini hesaplayabildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin verilen sıralı ikilileri dik koordinat sisteminde göstermesi, doğrusal ilişkili nice-
+likleri bağımlı-bağımsız değişkenlerle cebirsel olarak ifade etmesi, doğrusal ilişkili iki çok-
+luk arasındaki ilişkiyi fonksiyon olarak göstermesi için öğrencilere çalışma kâğıdı verilebilir. 
+Öğrencilerden dik koordinat sisteminde verilen doğrusal ilişkilerin grafiklerini eğimlerini 
+dikkate alarak yorumlaması, doğrusal ilişkili iki niceliğe ait cebirsel bir ifadede bir niceliğin 
+değeri verildiğinde diğerinin değerini hesaplaması istenebilir.

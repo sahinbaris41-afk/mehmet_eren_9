@@ -1,0 +1,43 @@
+85
+BİYOLOJİ DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerden DNA izolasyonu, polimeraz zincir reaksiyonları ve DNA analizi işlemlerinin 
+yer aldığı bir animasyon filmini alt yazılı veya seslendirmeli olarak hazırlamaları istenebilir. 
+*DNA replikasyonunda kromozom uçlarında meydana gelen problemin ne olduğunu, bu 
+problemin önlenmesi için hücrelerde oluşturulan mekanizmaları ve kanser hastalığının uç 
+problemiyle ilişkisini araştırmaları istenebilir. Öğrencilere biyolojik verilerin toplanması, 
+depolanması, analizi ve yorumlanması için biyoinformatik disiplinin kullanım alanlarının ve 
+toplumsal faydalarının araştırılmasına yönelik proje ödevi verilebilir ve öğrencilerden elde 
+ettikleri bilgileri kullanarak bilgi görseli hazırlamaları istenebilir.
+*Öğrencilere ökaryotik mRNA’ların transkripsiyon sonrası olgunlaşma sürecinde ne 
+tür değişikliklere uğradıklarını, bu süreçte ribozimlerin görevlerini, intron ve ekzon 
+kavramlarını içeren araştırma projesi verilebilir. 
+Öğrencilerin genetik bilgideki mutasyon çeşitlerini (nokta mutasyonları, çerçeve kayması, 
+baz ekleme/çıkarma, translokasyon vb.) sınıflandırarak hücrelerin bu mutasyonlar 
+için geliştirdikleri tamir/koruma mekanizmalarını artırılmış gerçeklik uygulamaları ile 
+incelemeleri sağlanabilir. 
+Öğrenciler; kalıtımda epistasi, pleiotropi ve epigenetik kavramlarını örnekleriyle araştırarak 
+sınıfta konuyla ilgili sunum yapabilir. 
+Öğrencilerden eş baskınlık ve çok alellilik örneklerini günlük yaşam durumlarıyla 
+ilişkilendirmeleri istenebilir. Örneğin hastalık direnci, adaptasyon ve türler arası 
+etkileşimler gibi konularda bu genetik özelliklerin nasıl rol oynayabileceğini araştırabilirler. 
+Öğrencilerden mitokondriyal kalıtımı, mitokondriyal DNA’nın nesilden nesile nasıl geçtiğini 
+ve mitokondriyal hastalıkların nasıl oluştuğunu araştırmaları istenebilir. Genetik testlerin 
+farklı türlerini, bu testler aracılığıyla genetik risk faktörlerinin, hastalıkların ve genetik 
+özelliklerin nasıl belirlenebileceğini araştırmaları istenebilir. Öğrencilerin genetik testlerin 
+sağlık hizmetlerine (hastalıkların erken teşhisi, kişiselleştirilmiş tedavi planları ve genetik 
+yatkınlığın belirlenmesi vb.) nasıl katkıda bulunduğunu tartışmaları sağlanabilir. 
+Öğrencilerden biyoteknolojinin farklı uygulama alanlarına yönelik bir tasarım ve inovasyon 
+projesi hazırlamaları istenebilir.
+Destekleme Nükleik asitlerin bileşenlerinin ve farklı türlerinin yer aldığı görseller veya animasyonlar 
+kullanılabilir. 
+DNA replikasyonu, drama tekniği kullanılarak gösterilebilir. Bu yolla DNA replikasyonunun 
+somutlaştırılması ve daha kolay anlaşılması sağlanabilir. 
+Transkripsiyon ve translasyon animasyonları kullanılarak kod, kodon, antikodon, anlamlı 
+zincir kavramları ile mRNA, tRNA, rRNA gibi yapıların görevleri somutlaştırılabilir. 
+Kan gruplarının belirlenmesi için gerekli materyallerin temin edilemediği durumlarda sanal 
+laboratuvarlardan video, animasyon ve örnek simülasyonlar gösterilerek konunun daha iyi 
+anlaşılması sağlanabilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

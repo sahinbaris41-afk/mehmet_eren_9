@@ -1,0 +1,48 @@
+255
+3. Tema/Sürdürülebilirlik
+1. Yetkililerin araştırmaya çalıştığı problem ne olabilir?
+ 
+2. Gemi kazası sonucunda nasıl bir çevresel problem oluşmuştur?
+ 
+3. Denizdeki canlıların ölüm nedenleri neler olabilir?
+ 
+4. Geminin taşıdığı metal, alaşım ve metal nanoparçacıklar sucul ekosistemde ne gibi problemler oluşturur?
+ 
+5. Çevre mühendisi olarak problemin ne olduğunu bulmak için araştırmaya nereden başlarsınız? 
+ 
+6. Kimya mühendisinden, malzeme mühendisinden, kimyagerden ve biyologlardan yaşanılan gemi kazası ve 
+kaza sonucu yaşanılan olaylar için neler yapmalarını beklersiniz?
+ 
+2. Yönerge: Ekibiniz sizden gelen istekler doğrultusunda bazı araştırmalar yapmış ve araştırmaların sonu-
+cunda aşağıdaki kanıtlara ulaşmıştır. Verilen kanıtları inceleyerek soruları cevaplayınız. 
+Ağır Metal, Alaşım ve 
+Nanoparçacık Kullanım Alanları Toksik Etkisi
+Demir (Fe) ve paslan-
+maz çelik 
+Gemi imalatı; inşaat, dö-
+küm, otomotiv sektörü
+Balıkların solunum sistemine zarar verir. İnsanlarda 
+karaciğer ve kalp rahatsızlıklarına sebep olur.
+Kadmiyum (Cd) Gemi, boya, elektronik ve sanayi sektörü Deniz canlılarının organ larında işlevsel bozukluklara yol açar. İnsanlarda kansere ve mutasyona sebep olur. Akciğerleri ve kandaki kalsi yum dengesini etkiler .
+Çinko (Zn)
+Metal alaşım, boya, koz-
+metik, plastik ve maden 
+sanayisi ile otomotiv 
+sektörü
+Balıkların solungaç ve kas doku sunda birikerek iç 
+organlarını etkiler, İnsanların iç organları etkileyerek 
+solunum yollarında tahrişe neden olur.
+Mangan (Mn)
+Demir-çelik, çimento, 
+ilaç ve kimya sanayisi; 
+petrokimya ve elektronik 
+endüstrisi; fotoğrafçılık
+Bazı deniz canlılarının bağışıklık sistemine zarar verir. 
+İnsanlarda sinir sistemi rahatsızlıklarına neden olur.
+Alüminyum (Al)
+Elektrik ve elektronik 
+endüstrisi; metal, kimya 
+ve gıda sanayisi; inşaat ve 
+ulaştırma sektörü
+Balıklarda solunumu engeller. İnsanlarda sindirim, iske-
+let, sinir sistemlerine  ve iç organlara zarar verir.

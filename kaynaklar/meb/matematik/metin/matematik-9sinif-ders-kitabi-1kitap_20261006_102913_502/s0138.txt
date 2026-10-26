@@ -1,0 +1,50 @@
+138
+2. Tema /  Nicelikler ve Değişimler
+6.  Giriş bölümüne f(x) ≥ g(x) yazıp Enter tuşuna basınız. Ardından f(x) < g(x) eşitsizliğinin solundaki daireye 
+tıklayarak rengini kapatınız. Ekranda f(x) ≥ g(x) eşitsizliğinin çözüm aralığı oluşacaktır (Görsel 3).
+Görsel 3
+c : f(x) ≥ g(x)
+=  1.4x+  4.2 ≥ 0
+A a = 2α
+denk1
+A
+-4-5
+g
+Giriş...
+f(x) = ax + b
+=  1.4x+  4.2
+A = Kesiştir(f, g)
+= (-3, 0)
+denk1 : 1.4 x + 4.2 = g(x)
+g(x) = 0
+a = 1.4
+-5      5                    
+b = 4.2
+-5      5                    
+-1
+-2
+1
+2
+3
+4
+5
+-1-2-3 0 1 2
+f
+7.  a ve b sür gülerini hareket ettirerek değişimleri gözlemleyiniz.
+ Gözlemlerin izden yararlanarak aşağıdaki soruları cevaplayınız.
+a)  g(x) = 0 olduğundan ax + b = g(x) eşitliği ax + b = 0 şeklinde yazılabilir. ax + b = 0 denkleminin kökü ile 
+f fonksiyonunun sıfırı arasında nasıl bir ilişki olduğunu açıklayınız.
+b)  g(x) = 0 olduğundan f(x) < g(x) eşitsizliği f(x) < 0 şeklinde yazılabilir.  Görsel 2’de f(x) < 0 eşitsizliğini 
+sağlayan değerler ile ax + b = 0 denkleminin kökü arasında nasıl bir ilişki olduğunu aşağıda verilen işaret 
+tablosunu doldurarak açıklayınız.
+x      -∞                     - ba                       ∞
+ f(x) 0
+c)  g(x) = 0 olduğundan f(x) ≥ g(x) eşitsizliği f(x) ≥ 0 şeklinde yazılabilir. Görsel 3’te f(x) ≥ 0 eşitsizliğini 
+sağlayan değerler ile ax + b = 0 denkleminin kökü arasında nasıl bir ilişki olduğunu aşağıda verilen işaret 
+tablosunu doldurarak açıklayınız.
+x      -∞                     - ba                       ∞
+ f(x) 0
+ç)  f(x) = 0 denkleminin çözüm kümesini ve f(x) < 0, f(x) ≥ 0 eşitsizliklerinin çözüm aralıklarını bulmak 
+için f fonksiyonunun grafik veya cebirsel temsilini kullanarak çözüm stratejileri oluşturunuz.
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.

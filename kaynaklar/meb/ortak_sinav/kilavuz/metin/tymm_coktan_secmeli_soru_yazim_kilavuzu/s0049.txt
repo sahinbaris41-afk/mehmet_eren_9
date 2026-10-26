@@ -1,0 +1,32 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+49
+1-2. soruları aşağıdaki metne göre cevaplayınız.
+Bilim insanları, “deli dana hastalığı” gibi sinir sistemi hastalıklarına neden olan ve prion adı verilen 
+anormal proteinlerin yayılma yollarını araştırmaktadır. Laboratuvar ortamında yapılan çalışmalarda 
+çim, buğday gibi bazı bitkilerin kök ve yapraklarının yüzeylerinde prionları tutabildiği belirlenmiş -
+tir. Prion bulaşmış toprakta yetiştirilen bu bitkilerin yüzeylerinde hastalık etkenini bağladığı ve bu 
+bitkilerle beslenen deney hayvanlarının da bir süre sonra deli dana hastalığı belirtileri göstermeye 
+başladığı gözlemlenmiştir. Bu bulgular, prionların doğada yalnızca canlılar arasında değil çevrede de 
+bir süre varlığını sürdürebileceğini ve bu proteinlerin çevresel etmenler yoluyla da bulaşabileceğini 
+düşündürmektedir. Ancak bilim insanları, bu durumun gerçek yaşam koşullarında da aynı şekilde 
+gerçekleşip gerçekleşmediğini anlamak için daha fazla araştırmaya ihtiyaç olduğunu belirtmektedir.
+1. Aşağıdakilerden hangisi belirtilen araştırmanın temel problemini ifade eder? (KB3.2.SB1.)
+A) Prion gibi anormal protein yapıları, laboratuvar ortamında çim ve buğday gibi bitkilerin yüzeylerine 
+tutunabilir mi?
+B) Hayvanlarda görülen sinir sistemi hastalıkları, sadece organizmalar arasında doğrudan temas 
+yoluyla mı bulaşmaktadır?
+C) Çevresel etmenler ve bitkisel yapılar, prionların doğada varlığını sürdürmesinde ve canlılara geç-
+mesinde birer aracı mıdır?
+D) Laboratuvar ortamında ulaşılan bilimsel veriler, gerçek yaşam koşullarında da aynı şekilde geçerli 
+kabul edilebilir mi?
+E) Deney hayvanlarında ortaya çıkan deli dana hastalığı belirtileri, tüketilen bitkisel proteinlerin gene-
+tik yapısıyla mı ilgilidir?
+2. Bu çalışmada araştırma probleminin çözümüne yönelik olarak araştırma ekibinin ilk olarak gerçek-
+leştirmesi gereken süreç aşağıdakilerden hangisinde doğru verilmiştir? (KB3.2.SB4.)
+A) Prion bulaşma düzeyi ile hayvanlarda hastalık belirtileri arasındaki ilişkiyi test etmeye yönelik saha 
+çalışmaları planlama
+B) Laboratuvar deneylerini farklı hayvan türleri üzerinde tekrarlayarak bulguların tutarlılığını sınama
+C) Genetiği değiştirilmiş bitkiler kullanarak prion tutunma düzeyini açık alan koşullarında inceleme
+D) Yeterli kanıt elde etmeden laboratuvar bulgularını kamuoyuna risk uyarısı olarak duyurma
+E) Araştırmayı prionların laboratuvar ortamında saflaştırılması ve yapısal özelliklerinin analizine odak-
+lama

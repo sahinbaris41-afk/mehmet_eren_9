@@ -1,0 +1,54 @@
+ORTAÖĞRETİM KURUMLARI HAFTALIK DERS ÇİZELGELERİNİN UYGULANMASI İLE İLGİLİ AÇIKLAMALAR
+• Haftalık ders çizelgelerinde ortak dersler ve seçmeli dersler bölümleri yer almaktadır. Ortak dersler ortaöğretim kurumlarındaki öğrencilerin zorunlu olarak 
+alması gereken derslerdir.
+• Seçmeli derslerin kaç kez alınabileceği, dersin adının yanındaki parantez içinde belirtilmiştir.
+• Çizelgedeki seçmeli derslerin haftalık ders saati sayıları, sınıfa göre parantez içinde ve seçenekli olarak verilmiştir. Öğrenciler her sınıfta parantez içindeki 
+ders saatlerinden sadece birini seçebilirler. Örneğin seçmeli dersler bölümünde metin tahlilleri dersi (1) (2) şeklinde yer almaktadır. Öğrenciler, bu dersi ya 1 
+ya da 2 ders saati olarak seçeceklerdir.
+• Türk dili ve edebiyatı, seçmeli Türk dili ve edebiyatı; tarih ve seçmeli tarih gibi derslerin değerlendirmeleri ayrı ayrı yapılır. Bu dersler, farklı öğretmenler 
+tarafından okutulabileceği gibi aynı öğretmen tarafından da okutulabilir.
+• Seçmeli dersler öğrencinin ilgi ve istekleri ile hedefledikleri yükseköğretim programları doğrultusunda öğrenci, veli ve okul tarafından ortaklaşa 
+belirlenecektir.
+• Öğrencilerin 9 ve 10. sınıf seviyelerinde “insan, toplum ve bilim”, “din, ahlak ve değer” ile “kültür, sanat ve spor” seçmeli ders gruplarından her bir gruptan 
+en az birer ders; 11 ve 12. sınıf seviyelerinde ise “insan, toplum ve bilim”, “din, ahlak ve değer” ile “kültür, sanat ve spor” seçmeli ders gruplarının en az 
+ikisinden birer ders seçmeleri zorunludur.
+• Birinci ve ikinci yabancı dil derslerinde Bakanlar Kurulu Kararı ile öğretiminin yapılması kabul edilen yabancı diller okutulacaktır. Ortak ve seçmeli dersler 
+grubunda yer alan birinci ve ikinci yabancı dil dersleri birbirinden farklı olmak zorundadır.
+• Seçmeli derslerde gruplar oluşturulurken Millî Eğitim Bakanlığı Ortaöğretim Kurumları Yönetmeliği’nin ilgili maddesine göre işlem yapılır.
+• Öğrenciler bir alt sınıfta okudukları seçmeli dersi ve/veya saatini bir üst sınıfta değiştirebilirler. Birbirinin devamı olan derslerin seçiminde, öğrencinin 
+öğrenimini gördüğü öğretim programının bir üstü olan programın uygulanması esastır.
+• Farklı sınıf seviyelerinde seçilen aynı derslerde öğrencilerin birlikte eğitim almaları sağlanabilir.
+Öğrenciler ilgi, istek ve okulun imkânları doğrultusunda “beden eğitimi ve spor/görsel sanatlar/müzik”, “görsel sanatlar/müzik”, “beden eğitimi ve 
+spor/görsel sanatlar” veya “beden eğitimi ve spor/müzik” derslerinden sadece birini, sosyal bilimler liselerinin hazırlık sınıfında ise söz konusu derslerden 
+farklı iki dersi seçer. Öğrenciler bu derslerden alt sınıfta seçtikleri bir dersi üst sınıfda değiştirebilirler.
+• Spor eğitimi dersinde bireysel sporlardan halter, yüzme, güreş, kayak, tenis, masa tenisi, badminton, oryantiring, eskrim, bisiklet, okçuluk, judo, karate, 
+boks ve tekvando ile takım sporlarından basketbol, voleybol, futbol ve hentbol eğitimi verilir. Öğrenciler spor eğitimi dersinde bireysel veya takım sporlarının 
+alt branşlarından birini seçer.
+• Sanat eğitimi müzik, görsel sanatlar, sahne sanatları, geleneksel Türk sanatları ve müze eğitimi alanlarından oluşur. Bu alanlar kapsamında her bir alanın alt 
+modülleri ise
+• Müze Eğitimi
+• Müzik: Koro, piyano, bağlama, kaval, tar, kemane, ney, ut, kanun, keman, klarnet, gitar, flüt  
+• Görsel Sanatlar: Fotoğrafçılık, grafik tasarım, kısa film, animasyon
+• Sahne Sanatları: Tiyatro, drama, halk oyunları
+• Geleneksel Türk Sanatları: Hüsnühat, tezhip, minyatür, ebru, ahşap oymacılık ve vitraydan oluşur.
+Öğrenciler müzik, görsel sanatlar, sahne sanatları, geleneksel Türk sanatları alt alanlarından birini ya da müze eğitimini seçerler.
+• Öğrenciler “insan, toplum ve bilim” alanında yer alan “bilişim teknolojileri ve yazılım” dersinde oluşturulan modüllerden; programlamaya giriş ve algoritma, 
+robotik kodlama, programlama dilleri, mobil uygulama geliştirme, yapay zekâ uygulamaları modüllerinden birini
+seçerler.
+Programlama dilleri modülünde Java, C++, C#, Dart, PHP, JavaScript, Python dillerinden birisi seçilir.
+Programlamaya giriş ve algoritma modülü alınmadan robotik kodlama, mobil uygulama geliştirme ve programlama dilleri modülleri seçilemez. Programlama 
+dilleri modülü alınmadan yapay zekâ uygulamaları modülü seçilemez.
+Program dışı etkinlikler alanında yer alan “sosyal sorumluluk programı” kapsamında her öğrenci ders dışı zamanlarda  gerçekleştirmek üzere mezun olana 
+kadar  en az 40 saatlik sosyal sorumluluk programı görevine katılmalıdır.  Öğrencilerin bu çalışmalara katılım durumları ilgili resmî kurum/kuruluş/yetkili 
+merciler tarafından belgelendirilir ve ilgili belgeler  okul yönetimince öğrencinin  e-portfolyosuna işlenir. Sosyal sorumluluk programı kapsamında 
+yürütütülecek çalışmalar Millî Eğitim Bakanlığı Ortaöğretim Kurumları Yönetmeliği ve Millî Eğitim Bakanlığı Sosyal Sorumluluk Programı ve Hayat Boyu 
+Öğrenme/Sertifikasyon Uygulama Yönergesi'nde belirtilen usul ve esaslar doğrultusunda gerçekleştirilecektir.
+Program dışı etkinlikler alanında yer alan “Hayat Boyu Öğrenme/Sertifikasyon”  kapsamında öğrenciler gönüllü olarak Hayat Boyu Öğrenme Genel 
+Müdürlüğü, Mesleki ve Teknik Eğitim Genel Müdürlüğü ile Bilgi Teknolojileri ve İletişim Kurumu (BTK Akademi) tarafından oluşturulan uzaktan ve yüz yüze 
+eğitim modülleri içinde yer alan paket beceri setlerinden alacakları kursları belgelendirerek okul idaresine sunar. Hayat Boyu Öğrenme/Sertifikasyonla ilgili  
+öğrencilere yönelik planlama okul yönetimi tarafından yapılır ve ilgili belgeler  okul yönetimince öğrencinin e-portfolyosuna işlenir.
+Ders saatlerinin mevcut öğretim programlarında belirtilen ders saatinden az veya fazla olması hâlinde derslere ait öğretim programlarının amaç ve 
+açıklamaları dikkate alınarak mevcut programlar doğrultusunda zümre öğretmenler kurulunca hazırlanacak programlar uygulanır.
+• Öğretim programı olmayan seçmeli derslerde -varsa- ilgili derslere ait öğretim programlarının amaç ve açıklamaları da dikkate alınarak zümre öğretmenler 
+kurulunca hazırlanacak programlar uygulanır.
+• Ortaöğretim kurumlarının tamamında yılsonu başarı ortalaması ile başarılı sayılamayacak ders “Türk dili ve edebiyatı” dersidir.

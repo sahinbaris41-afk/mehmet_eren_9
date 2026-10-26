@@ -1,0 +1,39 @@
+26
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+COĞ.9.3.2 
+İklim sisteminin bileşenleri (atmosfer, hidrosfer, litosfer, biyosfer ve kriyosfer) coğrafi 
+temsiller incelenerek belirlenir. Bu süreçte soru-cevap tekniği kullanılabilir. İklim sistemi-
+nin bileşenlerinden olan atmosferin iklim sistemiyle olan ilişkisi, örnek görseller üzerinden 
+tespit edilir (OB4). Etkileri günlük hayatta hissedilen iklim sistemine ait değişkenlerin (sı-
+caklık, basınç ve rüzgâr, nem ve yağış) dünya ve Türkiye’deki dağılışı, coğrafi temsiller ince-
+lenerek sistematik bir şekilde belirlenir (SBAB10.2). Bu dağılış üzerinde etkili olan faktörler 
+(enlem, eksen eğikliği, dönme ve dolanma hareketleri, büyük su kütlelerine uzaklık, okya-
+nus akıntıları ve atmosfer dolaşımı, topoğrafya vb.) ve iklim sistemine ait değişkenler ara-
+sındaki ilişki belirlenir. Bu ilişkinin belirlenmesinde iklim modellemeleri, simülasyonlar gibi 
+dijital uygulamalardan yararlanılabilir. Örneğin Dünya’nın şekli ve hareketlerinin (geoit şe-
+kil, eksen eğikliği, dönme ve dolanma hareketleri vb.) sonuçları bu uygulamalarla yorum -
+lanabilir. Bu süreçte küresel basınç modeli, genel atmosfer dolaşımında rüzgârlar (sürekli 
+ve devirli rüzgârlar, Türkiye’deki yerel rüzgârlar vb.) ile bunların etkileri metin ve coğrafi 
+temsiller üzerinden incelenir. Yağış oluşum türlerine (yamaç, cephe ve yükselim) ilişkin 
+paylaşım yapılarak öğrencilerden bilgi görseli hazırlamaları istenebilir (SDB2.1, SDB2.2, 
+E3.7, OB2, OB4, OB7). Çözümlemelerden elde edilen bilgilerden yararlanılarak doğayla 
+uyumlu yaşamak için neler yapılması gerektiğine ilişkin tartışma yapılabilir (D5.2, D14.3). 
+Ayrıca kentsel ısı adasının etkilerinin azaltılmasına yönelik öğrencilerin görüşleri alınarak 
+ortaya çıkan çözüm önerilerinin birey ve toplum yararına kullanılması sağlanabilir. Öğren-
+cilerden başlangıçta belirlenen öğrenme çıktılarına ulaşma düzeyleriyle ilgili öz değerlen-
+dirme yapmaları istenebilir (SDB1.1, SDB1.2, SDB2.1, SDB2.3). Öğrenmeler, açık uçlu soru-
+larla değerlendirilebilir.
+COĞ.9.3.3 
+Türkiye ve dünyada görülen iklim türlerinin incelenebilmesi amacıyla oluşturulacak tablo, 
+grafik, şekil ve/veya diyagramlar belirlenir (E3.4). Öğrencilere coğrafi temsillerin oluştu-
+rulması sürecinde hedef belirleme ve süreci yönetmede izlenecek işlem basamaklarına 
+ilişkin kontrol listesi verilebilir (D3.3). Farklı iklimlere ait sıcaklık ve yağış verilerinin karşı-
+laştırılabilmesi için gerekli coğrafi temsiller (iklim haritaları, tablo, grafik vb.) tespit edilir. 
+Bu kapsamda Türkiye ve dünyanın farklı iklim özelliklerine sahip yerlerinden iklim verileri 
+toplanır. Toplanan iklim verileri, kullanım amacı ve gerçekleştirilecek çıkarımlar doğrultu-
+sunda tasnif edilerek kullanıma hazır hâle getirilir (MAB4). Düzenlenen iklim verilerinden 
+hareketle söz konusu bölgelere ait sıcaklık ve yağış grafikleri hazırlanarak görselleştirilir 
+(OB7). Oluşturulan görseller kullanılarak Türkiye ve dünyanın farklı yerlerinde görülen ik -
+lim türleri incelenir. Bu doğrultuda dijital küreden de yararlanılarak çıkarımlarda bulunulur 
+(SBAB10.3). Çalışmaya ait kontrol listeleri incelenir ve incelemenin sonuçlarına ilişkin öğ-
+rencilere geri bildirim verilebilir (SDB1.2).

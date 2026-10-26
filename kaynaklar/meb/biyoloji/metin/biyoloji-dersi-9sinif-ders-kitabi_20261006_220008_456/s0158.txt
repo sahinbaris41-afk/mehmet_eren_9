@@ -1,0 +1,34 @@
+158
+Tema Ölçme ve Değerlendirme Soruları
+Daha fazla ölçme ve 
+değerlendirme sorusuna 
+ulaşmak için karekodu 
+okutunuz.
+Yönerge: Aşağıdaki metinden yararlanarak 21 ve 22. soruyu cevaplayınız.
+Bir grup biyolog, Kaçkar Dağları Millî Parkı’nda kapsamlı bir biyoçeşitlilik envanter 
+çalışması yürütmektedir. Araştırma ekibi, saha çalışmaları sırasında iki farklı istas -
+yonda şu verileri kaydetmiştir:
+• 1. İstasyon: Aynı yükseltideki farklı göletlerde yaşayan Kafkas Semenderi po -
+pülasyonları incelenmiş; bazı bireylerin sırt desenlerinin benekli, bazılarının ise 
+çizgili olduğu tespit edilmiştir. Bu kalıtsal farklılıkların popülasyonun çevreye 
+uyum yeteneğini artırdığı not edilmiştir.
+• 2. İstasyon: Bölgeye özgü (endemik) olan Nergis çiçekli dağ lalesi (Anemone 
+narcissiflora) bitkisinin yanı sıra yaban keçisi ve huş tavuğu gibi farklı türlere ait 
+popülasyonların aynı yaşam alanını paylaştığı belirlenmiştir.
+Araştırma ekibi, elde edilen bu ham verileri "Ulusal Biyolojik Çeşitlilik Veritabanı" 
+standartlarına uygun bir kayıt formuna aktarmakla görevlendirilmiştir.
+21. Araştırma ekibinin 2. İstasyon’da endemik bir bitki türü ile yaban keçisi ve huş tavuğu popülasyon-
+larını bir arada tespit etmesi, biyoçeşitliliği oluşturan unsurlardan hangisi için doğrudan bir kanıt 
+oluşturur?
+A) Tür içindeki genetik varyasyon miktarının yüksek olması
+B) Belirli bir coğrafi alandaki tür zenginliğinin mevcudiyeti
+C) Birbirinden farklı fiziksel koşullara sahip ekosistemlerin birleşmesi
+D) Canlıların çevresel değişimlere karşı hayatta kalma başarısının artması
+E) Ekosistemler arası madde ve enerji akışının süreklilik kazanması
+22. Araştırma ekibinin 1. İstasyon’da Kafkas Semenderi bireyleri arasında gözlemlediği sırt desenlerin-
+deki farklılıklar, saha kayıt formunda hangi kategoriye dahil edilmelidir?
+A) Ekosistem Çeşitliliği: Yaşam alanlarının fiziksel ve iklimsel farklılıkları
+B) Tür Çeşitliliği: Belirli bir bölgede bulunan farklı canlı türlerinin listesi
+C) Genetik Çeşitlilik: Aynı türe ait bireyler arasındaki kalıtsal varyasyonlar
+D) Taksonomik Çeşitlilik: Canlıların biyolojik sınıflandırma basamaklarındaki yeri
+E) Fonksiyonel Çeşitlilik: Canlıların ekosistem içindeki nişleri ve beslenme rolleri

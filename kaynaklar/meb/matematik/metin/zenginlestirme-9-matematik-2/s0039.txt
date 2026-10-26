@@ -1,0 +1,41 @@
+MATEMATİK 9 
+38 39
+Etkinliğin Amacı Homoteti dönüşümünün benzerlikle ilşkisini keşfedebilme
+Zenginleştirme 
+Uygulaması
+* Öğrenilen geometrik dönüşümlerden farklı geometrik dönüşümler olup 
+olamayacağı sorularak özellikle homoteti dönüşümünün incelenmesi istenir. 
+Geometrik dönüşümlerin eşlikle ilişkisinden yararlanılarak homoteti dönüşü-
+münün benzerlikle ilişkisi kurulur.
+Araç Gereç ve 
+Materyaller
+• Cetvel
+• Bilgisayar veya tablet
+• Genel Ağ bağlantısı
+• Matematik yazılımı (Genel ağ sürümü veya masaüstü sürümü)
+• Kâğıt
+Yönerge Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz. Etkin-lik sonunda “Öz Değerlendirme Formu”nu doldurunuz.
+1. ETKINLIK Homoteti Dönüşümü İle Benzerllik
+1. Adım
+2. Adım
+Öğrendiğiniz geometrik dönüşümler dışında, farklı geometrik dönüşümler olup olamayacağını 
+düşününüz. Yeni bir geometrik dönüşüm tanımlayabilir misiniz? Tanımlayacağınız bu dönüşümün 
+özelliklerini açıklayınız.
+Aşağıdaki şekilleri inceleyiniz. Öğrendiğiniz geometrik dönüşümler dışında farklı bir geometrik 
+dönüşümü şekillere tanımlayınız ve bu dönüşümün şekiller üzerindeki etkilerini açıklayınız.
+F
+O O
+A
+A
+A
+C
+C
+A'
+A' A'
+B
+B B
+B'
+B'
+B'
+C' C'
+Yıldızlı  Etkinlik 

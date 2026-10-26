@@ -1,0 +1,39 @@
+158
+3. ÜNİTE 
+Günlük hayatta Pascal Yasası’ndan yararlanarak çalışan birçok sistem veya 
+alet kullanılmaktadır. Bu sistem veya aletlerden bazıları şu şekilde sıralanabilir:
+Sıkıştırma Sistemleri
+Hidrolik fren, hidrolik pres, 
+otomobillerin hidrolik 
+direksiyonu vb.
+Taşıma Sistemleri
+Hidrolik lift, vinç, itfaiye 
+merdiveni, kepçeler, 
+damperli kamyon vb.
+Basınç Ölçmek İçin 
+Kullanılan Araçlar
+Barometre, altimetre, 
+batimetre, manometre vb.
+Tulumba, yağ pompası, 
+kimyasal ilaç pompası vb. 
+Diğer Sistemler
+1 2
+3 4
+Basınç 
+İlkesinden 
+Yararlanarak 
+Çalışan 
+Sistemler veya 
+Aletler
+Örnek
+Aşağıdaki görselde tamirhanelerde araçların kaldırılması için kullanılan bir araç kaldırma lifti verilmiştir.
+Hidrolik liftlerin çalışma ilkesini Pascal Yasası’ndan yararlanarak kısaca açıklayınız.
+Çözüm
+A2
+A1
+F1
+F2
+Hidrolik liftin çalışma ilkesi şu şekilde açıklanabilir: Su cenderesi sistemlerinde küçük piston üzerine uy-
+gulanan kuvvetin (F 1) oluşturduğu basınç sıvı tarafından büyük pistona aynen iletilir. Bu basınç küçük 
+olsa da arabanın üzerinde bulunduğu pistonun kesit alanı daha büyük olduğu için araba büyük bir kuvvet 
+(F2) ile yukarı doğru itilir. Bu sayede küçük kuvvet büyük kuvvete dönüşür ve araba kaldırılır.

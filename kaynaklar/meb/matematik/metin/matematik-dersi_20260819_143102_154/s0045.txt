@@ -1,0 +1,51 @@
+45
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile  değerlendiri -
+lebilir.
+Matematik dersini fizik, kimya ve biyoloji dersleriyle ilişkilendirmek için bu derslerdeki bi -
+limsel gösterimlerin kullanımına yönelik araştırma ödevi verilebilir.  Bu ödevin değerlen -
+dirilebilmesi için hazırlama, içerik ve sunum süreçlerini içine alan  derecelendirme ölçeği  
+kullanılabilir.
+Gerçek sayıların üslü ve köklü gösterimlerinin, gerçek sayı aralıklarının ve bunlarla yapılan 
+işlemlerin farklı matematiksel bağlamlarda ele alındığı performans görevi verilebilir. Bu 
+performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin 
+kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir.
+Farklı sayı kümelerinin özellikleri ve aralarındaki ilişkilere dair çalışma kâğıdı verilebilir.
+Cebirsel özdeşliklerin kullanımına yönelik sorulardan oluşan çalışma kâğıdı, bütüncül de -
+receli puanlama anahtarı ile değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin ondalık  gösterim ile verilen sayılarla toplama, çıkarma, çarpma ve bölme 
+işlemleri yapabildiği; ondalık gösterimlerin basamak değerlerini belirleyebildiği; onda -
+lık gösterimlerle ve tabanı rasyonel sayı, kuvveti tam sayı olan üslü gösterimleri verilen 
+sayılarla işlemler yapabildiği; irrasyonel sayıları bildiği, bir irrasyonel sayının elemanı 
+olduğu gerçek sayı aralıklarını belirleyebildiği kabul edilmektedir. Ayrıca gerçek sayı 
+aralıklarını sayı doğrusu üzerinde gösterebildiği; pozitif bir gerçek sayının karekökü -
+nün rasyonel sayı olup olmadığını belirleyebildiği; rasyonel sayılarda toplama ve çarp -
+ma işlemlerinin değişme, birleşme, birim eleman, yutan eleman özellikleri ile çarpma 
+işleminin toplama ve çıkarma işlemleri üzerine dağılma özelliğini bildiği ve cebirsel ifa -
+deleri belirleyip bunlarla işlemler yapabildiği kabul edilmektedir.
+Ön Değerlendirme Süreci Ondalık, üslü ve köklü gösterimlerin anlamlarına, ondalık gösterimlerde basamak değer -
+lerinin belirlenmesine ve ondalık gösterimlerle işlem yapmaya yönelik bilgi ve beceri dü -
+zeylerini ortaya çıkaran çalışmalara yer verilebilir. Taban ve üs kavramları ile ilgili bilgilerin 
+sorgulanmasına, tabanı rasyonel sayı ve kuvveti tam sayı olan bir sayının kuvvetinin nasıl 
+alındığına yönelik açık uçlu sorular sorulabilir.
+Öğrencilerden verilen gerçek sayı aralıklarını sayı doğrusunda göstermeleri istenebilir. 
+Buradan yola çıkılarak sayı doğrusunda yer alan noktaların ve gerçek sayı aralıklarının neyi 
+temsil ettiğine [(0, 5) nın 0 < x < 5, [-5, 10) nın -5≤ x < 10, (-∞, ∞) nın tüm gerçek sayıları 
+temsil etmesi gibi] yönelik sorular sorularak öğrencilerin bu konular hakkındaki temel bil-
+gileri değerlendirilebilir. Bununla birlikte irrasyonel bir sayının sayı doğrusundaki yaklaşık 
+yerinin gösterilmesi istenebilir.
+Genellemeler • Gerçek sayılar ve gerçek sayı aralıkları, sayı doğrusu ile temsil edilebilir.
+• Bir gerçek sayıya karşılık gelen nicelik, farklı şekillerde (ondalık, üslü, köklü gibi) gösterilebilir.
+Anahtar Kavramlar alt küme, ancak ve ancak, aralık, bazı, bilimsel gösterim, birleşim işlemi, boş küme, eşitsizlik, eşlenik, 
+evrensel küme, fark işlemi, her, ise, ispat, kapalılık, kesişim işlemi, köklü gösterim, küme, kümenin ele-
+manı, mutlak değer, önerme, önermenin değili, özdeşlik, sayı kümesi, tümleme, üslü gösterim,  ve, 
+veya, ya da
+Sembol ve Gösterimler ∈, ∉, ∅, ⋂, ⋃ , \, ⊆ , s(A), {x1, x2, x3, ..., xn}, {x|x in sahip olduğu tanımlayıcı özellikler},  xn, x , 
+<, ≤ , >, ≥ ,  |a|, ∧, ∨, ∨, ⇒, ⇔, ∀, ∃, (a, b), (a, b], [a, b), [a, b], ℕ, ℤ, ℚ, ℚ', ℝ 
+n

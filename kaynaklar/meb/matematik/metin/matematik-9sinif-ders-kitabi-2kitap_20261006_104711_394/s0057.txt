@@ -1,0 +1,79 @@
+57
+4. Tema / Eşlik ve Benzerlik
+17. ÖRNEK
+Yandaki	ABC	üçgeninde	DB C! 7A ,	 CEA! 7A ,	 BE AD F+ =77 AA # - ,	
+BD DC2 = 	ve	 AE EC= 	olduğuna	göre
+a) 
+FE
+BF
+	oranını	bulunuz.
+b) 
+FD
+AF
+	oranını	bulunuz.
+Çözüm
+a) ADC	üçgeninde	E	noktasından	DC	kenarına	 EK7A 	paraleli	çizilirse	
+AKE ADC+&& 	ve	EKF BDF+&& 	olur	(A.A.).	 BD DC p22 == 	alınırsa	
+AKE ADC+&& 	olduğundan	
+AC
+AE
+DC
+EK EK
+EKp p21 2&&== = 	olur.	
+FKE FDB+&& 	olduğundan	
+FE
+BF
+FE
+BF
+p
+p
+1&== 	bulunur.
+b) EKF BDF+&& 	olduğundan	
+FD
+KF
+KF FDp
+p
+&== 	olur.	 KF FD n== 	alınsın.	AKE ADC+&&  
+olduğundan	
+AD
+AK
+AK ADp
+p
+2 2&== 	olur.	Buradan	 AK KD n 2== 	ve	 FD
+AF
+n
+n 3 3== 	bulunur.
+A
+B
+E
+F
+D C
+12. Sıra Sizde      
+1. Yandaki ABC üçgeninde DA BA CA BB C! E, ! , =77 77AA AA , AE EC=  ve 
+AD BD BC263 ==  olduğuna göre ADE m x=`j%  in kaç derece olduğu-
+nu bulunuz.
+2 . Yandaki ABC üçgeninde DA C ABD DBC! , mm =`` j j7A %% , AD DC2 =  
+ve BC x birim 6=  olduğuna göre AB  nun x türünden eşitinin kaç 
+birim olduğunu bulunuz.
+A
+D
+x
+B C
+E
+A
+BC 6x
+D
+A
+B p
+n
+n
+2p
+K E
+F
+D C
+p
+2n
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.

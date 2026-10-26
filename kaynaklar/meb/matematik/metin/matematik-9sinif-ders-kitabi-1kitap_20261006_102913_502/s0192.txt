@@ -1,0 +1,46 @@
+192
+3. Tema /  Geometrik Şekiller
+1.  Aşağıdaki şekilde ABC üçgen, MLC eşkenar 
+üçgen, LKB C'77 AA  olarak veriliyor.
+ AMAKL KAM Lmm m==`` `jj j%% %  ve K, L, M 
+noktaları ABC üçgeninin kenarları üzerindedir.
+A
+B C
+LK
+M
+ Buna	göre 	 LMA m`j%  nün	kaç 	 derece 	 oldu-
+ğunu	bulunuz.
+2.  Aşağıdaki şekilde ECF üçgen, E, CA B! 7 A , 
+FC D! 7A , EFDm1 60o=`j%  ve 
+ AEFE CFmm56 =`` j j%%  dür.
+160o
+A
+E
+C
+B
+F
+D
+	 Buna 	göre	 FCB m` j% 	nün	kaç	derece	olduğu-
+nu	bulunuz. 
+ Alıştırmalar
+Mustafa Kemal Atatürk’ün yazdığı Geometri adlı ki-
+tap, Türkiye’deki geometri öğretiminin kilometre taş-
+larından biridir. 3 bölümden oluşan 44 sayfalık bu ki-
+tapta birçok geometrik kavram tanıtılmıştır. Atatürk, 
+bu önemli eserinde Arapça ve Farsça kökenli geometri 
+terimleri yerine çoğu günümüzde kullanılmaya devam 
+eden Türkçe geometri terimleri üretmiştir. Bu terimle -
+rin bazıları içinse günümüzde farklı kullanımlar söz ko-
+nusudur [zâviyetân­ı mütevâfıkatân yerine yöndeş açı, 
+re’sen mütekabil zâviye yerine ters açı, kaim zaviyeli 
+müselles yerine dikey üçgen (günümüzde dik üçgen), 
+müselles­i mütesâviyü’l ­adlâ yerine eşkenar üçgen, 
+müselles­i mütesâviyü’ssâkeyn yerine ikizkenar üçgen 
+gibi]. Türk milletini muasır medeniyet seviyesine ulaş-
+tırmayı temel gayesi edinen Mustafa Kemal Atatürk, bu 
+çalışmasıyla zaviyetan­ı mütekabiletan­ı dahiletan (iç ters açılar) gibi terimlere dönülmemesini ve dünyada kabul 
+gören çağdaş eğitim literatürüyle uyumlu bir eğitim sisteminin hayata geçirilmesini hedeflemiştir.
+Atatürk ve Geometri
+Matematik	Tarihinden	Notlar
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.

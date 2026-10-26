@@ -1,0 +1,16 @@
+58 59
+COĞRAFYA 9 
+“Navigasyon” simgesinin üzerinde yer alan “+” ve “-” işaretlerine tıklayarak haritanızın ölçeğini 
+ayarlayınız. 
+📌
+Üst kısımda yer alan “Dosya” sekmesine ve ardından sekmenin altında açılan “Ekran Sakla” buto-
+nuna tıklayınız.
+📌
+Haritanızın üç boyutlu görüntüsünü oluşturmak için navigasyon sekmesinde “3B” kısmına 
+tıklayınız.
+📌
+Açılan “Resim Sakla” kutusunun alt kısmındaki “Dosya adı” bölümüne dosyanızın adını yazıp “Kay-
+det” butonuna tıklayınız. Haritanız bilgisayarınıza kaydedilmiş olacaktır.
+📌
+2
+Uygulamada üç boyutlu harita oluşturmak ve ölçek değeri belirlemek için

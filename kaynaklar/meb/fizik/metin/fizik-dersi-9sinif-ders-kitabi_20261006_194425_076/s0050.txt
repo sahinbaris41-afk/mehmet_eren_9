@@ -1,0 +1,55 @@
+50
+2.1.  TEMEL VE TÜRETİLMİŞ 
+NİCELİKLER
+2.2. SKALER VE VEKTÖREL 
+NİCELİKLER
+2.3. VEKTÖRLER
+2.4. DOĞADAKİ TEMEL 
+KUVVETLER
+2.5. HAREKET VE HAREKET 
+TÜRLERİ
+ ► Anahtar Kavramlar
+ ● temel nicelik
+ ● türetilmiş nicelik
+ ● skaler nicelik
+ ● vektörel nicelik
+ ● bileşke vektör
+ ● kuvvet
+ ● referans noktası
+ ● konum
+ ● alınan yol
+ ● yer değiştirme
+ ● sürat
+ ● anlık sürat
+ ● ortalama sürat
+ ● hız
+ ● anlık hız
+ ● ortalama hız
+ ● ivme
+ ● öteleme hareketi
+ ● dönme hareketi
+ ● titreşim hareketi
+ ► Bu ünitede sizlerden
+ ● fizik bilimindeki temel ve türetilmiş nicelikleri sını/f_landırmanız , skaler 
+ve vektörel nicelikleri karşılaştırmanız,
+ ● vektörlerin toplanmasında ve bileşenlerine ayrılmasında kullanıl an 
+yöntemleri uygulamanız,
+ ● doğadaki temel kuvvetlerin özelliklerini karşılaştırmanız, 
+ ● hareketin temel kavramlarıyla ilgili akıl yürütmeniz ve hareketi 
+türlerine göre sını/f_landırmanız
+ beklenmektedir.
+KUVVET VE KUVVET VE 
+HAREKETHAREKET2.  2.  ÜNİTEÜNİTE
+Ünite sürecinde sizlerden 
+yapılandırılmış gridde 
+ve çalışma yapraklarında 
+verilen soruları çözme­
+niz; çıkış kartı, broşür 
+hazırlamanız, öz ve akran 
+değerlendirme formlarını 
+doldurmanız, performans 
+görevi gerçekleştirmeniz, 
+bülten panosu hazırlama­
+nız ve ünite sonundaki 
+bağlam temelli soruları 
+çözmeniz istenecektir.

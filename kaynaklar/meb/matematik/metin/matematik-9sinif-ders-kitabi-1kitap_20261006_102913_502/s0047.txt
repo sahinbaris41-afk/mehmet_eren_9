@@ -1,0 +1,36 @@
+47
+1. Tema /  Sayılar
+Gerçek Sayı Aralıkları ile Yapılan İşlemler
+Dilan Hanım cumartesi günü Kerem’i resim, Sıla’yı aynı binada bulunan bale kursuna götürecektir. Dilan Hanım 
+evden çocuklarıyla birlikte çıkacak, kurslar bitene kadar onları bekleyecek, çocuklarıyla birlikte eve dönecektir. 
+Resim kursu saat 10.00’da başlayıp 14.00’te bitmektedir. Bale kursu saat 11.00’de başlayıp 13.00’te bitmektedir.
+Buna göre aşağıda belirtilen zaman aralıklarının sayı doğrusu üzerinde, aralıkla ve cebirsel temsillerle gösterimi -
+ni içeren tablodaki boşlukları uygun ifadelerle doldurunuz.
+a)  Kursların devam ettiği zaman aralığı.
+b)  Hem resim hem de bale kursunun aynı anda olduğu zaman aralığı.
+c)  Çocuklarını r esim ve bale kursuna götüren Dilan Hanım’ın çocuklarını beklediği zaman aralığı.
+ç)  Dilan Hanım’ın Sıla ile birlikte Kerem’i beklediği zaman aralığ ı.
+d)  Cumartesi günü Kerem’in resim kursunda olmadığı zaman aralığı.
+. Zaman Aralığının Küme 
+Gösterimi Sayı Doğrusu Gösterimi AralıkGösterimi Cebirsel Temsilx R!_i
+ a)  A kümesi 
+     (Resim Kursu) 10 14 10, 14i8 10 x1 41#
+      B kümesi 
+     (Bale Kursu)
+ b) AB+  
+AB+
+11 13
+10 14
+11 13
+A
+B
+ c) AB,  
+ ç) AB=
+10 11 13 14
+10 14
+11 13
+A
+B
+AB=
+ d) Al 0, 10 14, 24,ii88
+14.	Uygulama

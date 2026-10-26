@@ -1,0 +1,54 @@
+166
+2. Tema/Ölçme ve Değerlendirme
+Bir kırtasiye, fotokopi makinesi kiralayacaktır. 
+2 tane fotokopi makinesi, istediği ölçütlere uy-
+gundur. Bu makinelerin çalışma süresine (dk.) 
+bağlı olarak elektrik maliyeti ve sabit depozito 
+bedeli (TL) bilgileri Tablo 1’de verilmiştir.
+Tablo 1  
+Fotokopi	
+Makinesinin
+Markası
+Sabit	Kiralama
+Depozito	
+Bedeli	(TL)
+Çalışma	Süresine	
+(dk.)	Bağlı	Olarak	
+Elektrik	Maliyeti	
+(TL)
+A 5000 0,25
+B 4000 0,65
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)		A	 ve 	 B 	 makinelerinin 	 çalışma 	 süresine 	
+(dk.)	bağlı 	toplam 	maliyetlerini 	(TL) 	ifade	
+eden	fonksiyonları	yazınız.
+b)	 Elde	 ettiğiniz 	 fonksiyonlardan 	 yararlana-
+rak	T ablo 	2 ʼde 	verilen 	çalışma 	sürelerine	
+göre	 A	 ve 	 B 	 fotokopi 	 makinelerinin 	 top-
+lam	maliyetlerini 	bularak 	T ablo 	2ʼyi 	uygun	
+şekilde	doldurunuz.
+Tablo 2 
+Çalışma
+Süresi	(dk.) 1000 1500 2000 2500 3000
+A	 Makinesinin
+Toplam
+Maliyeti	(TL)
+B	Makinesinin
+Toplam
+Maliyeti	(TL)
+14. c)	 A	 ve 	 B 	 makinelerine 	 ait 	 toplam 	 maliyet 	
+fonksiyonlarının 	 grafiklerini 	 dik 	 koor-
+dinat 	sisteminde 	çiziniz.
+ç)		 A 	ve 	B 	makinelerinin 	toplam 	maliyetleri-
+nin	kaç 	dakikalık 	çalışma 	süresi 	sonunda	
+ve	kaç 	Türk 	lirasında 	eşitleneceğini 	gra-
+fik	gösteriminden	yararlanarak	bulunuz.
+d)		A	ve 	B 	makinelerinin 	toplam 	maliyetleri-
+nin	kaç 	dakikalık 	çalışma 	süresi 	sonun-
+da	eşitleneceğini 	cebirsel 	çözüm 	yapa-
+rak	bulunuz.
+e)		A	ve 	B 	makinelerine 	ait 	1000, 	1500, 	2000, 	
+2500	 ve 	 3000 	 dakikalık 	 çalışma 	 süresi 	
+sonundaki	 toplam 	 maliyetleri 	 karşılaş-
+tırarak	hangi 	makinenin 	daha 	ekonomik 	
+olduğunu	belirleyiniz.

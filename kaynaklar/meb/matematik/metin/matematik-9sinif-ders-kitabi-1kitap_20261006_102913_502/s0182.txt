@@ -1,0 +1,91 @@
+182
+3. Tema /  Geometrik Şekiller
+6. ÖRNEK
+A
+x
+B C
+E
+F
+D
+Yandaki şekilde FBD üçgen, ABC eşkenar üçgen, 
+EF DA C+= 77 AA# -  ve EC CD=  olduğuna göre mA FE x=`j%  
+değerinin kaç derece olduğunu bulunuz. 
+Çözüm
+7. ÖRNEK
+Şekilde  A, B ve C ile gösterilen üç farklı yerleşim yerinin 
+kuş bakışı görünüşü ile bir uçağın uçuş rotası verilmekte -
+dir. A, B ve C noktaları bir üçgenin köşelerini belirtmektedir.              
+PR doğrusu ise uçağın uçuş rotasını temsil etmektedir. Uçak 
+rotasında ilerlerken üç yerleşim yerine de eşit uzaklıktaki bir 
+T noktasına geldiğinde pilot, uçağın rotası ile yerleşim yer-
+lerinin konumlarını karşılaştıran ekranda aşağıdaki bilgileri 
+gözlemlemiştir.
+Buna göre AB ve AC doğru parçaları arasındaki açının ölçüsünün kaç derece olduğunu bulunuz.
+Çözüm
+A, B, C noktaları T ile birleştirilirse ABTT CT==  olur.
+BTRm2 0o=`j% , TRAm0 8 o=`j%  ve TRCm1 30o=`j%  dir.
+CTAm0 01308 5oo o=- =`j%  ve AT CT=  olduğun -
+dan TTACC Amm6 5o==`` jj%%  olur.
+ATBm0 080 26oo o=-=`j%  ve AT T B=  olduğundan 
+TA TABBmm6 0o==`` jj%%  olur.
+AB ve AC doğru parçaları arasındaki açının ölçüsü 
+BACm0 66 51 25oo o=+=`j%  bulunur.
+A
+B
+R
+T
+P
+C
+R
+80o
+T
+P
+A
+B
+C
+20o
+R
+T
+P
+R
+130oT
+P
+A
+B C
+60o
+60o
+20o
+60o
+65o
+65o
+50o
+R
+T P
+ABC eşkenar üçgeninde 
+mmm CAB 60o== =__ _ii iWW X  dir.
+ECD ikizkenar üçgeninde 
+mE CD 1806 01 20oo o=- =`j%  ve 
+mC DE mC ED 0 3o==`` jj%%  olur. 
+FBD üçgeninde
+xm FBD m FDB
+oo o
+=+
+.x bulunur60 30 90=+=
+`` jj%%
+ 
+Eşkenar üçgenin iç açıla -
+rının ölçüsü birbirine eşit 
+ve 60o dir.
+A
+B
+C
+A
+x
+B C
+E
+F
+D
+30o
+30o
+60o
+60o 60o

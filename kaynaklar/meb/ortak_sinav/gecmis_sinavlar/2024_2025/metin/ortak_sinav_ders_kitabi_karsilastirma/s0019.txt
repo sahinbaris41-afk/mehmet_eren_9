@@ -1,0 +1,107 @@
+Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü
+9. SINIF ORTAK SINAV (SABAH OTURUMU) - MATEMATİK
+Öğrenme Çıktısı : 9.5.4. Tales, Öklid ve Pisagor teoremlerini ispatlayabilme
+ 
+1
+T.C.
+MİLLÎ EĞİTİM BAKANLIĞI
+ÖLÇME, DEĞERLENDİRME VE SINAV HİZMETLERİ GENEL MÜDÜRLÜĞÜ
+2024-2025 EĞİTİM VE ÖĞRETİM YILI
+II. DÖNEM I. YAZILI SINAVI (ÜLKE GENELİ ORTAK)
+MATEMATİK
+9. SINIF
+ÖĞRENCİLERİN DİKKATİNE!
+1.	 Bu	soru	kitapçığında	7	soru	bulunmaktadır	ve	sınav	süresi	40	dakikadır.
+2.	 Cevaplarınızı,	soruların	altında	boş	bırakılan	yerlere	yazınız.	
+3.	 Sınav	 100	tam	puan	üzerinden	değerlendirilecektir.	1.	soru	10	puan;	2,	3,	4,	5,	6	ve	7.	sorular	15	puan	
+değerindedir.
+Adı	ve	Soyadı	 :	............................................................................
+Sınıfı	/	Şubesi	 : 	............................................................................
+Öğrenci	Numarası	 : 	............................................................................
+Aldığı	Puan
+SABAH
+OTURUMU
+1. Birim	kareli	zemin	üzerinde;	bir	şekil,	d	doğrusu	ve	A,	B,	C,	D,	E,	F,	G	noktaları	verilmiştir.
+G
+C
+B
+A
+d
+F
+E D
+Şeklin d doğrusuna göre yansıma dönüşümü altındaki görüntüsünü çizerek bu noktalardan 
+hangilerinin oluşan görüntünün iç bölgesinde kalacağını bulunuz. (10 puan)
+2. Dik	kenar	uzunlukları	30	m	ve	40	m	olan	dik	üçgen	şeklindeki	bahçe	aşağıda	modellenmiştir.	Bu	bah-
+çenin	B	köşesinden	[AC]	kenarına	D	noktasında	dik	olacak	şekilde	bir	yol	yapılmıştır.
+B 30
+A
+D
+40
+C
+Buna göre, bu yolu ifade eden |BD| nun kaç metre olduğunu işlemlerinizi göstererek bulunuz. 
+(15 puan)
+67
+4. Tema / Eşlik ve Benzerlik
+24. ÖRNEK
+Yandaki	görselde	yer	alan	evin	çatısı	üçgen	şek-
+linde	tasarlanmıştır.	ABC	üçgeninde	 ,BA CA=77 AA  
+AD BC=77 AA ,	 ,,BD mD Cm18 5== 	olarak	veril-
+miştir.
+Buna	göre	
+a) AD	nun	kaç	m	olduğunu	bulunuz.
+b) AB	nun	yaklaşık	değerini	bulunuz.
+c) AC	nun	kaç	m	olduğunu	bulunuz.	
+Çözüm
+a)  ABC	üçgeninde	Öklid	teoreminden	 AD hm etre=  
+olmak	üzere	 AD BD DC2 $= 	olduğundan
+,hh h m18 59 9322 &&$== ==_i  
+olarak	bulunur.
+b)   ABC	üçgeninde	
+,m ABD mA BC mB AD mA CD==`` ``jj jj%% %% 	ve
+m BAC mA DB=`` jj%% 	olduğundan	DBA ABC+&&  dir	
+(A.A.).	
+Buradan	 .
+BC
+AB
+AB
+BD
+AC
+AD
+olur==
+.
+BC
+AB
+AB
+BD
+oldu undan AB BD BC olurğ 2 $==
+ AB BD BC AB ,, AB ,A B, m18 68 12 24 3522 2&& &$$ .== =__ ii 	bulunur.
+c)  ABC	üçgeninde
+ ,m ABC mD AC m BAC mA DC==`` ``jj j j%% %% 	ve
+mA CB mA CD=`` j j%% 	olduğundan	DACA BC+&& 	dir
+(A.A.).	
+Buradan	 .
+CB
+AC
+AC
+CD
+AB
+AD
+olur==
+.
+CB
+AC
+AC
+CD
+oldu undanA CC DC Bo lurğ $== 2  
+,AC AC AC m56 83 43 4&&$== =22 _i 	olarak	bulunur.
+AA
+BB DD CC
+A
+B CD
+A
+B CD
+A
+B CD
+h
+4.Tema_13.07.2024.indd   674.Tema_13.07.2024.indd   67 17.07.2024   18:4717.07.2024   18:47
+Ders Kitabı (MEB) Sayfa 67

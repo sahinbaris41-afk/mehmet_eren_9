@@ -1,0 +1,48 @@
+87
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+kullanılabilir. Öğretmen enerji dönüşümleri ile ilgili farklı soru tiplerinden oluşan bir ça-
+lışma yaprağı ile öğrencileri değerlendirebilir. Öğrenciler verim konusu ile ilgili yaptıkları 
+tasarımları akran değerlendirme formu ile değerlendirip en verimli sistemi seçerek ta-
+sarımlarını okulda sergileyebilir. Matematiksel hesaplamalar için açık uçlu maddelerden 
+oluşan test kullanılabilir. 
+Temel Kabuller Öğrencilerin, sürtünme kuvvetinin ve işin hesaplanması, mekanik enerji ve enerji biçimleri 
+hakkında ön bilgilerinin olduğu kabul edilmektedir. 
+Ön Değerlendirme Süreci Öğrencilerin, sürtünme kuvvetinin ve işin hesaplanması, mekanik enerji ve enerji biçimleri 
+ile ilgili ön bilgilerinin belirlenmesi amacıyla soru cevap tekniği kullanılabilir. 
+Köprü Kurma Araba ve bisiklet amortisörleri gibi günlük hayatta kullanılan yaylı sistemlere örnekler ve-
+rilebilir. Örnekler esnek cisimlerde depolanan esneklik potansiyel enerjisi ile ilişkilendiri-
+lebilir.
+Öğrenme-Öğretme 
+Uygulamaları FİZ.12.2.1
+Öğretmen öğrencilere bisiklet, motosiklet, araba gibi araçların amortisörleri ile kalem, 
+kapı kolu, zımba gibi aletlerin görsellerini göstererek günlük hayatta farklı yaylara ihtiyaç 
+duyulmasının nedenleri üzerine sorular sorar (OB4). Probleme dayalı öğrenme, beyin fır -
+tınası, tartışma ya da soru cevap gibi öğretim yöntem veya tekniklerinden birini kullana-
+rak öğrencilerin etkileşim (SDB2.1) kurmasını sağlar. Görsellerle ilgili merak ettiği soruları 
+sormaları noktasında öğrencileri teşvik eder (E3.8). Öğretmen farklı sertlikteki yayların 
+karşılaştırılabileceği araçlar ve aletler ile ilgili problem durumu içeren bir senaryoyu öğ-
+renciler ile paylaşabilir. Öğrenciler öğretmen rehberliğinde gruplara ayrılarak (SDB2.2) 
+belli bir süre içinde kuvvet, yayın sertliği ve yaydaki uzanım miktarı değişkenlerine yönelik 
+arkadaşları ile fikir alışverişi yaparak senaryoya uygun bir problem cümlesi belirler. Öğ-
+renciler grup üyeleriyle ortak görev bilinci içinde (D16.3), problem durumuna ilişkin kuvvet 
+ve yaydaki uzanım miktarı değişkenlerini kullanarak yay sabitini bulabileceği bir deney ta-
+sarlar (SDB1.2). Hipotez kurar ve deney düzeneğini kullanarak veri toplar. Toplanan veriyi 
+tablo ve grafikler yardımıyla analiz eder (E3.6, OB7). Öğretmen farklı sertlik ve uzunlukta 
+yaylar ile tasarlanabilecek deneyler ve kuvvet ile uzanım grafiklerinin analizlerini açık uçlu, 
+kısa cevaplı, eşleştirmeli sorulardan oluşan test ile değerlendirebilir.
+FİZ.12.2.2
+Öğrenciler deney verilerini veya hazır veri setlerini analiz ederek kuvvet ile uzanım arasın-
+daki örüntüyü bulur ve Hooke Yasası'nı matematiksel olarak modeller. Model üzerinden 
+farklı verilerle hesaplamaları tekrar ederek genelleme yapar (E1.3). Öğretmen yay sabitine 
+ilişkin matematiksel hesaplamalar için açık uçlu sorulardan oluşan test verebilir. 
+FİZ.12.2.3
+Öğretmen, Türkiye'yi okçuluk dalında temsil eden Türk millî sporcularının okçuluk dalın-
+da şampiyon olduğu bir videoyu (D13.2, D19.2) izletir veya bu konuda görseller sunar. Öğ-
+renciler beyin fırtınası ve soru cevap gibi tekniklerden birinin kullanıldığı ortamda video 
+görüntülerinden veya görsellerden yola çıkarak bir yay ile oku en uzağa atabilmek için sis-
+temde ne gibi değişiklikler yapılması gerektiği konusunda fikir yürütebilir. Öğrencilerden 
+kurmalı oyuncaklarda kullanılan kurma mekanizmasının kurulma miktarının oyuncağın 
+hareketinde oluşturacağı değişikliklere yönelik açıklama yapmaları istenebilir. Öğrenciler 
+yayın uzama veya sıkışma miktarına etki eden değişkenleri belirleyebilmek için bir deney 
+tasarlar (SDB1.2) ya da simülasyondan faydalanır. Aynı yay üzerine farklı kuvvetler uygula-
+narak yayın boyunda meydana getirdiği değişimler hakkında veri toplayabilir. Deney veya

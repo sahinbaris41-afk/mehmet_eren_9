@@ -1,0 +1,67 @@
+114
+2. Tema /  Nicelikler ve Değişimler
+ Buradan f fonksiyonu, aşa ğıdaki gibi ifade edilir.
+f:  0, ∞)" 200, ∞), f(x) = 
+                                200,  0  x  100
+200 + 0,5  (x − 100),  100  x 
+Sabit	ücret	için	kullanılan	veri	miktarının	
+alabileceği	değerlerin	kümesi
+Fazladan	kullanılan	veri	
+miktarının	alabileceği	
+değerlerin	kümesi
+Fazladan	kullanılan	
+veri	miktarı
+Her	1	GB	fazladan	
+veri	için	0,5	TL
+100	GB	veri	için	
+sabit	ücret
+ 
+O
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200
+Kullanılan	veri	miktarı	(GB)	
+x
+y	A ylık 	 ücret 	 (TL)
+h(x) = 200 + 0,5  (x − 100), 100  xg(x) = 200, 0  x  100
+4.	Sıra	Sizde      
+Deposunda 200 ton buğday bulunan bir 
+un fabrikası toplam 1800 ton buğdaya 
+ulaştığında un üretmeye başlayacaktır. 
+Fabrika bünyesinde çalışan mühendis 
+Mehmet Bey, buğday alımı yaparak 
+12. günün sonunda hedeflediği buğ -
+day miktarına ulaşmayı ve üretime 
+başlamayı planlamıştır. Mehmet  Bey, 
+zamana bağlı (gün) depodaki buğday 
+miktarını (ton) gösteren f fonksiyonu-
+nun grafiğini yandaki gibi oluşturmuştur.
+Buna	göre	aşağıdaki	soruları	cevaplayınız.
+a)  f	 fonksiyonunun 	 grafik 	 temsilini 	 inceleyiniz. 	 Fonksiyon 	 tek 	 bir 	 cebirsel 	 gösterim 	 ile 	 ifade	
+edilebilir	mi?	Açıklayınız.
+ 
+b)  f	fonksiyonunun	grafik	temsili	yardımıyla	gün	başına	depodaki	buğday	miktarını	hesaplayınız.
+ 
+O
+200
+900
+1800
+3 10 12
+     
+x
+ 
+Zaman 
+(Gün)
+y   Depodaki buğday miktarı (ton) y = f(x)
+Kullanılan	Veri	Miktarına	(GB)	Bağlı	A ylık 	 Ücretin 	 (TL) 	 Değişimi

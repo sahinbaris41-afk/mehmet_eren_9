@@ -1,0 +1,49 @@
+48
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları FİZ.10.3.1
+Öğretmen, öğrencilerin elektrik akımının oluşumunu anlamaları için su analojisinden ya-
+rarlanır (E1.1). Elektrik akımının elektronların küçük hızlarla sürüklenmesi sonucu oluştu-
+ğuna vurgu yapar. Öğrenciler elektrik devresindeki elemanları ve devredeki rollerini, su 
+tesisatındaki elemanları ve tesisattaki rollerini gözlemler. Bu gözlem ve öğretmenin soru 
+cevap tekniğindeki yönlendirici sorularına dayalı olarak öğrenciler basit elektrik devresi ve 
+su tesisatının elemanlarına ilişkin düşünceleri arasındaki benzerlikleri ve farklılıkları be-
+lirler (KB2.7, SDB2.2). Öğrenciler analojide yer alan suyun akışı sırasında tesisat eleman-
+larının rolleri ile elektrik akımının oluştuğu basit elektrik devresindeki elemanların rolleri 
+arasında ilişki kurar (OB4, SDB1.1). Suyun akışı ile elektrik akımına yönelik çıkarımlar yapar  
+ve çıkarımlarını arkadaşları ile paylaşır (D1.3, D5.1). Basit elektrik devrelerinin temel kav -
+ramları olan potansiyel fark, elektrik akımı ve dirence yönelik çıkarımlar yapar. Öğrencile-
+re potansiyel fark, elektrik akımı ve direnç kavramlarıyla ilgili bir çalışma yaprağı verilebilir.
+FİZ.10.3.2
+Öğrencilerden su analojisindeki su akışının debisini açıklamaları istenebilir. Öğrenciler, 
+analoji görselinden ve yönlendirici sorulardan faydalanarak ve su debisi üzerinden çözüm-
+leyerek elektrik akımını oluşturan etmenleri belirler. Öğrenciler öğretmen rehberliğinde 
+gruplar oluşturur (SDB2.2). Öğrenciler elektrik akımı, yük miktarı ve zaman arasındaki iliş-
+kiyi belirler. Öğrencilerden bir iletkende elektrik akımı oluşması ile ilgili değişkenleri ve bu 
+değişkenler arasındaki ilişkilere yönelik kavram haritası hazırlanması istenebilir. Elektrik 
+akımının katı, sıvı ve gazlardaki iletimine değinilir.
+FİZ.10.3.3
+Öğretmen, basit elektrik devresinde potansiyel fark, elektrik akımı ve direnç arasındaki 
+ilişkinin ortaya konulabilmesi için örnek olay veya problem çözme gibi yöntemlerden birin-
+den ya da 5E öğrenme modelinden faydalanabilir. Potansiyel fark, elektrik akımı ve direnç 
+arasındaki ilişki hakkında öğrencilerin görüşleri alınabilir. Potansiyel fark, elektrik akımı ve 
+direnç arasındaki ilişkiye yönelik hipotezler kurulur. Benzer hipotezlere odaklanan (E3.2) 
+öğrenciler öğretmen rehberliğinde aynı gruplara dâhil edilebilir. Öğretmen bir devre ele-
+manının uçları arasındaki potansiyel farkın ve üzerinden geçen akımın ölçüm yöntemini 
+açıklar. Gruplar potansiyel fark ve elektrik akımı arasındaki ilişkiyi gözlemleyebilecekleri 
+deneyler tasarlar (SDB1.2). Deneyden önce sağlığını olumsuz etkileyecek risk faktörlerine 
+karşı gerekli güvenlik tedbirlerini alır (D13.4). Öğrenciler direncin sabit tutulduğu deney 
+setinde, potansiyel farkı değiştirerek ölçtükleri elektrik akımı değerlerini tablo şeklinde 
+not eder. Potansiyel fark, elektrik akımı ve direnç arasındaki ilişkileri ortaya koyan grafik-
+leri çizerek analiz eder. Yaptığı analizden yararlanarak elektrik akımı, potansiyel fark ve 
+direnç arasındaki ilişkiyi veren matematiksel modele ulaşır (KB2.10). Elde ettiği matema-
+tiksel modeli basit elektrik devreleri için kullanarak genelleme yapar. Öğrencilerden ben-
+zer bir deney tasarlamaları ve bu tasarımı poster hâlinde sunmaları istenebilir. Öğretmen 
+ulaşılan matematiksel modelle ilgili açık uçlu sorularda reosta ve katı iletkenin direncinin 
+bağlı olduğu değişkenlerden yararlanabilir. Üreteçlerin iç direnci ile ilgili matematiksel 
+hesaplamalardan kaçınılır. Elektromotor kuvvet kavramına girilmez. Öğretmen ulaşılan 
+matematiksel modelle ilgili açık uçlu sorular sorabilir. 
+FİZ.10.3.4
+Öğretmen, öğrencilerin heterojen ve dengeli gruplar oluşturmalarını sağlayarak on-
+ları çalışmalarda aktif rol almak ve birbirlerine destek olmak konularında teşvik eder 
+(D1.3, D3.1, D4.1, E2.2, SDB2.1). Öğretmen bir direnç yerine en az üç direnç olması durumunda

@@ -1,0 +1,16 @@
+11
+Başlarken
+Günlük hayatta çoğunlukla tam sayılar kullanılırken fizik, kimya, biyoloji, ekonomi, astronomi, mü -
+hendislik gibi alanlarda farklı sayılara ihtiyaç duyulmaktadır. Örneğin mikroskobik canlıların kütlesini 
+hesaplarken çok küçük sayılara, gezegenler arası uzaklıkları ifade ederken çok büyük sayılara ihtiyaç 
+duyulmaktadır. Eş kenar uzunlukları 3 metre olan ikizkenar dik üçgen şeklindeki bir havuzun en uzun 
+kenarının uzunluğunu ifade etmek için köklü gösterimden yararlanılmaktadır. Bir bitkinin ideal koşullar-
+da yetiştirilmesini sağlayan sıcaklık değerlerini ifade etmek için gerçek sayı aralıkları kullanılmaktadır. 
+Örneklerde verilen durumları ifade ederken gerçek sayıların ondalık, üslü, köklü gösterimlerinden ve 
+gerçek sayı aralıklarından yararlanılmaktadır. 
+Tema karekodu
+Tema 
+sunusuna 
+ulaşmak için 
+karekodu 
+okutunuz.

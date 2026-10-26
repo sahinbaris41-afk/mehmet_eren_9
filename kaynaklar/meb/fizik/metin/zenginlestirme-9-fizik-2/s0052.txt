@@ -1,0 +1,22 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+50 51
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+ ▶ Elektrik motoruna bağlı cıvatayı şırınganın pistonu-
+na şekildeki gibi silikon yapıştırıcıyla sabitleyiniz.
+13
+ ▶ Çıtalarla bağlı iki şırınganın pistonlarını çıkarıp şırın-
+gayı su ile doldurunuz. 
+ ▶ Tekli şırınga dolunca su akışını durdurunuz ve pis -
+tonları şırıngalara geri takınız.
+11
+ ▶ Düzenekteki tekli şırınganın pistonunu ileri geri hareket ettirmek için altı ayaklı, üç konumlu (sağa 
+dön, dur, sola dön) anahtar temin ediniz. 
+ ▶ Anahtarın ayaklarını yukarıdaki şemada gösterildiği gibi elektrik telleriyle bağlayınız. 
+ ▶ Güç kaynağı için 1,5 V’luk iki pil ve pil yuvası kullanınız. 
+ ▶ Yeşil ve mavi telleri elektrik motoruna, kahverengi telleri ise güç kaynağına bağlayınız.
+ ▶ Kontrol etmek için anahtarı üç konumda da çalıştırınız.
+12
+Elektrik Motoru
+Güç Kaynağı
++ -

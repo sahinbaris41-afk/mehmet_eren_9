@@ -1,0 +1,37 @@
+106
+2. ÜNİTE 
+Yer Değiştirme: Hareketlinin son konumu ile ilk konumu arasındaki yönlü 
+uzaklıktır. ∆x  sembolü ile gösterilen yer değiştirmenin SI’da birimi metredir (m). 
+Yer değiştirme, vektörel bir niceliktir ve
+∆x = x son-  x ilk
+matematiksel modeli ile bulunur. 
+Görsel 2.14’te A noktasından B noktasına hareket eden bir cisme ait alınan 
+yol ve yer değiştirme verilmiştir.
+Görsel 2.14: Alınan yol ve yer değiştirme 
+A
+B
+Alınan yol
+Yer değiştirmex∆
+x
+Sürat: Hareketlinin birim zamanda aldığı yoldur. o  sembolü ile gösterilen 
+süratin SI’da birimi metre/saniyedir (m/s). Sürat için km/h veya cm/s birimleri 
+de kullanılır. Sürat, skaler bir niceliktir ve 
+Sürat = Alınan yol Zaman
+       o = x
+∆t
+matematiksel modeli ile bulunur. 
+Anlık Sürat: Anlık hızın büyüklüğüdür. o  sembolü ile gösterilen anlık süra tin 
+SI’da birimi metre/saniyedir (m/s). Anlık sürat skaler bir niceliktir. Sürat göster-
+gesinde anlık olarak okunan 60 km/h aracın anlık süratidir.
+Ortalama Sürat: Bir hareketlinin tüm hareketi boyunca aldığı yolun tamamının 
+hareket süresine oranıdır. o ort sembolü ile gösterilen ortalama süratin SI’da 
+birimi metre/saniyedir (m/s). Ortalama sürat, skaler bir niceliktir ve
+Ortalama sürat = Alınan toplam yol Hareket süresi
+                  o ort = x1 +  x2 +  x3 + … ∆t1 +  ∆t2 +  ∆t3 + …
+matematiksel modeli ile bulunur. 
+Yer değiştirme ile ilgili si-
+mülasyonu incelemek için 
+karekodu okutunuz.
+Sürat ile ilgili simülasyonu 
+incelemek için karekodu 
+okutunuz.

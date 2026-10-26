@@ -1,0 +1,756 @@
+{
+ "ders": "ingilizce",
+ "ders_adi": "İngilizce",
+ "sinif": 9,
+ "haftalik_saat": 4,
+ "kaynaklar": {
+  "yillik_plan": "kaynaklar/yillik_plan/meb_taslak/ingilizce/İNGİLİZCE - 2026-2027 HAZIRLIK SINIFI BULUNMAYAN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx [9. SINIF]",
+  "ksdt_1donem": "kaynaklar/meb/ortak_sinav/konu_soru_dagilim_2026_2027_1donem/ingilizce_lise2.xlsx",
+  "ders_kitabi_metin": [
+   "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi"
+  ],
+  "haftalik_saat": "TTKB 09/05/2025 Anadolu Lisesi Haftalık Ders Çizelgesi"
+ },
+ "aciklama": {
+  "yazili": "1D1Y/1D2Y/2D1Y/2D2Y. 'KSDT' kaynaklılar resmî tablodan, diğerleri plan haftasından tahmin. Yönetmelik 45/1-d gereği her yazılı önceki konuları da azalan oranda kapsar.",
+  "kitap": "basili_* kitabın üzerinde yazan sayfa; pdf_baslangic metin klasöründeki sNNNN.txt numarası. Eşleşme içindekiler sayfasına kelime benzerliğiyle yapıldı."
+ },
+ "uretim": {
+  "arac": "tools/harita_uret.py",
+  "tarih": "2026-10-26"
+ },
+ "dogrula": [],
+ "uniteler": [
+  {
+   "id": "ingilizce-u1",
+   "ad": "ORIENTATION",
+   "konular": [
+    {
+     "id": "ingilizce-u1-k1",
+     "ad": "ORIENTATION",
+     "ogrenme_ciktilari": [],
+     "kitap": null,
+     "haftalar": [
+      1
+     ],
+     "hafta_metin": "1. Hafta: 14-18 Eylül → 1. Hafta: 14-18 Eylül",
+     "ders_saati": 4,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "1. dönem konusu ama resmî KSDT'de yok",
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u2",
+   "ad": "REVISION 1",
+   "konular": [
+    {
+     "id": "ingilizce-u2-k1",
+     "ad": "Target Vocabulary in Use (with revisional vocabulary): Vocabulary for school events and celebrations (sports, music, drama) Vocabulary for developing the environment Vocabulary for preferences for different learning activities Vocabulary for preferences for different learning technologies Vocabulary for personal preferences for films and visual arts Vocabulary for relationships, problems and solutions in the family Target Grammatical Structures in Use: Use of the Simple Present Tense vs Present Progressive Tense: Distinguishing regular actions, habits, general truths, permanent situations, and actions happening at the moment of speaking, and temporary activities Use of “must” (obligation): Expressing necessity or duty Use of “can” for abilities: Expressing ability or skill to perform an action Use of “can’t” for abilities: Expressing lack of ability or skill to perform an action Use of “have to” for obligations in present: Indicating present external necessity, obligation or requirement Use of “had to” for obligations in past: Indicating past external necessity or requirement, Vocabulary for mobile phones and their impact on health and social life Use of the Simple Past Tense: Describing completed actions or events in the past Use of question tags: Seeking confirmation or agreement about a past statement Use of “used to”: Expressing habitual actions or states in the past Use of the Past Simple of “can” or “can’t” for ability: Indicating abilities or lack of abilities in the past Use of polite requests with “could” and “couldn’t”: Making polite requests in formal or informal contexts. Use of the Past Progressive Tense: Describing ongoing actions or events in the past interrupted by another action",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.8.1",
+       "metin": "R3.Students can make sense of and derive meaning from the current content on “school lifeand education with school events and celebrations (sports, music, drama); developing theenvironment; national days and celebrations”"
+      },
+      {
+       "kod": "ENG.8.2",
+       "metin": "R3.Students can make sense of and derive meaning from the current content on “classroomlife and learning with preferences for different learning activities; preferences for differentlearning technologies”"
+      },
+      {
+       "kod": "ENG.8.3",
+       "metin": "R3.Students can make sense of and derive meaning from the current content on “personallife and well-being with mobile phones and their impact on health and social life; personalpreferences for films and visual arts”"
+      },
+      {
+       "kod": "ENG.8.4",
+       "metin": "R3.Students can make sense of and derive meaning from the current content on “family life andhome with relationships, problems and solutions in the family; different houses and livingstyles”"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 15,
+      "pdf_baslangic": 16,
+      "basili_bitis": 22,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      2,
+      3
+     ],
+     "hafta_metin": "2. Hafta: 21-25 Eylül → 3. Hafta: 28 Eylül-2 Ekim",
+     "ders_saati": 8,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        1,
+        0,
+        1,
+        1,
+        1
+       ],
+       [
+        1,
+        0,
+        1,
+        0,
+        1
+       ],
+       [
+        1,
+        0,
+        0,
+        1,
+        0
+       ],
+       [
+        1,
+        1,
+        1,
+        0,
+        1
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        0,
+        0,
+        0,
+        0
+       ],
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ],
+       [
+        0,
+        0,
+        1,
+        0,
+        0
+       ],
+       [
+        0,
+        0,
+        0,
+        0,
+        1
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u3",
+   "ad": "REVISION 2",
+   "konular": [
+    {
+     "id": "ingilizce-u3-k1",
+     "ad": "Target Vocabulary in Use (with revisional vocabulary): Vocabulary for sports events in the city and rural area Vocabulary for pros and cons of living in rural areas and in the cities Vocabulary for different cooking styles and preferences in the world, Vocabulary for different food cultures in the world Vocabulary for natural disasters and their damage on animals and nature Vocabulary for self-driving cars, ﬂying vehicles in the future Target Grammatical Structures in Use: Use of the Present Perfect Tense: Expressing actions or events that occurred at an unspecified time in the past and have relevance to the present Use of question tags: Seeking confirmation or agreement about an action or statement related to the present perfect Use of forming nouns from verbs using -ing: Creating gerund forms of verbs to describe activities or on going actions as nouns Use of the Present Perfect Tense: Expressing actions or events that occurred at an unspecified time in the past and have relevance to the present. Use of the Simple Past Tense: Describing completed actions or events that occurred at a specific time in the past Use of Phrasal Verbs: Expressing actions or meanings using combinations of verbs and particles. Use of conditional 1: Expressing possible future events or actions and their results based on specific conditions. Use of wish clauses: Expressing regrets or desires for situations to be different in the past, present, or future. Vocabulary for transport in the future Use of “Be Going to Future” Tense: Expressing planned or intended actions or events in the near future Use of the Simple Future Tense (will): Describing spontaneous decisions, predictions, or promises about the future.",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.8.5",
+       "metin": "R3.Students can make sense of and derive meaning from the current content on “life in theneighbourhood and city including social life with sports events in the city and rural areas; prosand cons of living in rural areas and in the city”"
+      },
+      {
+       "kod": "ENG.8.6",
+       "metin": "R3.Students can make sense of and derive meaning from the current content on “life in the worldand culture with different cooking styles and preferences in the world; different food culturesin the world”"
+      },
+      {
+       "kod": "ENG.8.7",
+       "metin": "R3.Students can make sense of and derive meaning from the current content on “life in natureand global problems with natural disasters and their damage on animals and nature; naturaldisasters and their damage on people’s lives”"
+      },
+      {
+       "kod": "ENG.8.8",
+       "metin": "R3.Students can make sense of and derive meaning from the current content on “life in theuniverse and future with transport in the future; self-driving cars; ﬂying vehicles in the future”"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 15,
+      "pdf_baslangic": 16,
+      "basili_bitis": 22,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      4,
+      5
+     ],
+     "hafta_metin": "4. Hafta: 5-9 Ekim → 5. Hafta: 12-16 Ekim",
+     "ders_saati": 8,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        1,
+        0,
+        1,
+        1
+       ],
+       [
+        0,
+        1,
+        0,
+        1,
+        1
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        1,
+        0
+       ],
+       [
+        0,
+        1,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u4",
+   "ad": "THEME 1: SCHOOL LIFE",
+   "konular": [
+    {
+     "id": "ingilizce-u4-k1",
+     "ad": "Sub-themes: \"Students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations\" Target Vocabulary in Use (with revisional vocabulary): Countries: Türkiye, the UK: United Kingdom (England, Scotland, Wales, Northern Ireland). the USA (the United States of America), Canada, Australia, New Zealand, South Africa, Italy, France, Germany, Spain, Russia, India, Japan, China, Mexico Nationalities & Languages: Turkish/Turkish, British/English, Scottish/English, Irish/English, American/English, Canadian/English- French Australian/English, New Zealander/English, South African/English, Italian/Italian, French/French, German/German, Spanish/Spanish, Russian/Russian, Indian/Hindi/Urdu/ English, Japanese/Japanese, Chinese/Chinese, Mexican/Spanish. Target Vocabulary: Countries: South Korea, Poland, Chile, Peru, Thailand, Norway, Hungary, Bulgaria, Azerbaijan, Uzbekistan, Turkmenistan, Turkish Republic of Northern Cyprus, Kazakhstan, Kyrgyzstan. Nationalities/Languages: South Korean/Korean, Polish/Polish, Chilean/Spanish, Peruvian/Spanish, Thai/Thai, Norwegian/Norwegian, Hungarian/Hungarian, Bulgarian/Bulgarian, Azerbaijani/ Azerbaijani, Uzbek/Uzbek, Turkmen/Turkmen, Turkish Cypriot/Turkish, Kazakh/Kazakh, Kyrgyz/Kyrgyz. Tourist attractions and activities: Nouns: Sightseeing, a tourist attraction, a trip, a journey, a location, a historical/ancient ruin, a historical site, a palace, a square, a tower, a castle, a monument, an art museum, baths, a boat ride, native language, fjords, UNESCO World Heritage Site, tourist spots. Verbs: To head to, to join, to be famous for. Adjectives: fascinating, ancient, native. Adverbs: Fluently *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Target Grammatical Structures in Use: -“To be” (present) for the following: (Where are you from? I’m/am from Türkiye.) (What’s/is your nationality? I’m/am Turkish.) -Modal “Can”: (What language (s) can you/we/they/she/he speak? I can speak Turkish. What is the capital of Türkiye? The capital of Türkiye is Ankara. Where can tourists visit in İstanbul? They can visit Sultanahmet Square/Galata Bridge/ Dolmabahçe Palace, etc. in İstanbul. What can tourists do in İstanbul? They can take a boat trip on the Bosphorus etc. in İstanbul. I can speak Japanese.) Functions of the Target Grammatical Structures in Use: -Use of “To be” in the Simple Present Tense (am, is, are): Introducing home countries, nationalities, languages, capitals, and historical places/ activities in capitals and/or home countries in English in the present time. -Use of “Can”: Describing possibility and opportunity: Describing (language) ability. Target Social Language Expressions in Use: Hello! Hi! Hi there! Let me introduce myself. This is Yasemin from Türkiye. Wow! This palace/tower/etc. is excellent/great/perfect! I like it here/there! Let’s grab our trays! Chat about..! Target Phonological Sounds in Use: Long and short vowels: a: (/ae/; /aeı/; /ə/; /a:/; /eɪ/; /a:/; /a/; /ɔː/; /eə/) Consonants: b: (/b/); silent /b/ c (/si/; /k/) d: /d/ *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.1",
+       "metin": "L1. Students can prepare and get ready for listening (to)/watching about the current content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations''"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 23,
+      "pdf_baslangic": null,
+      "basili_bitis": 36,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      6,
+      7,
+      8,
+      9
+     ],
+     "hafta_metin": "6. Hafta: 19-23 Ekim → 9. Hafta: 9-13 Kasım",
+     "ders_saati": 14,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        1,
+        0,
+        1,
+        1
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u5",
+   "ad": "THEME 2: CLASSROOM LIFE",
+   "konular": [
+    {
+     "id": "ingilizce-u5-k1",
+     "ad": "Sub-themes: ''Classmates, friendships, daily and study routines, habits, and activities'' Target Vocabulary in Use (with revisional vocabulary): Vocabulary for daily routines, habits, and activities: Verbs: To wake up, to get out of bed, to make (my) bed, to clean (my) face, to have/take a bath/shower, to comb (my) hair, to take clothes off, to get dressed, to put clothes on, to (re)charge (my) phone, to check emails/ messages, to leave home, to take the (school) bus/train/taxi to school, to walk to school, to attend classes, to have a break, to leave school, to return home, to arrive home, to watch series/ films/documentaries, to relax, to go shopping, to do household chores, to run errands. Vocabulary for study routines, habits and activities: Nouns: A task. Verbs: To plan, to work on (my) tasks, to participate (activities), to read silently/aloud etc., to repeat, to take notes, to last, to focus, to highlight, to keep up with, to get back to (studying) Time expressions: Every day, every Monday/Tuesday etc., on Mondays/Tuesdays, always, often, sometimes, occasionally, rarely, never. Adverbs of manner: Slowly, quickly, carefully, neatly. *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Target Grammatical Structures in Use: -The Simple Present Tense (Subject verb agreement with subject pronouns “I, we, you, she, he, they, it”.) (I always walk to school.) Functions of the Target Grammatical Structures in Use: -Use of the Simple Present Tense: Describing daily and study routines, habits, and activities. Target Social Language Expressions in Use: Bright and early! I call it a day! Hit the books! I learn by heart! Work hard, play later! Target Phonological Sounds in Use: Vowels: e: (/e/; /ae/) Consonants: f: (/f/), g: (/g/, /dʒ/), h: (/h/) *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.2",
+       "metin": "L1. Students can prepare and get ready for listening (to)/watching about the current content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities''"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 37,
+      "pdf_baslangic": null,
+      "basili_bitis": 50,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      9,
+      10,
+      11,
+      12
+     ],
+     "hafta_metin": "9. Hafta: 9-13 Kasım → 12. Hafta: 7-11 Aralık",
+     "ders_saati": 14,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        1,
+        0,
+        1,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u6",
+   "ad": "THEME 3: PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+   "konular": [
+    {
+     "id": "ingilizce-u6-k1",
+     "ad": "Sub-themes: “Physical appearance in terms of physical features and personality in terms of personal traits and characters” Target Vocabulary in Use (with revisional vocabulary): Vocabulary for physical features: Vocabulary for body weight: Plump, slim, well-built. Vocabulary for body height: Medium-height. Vocabulary for hair colour/shape: Blond (male), blonde (female), wavy, curly, straight. Vocabulary for skin colour: Brunette, fair (skinned), tan (skinned) pale (skinned), dark (skinned) Vocabulary for age: Middle-aged, elderly. Vocabulary for physical appearance: Attractive, handsome, good-looking, pretty. Vocabulary for personality: Adjectives: Smart, clever, confident, cheerful, outgoing, careless, calm, shy, silly, forgetful, honest, brave, serious, gentle, kind, polite, generous, rude, peaceful, quiet, moody. Vocabulary for describing appearance: Verbs: To look (like), to sound, to seem. *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Target Grammatical Structures in Use: -The Present Simple Tense (to be in present) (subject verb agreement with subject pronouns “I, we, you, she, he, they, it): (What does s/he look like? S/he looks very nice.) (What kind of a person is s/he? S/He is a brave person / S/He’s very honest.) -Too & enough: (S/He’s/is too good. S/He’s/is good enough.) Functions of the Target Grammatical Structures in Use: -Use of the Simple Present Tense: Describing people’s physical appearances, being in present, describing people’s personalities -Use of “too & enough”: “Too” indicates degrees (Too means more than necessary. “Enough” indicates the right amount of something) Target Social Language Expressions in Use: You look amazing! That sounds great! She’s/is too young! What a good person! Target Phonological Sounds in Use: Vowels: i: (/i:/;/ɪ/; /aɪ/) Consonants: j: (ʒ/); k (/k/), l /l/) *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.3",
+       "metin": "L1. Students can prepare and get ready for listening (to)/watching about the current content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character''"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 51,
+      "pdf_baslangic": null,
+      "basili_bitis": 64,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      13,
+      14,
+      15,
+      16
+     ],
+     "hafta_metin": "13. Hafta: 14-18 Aralık → 16. Hafta: 4-8 Ocak",
+     "ders_saati": 14,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        1,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u7",
+   "ad": "EVALUATION",
+   "konular": [
+    {
+     "id": "ingilizce-u7-k1",
+     "ad": "Sub-themes: “Physical appearance in terms of physical features and personality in terms of personal traits and characters” Target Vocabulary in Use (with revisional vocabulary): Vocabulary for physical features: Vocabulary for body weight: Plump, slim, well-built. Vocabulary for body height: Medium-height. Vocabulary for hair colour/shape: Blond (male), blonde (female), wavy, curly, straight. Vocabulary for skin colour: Brunette, fair (skinned), tan (skinned) pale (skinned), dark (skinned) Vocabulary for age: Middle-aged, elderly. Vocabulary for physical appearance: Attractive, handsome, good-looking, pretty. Vocabulary for personality: Adjectives: Smart, clever, confident, cheerful, outgoing, careless, calm, shy, silly, forgetful, honest, brave, serious, gentle, kind, polite, generous, rude, peaceful, quiet, moody. Vocabulary for describing appearance: Verbs: To look (like), to sound, to seem. *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Target Grammatical Structures in Use: -The Present Simple Tense (to be in present) (subject verb agreement with subject pronouns “I, we, you, she, he, they, it): (What does s/he look like? S/he looks very nice.) (What kind of a person is s/he? S/He is a brave person / S/He’s very honest.) -Too & enough: (S/He’s/is too good. S/He’s/is good enough.) Functions of the Target Grammatical Structures in Use: -Use of the Simple Present Tense: Describing people’s physical appearances, being in present, describing people’s personalities -Use of “too & enough”: “Too” indicates degrees (Too means more than necessary. “Enough” indicates the right amount of something) Target Social Language Expressions in Use: You look amazing! That sounds great! She’s/is too young! What a good person! Target Phonological Sounds in Use: Vowels: i: (/i:/;/ɪ/; /aɪ/) Consonants: j: (ʒ/); k (/k/), l /l/) *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.3",
+       "metin": "L1. Students can prepare and get ready for listening (to)/watching about the current content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character''"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      14
+     ],
+     "hafta_metin": "14. Hafta: 21-25 Aralık → 14. Hafta: 21-25 Aralık",
+     "ders_saati": 2,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        1,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "ingilizce-u7-k2",
+     "ad": "Sub-themes: “Films, film genres, futuristic films with futuristic ideas, and technology” Target Vocabulary in Use (with revisional vocabulary): Vocabulary for film genres: Nouns: Film (movie-AmE), comedy, action, cartoon (animated-AmE), romantic (romance-AmE), family film, adventure, science fiction, detective film, historical film, thriller, mystery, horror, musical, documentary, biographical, crime, martial arts. Vocabulary for futuristic film genres: Nouns: Space adventure, robots, alien invasion, time travel, time loop, space exploration, adventure, superheroes, science (sci-fi) fantasy, an invention, a discovery, a survival, an actor, an actress, a director, a crew, virtual reality, a myth. Verbs: To discover, to explore, to invent, to adapt, to control, to be into sth. Adjectives: Futuristic, robotic, artificial, virtual, technological, horrific, world-saving, legendary, global, optimistic, intelligent, epic. *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Background Grammatical Structures in Use: -The Simple Present Tense: (Adventure films show exciting places and happening.) *About “Background Grammatical Structures in Use”: The “Background Grammatical Structures” in this section are not only revisional but also serve as contextual support and contribute to meaning-making. They are intended to be used within the theme to help students grasp the meaning of the language constructed through the use of “Target Grammatical Structures” without being explicitly taught. These structures are not considered “Target Grammatical Structures” themselves rather they function as a part of the facilitation process, supporting both the target forms and the contexts in which they are used. They provide opportunities for learning through revised and scaffolded language. Target Grammatical Structures in Use: -The Simple Future Tense (Positive, negative, Interrogative): (What (do you think) will happen in the future? (I think) robots will help people in the future. People will travel to other planets. Scientists will invent new machines to explore space. Time travellers will change history. People will live in virtual reality worlds.) Functions of the Target Grammatical Structures in Use: -Use of the Simple Present Tense: Describing events and happenings (in films). -Use of the Simple Future Tense: Describing predictions, expressing what speakers believe and expect, explaining speakers’ opinions or guesses about the future, describing advice, recommendations (and expectations). Target Social Language Expressions in Use: This (film) is a breath of fresh air! This (film) is not my cup of tea! I’m not brave enough to watch this! What’s next? Target Phonological Sounds in Use: Diphthong: o, oe, owoa, ou, eau: /əʊ/ Consonants: y: (/j/, /i/; z: (/z/) *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.8",
+       "metin": "L1.Students can prepare and get ready for listening (to)/watching about the current content on ''life in the universe and future with films, film genres, futuristic films with futuristic ideas, and technology''"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      33
+     ],
+     "hafta_metin": "33. Hafta: 24-28 Mayıs → 33. Hafta: 24-28 Mayıs",
+     "ders_saati": 2,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u8",
+   "ad": "THEME 4: FAMILY LIFE",
+   "konular": [
+    {
+     "id": "ingilizce-u8-k1",
+     "ad": "Sub-themes: “Family members’ jobs, work routines, work activities and workplaces” Target Vocabulary in Use (with revisional vocabulary): Vocabulary for jobs: Nouns: A bank clerk, a security guard, a pharmacist, a photographer, a journalist, an architect, a lawyer, an accountant, a businessperson, a computer programmer, a scientist, a psychologist, a content creator, a virtual assistant, a digital marketer, a counsellor, a client, a patent (holder) Vocabulary for workplaces: Nouns: A bank, a shopping centre, a pharmacy, a photography studio, a news agency, an architecture/ architectural firm, a law firm, an accounting firm, a business office, an IT company, a science lab, a clinic, a social media platform, leisure centre, Additional Nouns: brand, brand awareness, Adverbs: remotely. Vocabulary for action verbs representing family members’ work routines and activities: Verbs: To serve (customers), to check (IDs), to shoot (photographs), to report (news), to design (buildings), to defend (people), to advise (on finances), to manage (a business), to develop (software), to research, to counsel (people), to publish (online), to organise (organize-AmE) (emails), to promote (products), to retire, to run (a workplace) Vocabulary for family members: A cousin, a nephew, a niece, stepfather, stepmother, stepson, stepdaughter, relative. *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Target Grammatical Structures in Use: -The Simple Present Tense: (affirmative, negative, interrogative) (Subject verb agreement with subject pronouns “I, we, you, she, he, they, it”.) What is her/his job? S/he’s/is a scientist. What does s/he do? S/he researches a new project. What’s/is your job? I’m/am a photographer. What do you do? I shoot photographs. What are your parents’ job? They’re/are architects. What do they do? They design buildings. -Prepositions of place: at, in, on Functions of the Target Grammatical Structures in Use: -Use of the Simple Present Tense: Asking and answering about family members’ and other people’s jobs, describing work activities, identifying workplaces. -Use of the prepositions of place: Describing where people work. Target Social Language Expressions in Use: Great job! S/he made it! S/he’s/ is in charge of the building. S/He’s/is responsible for designing the plans. Target Phonological Sounds in Use: Vowels: o: (/o/, /ɒ/, /ɔ:/) Consonants: m: (/m/), n: (/ŋ/, p: /p/ *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.4",
+       "metin": "L1.Students can prepare and get ready for listening (to)/watching about the current content on ''family life with family members’ jobs, work routines, work activities, and workplaces''"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 65,
+      "pdf_baslangic": null,
+      "basili_bitis": 78,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      17,
+      19,
+      20,
+      21
+     ],
+     "hafta_metin": "17. Hafta: 11-15 Ocak → 21. Hafta: 22-26 Şubat",
+     "ders_saati": 14,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u9",
+   "ad": "THEME 5: LIFE IN THE HOUSE & NEIGHBOURHOOD",
+   "konular": [
+    {
+     "id": "ingilizce-u9-k1",
+     "ad": "Sub-themes: “Types of houses, rooms, furniture and activities in the house” Target Vocabulary in Use (with revisional vocabulary): Vocabulary for types of houses: A detached house (a single-family house-AmE), a semi-detached house (a duplex-AmE), a terraced house (a row house-AmE), a block of flats (an apartment building-AmE.), a villa (a vacation home-AmE), a cottage, a bungalow (a ranch house-AmE), a penthouse. Vocabulary for rooms and places in the house: (For revision): Nouns: a bedroom, a sitting-room (a living room-AmE), a garden (a yard-AmE), a kitchen, a bathroom, a toilet (a restroom-AmE), a utility room (a laundry room-AmE), a dining room, a corridor-a hall (a hallway-AmE), a garage, upstairs, downstairs, a terrace (patio-AmE). Vocabulary for furniture and appliances in the house: A sofa (a couch-AmE), a table, a chair, an armchair, a coffee table, a wardrobe (a closet-AmE), a bedside table (a nightstand-AmE), a cupboard, a bathtub, a shower, a basin (a sink-AmE), a hoover (a vacuum cleaner- AmE), an oven, a fridge (a refrigerator-AmE, a freezer, a dishwasher, a cooker (a stove-AmE). Vocabulary for household items and decorative items: Nouns: A cushion, a pillow, curtains, a carpet, a rug. Adjectives: Spacious, stylish, harmonious. Vocabulary for the activities to be done at home: (For revision): Verbs: to have breakfast/dinner/lunch, to have a shower/ bath, to make (the bed), to clean, to watch TV, to play computer games, to read. To prepare the table (to set the table for breakfast/lunch/dinner-AmE), to relax, to iron, to brush (teeth, hair), to tidy up, to wash the dishes, to wash/do the laundry. *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Target Grammatical Structures in Use: -The Simple Present Tense: (Subject verb agreement with subject pronouns: I/you/ we/they/he/she/it). (Affirmative, negative, interrogative): (Where do you live? I live in a flat.) (What type of a house is it? It’s/is a cottage.) -Time expressions for the present time: Now, at the moment, at present -The Present Progressive Tense: (What are you doing at home now? I’m/am cleaning our house now. (Subject verb agreement with subject pronouns: I/you/we/they/he/she/it). (Affirmative, negative, interrogative) -Possessive adjectives: My, our, your, his, her, its, our, their. Functions of the Target Grammatical Structures in Use: -Use of the Simple Present Tense: Asking and answering about types of houses (What kind of a house is it? It’s/is a cottage.) Asking and answering about where people live in terms of house types. -Use of the Present Progressive Tense: Describing present activities in the house. What is s/he doing now? S/he’s/is having breakfast in the kitchen now.) Target Social Language Expressions in Use: Make yourself at home! Home sweet home! There’s no place like home! What a nice house! Target Phonological Sounds in Use: Vowels: - no vowels Consonants: q: (/k/); r: (/r/); s:(/s/) sh: /ʃ/ *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.5",
+       "metin": "L1.Students can prepare and get ready for listening (to)/watching about the current content on ''life in the house and neighbourhood with types of houses, rooms, furniture and activities in the house''"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 79,
+      "pdf_baslangic": null,
+      "basili_bitis": 92,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      21,
+      22,
+      23,
+      24
+     ],
+     "hafta_metin": "21. Hafta: 22-26 Şubat → 24. Hafta: 22-26 Mart",
+     "ders_saati": 14,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u10",
+   "ad": "THEME 6: LIFE IN THE CITY & COUNTRY",
+   "konular": [
+    {
+     "id": "ingilizce-u10-k1",
+     "ad": "Sub-themes: ''Local and international food culture and food festivals in the city'' Target Vocabulary in Use (with revisional vocabulary): Vocabulary for food events and festivals: Nouns: A cuisine, traditional (food), international (food), street food, a (food) fair, an international/regional/ local dish, a feast. Vocabulary for food items: Nouns: Ingredients, cream, sweetcorn (corn-AmE), cereal, yoghurt (yogurt-AmE), seafood, salmon, beef, duck, tuna, a mushroom, a pineapple, a coconut, aubergine (eggplant-AmE), spinach, vinegar herbs, courgette (zucchini-AmE). Vocabulary for international dishes: Nouns: Turkish pizza (lahmacun), couscous, barbecue (barbeque-AmE), a lamb chop, a kebab (shish kebab), a stew, noodles, a curry, tacos, a falafel, an omelette (an omelet-AmE), a burger, a biscuit (cookie-AmE), pasta, dessert, soup. Adjectives: Spicy, salty, hot, sweet, sour, bitter, savoury (savory-AmE), juicy, creamy, tender, giant. Verbs: To taste, a stall, a (street) vendor, to crack (eggs), to stir, *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Target Language Grammatical in Use: -The Simple Present Tense with “or”: (Is this a local or an international festival? This is a local festival in Türkiye.) -The Simple Present Tense with “Wh- question words”: (What festival is this? It is the Orange Festival.) (What do you cook at the Orange Festival? We cook/make orange jam at the Orange Festival.) (Where is the Omelette Festival? It is in France. What do they cook? They cook omelette in a very big pan.) (What are the ingredients? The ingredients are eggs, milk, cheese, green peppers and mushrooms.) (How do they cook it? They put some milk, some eggs, and some mushrooms in a pan, they stir it and cook it.) -The Present Progressive Tense: (What are you cooking now? We are cooking orange cake now.) -The Simple Present Tense vs the Present Progressive Tense: (How do they serve it? They serve it with salad and bread but we’re/are serving it with green pepper now.) Functions of Target Language Grammar in Use: -Use of “Or”: Asking for options to help someone choose something by using the word “or”. -Use of the Simple Present Tense: Describing habits, routines, regular and repeated actions. -Use of the Present Progressive Tense: describing actions happening at or around the time of speaking. -Use of “Wh-questions”: Asking and answering about factual information in the present time with Wh- questions and with the pronouns we/you/they by using the Present Simple Tense and Present Progressive Tense. -Use of the Simple Present Tense vs the Present Progressive Tense: Comparing the descriptions of general truths, routines and habits by using the Simple Present Tense with actions happening at the present moment and/or around the current time by using the Present Progressive Tense. Target Social Language Expressions in Use: This tastes amazing! What a delicious meal! I’m full, but I can’t stop eating! You’re/ are good at/bad at cooking! Target Phonological Sounds in Use: Vowels: u: (/u/, /u:/) Consonants: t: (/t/, /ð/, /θ/); v: (/v/) *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.6",
+       "metin": "L1.Students can prepare and get ready for listening (to)/watching about the current content on ''life in the city and country with local and international food culture and food festivals in the city''"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 93,
+      "pdf_baslangic": null,
+      "basili_bitis": 106,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      25,
+      26,
+      27,
+      28
+     ],
+     "hafta_metin": "25. Hafta: 29 Mart-2 Nisan → 28. Hafta: 19-23 Nisan",
+     "ders_saati": 14,
+     "yazili": [
+      "2D1Y",
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası",
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u11",
+   "ad": "THEME 7: LIFE IN THE WORLD & NATURE",
+   "konular": [
+    {
+     "id": "ingilizce-u11-k1",
+     "ad": "Sub-themes: ''Nature, endangered animals, their natural living conditions and habitats, and protection of them\" Target Vocabulary in Use (with revisional vocabulary): Vocabulary for endangered animals: Nouns: A polar bear, a sea turtle, an Asian elephant, a tiger, a whale, a great white shark, a penguin, a panda, a dolphin, a chimpanzee, a cheetah. Vocabulary for their habitats: Nouns: Grasslands, rainforests, woodlands, jungles, oceans, deserts. Verbs: To need, to survive, to lessen, to breed, to hunt, to hide, to donate, to save, to protect, to produce, to prevent, to threaten, to reduce, to be at risk, to support, to affect. Other related vocabulary: Nouns: A shelter, a disease, a food source, wildlife, volunteer, overhunting, overfishing, sea/marine pollution, air pollution, habitat loss, safety, population, survival, existence. Adjectives: dedicated, renewable, illegal. *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Target Grammatical Structures in Use: -The Simple Present Tense: (Which animals are endangered? Leopards, cheetahs, elephants etc. are endangered animals.) (Where do endangered animals live? They live in their habitats.) (What are their habitats? Their habitats are oceans, deserts, woodlands etc.) (What are the reasons for their endangerment? Overhunting, water pollution, etc. are the reasons for their endangerment.) -The Simple Past Tense with Verb “To be”: Was/were; there was/there were (Affirmative, negative, and question forms): (What was the population of the leopards in the past? There were about 700.000 leopards in the world 50 years ago.) (What is the population of the leopard now? -There are about 250.000 leopards in the world today.) (What was the main habitat of leopards/elephants etc..? Their main habitat was the jungle.) (Where were the habitats of elephants? Their habitats were woodlands and forests.) (What were the habitats of endangered animals like 50 years ago? They were cleaner and safer etc. than they are today.) -Use of “should” as a modal verb: (What should we do to protect endangered animals? We should protect their habitats. We should reduce water/air pollution. We should create safe areas for them.) Functions of the Target Grammatical Structures in Use: -Use of the Simple Present Tense: Describing facts, situations, and conditions in the past. -Use of the Simple Past Tense “Verb to be (Was/were)”: Asking and answering for information at a specific time in the past. -Use of the Simple Past Tense “There was/There were”: Asking and answering about factual information and questioning the existence of things, people, and animals at a specific time in the past. -Use of the modal “Should”: Describing advice, recommendation (and expectation), describing obligation (and expectation). Target Social Language Expressions in Use: It’s too late! / It’s not too late! Every little bit helps! Spread the word! In safe hands! Target Phonological Sounds in Use: Diphthongs: ea: (/eə/), ee: /ɪə/ Consonants: w: (/w/); x: (/ks/) *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.7",
+       "metin": "L1.Students can prepare and get ready for listening (to)/watching about the current content on ''life in the world and nature with nature, endangered animals, their natural living conditions and habitats, and protection of them''"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 107,
+      "pdf_baslangic": null,
+      "basili_bitis": 120,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      28,
+      29,
+      30,
+      31
+     ],
+     "hafta_metin": "28. Hafta: 19-23 Nisan → 31. Hafta: 10-14 Mayıs",
+     "ders_saati": 14,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    }
+   ]
+  },
+  {
+   "id": "ingilizce-u12",
+   "ad": "THEME 8: LIFE IN THE UNIVERSE & FUTURE",
+   "konular": [
+    {
+     "id": "ingilizce-u12-k1",
+     "ad": "Sub-themes: “Films, film genres, futuristic films with futuristic ideas, and technology” Target Vocabulary in Use (with revisional vocabulary): Vocabulary for film genres: Nouns: Film (movie-AmE), comedy, action, cartoon (animated-AmE), romantic (romance-AmE), family film, adventure, science fiction, detective film, historical film, thriller, mystery, horror, musical, documentary, biographical, crime, martial arts. Vocabulary for futuristic film genres: Nouns: Space adventure, robots, alien invasion, time travel, time loop, space exploration, adventure, superheroes, science (sci-fi) fantasy, an invention, a discovery, a survival, an actor, an actress, a director, a crew, virtual reality, a myth. Verbs: To discover, to explore, to invent, to adapt, to control, to be into sth. Adjectives: Futuristic, robotic, artificial, virtual, technological, horrific, world-saving, legendary, global, optimistic, intelligent, epic. *National and religious days, festivals and celebrations: “29 October Republic Day”, “23 April National Sovereignty and Children’s Day”, “19 May Commemoration of Atatürk, Youth and Sports Day”, “15 July Democracy and National Unity Day”, “30 August Victory Day”, \"Eid al- Fitr (Eid-al-Ramadan)\", \"Festival of Sacrifice (Eid-al-Adha)\". *(Relevant language content and (communicative) activities related to these national and religious days, festivals and celebrations will be developed and integrated across all themes and in all appropriate sections wherever and whenever possible.) *Local Cultural, Social and Moral Considerations of the Theme In this theme, specific examples, cases, situations, events, and practices reflecting Turkish social, cultural, and moral customs, traditions, and heritage will be included across all sub-topics. This consideration will be age-and-level appropriate and selected with the Turkish learners’ social and cultural context in mind. A table of contents for this section is provided in the introduction to the whole English Language Curriculum. Background Grammatical Structures in Use: -The Simple Present Tense: (Adventure films show exciting places and happening.) *About “Background Grammatical Structures in Use”: The “Background Grammatical Structures” in this section are not only revisional but also serve as contextual support and contribute to meaning-making. They are intended to be used within the theme to help students grasp the meaning of the language constructed through the use of “Target Grammatical Structures” without being explicitly taught. These structures are not considered “Target Grammatical Structures” themselves rather they function as a part of the facilitation process, supporting both the target forms and the contexts in which they are used. They provide opportunities for learning through revised and scaffolded language. Target Grammatical Structures in Use: -The Simple Future Tense (Positive, negative, Interrogative): (What (do you think) will happen in the future? (I think) robots will help people in the future. People will travel to other planets. Scientists will invent new machines to explore space. Time travellers will change history. People will live in virtual reality worlds.) Functions of the Target Grammatical Structures in Use: -Use of the Simple Present Tense: Describing events and happenings (in films). -Use of the Simple Future Tense: Describing predictions, expressing what speakers believe and expect, explaining speakers’ opinions or guesses about the future, describing advice, recommendations (and expectations). Target Social Language Expressions in Use: This (film) is a breath of fresh air! This (film) is not my cup of tea! I’m not brave enough to watch this! What’s next? Target Phonological Sounds in Use: Diphthong: o, oe, owoa, ou, eau: /əʊ/ Consonants: y: (/j/, /i/; z: (/z/) *(Phonetic symbols will not be taught. Only sounds will be practised through the target words in the theme.)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "ENG.9.8",
+       "metin": "L1.Students can prepare and get ready for listening (to)/watching about the current content on ''life in the universe and future with films, film genres, futuristic films with futuristic ideas, and technology''"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/ingilizce/metin/ingilizce-dersi-9-sinif-ders-kitabi",
+      "basili_baslangic": 121,
+      "pdf_baslangic": null,
+      "basili_bitis": null,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      32,
+      33,
+      34,
+      35,
+      37
+     ],
+     "hafta_metin": "32. Hafta: 17-21 Mayıs → 37. Hafta: 21-25 Haziran",
+     "ders_saati": 14,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+     ]
+    }
+   ]
+  }
+ ]
+}

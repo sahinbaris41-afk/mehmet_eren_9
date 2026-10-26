@@ -1,0 +1,962 @@
+{
+ "ders": "tde",
+ "ders_adi": "Türk Dili ve Edebiyatı",
+ "sinif": 9,
+ "haftalik_saat": 5,
+ "kaynaklar": {
+  "yillik_plan": "kaynaklar/yillik_plan/meb_taslak/tde/2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN son.xlsx [9.SINIF]",
+  "ksdt_1donem": "kaynaklar/meb/ortak_sinav/konu_soru_dagilim_2026_2027_1donem/edebiyat2.xlsx",
+  "ders_kitabi_metin": [
+   "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162"
+  ],
+  "haftalik_saat": "TTKB 09/05/2025 Anadolu Lisesi Haftalık Ders Çizelgesi"
+ },
+ "aciklama": {
+  "yazili": "1D1Y/1D2Y/2D1Y/2D2Y. 'KSDT' kaynaklılar resmî tablodan, diğerleri plan haftasından tahmin. Yönetmelik 45/1-d gereği her yazılı önceki konuları da azalan oranda kapsar.",
+  "kitap": "basili_* kitabın üzerinde yazan sayfa; pdf_baslangic metin klasöründeki sNNNN.txt numarası. Eşleşme içindekiler sayfasına kelime benzerliğiyle yapıldı."
+ },
+ "uretim": {
+  "arac": "tools/harita_uret.py",
+  "tarih": "2026-10-26"
+ },
+ "dogrula": [],
+ "uniteler": [
+  {
+   "id": "tde-u1",
+   "ad": "1. TEMA: SÖZÜN İNCELİĞİ",
+   "konular": [
+    {
+     "id": "tde-u1-k1",
+     "ad": "OKUMA • Tema içeriğine uygun bir şiir • Tema içeriğine uygun bir deneme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE2.1",
+       "metin": "“Sözün İnceliği” temasında ele alınan metinlerde okumayı yönetebilme"
+      },
+      {
+       "kod": "TDE2.2",
+       "metin": "“Sözün İnceliği” temasında ele alınan metinlerde anlam oluşturabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 15,
+      "pdf_baslangic": null,
+      "basili_bitis": 55,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      1,
+      2,
+      3
+     ],
+     "hafta_metin": "1. Hafta: 14-18 Eylül → 3. Hafta: 28 Eylül-2 Ekim",
+     "ders_saati": 15,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0
+       ],
+       [
+        4,
+        5,
+        6
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0
+       ],
+       [
+        2,
+        1,
+        2,
+        1
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "tde-u1-k2",
+     "ad": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE4.1",
+       "metin": "Edebî söyleyişin inceliğini yansıtmak için paragraf düzeyindeki bir yazısında süreci yönetebilme"
+      },
+      {
+       "kod": "TDE4.2",
+       "metin": "Edebî söyleyişin inceliğini yansıtan metinlerden edindiği söz varlığını kullanarak yazısına içerik oluşturabilme"
+      },
+      {
+       "kod": "TDE4.3",
+       "metin": "Edebî söyleyişin inceliğini yansıttığı yazısında kural uygulayabilme"
+      },
+      {
+       "kod": "TDE4.4",
+       "metin": "Edebî söyleyişin inceliğini yansıttığı yazısında yazma sürecini değerlendirebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      4,
+      5
+     ],
+     "hafta_metin": "4. Hafta: 5-9 Ekim → 5. Hafta: 12-16 Ekim",
+     "ders_saati": 10,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0
+       ],
+       [
+        0,
+        0,
+        0
+       ],
+       [
+        1,
+        1,
+        1
+       ],
+       [
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0
+       ],
+       [
+        0,
+        0,
+        0,
+        0
+       ],
+       [
+        1,
+        1,
+        1,
+        1
+       ],
+       [
+        0,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "tde-u1-k3",
+     "ad": "DİNLEME/İZLEME • Tema içeriğine uygun çok modlu metin (Mülakat)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE1.1",
+       "metin": "“Sözün İnceliği” temasında ele alınan metinlerde dinlemeyi/izlemeyi yönetebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 56,
+      "pdf_baslangic": null,
+      "basili_bitis": 74,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      6
+     ],
+     "hafta_metin": "6. Hafta: 19-23 Ekim → 6. Hafta: 19-23 Ekim",
+     "ders_saati": 5,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "tde-u1-k4",
+     "ad": "DİNLEME/İZLEME • Tema içeriğine uygun çok modlu metin (Mülakat) KONUŞMA • Deneme türünde yazılmış metinlerden hareketle fikir geliştirme tekniklerini kullanarak bir konuşma yapabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE1.2",
+       "metin": "“Sözün İnceliği” temasında ele alınan metinlerde anlam oluşturabilme"
+      },
+      {
+       "kod": "TDE3.1",
+       "metin": "Söyleyişin inceliğini kullanarak akıcı bir konuşma süreci yönetebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 56,
+      "pdf_baslangic": null,
+      "basili_bitis": 74,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      7
+     ],
+     "hafta_metin": "7. Hafta: 26-30 Ekim → 7. Hafta: 26-30 Ekim",
+     "ders_saati": 0,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "tde-u1-k5",
+     "ad": "KONUŞMA • Deneme türünde yazılmış metinlerden hareketle fikir geliştirme tekniklerini kullanarak bir konuşma yapabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE3.2",
+       "metin": "Muhatabını ikna etmek için söyleyiş inceliklerine yer veren bir konuşma içeriği oluşturabilme"
+      },
+      {
+       "kod": "TDE3.3",
+       "metin": "Muhatabını ikna etmek için söyleyiş inceliklerine yer veren bir konuşmada kural uygulayabilme"
+      },
+      {
+       "kod": "TDE3.4",
+       "metin": "Söyleyiş inceliğinin konuşmasına etkisiyle ilgili süreci değerlendirebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      8,
+      9
+     ],
+     "hafta_metin": "8. Hafta: 2-6 Kasım → 9. Hafta: 9-13 Kasım",
+     "ders_saati": 8,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tde-u2",
+   "ad": "2. TEMA: ANLAM ARAYIŞI",
+   "konular": [
+    {
+     "id": "tde-u2-k1",
+     "ad": "OKUMA • Tema içeriğine uygun bir hikâye • Tema içeriğine uygun bir anı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE2.1",
+       "metin": "“Anlam Arayışı” temasında ele alınan metinlerde okumayı yönetebilme"
+      },
+      {
+       "kod": "TDE2.2",
+       "metin": "“Anlam Arayışı” temasında ele alınan metinlerde anlam oluşturabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 75,
+      "pdf_baslangic": null,
+      "basili_bitis": 130,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      10,
+      11,
+      12
+     ],
+     "hafta_metin": "10. Hafta: 23-27 Kasım → 12. Hafta: 7-11 Aralık",
+     "ders_saati": 15,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0
+       ],
+       [
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0
+       ],
+       [
+        3,
+        4,
+        4,
+        5
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "tde-u2-k2",
+     "ad": "KONUŞMA • Hikâyedeki bir karakteri tanıtan sunum hazırlayabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE3.1",
+       "metin": "Konusunu ana düşünce etrafında detaylandırdığı akıcı bir konuşma sürecini yönetebilme"
+      },
+      {
+       "kod": "TDE3.2",
+       "metin": "Konusunu ana düşünce etrafında detaylandırdığı konuşma içeriğini oluşturabilme"
+      },
+      {
+       "kod": "TDE3.3",
+       "metin": "Konusunu ana fikir etrafında detaylandırdığı konuşmasında kural uygulayabilme"
+      },
+      {
+       "kod": "TDE3.4",
+       "metin": "Konuşmasının içeriğinde kullandığı unsurların konuşmasına olan etkisine yönelik süreci değerlendirebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      13,
+      14
+     ],
+     "hafta_metin": "13. Hafta: 14-18 Aralık → 14. Hafta: 21-25 Aralık",
+     "ders_saati": 10,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "tde-u2-k3",
+     "ad": "DİNLEME/İZLEME • Tema içeriğine uygun çok modlu metin (Şiir)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE1.1",
+       "metin": "“Anlam Arayışı” temasında ele alınan metinlerde dinlemeyi/izlemeyi yönetebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 131,
+      "pdf_baslangic": null,
+      "basili_bitis": 152,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      15
+     ],
+     "hafta_metin": "15. Hafta: 28 Aralık -1Ocak → 15. Hafta: 28 Aralık -1Ocak",
+     "ders_saati": 5,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "tde-u2-k4",
+     "ad": "DİNLEME/İZLEME • Tema içeriğine uygun çok modlu metin (Şiir) YAZMA • Temaya uygun bir şiir yazabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE1.2",
+       "metin": "“Anlam Arayışı” temasında ele alınan metinlerde anlam oluşturabilme"
+      },
+      {
+       "kod": "TDE4.1",
+       "metin": "Konu zenginliği ve çeşitliliğini sağlayan edebî metinlerde yazma sürecini yönetebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 131,
+      "pdf_baslangic": null,
+      "basili_bitis": 152,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      16
+     ],
+     "hafta_metin": "16. Hafta: 4-8 Ocak → 16. Hafta: 4-8 Ocak",
+     "ders_saati": 0,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "1. dönem konusu ama resmî KSDT'de yok",
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "tde-u2-k5",
+     "ad": "YAZMA • Temaya uygun bir şiir yazabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE4.2",
+       "metin": "Yazısını zenginleştirecek içerik oluşturabilme"
+      },
+      {
+       "kod": "TDE4.3",
+       "metin": "Konu zenginliği ve çeşitliliğini sağlayan yazısında kural uygulayabilme"
+      },
+      {
+       "kod": "TDE4.4",
+       "metin": "Beğeni ve eleştirilerini dile getirdiği yazısına yönelik yazma sürecini değerlendirebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      17,
+      18
+     ],
+     "hafta_metin": "17. Hafta: 11-15 Ocak → 18. Hafta: 18-22 Ocak",
+     "ders_saati": 8,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": true
+     },
+     "dogrula": [
+      "Ülke geneli 2D1Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli",
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tde-u3",
+   "ad": "3. TEMA: ANLAMIN YAPI TAŞLARI",
+   "konular": [
+    {
+     "id": "tde-u3-k1",
+     "ad": "OKUMA • Tema içeriğine uygun bir hikâye • Ara Metin: Tema içeriğine uygun bir şiir • Tema içeriğine uygun bir gezi yazısı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE2.1",
+       "metin": "“Anlamın Yapı Taşları” temasında ele alınan metinlerde okumayı yönetebilme"
+      },
+      {
+       "kod": "TDE2.2",
+       "metin": "“Anlamın Yapı Taşları” temasında ele alınan metinlerde anlam oluşturabilme"
+      },
+      {
+       "kod": "TDE2.3",
+       "metin": "“Anlamın Yapı Taşları” temasında ele alınan metinleri çözümleyebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 153,
+      "pdf_baslangic": null,
+      "basili_bitis": 197,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      19,
+      20,
+      21
+     ],
+     "hafta_metin": "19. Hafta: 8-12 Şubat → 21. Hafta: 22-26 Şubat",
+     "ders_saati": 15,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": true
+     },
+     "dogrula": [
+      "Ülke geneli 2D1Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli"
+     ]
+    },
+    {
+     "id": "tde-u3-k2",
+     "ad": "KONUŞMA • Okuduğu metinlerdeki mekânları kendi çevresindeki mekânlarla karşılaştırdığı bir konuşma yapabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE3.1",
+       "metin": "Edebî metinlerde yapısal inceliklere odaklanan akıcı bir konuşma sürecini yönetebilme"
+      },
+      {
+       "kod": "TDE3.2",
+       "metin": "Benzetme, karşılaştırma yaparak yapısal özellikleri ortaya koyduğu bir konuşma içeriği oluşturabilme"
+      },
+      {
+       "kod": "TDE3.3",
+       "metin": "Benzetme, karşılaştırma yaparak yapısal özellikleri ortaya koyduğu bir konuşmada kural uygulayabilme"
+      },
+      {
+       "kod": "TDE3.4",
+       "metin": "Edebî metinlerdeki yapısal inceliklerin konuşmaya etkisine yönelik süreci değerlendirebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      22,
+      23
+     ],
+     "hafta_metin": "22. Hafta: 1-5 Mart → 23. Hafta: 15-19 Mart",
+     "ders_saati": 10,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "tde-u3-k3",
+     "ad": "DİNLEME/İZLEME • Tema içeriğine uygun çok modlu metin (Belgesel)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE1.1",
+       "metin": "“Anlamın Yapı Taşları” temasında ele alınan metinlerde dinleme/izlemeyi yönetebilme"
+      },
+      {
+       "kod": "TDE1.2",
+       "metin": "“Anlamın Yapı Taşları” temasında ele alınan metinlerde anlam oluşturabilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 198,
+      "pdf_baslangic": 198,
+      "basili_bitis": 214,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      24
+     ],
+     "hafta_metin": "24. Hafta: 22-26 Mart → 24. Hafta: 22-26 Mart",
+     "ders_saati": 5,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "tde-u3-k4",
+     "ad": "DİNLEME/İZLEME • Tema içeriğine uygun çok modlu metin (Belgesel) YAZMA • Belgeseli infografik metne dönüştürebilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE1.3",
+       "metin": "“Anlamın Yapı Taşları” temasında ele alınan metinleri çözümleyebilme"
+      },
+      {
+       "kod": "TDE4.1",
+       "metin": "Yapısını incelikle ördüğü bir yazılı anlatım sürecini yönetebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 198,
+      "pdf_baslangic": 198,
+      "basili_bitis": 214,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      25
+     ],
+     "hafta_metin": "25. Hafta: 29 Mart-2 Nisan → 25. Hafta: 29 Mart-2 Nisan",
+     "ders_saati": 0,
+     "yazili": [
+      "2D1Y"
+     ],
+     "yazili_kaynak": {
+      "2D1Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": true
+     },
+     "dogrula": [
+      "Ülke geneli 2D1Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli",
+      "başka bir konuyla aynı kitap sayfasına eşlendi"
+     ]
+    },
+    {
+     "id": "tde-u3-k5",
+     "ad": "YAZMA • Belgeseli infografik metne dönüştürebilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE4.2",
+       "metin": "Yapısı incelikle örülmüş edebî metinlerden edindiği söz varlığını kullanarak yazısı için içerik oluşturabilme"
+      },
+      {
+       "kod": "TDE4.3",
+       "metin": "Yapısını incelikle ördüğü yazısında kural uygulayabilme"
+      },
+      {
+       "kod": "TDE4.4",
+       "metin": "Yapısını incelikle ördüğü yazısına yönelik yazma sürecini değerlendirebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      26,
+      27
+     ],
+     "hafta_metin": "26. Hafta: 5-9 Nisan → 27. Hafta: 12-16 Nisan",
+     "ders_saati": 8,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tde-u4",
+   "ad": "4. TEMA: DİLİN ZENGİNLİĞİ",
+   "konular": [
+    {
+     "id": "tde-u4-k1",
+     "ad": "OKUMA • Tema içeriğine uygun bir roman • Ara Metin: Tema içeriğine uygun bir tiyatro • Tema içeriğine uygun bir eleştiri",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE2.1",
+       "metin": "“Dilin Zenginliği” temasında ele alınan metinlerde okumayı yönetebilme"
+      },
+      {
+       "kod": "TDE2.2",
+       "metin": "“Dilin Zenginliği” temasında ele alınan metinlerde anlam oluşturabilme"
+      },
+      {
+       "kod": "TDE2.3",
+       "metin": "“Dilin Zenginliği” temasında ele alınan metinleri çözümleyebilme"
+      },
+      {
+       "kod": "TDE2.4",
+       "metin": "“Dilin Zenginliği” temasında ele alınan metinlere yönelik süreci değerlendirebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 215,
+      "pdf_baslangic": 215,
+      "basili_bitis": 280,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      28,
+      29,
+      30
+     ],
+     "hafta_metin": "28. Hafta: 19-23 Nisan → 30. Hafta: 3-7 Mayıs",
+     "ders_saati": 15,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "tde-u4-k2",
+     "ad": "KONUŞMA • Sosyal medya dilini edebî dilin özellikleri açısından eleştirdiği bir sunum hazırlayabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE3.1",
+       "metin": "Dilin zenginliğini kullandığı akıcı bir konuşma sürecini yönetebilme"
+      },
+      {
+       "kod": "TDE3.2",
+       "metin": "Konusunu dilin zenginliğinden yararlanarak oluşturduğu konuşma içeriğini oluşturabilme"
+      },
+      {
+       "kod": "TDE3.3",
+       "metin": "Konusunu dilin zenginliğinden yararlanarak oluşturduğu konuşmasında kural uygulayabilme"
+      },
+      {
+       "kod": "TDE3.4",
+       "metin": "Kullandığı dil özelliklerinin konuşmasına etkisine yönelik süreci değerlendirebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      31,
+      32
+     ],
+     "hafta_metin": "31. Hafta: 10-14 Mayıs → 32. Hafta: 17-21 Mayıs",
+     "ders_saati": 10,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "tde-u4-k3",
+     "ad": "DİNLEME/İZLEME • Tema içeriğine uygun çok modlu metin (Otobiyografi)",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE1.1",
+       "metin": "“Dilin Zenginliği” temasında ele alınan metinlerde dinlemeyi/izlemeyi yönetebilme"
+      },
+      {
+       "kod": "TDE1.2",
+       "metin": "“Dilin Zenginliği” temasında ele alınan metinlerde anlam oluşturabilme"
+      },
+      {
+       "kod": "TDE1.3",
+       "metin": "“Dilin Zenginliği” temasında ele alınan metinleri çözümleyebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 281,
+      "pdf_baslangic": 281,
+      "basili_bitis": null,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      33
+     ],
+     "hafta_metin": "33. Hafta: 24-28 Mayıs → 33. Hafta: 24-28 Mayıs",
+     "ders_saati": 5,
+     "yazili": [],
+     "yazili_kaynak": {
+      "uygulamali": "Yönetmelik 45/1-h: TDE sınavları dinleme/konuşma için uygulamalı yapılır"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "başka bir konuyla aynı kitap sayfasına eşlendi",
+      "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+     ]
+    },
+    {
+     "id": "tde-u4-k4",
+     "ad": "DİNLEME/İZLEME • Tema içeriğine uygun çok modlu metin (Otobiyografi) YAZMA • Otobiyografisini yazabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE1.4",
+       "metin": "“Dilin Zenginliği” temasında ele alınan metinlerde dinleme/izleme sürecini değerlendirebilme"
+      },
+      {
+       "kod": "TDE4.1",
+       "metin": "Öz yaşam öyküsünü oluşturabilmek için bir yazılı anlatım sürecini yönetebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/tde/metin/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162",
+      "basili_baslangic": 281,
+      "pdf_baslangic": 281,
+      "basili_bitis": null,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [
+      34
+     ],
+     "hafta_metin": "34. Hafta: 31 Mayıs-4 Haziran → 34. Hafta: 31 Mayıs-4 Haziran",
+     "ders_saati": 0,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "başka bir konuyla aynı kitap sayfasına eşlendi",
+      "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+     ]
+    },
+    {
+     "id": "tde-u4-k5",
+     "ad": "YAZMA • Otobiyografisini yazabilme",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "TDE4.2",
+       "metin": "Öz yaşam öyküsünü aktarmak için kendi üslup özelliklerini yansıtan bir yazılı an latım içeriği oluşturabilme"
+      },
+      {
+       "kod": "TDE4.3",
+       "metin": "Öz yaşam öyküsünü aktarmak için kendi üslup özelliklerini yansıtan yazısında kural uygulayabilme"
+      },
+      {
+       "kod": "TDE4.4",
+       "metin": "Beğeni ve eleştirilerini dile getirdiği yazısına yönelik yazma sürecini değerlendirebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [
+      35,
+      36,
+      37
+     ],
+     "hafta_metin": "35. Hafta: 7-11 Haziran → 37. Hafta: 21-25 Haziran",
+     "ders_saati": 8,
+     "yazili": [
+      "2D2Y"
+     ],
+     "yazili_kaynak": {
+      "2D2Y": "plan haftası"
+     },
+     "ksdt_senaryo_soru": null,
+     "ortak_sinav": {
+      "okul_geneli_ksdt": false,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  }
+ ]
+}

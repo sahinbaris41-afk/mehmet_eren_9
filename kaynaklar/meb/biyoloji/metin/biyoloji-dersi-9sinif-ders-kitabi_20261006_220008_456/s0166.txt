@@ -1,0 +1,29 @@
+166
+BÜTÜNCÜL DERECELİ PUANLAMA ANAHTARI
+Puan Özellikler
+İyi  (3)
+• Biyolojik gözlemler ve deneyimler temel alınarak net bir problem durumu tanımlanmış.
+• Net, araştırılabilir bir soru cümlesi oluşturulmuş.
+• Mantıklı ve problemle uyumlu hipotezler üretilmiş.
+• Doğru ve güvenilir kaynaklar kullanılarak ilgili araştırmalar bulunmuş ve kaydedilmiş.
+• Bilimin doğasıyla ilgili temel özellikler doğru ve eksiksiz bir şekilde tanımlanmış.
+• Öğrenci, elde ettiği sonuçları açık ve doğru bir şekilde ifade etmiş.
+• Öğrenci, belirlenen görevleri zamanında ve etkili bir şekilde yerine getirmiş.
+Orta  (2)
+• Biyoloji ile ilişkilendirilmiş ancak belirli bir problem durumu tanımlanmamış.
+• Soru cümlesi belirsizdir veya araştırılabilir değil.
+• Yetersiz veya mantıksız hipotezler sunulmuş.
+• Yetersiz veya güvenilir olmayan kaynaklar kullanılmış.
+• Bilimin doğasıyla ilgili özellikler tanımlanmış ancak eksik veya yanlış kavranmış.
+• Öğrenci, bazı sonuçları doğru bir şekilde ifade edebilmiş ancak eksiklikler var.
+• Öğrenci, belirlenen görevleri yerine getirmiş ancak zamanında tamamlayamamış ya da belirlenen 
+görevleri eksik olarak yapmış ancak zamanında teslim etmiş. 
+Yetersiz  (1)
+• Belirli bir biyolojik gözlem veya deneyimden yola çıkılmamış, problem durumu belirsiz.
+• Araştırılabilir bir soru cümlesi oluşturulmamış.
+• Hipotezler belirtilmemiş veya belirsiz.
+• Araştırma yapılmamış veya güvenilir kaynaklar kullanılmamış.
+• Bilimin doğasıyla ilgili özellikler belirtilmemiş veya yanlış anlaşılmış.
+• Öğrenci, elde ettiği sonuçları doğru bir şekilde ifade edememiş. 
+• Öğrenci, belirlenen görevleri yerine getirememiş veya zamanında tamamlayamamış.
+FORM 4

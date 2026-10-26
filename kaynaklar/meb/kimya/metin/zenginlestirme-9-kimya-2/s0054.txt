@@ -1,0 +1,43 @@
+52 53
+KİMYA 9 
+2. TEMA: ÇEŞİTLİLİK
+KİMYA 9
+Etkinliğin Amacı • Viskozite ve viskoziteyi etkileyen faktörler ile ilgili deneyler yaparak elde 
+ettikleri bilgileri endüstriyel ve biyomedikal alanlarda uygulayabilme
+• Newton tipi olan ve olmayan akışkanların viskozite özelliklerini  
+belirleyebilme
+Zenginleştirme 
+Uygulaması
+Öğrenciler, Newton (Nivtın) tipi olan ve olmayan akışkanların viskozite özel-
+liklerini belirlemek için laboratuvar deneyleri yapabilir. Bu akışkanların vis-
+kozitesini etkileyen faktörleri açıklayan teorik hesaplamalar yapmaları da 
+öğrencilerden istenebilir. Öğrenciler, yaptıkları deneylerden elde ettikleri 
+verileri analiz ederek Newton tipi olan ve olmayan akışkanların viskozite 
+davranışları arasındaki farkları belirleyebilir. Ayrıca bu farkların pratik uy -
+gulamalara nasıl yansıdığını, endüstriyel ve biyomedikal uygulamalardaki 
+yenilikçi çözümlerini ve avantajlarını değerlendirebilir. Öğrenciler elde et -
+tikleri bulguları raporlayabilir ve sunabilir.
+Araç Gereç ve 
+Materyaller
+• Kronometre, 4 adet mezür, asetat kalemi, etiketler, piknometre, ter-
+mometre, bilyeler, kumpas, su banyosu, sıvı sabun, gliserin 
+• Okuma metni
+• Güvenli internet siteleri (gov, edu uzantılı)
+2. ETKİNLİK ADI VİSKOZİTE
+1. Adım: Etkinliğe Giriş
+Bingham Plastik
+İncelen Akışkan
+Kalınlaşan Akışkan
+Eğim = α = Viskozite
+Deformasyon Hızı
+Kayma Gerilmesi
+Newton Tipi
+α
+α
+α
+α
+α
+α
+α
+Grafik 2.2: Bazı akışkanların kayma gerilmesi-deformasyon hızı 
+Aşağıdaki adımları takip ederek etkinliğin gerçekleştirilmesini sağlayınız.

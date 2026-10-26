@@ -1,0 +1,15 @@
+53
+1. Tema/Etkileşim
+ç) R utherford, yaptığı deney sonucunda Thomson atom teorisindeki hangi varsayımları nasıl değiştirmiş -
+tir ve ulaştığı yeni varsayımlar nelerdir? Açıklayınız.
+d) V erilen atom teorilerinde atom altı taneciklerden hangisinin varlığı tam olarak açıklanamamıştır?
+2. Modern atom teorisinde atomda elektronların bulunma olasılığının en fazla olduğu bölgele-
+re orbital denir. Bohr atom teorisinde ise elektronlar yörünge adı verilen çizgisel yörüngede bulunur.  
+Atom teorilerinde elektronun bulunduğu yer konusunda bilimsel bilgilerin farklılık göstermesi bilimsel 
+bilginin hangi özelliğini ifade eder? Bu özelliği farklı bir örnek kullanarak açıklayınız.
+3. Tüm atom teorilerinin günümüzde de geçerliliğini koruyan varsayımlarına birer örnek yazınız.
+4. Bilims el araştırma ve yöntemlerle elde edilen bilgiye bilimsel bilgi adı verilir. 
+Bilimsel bilginin zaman ve bilgi birikimiyle değişmesi, bilginin doğruluğunu sorgulamanıza neden olabilir 
+mi? Atom teorilerini kullanarak açıklayınız.
+5. Atom altı taneciklerinin keşfi ile ilgili etkileşimli içeriğe ulaşmak için yandaki karekodu akıllı 
+    cihazınıza okutunuz.

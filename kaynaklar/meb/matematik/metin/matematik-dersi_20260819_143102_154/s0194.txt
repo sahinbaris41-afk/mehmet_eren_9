@@ -1,0 +1,39 @@
+194
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*) Trigonometrik, üstel ve logaritmik fonksiyonların türevi, limit tanımından yararlanılarak bu-
+lunabilir. Yüksek mertebeden türev alma yaklaşımları incelenir ve bunlara ilişkin n. dereceden 
+türevi veren matematiksel modellemeler yapılabilir. Trigonometrik, logaritmik ve üstel fonksi-
+yonlar kullanılarak yüksek mertebeden türeve ilişkin örüntüler ve genellemeler elde edilebi-
+lir. Bir fonksiyonun kendisiyle ters fonksiyonu arasında türeve dayalı ilişkiler kurulabilir. Kapalı 
+fonksiyonların türev alma kuralı, ispatı yapılarak incelenebilir. Ters trigonometrik fonksiyonların 
+türev alma kuralını bulmaya yönelik cebirsel ispatlar yapılır. Fonksiyonların çarpım ve bölümü-
+nün türevine yönelik ispatlar e tabanındaki logaritmik fonksiyon kullanılarak elde edilebilir. Dife-
+ransiyel kavramı kullanılarak ters türeve yönelik incelemeler yapılabilir. Basit düzeydeki türevli 
+denklemler ters türev fikri kullanılarak çözülebilir. 
+(*) Türev kullanılarak yapılabilecek STEM uygulamalarına daha fazla yer verilebilir. Örneğin bir 
+bakteri popülasyonu fonksiyonlar ile modellenerek bu popülasyonun belirli bir t anındaki büyü-
+me hızı belirlenebilir.
+Destekleme Anlık değişim oranı kavramının doğru bir şekilde anlaşılabilmesi için ortalama değişim ile ilgili 
+gerektiği kadar gerçek yaşam durumu örneği  matematiksel yazılımlar kullanılarak incelene-
+bilir.
+Türevin kullanıldığı gerçek yaşam durumu örnekleri (traktörün anlık hızı, kasabadaki nüfusun 
+büyüme hızı gibi) öğrencilerin yakın çevresi dikkate alınarak çeşitlendirilebilir. Böylelikle öğ -
+rencilerin konuya ilgi ve motivasyonları artırılabilir.
+Anlık değişim oranı ve türev kavramının temsil edilebileceği  somut materyaller (animasyon -
+lar) kullanılabilir.
+Öğrencilere bir fonksiyonun belirli bir noktadaki türevini cebirsel olarak ifade edebilmeye, 
+grafik temsilde yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değer -
+lendirmeler yapılabilir.
+Türev kavramı ve türev alma kuralları ile ilgili performans görevleri ve çalışma kâğıtları için 
+daha fazla zaman verilebilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam (sözlü, ya-
+zılı, görsel gibi) kullanılabilir.
+Öğrenciler için bireyselleştirilmiş öğrenme planları oluşturulabilir. Türev  kavramı ve türev 
+alma kuralları konusunda öğrencilerin bireysel ihtiyaçlarına uygun hedefler belirlenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+Türevin limit tanımı kullanılarak fonksiyonların toplamının, farkının, çarpımının, bölümünün ve 
+bileşkesinin türevi cebirsel olarak farklı yöntemlerle ispatlanır. Bu ispatlar yapılırken öğrenci-
+lerin ispatlara ilişkin bilimsel yaklaşımlar sunmaları sağlanır (D3.3). Yapılan ispatların kullanış-
+lılığı değerlendirilir. Öğrencilere bu çıktıya yönelik performans görevi verilir.

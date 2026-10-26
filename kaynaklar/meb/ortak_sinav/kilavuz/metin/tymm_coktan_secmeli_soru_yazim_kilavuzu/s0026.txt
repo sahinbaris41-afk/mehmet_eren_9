@@ -1,0 +1,38 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+26
+b)  Zihinsel Süreçler Görünür Kılınmalı
+Ölçme sürecinde sadece doğru cevabın bulunması yeterli değildir, öğrencinin cevaba ulaşırken izlediği yo -
+lun da analiz edilebilmesi gerekir. Bu nedenle çeldiriciler, rastgele yanlışlar olarak değil öğrencinin olası 
+zihinsel hatalarını (yanlış akıl yürütme, kavram yanılgısı vb.) teşhis edecek nitelikte tasarlanmalıdır.
+c) Katmanlı Bağlamlar Kurgulanmalı
+Üst düzey düşünme becerilerinin ölçülmesinde öğrenciye tüm değişkenlerin ayıklanıp hazır sunulduğu 
+pürüzsüz bir ortam sağlanmamalıdır. Bağlamda öğrenci veriyi sorgulamaya, anlamlı olanı ayırt etmeye ve 
+dağınık hâldeki bilgiler arasından doğru olanı seçip yapılandırmaya yönlendirilmelidir.
+KB3.2. Problem Çözme Becerisi
+TYMM kapsamında problem çözme becerisi, karşılaşılan sorunla baş edebilmek için duruma ilişkin yapılan -
+dırma, özetleme, problemin çözümüne yönelik gözleme/mevcut bilgiye/veriye dayalı tahmin etme, öner -
+meler üzerinden akıl yürütme, yansıtma/değerlendirmede bulunmayı kapsayan zihinsel işlemleri yürüte -
+bilmeyi ifade eder.
+Problem çözme becerisi, öğrencinin karmaşık bir durumla karşılaştığında mevcut durumu analiz ederek 
+sadece sonuca odaklanmak yerine çözüm yolundaki aşamaları mantıksal bir sıraya koyma ve süreci hedef -
+lenen çıktıya göre yönlendirme yetkinliğidir.
+TYMM Ortak Metnindeki Süreç Bileşenleri
+Bir problem çözme sorusu veya soru seti aşağıdaki basamaklardan birini veya birkaçını ölçmelidir.
+Kod Süreç Bileşeni
+KB3.2.SB1 Problemi yapılandırmak
+KB3.2.SB2 Problemi özetlemek
+KB3.2.SB3 Problemin çözümüne yönelik gözleme dayalı/mevcut bilgiye/veriye dayalı tahminde bulunmak
+KB3.2.SB4 Problemin çözümüne yönelik önermeler üzerinden akıl yürütmek
+KB3.2.SB5 Problemin çözümüne ilişkin yansıtma/değerlendirmede bulunmak
+Problemi Yapılandırma:  Öğrenciye bilgilerin, verilerin ve olayların harmanlandığı çok katmanlı ve gerçek -
+çi bir bağlam sunulmalıdır. Buradaki temel amaç, öğrencinin sunulan bağlamdan gerekli bilgileri ayıklayıp 
+odak noktasını belirlemesini ve “Çözülmesi gereken asıl mesele nedir?” sorusuna yanıt bulabilmesini sağ -
+lamaktır.
+Problemi Özetleme:  Bağlamda sunulan bilgilerin öğrenci tarafından filtrelenmesi hedeflenmelidir. Öğren -
+ci, metindeki gereksiz ayrıntıları eleyerek problemi en yalın hâliyle ifade edebilmeli ve “Hangi temel bilgilere 
+sahibim?” sorusunun cevabını özet bir biçimde ortaya koyabilmelidir.
+Gözleme/Mevcut Bilgiye/Veriye Dayalı Tahmin:  Öğrenciden tablo veya grafikle verilen bilgilerden yararla -
+narak tahminler yürütmesi istenebilir veya eksik bırakılmış verileri kestirmesi beklenebilir. Öğrenci, eldeki 
+sayısal örüntüleri analiz ederek probleme yönelik tutarlı ve kanıta dayalı tahminler yapabilmelidir.
+Akıl Yürütme: Öğrenciye “Mevcut koşullardan birinin değiştirilmesi, sonucu nasıl etkilerdi?” şeklinde soru -
+lar sorulabilir. Böylece öğrencinin probleme yönelik akıl yürütme becerisi test edilebilir.

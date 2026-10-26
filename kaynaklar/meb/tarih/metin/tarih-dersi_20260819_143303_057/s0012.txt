@@ -1,0 +1,33 @@
+12
+TARİH DERSİ ÖĞRETİM PROGRAMI
+1.3. TARİH DERSİ ÖĞRETİM PROGRAMI’NIN ÜNİTE, ÖĞRENME ÇIKTISI SAYISI VE SÜRE TABLOLARI
+9. SINIF TARİH DERSİ
+ÜNİTE Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. GEÇMİŞİN İNŞA SÜRECİNDE TARİH 4 18 25
+2. ESKİ ÇAĞ MEDENİYETLERİ 5 24 34
+3. ORTA ÇAĞ MEDENİYETLERİ 4 26 36
+OKUL TEMELLİ PLANLAMA* - 4 5
+TOPLAM 13 72 100
+10. SINIF TARİH DERSİ
+ÜNİTE Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. TÜRKİSTAN’DAN TÜRKİYE’YE (1040-1299) 4 20 28
+2. BEYLİKTEN DEVLETE OSMANLI (1299-1453) 5 24 34
+3. CİHAN DEVLETİ OSMANLI (1453-1683) 5 24 33
+OKUL TEMELLİ PLANLAMA* - 4 5
+TOPLAM 14 72 100
+11. SINIF TARİH DERSİ
+ÜNİTE Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. DEĞİŞEN DÜNYADA OSMANLI  (1683-1789) 4 22 31
+2. DÖNÜŞÜM SÜRECİNDE OSMANLI  (1789-1908) 4 26 36
+3. SAVAŞLAR SARMALINDA OSMANLI  (1908-1918) 3 20 28
+OKUL TEMELLİ PLANLAMA* - 4 5
+TOPLAM 11 72 100
+*Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan çalışmalar (okul dışı öğrenme 
+etkinlikleri, araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma çalışmaları vb.) için ayrılan 
+süredir. Çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir.

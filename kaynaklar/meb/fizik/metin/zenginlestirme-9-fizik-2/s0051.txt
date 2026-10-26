@@ -1,0 +1,30 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+50 51
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+ ▶ Sert plastik pipetin uç kısmından içeri bir kıs mı gi-
+recek şekilde cıvata vidasını yerleştiriniz ve silikon 
+yapıştırıcıyla sabitleyiniz. 
+ ▶ Cıvatayı vidadan geçirip cıvatanın ileri geri hareke -
+tinde bir sorun olup olmadığını kontrol ediniz.
+ ▶ Sert plastik pipetin boşta kalan ucunu tekli şırınga -
+nın pistonuna gelecek şekilde silikon yapıştırıcıyla 
+sabitleyiniz.
+ ▶ 1,5 ila 12 V gerilim aralığına sahip dişli ve redüktörlü 
+DC elektrik motoru kullanınız. Elektrik motorunun iç 
+kısmında beyaz kolları her iki yöne dönebilme özelli-
+ğine sahip beyaz kollarla donatılmış çarklar bulunma-
+lıdır. 
+ ▶ Pet şişe kapağının ortasına elektrik motorunun 
+beyaz kolunun geçebileceği şekilde matkapla bir 
+delik açınız. 
+ ▶ Kapağın açık ucunu dışarı bakacak şekilde, elektrik 
+motorunun beyaz kollarından birine geçirip silikon 
+yapıştırıcıyla sabitleyiniz. 
+ ▶ Cıvatanın baş kısmı kapağın açık ucunun içine gele-
+cek şekilde cıvatayı kapağa silikon yapıştırıcıyla sa -
+bitleyiniz.
+8
+9
+10
+silikon

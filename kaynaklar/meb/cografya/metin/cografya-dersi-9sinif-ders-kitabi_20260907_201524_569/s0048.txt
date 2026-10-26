@@ -1,0 +1,70 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+48
+3. İzoplet ve İzometrik Haritalar
+Belirli bir ögenin eşit yoğunluk veya dağılım değerlerinin birleştirilmesiyle olu-
+şan hatların gösterildiği haritalara izoplet harita adı verilir. 
+Eş değer özelliklere ait dağılışların görüntülendiği izoplet haritalarda belirli bir 
+verinin bir coğrafi alan boyunca sürekli olduğu kabul edildiğinden her yerde 
+aynı veri kullanılır. Örneğin nüfus yoğunluğu ya da dönüm başına düşen ürün 
+miktarı gibi verilerle oluşturulan hatlara sahip haritalar, izoplet haritalar içinde 
+yer alır.
+İzometrik haritalarda bir noktaya ait olan ve aletle ölçülen yükselti, sıcaklık, 
+yağış gibi değerler kullanılarak hatlar çizilir. İzohips (eş yükselti), izobat (eş 
+derinlik), izoterm (eş sıcaklık), izobar (eş basınç) ve izoseist (eş sismik) en 
+çok kullanılan izometrik hatlardır. Bu hatlar arasındaki alanlar; ilgili yoğunluk, 
+büyüklük, şiddet derecelendirmesindeki benzer sayısal özellikleri gösteren 
+alanları tanımlar. 
+Eğirdir Gölü’nde su kalitesinin araştırıldığı 
+akademik bir çalışma yapılmıştır. Gölde yapılan 
+ölçüm sonuçlarına göre kirlilik haritaları çizilmiş, 
+ardından gölde yaşanan çevre sorunları üzerinde 
+etkili olan faktörler sorgulanmıştır. 
+Yandaki haritada Eğirdir Gölü’nün farklı nokta-
+larında ölçülen nitrit azotu değerleri, izometrik 
+dağılış haritası üzerinde gösterilmiştir. 
+Eğirdir Gölü Kirlilik (Nitrit Azotu) Haritası
+1. Eğir dir Gölü’nde yapılan su analizlerinin tablo ye -
+rine dağılış haritasında gösterilmesinin sağlayacağı 
+kolaylıklar neler olabilir? 
+................................................................................................ 
+............................................................................................... 
+............................................................................................... 
+...............................................................................................
+2. Haritaya gör e gölde nitrit azotu miktarı nerelerde 
+daha yüksektir? 
+................................................................................................ 
+............................................................................................... 
+............................................................................................... 
+...............................................................................................
+3. Dünyada başka hangi çevr e sorunlarıyla ilgili izo-
+metrik dağılış haritaları yapılabilir? 
+................................................................................................ 
+............................................................................................... 
+............................................................................................... 
+...............................................................................................
+UYGULAMA İzometrik Harita Okuyorum
+K
+EğirdirEğirdir
+Eğirdir Gölü
+GelendostGelendost
+KK
+Göl
+Akarsu
+Nitrit (mg/l)
+0,019
+0,0284
+0,03239
+0,03719
+0,04637
+0,06993
+Düşük
+Yüksek
+Yalvaç DeresiYalvaç Deresi
+Hoyran DeresiHoyran Deresi
+Pupa ÇayıPupa Çayı
+0              5             10
+km Yerleşme
+Eğirdir Gölü Kirlilik (Nitrit Azotu) Haritası, aynı ölçüm 
+aralığındaki değerlere sahip noktalar birleştirilerek 
+oluşturulmuştur. Nitrit oranının yüksek olması, su kalite-
+sinin düşük olduğunu gösterir. 

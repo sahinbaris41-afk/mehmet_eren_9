@@ -1,0 +1,28 @@
+243
+ Orta Çağ Medeniyetleri
+     Değerlendirme Ölçütleri
+Hiçbir Zaman
+Ara Sıra
+Çoğu Zaman
+Her Zaman
+Görüşler
+1. Grup üyeleri araştırma sürecinde birbirleri ile yardımlaştı.
+2. Grup üyeleri araştırma sürecinde birbirlerinin görüşlerini dikkatlice dinledi.
+3. Grup üyeleri görev ve sorumluluklarını zamanın-da yerine getirdi.
+4. Grup üyeleri her aşamada birbirleriyle görüş alışverişi yaptı.
+5. Grup üyeleri araştırma sürecinde birbirlerine saygılı davrandı.
+6. Grup üyeleri edindikleri bilgileri ve çıkarımlarını birbirleri ile paylaştı.
+7. Grup üyeleri yapılan etkinlikte zamanı verimli kullandı.
+8. Grubunuzun güçlü yanları nelerdir?
+9. Grubunuz etkinlik sırasında hangi zorluklarla karşılaştı?
+10. Grup olarak bir sonraki çalışmanızı iyileştirmek için ne önerirsiniz?
+Bu form ile yaptığınız çalışmanızı aşağıda verilen ölçütleri dikkate alarak değerlendiriniz.
+Grup Değerlendirme Formu
+Grubun Adı: 
+Medeniyetin Adı: 
+Grup Üyelerinin Adı, Soyadı ve Numarası:
+1. Üye:
+2. Üye:
+3. Üye:
+4. Üye:
+5. Üye:

@@ -1,0 +1,71 @@
+174
+6. Tema / İstatistiksel Araştırma Süreci
+Nicel	Veriye	Dayalı	İstatistiksel	Araştırmalarda	Veri	
+Analizi	Yapma	ve	Sonuçları	Yorumlama
+Lise	öğrencisi	Meltem,	protein	ve	protein	kaynakl arı	konulu	bir	araştırma	ödevi	hazırlamaktadır .	Araştırma	
+raporunda	aşağıdaki	ifadeler	yer	almaktadır.
+Proteinler	insan	vücudu	için	oldukça	önemlidir.	
+Dengeli	 bir	 şekilde	tüketilen	proteinin	kaslar	
+için	olduğu	kadar	sinir	sistemi	için	de	önemi	
+büyüktür.	Protein	kaynakları,	bitkisel	ve	hay-
+vansal	protein	kaynak ları	şeklinde	ikiye	ayrı l-
+maktadır.
+Hayvansal	kaynaklı	proteinlerden	biri	de	balık-
+tır.	Özellikle	Om ega-3	yağı	bakı mından	zengin	
+olan	 balıklar	 başta	 cilt,	 kalp	 ve	 sinir	 sistemi	
+olmak	üzere	vücut	için	oldukça	faydalıdır.
+Bu	bilgilerden	yola	çıkan	Meltem,	bazı	ülke-
+lerde	 kişi	 başı	 tüketilen	 yıllık	 ortalama	 balık	
+miktarını	merak	etm iş	ve	araşt ırması	doğrul-
+tusunda	Görsel	6.2’de	yer	alan	bilgilere	ulaş-
+mıştır.
+Meltem	görseldeki	bilgilere	nasıl	ulaşıldığını	
+merak	 etmektedir.	 Sizce	 görselde	 yer	 alan	
+bilgiler	nasıl	elde	edilmiş	olabilir?	Sınıf	arka-
+daşlarınızla	tartışınız.
+90 kg
+75 kg
+26 kg
+24 kg
+16 kg
+10 kg
+8 kg
+İzlanda
+Japonya
+AB Ülkeleri
+Mısır
+Suudi Arabistan
+Türkiye
+ABD
+Görsel 6.2: Bazı ülkelerde kişi başı tüketilen yıllık ortalama  
+balık miktarı (kg)
+Veri Analizi Yapma
+Aşağıdaki soruları verilen bilgilere göre cevaplayınız.
+Türkiye’de iç su balıkları üretim çalışmaları “Türkiye İç Sularını Balıklandırma Projesi” kapsamında 1981 yılında 
+T.C. Tarım ve Orman Bakanlığı Akdeniz Su Ürünleri Araştırma, Üretme ve Eğitim Enstitüsü Müdürlüğünce baş-
+latılmıştır. Sazan balığı üretimiyle başlatılan çalışmalar, tatlı su kaynaklarına özgü farklı tür balıkların üretimiyle 
+devam etmiştir. Enstitüde üretilen sazanların yaklaşık %90’ı yaklaşık 50 il, 500 göl ve göletin balıklandırılmasında 
+kullanılmaktadır.
+İç sularda yapılan balıklandırma çalışmaları için üretilen balık miktarı ile avlanan balık miktarını incelemeye yö-
+nelik araştırma yapan bir su ürünleri mühendisinin araştırmasında ulaştığı verilerden biri de 2022 yılında avlanan 
+sazan balığı miktarıdır.
+1. Su ürünleri mühendisi Türkiye’de 2022 yılında 71 
+ilde avlanan sazan balığı miktarlarına TÜİK verile -
+rinden ulaşmış ve bu verileri analiz etmek için ista-
+tistik yazılımına verilerin girişini yapmıştır. Girişini 
+yaptığı verilerle Grafik 1’de yer alan nokta grafiğini 
+oluşturmuştur.
+Grafik 1’deki dağılımı inceleyen su ürünleri mühen-
+disi, bu dağılıma bakarak 2022 yılında Türkiye’nin 
+71 ilinde avlanan sazan balığı miktarı ile ilgili ne 
+gibi bilgilere ulaşmış olabilir? Sınıf arkadaşlarınızla 
+tartışınız.
+4. Uygulama
+Miktar (Ton)
+0
+50
+100
+150
+200
+250
+Grafik 1

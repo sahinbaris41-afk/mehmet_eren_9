@@ -1,0 +1,67 @@
+81
+KUVVET VE HAREKET
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Vektörler uç uca ekleme veya paralelkenar yöntemleri kullanılarak toplanabil-
+diği gibi bileşenlerine ayrılarak da toplanabilir. Görsel 2.10’daki A  ve B  vek-
+törlerini bileşenlerine ayırarak toplamak için aşağıda verilen işlem basamakları 
+sırayla uygulanmalıdır.
+Görsel 2.10: Aynı düzlem-
+deki A  ve B  vektörleri
+A
+B
+a)  A  ve B  vektörlerinin 
+bitiş noktalarından x ve 
+y eksenlerine paraleller 
+çizilerek vektörlerin eksen-
+ler üzerindeki izdüşümleri 
+bulunur. Bulunan izdü-
+şümler x ve y eksenle-
+rindeki bileşenler olarak 
+işaretlenir.
+  
+y
+x
+y
+x
+A
+B
+O O
+y y
+Ay
+Ax
+By
+Bx
+x x
+A
+B
+O O
+b)  Aynı eksen üzerindeki 
+bileşenler kendi aralarında 
+toplanır. x ekseni üzerinde 
+elde edilen bileşen Rx, y 
+ekseni üzerinde elde edi-
+len bileşen Ry olarak 
+işaretlenir.
+Ay
+Ax
+By
+BxO  
+Ry
+RxO
+c)  Rx ve Ry bileşenleri 
+birbiri ile paralelkenar yön-
+temiyle toplanarak bileşke 
+vektör elde edilir.
+Ry
+Rx
+R
+O
+ 
+Örnek 
+Yandaki eşit bölmelendirilmiş düzlem üzerinde veK L  vektörleri verilmiştir. 
+Buna göre
+a) veK L  vektörlerini dik kartezyen koordinat sistemine taşıyıp 
+bileşenlerine ayırınız. 
+b) K L -  vektörünü bulunuz. 
+K
+L

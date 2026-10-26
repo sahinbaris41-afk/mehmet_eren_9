@@ -1,0 +1,84 @@
+3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER
+110
+Rüzgârın Hızı (Şiddeti): Rüzgârın hızını etkileyen faktörler şöyle sıralana -
+bilir:
+•
+ Basınç 
+Farkı: Basınç merkezleri arasındaki basınç farkı ne kadar fazlaysa 
+rüzgâr o kadar hızlı eser.
+•
+ Basınç 
+Merkezleri Arasındaki Uzaklık: Basınç merkezleri arasındaki 
+mesafenin fazla olması rüzgârın hızını azaltan bir etkiye sahiptir. Bunda 
+Dünya’nın dönme hareketinin rüzgârı sapmaya uğratması ve yeryüzüne 
+sürtünen hava kütlesinin gücünün azalması etkilidir.
+•
+ Sürtünme:
+ Rüzgârlar; yer şekillerinin düz olduğu yerlerde daha hızlı, dağ-
+lık ve engebeli arazilerde sür
+ tünme 
+nedeniyle daha yavaş eser. Kentsel 
+alanlar ve orman örtüsünün yoğun olduğu yerlerde de sürtünmeden dolayı 
+rüzgâr hızı azalmaktadır. Yeryüzüne yakın esen rüzgârlar fazla sürtünme 
+nedeniyle hız kaybeder. Yüksekte esen rüzgârlar sürtünme az olduğundan 
+hız kaybetmezler.
+Rüzgârın Yönü: Rüzgârların bir merkeze göre estiği doğrultuya rüzgârın 
+yönü denir. Rüzgâr yönü coğrafi yönlere göre ifade edilir. 
+Hava, yüksek basınç merkezi ile alçak basınç merkezi arasında hareket ettiği 
+için rüzgârın yönünü öncelikle basınç merkezlerinin konumu tayin eder. Dün-
+ya’nın kendi ekseni etrafındaki dönüşü nedeniyle rüzgârlar kuzey yarım kürede 
+sağa, güney yarım kürede sola sapar. Yer şekilleri de rüzgârların esiş yönünü 
+etkiler. Rüzgârların esme yönü, dağlar ve vadilerin uzanış yönüne uyar.
+Rüzgârın Esme Sıklığı (Frekansı):  Rüzgârlar her zaman aynı yönden  
+esmez. Rüzgârın esme sıklığı, rüzgârın bir yöne ait esme sayısıdır. Rüzgârın 
+yıl içinde en sık estiği yöne hâkim rüzgâr yönü denir.
+K
+Yerleşme
+Göl
+Akarsu
+Dağ (2450 m)
+GölA B C
+Ç D
+E F G
+Aşağıdaki haritada bir yerleşim merkezi gösterilmiş ve tabloda yönü yerleşim merkezine doğru olan rüzgârın 
+esme sıklığı (frekansı) verilmiştir. Buna göre soruları cevaplayınız.
+Rüzgâr Yönü Rüzgâr Frekansı (Gün)
+Kuzey 90
+Kuzeydoğu 40
+Doğu 60
+Güneydoğu 20
+Güney 10
+Güneybatı 10
+Batı 50
+Kuzeybatı 40
+1. Y erleşim merkezine ait rüzgâr frekans gülünü grafik üzerinde tarayarak gösteriniz.
+Kuzey
+Güney
+Güneydoğu
+Kuzeydoğu
+Güneybatı
+Kuzeybatı
+DoğuBatı
+100
+100
+100 100
+100
+100
+100
+100
+50
+50
+50
+50
+5050
+50
+50
+UYGULAMA Rüzgârın Yönü
+2. Bir yerleşmenin yakınında sanayi bölgesi kurulması planlanmakta dır ancak yerleşme, sanayi tesislerinin oluştura-
+bileceği hava kirliliğinden etkilenmemelidir. Yerleşme bölgesindeki rüzgârın yönü ve esme sıklığı dikkate alındığın-
+da sanayi tesisinin haritada harflerle gösterilen alanlardan hangilerine kurulması daha doğru olur? 
+................................................................................................................................................................................................................................................ 
+................................................................................................................................................................................................................................................ 
+................................................................................................................................................................................................................................................ 
+0          10
+km

@@ -1,0 +1,32 @@
+125
+2. Tema/Çeşitlilik
+2.1.3.	Kovalent	Bağ
+Bileşiği oluşturacak elementlerin elektronegatiflikleri ve iyonlaşma enerjileri 
+arasındaki fark elementler arasında oluşacak bağın türünü belirler. 
+Hangi Bağ Oluşur?Etkinlik-2.6
+1. Yönerge: Aşağıdaki görselleri inceleyerek atomların metalik ve iyonik bağ oluşturmasının nedenlerini 
+iyonlaşma enerjisi ve elektronegatiflik kavramları temelinde açıklayınız.
+2. Yönerge: Aşağıdaki tabloda verilen bilgileri kullanarak NaF bileşiği, H 2 ve F 2 moleküllerinde atomlar arasındaki bağların iyonik bağ mı, metalik bağ mı yoksa ikisinin de olmadığı farklı bir bağ mı 
+olduğu konusunda tahminlerinizi belirtiniz. Tahminlerinizi gerekçeleriyle açıklayınız.
+NaF
+H2
+F2
+Atom İyonlaşma Enerjisi (kJ/mol) Elektronegatiflik Değeri
+Hidrojen 1312 2,20
+Flor 1681 4,00
+Sodyum   496 0,93
+Etkinlikteki elementler arasında oluşan iyonik sodyum florür (NaF) bileşiğinde 
+sodyum ve flor elementlerinin elektronegatiflikleri ve iyonlaşma enerjileri ara-
+sındaki fark büyüktür ancak H2 ve F2 moleküllerini oluşturan atomların elekt-
+ronegatiflikleri ve iyonlaşma enerjileri arasında fark bulunmazken HF mole-
+külünde atomlar arasındaki bu fark çok azdır. Dolayısıyla elektronları çekme 
+eğilimleri açısından aynı ya da benzer özellikler gösteren (iyonlaşma enerjisi 
+ve elektronegatiflik değerleri metallere göre daha yüksek) iki atom arasında 
+da bağ oluşabilir. Örneğin iki hidrojen atomu arasında bağ oluşarak bir H 2 
+molekülü meydana gelir. 
+Ametaller metallere göre yüksek iyonlaşma enerjisine ve yüksek elektrone -
+gatiflik değerlerine sahiptir. Bu özelliklerinden dolayı ametal atomlarından 
+elektron uzaklaştırılması nispeten zordur. Bu nedenle bir ametal atomunun 
+diğer ametal atomunun elektronunu alarak anyon oluşturması beklenmez.
+Hidrojen atomları neden 
+birbiriyle bağ oluşturur? 

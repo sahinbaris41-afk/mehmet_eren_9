@@ -1,0 +1,198 @@
+270
+3. FORM ETKİNLİK KÂĞIDI ÇALIŞMASI ANALİTİK DERECELİ PUANLAMA ANAHTARI
+Bu form, öğrencilere “Periyodik Tabloda Yer Bulma” konusunda verilen etkinlik kâğıdını değerlendirme-
+niz amacıyla hazırlanmıştır. Öğrencinin belirtilen ölçütlere ilişkin öğrenme düzeyini tablodaki açıklama-
+lardan hareketle puanlayınız. 
+Öğrencinin Adı Soyadı:       Numarası:   Sınıfı:
+Ölçütler Başlangıç  Düzeyinde Kabul Edilebilir İyi Çok İyi Puan
+Örüntü 
+oluşturabilme
+(25 puan)
+Elektron 
+diziliminde en 
+yüksek temel 
+enerji düze-
+yinin elemen-
+tin periyot 
+numarasını 
+gösterdiğini 
+belirlemiştir.
+(1-6 puan)
+Periyot belirlemey-
+le birlikte A grubu 
+elementleri için en 
+yüksek enerji düze-
+yindeki elektronların 
+toplamının, B grubu 
+elementleri için ise 
+en son s ve d orbi-
+tallerindeki elektron-
+ların toplamının grup 
+numarasını verdiğini 
+belirlemiştir.
+(7-12 puan)
+Periyot ve grup 
+numarası bulmayı 
+keşfettikten sonra 
+elektron dizilimi s 
+veya p orbitali ile 
+biten elementlerin 
+A grubu, d orbitali 
+ile biten element-
+lerin B grubuna ait 
+olduğunu belirle-
+miştir.
+(13-18 puan)
+Periyot ve grup numarası, 
+A ya da B grubu üyeliği-
+ni belirledikten sonra B 
+grubu elementlerinin en 
+son s ve d orbitallerindeki 
+elektron sayısı toplamı 8, 
+9 ve 10 olan elementlerin 
+8B, 11 olan elementlerin 
+1B, 12 olanların ise 2B 
+grubunda yer aldığını 
+belirlemiştir. 
+(19-25 puan)
+Örüntüleri 
+yeni örnekler 
+üzerinde de-
+neyebilme
+(25 puan)
+Bulduğu 
+örüntüyü 
+yeni örnekler 
+üzerinde dene-
+yerek element-
+lerin sadece 
+periyot numa-
+rası bilgisine 
+ulaşmıştır.
+(1-6 puan)
+Bulduğu örüntüyü 
+yeni örnekler üzerin-
+de deneyerek A ve 
+B grubu elementle-
+rinin periyot ve grup 
+numarası bilgisine 
+ulaşmıştır.
+(7-12 puan)
+Bulduğu örüntüy-
+le elementlerin 
+periyot ve grup 
+numarası bilgisi 
+ile birlikte A ya 
+da B grubu üyesi 
+olduğu bilgisine 
+de ulaşmıştır.
+(13-18 puan)
+Bulduğu örüntüyle periyot 
+ve grup numarası, A ya da 
+B grubu üyeliği ile birlikte 
+B grubu elementlerinin en 
+son s ve d orbitallerindeki 
+elektron sayısı toplamı 8, 
+9, 10, 11 ve 12 olan ele-
+mentlerin grup numarasını 
+belirlemiştir.  
+(19-25 puan)
+Örüntülerini  
+genelleyebil-
+me
+(25 puan)
+Elementlerin 
+elektron dizi-
+limindeki en 
+yüksek enerji 
+düzeyinin 
+elementin yer 
+aldığı periyo-
+du belirttiği 
+genellemesini 
+yapmıştır.
+ (1-6 puan)
+Periyot genellemesi 
+ile birlikte A grubu 
+elementleri için 
+elektron diziliminde 
+en yüksek temel 
+enerji düzeyindeki 
+elektronların, B gru-
+bu elementleri için 
+ise en son s ve d 
+orbitallerindeki elekt-
+ronların toplamının 
+elementin grubunu 
+gösterdiği genelle-
+mesini yapmıştır.
+(7-12 puan)
+Periyot ve grup 
+numarası bulmay-
+la ilgili genelleme-
+lerine ek olarak 
+elektron dizilimi s 
+veya p orbitali ile 
+biten elementlerin 
+A grubu, d orbitali 
+ile biten element-
+lerin B grubu 
+elementi olduğu 
+genellemesini  
+yapmıştır.
+ (13-18 puan)
+Periyot ve grup numarası, 
+A ya da B grubu üyeliği ile 
+ilgili genellemelerine ek 
+olarak B grubu element-
+lerinin en son s ve d 
+orbitallerindeki elektron 
+sayısı toplamı 8, 9 ve 10 
+olan elementlerin 8B, 11 
+olanların 1B, 12 olanların 
+ise 2B grubunda yer aldığı 
+genellemesini yapmıştır.
+(19-25 puan)
+Genellemeleri 
+verilen kural-
+larla karşılaş-
+tırabilme
+(25 puan)
+Periyot 
+numarasının 
+belirlenmesine 
+yönelik oluştu-
+rulan genelle-
+me periyodik 
+tabloda yer 
+bulma kuralla-
+rıyla aynıdır.
+(1-6 puan)
+Periyot ve grup 
+numarasının belir-
+lenmesine yönelik 
+oluşturulan genelle-
+me periyodik tabloda 
+yer bulma kurallarıy-
+la aynıdır.
+ (7-12 puan)
+Periyot ve grup 
+numarasının belir-
+lenmesi, A ya da 
+B grubu üyeliğine 
+yönelik oluşturu-
+lan genelleme pe-
+riyodik tabloda yer 
+bulma kurallarıyla 
+aynıdır.
+ (13-18 puan)
+Periyot ve grup numarası, 
+A ya da B grubu üyeliği 
+ve B grubu elementlerinin 
+8B, 1B ve 2B gruplarının 
+adlandırılmasına yönelik 
+oluşturulan genelleme pe-
+riyodik tabloda yer bulma 
+kurallarıyla aynıdır.
+ (19-25 puan)
+Tablo Puanı

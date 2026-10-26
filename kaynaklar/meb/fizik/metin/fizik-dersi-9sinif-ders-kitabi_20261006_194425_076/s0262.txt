@@ -1,0 +1,87 @@
+262
+4. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+8. Güneş’ten farklı dalga boylarında yayılan elektromanyetik dalgaların bir kısmı Dünya’nın atmosferin-
+den geçerek yeryüzüne ulaşır. Bu süreçte elektromanyetik dalgalar hem atmosfere hem de yüzeye 
+enerji aktarır. Dünya, bu dalgaların bir bölümünü soğururken bir bölümünü yüzeyinden yansıtır. Yan-
+sıyan elektromanyetik dalgaların bir bölümü tekrar atmosfer tarafından soğurulur. Böylece Dünya 
+yüzeyindeki ortalama sıcaklık, atmosferin yokluğu durumunda olabilecek sıcaklıktan daha yüksek 
+olur. Bu durum, Dünya’nın canlılar için yaşanabilir bir yer olmasında çok önemlidir.
+Son dönemde Dünya atmosferinin ortalama sıcaklığı normalden daha fazla artmış, tatlı su kaynağı 
+olan buzullar erimeye başlamış ve mevsimsel yağış miktarları düzensizleşmiştir. Atmosferdeki kar -
+bondioksit gazı miktarının artması, XX. yüzyıldaki sıcaklık artışının temel nedenidir.
+Üç öğrenci, Dünya geneli ortalama sıcaklık artışı ile Dünya geneli ve Türkiye özelinde atmosfere 
+salınan karbondioksit miktarındaki artış arasındaki olası ilişkiyi merak ediyor ve bilimsel kaynaklarda 
+aşağıda verilen üç grafiğe rastlıyor. 
+40
+35
+30
+25
+20
+15
+10
+5
+0260Atmosferik CO2 Miktarı (ppm)
+Atmosfere Salınan CO2 Miktarı (Milyar ton)
+(ppm: Milyon ton başına düşen madde miktarıdır.)
+280
+300
+320
+340
+360
+380
+400
+420
+2020 1990 1960 1930 1900 18701840 1810 1780
+Dünya Genelinde Yıllara Göre Atmosferdeki 
+CO2 Miktarının Değişimi 1750-2020
+1750
+600
+Türkiye'de Çeşitli Sektörlerin Atmosfere Saldığı 
+Sera Gazı Miktarı 1990-2020 (Milyon ton CO2 eş değeri)
+500
+400
+300
+200
+100
+0
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Evsel
+Sanayi
+Tarımsal
+Enerji
+Buna göre 
+a) Birinci öğrenci, Dünya’da ortalama sıcaklığın yükselmesinin temel nedeninin atmosfere salınan 
+sera gazları olduğunu düşünmektedir.
+Grafiklerde yer alan hangi bilgi, öğrencinin sera gazları ile Dünya’daki ortalama sıcak lığın 
+yükselmesi arasında ilişki kurmasına neden olmuştur?
+      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l            l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      l      

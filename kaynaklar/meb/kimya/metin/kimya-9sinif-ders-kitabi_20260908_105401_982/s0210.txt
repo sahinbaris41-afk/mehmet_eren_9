@@ -1,0 +1,40 @@
+210
+2. Tema/Çeşitlilik
+Yüzey geriliminin büyüklüğü; sıvının cinsine, sıcaklığa ve sıvıda çözünen 
+maddeye (safsızlığa) bağlı olarak değişir. Farklı sıvıların yüzey gerilimleri de 
+birbirinden farklıdır çünkü sıvıların yapıları ve moleküller arasındaki etkileşim-
+ler farklılık gösterir. Moleküller arası etkileşimlerin gücü arttıkça sıvıyı oluş-
+turan moleküller arasındaki kohezyon kuvveti artar, bu da yüzey geriliminin 
+artmasına sebep olur. Sıcaklık arttığında sıvıyı oluşturan moleküller arasın -
+daki çekim gücü zayıflar. Bu durum, sıvıyı oluşturan moleküller arasındaki 
+kohezyon kuvvetinin azalmasına neden olur ve sıvının yüzey gerilimi azalır. 
+Sıvıya eklenen safsızlığın çözünürlüğüne bağlı olarak sıvının yüzey gerilimi 
+değişir. Suda çok çözünen maddeler suyun yüzey gerilimini artırırken, az çö-
+zünen veya çözünmeyen maddeler yüzey gerilimini azaltır. Örneğin suya tuz 
+eklendiğinde su ve tuz iyonları arasında su molekülleri arasındaki etkileşim -
+den daha kuvvetli bir etkileşim oluşur ve suyun yüzey gerilimi artar. Sabun ve 
+deterjan ilavesi ise sıvının yüzey gerilimini azaltır. Bu tür maddelere, sıvıların 
+yüzey özelliklerini değiştirdikleri için yüzey aktif madde denir. Sabun ve deter-
+jan molekülleri hidrofil (suyu seven) ve hidrofob (suyu sevmeyen) kısımlardan 
+oluşur. Bu moleküllerin hidrofil kısımları yüzeydeki su moleküllerini kendine 
+doğru çeker (Görsel 2.32). Bununla birlikte suyun yüzey gerilimini aşarak 
+sıvı içine girer ve sıvı içindeki kohezyon kuvvetlerinin azalmasına sebep olur 
+(Görsel 2.33). 
+Görsel 2.32
+Sabun veya deterjan 
+moleküllerindeki hidro-
+fil kısımların yüzeydeki 
+su moleküllerini kendi-
+ne doğru çekmesi
+Görsel 2.33
+Sabun veya deterjan 
+moleküllerinin suyun 
+yüzey gerilimini aşarak 
+sıvı içine girmesi ve 
+sıvı içindeki kohezyon 
+kuvvetlerinin azalması
+Hidrojen bağı Zayıf hidrojen bağı
+Sabun veya deterjan
+Yüzey aktif madde
+Sabun veya deterjan molekülü
+Su molekülü

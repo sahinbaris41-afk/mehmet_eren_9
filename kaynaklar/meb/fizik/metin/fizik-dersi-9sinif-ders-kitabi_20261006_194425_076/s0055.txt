@@ -1,0 +1,35 @@
+55
+KUVVET VE HAREKET
+Tablo 2.1: Temel Nicelikler, Temel Niceliklerin Sembolleri, SI’daki Birimleri, Birimlerin 
+Sembolleri ve Niceliği Ölçmede Kullanılan Ölçüm Aletleri
+Temel Niceliğin 
+Adı
+Temel Niceliğin 
+Sembolü
+SI’daki 
+Birimi
+Birimin 
+Sembolü Ölçüm Aleti
+Uzunluk metre m cetvel, şerit metre, kumpas vb.
+Kütle m kilogram kg kibble (kibıl) cihazı, dijital terazi vb.
+Zaman t saniye s kronometre, atomik saat vb.
+Elektrik akımı i amper A ampermetre
+Sıcaklık T kelvin K termometre
+Işık şiddeti I kandela cd fotometre
+Madde miktarı n mol mol -
+Diğer temel nicelik birim-
+lerinin tanımına ulaşmak 
+için karekodu okutunuz. 
+1. Etkinlik Temel ve Türetilmiş Nicelikler 
+Amaç Temel ve türetilmiş nicelikleri sınıflandırabilme
+Süre 20 dk.
+Yönerge Aşağıda verilen basamakları takip ederek etkinliği gerçekleştiriniz.
+1. Fen bilimleri, kimya, biyoloji derslerinde görmüş olduğunuz fiziksel niceliklerden ve birimlerden hangileri­
+nin fizik biliminde kullanıldığını düşünerek fiziksel nicelikleri ve birimleri aşağıdaki tabloya yazınız. 
+Fiziksel Nicelikler Birimler
+2. Öğretmeninizin rehberliğinde eşleşerek gruplar oluşturunuz ve aşağıdaki çalışmaları grup arkadaşlarınızla 
+gerçekleştiriniz. 
+3. 1. basamakta bulunan tablolara yazdığınız fiziksel nicelikleri ve birimleri SI’ da kullanılan fiziksel nicelik ve 
+birimlerle karşılaştırınız. Belirlediğiniz fiziksel niceliklerin birimlerini arkadaşlarınızla tartışarak SI’ya göre 
+düzenleyiniz ve aşağıdaki tabloya yazınız. 
+Fiziksel Nicelik SI’ya Göre Birimleri

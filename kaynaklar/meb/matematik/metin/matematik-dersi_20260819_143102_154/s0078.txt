@@ -1,0 +1,48 @@
+78
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Destekleme Öğrencilerin istatistiksel araştırma sürecine dâhil olmaları için grup çalışması yapılabilir. 
+Gruplar heterojen şekilde düzenlenebilir. Akran öğrenmesi sayesinde öğrencilerin  istatistik-
+sel araştırma  sürecini anlamlandırmaları desteklenebilir. 
+Öğrencilerin hazır veri seti üzerinde çalışmaları sağlanabilir. Veri setindeki sayıların tam sayı 
+olmasına dikkat edilir. 
+Nicel veri dağılımlarına ilişkin istatistiksel görsel, özet, sonuç, yorum, çıkarım ve/veya tah -
+minler daha basit düzeyde (öğrencilerin yakın çevresindeki olay veya durumları içermesi gibi) 
+sunularak öğrencilerin bunlara ilişkin değerlendirme yapmaları istenebilir. 
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.
+FARKLILAŞTIRMA
+Zenginleştirme (*) Öğrencilerden basit rastgele örneklemin yanı sıra farklı örnekleme yöntemlerinden (sis -
+tematik, tabakalı, küme tipi) hareketle istatistiksel araştırma sürecini deneyimlemeleri, elde 
+edilen verilerin analiz ve yorumlanma sürecindeki benzerlik veya farklılıkları ortaya koymaya 
+yönelik sınırlandırılmış performans görevleri hazırlamaları istenebilir. 
+Öğrencilere farklı gruplara ait farklı değişkenler içeren veri setleri verilebilir. Öğrencilerden 
+bu veri setlerine uygun, betimlemeye ve/veya karşılaştırmaya yönelik araştırma soruları oluş-
+turmaları; uygun değişkeni seçerek istatistiksel araştırma sürecini yürütmeleri istenebilir. 
+(*) Öğrencilerden istatistiğin doğasına (sayıların bağlama göre anlam kazanması) ilişkin araş-
+tırma yapmaları ve araştırma sonuçlarını farklı araçlarla (poster, bildiri, sunum) paylaşmaları 
+beklenebilir.
+Öğrencilerden nicel veri dağılımlarına ilişkin istatistiksel görsel, özet, sonuç, yorum, çıkarım 
+ve/veya tahminleri içeren durumları araştırmaları istenebilir. Bu durumları araştırırken hangi 
+kaynakları (gazete haberleri, dijital kaynaklar, resmî kaynaklar gibi) kullanabileceklerini bil -
+meleri ve bu kaynakları kullanırken nelere dikkat etmeleri gerektiğine dair paylaşımlar yap -
+maları beklenir. Bu araştırmalarında fark ettikleri noktaları eleştirel olarak değerlendirmeleri 
+istenebilir. Örneğin trafik kazalarını önlemek amacıyla radar yerleştirilen bir yerleşim yerin -
+den geçen araçların hızlarını içeren bir durumu ve bu duruma ilişkin yorumları öğrencilerin 
+değerlendirmeleri istenebilir. Yapılan yorumlar ile araçların hızlarını içeren veri dağılımları 
+arasında tutarlılık olup olmadığı; yanlı, yanlış veya eksik bilgilerin olup olmadığı öğrenciler ta-
+rafından incelenerek değerlendirilebilir. Öğrencilerin yaptıkları bu değerlendirmeleri sunum, 
+poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içerik oluşturarak diğer arkadaşları 
+ile paylaşmaları ve deneyimlerini ifade etmeleri sağlanabilir.
+MAT.9.6.2
+Öğrencilerin başkaları tarafından oluşturulan istatistiksel bilgilere eleştirel bakabilmeleri ve bu 
+bilgileri tartışabilmeleri önemlidir (E1.6, E3.10). Bu bağlamda öğrencilere nicel veri dağılımlarına 
+ilişkin hatalı/yanlı sonuç, yorum, çıkarım veya tahminleri içeren çalışma kâğıdı verilir; öğrenci-
+lerden bu çalışma kâğıdını incelemeleri istenir. Öğrencilerin var olan istatistik bilgileri doğrul-
+tusunda istatistiksel temellendirme yapmaları sağlanır. Buradan hareketle öğrencilerin verilen 
+durumlara eleştirel bakmaları, istatistik bilgilerini kullanarak hataları/yanlılıkları tespit etme-
+leri istenir (E1.6, E3.10). Öğrencilerin belirlediği hatalar ve yanlılıklar tartışmaya açılır (SDB2.1, 
+SDB2.2). Öğrencilerden bu hata ve yanlılıkları eleştirel gözle değerlendirmeleri beklenir (KB3.3). 
+Belirlenen bu hatalar/yanlılıklar beyin fırtınası, zıt panel, kollegyum gibi tekniklerle tartışılır. Fikir 
+ve değerlendirmelerinden hareketle nicel veri dağılımlarına ilişkin hatalı/yanlı sonuç, yorum, çı-
+karım ve/veya tahminler çürütülür veya kabul edilir (D6.1).

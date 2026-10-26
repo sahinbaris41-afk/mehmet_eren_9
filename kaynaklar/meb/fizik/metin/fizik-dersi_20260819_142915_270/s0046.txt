@@ -1,0 +1,50 @@
+46
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.10.3.1. Basit elektrik devresinde potansiyel fark, elektrik akımı ve direnç kavramları-
+nın tanımına ilişkin analojik akıl yürütebilme
+a) Basit elektrik devresi ile su tesisatının bileşenlerini gözlemler.
+b) Basit elektrik devresi ile su tesisatının bileşenleri arasındaki benzerlikleri ve farklı-
+lıkları tespit eder.
+c) Benzerliklere dayalı olarak basit elektrik devresindeki potansiyel fark, elektrik akı-
+mı ve direncin tanımı hakkında çıkarım yapar.
+FİZ.10.3.2. Elektrik yükünün hareketi üzerinden elektrik akımı kavramını çözümleyebilme
+a) Bir iletkende elektrik akımı oluşması ile ilgili değişkenleri belirler.
+b) Elektrik akımını oluşturan değişkenler arasındaki ilişkiyi belirler.
+FİZ.10.3.3. Ohm Yasası ile ilgili tümevarımsal akıl yürütebilme
+a) Elektrik akımı, direnç ve potansiyel fark arasındaki ilişkiyi deney yoluyla keşfede-
+rek Ohm Yasası'nın matematiksel modeline ulaşır.
+b) Ohm Yasası'nın matematiksel modeli üzerinden genelleme yapar. 
+FİZ.10.3.4. Dirençlerin bağlanma türüne göre eşdeğer dirence ilişkin bilimsel çıkarım ya-
+pabilme
+a) Dirençlerin seri, paralel ve birleşik bağlanma türlerini tanımlar.
+b) Dirençlerin seri, paralel ve birleşik bağlanması ile eşdeğer direnç arasındaki ilişkiyi 
+belirlemek üzere veri toplar ve kaydeder. 
+c) Elde ettiği verileri yorumlayarak ulaştığı çıkarımları matematiksel modellemeleri 
+kullanarak test eder.
+FİZ.10.3.5. Üreteçlerin bağlanma türüne göre devreye sağladıkları potansiyel farka ilişkin 
+bilimsel çıkarım yapabilme
+a) Üreteçlerin seri ve paralel bağlanma türlerini tanımlar.
+b) Üreteçlerin seri ve paralel bağlanması durumunda devrenin potansiyel fark, ana 
+kol akımı ve üreteçlerin tükenme süreleri arasındaki ilişkiyi belirlemek üzere veri 
+toplayarak kaydeder. 
+c) Elde ettiği verileri yorumlayarak değerlendirir.
+FİZ.10.3.6. Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlem-
+lerle ilgili bilgi toplayabilme 
+a) Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemlere 
+ilişkin bilgiye ulaşmak için kullanacağı araçları belirler.
+b) Belirlediği aracı kullanarak elektrik akımının oluşturabileceği tehlikelere karşı alın-
+ması gereken önlemler ile ilgili bilgileri bulur.
+c) Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler 
+hakkında ulaşılan bilgileri doğrular.
+ç) Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler 
+hakkındaki ulaştığı bilgileri kaydeder.
+FİZ.10.3.7. Topraklama olayının önemini sorgulayabilme
+a) Topraklama olayını tanımlar.
+b) Topraklama olayıyla ilgili sorular sorar.
+c) Topraklama olayı hakkında bilgi toplar.
+ç) Topraklama olayı ile ilgili topladığı bilgilerin doğru olup olmadığını değerlendirir.
+d) Topraklama olayının önemi hakkında çıkarım yapar. 
+İÇERİK ÇERÇEVESİ Basit Elektrik Devreleri
+Elektrik Akımı
+Ohm Yasası 

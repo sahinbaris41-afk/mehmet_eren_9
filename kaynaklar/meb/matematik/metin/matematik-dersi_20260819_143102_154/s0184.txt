@@ -1,0 +1,53 @@
+184
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendirile -
+bilir.
+Verilen fonksiyon grafikleri üzerinden fonksiyonun belirli bir nokta civarındaki veya sonsuz -
+daki davranışını belirlemeye yönelik olarak öğrencilere çalışma kâğıdı verilebilir. Bu çalış -
+ma kâğıdı, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Fonksiyonların limit 
+özelliklerini yorumlamaya ve belirli bir noktadaki veya sonsuzdaki limitini bulmaya ilişkin açık 
+uçlu sorulardan oluşan çalışma kâğıdı, bütüncül dereceli puanlama anahtarıyla değerlendi-
+rilebilir. Öğrencilerin kendilerini öz değerlendirme formuyla değerlendirmeleri sağlanabilir.
+Belirli bir x = a noktasındaki limiti 0/0 belirsizliğine sahip fonksiyonların gerçek yaşam prob-
+lemlerinde kullanımına yönelik verilen araştırma ödevi; araştırmanın hazırlık, planlama ve 
+sunum süreçlerini içine alan derecelendirme ölçeğiyle değerlendirilebilir.
+f + g, f - g, f . g, f / g,  f ° g ve g ° f  fonksiyonlarının sürekliliğinin incelenmesine yönelik verilen  
+performans görevi;  analitik dereceli puanlama anahtarıyla değerlendirilebilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin fonksiyon kavramını yorumlayabildiği, fonksiyonlarla işlemler yapabildiği; doğ -
+rusal, karesel, karekök ve rasyonel fonksiyonlar ile polinom fonksiyonların matematiksel 
+temsillerini oluşturabildiği; bu fonksiyonların cebirsel gösterimindeki katsayıları ile nitel 
+özellikleri arasında ilişki kurabildiği; bu fonksiyonlarla elde edilebilen birinci ve ikinci dere -
+ceden denklemleri çözebildiği ve rasyonel fonksiyonları  çarpanlara ayırabildiği kabul edil -
+mektedir.
+Ön Değerlendirme Süreci Öğrencilerin 9 ve 10. sınıfta öğrendiği referans fonksiyonlar, parçalı gösterimli fonksiyonlar 
+ve polinom fonksiyonlar hakkındaki ilgi, ihtiyaç, beceri ve kavram yanılgılarını tespit etmek 
+için öğrencilere hazır bulunuşluk testi yapılabilir. Fonksiyonların grafik temsiline ve nitel 
+özelliklerine ilişkin açık uçlu sorular sorulabilir. Birinci ve ikinci dereceden denklem çözme 
+bilgisine yönelik kısa cevaplı sorular sorulabilir. İkinci dereceden fonksiyonlarda çarpanlara 
+ayırma bilgisini belirlemek için açık uçlu sorular sorulabilir.
+Köprü Kurma Referans fonksiyonlar ve polinom fonksiyonlar özelinde fonksiyonların grafik temsilleri bağ-
+lamında bir nokta civarındaki veya sonsuzdaki davranışları kavram haritasıyla belirlenebilir.  
+Arşimet’in 2π sayısına olabildiğince yakın bir sayı elde etmek için yapmış olduğu çalışmalar 
+hakkında tartışmalar yapılabilir. Öğrencilere grafik temsilleri verilen gerçek sayılarda tanım-
+lı fonksiyonlarda fonksiyonun belirli bir nokta civarında aldığı değerleri belirlemeye neden 
+ihtiyaç duyulabileceğine dair sorular sorulabilir. Gündelik dilde limit kelimesinin ne anlama 
+geldiği hakkında tartışmalar yapılabilir. 0,9 gibi devirli ondalık gösterimler incelenerek öğ -
+rencilerin bir sayıya yaklaşma hakkındaki düşünceleri geliştirilebilir. Bu bağlamda farklı di -
+siplinlerden örnekler (felsefede Zenon ’un paradoksları, mühendislikte bir tahta köprünün 
+üzerindeki yükün sınır değeri olması gibi) üzerinden limit fikrine duyulan ihtiyaç vurgulanabi-
+lir. Bu sayede ilk defa limit kavramını görecek olan öğrencilerin konuyla ilgili ön fikirler oluş-
+turmaları desteklenebilir.
+Fibonacci (Fibonaççi) dizisinin terimleri yazılarak ardışık iki terim arasındaki oranlar; elektro-
+nik tablo, hesap makinesi gibi uygulamalarla belirlenebilir. Böylelikle terimlerin değeri büyü-
+dükçe bu oranın  altın orana yaklaştığının fark edilmesi sağlanabilir.
+Geometrik dizilerin sonlu toplamını veren cebirsel ifade hatırlatılarak geometrik dizi sonsuz 
+terimli olduğunda bu geometrik dizinin terimlerinin toplamını veren cebirsel ifadede ne gibi 
+değişimler olabileceği tartışılabilir. Tüm bu tartışmalar yapılırken öğrencilerin birbirlerini et-
+kin bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve birbirleriyle etki-
+leşim sağlamaları beklenebilir.

@@ -1,0 +1,42 @@
+24
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.9.2.7. Moleküller arası etkileşimleri sınıflandırabilme 
+a) Moleküller arası etkileşimlerin sınıflandırılmasına ilişkin ölçütler (atom, iyon, polar 
+molekül ve apolar molekül) belirler.
+b) Belirlediği ölçütler doğrultusunda aynı ya da farklı kimyasal türler arasında oluşan 
+moleküller arası etkileşimleri ayrıştırır. 
+c) Moleküller arası etkileşimleri gruplandırır. 
+ç) Oluşturduğu grupları adlandırıp bilimsel karşılığıyla kıyaslar.  
+KİM.9.2.8. Etkileşimlerin katıların özellikleri üzerindeki etkilerine ilişkin bilimsel çıkarım 
+yapabilme 
+a) Aynı ya da farklı etkileşimlere sahip katılara ilişkin niteliklerin farkını ortaya koyar.
+b) Etkileşimlerle katılar arasındaki ilişkiyi belirlemek üzere gözlem verilerini veya ha-
+zır veri setini kullanır. 
+c) Çıkarımlarını bilim insanlarının çıkarımları ile karşılaştırır.  
+KİM.9.2.9. Sıvıların buhar basıncını etkileyen faktörlere ilişkin hipotez oluşturabilme 
+a) Buhar basıncını etkileyebilecek faktörleri belirlemek amacıyla sorular oluşturur.
+b) Belirlediği faktörlerin buhar basıncına etkilerini neden-sonuç ilişkileri kurarak be -
+lirtir. 
+c) Belirlediği faktörlerin buhar basıncına etkilerini araştırabilmek için bağımlı-bağımsız 
+değişkenleri ve kontrol değişkenlerini belirler. 
+ç) Değişkenler arasındaki ilişkiyi belirlemek üzere denemeler yapar.
+d) Sıvıların buhar basıncını etkileyen faktörleri belirlemek için sunduğu önermeleri bi-
+limsel kuramlar ile destekler. 
+KİM.9.2.10. Sıvıların kaynama sıcaklığını etkileyen faktörleri belirlemeye yönelik kanıt kul-
+lanabilme
+a) Sıvıların kaynama sıcaklığını etkileyen faktörleri belirlemeye yönelik ölçütler (mole-
+küller arası etkileşimin türü ve açık hava basıncı) belirler. 
+b) Gözlem veya hazır veri setinden seçtiği verileri değişkenler arası ilişkileri belirleye-
+cek şekilde düzenler. 
+c) Kaynama sıcaklığını etkileyen faktörlere yönelik iddialarını kanıtlara dayalı açıklar.
+KİM.9.2.11. Sıvıların viskozitesini etkileyen faktörlere ilişkin bilimsel gözlem yapabilme 
+a) Sıvıların viskozitesine ilişkin niteliklerin farkını ortaya koyar. 
+b) Belirlediği nitelikler ile sıvıların viskozitesi arasındaki ilişkiyi tespit etmek üzere veriler 
+toplayarak bu verileri kaydeder.
+c) Sıvılar hakkında elde ettiği benzer verilerden hareketle keşfettiği örüntüleri açıklar.
+KİM.9.2.12. Adezyon ve kohezyon kuvvetlerinin sıvıların özellikleri üzerindeki etkilerine 
+ilişkin bilimsel çıkarım yapabilme 
+a) Aynı ya da farklı etkileşimlere sahip sıvıların özellikleri ile ilgili farkları ortaya koyar. 
+b) Etkileşimler ile sıvıların özellikleri arasındaki ilişkiyi belirlemek üzere gözlem verilerini 
+ve hazır veri setini kullanır. 
+c) Çıkarımlarını bilim insanlarının çıkarımları ile karşılaştırır. 

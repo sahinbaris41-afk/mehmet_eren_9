@@ -1,0 +1,18 @@
+171
+Tema karekodu
+Tema 
+sunusuna 
+ulaşmak için 
+karekodu 
+okutunuz.
+Başlarken
+Mimarlar ve mühendisler, yapıların dayanıklılığını ve kararlılığını artırmak için genellikle üçgen şeklini 
+tercih ederler. Üçgenin özel yapısal özelliklere sahip olması bu tercihin temel nedenlerinden biridir. 
+Üçgen, kenarlarından birinin uzunluğu değiştirilmeden veya eklemlerinden biri kırılmadan deforme ol-
+mayan bir geometrik şekildir. Bu nedenle özellikle dikdörtgen yapıları güçlendirmenin etkili yollarından 
+biri, dikdörtgenin köşegen uzunluğu boyunca üçgenler oluşturarak dikdörtgene destekler eklemektir. 
+Bu çapraz destekler, yapıya dayanıklılık ve direnç katmanın yanı sıra yapının kararlı hâle gelmesini sağ-
+lar. İki çapraz köşe arasındaki tek bir destek, bir dikdörtgeni iki üçgene dönüştürerek yapıya uygulanan 
+yanal hareketi engeller; deprem veya diğer dış kuvvetlere karşı direnci artırır ve yapıyı güçlendirir. Bu 
+özelliklerinden ötürü üçgenlerden köprülerin ve bina çatılarının yapımında; mobilya, iç mekân tasarımı 
+gibi alanlarda yararlanılır.

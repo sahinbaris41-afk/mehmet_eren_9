@@ -1,0 +1,25 @@
+188
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+4. TEMA: DEĞİŞİMİN MATEMATİĞİ (2)
+Bu temada öğrencilerin değişim oranı ve limit kavramlarını kullanarak bir fonksiyonun 
+belirli bir noktadaki anlık değişimini veren türeve ve iki fonksiyonun toplamının, farkının, 
+çarpımının, bölümünün ve bileşkesinin türevine ilişkin muhakeme yapabilmeleri amaçlan-
+maktadır.
+DERS SAATİ 28
+ALAN 
+BECERİLERİ MAB1. Matematiksel Muhakeme
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma
+EĞİLİMLER E3.6. Analitiklik, E3.7. Sistematiklik
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim
+Değerler D3. Çalışkanlık, D5. Duyarlılık, D13. Sağlıklı Yaşam, D14. Saygı, D16. Sorumluluk, 
+D17. Tasarruf
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık, OB4. Görsel Okuryazarlık 
+DİSİPLİNLER ARASI 
+İLİŞKİLER Biyoloji, Coğrafya, Ekonomi, Fizik, Kimya
+BECERİLER ARASI 
+İLİŞKİLER MAB2. Matematiksel Problem Çözme, MAB3. Matematiksel Temsil,
+MAB5. Matematiksel Araç ve Teknoloji ile Çalışma 

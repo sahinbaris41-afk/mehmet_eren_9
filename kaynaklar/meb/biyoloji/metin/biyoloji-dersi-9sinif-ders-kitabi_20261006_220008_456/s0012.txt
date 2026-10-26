@@ -1,0 +1,124 @@
+12
+Kitap genelinde kullanılan tüm karekodlar akıllı 
+cihazlarla okutularak ya da kitabın dijital kop-
+yalarında karekod üzerine tıklanarak kitaba ait 
+e-içeriklere ulaşılabilir.
+47
+Organizasyon
+6. Etkinlik      
+Adı Suyun Özelliklerini Belirleme
+Amaç Suyun genel özellikleriyle ilgili veri toplayabilme 
+Süre 40 dk.
+Yönerge 
+• Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz.
+1. Öğretmen rehberliğinde 4-6 kişilik ekipler oluşturunuz.
+2. Aşağıda adımları verilen uygulamaları/deneyleri (I, II, III, IV ve V) yapınız.
+3. Grup arkadaşlarınızla düzeneğinizi hazırlarken dikkatinizi olumsuz yönde etkileyecek faktörleri kontrol edi-
+niz ve deneylerinizi adım adım gerçekleştiriniz.
+4. Deney sırasında elde ettiğiniz bütün verileri not ediniz.
+5. Uygulamalar sürecindeki gözlemlerinizin suyun hangi özellikleriyle (yoğunluk, çözücülük vb.) ilişkilendirile-
+bileceğini arkadaşlarınızla tartışınız.
+I. Deney
+Malzemeler İki adet lam, su
+Süre 5 dk. 
+Yapılışı Lamlardan birinin üzerine birkaç 
+damla su koyunuz ve ikinci lamı bi-
+rincinin üzerine yavaşça yerleştire-
+rek suyun ince bir tabaka hâline gel-
+mesini bekleyiniz. Ardından iki lamı 
+birbirinden ayırmaya çalışınız.
+II. Deney
+Malzemeler Çeşme suyu ile dolu bir bardak, birkaç 
+adet madenî para
+Süre 5 dk. 
+Yapılışı Ağzına kadar su dolu bir bardağa 
+madenî paraları yavaşça ve arka 
+arkaya bırakınız. Bardağa tahmin 
+edilenden daha fazla para bıraksanız 
+da su taşmaz. Bunun sonucunda her 
+para eklendiğinde bardağın üstünde 
+oluşacak kavisli yapıyı gözlemleyiniz. 
+Oksijen atomunun elektronegatifliği (elektron çekme 
+gücü) fazla olduğu için paylaşılan elektronu kendisine 
+doğru daha fazla çeker; bu nedenle su molekülü asi-
+metrik yapı kazanır. (Görsel 1.27). Bu asimetrik yapı (po-
+larite) suyun diğer moleküllerle nasıl etkileşime girdiği-
+ni belirler ve suyun kendine özgü özelliklerinin ortaya 
+çıkmasını sağlar. Bu yapı sayesinde suyun adezyon, 
+kohezyon, ısı tutma kapasitesi (öz ısı), polar molekülleri 
+çözebilme yeteneği gibi özellikleri ortaya çıkar. 
+Görsel 1.27
+Suyun moleküler 
+yapısı 
+26
+1. Tema
+IV. Hipotez Oluşturma
+Bilimsel süreçteki bir sonraki aşama, gözlemlere dayalı bir hipotezin oluşturulmasıdır. 
+Hipotez, belirli bir durumun ya da olayın nedeninin, bağlantısının veya sonucunun 
+açıklanması için sunulan bir önermedir. Hipotez; deneysel yöntemler veya gözlemler 
+kullanılarak test edilebilir, doğruluğu ya da yanlışlığı ispatlanabilir olmalıdır.
+Örnek biyolojik durumda bazı kuşların güveleri yediği ve baykuşların da diğer kuşları 
+avladığı hakkında bilgiler elde ettiğinizi düşününüz. Bu bilgiden hareketle oluşturaca-
+ğınız “Göz desenleri güveyi yiyebilecek avcıları uzaklaştırır. ” cümlesi sizin hipotezinizdir.
+V. Hipoteze Dayalı Tahminler
+Hipotezlerin doğruluğu test edilmeden hipotezden akıl yürütme yoluyla çıkarılan 
+sonuçlara tahmin denir. Tahmin, çalışmalarda zaman kaybını önleyerek araştırma-
+ları kolaylaştırır. Bu süreç, bilimsel bilginin gelişmesine ve doğrulanabilir sonuçla-
+rın elde edilmesine katkıda bulunur. 
+Göz desenlerinin güveyi yiyebilecek avcıları uzaklaştırdığı hipotezinden yola çıkılarak 
+mevcut durumla ilgili şu tahmin yapılabilir: Bir güvenin kanatlarında göz desenleri 
+varsa avcı kuşlar güveyi yemekten kaçınır.
+VI. Deney Tasarlama
+Hipoteze dayalı tahminleri test etmek için genellikle kontrollü bir deney tasarlanır 
+veya bilimsel kaynaklardan kanıtlar toplanır. Deney sırasında ve kaynak araştırma-
+sında veriler ya da bilgiler toplanır ve analiz edilmek üzere kaydedilir. Kontrollü 
+deneylerde araştırmacı tarafından değiştirilen ve etkisi araştırılan değişkene ba-
+ğımsız değişken, bağımsız değişkene bağlı olarak değişen diğer değişkene ise 
+bağımlı değişken denir. 
+Verilen örnek biyolojik durumda göz desenleri olan güveleri daha fazla gözlem ya-
+parak avcı kuşların gerçekten de göz desenleri olan güveleri yemekten kaçındığını 
+gözlemleyebilir veya hipotezin test edilmesine yönelik kontrollü deney tasarımı ya-
+pabilirsiniz. Bu süreçte eşit sayıda benekli ve beneksiz güvelerin, avcı kuşların olduğu 
+ortamda bir süre bekletildikten sonra kalan güvelerin sayıları karşılaştırılabilir. Yapı-
+lan bu işlem kontrollü bir deneyin en basit örneklerindendir. Bu örnekte güvelerin göz 
+desenleri bulundurma durumu bağımsız değişken, güve sayıları ise desen durumuna 
+göre değişeceği için bağımlı değişkendir.
+VII. Analiz ve Sonuç Çıkarma
+Bilimsel çalışma sürecinde elde edilen verilerin yorumlanmasına çıkarım denir. 
+Elde edilen bulgular veya çıkarımlar kurulan hipotez ile çelişirse hipotez tekrar 
+gözden geçirilir ve gerekiyorsa değiştirilir. Veriler hipotezi desteklemek için yeter-
+li değilse yeni gözlem veya deneyler yapılarak yeni veriler elde edilmeye çalışılır. 
+Veriler hipotezi destekliyorsa deney sonuçları raporlanarak bilim çevrelerine du-
+yurulur.
+Detaylı gözlemler veya kontrollü deney sonucunda göz desenli kanat yapısına sahip 
+güvelerin avcı kuşlar tarafından daha az avlandığı tespit edilirse hipotezin destek-
+lendiği bilimsel kanıtlar elde edilmiş olur. Elde edilen veriler hipotezi desteklemek için 
+yeterli değilse farklı bir yöntem kullanılarak hipotezin test edilmesi için ilave veriler 
+toplanması gerekebilir. Gözlem ve deneyler sonucunda güvenin kanatlarında bulu-
+nan beneklerin avcıların kaçmasına ve güvenin hayatta kalmasına yardımcı olduğu 
+sonucunu çıkarırsınız.
+Fizik, kimya ve biyoloji gibi bilim dallarında bilimsel sürecin benzer adımları izlenir. 
+İlk olarak gözlemler yapılır ve olgular dikkatlice incelenir. Ardından hipotezler oluş-
+Tema ve başlığı Etkinlikleri uygularken dikkat 
+edilmesi gereken güvenlik 
+kuralları
+Derse hazırlık ve 
+ön değerlendirme 
+yapılan “Konuya 
+Başlarken” alanı
+Sayfaların dış kenarlarındaki 
+sütunlar; tek sütun ölçüle-
+rindeki görsellerin yerleştiril-
+mesi, görsel açıklamalarının 
+yazılması ve öğrencilerin 
+kendi çalışma notlarını yaza-
+bilmeleri için tasarlanmıştır.
+Görseller sayfalara orantılı 
+şekilde yerleştirilmiş, görsel 
+açıklamaları farklı yazı karak-
+teri ve büyüklükle verilmiştir. 
+Ayrıca açıklama ile görsel 
+bağlantısında algıyı kolaylaş-
+tırmak için yönlendirme ok 
+uçları, açıklamanın ait olduğu 
+görseli göstermektedir.

@@ -1,0 +1,31 @@
+106
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+3. TEMA: SÜRDÜRÜLEBİLİRLİK
+Bu tema Nanobilim, Yeşil Kimya ve Sürdürülebilirlik  bölümünden oluşmaktadır. Bu tema -
+da öğrencilerin sürdürülebilir kalkınmanın 7 ve 13. hedefleri, yeşil kimyanın yenilenebilir 
+ham maddelerin kullanımı ve enerji verimliliği için tasarım ilkeleri temelinde boyaya duyarlı 
+güneş pillerinin verimliliklerine ilişkin çıkarım yapmaları; sürdürülebilir kalkınmanın 3 ve 
+12. hedefleri ve yeşil kimyanın bozunma için tasarım ilkesi temelinde biyobozunur polimer 
+eldesinde kullanılacak bileşenlere karar verebilmeleri ve yapay zekâ uygulamalarının sür-
+dürülebilirliğe etkilerine yönelik eleştirel düşünebilmeleri amaçlanmaktadır.
+DERS SAATİ 20
+ALAN 
+BECERİLERİ FBAB8. Bilimsel Çıkarım Yapma
+KAVRAMSAL 
+BECERİLER KB3.1. Karar Verme, KB3.3. Eleştirel Düşünme
+EĞİLİMLER E2.1. Empati, E2.2. Sorumluluk, E3.1. Muhakeme, E3.2. Odaklanma, E3.10. Eleştirel Bak -
+ma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.1. Uyum, SDB3.2. Es-
+neklik, SDB3.3. Sorumlu Karar Verme 
+Değerler D3. Çalışkanlık, D4. Dostluk, D5. Duyarlılık, D9. Merhamet, D14. Saygı, D17. Tasarruf, D18. 
+Temizlik
+Okuryazarlık Becerileri OB1. Bilgi Okuryazarlığı, OB3. Finansal Okuryazarlık, OB7. Veri Okuryazarlığı, OB8. Sürdürü-
+lebilirlik Okuryazarlığı
+DİSİPLİNLER ARASI 
+İLİŞKİLER Bilişim Teknolojileri, Biyoloji, Fizik, Matematik
+BECERİLER ARASI 
+İLİŞKİLER KB2.2. Gözlemleme, KB2.8. Sorgulama, KB2.14. Yorumlama

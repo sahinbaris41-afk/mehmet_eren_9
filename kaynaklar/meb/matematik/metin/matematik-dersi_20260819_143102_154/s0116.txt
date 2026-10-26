@@ -1,0 +1,49 @@
+116
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin doğal sayılarla aritmetik işlemler yapabildikleri, mantık bağlaçları ve nice -
+leyicilerin sözel temsillerdeki anlamını yorumlayabildikleri, cebirsel ifadeler ve özdeşlik -
+lerle ilgili işlemleri yapabildikleri, sayma gerektiren problem durumlarında toplama ya da 
+çarpma yaparak çözüm geliştirebildikleri, problem durumlarına uygun algoritma (doğal 
+dil, akış şeması ya da sözde kod) oluşturabildikleri veya verilen algoritmayı çözümleye -
+bildikleri kabul edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin sayma gerektiren basit durumlarda (ardışık doğal sayılarla ilgili problemlerde 
+sayma istendiğinde, olasılıkta çıktı sayılarının hesaplanması gibi durumlarda) yaptıkları iş -
+lemlere dair bilgi ve becerilerinin belirlenebilmesi için soru cevap tekniği uygulanabilir. Cebir-
+sel ifadeler ve özdeşliklerle işlem yapma becerilerini değerlendiren kısa cevaplı sorular soru-
+labilir. Algoritma temelli örnek problem durumları verilerek öğrencilerin probleme uygun bir 
+şekilde algoritma oluşturmaları istenebilir. Ayrıca bu problemlerde geçen mantık bağlaçları 
+ve niceleyiciler ile bunlar arasındaki ilişkileri belirlemeye yönelik sorular sorulabilir. Doğrusal 
+ve ikinci dereceden fonksiyonların nitel özellikleri ve cebirsel gösterimlerin anlamlarıyla ilgili 
+olarak öğrencilerin becerilerini, kavram yanılgılarını ve öğrenme eksikliklerini tespit etmek 
+için açık uçlu sorulardan oluşan hazır bulunuşluk testi yapılabilir.
+Köprü Kurma Öğrencilerin eski çağlarda insanların sayılar olmadan sayma gerektiren durumlarda nasıl 
+çözümler geliştirmiş olabileceğine (nesne topluluklarında oluşan azalma veya artma durum-
+larını belirleme, nesne topluluklarını karşılaştırma gibi) yönelik görüşleri alınabilir. Bu süreç, 
+öğrencilerin merak duygusunu harekete geçirir. Aynı örnek durum için toplama ve çarpma 
+yoluyla sayma yollarından hangisinin tercih edilmesinin uygun olabileceğine yönelik sorulara 
+yer verilebilir. Gerçek yaşam durumlarında karşılaşılan sayma örnekleri üzerinden bunların 
+hangilerinin sıralama, hangilerinin seçme sayısıyla ilişkili olduğu incelenebilir.
+Öğrenme-Öğretme 
+Uygulamaları MAT.10.5.1
+Günlük hayatta karşılaşılabilen ve doğal sayılarla eşleştirmenin ya da toplayarak saymanın 
+mümkün olduğu durumlar öncelikli olarak ele alınır. Sayma yöntemleri adlandırılacağı için en 
+eski sayma yönteminin eşleştirme yöntemi olduğu belirtilir. Sayma yöntemine karar verme-
+den önce nesneler arasındaki ilişkiler çözümlenir ve sözel ifadelerin uygun şekilde tablo ya 
+da çizimlerle görselleştirilmesi teşvik edilir. Sayma stratejisi içeren zekâ oyunları ve çizge -
+lerle ifade edilebilen saymaya dayalı problemler (el sıkışma problemi, çokgenlerde köşegen 
+sayısı gibi)  ele alınır. Daha karmaşık bir problem durumu, içerdiği sayma yöntemi bakımından 
+daha sade olan başka bir problem durumu ile eşleştirilir. Bu sayede problemler, içerdikleri 
+bağlamlara göre değil sayma yöntemlerine göre sınıflandırılır. Örneğin B şehrine uğramak 
+koşuluyla A şehrinden C şehrine kaç farklı yoldan gidilebileceğini içeren bir problem ile belirli 
+sayıda farklı gömlek ve ceket kullanılarak kaç farklı kombin yapılabileceğini içeren bir prob -
+lem, çözüm yöntemleri bakımından birbiri ile eş olabilir. Çözüm stratejileri veya cevapları aynı 
+olan problem durumlarının eşleştirilmesinin istendiği çalışma kâğıtları kullanılabilir.
+Bir problem durumuna ilişkin çözüm stratejisinin daha verimli ve farklı yollar aranarak geliştiril-
+mesi beklenir. Böylece öğrencilerin farklı ve zorlayıcı durumlarda alternatif çözümler üretme 
+becerileri aracılığıyla esneklik becerilerinin gelişimi desteklenir (SDB3.2). Örneğin toplayarak 
+saymadan sonra çarparak saymaya geçiş yapılmasının gerekli olduğu hissettirilir. Böylelikle 
+çarpma yöntemiyle sayılabilecek durumlarda elde edilen strateji anlamlandırılır.  Stratejileri 
+formüllere dönüştürmek yerine genel sayma yaklaşımlarını anlamlandırma ön planda tutulur. 
+Sıralama sayısı içeren problem durumları da çarparak sayma bağlamında ele alınır. Sonrasın-

@@ -1,0 +1,43 @@
+39
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.10.1.3 
+Öğretmen günlük hayattan örnekler vererek otomobillerin sık durup hareket etmesini 
+ve hızlarının ani biçimde değişmesini ivmeli hareket kavramı ile ilişkilendirebilir. Öğrenci-
+lerden topluma olumlu katkıda bulunmak için fazla yakıt sarfiyatının sonuçlarını ve bunu 
+önleme yollarını tartışmaları istenir (D5.2, D17.2, SDB2.3). Öğrenciler öğretmen rehber -
+liğinde gruplara ayrılır ve gruplar takım çalışmasıyla (SDB2.2) simülasyon kullanarak ya 
+da öğretmen tarafından verilen hazır veri setinden faydalanarak yatay doğrultuda sabit 
+ivmeyle hareket eden cisimler için konum-zaman, hız-zaman ve ivme-zaman grafikleri-
+ni çizer ve inceler (OB7). Konum-zaman, hız-zaman ve ivme-zaman grafiklerini birbirine 
+dönüştürerek (OB4) ve hız değişimi ile yer değiştirme hesaplamaları yaparak matematik-
+sel modellere ulaşır (E3.4). Öğretmen soru cevap tekniğini kullanarak öğrencilerin grafik 
+değerleri ve matematiksel modeller arasındaki ilişkiyi kendi cümleleri ile ifade etmesini 
+(E3.1) sağlar. Öğretmen; öğrencilerden grafik çizimi, grafik dönüşümü, grafikten değer 
+bulma ve matematiksel hesaplamaları içeren bir bilgi görseli hazırlayarak sunmalarını is-
+teyebilir. 
+FARKLILAŞTIRMA
+Zenginleştirme Sabit hızda hareket eden birden fazla hareketlinin hız ve konumlarının karşılaştırılması ele 
+alınabilir. Bu karşılaştırmalarda birden fazla sabit hızla hareket eden cisimlerin konum–
+zaman tabloları verilerek her birine yönelik konum-zaman grafikleri çizmeleri istenebilir. 
+Farklı hız değişimlerine yönelik verilen veri setlerindeki iddialardan seçim yapmaları, bu 
+iddiaları grafik ve  matematiksel model yardımıyla kanıt sunarak savunmaları istenebilir. 
+*Sabit hızla hareket eden cisimlere ait yalnızca konum–zaman grafikleri verilerek grafik -
+lere uygun gerçek yaşam senaryoları üretmeleri istenebilir. Bu grafiklerin bazı bölümleri 
+eksik bırakılarak öğrencilerden mantıksal çıkarım yoluyla bu bölümleri tamamlamaları ve 
+elde ettikleri grafiklere dayanarak hareketlilerin hızlarını hesaplamaları istenebilir. Sabit 
+ivmeli hareketle ilgili olarak verilen tek bir hız–zaman grafiğine uygun en az üç farklı ger -
+çek yaşam senaryosu yazmaları, her senaryo için konum–zaman ve ivme–zaman grafiği 
+çizmeleri istenebilir. 
+*Sabit hızlı harekete ilişkin karmaşık açıklamalar verilerek öğrencilerden her açıklamayı 
+doğru–yanlış şeklinde sınıflandırmaları ve yanlış olanları uygun grafiklerle gerekçelen-
+direrek düzeltmeleri istenebilir. Sabit ivmeli hareketle ilgili olarak ivmenin pozitif ve ne-
+gatif durumlarını gösteren bir videodaki cismin hareketini konum-zaman, hız-zaman ve 
+ivme-zaman grafikleri kullanarak açıklamaları istenebilir.
+Destekleme Öğrencilere sabit hızlı hareketin temel kavramlarına yönelik görsel ve işitsel simülasyon-
+lar, interaktif animasyonlar ve basit deneyler sunulabilir. Bir hareketlinin konumu, hızı ve 
+ivmesi ile ilgili soruların bulunduğu bilgi kartları verilebilir. Kartlardaki sorularda bildiği ni-
+celikleri ve nicelikler arasındaki ilişkiyi ifade etmesi istenebilir. Günlük hayat örneklerine 
+yönelik grafikler üzerinden bir tartışma ve grafik okuma alıştırması yapılabilir.
+ÖĞRETMEN 
+YANSITMALARI Programa yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

@@ -1,0 +1,44 @@
+76
+4. Tema / Eşlik ve Benzerlik
+ 4.5. 	EŞLİK	VE	BENZERLİK	PROBLEMLERİ
+Konuya Başlarken
+İngilizcede pinhole (pinhol) olarak bilinen iğne deliği ve camera obscura (kamera obskura) 
+adı verilen karanlık kutudan oluşan düzenek günümüzde fotoğraf makinesinin en eski ve 
+ilkel formu kabul edilir. Bu düzenekte bir nesnenin görüntüsünün karanlık kutu içinde 
+oluşma mekanizması şu şekilde çalışır: Işık geçirmez kutunun bir yüzeyine küçük bir delik 
+açılır. Kutunun dışındaki nesneden yansıyan ışık, bu delikten geçerek deliğin karşısındaki 
+yüzeye düşer ve ışığın düştüğü yüzeyde nesnenin baş aşağı bir görüntüsü oluşur.
+Verilen bilgileri kullanarak ve görseli inceleyerek aşağıdaki soruların cevaplarına 
+ilişkin fikirlerinizi sınıf arkadaşlarınızla paylaşınız.
+1. Görselden hareketle birer kenarını nesne ve nesnenin karanlık kutudaki görüntüsünün 
+oluşturduğu üçgenleri inceleyiniz. İncelediğiniz üçgenlerin açıları ve kenarları arasındaki 
+ilişkileri belirleyiniz.
+2. Birinci soruda ulaştığınız ilişkilerden hareketle karanlık kutuda oluşan görüntünün 
+uzunluğunu bulabilmek için başka hangi bilgilere ihtiyaç duyulacağını belirleyiniz.
+3. Nesnenin uzunluğu verildiğinde karanlık kutuda oluşan görüntünün uzunluğunu 
+bulabilmek için gerekli stratejiyi oluşturunuz.
+Geometrinin	temel	şekillerinden	olan	üçgen	ile	birçok	problem	durumunda	karşılaşılmaktadır.	Üçgenle-
+rin	eşlik	ve	benzerlik	koşulları	ile	bu	koşullardan	hareketle	ispatları	yapılan	teoremler;	bir	binanın	yük-
+sekliğinin	bulunması,	bir	nehrin	genişliğinin	hesaplanması,	haritaların	ölçeklendirilmesi	gibi	problemlerin	
+çözümünde	kullanılmaktadır.
+Karanlık	kutu
+Delik
+O
+p r
+Nesne
+A
+B'
+B
+A'
+Işık	ışını
+h'h
+Eşlik ve Benzerlikle İlgili Problem Çözme 
+Aşağıda verilenlerden hareketle soruları cevaplayınız.
+Aşağıdaki görselde dikdörtgen şeklindeki iki çantanın zemine paralel olacak şekilde monte edilmiş bir askılıktaki 
+durumları verilmiştir. Her iki çantanın kısa kenarının uzunluğunun uzun kenarının uzunluğuna oranı 53 ’tir. 
+42
+70
+35
+5
+67
+13. Uygulama

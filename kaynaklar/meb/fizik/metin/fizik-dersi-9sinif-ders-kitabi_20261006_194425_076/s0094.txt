@@ -1,0 +1,47 @@
+94
+2. ÜNİTE 
+III. Aşama
+Alınan yol kavramının tanımına ulaşmak için aşağıdaki krokileri inceleyiniz. 
+Okul
+Ev
+Kütüphane
+A B
+I. kroki
+120 km
+160 km
+II
+I
+II. kroki
+II
+I
+25 m}
+25 m}
+1. 
+a) I. krokideki A şehrinden B şehrine I numaralı yoldan giden bir araç kaç km yol katetmiş olur? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+b) I. krokideki B şehrinden A şehrine II numaralı yoldan dönen bir araç kaç km yol katetmiş olur?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+2. 
+a) II. krokideki I numaralı yolu kullanarak evden kütüphaneye giden bir öğrenci kaç m yol katetmiş olur?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+b) II. krokideki II numaralı yolu kullanarak, kütüphaneden çıkıp önce okula so nra eve giden bir öğrenci 
+kaç m yol katetmiş olur?
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+3. I. krokideki A noktasından I numaralı yolu kullanarak B noktasına giden araç II numaralı yolu kullana rak 
+A noktasına döndüğünde toplam 280 km yol alıyor. Bir öğrenci II. krokideki evden önce okula sonra II nu­
+maralı yolu kullanarak kütüphaneye gittiğinde toplam 300 m yol katediyor. Araç ve öğrencinin hedeflerine 
+ulaşmak için katettikleri mesafeler arasındaki benzerlikten yararlanarak alınan yol kavramını tanımlayınız. 
+Alınan Y ol
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+IV . Aşama
+Y er değiştirme kavramının tanımına ulaşmak için aşağıdaki yol haritalarını inceleyiniz. Eşit bölmelendirilmiş bisik­
+let güzergâhının her bir bölmesinin uzunluğu 200 m, yürüyüş güzergâhının her bir bölmesinin uzunluğu 20 m’ dir. 
+II
+I
+A
+C D
+B
+Bisiklet güzergâhı Yürüyüş güzergâhı
+200 m}
+200 m} 20 m}
+20 m}

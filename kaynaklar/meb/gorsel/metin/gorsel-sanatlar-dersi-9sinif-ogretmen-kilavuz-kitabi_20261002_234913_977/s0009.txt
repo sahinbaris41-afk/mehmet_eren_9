@@ -1,0 +1,41 @@
+98
+Devam Simgesi
+Etkinliğin veya ölçme ve 
+değerlendirmenin devam 
+ettiğini gösterir.
+Karekod
+Tema konularına yönelik 
+hazırlanan içeriklere bu 
+karekodda yer verilmiştir.
+Farklılaştırma
+Öğrenme profilleri farklılık 
+gösteren öğrencilere 
+yönelik zenginleştirme 
+ve desteklemeyle ilgili 
+öğrenme-öğretme 
+yaşantılarına bu bölümde 
+yer verilmiştir.
+Karekod
+Ölçme ve değerlendirme ile 
+ilgili e-içeriğe erişim sağlar.
+Etkinlik
+Öğrenme çıktısının 
+gerçekleştirilmesine ve 
+konunun kavratılmasına 
+yönelik etkinlik 
+basamaklarına bu 
+bölümde yer verilmiştir.
+Etkinlik Tablosu
+Etkinliğin adı, süresi, 
+uygulanacağı öğrenci 
+kitlesi, öğrenme çıktısı 
+veya ilgili süreç bileşeni, 
+kullanılan materyaller, 
+yöntem ve teknik gibi 
+bilinmesi gereken tüm 
+bilgilere bu tabloda yer 
+verilmiştir.
+Son Simgesi 
+Etkinliğin veya ölçme 
+ve değerlendirmenin 
+tamamlandığını belirtir.

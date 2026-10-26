@@ -1,0 +1,47 @@
+MATEMATİK 9 
+44 45
+1. PERFORMANS 
+GÖREVI Öklid’in 5. Postulatı ve Öklid Dışı Geometriler
+Beklenen 
+Performans
+Nasirüddin Tusi ve Ebu Cafer Hazin'in Öklid’in 5. postulatına ilişkin çalış -
+maları ve Öklid dışı geometriler üzerine araştırma ve sunum yapma.
+Zenginleştirme 
+Uygulaması
+* Nasirüddin Tusi ile Ebu Cafer Hazin'in Öklid’in 5. postulatına ilişkin çalış-
+maları incelenir. Öğrencilerden Öklid dışı geometrilerin nasıl oluştuğuna 
+dair araştırma yapmaları istenir. Öğrencilerin Nasirüddin Tusi ve Ebu Ca-
+fer Hazin‘in Öklid’in 5. postulatına ilişkin çalışmaları arasında karşılaştır -
+ma yaparak bir çıkarımda bulunmaları sağlanır. Araştırmaların dijital or -
+tamda yapılması, öğrencilerin dijital okuryazarlık becerilerinin gelişimini 
+destekler.
+Araç Gereç ve 
+Materyaller
+• Bilgisayar veya tablet
+• Genel ağ bağlantısı
+• Araştırma ve sunum yazılımları
+Değerlendirme Dereceli Puanlama Anahtarı
+Öklid’in 5. postulatının ne olduğuna, öklid dışı geometrilerin nasıl ortaya çıktığına dair bir araştırma yapı -
+nız. Bu geometrilerin temellerini, tarihi gelişimini ve matematiksel öncüllerini araştırıp postulatın geometrik 
+önemi ve tarihsel bağlamı hakkında bilgi toplayınız. Nasirüddin Tusi ve Ebu Cafer Hazin'in Öklid’in 5. postu -
+latına yönelik yaklaşımlarını araştırınız ve her iki bilim insanının bu postulatla ilgili hangi çalışmalar yaptığına 
+dair detaylı bilgi toplayınız. Her iki bilim insanının çalışmalarını analiz ederek karşılaştırınız. Çalışmalarında 
+benzer ve farklı yönleri belirleyiniz. Nasirüddin Tusi ve Ebu Cafer Hazin'in çalışmalarını karşılaştırarak Öklid’in 
+5. postulatının ele alınış biçimlerinin Öklid dışı geometrilerin oluşumuna nasıl katkıda bulunduğunu açıklayı -
+nız. Araştırmanızın sonuçlarını, dijital araçlar kullanarak hazırlanmış bir sunum ile sınıfta paylaşınız.
+Çalışma Sürecinde Dikkat Edilecek Hususlar
+1. Kaynak Kullanımı:
+ ▶ Güvenilir kaynaklardan yararlandığınıza emin olunuz.
+ ▶ Nasirüddin Tusi ve Ebu Cafer Hazin’in çalışmalarına yönelik detaylı bilgi edininiz.
+2. Öklid Dışı Geometriler:
+ ▶ Öklid dışı geometrilerin nasıl oluştuğunu araştırırken klasik geometriyle karşılaştırmalar yaparak bu 
+geometrilerin temel özelliklerini anlamaya çalışınız.
+ ▶ Araştırmanızı derinleştirirken bu geometrilerin modern matematik üzerindeki etkisini de inceleyiniz.
+3. Rapor Yazımı:
+ ▶ Araştırma bulgularınızı açık, anlaşılır ve düzenli bir şekilde yazınız.
+ ▶ Her bölümde konuyu net bir şekilde ele alarak başlıklar altında düzenleyiniz.
+ ▶ Bu matematikçilerin Öklid’in 5. postulatı üzerindeki çalışmalarını detaylı bir şekilde açıklayınız. Diğer 
+önemli matematikçilerin katkılarına da raporunuzda yer veriniz.
+ ▶ Raporunuzu görsel materyaller (örneğin şekiller, grafikler, tablolar) ile destekleyiniz. Bu materyalle-
+rin açıklamalarınızı güçlendirdiğinden ve konuyu daha anlaşılır hâle getirdiğinden emin olunuz.
+ ▶ Raporunuza yararlandığınız kaynakları içeren bir kaynakça eklemeyi unutmayınız.

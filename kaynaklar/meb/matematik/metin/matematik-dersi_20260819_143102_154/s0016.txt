@@ -1,0 +1,47 @@
+16
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+1.5.1. Ortaöğretim Matematik Dersi Öğretim Programı՚nın İçerik Tasarımı
+İçerik tasarımında kavramsal beceriler ile matematik alan becerilerini temel alan Ortaöğretim Matematik Dersi Öğretim 
+Programı’nın geliştirmeyi amaçladığı 5 alan becerisi aşağıdaki gibidir. 
+•  Matematiksel muhakeme 
+•  Matematiksel problem çözme 
+•  Matematiksel temsil
+•  Veri ile çalışma ve veriye dayalı karar verme
+•  Matematiksel araç ve teknoloji ile çalışma
+Bu alan becerilerinden her biri, matematiksel düşünme ve matematik öğretiminden beklenen bireysel veya toplumsal 
+faydanın önemli bir boyutunu yansıtmaktadır.  Bu anlamda öğretim programlarında veya alan yazınında tanımlanan pek 
+çok matematiksel beceri, bu programda temel alınan alan becerilerinin bir bileşeni olarak kullanılmıştır. 
+Matematiksel muhakeme becerisi; çözümleme, yorumlama, çıkarım yapma, matematiksel doğrulama veya ispat yapma 
+şeklinde dört ana beceriden ve bunların süreç bileşenlerinden oluşmaktadır. Örüntü arama, genelleme, tahmin etme, 
+önerme sunma, farklı temsillerden yararlanma, ilişkilendirme gibi pek çok matematiksel beceriye muhakeme becerisinin 
+süreç bileşenleri bağlamında yer verilmiştir. 
+Matematiksel problem çözme; çözümleme, yorumlama, matematiksel çözümler geliştirme, yansıtma şeklinde dört 
+ana beceriden ve bunların süreç bileşenlerinden oluşmaktadır. Sezgiye ve deneyime dayalı stratejiler geliştirerek bu 
+stratejileri uygulayabilme, problemin çözümü ve uygulanan stratejiyi farklı açılardan değerlendirebilme, matematiksel 
+modellemeyi kullanabilme gibi matematiksel becerilere problem çözme becerisinin süreç bileşenleri altında yer 
+verilmiştir. Ayrıca problem kurma becerisine temalarda vurgu yapılmamış olup bu beceri, problem çözme becerisinin 
+yansıtma bileşeni altında ele alınmıştır. Problem kurma becerisi; problem çözme deneyiminin gözden geçirilmesi, 
+deneyime dayalı çıkarımlar yapılması ve ulaşılan çıkarımların değerlendirilmesi ile ilişkili olduğu için programda ayrı bir 
+beceri olarak yer almamıştır. 
+Matematiksel temsil becerisi; matematiksel temsillerden yararlanma, matematiksel temsilleri değerlendirme şeklinde 
+iki ana beceriden ve bunların süreç bileşenlerinden oluşmaktadır. Matematiksel temsilleri tanıyıp kullanabilme, 
+görselleştirme, temsiller aracılığı ile matematiksel iletişim kurabilme gibi matematiksel becerilere matematiksel temsil 
+becerisinin süreç bileşenleri bağlamında yer verilmiştir. 
+Veri ile çalışma ve veriye dayalı karar verme becerisi; istatistiksel problemi belirleme, verileri toplama ve analize 
+hazırlama, bulgulara ulaşma, bulguları yorumlama şeklinde dört ana beceriden ve bunların süreç bileşenlerinden 
+oluşmaktadır. İstatistiksel sorular oluşturarak bu sorulara cevap bulmak amacıyla verileri toplayabilme, verileri analiz 
+edebilme, verileri görselleştirebilme, verileri ilişkilendirip yorumlayabilme ve istatistiksel çıkarım yapabilme gibi pek çok 
+beceriye veri ile çalışma ve veriye dayalı karar verme becerisinin süreç bileşenleri bağlamında yer verilmiştir. 
+Matematiksel araç ve teknoloji ile çalışma becerisi; matematiksel araç ve teknolojiden yararlanma, değerlendirme 
+şeklinde iki ana beceriden ve bunların süreç bileşenlerinden oluşmaktadır. Başta pergel, cetvel ve çizgeç (ölçüsüz 
+cetvel) kullanarak çizim ve inşa yapabilme becerisinden matematik öğrenme sürecinde uygun teknolojik araçların 
+özelliklerini tanıyıp etkin şekilde kullanmaya ve kullanılan farklı araçları karşılaştırıp değerlendirebilmeye kadar pek çok 
+beceriye matematiksel araç ve teknoloji ile çalışma becerisinin süreç bileşenleri bağlamında yer verilmiştir. 
+Programın öğrenme çıktıları, bu alan becerilerinin yanı sıra pek çok kavramsal becerinin süreç bileşenleri dikkate alınarak 
+belirlenmiştir. Öğrenme çıktıları belirlenirken Türkiye Yüzyılı Maarif Modeli Ortak Metni’nde yer alan kavramsal beceriler 
+veya alan becerilerinin süreç bileşenleri, sırası değiştirilmeden ilgili kavram veya temaya uygun şekilde ifade edilmiştir. 
+Beceri temelli program yaklaşımının bir gerekliliği olarak öğrenme çıktıları belirlenirken mevcut programın matematiksel 
+içeriğinin bazı boyutları dönüştürülmüş veya tamamıyla yeniden tasarlanmıştır. Yine bu yaklaşımın bir gerekliliği olarak 
+matematiksel bilgiler kavramsal ilişkililik, birey için anlamlılık ve matematik öğretiminin amaçları açısından faydalılık gibi 
+ölçütler açısından değerlendirilmiş; bu ölçütleri sağlamayan matematiksel içeriklere programda yer verilmemiştir. Bu 
+anlamda daha yalın, tutarlı ve beceri gelişimini destekleyen bir içerik yapısı kurgulanmıştır.  

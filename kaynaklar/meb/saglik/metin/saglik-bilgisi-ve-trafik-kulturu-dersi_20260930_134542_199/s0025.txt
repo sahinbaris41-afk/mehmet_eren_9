@@ -1,0 +1,26 @@
+Sağlık Bilgisi ve Trafik Kültürü
+25
+Kontrol Noktası
+1. Aşağıda sağlık kavramına ait frayer modelini doldurunuz.
+2. Aşağıdaki yapılandırılmış gridde (numaralandırılmış kutucuklarda) sağlığı etkileyen çevresel fak-
+törlerin kaynaklarına ilişkin kutucuk numaralarını kullanarak soruları cevaplayınız. (Aynı kutucuk 
+numarası birden fazla sorunun cevabı olarak kullanılabilir.)
+a) Hangisi/hangileri hem akut sağlık sorunlarına hem de kronik hastalıklara yol açabilecek 
+kaynaklardır?
+b) Hangisi/hangileri bireylerin yaşam tarzından bağımsız olarak yalnızca çevresel maruziyetle 
+kansere yol açabilir?
+c) Hangisi/hangileri bireysel ve toplumsal düzeyde etkiler oluşturabilecek en az üç farklı kaynaktır?
+ç) Hangisi/hangileri çevre yönetimi ve atık kontrol sistemlerinin geliştirilmesiyle doğrudan 
+azaltılabilir?
+d) Hangisi/hangileri hem doğal faaliyetlerden hem de insan faaliyetlerinden kaynaklanan çevresel 
+riskleri aynı anda içermektedir?
+e) Hangisi/hangileri sınır ötesi ve küresel ölçekte etkiler oluşturabilir?
+(1) Trafikteki egzoz gazı (2) Sanayi bacalarındaki              duman (3) İnşaat faaliyetleri (4) Havaalanları
+(5) Eğlence mekânları 
+      (yüksek ses) (6) Sanayi atıkları (7) Tarımsal pestisitler (8) Evsel atık sular
+(9) Plastik atıklar (10) Nükleer santraller (11) Tıbbi cihazlar (12) Sivrisinekler
+Tanım
+Örnekler
+Özellikler
+Örnek olmayanlar
+SAĞLIK

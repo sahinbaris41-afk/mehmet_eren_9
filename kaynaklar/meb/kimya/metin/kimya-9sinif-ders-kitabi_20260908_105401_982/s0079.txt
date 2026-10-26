@@ -1,0 +1,46 @@
+79
+1. Tema/Etkileşim
+3. A tom yarıçapı en büyük ve en küçük atomlar periyodik tabloda hangi periyot ve grupta yer alır? Bu duru -
+mun nedenini açıklayınız.
+4. P eriyodik tabloda aynı grupta yer alan atomların ve aynı periyotta yer alan atomların yarıçapını belirleyen 
+etmenler nelerdir?
+5. 20Ca, 14Si, 15P,  12Mg, 9F,  17Cl atomlarının elektron dağılımlarını yazınız. Aynı gruptaki atomların enerji düzeyi 
+ile aynı periyottaki atomların proton ve elektron sayısı örüntüsünü kullanarak atom yarıçaplarını büyükten 
+küçüğe sıralayınız.
+6. 19K ve 20Ca ile 1H ve 2He atomlarını atom yarıçapları arasındaki ilişkiyi gösterecek biçimde modelleyiniz 
+ve modellemenizi neye dayanarak yaptığınızı açıklayınız.
+Atomlar elektron alarak veya vererek iyon oluşturmaktadır. Aşağıdaki görsellerde nötr hâlde ve iyon hâlinde 
+bulunan A grubu elementlerinden bazılarının yarıçapları pikometre cinsinden verilmiştir. Görsellerde verilen 
+atom ve iyon yarıçapları arasındaki örüntüyü belirleyip soruları sınıf arkadaşlarınız ile tartışarak cevaplayınız. 
+Bilgi paylaşımı ve farklı bakış açılarının değerlendirilmesinde saygılı bir iletişim ortamı oluşturmaya özen 
+gösteriniz. (3Li, 4Be, 9F,  11Na, 12Mg, 17Cl, 19K, 20Ca, 35Br, 53I)
+1. görsel 2. görsel
+Li Li
++
+Be
+2+
+Be
+Na
+F F¯
+Cl Cl¯
+Br Br¯
+I I¯
+227
+72 136
+99 181
+114 195
+133 220
+133 197 99
+186 95 160 65
+152 60 112 31
+Na
++
+Mg
+2+
+Mg
+K K
++
+Ca
+2+
+Ca
+Etkinlik-1.15 İyon Yarıçapı

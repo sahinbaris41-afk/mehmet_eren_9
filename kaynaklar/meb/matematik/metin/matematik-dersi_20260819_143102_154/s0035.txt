@@ -1,0 +1,52 @@
+35
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.H.4.1
+Ortaokulda bazı temel geometrik inşalar yapan öğrencilerin inşanın amacına ilişkin kendi 
+fikirlerini paylaşmaları sağlanır (SDB2.1). Öğrencilerin düşünceleri özetlenerek geometrik 
+inşaların problemlerin çözümüne sunduğu katkılardan bahsedilir. Daha sonra inşa yapar -
+ken kullanılan araç gereç öğrencilere hatırlatılarak bunların hangi amaçla kullanıldığına 
+ilişkin sorular sorulur. Öğrencilerin cevapları değerlendirilerek araç gerecin farklı amaç -
+la kullanımlarına ilişkin sorularla ( “Pergel, çember çizmek ya da inşa etmek dışında han -
+gi çizim ya da inşalarda kullanılır?”, “Eş doğru parçaları inşa etmek için hangi araç gereç 
+kullanılır?” gibi) öğrencilerin fikirlerini paylaşmaları sağlanır. Pergelin bir tek açıklığıyla daire 
+içine kare inşasını ve verilen bir kare içine eşkenar üçgen inşasını ilk defa Ebülvefa Buzcani’nin 
+yapmasına ilişkin bilgilere yer verilir. Böylece kültürel mirasın tanıtımına katkı sağlanmış olur. 
+Öğrencilerin cevapları özetlenerek matematik yazılımlarındaki araçların kullanımına ilişkin 
+bilgiler verilir. Böylece öğrencilerin dijital ortamda inşa yaparken kullanacakları yazılımlar-
+da bulunan araç gereci tanımaları sağlanır ve dijital ortamda iş görme becerileri destek -
+lenir (OB2). Öğrencilere bu sınıf seviyesinde yapılması beklenen inşalara ilişkin problem 
+durumları sunulur (MAB2). Çözümü istenen geometrik problem açıkça tanımlanır ve öğ -
+rencilerin çözüm için gerekli olacak temel bilgileri gözden geçirmeleri sağlanır. Örneğin 
+öğrencilere “bir doğruya üzerindeki bir noktadan dik doğru çizme ” inşasında ortaokulda 
+öğrenmiş oldukları orta dikme oluşturma bilgisini nasıl kullanabilecekleri sorulur. Böylece 
+sınıf içi tartışma ortamında öğrencilerin problemin çözümüne dair düşüncelerini paylaş -
+maları sağlanır, farklı düşünceler üzerinde uzlaşmalarıyla problemin çözümü için gerekli 
+olan ilk adımlar belirlenir (SDB2.2). Orta dikme fikrinden hareketle doğru üzerindeki bir 
+A noktasına eşit uzaklıkta ve yine bu doğru üzerinde olan iki noktayı belirlemek için kul -
+lanılması gereken aracın ne olduğu sorgulanır. Öğrencilerin ihtiyaç duyulan aracın pergel 
+olduğunu ifade etmesi beklenir. Öğrenciler pergel ile noktaları belirledikten sonra inşanın 
+sonraki adımı için “Bu noktalara A noktası dışında eşit uzaklıkta bir nokta ya da noktalar 
+nasıl belirlenir? ” şeklinde sorularla yönlendirilir. Öğrencilerden merkezi bu noktalar olan 
+çemberlerin kesim noktalarının belirlenmesi gerektiğini ve bunun pergel yardımıyla ya -
+pılabileceğini söylemeleri beklenir. Sonraki adımda yapılacak çizim ve kullanılacak araç, 
+tartışma ortamında belirlenir; elde edilen nokta veya noktalar ile A noktası ölçüsüz cetvel 
+yardımıyla birleştirilerek inşa tamamlanır. Oluşturulan doğru ile başlangıçta verilen doğ -
+runun birbirlerine dik oldukları, ölçümler yapılarak doğrulanır. Öğrencilerin yapılan inşa -
+da her bir adımın sonuçları ve bu doğruların dikliği üzerine tartışmalar yaparak ikizkenar, 
+eşkenar ve eş üçgenlerin açı ve kenar özelliklerini incelemeleri sağlanır. Bu inşa, benzer 
+aşamalar uygulanarak matematik yazılımları ile yapılır. Öğrencilerden bu seviyede benzer 
+bir süreç işleterek aşağıdaki  inşaları yapması beklenir.
+• Bir doğruya dışındaki bir noktadan dik doğru inşa etme,
+• Bir açıya eş bir açı inşa etme,
+• Bir doğruya dışındaki bir noktadan paralel doğru inşa etme,
+• İki kenar uzunluğu ve aralarındaki açı ölçüsü verilen üçgeni inşa etme,
+• İki açı ölçüsü ve bir kenar uzunluğu verilen üçgen inşa etme,
+• Eşkenar üçgen ve düzgün altıgen inşa etme.
+Öğrencilerin yapması beklenen inşaların adımlarının belirlenmesi, kullanılacak araç ve tek-
+nolojinin seçimi ve kullanımı grup çalışması şeklinde de yapılır. Öğrencilere farklı geomet-
+rik kavram ve şekillerin matematiksel araç ve teknolojilerle inşa sürecine yönelik çalışma 
+kâğıdı verilir. Grup çalışmaları ile farklı çözümler gerektiren inşalarda öğrencilerin iş birliği 
+içinde çalışmaları sağlanır (SDB2.2). Çalışmaların dijital ortamda matematik yazılımla -
+rı kullanılarak yapılmasıyla  öğrencilerin dijital okuryazarlık becerilerinin gelişimine katkı 
+sağlanır (OB2). Geometrik inşaların yapılması sürecinde öğrencilerin bağımsız olarak ha -

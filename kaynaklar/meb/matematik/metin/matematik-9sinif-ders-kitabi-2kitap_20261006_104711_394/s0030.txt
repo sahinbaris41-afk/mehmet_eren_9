@@ -1,0 +1,33 @@
+30
+4. Tema / Eşlik ve Benzerlik
+Türk	kültürüne	ait	sanat	eserlerinde	sık lıkla	geo-
+metriden	 faydalanılmış;	 özellikle	 mimari	 eserler-
+deki	 süsleme	 uygulamalarında, 	 geleneksel	 halı	
+ve	kilimlerde	geometrik	dönüşümler	kullanılmıştır .	
+Görsel	4.1’de	Tür k-İslam	medeniy etine	ait	mim ari	
+eserlerde	sıklıkla	kullanılan	geleneksel	bir	süsleme	
+örneği	bulunmaktadır.	Örnekteki	desenler	çoğun-
+lukla	dönme	dönüşümü	kullanılarak	oluşturulmuş-
+tur.	12	köşeli	yıldız	etrafında	dizili	yıldız	motifleri,	
+12	 köşeli	 yıldı zın	 merkez	 noktası	 etraf ında	 30o 
+döndürülerek	elde	edilmiştir.	
+Görsel 4.1: Geleneksel Türk-İslam süsleme örneği
+11. ABC üçgenini köşelerinden sürükleyiniz. ABC ve A'B'C' üçgenlerinin 9. adımda incelediğiniz özelliklerinin 
+değişimini gözlemleyiniz. Gözlemlerinizden hareketle varsayımlarınızı genellemelerinizle karşılaştırınız. Kar-
+şılaştırmanız sonucunda elde ettiğiniz verileri yazınız.
+12. Farklı şekiller ve bu şekillerin dönme dönüşümü altındaki görüntülerini de matematik yazılımında oluşturarak 
+incelemeler yapınız. Yaptığınız incelemelerden hareketle genellemelerinizin her birini bir önerme olarak ör -
+nekteki gibi yazınız.
+Dönme dönüşümü, noktalar arası uzaklıkları korur.
+13. Önermelerinizi değerlendirerek bir şekle ait geometrik özelliklerden dönme dönüşümünün koruduğu özellik-
+leri yazınız. Bu özellikler ve elde ettiğiniz diğer önermeler sonucunda bir şekil ile bu şeklin dönme dönüşümü 
+altındaki görüntüsünün eş olup olmadığına ilişkin fikirlerinizi yazarak arkadaşlarınızla tartışınız.
+14. Dönme dönüşümünün özelliklerine ilişkin önermelerinizi yansıma ve öteleme dönüşümlerinin özellikleri ile 
+karşılaştırarak değerlendiriniz. Dönme dönüşümünü diğer dönüşümlerden ayırt etmeyi sağlayacak özellikleri 
+yazınız.
+Kontrol Noktası
+• Dönme dönüşümü, düzlemdeki tüm noktaları dönme merkezi ve dönme açısı yardımıyla belirli bir yönde 
+hareket ettirerek yine düzlemdeki tüm noktalara dönüştüren bir dönüşümdür.
+• Bir şekle dönme dönüşümü uygulandığında şekil üzerindeki herhangi bir nokta ile bu noktanın görüntüsünün 
+dönme merkezine uzaklıkları birbirine eşit olur.
+• Bir şeklin dönme dönüşümü altındaki görüntüsü ile şekil eştir.

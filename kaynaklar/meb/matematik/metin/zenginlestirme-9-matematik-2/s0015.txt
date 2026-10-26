@@ -1,0 +1,18 @@
+14 15
+MATEMATİK 9 
+3. Adım
+Dünya'nın kütlesi yaklaşık 6 x 1027 kg ve yarıçapı 6 x 109 m'dir. Mars'ın kütlesi yaklaşık 6 x 1025 kg ve 
+yarıçapı 3 x 109 m’dir.
+Her iki gezegenin yüzeyindeki çekim ivmesini (g) hesaplayınız ve çekim ivmelerini karşılaştırınız. 
+Bu işlemleri yaparken üslü ifadelerin hangi kurallarını kullandığınızı açıklayınız ( g = G .m / r² formü -
+lünü kullanın).
+Çözüm:
+4. Adım
+Dünya'nın yüzeyindeki çekim kuvveti ile Mars'ın yüzeyindeki çekim kuvveti arasındaki fark nedir? 
+Hesapladığınız değerleri kullanarak arkadaşlarınızla tartışınız. 
+Çözüm:
+2. Adım
+Newton'un Evrensel Çekim Yasası'nı kullanarak iki cismin kütlesi ve aralarındaki mesafenin çe -
+kim kuvveti üzerindeki etkisini gerekçelendirerek açıklayınız. Bir cismin kütlesi iki katına çıkarılırsa 
+çekim kuvveti nasıl değişir? Arkadaşlarınızla tartışınız, çeşitli fikir ve argümanlara açık olunuz.
+Çözüm:

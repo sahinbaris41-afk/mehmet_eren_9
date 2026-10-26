@@ -1,0 +1,33 @@
+58
+1. Tema /  Sayılar
+16.	Uygulama
+Serbest Düşme
+Üçer kişilik gruplara ayrılarak aşağıda verilenleri inceleyiniz. 
+Bir cismin yer çekimi kuvvetinin etkisiyle yaptığı hareket, serbest düşmedir. Düşme sırasında cismin üzerine her-
+hangi bir dış kuvvet uygulanmaz ve hava direnci gibi faktörler de göz ardı edilir. g yer çekimi ivmesini (m/sn.2) 
+göstermek üzere serbest düşme hareketi yapan bir cismin t saniye sonunda ilk konumuna göre yer değiştirme (m) 
+miktarı x 21 gt 2$$=  eşitliği ile hesaplanabilir.
+Yer çekimi ivmesi gök cisimlerine göre farklılık göstermektedir. Tablo 1’de Dünya, Ay ve Mars’ın yer çekimi 
+ivmelerinin (m/sn.2) yaklaşık değerleri verilmiştir.
+Tablo 1
+Gök Cismi Yer Çekimi İvmesi (m/sn.2)
+Dünya 9,8
+Ay 1,6
+Mars 3,7
+Tablo 2’de farklı gök cisimlerinde aynı yükseklikten bırakılan bir cismin serbest düşme hareketi yaparken ilk ko-
+numuna göre yer değiştirme miktarları (m) verilmiştir.
+Örneğin Dünya’da belirli bir yükseklikten serbest düşme hareketine başlayan bir cismin 2 saniye sonunda ilk 
+konumuna göre yer değiştirme miktarı (m), yaklaşık olarak x 21 gt x 21 9, 82 19, 6m22 &$$ $$== =  bulunur.
+Tablo 2
+Dünya Ay Mars
+t (sn.) x (m) t (sn.) x (m) t (sn.) x (m)
+2 19,6 2 2
+1,3 1,3 1,3
+1,25 1,25 1,25
+Grup içinde her bir kişinin birer gök cismini seçmesi koşuluyla gök cisimlerini paylaşarak aşağıdaki soruları ce -
+vaplayınız.
+1. Hesap makin esi yardımıyla Tablo 2’yi örnekteki gibi tamamlayınız.
+2.  T ablo 2’de elde edilen yer değiştirme miktarlarını ifade etmek için hangi sayı kümelerine ve sayıların farklı 
+temsillerine ihtiyaç duyulduğunu gerekçeleriyle açıklayınız.
+3.  “Mars’ ta belirli bir yükseklikten serbest düşme hareketine başlayan bir cisim, kaç saniye sonra ilk konumuna 
+göre 74 m yer değiştirir?” sorusunu cevaplamak için hangi sayı kümelerinin elemanlarına ihtiyaç vardır?

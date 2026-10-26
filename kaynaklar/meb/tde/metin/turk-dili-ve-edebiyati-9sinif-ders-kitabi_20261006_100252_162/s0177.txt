@@ -1,0 +1,34 @@
+177
+3. Tema: Anlamın Yapı Taşları
+Fark Edelim
+Kafiye düzeni, bir şiirde uyakların sıralanış biçimidir. Kafiye düzeni gösterilirken dize sonlarındaki 
+benzer ses özellikleri aynı harfle gruplanır. Bu gruplandırma sonucunda ortaya çıkan şema kafiye ör-
+güsünü oluşturur. Beş çeşit kafiye örgüsü vardır: düz kafiye (aa, bb, cc / aaaa / aaab), çapraz kafiye 
+(abab), sarmal kafiye (abba), mani tipi kafiye (aaxa), örüşük kafiye (aba, bcb, cdc, d...).
+Aşağıdaki şiir parçalarında kafiyeli olan dizeleri örnekteki gibi aynı harflerle gösteriniz.
+Kaldırımlar, çilekeş yalnızların annesi;      
+Kaldırımlar, içimde yaşamış bir insandır.  
+Kaldırımlar, duyulur ses kesilince sesi;    
+Kaldırımlar, içimde kıvrılan bir lisandır.      
+Necip Fazıl Kısakürek
+Asker olan bölük bölük bölünür
+Sandız mı ki Kars kal’ası alınır
+Boz atlar üstünde kılınç çalınır
+Can sağ iken yurt vermeniz düşmana
+                                Çıldırlı Âşık Şenlik
+Biliyorum gölgede senin uyuduğunu  
+Bir deniz mağarası kadar kuytu ve serin   
+Hazların âleminde yumulmuş kirpiklerin    
+Yüzünde bir tebessüm bu ağır öğle sonu  
+Ahmet Hamdi Tanpınar
+Bu akşam sonbahar ne kadar serin;
+Geceyi hasretle bekliyor zaman.
+Üstünde hasretle leylekler uçan
+Beyaz perdeleri indiriverin!
+Ali Mümtaz Arolat
+Aya değer
+Hüsnün yüz aya değer
+Ay var bir güne değmez
+Gün var bin aya değer 
+                                 Anonim
+Ders İçi Çalışma

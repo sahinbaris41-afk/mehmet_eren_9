@@ -1,0 +1,64 @@
+6
+MATEMATİK 9
+6. Aşağıdaki	kareli	zemin	üzerinde	A,	B,	C	ve	D	noktaları	verilmiştir.	A	ile	B	noktaları	arasındaki	en	kısa	
+uzaklık	 20 	cm’dir.
+C
+A
+B
+D
+Buna göre, C ile D noktaları arasındaki en kısa uzaklığın kaç santimetre olduğunu işlemlerinizi 
+göstererek bulunuz. (15 puan)
+C
+A
+B
+D x
+x
+2x 4x
+20
+Kareli	zemindeki	her	bir	karenin	bir	kenar	uzunluğu	x	cm	olsun.	A	ile	B	noktaları	arasındaki	en	kısa	
+uzaklık	[AB]’dır.
+() ()
+() ()
+'.
+xx Pisagort eoremi
+xx
+xx
+x
+x
+xc md ir
+2
+20 2
+20 4
+20 5
+4
+2
+2 22
+22 2
+22
+2
+2
+=+
+=+
+=+
+=
+=
+=
+AB
+C	ile	D	noktaları	arasındaki	en	kısa	uzaklık	[CD]’dır.
+()()CD xx Pisagort eoremi
+CD xx
+CD x
+CD x
+4
+1
+17
+17
+6
+2 22
+2 22
+2 2
+=+
+=+
+=
+=
+x	=	2	olduğundan		 '.CD cm dir21 7=

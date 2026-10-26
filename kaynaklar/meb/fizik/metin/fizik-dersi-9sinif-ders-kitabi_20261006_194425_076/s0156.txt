@@ -1,0 +1,65 @@
+156
+3. ÜNİTE 
+Değerlendirme 
+1. Sıvı basıncının kullanıldığı sistemlerde sıvı basıncının rolü hakkında defterinize bir metin yazınız. 
+Grup içinde görev paylaşımı yaparak ve birbirinizle yardımlaşarak metni oluşturunuz. Günlük hayat -
+tan fotoğraf, resim, tablo, şekil veya grafikler kullanarak metninizi zenginleştiriniz.
+2. Çalışmalarınız sonucunda elde ettiğiniz çıkarımlarınızı afiş, poster veya dijital sunum gibi yöntemler-
+den biri ile hazırlayarak sununuz.
+Hazırladığınız sunum, “Kontrol Listesi” ile öğretmeniniz tarafından değerlendirilecektir. 
+“Kontrol Listesi”ne yandaki karekoddan ulaşabilirsiniz. 
+  
+Su, canlıların hayatlarını sürdürebilmesi için en temel ihtiyaçlardan biridir.
+Dünyanın artan nüfusu, çevreye verilen zarar ve küresel iklim değişikliği sebe-
+biyle temiz su, dünya üzerinde hızla azalan bir kaynak hâline gelmiştir. 
+Dünyada ve Türkiye’de temiz su kaynaklarının giderek azalması, atık suların 
+atık su temizleme tesislerinde (Görsel 3.10) arıtılmasını ve tekrar kullanılma-
+sını zorunlu hâle getirmiştir. Teknolojik gelişmeler neticesinde ileri arıtma sis-
+temleri (membran teknolojileri, aktif karbon, ileri oksidasyon yöntemleri vb.) 
+insanların kullanımına sunulmuştur. Bu sistemlerdeki filtreler, sıvı basıncı ile 
+kirli suyu temiz sudan ayırmaktadır. Böylece membran süzgeç sayesinde su 
+içindeki kirletici maddeler tutulmaktadır.
+Blaise Pascal (Bilez Paskal), sıvı basıncı ile ilgili “patlayan fıçı deneyi” 
+(Görsel 3.11) olarak bilinen bir deney gerçekleştirmiştir. Bu deneyde sızdırmaz 
+bir fıçıya eklenmiş uzun, dar ve dikey bir boru kullanmıştır. Bu boruya su 
+ekledikçe sistemdeki basıncın arttığını gözlemlemiştir. Fıçı tamamen dolduk-
+tan sonra boruya eklediği az bir miktar suyun, su sütununun yüksekliğini artı-
+rarak fıçının içinde büyük bir basınç artışına neden olduğunu ve fıçının su 
+kaçırmaya başladığını görmüştür. Pascal, bu gözlemden yola çıkarak kapalı 
+bir kap içindeki sıvıya dışarıdan uygulanan bir kuvvetin oluşturduğu basınç 
+farkının sıvının her bölgesine eşit şekilde yayıldığını belirtmiştir.
+Sıvılara basınç uygulandığında sıvıların hacminde ihmal edilebilecek kadar 
+küçük bir değişim meydana gelir. Bu sebeple sıvıların basınç altında sıkıştı -
+rılamayacağı kabul edilir. Kapalı bir kap içindeki sıvıya dışarıdan uygulanan 
+basınç, kap içindeki tüm noktalara eşit şekilde yayılır. Sıvılardaki bu özel -
+lik, ilk olarak bilim insanı Blaise Pascal tarafından ortaya konmuştur. Pascal 
+Yasası'na göre kapalı bir kaptaki sıvıya dışarıdan bir basınç uygulandığında 
+bu basınç, sıvının her noktasına ve kabın iç yüzeyine eşit büyüklükte ve her 
+yönde iletilir.
+Birleşik kap sistemleri ve su cenderelerinde Pascal Yasası’nın uygulamaları 
+görülebilir. Görsel 3.12: a’da gösterilen farklı sıvı seviyelerine sahip A ve B 
+kapları, bir boru ile birbirine bağlanmıştır. Boruların birleşme noktasındaki 
+musluk kapalı duruma getirilmiştir. A kabındaki sıvı seviyesi B kabındaki sıvı 
+seviyesine göre yüksek olduğu için A kabının tabanında oluşan sıvı basıncı, 
+B kabının tabanındaki sıvı basıncından daha büyüktür. Akışkanlar, basıncın 
+yüksek olduğu yerden düşük olduğu yere doğru akma eğilimindedir. Dolayısıyla 
+musluk açıldığında sıvı, A kabından B kabına doğru akar. Sıvının akışı, iki 
+Görsel 3.10: Atık su 
+temizleme tesisi
+Görsel 3.11: Patlayan fıçı 
+deneyi (Temsilî)
+Su 
+sütunu
+Blaise Pascal
+Akışkanlar mekaniği 
+ve havalı sistemlerde 
+yenilikçi çalışmalarıyla 
+tanınır. Akışkan dinamiği 
+üzerine yaptığı çalışma -
+larla Pascal Yasası’nı 
+ortaya koyarak hidro -
+liklerin temelini atmış, 
+atmosfer basıncı üzerine 
+araştırmalarıyla da hava 
+basıncının yükseklikle 
+azaldığını göstermiştir. 

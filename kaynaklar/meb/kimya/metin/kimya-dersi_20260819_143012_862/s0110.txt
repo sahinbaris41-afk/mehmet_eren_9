@@ -1,0 +1,51 @@
+110
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+madenciliği, gerçek zamanlı analiz yapabilme, akıllı bina yönetim sistemleri oluşturabilme, 
+otomasyon işlemleri gerçekleştirebilme ve gelecekteki olaylarla ilgili tahminde buluna -
+bilme yer alır. Ayrıca etkinlik kâğıdında kısa, tanıtıcı açıklamaları ile birlikte sürdürülebilir 
+kalkınmanın hedefleri ve yeşil kimyanın hedefleri sunularak çevreye ve canlılara karşı du-
+yarlı olmaya, sürdürülebilirliğe vurgu yapılır (D5.2, D18.3). Öğrencilerden sürdürülebilirlik 
+hedeflerini göz önünde bulundurarak yapay zekâ uygulamalarının hangi amaçlarla ve nasıl 
+kullanılabileceğine dair düşünmeleri ve fikir yürütmeleri istenir. Ayrıca öğrencilere mevcut 
+yapay zekâ uygulamalarının bir listesi verilir ve bu listeyi kullanarak yapay zekâ uygulama-
+larının yeşil kimya ve sürdürülebilirlik üzerindeki olası katkılarını ve olası risklerini sorgu -
+lamaları istenir (KB2.8). Öğrencilerden bu bağlamda yapay zekâ uygulamalarının enerji 
+verimliliğini artırma, çevresel izleme ve koruma, sürdürülebilir gıda üretimi, atık azaltma, 
+otonom araçlar ve akıllı ulaşım sistemleri gibi alanlarda nasıl katkı sağlayabileceği konu -
+sunda akıl yürütmeleri ve ulaştığı çıkarımlar üzerine yansıtma notu yazmaları istenebilir 
+(OB8). Aynı zamanda öğrencilerden yeşil kimya uygulamalarında yapay zekânın çevre 
+dostu süreçler geliştirme, enerji ve ham madde tüketimini azaltma, malzeme özelliklerini 
+tahmin etme gibi alanlardaki olumlu etkilerine ilişkin çıkarımlarda bulunmaları ve yansıtma 
+notu yazmaları istenebilir (SDB2.3, SDB3.3).
+Öğrencilerin yapay zekâ uygulamalarının yeşil kimya alanında da olumlu katkıları olduğu -
+nu ifade etmeleri sağlanır. Bu katkılar arasında çevreye daha az zararlı, daha sürdürüle -
+bilir ve verimli kimyasal süreçlerin ve ürünlerin geliştirilmesi, kimyasal reaksiyonları ve 
+süreçleri optimize ederek, enerji ve ham madde tüketimini azaltarak ülke ekonomisine 
+katkı sağlaması, en verimli tepkime yollarını ve koşullarını belirleyebilmesi (OB3), daha az 
+zararlı seçenekler bulabilmesi (OB8), enerji verimliliği için katalizörleri tanımlayabilmesi, 
+atık akışlarını analiz edebilmesi, kimyasal maddelerin toksikolojik özelliklerini ve çevresel 
+etkilerini tahmin edebilmesi ve  endüstriyel kimya süreçlerini gerçek zamanlı izleyebilme-
+si sayılabilir (SDB3.3, D5.2, D9.3, D17.2, D18.3) . Aynı zamanda öğrencilerden yapay zekâ 
+uygulamalarının etik ve çevresel sorunlara yol açma risklerini düşünmeleri istenir (OB8). 
+Sürdürülebilir kalkınmanın nitelikli eğitim hedefi göz önünde bulundurularak öğrencilerin 
+yapay zekâ kullanımının olumlu yanlarıyla birlikte daha az deney yapma, yeteneklerin ye -
+terince kullanılamaması ve etik problemler gibi olumsuz yönlerini de fark etmeleri sağla -
+nır. Öğrencilerin yapay zekânın olumsuz etkileri ile ilgili neler hissettikleri ve yapay zekânın 
+kullanılmasının oluşturduğu yeni durumlarda nasıl daha etkili davranabilecekleri üzerine 
+tartışma yapılabilir (SDB1.1, SDB2.1, SDB2.3, SDB3.1, SDB3.2, D14.1). 
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilerden boyaya duyarlı güneş pillerinin diğer güneş pillerine göre daha çok tercih 
+edilmesinin nedenleriyle ilgili bir araştırma yapmaları ve araştırma sonucunda elde ettik -
+leri bilgileri sınıfta sunmaları istenebilir.
+*Öğrencilerden biyomalzemelerin çeşitli endüstriyel uygulamaları ve gelecekteki potansi-
+yel kullanım alanlarına yönelik araştırma yapmaları istenebilir. Öğrenciler biyomalzemele-
+rin doğal kaynaklardan elde edilişi, özellikleri ve insan sağlığı üzerindeki etkileri hakkında 
+bilgi okuryazarlığı becerilerini kullanarak bilgi toplayabilir. Örneğin biyolojik malzemelerin 
+protezlerde, doku mühendisliğinde ve ilaç taşıyıcı sistemlerinde kullanımına yönelik proje-
+ler gerçekleştirilebilir. Elde ettiği verilerden nanoteknoloji, biyobaskılama veya biyosensör 
+gibi konular hakkında yenilikçi ürünler geliştirebilir. Tasarladığı ürünleri bilim fuarlarında 
+sunabilir ve ürünlerin patentini alabilir.
+Öğrencilerden ekolojik dengenin korunması ve sürdürülebilirlik bilinciyle biyobozunur 
+malzemeleri kullanarak çeşitli alanlarda yeni tasarımlar yapmaları ve malzeme seçimi ko-
+nularında seçenekler geliştirmeleri istenebilir. Sürdürülebilir malzemelerin kullanımıyla 
+çevresel etkileri en aza indirebilecekleri çeşitli tasarım stratejileri geliştirmeleri istenebilir.

@@ -1,0 +1,43 @@
+52
+FİZİK 9 
+ÜNİTE 4: ENERJİ
+3. Deney
+Deneyin Amacı Isı sığası ile sıcaklık değişimi arasındaki ilişkiyi belirleyebilme
+Araç Gereç 10 g, 20 g ve 30 g kütleli bakır levhalar, maşa, termometre, ısı kaynağı (bunzen 
+beki), ısıya dayanıklı eldiven, kronometre
+Deney Tasarımı Deney Düzeneği
+1. Sırasıyla 10 g, 20 g ve 30 g kütleli bakır levhaların 
+ilk sıcaklıklarını termometreyle ölçünüz ve elde 
+edilen değeri Tablo 4.5'te yer alan ilgili boşluğa 
+yazınız. 
+2. Bakır levhaları ısıya dayanıklı eldiven ve maşayla 
+tutunuz. Ardından bir kronometre yardımıyla 
+birer dakika ısı kaynağında ısıtınız. 
+3. Verilen süre dolduğunda bakır levhaların 
+son sıcaklıklarını termometre yardımıyla 
+hesaplayınız. Elde edilen değerleri Tablo 4.5'teki 
+ilgili alana yazınız. 
+4. Sıcaklık farklarını hesaplayınız ve Tablo 4.5'teki 
+ilgili alana yazınız. 
+5. Elde ettiğiniz verileri Tablo 4.6'da yer alan 
+boşluğa yazıp yorumlayınız.
+Tablo 4.5: Farklı kütlelerdeki bakır levhaların ilk sıcaklıkları, eşit sürede ısıtıldığında elde edilen son sıcaklık ve hesaplanan sıcaklık farkı 
+değerleri
+Süre (dk.) Kullanılan (g) İlk Sıcaklık (Tİ: °C) Son Sıcaklık (TS: °C) Sıcaklık Farkı (ΔT = TS-Tİ)
+1 10
+1 20
+1 30
+Veriler Yorumlar
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+Tablo 4.6: Deneyde elde edilen veriler ve deneyle ilgili yorumlar

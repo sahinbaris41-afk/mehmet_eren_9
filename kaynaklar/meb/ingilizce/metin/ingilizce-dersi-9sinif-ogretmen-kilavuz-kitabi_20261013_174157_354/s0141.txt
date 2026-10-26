@@ -1,0 +1,40 @@
+141
+1 B 2 F
+E A
+3 C E R E A L 4 S
+F A 5 S T E W
+F E
+6 P I N E A P P L E
+A L T
+7 T A C O S C
+T 8 M U S H R O O M S
+A R
+N
+m  
+  
+n  
+ 
+1
+ c
+ This tastes amazing!
+2
+ b
+ I’m full, but I can’t stop eating!
+3
+ a
+ What a delicious meal!
+Extra: d You’re good at cooking!
+o  
+ 
+1
+ You’re good at cooking!
+2
+ I’m full, but I can’t stop eating!
+3
+ What a delicious meal!
+4
+ This tastes amazing!
+p  
+  
+Students’ own answers
+WORKBOOK ANSWER KEYS

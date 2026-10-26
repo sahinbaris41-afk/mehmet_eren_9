@@ -1,0 +1,29 @@
+218
+2. Tema Ölçme ve Değerlendirme Soruları
+17-19. soruları aşağıdaki açıklamaya ve tabloya göre cevaplayınız.
+Kimya öğretmeni Burçin Hanım, Lewis nokta yapısı konusunu işlerken aşağıdaki tabloyu tahtaya 
+çizmiştir. Tabloya 1H, 6C, 8O ve 17Cl atomlarından oluşan bazı element ve bileşik molekülleri ile Lewis 
+nokta yapılarını yazmış; öğrencilerden tabloda verilen bilgileri incelemelerini istemiştir.
+Element  
+Molekülü Lewis Nokta Yapısı Bileşik  Molekülü Lewis Nokta Yapısı
+H2 H  H HCl H  Cl 
+Cl2  Cl  Cl CCl4  Cl  C  Cl 
+O2 O   O H2O H  O  H
+ Cl 
+ Cl 
+Öğrencilerden Çınar tabloyu inceleyerek moleküllerin Lewis nokta yapısına ilişkin aşağıdaki varsayım-
+larda bulunmuştur.
+  I. H atomunu n etrafına sadece 2 tane nokta yazılır. 
+ II. H atomu hariç diğer atom ların etrafına 8 tane nokta yazılır.
+III. Atomların etrafına atomdaki toplam elektron sayısı kad ar nokta yazılır. 
+IV. Atomların etrafına moleküldeki atomların toplam valans  elektron sayısı kadar nokta yazılır.
+ V. İki atom arasına en fazla 2 nokta yazılır .
+VI. Molekülde tekli olan valans elektronları birbiriyle eşleştirilir.
+Çınar’ın varsayımlarından hangilerinin yanlış olduğunu gerekçeleriyle açıklayınız. 17.
+a) Aşağıda Lewis nokta yapısının oluşturulmasına ilişkin bazı örüntüler verilmiştir. Verilen bilgiler-
+den hareketle oluşabilecek örüntüleri işaretleyiniz.
+18.
+I Bağı oluşturan elektronlar Lewis gösteriminde atomların arasında gösterilir.
+II Atomlar arasında gösterilen iki nokta bir bağı temsil eder.
+III Bağ yapımına katılmayan elektronlar çift hâlinde gösterilir.
+IV Bağ yapan elektron çiftleri çizgi ile gösterilir.

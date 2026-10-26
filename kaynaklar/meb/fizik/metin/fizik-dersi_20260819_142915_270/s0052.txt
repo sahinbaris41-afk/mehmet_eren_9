@@ -1,0 +1,49 @@
+52
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.10.4.1. Periyodik hareketlere ilişkin deneyimlerini yansıtabilme
+a) Periyodik hareketlere ilişkin deneyimlerini gözden geçirir.
+b) Periyodik hareketlere ilişkin deneyimlerinden çıkarım yapar.
+c) Periyodik hareketlere ilişkin deneyimlerinden ulaştığı çıkarımı değerlendirir.
+FİZ.10.4.2. Dalgaların temel kavramlarına ilişkin operasyonel tanımlama yapabilme
+a) Dalgaların temel kavramlarına ilişkin nitelikleri tanımlar.
+b) Dalgaların temel kavramlarına ilişkin niteliklerin ölçümünü yapar.
+c) Dalgaların temel kavramlarını niteliklerine bağlı olarak tanımlar.
+FİZ.10.4.3. Dalgaları özelliklerine göre sınıflandırabilme
+a) Dalgaların özelliklerini belirler.
+b) Dalgaları titreşim doğrultusu ve taşıdığı enerjiye göre ayrıştırır.
+c) Dalgaları titreşim doğrultusu ve taşıdığı enerjiye göre gruplandırır.
+ç) Dalgaları enine, boyuna, hem enine hem boyuna, mekanik ve elektromanyetik ola-
+rak adlandırır.
+FİZ.10.4.4. Dalgaların yayılma süratini etkileyen etmenlere ilişkin bilimsel gözleme dayalı 
+tahmin yapabilme
+a) Dalgaların yayılma süratine etki eden etmenleri tahmin eder.
+b) Dalgaların farklı ortamlardaki yayılma süratini karşılaştırır.
+c) Dalgaların farklı ortamlardaki yayılma süratlerine ilişkin sonuç çıkarır.
+ç) Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerde bulunur.
+d) Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerinin geçerliliğini sorgular.
+FİZ.10.4.5. Su dalgalarında yansıma ve kırılma ile ilgili tümevarımsal akıl yürütebilme
+a) Su dalgalarında yansıma ve kırılma olaylarına ilişkin gözlemler yapar.
+b) Su dalgalarında yansıma ve kırılma olayları sırasındaki açılar arasında ilişki kurar.
+c) Su dalgalarında yansıma ve kırılma olaylarına ilişkin genellemeler yapar.
+FİZ.10.4.6. Rezonans ve depreme ilişkin kavramlar üzerinden depremi sorgulayabilme
+a) Rezonans ve depremle ilişkili olan kavramları tanımlar.
+b) Rezonans ve depremle ilişkili olan kavramlar ile ilgili sorular sorar.
+c) Rezonans ve depremle ilişkili olan kavramlar hakkında bilgi toplar.
+ç) Rezonans ve depremle ilişkili olan kavramlar ile ilgili toplanan bilgilerin doğru olup 
+olmadığını değerlendirir.
+d) Rezonans ve depreme ilişkin kavramlar üzerinden depreme yönelik çıkarımlar ya-
+par.
+FİZ.10.4.7. Depremle ilgili bilimsel model oluşturabilme
+a) Depremle ilgili bir model önerir. 
+b) Depremle ilgili önerilen modeli geliştirir.
+İÇERİK ÇERÇEVESİ Periyodik Hareketler 
+Dalgaların Temel Kavramları
+Dalgaların Sınıflandırılması
+Dalgaların Yayılma Süratini Etkileyen Etmenler
+Su Dalgalarında Yansıma ve Kırılma
+Rezonans ve Deprem
+Anahtar Kavramlar periyodik hareket, salınım hareketi, dalga tepesi, dalga çukuru, dalga boyu, frekans, pe-
+riyot, genlik, dalgaların yayılma sürati, mekanik dalga, elektromanyetik dalga, titreşim 
+doğrultusu, doğal titreşim frekansı, yansıma, kırılma, deprem, rezonans, odak noktası, 
+merkez üssü, depremin şiddeti, depremin büyüklüğü

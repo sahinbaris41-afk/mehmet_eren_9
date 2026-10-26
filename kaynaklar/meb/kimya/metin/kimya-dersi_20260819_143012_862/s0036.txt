@@ -1,0 +1,49 @@
+36
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Çevre kirliliği, evsel atıklar ve geri dönüşüm arasında ilişki kurularak öğrencilerin evsel 
+atıkların ekosisteme etkileri ve sürdürülebilirlikle ilgili düşüncelerini sorgulamaları sağla -
+nabilir.
+Köprü Kurma Günümüzde nanoteknoloji alanında çok yoğun çalışmalar yapıldığı, nanoparçacıkların fi -
+ziksel ve kimyasal yöntemlerle elde edilebildiği bilgisi verilebilir. Nanoteknolojinin ve na -
+noparçacıkların gerekliliğini, avantaj ve dezavantajlarının (tıp, tarım, medikal ürünler, ilaç 
+taşıma sistemleri, kozmetik, atık su arıtma vb. alanlarla ilgili) çok yönlü etkilerini gösteren 
+çeşitli materyaller kullanılarak konuya dikkat çekilebilir. Böylece öğrencilerin ülke ekono-
+misine katkıda bulunmak için yeterliklerini geliştirmeleri ile ilgili farkındalık oluşturulabilir. 
+Ülkesinin kalkınmasını ve gelişmesini desteklemesinin önemini ve ülke varlıklarını sürdü -
+rülebilir bir şekilde kullanmanın gerekliliğini fark etmesine yardımcı olunabilir.
+Öğrenme-Öğretme 
+Uygulamaları KİM.9.3.1 
+Sürdürülebilir kalkınma ve ekolojik sürdürülebilirlik hakkında bilgi verilir. Nanoteknoloji 
+ve nano boyut tanımlanarak nanoparçacıkların kullanım alanlarına örnekler verilir.  Na -
+noparçacıkların çözelti ortamında sentezi için fiziksel ve kimyasal birçok klasik yöntemin 
+eskiden beri uygulanmakta olduğu belirtilir. Günümüzde daha ekonomik, çevre dostu, 
+toksik etkisi olmayan biyolojik yöntemlerin yer aldığı “yeşil kimya ve nanoteknoloji”nin ön 
+plana çıktığı vurgusu yapılır. Bu sayede sürdürülebilirlik bağlantısı kurulur. Öğretmen, 
+gerekli kimyasal maddeleri (gümüş nitrat, sodyum sitrat, bakır sülfat ve askorbik asit) 
+kullanarak gümüş ve bakır nanoparçacık eldesine ilişkin gösteri deneyi yapar. Ardından 
+nanoparçacıkların evsel atıklar kullanılarak da elde edilebileceğine dikkat çekilerek öğ -
+rencilerin doğayı korumaları ve çevresel sürdürülebilirliğin sağlanabilmesi için atık yö -
+netimini önemsemeleri beklenir. Böylelikle öğrencilerin çevreye duyarlı ve merhametli 
+olmaları desteklenir (D5.2, D9.3) . Öğrencilerden çeşitli evsel atıklar arasından en az üç 
+farklı atık seçmeleri, gümüş veya bakır çözeltileri kullanarak bu atıklardan metal nano -
+parçacık elde etmeleri istenir. Öğrencilerin gümüş veya bakır nanoparçacık eldesi için 
+grup çalışması ile deney yapmaları sağlanır (KB2.2). Deney sırasında öğrenciden plan -
+lı olması ve grupla uyumlu çalışması beklenir (OB8, D3.2, D10.3) . Öğrenciler, yaptıkları 
+deneyin sonuçlarını gösteri deneyinin sonuçlarıyla karşılaştırarak elde ettikleri ürünün 
+nanoparçacık olup olmadığına karar verir. Elde ettikleri verileri bulut teknolojileri gibi 
+çevrim içi ortamlarda kişisel bilgilerin gizliliğine dikkat ederek sınıf arkadaşları ile paylaş -
+maları için yönlendirilir (SDB2.2, OB2, D8.2) . Öğrenciler paylaşılan tüm deneysel verileri 
+grup arkadaşlarıyla inceleyerek analiz eder, grup çalışması sırasında saygı kurallarına 
+dikkat edilmesi gerektiği hatırlatılır (SDB2.1, D14.1) . Bu analizlerde öğrencilerden hangi 
+evsel atıktan ne kadar metal nanoparçacık elde edilebildiğine, ne kadar evsel atığın geri 
+dönüştürülebildiğine ve ne kadar atığın önlenebileceğine ilişkin değerlendirmeler yap -
+maları istenir (E3.10, OB1, OB6) . Bu bağlamda öğrenciler yeşil kimyanın atık önleme il -
+kesiyle tanıştırılır. Ayrıca sürdürülebilir kalkınma amaçları çerçevesinde sorumlu üretim 
+ve tüketim (12. hedef) ile ilgili sürdürülebilirlik bilincinin geliştirilmesi hedeflenir ve ülke 
+kaynaklarını sürdürülebilir bir şekilde kullanmanın gerekliliğini öğrencilerin fark etmeleri 
+sağlanır (SDB2.3, SDB3.3, D18.3, D19.4, OB1, OB6, OB8) . Öğrencilerden deney sürecin -
+deki planlama, uygulama ve sonuç çıkarma aşamalarında kendilerini değerlendirmeleri 
+istenebilir (SDB1.2). Bu süreçte öğrenciler, çevresel sürdürülebilirliği sağlamak için atık 
+yönetimi ve doğayı korumanın önemini kavrayabilir. Böylece doğaya karşı duyarlı ve mer -
+hametli olmaları amaçlanır (D5.2, D9.3, OB6, OB8). Ayrıca öğrenciler, çevre temizliğine ve 
+sürdürülebilirliğe dikkat etmeye teşvik edilebilir  (D18.3).

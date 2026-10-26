@@ -1,0 +1,49 @@
+66
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.11.2.1. Elektrik yükleri arasındaki elektriksel kuvvetin matematiksel modeline yönelik 
+tümevarımsal akıl yürütebilme
+a) Elektrik yükleri arasındaki elektriksel kuvvetin bağlı olduğu değişkenler arasındaki 
+keşfettiği ilişkiyi matematiksel olarak modeller.
+b) Elektrik yükleri arasındaki elektriksel kuvvetin matematiksel modeli üzerinden ge-
+nellemeler yapar.
+FİZ.11.2.2. Elektriksel alanın matematiksel modeline yönelik tümevarımsal akıl yürüte-
+bilme
+a) Elektrik yüklerinin oluşturduğu elektriksel alana ilişkin keşfettiği etmenler arasın-
+daki ilişkiyi matematiksel olarak modeller.
+b) Elektrik yüklerinin oluşturduğu elektriksel alanın matematiksel modeli üzerinden 
+genellemeler yapar.
+FİZ.11.2.3. Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili bilgi toplayabilme 
+a) Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili bilgiye ulaşmak için 
+kullanacağı kaynakları belirler.
+b) Belirlediği kaynağı kullanarak Faraday kafesi ve Faraday kafesinin kullanım alan-
+ları ile ilgili bilgileri bulur. 
+c) Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili ulaşılan bilgileri doğ-
+rular.
+ç)  Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili ulaşılan bilgileri kay-
+deder.
+FİZ.11.2.4. Mıknatısların birbiriyle etkileşimine yönelik bilimsel gözlem yapabilme
+a) Mıknatısların birbiriyle etkileşimiyle ilgili nitelikleri tanımlar. 
+b) Mıknatısların birbiriyle etkileşimiyle ilgili verileri toplayarak kaydeder. 
+c) Mıknatısların birbiriyle etkileşimiyle ilgili verileri manyetik alan çizgileriyle açıklar.
+FİZ.11.2.5. Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alana ilişkin 
+tümevarımsal akıl yürütebilme
+a) Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alana ilişkin ma-
+tematiksel modeli bulur. 
+b) Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alana ilişkin ma-
+tematiksel modeli geneller.
+FİZ.11.2.6. Akım makarasının merkez ekseninde oluşan manyetik alanın matematiksel 
+modeline ilişkin tümevarımsal akıl yürütebilme
+a) Akım makarasının merkez ekseninde oluşan manyetik alana ilişkin keşfettiği ilişki-
+yi matematiksel olarak modeller.
+b) Akım makarasının merkez ekseninde oluşan manyetik alanın matematiksel mode-
+li üzerinden genelleme yapar.
+FİZ.11.2.7. Elektromıknatısların kullanım alanlarına ilişkin bilgi toplayabilme
+a) Elektromıknatısların kullanım alanlarıyla ilgili bilgiye ulaşmak için kullanacağı kay-
+nakları belirler.
+b) Belirlediği kaynağı kullanarak elektromıknatısların kullanım alanlarıyla ilgili bilgile-
+ri bulur.
+c) Elektromıknatısların kullanım alanlarıyla ilgili ulaştığı bilgilerin doğru olup olmadı-
+ğını belirler.
+ç) Elektromıknatısların günlük hayattaki kullanım alanlarıyla ilgili ulaştığı bilgileri 
+kaydeder.

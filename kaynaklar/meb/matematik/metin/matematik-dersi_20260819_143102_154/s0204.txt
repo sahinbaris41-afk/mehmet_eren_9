@@ -1,0 +1,48 @@
+204
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Ön Değerlendirme Süreci Tek değişkenli (kategorik veya nicel) ve iki değişkenli (kategorik-kategorik, nicel-nicel) veriler 
+doğrultusunda yürütülen istatistiksel araştırma sürecindeki benzerlikler ve farklılıklar (ista-
+tistiksel araştırma sorusu oluşturma, veri toplama planı yapma ve veri toplama, analiz etme 
+ve sonuçları yorumlama aşamalarına yönelik) kavram haritası vb. araçlarla sorgulanabilir.
+Köprü Kurma Öğrencilere çok değişken içeren bir veri seti sunulabilir. Bu veri seti üzerinden önceki öğren-
+diklerini hatırlamaya yönelik incelemeler yapmaları istenebilir. Öğrencilerin önceki yıllarda 
+öğrendiği tek değişkenli nicel veri dağılımlarını betimlemeyi ve karşılaştırmayı, iki değişkenli 
+kategorik ya da nicel verilerdeki ilişkililiği ele almayı tek bir araştırmada kullanabileceğine 
+yönelik tartışmalar yapılabilir.
+Öğrenme-Öğretme 
+Uygulamaları MAT. 12.5.1
+İstatistiksel araştırma süreci; bağlamı belirleme, bağlama yönelik soru sorma, veri toplama 
+planı yapma, verileri analize hazır hâle getirme, verileri analiz etme ve sonuçları yorumlama 
+aşamalarının tamamını içerecek şekilde ele alınır. Bu sınıf seviyesinde öğrenciler, tek nicel 
+değişken içeren dağılımların yanı sıra iki nicel ve iki kategorik değişken içeren dağılımlarla 
+istatistiksel araştırma sürecini yürütür.
+İstatistiksel araştırma tasarımına kaynaklık edecek bağlamlar, öğrencilerin ilgi duyduğu veya 
+merak ettiği toplumsal ve bilimsel durumlar; bireysel çalışmalar ya da iş birliğiyle grup çalış-
+ması yapılarak belirlenir (E1.1). Grup çalışmaları sürecinde fikirlerini arkadaşlarıyla paylaşarak 
+uygunluğu üzerine öğrencilerin tartışmaları ve aktif rol almaları desteklenir (SDB2.2, D3.4). 
+Öğrencilerin bu tartışmalarla istatistiksel araştırma gerektirebilecek toplumsal ve bilimsel 
+durumlara ilişkin bilgilere ihtiyaçları olduğunu keşfetmelerine yönelik düzenlemeler yapılma-
+lıdır (OB1). Toplumsal veya bilimsel konulara yer verilmesi, kendi çevresinde olup bitenleri 
+merak etmesini sağlar ve bu meraktan hareketle sorular sormasını teşvik etmesinin yanı sıra 
+daha duyarlı olmasına yardım eder (D5.1, E3.8).
+Belirlenen bağlamlardan yola çıkarak öğrenciler, merak ettikleri soruları ifade eder (E3.8). 
+Bu aşamada öğrencilerle çok değişkenli veri setlerinden en fazla iki değişken içeren prob -
+lemlerin neler olabileceği üzerine sınıf içi tartışma başlatılır. Bu tartışmalarda uygun değiş -
+kenlerin nasıl belirleneceği üzerine öğrenciler, fikirlerini arkadaşlarıyla paylaşır. Öğrenciler, 
+birbirlerinin fikirlerini saygı çerçevesinde dinleyerek değişkenleri belirler (SDB2.2, D14.1). Bu 
+tartışmanın sonunda öğrenciler farklı bağlamlardan hareketle betimsel, karşılaştırma veya 
+ilişkililiğe odaklanan, istatistiksel araştırma sorularına ulaşır (SDB2.1). Öğrencilerden bu sü-
+reçte dünyaya ve topluma duyarlılığını, ekosistemin sürdürülebilirliğini yansıtabileceği farklı 
+disiplinlere yönelik araştırma soruları hazırlamaları beklenir (SDB2.3, SDB3.3, OB8, D5.1). Ör-
+neğin hava kirliliği ve iklim değişikliğine odaklanan (coğrafya), gelir dağılımı ve yaşam koşulla-
+rını (sosyoloji) veya yatırım ve tasarrufları inceleyen (ekonomi) araştırma soruları oluşturabilir 
+(OB3).
+Hazırlanan araştırma sorularına cevap bulabilmek amacıyla veri elde etme sürecine geçilir. 
+Bu süreçte öğrencilerin hazır veriye hangi kaynaklardan nasıl ulaşabileceği üzerine sınıf içi 
+tartışma yapılır (SDB2.1). Örneğin öğrenciler, belirledikleri soruların bağlamı ile ilişkili olan 
+kamu kurumlarının genel ağ adreslerini ziyaret ederek ihtiyaç duydukları hazır verilere ulaşır 
+(OB1, OB6). Ayrıca belirledikleri sorular bağlamında dijital ortamlarda bu tür verileri nasıl elde 
+edebilecekleri ile ilgili tartışmalar yapılır. Bu sayede öğrenciler, ulusal veya uluslararası resmî 
+kanallar üzerinde dijital kaynaklardan hazır verileri elde eder (OB2). Sınıf ortamına ve imkân-
+lara bağlı olarak gerektiğinde hazır veriler öğrencilere sağlanır. Öğrenciler; hazır veri setle -
+rindeki verilerin nasıl toplandığı, değişkenlerin nasıl tanımlandığı gibi ölçütlerle veri toplama 

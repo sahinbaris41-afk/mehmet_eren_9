@@ -1,0 +1,20 @@
+182
+2. Tema/Çeşitlilik
+1. Deniz seviyesinde bulunan ç eşitli saf sıvılara ait buhar basıncı-sıcaklık grafiği yardımıyla aşağıdaki 
+tabloyu doldurunuz.
+İsim/Formül Top Çubuk Modeli Moleküller Arası Etkileşim Türü Kaynama noktası (sıcaklığı) (°C) 50 °C’taki Buhar Basıncı (kPa)
+Kloroform
+CHCl3
+ 
+Etanol
+C2H5OH
+Su
+H2O
+Etanoik asit
+CH3COOH  
+2. T ablodaki sıvılardan moleküller arası çekim kuvveti en fazla olan hangisidir?
+3. Moleküller arası kuvvetlerin  kaynama noktasına etkisini bilimsel verileri kullanarak açıklayınız. 
+4. Grafikte verilen sıvıların kaynama sırasındaki buhar basınçlarını karşılaştırınız. Elde ettiğiniz sonuçtan 
+faydalanarak aynı ortamda kaynayan farklı sıvıların buhar basıncı ile ilgili bir genelleme oluşturunuz.
+5. Saf suyun çeşitli basınçlardaki kaynama sıcaklıklarını kullanarak buhar basıncı-sıcaklık grafiği çiziniz. 
+Basıncın kaynama noktasına etkisini bilimsel verilerle açıklayınız.

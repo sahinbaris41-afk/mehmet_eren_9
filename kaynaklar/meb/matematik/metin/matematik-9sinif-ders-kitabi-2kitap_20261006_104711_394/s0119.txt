@@ -1,0 +1,22 @@
+119
+5. Tema/Algoritma ve Bilişim  
+c) Algoritmik doğal dil ve akış şeması yardımıyla algoritmanın işleyişini açıklayınız.
+ 
+Algoritmik Doğal Dil
+ Akış Şeması
+ç) Elde ettiğiniz algoritmayı farklı durumlar (köprülerden birinin kullanım dışı kalması, bir düğüm noktasına 
+yeni ayrıtlar eklenmesi vb.) için test ediniz.
+ 
+Temiz Çevre Optimizasyon Problemi
+Verilen bilgileri inceleyerek aşağıdaki soruları cevaplayınız.
+Bir çöp arabası; sorumluluk sahasındaki A, B, C ve D adlı dört çöp deposu arasında bir yolculuk gerçekleştire -
+cektir. Çöp arabası; başlangıç noktası olan A çöp deposundan hareket ederek B, C ve D çöp depolarını tek bir kez 
+ziyaret ettikten sonra yine A çöp deposuna dönecektir.
+Çöp Depoları A-B B-C C-A C-D D-A B-D
+Depolar Arası Mesafe  (birim) 133 96 100 103 70 200
+Tabloda her iki çöp deposu arasındaki mesafeler (birim) verilmiştir. Her gün çalışan bu çöp arabasının yakıt tüketi-
+mini daha temiz bir çevreye sahip olmak amacıyla azaltmak gerekmektedir. Bu nedenle çöp arabasının sorumluluk 
+sahasındaki çöp depolarını en kısa yoldan dolaşabilmesi için bu mesafelerin toplamının en az olması istenmektedir.
+1. Tablodaki verileri kullanarak toplam mesafeyi en aza indirmeye çalışınız.
+ 
+6. Uygulama

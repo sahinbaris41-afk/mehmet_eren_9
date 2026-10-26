@@ -1,0 +1,24 @@
+78
+MATEMATİK 9 
+4. TEMA: EŞLİK VE BENZERLİK
+1. Adım
+Geometri tahtasında, kenar uzunlukları sırasıyla 3, 4 ve 5 br olan bir üçgen oluşturunuz. Bu üçgeni; 
+kenar uzunluklarını 6, 8 ve 10 br olacak şekilde büyütünüz. Bu işlemleri grup arkadaşınızla birlikte ya-
+parak sonuçlarınızı karşılaştırınız ve büyütme işleminin benzerlik koşullarını nasıl sağladığını tartışınız.
+Oluşturduğunuz bu iki üçgenin benzer olduğunu hangi benzerlik koşuluna göre belirleyebilirsiniz? 
+Açıklayınız.
+Büyütülmüş üçgende kenar uzunluklarının toplamı ile orijinal üçgende kenar uzunluklarının toplamı 
+arasındaki ilişkiyi bulunuz. Kenar uzunluklarının toplamı ile benzerlik oranı arasında bir bağlantı var 
+mı? Açıklayınız.
+Üçgenin kenarlarını farklı oranlarda büyütürseniz (örneğin bir kenarı 2 katına, diğerini 3 katına çıkar -
+mak gibi) açılar korunur mu? Bu durumda benzerlik oluşur mu? Açıklayınız.
+Üçgenin tek bir kenarını sabit tutarak büyütme işlemi yapılırsa (örneğin iki kenarı aynı oranda büyütü-
+lüp diğeri sabit bırakılırsa) bu durumdan açılar nasıl etkilenir? Açıklayınız.
+Etkinlik Aşaması
+Etkinlik adımlarında verilen üçgenleri geometri tahtasında oluşturarak benzerlik durumlarını inceleyi-
+niz. Benzerlik durumlarını incelerken her adımda hangi benzerlik koşullarını kullandığınızı ve bu koşul-
+ların nasıl sağlandığını açıklayınız.
+Çözüm:
+Çözüm:
+Çözüm:
+Çözüm:

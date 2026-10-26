@@ -1,0 +1,26 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+53
+3. TEMA: GEOMETRİK ŞEKİLLER
+Çözüm:
+ ► Aşağıda ABCD dörtgensel bölgesi şeklinde yapılması planlanan bir okul kampüsünün maketi ve-
+rilmiştir.
+A noktasında okul, B noktasında spor salonu, C noktasında çardak ve D noktasında kantin bulunmak 
+üzere, bazı noktalar arası uzaklıklar
+|AB| = 40 cm
+|AD| = 10 cm
+|BC| = 20 cm
+|CD| = 10 cm şeklindedir.
+Yukarıdaki verilenlere göre, kantin ve spor salonunun bulunduğu noktalar arasındaki mesafenin en 
+büyük ve en küçük  tam sayı değeri kaç metredir?
+Değerlendirme
+A B
+C
+D
+OKUL
+ÇARDAK
+KANTİN
+SPOR SALONU
+10 cm
+10 cm
+20 cm
+40 cm

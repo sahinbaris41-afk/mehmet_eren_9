@@ -1,0 +1,65 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+70
+UYGULAMA
+1. GPS teknolojisinin geliştirilmesi ve bu sistemin çalışmasında coğrafi koordinatlar dan (enlem ve boylam) nasıl 
+yararlanılmıştır?  
+........................................................................................................................................................................................................................... 
+...........................................................................................................................................................................................................................
+2. Aileler , alzheimer (alzaymır) hastalığına sahip birinin kaybolma riskine karşı GPS teknolojisinden nasıl 
+yararlanabilir?  
+........................................................................................................................................................................................................................... 
+...........................................................................................................................................................................................................................
+3. İş birlikli çalışmayla aşağıdaki adımları takip eder ek uygulamayı tamamlayınız. Yaptığınız çalışmayı poster 
+olarak sununuz.
+a)
+ GPS’nin günlük hayattaki kullanım alanlarıyla ilgili beyin fırtınası yaparak farklı fikirler üretiniz.
+b)
+ Belirlediğiniz bir alanla ilgili GPS teknolojisinden yararlanılabilecek özgün ve yeni bir kullanım önerisi 
+geliştiriniz.
+c)
+ Öner
+diğiniz ürün ya da fikrin güçlü ve zayıf yönlerini değerlendiriniz. 
+Görsel 2.17 
+Yaban hayatı üzerinde 
+çalışan bilim insanları, 
+canlıların yaşam alanlarını 
+belirleyebilmek ve göç 
+hareketlerini izleyebilmek 
+için GPS teknolojisinden 
+yararlanmaktadır.
+GPS’den Nasıl Yararlanılabilir?
+GPS ile Hangi Bilgilere Ulaşılır?
+GPS kullanılarak bir yerin konum ve zamanla ilgili bilgilerinin yüksek hassasi-
+yetle ölçülmesi mümkündür. Buna göre Dünya üzerindeki bir noktanın enlem, 
+boylam ve yükselti bilgilerine ek olarak yerel saat bilgileri de elde edilir. Küresel 
+Konumlandırma Sistemi’ndeki uydularda bulunan atomik saatlerden yararlanı-
+larak anlık hız ve zaman hesabı yapılabilir. Böylelikle nesnelerin hareketi sap-
+tanmış olur.
+GPS Nerelerde Kullanılır?
+GPS, konum ve zaman bilgisine ihtiyaç duyulan her alanda kullanılabilir. 
+Örneğin 
+•
+ bir yerin konumunun coğrafi koordinatlara göre belirlenmesinde,
+ 
+•
+ bir konumdan diğerine ulaşımın sağlanmasında (navigasyon amacıy
+la), 
+•
+ insan, hayvan, araç veya nesnelerin hareketlerinin izlenmesinde
+ 
+(Görsel 2.17).    
+•
+ farklı ölçeklerdeki haritalara coğrafi unsurlar eklenerek harita
+ların oluştu-
+rulmasında, 
+•
+ farklı yerlere ait hassas zaman ölçümleri yapılmasında GPS’den 
+yararla-
+nılmaktadır. 
+Uydulardan konum belirlemeye dayalı bu teknolojinin insansız hava araçları 
+(İHA), banka ATM’leri, arama kurtarma çalışmaları, araç takip sistemleri; kara, 
+deniz ve hava araçlarındaki navigasyonlar; konuma dayalı bilimsel araştırmalar, 
+yerel yönetimlerin altyapı hizmetleri gibi kullanım alanları vardır. GPS’nin kulla-
+nım alanları her geçen gün artmaktadır. 
+,
+İş birlikli çalışmayla aşağıdaki soruları cevaplayınız.

@@ -1,0 +1,34 @@
+83
+4. Tema / Eşlik ve Benzerlik
+18. Sıra Sizde      
+Aşağıdaki	görselde	doğrusal	bir	yol	üzerinde	bulunan	A	ve	B	noktalarına	yerleştirilmiş	iki	lamba	direği	
+bulunmaktadır.	Bu	direkler	arasında	ise	2	metre	boyunda	olan	Necati	yer	almaktadır.	A	ve	B	noktaları	
+arasındaki	uzaklık	18	metredir.	A	ve	B	direklerindeki	lambaların	yerden	yüksekliği	sırasıyla	6	ve	10	met-
+redir.	Lambaların	K	noktasında	bulunan	Necati’nin	her	iki	tarafında	oluşturduğu	gölgelerin	boyları	birbi-
+rine	eşittir.
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Lambalardan herhangi birinin oluşturduğu gölgenin boyunun kaç metre olduğunu bulunuz.
+b) K noktasında bulunan Necati, B noktasındaki lamba direğine doğru yürümektedir. Gölgesinin 
+B noktasındaki direğin diğer tarafına geçmemesi için Necati’nin yürüyebileceği mesafenin en 
+fazla kaç m olması gerektiğini bulunuz.
+A K BL M
+10
+2
+18
+6
+b) 	 Güneş	ışınlarının	geliş	açısı	değişmediğinden	ABC	ve	DBK	dik	üçgenleri	benzer	üçgenlerdir.	Bu	
+üçgenlerin	benzerlik	oranı	hesaplanmalıdır.	Bu	nedenle	öncelikle	üçgenlerin	eş	açılarının	karşısındaki	
+kenar	uzunlukları	bulunmalıdır.	Yukarıda	yapılan	modelleme	incelendiğinde	üçgenlerin	eş	açıları;	
+BAC	ve	BDK	açılarının	karşılarındaki	kenarların	uzunlukları,	perdenin	ucunun	yerden	yüksekliği	ve	
+masanın	boyu	kullanılarak	hesaplanabilir.	
+Şekil	1’de	perdenin	ucunun	yerden	yüksekliğinden	masanın	boyu	çıkarılırsa	
+BC 210 75 135=- = 	cm	bulunur.	Şekil	2’d e	 BC  ndan	perdenin	aşağı	çekil en	kısmını	ifa de	eden	
+CK 	çıkarılırsa	 BK 135 75 60=- = 	cm	bulunur.	Buradan	ABC	ve	DBK	üçgenlerinin	benzerlik	oranı	
+BK
+BC
+60
+135
+4
+9== 	olur	ve DBAB 49= 	bulunur.	
+AB 90= 	cm	ve	 DB x3 0=+_i 	cm	olduğundan	 x3 090 49+ = 	elde	edilir.	
+Buradan	xc mv ex30 40 10+= = 	cm	olur.

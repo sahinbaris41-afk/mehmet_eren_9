@@ -1,0 +1,33 @@
+69
+KUVVET VE HAREKET
+c)  F  vektörü kuzey yönünde 2 birim uzunluğunda olduğu için zıt olan vektör de güney yönünde 2 
+birim uzunlukta olmalıdır. F  vektörüne zıt olan vektör E  vektörüdür.
+ç) A  vektörü batı yönünde 2 birim uzunluğunda ve C  vektörü doğu yönünde 4 birim uzunluğundadır. 
+C  vektörünün yönü A  vektörü ile ters, büyüklüğü ise A  vektörünün büyüklüğünün 2 katıdır. Bu 
+nedenle A  ve C  vektörlerinin matematiksel modeli A C 2 = -  veya A C2= -  şeklinde ifade edilir.
+6. Alıştırma 
+Yandaki şekilde kenar uzunlukları 1 birim olan eşit bölmelendirilmiş düzlemde 
+A  vektörü verilmiştir. 
+Buna göre aşağıda ifade edilen vektörleri A  vektörü ile 
+ilişkilendirerek çiziniz.
+a) A  vektörüne eşit olan bir vektör
+b) A  vektörüne zıt olan bir vektör
+c) A23  vektörü
+ç) A 2-  vektörü
+a)   b)   c)   ç)   
+7. Alıştırma
+Aşağıdaki şekilde yatay zeminde durmakta olan bir koliye , , , , veF F F F F F2 1 3 4 5 6 kuvvetleri yatay zemine 
+paralel olarak ve aynı anda etki etmektedir.
+F1 = 20 N 
+Yatay zemin
+F2 = 10 N 
+F3 = 10 N 
+F4 = 20 N 
+F5 = 20 N 
+F6 = 10 N 
+Buna göre
+a) Birbirine eşit olan kuvvetleri yazınız. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+A
+1 birim}
+1 birim}

@@ -1,0 +1,49 @@
+21
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları COĞ.9.2.1 
+Örnek haritalar aracılığıyla haritada kullanılan başlık, sembol, renkler ve kenar bilgileri 
+(lejant, coğrafi koordinatlar vb.) tespit edilerek harita içeriğindeki unsurların ortaya çıka-
+rılması sağlanır. Bu süreçte soru-cevap yöntemi kullanılabilir. Coğrafi koordinat sistemine 
+ait bilgilerin elde edilebilmesi için konumla ilgili kavram, sınıflandırma, sistem ve araçlar 
+(enlem, boylam, GPS vb.) kullanılır. Harita unsurlarından yararlanılarak harita türünün be-
+lirlenmesi sağlanır (E1.4). Harita türlerine ilişkin sınıflandırma tablosu oluşturulabilir.
+Çeşitli haritalar kullanılarak konum tespiti, coğrafi unsurların dağılış ve değişimleri ile bu 
+unsurların birbirleriyle ilişkileri, rota gösterimi, rotanın izlenmesi veya oluşturulması, za-
+man hesaplamaları (saat dilimleri kullanılarak), dijital harita uygulamaları (profil çıkarma, 
+uzunluk ve alan hesaplama) ve harita üzerine etiket, fotoğraf, çizim eklenmesi aracılığıyla 
+haritaların içeriğine uygun özellik ve ilişkiler belirlenir (SBAB1.1, E2.5). Uygulamalar birey-
+sel hâlde, küçük grup çalışması şeklinde veya tüm sınıfla yapılabilir. Harita yapımında mey-
+dana gelen bozulma ile bu bozulmanın nedenleri ilişkilendirilerek haritalarda kullanılan 
+başlıca projeksiyon türlerinin tanınması sağlanır (OB1). Öğrencilerle birlikte dünyanın farklı 
+bölgelerinden seçilecek örnek yerlerle uygun projeksiyon türü eşleştirmelerini gösteren 
+tablo hazırlanabilir (SDB2.1, SDB2.2, E3.4, E3.5, OB2).
+Öğrencilere haritalarda gösterilen unsurların özellik, konum, dağılış, ilişki ve değişimlerin-
+den yararlanılarak örnek haritalarla (korokromatik, koroplet, izoplet, noktalama, oransal, 
+akış vb.) ilgili çıkarımlar yaptırılır. Örneğin topoğrafya haritaları üzerinde izohipslerle ilgili 
+çıkarımlar yapılarak yeryüzü şekilleri ayırt edilir. Bu süreçte haritalarla ilgili çıkarımlarını 
+sınıfta paylaşmaları teşvik edilen öğrencilerin bilimsel veriler veya farklı bakış açıları ışı-
+ğında görüşlerini güncelleme erdemi göstermeleri ve mütevazılıkla hareket etmeleri sağ-
+lanır (D10.1). Son aşamada ulaşılan çıkarımlara ilişkin bir tartışma süreci yapılandırılabilir 
+(SDB.2.1). 
+Öğrencilerden küçük gruplara ayrılarak çeşitli konu içeriklerine sahip dilsiz haritalar üze-
+rinden eksik parça tamamlama etkinliğiyle harita hazırlamaları istenir. Bu süreçte oluştu-
+rulacak harita için amaç belirlenir, yöntem ve araç gereç seçilir, veriler toplanarak haritaya 
+işlenir ve veriye uygun harita türü tespit edilir. Hazırlanan harita zihinde canlandırılır. Öğ-
+renciler tarafından oluşturulan haritalar kontrol listeleri kullanılarak kendileri veya akran-
+ları tarafından değerlendirilebilir. Oluşturulan haritaların amaca uygun biçimde kullanımı-
+na ilişkin tartışma yürütülebilir (SDB1.2, SDB2.1, SDB2.2, E2.5, E3.4, E3.5, SBAB11.2).  
+COĞ.9.2.2 
+Türkiye’nin mutlak ve göreceli konumu belirlenir. Belirlenen konuma ait özellikler tespit 
+edilir ve görselleştirilir (E3.7, OB4). Türkiye’nin konum özellikleri özetlenir. Bu süreçte 
+GZFT veya benzer analiz yöntemleri kullanılarak Türkiye’nin konum özelliklerinin önemi 
+vurgulanır, öğrencilerin bu konudaki görüş ve duyguları alınarak millî şuurlarının gelişmesi 
+desteklenir (KB3.3). Türkiye’nin konum özelliklerinin önemi vurgulanırken Mavi Vatan ve 
+Gök Vatan’la (Ulusal Hava Sahası) ilgili coğrafi temsiller de ele alınır. Ege Denizi ve Doğu 
+Akdeniz’deki haksız taleplere karşı yürütülen mücadelenin haklılığı, bilimsel ve hukuki ka-
+nıtlarla açıklanır. Bu süreçte öğrencilerin millî menfaatlerin korunmasına yönelik üstlen -
+meleri gereken sorumlulukları fark etmeleri, Türkiye’nin haklarını savunmak ve bu savu-
+nuculuğu bilinçli bir şekilde yaymak için her türlü akademik ve sosyal platformda özveriyle 
+davranmaları sağlanır (D11.2, D19.1). Ege Denizi’nin geçmişte Adalar Denizi adıyla bilindiği 
+de ifade edilir. Kıbrıs adasının Türkiye ve Türk dünyası açısından önemine değinilir. Öğren-
+meler, çalışma yaprağıyla izlenebilir.

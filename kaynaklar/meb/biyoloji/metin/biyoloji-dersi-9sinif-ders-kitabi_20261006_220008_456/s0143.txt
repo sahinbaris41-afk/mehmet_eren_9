@@ -1,0 +1,71 @@
+143
+Organizasyon
+• Görselleri verilen canlıların özelliklerini mevcut bilgilerinizi kullanarak veya güvenli genel ağ kaynakla-
+rından araştırarak hangi canlı grubuna ait olduklarını Ökaryotlar Domainine Ait Âlemler ve Alt Grupları 
+tablosundaki ilgili kutucuklara yazınız.
+1) Işınlı inci istiridyesi
+Pinctada imbricata
+(Pinktada imbirikata)
+2) Terliksi hayvan
+Paramecium caudatum
+(Paramesyum kadatum)
+3) Dikenli ofiyokom
+Ophiocoma echinata
+(Opikoma ekinata)
+4) Karaçam
+Pinus nigra
+(Pinus nigra)
+5) Kırmızı gözlü
+ağaç kurbağası
+Agalychnis callidryas
+(Agaliknis kallidira)
+6) Yalın göbektozu
+Lycopodium annotinum
+(Likopodyum anotyum)
+7) Kırmızı alg
+Gracilaria sp.
+(Gırasilarya sp)
+8) Boyalı vatoz
+Raja undulata
+(Raya undulata)
+9) Baykuş
+Megascops asio
+(Megaskops asyo)
+10) Ay denizanası
+Aurelia aurita 
+(Orelya orita)
+11) Firavun mürekkep 
+balığı
+Sepia pharaonis
+(Sefya faraonis)
+12) Büyük Hint
+meyve yarasası
+Pteropus medius
+(Fiteropus medyus)
+13) Tüplü kurt
+Protula tubularia
+(Purotula tabularya)
+14) Karayip dikenli 
+ıstakoz
+Panulirus argus
+(Panuliryus argus)
+15) Ekmek küfü
+Rhizopus stolonifer
+(Rizofus sıtolonifer)
+16) Akdeniz sarı tüp 
+süngeri
+Aplysina aerophoba
+(Aplisina ayrofoba)
+17) Meşe kütüğü mantarı
+Mycena inclinata
+(Mikena inklinata)
+18) Y eşil deniz
+kaplumbağası
+Chelonia mydas
+(Kelonya mida)
+19) Patlıcan
+Solanum melongena
+(Solanyum melongena)
+20) Sığır
+Bos taurus
+(Bos tarus)

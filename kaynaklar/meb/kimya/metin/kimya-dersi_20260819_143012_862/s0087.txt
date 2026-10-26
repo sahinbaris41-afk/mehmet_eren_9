@@ -1,0 +1,45 @@
+87
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+KİM.12.1.6. Elektrolitik bir hücrenin özelliklerini bilimsel gözlemlere dayalı tahmin edebilme
+a) İstemsiz indirgenme-yükseltgenme tepkimelerinin gerçekleşebilmesi için gerekli 
+şartlar ile ilgili önermeler oluşturur.
+b) İstemsiz indirgenme-yükseltgenme tepkimelerinin gerçekleşebilmesi için gerekli 
+şartlara ilişkin gözleme dayalı olan ve olmayan önermeleri karşılaştırır.
+c) Elektrolitik hücrelere ilişkin ulaştığı makro, alt mikro ve sembolik seviyelerde göz-
+lem verilerinden sonuç çıkarır.
+ç) Elektrolitik hücrelerin gözlem yapılamayan özelliklerine ilişkin tahminlerde bulunur.
+d) Elektrolitik bir hücrenin özelliklerine ilişkin tahminlerinin geçerliliğini bilimsel bilgi-
+lere dayalı sorgular.
+KİM.12.1.7. Elektroliz olayında madde-elektrik akımı miktarı ilişkisini açıklayabilmek için ka-
+nıt kullanabilme 
+a) Elektroliz olayının gözlemlenebilir ve ölçülebilir niteliklerini belirlemek için ölçütler 
+(katot ve anotta oluşan madde miktarı, akım miktarı ve elektroliz süresi) belirler.
+b) Elektroliz olayı ile ilgili gözlem veya hazır nicel veri setinden seçtiği verileri örüntü 
+ve değişkenleri arasındaki ilişkileri belirleyecek şekilde düzenler.
+c) Elektroliz olayında madde-elektrik akımı miktarı ilişkisine (devreden geçen elekt -
+rik akım miktarı ve elektroliz süresi ile elektrotlarda açığa çıkan madde miktarı) 
+yönelik iddialarını verilere dayalı açıklayarak bu açıklamalarını desteklemek için 
+Faraday’in elektroliz yasasına ilişkin bilimsel bilgiyi kullanır.
+KİM.12.1.8. Metallerin elektrolizle kaplanmasına yönelik deney yapabilme
+a) Metal bir eşyanın bakır metali ile kaplanmasına yönelik deney tasarlar.
+b) Deneyden elde ettiği sonuçları günlük hayattaki örnekleri açıklamak için kullanır.
+KİM.12.1.9. Korozyonu önlemeye yönelik bilimsel sorgulama yapabilme
+a) Yaygın korozyon tepkimeleri temelinde korozyona neden olan faktörleri belirleme-
+ye yönelik araştırma soruları oluşturur.
+b) Korozyona neden olan faktörlerin etkisine ilişkin model önerir. 
+c) Korozyona neden olan faktörleri test etmek üzere deneyler planlayarak planladığı 
+deneyleri yapar.
+ç) Korozyonu etkileyen faktörlere ilişkin topladığı verileri yorumlar.
+d) Kanıtlar temelinde korozyonun önlenmesine yönelik çözümler üretir. 
+e) Korozyonun önlenmesine ilişkin ulaştığı bilgileri paylaşır. 
+İÇERİK ÇERÇEVESİ İndirgenme-Yükseltgenme Tepkimeleri: Redoks Tepkimeleri ve Yarı Tepkimeler, Metalik 
+Aktiflik
+Elektrokimyasal Hücreler: Galvanik Hücreler, Standart Hidrojen Elektrot, Standart İndir-
+genme Potansiyeli, Standart Hücre Potansiyeline Etki Eden Faktörler (Elektrotların Aktif-
+liği, Elektrolit Derişimi ve Sıcaklık), Elektrolitik Hücreler, Madde-Elektrik İlişkisi, Elektroliz-
+le Kaplama, Korozyon ve Korozyonu Önleme Yöntemleri
+Genellemeler/İlkeler/
+Anahtar Kavramlar
+aktiflik, anot, elektrolit, elektrot, elektroliz, elektrolitik hücre, elektrokimyasal hücre,  
+Faraday yasaları, galvanik hücre, indirgen, indirgenme, katodik koruma, katot, korozyon, 
+redoks, tuz köprüsü, yarı hücre, yükseltgen, yükseltgenme, standart elektrot potansiyeli

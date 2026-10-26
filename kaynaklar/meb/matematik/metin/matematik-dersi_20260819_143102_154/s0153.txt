@@ -1,0 +1,74 @@
+153
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları MAT.11.3.3
+Üstel artış içeren ilişkiler, gerçek yaşam verileri kullanılarak (biyolojide hücrelerin  bölünerek be-
+lirli bir örüntü oluşturacak biçimde sayılarının zamana bağlı katlanarak çoğalması gibi)  incelenir. 
+Elde edilen veriler tablo ve grafik ile gösterilir. Gerçek sayılarda f(x) = ax (a > 0, a ≠ 1) şeklinde bir 
+fonksiyon tanımlanarak bu fonksiyonun grafik temsili elde edilir. Bu fonksiyonun nitel özellikleri,  
+a nın aldığı değerlere göre (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, bire birliği, 
+örtenliği) grafik temsiliyle ilişkilendirilerek belirlenir. Bu noktada özel olarak e sayısı ve cebirsel ifa-
+desi f(x) = ex kuralıyla verilen fonksiyon üzerinde durulur. f üstel referans fonksiyonu olmak üzere 
+f nin grafiğine yapılan dönüşümlerle [ g(x) = k ∙ f (mx ± r) ± s (k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0)] diğer üs-
+tel fonksiyonların cebirsel ve grafik temsilleri elde edilir. Dönüşümler yapılırken r ve s değerlerinin 
+her ikisinin veya birinin 0 olduğu durumlar aşamalı olarak ele alınır. Öğrencilerin grafik temsiller ile 
+cebirsel temsillerdeki k, m, r, s sayılarının ilişkilerini yorumlamaları sağlanır. Bu dönüşümler elde 
+edilip yorumlanırken öğrencilerin dijital araçlarla çalışma becerilerini de destekleyecek şekilde 
+matematik yazılımlarından yararlanılır (OB2). Fonksiyonların grafik temsilleri üzerinde yapılan bu 
+işlemler ile elde edilen fonksiyonların cebirsel temsillerindeki katsayılar arasındaki ilişkiler yorum-
+lanır. 
+Cebirsel temsilleri verilen üstel referans fonksiyondan türetilmiş fonksiyonların grafik tem -
+silini bulma çalışmaları yapılır. Cebirsel temsili verilen fonksiyonun grafik temsilinde işaretini, 
+eksenleri kestiği noktaları bulmaları için öğrencilerden elde ettikleri sonuçları hem kâğıt ve 
+kalemle hem de  matematik yazılımları ile karşılaştırmaları istenir. Aynı zamanda fonksiyonun 
+(varsa) sıfırı, işareti, artanlığı-azalanlığı cebirsel incelemeler ile eşleştirilir. 
+gerçek sayılarda tanımlı ve cebirsel temsili f(x) = ex olan fonksiyonun tersi olan fonksiyonun cebirsel tem-
+silinin  f -1(x) = lnx (x > 0) olduğu ve doğal logaritmik fonksiyon olarak adlandırıldığı üzerinde durulur. Öğ-
+rencilerin üstel ve logaritmik fonksiyonların ters fonksiyonlarını matematiksel araç ve teknolojiden yarar-
+lanarak bulmaları desteklenir (OB2, MAB5). Elde edilen logaritmik fonksiyonun kullanışlılığı gerçek yaşam 
+durumları üzerinden incelenir. Örneğin depremin büyüklüğü, ses şiddeti, çözeltilerin pH değeri gibi nice-
+liklerin ölçülmesini içeren uygun problemler bağlamında logaritmik fonksiyonun kullanımı değerlendirilir. 
+Ayrıca arkeoloji ve kimya disiplinleri bağlamında fosillerin yaşının hesaplanmasında kullanılan karbon-14 
+yöntemi incelenebilir. Bu yöntemde logaritmik fonksiyon kullanılarak fosillerin yaşının bulunabileceği gös-
+terilir (D3.3). Benzer çıkarım yapma süreci üstel referans fonksiyondan türetilen üstel fonksiyonlar için de 
+işletilir. Logaritmik fonksiyonun derste ele alınmayan farklı gerçek yaşam bağlamlarında kullanımına iliş-
+kin araştırma ödevi verilebilir. Logaritmik fonksiyonun tarihî gelişimi bağlamında Gelenbevi İsmail Efendi 
+ve John Napier’ın (Can Nepiyır) çalışmaları incelenir.
+MAT.11.3.5
+Logaritmik referans fonksiyonlara örnek teşkil eden gerçek yaşam durumları, grafik ve tablo yöntemiy-
+le ele alınır. Tablo ve grafikler üzerinden verilen herhangi bir sayının logaritmasının rasyonelliği tartışılır. 
+Grafik temsiliyle ilişkilendirilerek logaritmik referans fonksiyonun nitel özellikleri (tanım kümesi, görün-
+tü kümesi, işareti, sıfırı, artanlığı -azalanlığı, bire birliği) ve işlem özellikleri (dört işlem, taban  değiştir -
+me gibi) belirlenir (E3.6, E3.7). Ayrıca tabanın 10 olması durumunda logaritmik fonksiyonun özel olarak 
+“logx” şeklinde gösterildiği ifade edilir.  f logaritmik referans fonksiyonu olmak üzere f fonksiyonunun 
+grafiğine uygulanan dönüşümlerle [g(x) = k ∙ f (mx ± r) ± s (k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0)] diğer logarit-
+mik fonksiyonların grafikleri ve cebirsel temsilleri elde edilir. Bu dönüşümler elde edilip yorumlanırken 
+matematik yazılımlarından yararlanılır (OB2, MAB5). Dönüşümler yapılırken r ve s değerlerinin her ikisinin 
+veya birinin 0 olduğu durumlar aşamalı olarak ele alınır. Öğrencilerin grafik temsilleri ile cebirsel temsil-
+lerdeki katsayıların ilişkilerini yorumlamaları sağlanır (MAB3). Bu fonksiyonların grafik temsilinde işaretini, 
+eksenleri kestiği noktaları bulmaları için öğrencilerden elde ettikleri sonuçları hem kâğıt ve kalemle hem 
+de matematik yazılımları ile karşılaştırmaları istenir (OB2, OB4, MAB5). İncelemeler kapsamında fonksi-
+yonun sıfırı, işareti, artanlığı-azalanlığı ile ilgili değerlendirmelere de yer verilir. Bu fonksiyonlar için uygun 
+koşullarda f (x) = logax şeklinde tanımlı fonksiyonların referans alınabileceği belirtilir. Öğrencilere grafik 
+temsiline yapılan dönüşümlerin, fonksiyonun cebirsel temsilinde oluşturduğu  değişimin incelenmesine 
+yönelik çalışma kâğıdı verilebilir.
+Öğrencilerin logaritmik referans fonksiyonun grafik temsiline dönüşümler uygulanarak elde edilen  
+fonksiyonların nitel özellikleri (tanım kümesi, değer kümesi, işareti, artanlığı-azalanlığı, bire birliği) hak-
+kında varsayımlar geliştirmeleri sağlanır. Varsayımlar geliştirilirken cebirsel ve grafiksel incelemelerin 
+birlikte yürütülmesine önem verilir. Örneğin cebirsel temsili f (x) = log2(3x - 2) olan fonksiyonun tanım 
+kümesine yönelik varsayım geliştirilebilir. Varsayımda bulunurken fonksiyonun matematik yazılımlarıyla 
+elde edilen grafiği ile 3x -2>0  eşitsizliği arasında ilişkilendirme yapılır (OB2). Benzer şekilde öğrencilerin 
+fonksiyonun cebirsel temsiliyle fonksiyonun sıfırı, artanlığı-azalanlığı arasındaki ilişkilere dair varsayımda 
+bulunmaları sağlanır. Bu varsayımlardan hareketle fonksiyonların nitel özelliklerine ilişkin genellemeler 
+elde etmeleri ve genellemelerle varsayımlarını karşılaştırarak matematiksel olarak doğrulayabilecekleri 
+şekilde önermeler sunmaları için öğrenciler teşvik edilir. Örneğin varsayımlar ile genellemeler karşılaştı-
+rılarak cebirsel temsili uygun koşullarda f (x) = log2(mx + n)  (m, n ∈ ℝ, m ≠ 0)  şeklinde tanımlı fonksi-
+yonun tanım kümesinin m>0 olduğu durumlarda (- nm, ∞), m<0 olduğu durumlarda ise (-∞, - nm) ol-
+duğuna dair bir önerme sunulur. Logaritmik  fonksiyonların matematiksel temsilleri, dönüşüm süreçleri 
+ve nitel özellikleri hakkında elde edilen önermelere ilişkin cebirsel ispat ve grafiksel doğrulama yapmaları 
+hususunda öğrenciler desteklenir. Örneğin cebirsel temsili f (x) = log2(mx + n) (m, n ∈ ℝ, m ≠ 0) olan bir 
+fonksiyonda tanım kümesinde yer alan her bir x elemanı için  mx+n>0 sağlanması gerektiği ve bu duruma 
+uygun olarak bu fonksiyonun tersinin uygun koşullarda  g (x) =  2x - nm şeklinde tanımlı fonksiyon olduğu 
+ifade edilir. f  ve f -1 fonksiyonlarının matematik yazılımları ile grafikleri çizilerek y = x doğrusuna göre si-
+metrik olma durumları kontrol edilir (OB2, MAB5). Ayrıca öğrencilerden uyguladıkları doğrulama veya ispat 
+yöntemlerinin farklı durumlardaki kullanışlılığını problemler üzerinden değerlendirmeleri beklenir.

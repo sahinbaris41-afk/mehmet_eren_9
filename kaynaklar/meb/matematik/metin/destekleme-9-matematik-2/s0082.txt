@@ -1,0 +1,38 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+81
+4. TEMA: EŞLİK VE BENZERLİK
+Geometri tahtasına ya da geometri kâğıdına yandaki 
+şekildeki gibi dik kenarlarının uzunlukları 6 ve 8 br olan 
+ABC dik üçgenini çiziniz. Ardından bu dik üçgenin dik 
+kenarlarına paraleller çizerek küçültülmüş hipotenü-
+sü BC kenarı üzerine gelecek ve hipotenüs uzunluğu 5 
+br olacak biçimde FDE dik üçgenini oluşturunuz. 
+8 br
+5 br
+6 br
+A
+F
+D EB C
+Çözüm:
+Çözüm:
+a.  Bu iki üçgenin benzer olup olmadığını; Açı-Açı, Kenar-Kenar-Kenar  veya Kenar-Açı-Kenar benzer-
+lik koşullarını kullanarak açıklayınız.
+b.  Eğer benzerlik sağlanıyorsa bu koşulu geometrik olarak doğrulayınız ve iki üçgenin kenar uzunluk-
+ları arasındaki oranı hesaplayınız.
+ÖZ DEĞERLENDIRME FORMU
+Adı - Soyadı Sınıfı
+Tarih Numarası
+Bu form, üçgen benzerliği ve matematiksel modelleme becerilerinizi değerlendirebilmeniz için 
+hazırlanmıştır. İlgili ifadelere katılıyorsanız “Evet”, kısmen katılıyorsanız “Kısmen”, katılmıyorsanız “Hayır” 
+seçeneğini “X” ile işaretleyiniz. Bu formda “Hayır” ve “Kısmen” bölümündeki işaretleriniz çoğunluktaysa 
+benzerlik ve oranlarla ilgili öğrenme eksikliklerinizi gidermek için konuyu tekrarlayınız.
+Ölçütler Evet Kısmen Hayır
+1 Üçgenlerin benzerlik koşullarını etkinlik sırasında doğru şekilde kullandım.
+2 Benzerlik oranlarını hesaplayarak doğru sonuçlara ulaştım.
+3 Ölçeklendirme yöntemiyle oluşturulan üçgen modellerini doğru bir şekilde çizdim.
+4 Üçgenlerin açı ve kenar ilişkilerini problem üzerinde doğru şekilde analiz ettim.
+5 Etkinlikte öğrendiğim kavramları benzer problemler üzerinde uyguladım.
+Etkinlik sonunda kendinizi değerlendirmek için aşağıda verilen "ÖZ DEĞERLENDİRME FORMU"nu 
+kullanınız.
+Değerlendirme
+Yönerge:

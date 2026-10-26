@@ -1,0 +1,45 @@
+150
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+MAT.11.3.6. Gerçek yaşam durumlarında üstel ve logaritmik fonksiyonlarla ifade edilen denklem ve 
+eşitsizlikleri içeren problemler çözebilme
+a) Üstel ve logaritmik fonksiyonlarla ifade edilebilen denklemlere ilişkin matematiksel bileşenleri 
+(denklemi oluşturan fonksiyonların nitel özellikleri ile cebirsel ve grafik temsilleri) belirler.
+b) Üstel ve logaritmik fonksiyonlarla ifade edilebilen denklemlere ilişkin matematiksel bileşenle-
+rin aralarındaki ilişkileri belirler.
+c) Üstel ve logaritmik fonksiyonlarla ifade edilebilen denklem ve eşitsizliklerin problem bağla -
+mındaki temsillerini farklı temsillere dönüştürür.
+ç) Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.
+d) Elde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluş -
+turur.
+e)  Belirlediği stratejiyi kullanır.
+f)  Elde ettiği çözümü farklı yöntemleri kullanarak doğrular.
+g)  Problemin olası çözüm stratejilerini gözden geçirir.
+ğ) Problemin olası çözüm stratejilerinin üstel veya logaritmik fonksiyon içeren farklı problem du-
+rumlarında kullanımı ile ilgili çıkarımlar yapar.
+h) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.
+İÇERİK ÇERÇEVESİ • Üstel Fonksiyonlar ve Nitel Özellikleri
+• Üstel Fonksiyonların Ters Fonksiyonları
+• Logaritmik Fonksiyonlar ve Nitel Özellikleri
+• Üstel ve Logaritmik Fonksiyonlarla İfade Edilebilen Denklem ve Eşitsizlikler İçeren Prob -
+lemler
+Genellemeler •  Fonksiyonlar nitel özelliklerine göre sınıflandırılabilir.
+•  Referans fonksiyonlar, bir fonksiyon grubunun üretecidir.
+•  Fonksiyon grafikleri, cebirsel denklem ve eşitsizlikleri inceleme ve yorumlamanın temel 
+araçlarından biridir.
+Anahtar Kavramlar artanlık-azalanlık, bire birlik, doğal logaritmik fonksiyon, e sayısı, fonksiyonun işareti, fonksi-
+yonun sıfırı, logaritmik fonksiyon, örtenlik, teklik-çiftlik, üstel fonksiyon  
+Sembol ve Gösterimler ax, logx, logax, lnx, e, ex
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Öğrenme çıktıları; çalışma kâğıdı, araştırma ödevi ve performans görevi ile değerlendirile -
+bilir.
+Öğrencilere üstel ve logaritmik referans  fonksiyonlardan türetilen fonksiyonlara yönelik 
+denklem ve eşitsizliklerin kullanıldığı  gerçek yaşam problemlerinden oluşan, öğrencilerin 
+matematiksel modelleme yapabilme becerilerini geliştirmelerine katkı sağlayacak perfor -
+mans görevi verilebilir. Verilen performans görevinin  değerlendirilmesinde analitik dereceli 
+puanlama anahtarı kullanılabilir.
+Üstel ve logaritmik fonksiyonların grafiklerine uygulanan dönüşümlerin fonksiyonun cebir -
+sel temsilinde oluşturduğu değişime yönelik inceleme içeren çalışma kâğıdı kullanılabilir. 
+Ayrıca çalışma sonunda öğrenciler, öz değerlendirme formuyla kendilerini değerlendirebilir.

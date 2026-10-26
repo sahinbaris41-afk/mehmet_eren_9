@@ -1,0 +1,35 @@
+10
+1. TEMA
+2. TEMA
+3. TEMA
+4. TEMA
+Kitabın dijital kopyalarında “İçindekiler” sayfasındaki 
+başlıklar üzerine tıklayarak ilgili sayfalara ulaşabilir -
+siniz.
+İçindekiler
+1.Etkinlik: Gezegenler Arası Çekim Kuvveti 13
+Değerlendirme 16
+Kontrol Listesi 17
+2.Etkinlik: Üslü ve Köklü Gösterimlerde Tanımsızlık Durumları 18
+Değerlendirme 20
+Performans Görevi: Gerçek Sayılar Kümesinde Tamlık ve Sıralama 21
+Kontrol Listesi 22
+1.Etkinlik: Bilye Kaydırağı 24
+Değerlendirme 24
+2.Etkinlik: Hava Sıcaklığı ile Yükseklik Arasındaki İlişkinin İncelenmesi 25
+Değerlendirme 30
+1.Etkinlik: Öklid Dışı Aksiyomlar 32
+Değerlendirme 34
+Performans Görevi: Öklid Dışı Geometri 35
+Kontrol Listesi 36
+1.Etkinlik: Homoteti Dönüşümü İle Benzerlik 38
+Değerlendirme 41
+Öz Değerlendirme Formu 43
+1.Performans Görevi: Öklid’in 5. Postulatı ve Öklid Dışı Geometriler 44
+Dereceli Puanlama Anahtarı 45
+2.Performans Görevi: Pisagor Teoremi 46
+Dereceli Puanlama Anahtarı 47
+SAYILAR 12
+Nicelikler ve Değişimler 23
+Geometrik Şekiller 31
+Eşlik ve Benzerlik 37

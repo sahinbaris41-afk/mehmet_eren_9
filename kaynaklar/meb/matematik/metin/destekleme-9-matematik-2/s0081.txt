@@ -1,0 +1,28 @@
+80
+MATEMATİK 9 
+4. TEMA: EŞLİK VE BENZERLİK
+3. Adım
+4. Adım
+Üçgenlerde benzerlik durumlarını etkileşimli içerik üzerinde incelemek için yanda verilen 
+karekodu akıllı cihazınızda okutunuz.
+Genel ağda ulaşacağınız çalışmayı yapınız.
+Aşağıda Ankara, Konya ve Kayseri arasındaki karayolu mesafeleri verilmiştir.
+Ankara - Konya:   260 km
+Ankara - Kayseri: 320 km
+Konya - Kayseri:  300 km
+Bu şehirler arasındaki mesafeler, her 20 km 1 br olacak şekilde ölçeklendirildiğinde görselde verilen 
+üçgen modeli ile temsil edilebilir.
+Buna göre Türkiye haritasını inceleyiniz ve seçeceğiniz şehirler arasındaki karayolu mesafelerinden 
+hareketle temsilî üçgen modeller oluşturunuz. Modelleri, farklı ölçeklendirmeler ile geometri tahta-
+sında oluşturunuz ve benzerlik ilişkilerini analiz ediniz.
+Çalışmalarınızı arkadaşlarınıza sununuz.
+Ankara
+Konya
+Kayseri
+13 br
+16 br
+15 br
+Uygulamayı 
+görmek için 
+karekodu 
+okutunuz.

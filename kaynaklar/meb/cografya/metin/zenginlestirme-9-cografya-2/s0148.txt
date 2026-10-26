@@ -1,0 +1,18 @@
+146 147
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+3
+Bölge Kriterlerini Öz Nitelikler Tablosuna Aktarma 
+ ▶ “Katmanlar” menüsünden “Öz Nitelik Tablosu”nu seçiniz. Açılan öz nitelik tablosunda “Düzen-
+leme” butonuna tıklayıp “Yeni Alan Ekle” bölümünü seçiniz.
+Düzenlemeyi aç Yeni alan ekle
+ ▶ Açılan “Alan Ekle” bölümünde “Ad” kısmına verinizin adını 
+yazınız. “Tip” kısmından “Metin”i seçerek “Tamam”a tıklayı-
+nız.
+ ▶ Öz nitelikler tablosunda oluşan 
+yeni sütuna, oluşturduğunuz 
+bölge kriterlerini aktarınız.
+ ▶ Bölge kriterlerini ilgili sütunda-
+ki satırlara aktardıktan sonra 
+“NULL” yazan satırlara “0” değeri-
+ni girip verilerinizi kaydederek öz 
+nitelik tablosunu kapatınız.

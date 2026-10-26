@@ -1,0 +1,452 @@
+161
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+Baykal G.
+Aral G.
+Ladoga G.
+Balkaş G.
+Onega G.
+Van G.
+Urumiye G.
+Hulun G.
+Tuz G.
+Tuna N.
+Amur N.
+Peçora N.
+Po N.
+Ganj N.
+Nil N.
+İrtiş N.
+Dicle N.
+Sen N.
+Obi N.
+Nil N.
+Obi N.
+Sırderya N.
+İrtiş N.
+Volga N.
+Ural N.
+Yenisey N.
+Don N.
+ŞamOslo
+Kiev
+Bakü
+Paris
+Sofya
+Varşova
+Brüksel
+İslamabad
+Kâbil
+Pekin
+Atina
+Berlin
+Tahran
+BişkekAstana
+Ankara
+Tiflis
+Londra
+Bağdat
+UKRAYN
+A
+Aşkabat
+DuşanbeTaşkent
+Moskova
+Stokholm
+Amsterdam
+M
+O
+Ğ
+O
+L
+İS
+TA
+N
+AFGANİST
+AN
+ÖZBEKİSTANKAZAK
+İS
+T
+A
+N
+Yeni Delhi
+TACİKİSTAN
+FİNLANDİYA
+Kopenhag
+Helsinki
+Ulanbator
+F i l i p i n D e n i z i
+ B  a  r  e  n  t  sD  e  n  i  z  i
+N  o  r  v  e  çD  e  n  i  z  i
+Güney Çin DeniziOhotsk Denizi
+A   k   d   e   n   i   z
+B e r i n g   D e n i z i
+  Doğu Çin  Denizi
+K u z e y
+D e n i z i
+   Japon Denizi  Doğu Denizi
+Sarı  Deniz
+K a r a d e n i z
+K ı z ı l d e n i z
+Sulu Denizi
+B
+altık
+Denizi
+Tiren 
+Denizi
+Adriyatik Denizi
+AzakDenizi
+Ege Denizi
+K a r a D e n i z i
+Umman 
+Denizi
+NORVEÇ
+İSVEÇ
+DANİMARKA
+Ç
+İN
+ H
+A
+L
+K
+  
+ C
+U
+M
+H
+U
+R
+İY
+E
+T
+İ
+SİNCAN UYGUR ÖZERK BÖLGESİ
+KIRG
+IZİSTAN
+JAM
+M
+U VE KEŞM
+İR
+(İhtilaflı Bölge) (BMKontrolHattı)
+Tarafsız Bölge
+İR
+A
+N
+IRAK
+SU
+RİYE
+T  Ü  R K  İ  Y  E
+  Hazar       Denizi
+GÜRCİST
+AN
+GKRY
+KKTC
+AZER
+BAYCAN
+TÜRKM
+ENİSTAN
+MOLDOVA
+MACARİSTANPOLONYA
+AVUSTURYAALMANYA
+LİH
+İSV
+HRV
+ROMANYA
+BULGARİST
+AN
+BH
+SRB
+KSVKRD
+ARN
+KMKD
+B   Ü   Y   Ü
+   K 
+O   K   Y   A   N   U   S
+Yemen Denizi
+Manş Denizi
+BİRLEŞİK KRALLIKHOLLANDABEL
+F R A N S A
+YU
+NANİSTAN
+P A K İ S T A N
+H
+İN
+D
+İS
+TA
+N
+Bahrülgazel N.
+İndigirka N.
+Lena N.
+Sarı N.
+Sarıkamış G.
+BükreşKişinev
+RibinskBrj. G.
+Usa
+ N.
+Severnaya
+Dvina N.
+Lefkoşa
+KIRIM Ö.C.
+TUVA C.
+SAHA (YAKUT) C.
+FİLİSTİN
+Issık G.
+Meriç N.
+Hotan N.
+Cebelitarık B.
+Hürmüz B.
+İndus N.
+Fırat N.
+CEZAYİR
+TUNUS
+LİBYA
+MISIR
+SUDAN
+YEM
+EN
+UM
+M
+AN
+SUUDİ ARABİSTAN
+BİRLEŞİ
+K ARAP
+EM
+İRLİKLERİ
+KATAR
+KUVEY
+T
+ÜRDÜN
+BANG
+LADEŞ
+İTALYA
+İSPANYA
+PORTEKİZ
+TrablusTunus
+CezayirMadrid
+Lizbon
+Kahire
+Amma
+n
+Kuveyt
+Doha
+Riyad
+Abu Dabi
+Muskat
+Sana
+Hartum
+Dakka
+BELARUSMinsk
+İRLANDADublin
+İZLANDA
+FAS NİJER
+ÇAD
+R
+U
+S
+Y
+A
+ 
+F
+E
+D
+E
+R
+A
+S
+Y
+O
+N
+U
+1
+2
+3 4
+5 6
+7
+8
+9
+10
+NAHÇIVAN Ö.C.
+a
+b
+c ç d
+e
+f g
+g
+ı
+j
+j
+k
+l
+h
+i
+180°170°D160°D150°D140°D130°D
+120°D
+120°D
+110°D100°D
+100°D
+90°D80°D
+80°D
+70°D60°D
+60°D
+50°D
+50°D
+40°D
+40°D
+30°D
+30°D20°D10°D0°10°B20°B30°B
+50°K
+40°K
+40°K30°K
+30°K
+20°K
+20°K
+10°K
+10°K
+TÜRK DÜNYASI HARİTASI
+Bağımsız Türk Devletleri
+Türk Cumhuriyetleri, Türk Bölgeleri
+Türk Toplulukları
+km
+0 500 1.000 1.500 2.000250
+ÜLKE KISALTMALARI
+HIRVATİSTAN
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+LİHTENŞTAYN
+İSVİÇRE
+SIRBİSTAN
+KARADAĞ
+KOSOVA
+KKTC
+LİH
+İSV
+SRB
+KRD
+KSV
+HRV
+ARNAVUTLUK
+BELÇİKA
+GÜNEY KIBRIS RUM YÖNETİMİ
+BOSNA - HERSEK
+GKRY
+BEL
+ARN
+BH
+KUZEY MAKEDONYA KMKD
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+TÜRK CUMHURİYETLERİ,
+TÜRK BÖLGELERİ
+GAGAVUZ YERİ
+KARAÇAY-ÇERKESYA
+KABARDİN-BALKARYA C.
+DAĞISTAN C.
+ÇUVAŞİSTAN C.
+TATARİSTAN C.
+BAŞKURT C.
+KARAKALPAKİSTAN C.
+ALTAY C.
+HAKASYA C.
+a
+TÜRK TOPLULUKLARI
+Avrupa'daki Türkler
+Kosova Türkleri
+Yunanistan Türkleri
+Bulgaristan Türkleri
+Romanya Türkleri
+Suriye Türkmenleri
+Irak Türkmenleri
+İran Türkleri
+Afganistan Türkmenleri
+Pakistan Türkmenleri
+Hindistan Türkmenleri
+Çin H. C. Türkleri
+Moğolistan Türkleri
+Rusya Federasyonu Türkleri
+b
+c
+ç
+d
+e
+f
+g
+h
+ı
+i
+j
+k
+l

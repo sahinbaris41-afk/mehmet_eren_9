@@ -1,0 +1,66 @@
+111
+5. Tema/Algoritma ve Bilişim
+4. ÖRNEK
+Başla
+Başlangıçta	i2=
+Bir	tam	sayı	(n)	gir
+Hayır
+Hayır
+Evet
+Evet
+i	asal	sayıdır 
+i	sayısının	 
+n		den	küçük	olan	
+katlarını	işaretle
+Bitir
+i	işaretli
+in1
+ii 1! +
+Eratosthenes	(Eratostenis)	Kalburu,	MÖ	III.	yüzyılda	Antik	Yunan	mate-
+matikçisi	Eratosthenes	tarafından	geliştirilen	bir	algoritmadır.	Bu	algorit-
+ma,	belirli	bir	sayıya	kadar	olan	tüm	asal	sayıları	bulmak	için	kullanılır	ve	
+bir	sayının	daha	küçük	asal	sayıların	katı	olup	olmadığını	kontrol	ederek	
+asallığını	test	eder.
+Yanda	Eratosthenes	Kalburu	yöntemi	yardımıyla	2’den	n	tam	sayısına	
+kadar	olan	asal	sayıları	bulan	algoritmanın	işleyişi	akış	şemasıyla	ifade	
+edilmektedir.
+Buna	göre	aşağıdaki	şablonu	kullanarak	n 100= 	için	akış	şeması	yardı-
+mıyla	asal	sayıları	belirleyiniz.
+2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28 29 30
+31 32 33 34 35 36 37 38 39 40
+41 42 43 44 45 46 47 48 49 50
+51 52 53 54 55 56 57 58 59 60
+61 62 63 64 65 66 67 68 69 70
+71 72 73 74 75 76 77 78 79 80
+81 82 83 84 85 86 87 88 89 90
+91 92 93 94 95 96 97 98 99 100
+Çözüm
+Akış	şeması	yardımıyla	aşağıdaki	işlem	adımları	elde	edilir.
+2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28 29 30
+31 32 33 34 35 36 37 38 39 40
+41 42 43 44 45 46 47 48 49 50
+51 52 53 54 55 56 57 58 59 60
+61 62 63 64 65 66 67 68 69 70
+71 72 73 74 75 76 77 78 79 80
+81 82 83 84 85 86 87 88 89 90
+91 92 93 94 95 96 97 98 99 100
+1. adım: 2’den	belirlenen	bir	n	tam	sayı	değerine
+kadar	ardışık	tam	sayılardan	bir	liste	oluştu-
+rulur.
+2. adım: Başlangıçta	en	küçük	asal	sayı	olan	2	alınır
+ve	2’nin	tüm	katları	(4,	6,	8,	…)	kırmızı	çizgi	
+ile	işaretlenir.
+3. adım: İşaretlenmemiş	bir	sonraki	sayı	alınır.	Örne-
+ğin	3	ve	tüm	katları	mavi	çizgi	ile	işaretlenir.	
+Tüm	sayılar	işaretlenmişse	veya	bir	sonraki	
+işaretlenmemiş	sayı	bulunamıyorsa	durulur.
+4. adım:	3.	adım	algoritma	sonlanana	kadar	tekrar-
+lanır.	Listede	işaretlenmemiş	olarak	kalan	
+sayılar,	n	tam	sayısına	kadar	olan	tüm	asal	
+sayılardır.	
+Bu	adımlar	yardımıyla	2’den	100’e	kadar	olan	asal	
+sayılar,	yanda	verilen	şablonda	elde	edilmiştir.

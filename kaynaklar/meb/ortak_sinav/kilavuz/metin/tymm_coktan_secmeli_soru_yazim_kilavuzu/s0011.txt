@@ -1,0 +1,44 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+11
+öğrenciye güçlü ve geliştirilmesi gereken yönlerini ifade eden betimleyici geri bildirimlerin sunulmasıdır. 
+Kılavuzda sunulan bağlam temelli sorular, sadece sonuç odaklı bir başarı puanı üretmekten ziyade öğren -
+cinin bilişsel süreç bileşenlerindeki gelişimini izlemeye imkân tanımaktadır. 
+Becerilerin öğretim programlarının merkezine yerleşmesi, bu yetkinliklerin edinim düzeylerinin geçerli, 
+güvenilir ve sistematik biçimde ölçülmesini zorunlu kılmıştır. Buna karşın becerileri ölçmek, bilgi ve kavram 
+gibi daha yalın zihinsel bileşenleri ölçmekten daha güç bir süreçtir. Bu zorluğun temel kaynağı, becerile -
+rin çok boyutlu ve gelişimsel doğası nedeniyle gözlemlenen performansın karmaşık yapısıdır (Care & Kim, 
+2017). Bu bağlamda TYMM’de her alan için tanımlanan öğrenme çıktılarını ve süreç bileşenlerini yansıtan 
+özgün görevlerin nasıl tasarlanacağı, öğrenci performansının hangi ölçütlerle puanlanacağı ve elde edi -
+len sonuçların öğrenme-öğretme sürecine nasıl dâhil edileceği gibi sorular değerlendirmenin en önemli 
+başlıklarıdır. Bu kapsamda öğretim programlarının öğrenme kanıtları başlığı altında her öğrenme çıktısına 
+yönelik en az bir ölçme ve değerlendirme aracına yer verilmiştir. Bu araçlar öğrenme-öğretme sürecinin 
+doğal bir parçası olarak yapılandırılmış, öğrencilerin farklı öğrenme biçimleri ve bireysel özellikleri dikka -
+te alınarak çeşitlendirilmiştir. Ayrıca her ünite, tema veya öğrenme alanı için en az bir performans görevi 
+verilmesi ve bu görevlerin, ölçütlerin ayrıntılı olarak belirlendiği değerlendirme araçlarıyla izlenmesi esas 
+alınmıştır.
+Türkiye’de Liselere Geçiş Sistemi (LGS) ve Yükseköğretim Kurumları Sınavı (YKS) gibi belirleyici sınavlar; 
+katılımcı sayısının fazlalığı, puanlamada nesnellik, adillik, kullanışlılık gibi gerekçelerle çoktan seçmeli so -
+rulara dayanmaktadır. Öğrenme çıktılarının çoktan seçmeli sorularla nasıl ölçüleceği bu noktada önem 
+kazanmaktadır. Örneğin yorumlama, karşılaştırma gibi becerilerden oluşan öğren  me çıktılarının çoktan 
+seçmeli soru formatı ile ölçülmesi görece daha kolay olduğu hâlde problem çözme, sorgulama, eleştirel 
+düşünme gibi daha karmaşık becerilerin ölçülmesi zordur. 
+2.2. BİLGİ VE BECERİ NEDİR?
+Bilginin edinimi veya öğrenimi, eğitim süreçlerinin ve günlük yaşamın vazgeçilmez bir parçasıdır. Türkiye 
+Yeterlikler Çerçevesi (TYÇ) kapsamında “bilgi”; bir çalışma veya öğrenme alanı ile ilgili gerçeklerin, ilkelerin, 
+teorilerin ve uygulamaların anlaşılmasını içeren kuramsal ve/veya olgusal bilgi olarak tanımlanmıştır (TYÇ, 
+2020). Psikolojide “bildirime dayalı bilgi” (declarative knowledge) olarak adlandırılan bu kavram, zihinde or -
+ganize edilmesi gereken ve içeriğe bağlı bir yapı olarak görülür.
+Winterton vd.ne (2006) göre “nedenini bilmek” ile “ne olduğunu bilmek” arasında ayrım yapılabilir. Nedenini 
+bilmek (know-how) genellikle örtük bilgiyle, ne olduğunu bilmek (know-that) ise önerme bilgisiyle ilişkilen -
+dirilir. Bu durum, bildirimsel bilgi (ne olduğunu bilmek) ile işlemsel bilgi (nasıl olduğunu bilmek) arasındaki 
+ayrımda yansıtılır. Bu bakış açısıyla bildirimsel bilgi ediniminin bilgiyi bağlam içerisinde kullanmayı gerek -
+tiren işlemsel bilginin gelişiminden önce gerçekleşmesi gerektiği sıklıkla savunulur (Winterton vd., 2006). 
+Kısacası bilgi, bireyin bir öğrenme alanına ilişkin gerçekleri, kavramları, ilkeleri, kuramları ve uygulamaları 
+zihinsel olarak yapılandırması ve anlamlandırması yoluyla edindiği bilişsel içeriktir. Ölçme ve değerlendir -
+me bağlamında bilgi; bireyin bir alana ilişkin kavramları, tanımları, gerçekleri ve ilkeleri tanıyabilmesi, hatır -
+layabilmesi, ayırt edebilmesi ve açıklayabilmesi yoluyla ortaya çıkan bilişsel çıktıdır.
+Modern eğitim anlayışında bilginin sadece “edinilmesi” değil aynı zamanda “kullanılması” da ön plana çık -
+mıştır. Bilgi, becerinin ön koşulu olmakla birlikte tek başına yeterli değildir; bilginin anlamlı ve işlevsel hâle 
+gelmesi, onun bağlam içinde kullanılmasını sağlayan beceriler yoluyla mümkündür. Bu aşamada “bilgiyi 
+kullanma” boyutu, doğal olarak beceri kavramıyla ilişkilendirilir. Bilgi, beceriyi besleyen bir kaynak olmakla 
+birlikte beceriler, bilginin performans yoluyla görünür hâle geldiği ve somut ürünlere dönüştüğü alandır.

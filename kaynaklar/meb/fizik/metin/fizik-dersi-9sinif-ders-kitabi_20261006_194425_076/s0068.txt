@@ -1,0 +1,59 @@
+68
+2. ÜNİTE 
+Bir vektör ile başka bir vektörün yönü ve büyüklüğü aynı ise bu iki vektöre eşit 
+vektör denir. Görsel 2.4’te verilen A , B  ve C  vektörleri birbirine eşittir. Bu 
+eşitlik, 
+A = B = C
+şeklinde gösterilir. Bu durum, vektörün hiçbir özelliği değiştirilmeden bir nok-
+tadan başka bir noktaya paralel olarak taşınmasına olanak sağlamaktadır. 
+Bir vektör ile başka bir vektörün büyüklüğü aynı olup yönleri ters ise bu iki 
+vektöre zıt vektör denir. Görsel 2.5’te verilen D  ile E  vektörleri zıt vektörlerdir. 
+Zıt vektör olma durumu, 
+D E = -  veya E D = -  şeklinde gösterilir.
+Bir vektör bir gerçek sayı ile çarpılabilir. Çarpılan sayı 1’den büyük ve pozitif 
+ise vektörün yönü değişmez ancak büyüklüğü artar. Çarpılan sayı 1’den küçük 
+ve pozitif ise vektörün yönü yine değişmez ancak büyüklüğü azalır. Çarpılan 
+sayı negatif ise vektörün yönü öncekine göre zıt yönde olur. 
+Görsel 2.6’da verilen A  vektörü pozitif olan 2 sayısı ile çarpılırsa A 2 vektörü 
+elde edilir. A  vektörü pozitif olan 21  ile çarpılırsa A21  vektörü, negatif olan 
+-1 sayısı ile çarpılırsa A-  vektörü, negatif olan 23-  ile çarpılırsa A23-  vek-
+törü elde edilir.
+A -AA2A 12 32  A
+-
+Görsel 2.6: A  vektörü ve A  vektörünün farklı gerçek sayılar ile çarpımı sonucu 
+elde edilen vektörler
+Görsel 2.4: Eşit vektörle-
+rin gösterimi
+A
+B
+C
+Görsel 2.5: Zıt vektörlerin 
+gösterimi
+E
+D
+Örnek 
+Yandaki şekilde kenar uzunlukları 1 birim olan eşit bölmelendirilmiş 
+düzlemde , , veA B C D  vektörleri verilmiştir. 
+Buna göre
+a) A  vektörüne eşit olan vektör hangisidir?
+b) A  vektörüne zıt olan vektör hangisidir?
+c) F  vektörüne zıt olan vektör hangisidir?
+ç)  A  vektörü C  vektörü cinsinden nasıl yazılabilir?
+Çözüm
+a) Bir vektörün başka bir vektöre eşit olabilmesi için iki vektörün yönü ve büyüklüğü aynı olmalıdır. 
+A  vektörü batı yönünde 2 birim uzunluğunda olduğu için eşit olan vektör de batı yönünde 2 birim 
+uzunlukta olmalıdır. A  vektörüne eşit olan vektör B  vektörüdür.
+b) Bir vektörün başka bir vektöre zıt olabilmesi için büyüklüğü aynı ve yönü zıt olmalıdır. A  vektörü 
+batı yönünde 2 birim uzunluğunda olduğu için zıt olan vektör de doğu yönünde 2 birim uzunlukta 
+olmalıdır. A  vektörüne zıt olan vektör D  vektörüdür.
+A
+B
+D
+C
+1 birim}
+1 birim}
+˙ E
+F
+Güney
+Kuzey
+DoğuBatı

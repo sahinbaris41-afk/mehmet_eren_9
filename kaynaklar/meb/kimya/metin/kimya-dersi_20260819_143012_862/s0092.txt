@@ -1,0 +1,54 @@
+92
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+matematiksel hesaplamalar yapmadan verilen bu bilimsel bilgileri elektroliz olayında 
+değişime uğrayan madde miktarının hem devreden geçen elektrik akımı miktarı ile hem 
+de elektroliz süresi ile ilişkisine yönelik açıklamalarını desteklemek için kullanır. Öğren -
+ciler, Faraday’in elektroliz yasasının çeşitli endüstrilerde ve günlük hayatta uygulanma -
+sına ilişkin örnekleri araştırmaları ve bu örnekleri ulaştığı çıkarımlar ile ilişkilendirmeleri 
+için yönlendirilebilir. Çıkış kartında elektroliz olayında değişime uğrayan madde miktarı ile 
+akım miktarı ve elektroliz süresi arasındaki ilişkiyi açıklamaları öğrencilerden istenebilir.
+KİM.12.1.8 
+Elektroliz yöntemiyle kaplanmış ürünlere günlük hayattan örnekler verilir. Öğrenciler, 
+herhangi bir metal eşyayı (anahtar, kaşık, çatal vb.) elektrolizle kaplama deneyini yapmak 
+için gruplara ayrılır. Öğrencilerin grup çalışmalarında uyumlu davranmaları ve grup içi et -
+kinliklerde sorumluluklarını yerine getirmeleri sağlanır. Böylece çalışkanlık ve mütevazılık 
+değerleri desteklenir (E2.2, SDB2.2, D3.4, D10.3) . Öğrencilerden seçtikleri metal eşyayı 
+elektroliz yöntemiyle kaplayabilmeleri için anot ve katot yarı hücrelerinde elektrot olarak 
+hangi metalleri ve elektrolit çözeltileri kullanabileceklerini belirlemeleri istenir. Öğrencilerin 
+bu hücrenin çalışması için uygulanması gereken minimum potansiyel değerini belirlemeleri 
+sağlanır. Öğrenciler elektroliz yöntemi ile metal eşyanın bakır metali ile kaplanmasına ilişkin 
+deney düzeneğini tasarlar, deney için gerekli malzemeleri hazırlar ve deneyi yapar (OB7). 
+Yaptığı kaplama deneyinde kaplama kalınlığının nelere bağlı olduğuna dair farklı bakış açı-
+larını grup arkadaşlarıyla tartışarak gereken koşulların nasıl sağlanabileceğine karar verir. 
+Bu tartışmalar sırasında mütevazılık değeri desteklenir (SDB2.1, D10.3). Elektroliz yöntemi 
+ile metal eşyanın kaplanması sürecine ilişkin tüm gözlemlerini not almaları öğrencilerden 
+istenir. Öğrenciler, anot ve katotta gerçekleşen yarı tepkimeleri ve net tepkimeleri yazar. 
+Deney gözlemlerinin Faraday’in elektroliz yasası ile ilişkilendirilmesi sağlanır. Öğrenciler, 
+deney sonuçlarını metal boru ve çivilerin galvanizle, bazı eşyaların nikel ya da kromla kapla-
+narak kullanılmasının nedenini açıklamada kullanır (OB7). Metallerin elektrolizle kaplanma-
+sına ilişkin yaptığı deneyi raporlayabilir. Sürecin bütünü “kaplama kalınlığının bağlı olduğu 
+etkenleri belirleme, anot ve katot yarı tepkimelerini ve net tepkimeyi yazabilme, deney bul-
+guları ile Faraday elektroliz yasasını ilişkilendirebilme” ölçütlerini içeren dereceli puanlama 
+anahtarı ile hem öğretmen hem de öğrenci tarafından değerlendirilebilir (SDB1.2). 
+KİM.12.1.9 
+Öğrenciler, metalden veya alaşımdan yapılmış kültürel varlıkların ve günlük hayatta sık -
+ça karşılaştığı diğer malzemelerin korozyondan etkilenmiş örneklerini inceleyerek yaygın 
+korozyon tepkimeleri temelinde korozyona neden olan faktörlerin metallerin korozyonu -
+na etkisine ilişkin araştırılabilir sorular oluşturmaları için yönlendirilerek duyarlılık değeri 
+vurgulanır (D5.2, OB7). Böylece öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık ol -
+maları sağlanır (D3.3). Öğrenciler, ilgili faktörlerin metallerin korozyonuna etkisine yönelik 
+modeller oluşturur. Gruplara ayrılmaları istenen öğrencilerin iş birliği içinde çalışmaları 
+sağlanır. Öğrencilerden araştırma sorularını göz önünde bulundurarak bağımlı-bağımsız 
+değişkenleri ve kontrol değişkenlerini belirleyip etkinlik kâğıdına yazmaları istenir. Böyle -
+ce öğrencilerin etkili iletişim kurmaları, olay ve durumları çok yönlü bakış açısıyla değer -
+lendirmeleri sağlanır (E2.1, SDB2.1, SDB2.2, D4.2, D14.1) . Öğrencilerden ilgili faktörlerin 
+korozyona etkisini incelemeleri için deneyler planlamaları ve planlarını gerçekleştirmeleri 
+istenir. Öğrenciler, deneylerden elde ettikleri kanıtları yorumlayarak günlük hayatta me -
+talden yapılmış araç gereç ve kültürel varlıkların korozyonunu önlemek için çözüm öneri -
+leri geliştirir (KB2.8). Öğrenciler bilimsel bilgiyi insanların ve toplumun yararına kullanmaya 
+teşvik edilerek yardımseverlik değeri vurgulanır (D20.3). Öğrencilerin elde ettikleri bilgile-
+ri ve çözüm önerilerini arkadaşları ile paylaşmaları sağlanır (E2.2, SDB2.3, SDB3.3, D4.1, 
+OB7). Öğrencilerden farklı metallerin korozyona uğramış örneklerini inceleyerek korozyo-
+na sebep olan faktörlere ilişkin araştırma sorusu oluşturmaları ve korozyonu önlemek için 
+çözüm önerileri belirlemeleri istenebilir. Öğrenciler, çalışmalarını arkadaşları ile yazılı veya 
+sözlü olarak paylaşmaları için yönlendirilebilir.

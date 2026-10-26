@@ -1,0 +1,39 @@
+56
+1. Ünite
+Dijital tarih çalışmalarında izlenen süreçleri anlatan aşağıdaki bilgi görselini inceleyerek soruyu 
+cevaplayınız.
+Araştırma ve Veri Toplama
+Tarih araştırmacısının bilimsel ilgi ve merakı doğrultusunda bir 
+konu belirlenir. Bu konu seçiminde daha önce yapılan çalışma -
+lar, ileri sürülen teoriler, sahip olunan inanç ve değerler etkili 
+olabilir. Konu belirlendikten sonra doğru ve güvenilir kaynak -
+lar üzerinden veri toplanır. Araştırmacılar, topladıkları bilgileri 
+dijital not alma araçlarından yararlanarak kaydeder ve bu ka -
+yıtları diğer ekip üyeleriyle paylaşır. İş birlikli çalışma yapan ta -
+rihçiler, bulut tabanlı çevrim içi ortamlar sayesinde aynı anda 
+aynı metin üzerinde çalışabilir. Bu çevrim içi ortamlar, herkesin 
+gerçek zamanlı olarak düzenleme yapmasına ve iş birliğinde 
+bulunmasına yardımcı olur.
+Verileri Dijitalleştirme
+Verilerin dijitalleştirilmesi süreci, fiziksel olarak var olan belge -
+lerin veya bilgilerin dijital formata dönüştürülmesidir. Taranan 
+veya dijital olarak kaydedilen belgelerin uygun dosya formatları -
+na (PDF, JPEG, TIFF vb.) dönüştürülmesi gerekir. 
+Verileri Düzenleme ve Kataloglama
+Dijitalleştirilen verilerdeki yanlış, eksik, tutarsız ya da hatalı bil -
+giler ayıklandıktan sonra meta verilere dönüştürülür. Meta veri, 
+verilerin sınıflandırılmasına  yardımcı olan ek bilgilerdir. Kitapların 
+adına, yazarına veya konusuna göre tasnif edilmesi gibi dijital ve -
+riler de benzer şekilde meta veri hâline getirilir. 
+Örnek Süreç
+Bir araştırmacı; çay kelimesinin kökenini, çayın dünya çapındaki yayılımını ve farklı kültürlerdeki önemini be -
+lirlemek için araştırma yapmaya karar verir. Daha sonra dijital arşivler, kütüphaneler ve çevrim içi kaynaklar -
+dan yararlanarak konuyla ilgili tarihî belgeler, fotoğraflar, haritalar ve makaleler toplar.
+Örnek Süreç
+Araştırmacı bu süreçte çayla ilgili belgeleri tarar, fotoğrafları dijitalleştirir veya dijital kayıtlar oluşturur. 
+Ayrıca bu materyallerin çevrim içi ortamlarda erişilebilir olmasını sağlar.
+Örnek Süreç
+Araştırmacı, dijitalleştirilen verilerdeki bilgileri bu süreçte gözden geçirerek eksik, hatalı ya da yanlış verileri 
+temizler. Daha sonra çayla  ilgili ulaştığı fotoğrafları, tarihleri, konumları ve metinleri meta veriye dönüştüre -
+rek sınıflandırır ve bunları etiketler.
+Bilgi Görseli 1.4: Dijital tarih çalışmalarında izlenen süreçler

@@ -1,0 +1,52 @@
+101
+Organizasyon
+Prokaryot ve Ökaryot Hücre Yapısı
+Canlıları oluşturan hücreler işlevsel olarak benzerlik gösterse de yapısal bazı farklılık-
+lara sahiptir. Bilim insanları yapısal iki farklı hücre tipi belirlemiş, bunlara prokaryot 
+ve ökaryot hücre adını vermiştir. Bakteri ve arke domainlerindeki organizmalar pro-
+karyotik hücre yapısına sahip hepsi tek hücreli organizmalardır. Protistler, mantarlar, 
+bitkiler, hayvanlar ise ökaryotik hücre veya hücrelerden oluşan organizmalardır.
+Prokaryot ve ökaryot hücreler bazı temel ortak özelliklere sahiptir. Örneğin bütün 
+hücreler hücre zarı (plazma zarı) denen seçici geçirgen bir bariyerle çevrilidir (Gör-
+sel 2.1). Hücre zarı, içinde hücre alt bileşenlerinin yer aldığı sitoplazma adı verilen 
+yarı akışkan bir maddeyi çevreler. Yapısında genetik bilginin kodlu olduğu DNA’yı 
+taşıyan kromozomlar ve genlerin verdiği talimatlara uygun olarak protein sentez -
+leyen ribozomlar da hemen hemen bütün hücrelerde bulunur. 
+Prokaryot ve ökaryot hücreler arasındaki en temel farklılıklardan biri, DNA’nın hücre 
+içindeki konumudur. Ökaryot hücredeki DNA'nın çoğu, çift katlı zarla çevrili bir orga-
+nel olan çekirdeğin içindedir. Prokaryotlarda ise sitoplazmanın nükleoid adı verilen 
+bölgesinde yoğunlaşmıştır. Genetik materyal açısından karşılaştırıldığında ökaryot-
+larda çok sayıda iplik şeklinde doğrusal DNA bulunur ancak prokaryotlar halkasal 
+DNA molekülü içerir. Ökaryot hücrelerde mitokondri, endoplazmik retikulum, Golgi 
+aygıtı, lizozom, peroksizom gibi zarla çevrili organeller vardır fakat prokaryot hüc-
+relerde zarla çevrili organel yoktur. Hücre boyutları açısından genel olarak ökaryot 
+hücreler, prokaryot hücrelerden daha büyüktür.
+Hücrelerin Yapısal Bileşenleri
+Ökaryotik bir hücrenin yapısal bileşenleri arasında hücresel yapılar, hücre zarı, si -
+toplazma, organeller ve çekirdek bulunur. Bu bileşenler, hücrelerin yaşamsal faali-
+yetlerinin gerçekleştirilmesi ve hücresel homeostazinin (iç denge) sağlanması için 
+gereklidir. Hücrenin çeşidine ve görevine göre bu yapılarda değişiklikler görülebilir. 
+Görsel 2.1
+a) Ökaryot hayvan 
+hücrelerinin  yapısı,
+b) Prokaryot hücrelerin yapısı 
+Golgi
+Hücre zarı
+Pilus
+Kamçı
+Kromozom
+Hücre duvarı
+Plazmit
+Ribozom
+Sitoplazma
+Peroksizom
+Çekirdek Çekirdekçik
+Lizozom
+Sentriyol
+Mitokondri
+Endoplazmik retikulum
+a b
+Hayvan Hücresi
+Sürükle Bırak Etkinliği
+Bitki Hücresi
+Sürükle Bırak

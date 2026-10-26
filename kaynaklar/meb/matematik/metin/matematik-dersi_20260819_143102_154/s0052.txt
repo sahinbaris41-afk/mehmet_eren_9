@@ -1,0 +1,53 @@
+52
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin doğru orantılı iki çokluk arasındaki ilişkiyi fonksiyon olarak ifade edebildi -
+ği; doğrusal ilişkili iki değişkenin birbirine bağlı değişimlerini, artış veya azalışlarını fark 
+edebildiği; dik koordinat sistemini tanıdığı; sıralı ikilileri bu sistemde gösterebildiği ve bir 
+cebirsel ifadenin değerini değişkenin alacağı farklı sayı değerleri için hesaplayabildiği 
+kabul edilmektedir. Ayrıca öğrencilerin dik koordinat sisteminde verilen doğrusal fonk -
+siyon grafiklerinin birbirine göre konumlarını doğruların eğimlerine göre yorumlayabildi -
+ği, bir gerçek sayının mutlak değerini sayı doğrusunda orijine olan uzaklığı olarak ifade 
+edebildiği, doğrusal ilişkili iki niceliğe ait cebirsel ifadede bir niceliğin değeri verildiğinde 
+diğerinin değerini hesaplayabildiği kabul edilmektedir. 
+Ön Değerlendirme Süreci Öğrencilerin doğru orantılı iki çokluk arasındaki ilişkiyi fonksiyon olarak ifade edebilmesine; 
+doğrusal ilişkili iki değişkenin birbirine bağlı değişimlerini, artış veya azalışlarını belirlemesi -
+ne yönelik, açık uçlu sorulardan oluşan çalışma kâğıdı verilebilir. Öğrencilere dik koordinat 
+sisteminde sıralı ikilileri gösterebilmeye ve bir cebirsel ifadenin değerini değişkenin alaca -
+ğı farklı sayı değerleri için hesaplayabilmeye yönelik sorular sorulabilir. Ayrıca öğrencilerin 
+dik koordinat sisteminde verilen doğrusal fonksiyon grafiklerinin birbirine göre konumlarını 
+doğruların eğimlerine göre yorumlama, bir gerçek sayının mutlak değerini sayı doğrusunda 
+orijine olan uzaklığı olarak ifade edebilme ve doğrusal ilişkili iki niceliğe ait cebirsel ifadede 
+bir niceliğin değeri verildiğinde diğerinin değerini hesaplayabilme ile ilgili bilgi ve becerilerini 
+doğru bir şekilde belirleyebilmek için öğrencilere açık uçlu sorular soru cevap tekniği ile uy-
+gulanabilir.  
+Köprü Kurma Öğrencilere önceki öğrenmelerine dayanarak fikir yürütmeleri mümkün olan doğru, doğru -
+nun eğimi, doğrusal ilişki, doğrusallık ve mutlak değer kavramlarına dair sorular sorulabilir. 
+Ardından sıcaklık değişimi, ücret tarifeleri gibi gerçek yaşam durumlarının grafik temsilleri 
+incelenebilir. Öğrencilerin temada yer alan konulara ilgi duymalarını sağlamak için 8. sınıfta 
+yer verilen doğrusal fonksiyonların cebirsel ve grafik temsilleri arasındaki ilişkiler gerçek ya-
+şam bağlamlarında incelenebilir. 
+Öğrenme-Öğretme 
+Uygulamaları
+MAT.9.2.1
+Fonksiyon kavramının ve fonksiyonlara ilişkin temel özelliklerin keyfî kümeler üzerinden soyut 
+bir yaklaşımla tanımlanması yerine 8. sınıfta yer verilen doğrusal fonksiyonların dik koordinat 
+sistemindeki grafiklerinden ve gerçek yaşam durumlarından hareket edilir. Doğrusal referans 
+fonksiyonun farklı matematiksel temsilleri (grafik, cebirsel gibi) arasındaki ilişkilere dayalı olarak 
+öğrencilerin bu referans fonksiyonu anlamlandırmaları sağlanır (MAB3). Doğrusal referans fonk-
+siyonun bağımlı-bağımsız değişkeni, tanım kümesi, görüntü kümesi, tanımlı olduğu aralıklara 
+bağlı olarak fonksiyonun işareti, maksimum-minimum noktaları, artanlığı-azalanlığı, sıfırı ve bire 
+birliği öğrencilerle beraber incelenir. Yeterli çeşitlilikte örnek durum incelemek mümkün olmaya-
+cağından doğrusal fonksiyonlarda örtenlik ve teklik-çiftlik nitel özelliklerine değinilmez.
+Öğrencilerin gerçek sayılarda  f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun grafik 
+temsili üzerinde gerçekleştirilecek dönüşümler yoluyla gerçek sayılarda g(x) = a ∙ f(x ± r) ± k               
+(a, r, k ∈ ℝ, a ≠ 0) şeklinde tanımlı doğrusal fonksiyonların grafik ve cebirsel temsiline ulaşma-
+ları sağlanır. Dönüşümler yapılırken k ve r değerlerinin her ikisinin veya birinin 0 olduğu durum-
+lar aşamalı olarak ele alınır. Grafik temsilleri ile cebirsel temsillerdeki katsayıların ilişkilerini öğ-
+rencilerin yorumlamaları sağlanır. Elde edilen doğrusal fonksiyonların nitel özellikleri hakkında 
+varsayımda bulunabilmeleri için öğrencilere fırsat verilir. Bu amaçla farklı a, k katsayıları için 
+fonksiyonun grafiğinin eğimini, grafiğinin eksenleri kestiği noktaları ve iki farklı doğrusal fonk-
+siyonun grafiklerinin kesişim noktalarını tahmin etmeleri sağlanır. Özel olarak a = 0 olduğunda 
+fonksiyonun sabit fonksiyon olarak adlandırıldığına yer verilir. Böylelikle sabit fonksiyonun ce-
+birsel  temsili,  doğrusal  fonksiyonun sabit terimi ile ilişkilendirilir. Öğrencilerin dijital öğrenme 

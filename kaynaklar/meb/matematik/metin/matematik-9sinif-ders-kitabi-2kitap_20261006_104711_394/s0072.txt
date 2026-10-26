@@ -1,0 +1,57 @@
+72
+4. Tema / Eşlik ve Benzerlik
+29. ÖRNEK
+Yukarıda	verilen	ABC,	DEF	ve	KLM	üçgenlerinde	AB DE KL , birim 3== =  BC EF LM , birim 4== =   
+Bm9 0o2_iW ,	 Em9 0o=_iW 	 ve	 Lm9 0o1_iW  dir.	 Uzunlukları	 verilmeyen	 kenarların	 uzunluklarının	 değer	
+aralıklarını	bulunuz.
+Çözüm
+DEF	 üçgeninde	 E	 açısı	 dik	 açı	 olduğundan	 Pisagor	 teoremine	 göre	 DF 34 2522=+=2 	 olduğundan	
+DF birim 5= 	bulunur.
+ABC	 üçgeninde	 üçgen	 eşitsizliğine	 göre	 AC43 43 <<-+ 	 ise	 AC17<< 	 olur.	 ABC	 ve	 DEF	 üç-
+genlerinin	ikişer	kenar	uzunlukları	eşit	ve	ABC	üçgeninin	B	açısının	ölçüsü	DEF	üçgeninin	E	açısının	
+ölçüsünden	büyük	olduğu	için	 AC DF>  dur.	Bu	durumda	AC	kenarının	uzunluğu	 AC57<< 	bulunur.
+KLM	üçgeninde	L	açısının	ölçüsü	DEF	üçgeninin	E	açısının	ölçüsünden	küçük	olduğu	için	 KM DF<  
+olur.	Bu	durumda	KM	kenarının	uzunluğu	 KM 1 5<< 	bulunur.
+Em9 0o=_iWBm9 0> o_iW Lm9 0< o_iW
+CB
+3
+4
+A
+E
+D
+3
+4 F
+K
+3
+4 ML
+15. Sıra Sizde      
+1.            Yanda	verilen	ABC	üçgeninde	 AB , birim 5=  AC birim 12= 	ve	
+BACm9 0> o`j%  dir.
+Buna göre BC  nun birim cinsinden alabileceği tam sayı de-
+ğerleri toplamını bulunuz. 
+A
+B
+5 12
+C
+Çözüm
+A	noktasının	I	numaralı	doğru	parçasına	göre	yan-
+sıması	 olan	 A'	 noktası,	 A'	 noktasının	 II	 numaralı	
+doğru	 parçasına	 göre	 yansıması	 olan	 B'	 noktası	
+ve	B'	noktasının	III	numaralı	doğru	parçasına	göre	
+yan	sıması	olan	C'	noktası;	birimkareli	zeminde	şe-
+kilde	verildiği	gibi	gösterildiğinde	elde	edilen	A'B'C'	
+üçgeninde	 A'B'C'm9 0o=`j% 	 olur.	 A'B'C'	 dik	 üçge-
+ninde	Pisagor	teoreminden 
+A'C' A'B' B'C' A'C' 16 12&&=+ =+22 22 22  
+A'C' 144 256 400=+ =2 	birim	ve	 A'C' 20= 	birim	
+bulunur.
+Konu ile ilgili etkileşimli içeriğe 
+ulaşmak için karekodu okutunuz.
+Konu ile ilgili çalışma kâğıdına 
+ulaşmak için karekodu okutunuz.
+I
+II
+III
+A' B'
+A
+C'

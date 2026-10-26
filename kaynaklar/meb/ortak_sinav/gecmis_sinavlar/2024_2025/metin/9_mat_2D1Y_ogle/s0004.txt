@@ -1,0 +1,30 @@
+4
+MATEMATİK 9
+4. Şekildeki	BDC	ve	BAC	dik	üçgenlerinde		 () ()mmBDCB AC 90c==%% ,		[DE] = [BC],		[AF] = [BC],		
+E ! [BC],		F	! [BC],  |DE|  =   25 	cm,		|EF|  =	 	6	cm  ve		|FC|  =	 	4	cm’dir.
+D
+A
+F C46EB
+Buna göre, ACDB  oranının kaç olduğunu işlemlerinizi göstererek bulunuz. (15 puan)
+D
+A
+F C46E2B
+2 52 6 4 3
+DBC	dik	üçgeninde,			|DE| 2 = |BE| $ |EC|					(Öklid	teoremi)
+ 25
+2_i  = |BE| $ |EC|  
+	 20	= |BE| $	1 0
+ |BE| =	2	cm’dir.
+DEB	dik	üçgeninde,			|DB| 2 =  25 22 2+_i 		(Pisagor	teoremi)
+ |DB| 2 = 20	+	4
+ |DB| 2 = 24
+ |DB|  = 26 	cm’dir.
+BAC	dik	üçgeninde,		 |AC| 2 = |CF| $ |CB|		(Öklid	teoremi)
+ |AC| 2 = 4	$	12	
+ |AC| 2 = 48
+ |AC| = 43 	cm’dir.
+Buna	göre,	 .olur
+43
+26
+2
+2==ACDB

@@ -1,0 +1,22 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+32 33
+FİZİK 9 
+ÜNITE 2: KUVVET VE HAREKET
+Öğretmenler İçin İpuçları
+ ▶ Öğrencileri iş birliğine teşvik ediniz ve her öğrencinin kendi grubunun çalışmalarına 
+katkıda bulunmasını sağlayınız.
+ ▶ Araştırma yöntemleri ve güvenilir bilgi kaynaklarının öğrenciler tarafından belirlen -
+mesini isteyiniz.
+ ▶ Öğrenciler bilmedikleri bir yazılım kullanıyorsa vektör işlemlerini yaparken onlara 
+destek olunuz.
+ ▶ Kitap, tez, makale gibi yazılı kaynakların yanı sıra .edu ve .gov uzantılı internet adres-
+lerini kullanabileceklerini öğrencilerinize hatır latınız.
+ ▶ Öğrencilerin bulgularını mevcut fizik bilgileriyle ilişkilendirmelerine yardımcı olmak 
+için tartışmalarını teşvik ediniz.
+Yapılabilecek Farklı Uygulamalar
+ ▶ Vektör işlemleri yapabilen bir yazılım kullanarak  30°, 60° ve 120° açılar yapan vektör-
+lerin toplama işlemlerini öğrencilere yaptırınız.
+ ▶ Bir kuvvet vektörünün pozitif ve negatif tam sayılarla çarpılması sonucunda türeti -
+len en az üç yeni vektörün bileşkelerinin alabileceği değer aralıklarını öğrencilerden 
+belirlemelerini isteyiniz.
+ ▶ Öğrencileri bu etkinlikteki durumların kullanıldığı alanları keşfetmeye teşvik ediniz.

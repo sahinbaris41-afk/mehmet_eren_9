@@ -1,0 +1,46 @@
+134
+5. Tema/Algoritma ve Bilişim  
+1.	 Aşağıdaki	görse lde	bir	yüzer	dep olama	ve	
+yeniden	gazlaştırma	ünitesi	[FSRU	(floating	
+storage	regasification	unit),	(fıloding	sıtorıç	
+regesifikeyşın	yunit)]	verilmiştir.	Deniz	üzerine	
+konumlandırılan	bu	tesislerde	sıvılaştırılmış	
+doğal	gaz	depolanır	ve	gerektiğinde	gaz	hâline	
+dönüştürülür.	Böylelikle	karasal	altyapıya	ihti-
+yaç	duyulmadan	esnek	ve	hızlı	bir	şekilde	
+enerji	tedarik	edilebilir.	Çeşitli	limanlara	bağla-
+nan	bu	üniteler	sayesinde	doğal	gazın	enerji	
+şebekesine	uyumu	sağlanır.
+Türkiye	sahip	olduğu	üç	FSRU	ünitesiyle	dün-
+yanın	sayılı	ülkeleri	arasında	yer	almaktadır.	
+Aşağıdaki	tablo	A,	B,	C	ve	D	limanlarının	farklı	
+FSRU	tesisleriyle	olan	bağlantı	durum unu	gös-
+termektedir.	Bağlı	olma	durumu	‟ ”	sembolü,	
+bağlı	olmama	durumu	‟ ”	sembolü	 	 ile	ifade	
+edilmiştir.
+FSRU Tesisi
+Liman Adı Ertuğrul Gazi Dörtyol Saros
+A
+B
+C
+ D
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Limanlardan	FSRU	tesislerine	bağlantıları	
+temsil	edecek	şekilde	bir	çizge	oluşturunuz.
+ 
+Çizge Çizim Alanı
+b) Elde	 ettiğiniz	 çizge	 diyagramında	 tüm	
+FSRU	tesisleri	ile	bağlantılı	olan	limanları	
+bulunuz.
+c) Elde	ettiğiniz	çizge	diyagramında	en	az	iki	
+farklı	FSRU	tesisi	ile	bağlantılı	olan	liman-
+ları	belirleyiniz.
+ç) FSRU	tesislerinin	yalnızca	bir	limana	bağ-
+lantılı	olup	olmadığını	belirleyen	algorit-
+manın	işleyişini	algoritmik	doğal	dille	ifade	
+ediniz.
+ 
+Algoritmik Doğal Dil
+Alıştırmalar
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

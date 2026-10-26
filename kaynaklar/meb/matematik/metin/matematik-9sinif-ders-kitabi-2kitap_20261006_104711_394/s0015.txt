@@ -1,0 +1,44 @@
+15
+4. Tema / Eşlik ve Benzerlik
+3. Verilen şekiller ile bu şekillerin d ve k doğrularına göre yansıma dönüşümü altındaki görüntülerini karşılaştıra-
+rak varsayımlarınızı inceleyiniz. Ulaştığınız sonuçları Tablo 2’nin ilgili alanına örnekteki gibi yazınız. 
+Tablo 2
+Özellik Sonuçlar
+ABCDE beşgeninin kenar uzunlukları ve iç açı 
+ölçüleri
+,AB 8 birim, BC 6 birim, CD 42 birim DE 2 birim,== ==
+mA ,m B, mC ,EA 22 birim, 45 90 45ooo= ===_ __i iiX WW
+mD 225 ,m E 135oo ==_ _i iX W
+A'B'C'D'E' beşgeninin kenar uzunlukları ve iç 
+açı ölçüleri
+KLM üçgeninin kenar uzunlukları ve iç açı 
+ölçüleri
+K'L'M' üçgeninin kenar uzunlukları ve iç açı 
+ölçüleri
+ABCDE beşgeninin çevre uzunluğu ve alanı
+A'B'C'D'E' beşgeninin çevre uzunluğu ve alanı
+KLM üçgeninin çevre uzunluğu ve alanı
+K'L'M' üçgeninin çevre uzunluğu ve alanı
+ABCDE beşgeni üzerindeki A, B, C, D, E nok-
+talarının görüntüleri olan noktalara uzaklıkları
+KLM üçgeni üzerindeki K, L, M  noktalarının 
+görüntüleri olan noktalara uzaklıkları
+ABCDE beşgeni üzerindeki A, B, C, D, E nok-
+taları ile bunların görüntüleri olan noktaların 
+yansıma doğrusuna uzaklıkları
+KLM üçgeni üzerindeki K, L, M  noktaları ile 
+bunların görüntüleri olan noktaların yansıma 
+doğrusuna uzaklıkları
+4. Tablo 2’ye yazdığınız sonuçları arkadaşlarınızın sonuçlarıyla karşılaştırarak tartışınız. Şekiller ve görüntüleri 
+ile yansıma dönüşümünün özelliklerine ilişkin genellemeleri örnekteki gibi yazınız.
+Şeklin kenar uzunlukları ile bir doğruya göre yansıma dönüşümü altındaki görüntüsünün kenar uzunlukları 
+eşittir.
+5. 2. adımda oluşturduğunuz varsayımlarınızla genellemelerinizi karşılaştırmak için bilgisayar veya etkileşimli 
+tahtada matematik yazılımını açınız. Aşağıda verilen adımları sırasıyla uygulayınız.
+a) Araçlar bölümünden sırasıyla Çokgen ve Doğru 
+araçlarını seçerek bir çokgen ve bir doğru oluştu-
+runuz.
+b) Dönüşüm bölümünden Doğruda Yansıt aracını seçerek oluşturduğunuz çokgenin çizdiğiniz doğruya göre 
+yansıma dönüşümü altındaki görüntüsünü oluşturunuz.
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.

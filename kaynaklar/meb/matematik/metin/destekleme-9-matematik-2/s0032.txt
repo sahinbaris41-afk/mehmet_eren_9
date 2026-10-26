@@ -1,0 +1,25 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+31
+1. TEMA: SAYILAR
+4
+Toprak Öğretmen, öğrencileri için 5x5'lik birim karelerden oluşan kartlar hazırlamıştır. Hazırladığı 
+kartlarla sınıfta bir oyun oynayacaklardır. Her öğrenciye rastgele bir kart verir ve öğrenci karttaki 
+nokta sayısı ile üzerinde nokta olmayan kare sayısını bularak oyuna başlar. Her öğrenci karttaki 
+nokta sayısı ile üzerinde nokta olmayan kare sayısının çarpımının bilimsel gösterimini a.10b şeklinde 
+yazar.
+Buna göre aşağıda verilen kart için yazılacak bilimsel gösterimde a.b değerini bulunuz.
+ÇALIŞMA KÂĞIDI BÖLÜM B
+1 Aşağıdaki tabloda bir müzik kutusu (Görsel 1.4) için müzik dinleme süresine göre belirlenen ücret tarifesi gösterilmiştir.
+Müzik kutusunun bulunduğu kafeye gelen iki arkadaş harçlıklarına uygun 
+olan birer tarifeyi seçip müzik dinlemek istemiştir. Siz de bir arkadaşınız 
+ile size uygun olan tarifeleri seçerek ikinizin ödemesi gereken miktarı aşağı- 
+daki etkinlik adımlarını uygulayarak belirleyiniz.
+a.  Bir ondalıklı sayının nasıl çözümlendiği aşağıda verilmiştir, inceleyiniz. 
+      (1. Adım)
+ ► Bu bölümde ondalık, üslü ve köklü gösterimlere yönelik çalışma soruları yer almaktadır.
+Süre (dk) Fiyat (TL)
+0 - 30 17,50
+30 - 45 20,75
+45 - 60 33,25
+ab,cd = a.101 + b.100 + c.10-1 + d.10-2
+Görsel 1.4: Müzik Kutusu

@@ -1,0 +1,73 @@
+175
+6. Tema / İstatistiksel Araştırma Süreci
+2. Su ürünleri mühendisi istatistik yazılımıyla Grafik 1’deki dağılımdan yola çıkarak Grafik 2 ve Grafik 3’ü oluş-
+turmuştur.
+Su ürünleri mühendisi, Grafik 2 ve Grafik 3’te yer alan verilerden hareketle 2022 yılında Türkiye’nin 71 ilinde 
+avlanan sazan balığı miktarı ile ilgili ne tür bilgilere ulaşmış olabilir? Bu grafikleri Grafik 1 ile karşılaştırdığı-
+nızda iki grafik arasında ne gibi farklılıklar gördüğünüzü sınıf arkadaşlarınızla tartışınız.
+3. Grafik 4 ve Grafik 5’i inceleyiniz. 
+  
+Grafik 4
+İl sayısı
+10
+15
+20
+25
+30
+35
+40
+45
+5
+Miktar (Ton)
+0 50 100 150 200 250 300
+Grafik 5
+İl sayısı
+10
+15
+20
+25
+30
+35
+5
+Miktar (Ton)
+0 5025 75 100 125 150 175 225200
+Grafik 4 ve Grafik 5’te Türkiye’nin 71 ilinde avlanan sazan balığı miktarının iki farklı şekilde gösterimi yer al-
+maktadır. İki grafiği karşılaştırarak nelerin farklı göründüğünü belirleyiniz. Bu farklılıklar, grafiklerin sunduğu 
+bilgileri nasıl farklılaştırmaktadır? Sınıf arkadaşlarınızla tartışınız.
+4. Grafik 4 ve Grafik 5’teki bilgilerle sütun grafiğindeki bilgiler arasında ne gibi benzerlik ve farklılıklar bulun-
+maktadır? Sınıf arkadaşlarınızla tartışınız.
+Öğrenci sayısı
+10
+20
+30
+40
+50
+60
+Matematik ders notları
+0 20 40 60 80 100
+Grafik 6.3: Bir grup öğrencinin matematik dersi notlarına ait histogram grafiği
+Veri	 görselleştirmede	 kullanı lan	 araçlar dan	 biri	 hist og-
+ramdır.	 Histogram,	 verilerin	 belli	 aralıklardaki	 sıklığını	
+sütunlarla	gösteren	bir	grafiktir.	
+Grafik	6.3’te	örnek	bir	histogram	grafiği	yer	almaktadır.
+Grafik	6.3’te	histogram	grafiğinin	yatay	ekseninde	yer	alan	
+matematik	dersi	notlarının	hangi	sıklıkla	yirmişer	puanlık	
+aralıklarda	gözlendiği	görülmektedir.	Dikey	eksen,	her	bir	
+aralıkta	gözlenen	veri	sayısını	(frekans)	göstermektedir.
+[0,50)
+46 13 9 2 1
+[50,100) [100,150) [150, 200) [200, 250)
+Miktar (Ton)
+Grafik 2 Grafik 3
+İl sayısı
+0 50 100 150 200 250 300
+10
+15
+20
+25
+30
+35
+40
+45
+5
+Miktar (Ton)

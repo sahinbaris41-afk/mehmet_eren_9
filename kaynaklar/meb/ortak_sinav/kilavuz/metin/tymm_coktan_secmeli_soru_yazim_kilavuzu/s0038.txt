@@ -1,0 +1,34 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+38
+1. Kağan’ın gözlemleri dikkate alındığında aşağıdakilerden hangisi söz konusu yerde karşılaşılabilecek 
+temel sorunu ifade eder? (KB3.2.SB1)
+A) Rüzgâr yönünün değişmesinden dolayı gölde dalgaların artması
+B) Rüzgârın güneye doğru esmesi nedeniyle bulunulan yere yıldırım düşme riskinin yüksek olması
+C) Metal olta kullanılmasının yıldırım tehlikesini artırması
+D) Yağışa bağlı olarak göl yüzeyinde görüş mesafesinin azalması
+E) Fırtınanın etkisiyle hava sıcaklığının hızla düşmesi
+2. Verilen bilgilere göre Kağan’ın karşılaştığı problem aşağıdakilerden hangisiyle açıklanabilir? 
+(KB3.2.SB2)
+A) Rüzgârın bulunduğu yere doğru esmesi
+B) Göl kenarında balık tutması
+C) Açık alanda fırtınaya yakalanması
+D) Şimşekle gök gürültüsü arasındaki süreyi hesaplayamaması
+E) Rüzgârın yönünü fark edememesi
+3. Bu bilgilere göre Kağan, önümüzdeki dakikalarda aşağıdaki davranışlardan hangisini yerine getir-
+melidir? (KB3.2.SB3)
+A) Fırtınanın kendi bulunduğu yere doğru ilerleyebileceğini öngörerek daha alçak ve kapalı bir alana 
+yönelmelidir.
+B) Yağışın şiddetini artıracağını tahmin ederek kıyıdan uzaklaşmalıdır.
+C) Gök gürültüsünün tamamen kesileceğini düşünerek balık tutmaya devam etmelidir.
+D) Rüzgârın yön değiştireceğini tahmin ederek bulunduğu yerde kalmalıdır.
+E) Havanın yeniden açılacağını düşünerek kıyıda beklemelidir.
+4. Rüzgârın estiği yön göz önünde bulundurulduğunda, aşağıdakilerden hangisi Kağan’ın bulunduğu 
+yerle ilgili ulaşılabilecek bir çıkarımdır? (KB3.2.SB4)
+A) Fırtına güney yönünde hareket ettiği için bulunduğu yer tehlike altında değildir.
+B) Yıldırım yaklaşık 2,5 km uzaklıkta olduğu için güvenli bir alana geçmesi gerekir.
+C) Gök gürültüsünün 8 saniye sonra duyulması yıldırım tehlikesinin geçtiğini gösterir.
+D) Rüzgârın yönü, Kağan’ın bulunduğu yere yıldırım düşme riskini ortadan kaldırır.
+E) Fırtına kuzeyde kaldığı için göl kenarında kalmak güvenlidir.
+5. Tüm riskler değerlendirildiğinde yıldırımdan korunmak için gidilebilecek en uygun yer topoğrafya 
+haritasındaki hangi alana karşılık gelir? (KB3.2.SB5)
+A) 1-k B) 1-m C) 2-l D) 3-k E) 4-m

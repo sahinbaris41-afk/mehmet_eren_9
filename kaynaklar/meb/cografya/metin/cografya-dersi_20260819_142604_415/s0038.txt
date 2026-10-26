@@ -1,0 +1,52 @@
+38
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları COĞ.9.6.1 
+Bir olayın hangi durumda afet kabul edilebileceğine ilişkin Türkiye ve dünyada yaşanan ör-
+nek olaylar üzerinden bir tartışma yapılandırılabilir. Bu kapsamda örnek olarak Türkiye’den 
+Kuzey Anadolu Fay Sistemi, Doğu Anadolu Fay Sistemi ve Batı Anadolu’daki fay hatları 
+incelenebilir. Bu fay hatlarının geçtiği bölgelerin deprem tehlikesi taşıdığı, bu bölgelerde 
+depreme dirençli olmayan yerleşim alanları kurulmasının risk oluşturduğu ve deprem ya-
+şanması durumunda can ve mal kaybı olmasının ise afet olarak nitelendirildiği bilgisi payla-
+şılır (D5.3). Bu süreçte diri fay haritası, afet risk haritası ve yerleşme haritaları incelenebilir 
+(SBAB10.2). Öğrencilerden tehlike, risk ve afet kavramları arasındaki ilişkiyi açıklayabilme-
+leri için bu kavramlara ilişkin görsel içerikli örnekler oluşturmaları istenebilir. Örnekler üze-
+rinden tehlike, risk ve afet kavramlarının özellikleri özetlenebilir, tehlike kavramı içerisinde 
+ekstrem doğa olayı kavramına yer verilir (OB1, SDB2.1, E3.4). Öğrencilerin bu süreçteki öğ-
+renmeleri, çalışma yaprağıyla değerlendirilebilir.
+COĞ.9.6.2
+Öğrencilerin kişisel özellikleri ve afetlere yönelik algıları göz önünde bulundurularak afet -
+ler konusuna uygun bir giriş yapabilmeleri sağlanır. Bu kapsamda öğrencilere afetlerle ilgili 
+gazete haberi ve makale okuma, fotoğraf ve harita inceleme, sayısal veriler içeren tablo 
+yorumlama gibi çalışmalar yaptırılabilir. Bu çalışmalar öğrenciler tarafından sunulabilir ve 
+öğrencilerin seçtiği materyallerin incelenmesiyle derse başlanabilir. İncelenen materyal-
+ler bağlamında görüşlerin paylaşıldığı bir tartışma ortamı yapılandırılabilir (SDB2.1). Afet-
+lere yönelik videolar izlenerek öğrencilerden bildikleri afetlerle ilgili görüş paylaşımında 
+bulunmaları istenebilir (OB4). Tüm sınıfa bir afet listesi (kuraklık, deprem, tsunami, çığ, 
+sel, taşkın, erozyon, salgın hastalık, yangın, savaş, nükleer santral kazaları, heyelan, kaya 
+düşmesi vb.) verilerek afet sınıflandırma çalışması yapılabilir. Bu kapsamda öğrencilerden 
+verilen afet listesinde yer alan afetleri, belirledikleri özelliklere göre sınıflandırmaları ve 
+küçük gruplar içinde tartışmaları istenebilir. Sonuçları itibarıyla Türkiye’de en yıkıcı etki-
+ye sahip afetler, ilgili kaynaklardan incelenerek bu afetlerin nedenleri ve dağılışları tes-
+pit edilir (D5.3, SBAB10.3). Afetler, oluşum türlerine göre tasnif edilir ve etiketlenir (E3.7, 
+SDB2.2). Öğrencilerin bu süreçteki öğrenmeleri yapılandırılmış gridle değerlendirilebilir.
+COĞ.9.6.3
+Bütüncül afet yönetimini oluşturan bileşenler, tablo, grafik, şekil ve/veya diyagramlar 
+üzerinden incelenerek anlamlandırılır (OB4). Söz konusu bileşenler arasındaki ilişki çö-
+zümlenir ve buradan sonuçlar çıkarılır. Konuya ilişkin istasyon çalışması yapılabilir. Bu 
+kapsamda sınıfta afet öncesi, afet esnası ve afet sonrası olmak üzere üç istasyon oluş-
+turulur. Öğrenciler, oluşturulan istasyonlara atanır ve her istasyon için belirlenen konu-
+lara göre afiş hazırlama çalışması başlatılır. Her beş dakikada bir öğrencilerin yeri değiş-
+tirilir, diğer istasyona geçen öğrencilerin o istasyonda başlanmış olan çalışmaya devam 
+etmesi sağlanır. Herkes ilk istasyonuna döndüğünde son düzenleme için süre verilir ve 
+ardından çalışmalar paylaşılır. Öğrencilerden istasyon değiştirerek gerçekleştirilen bu 
+süreci değerlendirmeleri, farklı bakış açılarının afişlerde meydana getirdiği değişiklikleri 
+sorgulamaları istenir. Ardından afişler paylaşılarak afet öncesi, afet esnası ve afet sonra-
+sında yapılması gerekenler karşılaştırılır. Öğrencilerden bu konuda kendileri ve çevrelerini 
+değer lendirmeleri istenerek bütüncül afet yönetiminin etkin şekilde yapılmamasının in -
+san ve toplum üzerindeki etkilerine ilişkin duygu ve düşüncelerini ifade etmeleri istenebilir 
+(SDB1.1, SDB1.2, SDB1.3, SDB3.3). Öğrenmeler, çalışma yaprağıyla izlenebilir. Afet öncesi, 
+afet esnası ve afet sonrasında ihtiyaç duyulan verilere hızlı ve doğru şekilde ulaşılması, bu 
+verilerden yeni bilgiler üretilmesi ve bu bilgilerin kullanılması bağlamında afete uğramış 
+ve afet riski taşıyan bölgelerde yapılacak mekânsal sorgu ve analizler yoluyla hızlı karar 
+verilebilmesine imkân sağlayan mekânsal bilgi teknolojilerinden bahsedilir (OB2).

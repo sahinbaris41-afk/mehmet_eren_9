@@ -1,0 +1,33 @@
+66
+4. Tema / Eşlik ve Benzerlik
+Öklid	Teoremi
+Öklid	teoremi,	matematik	tarihinde	önemli	bir	yere	sahip	olan	Antik	Yunan	matematikçisi	Öklid’in	ortaya	
+koyduğu	teoremlerden	biridir.	
+Öklid Teoremi
+Aşağıda verilen teoremin ispatına yönelik adımları uygulayınız.
+1. Teoremi inceleyiniz. 
+ Teorem: Bir dik üçgende hipotenüse ait yüksekliğin karesi, bu yüksekliğin hipotenüs üzerinde ayırdığı parça -
+ların uzunluklarının çarpımına eşittir.
+Verilenler: BAC dik üçgeni, BACm9 0o=`j% , AH BC= ,77 AA
+BH p birim = , HC k birim = , BC a birim = , AC b birim = , 
+AB c birim =  ve A birimHh=
+İspatlanacak ifade: hp k2 $=
+2. Teoremin BAC dik üçgeninde hipotenüse ait yüksekliğin çizilmesi ile ortaya çıkan ABH ve ACH dik üçgenleri 
+kullanılarak nasıl ispatlanabileceğine ilişkin fikirlerinizi açıklayınız. Fikirlerinizi arkadaşlarınızla iletişim ku -
+ralları çerçevesinde tartışınız.
+3. BAC, ABH ve ACH dik üçgenleri arasında herhangi bir benzerlik kuralı var mıdır? Varsa ulaştığınız benzer -
+lik kuralını yazınız.
+4. ABH ve CAH üçgenleri arasında belirlediğiniz benzerlik kuralına uygun olarak üçgenlerin kenarları arasındaki 
+ilişkiyi yazınız.
+5. Teoremin ispatının tamamlanıp tamamlanmadığına ilişkin fikrinizi ispat sürecinde takip ettiğiniz adımlardan 
+hareketle gerekçelendirerek açıklayınız ve arkadaşlarınızla tartışınız.
+6. Yaptığınız ispatta kullandığınız yöntemi değerlendirmek için BAC, ABH ve ACH üçgenleri arasındaki benzer-
+lik kurallarını kullanarak bk a2 $=  ve cp a2 $=  eşitliklerini gösteriniz.
+11. Uygulama
+A
+B H
+h
+p k C
+c
+a
+b

@@ -1,0 +1,39 @@
+145
+2. Tema /  Nicelikler ve Değişimler
+Çözüm
+a)  Güneş enerjisi ısıtma sisteminin toplam maliyetini hesaplamak amacıyla 57 000 Türk lirası kurulum 
+maliyetine her yıl için 1600 Türk lirası eklenmelidir. Buradan x yıl için güneş enerjisi ısıtma sisteminin 
+toplam maliyetini (TL) veren fonksiyon, g (x) = 57 000 + 1600x olur.
+ Elektrik enerjisi ısıtma sisteminin toplam maliyetini hesaplamak amacıyla 21 000 Türk lirası ku -
+rulum maliyetine her yıl için 5200 Türk lirası eklenmelidir. Buradan x yıl için elektrik enerjisi ısıtma 
+sisteminin toplam maliyetini (TL) veren fonksiyon, e(x) = 21 000 + 5200x olur.
+b)	 Güneş enerjisi ısıtma sisteminin toplam maliyeti;
+ x = 0 için g(0) = 0  1600 + 57 000 = 57 000 TL,
+ x = 5 için g(5) = 5  1600 + 57 000 = 65 000 TL,
+ x = 10 için g(10) = 10  1600 + 57 000 = 73 000 TL,
+ x = 15 için g(15) = 15  1600 + 57 000 = 81 000 TL olur.
+ Elektrik enerjisi ısıtma sisteminin toplam maliyeti;
+ x = 0 için e(0) = 5200  0 + 21 000 = 21 000 TL,
+ x = 5 için e(5) = 5200  5 + 21 000 = 47 000 TL,
+ x = 10 için e(10) = 5200  10 + 21 000 = 73 000 TL,
+ x = 15 için e(15) = 5200  15 + 21 000 = 99 000 TL olur. Buradan Tablo 2 aşağıdaki gibi oluşturulur.
+Tablo 2 
+Kullanım	Süresi	(Yıl) 0 5 10 15
+Güneş Enerjisinin Toplam Maliyeti (TL) 57  000 65  000 73  000 81  000
+Elektrik Enerjisinin Toplam Maliyeti (TL) 21 000 47  000 73  000 99  000
+c)	 																				 A a = 2α
+Giriş...
+e(x) = 21000 + 5200x
+g(x) = 57000 + 1600x
+-20-40-60 0 20 40 60
+20000
+40000
+60000
+100000
+80000
+e g
+A = Kesiştir(g, e)
+= (10, 73000)
+ A
+ g ve e fonksiyonlarının grafikleri (10, 73 000) noktasında kesişmektedir. Buna göre iki ısıtma sistemi -
+nin toplam maliyeti, 10. yılın sonunda eşitlenerek 73 000 Türk lirası olmaktadır.

@@ -1,0 +1,48 @@
+155
+2. Tema /  Nicelikler ve Değişimler
+Görsel 1
+Giriş...
+60 60.0559.9559.8559.859.75 60.159.9 60.15 60.2
+f
+c : f(x) > 0.05
+= |60 - x | > 0.05
+b : f(x) ≤ 0.05
+= |60 - x | ≤ 0.05
+f(x) = |60 - x |
+0.2
+0.25
+0.3
+0.15
+0.1
+0.05
+A a = 2α
+Görsel 1’de mavi renkli bölümdeki x değerleri [59,95 , 60,05] nda bulunmaktadır. Bu aralığın   
+, x 6000 5#-  eşitsizliğinin çözüm kümesine eşit olduğu sonucuna varılır. 
+Turuncu renkli bölümdeki x değerleri 05,, ,,33- 60 95 , 59__ ii nda bulunmaktadır. Bu aralığın   
+, x 6000 52-  eşitsizliğinin çözüm kümesine eşit olduğu sonucuna varılır. 
+• , x 6000 5-=  denkleminin grafik çözümü için matematik yazılımından faydalanılabilir. Bunun için 
+i) Giriş bölümüne fx x 60=-_i  yazılıp Enter tuşuna basılır. 
+ii) Giriş bölümüne , xg0 05=_i  yazılıp Enter tuşuna basılır.
+iii) Kesiştir aracı seçilerek f ve g fonksiyonlarının grafikleri üzerine tıklanır.
+Görsel 2
+Giriş...
+60 60.0559.9559.8559.859.75 60.159.9 60.15 60.2
+f
+f(x) = |60 - x |
+g(x) = 0.05
+0.2
+0.25
+0.3
+0.15
+0.1
+0.05
+A a = 2α
+A = Kesiştir(f, g,(60.05, 0.05))
+= (60.05, 0.05)
+B = Kesiştir(f, g,(59.95, 0.05))
+= (59.95, 0.05)
+g AB
+Görsel 2 incelendiğinde f ve g fonksiyonların grafiklerinin kesim noktalarının 05 ,0 5 ,A, 60 0_i  ve
+5,90 5 ,B, 59 0_i  olduğu görülmektedir. A ve B noktalarının apsis değerleri,
+,fx gx x 60 00 5&=- =__ ii  denkleminin köklerini ifade eder. Cebirsel çözümdekine benzer şekilde 
+bu denklemin iki tane kökü bulunmaktadır. 

@@ -1,0 +1,49 @@
+48
+COĞRAFYA DERSİ ÖĞRETİM PROGRAMI
+Öğrenme-Öğretme 
+Uygulamaları COĞ.10.2.1
+Öğrencilerden uydu görüntüleri ve farklı türdeki haritaların günlük hayatta kullanım alan -
+larıyla ilgili görüş belirtmeleri istenir. Bu görüşlerin toplanması, iş birlikli öğrenmenin 
+gez-birleş-ayrıl tekniğinden yararlanılarak yapılabilir. Öğrencilerden haritaların günlük 
+hayattaki kullanım alanlarını düşünmeleri ve bu düşüncelerini arkadaşlarıyla paylaşmaları 
+istenebilir. Paylaşımdan sonra öğrenciler tarafından iş birliği yoluyla oluşturulan bilgiler 
+tahtaya yazılarak listelenebilir. Bu listelerin incelenmesinin ardından öğrencilerin tartışa-
+rak CBS ve uzaktan algılamanın uygulama alanlarını sınıflandırması sağlanır. Bu kapsamda 
+öğrencilerin mekânsal bilgi teknolojilerinin uygulama alanlarıyla ilgili yorum yapmalarına 
+imkân sağlanmış olur (OB2, SDB2.1, SDB2.2, E3.4, SBAB11.2). Mekânsal bilgi teknoloji-
+lerinden yararlanılırken kişisel bilgilerin yer aldığı dijital araçların bilinçli ve güvenli bir şe-
+kilde kullanılması gerektiği vurgulanır (D8.2). Örnek uygulamalar içeren açık uçlu sorular 
+verilerek öğrencilerin CBS ve uzaktan algılamanın kullanımına yönelik öğrenmeleri izlenir.
+COĞ.10.2.2 
+Öğrenme sürecinde iş birlikli öğrenmenin çalış-gözle-karşılaştır tekniğinden yararlanıla-
+bilir. Bu kapsamda öğrenciler gruplara ayrılır ve her gruptan bir öğrenci gözlemci olarak 
+seçilir. Öğrencilere okul ve okulun bulunduğu yakın çevrenin haritasını oluşturma görevi 
+verilir. Gruplardan dijital küre üzerinden yakınlaştırma yaparak elde ettikleri görüntüler 
+yoluyla veri toplamaları; bu verileri nokta, çizgi, alan şeklinde tasnif etmeleri ve harita 
+türünü belirlemeleri istenir (KB3.1). Verilerin haritaya işlenmesi ve haritanın bileşenlerinin 
+oluşturulması sağlanır (OB2, OB7). Daha sonra her grubun gözlemcisine kendi grubunun 
+çözümüyle diğer grupların çözümü arasında karşılaştırma yaptırılır. Gözlemciler tarafın -
+dan kendi gruplarına öğrendikleri yeni çözüm ve fikirler anlatılır. Yeni gelen çözüm ve fi-
+kirler değerlendirilerek çalışmalara son hâlleri verilir (D3.1, D3.4, E1.4, E3.4, E3.7, E3.8, 
+BTY AB4). Bu aşamada öğrencilerden kendilerinin veya akranlarının oluşturdukları hari-
+taları kontrol listeleri kullanarak değerlendirmeleri istenebilir ve öğrencilere geri bildirim 
+verilir (OB4, SDB1.2, SDB2.1, SBD2.2).
+Bu ünitede performans görevi olarak öğrencilere bulundukları mahallenin uydu görüntüsü 
+üzerinde vektör veriler (nokta, çizgi ve alan) kullanarak harita oluşturma çalışması verilebi-
+lir. Performans görevi, analitik dereceli puanlama anahtarı ve öz değerlendirme formuyla 
+değerlendirilebilir. Öğrencilerin bu süreçteki düşünceleri, görevi gerçekleştirme düzeyine 
+yönelik değerlendirmeleri ve geliştirmeleri gereken yönlerini belirtmelerine imkân sağlanır 
+(SDB1.1, SDB1.2, SDB1.3).
+FARKLILAŞTIRMA
+Zenginleştirme Öğrencilere *harita oluşturmada CBS uygulamaları ve geleneksel yöntemlerin karşılaştı-
+rılması, coğrafi veri olarak uzaktan algılamada uydu görüntülerinin avantajları ve uzaktan 
+algılama teknolojileri konularında araştırma görevleri verilebilir. Öğrencilerin söz konusu 
+araştırma görevlerini öğrenme profillerine göre farklı yollarla sunmalarına (rol oynama, 
+eylem planı ve medya ürünü hazırlama, görsel ve sözlü sunum vb.) imkân sağlanır.
+Destekleme CBS uygulamalarına ilişkin örnekler artırılabilir ve uygulamaların incelenmesinde akran 
+öğretiminden yararlanılabilir. Performans görevi, çeşitli haritalardan yararlanılarak coğra-
+fi verilerin gösterilmesi (nokta, çizgi ve alan) ve vektör veri-coğrafi unsur eşleştirmesinin 
+yapılması şeklinde düzenlenebilir. 
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

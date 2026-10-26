@@ -1,0 +1,52 @@
+147
+5. Tema/Ölçme ve Değerlendirme
+7.  Rakamları	toplamına	kalansız	olarak	bölünen	
+doğal	sayılara	Harshad	(Harşat)	sayıları	denir.	
+Aşağıda	bir	sayının	Harshad	sayısı	olup	olma-
+dığını	belirleyen	bir	algoritmanın	işleyişi,	algo-
+ritmik	doğal	dille	ifade	edilmiştir.
+ 
+ 
+ 
+1. adım:	Başla.
+2. adım: Girdilerin alınması
+	 Kullanıcıdan 	bir	sayı	girişi	yapma-
+sını	iste.
+3. adım: Rakamlar toplamının hesaplan -
+ması 
+	 Sayının 	rakamlarını	topla.
+4. adım: Sayının, rakamlarının toplamına 
+bölünmesi 
+	 Sayıyı 	rakamlarının	toplamına	böl.
+5. adım: Sonucun yazdırılması
+	 4. 	adımda	elde	edilen	kalan	sıfı-
+ra	 eşitse	 ekrana	 ‟Sayı	 Harshad	 
+sayısıdır.”	yazdır.	
+	 Değilse 	ekrana	‟Sayı	Harshad	sa-
+yısı	değildir.”	yazdır.
+6. adım:	Bitir.
+Algoritmik Doğal Dil
+ Buna göre aşağıdaki soruları cevaplayınız. 
+a) Algoritmanın işleyişini akış şemasıyla 
+ifade ediniz. 
+ 
+ 
+Akış Şeması
+b) 103, 116, 231, 402 ve 514 için algoritmayı 
+akış şeması üzerinde test ediniz.
+8.  ‟abcd dört basamaklı bir doğal sayı ve  
+,xy N!  olmak üzere  
+xa bcdyabcd 99 &++ += = ” önermesi 
+için aşağıdaki  soruları cevaplayınız. 
+a) Önermenin doğruluğunu ispatlayınız. 
+Önermeyi ispatlamak için kullandığınız 
+mantık bağlaçları ve niceleyicilere yöne-
+lik çıkarımlarınız ne olur? Açıklayınız.
+ 
+b) Elde edilen ispat adımları yardımıyla 
+dört basamaklı bir doğal sayının 9’a tam 
+bölünüp bölünmediğini bulan bir algo -
+ritmanın işleyişini algoritmik doğal dille 
+ifade ediniz.
+ 
+Algoritmik Doğal Dil

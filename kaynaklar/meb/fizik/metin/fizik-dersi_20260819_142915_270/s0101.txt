@@ -1,0 +1,48 @@
+101
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+oluştuğu bilgisine ulaşması beklenir. Temel parçacıkların adları ve sınıflandırmaları ile sı-
+nırlı kalınır. Kuarkların birleşmesiyle oluşan hadronların türleriyle ilgili ayrıntıya girmeden 
+varlığından söz edilir. Öğrenciler, ön bilgilerinde var olan doğadaki dört temel kuvvet ile 
+bozonlar arasında ilişki kurup (SDB1.1) bu ilişkiye yönelik güvenilir kaynaklardan (D3.3) bil-
+gi toplayarak temel kuvvetlerin maddenin oluşumundaki rolüne ilişkin çıkarımda bulunur 
+(OB1). Muhammed Abdüsselam’ın bu konuda çalışmalar yaptığı vurgulanır (D15.2).Öğren-
+cilere temel parçacıklar ve temel kuvvetleri içeren yapılandırılmış grid ve tanılayıcı dallan-
+mış ağaç verilebilir.
+FİZ.12.4.7
+Maddenin temel parçacıklardan oluştuğu vurgulanarak atomun yapısı hakkında öğrenci-
+lerin düşünmeleri sağlanır. Öğrenciler ön bilgilerini kullanarak temel parçacıklar arasında 
+ilişki kurup (SDB1.1) bu ilişkiyi ortaya koyar (KB2.16.2, OB1). Atomun kuantum mekaniksel 
+özelliklerinden, Bohr atom modelinden ve matematiksel modellerden kaçınılır. Feza Gür-
+sey ve Asım Orhan Barut’un atom fiziği konusunda çalışmalar yaptığı vurgulanır (D15.2). 
+Atomu oluşturan temel parçacıkların etkileşimlerini keşfederek Modern Atom Teorisi'ne 
+göre atomun yapısını kimya disipliniyle de ilişki kurarak açıklar. Bu ilişkiyi ortaya koyarken 
+yaratıcı drama, rol oynama gibi tekniklerden biri (E2.5, OB9) kullanılır. Öğrencilerden ato-
+mu oluşturan parçacıkların kuarklardan atoma kadar olan etkileşimini yapboza dönüştü-
+rerek görselleştiren bir tasarım içeren performans görevi istenebilir.
+FİZ.12.4.8
+Öğretmen, Câbir bin Hayyân’ın atomun parçalanması ile ilgili öngörüsünü veya Einstein’ın 
+atom bombasının kullanımı konusundaki düşüncelerini paylaşarak dikkat çekilir. Öğret -
+men, Behram Kurşunoğlu’nu ve çalışmalarını tanıtır (D15.2). Öğretmen, Sokrat semineri 
+öğretim tekniği ile Einstein’ın Özel Görelilik Teorisi'nin sonuçlarından biri olan kütle-enerji 
+eşdeğerliği ve radyasyon ilişkisi hakkında öğrencilere makale dağıtır veya bir video izle-
+tebilir. Öğrencilerden video ve makale hakkında saygı çerçevesinde tartışarak (SDB2.2) 
+kütle-enerji eşdeğerliğine ve radyasyonun oluşumuna yönelik çıkarımlarda bulunmaları 
+ister (OB1). Öğretmen kimyasal reaksiyonlarda kütle korunurken nükleer reaksiyonlarda 
+kütlenin korunmadığını belirterek öğrencilerden bu farklılığın sebeplerini tahmin etme-
+lerini isteyebilir. Öğrenciler nükleer enerjiye ilişkin merak ettiği konuları tanımlar. Öğret -
+men tartışma, soru cevap veya beyin fırtınası tekniklerini kullanarak öğrencilerin açık 
+fikirlilikle (E3.5) sorular sormasını sağlar (E3.8). Öğretmen öğrencilerin nükleer enerji 
+konusunda farklı fikirlerini altı şapkalı düşünme tekniğini kullanarak paylaşmalarını sağ-
+lar (SDB2.1). Öğretmen rehberliğinde öğrenciler gruplara ayrılır (SDB2.2). Gruplar nük -
+leer santrallerin avantaj ve dezavantajları, radyasyondan korunma yolları ve sağlık için 
+alınabilecek tedbirler (D13.4), iyonize ve iyonize olmayan radyasyonlar hakkında tartışa-
+rak fikirlerini öne sürer. Bu konularla ilgili problemleri saptar ve alternatif çözüm yolla-
+rı önerir (SDB3.3). Öğrenciler sordukları sorulara ve tartışma sonuçlarının doğruluğuna 
+ilişkin cevap bulmak için farklı kaynaklardan grup hâlinde bilgi toplar (SDB1.2). İş birlikli 
+öğrenme yöntemi ile (SDB2.2) her grup kendi içinde topladıkları bilgilerin güvenilirliği ve 
+doğruluğu ile ilgili fikir alışverişinde bulunarak değerlendirme yapar (OB1). Gruplar sorum-
+lu oldukları araştırmaları sınıf arkadaşlarına sunar (E2.2). Öğrenciler nükleer enerjiye iliş-
+kin toplanan bilgiler üzerinden avantaj ve dezavantajları ile ilgili yargılarını temellendirir 
+ve çıkarımlar yapar (KB3.3, SDB3.3). Öğrencilere nükleer enerjinin elde edilme yöntemi, 
+Türkiye ve diğer ülkelerdeki kullanımının yaygınlığı, ekonomiye katkısı, avantajları ve deza-
+vantajları ile ilgili performans görevi verilerek öğrencilerin rapor hazırlamaları istenebilir.

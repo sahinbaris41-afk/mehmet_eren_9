@@ -1,0 +1,84 @@
+135
+5. Tema/Algoritma ve Bilişim  
+ 5.3.  MANTIK BAĞLAÇLARI VE 
+NİCELEYİCİLERİN ALGORİTMİK 
+PROBLEMLERDE KULLANIMI
+Konuya Başlarken
+Kriptolojinin temel unsurlarından biri olan anahtar değiş tokuşu, iletişim kuran tarafların 
+güvenli bir şekilde şifreleme anahtarları paylaşmalarını sağlar. Bu alanda kullanılan  
+Diffie-Hellman (Difi-Helmın) yöntemi, güvenli olmayan kanallar aracılığıyla bir ortak 
+gizli anahtar oluşturulmasına olanak tanır. Diffie-Hellman anahtar değiş tokuşu yöntemi, 
+şifreleme protokollerinin temelini oluşturarak siber saldırılara karşı koruma sağlar ve 
+hassas verilerin korunmasına yardımcı olur. Bu nedenle gelişmiş şifreleme yöntemlerinin 
+anlaşılması ve uygulanması, ülkemizin siber altyapısını güçlendirmek ve ulusal güvenlik 
+seviyesini artırmak için hayati öneme sahiptir.
+Diffie-Hellman anahtar değiş tokuşu yönteminde asal sayılar, üslü gösterimler ve kalan 
+bulma gibi matematiksel yapılar kullanılır. Bu durum karşılıklı mesajlaşma sırasında Uğur 
+ve Elif’in cihazlarının iletişim güvenliği için kullandığı Diffie-Hellman anahtar değiş tokuşu 
+algoritmasının işleyişine ilişkin akış şemasıyla aşağıdaki gibi örneklendirilebilir. 
+Başla
+Asal	sayıyı	(p),	üslü	gösterimin	tabanını	(g)	
+ve	özel	anahtar	değerlerini	(a,	b)	belirle
+Hayır
+Bitir
+EvetGüvenli	iletişim	
+kurulmaz
+Güvenli	iletişim	
+kurulur
+ue=
+%%
+%%
+Ag p
+Bg p
+31 7
+31 7
+a
+b
+5
+7
+==
+==
+%% %
+%% %ug p
+eg p
+31 73 17
+31 73 17
+b a
+a b
+7 5 35
+5 7 35
+== =
+== =
+_
+_
+_
+_
+i
+i
+i
+i
+A	değerini	Elif ’in	cihazına, 
+B	değerini	Uğur’un	cihazına	gönder
+Örneğin	p1 7= ,	g3= ,	Uğur’un	cihazının	özel	
+anahtar	değeri	a5= 	ve	Elif’in	cihazının	özel	 
+anahtar	değeri	b7= 	olsun.
+Cihazlar	bir	önceki	adımda	hesaplanan	 
+A	ve	B	değerlerini	birbirlerine	gönderir .
+Her	cihaz	gizli	anahtar	değerini	hesaplar.	 
+Burada	Uğur’un	gizli	anahtar	değeri	u,	 
+Elif’in	gizli	anahtar	değeri	e	dir.
+Elde	edilen	ortak	gizli	anahtar	değerleri	
+eşit	ise	iletişim	güvenli	bir	şekilde	 
+devam	eder.	 
+Burada	ue= 	olduğundan	 
+güvenli	iletişim	kurulur.
+Uğur’un	cihazı	A	değerini,	Elif ’in	cihazı	B	değerini	 
+g	nin	üssünü	alıp	sonucun	p	ye	bölümünden	kalanı	 
+(%p)	bularak	hesaplar.
+Buna göre aşağıdaki soruları cevaplayınız ve fikirlerinizi arkadaşlarınızla paylaşınız.  
+1. Diffie-Hellman anahtar değiş tokuşu yönteminin güvenli iletişim sağlamada üstlendiği 
+rolü açıklayınız.
+2.  Diffie-Hellman anahtar değiş tokuşu yönteminde asal sayı ve taban seçiminin önemini 
+açıklayınız. 
+3. Uğur ve Elif’in cihazları hangi matematiksel işlemleri gerçekleştirerek ve mantık 
+bağlaçlarını kullanarak iletişim kurmaya devam eder?

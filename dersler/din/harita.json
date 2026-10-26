@@ -1,0 +1,502 @@
+{
+ "ders": "din",
+ "ders_adi": "Din Kültürü ve Ahlak Bilgisi",
+ "sinif": 9,
+ "haftalik_saat": 2,
+ "kaynaklar": {
+  "yillik_plan": null,
+  "ksdt_1donem": "kaynaklar/meb/ortak_sinav/konu_soru_dagilim_2026_2027_1donem/dkab_lise2.xlsx",
+  "ders_kitabi_metin": [
+   "kaynaklar/meb/din/metin/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185509_939"
+  ],
+  "haftalik_saat": "TTKB 09/05/2025 Anadolu Lisesi Haftalık Ders Çizelgesi"
+ },
+ "aciklama": {
+  "yazili": "1D1Y/1D2Y/2D1Y/2D2Y. 'KSDT' kaynaklılar resmî tablodan, diğerleri plan haftasından tahmin. Yönetmelik 45/1-d gereği her yazılı önceki konuları da azalan oranda kapsar.",
+  "kitap": "basili_* kitabın üzerinde yazan sayfa; pdf_baslangic metin klasöründeki sNNNN.txt numarası. Eşleşme içindekiler sayfasına kelime benzerliğiyle yapıldı."
+ },
+ "uretim": {
+  "arac": "tools/harita_uret.py",
+  "tarih": "2026-10-26"
+ },
+ "dogrula": [
+  "Yıllık plan BULUNAMADI (tymm.meb.gov.tr taslak çerçeve planlarında yok); hafta bilgisi yok.",
+  "Konular yalnızca 1. dönem KSDT'sinden alındı; 2. dönem konuları ders kitabı/öğretim programından eklenmeli."
+ ],
+ "uniteler": [
+  {
+   "id": "din-u1",
+   "ad": "ALLAH-İNSAN İLİŞKİSİ",
+   "konular": [
+    {
+     "id": "din-u1-k1",
+     "ad": "İnsan ve İnsanın Yaratılışı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.1.1",
+       "metin": "İnsanın yaratılışını ve özelliklerini ayetlerden hareketle müşahede edebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/din/metin/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185509_939",
+      "basili_baslangic": 12,
+      "pdf_baslangic": 12,
+      "basili_bitis": 45,
+      "eslesme_puani": 0.67
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D1Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        1,
+        2,
+        1,
+        2,
+        2
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası zayıf eşleşme (kapsama 0.67)"
+     ]
+    },
+    {
+     "id": "din-u1-k2",
+     "ad": "Doğruyu Arayan Bir Varlık Olarak İnsan",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.1.2",
+       "metin": "İnsanın doğruyu arayan bir varlık olarak bilgiye ulaşma yolları hakkında eleştirel düşünebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        1,
+        1,
+        2,
+        2,
+        2
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "din-u1-k3",
+     "ad": "İbadet ve Dua Eden Bir Varlık Olarak İnsan",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.1.3",
+       "metin": "Allah (cc) ile iletişimin ibadet ve dua ile sağlandığını yansıtabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "din-u1-k4",
+     "ad": "Kur’an’dan Mesajlar",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.1.4",
+       "metin": "Rum suresinin 17-27. ayetlerinin mesajlarını anlamada temel kaynakları kullanabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        1,
+        1,
+        1,
+        0,
+        1
+       ]
+      ],
+      "1D2Y": [
+       [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "din-u2",
+   "ad": "İSLAM’DA İNANÇ ESASLARI",
+   "konular": [
+    {
+     "id": "din-u2-k1",
+     "ad": "İman ve İmanın Mahiyeti",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.2.1",
+       "metin": "İmanın mahiyetini müşahede edebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/din/metin/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185509_939",
+      "basili_baslangic": 46,
+      "pdf_baslangic": 46,
+      "basili_bitis": 60,
+      "eslesme_puani": 1.0
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D1Y",
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D1Y": "KSDT",
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        1,
+        1,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        1,
+        1,
+        2,
+        1,
+        2
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": []
+    },
+    {
+     "id": "din-u2-k2",
+     "ad": "İslam’da İman Esasları",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.2.2",
+       "metin": "İslam’ın iman esaslarını ayet ve hadisler bağlamında özetleyebilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    },
+    {
+     "id": "din-u2-k3",
+     "ad": "İmanın Bireye ve Topluma Kazandırdıkları",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.2.3",
+       "metin": "İmanın bireye ve topluma kazandırdıklarını idrak edebilme"
+      }
+     ],
+     "kitap": {
+      "dosya": "kaynaklar/meb/din/metin/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185509_939",
+      "basili_baslangic": 61,
+      "pdf_baslangic": 61,
+      "basili_bitis": null,
+      "eslesme_puani": 0.75
+     },
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+     ]
+    },
+    {
+     "id": "din-u2-k4",
+     "ad": "Kur’an’dan Mesajlar",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.2.4",
+       "metin": "Bakara suresinin 177. ayetindeki mesajları anlamak için Kur’an-ı Kerim meallerine başvurabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "din-u3",
+   "ad": "İSLAM’DA İBADETLER",
+   "konular": [
+    {
+     "id": "din-u3-k1",
+     "ad": "İslam’da İbadetin Kapsamı",
+     "ogrenme_ciktilari": [
+      {
+       "kod": "DKAB.9.3.1",
+       "metin": "İslam’da ibadet ve ibadetin temel ilkeleri hakkında bilgi toplayabilme"
+      }
+     ],
+     "kitap": null,
+     "haftalar": [],
+     "hafta_metin": null,
+     "ders_saati": 0,
+     "yazili": [
+      "1D2Y"
+     ],
+     "yazili_kaynak": {
+      "1D2Y": "KSDT"
+     },
+     "ksdt_senaryo_soru": {
+      "1D1Y": [
+       [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      ],
+      "1D2Y": [
+       [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+       ]
+      ]
+     },
+     "ortak_sinav": {
+      "okul_geneli_ksdt": true,
+      "ulke_geneli": false
+     },
+     "dogrula": [
+      "kitap sayfası içindekilerden eşlenemedi"
+     ]
+    }
+   ]
+  }
+ ]
+}

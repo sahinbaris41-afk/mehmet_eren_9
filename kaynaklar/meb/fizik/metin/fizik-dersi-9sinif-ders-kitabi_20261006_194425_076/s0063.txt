@@ -1,0 +1,35 @@
+63
+KUVVET VE HAREKET
+5. Alıştırma
+Aşağıdaki tabloda zamanın skaler nicelik olmasının yanı sıra temel nicelik olduğu “X” işareti ile belirtilmiştir. 
+Diğer fiziksel nicelikleri skaler, vektörel, temel veya türetilmiş nicelik olarak belirleyiniz ve ilgili 
+alanı örnekteki gibi işaretleyiniz. Tablodaki verilerden yararlanarak skaler, vektörel, temel ve türe-
+tilmiş nicelikler sınıflandırması hakkındaki çıkarımlarınızı kısaca yazınız.
+Fiziksel Nicelik Skaler Nicelik Vektörel Nicelik Temel Nicelik Türetilmiş Nicelik
+Zaman X X
+Sıcaklık
+Uzunluk
+Hacim
+Hız
+Kütle
+Kuvvet
+Yoğunluk
+Enerji
+Çıkarımlarım
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+Karekoddan yararlanarak skaler ve vektörel niceliklerle ilgili etkileşimli içeriğe ulaşabilirsiniz.
+ 
+Kontrol Noktası
+Aşağıdaki tabloda verilen fiziksel nicelikler, skaler ve vektörel nicelik olarak sınıflandırılmıştır.
+Fiziksel Nicelikler
+Skaler Nicelikler: Bir sayı ve bir birimle ifade 
+edilebilen niceliklerdir.
+Vektörel Nicelikler: Bir sayı ve bir birimin yanın­
+da yönünün de belirtilmesi gereken niceliklerdir.
+Kütle Kuvvet 
+Sıcaklık Hız
+Y oğunluk
+Hacim
+Uzunluk
+Enerji
+Zaman

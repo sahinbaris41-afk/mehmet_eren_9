@@ -1,0 +1,48 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+21
+2.5. BAĞLAM TEMELLİ SORU Y AZIMINDA SIK Y APILAN HA TALARA 
+ÖRNEKLER
+2.5.1. Bağlam Hataları
+Aşağıdaki tablo, soru yazım sürecinde sıkça karşılaşılan bağlam kaynaklı kurgusal hataları önlemek 
+amacıyla hazırlanmıştır. Tabloda hatalı ve doğru yaklaşımlar kurgusal örnekler üzerinden açıklanarak 
+karşılaştırılmıştır.
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM 
+Bir soru metninde “küresel ısınma” anlatılmasına 
+rağmen sorunun “Aşağıdakilerden hangisi bir sera 
+gazıdır?” şeklinde olması
+•  Soruyu cevaplamak için metni okumaya gerek 
+yoktur, bağlam işlevsizdir.
+Sorunun çözümü için bağlamda sunulan grafikteki 
+“yıllık sıcaklık artış oranının” incelenmesi ve yorum -
+lanmasının ölçülmesi
+• Cevap doğrudan bağlama dayalıdır.
+Sorunun çözümü için gereken tüm bilgilerin doğru -
+dan metinde verilmesi
+•  Bu durum, ilgili kazanımı veya alan bilgisini değil 
+yalnızca Türkçe okuma-anlama becerisini ölçer.
+Bağlamda bir olay tasvir edilip (örneğin gökkuşa -
+ğının oluşumu) soru kökünde ise bu olayın bilimsel 
+nedeninin (ışığın kırılması/ tam yansıma) sorulması
+•  Öğrenci bağlamı ve alan bilgisini kullanarak ceva -
+ba ulaşır.
+“Ayşe markete gitti, 3 × 2 + 5 ekmek aldı.” gibi ifade -
+lerin kullanılması
+•  Hayatın olağan akışına aykırı, zorlama ve yapay bir 
+kurgudur.
+“Ayşe, marketteki farklı gramajlardaki ürünlerin bi -
+rim fiyatlarını karşılaştırarak ekonomik bir tercih 
+yapmak istemektedir.” kurgusunun kullanılması
+• Karşılaşılabilecek gerçek bir problem durumudur.
+”Bir aracı kurumda VİOP (Vadeli İşlem ve Opsiyon Pi -
+yasası) hesabı açan Mert, spot piyasa yerine türev 
+piyasaları tercih etmektedir.” gibi spesifik bir alan 
+bilgisi içeren senaryoların kullanılması
+• Sadece belirli bir sosyoekonomik grubun aşina ol -
+duğu, fırsat eşitliğini zedeleyen senaryolardır.
+“Ayşe, odasını yeniden düzenlemek istemekte ve 
+odanın 1/100 ölçekli bir planını çizmektedir...”  ya 
+da “Ayşe, bir tarif için gereken malzeme miktarlarını 
+4 kişilik yerine 10 kişilik olacak şekilde yeniden he -
+saplamaktadır...” gibi durumların kullanılması
+•  Öğrencinin okulda veya günlük yaşamda karşıla -
+şabileceği, kapsayıcı durumlar kurgulanır.

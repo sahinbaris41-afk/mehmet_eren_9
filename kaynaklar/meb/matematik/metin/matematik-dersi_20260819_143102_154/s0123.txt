@@ -1,0 +1,23 @@
+123
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+7. TEMA: VERİDEN OLASILIĞA
+Bu temada öğrencilerin olayların olasılığını koşullu olasılık ile belirleyebilmeleri ve Bayes 
+teoreminin kullanıldığı gerçek yaşam problemlerini inceleyebilmeleri amaçlanmaktadır.     
+DERS SAATİ 18
+ALAN 
+BECERİLERİ -
+KAVRAMSAL 
+BECERİLER KB2.10. Çıkarım Yapma, KB2.12. Mevcut Bilgiye/Veriye Dayalı Tahmin Etme
+EĞİLİMLER E1.1. Merak, E3.1. Muhakeme, E3.7. Sistematiklik, E3.10. Eleştirel Bakma
+PROGRAMLAR ARASI
+BİLEŞENLER
+Sosyal-Duygusal 
+Öğrenme Becerileri SDB1.1. Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), 
+SDB2.1. İletişim, SDB2.2. İş Birliği, SDB3.1. Uyum, SDB3.2. Esneklik, 
+SDB3.3. Sorumlu Karar Verme
+Değerler D12. Sabır, D13. Sağlıklı Yaşam, D14. Saygı, D17. Tasarruf
+Okuryazarlık Becerileri OB2. Dijital Okuryazarlık, OB3. Finansal Okuryazarlık
+DİSİPLİNLER ARASI 
+İLİŞKİLER Bilişim Teknolojileri ve Yazılım, Biyoloji, Coğrafya, Ekonomi
+BECERİLER ARASI 
+İLİŞKİLER MAB3. Matematiksel Temsil, MAB5. Matematiksel Araç ve Teknoloji ile Çalışma

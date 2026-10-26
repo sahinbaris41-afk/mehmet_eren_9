@@ -1,0 +1,51 @@
+2. ÜnİTE: MEKÂ n SAL B İ LG İ  TEK n OLOJ İ LER İ
+41
+1. Silindirik Projeksiyon 
+Bu projeksiyon yönteminde üzerine 
+iz düşümü yapılacak yüzey, yerküreyi 
+silindir biçiminde sarar. Silindirik pro-
+jeksiyon yöntemiyle çizilen dünya hari-
+talarında Ekvator çevresinde bozulma 
+azdır. Kutuplara doğru şekil ve alan 
+bozulmaları artar (Görsel 2.3).    
+2. Konik Projeksiyon
+Bu projeksiyon yönteminde üzerine 
+iz düşümü yapılacak yüzey, yerküreyi 
+koni biçiminde sarar. Konik projeksiyon 
+yönteminin kullanıldığı haritalarda orta 
+kuşakta bozulma azdır. Orta enlem-
+lerden Ekvator’a ve kutuplara doğru 
+haritadaki şekil ve alan bozulmaları  
+artar (Görsel 2.4).    
+3. Düzlem Projeksiyon 
+Bu projeksiyon yöntemine göre hari-
+tası çizilecek yüzey, genellikle kutup 
+noktasına düz olarak yerleştirilir. Düz-
+lem projeksiyon yönteminin kullanıldığı 
+haritalarda kutup noktalarından Ekva-
+tor’a doğru bozulma artar. Bu yöntem, 
+daha çok kutup çevresinin gösterildiği 
+haritalarda kullanılır (Görsel 2.5).   
+Bir grup bilim insanı; küresel iklim değişikliğinin Grönland, Kanada ve Alaska’da deniz seviyesi, buzullar ve 
+canlı yaşamı üzerindeki etkileriyle ilgili araştırma yapmıştır. Söz konusu araştırmacılar, yaptıkları çalışma so-
+nunda doğadaki değişimleri saptayarak çalışma alanının haritasını en az hatayla çizmek istemişlerdir.
+Aşağıdaki soruları paragrafta ifade edilenlere göre cevaplayınız.
+1.
+ Çizilecek harita için pr
+ojeksiyon yöntemi seçilirken hangi ölçüt dikkate alınmalıdır?
+  
+...................................................................................................................................................................................................................................... 
+.......................................................................................................................................................................................................................................
+2. Çalışmada çizilecek harita için hangi pr ojeksiyon tercih edilmelidir?   
+......................................................................................................................................................................................................................................
+3. T ercih edilen harita projeksiyonunun avantajları nelerdir?   
+...................................................................................................................................................................................................................................... 
+......................................................................................................................................................................................................................................
+Coğrafi koordinatları haritaya aktarmak ve haritalarda meydana gelen bozul-
+maları en aza indirmek için kullanılan yöntemlere projeksiyon yöntemleri adı 
+verilir. Projeksiyon yüzeyine göre üç çeşit projeksiyon yöntemi vardır.
+Görsel 2.3: Silindirik projeksiyon
+Görsel 2.4: Konik projeksiyon
+Projeksiyon Yöntemi Belirliyorum
+UYGULAMA
+Görsel 2.5: Düzlem projeksiyon

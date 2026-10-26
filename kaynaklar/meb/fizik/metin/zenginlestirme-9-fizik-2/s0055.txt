@@ -1,0 +1,37 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+54 55
+FİZİK 9 
+ÜNITE 3: AKIŞKANLAR
+Etkinliğin Amacı Etkinlik öğrencilerin, Torricelli deneyine benzer bir sistem tasarlayarak 
+sıvıların basınç ve yüksekliğini hesaplamasını, pompa kullanımını analiz 
+etmesini ve mühendislik prensipleriyle yeni ürünler tasarlamasını amaçla -
+maktadır.
+Zenginleştirme 
+Uygulaması
+Öğrencilerden Torricelli (Toriçelli) deneyine benzer bir sistem tasarlamaları 
+istenebilir. Su gibi farklı sıvıların Torricelli deneyinde kullanılması durumun-
+da sıvı yüksekliğini hesaplamaları istenebilir. Bununla ilişkili olarak yüksek 
+bina larda üst katlara suyun ulaştırılması ile pompa kullanımını ilişkilendire-
+rek sınıfta paylaşmaları istenebilir.
+Araç Gereç ve 
+Materyaller
+• Cıva, cıva haznesi, cam boru (deney için)
+• Cetvel (cm) ve ölçüm silindiri
+• Kâğıt ve kalem (not almak için)
+• Grafik kâğıdı (veri analizi ve çizimler için)
+• Araştırma için internet erişimi, kütüphane kaynakları gibi materyaller
+2. ETKİNLİK ADI AKIŞKAN BASINCININ UYGULAMALARI
+1. Adım: Etkinliğe Giriş
+ ♦ Öğrencilere “Geçmişte yüksek bölgelerde ve su kaynaklarından uzakta yaşayan insanlar suya nasıl erişir-
+di?” sorusunu yöneltiniz ve onların düşüncelerini tahtaya not ediniz.
+ ♦ Suya erişim problemlerinin emme basma tulumba gibi basit mekanizmalarla nasıl çözüldüğünü öğrenci-
+lere örneklerle açıklayınız.
+2. Adım: Uygulama
+ ♦ Aşağıda Torricelli deneyinin değişkenleri verilmiştir. Bu değişkenleri tahtaya yazarak öğrencilerin 
+defterlerine not almalarını sağlayınız.
+a Deneyde kullanılan sıvının yoğunluğu
+b Deneyde kullanılan borunun içinde havanın bulunup bulunmadığı
+c Deneyin yapıldığı sıcaklık
+ç Deneyin yapıldığı yerin deniz seviyesinden yüksekliği
+d Deneyin yapıldığı ortamdaki yer çekimi ivmesi
+Torricelli Deneyinin Değişkenleri

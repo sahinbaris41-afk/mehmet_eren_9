@@ -1,0 +1,52 @@
+82
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+istenebilir. Evsel atık miktarının ve ortam sıcaklığının üretilen yeşil hidrojen gazı miktarı -
+na etkisine yönelik hipotez oluşturmaları da istenebilir. Öğrenciler, yeterli süre varsa grup 
+arkadaşlarıyla hipotez oluşturma etkinliklerini gerçekleştirilebilir (SDB2.2). Ders süresinin 
+yeterli olmaması durumunda değişkenler arası ilişkiler için deneysel süreç yapılmayabilir. 
+Süreç, hipotez oluşturma ve planlama şeklinde de gerçekleştirilebilir. Öğrenciler, bu per-
+formans görevi çerçevesinde evsel atıklardan fermantasyon ile yeşil hidrojen elde etmeye 
+ilişkin tasarladığı deneyin uygulama basamaklarını gösteren, yaptıkları deneyin sonuçlarını 
+ve bu sonuçlara göre yapılabilecekleri içeren bir rapor hazırlayabilir  (SDB3.3, OB6). Ça-
+lışma öncesinde öğrencilerden bir form aracılığıyla konu ile ilgili ön bilgilerinin neler oldu -
+ğunu, deney sürecinde neyi öğrenmeyi beklediğini, ne tür stratejiler kullanacağını ve bu 
+süreçte neler hissedebileceğini belirlemeleri istenebilir (SDB1.1). Ayrıca öğrencilerden öz 
+değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya ulaşma durumunu, bu 
+süreci kolaylaştıran davranışlarını ve bu süreçte neleri daha farklı yapabileceğini belirle -
+meleri istenebilir (SDB1.2, SDB1.3). 
+KİM.11.3.2 
+Etkinlik kâğıdında sağlık, teknoloji, tekstil, gıda gibi çeşitli alanlarda kullanılan nanotekno-
+lojik ürünlere örnekler verilir ve bu ürünlerin özellikleri, kullanım amaçları ve sağladıkları 
+yararlara ilişkin kısa tanıtıcı bilgiler sunulur. Etkinlik kâğıdında nanoteknolojik ürünlerin 
+çevresel etkileri hakkındaki haberlere ve bilimsel verilere de yer verilir. Gelişmelerin takip 
+edilmesinin çalışkanlık değerine katkısını fark etmeleri sağlanır (D3.3). Öğrencilerden ve-
+rilen bilgileri ve görselleri kullanarak nanoteknolojik ürünlerin faydalarının neler olduğunu 
+ve olası zararlarının neler olabileceğini belirlemeleri istenir (E3.7, OB1, OB4). Grup çalışma-
+sıyla öğrencilerin nanoteknolojik ürünlerin potansiyel faydalarını ve olası zararlarını kanıt-
+larla destekleyerek sorgulamaları sağlanır (E3.10, SDB2.2). Ardından öğrencilerden nano-
+teknolojik ürünlerin sağlık, etik, güvenlik ve sürdürülebilirlik açılarından etkileri hakkında 
+akıl yürütmeleri istenerek sağlıklı yaşam ve duyarlılık değerlerine vurgu yapılır (KB2.16.1, 
+SDB2.3, D5.2, D13.4, OB7). Öğrenciler nanoteknolojik ürünler temelinde ya da daha genel 
+bir bakış açısıyla ulaştıkları çıkarımları etkinlik kâğıdında veya sınıf içi tartışmalarında yan-
+sıtır. Öğretmen, grupların ya da bireysel görüşlerin yansıtıldığı sınıf içi tartışma sürecinde 
+görüş bildirmeden ulaşılan tüm çıkarımları dinler ve çıkarımların altında yatan nedenleri 
+irdeler (KB2.14). Öğrenciler, sosyobilimsel konular arasında sayılabilecek nanoteknolo -
+jik ürünlerin sentezi ve kullanımı konusunda çok farklı fikirler üretebilir ve farklı görüşleri 
+savunabilir. Bu savunmaların saygı değeri çerçevesinde olması sağlanır (D14.1, SDB2.1). 
+Öğrenciler arasında nanoteknolojik ürünlerin üretilmesi gerektiğini düşünenler olabilece-
+ği gibi sadece sağlık sektörü gibi belirli alanlarda kullanılmak üzere üretilmesi gerektiğini, 
+diğer alanlarda kullanılmaması gerektiğini düşünenler de olabilir. Bu süreçte eleştirel dü-
+şünme becerilerini desteklemek için öğrencilerden fikirlerine ilişkin birden fazla gerek -
+çe sunmaları istenebilir (SDB3.3). Öğrencilere ders öncesi ve sonrasında nanoteknolojik 
+ürünlerin olası fayda ve zararları hakkında değişen görüşlerini özetlediği bir yansıtma notu 
+yazdırılabilir (SDB1.1, OB8).
+KİM.11.3.3 
+Öğrencilere pandemi sürecinde kullandıkları maskeler hakkında sorular yöneltilir ve bu 
+maskelerden plastik içerikli olanları belirlemeleri istenir. Bu maskeleri kullanırken mas -
+kelerden plastik parçaların kopma ihtimalinin olup olmadığı ve kopan parçaların solunum 
+sisteminde birikme ihtimalinin olup olmadığı sorularak öğrencilerin sağlıklı yaşam değeri 
+kapsamında yorum yapmaları istenir (D13.4). Ayrıca çevreye atılmış plastik içerikli mas -
+kelerin çevreye etkilerinin neler olabileceği sorularak öğrencilerin çevresel temizliğe 
+önem vermeleri sağlanır (D18.3). Öğrencilerden tek kullanımlık plastik içerikli polipropilen 
+maske örneğinden yola çıkarak mikroplastik ve nanoplastiklerin etkilerine ilişkin merak 
+ettikleri bir konuyu belirleyerek araştırmaları istenir. Benzer ya da aynı konuyu merak eden

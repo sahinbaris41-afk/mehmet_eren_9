@@ -1,0 +1,24 @@
+124
+MATEMATİK 9 
+7. TEMA: VERİDEN OLASILIĞA
+1. Adım
+Etkinlik adımlarında verilen olasılık deneylerinde olası tüm çıktıları belirlemek amacıyla görselleştirme 
+araçlarından biri seçilmiştir. Adımları sırasıyla uygulayınız ve seçilmiş görselleştirme araçlarını (tablo, 
+sistematik liste, ağaç şeması yöntemleri) kullanarak olasılık sorularını yanıtlayınız. 
+Aşağıdaki görselde yüzeylerinde 1, 2, 3 ve 4 sayılarının yazılı olduğu iki adet düzgün dörtyüzlü verilmiştir.
+Düzgün dörtyüzlülerin aynı anda havaya atılması deneyinde zemine temas eden yüzeyler için olası tüm 
+çıktıları belirlemek amacıyla tablo yöntemi seçilmiştir. 
+Aşağıda verilen tabloyu tamamlayınız ve tablodaki verileri kullanarak soruları yanıtlayınız.
+Etkinlik Aşaması
+3 32 2
+4 4
+Düzgün Dörtyüzlüler 1 2 3 4
+1 (1,1) (1,2) (1,3) (1,4)
+2 (2,1)
+3
+4 (4,4)
+a.  Görselleştirme aracı olarak seçilen tablo yönteminin sağladığı kolaylıkları grup içinde değerlendiriniz. 
+b.  Düzgün dörtyüzlülerin havaya atılması deneyinde zemine temas eden yüzeylerdeki sayıların top -
+lamlarının asal sayı olması olayının olası tüm çıktılarını belirleyiniz ve olasılık değerini hesaplayınız.
+Çözüm:
+Çözüm:

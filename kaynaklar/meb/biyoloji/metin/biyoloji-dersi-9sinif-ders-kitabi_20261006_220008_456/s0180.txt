@@ -1,0 +1,20 @@
+180
+9.1.8. DENEY TASARLAMA FORMU
+Öğrencinin
+Numarası:           
+Adı ve Soyadı: 
+Deneyin Süresi: 
+Deneyin Amacı: 
+DENEYİN UYGULANMASI
+Problemin Belirlenmesi: 
+Hipotez Kurma: 
+Tahmin Etme: 
+Yöntemin Belirlenmesi: 
+Değişkenlerin Belirlenmesi: 
+Materyallerin Belirlenmesi :
+Tasarlanan Deneyin Çizilerek Gösterilmesi /Deneyin Yapılması
+Bulguların Yazılması (Deney yapılmışsa): 
+Deneyin Sonucu (Deney yapılmışsa): 
+Deneyin Değerlendirilmesi/Tartışma (Deney yapılmışsa): 
+NOT: Bulgular tablo ve grafiklerle ifade edilebilir.
+FORM 18

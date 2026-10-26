@@ -1,0 +1,46 @@
+35
+1. Tema /  Sayılar
+13411  olduğundan 3 sayısı 4’e daha yakındır. Buradan 3  sayısı 2’ye daha yakın olduğundan  
+1,5 ile 2 arasındadır.
+,15 322 2 211_ _i i  ise ,22 53411  eşitsizliğinde 3 sayısı 2,25 sayısına daha yakın olduğundan 
+3  sayısı 1,5 ile ,, ,215 2 235 17 5+ ==  arasındadır.
+,,15 31 752 2 211_ _ _i i i  ise ,,22 533 062511  eşitsizliğinde 3 sayısı 3, 0625’e daha yakın oldu -
+ğundan 3  sayısının yaklaşık değeri 1,75’tir.
+Buradan ,31 75.  olur. 
+Arazinin bir kenarının uzunluğu, ,m20 32 01 75 35$. =  bulunur. Buradan arazinin çevre uzunluğu 
+yaklaşık olarak m43 51 40$ =  bulunur.
+Ahmet Bey’in 1405 28' =  adet panel alması gerekmektedir.
+Ahmet Bey, bu işi yaklaşık olarak en az 60028 170 04 7$ =  Türk lirası harcayarak tamamlayabilir.
+m, n, k pozitif tam sayı; m ≥ 2, n ≥ 2; x, y pozitif gerçek sayı ve a, b, c gerçek sayı olmak üzere
+• ax bx xa bc x+-nn nnc+- = _i
+• xy xyn nn$$ =
+• 
+y
+x
+y
+x
+n
+n
+= n
+• xxnm mn= $
+• xxmn mknk= $$ x k
+mk
+n
+=  (m ve n, k nin tam katıdır.)
+• xx x =$
+• xy xy xy=$-+ -aa kk  eşitlikleri vardır.
+Kontrol Noktası
+Araştırma	Ödevi
+Aşağıda verilen adımları gerçekleştirerek araştırma ödevini zamanında ve 
+eksiksiz tamamlayınız.
+• Fizik, kimya ve biyoloji derslerinde üslü ve köklü gösterimlerin kullanıldığı 
+durumları araştırınız. 
+• Astronomide, mühendislikte üslü ve köklü gösterimlerin kullanıldığı du-
+rumları araştırınız. 
+• Elde ettiğiniz bilgileri rapor hâline getirerek sınıf arkadaşlarınızla payla -
+şınız.
+Ödeviniz, derecelendirme ölçeği ile öğretmeniniz tarafından değerlendiri -
+lecektir.
+Derecelendirme 
+ölçeğine ulaşmak için 
+karekodu okutunuz.

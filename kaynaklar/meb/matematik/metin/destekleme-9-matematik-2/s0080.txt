@@ -1,0 +1,51 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+79
+4. TEMA: EŞLİK VE BENZERLİK
+2. Adım
+İlk adımda öğrendiğiniz benzerlik koşullarını kullanarak aşağıdaki üçgen çiftlerini inceleyiniz. Üçgenler 
+eş veya benzerse  Açı-Açı , Kenar-Açı-Kenar veya Kenar-Kenar-Kenar koşullarından hangisiyle eşlik 
+veya benzerliğin sağlandığını belirleyiniz ve örnekteki gibi açıklayınız.
+Üçgen Eşlik - Benzerlik Durumu Üçgen Eşlik - Benzerlik Durumu
+A DB E
+C F
+A
+B
+C
+E
+D
+F
+P
+K
+M S M
+N
+Q
+T
+Q
+F
+B E X
+W Y
+ZC DA
+R
+R
+S
+T
+Q
+TU
+E
+F J
+G
+H
+S
+V
+F
+R
+G
+K
+L
+J
+İki açısı eş olan üçgenle-
+rin diğer açısı da eştir.
+Açı-Açı benzerliği
+ABC~DEF
+L H
+△ △

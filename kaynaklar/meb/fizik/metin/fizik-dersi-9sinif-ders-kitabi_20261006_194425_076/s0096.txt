@@ -1,0 +1,77 @@
+96
+2. ÜNİTE 
+2. A noktasından B noktasına giden aracın hareketi 40 s sürmüştür ve sürati 6 m/s’ dir. K noktasından L nok­
+tasına giden aracın hareketi 30 s sürmüştür ve sürati 5 m/s’ dir. Araçların hareket süreleri ve aldıkları yollar 
+arasındaki ilişkiden yararlanarak sürat kavramını tanımlayınız. 
+Sürat
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+VI. Aşama
+Sürat göstergeleri km/h olarak ayarlanmış hareket hâlindeki bir aracın I, II, III ve IV numaralı otoyollardaki sürat 
+göstergelerinin anlık görüntüleri aşağıda verilmiştir. Ortalama sürat kavramının tanımına ulaşmak için sürat gös­
+tergelerini inceleyiniz. 
+I numaralı otoyoldaki
+sürat göstergesi
+III numaralı otoyoldaki
+sürat göstergesi
+IV numaralı otoyoldaki
+sürat göstergesi
+II numaralı otoyoldaki
+sürat göstergesi
+20
+40
+60
+80
+100120 140
+160
+180
+200
+220
+2400
+20
+40
+60
+80
+100120 140
+160
+180
+200
+220
+2400
+20
+40
+60
+80
+100120 140
+160
+180
+200
+220
+2400
+20
+40
+60
+80
+100120 140
+160
+180
+200
+220
+2400
+1. Göstergelere göre aracın I, II, III ve IV numaralı otoyollardaki sürati kaç km/h’tir? 
+I numaralı otoyolda:  
+II numaralı otoyolda:  
+III numaralı otoyolda:  
+IV numaralı otoyolda:  
+2. Araç; sabit sürat ile I numaralı otoyolda 0,5 h, II numaralı otoyolda 1,5 h, III numaralı otoyolda 3 h, IV nu­
+maralı otoyolda 1 h hareket etmiştir. Aracın I, II, III ve IV numaralı yollarda aldığı yol kaç km’ dir? 
+I numaralı otoyolda:  
+II numaralı otoyolda:  
+III numaralı otoyolda:  
+IV numaralı otoyolda:  
+3. Aracın tüm hareketi için alınan yol kaç km’ dir? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+4. Araç farklı otoyollarda farklı süratlerle yol almıştır. Bununla birlikte aracın ortalama sürati 85 km/h’ tir. 
+Aracın tüm hareketi boyunca aldığı yol ile sürati arasındaki ilişkiden hareketle ortalama sürat kavramını 
+tanımlayınız. 
+Ortalama Sürat
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       

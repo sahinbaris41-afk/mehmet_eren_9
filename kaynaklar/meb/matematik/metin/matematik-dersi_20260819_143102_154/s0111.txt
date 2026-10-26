@@ -1,0 +1,51 @@
+111
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+lanacağı belirlenir. Böylece öğrencilerin karesel referans fonksiyonun tersinin de fonksiyon olma 
+şartına yönelik bir varsayımda bulunmaları beklenir.  Öğrencilerden doğrusal, karesel ve karekök 
+referans fonksiyonlardan türetilebilen fonksiyonların hangi durumlarda terslerinin de fonksiyon ola-
+bileceği hakkında genellemeler yapmaları ve bu genellemeleri fonksiyonların grafik temsilleri ara-
+sında ilişkiler kurarak karşılaştırmaları beklenir. Öğrenciler karesel, karekök ve rasyonel referans 
+fonksiyonlardan türetilebilen fonksiyonların terslerinin cebirsel temsillerinin birer fonksiyon olma-
+sına ilişkin şartları önerme olarak sunabilmeleri için desteklenir. Karesel ve karekök referans fonk-
+siyonlar ile bu fonksiyonlardan türetilen fonksiyonların tanım kümeleri fonksiyonlar bire bir ve örten 
+olacak şekilde düzenlenerek fonksiyonların terslerinin cebirsel temsilleri elde edilir. Cebirsel temsil 
+elde etme sürecinde karesel fonksiyonlar için tam kareye dönüştürme yöntemi, karekök fonksi-
+yonlarda ise kareköklü ifadeyi eşitliğin bir tarafında yalnız bırakma yöntemi kullanılabilir.Elde edilen 
+önermeler, doğrusal ve karesel fonksiyonların grafik temsilleri üzerinde yapılacak çalışmalarda de-
+ğerlendirilir. Bu kapsamda bir fonksiyonun grafiğinin y = x doğrusuna göre simetriği ile fonksiyonun 
+tersinin grafiği arasındaki ilişkinin incelendiği çalışmalarda matematik yazılımları kullanılır (MAB5). 
+Karesel, karekök ve rasyonel referans fonksiyonlardan türetilen fonksiyonların grafik ya da cebirsel 
+temsili ile bu fonksiyonların ters fonksiyonunun grafik ya da cebirsel temsili arasındaki ilişkilere dair 
+çalışma kâğıdı verilebilir.
+MAT.10.4.6
+Referans fonksiyonlar ve bu fonksiyonlar kullanılarak çözülebilecek veya modellenebilecek prob-
+lemler, mümkün olduğunca geniş bir çerçevede ele alınır. İkinci dereceden bir bilinmeyenli denk-
+lemlerin tarihî gelişim sürecine; bu süreçte rol alan Brahmagupta (Bırahmagupt), Harizmi ve 
+Abdülhamid bin Türk’ün çalışmalarına yer verilerek bu çalışmaların önemi vurgulanır. Böylece öğ-
+rencilerin kültürel mirasa yönelik duyarlı olmaları sağlanır (D14.3). Karesel fonksiyonların kullanımını 
+gerektiren  temel optimizasyon (en iyileme)  problemleri, üretim-tüketim gibi bağlamlarda incelenir. 
+Rasyonel referans fonksiyonun temsil ettiği ters orantılı nicelikler arasından uygun olanlar, problem 
+bağlamlarında ele alınır. Örneğin kâr ve maliyet arasında olabilecek ters orantılı ilişki, rasyonel refe-
+rans fonksiyon veya bu fonksiyondan türetilen fonksiyonlar aracılığıyla modellenebilir (OB3). Rasyo-
+nel referans fonksiyondan türetilen fonksiyonların gerçek yaşam durumlarında ters orantıyla olan 
+ilişkisini incelemek için öğrencilere araştırma ödevi verilebilir.
+Doğrusal, karesel, karekök ve rasyonel referans fonksiyonlardan türetilebilen  fonksiyonlarla 
+“=, <, >, ≤, ≥ ” sembolleri kullanılarak oluşturulan denklem ve eşitsizliklere ilişkin bileşenler 
+belirlenir. Bu bileşenlerin aralarındaki ilişkiler belirlenerek f(x) = 0, f (x) = g(x), f(x) < g(x), 
+f(x) ≤ g(x) gibi denklem ve eşitsizliklerin tanımlanması sağlanır  (E3.6, E3.7). Burada kullanı -
+lan denklem ve eşitsizliklerin cebirsel formları en fazla ikinci dereceden olmalıdır. Problemler 
+sonucunda ulaşılacak ifadelerin tamkareye kolayca tamamlanacak türden olmalarına dikkat 
+edilir. Yukarıdaki referans fonksiyonları içeren problem durumlarından elde edilen denklem ve 
+eşitsizliklerin matematiksel temsilleri arasında (sözel, tablo, grafik, cebirsel) dönüşüm yapı -
+lır (E3.6, E3.7). Bu temsiller arası geçişlerin gösterilebilmesi amacıyla elektronik tablolardan 
+ve matematik yazılımlarından yararlanılır (OB2, MAB5). Öğrencilerin dönüştürülen temsillerin 
+problem bağlamındaki anlamlarını sözel bir dille ifade etmeleri istenir.
+Verilen problem durumlarına ilişkin denklem ve eşitsizliklerin çözümlerine ulaşabilmek için  deneme 
+yanılma, tamkareye tamamlama, fonksiyonun nitel özelliklerinden ve grafik temsilinden yararlanma 
+gibi yöntemler ilişkili biçimde kullanılır. f  karesel bir fonksiyon olmak üzere f(x) < 0 gibi eşitsizliklerin 
+çözüm aralığını bulmak için f  fonksiyonunun grafik incelemesinden yararlanılabileceği gibi fonksiyo-
+nun cebirsel ifadesinin tamkare formundan hareketle elde edilen birinci dereceden çarpanlarından 
+da yararlanılır. Bu bağlamda fonksiyonun cebirsel ifadesinin birinci dereceden çarpanlarının işaret 
+değişimini temsil eden işaret tablosu kullanılır. Verilen farklı problem durumlarında uygun bir stra-
+teji belirlenirken grafiksel veya cebirsel yaklaşımlardan birisinin seçilmesi durumunda diğer yaklaşı-
+mın çözüme veya çözümün kontrolüne getireceği farklı yorumlar da dikkate alınır (SDB3.2). 

@@ -1,0 +1,27 @@
+59
+1. Tema /  Sayılar
+Sayı Kümelerinin Sıralı Olması ve Herhangi İki Sayı Arasındaki 
+Sayıları Belirleme
+Sayı kümelerinin sıralı olması, o kümedeki elemanların birbirleriyle karşılaştırılabilir ve bir düzen içinde 
+sıralanabilir olması anlamına gelir.
+17.	Uygulama
+Sayı Kümelerinin Sıralama Özelliklerini İnceleme
+Aşağıdaki soruları cevaplayınız. 
+1. Doğal sayılar ( N ), tam sayılar (Z ), rasyonel sayılar (Q ) ve gerçek sayılar (R ) kümelerinde sıralama ile ilgili 
+hangi özelliklerin olduğu söylenebilir? Varsayımlarınızı sınıf arkadaşlarınızla saygı çerçevesinde tartışarak 
+oluşturunuz.
+2.  Tabloda bazı sıralama özellikleri verilmiştir. Her sayı kümesi için o kümeden seçeceğiniz a, b, c sayıları ile 
+sıralama özelliklerinin doğruluğunu örneklerdeki gibi gösteriniz. 
+ 
+N Z Q R
+aa# 33# 2-- # 2 52 52# 55#
+ab veya ba##
+ab ve ba isea b.dir## =
+ab ve bc isea c.dir## #
+ab isea cb c.dir## ++
+ab ve 0c isea cb c.dir$$## #
+ab ve 0c isea cb c.dir$$#$ $
+0abv eyaa b0 ise a1 b1 . dir11 11 2
+0ab ise ab dir. n Znn11 1 ! +_i
+Sıralama Özelliği
+Sayı Kümeleri

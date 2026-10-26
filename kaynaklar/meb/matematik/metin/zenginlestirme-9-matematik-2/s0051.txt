@@ -1,0 +1,32 @@
+MATEMATİK 9 
+50 51
+Çözüm:
+2. Adım
+(28,27) sayı çifti diğer çiftlerden daha büyük olmasına rağmen puanlamalı zaman karmaşıklık 
+değeri, beklenmedik şekilde neden düşük çıkmıştır? Grup arkadaşlarınızla tartışarak fikirlerinizi 
+yazınız.
+Öz yinelemeli (rekürsif) algoritmalar, genellikle bir problemin çözümünü kendi çözümünü  
+çağırarak gerçekleştirir. Öklid algoritması, öz yinelemeli algoritmaların klasik bir örneğidir.
+Fibonacci (Fibonaçi) dizisi, her terimin kendinden önceki iki terimin toplanması sonucu elde 
+edilen bir sayı dizisidir. En bilindik Fibonacci dizisi, ilk iki terimi 1 olarak seçildiğinde ortaya çıkan 
+sayı dizisidir.
+1,1, 2, 3, 5, 8, 13, 21, 34, ... şeklinde devam eden bu dizide terimlerin hesaplanması için öz yinele-
+meli algoritma kullanılır.
+3. Adım
+Grup arkadaşlarınızla birlikte, aşağıda verilen algoritmik doğal dil açıklamasını inceleyiniz. İlk iki 
+terimi kullanıcı tarafından 5 olarak girilen ve 10 terime sahip Fibonacci  sayı dizisi oluşturan bu algo-
+ritmanın işleyişini bir akış şemasıyla gösteriniz.
+Bilgi
+Algoritmik Doğal Dil
+1. Adım: Başla
+2. Adım: İlk iki terimin belirlenmesi
+İlk iki terimi 5 olarak belirlenir.
+3. Adım: Fibonacci dizisinin hesaplanması
+Önceki iki terimin toplamı hesaplanır ve yeni terim bulunur.
+Yeni terim = önceki iki terimin toplamı (c = a + b).
+Bir önceki terim güncellenir (a = b).
+İki önceki terim güncellenir (b = c).
+Döngü 8 kez tekrar ettirilir.
+4. Adım: Dizinin yazdırılması
+Fibonacci dizisinin ilk 10 terimi yazdırılır.
+5. Adım: Bitir

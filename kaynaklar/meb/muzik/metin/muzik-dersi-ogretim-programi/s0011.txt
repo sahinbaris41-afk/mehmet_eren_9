@@ -1,0 +1,31 @@
+11
+MÜZİK DERSİ ÖĞRETİM PROGRAMI
+12. SINIF MÜZİK DERSİ
+TEMA Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. MÜZİK DİLİ 1 8 11
+2. MÜZİK KÜLTÜRÜ 6 48 66
+3. MÜZİKSEL TASARIM 1 12 17
+OKUL TEMELLİ PLANLAMA* - 4 6
+TOPLAM 8 72 100
+*Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan çalışmalar (okul dışı öğrenme et -
+kinlikleri, araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma çalışmaları vb.) için ayrı-
+lan süredir. Çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir.
+ÖĞRETMEN KILA VUZ KİTABI FORMA SAYISI** KİTAP EBADI
+HAZIRLIK SINIFI 8-10 19,5 cm X 27,5 cm
+MÜZİK 9 8-10 19,5 cm X 27,5 cm
+MÜZİK 10 8-10 19,5 cm X 27,5 cm
+MÜZİK 11 8-10 19,5 cm X 27,5 cm
+MÜZİK 12 8-10 19,5 cm X 27,5 cm
+** Forma sayıları alt ve üst sınır olarak verilmiştir.
+1.4. MÜZİK DERSİ ÖĞRETMEN KILA VUZ KİTABI KİTAP FORMA SAYILARI VE KİTAP EBATLARI
+11. SINIF MÜZİK DERSİ
+TEMA Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati Yüzde Oranı(%)
+1. MÜZİK DİLİ 3 16 22
+2. MÜZİK KÜLTÜRÜ 5 36 50
+3. MÜZİKSEL TASARIM 2 16 22
+OKUL TEMELLİ PLANLAMA* - 4 6
+TOPLAM 10 72 100

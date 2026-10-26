@@ -1,0 +1,48 @@
+7
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+Temaların içerik çerçevesindeki bir diğer bileşeni “anahtar kavramlar”dır. Her bir temada ayrı ayrı listelenen anahtar kav-
+ramlar, temanın kapsamı hakkında bilgi vermektedir. Temaların ilişkisel yapısına bağlı olarak bazı anahtar kavramlar, farklı 
+sınıf seviyelerinde birden çok temada yer alabilmektedir. İçerik çerçevesinin son bileşeni olan “sembol ve gösterimler” 
+hem öğretmenler hem de farklı içerik geliştiriciler için ortak bir dil oluşturmaktadır. Anahtar kavramlar ile sembol ve gös-
+terimler, öğrenme çıktılarında belirtilen bilgi ve beceri bütünlüğünün bir parçası olarak düşünülmelidir. 
+1.2.6. Öğrenme Kanıtları (Ölçme ve Değerlendirme)
+Ortaöğretim Matematik Dersi Öğretim Programı ’nda öğrencilerin öğrenmelerini destekleyecek ve sistematik olarak öğ -
+rencilere geri bildirim verilebilmesini sağlayacak bir ölçme ve değerlendirme yaklaşımı benimsenmiştir. Bu yaklaşımda 
+öğrencilerin bilgi ve becerilerinin gelişimini izleme ve değerlendirmenin yanı sıra matematiğe yönelik eğilimlerinin, sos -
+yal-duygusal öğrenme becerilerinin, okuryazarlık becerilerinin ve değerlerinin gelişiminin gözlenmesi de programın bü -
+tüncül yaklaşımı açısından önemlidir.     
+Ortaöğretim Matematik Dersi Öğretim Programı ’nda tamamlayıcı ölçme araçları kullanılarak öğrencilere bilgi düzeyleri, 
+eksiklikleri veya kavram yanılgıları hakkında dönütler sağlanması hedeflenmektedir. Bu süreçte kullanılan ölçme araçla-
+rı, geri bildirim esasına dayalı olarak öğrenme-öğretme sürecine yukarıda belirtilen farklı boyutlarda katkıda bulunacak 
+şekilde tercih edilmelidir. 
+Öğretim programının bu bölümünde öğrenme çıktılarına yönelik süreç ve sonuç değerlendirmeleri içeren, öğrenme 
+çıktısında vurgulanan becerileri bütüncül bir yaklaşımla ölçmeyi amaçlayan faaliyetlere ve bu faaliyetlerin değerlendi -
+rilmesine yer verilmiştir. Öğrenme çıktısına ulaşma yolunda uygulanan sürece yönelik ara değerlendirme faaliyetleri ise 
+öğrenme-öğretme uygulamalarında yer almaktadır. Ölçme ve değerlendirme faaliyetlerine yönelik önerilen tüm ölçme 
+ve değerlendirme araçları "öğrenme kanıtları" bölümünde listelenmektedir. Bu ölçme ve değerlendirme araçları öneri ni-
+teliğinde olup paydaşlar öğrenme çıktısı ve içerik çerçevesi ile uyumlu olması koşuluyla farklı ölçme araç ve yöntemlerini 
+kullanabileceklerdir. Bu bölümde istenilen ölçme ve değerlendirme araçlarından en az birinin performans görevi olması 
+esas alınmıştır.
+1.2.7. Öğrenme-Öğretme Yaşantıları
+Yeni öğretim programlarının önemli bileşenlerinden birisi “öğrenme-öğretme yaşantıları”dır. Öğrenme-öğretme yaşantı-
+ları bağlamında ilk olarak “temel kabuller”e yer verilmektedir. Matematiksel bilgiler kendi içinde belli bir hiyerarşiye veya 
+ardıllık-öncüllük ilişkisine sahiptir. Matematik öğrenme ve öğretme sürecinin de matematiğin bu kendine özgü yapısını 
+dikkate alması beklenir. Örneğin tam sayıların anlamlandırılabilmesi için doğal sayıların anlamlandırılması, çarpma işle -
+minin anlamlandırılabilmesi için öncelikle toplama işleminin anlamlandırılması gerekir. Bu noktada temel kabuller bağla-
+mında her bir tema ile ilgili öğrenme ve öğretme faaliyetleri planlanırken öğrencilerin sahip olması gereken ön bilgilerin 
+ve becerilerin neler olduğu belirlenmeli, öğrencilerin bu bilgi ve beceriler bağlamındaki hazır bulunuşlukları değerlendi -
+rilmeli, varsa eksik veya hatalı öğrenmelerinin giderilmesi için uygun çalışmalar planlanmalıdır. Bu süreç, aynı zamanda 
+öğrencilerin temaya sosyal ve duygusal açıdan da hazır olmalarını sağlamak için bir gereklilik olarak görülmelidir. 
+Programda öğrencilerin sahip olması gereken bilgi ve becerilerin yer aldığı ''temel kabuller''in dikkate alınması, öğrenme 
+ve öğretme sürecinin başında “ön değerlendirme” yapılması, öğrencilerin ön bilgileriyle yeni öğrenmeleri arasında bağ -
+lantı kurulması ve öğrenilenlerin günlük hayatla ilişkilendirilmesi amacıyla öğrenmeler arasında “köprü kurulması” gerek-
+mektedir.
+Öğrenme çıktılarının ilgili becerinin süreç bileşenlerine dayalı olarak nasıl uygulanacağını açıklayan “öğrenme-öğretme 
+uygulamaları” bilgi, beceri, eğilim ve değerler bütünlüğü içinde düşünülmelidir. Programda öğrenme-öğretme uygula -
+maları; öğrenme çıktıları, alana özgü beceriler, kavramsal beceriler ve eğilimlerin yanı sıra sosyal-duygusal öğrenme be-
+cerileri, değerler ve okuryazarlık becerileri bütünleştirilerek yapılandırılmıştır. Öğrenme-öğretme uygulamalarında ilgili 
+bağlam temelinde alan becerileri ve kavramsal becerilerin tüm bileşenlerinin ardışık bir şekilde uygulanmasına dikkat 
+edilmelidir. Becerilerin süreç bileşenleri; aynı zamanda bir veya birden fazla beceriyi, eğilim veya değeri destekler ni -
+teliktedir. Temaların öğrenme-öğretme uygulamaları planlanırken becerilerin süreç bileşenlerini zenginleştiren, öğren -
+me-öğretme faaliyetlerinin anlam ve kalıcılığını destekleyen, konuya özgü beceriler, eğilimler ve değerler belirlenerek 
+öğretmenlere bunların uygun şekilde kullanılması ile ilgili göstergeler sunulmuştur. Becerilerin süreç bileşenlerine eşlik 

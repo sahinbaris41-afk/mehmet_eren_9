@@ -1,0 +1,27 @@
+51
+ GEÇMİŞİN İNŞA SÜRECİNDE TARİH
+Görsel ve açıklamalardan yararlanarak soruları cevaplayınız.
+1. Verilen görsel ve açıklamaları karşılaştırdığınızda ne gibi farklılıklar görüyorsunuz?
+2. Analog makinelerle çekilen fotoğrafların saklanması ile dijital yöntemlerle çekilen fotoğrafların saklanması 
+arasında ne gibi farklar vardır? Açıklayınız.
+Tabloda verilen kavramların anlamlarını sınıf ortamında sözlüklerden ve genel ağ üzerinden araştıra -
+rak ilgili alanlara yazınız. 
+XX. yüzyılın ikinci yarısından itibaren gelişen dijital fotoğ raf  
+teknolojisi sayesinde anında görüntü elde edilmeye başlan-
+mıştır. Özellikle son yıllarda akıllı telefonlardaki kameraların 
+da gelişmesiyle dijital fotoğrafçılık daha da yaygınlaşmıştır.
+Eskiden kullanılan analog fotoğraf makineleri büyük ve ağır 
+olduğu için bunların taşınması zordu. Bir fotoğraf çekmek 
+uzun süre alırdı ve hareketli nesneleri net şekilde fotoğraf-
+lamak imkânsızdı. Ayrıca bunları kâğıda aktarmak da zor ve 
+zaman alıcıydı.
+Kavramlar Anlamlar
+Büyük veri
+Doğuştan dijital veri
+Sayısallaştırma
+Uzak okuma
+Veri analizi
+Veri madenciliği
+Yakın okuma
+Yapılandırılmış veri
+Yoğun veri

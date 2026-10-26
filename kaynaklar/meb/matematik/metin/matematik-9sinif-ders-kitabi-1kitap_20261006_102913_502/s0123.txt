@@ -1,0 +1,34 @@
+123
+2. Tema /  Nicelikler ve Değişimler
+e)  Grafik 1 ve elde ettiğiniz sonuçlardan yararlanarak gerçek sayılarda h(x) = -| x |  şeklinde tanımlı mutlak 
+değer fonksiyonunun grafiğini Grafik 3 üzerinde gösteriniz.
+O x
+y
+Grafik 3
+f)  f ve h fonksiyonlarının cebirsel ve grafiksel benzerliklerini, f arklılıklarını gözlemleyiniz.
+g)  Gözlemlerin izden yola çıkarak h fonksiyonunun nitel özelliklerini tespit ediniz ve Tablo 3ʼü doldurunuz.
+ Tablo 3
+Fonksiyonun Nitel Özellikleri f(x) = x h(x) = - | x |
+En Geniş Tanım Kümesi 
+Görüntü Kümesi
+Fonksiyonun Sıfırı
+Fonksiyonun İşareti
+Maksimum Noktası
+Minimum Noktası
+Bire Birliği
+Artan veya Azalan Olduğu Aralıklar
+ğ)  Elde ettiğiniz nitel özelliklerden yararlanarak h mutlak değer fonksiyonunun parçalı gösterimine dair çıka -
+rımlarınızı açıklayınız.
+:,ff xxRR" =_i  şeklinde tanımlı f fonksiyonunun işareti x01  için negatif, x02  için pozitiftir . :,gg xxRR" =_i  
+şeklinde tanımlı g fonksiyonunun  işareti x01  ve x02  için pozitif, :, xxhhRR" =-_i  şeklinde tanımlı h fonk-
+siyonunun işareti x01  ve x02  için negatiftir. Buradan f fonksiyonunun işaret tablosundan yararlanılarak g ve h 
+fonksiyonlarının işaret tablosu aşağıdaki gibi oluşturulur.
+         x    -∞                       0                           ∞
+  g(x) = |x|    +                        +
+h(x) = -|x|    -                        -
+0      f(x) = x    -                           +
+0
+0
+Kontrol Noktası
+Matematik yazılımı ile ilgili videoya 
+ulaşmak için karekodu okutunuz.

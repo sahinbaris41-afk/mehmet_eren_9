@@ -1,0 +1,9 @@
+Şehir Adı Ülke Adı Kıta Adı Mutlak Konum Göreceli Konum
+Tablo 1: Şehirler ve Bu Şehirlerin Konum Özellikleri
+2. Adım: Etkinlik Aşaması
+ ɽ Şehirlerin bulunduğu ülkeler hangileridir?
+ ɽ Şehirlerin bulunduğu ülkeler hangi kıtadadır?
+ ɽ Şehirlerin mutlak konumlarını yazınız. 
+ ɽ Şehirlerin göreceli konumlarını yazınız.
+26 27
+COĞRAFYA 9  

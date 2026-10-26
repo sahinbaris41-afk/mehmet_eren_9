@@ -1,0 +1,68 @@
+MATEMATİK 9 
+70 71
+1. Adım
+Öğretmeniniz rehberliğinde dörder kişilik gruplara ayrılınız. Grupça aşağıda verilen Türkiye’de il-
+lere göre ortalama eğitim sürelerinin gösterildiği 2023 yılına ait TÜİK (Türkiye İstatistik Kurumu) veri 
+setini inceleyiniz. İllerdeki eğitim süresini betimleyen veya karşılaştıran birer istatistiksel araştırma 
+sorusu yazınız. Yazdığınız soruları diğer gruplara sununuz.
+İl Kodu İl Adı Toplam (Yıl)
+Türkiye 9.3
+1 Adana 9.3
+2 Adıyaman 9.2
+3 Afyonkarahisar 8.5
+4 Ağrı 7.4
+5 Amasya 8.8
+6 Ankara 10.7
+7 Antalya 9.8
+8 Artvin 9.2
+9 Aydın 9.0
+10 Balıkesir 9.0
+11 Bilecik 9.3
+12 Bingöl 8.9
+13 Bitlis 8.5
+14 Bolu 9.1
+15 Burdur 8.8
+16 Bursa 9.5
+17 Çanakkale 9.3
+18 Çankırı 8.5
+19 Çorum 8.2
+20 Denizli 9.1
+İl Kodu İl Adı Toplam (Yıl)
+Türkiye 9.3
+21 Diyarbakır 8.4
+22 Edirne 9.0
+23 Elâzığ 9.0
+24 Erzincan 9.2
+25 Erzurum 8.7
+26 Eskişehir 10.0
+27 Gaziantep 8.7
+28 Giresun 9.9
+29 Gümüşhane 8.9
+30 Hakkâri 8.6
+31 Hatay 9.0
+32 Isparta 8.5
+33 Mersin 8.5
+34 İstanbul 8.1
+35 İzmir 9.7
+36 Kars 8.0
+37 Kastamonu 8.9
+38 Kayseri 8.6
+39 Kırklareli 8.2
+40 Kırşehir 9.1
+Etkinliğin Amacı Veri setlerine uygun, betimlemeye ve/veya karşılaştırmaya yönelik araştırma soruları oluşturabilme, verileri analiz ederek sonuçları görselleştirebilme.
+Zenginleştirme 
+Uygulaması
+* Öğrencilere farklı gruplara ait farklı değişkenler içeren veri setleri verilir. 
+Öğrencilerden bu veri setlerine uygun, betimlemeye ve/veya karşılaştırmaya 
+yönelik araştırma soruları oluşturmaları; uygun değişkeni seçerek istatistik-
+sel araştırma sürecini yürütmeleri istenir.
+Araç Gereç ve 
+Materyaller
+• Çalışma Kâğıtları
+• Akıllı cihaz veya tabletler
+Yönerge
+Aşağıdaki işlem basamaklarını sırayla takip ederek etkinliği gerçekleştiriniz. 
+Etkinlik sonunda “Değerlendirme" sorularını cevaplayınız ve “Öz Değerlendir-
+me Formu’’nu doldurunuz.
+1. ETKINLIK İstatistiksel Araştırma Sorusu Hazırlama
+Yıldızlı  Etkinlik 

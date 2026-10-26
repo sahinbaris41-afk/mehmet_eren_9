@@ -1,0 +1,47 @@
+25
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME ÇIKTILARI
+VE SÜREÇ BİLEŞENLERİ FİZ.9.3.1. Basınca yönelik bilimsel çıkarımlarda bulunabilme
+a) Basınca etki eden etmenleri tanımlar.
+b) Basınç ile ilgili topladığı verileri kaydeder.
+c) Basınç ile ilgili topladığı verilerden ulaştığı matematiksel modeli kullanarak basın-
+ca ilişkin çıkarımlar yapar.
+FİZ.9.3.2. Durgun sıvılarda basınca yönelik bilimsel çıkarımlarda bulunabilme
+a) Durgun sıvılarda basınca etki eden etmenleri tanımlar.
+b) Durgun sıvılarda basınç ile ilgili topladığı verileri kaydeder.
+c) Durgun sıvılarda basınç ile ilgili topladığı verilerden ulaştığı matematiksel modeli 
+kullanarak durgun sıvılarda basınca ilişkin çıkarımlar yapar.
+FİZ.9.3.3. Sıvılarda basıncın kullanıldığı günlük hayat örneklerine ilişkin sorgulama yapa-
+bilme
+a) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konuyu belirler.
+b) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili 
+sorular sorar.
+c) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu hakkında 
+bilgi toplar.
+ç) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili 
+topladığı bilgilerin doğru olup olmadığını değerlendirir.
+d) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili 
+topladığı bilgiler üzerinden çıkarımda bulunur.
+FİZ.9.3.4. Açık hava basıncına ilişkin çıkarım yapabilme
+a) Sıvı basıncına ilişkin bilgilerinden yararlanarak açık hava basıncına yönelik mevcut 
+bilgisi dâhilinde hipotez kurar.
+b)  Sıvı basıncıyla açık hava basıncı arasındaki ilişkileri listeler.
+c) Sıvı basıncıyla açık hava basıncını karşılaştırır.
+ç) Açık hava basıncına ilişkin önermeler sunar.
+d) Açık hava basıncına ilişkin bilgilerini farklı durumlarda değerlendirir. 
+FİZ.9.3.5. Kaldırma kuvvetini etkileyen değişkenleri belirlemeye yönelik deney yapabilme
+a) Kaldırma kuvveti ile kaldırma kuvvetini etkileyen değişkenleri belirlemeye yönelik 
+bir deney tasarlar.
+b) Kaldırma kuvveti ile ilgili deney düzeneğinden veri toplayarak kaldırma kuvvetinin 
+bağlı olduğu değişkenleri analiz eder.
+FİZ.9.3.6. Kaldırma kuvveti ile sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye 
+yönelik çıkarım yapabilme
+a) Kaldırma kuvveti ile yer değiştiren sıvının ağırlığı arasındaki ilişkiye dair mevcut 
+bilgisi dâhilinde hipotez kurar.
+b) Kaldırma kuvveti ile ilgili yaptığı deneyden elde ettiği verileri kullanarak matema-
+tiksel modeli bulur.
+c) Kaldırma kuvveti ve sıvı basıncına ait matematiksel modelleri karşılaştırır.
+ç) Kaldırma kuvveti ve sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair 
+önermede bulunur.
+d) Kaldırma kuvveti ve sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair 
+değerlendirme yapar.

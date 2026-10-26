@@ -1,0 +1,56 @@
+227
+7. Ünite: BÖLGeLeR, ÜLKeLeR Ve KÜReSeL BAĞLAntILAR
+Öğrencilerin verdiği cevaplar şu şekildedir:
+Göktürk: Türkiye’de kıyı bölgeleri orman varlığı bakımından iç bölgelere oranla daha zengindir. 
+Bu durumun ana nedenlerinden biri bölgelerin yağış miktarlarının farklı olmasıdır. 
+Yeşim: Türkiye’nin iç kesimlerinde orman varlığının kıyı kesimlerine göre daha az olmasında 
+orman yangınları etkili olmuştur. 
+Ceylin: Türkiye’nin iç kesimlerinde boşluklu orman alanlarının, kıyı alanlarına göre daha fazla 
+olmasında denizel etkinin iç kesimlere sokulması etkili olmaktadır. 
+Serhat: Türkiye’nin Karadeniz kıyısının orta kesiminde orman yoğunluğunun batı kesimine göre 
+daha az olmasında topografik koşullar etkilidir. 
+Nuri: Çukurova’da orman yoğunluğunun diğer alanlara göre daha az olmasında yağış miktarı 
+etkili olmuştur. 
+Zeynep: Tuz Gölü çevresinde orman yoğunluğunun az olmasının nedeni yağışın yetersizliğidir. 
+4. Hangi öğrencilerin verdiği bilgiler doğrudur?   
+A) Göktürk, Yeşim, Ceylin
+B) Serhat, Nuri, Zeynep
+C) Ceylin, Serhat, Nuri
+D) Göktürk, Serhat, Zeynep
+E) Yeşim, Nuri, Zeynep
+5.
+ Coğrafi bir alan, birden fazla bölge türünün sınırları içinde y
+er alabilmektedir.
+Aşağıdaki öğrencilerden hangilerinin cevaplarında bu özellik öne çıkmaktadır? 
+A) Yeşim ve Ceylin
+B) Göktürk ve Zeynep
+C) Ceylin ve Serhat 
+D) Yeşim ve Zeynep
+E) Serhat ve Ceylin 
+4 ve 5. soruları aşağıdaki metin ve haritaya göre cevaplayınız. 
+Coğrafya öğretmeni Ali Bey, Türkiye’deki orman alanlarının dağılışını gösteren aşağıdaki haritayı etki -
+leşimli tahta üzerinde göstermiş ve öğrencilere bazı sorular sormuştur. 
+Ermenistan
+İran
+Irak
+Suriye
+KKTC
+GKRY
+Bulgaristan
+Yunanistan
+Karadeniz
+Akdeniz
+Marmara 
+Denizi
+Ege Denizi
+0          100         200 
+K
+Gürcistan
+AÖC
+NÖC
+Az.
+km
+Daha fazla 
+soruya ulaşmak 
+için karekodu 
+okutunuz.

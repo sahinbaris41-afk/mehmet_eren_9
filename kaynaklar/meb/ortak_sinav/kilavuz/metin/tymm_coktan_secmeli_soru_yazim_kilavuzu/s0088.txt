@@ -1,0 +1,29 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+88
+Ortaokul Matematik Dersi Örnek Sorular
+Matematik alanı “Matematiksel Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Sayı Bulmacası
+Sayı bulmacası kareli zemindeki kutulara ardışık doğal sayılar yerleştirilerek oynanmaktadır.
+6
+Köşegen
+Satır
+Sütun
+94
+Bahar, yukarıdaki sayı bulmacasında 3x3 kareli zemindeki kutulara 1’den 9’a kadar sayıların her 
+biri birer defa kullanılarak yerleştirecektir. Satır, sütun ve köşegen doğrultusunda yerleştireceği 
+sayıların toplamları ayrı ayrı 15’e eşit olmalıdır.
+1. Aşağıdaki ifadelerden hangisi Bahar’ın sayı bulmacasındaki ilişkiyi doğru şekilde belirlediğini gös-
+termez? (KB2.4.SB2)
+A) Her bir satır, sütun ve köşegendeki sayıların toplamının 15 olması için her kutuya belirli sayıların 
+yazılması gerekir.
+B) Hem satır hem sütun hem de köşegen toplamlarını etkilediği için ortadaki kutu için doğru sayının 
+seçilmesi gerekir.
+C) Soruyu doğru çözmek için köşelerdeki kutularda bulunan sayıların toplamı 15’e eşit olması gerekir
+D) Soruyu doğru çözmek için başlayabileceğimiz yalnız iki kutu vardır.
+2. Bahar sayı bulmacasını doğru çözdüğünde satır ve sütunlarda oluşan üç basamaklı sayıları listele-
+miştir. Bu listedeki en büyük sayı aşağıdakilerden hangisidir? (MAB2.1.SB2)
+A) 843
+B) 834
+C) 627
+D) 465

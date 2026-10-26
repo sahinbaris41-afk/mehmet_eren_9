@@ -1,0 +1,63 @@
+Nüfus sayımları sonucunda iki farklı sayım yılı verisi kullanılarak nüfustaki değişimin 
+ölçülmesini sağlayan göstergeye nüfus artış hızı denir. Cumhuriyet Dönemi’nin en 
+düşük nüfus artış hızı 1940-1945 yılları arasında görülmüştür. Bu durum, 2. Dünya 
+Savaşı esnasında Türkiye’de ilan edilen seferberlik nedeniyle genç nüfusun askere 
+alınmasından kaynaklanmıştır. Türkiye'nin nüfus artış hızı 1927’den günümüze kadar 
+farklılıklar göstermiştir. 1950’li yıllardan sonra hem dünyada hem de Türkiye’de tıp 
+alanındaki gelişmelerin ve hizmetlerin artması, bebek ölüm oranlarını düşürmüştür. 
+Bunun sonucunda 1960 yılında en yüksek nüfus artış hızına ulaşılmıştır. 1985’ten 
+sonra ise şehir nüfusunun kır nüfusundan fazla olması, kadınların çalışma hayatına 
+daha fazla katılmaları, salgın hastalıklar (Covid 19) vb. durumlar nüfus artış hızına etki 
+etmiştir (Grafik 3).
+ ɽ Türkiye’de bir önceki yıla göre düşük nüfus artış hızı hangi yıllarda görülmektedir?
+ ɽ Türkiye’de nüfus artış hızının en yüksek olduğu yıl hangisidir?
+ ɽ Türkiye’de 1935-1945, 1985-2008, 2021-2023 yılları arasındaki nüfus artış hızlarının 
+ortak özelliği nedir? 
+Nüfus yoğunluğu, bir bölgede yaşayan kişi sayısının o bölgenin yüz ölçümüne (km²) 
+bölünmesiyle elde edilen bir değerdir. Kısaca, birim alana düşen insan sayısını ifade 
+eder. Türkiye’de nüfus yoğunluğu 1935’te 21 iken 1950’den sonra belirgin olarak art -
+maya başlamıştır. 2000 yılına kadar devam eden nüfus yoğunluğunun hızlı artışı, 
+bu yıldan sonra yavaşlamıştır. 2023 verilerine göre km² ye 110 insan düşmektedir 
+(Grafik 4).
+Grafik 4: Türkiye’nin 1935-2023 yılları arası nüfus yoğunluğu, TÜİK 
+0
+20
+40
+60
+80
+10 0
+12 0
+19 35
+19 40
+19 45
+19 50
+19 55
+19 60
+19 65
+19 70
+19 75
+19 80
+19 85
+19 90
+20 00
+20 07
+20 08
+20 09
+20 10
+20 11
+20 12
+20 13
+20 14
+20 15
+20 16
+20 17
+20 18
+20 19
+20 20
+20 21
+20 22
+20 23
+kişi/km²
+Yıllar
+Nüfus Yoğunluğu
+52 53

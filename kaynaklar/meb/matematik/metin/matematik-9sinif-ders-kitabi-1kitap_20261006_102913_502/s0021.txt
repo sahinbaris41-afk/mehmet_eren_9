@@ -1,0 +1,77 @@
+21
+1. Tema /  Sayılar
+3. Tabloda elde ettiğiniz sonuçlardan yararlanarak üslü gösterimlerin üssünü alma işlemiyle ilgili genellemeleri-
+nizi oluşturunuz.
+4. Varsayımlarınızla genellemelerinizi karşılaştırarak üslü gösterimlerin üssünü alma işlemine dair önermeler 
+oluşturunuz.
+5.  Oluşturduğunuz önermeler yardımıyla aşağıda verilen problemi çözünüz. Önermelerin problemin çözümünde 
+ne tür kolaylıklar sağladığını ve başka hangi problem durumlarında kullanılabileceğini yazınız.
+ T anımlanan bir işleme göre çokgenlerin kenar sayısı, içine yazılan sayının kaçıncı kuvvetinin alınacağını 
+göstermektedir.
+Örneğin 3  = 34, 5  = 53 olmaktadır. Buna göre 7  ifadesinin sonucunu bulunuz.
+6. Oluşturduğunuz önermelerin doğrulama adımlarının bir kısmı aşağıda verilmiştir. Boşlukları uygun şe  kilde 
+doldurarak önermenizi matematiksel olarak doğrulayınız ve doğrulama yöntemlerinizi kullanışlılık açısından 
+değerlendiriniz.
+tane....
+xx x ... xa b aa a aa... a= $$ $ ++ +x
+tane....
+= = .........__ __ii ii
+67 8444444 444444
+1234444444444 4444444444
+2. ÖRNEK
+22
+22
+42 3
+4 3 3 2
+$
+$--
+- -
+_
+_
+_ i
+i
+i
+ işleminin sonucunu bulunuz.
+Çözüm
+22
+22
+4 3 12
+3 2 6
+-= -
+-=
+_
+_
+i
+i
+22 2242 3 2 3 6$ ==- -- -__ ii  olur. Bulunan ifadeler yerine yazıldığında
+. olur
+22
+22
+2
+22
+2
+2 22 2
+42 3
+4 3 3 2
+6
+12 6
+6
+18
+18 61 86 24
+$
+$ $-- = - =- =- =- =-
+- -- -
+-- +_
+_
+_ _i
+i
+i i
+3. ÖRNEK
+A3 253 6 14$$= _i  şeklindeki A sayısı veriliyor. A sayısının değeri bulunmadan kaç basamaklı olduğu 
+nasıl bulunabilir? A nın basamak sayısını bulunuz ve yönteminizi açıklayınız.
+Çözüm
+10’un kuvveti cinsinden yazılarak A sayısının sondan kaç basamağının sıfır olduğu hesaplanabilir.
+.A olur32 53 25 32 25 31 62 54 81 03 6 14 18 14 41 41 4 14 14$$ $$ $$ $$ $$ $== == =_ _i i
+Buradan 48’in sağında 14 tane 0 olduğu anlaşılır. A sayısının 14 + 2 = 16 basamaklı olduğu bulunur.
+Burada üslü gösterimlerin özelliklerinden yararlanılarak sayı 10’un kuvvetleri cinsinden yazılmıştır. Böy-
+lece A sayısının değeri hesaplanmadan basamak sayısı bulunmuştur.

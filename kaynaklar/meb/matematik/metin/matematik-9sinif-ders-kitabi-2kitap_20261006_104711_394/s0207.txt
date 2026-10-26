@@ -1,0 +1,23 @@
+207
+7. Tema / Veriden Olasılığa
+1. Çarklardaki oklar 25 kez çevrildiğinde oluşan çıktıları  tablonun ilgili sütununa örnekteki gibi yazarak çetele, 
+sıklık ve göreli sıklık bölümlerini çıktılara uygun ifadelerle tamamlayınız. Boş grafik şablonlarında sıklık ve 
+göreli sıklıklara ait sütun grafiklerini oluşturunuz.
+Çıktılar Çetele Sıklık Göreli Sıklık
+Sarı-Mavi (S-V)
+S-V
+Göreli sıklık
+Çıktılar
+S-V
+Sıklık
+Çıktılar
+2. Bu deneyde tekrar sayısı 50’ ye çıkarılırsa grafiklerdeki dağılımda nasıl bir değişim olmasını beklersiniz?
+ 
+3.  Çarklardaki oklar 50 kez çevrildiğinde oluşan çıktıları, çıktıların çetelelerini, sıklık ve göreli sıklıkları aşağıdaki 
+tabloda ilgili alanlara yazınız. Boş grafik şablonlarında sıklık ve göreli sıklıklara ait sütun grafiklerini oluşturunuz.  
+ 
+Çıktılar Çetele Sıklık Göreli Sıklık
+Sıklık
+Çıktılar
+Göreli sıklık
+Çıktılar

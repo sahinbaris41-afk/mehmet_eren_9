@@ -1,0 +1,48 @@
+199
+2. Tema/Çeşitlilik
+Aşağıdaki kanıt kartlarında verilen bilgileri kullanarak soruları cevaplayınız.
+KANIT KARTI 1
+Su
+Formül O
+H H
+Yüzey gerilimi 
+(20
+0
+C, dyn/cm) 73
+Moleküller arası 
+etkileşim 
+KANIT KARTI 2
+Etil alkol
+Formül CH3 CH2 OH
+Yüzey gerilimi 
+(20
+0
+C, dyn/cm) 22
+Moleküller arası
+etkileşim 
+KANIT KARTI 3
+n-hekzan
+Formül CH3 CH2 CH2 CH2 CH2 CH3
+Yüzey gerilimi 
+(20
+0
+C, dyn/cm) 18
+Moleküller arası  
+etkileşim 
+KANIT KARTI 4
+Gliserin
+Formül CH2 CH CH2
+OH OH OH
+Yüzey gerilimi 
+(20
+0
+C, dyn/cm) 63
+Moleküller arası 
+etkileşim 
+1. Bir damlalıkla damlatılan su damlasının görüntüsü şekildeki gibidir. A ynı damlalıkla etil alkol, gliserin 
+ve n-hekzandan birer damla damlatıldığında damlaların şekli ve boyutunun suya göre nasıl olacağını 
+gerekçesiyle açıklayınız.
+2. Yağlı kâğıt parçaları üzerine bir damlalıkla su, etil alkol, gliserin ve hekzan damlatıldığında hangi sıvılar 
+yüzeyi ıslatır? Sıvıların molekül yapılarıyla ilişkilendirerek açıklayınız. (Yağlı kâğıdı apolar bir yüzey 
+olarak düşününüz.)
+Yüzey GerilimiEtkinlik-2.29

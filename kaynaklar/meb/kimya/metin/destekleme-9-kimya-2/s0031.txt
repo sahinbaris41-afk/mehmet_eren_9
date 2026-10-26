@@ -1,0 +1,53 @@
+30
+KİMYA 9 
+1. TEMA: ETKİLEŞİM
+6. ETKINLIK ADI İYONLAŞMA ENERJİSİ
+ ► Öğr encilerden Tablo 1.3'te verilen birinci iyonlaşma enerjilerini incelemelerini isteyiniz. 
+ETKINLIĞIN AMACI P eriyodik tabloda periyot ve gruplarda bulunan elementlerin iyonlaşma 
+enerjisinin değişimini belirleyebilme
+DESTEKLEME 
+UYGULAMASI
+Periyodik özellikler konularında karşılaştırma becerisi işletilir. Bu beceri-
+nin kazandırılması sürecinde benzerlik ve farklılıkları belirlemeye yönelik 
+sorular sorulur, öğrencilerin bilgileri daha kolay öğrenmesi ve genellemesi 
+sağlanır.
+ARAÇ GEREÇ VE 
+MATERYALLER
+Periyodik tablonun ilk dört periyodundaki A Grubunda bulunan ilk yirmi 
+elementin birinci iyonlaşma enerjisi değerlerinin verildiği tablo
+Bu etkinlikte kullanılması için Tablo 1.3'ü öğrenci sayısı kadar çoğaltarak öğrencilere 
+dağıtınız.
+1. Adım: Etkinlik Öncesi
+Yönerge: Aşağıdaki işlem basamaklarını takip ederek etkinliğin gerçekleştirilmesini sağlayınız.
+Tablo 1.3: Periyodik Tablonun İlk Dört Periyodundaki A Grubunda Bulunan İlk Yirmi Elementin Birinci İyonlaşma Enerjileri (kJ/mol)
+1A
+Li
+H He
+Na
+K
+Mg
+Ca
+Al Si P S Cl Ar
+Be B C N O
+F Ne
+2A
+520
+1 312 2 373
+496
+419
+900
+738
+590
+800
+577
+1 086
+786
+1 402
+1 012
+1 314
+1 000
+1 681
+1 255
+2 080
+1 520
+3A 4A 5A 6A 7A 8A

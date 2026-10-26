@@ -1,0 +1,42 @@
+65
+KUVVET VE HAREKET
+3. Etkinlik Vektörlerin Özellikleri 
+Amaç Farklı doğrultular üzerinde yer alan vektörlerin yön ve büyüklüklerine yönelik bilimsel çıkarım yapabilme
+Süre 35 dk.
+Yönerge Aşağıda verilen basamakları takip ederek etkinliği gerçekleştiriniz. 
+1.                               Y andaki şekilde kenar uzunlukları 1 birim olan eşit böl­
+melendirilmiş düzlem üzerindeki vektörler ölçekli ola ­
+rak verilmiştir. 
+Şekildeki vektörleri yön ve büyüklük bakımından ince ­
+leyiniz ve soruları yanıtlayınız.
+a) Şekildeki vektörlerin eşit bölmelendirilmiş düzlemde verilmesi, büyüklüğünün belirlenmesi için bir 
+kolaylıktır. Vektörlerin eşit bölmelendirilmiş bir düzlemde verilmediği durumda büyüklüklerini belir­
+leyici özelliğin ne olabileceğini yazınız. 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+b) Şekilde verilen vektörlerin yönlerini ve büyüklüklerini tablodaki ilgili bölümlere yazınız. 
+Vektör Yönü Büyüklüğü
+A
+B
+C
+Ç
+D
+E
+F
+G
+H
+c) Şekildeki A  ve C  vektörleri birbirine eşit vektörlerdir. Buna göre A  ve C  vektörleri dışında başka 
+hangi vektörler eşit vektörlerdir? 
+       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l              l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       l       
+A B
+D
+F
+C
+E 1 birim
+1 birim
+}}
+Ç
+G
+H
+Güney
+Kuzey
+DoğuBatı

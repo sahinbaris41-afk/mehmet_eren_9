@@ -1,0 +1,25 @@
+ORTAÖĞRETIM GENEL MÜDÜRLÜĞÜ
+93
+5. TEMA: ALGORİTMA VE BİLİŞİM
+Platformlar Grup Komutları
+Çözüm Algoritmasının 
+Semboller ile 
+Gösterimi
+Platformlar Grup Komutları
+Çözüm Algoritmasının 
+Semboller ile 
+Gösterimi
+a
+b
+2. Adım
+Robotunuzun uygulamasını istediğiniz iki veya daha çok komutu tek bir komut ile ifade etmesine “Ko-
+mut grubu” denir. G1, G2, … şeklinde kullanıcı tarafından tanımlanır. Aşağıdaki örnek uygulamayı ince-
+leyiniz.
+Başlangıç
+Başlangıç
+Başlangıç
+Bitiş
+Bitiş
+Bitiş
+ ► Grup arkadaşınızla çözüm algoritmasının semboller ile gösterimini grup komutlarını belirleyerek 
+uygun komut işaretleri ile doldurunuz.

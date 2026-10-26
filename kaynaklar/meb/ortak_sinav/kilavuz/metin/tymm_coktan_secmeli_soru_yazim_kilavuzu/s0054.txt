@@ -1,0 +1,32 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+54
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Sevcan, aldığı proje ödevi için kullanmış olduğu termos yemek kabına yeni bir kapak tasarlayacaktır. 
+Tasarlayacağı kapak için bazı araştırmalar yapar.
+1.  Isı iletim katsayısı, bir malzemenin fiziksel ve kimyasal yapısına bağlı olarak ısıyı iletme yeteneğini ifade 
+eder.
+2.  Öz ısı, herhangi bir maddenin sıcaklığını bir santigrat derece artırmak için gereken ısı miktarıdır.
+3.  Termosun kapağı, içindeki sıcak ya da soğuk yiyeceğin ısısının dış ortamla alışveriş yapmasını engelleye-
+rek yiyeceğin sıcaklığını uzun süre korumaktadır.
+4.  Sızdırmaz kapak olması hava geçişini engelleyerek yiyeceğin tazeliğini daha uzun süre korumasına 
+yardımcı olur.
+5.  Termos yemek kapağının yapımında kullanacağı malzemeleri belirleyerek ısı iletim katsayıları tablo-
+sunu hazırlar.
+Sevcan edindiği bilgiler ile kapağı hem hafif hem de iyi yalıtım yapan bir malzemeden yapmak, ka -
+pağın boyutları ve kalınlığıyla ilgili de değişiklik yaparak en uygun tasarımı belirlemek ister. Tasarım 
+sürecinde malzeme seçimi, katmanlı yapı ve iç boşluk (hava boşluğu) gibi seçenekleri değerlendirir.
+Malzeme Isı İletim Katsayısı (W/m·K)
+Hava 0,023
+Cam yünü 0,04
+Kauçuk 0,13
+Ahşap 0,15
+Plastik 0,19
+Cam 1,05
+Paslanmaz çelik 16
+Alüminyum 237
+1. Sevcan’ın termos kapağı tasarlarken asıl amacı nedir? (KB3.2.SB2)
+A) Seçtiği malzemelerle öz ısısı yüksek kapak yapıp ısı yalıtımı sağlamak
+B) Termos kapağını sızdırmaz şekilde tasarlayıp yemek taşımak
+C) Termos kapağını ısı iletim katsayısı düşük malzemeden üretip ısı yalıtımı sağlamak
+D) Termos kapağının seçtiği malzeme ile dayanıklılığını artırmak
+E) Termos kapağının kalınlığını ince tutarak taşınabilirliğini arttırmak

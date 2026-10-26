@@ -1,0 +1,52 @@
+158
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin cebirsel ve grafik temsilleri üzerinden doğrusal, karesel, karekök, rasyonel, 
+trigonometrik, üstel ve logaritmik  referans fonksiyonları  ve bu fonksiyonlardan türetilen 
+fonksiyonların nitel özelliklerini inceleyebildiği; cebirsel veya  grafik temsili verilen fonk -
+siyonların nitel özelliklerine dair çıkarımlar yapabildiği; öğrendiği referans fonksiyonlara 
+dönüşümler uygulayarak farklı fonksiyonlar türetebildiği; referans fonksiyonlardan tü -
+retilen fonksiyonların cebirsel temsili ile  grafik temsili arasında geçiş yapabildiği kabul 
+edilmektedir.
+Ön Değerlendirme Süreci Uygun koşullarda tanımlı doğrusal, karesel, karekök, rasyonel, trigonometrik, üstel ve loga-
+ritmik referans fonksiyonlardan türetilebilen fonksiyonların nitel özelliklerine ilişkin öğrenme 
+eksiklikleri açık uçlu sorular sorularak belirlenebilir. Referans fonksiyonlara dönüşümler uy-
+gulayarak farklı fonksiyonlar türetebilmesine, referans fonksiyondan türetilen fonksiyonla-
+rın cebirsel temsili ile grafik temsili arasında geçiş yapabilmesine dair becerilerinin, kavram 
+yanılgılarının, ilgi ve ihtiyaçlarının belirlenmesi amacıyla öğrencilere farklı soru türlerinden 
+oluşan hazır bulunuşluk testi uygulanabilir.
+Köprü Kurma Öğrencilerden önceden öğrendikleri tüm fonksiyonlar ve fonksiyonların nitel özellikleriyle 
+ilgili bir kavram haritası oluşturmaları istenebilir. Bu kavram haritası üzerinden öğrencile -
+rin kendi ön bilgilerini değerlenmeleri beklenebilir. Birden çok fonksiyonel işlemi sırasıyla 
+yapmanın hangi durumlarda gerekli olduğuyla ilgili sınıf içi tartışma yapılabilir. Referans 
+fonksiyonlardan türetilen fonksiyonlarla referans fonksiyonlar arasındaki ilişki yeniden ele 
+alınabilir. Örneğin f  bir doğrusal referans fonksiyon olmak üzere f nin grafiğinin  2  birim 
+aşağıya ötelenmesiyle elde edilen fonksiyonun cebirsel temsilinin h(x) = f (x) - 2 olmasın-
+dan yola çıkılarak f  fonksiyonu ve gerçek sayılarda h(x) = x - 2 şeklinde tanımlı h fonksiyo-
+nu arasındaki ilişki yorumlanabilir.  Benzer şekilde gerçek sayılarda t(x) = (x - 2)2 şeklinde 
+tanımlı fonksiyondan hareketle  h(x) = x - 2 şeklinde yeni bir h fonksiyonu tanımlanarak 
+t(x) = (h(x))2 şeklinde tanımlı fonksiyona dönüşüm üzerinde durulabilir. Bu bağlamda dö -
+nüşüm sonucu oluşan fonksiyonun birden fazla fonksiyonun sağladığı dönüşümü  tek ba -
+şına temsil ettiğinin fark edilmesi sağlanabilir. 
+Öğrenme-Öğretme 
+Uygulamaları MAT.11.3.7
+Bir referans fonksiyon ile bu fonksiyondan türetilmiş bir fonksiyonun cebirsel ve grafik tem-
+silleri incelenir. Referans fonksiyona hangi dönüşümler uygulandığı tespit edilerek iki fonk -
+siyon arasında bileşke ilişkisi kurulur. Bu dönüşümler cebirsel bir işlem olarak yeniden ifade 
+edilerek bileşke işlemi gösterimine geçilir. İki farklı fonksiyonun bileşke işlemini göstermek 
+için  f (g(x)) veya (f ° g) (x) gösterimleri kullanılır (MAB3). f ° g fonksiyonunun tanımlı olabil-
+mesinin asgari koşullarının belirlenebilmesinde cebirsel ve grafik temsillerin veya tabloların 
+sistematik ve analitik bir şekilde kullanılması sağlanır (E3.6, E3.7). f ve g fonksiyonlarından 
+elde edilen f ° g ve g ° f  fonksiyonlarının grafikleri, matematik yazılımları kullanılarak incelenir 
+(OB4, MAB5). Bu sayede öğrencilerin dijital araçlarla iş görme becerilerinin geliştirilmesine  
+de katkı sağlanır (OB2). 
+Bir ilişkinin fonksiyon olma şartları ve fonksiyonların nitel özellikleri ele alınarak elde edilen 
+bileşke fonksiyonların nitel özelliklerine ilişkin varsayımlar geliştirilir. Bu varsayımlar, herhan-
+gi bir nitel özelliği verilen fakat cebirsel temsili verilmeyen fonksiyonları da içerir. Örneğin f 
+veya g fonksiyonlarının bire bir, örten, artan -azalan, tek-çift olmasına ve maksimum-mini -
+mum noktaları ile sıfırlarına yönelik kabuller verilerek f ° g veya g ° f  fonksiyonlarının nitel 
+özellikleri hakkında varsayımlar geliştirilir. Öğrencilerden (f ° g)(x) = (g ° f)(x) eşitliğinin her 
+f ve g fonksiyonu için sağlanıp sağlanamayacağına ve gerçek  sayılarda tanımlı bir fonksiyon 
+ile tersi olan fonksiyonun bileşkesinin uygun koşullarda tanımlı doğrusal referans fonksiyonu 
+verdiğine yönelik varsayıma ulaşmaları beklenir. 

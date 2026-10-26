@@ -1,0 +1,55 @@
+88
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+ÖĞRENME 
+KANITLARI
+(Ölçme ve 
+Değerlendirme)
+Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, 
+çalışma yaprağı, deney raporu, öz değerlendirme formu, performans görevi, sınıf içi tar -
+tışma, Venn diyagramı ve çıkış kartı kullanılabilir.
+Öğrencilerden performans görevi çerçevesinde farklı metallerin korozyona uğramış ör -
+neklerini inceleyerek korozyona sebep olan faktörlere ilişkin araştırma sorusu oluşturma-
+ları ve korozyonu önlemek için çözüm önerileri belirlemeleri istenebilir. Öğrenciler, çalış -
+malarını arkadaşları ile yazılı veya sözlü olarak paylaşabilir. Performans görevi “korozyona 
+sebep olan faktörleri belirleme, araştırma sorusu oluşturabilme ve korozyonu önlemek 
+için çözüm önerileri belirleme” ölçütlerini içeren dereceli puanlama anahtarı ile değerlen-
+dirilebilir.
+Sınav kâğıtları ve temanın işlenişi sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında 
+toplanarak değerlendirme amaçlı kullanılabilir.
+ÖĞRENME-ÖĞRETME 
+Y AŞANTILARI
+Temel Kabuller Öğrencilerin periyodik özellikler, kimyasal tepkime denklemleri, tepkime denklem -
+lerinin denkleştirilmesi, stokiyometrik ilişkiler, metallerin ve ametallerin iyon yükü, 
+elektrik iletkenliği ve dengeyi etkileyen faktörler ile ilgili bilgilere sahip oldukları kabul 
+edilmektedir.
+Ön Değerlendirme Süreci Öğrencilerin kimyasal tepkime türleri ve bu tepkimelerin oluşum süreçleri hakkında ön bil-
+gilerini ortaya çıkaracak bir tartışma ortamı oluşturulabilir. Bu tepkime türlerinden hangi-
+leri ile elektrik enerjisi üretilebileceğini sorgulamaları sağlanabilir.
+Köprü Kurma Günümüzde bilim insanlarının bitki köklerinden elektrik akımı ürettiği çalışmalara örnekler 
+verilebilir. Metallerin seyreltik hidroklorik asit veya farklı metal tuzlarının sulu çözeltileriyle 
+olan tepkime oluşum süreçleri gözlemlenerek indirgenme-yükseltgenme (redoks) tepki -
+melerindeki elektron transferine dikkat çekilebilir.
+Öğrenme-Öğretme 
+Uygulamaları KİM.12.1.1 
+Metallerin (magnezyum, çinko, bakır, demir, kurşun, kalay vb.) oksijen gazıyla, seyreltik 
+hidroklorik asit çözeltisiyle ve metal tuzlarının sulu çözeltileriyle olan tepkimelerinden 
+biri seçilir. Örneğin etkinlik kâğıdında çinko metalinin bakır ( II) nitrat tuzunun sulu çözelti-
+siyle olan tepkimesi verilerek öğrencilerden tepkime sonucunda elde edilecek ürün veya 
+ürünleri tahmin etmeleri ve tepkime oluşum sürecine ilişkin gözlemlenebilir kanıtları be -
+lirlemeleri istenir (OB7). Öğrenciler, indirgenme-yükseltgenme tepkimesini gözlemleyerek 
+tepkimenin oluşum sürecindeki kanıtlara ilişkin veri toplar ve topladığı verileri kaydeder 
+(KB2.2). Bu çalışma ile öğrencilerin planlı ve araştırmacı olma özellikleri teşvik edilerek 
+çalışkanlık değeri desteklenir (D3.2, D3.3). Öğrenciler, gözlem verileri temelinde indirgen-
+me-yükseltgenme tepkimesinin oluşum sürecini alt mikro seviyede tanecik davranışları 
+ve etkileşimlerini dikkate alarak hem sözel hem de süreç aşamalı tanecik modeli çizim -
+leriyle açıklar (OB7). Ayrıca ilgili tepkimenin indirgenme ve yükseltgenme yarı tepkime 
+denklemleri yazılarak yük denkliği sağlanır ve tepkime denklemi yazılır. Alt mikro seviye -
+deki indirgenme-yükseltgenme tepkimesi oluşum sürecini gösteren animasyonları göz -
+lemlemesi sağlanan öğrenciler, kendi açıklamalarıyla animasyondaki gözlemlerini karşı -
+laştırır (OB2). İndirgenme-yükseltgenme tepkimelerine ilişkin bilimsel gözlem süreci farklı 
+tepkime örnekleri için tekrarlanır. Asidik ve bazik sulu çözeltilerde gerçekleşen indirgen -
+me-yükseltgenme tepkime örnekleri seçilmez. Etkinlik kâğıtları “tepkime göstergelerini 
+belirleyebilme, verileri toplayıp kaydedebilme, tepkime sürecini tanecik modeliyle çizerek 
+açıklayabilme” ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem de öğ-
+renci tarafından değerlendirilebilir. Hazırlanan öz değerlendirme formu ile öğrenci kendi 
+öğrenme sürecini değerlendirebilir (SDB1.2, SDB1.3). 

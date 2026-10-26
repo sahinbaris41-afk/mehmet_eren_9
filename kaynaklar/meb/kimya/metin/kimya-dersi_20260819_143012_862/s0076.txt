@@ -1,0 +1,54 @@
+76
+KİMYA DERSİ ÖĞRETİM PROGRAMI
+yaptıkları deneyden elde etikleri verileri kaydetmeleri istenir (OB7). Deney planlama ve 
+yapma süreciyle öğrencilerin açık ve ulaşılabilir hedefler belirlemeleri, görev ve sorumlu -
+luklarını yerine getirmek için etkili bir yol haritası çizmeleri, çalışmalarda aktif rol almaları, 
+ortak hedeflere ulaşmak için arkadaşlarıyla dayanışma içinde olmaları, zamanı etkili bir şe-
+kilde yöneterek hazırladığı planı uygulamaları sağlanır (D3.2, D3.4, D4.1). Öğrenci grupları, 
+deneyden elde ettikleri verileri kullanarak derişimi bilinmeyen kuvvetli asit ya da kuvvetli 
+baz çözeltisinin derişimini belirler (SDB2.2). Her öğrenci, deney raporunu belirlenen ölçüt-
+lere uygun şekilde bireysel olarak hazırlayabilir (OB7). Deney raporu, “öğrencinin derişimi 
+bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltisinin derişimini belirleyebilmesi” ölçütüne 
+göre değerlendirilebilir. Çalışma öncesinde öğrencilerden bir form aracılığıyla konu ile ilgili 
+ön bilgilerinin neler olduğunu, deney sürecinde neyi öğrenmeyi beklediğini, ne tür strate -
+jiler kullanacağını ve bu süreçte neler hissedebileceğini belirlemeleri istenebilir (SDB1.1). 
+Ayrıca öğrenciden öz değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya 
+ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve neleri daha farklı yapabilece -
+ğini değerlendirmeleri istenebilir (SDB1.2, SDB1.3).
+KİM.11.2.12 
+Öğrencilere “Vücut sıvılarındaki asitler ve bazlar arasındaki denge (pH)  ile homeostazi ara-
+sında nasıl bir ilişki vardır?” gibi bir soru sorularak kullanılan veya tüketilen ürünlerin vücut 
+sağlığı üzerindeki etkisine dikkat çekilir ve öğrencilerin sağlıklı yaşam konusu kapsamında 
+yorumları alınabilir (D13.4). Öğrencilere etkinlik kâğıdında mide, ağız, diş ve cilt sağlığı ile 
+ilgili konularda [farklı diş macunlarının dişleri  koruma etkisi, kullanılan diş macunu mikta-
+rının ağız içi pH değerine etkisi, farklı ağız çalkalama sularının ağız sağlığını koruma özel -
+likleri, asidik veya bazik özelliğe sahip yiyecek ve içeceklerin, mide ilaçlarının (proton inhi-
+bitörleri, mide koruyucular vb.) mide sağlığına etkileri, cilt bakım ürünlerinin farklı ciltler 
+için uygunluğu] araştırma soruları verilir. Öğrenciler, verilen araştırma soruları arasından 
+birini seçer. Seçtiği araştırma sorusundan yola çıkarak belirlediği amacı etkinlik kâğıdı -
+na yazar. Aynı soruyu seçen öğrencilerden grup oluşturulur ve bu grupların amaçlarına 
+yönelik deneyleri bilimsel bakış açısıyla gerçekleştirmeleri sağlanır (D3.3, D3.4, SDB2.1, 
+SDB2.2, E3.9 ). Öğrenciler, deneydeki gözlemlerine dayanarak asidik veya bazik özelliğe 
+sahip ürünlerin sağlığa etkisine yönelik önermelerini etkinlik kâğıdına yazmaları için yön -
+lendirilir. Öğrencilerin “En bazik diş macunu gece boyunca dişleri daha iyi korur.’’ gibi öner-
+meler üzerinden mantıksal denetleme yapmaları sağlanır (OB7). Öğrenciler; mide, ağız, 
+diş ve cilt sağlığı için mantıksal denetleme yaptığı ürünlerden uygun olanını seçer. Mide, 
+ağız, diş ve cilt sağlığı için seçtiği ürünlerin etkisine yönelik yansıtmalarını etkinlik kâğıdı -
+na yazar. Öğrencilerin yapmış olduğu yansıtmayı genişletmesi için gün içinde ya da sabah 
+kullanılacak diş macununun seçimine ilişkin düşünce ve duyguları sorulabilir. Böylece öğ-
+rencilerin yenen ve içilenler ile dişlerin gün boyu daha az asidik ortamda kaldığı ancak gece 
+boyunca asidik ortamda artış olduğunu fark etmeleri sağlanabilir. Böylece sağlıklı yaşam 
+değerine vurgu yapılabilir (D13.4). Gruplar, farklı veya benzer ürünler seçerek etkinlik yap-
+maları için yönlendirilebilir (SDB1.1, SDB3.3) . Etkinlik kâğıtları “amaç belirleyebilme, bilgi 
+elde edebilme, önerme oluşturabilme, mantıksal denetleme yapabilme, uygun ürün seçe-
+bilme ve yansıtma  yapabilme” ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen 
+tarafından değerlendirilebilir. Ayrıca öğrencilerin grup çalışmalarına katkıları akran değer-
+lendirme formu ile değerlendirilebilir. Öğrencilerden öğrendikleri bilgileri yakın çevresi ile 
+paylaşmaları istenebilir (SDB1.2, SDB2.3, OB1).
+KİM.11.2.13
+Öğrencilere “Dişler neden çürür?”, “Çocukların dişleri yetişkinlere göre neden daha faz -
+la çürür?” gibi sorular sorularak çözünürlük dengesinin günlük hayata etkisi üzerine dik -
+kat çekilir. Suda az çözünen bir tuzun çözünme denklemi öğrencilere verilerek bu tuzun 
+suda çözünme sürecine ilişkin alt mikro seviyede süreç aşamalı bir model oluşturmaları 
+öğrencilerden istenir. Öğrenciler, oluşturduğu modeli kabul gören bilimsel modeller (ani -
+masyonlar, süreç aşamalı görseller vb.) ile karşılaştırır. Çözünürlük çarpımı sabitlerini 

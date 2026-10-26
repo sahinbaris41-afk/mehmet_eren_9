@@ -1,0 +1,27 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+69
+1-2. soruları aşağıdaki metne göre cevaplayınız.
+Ömer Bey, cep telefonu için aylık 40 GB genel ağ kullanımına sahip bir paket satın almıştır. Ancak bir 
+süre sonra genel ağ paketinin beklenenden daha kısa sürede tükendiğini gözlemlemiştir. Durumun 
+nedenini anlayabilmek için telefonundaki internet kullanım istatistiklerini incelemiş ve aşağıdaki 
+bilgilere ulaşmıştır.
+Ömer Bey’in günlük ortalama sosyal medya kullanım süresi 2 saattir ve bu uygulamalar saatte yakla -
+şık 800 MB veri tüketmektedir. Ömer Bey’in günlük ortalama web tabanlı tasarım uygulamaları kullan -
+ma süresi 1 saattir ve bu uygulamalar saatte yaklaşık 1400 MB internet tüketmektedir (1 GB = 1024 MB, 
+1 ay 30 gün kabul edilir.).
+1. Ömer Bey’in internet paketinin erken bitmesi ile ilgili sorunu tanımlaması için aşağıdaki sorulardan 
+hangisini sorması gerekir? (KB2.8.SB1, KB2.8.SB2)
+A)  İnternet ücretlerinin yüksek olmasının sebepleri nelerdir?
+B)  Satın aldığım internet paketinin türü ihtiyaçlarıma uygun mu?
+C)  Mevcut internet paketinin beklenenden daha hızlı bitmesinin sebebi nedir?
+D)  Sosyal medya kullanım süremi sınırlandırabilir miyim?
+E)  Web tabanlı tasarım uygulamalarına ayırdığım süreyi kontrol edebilir miyim?
+2. Ömer Bey, günlük sosyal medya kullanımı süresini yarım saate düşürmüş, web tabanlı tasarım uygula-
+malarını da günaşırı (iki günde bir) kullanmaya başlamıştır.
+Buna göre aylık genel ağ paketi ile ilgili aşağıdaki bilgilerden hangisi doğrudur?  
+(KB2.8.SB4, KB2.8.SB5)
+A)  Paket yaklaşık 8 GB aşılmıştır.
+B)  Paket yaklaşık 4 GB aşılmıştır.
+C)  Paketin tamamı kullanılmıştır.
+D)  Paketten yaklaşık 4 GB artmıştır.
+E)  Paketten yaklaşık 8 GB artmıştır.

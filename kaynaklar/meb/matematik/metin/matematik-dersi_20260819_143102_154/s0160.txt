@@ -1,0 +1,33 @@
+160
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+FARKLILAŞTIRMA
+Zenginleştirme (*)  Bileşke fonksiyonlarla yapılan işlemler, n adet fonksiyondan elde edilen bileşke fonksiyonlara 
+ve bir fonksiyonun n adet bileşkesinden elde edilen fonksiyonlara genellenir. Periyodik fonksi-
+yonların kullanıldığı bileşke fonksiyon örnekleri incelenebilir. Bileşke fonksiyonlardan oluşturu-
+lan denklem ve eşitsizliklerde fonksiyonlar tanım kümesinin elemanı kabul edilerek yeni denk-
+lem veya eşitsizlikler oluşturulabilir. Örneğin Ax ∈ ℝ için f(x) < g(x)  ise (f ° f)(x) < (f ° g)(x)   gibi 
+önermelerin hangi durumlarda doğru olabileceği tartışılabilir. Fonksiyonlarla toplama, çıkarma, 
+çarpma, bölme ve bileşke gibi fonksiyonel işlemler algoritmik bir dille  yapılandırılabilir. 
+(*) Algoritma konusunda çözümlenen sözde kod örneklerinden yola çıkılarak iç içe (nested) 
+fonksiyonlar ile bileşke fonksiyonun ilişkisini ortaya koyan örnekler incelenebilir. Döngüler kul-
+lanılarak çözülebilen problemlerin öz yinelemeli fonksiyonlarla daha kolay çözülebileceğine yö-
+nelik örnekler verilebilir.
+Destekleme Bileşke fonksiyonlar ve fonksiyonlarda dört işlem özellikleri incelenirken genellikle sayısal ve-
+rilerden yararlanılabilir. Örneğin verilen f ve g fonksiyonlarında f ° g fonksiyonunu elde etmek 
+yerine anlamlandırma sağlanana kadar f ° g fonksiyonunun sayısal değerleriyle işlem yapılabi-
+lir. Bileşke fonksiyonun nitel özellikleriyle ilgili  önermeler, sayısal verilerden ve grafik temsil-
+lerden yararlanılarak doğrulanabilir. Ayrıca bu doğrulamaların veya ispatların belli aşamaları 
+verilerek  diğer aşamalarının öğrenciler tarafından tamamlanması beklenebilir.   
+Bileşke fonksiyonların kullanıldığı gerçek yaşam durumu örnekleri, öğrencilerin yakın çevresi 
+dikkate alınarak çeşitlendirilebilir. Böylelikle öğrencilerin konuya karşı olan ilgi ve motivas -
+yonları artırılabilir. Bileşke fonksiyonların temsil edilebileceği somut materyaller kullanılabilir. 
+Öğrencilere bileşke fonksiyonları cebirsel olarak ifade edebilmeye ve grafik temsilde yorum-
+layabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değerlendirmeler yapılabilir. 
+Bileşke fonksiyonlar ve fonksiyonlarda dört işlemle ilgili performans görevleri ve çalışma 
+kâğıtları için daha fazla zaman verilebilir. Geri bildirimlerde ve değerlendirmelerde çoklu or -
+tam (sözlü, yazılı, görsel gibi) kullanılabilir. Öğrenciler için bireyselleştirilmiş öğrenme planları 
+oluşturulur ve öğrencilerin bileşke fonksiyonlarla ilgili bireysel ihtiyaçlarına uygun hedefler 
+belirlenebilir.
+ÖĞRETMEN 
+Y ANSITMALARIPrograma yönelik görüş ve önerileriniz için karekodu akıllı cihazınıza 
+okutunuz.

@@ -1,0 +1,28 @@
+38
+4. Tema / Eşlik ve Benzerlik
+İki	üçgenin	köşeleri	arasında	bire	bir	eşleme	yapıldığında	üçgenlerin	karşılıklı	kenar	uzunlukları	ve	kar-
+şılıklı	açılarının	ölçüleri	eşit	ise	bu	üçgenlere	eş üçgenler	denir.	Eşlik	“,”	sembolü	ile	gösterilir.
+Yukarıda	verilen	üçgenler	eş	üçgenlerdir	ve	KLM PRT,&& 	şeklinde	temsil	edilir.
+K
+ML
+P
+TR
+Eşlik ilişkisinin sembol 
+temsilinde karşılıklı 
+köşelerin aynı sırada ya-
+zıldığına dikkat ediniz.
+3. Elde ettiğiniz sonuçlardan hareketle ulaştığınız genellemeleri örnekteki gibi yazınız.
+Kenar uzunlukları bilinen tek bir üçgen çizilebilir.
+4. Gruplara ayrılınız. Varsayımlarınızla genellemelerinizi karşılaştırmak için 2. adımda uyguladığınız yöntemi grup 
+arkadaşlarınızla birlikte daha fazla üçgen çifti üzerinde uygulayınız ve ulaştığınız sonuçları inceleyiniz. İncele-
+melerinizi geometri tahtası veya matematik yazılımından yararlanarak da yapabilir siniz. Grup arkadaşlarınızla 
+fikir alışverişi yaparak genellemeler oluşturunuz. Oluşturduğunuz genellemeleri bir önerme olarak örnekteki gibi 
+yazınız.
+Tüm kenar uzunlukları eşit olan üçgenler eş üçgenlerdir.
+5. Elde ettiğiniz önermeleri değerlendirmek amacıyla aşağıda verilen soruları cevaplayınız.
+a) Eş üçgenlerin nasıl oluştuğuna ve bu üçgenlerle günlük hayatta nerelerde karşılaşabileceğinize ilişkin örnek-
+ler veriniz.
+b) Elde ettiğiniz eşlik koşullarından hareketle ikizkenar bir üçgenin taban açılarının eş olmasının nedenini açık-
+layınız.
+c) Karşılıklı kenarları paralel olan bir dörtgenin bir köşegeninin ayırdığı üçgenlerin eş olduğunu eşlik koşulla-
+rından yararlanarak açıklayınız.

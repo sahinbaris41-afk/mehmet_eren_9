@@ -1,0 +1,56 @@
+5150
+MÜZİK
+4. Aşağıdaki ezgi üzerinde 1’den 7’ye kadar numaralandırılmış sembollerin anlamlarını, 
+sembol numarasının başında yer alan yay ayracın içindeki boşluğa “( )” yazınız.
+SEMBOL NUMARASI
+(  ) 1
+(  ) 2
+(  ) 3
+(  ) 4
+(  ) 5
+(  ) 6
+(  ) 7
+ANLAMI
+a) Onaltılık nota
+b) Senyö
+c) Dörtlük sus
+ç) Fa anahtarı
+d) Forte
+e) Decrescendo
+f) Diyez
+g) Bemol
+5-7. soruları aşağıdaki metne göre cevaplayınız.
+“Suat müzik dersinde öğretmeninden yeni bir eser öğrenmişti. Bu parçayı çalışmak için 
+önce öğretmeninin tahtaya çizdiği beş paralel çizgiden oluşan bölgeye dikkatlice baktı. 
+Çizgilerin başına konulan özel işareti tanıyordu. Bu işaret, tellerde hangi seslerin çalına-
+cağını anlamasına yardımcı oluyordu. Parçanın başında çalınacak her bir sesin ne kadar 
+süreceğini gösteren işaretler yer alıyordu. Bazı sesler kısa sürerken bazıları daha uzun de-
+vam ediyordu. Öğretmeni, her bir sembolün zamanlamayı doğru yapmak için çok önemli 
+olduğunu vurgulamıştı. Eser ilerledikçe Suat, bazı bölümlerin tekrar tekrar çalındığını fark 
+etti. Özellikle belli işaretler bu bölümlere geri dönmesi gerektiğini söylüyordu. Bu şekilde 
+çalışmak hem ezberlemesini kolaylaştırıyor hem de parçayı daha iyi kavramasını sağlıyor-
+du. Çalışma sırasında Suat, çalgısında her bir teli ayrı ayrı kullanarak bu sesleri çıkarmaya 
+çalıştı. Ritmi doğru yakalayabilmek için defalarca denedi. En sonunda parçanın yapısına 
+ve işaretlerine dikkat ettikçe daha temiz ve uyumlu çalmaya başladığını fark etti.”
+5. Suat’ın öğretmeninin tahtaya çizdiği “beş paralel çizgi”nin adını yazarak müzik yazı-
+sındaki görevini açıklayınız. 
+.................................................................................................................................
+.................................................................................................................................
+6. Altı çizili cümlelerde ifade edilen işaretlerin müzikteki genel adını yazarak müziksel 
+işlevlerini kısaca açıklayınız. 
+.................................................................................................................................
+.................................................................................................................................
+f
+Adagio
+24?
+6
+1
+2
+7
+3
+#
+4
+5@
+? @
+œ œ #œ œ œ œ œ œ œ #œ œ œ œ œ œ Œ
+œ™™ œR œ œ # œ œ œ œ œ ˙

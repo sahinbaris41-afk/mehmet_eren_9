@@ -1,0 +1,58 @@
+41
+1. Tema/Etkileşim
+7. Sınıf arkadaşlarınız ile etiketlerinizi paylaşarak en uygun etiketi belirleyiniz. Kendi tasarladığınız etiket ile 
+belirlenen etiketi karşılaştırarak etiketinizi problemin çözümüne uygunluk açısından değerlendiriniz.
+8. Günlük hayatınızda kimyasal malzemeleri hatalı kullandığınız bir durum yaşadınız mı? Bu durumun neden 
+kaynaklandığını düşünüyorsunuz ve oluşan problemi nasıl çözdünüz?
+Kimya Laboratuvarında Kullanılan Temel Malzemeler
+Beherglas
+Sıvı maddelerin karıştırıl-
+ması, saklanması ve ısıtıl-
+ması amacıyla kullanılır.
+Ayırma Hunisi
+Heterojen sıvı-sıvı karı-
+şımların ayrılmasında 
+kullanılır.
+U Boru
+Tepkime ortamları arasın-
+daki bağlantıyı kurmada 
+kullanılır.
+Cam Balon
+Çözelti hazırlama, sakla-
+ma, ısıtma ve kaynatma 
+amacıyla kullanılır.
+Soğutucu
+Isıtmayla buharlaşan çö-
+zücünün gaz fazından sıvı 
+faza döndürülerek geri 
+kazanılmasını sağlamak 
+amacıyla kullanılır.
+Pipet
+Sıvıların hacmini has-
+sas bir biçimde ölçmek 
+ve aktarmak amacıyla 
+kullanılır.
+Erlenmayer
+Titrasyon, çözelti hazırla-
+ma, saklama, çözme vb. 
+işlemlerde kullanılır.
+Dereceli Silindir (Mezür)
+Sıvıların hacmini ölçmek 
+için kullanılır.
+Büret
+Titrasyon işleminde derişi-
+mi bilinmeyen maddelerin 
+derişimini tespit etmek 
+amacıyla kullanılır.
+Balon Joje
+Boyun kıs mında ölçü çizgisi  
+bulunur ve derişimi belli 
+çözeltilerin hazırlanması ya 
+da saklanmasında kullanılır.
+Huni
+Süzme işleminde ve 
+sıvıların dar ağızlı kaba 
+boşaltılmasında kullanılır.
+Termometre
+Sıcaklığı ölçmek için 
+kullanılır.

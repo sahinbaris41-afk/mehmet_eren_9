@@ -1,0 +1,42 @@
+5.TEMA - ALGORITMA VE BILIŞIM
+60 61
+1. Adım
+Platon, Timaus (Tiymeyos) adlı eserinde bütün kenar uzunlukları eşit ve yüzeyleri düzgün 
+çokgen olan 5 platonik cisim tanımlamıştır.
+Dört yüzlü
+Köşe Kenar Yüz
+Altı yüzlü Sekiz yüzlü On iki yüzlü Yirmi yüzlü
+Bilgi
+Karekodda verilen bağlantı linkini tıklayarak animasyonu açınız. Animasyonu dik -
+katle izledikten sonra verilen tabloyu tamamlayınız.
+İsim Köşe sayısı (V) Kenar sayısı (E) Yüz sayısı (F)
+Dört yüzlü 4 6 4
+Altı yüzlü
+Sekiz yüzlü
+On iki yüzlü
+Yirmi yüzlü
+2. Adım
+V, E ve F değerleri arasında Leonhard Euler tarafından 1758 yılında ifade edilen ve “Euler Karakte-
+ristiği” ismiyle anılan bir ilişki vardır. Çizge Teoremi’nde oldukça sık kullanılan köşe, kenar ve yüz sayısı 
+arasındaki ilişkiyi bulunuz. İlişkiyi bulma konusunda size ihtiyaç duyan arkadaşlarınıza yardım ediniz.
+Çözüm:
+Etkinliğin Amacı
+Platonik cisimlerin köşe, kenar ve yüz sayıları arasındaki matematiksel ilişki-
+leri keşfedebilme, Euler karakteristiğini doğrulayabilme ve platonik cisimle-
+rin simetrik yapısını gözlemleyebilme.
+Zenginleştirme 
+Uygulaması
+* Farklı problem türlerinden [tokalaşma sayısı, Euler’in (Öyler) köprü prob -
+lemi gibi] hareketle öğrencilerin çizgelerin kenar ve köşe sayıları arasında -
+ki ilişkiler bağlamında çizge kuramındaki temel kavram ve genellemelere 
+ulaşmaları sağlanır. Örneğin platonik cisimler incelenerek öğrencilerin Euler 
+karakteristiğini keşfetmeleri sağlanır. Çizge ile temsil edilebilecek bir prob -
+lemde en kısa yolu ya da tam turu bulmak için çeşitli algoritmaların kullanıla-
+bileceği farklı örneklere yer verilir.
+Araç Gereç ve 
+Materyaller
+• Çalışma Kâğıtları
+• Akıllı cihaz veya tabletler
+Yönerge Aşağıdaki işlem basamaklarını takip ederek etkinliği gerçekleştiriniz ve et -kinlik sonunda "Değerlendirme" sorularını cevaplayınız.
+4. ETKINLIK Platonik Cisimlerde Euler Karakteristiği
+Yıldızlı  Etkinlik 

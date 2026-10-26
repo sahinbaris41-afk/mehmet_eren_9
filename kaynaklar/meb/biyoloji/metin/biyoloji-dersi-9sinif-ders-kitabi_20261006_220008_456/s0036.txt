@@ -1,0 +1,40 @@
+36
+1. Tema
+Metabolizma
+Metabolizma, organizmalarda yaşamın devamlılığı için gerçekleştirilen kimyasal 
+reaksiyonlar bütünüdür. Metabolik faaliyetler; besinlerdeki organik moleküllerin 
+yapı taşlarına ayrıştırılması ve bunların yıkılarak enerji elde edilmesinde kullanıl -
+ması, metabolik atıkların organizmadan uzaklaştırılması ve canlılık için gerekli 
+yapısal moleküllerin sentezi şeklinde gerçekleşir. Bu reaksiyonlar organizmada 
+beslenme, enerji üretimi, enerji harcama, büyüme, gelişme, doku onarımı, çevreyle 
+uyum gibi yaşamsal işlevlerin yapılmasını sağlamaktadır.
+Metabolizma süreçleri anabolizma ve katabolizma olmak üzere ikiye ayrılır. Ana-
+bolizma basit yapılı küçük moleküllerin daha karmaşık ve büyük moleküllere 
+dönüştürülmesidir ve yapım süreci olarak da bilinir.  Hücrelerde amino asitlerin 
+proteinlere veya glikozun polisakkaritlere dönüşmesi anabolik reaksiyonlara örnek-
+tir. Katabolizma ise yapısal olarak büyük moleküllerin kendisinden daha küçük 
+bileşenlerine ayrışmasıdır ve yıkım süreci olarak da tanımlanır (Görsel 1.14). Hüc-
+relerde proteinlerin sindirimiyle amino asitlerin oluşturulması ve glikozun enerji 
+üretimi için parçalanması katabolik reaksiyonlara örnektir.
+Görsel 1.14
+Anabolizma ve katabolizma 
+arasındaki fonksiyonel ilişki 
+Küçük moleküller
+Katabolizma
+Anabolizma
+Büyük moleküller
+Su
+Görsel 1.12
+Canlıların büyüme ve gelişmesinde enerji kullanılır. 
+Görsel 1.13
+Olimpiyat ve Avrupa şampiyonu Mete Gazoz
+Kasların kasılması için gerekli enerji ATP molekülünden sağlanır. 
+Enerji Üretimi ve Tüketimi
+Canlılar; hareket etme, büyüme, gelişme, üreme gibi çeşitli yaşamsal faaliyetlerini 
+devam ettirebilmek için enerjiye ihtiyaç duyar (Görsel 1.12). Gerekli olan bu enerji 
+büyük ölçüde ATP molekülünden karşılanır. Besinlerin hücresel yıkımı sırasında 
+serbest kalan enerjinin bir kısmı, ATP molekülünde tutulur ve bu enerji hücresel 
+işlevlerin gerçekleşmesi için kullanılır. Hücre içinde gerçekleşen birçok olay, ATP’nin 
+sağladığı enerjiyle gerçekleştirilir. Protein sentezi, kas kasılması (Görsel 1.13), sinirsel 
+iletim, hücre bölünmesi gibi pek çok süreç ATP olmadan gerçekleşemez. Bu nedenle 
+canlı hücrelerde enerji üretimi ve tüketimi kesintisiz olarak devam eder. 

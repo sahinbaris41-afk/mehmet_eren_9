@@ -1,0 +1,37 @@
+81
+1. Tema /  Sayılar
+7.  
+y
+x
+A
+B
+Yandaki şekilde bir kenar uzunluğu x cm olan özdeş dört karenin birer 
+köşesi, bir kenar uzunluğu y cm olan karenin köşeleri ile çakışıktır. 
+ AB cm 7= ,	 xy 23$ = 	 olduğuna 	 göre 	 şeklin 	 alanının 	 kaç 	 cm2 
+olduğunu	bulunuz.
+8.  
+256
+64
+Yanda bir kenar uzunluğu 256 cm olan kare şeklinde bir zemin veril-
+miştir. Bu zemine bir kenar uzunluğu 64 cm olan, birbirine eş, kare 
+şeklinde 4 adet seramik köşeleri birbirine çakışacak biçimde yapıştırıl-
+mıştır. Geri kalan bölüm mavi renge boyanmıştır. 
+Boyaya	ödenen 	ücretin 	(TL) 	üslü 	gösterimi 	 23 514 24$$ - 	olduğu-
+na	göre 	1 	metrekarelik 	alan 	için 	boya 	ücretinin 	kaç 	TL	olacağını	
+bulunuz.
+9.                       A D
+B C C
+A E
+B Dı
+Şekil 1 Şekil 2
+ 
+ 
+ Ön yüzü mor, arka yüzü sarı olan dikdörtgen şeklindeki bir karton Şekil 1’deki gibi verilmiştir. Bu kar-
+tonun DC kenarı, BC kenarı ile çakışacak biçimde Şekil 2’deki gibi katlanıyor.  Şekil 2’de oluşan EDıC 
+üçgeninin alanı xx cm28 822++_i  ve ABDıE dikdörtgeninin çevre uzunluğu 8x cm’dir. 
+	 Buna 	göre	ABDıE	dikdörtgeninin	alanının	cebirsel	temsilini	bulunuz.	
+Konu ile ilgili çalışma kâğıdına ve 
+bütüncül dereceli puanlama anahtarına 
+ulaşmak için karekodu okutunuz.
+Konu ile ilgili daha fazla soru 
+çözmek için karekodu okutunuz.

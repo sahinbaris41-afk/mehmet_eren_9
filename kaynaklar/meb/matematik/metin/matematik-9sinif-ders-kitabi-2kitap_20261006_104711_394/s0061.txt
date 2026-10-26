@@ -1,0 +1,47 @@
+61
+4. Tema / Eşlik ve Benzerlik
+19. ÖRNEK
+Üstten	 görünümü	 verilen	 bir	 gölette	 Meral;	 A,	 B	
+ve	 C	 noktalarına	 Emine’nin	 görebileceği	 şekilde	
+çubuklar	dikiyor .	Emine	A	ve	B	noktalarındaki	çu-
+buklarla	 aynı	 hizaya	 gelerek	 E	 noktasını,	A	 ve	 C	
+noktalarındaki	 çubuklarla	 aynı	 hizaya	 gelerek	 D	
+noktasını	 işaretliyor.	 Meral	 ve	 Emine	 BC	 uzunlu-
+ğunu	5	m,	AC	uzunluğunu	12	m	ve	DE	uzunluğunu	
+25	m	ölçüyor	ve	göletin	genişliğini	hesaplıyor.
+BC ED'77 AA 	 olduğuna	 göre	 Meral	 ve	 Emine’nin	
+göletin	genişliğini	ifade	eden	 CD  nu	kaç	m	olarak	
+hesapladığını	bulunuz.	
+12
+5
+25
+E
+DC
+B
+A
+2. Birinci adımda ifade edilen teoremin benzer üçgenler oluşturularak nasıl ispatlanabileceğine ilişkin fikirlerinizi 
+açıklayınız. Fikirlerinizi arkadaşlarınızla saygı çerçevesinde tartışınız.
+3. Benzer üçgenler oluşturmak için gerekli çizimleri yapınız ve çiziminizle ilgili açıklamaları yazınız.  
+4. Yaptığınız çizimler sonucunda oluşturduğunuz benzer üçgenlerin kenarları arasındaki orantıyı ifade ediniz.  
+5. Teoremin ispatının tamamlanıp tamamlanmadığına ilişkin fikrinizi ispat sürecinde takip ettiğiniz adımlardan 
+hareketle gerekçelendirerek açıklayınız ve arkadaşlarınızla paylaşarak tartışınız.  
+6. Yaptığınız ispatta kullandığınız yöntemi değerlendirmek için aşağıdaki problemleri çözünüz. 
+a) A
+E
+CB
+D d1
+d2
+Yandaki ABC üçgeninde A, D, B noktaları ile A, E, C noktaları doğrusal;       
+B ve C noktalarından geçen doğru d 2, D ve E noktalarından geçen doğru d 1 
+ve dd12'  olmak üzere DB
+AD
+EC
+AE
+=  olduğunu gösteriniz.
+b) Yandaki ABC üçgeninde D ve F noktası BC kenarı, E noktası AC kenarı 
+üzerindedir. AB ED'77 A A , AD EF'77 AA , CF a birim = , FD b birim =  ve 
+DB c birim =  olarak verilmiştir.
+Buna göre a, b ve c uzunlukları arasındaki ilişkiyi bulunuz.
+A
+E
+B CD F abc

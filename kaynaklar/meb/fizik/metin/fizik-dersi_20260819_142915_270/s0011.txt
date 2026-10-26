@@ -1,0 +1,27 @@
+11
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZİK DERSİ 12. SINIF
+ÜNİTE Öğrenme Çıktısı Sayısı
+Süre
+Ders Saati
+Yüzde Oranı
+(%)
+1. KUVVET VE HAREKET 6 46 32
+2. ENERJİ 6 36 25
+3. DALGALAR 7 22 15
+4. MADDE VE DOĞASI 8 34 24
+  OKUL TEMELLİ PLANLAMA* 6 4
+TOPLAM 27 144 100
+DERS KİTABI FORMA SAYILARI KİTAP EBADI
+FİZİK DERSİ 9. SINIF 17-19 19,5 cm X 27,5 cm
+FİZİK DERSİ 10. SINIF 20-22 19,5 cm X 27,5 cm
+FİZİK DERSİ 11. SINIF 26-28 19,5 cm X 27,5 cm
+FİZİK DERSİ 12. SINIF 24-26 19,5 cm X 27,5 cm
+ 
+1.4. FİZİK DERSİ KİTAP FORMA SAYILARI VE KİTAP EBATLARI
+*Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan çalışmalar (okul dışı öğrenme 
+etkinlikleri, araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma çalışmaları vb.) için 
+ayrılan süredir. Çalışmalar için ayrılan süre eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Okul temelli 
+planlama kapsamında 10. sınıf düzeyinde belirlenen ders saatleri ise öğrencilerin meslek seçimi ve kariyer planlaması 
+yapabilmeleri amacıyla onlara rehberlik edecek şekilde kullanılır. Bu doğrultuda planlanan eğitim öğretim faaliyetleri, 
+mesleki rehberlik ve kariyer danışmanlığı bağlamında yürütülür.

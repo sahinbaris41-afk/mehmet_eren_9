@@ -1,0 +1,43 @@
+37
+ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI
+bileşenleri olarak belirlenir. Ardından öğrencilerin bileşenler arası ilişkileri incelemelerine ve 
+süslemenin nasıl oluşturulduğunu belirlemelerine fırsat verilir. Öğrencilerin süslemeyi oluş-
+turan şekillerin nasıl bir araya getirildiği, tekrar eden şekil ve yapılar, bu şekiller arasındaki 
+benzerlikler, renklerin kullanımı gibi durumlara ilişkin fikirlerini paylaşmaları ve tartışmaları 
+sağlanır (SDB2.1). Böylece öğrencilerin süslemedeki düzeni görmeleri beklenir. Süslemele-
+rin incelenerek yapısının anlaşılması ve çözümlenmesiyle  öğrencilerin görsel okuryazarlık 
+becerilerinin gelişimi de desteklenir (OB4). Öğrencilerin özellikle Türk-İslam kültürüne ait, 
+geometrik şekillerle oluşturulmuş örnekleri incelemeleri; geometrik şekillerin görsel sanat-
+lar ve mimarideki kullanımına ilişkin fikirlerini paylaşmaları sağlanır (SDB2.1). Türk-İslam kül-
+türüne ait mimari eserlerde [cami (Divriği Ulu Cami gibi), medrese (Uluğ Bey Medresesi gibi), 
+Türk hamamı, Selçuklu yıldızı, Anadolu kilim desenleri, geleneksel Türk halı ve kilimlerindeki 
+motifler gibi] yer alan süslemeler incelenerek eserde yer alan şekiller arasındaki örüntüler 
+belirlenir. Farklı kültürlerdeki sanat eserleri ve mimari eserlere dair yapılacak çalışmalarla 
+öğrencilerin farklı toplumların kültürel değerlerine duyarlı olmaları ve saygı duymaları sağ -
+lanır (D14.3). Sanat okuryazarlığı becerileri, üretkenlikleri ve ruhsal gelişimleri desteklenir 
+(OB5, OB9). Bu çalışma ve incelemelerle öğrencilerin sanatı ve estetiği hayatlarının parçası 
+hâline getirmelerine katkı sunulur (D7.1). Farklı kültürlere ve millî kültüre ait geometrik şe -
+killerin oluşturduğu süslemelerin araştırılması ve çözümlenmesine ilişkin araştırma ödevi 
+verilerek öğrencilerin iş birliği becerilerinin geliştirilmesi sağlanabilir. Bu çalışmalarla öğren-
+cilerin gruplar hâlinde performans görevi hazırlarken kendi öğrenme deneyimlerini geliştir-
+meleri desteklenir (SDB1.2). 
+MAT.H.4.5
+Türk-İslam kültüründe ve farklı kültürlerde yer alan sanat ve mimari örneklerinde kullanı -
+lan geometrik şekillerle oluşturulan süsleme ve kaplama örneklerinin incelenmesine yö -
+nelik öğrenme ortamı oluşturulur. Öğrencilerin Cezeri ve M. C. Escher (Eşır) gibi süsleme 
+sanatçılarının eserlerini ayrıca incelemesi sağlanır (OB5). Öğrencilere özdeş çokgenlerden 
+(özdeş eşkenar üçgenler, özdeş düzgün altıgenler gibi) oluşan materyaller yeterli sayıda ve-
+rilir. Düzlemin bunlardan hangileri nasıl bir araya getirilirse üst üste gelmeyecek ve araların-
+da boşluk kalmayacak şekilde kaplanabileceği sorulur. Öğrencilerden tek bir çokgeni kulla-
+narak kaplama oluşturmalarının yanı sıra farklı çokgenleri bir arada kullanarak da kaplama 
+oluşturmaları beklenir. Öğrencilerden yapılan kaplamalarda şekillerin nasıl yerleştirildiğine 
+(öteleme ve simetri) ilişkin açıklama yapması beklenir. Bu süreçte öğrencilerin deneme ya -
+nılma yöntemini kullanarak hangi şekillerle kaplama yapabileceklerini gözlemlemeleri sağ -
+lanır. Ayrıca öğrencilerin gözlemlerinden hareketle kaplama yapabileceği şekiller arasındaki 
+ilişkileri incelemeleri beklenir. Öğrencilerin kaplamada kullanılacak düzgün çokgenlerin ke-
+nar uzunluklarının eşit olması, çokgenlerin bir araya gelen iç açılarının ölçüleri toplamının bir 
+tam açı oluşturması gerektiği gibi sonuçlara ulaşmaları sağlanır. Öğrencilerden belirledikleri 
+şekilleri kullanarak ve ulaştıkları sonuçları değerlendirerek özgün bir kaplama oluşturma -
+ları beklenir. Bilgisayar programları ve tasarım araçlarının geometrik şekillerle süsleme ve 
+kaplama oluşturmak için kullanımı teşvik edilir.  Öğrencilere farklı geometrik şekiller içeren 
+özgün bir desen ve kaplama oluşturmalarına yönelik performans görevi verilebilir.

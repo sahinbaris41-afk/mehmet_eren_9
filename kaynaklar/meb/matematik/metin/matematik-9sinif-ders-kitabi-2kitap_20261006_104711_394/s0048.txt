@@ -1,0 +1,51 @@
+48
+4. Tema / Eşlik ve Benzerlik
+12. ÖRNEK
+Yanda	A	ve	B	noktalarına	yerleştirilen	aynı	görüş	açısına	sahip	
+özdeş	 iki	 kameranın	 düzlemsel	 görüntüsü	 verilmiştir.	 A	 nokta-
+sındaki	kameranın	görüş	açısı	mavi	renkle,	B	noktasındaki	ka-
+meranın	 görüş	 açısı	 pembe	 renkle	 gösterilmiştir.	 ADE	 üçgen-
+sel	bölgesi	her	iki	kameranın	görüş	alanı	içinde	bulunmaktadır.	
+AD ,D EA Emm ve m30 15 25== = 	 olduğuna	 göre	 kamera-
+lar	arasındaki	uzaklığın	kaç	metre	olduğunu	bulunuz.
+Çözüm
+Kameralar	aynı	görüş	açısına	sahip	olduğundan	
+EAD ABEmm =`` jj%% 	olmalıdır.	
+AEB% ,	ABE	ve	ADE	üçgenlerinin	ortak	açısı	olduğundan	A.A.	
+benzerliğinden	ABE DAE BAE ADEve mm+ =`` jj&& %% 	olur.
+AB x=  alınırsa	
+DE
+AE
+AD
+AB x x1525 30 50&&== = 	metre	
+bulunur.
+9. Sıra Sizde      
+Dikey	 kenarının 	 uzunluğu 	 90	 cm	 olan	 KLMN	
+dikdörtgeni	 şeklindeki	 bir	 boy	 aynası,	 KL	 kenarı	
+zemine	paralel	olacak	şekilde	köşelerinden	vida	
+yardımıyla	 duvara	 tutturulmuştur.	 Bir	 süre	 sonra	
+K	noktasındaki	vida	hariç	diğer	vidalar	gevş eyip	
+çıkmış	ve	ayna	KL'M'N'	dikdörtgeni	ile	gösterildiği	
+şekilde	devrilmiştir.	 ' 'M'RK L ,P L 40== 	cm’dir	
+ve	 son	 konumda	 aynanın	 tüm	 köşeleri	 duvara	
+temas	etmektedir.	
+Buna göre aşağıdaki soruları cevaplayınız.
+a) Aynanın alanının kaç cm2 olduğunu bulunuz.
+b) N' köşesinin zemine uzaklığının kaç cm olduğunu bulunuz.
+A
+30 25
+15 ED
+B
+x
+A
+30 25
+15 ED
+B
+K
+P
+L
+M
+M'
+RL'
+N
+N'

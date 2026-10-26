@@ -1,0 +1,46 @@
+29
+1. Tema /  Sayılar
+5.	Sıra	Sizde      
+Ay yüzeyinde yapılan bir deneyde belirli bir yükseklikten bırakılan cismin yere her çarptığında düştüğü, 
+yüksekliğin karekökü kadar yükseldiği görülmüştür.
+Bu	deneye 	göre 	verilen 	tabloyu 	doldurarak 	a 	metre 	yükseklikten 	b ırakılan	c ismin	y ere	1 ,	2	v e	3 .	
+çarpmasından	sonra	kaç	metre	yükseleceğini	b ulunuz.
+Yere	Çarpma	Sayısı Cismin	Yüksekliği 	 (m)
+1. çarpmadan sonra 
+2. çarpmadan sonra 
+3. çarpmadan sonra 
+9. ÖRNEK
+3
+12
+6
+3
+ işleminin sonucunu bulunuz.
+Çözüm
+12 12123 32 6== $  ifadesi işlemde yerine yazıldığında
+3
+12
+3
+12
+3
+12 46
+3
+6
+6
+6== =6  bulunur.
+6.	Sıra	Sizde      
+Aşağıda	verilen	işlemlerin	sonuçlarını	bulunuz.
+a)		
+,,
+,,
+00 91 21
+00 40 36
+-
++  
+b)		 5
+32
+48 6
+$
+-
+33
+33
+ 

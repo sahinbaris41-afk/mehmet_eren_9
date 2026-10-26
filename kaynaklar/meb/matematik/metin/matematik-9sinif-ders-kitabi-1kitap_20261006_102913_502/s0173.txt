@@ -1,0 +1,44 @@
+173
+4. Yandaki şekilde dd12'  olmak üzere d 1, d2, k doğruları ve 
+bu doğruların oluşturduğu açılar verilmiştir. 
+Şekildeki	açılar 	için 	“ters”, 	“iç 	ters”, 	“dış 	ters”, 	“yöndeş”,	
+“karşı	durumlu” 	ifadelerinden 	uygun 	olanları 	kullanarak 	
+aşağıdaki	boşlukları	doldurunuz.
+a ile c açıları ................. açılardır. d ile f açıları ................. açılardır. a ile e açıları ................. açılardır.
+b ile d açıları ................. açılardır. c ile e açıları ................. açılardır. b ile f açıları ................. açılardır.
+e ile g açıları ................. açılardır. b ile h açıları ................. açılardır. c ile g açıları ................. açılardır.
+f ile h açıları ................. açılardır. a ile g açıları ................. açılardır. c ile f açıları ................. açılardır.
+5. 
+Yandaki şekilde AB CD,'  AC BD ,'  EABmx 32 5o=-`j%  
+ve ABDmx 17o=+`j%  dir. 
+Buna	göre		 BDF m a=`j% 	nın	derece	cinsinden	değerini	
+bulunuz.
+6. Matematik dersinde öğretmen tahtaya yandaki soruyu 
+çizmiş ve Beren’den soruyu çözmesini istemiştir. Beren, 
+üçgenin iç açılarının ölçüleri toplamının kaç derece 
+olduğunu unuttuğunu söylemiştir. Öğretmen, Beren’e iki 
+paralelin bir kesenle oluşturduğu açılardan faydalanarak 
+soruyu çözebileceği bilgisini vermiştir.
+ Bunun üzerine Beren görselde gösterildiği gibi AC kenarına 
+paralel ve B noktasından geçen ED doğrusunu çizerek 
+soruyu çözmüştür. 
+Beren	x	ile	gösterilen	açının	ölçüsünü	kaç	derece	bulmuştur?
+7.	 Bir 	ABC 	üçgeni 	ve 	bu 	üçgenin 	kenarlarına 	ait 	yükseklikleri 	çiziniz. 	Çizdiğiniz 	yüksekliklerin 	
+kesişim	noktasının	
+		I. ABC üçgeninin iç bölgesinde, 
+	II. ABC üçgeninin bir köşesi üzerinde,
+III. ABC üçgeninin dış bölgesinde 
+olması	durumunda	ABC 	 üçgeninin 	 açıları 	 bakımından 	 hangi 	 üçgen 	 çeşidi 	 olduğunu 	 açıklayınız.
+b a
+dc d1
+d2
+k
+f e
+h
+g
+C D F
+BA
+E
+3x - 25o
+x + 17o
+a

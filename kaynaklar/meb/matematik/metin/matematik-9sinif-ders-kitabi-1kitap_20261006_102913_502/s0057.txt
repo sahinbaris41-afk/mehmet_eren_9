@@ -1,0 +1,60 @@
+57
+1. Tema /  Sayılar
+ 1.3. SAYI KÜMELERİ VE İŞLEM ÖZELLİKLERİ
+Konuya Başlarken
+1       6    
+2        7    
+3       8    
+4       9    
+5       10  
+  
+1 10 102 103 104 105 106
+1
+3
+1
+5
+ Antik Mısır medeniyetinde yaklaşık 
+3000 yıl önce sayılar, hiyerogliflerin 
+tekrar edilmesiyle ifade edilmiştir. 
+Büyük sayıları göstermek için 10 ’un 
+katlarını tercih eden Antik Mısırlılar, 
+kesirleri birim kesirler yardımıyla 
+göstermiştir (Görsel 2).
+1 1010
+24
+10 4 51
+  Konumsal yazım, matematikte sayıların 
+değerinin sayının yazılışındaki konumuna 
+bağlı olduğu bir sayı yazım sistemidir. 
+Sembolleri tekrar ederek büyük sayıları 
+yazmak zorlaşınca bazı medeniyetler, 
+sayıların gösteriminde konumsal yazımı 
+tercih etmiştir. Mezopotamya coğrafya-
+sında MÖ 1894-MÖ 539 yılları arasında 
+hüküm süren Babilliler, altmışlık sayı 
+sistemiyle konumsal yazım kullanmıştır 
+(Görsel 3).
+Örneğin YBC 7289 adındaki Babil kil tabletinde Görsel 3’te verilen sayı yer almaktadır. 
+Bu sayının günümüzdeki gösterimi 1 . 600 + 24 . 60-1 + 51 . 60-2 + 10 . 60-3 şeklindedir. 
+Babilliler, gösterimlerinde basamakları ayırmak için aralarına boşluk koymuştur.
+İkişer kişilik gruplar oluşturarak aşağıdaki sorularla ilgili fikirlerinizi önce grubunuzla, 
+daha sonra sınıf arkadaşlarınızla paylaşınız.
+1.  A ntik Mısırlıların kullandığı 10 ve 10’un kuvveti olan sayılar, günümüzde farklı olarak 
+üslü şekilde gösterilmektedir. Bu farklılığın sebepleri neler olabilir?
+2.  M ezopotamya coğrafyasında hangi sayı sistemlerinden yararlanılmıştır?
+3.  B abillilerin kullandığı 1 . 600 + 24 . 60-1 + 51 . 60-2 + 10 . 60-3 ifadesi 1,4142’ye eşittir. 
+Babilliler, bu gösterimle ifade ettikleri sayıları günlük hayatta hangi amaçla kullanmış 
+olabilir?
+Eski çağlardan itibaren insanlar mev -
+sim ve ay döngülerini takip etmek, 
+avladıkları hayvan sayısının miktarını 
+belirtmek gibi durumlar için mağara 
+duvarlarına veya ağaç gövdelerine at -
+tıkları çentiklerden yararlanmışlardır 
+(Görsel 1).
+Görsel 2
+Görsel 3
+Görsel 1
+Sayı kümelerinin tarihî gelişimi, matematiksel düşüncenin insan ihtiyaçlarını karşılamak için nasıl değiş-
+tiğini göstermektedir. Her bir yeni kavram ve sayı kümesi, matematiksel bilgi birikimini genişletmiş ve 
+matematiğin uygulamalarını çeşitlendirmiştir.

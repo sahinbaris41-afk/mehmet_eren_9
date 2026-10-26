@@ -1,0 +1,50 @@
+22
+FİZİK DERSİ ÖĞRETİM PROGRAMI
+FİZ.9.2.2
+Öğretmen, skaler ve vektörel nicelikler ile ilgili örnek metin ya da görsel içeren örnek olay 
+gibi teknik ve yöntemden birini kullanılabilir. Öğrenciler, örnek metin veya örnek olayda 
+(OB4) sunulan ve ön öğrenmelerinde yer alan fiziksel niceliklere ilişkin bilgilerle skaler ve 
+vektörel niceliklerin özelliklerini ilişkilendirerek (SDB1.1) belirler (OB1). Öğretmen, soru 
+cevap tekniğini kullanarak öğrencilerin örnek olay ya da örnek metinde geçen skaler ve 
+vektörel niceliklerin benzerlik ve farklılıklarını listelemesini sağlar. Öğrencilerin skaler ve 
+vektörel nicelikleri karşılaştırmaları için yapılandırılmış grid kullanılabilir. 
+FİZ.9.2.3
+Öğretmen kareli düzlem üzerinde eşit, zıt ve gerçek sayı ile çarpılmış vektörleri görsel-
+ler kullanarak gösterebilir. Öğrenciler, görsellerde yer alan tüm vektörleri inceleyerek 
+(OB4) bunların yön ve büyüklüklerini tanımlar. Vektörlerin yön ve büyüklüklerine yönelik 
+elde ettiği verilerden faydalanarak soru cevap tekniğinin kullanıldığı etkileşimli ortamda 
+arkadaşlarına düşüncelerini ifade eder (D4.2, SDB2.1). Öğrenciler, verileri analiz ederek 
+(E3.6) eşit vektör, zıt vektör ve gerçek sayı ile çarpılmış vektöre ilişkin değerlendirmeler 
+yapar. Öğrencilerin farklı vektörleri karşılaştırmaları için açık uçlu sorulardan oluşan bir 
+test kullanılabilir.
+FİZ.9.2.4
+Öğrenciler simülasyon ve animasyon gibi dijital içerikler ya da görseller yardımıyla kareli 
+düzlem üzerinde aynı ve farklı doğrultulardaki iki vektörün toplanmasında kullanılan uç 
+uca ekleme ve paralelkenar yöntemleri ile bileşenlerine ayırma işlemini ve görsellerde 
+yer alan bileşke vektörleri inceler (OB7). Her yöntemin işlem basamaklarını ve sonuçla-
+rını karşılaştırarak toplama işlemleri arasındaki ilişkiyi bulur (E3.4). Sistematik bir şekilde 
+farklı vektörler ve farklı yöntemlerle yapılan toplama işlemleri neticesinde bulunan bileşke 
+vektörlere dayanarak (E3.7) vektörlerin bir boyutta ve iki boyutta toplanmasına yönelik 
+yöntemlerin temel özelliklerini ve farklı yöntemlerle bulunan sonuçları geneller. Trigono-
+metrik hesaplamalardan kaçınılır. Bileşenlerine ayırma işleminde dik kartezyen koordinat 
+sistemi ile sınırlı kalınır. Öğrencilere vektörlerin toplanması konusunda doğru yanlış, boş-
+luk doldurma, eşleştirme sorularından oluşan bir çalışma yaprağı verilebilir. 
+FİZ.9.2.5 
+Öğretmen soru cevap tekniği ile kuvvetin harekete etkilerini hatırlattıktan sonra animas-
+yon, video ya da fotoğraf gibi içeriklerden birini kullanarak doğadaki temel kuvvetlerin et-
+kilerini gösteren görseller sunabilir. Öğrenciler, soru cevap tekniği ile görsellerde yer alan 
+kuvvetlerin temel özelliklerini belirler (OB4). Öğrenciler temel kuvvetlerin benzerliklerini 
+ve farklılıklarını ifade eder, benzerliklere ve farklılıklara odaklanarak (E3.2) doğadaki dört 
+temel kuvveti matematiksel model kullanmadan karşılaştırır. Öğrencilere doğadaki temel 
+kuvvetlerin benzerlikleri ve farklılıkları konusunda bir çıkış kartı verilebilir.
+FİZ.9.2.6
+Öğrenciler, hareketin temel kavramlarının (referans noktası, konum, alınan yol, yer de-
+ğiştirme, sürat, anlık sürat, ortalama sürat, hız, anlık hız, ortalama hız ve ivme) her birine 
+ilişkin öğretmen tarafından sunulan birden fazla görseli inceler. İlgili kavrama ilişkin gör -
+sellerdeki benzerlikleri bulur. Öğrenciler bu benzerliklerden yararlanarak hareketin temel 
+kavramlarını tanımlar. Öğrenciler öğretmen rehberliğinde gruplara ayrılabilir. Öğretmen; 
+drama, rol oynama, dramatizasyon gibi yöntem ve tekniklerden birini kullanabilir. Gruplar-
+dan hareketin temel kavramlarından üç tanesini sürat cezaları ya da trafikteki yeşil dalga 
+ile ilişkilendirerek bu kavramlara yönelik veriler içeren eğlenceli senaryolar oluşturmaları 
+(E2.5) istenir. Bu süreçte öğrencilerden hareketin temel kavramlarını vektörel ve skaler 
+niceliklerle ilişkilendirmesi sağlanır.  Öğrenciler, farklı bakış açılarına sahip akranlarını

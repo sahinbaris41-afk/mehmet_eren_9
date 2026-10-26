@@ -1,0 +1,26 @@
+23
+4. Tema / Eşlik ve Benzerlik
+2. CDEF bölgesine tek bir dönüşüm uygulanarak C''D''E''F''  bölgesinin elde edilip edilemeyeceğine ilişkin fikir -
+lerinizi yazınız. Fikirlerinizi sınıf arkadaşlarınızla tartışınız.
+3. CC'' DD'' EE'' FF'',, ve  nu birim kareler yardımıyla bularak karşılaştırınız. Karşılaştırmanızdan hareketle 
+bu uzunlukların arasında nasıl bir ilişki olduğunu açıklayınız.
+4. 3. adımda ulaştığınız ilişkiden yola çıkarak C''D''E''F'' bölgesinin CDEF nin hangi dönüşüm altındaki görüntü-
+sü olduğunu açıklayınız. Açıklamanızdan hareketle uygulanan dönüşümler arasındaki ilişkiyi ifade ediniz.
+5. d1 ve d2 doğruları arasındaki uzaklığı bulunuz. CC'' DD'' EE'' FF'',, ,  ile d1 ve d2 doğrularının birbirine uzak-
+lığı arasında nasıl bir ilişki olduğunu açıklayınız.
+6. 5. adımda ulaştığınız ilişkiden yola çıkarak dönüşümler arasında nasıl bir ilişki olduğunu ifade ediniz.
+3. Sıra Sizde      
+Etkileşimli tahta veya bilgisayarda matematik yazılımını açınız. Öğretmeninizin rehberliğinde 
+aşağıdaki adımları sırasıyla uygulayınız.
+1. Araçlar	bölümünden	sırasıyla	Çokgen ve Doğru	araçlarını	seçerek	bir	üçgen	ve	bir	doğru	oluşturunuz.
+2. Dönüşüm	bölümünden	Doğruda Yansıt	aracını	seçerek	oluşturduğunuz	üçgenin	doğruya	göre	yan-
+sıma	dönüşümü	altındaki	görüntüsünü	oluşturunuz.
+3. İnşa	bölümünden	Paralel Doğru	aracını	seçiniz	ve	1.	adımda	oluşturduğunuz	doğruya	paralel	bir	
+doğru	çiziniz.
+4. Dönüşüm	bölümünden	Doğruda Yansıt	aracını	seçerek	üçgenin	2.	adımda	oluşturduğunuz	görün-
+tüsünün	3.	adımda	çizdiğiniz	paralel	doğruya	göre	yansıma	dönüşümü	altındaki	görüntüsünü	oluştu-
+runuz.
+5. Araçlar	bölümünden	Doğru Parçası	aracını	seçerek	1.	adımda	oluşturduğunuz	üçgenin	köşe	nok-
+talarını	4.	adımda	oluşturduğunuz	görüntüleriyle	birleştiriniz.
+6. Ölçüm	bölümünden	Uzaklık veya Uzunluk	aracını	seçerek	5.	adımda	oluşturduğunuz	doğru	parça-
+larının	uzunluklarını	ve	paralel	doğrular	arasındaki	uzaklığı	belirleyiniz.

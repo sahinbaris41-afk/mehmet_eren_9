@@ -1,0 +1,40 @@
+38
+1. Tema /  Sayılar
+2.   A firmasına ait otobüsler 1, 2, 3, 4, 5, 6, 7, 8 ve 9. peronlardan kalkış yapmaktadır. Bu ifade, semboller kullanılarak 
+ A1 ,2 ,3 ,4 ,5 ,6 ,7 ,8 ,9= #-  şeklinde yazılabilir. Bu gösterimde “ #- ” sembolü kullanılır ve  sayıların arasına 
+virgül konur.
+ A  firmasına ait otobüslerin kalkış yaptığı peron numaraları +Ax x 100, x Z2= 1;!#-  şeklinde de göste-
+rilebilir. Bu gösterimde gösterilecek sayıların ortak özellikleri dikkate alınır. x değişkeni sayıları temsil eder. 
+Genel olarak Ax xğ ıı ıöin sahip oldu u tan mlay c zellikler= ;#-  şeklinde gösterilir. “;” sembolü “öyle ki” an-
+lamına gelmektedir. 
+ Buna göre B, C ve D firmalarına ait otobüslerin kalktıkları peron numaralarını belirleyerek iki farklı gösterimle 
+yazınız. 
+ B =      B =
+ C =      C =
+ D =      D = 
+3.  A firmasına ait bilgideki pozitif tam sayı, pozitif rasyonel sayı olarak ifade edilseydi yine iki farklı gösterimle 
+yazılabilir miydi? Gerekçelerinizle açıklayınız.
+4.  A  firmasına ait otobüslerin kalkış yapacağı toplam 9 peron vardır. Bu ifade matematiksel olarak s(A) = 9 olarak 
+yazılır ve A nın 9 tane sayıdan oluştuğunu ifade eder. B, C ve D firmalarına ait otobüslerin kalktıkları peron 
+numaralarının kaçar tane olduklarını bularak matematiksel sembollerle yazınız.
+5.  A firmasına ait otobüslerin kalkış yapıp C firmasına ait otobüslerin kalkış yapmadığı peron numaraları, 
+matematiksel olarak AC=  şeklinde ifade edilir. Bu ifadeye karşılık gelen peron numaralarını belirleyiniz; 
+2. sorudaki gibi iki farklı gösterimle yazınız. 
+ AC=  =  
+ AC=  =  
+6.  A veya B firmalarına ait otobüslerin kalkış yaptığı peron numaraları, matematiksel olarak AB,  şeklinde ifade 
+edilir. Bu ifadeye karşılık gelen peron numaralarını belirleyiniz, 2. sorudaki gibi iki farklı gösterimle yazınız. 
+ AB,  =  
+ AB,  =  
+7.  Hem C hem de D firmalarına ait otobüslerin kalkış yaptığı peron numaraları matematiksel olarak CD+  şek-
+linde ifade edilir. Bu ifadeye karşılık gelen peron numaralarını belirleyiniz, 2. sorudaki gibi iki farklı gösterimle 
+yazınız. 
+ CD+  =  
+ CD+  =  
+8.  A firmasına ait otobüslerin kalkış yapmadığı peron numaraları matematiksel olarak Al şeklinde ifade edilir. Bu 
+ifadeye karşılık gelen peron numaralarını belirleyerek 2. sorudaki gibi iki farklı gösterimle yazınız. 
+ Al =  
+ Al =  
+9.  B firmasına ait otobüslerin kalkış yaptığı tüm peronlardan A firmasına ait otobüsler de kalkış yapmaktadır. Bu 
+durum matematiksel olarak AB 3  biçiminde ifade edilir.  A ve B firmasının kalkış yaptığı peronları belirleyerek 
+listeleme yöntemiyle yazınız.

@@ -1,0 +1,49 @@
+193
+2. Tema/Çeşitlilik
+Sıvıların sıcaklığı arttıkça moleküller arası etkileşim kuvvetleri zayıflar. Bu 
+durumda akışkanlık artar, viskozite azalır. Yollara asfalt dökülürken ziftin ısı-
+tılması, reçelin kavanozlara sıcak doldurulması gibi durumlar akışkanlığın sı-
+caklıkla artması ve viskozitenin azalması ile ilgilidir.
+1. Sıvıların akışkanlığına ilişkin deneylere başlamadan “Ekler” bölümündeki 8. Form’u doldurunuz.
+2. Deneyin amacına uygun çeşitli sıvılar seçiniz.
+3. Deneyin amacına uygun bir deney planı hazırlayınız ve deneyi gerçekleştiriniz.
+4. Deney sonuçlarını bir rapor hâline getirerek öğretmeninizle paylaşınız.
+5. Sıvıların akışkanlığına ilişkin deneyleri tamamladıktan sonra “Ekler” bölümündeki 9. Form’u doldurunuz.
+Performans Görevi Sıvılarda Akışkanlık 
+Sevgili Öğrenciler,
+Sizden çeşitli sıvıların moleküller arası etkileşimleri ile akışkanlığı arasındaki neden-sonuç ilişkisini belirle -
+meniz amacıyla bir deney tasarlamanız, deneyi uygulamanız ve rapor hazırlamanız beklenmektedir.
+Aşağıdaki adımları uygulayarak deneyi gerçekleştiriniz. 
+Değerlendirme
+Yapılan deney; sıvıların niteliklerini tanımlama, deney planı hazırlama, deney düzeneğini hazırlama, 
+deneyin yapılışı, deneyde elde edilen verileri kaydetme ve deney verilerini açıklama ölçütlerine göre 
+öğretmeniniz tarafından “Ekler” bölümündeki 10. Form ile değerlendirilecektir.
+Aşağıdaki soruları deney düzenekleri, tablo ve metinden faydalanarak cevaplayınız.
+Akışkanlık ile ilgili yapılan bir deneyde özdeş tüplere eşit miktarda üç farklı sıvı konuluyor ve sıvıların 
+içerisine özdeş çelik bilyeler aynı anda ve aynı yükseklikten bırakılıyor. Aşağıdaki tabloda deneylerde 
+kullanılan sıvılarla ilgili bazı bilgiler ve 10 saniye sonra çelik bilyelerin sıvılardaki konumu verilmiştir. 
+Tüpler eşit bölmelidir ve her bölme 2 cm’dir.
+Kontrol Noktası 2.11
+25 
+o
+C 25 
+o
+C 25 
+o
+C 30 
+o
+C 15 
+o
+C 60 
+o
+C
+Propil alkol GliserinPropilen glikol Propil alkol GliserinPropilen glikol
+I. tüp IV. tüpII. tüp V. tüpIII. tüp VI. tüp
+Sıvılar Propil alkol(C3H8O) Propilen glikol(C3H8O2) Gliserin(C3H8O3)
+Yapı CH3 CH2 CH2 OH CH3 CH CH2
+OH OH
+CH2 CH CH2
+OH OH OH
+Viskozite kavramı ile ilgili 
+etkileşimli içeriğe ulaşmak 
+için karekodu okutunuz.
