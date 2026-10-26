@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Barbaros 9 · Çalışma Masası</title>
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="stil.css">
+</head>
+<body>
+<header class="band">
+  <div class="wrap band-bar no-print">
+    <label class="sr-only" for="tema-sec">Tema</label>
+    <select class="btn" id="tema-sec">
+      <option value="sistem">Tema: sistem</option>
+      <option value="acik">Tema: açık</option>
+      <option value="koyu">Tema: koyu</option>
+    </select>
+    <button class="btn" id="btn-kilavuz" type="button" aria-haspopup="dialog" aria-controls="kilavuz">Kılavuz</button>
+  </div>
+  <div class="wrap">
+    <div>
+      <div class="eyebrow">Gölcük Barbaros Anadolu Lisesi · 9. sınıf</div>
+      <h1>Mehmet Eren Çalışma Masası</h1>
+      <p id="band-not">Küçük adımlar, her gün. Yanlış yaparsan yeni sayılarla tekrar deneriz.</p>
+    </div>
+    <div class="kpis" aria-label="Genel durum">
+      <div class="kpi"><b id="k-dk">0</b><span>Bugün dk</span></div>
+      <div class="kpi"><b id="k-dogruluk">–</b><span>Doğruluk</span></div>
+      <div class="kpi"><b id="k-tekrar">0</b><span>Tekrar</span></div>
+    </div>
+  </div>
+  <nav class="wrap menu no-print" id="menu" aria-label="Ana menü"></nav>
+</header>
+
+<div id="uyari" role="alert" hidden><div class="wrap" id="uyari-ic"></div></div>
+
+<main class="wrap" id="gorunum" tabindex="-1"></main>
+
+<footer>
+  <div class="wrap">
+    <span id="depo-durum"></span>
+    <span>Bu panel internetsiz çalışır. İlerleme bu cihazda saklanır; haftada bir Veli ekranından yedek al.</span>
+  </div>
+</footer>
+
+<dialog class="guide-dlg" id="kilavuz" aria-labelledby="kilavuz-baslik">
+  <div class="dlg-head">
+    <div>
+      <div class="eyebrow">Barbaros 9 · Kılavuz</div>
+      <h2 id="kilavuz-baslik">Nasıl kullanılır?</h2>
+    </div>
+    <button class="btn" type="button" id="kilavuz-kapat" aria-label="Kılavuzu kapat">✕</button>
+  </div>
+  <div class="dlg-body" id="kilavuz-ic"></div>
+</dialog>
+
+<script src="motor/rastgele.js"></script>
+<script src="motor/soru.js"></script>
+<script src="motor/oturum.js"></script>
+<script src="motor/tekrar.js"></script>
+<script src="motor/uretecler/ornek.js"></script>
+<script src="data/takvim.js"></script>
+<script src="data/ornek.js"></script>
+<script src="ekranlar/_ortak.js"></script>
+<script src="ekranlar/ana.js"></script>
+<script src="ekranlar/ders.js"></script>
+<script src="ekranlar/konu.js"></script>
+<script src="ekranlar/alistirma.js"></script>
+<script src="ekranlar/yazili.js"></script>
+<script src="ekranlar/ortak.js"></script>
+<script src="ekranlar/tekrar.js"></script>
+<script src="ekranlar/veli.js"></script>
+<script src="ekranlar/kilavuz.js"></script>
+<script src="uygulama.js"></script>
+</body>
+</html>

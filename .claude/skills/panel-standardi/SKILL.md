@@ -47,47 +47,108 @@ description: "Barbaros 9 panelinin (panel/) tasarım tokenları, bileşenleri, g
 - Üs ve alt indis için Unicode karakter; gerekirse `el("sup")`.
 - Yasak: `innerHTML`, `outerHTML=`, `insertAdjacentHTML`, `eval`, `new Function`, `document.write`, ağ isteği.
 
-## 4. Veri sözleşmesi
+## 4. Veri sözleşmesi (bağlayıcı)
 
-### `panel/data/<ders>.js` (dersler/**.json'dan derlenir, elle yazılmaz)
+### Dosya düzeni
+```
+panel/
+  index.html                kabuk: tokenlar, band, görünüm kökü, <script> sırası
+  stil.css                  (index.html içinde de olabilir)
+  fonts/                    IBM Plex woff2 + OFL lisansı
+  motor/rastgele.js         B9.rastgele  (uretec-muhendisi)
+  motor/soru.js             B9.soru      (uretec-muhendisi)
+  motor/oturum.js           B9.oturum    (panel-gelistirici)
+  motor/tekrar.js           B9.tekrar    (panel-gelistirici)
+  motor/uretecler/<ders>.js window.URETECLER.push(...)
+  data/takvim.js            window.TAKVIM (tools/takvim_derle.py üretir, docs/takvim.md'den)
+  data/<ders>.js            window.DERSLER.push(...)
+  ekranlar/*.js             B9.ekranlar.<ad> = { baslik, render(kok, params) }
+  uygulama.js               yönlendirici + başlatma
+tools/uretec_test.mjs       üreteçlerin 300 tohum testi (node)
+tools/motor_test.mjs        tekrar.js ve oturum.js göç testleri (node)
+tools/dogrula.py            hepsini çalıştıran kapı
+```
+- Modül sistemi yok (`file://`). Her dosya `window.B9 = window.B9 || {}` ile tek isim alanına yazar.
+- `motor/*.js` ve `motor/uretecler/*.js` **DOM'a dokunmaz**; Node'da `vm` ile de yüklenebilir. Global için `const G = typeof window !== "undefined" ? window : globalThis;`.
+- Yükleme sırası: `rastgele.js → soru.js → oturum.js → tekrar.js → uretecler/*.js → data/takvim.js → data/*.js → ekranlar/*.js → uygulama.js`.
+
+### `B9.rastgele` (motor/rastgele.js)
 ```js
-window.DERSLER = window.DERSLER || [];
-window.DERSLER.push({
-  v: 1, ders: "matematik", ad: "Matematik", haftalik_saat: 6,
-  harita: { uniteler: [ /* harita.json'daki uniteler, kitap/dogrula alanları dahil */ ] },
-  konular: { "matematik-u1-k1": { /* konu kartı, konu-karti-semasi */ } },
-  sorular: { "matematik-u1-k1": [ /* soru-yazim-kurallari şeması */ ] },
-  sinavlar: [{ ad: "1. Dönem 2. Yazılı (Ülke Geneli)", tarih: "2027-01-06", yazili: "1D2Y", tur: "ulke" }]
+B9.rastgele = {
+  rng(tohum),            // mulberry32 → () => [0,1); aynı tohum aynı dizi
+  yeniTohum(),           // Date.now() ^ sayaç, 32 bit tamsayı
+  pick(rng, dizi), rint(rng, a, b), shuffle(rng, dizi) /* kopya döndürür */,
+  sayi(x),               // tr-TR biçim: 2,5  (virgül)
+  ISIMLER: [...], YERLER: ["Gölcük", "Değirmendere", "İzmit", "Karamürsel", ...], BAGLAMLAR: ["tersane", "deniz", "futbol", "okul", "market"]
+};
+```
+
+### Üreteç (motor/uretecler/<ders>.js)
+```js
+(G.URETECLER = G.URETECLER || []).push({
+  id: "ornek-uslu-carpma", konu_id: "ornek-u1-k1", ogrenme_ciktisi: "9.1.1", zorluk: 1,
+  kaynak: { kitap: "...", sayfa: "13-20" },
+  gen(rng) {   // saf; yalnızca rng kullanır
+    return {
+      params: { a: 2, n: 3 },                       // kontrol için
+      baglam: "Gölcük'te ...", kok: "... kaçtır?",
+      dogru: "8",
+      yanlislar: [{ metin: "6", hata_turu: "us_carpma", aciklama: "Tek cümle, azarlamasız." }, ...],  // ≥ 3, birbirinden ve doğrudan farklı
+      ipuclari: ["...", "...", "..."],              // tam 3
+      cozum: ["1. ...", "2. ..."]                   // ≥ 2
+    };
+  },
+  kontrol(params) { return "8"; }                    // bağımsız hesap; gen'deki formül kopyalanmaz
 });
 ```
 
-### `panel/uretecler/<ders>.js`
+### `B9.soru` (motor/soru.js): ekranların kullandığı tek soru nesnesi
 ```js
-window.URETECLER = window.URETECLER || [];
-window.URETECLER.push({ id, konu_id, ogrenme_ciktisi, zorluk, kaynak, gen(rng) { return { kok, dogru, yanlislar: [{metin, hata_turu}], ipuclari, cozum }; } });
+B9.soru.uretecten(uretec, tohum)  -> Soru
+B9.soru.statikten(statikSoru, tohum) -> Soru   // soru-yazim-kurallari şeması
+B9.soru.uretecDene(uretec, adet)  -> { ok, hatalar: [..] }   // selfCheck ve node testi kullanır
+B9.soru.kontrol(soru, secimIndex|metin) -> { dogru: bool, hata_turu, aciklama }
+// Soru:
+{ anahtar: "uretec:<id>" | "konu:<konu_id>", soru_id, uretec_id?, tohum, konu_id, tip: "coktan"|"acik"|"dogru_yanlis"|"bosluk"|"eslestirme",
+  zorluk, baglam, kok, secenekler: [{ metin, dogru, hata_turu, aciklama }] /* coktan: 4, karıştırılmış */, dogru_index,
+  cevap, kabul_edilenler, ipuclari: [3], cozum: [...], rubrik: [{ olcut, puan }] | null, puan, kaynak, ogrenme_ciktisi }
 ```
-- `rng` = `panel/uretecler/_ortak.js` içindeki tohumlu üreteç (mulberry32). Aynı tohum aynı soruyu verir.
+- `buildQuestion` mantığı referanstan: yanlışları tekilleştir, doğruyu çıkar, 3 yanlış seç, karıştır. Karıştırma `tohum`la yapılır (yeniden üretilebilir).
 
-### Yükleme sırası (`index.html`)
-`_ortak.js` → `uretecler/*.js` → `data/*.js` → `app.js`. Hepsi `<script src>` (file:// uyumlu, `type="module"` değil).
+### `panel/data/<ders>.js`
+```js
+(window.DERSLER = window.DERSLER || []).push({
+  v: 1, ders: "ornek", ad: "Örnek Ders", haftalik_saat: 2,
+  harita: { uniteler: [{ id: "ornek-u1", ad: "...", konular: [{ id: "ornek-u1-k1", ad: "...", yazili: ["1D1Y"], ogrenme_ciktilari: [{kod, metin}] }] }] },
+  konular: { "ornek-u1-k1": { /* konu-karti-semasi */ } },
+  sorular: { "ornek-u1-k1": [ /* soru-yazim-kurallari; en az 1 coktan + 1 acik (rubrikli) */ ] }
+});
+```
 
-### localStorage
-- Anahtar: `barbaros9:<kullanici>` (varsayılan `mehmet-eren`). Adaptör arayüzü referanstaki gibi `load/save/clear`.
+### `window.TAKVIM` (data/takvim.js)
+```js
+window.TAKVIM = { kaynak: "docs/takvim.md", sinavlar: [{ ders: "matematik", ad: "Matematik ortak yazılı (ülke geneli)", tarih: "2027-01-06", yazili: "1D2Y", tur: "ulke" }] };
+```
+
+### localStorage (`motor/oturum.js`)
+- Anahtar `barbaros9:<kullanici>` (varsayılan `mehmet-eren`). Adaptörler `load/save/clear` (async). `LocalStorageAdapter` bellek yedekli. `RestApiAdapter` Faz 2 için kodda durur, kullanılmaz.
+- **Şema sürümü `v` + göç:** `GOCLER = { 1: d => ({...d, v: 2}), ... }`. Yüklenen veri eski sürümse sırayla göç edilir. Bilinmeyen/yeni sürüm → veriye dokunma, salt okur uyarısı.
 ```jsonc
 {
   "v": 1,
-  "kutular": { "konu:matematik-u1-k1": { "kutu": 2, "sonraki": "2026-10-28", "son": "2026-10-26" },
-               "uretec:mat-uslu-carpma": { ... } },
-  "istatistik": { "matematik-u1-k1": { "t": 12, "c": 9, "ipucu": 4 } },
-  "iz": [{ "ts": 1793009668577, "ogren": "uretec:mat-uslu-carpma", "tohum": 123, "ok": false, "derinlik": 0, "ipucu": 2, "hata_turu": "us_carpma", "sure_sn": 41 }],
-  "notlar": { "matematik-u1-k1": "..." },
-  "oturumlar": [{ "gun": "2026-10-26", "dk": 25 }]
+  "kutular": { "uretec:ornek-uslu-carpma": { "kutu": 2, "sonraki": "2026-10-28", "son": "2026-10-26", "seri": 1 } },
+  "istatistik": { "ornek-u1-k1": { "t": 12, "c": 9, "ipucu": 4 } },
+  "iz": [{ "ts": 0, "anahtar": "uretec:ornek-uslu-carpma", "konu_id": "ornek-u1-k1", "ders": "ornek", "tohum": 123, "ok": false, "derinlik": 0, "ipucu": 2, "hata_turu": "us_carpma", "sure_sn": 41 }],
+  "notlar": { "ornek-u1-k1": "..." },
+  "dakika": { "2026-10-26": 25 },
+  "acik": { "<soru_id>": [{ "ts": 0, "metin": "...", "isaretler": [true, false], "puan": 6, "veli_onay": false }] },
+  "ayarlar": { "tema": "sistem|acik|koyu", "buyuk_yazi": false, "veli_pin": null }
 }
 ```
-- `iz` en çok 500 kayıt. Veli Paneli ve hata analizi buradan.
-- **JSON dışa aktarma:** `barbaros9_<tarih>.json`, tüm nesne. **İçe aktarma:** `v` kontrolü, şema doğrulama, önce yedek. Bozuk dosya mevcut ilerlemeyi silmez.
+- `iz` en çok 500 kayıt. **JSON dışa aktarma:** `barbaros9_<YYYY-AA-GG>.json`. **İçe aktarma:** JSON ayrıştır → `v` ve alan doğrula → mevcut veriyi `barbaros9:<kullanici>:yedek` anahtarına kopyala → yaz. Bozuk dosya hiçbir şeyi silmez.
+- Veli PIN'i 4 hane, düz saklanır (güvenlik değil, öğrenci/veli ekranı ayrımı). Arayüzde bu açıkça yazar.
 
 ## 5. selfCheck (açılışta)
-1. Her üreteç 50 tohum: 4 farklı şık, tek doğru, 3 ipucu.
-2. Her `DERSLER` kaydında konu kartı ve soru id'leri haritadaki konu id'lerine bağlı.
-3. Hata varsa başlık bandının altında görünür uyarı ("3 üreteç hatalı: ..."), konsola da yazılır.
+1. Her üreteç `B9.soru.uretecDene(u, 50)`: 4 farklı şık, tek doğru, 3 ipucu, `kontrol(params) === dogru`.
+2. Her `DERSLER` kaydında `konular`/`sorular` anahtarları haritadaki konu id'lerine bağlı; üreteçlerin `konu_id`'si bir haritada var.
+3. Hata varsa başlık bandının altında görünür uyarı, konsola da yazılır.

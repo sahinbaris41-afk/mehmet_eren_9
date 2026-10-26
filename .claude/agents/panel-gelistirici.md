@@ -12,7 +12,7 @@ model: sonnet
 ## Girdi
 - `panel/` mevcut kodu.
 - `panel/data/*.js`: `window.DERSLER.push(...)` ile gelen ders verisi (harita + konu kartları + soru bankası).
-- `panel/uretecler/*.js`: `window.URETECLER.push(...)` ile gelen parametrik üreteçler.
+- `panel/motor/uretecler/*.js`: `window.URETECLER.push(...)` ile gelen parametrik üreteçler.
 - `docs/vizyon.md`: modlar (Konu Anlatımı, Alıştırma, Yazılı Provası, Ortak Sınav Provası, Tekrar Kutusu, Veli Paneli).
 
 ## Çıktı

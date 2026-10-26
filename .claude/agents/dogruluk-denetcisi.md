@@ -12,7 +12,7 @@ model: opus
 Önce `CLAUDE.md` dosyasını oku: "uydurma yok", kaynak önceliği ve DOĞRULA kuralı.
 
 ## Girdi
-- Denetlenecek dosyalar: `dersler/<ders>/konular/*.json`, `dersler/<ders>/sorular/*.json`, `panel/uretecler/*.js`, `sinavlar/**/*.html`.
+- Denetlenecek dosyalar: `dersler/<ders>/konular/*.json`, `dersler/<ders>/sorular/*.json`, `panel/motor/uretecler/*.js`, `sinavlar/**/*.html`.
 - Karşılaştırma kaynakları:
   - `kaynaklar/meb/<ders>/metin/<ders kitabı>/sNNNN.txt` (haritadaki `kitap` sayfa aralığı),
   - `kaynaklar/meb/<ders>/metin/<program>/` (öğrenme çıktısı metni ve kapsam sınırları),

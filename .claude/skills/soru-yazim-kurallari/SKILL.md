@@ -86,6 +86,8 @@ Kaynak: `kaynaklar/meb/ortak_sinav/kilavuz/tymm_coktan_secmeli_soru_yazim_kilavu
 | `isaret_hatasi` | negatif işareti kaybetmek |
 | `us_carpma` | üssü tabanla çarpmak (2³ = 6) |
 | `us_eksik` | üssü bir eksik/fazla uygulamak |
+| `taban_carpma` | aynı tabanlı çarpımda tabanları da çarpmak ((a·a)^(m+n)) |
+| `sifir_us` | a⁰'ı 0 sanmak |
 | `kok_toplama` | √a + √b = √(a+b) sanmak |
 | `aralik_uc` | açık/kapalı aralık ucunu karıştırmak |
 | `birim_cevirme` | birim dönüşümü yapmamak |
