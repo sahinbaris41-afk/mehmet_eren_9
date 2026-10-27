@@ -1,0 +1,1141 @@
+{
+ "konu_id": "matematik-u1-k1",
+ "surum": 3,
+ "sorular": [
+  {
+   "id": "matematik-u1-k1-s001",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "3⁻² ifadesinin değeri aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "−9",
+     "dogru": false,
+     "hata_turu": "negatif_us",
+     "aciklama": "Negatif üs sonucu eksi yapmaz; sayıyı kesrin paydasına gönderir."
+    },
+    {
+     "metin": "1/9",
+     "dogru": true
+    },
+    {
+     "metin": "−6",
+     "dogru": false,
+     "hata_turu": "us_carpma",
+     "aciklama": "Burada 3 ile −2'yi çarptın; üs, tabanın kaç kez çarpılacağını söyler."
+    },
+    {
+     "metin": "1/6",
+     "dogru": false,
+     "hata_turu": "us_carpma",
+     "aciklama": "Paydaya gönderme doğru, ama 3² = 3 · 3 = 9 olur, 3 · 2 değil."
+    }
+   ],
+   "cevap": "1/9",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Üs negatif; bu, sayının kesrin neresine gideceğini söyler.",
+    "a⁻ⁿ = 1/aⁿ kuralını kullan.",
+    "3⁻² = 1/3² yaz; şimdi 3²'yi hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. Negatif üs sayıyı paydaya gönderir: 3⁻² = 1/3².",
+    "2. 3² = 3 · 3 = 9.",
+    "3. Sonuç 1/9 olur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "negatif_us",
+    "us_carpma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.14",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s002",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "a",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Can, (−2)⁴ ile −2⁴ ifadelerinin aynı sayıya eşit olduğunu tahmin ediyor.",
+   "kok": "Can'ın varsayımı doğrudur. (Doğru / Yanlış)",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "Parantez varken −2 dört kez çarpılır ve 16 çıkar; parantez yokken yalnız 2 çarpılır, sonuç −16 olur.",
+   "ipuclari": [
+    "Parantezin neyi kapsadığına bak.",
+    "(−2)⁴'te taban −2'dir; −2⁴'te taban 2'dir ve eksi en sonda gelir.",
+    "(−2) · (−2) · (−2) · (−2) ile −(2 · 2 · 2 · 2) değerlerini ayrı ayrı hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. (−2)⁴ = (−2) · (−2) · (−2) · (−2) = 16 (dört eksi çarpılınca artı olur).",
+    "2. −2⁴ = −(2 · 2 · 2 · 2) = −16.",
+    "3. 16 ≠ −16 olduğundan varsayım yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "parantez_isaret"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.14",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s003",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "(−3)⁰ + 2⁻² − (−1)³ işleminin sonucu kaçtır?",
+   "secenekler": [
+    {
+     "metin": "5/4",
+     "dogru": false,
+     "hata_turu": "sifir_us",
+     "aciklama": "(−3)⁰'ı 0 aldın; sıfırdan farklı her sayının sıfırıncı kuvveti 1'dir."
+    },
+    {
+     "metin": "−2",
+     "dogru": false,
+     "hata_turu": "negatif_us",
+     "aciklama": "2⁻²'yi −4 aldın; negatif üs sayıyı paydaya gönderir, 2⁻² = 1/4 olur."
+    },
+    {
+     "metin": "1/4",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "(−1)³'ü 1 aldın; üs tek olduğu için (−1)³ = −1 olur."
+    },
+    {
+     "metin": "9/4",
+     "dogru": true
+    }
+   ],
+   "cevap": "9/4",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Her terimi ayrı ayrı hesapla, sonra birleştir.",
+    "Sıfır üs, negatif üs ve tek üs kurallarını sırayla uygula.",
+    "(−3)⁰ = 1 yaz; şimdi 2⁻² ve (−1)³'ü bul."
+   ],
+   "cozum_adimlari": [
+    "1. (−3)⁰ = 1 (taban sıfırdan farklı).",
+    "2. 2⁻² = 1/2² = 1/4.",
+    "3. (−1)³ = −1 (üs tek).",
+    "4. 1 + 1/4 − (−1) = 1 + 1/4 + 1 = 2 + 1/4.",
+    "5. 2 + 1/4 = 8/4 + 1/4 = 9/4."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "sifir_us",
+    "negatif_us",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.14",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s004",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük'teki bir tersanede bir gemi pervanesinin kütlesi yaklaşık 45 000 kg'dır.",
+   "kok": "Bu kütlenin kilogram cinsinden bilimsel gösterimi aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "45 · 10³",
+     "dogru": false,
+     "hata_turu": "bilimsel_katsayi",
+     "aciklama": "Değer doğru ama 45, 10'dan büyük. Bilimsel gösterimde öndeki sayı 1'e eşit ya da 1'den büyük, 10'dan küçük olur."
+    },
+    {
+     "metin": "4,5 · 10⁴",
+     "dogru": true
+    },
+    {
+     "metin": "0,45 · 10⁵",
+     "dogru": false,
+     "hata_turu": "bilimsel_katsayi",
+     "aciklama": "Değer doğru ama 0,45, 1'den küçük. Bilimsel gösterimde öndeki sayı 1'e eşit ya da 1'den büyük, 10'dan küçük olur."
+    },
+    {
+     "metin": "4,5 · 10³",
+     "dogru": false,
+     "hata_turu": "us_eksik",
+     "aciklama": "Virgülü 4 basamak kaydırdın ama üssü 3 yazdın; 4,5 · 10³ = 4500 olur."
+    }
+   ],
+   "cevap": "4,5 · 10⁴",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Bilimsel gösterimde öndeki sayının hangi aralıkta olması gerektiğini hatırla.",
+    "45 000'i 4,5 yapmak için virgülü kaç basamak sola kaydırman gerektiğini say.",
+    "45 000 → 4,5: virgülün geçtiği basamakları tek tek say; üs bu sayı olur."
+   ],
+   "cozum_adimlari": [
+    "1. Öndeki sayı 1 ≤ |a| < 10 olmalı; 45 000 için bu sayı 4,5'tir.",
+    "2. 45 000'den 4,5'e gelmek için virgül 4 basamak sola kayar.",
+    "3. 45 000 = 4,5 · 10⁴.",
+    "4. 45 · 10³ ve 0,45 · 10⁵ aynı değere eşittir ama öndeki sayılar 1 ≤ |a| < 10 koşulunu sağlamadığı için bilimsel gösterim değildir."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "bilimsel_katsayi",
+    "us_eksik"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.22-23",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s005",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "d",
+   "tip": "bosluk",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük'te bir su deposuna sabah 5 · 10³ litre, akşam 0,3 · 10⁴ litre su dolduruluyor.",
+   "kok": "Depoya gün boyunca doldurulan toplam su ______ · 10³ litredir.",
+   "secenekler": null,
+   "cevap": "8",
+   "kabul_edilenler": [
+    "8"
+   ],
+   "yanlis_aciklama": "Önce iki terimi 10³'e eşitlemelisin: 0,3 · 10⁴ = 3 · 10³; sonra yalnız katsayılar toplanır.",
+   "ipuclari": [
+    "İki terimde 10'un kuvvetleri aynı mı, bak.",
+    "Toplamadan önce kuvvetleri 10³'te eşitle; sonra katsayıları topla.",
+    "0,3 · 10⁴ = 0,3 · 10 · 10³ = 3 · 10³ yaz."
+   ],
+   "cozum_adimlari": [
+    "1. Kuvvetler farklı (10³ ve 10⁴); önce eşitleyelim.",
+    "2. 0,3 · 10⁴ = 3 · 10³.",
+    "3. 5 · 10³ + 3 · 10³ = (5 + 3) · 10³ = 8 · 10³.",
+    "4. Boşluğa 8 yazılır (8 · 10³ = 8000 litre)."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "farkli_kuvvet_toplama",
+    "us_eksik"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.16",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s006",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "d",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'teki bir tersanenin üç deposundaki civata sayıları aşağıdaki tabloda verilmiştir.\nTablo: Depolardaki Civata Sayıları\nA deposu: 0,24 · 10⁶\nB deposu: 360 · 10³\nC deposu: 1,4 · 10⁵",
+   "kok": "Üç depodaki toplam civata sayısı K · 10⁴ olduğuna göre K'nin değerini işlemlerinizi göstererek bulunuz. (15 puan)",
+   "secenekler": null,
+   "cevap": "1. Toplamı bulmak için üslü gösterimleri 10⁴'te eşitleyelim. 2. A: 0,24 · 10⁶ = 24 · 10⁴. 3. B: 360 · 10³ = 36 · 10⁴. 4. C: 1,4 · 10⁵ = 14 · 10⁴. 5. 24 · 10⁴ + 36 · 10⁴ + 14 · 10⁴ = (24 + 36 + 14) · 10⁴ = 74 · 10⁴. 6. 74 · 10⁴ = K · 10⁴ olduğundan K = 74 bulunur.",
+   "kabul_edilenler": [
+    "74",
+    "K = 74"
+   ],
+   "ipuclari": [
+    "Üç sayıyı toplamak için 10'un kuvvetleri aynı olmalı.",
+    "Hepsini 10⁴'lü yaz: virgül bir basamak sağa kayınca üs 1 azalır.",
+    "0,24 · 10⁶ = 0,24 · 100 · 10⁴ = 24 · 10⁴ ile başla."
+   ],
+   "cozum_adimlari": [
+    "1. Üslü gösterimleri 10⁴'te eşitleyelim.",
+    "2. 0,24 · 10⁶ = 24 · 10⁴.",
+    "3. 360 · 10³ = 36 · 10⁴.",
+    "4. 1,4 · 10⁵ = 14 · 10⁴.",
+    "5. 10⁴ ortak çarpan: (24 + 36 + 14) · 10⁴.",
+    "6. 24 + 36 + 14 = 74; toplam 74 · 10⁴.",
+    "7. K · 10⁴ = 74 · 10⁴ olduğundan K = 74."
+   ],
+   "rubrik": [
+    {
+     "olcut": "A deposundaki sayıyı 10⁴'lü yazma: 0,24 · 10⁶ = 24 · 10⁴.",
+     "puan": 3
+    },
+    {
+     "olcut": "B deposundaki sayıyı 10⁴'lü yazma: 360 · 10³ = 36 · 10⁴.",
+     "puan": 3
+    },
+    {
+     "olcut": "C deposundaki sayıyı 10⁴'lü yazma: 1,4 · 10⁵ = 14 · 10⁴.",
+     "puan": 3
+    },
+    {
+     "olcut": "Ortak çarpan parantezine alıp katsayıları toplama: (24 + 36 + 14) · 10⁴ = 74 · 10⁴ ya da toplamı 740 000 bulma.",
+     "puan": 3
+    },
+    {
+     "olcut": "K = 74 sonucunu yazma.",
+     "puan": 3
+    }
+   ],
+   "hata_turu": [
+    "farkli_kuvvet_toplama",
+    "us_eksik",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.16",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": [],
+   "puanlama_notu": "Bütün terimleri aynı 10 kuvvetine (ör. 10³, 10⁵) eşitleyen ve doğru sonuca götüren her yol, ara satırları için aşağıdaki maddelerle aynı puanı alır."
+  },
+  {
+   "id": "matematik-u1-k1-s007",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "3⁴ · 3⁵ · 3⁻² işleminin sonucu aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "3⁷",
+     "dogru": true
+    },
+    {
+     "metin": "3⁻⁴⁰",
+     "dogru": false,
+     "hata_turu": "us_kural_karisikligi",
+     "aciklama": "Üsleri çarptın; tabanlar aynı olan çarpmada üsler toplanır."
+    },
+    {
+     "metin": "27⁷",
+     "dogru": false,
+     "hata_turu": "taban_carpma",
+     "aciklama": "Üsleri doğru topladın ama tabanları da çarptın; taban 3 olarak kalır."
+    },
+    {
+     "metin": "3¹¹",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "−2'yi +2 gibi topladın; 4 + 5 + (−2) = 7 olur."
+    }
+   ],
+   "cevap": "3⁷",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Üç çarpanın tabanı da aynı mı, bak.",
+    "Tabanlar aynıysa çarpmada üsler toplanır, taban aynen kalır.",
+    "4 + 5 + (−2) toplamını hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. Tabanların hepsi 3.",
+    "2. Çarpmada üsler toplanır: 4 + 5 + (−2) = 7.",
+    "3. Sonuç 3⁷ olur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "us_kural_karisikligi",
+    "taban_carpma",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.17",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s008",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "c",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Ece, (5²)³ ifadesinde üslerin toplanacağını tahmin ediyor ve sonucu 5⁵ buluyor.",
+   "kok": "Ece'nin bulduğu sonuç doğrudur. (Doğru / Yanlış)",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "(5²)³ = 5² · 5² · 5² olduğundan üs 2 + 2 + 2 = 6 olur; üssün üssünde üsler çarpılır.",
+   "ipuclari": [
+    "(5²)³, 5²'nin kaç kez çarpıldığını söylüyor?",
+    "(5²)³ = 5² · 5² · 5² diye aç.",
+    "Açtığın çarpımda üsleri topla: 2 + 2 + 2 = ..."
+   ],
+   "cozum_adimlari": [
+    "1. (5²)³ = 5² · 5² · 5².",
+    "2. Tabanlar aynı, üsler toplanır: 2 + 2 + 2 = 6.",
+    "3. (5²)³ = 5⁶ = 5^(2·3); 5⁵ değildir.",
+    "4. Ece'nin sonucu yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "us_kural_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.20-21",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s009",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "f",
+   "tip": "dogru_yanlis",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Deniz, xᵃ · xᵇ = xᵃ⁺ᵇ önermesini x = 2, a = 3, b = 4 için deniyor. 2³ · 2⁴ = 8 · 16 = 128 ve 2⁷ = 128 çıkıyor. Bu tek denemeye bakarak önermenin her sayı için doğrulandığını söylüyor.",
+   "kok": "Deniz'in kullandığı yöntem, önermenin bütün sayılar için doğru olduğunu göstermeye yeter. (Doğru / Yanlış)",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "Bir sayıyla denemek önermeyi yalnız o sayılar için gösterir; her sayı için göstermek üzere çarpanları harflerle açmak gerekir.",
+   "ipuclari": [
+    "Deniz kaç farklı sayı denedi?",
+    "Sayıyla deneme ile harflerle açarak gösterme arasındaki farkı düşün.",
+    "xᵃ · xᵇ'yi a tane x ve b tane x'in çarpımı olarak yazmak hangi sayılar için geçerli olur?"
+   ],
+   "cozum_adimlari": [
+    "1. Deniz yalnız x = 2, a = 3, b = 4 için denedi; bu denemede eşitlik sağlanıyor.",
+    "2. Tek bir örnek, önermenin yalnız o sayılar için doğru olduğunu gösterir.",
+    "3. Her sayı için göstermek için cebirsel doğrulama gerekir: xᵃ · xᵇ, a tane x ile b tane x'in çarpımıdır, toplam a + b tane x eder.",
+    "4. Bu yüzden ifade yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "tek_ornekle_ispat"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.16-18",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s010",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "d",
+   "tip": "bosluk",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Mehmet Eren'in telefonundaki hafıza kartında 8⁴ MB boş yer var. Çektiği her maç fotoğrafı 2⁵ MB yer kaplıyor.",
+   "kok": "Karta en fazla 2 üzeri ______ fotoğraf sığar.",
+   "secenekler": null,
+   "cevap": "7",
+   "kabul_edilenler": [
+    "7"
+   ],
+   "yanlis_aciklama": "Önce 8'i 2'nin kuvveti yap: 8⁴ = (2³)⁴ = 2¹²; sonra bölmede üsler çıkarılır.",
+   "ipuclari": [
+    "Bölebilmek için iki sayının tabanı aynı olmalı.",
+    "8 = 2³ yaz; üssün üssünde üsler çarpılır, bölmede üsler çıkarılır.",
+    "8⁴ = (2³)⁴ = 2¹² ile başla."
+   ],
+   "cozum_adimlari": [
+    "1. Sığan fotoğraf sayısı = 8⁴ : 2⁵.",
+    "2. 8 = 2³ olduğundan 8⁴ = (2³)⁴ = 2¹².",
+    "3. 2¹² : 2⁵ = 2¹²⁻⁵ = 2⁷.",
+    "4. Boşluğa 7 yazılır (2⁷ = 128 fotoğraf)."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "taban_donusum",
+    "us_kural_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.20",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s011",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "d",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "A = 4⁶ · 5¹⁰ sayısı kaç basamaklıdır?",
+   "secenekler": [
+    {
+     "metin": "9",
+     "dogru": false,
+     "hata_turu": "taban_donusum",
+     "aciklama": "4⁶'yı 2⁶ yazdın; 4 = 2² olduğundan 4⁶ = 2¹² olur."
+    },
+    {
+     "metin": "10",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "10¹⁰'daki sıfırları saydın; öndeki 4'ün basamağını da eklemelisin."
+    },
+    {
+     "metin": "11",
+     "dogru": true
+    },
+    {
+     "metin": "23",
+     "dogru": false,
+     "hata_turu": "taban_carpma",
+     "aciklama": "2¹² · 5¹⁰'u 10²² yaptın; tabanlar yalnız üsler eşitken birleşir."
+    }
+   ],
+   "cevap": "11",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Sayıyı 10'un kuvveti cinsinden yazmayı dene.",
+    "4'ü 2'nin kuvveti yap; sonra üsleri eşit olan 2 ve 5'leri eşleştir.",
+    "4⁶ = 2¹² = 2² · 2¹⁰ yaz."
+   ],
+   "cozum_adimlari": [
+    "1. 4 = 2² olduğundan 4⁶ = 2¹².",
+    "2. 2¹² = 2² · 2¹⁰.",
+    "3. A = 2² · 2¹⁰ · 5¹⁰ = 4 · (2 · 5)¹⁰ = 4 · 10¹⁰.",
+    "4. 4'ün sağında 10 tane sıfır vardır.",
+    "5. Basamak sayısı 1 + 10 = 11."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "taban_donusum",
+    "eksik_adim",
+    "taban_carpma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.21",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s012",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "⁴√(7³) ifadesinin üslü gösterimi aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "7^(4/3)",
+     "dogru": false,
+     "hata_turu": "kesirli_us_ters",
+     "aciklama": "Pay ile paydayı ters yazdın; kökün derecesi kesrin paydasına gider."
+    },
+    {
+     "metin": "7¹²",
+     "dogru": false,
+     "hata_turu": "us_kural_karisikligi",
+     "aciklama": "Derece ile üssü çarptın; kök, kesirli üs demektir."
+    },
+    {
+     "metin": "7^(3/4)",
+     "dogru": true
+    },
+    {
+     "metin": "7³ : 4",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Kök almak 4'e bölmek değildir; 4, kesirli üssün paydasına yazılır."
+    }
+   ],
+   "cevap": "7^(3/4)",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Kök, kesirli bir üs gibidir.",
+    "Kökün derecesi kesrin paydasına, içteki üs kesrin payına yazılır.",
+    "Önce kökün derecesini ve içteki üssü ayrı ayrı bul; sonra hangisinin paya gideceğine karar ver."
+   ],
+   "cozum_adimlari": [
+    "1. Kökün derecesi 4'tür; kesrin paydasına yazılır.",
+    "2. İçteki üs 3'tür; kesrin payına yazılır.",
+    "3. ⁴√(7³) = 7^(3/4)."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kesirli_us_ters",
+    "us_kural_karisikligi",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.26",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s013",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "ç",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "27^(2/3) = ______",
+   "secenekler": null,
+   "cevap": "9",
+   "kabul_edilenler": [
+    "9",
+    "3²"
+   ],
+   "yanlis_aciklama": "Kesirli üs çarpma değildir; payda 3 küpkök, pay 2 kare demektir: önce ∛27 = 3, sonra 3² = 9.",
+   "ipuclari": [
+    "Kesirli üssü köklü gösterime çevir.",
+    "Payda kökün derecesi, pay içteki üstür: 27^(2/3) = ∛(27²).",
+    "Önce ∛27'yi bul, sonra karesini al."
+   ],
+   "cozum_adimlari": [
+    "1. 27^(2/3) = ∛(27²).",
+    "2. ∛27 = 3, çünkü 3 · 3 · 3 = 27.",
+    "3. ∛(27²) = 3² = 9.",
+    "4. Kontrol: 27² = 729 ve 9 · 9 · 9 = 729."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "us_carpma",
+    "kesirli_us_ters"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.26",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s014",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "c",
+   "tip": "dogru_yanlis",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Arda, karekök ile kare birbirini götürdüğü için √((−5)²) = −5 olacağını tahmin ediyor.",
+   "kok": "Arda'nın tahmini doğrudur. (Doğru / Yanlış)",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "Önce içeriyi hesapla: (−5)² = 25 ve √25 = 5; karekökten negatif sonuç çıkmaz.",
+   "ipuclari": [
+    "İşlemi içeriden dışarıya doğru yap.",
+    "Önce (−5)²'yi hesapla, sonra karekökünü al.",
+    "(−5)² = (−5) · (−5) = ..."
+   ],
+   "cozum_adimlari": [
+    "1. (−5)² = (−5) · (−5) = 25.",
+    "2. √25 = 5, çünkü karesi 25 olan pozitif sayı 5'tir.",
+    "3. √((−5)²) = 5 ≠ −5.",
+    "4. Arda'nın tahmini yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.26-27",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s015",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "√2 · √18 işleminin sonucu kaçtır?",
+   "secenekler": [
+    {
+     "metin": "√20",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "Kök içlerini topladın; çarpmada kök içleri çarpılır."
+    },
+    {
+     "metin": "36",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "√36'ya ulaştın ama kökünü almayı unuttun."
+    },
+    {
+     "metin": "6",
+     "dogru": true
+    },
+    {
+     "metin": "3√2",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "√18 = 3√2 doğru, ama √2 · √2 = 2 olur, √2 değil."
+    }
+   ],
+   "cevap": "6",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "İki kökün derecesi aynı mı, bak.",
+    "Dereceler aynıysa kök içleri çarpılıp tek kök altında yazılır.",
+    "√2 · √18 = √(2 · 18) = √36 yaz."
+   ],
+   "cozum_adimlari": [
+    "1. İki kök de karekök; içler çarpılır: √2 · √18 = √(2 · 18).",
+    "2. 2 · 18 = 36.",
+    "3. √36 = 6."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "islem_hatasi",
+    "eksik_adim",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.28",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s016",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "d",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük sahilinde kare biçimli iki çim alan var. Birinin alanı 12 m², diğerinin alanı 27 m²'dir.",
+   "kok": "İki çim alanın birer kenar uzunluklarının toplamı kaç metredir?",
+   "secenekler": [
+    {
+     "metin": "√39",
+     "dogru": false,
+     "hata_turu": "kok_toplama",
+     "aciklama": "Kök içlerini topladın; √12 + √27, √39'a eşit değildir."
+    },
+    {
+     "metin": "5√6",
+     "dogru": false,
+     "hata_turu": "kok_toplama",
+     "aciklama": "Katsayıları doğru topladın ama kök içlerini de topladın; √3 aynen kalır."
+    },
+    {
+     "metin": "6√3",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "Katsayıları çarptın; aynı kökler toplanırken katsayılar toplanır."
+    },
+    {
+     "metin": "5√3",
+     "dogru": true
+    }
+   ],
+   "cevap": "5√3",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Karenin alanından kenarı bulmak için karekök al.",
+    "√12 ve √27'yi kök dışına çıkar; içte aynı sayı kalırsa toplayabilirsin.",
+    "12 = 4 · 3 olduğundan √12 = 2√3; şimdi √27'yi yaz."
+   ],
+   "cozum_adimlari": [
+    "1. Kenarlar √12 m ve √27 m.",
+    "2. √12 = √(4 · 3) = 2√3.",
+    "3. √27 = √(9 · 3) = 3√3.",
+    "4. 2√3 + 3√3 = (2 + 3)√3 = 5√3 m."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kok_toplama",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.27-28",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s017",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "e",
+   "tip": "dogru_yanlis",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Selin, √2 · ∛3 işleminde kök içlerini çarpıp √2 · ∛3 = √6 yazıyor.",
+   "kok": "Selin'in yazdığı eşitlik doğrudur. (Doğru / Yanlış)",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "Kök dereceleri farklı (2 ve 3); önce dereceler 6'da eşitlenir: √2 = ⁶√8, ∛3 = ⁶√9, çarpım ⁶√72 olur.",
+   "ipuclari": [
+    "İki kökün derecesi aynı mı, kontrol et.",
+    "Dereceler farklıysa önce eşitle; 2 ile 3'ün ortak katı 6'dır.",
+    "√2 = 2^(1/2) = 2^(3/6) = ⁶√(2³) yaz."
+   ],
+   "cozum_adimlari": [
+    "1. √2'nin derecesi 2, ∛3'ün derecesi 3; içler doğrudan çarpılamaz.",
+    "2. √2 = 2^(3/6) = ⁶√(2³) = ⁶√8.",
+    "3. ∛3 = 3^(2/6) = ⁶√(3²) = ⁶√9.",
+    "4. ⁶√8 · ⁶√9 = ⁶√72.",
+    "5. ⁶√72 ≠ √6 (√6 = ⁶√216), eşitlik yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "esit_derece_unutma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.30",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s018",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "d",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Barbaros Anadolu Lisesi'nin bahçesinde dikdörtgen biçimli bir sebze bahçesi yapılıyor. Bahçenin kenar uzunlukları √108 m ve √27 m'dir. Bahçenin çevresi tel çitle çevrilecek. Ayrıca bahçe, uzun kenarlarının orta noktalarını birleştiren düz bir tel çitle iki eş parçaya ayrılacak.",
+   "kok": "Kullanılacak toplam tel çit uzunluğunu metre cinsinden işlemlerinizi göstererek bulunuz. (15 puan)",
+   "secenekler": null,
+   "cevap": "1. Kenar uzunluklarını kök dışına çıkaralım: 108 = 36 · 3 olduğundan √108 = 6√3 m. 2. 27 = 9 · 3 olduğundan √27 = 3√3 m. 3. Dış çevre = 2 · (6√3 + 3√3) = 2 · 9√3 = 18√3 m. 4. Uzun kenarların orta noktalarını birleştiren çit kısa kenara paraleldir; uzunluğu 3√3 m'dir. 5. Toplam tel çit = 18√3 + 3√3 = 21√3 m bulunur.",
+   "kabul_edilenler": [
+    "21√3",
+    "21√3 m",
+    "√1323"
+   ],
+   "ipuclari": [
+    "Önce kenar uzunluklarını sadeleştir; içte aynı sayı kalırsa toplayabilirsin.",
+    "Çevre = 2 · (uzun kenar + kısa kenar). Ortadaki çit hangi kenara paralel, şekli çizerek düşün.",
+    "√108 = √(36 · 3) = 6√3 ile başla."
+   ],
+   "cozum_adimlari": [
+    "1. √108 = √(36 · 3) = 6√3 m (uzun kenar).",
+    "2. √27 = √(9 · 3) = 3√3 m (kısa kenar).",
+    "3. Kenarlar toplamı: 6√3 + 3√3 = 9√3 m.",
+    "4. Çevre = 2 · 9√3 = 18√3 m.",
+    "5. Ortadaki çit kısa kenara paraleldir, uzunluğu 3√3 m.",
+    "6. Toplam = 18√3 + 3√3 = 21√3 m."
+   ],
+   "rubrik": [
+    {
+     "olcut": "√108 ifadesini kök dışına çıkarma: √108 = 6√3.",
+     "puan": 3
+    },
+    {
+     "olcut": "√27 ifadesini kök dışına çıkarma: √27 = 3√3.",
+     "puan": 3
+    },
+    {
+     "olcut": "Dış çevreyi bulma: 2 · (6√3 + 3√3) = 18√3 m. Kenarları kök dışına çıkarmadan √108 + √27 + √108 + √27 yazıp doğru sadeleştiren yollar da kabul edilir.",
+     "puan": 4
+    },
+    {
+     "olcut": "Ortadaki çitin kısa kenara eşit (3√3 m) olduğunu belirleme. Bu anlama gelen açıklamalar kabul edilir.",
+     "puan": 2
+    },
+    {
+     "olcut": "Toplam çit uzunluğunu 21√3 m bulma.",
+     "puan": 3
+    }
+   ],
+   "hata_turu": [
+    "kok_toplama",
+    "okuma_hatasi",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.27-28",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s019",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "(√7 − √3) · (√7 + √3) işleminin sonucu kaçtır?",
+   "secenekler": [
+    {
+     "metin": "10",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "Kareleri topladın; eşlenik çarpımında kareler farkı kalır: 7 − 3."
+    },
+    {
+     "metin": "4",
+     "dogru": true
+    },
+    {
+     "metin": "−4",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "Sırayı ters aldın; birinci terimin karesinden ikincinin karesi çıkarılır."
+    },
+    {
+     "metin": "10 − 2√21",
+     "dogru": false,
+     "hata_turu": "kare_farki_karistirma",
+     "aciklama": "Bu (√7 − √3)²'nin sonucu; burada iki çarpanın ortadaki işaretleri farklı."
+    }
+   ],
+   "cevap": "4",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "İki çarpan yalnız ortadaki işaretle farklı; bu bir eşlenik çarpımı.",
+    "Eşlenik çarpımında sonuç: birinci terimin karesi eksi ikinci terimin karesi.",
+    "(√7)² ve (√3)² değerlerini ayrı ayrı bul."
+   ],
+   "cozum_adimlari": [
+    "1. Çarpanlar birbirinin eşleniğidir.",
+    "2. Ortadaki −√21 ve +√21 terimleri birbirini götürür.",
+    "3. Sonuç (√7)² − (√3)² = 7 − 3 = 4."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "isaret_hatasi",
+    "kare_farki_karistirma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.32",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s020",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "b",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "√11 + √5 ifadesinin eşleniği ______ ifadesidir.",
+   "secenekler": null,
+   "cevap": "√11 − √5",
+   "kabul_edilenler": [
+    "√11 − √5",
+    "√11 - √5",
+    "√11-√5",
+    "−√5 + √11",
+    "-√5 + √11"
+   ],
+   "yanlis_aciklama": "Eşlenikte sayılar aynı kalır, yalnız aradaki işaret değişir.",
+   "ipuclari": [
+    "Eşlenikte kök içindeki sayılar değişmez.",
+    "Yalnız iki terim arasındaki işaret değişir.",
+    "Önce √11 ve √5'i aynen yaz. Aralarına hangi işaret gelir?"
+   ],
+   "cozum_adimlari": [
+    "1. Terimler √11 ve √5 aynen kalır.",
+    "2. Aradaki + işareti − olur.",
+    "3. Eşlenik √11 − √5; çarpımları 11 − 5 = 6 olur, kök kalmaz."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.32",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s021",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "a",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Mert, √50 sayısının 7 ile 8 arasında olduğunu tahmin ediyor.",
+   "kok": "Mert'in tahmini doğrudur. (Doğru / Yanlış)",
+   "secenekler": null,
+   "cevap": true,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "7² = 49 ve 8² = 64; 50 bu iki tam karenin arasında olduğu için √50 de 7 ile 8 arasındadır.",
+   "ipuclari": [
+    "50'ye yakın tam kareleri düşün.",
+    "7² ve 8²'yi hesapla.",
+    "7² ve 8² değerlerini 50 ile karşılaştır."
+   ],
+   "cozum_adimlari": [
+    "1. 7² = 49, 8² = 64.",
+    "2. 49 < 50 < 64.",
+    "3. Öyleyse 7 < √50 < 8; tahmin doğrudur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.34",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s022",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "d",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük'te kare biçimli bir bahçenin alanı 40 m²'dir. Bahçeye çit alınırken bir kenarın yaklaşık uzunluğu kullanılacak.",
+   "kok": "Bahçenin bir kenar uzunluğu, onda birler basamağına yuvarlanırsa kaç metre olur?",
+   "secenekler": [
+    {
+     "metin": "20",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "40'ın yarısını aldın; kenar, karesi 40 olan sayıdır."
+    },
+    {
+     "metin": "6,3",
+     "dogru": true
+    },
+    {
+     "metin": "6,4",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "6,4² = 40,96 olup 40'tan büyük; 6,35² = 40,32 de 40'tan büyük olduğu için √40, 6,3'e yuvarlanır."
+    },
+    {
+     "metin": "3,2",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "√40 = 2√10 doğru, ama √10 ≈ 3,16'yı 2 ile çarpmayı unuttun."
+    }
+   ],
+   "cevap": "6,3",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Kenar, karesi 40 olan sayıdır: √40.",
+    "40'a yakın kareleri dene: 6² = 36, 7² = 49; sonra ondalıklarla daralt.",
+    "6,3² ve 6,4²'yi hesapla; 40 hangi ikisinin arasında?"
+   ],
+   "cozum_adimlari": [
+    "1. Kenar = √40 m.",
+    "2. 6,3² = 39,69 < 40 < 40,96 = 6,4²; √40, 6,3 ile 6,4 arasında.",
+    "3. Yuvarlamak için ortadaki sayıyı dene: 6,35² = 40,3225 > 40.",
+    "4. √40 < 6,35 olduğundan onda birler basamağına yuvarlanınca 6,3 m olur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi",
+    "islem_hatasi",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.34",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k1-s023",
+   "konu_id": "matematik-u1-k1",
+   "ogrenme_ciktisi": "9.1.1",
+   "surec": "d",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": null,
+   "kok": "2/(√6 − √2) − √6/2 işleminin sonucunu işlemlerinizi göstererek bulunuz. (15 puan)",
+   "secenekler": null,
+   "cevap": "1. İlk kesrin paydasındaki √6 − √2'nin eşleniği √6 + √2'dir. 2. Pay ve paydayı √6 + √2 ile çarpalım: 2 · (√6 + √2) / ((√6 − √2) · (√6 + √2)). 3. Payda (√6)² − (√2)² = 6 − 2 = 4 olur. 4. İlk kesir 2 · (√6 + √2)/4 = (√6 + √2)/2 olur. 5. (√6 + √2)/2 − √6/2 = (√6 + √2 − √6)/2 = √2/2 bulunur.",
+   "kabul_edilenler": [
+    "√2/2"
+   ],
+   "ipuclari": [
+    "Paydada köklü bir fark var; ondan kurtulmanın yolu eşleniktir.",
+    "√6 − √2'nin eşleniğiyle pay ve paydayı çarp; sonra paydalar eşit olunca çıkar.",
+    "Payda: (√6 − √2) · (√6 + √2) = (√6)² − (√2)² = ..."
+   ],
+   "cozum_adimlari": [
+    "1. √6 − √2'nin eşleniği √6 + √2.",
+    "2. 2/(√6 − √2) = 2 · (√6 + √2) / ((√6 − √2) · (√6 + √2)).",
+    "3. Payda = 6 − 2 = 4.",
+    "4. 2 · (√6 + √2)/4 = (√6 + √2)/2.",
+    "5. (√6 + √2)/2 − √6/2 = (√6 + √2 − √6)/2.",
+    "6. Sonuç √2/2."
+   ],
+   "rubrik": [
+    {
+     "olcut": "Paydanın eşleniğini (√6 + √2) belirleyip pay ve paydayı bununla çarpma.",
+     "puan": 4
+    },
+    {
+     "olcut": "Paydayı (√6)² − (√2)² = 4 olarak bulma.",
+     "puan": 3
+    },
+    {
+     "olcut": "İlk kesri (√6 + √2)/2 biçiminde sadeleştirme.",
+     "puan": 3
+    },
+    {
+     "olcut": "Ortak paydada çıkarma işlemini kurma: (√6 + √2 − √6)/2.",
+     "puan": 3
+    },
+    {
+     "olcut": "Sonucu √2/2 bulma. Paydası köklü bırakılan 1/√2 yazımı bu maddeden 1 puan alır.",
+     "puan": 2
+    }
+   ],
+   "hata_turu": [
+    "isaret_hatasi",
+    "kok_toplama",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.33",
+    "ogrenme_ciktisi": "9.1.1"
+   },
+   "dogrula": []
+  }
+ ]
+}

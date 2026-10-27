@@ -63,7 +63,15 @@ def node_yukle(r: Rapor) -> dict:
 
 # ---------- Şema kontrolleri ----------
 def cumleler(paragraf: str) -> int:
-    return len([c for c in re.split(r"(?<=[.!?])\s+", paragraf.strip()) if c])
+    # "3. dereceden", "n. kuvveti" gibi sıra sayılarındaki nokta (ardından küçük harf) cümle sonu değildir
+    metin = re.sub(r"(?<!\w)(\d+|\w)\.(?=\s+\*{0,2}[a-zçğıöşü])", r"\1§", paragraf.strip())
+    return len([c for c in re.split(r"(?<=[.!?])\s+", metin) if c.strip()])
+
+
+def terim_tanimli(kalin: str, tanimli: set[str]) -> bool:
+    # Türkçe ek alır: **kuvveti** → "kuvvet", **alt küme**sidir → "alt küme"
+    k = kalin.lower()
+    return any(k == t or (k.startswith(t) and len(k) - len(t) <= 4) for t in tanimli if t)
 
 
 def kaynak_bos(k) -> bool:
@@ -99,7 +107,7 @@ def konu_karti(r: Rapor, yer: str, kart: dict, beklenen_id: str | None) -> int:
                     r.uyari(f"{y}.{k}[{j}]", f"paragraf {cumleler(p)} cümle (en çok 3)")
         tanimli = {t.get("terim", "").lower() for t in b.get("terimler") or []}
         for t in re.findall(r"\*\*(.+?)\*\*", " ".join(kat.get("basit") or []) + " " + " ".join(kat.get("kitap") or [])):
-            if t.lower() not in tanimli:
+            if not terim_tanimli(t, tanimli):
                 r.uyari(y, f"kalın terim tanımsız: {t}")
         ks = b.get("kontrol_sorulari") or []
         if not 2 <= len(ks) <= 3:
@@ -275,6 +283,7 @@ def main() -> None:
     komut(r, "motor testleri", ["node", "tools/motor_test.mjs"])
     komut(r, "harita_uret selftest", [sys.executable, "tools/harita_uret.py", "--selftest"])
     komut(r, "takvim_derle selftest", [sys.executable, "tools/takvim_derle.py", "--selftest"])
+    komut(r, "panel/data güncel mi", [sys.executable, "tools/panel_derle.py", "--kontrol"])
     for js in sorted((KOK / "panel").rglob("*.js")):
         p = subprocess.run(["node", "--check", str(js)], capture_output=True, text=True, encoding="utf-8")
         if p.returncode:

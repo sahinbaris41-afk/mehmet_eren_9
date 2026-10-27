@@ -30,6 +30,7 @@ Kaynak: `kaynaklar/meb/ortak_sinav/kilavuz/tymm_coktan_secmeli_soru_yazim_kilavu
   "ipuclari": ["Her saat yük kaç katına çıkıyor?", "3 saat = 3 kez 2 ile çarp.", "Başlangıç 2 ton: 2 · 2 · 2 · 2 = ?"],
   "cozum_adimlari": ["1. Başlangıç yükü 2 ton.", "2. Her saat ×2: 3 saatte 2³ = 8 katı.", "3. 2 · 8 = 16 ton."],
   "rubrik": null,                  // acik için zorunlu: [{ "olcut": "...", "puan": 4 }]
+  "puanlama_notu": "...",          // isteğe bağlı: rubriğe puansız genel not (ör. "eşdeğer her yol aynı puanı alır")
   "hata_turu": ["us_carpma", "us_eksik"],   // bu sorunun yakaladığı hatalar
   "kaynak": { "kitap": "matematik-1kitap s.18", "ogrenme_ciktisi": "9.1.1" },
   "dogrula": []
@@ -89,7 +90,33 @@ Kaynak: `kaynaklar/meb/ortak_sinav/kilavuz/tymm_coktan_secmeli_soru_yazim_kilavu
 | `taban_carpma` | aynı tabanlı çarpımda tabanları da çarpmak ((a·a)^(m+n)) |
 | `sifir_us` | a⁰'ı 0 sanmak |
 | `kok_toplama` | √a + √b = √(a+b) sanmak |
-| `aralik_uc` | açık/kapalı aralık ucunu karıştırmak |
+| `aralik_uc` | açık/kapalı aralık ucunu karıştırmak (kartlardaki `parantez_karisikligi` ile aynı; bunu kullan) |
+| `sonsuz_koseli` | ∞ / −∞ yanına köşeli parantez koymak |
+| `kesisim_birlesim` | ∩ ile ∪'yi karıştırmak |
+| `fark_ucu` | A \ B'de B'nin ucunun dahil/hariç durumunu ters çevirmek |
+| `mutlak_tam_uzunluk` | \|x − c\| ≤ d'de d yerine aralığın tam uzunluğunu yazmak |
+| `tamsayi_sanma` | aralıktaki gerçek sayıları yalnızca tam sayılar sanmak |
+| `negatif_us` | a⁻ⁿ'yi negatif sayı sanmak (2⁻³ = −8) |
+| `farkli_kuvvet_toplama` | farklı kuvvetleri toplarken üsleri toplamak (2³ + 2⁴ = 2⁷) |
+| `bilimsel_katsayi` | bilimsel gösterimde katsayıyı 1 ≤ \|a\| < 10 dışında bırakmak |
+| `parantez_isaret` | (−a)ⁿ ile −aⁿ'yi karıştırmak |
+| `esit_derece_unutma` | farklı dereceli kökleri işlemden önce eşit dereceye getirmemek |
+| `us_kural_karisikligi` | üs kurallarını birbirine karıştırmak (çarpmada üs çarpmak, üssün üssünde toplamak) |
+| `taban_donusum` | tabanı değiştirirken üssü güncellememek (8⁴ → 2⁴) |
+| `kesirli_us_ters` | kesirli üste pay ile paydayı ters yazmak (⁴√(7³) → 7⁴⁄³) |
+| `kume_kapsama` | sayı kümelerinin kapsama sırasını karıştırmak (ℤ ⊆ ℕ sanmak) |
+| `uyan_ornek_vermek` | karşıt örnek yerine önermeye UYAN bir örnek vermek |
+| `tek_ornekle_ispat` | birkaç örnek doğru diye genel önermeyi kanıtlanmış saymak |
+| `irrasyonel_carpim` | iki irrasyonelin çarpımının hep irrasyonel olduğunu sanmak |
+| `eksi_sayi_kume_disi` | negatif sayıyı ℤ/ℚ/ℝ dışında saymak |
+| `esitsizlik_yonu` | eşitsizliği ters yazmak ya da ters çevirmeyi unutmak |
+| `kare_dagitma` | (a ± b)² = a² ± b² sanmak (orta terimi unutmak). `kare_acilim` eski ad, kullanma |
+| `fark_karesi_isaret` | (a − b)²'de orta terimin işaretini + yazmak |
+| `kare_farki_karistirma` | a² − b²'yi (a − b)² sanmak |
+| `cikarma_degisme` | çıkarmada değişme özelliği var sanmak |
+| `niceleyici_degil` | ∀/∃'nin değilini alırken niceleyiciyi değiştirmemek |
+| `degil_isaret` | > 'nin değilini < sanmak (doğrusu ≤) |
+| `carpim_sifir_isaret` | a·b = 0'dan çözüm çıkarırken işaret hatası (x − 3 = 0 → x = −3) |
 | `birim_cevirme` | birim dönüşümü yapmamak |
 | `kavram_karisikligi` | iki benzer kavramı karıştırmak (skaler/vektörel, iklim/hava durumu) |
 | `ezber_karisikligi` | sıralama/isim/tarih karıştırmak |

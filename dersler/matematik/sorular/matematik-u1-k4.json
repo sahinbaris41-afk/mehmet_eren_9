@@ -1,0 +1,784 @@
+{
+ "konu_id": "matematik-u1-k4",
+ "surum": 3,
+ "sorular": [
+  {
+   "id": "matematik-u1-k4-s001",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Sınıfta dört cümle tahtaya yazılmış.",
+   "kok": "Aşağıdakilerden hangisi bir önerme **değildir**?",
+   "secenekler": [
+    {
+     "metin": "Gölcük'ün sahili çok güzeldir.",
+     "dogru": true
+    },
+    {
+     "metin": "2 + 2 = 5",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Bu cümle yanlış ama kesin yanlış; yanlış olduğu kesin olan cümleler de önermedir."
+    },
+    {
+     "metin": "(−1)² = 1",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Sembolle yazılan ifadeler de önerme olabilir; (−1)² = 1 kesin doğrudur."
+    },
+    {
+     "metin": "Gölcük, Kocaeli'nin bir ilçesidir.",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "Bu cümle kesin doğru bir önermedir; soru önerme olmayanı istiyor."
+    }
+   ],
+   "cevap": "Gölcük'ün sahili çok güzeldir.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Her cümle için herkes aynı kararı verir mi, diye düşün.",
+    "Önerme olmak için doğru olmak gerekmez; kesin doğru ya da kesin yanlış olmak yeter.",
+    "Dört cümleyi sırayla oku. Hangisine herkes aynı cevabı vermez?"
+   ],
+   "cozum_adimlari": [
+    "1. 2 + 2 = 4 olduğu için “2 + 2 = 5” kesin yanlıştır; önermedir.",
+    "2. (−1)² = (−1) · (−1) = 1 olduğu için kesin doğrudur; önermedir.",
+    "3. Gölcük'ün Kocaeli'nin ilçesi olduğu kesin doğrudur; önermedir.",
+    "4. “Çok güzel” kişiden kişiye değişen bir görüştür; kesin karar verilemez.",
+    "5. Cevap: Gölcük'ün sahili çok güzeldir."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi",
+    "okuma_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.68",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s002",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "b",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "a ∈ ℝ olmak üzere “a > 5” eşitsizliğinin değili ______ biçiminde yazılır.",
+   "secenekler": null,
+   "cevap": "a ≤ 5",
+   "kabul_edilenler": [
+    "a ≤ 5",
+    "a<=5",
+    "a ≤5",
+    "5 ≥ a"
+   ],
+   "yanlis_aciklama": "> işaretinin değili < değil ≤ olur; çünkü a = 5 için “a > 5” sağlanmaz.",
+   "ipuclari": [
+    "Değil alırken yalnız işaretin değilini yazarsın.",
+    "Tablo 1.1'de > işaretinin değili hangi işaret?",
+    "Önce > işaretinin değilini yaz. Sonra a = 5 değerinin hangi tarafa girdiğine bak."
+   ],
+   "cozum_adimlari": [
+    "1. Önermede kullanılan sembol: >.",
+    "2. Tablo 1.1'e göre > işaretinin değili ≤ işaretidir.",
+    "3. Değil: a ≤ 5."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "degil_isaret"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.68",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s003",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük çarşısında simit 15 TL, ayran 20 TL; üç arkadaş birer simit ve birer ayran alıyor. Kasiyer 3 · (15 + 20), Mehmet 3 · 15 + 3 · 20 hesaplıyor ve ikisi de 105 TL buluyor.",
+   "kok": "Buna göre 3 · (15 + 20) = 3 · 15 + 3 · 20 eşitliği hangi işlem özelliğini gösterir?",
+   "secenekler": [
+    {
+     "metin": "Çarpmanın dağılma özelliği",
+     "dogru": true
+    },
+    {
+     "metin": "Toplamanın dağılma özelliği",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Burada çarpma toplamanın üzerine dağıtılıyor; dağılma özelliği çarpmaya aittir."
+    },
+    {
+     "metin": "Çarpmanın birleşme özelliği",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Birleşme yalnız çarpma içerir; burada çarpma toplamanın üzerine dağıtılmış."
+    },
+    {
+     "metin": "Toplamanın değişme özelliği",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Değişmede sayıların yeri değişir; burada 3 parantezdeki her sayıyla ayrı ayrı çarpılmış."
+    }
+   ],
+   "cevap": "Çarpmanın dağılma özelliği",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Eşitliğin iki tarafında 3'e ne olmuş, ona bak.",
+    "3, parantezin içindeki her sayıyla ayrı ayrı çarpılmış.",
+    "a · (b + c) = a · b + a · c kalıbında a = 3, b = 15, c = 20 al."
+   ],
+   "cozum_adimlari": [
+    "1. Sol taraf: 3 · (15 + 20) = 3 · 35 = 105.",
+    "2. Sağ taraf: 3 · 15 + 3 · 20 = 45 + 60 = 105.",
+    "3. 3, parantezdeki her terimle ayrı ayrı çarpılmış: a · (b + c) = a · b + a · c.",
+    "4. Bu, çarpmanın toplama üzerine dağılma özelliğidir."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.74",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s004",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "c",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "“Çıkarmanın değişme özelliği vardır.” önermesi, ∀a, b ∈ ℝ için a − b = b − a biçiminde yazılır. Bu önerme doğru mu, yanlış mı?",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "5 − 3 = 2 ama 3 − 5 = −2; tek bir karşıt örnek “her” ile başlayan önermeyi yanlış yapar.",
+   "ipuclari": [
+    "İki sayı seç ve iki sırayla çıkar.",
+    "a = 5, b = 3 için a − b ve b − a değerlerini bul.",
+    "5 − 3 = 2. Şimdi 3 − 5 kaç, hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. a = 5, b = 3 seçelim.",
+    "2. a − b = 5 − 3 = 2.",
+    "3. b − a = 3 − 5 = −2.",
+    "4. 2 ≠ −2 olduğundan eşitlik her a, b için sağlanmaz.",
+    "5. Önerme yanlıştır: çıkarmada değişme özelliği yoktur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "cikarma_degisme"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.74",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s005",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "b",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "−2/3 sayısının çarpma işlemine göre tersi ______ sayısıdır.",
+   "secenekler": null,
+   "cevap": "−3/2",
+   "kabul_edilenler": [
+    "−3/2",
+    "-3/2",
+    "−1,5",
+    "-1,5",
+    "-(3/2)"
+   ],
+   "yanlis_aciklama": "Çarpmaya göre ters, çarpınca 1 veren sayıdır: (−2/3) · (−3/2) = 1; işaret aynı kalır, pay ile payda yer değiştirir.",
+   "ipuclari": [
+    "Bu sayıyla çarpınca sonucu 1 yapan sayıyı ara.",
+    "a ≠ 0 için çarpmaya göre ters 1/a'dır; kesirde pay ile payda yer değiştirir.",
+    "(−2/3) · (?) = 1 olmalı; işaretin ne olacağını düşün."
+   ],
+   "cozum_adimlari": [
+    "1. Çarpmanın birim elemanı 1'dir.",
+    "2. a'nın çarpmaya göre tersi 1/a'dır.",
+    "3. 1 ÷ (−2/3) = −3/2.",
+    "4. Kontrol: (−2/3) · (−3/2) = 6/6 = 1."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.74",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s006",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Toplama işleminin birim elemanı 0'dır. Bu bilgi sembolle “∀x ∈ ℝ, x + 0 = x” biçiminde yazılır.",
+   "kok": "Buna göre “∀x ∈ ℝ, x + 0 = x” önermesinin değili aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "∃x ∈ ℝ, x + 0 ≠ x",
+     "dogru": true
+    },
+    {
+     "metin": "∀x ∈ ℝ, x + 0 ≠ x",
+     "dogru": false,
+     "hata_turu": "niceleyici_degil",
+     "aciklama": "Bu “hiçbir x için” demektir; değilde ∀ yerine ∃ (en az bir) yazılır."
+    },
+    {
+     "metin": "∃x ∈ ℝ, x + 0 = x",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "Niceleyiciyi doğru çevirdin ama = işaretinin değilini (≠) yazmayı unuttun."
+    },
+    {
+     "metin": "∃x ∉ ℝ, x + 0 ≠ x",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "x ∈ ℝ yalnızca x'in hangi kümeden alındığını söyler; değil alırken o kısım değişmez."
+    }
+   ],
+   "cevap": "∃x ∈ ℝ, x + 0 ≠ x",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Değil alırken iki şey değişir: niceleyici ve eşitlik işareti.",
+    "Tablo 1.3: ∀ ↔ ∃. Tablo 1.1: = ↔ ≠.",
+    "∀ yerine ∃ yaz; şimdi = işaretine bak."
+   ],
+   "cozum_adimlari": [
+    "1. Niceleyici ∀ (her); değili ∃ (bazı, en az bir).",
+    "2. Eşitlik =; değili ≠.",
+    "3. “x ∈ ℝ” x'in alındığı kümeyi söyler, aynen kalır.",
+    "4. Değil: ∃x ∈ ℝ, x + 0 ≠ x."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "niceleyici_degil",
+    "eksik_adim",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.72-73 (Tablo 1.3; Uygulama 23: ∃x ∈ ℝ, x² < 0 → ∀x ∈ ℝ, x² ≥ 0)",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s007",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "b",
+   "tip": "acik",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": "“Her gerçek sayının karesi sıfıra eşit veya sıfırdan büyüktür.” önermesi veriliyor.",
+   "kok": "a) Önermeyi matematiksel semboller kullanarak yazınız. b) Önermenin değilini sembollerle yazınız. c) Önermenin ve değilinin doğru mu yanlış mı olduğunu belirtiniz. (10 puan)",
+   "secenekler": null,
+   "cevap": "a) ∀x ∈ ℝ, x² ≥ 0. b) ∃x ∈ ℝ, x² < 0. c) Önerme doğrudur, değili yanlıştır.",
+   "kabul_edilenler": [
+    "∀x ∈ ℝ için x² ≥ 0",
+    "∃x ∈ ℝ için x² < 0"
+   ],
+   "ipuclari": [
+    "Cümledeki “her” kelimesini ve “sıfıra eşit veya büyük” ifadesini ayrı ayrı sembole çevir.",
+    "“Her” → ∀, “eşit veya büyük” → ≥. Değilde ∀ → ∃, ≥ → <.",
+    "a şıkkına “∀x ∈ ℝ” diye başla; arkasına x² ile ilgili eşitsizliği ekle."
+   ],
+   "cozum_adimlari": [
+    "1. “Her gerçek sayı” → ∀x ∈ ℝ.",
+    "2. “Karesi sıfıra eşit veya sıfırdan büyük” → x² ≥ 0.",
+    "3. Önerme: ∀x ∈ ℝ, x² ≥ 0.",
+    "4. Değil: ∀ yerine ∃, ≥ yerine < yazılır: ∃x ∈ ℝ, x² < 0.",
+    "5. Bir sayının kendisiyle çarpımı eksi olamaz (artı · artı ve eksi · eksi artıdır, 0 · 0 = 0). Önerme doğrudur.",
+    "6. Doğru önermenin değili yanlıştır: ∃x ∈ ℝ, x² < 0 yanlıştır."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) ∀ niceleyicisini ve x ∈ ℝ'yi doğru yazma",
+     "puan": 2
+    },
+    {
+     "olcut": "a) x² ≥ 0 eşitsizliğini doğru yazma",
+     "puan": 2
+    },
+    {
+     "olcut": "b) ∀ yerine ∃ yazma",
+     "puan": 2
+    },
+    {
+     "olcut": "b) ≥ yerine < yazma",
+     "puan": 2
+    },
+    {
+     "olcut": "c) Önermenin doğru, değilinin yanlış olduğunu belirtme (anlamca aynı ifadeler kabul edilir)",
+     "puan": 2
+    }
+   ],
+   "hata_turu": [
+    "niceleyici_degil",
+    "degil_isaret"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.72-73 (Uygulama 23 tablosu: ∀x ∈ ℝ, x² ≥ 0)",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s008",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "b",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "İki terimin toplamının karesi özdeşliğine göre (x + 5)² = ______ olur.",
+   "secenekler": null,
+   "cevap": "x² + 10x + 25",
+   "kabul_edilenler": [
+    "x² + 10x + 25",
+    "x^2+10x+25",
+    "x²+10x+25",
+    "25 + 10x + x²"
+   ],
+   "yanlis_aciklama": "x² + 25 eksik kalır; ortadaki 2 · x · 5 = 10x terimi de yazılmalı.",
+   "ipuclari": [
+    "Toplamın karesi kalıbını hatırla.",
+    "(a + b)² = a² + 2ab + b²; burada a = x, b = 5.",
+    "x² + 2 · x · 5 + 5² yaz ve sadeleştir."
+   ],
+   "cozum_adimlari": [
+    "1. Kalıp: (a + b)² = a² + 2ab + b².",
+    "2. a = x, b = 5.",
+    "3. a² = x², 2ab = 2 · x · 5 = 10x, b² = 25.",
+    "4. (x + 5)² = x² + 10x + 25."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kare_dagitma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.76",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s009",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "(2x − 3)² ifadesinin açılımı aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "4x² − 12x + 9",
+     "dogru": true
+    },
+    {
+     "metin": "4x² − 9",
+     "dogru": false,
+     "hata_turu": "kare_dagitma",
+     "aciklama": "(a − b)² ile a² − b² aynı değildir; ortadaki −2ab terimi eksik kaldı."
+    },
+    {
+     "metin": "4x² − 12x − 9",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "Son terim b² = 3² = 9'dur; kare her zaman artı olur, yani +9."
+    },
+    {
+     "metin": "4x² − 6x + 9",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "Ortadaki terim 2ab'dir; 2 · 2x · 3 = 12x olmalı, 2 çarpanı unutulmuş."
+    }
+   ],
+   "cevap": "4x² − 12x + 9",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Bu ifade iki terimin farkının karesi.",
+    "(a − b)² = a² − 2ab + b²; burada a = 2x, b = 3.",
+    "a² = (2x)² = 4x². Şimdi 2ab ve b²'yi bul."
+   ],
+   "cozum_adimlari": [
+    "1. Kalıp: (a − b)² = a² − 2ab + b².",
+    "2. a = 2x, b = 3.",
+    "3. a² = (2x)² = 4x².",
+    "4. 2ab = 2 · 2x · 3 = 12x.",
+    "5. b² = 3² = 9.",
+    "6. (2x − 3)² = 4x² − 12x + 9."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kare_dagitma",
+    "isaret_hatasi",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.76",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s010",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "c",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "“Her a, b ∈ ℝ için (a − b)² = a² − b²” eşitliği bir özdeşliktir. Bu önerme doğru mu, yanlış mı?",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "a = 5, b = 3 için (5 − 3)² = 4 ama 5² − 3² = 16; özdeşlik bütün sayılar için tutmalıydı.",
+   "ipuclari": [
+    "Özdeşlik, harflere verilen bütün gerçek sayılar için doğru olmalı.",
+    "a ve b'ye sayı ver, iki tarafı ayrı ayrı hesapla.",
+    "a = 5, b = 3 al: önce (5 − 3)² değerini bul."
+   ],
+   "cozum_adimlari": [
+    "1. a = 5, b = 3 seçelim.",
+    "2. Sol taraf: (5 − 3)² = 2² = 4.",
+    "3. Sağ taraf: 5² − 3² = 25 − 9 = 16.",
+    "4. 4 ≠ 16; eşitlik her a, b için doğru değil.",
+    "5. Önerme yanlıştır. Doğrusu: (a − b)² = a² − 2ab + b²."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kare_dagitma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.76",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s011",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "a",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'te bir okulun kare biçimli mini futbol sahasının bir kenarı x m'dir. Saha büyütülürken iki komşu kenarı 2'şer m uzatılıyor. Yeni saha, bir kenarı (x + 2) m olan kare oluyor. Yeni saha dört parçaya ayrılıyor. Birinci parça, kenarı x m olan bir kare. İkinci ve üçüncü parça, kenarları x m ve 2 m olan iki dikdörtgen. Dördüncü parça, kenarı 2 m olan bir kare.",
+   "kok": "a) Dört parçanın alanlarını kullanarak (x + 2)² ifadesinin açılımını bulunuz. b) Yeni sahanın alanı eski sahanın alanından 84 m² fazla olduğuna göre x'i işlemlerinizi göstererek bulunuz. (15 puan)",
+   "secenekler": null,
+   "cevap": "a) x² + 2x + 2x + 4 = x² + 4x + 4, yani (x + 2)² = x² + 4x + 4. b) (x + 2)² − x² = 4x + 4 = 84, 4x = 80, x = 20 m.",
+   "kabul_edilenler": [
+    "x = 20",
+    "20 m"
+   ],
+   "ipuclari": [
+    "Büyük karenin alanı, dört parçanın alanlarının toplamına eşittir.",
+    "Parçalar: x · x, x · 2, x · 2 ve 2 · 2. b şıkkında yeni alan − eski alan = 84 yaz.",
+    "x · x = x² ve x · 2 = 2x. Şimdi dört parçayı topla."
+   ],
+   "cozum_adimlari": [
+    "1. Parçaların alanları: x · x = x², x · 2 = 2x, x · 2 = 2x, 2 · 2 = 4.",
+    "2. Büyük karenin alanı parçaların toplamı: x² + 2x + 2x + 4 = x² + 4x + 4.",
+    "3. Öyleyse (x + 2)² = x² + 4x + 4.",
+    "4. Eski sahanın alanı x², yeni sahanın alanı x² + 4x + 4.",
+    "5. Fark: (x² + 4x + 4) − x² = 4x + 4.",
+    "6. 4x + 4 = 84 → 4x = 80 → x = 20 m.",
+    "7. Kontrol: 22² − 20² = 484 − 400 = 84 m²."
+   ],
+   "rubrik": [
+    {
+     "olcut": "Dört parçanın alanlarını doğru yazma (x², 2x, 2x, 4; her biri 1 puan)",
+     "puan": 4
+    },
+    {
+     "olcut": "Parçaları toplayıp (x + 2)² = x² + 4x + 4 açılımını yazma",
+     "puan": 3
+    },
+    {
+     "olcut": "Alan farkını 4x + 4 olarak bulma",
+     "puan": 3
+    },
+    {
+     "olcut": "4x + 4 = 84 denklemini kurma",
+     "puan": 2
+    },
+    {
+     "olcut": "x = 20 m sonucunu bulma (birim yazılmadan da kabul edilir)",
+     "puan": 3
+    }
+   ],
+   "hata_turu": [
+    "kare_dagitma",
+    "islem_hatasi",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.75",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s012",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük'te bir kenarı 12,5 m olan kare bir bahçenin ortasına, bir kenarı 7,5 m olan kare bir seramik alan döşenecek. Bahçenin kalan kısmına çim serilecek.",
+   "kok": "Buna göre çim serilecek alan kaç m²dir?",
+   "secenekler": [
+    {
+     "metin": "100",
+     "dogru": true
+    },
+    {
+     "metin": "25",
+     "dogru": false,
+     "hata_turu": "kare_farki_karistirma",
+     "aciklama": "12,5² − 7,5² ile (12,5 − 7,5)² aynı değildir; iki karenin farkı (a − b)(a + b) olur."
+    },
+    {
+     "metin": "20",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "12,5 + 7,5 = 20 yalnız bir çarpandır; bunu (12,5 − 7,5) = 5 ile de çarpmalısın."
+    },
+    {
+     "metin": "212,5",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "İki alanı topladın; çim alanı, bahçeden seramik alan çıkarılınca kalan kısımdır."
+    }
+   ],
+   "cevap": "100",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Çim alanı = bahçenin alanı − seramik alanın alanı.",
+    "12,5² − 7,5² iki karenin farkıdır: a² − b² = (a − b) · (a + b).",
+    "a = 12,5 ve b = 7,5 al; önce a − b ve a + b değerlerini bul."
+   ],
+   "cozum_adimlari": [
+    "1. Çim alanı = 12,5² − 7,5².",
+    "2. a² − b² = (a − b) · (a + b) özdeşliği; a = 12,5, b = 7,5.",
+    "3. a − b = 5, a + b = 20.",
+    "4. 5 · 20 = 100 m².",
+    "5. Kontrol: 156,25 − 56,25 = 100."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kare_farki_karistirma",
+    "eksik_adim",
+    "okuma_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.78",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s013",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "c",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "İki terimin karelerinin farkı özdeşliğine göre (√6 − 2) · (√6 + 2) çarpımının sonucu ______ olur.",
+   "secenekler": null,
+   "cevap": "2",
+   "kabul_edilenler": [
+    "2",
+    "6 − 4 = 2"
+   ],
+   "yanlis_aciklama": "(a − b)(a + b) = a² − b²; burada (√6)² = 6 ve 2² = 4 olduğu için sonuç 6 − 4 = 2'dir.",
+   "ipuclari": [
+    "Çarpım (a − b) · (a + b) kalıbında.",
+    "Sonuç a² − b² olur; a = √6, b = 2.",
+    "(√6)² = 6. Şimdi 2²'yi bul ve çıkar."
+   ],
+   "cozum_adimlari": [
+    "1. Kalıp: (a − b) · (a + b) = a² − b².",
+    "2. a = √6, b = 2.",
+    "3. a² = (√6)² = 6, b² = 4.",
+    "4. 6 − 4 = 2."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "islem_hatasi",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.76 (özdeşlik), s.79 Örnek 24 (köklü uygulama); program s.48",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s014",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "x² − 49 = 0 denklemini sağlayan x değerleri aşağıdakilerden hangisinde verilmiştir?",
+   "secenekler": [
+    {
+     "metin": "x = 7 veya x = −7",
+     "dogru": true
+    },
+    {
+     "metin": "Yalnız x = 7",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "(x − 7)(x + 7) = 0 olduğundan iki çarpanı da ayrı ayrı sıfıra eşitlemelisin; x + 7 = 0 da bir çözüm verir."
+    },
+    {
+     "metin": "x = 49 veya x = −49",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "49, x'in değil x²'nin değeridir; 49 = 7² olduğu için x² − 7² yazılır."
+    },
+    {
+     "metin": "x = 24,5",
+     "dogru": false,
+     "hata_turu": "us_carpma",
+     "aciklama": "x² ile 2x aynı değildir; x² = x · x olduğu için 2x = 49 yazılamaz."
+    }
+   ],
+   "cevap": "x = 7 veya x = −7",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "49 hangi sayının karesi? İfade iki karenin farkı olabilir.",
+    "x² − 7² = (x − 7) · (x + 7). Çarpım 0 ise çarpanlardan en az biri 0'dır.",
+    "x − 7 = 0 ve x + 7 = 0 denklemlerini ayrı ayrı yaz."
+   ],
+   "cozum_adimlari": [
+    "1. 49 = 7², öyleyse x² − 49 = x² − 7².",
+    "2. a² − b² = (a − b) · (a + b): x² − 7² = (x − 7) · (x + 7).",
+    "3. (x − 7) · (x + 7) = 0.",
+    "4. a · b = 0 ⇔ a = 0 ∨ b = 0: x − 7 = 0 veya x + 7 = 0.",
+    "5. x = 7 veya x = −7."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksik_adim",
+    "islem_hatasi",
+    "us_carpma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.72, 76, 78 (Örnek 23)",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k4-s015",
+   "konu_id": "matematik-u1-k4",
+   "ogrenme_ciktisi": "9.1.4",
+   "surec": "c",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'teki bir tersanede dikdörtgen biçiminde mavi ve gri iki çelik levha vardır. Mavi levhanın kenarları x m ve 12 m, gri levhanın kenarları x m ve 2x m'dir. Mavi levhanın bir yüzünün alanı, gri levhanın bir yüzünün alanından 18 m² fazladır.",
+   "kok": "Buna göre x'in metre cinsinden değerini işlemlerinizi göstererek bulunuz. (15 puan)",
+   "secenekler": null,
+   "cevap": "Mavi: 12x m², gri: 2x² m². 12x = 2x² + 18 → 2x² − 12x + 18 = 0 → 2(x² − 6x + 9) = 0 → x² − 6x + 9 = 0 (x ve 3 terimlerinin farkının karesinin açılımı) → (x − 3)² = 0 → x − 3 = 0 → x = 3 m.",
+   "kabul_edilenler": [
+    "x = 3",
+    "3 m"
+   ],
+   "ipuclari": [
+    "Önce iki levhanın alanını x cinsinden yaz.",
+    "“18 m² fazla” → mavi = gri + 18. Her şeyi bir tarafa topla ve ortak çarpana ayır.",
+    "Mavi ve gri alanı ayrı ayrı yaz. Mavi griden 18 fazla: bunu denkleme çevir."
+   ],
+   "cozum_adimlari": [
+    "1. Mavi levhanın alanı: x · 12 = 12x m².",
+    "2. Gri levhanın alanı: x · 2x = 2x² m².",
+    "3. Mavi, griden 18 m² fazla: 12x = 2x² + 18.",
+    "4. Bir tarafa topla: 2x² − 12x + 18 = 0.",
+    "5. 2 ortak çarpan parantezine alınır: 2 · (x² − 6x + 9) = 0.",
+    "6. 2 sıfır olmadığı için parantez sıfırdır: x² − 6x + 9 = 0.",
+    "7. Sol taraf, x ve 3 terimlerinin farkının karesinin açılımıdır: (x − 3)² = 0.",
+    "8. (x − 3) · (x − 3) = 0 olduğundan x − 3 = 0, x = 3 m.",
+    "9. Kontrol: mavi 3 · 12 = 36 m², gri 3 · 6 = 18 m², fark 18 m²."
+   ],
+   "rubrik": [
+    {
+     "olcut": "Mavi levhanın alanını 12x, gri levhanın alanını 2x² olarak yazma (her biri 2 puan)",
+     "puan": 4
+    },
+    {
+     "olcut": "12x = 2x² + 18 denklemini kurma",
+     "puan": 3
+    },
+    {
+     "olcut": "Denklemi 2x² − 12x + 18 = 0 biçimine getirip 2 ortak çarpanıyla x² − 6x + 9 = 0 elde etme",
+     "puan": 2
+    },
+    {
+     "olcut": "x² − 6x + 9 ifadesinin farkın karesinin açılımı olduğunu belirtip (x − 3)² = 0 yazma (anlamca aynı ifadeler kabul edilir)",
+     "puan": 3
+    },
+    {
+     "olcut": "x − 3 = 0 ile x = 3 m sonucunu bulma",
+     "puan": 3
+    }
+   ],
+   "hata_turu": [
+    "fark_karesi_isaret",
+    "carpim_sifir_isaret",
+    "isaret_hatasi",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.78",
+    "ogrenme_ciktisi": "9.1.4"
+   },
+   "dogrula": []
+  }
+ ]
+}

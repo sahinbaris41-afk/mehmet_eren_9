@@ -68,6 +68,18 @@ const q5 = S.statikten(es, 1);
 esit("eslestirme dogru", S.kontrol(q5, [1, 0]).dogru, true);
 esit("eslestirme yanlis", S.kontrol(q5, [0, 1]).dogru, false);
 
+// deger: metni farklı, değeri doğruya eşit yanlış (√80 ile 4√5) uretecten'de elenir, uretecDene'de hata sayılır.
+const sahte = deger => ({
+  id: "t-deger", konu_id: "k", kontrol: () => "4√5",
+  gen: () => ({ params: {}, kok: "√80 = ?", dogru: "4√5", deger, ipuclari: ["a", "b", "c"], cozum: ["1.", "2."],
+    yanlislar: [["√80", Math.sqrt(80)], ["2√5", 2 * Math.sqrt(5)], ["8√5", 8 * Math.sqrt(5)], ["4√6", 4 * Math.sqrt(6)], ["40", 40]].map(([metin, d]) => ({ metin, hata_turu: "x", deger: d })) }),
+});
+const qd = S.uretecten(sahte(4 * Math.sqrt(5)), 3);
+esit("deger eler", qd.secenekler.some(o => o.metin === "√80"), false);
+esit("deger 4 şık", qd.secenekler.length, 4);
+esit("deger uretecDene yakalar", S.uretecDene(sahte(4 * Math.sqrt(5)), 1).hatalar.length, 1);
+esit("deger yoksa eski davranış", S.uretecDene(sahte(undefined), 5).ok, true);
+
 birim.forEach(b => console.log("  BİRİM HATA " + b));
 console.log(`birim testleri: ${birim.length ? birim.length + " HATA" : "OK"}`);
 process.exit(basarisiz || birim.length ? 1 : 0);

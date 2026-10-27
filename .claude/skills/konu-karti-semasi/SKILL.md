@@ -68,7 +68,7 @@ Bir kart = haritadaki bir konu (`konu_id` = `harita.json` içindeki `id`). Kart 
 - **terimler:** bölümde ilk kez kalın yazılan her terim burada tanımlı. Tanım tek cümle ve basit.
 - **kontrol_sorulari:** zorluk 1. Cevap bölümden çıkarılabilir. 3 basamaklı ipucu.
 - **flashcard:** konu başına 4–8. Ön yüz soru, arka yüz ≤ 2 cümle.
-- **bolumler:** öğrenme çıktısının süreç bileşenlerine (a, b, c) dağıtılır. Bir konu genelde 2–6 bölüm.
+- **bolumler:** öğrenme çıktısının süreç bileşenlerine (a, b, c) dağıtılır. Bir konu genelde 2–6 bölüm. Tek fikir kuralı gerektirirse daha fazla olabilir: geniş konularda en çok 10 (pilot: 9.1.1 10 bölüm, 9.1.4 8 bölüm). "Tek fikir" sınırı bölüm sayısı sınırından önce gelir.
 
 ## Kötü örnek → neden
 

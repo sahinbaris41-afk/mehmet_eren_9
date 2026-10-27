@@ -438,6 +438,27 @@ def selftest() -> None:
     print("selftest OK")
 
 
+def duzeltmeleri_uygula(h: dict, dosya: Path) -> dict:
+    """Elle teyit edilmiş düzeltmeler yeniden üretimde kaybolmasın diye ayrı dosyada tutulur:
+    {"<konu_id>": {"kitap": {"basili_bitis": 81}, "dogrula_kaldir": ["kitap sayfası zayıf"], "neden": "...", "kaynak": "..."}}"""
+    if not dosya.exists():
+        return h
+    duz = json.loads(dosya.read_text(encoding="utf-8"))
+    for u in h["uniteler"]:
+        for k in u["konular"]:
+            d = duz.get(k["id"])
+            if not d:
+                continue
+            if d.get("kitap") and k.get("kitap"):
+                k["kitap"].update(d["kitap"])
+            k["dogrula"] = [x for x in k["dogrula"] if not any(s in x for s in d.get("dogrula_kaldir", []))]
+            k["duzeltme"] = {"neden": d.get("neden"), "kaynak": d.get("kaynak")}
+    bilinmeyen = set(duz) - {k["id"] for u in h["uniteler"] for k in u["konular"]}
+    if bilinmeyen:
+        raise ValueError(f"{dosya.name}: haritada olmayan konu id: {sorted(bilinmeyen)}")
+    return h
+
+
 def main() -> None:
     sys.stdout.reconfigure(encoding="utf-8")
     if "--selftest" in sys.argv:
@@ -445,7 +466,7 @@ def main() -> None:
         return
     secim = [a for a in sys.argv[1:] if a in DERSLER] or list(DERSLER)
     for ders in secim:
-        h = harita(ders)
+        h = duzeltmeleri_uygula(harita(ders), KOK / "dersler" / ders / "harita_duzeltme.json")
         hedef = KOK / "dersler" / ders / "harita.json"
         hedef.parent.mkdir(parents=True, exist_ok=True)
         hedef.write_text(json.dumps(h, ensure_ascii=False, indent=1), encoding="utf-8")

@@ -1,0 +1,610 @@
+{
+ "id": "matematik-u1-k2",
+ "ders": "matematik",
+ "baslik": "Gerçek Sayı Aralıkları",
+ "harita_adi": "Gerçek Sayı Aralıklarının Gösterimi ve Aralıklarla İlgili İşlemlerde Küme Sembollerinin Kullanımı",
+ "ogrenme_ciktilari": [
+  {
+   "kod": "9.1.2",
+   "metin": "Gerçek sayı aralıklarının gösteriminde ve aralıklarla ilgili işlemlerde küme sembol ve işlemlerinden yararlanabilme"
+  }
+ ],
+ "yazili": [
+  "1D1Y"
+ ],
+ "kaynak": [
+  {
+   "tur": "ders_kitabi",
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502/",
+   "sayfa": "37-56"
+  },
+  {
+   "tur": "program",
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-dersi_20260819_143102_154/",
+   "kod": "9.1.2",
+   "surec": [
+    "a",
+    "b",
+    "c"
+   ],
+   "sayfa": "44, 47 (PDF)"
+  },
+  {
+   "tur": "ortak_sinav",
+   "dosya": "kaynaklar/meb/ortak_sinav/gecmis_sinavlar/2025_2026/metin/",
+   "not": "2025-2026 9. sınıf Matematik 1. dönem 1. ortak yazılı, sabah ve öğle oturumu 4. ve 5. sorular; konu soru dağılım tablosunda 9.1.2 için 2 soru"
+  }
+ ],
+ "on_bilgi": [
+  "Sayı doğrusu",
+  "<, >, ≤, ≥ işaretleri",
+  "Mutlak değer: bir sayının sayı doğrusunda 0'a uzaklığı"
+ ],
+ "bolumler": [
+  {
+   "id": "b1",
+   "baslik": "Küme ve eleman",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "38-41",
+    "surec": [
+     "a"
+    ]
+   },
+   "ornek": {
+    "baglam": "futbol",
+    "metin": "Gölcük'te amatör bir takımın hocası bir grup kuruyor. A grubunda 1, 2, 3, 4, 5 numaralı formalar var. 3 numara bu grupta, 9 numara yok."
+   },
+   "katmanlar": {
+    "basit": [
+     "Bir grup sayıyı süslü parantez içinde yazınca **küme** olur. Yani A = {1, 2, 3, 4, 5} bir kümedir.",
+     "Kümenin içindeki her sayıya **eleman** denir. 3, A'nın elemanıdır ve 3 ∈ A yazılır. 9 ise A'da yok, 9 ∉ A yazılır.",
+     "Eleman sayısını s(A) ile yazarız. A'da 5 eleman var, yani s(A) = 5."
+    ],
+    "kitap": [
+     "Kümeler iki yolla yazılır. **Listeleme yöntemi** elemanları virgülle tek tek sayar. **Ortak özellik yöntemi** ise elemanların taşıdığı şartı yazar.",
+     "T = {x | x tek rakam} yazımında dik çizgi “öyle ki” diye okunur. Kümede her eleman bir kez yazılır; burada s(T) = 5 olur."
+    ],
+    "yazilida": {
+     "kalip": "Verilen kümeyi listeleme yöntemiyle yazınız ve eleman sayısını bulunuz.",
+     "ornek_soru": "A = {x | x, 10'dan küçük çift doğal sayı} kümesini listeleme yöntemiyle yazınız ve s(A) değerini bulunuz.",
+     "ornek_cevap": [
+      "1. 10'dan küçük doğal sayılar 0'dan 9'a kadardır.",
+      "2. Bunlardan çift olanlar 0, 2, 4, 6, 8.",
+      "3. A = {0, 2, 4, 6, 8}.",
+      "4. Elemanları sayarız: s(A) = 5."
+     ],
+     "puan_ipucu": "0 da bir doğal sayıdır ve çifttir; unutursan s(A) = 4 bulursun. Ortak yazılıda bu semboller aralık sorularının içinde kullanılır."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "küme",
+     "tanim": "Belirli sayıların süslü parantez içinde bir arada yazıldığı topluluk."
+    },
+    {
+     "terim": "eleman",
+     "tanim": "Kümenin içindeki her bir sayı."
+    },
+    {
+     "terim": "listeleme yöntemi",
+     "tanim": "Kümenin elemanlarını süslü parantez içinde virgülle tek tek yazmak."
+    },
+    {
+     "terim": "ortak özellik yöntemi",
+     "tanim": "Kümeyi, elemanlarının sağladığı şartı yazarak göstermek."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "A = {1, 3, 5, 7, 9} ise s(A) kaçtır?",
+     "cevap": "5",
+     "ipuclari": [
+      "s(A), A'da kaç eleman olduğunu sorar.",
+      "Elemanları tek tek say; toplamazsın.",
+      "1 birinci, 3 ikinci eleman. Sona kadar saymaya devam et."
+     ],
+     "yanlis_aciklama": "s(A) elemanların toplamı değil, kaç tane olduğudur."
+    },
+    {
+     "soru": "7 ∈ {2, 4, 6} ifadesi doğru mu?",
+     "cevap": "Yanlış. 7 bu kümede yok, 7 ∉ {2, 4, 6} yazılır.",
+     "ipuclari": [
+      "∈ işareti “elemanıdır” demektir.",
+      "Kümenin içine bak, 7 yazıyor mu?",
+      "Kümedeki sayıları tek tek oku: 2, 4, 6. Aralarında 7 var mı?"
+     ],
+     "yanlis_aciklama": "7, 6'dan sonra gelse de kümede yazılı değilse eleman değildir."
+    },
+    {
+     "soru": "B = {1, 3, 5, 7} kümesi için boşluğa ∈ ya da ∉ koy: 9 ___ B",
+     "cevap": "9 ∉ B",
+     "ipuclari": [
+      "∈ “elemanıdır”, ∉ “elemanı değildir” demektir.",
+      "B'nin içinde 9 yazıyor mu, bak.",
+      "B'deki sayılar 1, 3, 5, 7. 9 bunların arasında mı?"
+     ],
+     "yanlis_aciklama": "9 tek sayı olsa da B'de yazılı değil; yazılı olmayan sayı eleman değildir."
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "baslik": "Ortak ve farklı elemanlar",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "39-41",
+    "surec": [
+     "a"
+    ]
+   },
+   "ornek": {
+    "baglam": "futbol",
+    "metin": "Gölcük'te amatör bir takımın hocası iki grup kuruyor. A grubunda 1, 2, 3, 4, 5 numaralı formalar var; B grubunda 4, 5, 6, 8. 4 ve 5 numaralı oyuncular iki grupta da çalışıyor."
+   },
+   "katmanlar": {
+    "basit": [
+     "İki grupta da olan numaralar **kesişim** kümesidir: A ∩ B = {4, 5}.",
+     "Herkesi bir kez yazarsak **birleşim** kümesi olur: A ∪ B = {1, 2, 3, 4, 5, 6, 8}. 4 ve 5'i iki kez yazmayız.",
+     "Sadece A'da olup B'de olmayanlar **fark** kümesidir: A \\ B = {1, 2, 3}. Yani B'de de olanları A'dan çıkarıyoruz."
+    ],
+    "kitap": [
+     "A ∩ B “A kesişim B”, A ∪ B “A birleşim B”, A \\ B “A fark B” diye okunur.",
+     "A'nın bütün elemanları B'de de varsa A, B'nin **alt küme**sidir ve A ⊆ B yazılır. Örneğin {4, 5} ⊆ A olur.",
+     "Hiç elemanı olmayan kümeye **boş küme** denir, ∅ ile gösterilir. İki kümenin ortak elemanı yoksa kesişimleri ∅ olur."
+    ],
+    "yazilida": {
+     "kalip": "Verilen kümelerin kesişim, birleşim ve fark kümelerini listeleme yöntemiyle yazınız.",
+     "ornek_soru": "A = {2, 4, 6, 8} ve B = {1, 2, 3, 4} kümeleri veriliyor. A ∩ B, A ∪ B ve A \\ B kümelerini yazınız.",
+     "ornek_cevap": [
+      "1. İki kümede de olanlar 2 ve 4: A ∩ B = {2, 4}.",
+      "2. Bütün elemanlar birer kez: A ∪ B = {1, 2, 3, 4, 6, 8}.",
+      "3. A'da olup B'de olmayanlar 6 ve 8: A \\ B = {6, 8}."
+     ],
+     "puan_ipucu": "Ortak yazılıda bu semboller tek başına değil, aralık sorularının içinde kullanılır. 2025-2026 ortak sınavında A ∩ B'yi aralık olarak yazma sorusu vardı."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "kesişim",
+     "tanim": "İki kümenin ortak elemanlarından oluşan küme; ∩ ile gösterilir."
+    },
+    {
+     "terim": "birleşim",
+     "tanim": "İki kümenin bütün elemanlarının bir kez yazıldığı küme; ∪ ile gösterilir."
+    },
+    {
+     "terim": "fark",
+     "tanim": "A'da olup B'de olmayan elemanlardan oluşan küme; A \\ B ile gösterilir."
+    },
+    {
+     "terim": "alt küme",
+     "tanim": "Bütün elemanları başka bir kümede de bulunan küme; ⊆ ile gösterilir."
+    },
+    {
+     "terim": "boş küme",
+     "tanim": "Hiç elemanı olmayan küme; ∅ ile gösterilir."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "A = {1, 2, 3} ve B = {2, 3, 4} ise A ∩ B nedir?",
+     "cevap": "{2, 3}",
+     "ipuclari": [
+      "∩ işareti iki kümede de olanları ister.",
+      "A'daki her sayıya bak, B'de de var mı?",
+      "1 B'de yok. Şimdi 2 ve 3'ü kontrol et."
+     ],
+     "yanlis_aciklama": "Kesişimde yalnızca ortak elemanlar yazılır, hepsi değil."
+    },
+    {
+     "soru": "Aynı A = {1, 2, 3} ve B = {2, 3, 4} için A ∪ B nedir?",
+     "cevap": "{1, 2, 3, 4}",
+     "ipuclari": [
+      "∪ işareti iki kümedeki bütün elemanları ister.",
+      "Önce A'yı yaz, sonra B'de olup A'da olmayanları ekle.",
+      "A'yı yazdın: 1, 2, 3. B'deki hangi sayı listede yok?"
+     ],
+     "yanlis_aciklama": "Birleşimde ortak elemanlar bir kez yazılır; {1, 2, 3, 2, 3, 4} yazılmaz."
+    },
+    {
+     "soru": "Aynı A = {1, 2, 3} ve B = {2, 3, 4} için A \\ B nedir?",
+     "cevap": "{1}",
+     "ipuclari": [
+      "A \\ B, A'da olup B'de olmayanları ister.",
+      "A'daki her sayıya bak; B'de de varsa çıkar.",
+      "2 B'de var, onu çıkar. 1 ve 3 için de aynı kontrolü yap."
+     ],
+     "yanlis_aciklama": "Fark kümesinde B'de de olan elemanlar A'dan çıkarılır; 2 ve 3 B'de olduğu için kalmaz."
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "baslik": "Aralığı dört yolla yazmak",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "42-44, 54",
+    "surec": [
+     "a",
+     "b"
+    ]
+   },
+   "ornek": {
+    "baglam": "gölcük",
+    "metin": "Gölcük'te ekim ayında bir gün hava en az 12 °C, en çok 21 °C oldu. Gün içinde sıcaklık bu ikisi arasındaki her değeri alabilir: 15 °C, 17,5 °C, 20,3 °C gibi."
+   },
+   "katmanlar": {
+    "basit": [
+     "Sıcaklık sadece tam sayı olmaz; 17,5 °C de olur. Bu yüzden değerleri tek tek sayamayız. Başını ve sonunu yazarız; buna **aralık** denir.",
+     "Uç sayı aralığın içindeyse o uç **dâhil** olur ve köşeli parantez [ ] kullanırız. Dâhil değilse normal parantez ( ) kullanırız. Yani en az 12, en çok 21 için [12, 21] yazarız.",
+     "≤ işareti ucun dâhil olduğunu, < işareti dâhil olmadığını söyler. Yani 12 ≤ x ≤ 21 ile [12, 21] aynı aralıktır.",
+     "Sayı doğrusunda 12 ile 21 arasını boyarız. Dâhil olan uca içi dolu nokta (•), dâhil olmayan uca içi boş daire (○) koyarız."
+    ],
+    "kitap": [
+     "Bir aralık dört biçimde gösterilir: **cebirsel temsil**, aralık gösterimi, sayı doğrusu ve küme gösterimi. Hepsinde x bir gerçek sayıdır, yani x ∈ ℝ.",
+     "12 ≤ x ≤ 21 cebirsel temsildir. Aynı aralık [12, 21] diye yazılır. Küme gösterimi ise A = {x | 12 ≤ x ≤ 21, x ∈ ℝ} olur.",
+     "İki ucu da dâhil olmayan (12, 21) bir **açık aralık**tır ve 12 < x < 21 demektir. Bir ucu dâhil, öteki dâhil değilse **yarı açık aralık** denir.",
+     "[12, 21) aralığı 12 ≤ x < 21 demektir. (12, 21] aralığı ise 12 < x ≤ 21 demektir."
+    ],
+    "yazilida": {
+     "kalip": "Verilen durumu cebirsel temsil, aralık, sayı doğrusu ve küme gösterimiyle yazınız.",
+     "ornek_soru": "Tersanede bir boyanın sürülebilmesi için hava 5 °C'den sıcak, en çok 30 °C olmalıdır. Uygun sıcaklıkları dört gösterimle yazınız.",
+     "ornek_cevap": [
+      "1. “5'ten sıcak” denmiş, 5 dâhil değil; “en çok 30” denmiş, 30 dâhil.",
+      "2. Cebirsel temsil: x ∈ ℝ olmak üzere 5 < x ≤ 30.",
+      "3. Aralık gösterimi: (5, 30], yarı açık aralık.",
+      "4. Sayı doğrusu: 5 ile 30 arası boyanır; 5'e içi boş daire (○), 30'a içi dolu nokta (•) konur.",
+      "5. Küme gösterimi: A = {x | 5 < x ≤ 30, x ∈ ℝ}."
+     ],
+     "puan_ipucu": "Önce uçların dâhil olup olmadığını sözlerden bul. “En az”, “en çok”, “dâhil” köşeli parantez ister; “-den büyük”, “-den küçük” normal parantez ister."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "aralık",
+     "tanim": "Sayı doğrusunda iki sınır arasındaki bütün gerçek sayılar."
+    },
+    {
+     "terim": "dâhil",
+     "tanim": "Uç sayının aralığın içinde olması; köşeli parantez ve dolu nokta ile gösterilir."
+    },
+    {
+     "terim": "cebirsel temsil",
+     "tanim": "Aralığı <, ≤ gibi işaretlerle yazmak; örneğin 12 ≤ x ≤ 21."
+    },
+    {
+     "terim": "açık aralık",
+     "tanim": "İki ucu da dâhil olmayan aralık; örneğin (12, 21)."
+    },
+    {
+     "terim": "yarı açık aralık",
+     "tanim": "Bir ucu dâhil, diğer ucu dâhil olmayan aralık; örneğin [12, 21)."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "3 ≤ x ≤ 8 aralık gösterimiyle nasıl yazılır?",
+     "cevap": "[3, 8]",
+     "ipuclari": [
+      "≤ işareti ucun dâhil olduğunu söyler.",
+      "Dâhil olan uçta köşeli parantez kullanılır.",
+      "Sol uç 3 dâhil, o hâlde [3, ile başla. Sağ uca da aynı soruyu sor."
+     ],
+     "yanlis_aciklama": "≤ olduğu için iki uç da dâhil; normal parantez uçları dışarıda bırakır."
+    },
+    {
+     "soru": "(10, 15) aralığında 10 sayısı var mı?",
+     "cevap": "Hayır, normal parantez 10'un dâhil olmadığını gösterir.",
+     "ipuclari": [
+      "10'un yanındaki paranteze bak.",
+      "Normal parantez ile köşeli parantez farklı şeyler söyler.",
+      "10'un yanındaki ( işareti 10'u içeri mi alır, dışarıda mı bırakır?"
+     ],
+     "yanlis_aciklama": "Aralık 10'dan başlıyor gibi görünse de normal parantez 10'u almaz."
+    },
+    {
+     "soru": "Bir aracın lastik basıncı en az 30, en çok 34 psi olmalı. Bu değerleri aralık olarak yaz.",
+     "cevap": "[30, 34]",
+     "ipuclari": [
+      "“En az” ve “en çok” uçların dâhil olup olmadığını söyler.",
+      "Dâhil olan uçlarda köşeli parantez kullan.",
+      "Küçük sayı önce yazılır: [30, ... Sağ ucun parantezini sen seç."
+     ],
+     "yanlis_aciklama": "“En az” ve “en çok” sınır değerleri de kapsar, bu yüzden köşeli parantez gerekir."
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "baslik": "Bir ucu bitmeyen aralıklar",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "43-44, 54",
+    "surec": [
+     "b"
+    ]
+   },
+   "ornek": {
+    "baglam": "gölcük",
+    "metin": "Kışın hava 0 °C ya da daha soğuk olursa yollarda buzlanma olabilir. Belediye ekipleri bu günlerde yollara tuz döker. 0 °C, −2 °C, −5,5 °C hepsi bu gruba girer; alt sınır yoktur."
+   },
+   "katmanlar": {
+    "basit": [
+     "Bazı durumlarda tek bir sınır vardır. “0 ve altı” dediğimizde −1, −10, −100 hepsi girer. Sayılar sola doğru hiç bitmez.",
+     "Bitmeyen yönü **sonsuz** işaretiyle gösteririz: ∞. Sola doğru bitmeyen taraf −∞ yazılır. Yani “0 ve altı” (−∞, 0] olur.",
+     "∞ bir sayı değildir, ona ulaşılamaz. Bu yüzden ∞ tarafında hep normal parantez kullanırız."
+    ],
+    "kitap": [
+     "a bir gerçek sayı olsun. x < a için aralık (−∞, a) olur. x ≤ a için aralık (−∞, a] olur.",
+     "x > b için aralık (b, ∞) olur. x ≥ b için aralık [b, ∞) olur.",
+     "Küme gösterimi aynı kalıpla yazılır: x ≥ b için {x | x ≥ b, x ∈ ℝ}. Sayı doğrusunda sınırdan bir yöne doğru bütün çizgi boyanır."
+    ],
+    "yazilida": {
+     "kalip": "Verilen durumu cebirsel temsil ve aralık gösterimiyle yazınız.",
+     "ornek_soru": "Bir tersanede 50 kg ve üzerindeki yükler vinçle taşınıyor. Vinçle taşınan yüklerin kütlesini (kg) cebirsel temsil ve aralık gösterimiyle yazınız.",
+     "ornek_cevap": [
+      "1. “50 ve üzeri” denmiş: 50 dâhil, üst sınır yok.",
+      "2. Cebirsel temsil: x ∈ ℝ olmak üzere x ≥ 50.",
+      "3. Aralık gösterimi: [50, ∞)."
+     ],
+     "puan_ipucu": "∞ yanına köşeli parantez koymak sık yapılan hatadır. Sınır sayının parantezini ayrıca kontrol et."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "sonsuz",
+     "tanim": "Sayıların bir yönde hiç bitmediğini gösteren ∞ işareti; bir sayı değildir."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "x > 7 aralık olarak nasıl yazılır?",
+     "cevap": "(7, ∞)",
+     "ipuclari": [
+      "> işareti 7'nin dâhil olup olmadığını söyler.",
+      "7'den büyük sayılar sağa doğru hiç bitmez.",
+      "7 dâhil mi? 7'nin yanına hangi parantez gelir? Sağ uca hangi sembol yazılır? İkisini yan yana yaz."
+     ],
+     "yanlis_aciklama": "> işaretinde sınır sayı dâhil değildir, köşeli parantez kullanılmaz."
+    },
+    {
+     "soru": "(−∞, 3] aralığında 3 sayısı var mı?",
+     "cevap": "Evet, 3'ün yanında köşeli parantez var.",
+     "ipuclari": [
+      "3'ün yanındaki paranteze bak.",
+      "Köşeli parantez ile normal parantez farklı şeyler söyler.",
+      "3'ün yanında ] mi, ) mi var? Köşeli parantezin ne dediğini hatırla."
+     ],
+     "yanlis_aciklama": "Soldaki normal parantez yalnızca −∞ içindir; 3'ün tarafı köşeli."
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "baslik": "Aralıklarla küme işlemleri",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "45-49, 54",
+    "surec": [
+     "b",
+     "c"
+    ]
+   },
+   "ornek": {
+    "baglam": "tersane",
+    "metin": "Tersanede kaynak ekibi saat 8 ile 16 arasında, boya ekibi saat 12 ile 20 arasında çalışıyor. Saat 12 ile 16 arasında iki ekip aynı anda tersanede."
+   },
+   "katmanlar": {
+    "basit": [
+     "Her ekibin çalıştığı saatler bir aralıktır: A = [8, 16] ve B = [12, 20]. İki ekibin aynı anda çalıştığı saatler ortak kısımdır. Bu A ∩ B = [12, 16] olur.",
+     "En az bir ekibin çalıştığı saatler, iki aralığın tamamıdır. Bu A ∪ B = [8, 20] olur.",
+     "Sadece kaynak ekibinin olduğu saatler A \\ B = [8, 12) olur. 12 dâhil değil, çünkü saat 12'de boya ekibi de gelmiş.",
+     "En kolay yol iki aralığı aynı sayı doğrusunda üst üste çizmektir. Sonra hangi parçanın istendiğine bakarsın."
+    ],
+    "kitap": [
+     "Aralıklar birer gerçek sayı kümesidir, bu yüzden küme işlemleri onlara da uygulanır. Üzerinde çalışılan bütün sayıları kapsayan kümeye **evrensel küme** denir; aralıklarda bu ℝ'dir.",
+     "A'da olmayıp evrensel kümede kalan sayılar A'nın **tümleyen**ini oluşturur ve A′ ile gösterilir. A = [8, 16] ise A′ = (−∞, 8) ∪ (16, ∞) olur. Cebirsel temsili x < 8 veya x > 16 biçimindedir.",
+     "Fark alırken uç noktaya dikkat et. B'ye ait olan uç sayı A \\ B'den çıkar, köşeli parantez normal parantez olur."
+    ],
+    "yazilida": {
+     "kalip": "A ∩ B kümesini aralık gösterimi ile yazınız.",
+     "ornek_soru": "Tersanede K boyası 5 °C ile 35 °C, L boyası 10 °C ile 40 °C arasında sürülebiliyor (uçlar dâhil). K boyasının sıcaklık aralığı A, L boyasınınki B kümesiyle gösteriliyor. A ∩ B kümesini aralık gösterimi ile yazınız.",
+     "ornek_cevap": [
+      "1. A kümesinin aralık gösterimi [5, 35].",
+      "2. B kümesinin aralık gösterimi [10, 40].",
+      "3. Sayı doğrusunda iki aralık 10'dan 35'e kadar üst üste gelir.",
+      "4. A ∩ B = [10, 35]."
+     ],
+     "puan_ipucu": "2025-2026 ortak yazılısında bu kalıp 15 puanlık bir soruydu (ağaç yükseltileri, nehir debileri). Cevap anahtarında önce A ve B ayrı ayrı aralık olarak yazılmış, sonra kesişim verilmiş."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "evrensel küme",
+     "tanim": "Üzerinde çalışılan bütün elemanları kapsayan büyük küme; aralıklarda bu ℝ'dir."
+    },
+    {
+     "terim": "tümleyen",
+     "tanim": "Evrensel kümede olup A'da olmayan elemanların kümesi; A′ ile gösterilir."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "A = [2, 6] ve B = [4, 9] ise A ∩ B nedir?",
+     "cevap": "[4, 6]",
+     "ipuclari": [
+      "∩ iki aralığın ortak kısmını ister.",
+      "İki aralığı aynı sayı doğrusunda çiz.",
+      "Sol uçlardan hangisi daha sağda? Sağ uçlardan hangisi daha solda? Ortak parça bu ikisinin arasıdır."
+     ],
+     "yanlis_aciklama": "Kesişim iki aralığın üst üste geldiği parçadır, tamamı değildir."
+    },
+    {
+     "soru": "Aynı A = [2, 6] ve B = [4, 9] için A ∪ B nedir?",
+     "cevap": "[2, 9]",
+     "ipuclari": [
+      "∪ en az birinde olan bütün sayıları ister.",
+      "İki aralığı aynı sayı doğrusunda çiz.",
+      "Sol uçlara bak, hangisi daha solda? Sağ uçlara bak, hangisi daha sağda? Birleşim ikisini kapsar."
+     ],
+     "yanlis_aciklama": "Birleşimde iki aralığın kapladığı bütün yer alınır."
+    },
+    {
+     "soru": "A = [2, 6] ve B = [4, 9] ise A \\ B nedir?",
+     "cevap": "[2, 4)",
+     "ipuclari": [
+      "A'da olup B'de olmayan sayıları arıyoruz.",
+      "İki aralığı çiz; B'nin kapladığı yeri A'dan sil.",
+      "A'nın B ile çakışan kısmını sil. Silinen kısım hangi sayıdan başlıyor? O sayının yanına hangi parantez gelir?"
+     ],
+     "yanlis_aciklama": "4, B'nin elemanıdır; bu yüzden A \\ B'de yer alamaz."
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "baslik": "Aralığı mutlak değerle yazmak",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "50-52, 54",
+    "surec": [
+     "c"
+    ]
+   },
+   "ornek": {
+    "baglam": "deniz",
+    "metin": "Gölcük sahilinde bir hafta boyunca deniz suyu sıcaklığı 16 °C ile 24 °C arasında ölçüldü (uçlar dâhil). Bu aralığın tam ortası 20 °C. Her ölçüm 20 °C'den en fazla 4 derece uzakta."
+   },
+   "katmanlar": {
+    "basit": [
+     "Önce aralığın tam ortasını bul: (16 + 24) / 2 = 20. Uçlar ortadan kaç uzakta? 24 − 20 = 4.",
+     "Demek ki her değer 20'ye en fazla 4 birim uzak. **Mutlak değer** de zaten uzaklığı ölçer.",
+     "Bunu kısaca |x − 20| ≤ 4 yazarız; buna **mutlak değerli eşitsizlik** denir. Okurken “x ile 20 arasındaki uzaklık 4 ya da daha az” deriz.",
+     "Tersinden de okuruz. |x − 20| ≤ 4 ise 20'den 4 sola, 4 sağa gideriz: 16 ve 24. ≤ olduğu için uçlar dâhildir, aralık [16, 24] olur."
+    ],
+    "kitap": [
+     "[a, b] aralığında orta nokta c = (a + b) / 2, uzaklık d = (b − a) / 2 olur. Bu aralık |x − c| ≤ d biçiminde yazılır.",
+     "Uçlar dâhil değilse ≤ yerine < gelir. Yani (a, b) aralığı |x − c| < d olur.",
+     "Tersine de gidilir; b pozitif olsun. |x − a| < b ise aralık (a − b, a + b) olur. |x − a| ≤ b ise aralık [a − b, a + b] olur.",
+     "|x − a| > b ise x, a'dan b birimden daha uzaktadır. Aralık (−∞, a − b) ∪ (a + b, ∞) olur. |x − a| ≥ b ise (−∞, a − b] ∪ [a + b, ∞) olur."
+    ],
+    "yazilida": {
+     "kalip": "Verilen değer aralığını mutlak değerli eşitsizlik olarak yazınız.",
+     "ornek_soru": "Tersanede kesilen bir sac levhanın kalınlığı en az 18 mm, en fazla 22 mm olmalıdır. Kalınlık aralığını mutlak değerli eşitsizlik olarak yazınız.",
+     "ornek_cevap": [
+      "1. Aralık [18, 22], uçlar dâhil.",
+      "2. Orta nokta: (18 + 22) / 2 = 20.",
+      "3. Uzaklık: |18 − 20| = |22 − 20| = 2.",
+      "4. x ∈ ℝ olmak üzere |x − 20| ≤ 2."
+     ],
+     "puan_ipucu": "2025-2026 ortak yazılısında lastik basıncı ve sporcu bandı soruları bu kalıptaydı (15 puan). Cevap anahtarında ortalama ve uzaklık ayrı satırlarda gösterilmiş."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "mutlak değer",
+     "tanim": "Bir sayının sayı doğrusunda 0'a uzaklığı; |x − 20|, x ile 20 arasındaki uzaklıktır."
+    },
+    {
+     "terim": "mutlak değerli eşitsizlik",
+     "tanim": "Bir aralığı orta noktaya olan uzaklıkla yazan ifade; örneğin |x − 20| ≤ 4."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "[10, 20] aralığının orta noktası kaçtır?",
+     "cevap": "15",
+     "ipuclari": [
+      "Orta nokta iki ucun tam ortasıdır.",
+      "İki ucu topla, 2'ye böl.",
+      "10 + 20 = 30 buldun; şimdi bunu 2'ye böl."
+     ],
+     "yanlis_aciklama": "Orta noktayı bulmak için uçlar toplanıp 2'ye bölünür."
+    },
+    {
+     "soru": "|x − 5| ≤ 1 hangi aralığı gösterir?",
+     "cevap": "[4, 6]",
+     "ipuclari": [
+      "Orta nokta 5, uzaklık 1.",
+      "Ortadan 1 sola ve 1 sağa git; ≤ olduğu için uçlar dâhil.",
+      "Sol uç 5 − 1 = 4; sağ ucu da bul."
+     ],
+     "yanlis_aciklama": "≤ işareti uçları da kapsar, bu yüzden köşeli parantez kullanılır."
+    },
+    {
+     "soru": "|x − 7| ≤ 3 eşitsizliğinde orta nokta ve uzaklık kaçtır?",
+     "cevap": "Orta nokta 7, uzaklık 3.",
+     "ipuclari": [
+      "|x − orta nokta| ≤ uzaklık kalıbına bak.",
+      "7 ve 3'ün hangisi mutlak değerin içinde?",
+      "Kalıbı alt alta yaz: |x − c| ≤ d ve |x − 7| ≤ 3."
+     ],
+     "yanlis_aciklama": "Mutlak değerin içindeki sayı orta nokta, sağdaki sayı uzaklıktır."
+    }
+   ]
+  }
+ ],
+ "flashcard": [
+  {
+   "on": "[a, b] ile (a, b) arasındaki fark nedir?",
+   "arka": "[a, b] uçları içerir. (a, b) uçları içermez."
+  },
+  {
+   "on": "[3, 7) cebirsel olarak nasıl yazılır?",
+   "arka": "3 ≤ x < 7, x ∈ ℝ"
+  },
+  {
+   "on": "x ≤ 4 aralık olarak nasıl yazılır?",
+   "arka": "(−∞, 4]. ∞ tarafında hep normal parantez kullanılır."
+  },
+  {
+   "on": "A ∩ B ne demek?",
+   "arka": "A ve B'nin ortak kısmı; iki aralığın üst üste geldiği yer."
+  },
+  {
+   "on": "A \\ B ne demek?",
+   "arka": "A'da olup B'de olmayan sayılar."
+  },
+  {
+   "on": "Aralıklarda evrensel küme nedir?",
+   "arka": "Gerçek sayılar kümesi ℝ. A′, ℝ'de olup A'da olmayan sayılardır."
+  },
+  {
+   "on": "[18, 22] mutlak değerle nasıl yazılır?",
+   "arka": "Orta 20, uzaklık 2: |x − 20| ≤ 2."
+  }
+ ],
+ "sik_hatalar": [
+  {
+   "hata_turu": "aralik_uc",
+   "aciklama": "“En az” ya da “en çok” denen uçta normal parantez kullanmak; ya da “-den büyük” denen uçta köşeli parantez kullanmak."
+  },
+  {
+   "hata_turu": "sonsuz_koseli",
+   "aciklama": "∞ yanına köşeli parantez koymak; örneğin [5, ∞] yazmak."
+  },
+  {
+   "hata_turu": "fark_ucu",
+   "aciklama": "A \\ B bulurken B'ye ait uç sayıyı köşeli parantezle sonuca dâhil etmek."
+  },
+  {
+   "hata_turu": "kesisim_birlesim",
+   "aciklama": "Kesişim istenirken iki aralığın tamamını (birleşimi) yazmak."
+  },
+  {
+   "hata_turu": "mutlak_tam_uzunluk",
+   "aciklama": "|x − c| ≤ d yazarken d yerine aralığın tamamının uzunluğunu yazmak; örneğin [16, 24] için |x − 20| ≤ 8 demek."
+  },
+  {
+   "hata_turu": "tamsayi_sanma",
+   "aciklama": "Aralıkta yalnızca tam sayılar olduğunu sanmak; 17,5 gibi değerler de aralığa girer."
+  }
+ ],
+ "dogrula": [],
+ "surum": 3,
+ "uretim": {
+  "ajan": "konu-anlatici",
+  "tarih": "2026-10-26"
+ }
+}

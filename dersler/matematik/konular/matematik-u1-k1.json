@@ -1,0 +1,902 @@
+{
+ "id": "matematik-u1-k1",
+ "ders": "matematik",
+ "baslik": "Üslü ve Köklü Gösterimler",
+ "harita_adi": "Gerçek Sayıların Üslü ve Köklü Gösterimleri ile Yapılan İşlemler",
+ "ogrenme_ciktilari": [
+  {
+   "kod": "9.1.1",
+   "metin": "Gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere dair muhakeme yapabilme"
+  }
+ ],
+ "yazili": [
+  "1D1Y"
+ ],
+ "kaynak": [
+  {
+   "tur": "ders_kitabi",
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502/",
+   "sayfa": "13-36"
+  },
+  {
+   "tur": "program",
+   "kod": "9.1.1",
+   "surec": [
+    "a",
+    "b",
+    "c",
+    "ç",
+    "d",
+    "e",
+    "f"
+   ],
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-dersi_20260819_143102_154/",
+   "sayfa": "44-46"
+  },
+  {
+   "tur": "destekleme",
+   "dosya": "kaynaklar/meb/matematik/metin/destekleme-9-matematik-2/",
+   "sayfa": "12-13, 18, 21-22"
+  },
+  {
+   "tur": "ortak_sinav",
+   "dosya": "kaynaklar/meb/ortak_sinav/gecmis_sinavlar/2025_2026/metin/9_mat_1D1Y_2025-11-06_sabah/ ve 9_mat_1D1Y_2025-11-06_ogle/",
+   "sorular": "1, 2, 3"
+  }
+ ],
+ "on_bilgi": [
+  "Tabanı rasyonel, üssü tam sayı olan üslü ifadelerle işlem (8. sınıf)",
+  "Bir pozitif sayının karekökünün rasyonel olup olmadığını belirleme (8. sınıf)",
+  "Ondalık gösterimle dört işlem"
+ ],
+ "bolumler": [
+  {
+   "id": "b1",
+   "baslik": "Üs ne anlatır?",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "13-15",
+    "surec": [
+     "a",
+     "b"
+    ]
+   },
+   "ornek": {
+    "baglam": "okul",
+    "metin": "Barbaros Lisesi'nde bir duyuru telefonla yayılıyor. Her öğrenci duyuruyu 2 arkadaşına iletiyor. 1. turda 2 kişi, 2. turda 2 · 2 = 4 kişi, 3. turda 2 · 2 · 2 = 8 kişi duyuyor."
+   },
+   "katmanlar": {
+    "basit": [
+     "Aynı sayıyı tekrar tekrar çarpıyoruz. 2 · 2 · 2 yerine kısaca 2³ yazarız. Aşağıdaki büyük 2 **taban**, sağ üstteki küçük 3 **üs** olur.",
+     "Üs, tabanın kaç kez çarpıldığını söyler. Yani 2³ = 2 · 2 · 2 = 8 olur. 2 · 3 = 6 değildir.",
+     "Parantez, eksinin de tabana dâhil olduğunu söyler. (−2)⁴ = (−2) · (−2) · (−2) · (−2) = 16 olur, çünkü dört eksi çarpılır.",
+     "Parantez yoksa taban yalnız 2'dir, eksi en sonda gelir. Yani −2⁴ = −(2 · 2 · 2 · 2) = −16 olur."
+    ],
+    "kitap": [
+     "a bir gerçek sayı, n pozitif tam sayı olsun. n tane a'nın çarpımına a'nın n. **kuvveti** denir ve aⁿ diye yazılır. Burada a taban, n ise üstür.",
+     "Kuralı bulmak için önce sonucu tahmin edersin; buna **varsayım** denir. Sonra örneklerdeki ortak düzeni yazarsın; buna **genelleme** denir."
+    ],
+    "yazilida": {
+     "kalip": "Verilen üslü ifadenin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "(−3)² − 2³ işleminin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. (−3)² = (−3) · (−3) = 9 olur; iki eksi çarpılınca artı olur.",
+      "2. 2³ = 2 · 2 · 2 = 8 olur.",
+      "3. 9 − 8 = 1 bulunur."
+     ],
+     "puan_ipucu": "Ortak sınavda 'işlemlerinizi göstererek' denir. Her terimi ayrı satırda hesaplamak puan kazandırır."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "taban",
+     "tanim": "Üslü ifadede tekrar tekrar çarpılan sayı (aşağıda, büyük yazılan)."
+    },
+    {
+     "terim": "üs",
+     "tanim": "Tabanın kaç kez çarpıldığını gösteren sayı (sağ üstte, küçük yazılan)."
+    },
+    {
+     "terim": "kuvvet",
+     "tanim": "Bir sayının kendisiyle belli sayıda çarpımı; aⁿ, a'nın n. kuvvetidir."
+    },
+    {
+     "terim": "varsayım",
+     "tanim": "Kuralı bulmadan önce yaptığın tahmin."
+    },
+    {
+     "terim": "genelleme",
+     "tanim": "Birçok örnekte gördüğün ortak düzeni kural olarak yazmak."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "3² kaçtır?",
+     "cevap": "9",
+     "ipuclari": [
+      "Üs 2, yani 3'ü iki kez yaz.",
+      "Yazdığın 3'leri çarp.",
+      "3 · 3 = ..."
+     ],
+     "yanlis_aciklama": "3 ile 2'yi çarpmıyoruz; 3'ü kendisiyle iki kez çarpıyoruz."
+    },
+    {
+     "soru": "(−2)² kaçtır?",
+     "cevap": "4",
+     "ipuclari": [
+      "Parantez içindeki −2'nin kendisi taban.",
+      "(−2) · (−2) yaz.",
+      "Eksi ile eksi çarpılırsa işaret ne olur?"
+     ],
+     "yanlis_aciklama": "Parantez varken taban −2'dir; iki eksi çarpılınca sonuç artı olur."
+    },
+    {
+     "soru": "2 · 2 · 2 · 2 · 2 çarpımını üslü biçimde yaz.",
+     "cevap": "2⁵",
+     "ipuclari": [
+      "Hangi sayı tekrar tekrar çarpılıyor? O sayı taban olur.",
+      "Kaç tane 2 yazılı, say; bu sayı üs olur.",
+      "Tabanı 2 olarak yaz; şimdi 2'leri tek tek say."
+     ],
+     "yanlis_aciklama": "Üs, 2'lerin toplamı değil, kaç tane 2 çarpıldığıdır."
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "baslik": "Sıfır ve negatif üs",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "13-15",
+    "surec": [
+     "a",
+     "b"
+    ]
+   },
+   "ornek": {
+    "baglam": "okul",
+    "metin": "Duyuru her turda 2 katına çıkıyor. 3. turda 2³ = 8 kişi, 2. turda 2² = 4, 1. turda 2¹ = 2 kişi duyuyor. Geriye doğru her adımda sayı yarıya iniyor."
+   },
+   "katmanlar": {
+    "basit": [
+     "Üs 1 azalınca sonuç yarıya iniyor: 2³ = 8, 2² = 4, 2¹ = 2.",
+     "Aynı düzen sürerse 2⁰ = 1 olur. 0 dışındaki her sayının üssü 0 olursa sonuç 1'dir. Yani 5⁰ = 1 ve (−6)⁰ = 1 olur.",
+     "Düzen devam ederse 2⁻¹ = 1/2 ve 2⁻² = 1/4 olur. Negatif üs, sayıyı paydaya gönderir: 3⁻² = 1/3² = 1/9."
+    ],
+    "kitap": [
+     "a sıfırdan farklı bir gerçek sayı olsun. O zaman a⁰ = 1 olur. n pozitif tam sayı ise a⁻ⁿ = 1/aⁿ olur."
+    ],
+    "yazilida": {
+     "kalip": "Verilen üslü ifadenin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "2⁻³ + 4⁰ − (−1)⁵ işleminin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. 2⁻³ = 1/2³ = 1/8 olur.",
+      "2. 4⁰ = 1 olur.",
+      "3. (−1)⁵ = −1 olur, çünkü üs tek sayıdır.",
+      "4. 1/8 + 1 − (−1) = 1/8 + 2 olur.",
+      "5. 1/8 + 16/8 = 17/8 bulunur."
+     ],
+     "puan_ipucu": "Ortak sınavda 'işlemlerinizi göstererek' denir. Her terimi ayrı satırda hesaplamak puan kazandırır."
+    }
+   },
+   "terimler": [],
+   "kontrol_sorulari": [
+    {
+     "soru": "5⁰ kaçtır?",
+     "cevap": "1",
+     "ipuclari": [
+      "Üs sıfır olunca ne olduğunu hatırla.",
+      "0 dışındaki her sayıyı 0 üssüne çıkarırsan hep aynı sonucu bulursun. Tabanın ne olduğu önemli değil.",
+      "Düzene bak: 2³ = 8, 2² = 4, 2¹ = 2. Üs 1 azalınca sonuç yarıya iniyor. 2⁰ ne olur?"
+     ],
+     "yanlis_aciklama": "Üs 0 olunca sonuç 0 değil 1 olur; taban 0 olmadığı sürece."
+    },
+    {
+     "soru": "2⁻¹ hangi kesre eşittir?",
+     "cevap": "1/2",
+     "ipuclari": [
+      "Üs negatif; sayı kesrin neresine gider?",
+      "a⁻¹ = 1/a kuralını kullan.",
+      "Kuralda a yerine 2 koy; pay ve paydaya ne gelir?"
+     ],
+     "yanlis_aciklama": "Negatif üs sonucu negatif yapmaz; sayıyı kesrin paydasına taşır."
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "baslik": "Aynı üslü ifadeleri toplama",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "15-16",
+    "surec": [
+     "b",
+     "c",
+     "ç",
+     "d"
+    ]
+   },
+   "ornek": {
+    "baglam": "tersane",
+    "metin": "Gölcük'teki bir tersanenin A deposunda 3 · 10⁴ civata, B deposunda 5 · 10⁴ civata var. İki depoda toplam 8 · 10⁴, yani 80 000 civata bulunuyor."
+   },
+   "katmanlar": {
+    "basit": [
+     "3 · 10⁴ ile 5 · 10⁴ toplanırken 10⁴ değişmez. Sadece öndeki sayılar toplanır: 3 + 5 = 8. Yani sonuç 8 · 10⁴ olur.",
+     "Bu, 3 kasa + 5 kasa = 8 kasa demek gibidir. Burada 'kasa' yerine 10⁴ var. Çıkarmada da aynı yol izlenir.",
+     "10'un üsleri farklıysa önce eşitlenir. 0,4 · 10⁵ ile 4 · 10⁴ aynı sayıdır, ikisi de 40 000 eder. Virgül bir basamak sağa kayınca üs 1 azalır."
+    ],
+    "kitap": [
+     "Taban ve üs aynıysa xⁿ her terimde ortak çarpandır. Bu yüzden **ortak çarpan parantezi**ne alınır. a · xⁿ + b · xⁿ − c · xⁿ = (a + b − c) · xⁿ olur.",
+     "Parantezin içinde kalan a, b, c sayılarına **katsayı** denir. Toplama ve çıkarma yalnızca katsayılarla yapılır.",
+     "10'un kuvvetleri farklıysa toplamadan önce eşitlenir. Sonra katsayılar toplanır."
+    ],
+    "yazilida": {
+     "kalip": "Toplam K · 10ⁿ olduğuna göre K'nin değerini işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "Bir yük gemisi Gölcük limanından ilk seferde 0,32 · 10⁶ kg, ikinci seferde 48 · 10⁴ kg yük taşıyor. Toplam yük K · 10⁵ kg olduğuna göre K'nin değerini işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. Üslü gösterimleri 10⁵'e eşitleyelim.",
+      "2. 0,32 · 10⁶ = 3,2 · 10⁵ olur.",
+      "3. 48 · 10⁴ = 4,8 · 10⁵ olur.",
+      "4. 10⁵ ortak çarpan: (3,2 + 4,8) · 10⁵.",
+      "5. 3,2 + 4,8 = 8; toplam 8 · 10⁵ olur.",
+      "6. 8 · 10⁵ = K · 10⁵ olduğundan K = 8 bulunur."
+     ],
+     "puan_ipucu": "2025-2026 ortak yazılının 1. sorusu bu kalıptaydı (kan hücreleri ve şehir uzaklıkları). Cevap anahtarı 'üslü gösterimleri eşitleyelim' adımıyla başlıyordu."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "ortak çarpan parantezi",
+     "tanim": "Her terimde bulunan çarpanı bir kez dışarı yazıp kalanları parantez içinde toplamak."
+    },
+    {
+     "terim": "katsayı",
+     "tanim": "Üslü ifadenin önünde onunla çarpılan sayı; 3 · 10⁴'te katsayı 3'tür."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "2 · 10³ + 4 · 10³ işleminin sonucunu ... · 10³ biçiminde yaz.",
+     "cevap": "6 · 10³",
+     "ipuclari": [
+      "İki terimde de 10³ var mı, bak.",
+      "10³ aynı kalır, katsayılar toplanır.",
+      "Yalnız öndeki sayılarla işlem yap; 10³ olduğu gibi kalır."
+     ],
+     "yanlis_aciklama": "Üsler toplanmaz; aynı kuvvetin yalnızca katsayıları toplanır."
+    },
+    {
+     "soru": "9 · 10⁵ − 7 · 10⁵ işleminin sonucu nedir?",
+     "cevap": "2 · 10⁵",
+     "ipuclari": [
+      "10⁵ iki terimde de aynı.",
+      "Katsayıları çıkar, 10⁵'i aynen yaz.",
+      "Yalnız öndeki sayılarla işlem yap; 10⁵ olduğu gibi kalır."
+     ],
+     "yanlis_aciklama": "10⁵ − 10⁵ yapıp 0 bulmak yanlış; 10⁵ ortak çarpan olarak kalır."
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "baslik": "Bilimsel gösterim",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "22-23",
+    "surec": [
+     "d"
+    ]
+   },
+   "ornek": {
+    "baglam": "deniz",
+    "metin": "Gölcük açıklarında bir hamsi sürüsünde yaklaşık 2 400 000 balık var. Bu kadar sıfırı saymak zor. Sayıyı 2,4 · 10⁶ diye yazınca kısalır ve kolay okunur."
+   },
+   "katmanlar": {
+    "basit": [
+     "Çok büyük sayıları kısa yazmanın bir yolu **bilimsel gösterim**dir. Öndeki sayı 1'e eşit ya da 1'den büyük, 10'dan küçük olur (işaretine bakılmaz). Yani 80 000 = 8 · 10⁴ diye yazılır.",
+     "Nasıl yazılır? 2 400 000'de virgülü 2'nin hemen sağına koyarız: 2,4. Virgül 6 basamak sola kaydı, bu yüzden üs 6 olur."
+    ],
+    "kitap": [
+     "n tam sayı, a sıfırdan farklı ve 1 ≤ |a| < 10 olsun. a · 10ⁿ biçimindeki yazım bilimsel gösterimdir (s.23).",
+     "n negatif de olabilir. Çok küçük sayılar böyle yazılır: 0,003 = 3 · 10⁻³ olur."
+    ],
+    "yazilida": {
+     "kalip": "Verilen sayıyı bilimsel gösterimle işlemlerinizi göstererek yazınız.",
+     "ornek_soru": "Bir tersane bir yılda 45 · 10⁵ civata kullanıyor. Bu sayıyı bilimsel gösterimle işlemlerinizi göstererek yazınız.",
+     "ornek_cevap": [
+      "1. 45 sayısı 10'dan büyük; bu yüzden 45 · 10⁵ bilimsel gösterim değildir.",
+      "2. 45'in sağına 5 sıfır yazalım: 45 · 10⁵ = 4 500 000 olur.",
+      "3. Virgülü 4'ün hemen sağına koyalım: 4,5 olur ve 1 ≤ 4,5 < 10 sağlanır.",
+      "4. Virgül 6 basamak sola kaydı; üs 6 olur.",
+      "5. Cevap: 4,5 · 10⁶"
+     ],
+     "puan_ipucu": "Öndeki sayının 1 ≤ |a| < 10 koşulunu sağladığını bir satırda yaz. Koşulu kontrol ettiğini göstermek puan kazandırır."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "bilimsel gösterim",
+     "tanim": "Bir sayıyı, (1'e eşit ya da 1'den büyük, 10'dan küçük bir sayı) · 10'un kuvveti olarak yazmak; işarete bakılmaz."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "35 000 sayısını bilimsel gösterimle yaz.",
+     "cevap": "3,5 · 10⁴",
+     "ipuclari": [
+      "Öndeki sayı 1'e eşit ya da 1'den büyük, 10'dan küçük olmalı.",
+      "35 000'i 3,5 yapmak için virgülü kaç basamak kaydırırsın, say.",
+      "35 000 → 3,5: virgülün geçtiği basamakları tek tek say; üs bu sayı olur."
+     ],
+     "yanlis_aciklama": "35 · 10³ doğru bir eşitliktir ama bilimsel gösterim değildir, çünkü 35 sayısı 10'dan büyüktür."
+    },
+    {
+     "soru": "12 · 10³ ile 1,2 · 10⁴ aynı sayıdır. Hangisi bilimsel gösterimdir?",
+     "cevap": "1,2 · 10⁴",
+     "ipuclari": [
+      "Yalnızca öndeki sayılara bak.",
+      "Öndeki sayı 1'e eşit ya da 1'den büyük, 10'dan küçük olmalı.",
+      "Önce 12'ye bak: 12, 10'dan küçük mü?"
+     ],
+     "yanlis_aciklama": "12 sayısı 10'dan büyük olduğu için 12 · 10³ bilimsel gösterim değildir."
+    },
+    {
+     "soru": "730 000 = 7,3 · 10ⁿ ise n kaçtır?",
+     "cevap": "5",
+     "ipuclari": [
+      "Virgül sayının sonundan 7'nin sağına kaydı.",
+      "7'den sonra gelen rakamların sayısı üssü verir.",
+      "7'den sonra 3, 0, ... diye rakamları yaz; şimdi say."
+     ],
+     "yanlis_aciklama": "Üs, sıfırların sayısı değil; virgülün kaç basamak kaydığıdır. 3 de sayılır."
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "baslik": "Aynı tabanlı çarpma ve bölme",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "16-22",
+    "surec": [
+     "a",
+     "ç",
+     "e",
+     "f"
+    ]
+   },
+   "ornek": {
+    "baglam": "futbol",
+    "metin": "Mehmet Eren'in telefonunda 64 GB, yani 2⁶ GB boş yer var. Kaydettiği her maç videosu 4 GB, yani 2² GB tutuyor. 64 : 4 = 16 video sığar ve 16 = 2⁴ olur."
+   },
+   "katmanlar": {
+    "basit": [
+     "Tabanlar aynıysa çarpmada üsler toplanır. 2³ · 2⁴ = (2 · 2 · 2) · (2 · 2 · 2 · 2) olur. Toplam 7 tane 2 var, yani sonuç 2⁷.",
+     "Bölmede üsler çıkarılır. 2⁶ : 2² = 2⁶⁻² = 2⁴ olur.",
+     "Neden? 2⁶ / 2² = (2 · 2 · 2 · 2 · 2 · 2) / (2 · 2). Alttaki iki 2, üstteki iki 2 ile sadeleşir; 4 tane 2 kalır."
+    ],
+    "kitap": [
+     "x sıfırdan farklı, a ve b tam sayı olsun. xᵃ · xᵇ = xᵃ⁺ᵇ ve xᵃ : xᵇ = xᵃ⁻ᵇ olur.",
+     "Kitap bu kuralların her birini bir **önerme** olarak yazdırır. Önerme, kesin doğru ya da kesin yanlış **hüküm** bildiren ifadedir. Hüküm, bir cümlenin bir şey hakkında verdiği karardır.",
+     "Kitap önermeyi çarpanları tek tek açarak doğrulatır; buna **cebirsel doğrulama** denir (s.18). Bir sayı örneği önermenin yalnız o sayılar için sağlandığını gösterir; her sayı için göstermek harflerle açmayı gerektirir."
+    ],
+    "yazilida": {
+     "kalip": "Verilen işlemin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "3⁴ · 3⁻² : 3⁻¹ işleminin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. Tabanlar aynı; çarpmada üsler toplanır: 3⁴ · 3⁻² = 3⁴⁺⁽⁻²⁾ = 3² olur.",
+      "2. Bölmede üsler çıkarılır: 3² : 3⁻¹ = 3²⁻⁽⁻¹⁾ = 3³ olur.",
+      "3. 3³ = 3 · 3 · 3 = 27 bulunur."
+     ],
+     "puan_ipucu": "Negatif üslü çıkarmada parantezi yaz: 2 − (−1) = 3. Bu satırı ayrı yazmak işaret hatasını önler."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "önerme",
+     "tanim": "Kesin doğru ya da kesin yanlış hüküm bildiren ifade."
+    },
+    {
+     "terim": "hüküm",
+     "tanim": "Bir cümlenin bir şey hakkında verdiği karar."
+    },
+    {
+     "terim": "cebirsel doğrulama",
+     "tanim": "Bir kuralın her sayı için doğru olduğunu harflerle açıp göstermek."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "5² · 5³ işleminin sonucunu üslü biçimde yaz.",
+     "cevap": "5⁵",
+     "ipuclari": [
+      "Tabanlar aynı mı, bak.",
+      "Çarpmada üsler toplanır.",
+      "2 + 3 = ... , taban 5 kalır."
+     ],
+     "yanlis_aciklama": "Çarpmada üsler çarpılmaz, toplanır; 5⁶ değil 5⁵ olur."
+    },
+    {
+     "soru": "7⁸ : 7⁵ işleminin sonucunu üslü biçimde yaz.",
+     "cevap": "7³",
+     "ipuclari": [
+      "Tabanlar aynı, işlem bölme.",
+      "Bölmede üsler çıkarılır.",
+      "8 − 5 = ..."
+     ],
+     "yanlis_aciklama": "Bölmede üsler bölünmez, çıkarılır."
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "baslik": "Aynı üs ve üssün üssü",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "18-21",
+    "surec": [
+     "ç",
+     "d"
+    ]
+   },
+   "ornek": {
+    "baglam": "tersane",
+    "metin": "Tersanede bir kasada 10 kutu, her kutuda 10 paket, her pakette 10 vida var. Toplam 10 · 10 · 10 = 10³ = 1000 vida eder. 10 = 2 · 5 olduğundan 1000 = 2³ · 5³ diye de yazılır."
+   },
+   "katmanlar": {
+    "basit": [
+     "Üsler aynıysa tabanlar çarpılır, üs aynen kalır. 2³ · 5³ = (2 · 5)³ = 10³ = 1000 olur.",
+     "Üssün üssünde üsler çarpılır. (3²)³ = 3² · 3² · 3² = 3⁶ olur. Üç tane 3² var; 2 + 2 + 2 = 6, yani 2 · 3 = 6."
+    ],
+    "kitap": [
+     "x ve y sıfırdan farklı, a tam sayı olsun. xᵃ · yᵃ = (x · y)ᵃ ve xᵃ : yᵃ = (x : y)ᵃ olur.",
+     "x sıfırdan farklı, a ve b tam sayı olsun. (xᵃ)ᵇ = xᵃᵇ olur; burada üs a çarpı b'dir."
+    ],
+    "yazilida": {
+     "kalip": "Verilen sayının kaç basamaklı olduğunu işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "A = 2¹⁵ · 5¹² sayısının kaç basamaklı olduğunu işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. 2¹⁵ sayısını 2³ · 2¹² diye ayıralım.",
+      "2. A = 2³ · 2¹² · 5¹² olur.",
+      "3. Üsler aynı olduğundan 2¹² · 5¹² = (2 · 5)¹² olur.",
+      "4. (2 · 5)¹² = 10¹² olur.",
+      "5. A = 8 · 10¹² olur.",
+      "6. 8'in sağında 12 tane sıfır vardır.",
+      "7. Basamak sayısı 1 + 12 = 13 bulunur."
+     ],
+     "puan_ipucu": "Kitaptaki 3. örnek bu kalıptadır. Sayıyı 10'un kuvvetine çevirdiğin satırı mutlaka yaz."
+    }
+   },
+   "terimler": [],
+   "kontrol_sorulari": [
+    {
+     "soru": "2⁴ · 5⁴ = 10ⁿ ise n kaçtır?",
+     "cevap": "4",
+     "ipuclari": [
+      "Üsler aynı mı, bak.",
+      "Üsler aynıysa tabanlar çarpılır, üs aynen kalır.",
+      "Önce 2 · 5'i hesapla; üsse dokunma."
+     ],
+     "yanlis_aciklama": "Üsler aynıyken üsler toplanmaz; tabanlar çarpılır: 2⁴ · 5⁴ = 10⁴, 10⁸ değil."
+    },
+    {
+     "soru": "(2³)² işleminin sonucunu üslü biçimde yaz.",
+     "cevap": "2⁶",
+     "ipuclari": [
+      "Parantezin dışında bir üs daha var.",
+      "Üssün üssünde üsler çarpılır.",
+      "3 · 2 = ..."
+     ],
+     "yanlis_aciklama": "Üssün üssünde üsler toplanmaz; 2⁵ değil 2⁶ olur."
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "baslik": "Kök: kesirli üs",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "24-27",
+    "surec": [
+     "a",
+     "b",
+     "ç"
+    ]
+   },
+   "ornek": {
+    "baglam": "ev",
+    "metin": "Gölcük'te bir evin kare biçimli odasının taban alanı 16 m². Bir kenarı kaç metre? 4 · 4 = 16 olduğu için kenar 4 m olur."
+   },
+   "katmanlar": {
+    "basit": [
+     "Karesi 16 olan pozitif sayı 4'tür. Bunu √16 = 4 diye yazarız ve **karekök** deriz. √ işareti 'Hangi pozitif sayının karesi bu?' diye sorar.",
+     "3. dereceden kök de benzer çalışır. 2 · 2 · 2 = 8 olduğu için ∛8 = 2 olur. Kök işaretindeki küçük 3 **kökün derecesi**dir; kaç kez çarpıldığını söyler.",
+     "Kök, kesirli üs olarak da yazılır. √9 = 3 ve 9^(1/2) = 3 aynı sayıdır. Payda 2, karekök demektir.",
+     "8^(2/3) için payda 3: 3. dereceden kök al. Pay 2: sonra karesini al.",
+     "∛8 = 2 ve 2² = 4. Yani 8^(2/3) = 4.",
+     "Karekökten negatif sonuç çıkmaz. √((−3)²) = √9 = 3 olur, −3 olmaz."
+    ],
+    "kitap": [
+     "m, n pozitif tam sayı, n ≥ 2 ve x pozitif bir gerçek sayı olsun. x^(m/n) = ⁿ√(xᵐ) yazılabilir. Bu yazıma **köklü gösterim** denir; n sayısı kökün derecesidir.",
+     "n = 2 olduğunda derece yazılmaz; bu kök kareköktür. ⁿ√(xᵐ) ifadesi 'n. dereceden kök x üzeri m' diye okunur.",
+     "Kök derecesi tekse kök her gerçek sayı için tanımlıdır. Derece çiftse içi 0 ya da pozitif olmalıdır. Çift derecede ⁿ√(aⁿ) = |a|, tek derecede ⁿ√(aⁿ) = a olur."
+    ],
+    "yazilida": {
+     "kalip": "Köklü gösterimi üslü, üslü gösterimi köklü olarak yazınız; ifadenin değerini bulunuz.",
+     "ornek_soru": "a) ∛(5²) ifadesini üslü gösterimle yazınız. b) 16^(3/4) ifadesinin değerini işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. a) Kökün derecesi 3'tür; kesrin paydasına yazılır.",
+      "2. İçteki üs 2'dir; kesrin payına yazılır. ∛(5²) = 5^(2/3) olur.",
+      "3. b) 16 = 2⁴ olduğundan 16^(3/4) = (2⁴)^(3/4) yazılır.",
+      "4. Üssün üssünde üsler çarpılır: 4 · 3/4 = 3.",
+      "5. Sonuç 2³ = 8 bulunur."
+     ],
+     "puan_ipucu": "2025-2026 ortak yazılısında bu dönüşüm ayrı soru olarak çıkmadı. Ama köklü sorularda ara adım olarak işe yarar."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "karekök",
+     "tanim": "Derecesi 2 olan kök; √16 = 4 çünkü 4² = 16."
+    },
+    {
+     "terim": "kökün derecesi",
+     "tanim": "Kök işaretinin üstündeki küçük sayı; ∛'te 3'tür."
+    },
+    {
+     "terim": "köklü gösterim",
+     "tanim": "Bir sayıyı √ işaretiyle, ⁿ√(xᵐ) biçiminde yazmak."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "√25 kaçtır?",
+     "cevap": "5",
+     "ipuclari": [
+      "Karesi 25 olan pozitif sayıyı ara.",
+      "Sayıları kendisiyle çarpıp dene.",
+      "1 · 1, 2 · 2, 3 · 3, 4 · 4 diye dene; 25'e ulaşınca dur."
+     ],
+     "yanlis_aciklama": "Karekök 2'ye bölmek değildir; karesi 25 olan sayıyı ararız."
+    },
+    {
+     "soru": "∛27 kaçtır?",
+     "cevap": "3",
+     "ipuclari": [
+      "Kendisiyle 3 kez çarpılınca 27 veren sayıyı ara.",
+      "Küçük sayılardan başla.",
+      "2 · 2 · 2 = 8 oldu, 27'den küçük. Bir sonraki sayıyı dene."
+     ],
+     "yanlis_aciklama": "∛27, 27 : 3 = 9 değildir; üç kez çarpımı 27 eden sayıdır."
+    },
+    {
+     "soru": "7^(1/2) ifadesini köklü gösterimle yaz.",
+     "cevap": "√7",
+     "ipuclari": [
+      "Kesrin paydası kökün derecesidir.",
+      "Payda 2 ise karekök, derece yazılmaz.",
+      "Payda kökün derecesini, pay 7'nin üssünü söyler. İkisini yerine yaz."
+     ],
+     "yanlis_aciklama": "Kesirli üs, sayıyı ikiye bölmek değildir; kök almaktır."
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "baslik": "Köklerle dört işlem",
+   "sure_dk": 6,
+   "kaynak": {
+    "kitap_sayfa": "26-32",
+    "surec": [
+     "ç",
+     "d",
+     "e"
+    ]
+   },
+   "ornek": {
+    "baglam": "gölcük",
+    "metin": "Gölcük sahilinde kare biçimli iki çim alan var: birinin alanı 20 m², ötekinin 5 m². Kenarları √20 m ve √5 m olur. √20 = 2√5 olduğundan kenarların toplamı 2√5 + √5 = 3√5 m eder."
+   },
+   "katmanlar": {
+    "basit": [
+     "Kökün içindeki sayıyı çarpanlarına ayır. İçinde bir **tam kare** (4, 9, 16, 25 gibi) varsa **kök dışına çıkarma** yaparsın. Yani √20 = √(4 · 5) = 2√5 olur.",
+     "Küp kökte **tam küp** ararız: 8, 27, 64, 125 gibi. Yani ∛16 = ∛(8 · 2) = 2∛2 olur.",
+     "Aynı kökler, aynı üslü ifadeler gibi toplanır. 2√5 + √5 = 3√5 olur. Ama √2 + √3, √5 etmez.",
+     "Çarpma ve bölmede dereceler aynıysa kök içlerini tek kökte yazarız. √2 · √8 = √(2 · 8) = √16 = 4 olur. ∛54 : ∛2 = ∛(54 : 2) = ∛27 = 3 olur.",
+     "Dereceler farklıysa önce eşitlenir. √2 ve ∛3 için dereceler 2 ve 3; ortak derece 6.",
+     "√2: derece 2'yi 6 yapmak için 3 ile çarparız; içteki 2'nin üssü de 3 olur. √2 = ⁶√(2³) = ⁶√8.",
+     "∛3: derece 3'ü 6 yapmak için 2 ile çarparız; içteki 3'ün üssü de 2 olur. ∛3 = ⁶√(3²) = ⁶√9.",
+     "Dereceler aynı oldu: √2 · ∛3 = ⁶√8 · ⁶√9 = ⁶√72."
+    ],
+    "kitap": [
+     "n ≥ 2 ve x pozitif olsun. a · ⁿ√x + b · ⁿ√x − c · ⁿ√x = (a + b − c) · ⁿ√x olur. Yani derecesi ve içi aynı kökler ortak çarpan parantezine alınır.",
+     "x ve y pozitif olsun. ⁿ√x · ⁿ√y = ⁿ√(x · y) ve ⁿ√x : ⁿ√y = ⁿ√(x : y) olur. Kökün kökü alınırken dereceler çarpılır; örneğin √(∛x) = ⁶√x olur.",
+     "Kitap bu önermeleri üslü yazımla doğrular. ⁿ√x = x^(1/n) olduğundan üs kuralları köklerde de çalışır. Dereceleri eşitlemek de üssü genişletmektir: √3 = 3^(1/2) = 3^(3/6) = ⁶√(3³)."
+    ],
+    "yazilida": {
+     "kalip": "Köklü kenar uzunlukları verilen şeklin çevresini işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "Okul bahçesindeki dikdörtgen bir çiçekliğin kenarları ∛250 m ve ∛16 m'dir. Çiçeklik, uzun kenarı boyunca 5 eş dikdörtgene bölünüyor. Bir parçanın çevresini metre cinsinden işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. Kenar uzunluklarını kök dışına çıkaralım: 250 = 125 · 2 olduğundan ∛250 = 5∛2 m olur.",
+      "2. 16 = 8 · 2 olduğundan ∛16 = 2∛2 m olur.",
+      "3. Uzun kenar 5∛2 m'dir.",
+      "4. 5 eş parçaya bölünce her parça 5∛2 : 5 = ∛2 m olur.",
+      "5. Bir parçanın kenarları ∛2 m ve 2∛2 m'dir.",
+      "6. Çevre = 2 · (∛2 + 2∛2) = 2 · 3∛2 = 6∛2 m bulunur."
+     ],
+     "puan_ipucu": "2025-2026 ortak yazılının 3. sorusu bu kalıptaydı (bahçe ve renkli bölge). Cevap anahtarı 'kenar uzunluklarını kök dışına çıkaralım' diye başlıyordu."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "tam kare",
+     "tanim": "Bir sayının kendisiyle çarpımı olan sayı; 4, 9, 16, 25 gibi."
+    },
+    {
+     "terim": "tam küp",
+     "tanim": "Bir sayının kendisiyle üç kez çarpımı olan sayı; 8, 27, 64, 125 gibi."
+    },
+    {
+     "terim": "kök dışına çıkarma",
+     "tanim": "Kökün içindeki tam kare (ya da tam küp) çarpanı kökün önüne sayı olarak yazmak; √20 = 2√5 gibi."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "√12 ifadesini kök dışına çıkararak yaz.",
+     "cevap": "2√3",
+     "ipuclari": [
+      "12'nin içinde bir tam kare ara.",
+      "12 = 4 · 3 ve 4 bir tam karedir.",
+      "√(4 · 3) = √4 · √3 yaz. √4 kaçtır?"
+     ],
+     "yanlis_aciklama": "12'yi 6 · 2 diye ayırırsan hiçbiri tam kare değildir; 4 · 3 ayırmak gerekir."
+    },
+    {
+     "soru": "4√3 − √3 işleminin sonucu nedir?",
+     "cevap": "3√3",
+     "ipuclari": [
+      "İki terimde de √3 var.",
+      "√3 aynen kalır, öndeki sayılar çıkarılır.",
+      "√3'ün önünde gizli 1 var: 4 − 1 = ..."
+     ],
+     "yanlis_aciklama": "√3 − √3 yapıp kökü yok etmek yanlış; √3 ortak çarpan olarak kalır."
+    },
+    {
+     "soru": "√3 · √3 kaçtır?",
+     "cevap": "3",
+     "ipuclari": [
+      "Aynı iki kökü çarpıyoruz.",
+      "Çarpmada kök içleri çarpılır: √3 · √3 = √(3 · 3).",
+      "3 · 3 = 9 ve √9 = ..."
+     ],
+     "yanlis_aciklama": "√3 · √3 sonucu √3 değil 3'tür; aynı karekökler çarpılınca kök kalkar."
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "baslik": "Paydadaki kökten kurtulma",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "32-33",
+    "surec": [
+     "d"
+    ]
+   },
+   "ornek": {
+    "baglam": "tersane",
+    "metin": "Tersanede alanı 6 m² olan dikdörtgen bir sac levhanın bir kenarı √3 m. Öteki kenar 6/√3 m olur. Paydada kök olunca bu uzunluğu hesaplamak zordur."
+   },
+   "katmanlar": {
+    "basit": [
+     "Pay ve paydayı paydadaki kökle çarparız. 6/√3 = 6√3/(√3 · √3) = 6√3/3 = 2√3 olur. Yani öteki kenar 2√3 m'dir.",
+     "Payda √5 − √2 gibi iki parçalıysa tek kökle çarpmak yetmez. **Eşlenik** kullanılır: ortadaki işareti değiştirirsin. √5 − √2'nin eşleniği √5 + √2'dir.",
+     "Çarpınca ortadaki terimler birbirini götürür: (√5 − √2) · (√5 + √2) = 5 + √10 − √10 − 2 = 3. Kök kalmaz."
+    ],
+    "kitap": [
+     "x ve y pozitif olsun. (√x − √y) · (√x + √y) = x − y olur. Bu iki ifade birbirinin eşleniğidir.",
+     "Paydası köklü olan bir kesirde pay ve payda paydanın eşleniğiyle çarpılır. Böylece payda rasyonel bir sayıya dönüşür. Bu işleme **paydayı rasyonel yapma** denir."
+    ],
+    "yazilida": {
+     "kalip": "Paydası köklü olan ifadenin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "1/(√7 − √3) − √3/4 işleminin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. İlk kesrin paydasındaki √7 − √3'ün eşleniği √7 + √3'tür.",
+      "2. Pay ve paydayı √7 + √3 ile çarpalım: (√7 + √3) / ((√7 − √3) · (√7 + √3)).",
+      "3. Payda: (√7)² − (√3)² = 7 − 3 = 4.",
+      "4. İlk kesir (√7 + √3)/4 olur.",
+      "5. (√7 + √3)/4 − √3/4 = (√7 + √3 − √3)/4 olur.",
+      "6. Sonuç √7/4 bulunur."
+     ],
+     "puan_ipucu": "2025-2026 ortak yazılının 2. sorusu bu kalıptaydı. Eşlenikle çarptığın satırı ve paydanın kaç olduğunu ayrı ayrı yaz."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "eşlenik",
+     "tanim": "√x − √y ile √x + √y gibi, yalnız ortadaki işareti farklı olan ve çarpımında kök kalmayan ifade çifti."
+    },
+    {
+     "terim": "paydayı rasyonel yapma",
+     "tanim": "Kesri uygun sayıyla genişletip paydadaki kökten kurtulmak."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "√6 − √2 ifadesinin eşleniği nedir?",
+     "cevap": "√6 + √2",
+     "ipuclari": [
+      "Eşlenikte sayılar aynı kalır.",
+      "Yalnızca ortadaki işaret değişir.",
+      "Önce √6 ve √2'yi aynen yaz. Aralarına hangi işaret gelir?"
+     ],
+     "yanlis_aciklama": "Eşlenikte iki terimin de işareti değil, yalnız aradaki işaret değişir."
+    },
+    {
+     "soru": "(√3 − 1) · (√3 + 1) kaçtır?",
+     "cevap": "2",
+     "ipuclari": [
+      "Bu bir eşlenik çarpımıdır.",
+      "Sonuç, birinci terimin karesi eksi ikincinin karesidir.",
+      "(√3)² kaç, 1² kaç? İkisini bul; sonra birincinin karesinden ikincinin karesini çıkar."
+     ],
+     "yanlis_aciklama": "Ortadaki terimler birbirini götürür; geriye yalnız kareler farkı kalır."
+    },
+    {
+     "soru": "2/√3 kesrinin paydasını kökten kurtar.",
+     "cevap": "2√3/3",
+     "ipuclari": [
+      "Payda √3. Hangi sayıyla çarparsan kök kalkar?",
+      "Pay ve paydayı √3 ile çarp.",
+      "Önce paydayı yaz: √3 · √3 kaç eder?"
+     ],
+     "yanlis_aciklama": "Pay ve paydayı aynı sayıyla çarpmak kesrin değerini değiştirmez; payda √3 · √3 = 3 olur."
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "baslik": "Kökün yaklaşık değeri",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "34-35",
+    "surec": [
+     "d",
+     "f"
+    ]
+   },
+   "ornek": {
+    "baglam": "gölcük",
+    "metin": "Gölcük'te kare biçimli bir bahçenin alanı 300 m², kenarı √300 = 10√3 m. √3 yaklaşık 1,7 olduğundan kenar yaklaşık 17 m, çevre yaklaşık 68 m çıkar. Çit alırken bu yaklaşık değer işimizi görür."
+   },
+   "katmanlar": {
+    "basit": [
+     "Kökler çoğu zaman tam çıkmaz. O zaman yakındaki tam karelere bakarız. 5² = 25 ve 6² = 36; 30 bu ikisinin arasında, yani √30, 5 ile 6 arasındadır.",
+     "5 ile 6 gibi peş peşe gelen iki tam sayıya **ardışık** tam sayılar denir.",
+     "Daha yakın tahmin için ondalıklı sayıların karesine bakarız. 1,7² = 2,89 ve 1,8² = 3,24. Yani √3, 1,7 ile 1,8 arasındadır ve 1,7'ye daha yakındır."
+    ],
+    "kitap": [
+     "Kitap √3'ü aralığı adım adım daraltarak tahmin eder ve yaklaşık 1,75 bulur (s.35). √3'ün gerçek değeri 1,732…'dir; kitabın 1,75'i birkaç adımlık kaba bir tahmindir. Adım sayısı artarsa 1,73'e yaklaşılır.",
+     "Arsa çiti gibi maliyet problemlerinde bu yaklaşık değer kullanılır."
+    ],
+    "yazilida": {
+     "kalip": "Köklü uzunluğun yaklaşık değerini kullanarak istenen değeri işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "Kare biçimli bir oyun alanının alanı 75 m²'dir. √3 ≈ 1,7 alarak oyun alanının çevresini yaklaşık olarak işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. Kenar uzunluğu √75 m'dir.",
+      "2. 75 = 25 · 3 olduğundan √75 = 5√3 m olur.",
+      "3. √3 ≈ 1,7 alınırsa kenar ≈ 5 · 1,7 = 8,5 m olur.",
+      "4. Çevre ≈ 4 · 8,5 = 34 m bulunur."
+     ],
+     "puan_ipucu": "Önce kökü kök dışına çıkar, sonra yaklaşık değeri yerine koy. İki adımı ayrı satırlarda yazmak puan kazandırır."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "ardışık",
+     "tanim": "Peş peşe gelen; 5 ile 6 ardışık iki tam sayıdır."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "√10 hangi iki ardışık tam sayı arasındadır?",
+     "cevap": "3 ile 4",
+     "ipuclari": [
+      "10'a yakın tam kareleri düşün.",
+      "Karesi 10'dan küçük ve karesi 10'dan büyük olan ardışık iki tam sayıyı ara.",
+      "1², 2², 3², 4² değerlerini yaz; 10 hangi ikisinin arasına düşüyor?"
+     ],
+     "yanlis_aciklama": "√10, 10'un yarısı değildir; karesi 10'a yakın sayılara bakılır."
+    },
+    {
+     "soru": "√20 hangi iki ardışık tam sayı arasındadır?",
+     "cevap": "4 ile 5",
+     "ipuclari": [
+      "20'ye yakın tam kareleri düşün.",
+      "Karesi 20'den küçük ve karesi 20'den büyük olan ardışık iki tam sayıyı ara.",
+      "3², 4², 5² değerlerini yaz; 20 hangi ikisinin arasına düşüyor?"
+     ],
+     "yanlis_aciklama": "√20, 20'nin yarısı değildir; karesi 20'ye yakın tam sayılara bakılır."
+    }
+   ]
+  }
+ ],
+ "flashcard": [
+  {
+   "on": "a⁰ kaçtır? (a ≠ 0)",
+   "arka": "1'dir. Örneğin 7⁰ = 1."
+  },
+  {
+   "on": "3⁻² neye eşittir?",
+   "arka": "1/3² = 1/9. Negatif üs sayıyı paydaya gönderir."
+  },
+  {
+   "on": "xᵃ · xᵇ = ?",
+   "arka": "xᵃ⁺ᵇ. Tabanlar aynıysa çarpmada üsler toplanır."
+  },
+  {
+   "on": "(xᵃ)ᵇ = ?",
+   "arka": "Üsler çarpılır. Örneğin (2³)² = 2⁶."
+  },
+  {
+   "on": "Bilimsel gösterimde öndeki sayı nasıl olmalı?",
+   "arka": "İşaretine bakmadan 1'e eşit ya da 1'den büyük, 10'dan küçük: 1 ≤ |a| < 10. Örneğin 4,5 · 10⁷ ve −4,5 · 10⁷."
+  },
+  {
+   "on": "x^(2/3) köklü gösterimle nasıl yazılır?",
+   "arka": "∛(x²). Payda kökün derecesi, pay içteki üstür."
+  },
+  {
+   "on": "√12 kök dışına çıkarılınca ne olur?",
+   "arka": "√(4 · 3) = 2√3."
+  },
+  {
+   "on": "√5 − √2 ifadesinin eşleniği nedir?",
+   "arka": "√5 + √2. Çarpımları 5 − 2 = 3 olur."
+  }
+ ],
+ "sik_hatalar": [
+  {
+   "hata_turu": "us_carpma",
+   "aciklama": "2³ = 6 sanmak (2 · 3 yapmak). Doğrusu 2 · 2 · 2 = 8."
+  },
+  {
+   "hata_turu": "sifir_us",
+   "aciklama": "5⁰ = 0 sanmak. Doğrusu 5⁰ = 1."
+  },
+  {
+   "hata_turu": "negatif_us",
+   "aciklama": "2⁻³ = −8 sanmak. Doğrusu 2⁻³ = 1/8."
+  },
+  {
+   "hata_turu": "parantez_isaret",
+   "aciklama": "−2⁴ ile (−2)⁴ ifadesini aynı sanmak. −2⁴ = −16, (−2)⁴ = 16."
+  },
+  {
+   "hata_turu": "farkli_kuvvet_toplama",
+   "aciklama": "10⁴ + 10³ = 10⁷ yazmak. Toplamada üsler toplanmaz; önce kuvvetler eşitlenir."
+  },
+  {
+   "hata_turu": "bilimsel_katsayi",
+   "aciklama": "35 · 10³ ifadesini bilimsel gösterim sanmak. Öndeki sayı 10'dan küçük olmalı: 3,5 · 10⁴."
+  },
+  {
+   "hata_turu": "kok_toplama",
+   "aciklama": "√2 + √3 = √5 yazmak. Yalnız içi ve derecesi aynı kökler toplanır."
+  },
+  {
+   "hata_turu": "esit_derece_unutma",
+   "aciklama": "√2 · ∛3 = √6 yazmak. Dereceler farklıysa önce eşitlenir: ⁶√72."
+  }
+ ],
+ "dogrula": [
+  "DOĞRULA: Kesirli üsler okunurluk için x^(m/n) biçiminde yazıldı (kitap üst simge kesir kullanır); bu yazımın panelde okunaklı olduğu ve öğretmenin yazılıda kabul ettiği kontrol edilmeli."
+ ],
+ "surum": 4,
+ "uretim": {
+  "ajan": "konu-anlatici",
+  "tarih": "2026-10-27"
+ }
+}

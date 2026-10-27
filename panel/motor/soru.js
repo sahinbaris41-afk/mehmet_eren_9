@@ -23,12 +23,25 @@
     };
   }
 
+  // İsteğe bağlı `deger`: sayı ise göreli 1e-9 toleransla (mutlak tolerans 10⁻⁹ ile 10⁻¹⁰'u eşit sayardı), değilse kanonik metin olarak karşılaştırılır.
+  const esitDeger = (u, v) => {
+    if (u == null || v == null) return false;
+    if (typeof u === "number" && typeof v === "number") return u === v || Math.abs(u - v) <= 1e-9 * Math.max(Math.abs(u), Math.abs(v));
+    return String(u) === String(v);
+  };
+
   // Referanstaki buildQuestion: yanlışları tekilleştir, doğruyu çıkar, 3 yanlış seç, karıştır.
   function insa(uretec, tohum) {
     const r = R().rng(tohum);
     const g = uretec.gen(r);
-    const gorulen = new Set([g.dogru]);
-    const havuz = R().shuffle(r, g.yanlislar).filter(y => !gorulen.has(y.metin) && gorulen.add(y.metin));
+    // Tekilleştirme metne, `deger` verilmişse değere de bakar: √80 ile 4√5 aynı şık sayılır.
+    const metinler = new Set([g.dogru]), degerler = g.deger != null ? [g.deger] : [];
+    const havuz = R().shuffle(r, g.yanlislar).filter(y => {
+      if (metinler.has(y.metin) || degerler.some(d => esitDeger(d, y.deger))) return false;
+      metinler.add(y.metin);
+      if (y.deger != null) degerler.push(y.deger);
+      return true;
+    });
     const secenekler = R().shuffle(r, [
       { metin: g.dogru, dogru: true, hata_turu: null, aciklama: null },
       ...havuz.slice(0, 3).map(y => ({ metin: y.metin, dogru: false, hata_turu: y.hata_turu || null, aciklama: y.aciklama || null })),
@@ -93,6 +106,8 @@
       const hata = m => hatalar.push({ tohum: t, mesaj: uretec.id + " tohum " + t + ": " + m });
       try {
         const { soru, g } = insa(uretec, t);
+        // Doğruya değerce eşit yanlış üreteç hatasıdır; insa onu sessizce eler, burada havuzun tamamına bakılır.
+        (g.yanlislar || []).forEach(y => { if (esitDeger(y.deger, g.deger)) hata("yanlış şık doğruya değerce eşit: " + y.metin + " = " + g.dogru); });
         const metinler = soru.secenekler.map(s => s.metin);
         if (metinler.length !== 4) hata("şık sayısı " + metinler.length);
         if (new Set(metinler).size !== metinler.length) hata("aynı şık var: " + metinler.join(" | "));

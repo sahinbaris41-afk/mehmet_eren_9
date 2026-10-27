@@ -1,0 +1,525 @@
+{
+ "id": "matematik-u1-k3",
+ "ders": "matematik",
+ "baslik": "Sayı Kümeleri ve Özellikleri",
+ "harita_adi": "Sayı Kümeleri ve İşlem Özellikleri",
+ "ogrenme_ciktilari": [
+  {
+   "kod": "9.1.3",
+   "metin": "Farklı sayı kümelerinin özellikleri hakkında muhakeme yapabilme"
+  }
+ ],
+ "yazili": [
+  "1D1Y"
+ ],
+ "kaynak": [
+  {
+   "tur": "ders_kitabi",
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502/",
+   "sayfa": "57-66",
+   "not": "1.3 başlığı s.57, Alıştırmalar s.66, 1.4 başlığı s.67. Basılı sayfa = PDF sayfa (s0057-s0066). ℕ tanımı s.39'dan (ℕ = {x | x ≥ 0, x ∈ ℤ}), ℚ′ sembolü s.65'ten (PDF görselinden teyitli)."
+  },
+  {
+   "tur": "program",
+   "kod": "9.1.3",
+   "surec": [
+    "a",
+    "b",
+    "c",
+    "ç",
+    "d",
+    "e",
+    "f"
+   ],
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-dersi_20260819_143102_154/",
+   "sayfa": "s0044 (süreç bileşenleri), s0047 (açıklama ve sınırlamalar)"
+  },
+  {
+   "tur": "ortak_sinav",
+   "dosya": "kaynaklar/meb/ortak_sinav/gecmis_sinavlar/2025_2026/metin/9_mat_1D1Y_2025-11-06_sabah/s0004.txt",
+   "not": "6. soru: doğal sayılar - çıkarma - karşıt örnek (10 puan)"
+  },
+  {
+   "tur": "ortak_sinav",
+   "dosya": "kaynaklar/meb/ortak_sinav/gecmis_sinavlar/2025_2026/metin/9_mat_1D1Y_2025-11-06_ogle/s0004.txt",
+   "not": "6. soru: doğal sayılar - bölme - karşıt örnek (10 puan)"
+  },
+  {
+   "tur": "ortak_sinav",
+   "dosya": "kaynaklar/meb/ortak_sinav/gecmis_sinavlar/2025_2026/metin/9_mat_1D1Y_konu_soru_dagilim/s0001.txt",
+   "not": "Sayı Kümeleri ve İşlem Özellikleri: 1 soru"
+  }
+ ],
+ "on_bilgi": [
+  "Doğal sayı, tam sayı, rasyonel sayı ve kesirler (önceki sınıflar)",
+  "Köklü sayılar, örneğin √2 (1.1. konu)",
+  "∈ (elemanıdır) ve ∉ (elemanı değildir) sembolleri (1.2. konu)"
+ ],
+ "bolumler": [
+  {
+   "id": "b1",
+   "baslik": "Sayı kümeleri neden var?",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "57-58, 39",
+    "surec": [
+     "a"
+    ]
+   },
+   "ornek": {
+    "baglam": "tersane",
+    "metin": "Gölcük'teki bir tersanede limanda 6 gemi bekliyor. Havuzun tabanı deniz seviyesinin 8 metre altında, yani −8 metre. Bir halat 2,5 metre, kenarı 1 metre olan kare bir sacın köşegeni ise √2 metre geliyor."
+   },
+   "katmanlar": {
+    "basit": [
+     "Gemileri saymak için 0, 1, 2, 3 gibi sayılar yeter. Bunlar **doğal sayılar**dır. Harfi ℕ.",
+     "Deniz seviyesinin altı için eksi sayı gerekir: −8 m. Eksi sayılar da gelince **tam sayılar** olur: …, −2, −1, 0, 1, 2, … Harfi ℤ.",
+     "Halat 2,5 m geliyor. 2,5 = 5/2 gibi iki tam sayının bölümü olarak yazılan sayılar **rasyonel sayılar**dır. Harfi ℚ.",
+     "√2 böyle bir kesir olarak yazılamaz. Bu tür sayılar **irrasyonel sayılar**dır, harfi ℚ′. Rasyonel ve irrasyonel sayıların hepsi birlikte **gerçek sayılar**dır, harfi ℝ.",
+     "Yani her ihtiyaç yeni bir sayı grubu doğurmuş. Bu gruplara **sayı kümesi** diyoruz."
+    ],
+    "kitap": [
+     "Kitap, sayıların tarihte ihtiyaçtan doğduğunu anlatır. Babillilerin bir kil tablette yazdığı 1,4142 sayısı yaklaşık √2'dir.",
+     "Kitap doğal sayıları ℕ = {x | x ≥ 0, x ∈ ℤ} diye yazar; yani 0 da doğal sayıdır (s.39). Diğer harfler: tam sayılar ℤ, rasyonel sayılar ℚ, gerçek sayılar ℝ.",
+     "İrrasyonel sayılar kümesi kitapta ℚ′ ile gösterilir (s.65)."
+    ],
+    "yazilida": {
+     "kalip": "Verilen durumu ifade etmek için hangi sayı kümelerine ihtiyaç duyulduğunu gerekçesiyle açıklayınız.",
+     "ornek_soru": "Bir gemi havuzunun tabanı deniz seviyesinin 8 m altındadır. Bu yüksekliği göstermek için doğal sayılar yeterli midir? Gerekçesiyle açıklayınız.",
+     "ornek_cevap": [
+      "1. Deniz seviyesinin altı eksi işaretle yazılır: −8.",
+      "2. −8 bir doğal sayı değildir: −8 ∉ ℕ.",
+      "3. −8 bir tam sayıdır: −8 ∈ ℤ.",
+      "4. Cevap: Doğal sayılar yetmez, tam sayılara ihtiyaç vardır."
+     ],
+     "puan_ipucu": "Sadece 'yetmez' yazmak eksik kalır. Hangi kümeye geçtiğini ve nedenini yaz."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "sayı kümesi",
+     "tanim": "Ortak özelliği olan sayıların bir araya toplandığı grup."
+    },
+    {
+     "terim": "doğal sayılar",
+     "tanim": "0, 1, 2, 3, … sayılarının kümesi; ℕ ile gösterilir."
+    },
+    {
+     "terim": "tam sayılar",
+     "tanim": "Doğal sayılar ile −1, −2, −3 gibi eksi sayıların birlikte oluşturduğu küme; ℤ ile gösterilir."
+    },
+    {
+     "terim": "rasyonel sayılar",
+     "tanim": "a ve b tam sayı, b ≠ 0 olmak üzere a/b biçiminde yazılabilen sayıların kümesi; ℚ ile gösterilir."
+    },
+    {
+     "terim": "gerçek sayılar",
+     "tanim": "Rasyonel ve irrasyonel sayıların hepsini içeren küme; ℝ ile gösterilir."
+    },
+    {
+     "terim": "irrasyonel sayılar",
+     "tanim": "a/b biçiminde yazılamayan √2 gibi gerçek sayıların kümesi; ℚ′ ile gösterilir."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "Limanda bekleyen gemi sayısını yazmak için hangi sayı kümesi yeter?",
+     "cevap": "Doğal sayılar (ℕ)",
+     "ipuclari": [
+      "Gemi sayısı eksi ya da kesirli olabilir mi, düşün.",
+      "Saymada kullandığımız sayıların kümesini hatırla.",
+      "Gemiler 0, 1, 2, … diye sayılır. Bu sayıların kümesini ℕ, ℤ, ℚ, ℝ arasından seç."
+     ],
+     "yanlis_aciklama": "Gemi tek tek sayılır, kesir ya da eksi çıkmaz; bu yüzden ℕ yeter."
+    },
+    {
+     "soru": "−8 hangi kümenin elemanıdır: ℕ mi, ℤ mi?",
+     "cevap": "ℤ (tam sayılar)",
+     "ipuclari": [
+      "Sayının önündeki işarete bak.",
+      "Eksi sayılar doğal sayılarda yoktur.",
+      "ℕ'de eksi sayı var mı? Yoksa eksi sayıları da içeren küme hangisi?"
+     ],
+     "yanlis_aciklama": "Doğal sayılarda eksi sayı yoktur; −8 tam sayıdır."
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "baslik": "Sayıları sıraya dizmek",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "59-61",
+    "surec": [
+     "a",
+     "b",
+     "c",
+     "ç",
+     "d"
+    ]
+   },
+   "ornek": {
+    "baglam": "futbol",
+    "metin": "Gölcük'te bir okul takımında üç oyuncu 30 metre koşuyor. Emre 4,9 saniye, Kerem 5,3 saniye, Can 4,6 saniye yapıyor. Hoca en hızlıdan en yavaşa diziyor: Can, Emre, Kerem."
+   },
+   "katmanlar": {
+    "basit": [
+     "İki sayı verilince hangisinin büyük olduğunu hep söyleyebiliriz. Bu yüzden sayılar sıraya dizilebilir.",
+     "Can, Emre'den hızlı. Emre de Kerem'den hızlı. Yani Can, Kerem'den de hızlıdır.",
+     "Hoca herkesin süresine 1 saniye eklese sıra bozulmaz. Herkese aynı sayı eklemek sırayı değiştirmez."
+    ],
+    "kitap": [
+     "Bir kümenin elemanları karşılaştırılıp düzenli bir sıraya konabiliyorsa bu bir **sıralı küme** olur. ℕ, ℤ, ℚ ve ℝ kümelerinin hepsi sıralıdır.",
+     "Bazı sıralama kuralları: a ≤ b ve b ≤ c ise a ≤ c olur. a ≤ b ise a + c ≤ b + c olur.",
+     "Bir de: a ≤ b ve c ≤ 0 ise a · c ≥ b · c olur. Yani eksi bir sayıyla çarpınca eşitsizlik yön değiştirir.",
+     "Sıralamayla ilgili iki kural daha: 0 < a < b ya da a < b < 0 ise 1/a > 1/b olur. 0 < a < b ise n pozitif tam sayı için aⁿ < bⁿ olur.",
+     "Kitap önce bir **varsayım** kurmanı ister. Sonra her kümeden örnek dener, bir **genelleme** yapar ve ikisini karşılaştırır."
+    ],
+    "yazilida": {
+     "kalip": "Verilen bilgilere göre büyüklükleri karşılaştırıp eşitsizlik sembolleriyle ifade ediniz.",
+     "ornek_soru": "A gemisi C gemisinden uzundur. B gemisinin boyu C'ye eşit ya da C'den kısadır. A ile B'nin boylarını karşılaştırınız.",
+     "ornek_cevap": [
+      "1. A, C'den uzun: C < A.",
+      "2. B, C'ye eşit ya da kısa: B ≤ C.",
+      "3. Sırayla yazalım: B ≤ C < A.",
+      "4. Cevap: B < A, yani A gemisi B'den uzundur."
+     ],
+     "puan_ipucu": "Her bilgiyi önce ayrı ayrı sembolle yaz. Sonra zinciri kur; adımlar puan alır."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "sıralı küme",
+     "tanim": "Elemanları küçükten büyüğe dizilebilen küme."
+    },
+    {
+     "terim": "varsayım",
+     "tanim": "Henüz kanıtlanmamış, örneklere bakmadan önce yapılan tahmin."
+    },
+    {
+     "terim": "genelleme",
+     "tanim": "Birçok örnekte gördüğün ortak düzeni kural olarak yazmak."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "Can 4,6 sn, Emre 4,9 sn koştu. Kim daha hızlı?",
+     "cevap": "Can",
+     "ipuclari": [
+      "Koşuda süre küçükse oyuncu hızlıdır.",
+      "4,6 ile 4,9'u karşılaştır.",
+      "4,6 ile 4,9'dan hangisi küçük? Küçük süre kimin?"
+     ],
+     "yanlis_aciklama": "Koşuda büyük süre yavaş demektir; küçük süreye bak."
+    },
+    {
+     "soru": "3 < 7 ise 3 + 10 ile 7 + 10 arasında hangi işaret gelir?",
+     "cevap": "3 + 10 < 7 + 10, yani 13 < 17",
+     "ipuclari": [
+      "İki tarafa da aynı sayı ekleniyor.",
+      "Aynı sayı eklemek sırayı bozmaz.",
+      "3 + 10 ve 7 + 10'u ayrı ayrı hesapla. Hangisi küçük?"
+     ],
+     "yanlis_aciklama": "Her iki tarafa aynı sayı eklenince küçük olan yine küçük kalır."
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "baslik": "İki sayı arasında sayı var mı?",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "61-63",
+    "surec": [
+     "a",
+     "b",
+     "ç",
+     "d",
+     "e"
+    ]
+   },
+   "ornek": {
+    "baglam": "deniz",
+    "metin": "Bir futbol maçında atılan gol sayısı 1 ile 2 arasında olamaz; 1,5 gol yoktur. Ama Gölcük sahilinde deniz suyu 18 ile 19 derece arasında, mesela 18,5 derece olabilir."
+   },
+   "katmanlar": {
+    "basit": [
+     "Gol gibi sayılan şeylerde 1'den sonra hemen 2 gelir. Arada başka sayı yoktur.",
+     "Sıcaklık gibi ölçülen şeylerde her iki değer arasına yeni bir değer sığar. Yani araya hep sayı koyabiliriz.",
+     "Bir kümede iki sayı arasına hep aynı kümeden sayı koyabiliyorsak, o kümede **arada olma özelliği** var. Yani ℕ ve ℤ'de bu özellik yok; ℚ ve ℝ'de var."
+    ],
+    "kitap": [
+     "**Ardışık** iki doğal sayı ya da ardışık iki tam sayı arasında aynı kümeden sayı yoktur. Bu yüzden ℕ ve ℤ kümelerinde arada olma özelliği yoktur.",
+     "İki rasyonel sayı arasında istediğimiz kadar rasyonel sayı bulunur. ℝ için de aynısı geçerlidir; ℚ ve ℝ'de arada olma özelliği vardır.",
+     "Kitap bunu **ispat** eder: iki sayının ortalaması, küçük sayıdan büyük, büyük sayıdan küçüktür."
+    ],
+    "yazilida": {
+     "kalip": "Verilen iki rasyonel sayı arasında bir rasyonel sayı bulunuz ve arada olduğunu gösteriniz.",
+     "ornek_soru": "1/3 ile 1/2 arasında bir rasyonel sayı bulunuz. İşlemlerinizi gösteriniz.",
+     "ornek_cevap": [
+      "1. İki sayının ortalamasını alalım: (1/3 + 1/2) ÷ 2.",
+      "2. Paydaları eşitleyelim: 1/3 = 2/6 ve 1/2 = 3/6. Toplam 5/6.",
+      "3. 5/6 ÷ 2 = 5/12 bulunur.",
+      "4. Kontrol: 1/3 = 4/12 ve 1/2 = 6/12. 4/12 < 5/12 < 6/12.",
+      "5. Cevap: 5/12, 1/3 ile 1/2 arasında bir rasyonel sayıdır."
+     ],
+     "puan_ipucu": "Sadece sayıyı yazma; paydaları eşitleyip arada olduğunu göster."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "arada olma özelliği",
+     "tanim": "Kümedeki herhangi iki sayı arasında aynı kümeden başka bir sayı bulunabilmesi."
+    },
+    {
+     "terim": "ardışık",
+     "tanim": "Birbirinin hemen arkasından gelen, aralarında 1 fark olan sayılar; 4 ve 5 gibi."
+    },
+    {
+     "terim": "ispat",
+     "tanim": "Bir önermenin her durumda doğru olduğunu adım adım göstermek."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "4 ile 5 arasında bir doğal sayı var mı?",
+     "cevap": "Hayır, yok.",
+     "ipuclari": [
+      "4'ten sonra gelen ilk doğal sayıyı düşün.",
+      "4 ile 5 ardışık sayılar.",
+      "4 ile 5'in arasına yazabileceğin bir sayı bul. O sayı doğal sayı mı?"
+     ],
+     "yanlis_aciklama": "4,5 bir doğal sayı değildir; ardışık doğal sayılar arasında doğal sayı yoktur."
+    },
+    {
+     "soru": "18 ile 19 arasında bir rasyonel sayı yazınız.",
+     "cevap": "Örneğin 18,5 (başka doğru cevaplar da olur).",
+     "ipuclari": [
+      "Kesirli ya da ondalıklı bir sayı düşün.",
+      "İki sayının ortalamasını alabilirsin.",
+      "Önce 18 + 19 toplamını bul. Sonra bu toplamı 2'ye böl."
+     ],
+     "yanlis_aciklama": "Tam sayı aramana gerek yok; rasyonel sayılar ondalıklı olabilir."
+    },
+    {
+     "soru": "Hangi iki kümede arada olma özelliği vardır: ℕ, ℤ, ℚ, ℝ?",
+     "cevap": "ℚ ve ℝ",
+     "ipuclari": [
+      "Ardışık sayılar arasında boşluk olan kümeleri ele.",
+      "ℕ ve ℤ'de ardışık sayılar arasında sayı yok.",
+      "4 ile 5 arasına 4,5 yazabildiğin kümeler hangileri? Gol mü sayıyoruz, sıcaklık mı ölçüyoruz, düşün."
+     ],
+     "yanlis_aciklama": "ℕ ve ℤ'de 4 ile 5 gibi ardışık sayıların arası boştur."
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "baslik": "İşlem sonucu kümede kalıyor mu?",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "63-65",
+    "surec": [
+     "a",
+     "b",
+     "c",
+     "ç"
+    ]
+   },
+   "ornek": {
+    "baglam": "tersane",
+    "metin": "Tersane deposunda 5 kutu cıvata var, 8 kutu daha geliyor: 5 + 8 = 13 kutu. Ama 5 kutudan 8 kutu çıkarılmak istenirse 5 − 8 = −3 olur. Eksi kutu sayısı olmaz."
+   },
+   "katmanlar": {
+    "basit": [
+     "İki doğal sayıyı topladık, yine doğal sayı çıktı. Çıkarınca ise −3 çıktı; bu doğal sayı değil.",
+     "Bir işlemin sonucu hep aynı kümede kalıyorsa küme o işleme göre **kapalı** olur. Yani ℕ toplamada kapalı, çıkarmada kapalı değil.",
+     "Tam sayılarda −3 sorun değil, çünkü −3 ∈ ℤ. Yani ℤ çıkarmada kapalıdır.",
+     "Bölmede hiçbir küme kapalı değil. 1 ÷ 2 = 1/2 tam sayı değildir. Üstelik hiçbir sayı 0'a bölünemez; 3 ÷ 0 tanımsızdır."
+    ],
+    "kitap": [
+     "Kitap, kümeden herhangi iki eleman seçip dört işlemi yapmanı ister. Sonuç hep aynı kümedeyse küme o işleme göre kapalıdır.",
+     "Kurala göre: ℕ toplama ve çarpmaya göre kapalıdır. ℤ, ℚ ve ℝ toplama, çıkarma ve çarpmaya göre kapalıdır.",
+     "Bölme işlemine göre kapalı olan küme yoktur. Örneğin 1 ∈ ℤ ve 2 ∈ ℤ, ama 1 ÷ 2 = 1/2 ∉ ℤ."
+    ],
+    "yazilida": {
+     "kalip": "Verilen sayı kümesinin dört işleme göre kapalı olup olmadığını inceleyiniz.",
+     "ornek_soru": "Tam sayılar kümesinin bölme işlemine göre kapalı olmadığını gösteriniz.",
+     "ornek_cevap": [
+      "1. İki tam sayı seçelim: 3 ∈ ℤ ve 4 ∈ ℤ.",
+      "2. Bölelim: 3 ÷ 4 = 3/4.",
+      "3. 3/4 bir tam sayı değildir: 3/4 ∉ ℤ.",
+      "4. Cevap: ℤ kümesi bölme işlemine göre kapalı değildir."
+     ],
+     "puan_ipucu": "Seçtiğin sayıların kümede olduğunu ∈ ile, sonucun olmadığını ∉ ile yaz."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "kapalı",
+     "tanim": "Kümeden alınan iki sayıyla yapılan işlemin sonucu hep yine o kümede kalıyorsa, küme o işleme göre kapalıdır."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "6 ve 9 doğal sayıları çarpılırsa sonuç doğal sayı mı?",
+     "cevap": "Evet, 6 · 9 = 54 ∈ ℕ.",
+     "ipuclari": [
+      "Önce çarpımı hesapla.",
+      "Doğal sayılarda eksi ya da kesirli sayı yoktur.",
+      "6 · 9'u hesapla. Sonuç eksi ya da kesirli mi?"
+     ],
+     "yanlis_aciklama": "İki doğal sayının çarpımı yine doğal sayıdır; ℕ çarpmaya göre kapalıdır."
+    },
+    {
+     "soru": "ℤ kümesi çıkarma işlemine göre kapalı mı?",
+     "cevap": "Evet, kapalı.",
+     "ipuclari": [
+      "İki tam sayı seç ve çıkar, örneğin 2 − 7.",
+      "Sonuç eksi çıksa da tam sayı mı, bak.",
+      "2 − 7'yi hesapla. Çıkan sayı ℤ'de var mı?"
+     ],
+     "yanlis_aciklama": "Eksi sonuç ℤ'nin dışında değildir; tam sayılar eksi sayıları da içerir."
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "baslik": "Karşıt örnek ile çürütme",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "63-65",
+    "surec": [
+     "d",
+     "e",
+     "f"
+    ]
+   },
+   "ornek": {
+    "baglam": "gölcük",
+    "metin": "Bir arkadaşın 'Gölcük sahilinde her gün rüzgâr eser' diyor. Sen rüzgârsız tek bir günü gösteriyorsun. Bu tek gün, sözün yanlış olduğunu kanıtlamaya yeter."
+   },
+   "katmanlar": {
+    "basit": [
+     "Bir cümlenin bir şey hakkında verdiği karara **hüküm** denir. Kesin doğru ya da kesin yanlış hüküm bildiren ifadeye **önerme** denir. 'Her gün rüzgâr eser' bir önermedir.",
+     "'Her zaman' diyen bir önermeyi çürütmek kolay. Uymayan tek bir örnek bulman yeter. Bu uymayan örneğe **karşıt örnek** denir.",
+     "Ama bir önermenin doğru olduğunu göstermek için tek örnek yetmez. Yani o zaman genel bir ispat gerekir."
+    ],
+    "kitap": [
+     "Kitapta karşıt örnek sunma, bir önermenin her durumda geçerli olmadığını gösteren yöntemdir. Kitap buna 'aksine örnek verme yöntemi' de der.",
+     "Kitaptaki Örnek 20: √3 ∈ ℚ′ ve √12 ∈ ℚ′, ama √3 · √12 = √36 = 6 ve 6 ∉ ℚ′. Bu yüzden irrasyonel sayılar çarpmaya göre kapalı değildir.",
+     "Başka bir örnek de aynı işi görür: √2 ∈ ℚ′ ama √2 · √2 = 2 ve 2 ∉ ℚ′.",
+     "Çift tam sayıların kümesi için kitap toplamayı genel olarak ispatlar: 2a + 2b = 2(a + b) yine çifttir. Bölme içinse tek karşıt örnek yeter: 2 ÷ 6 = 1/3 çift tam sayı değildir."
+    ],
+    "yazilida": {
+     "kalip": "“... kümesi ... işlemine göre kapalıdır.” önermesinin yanlış olduğunu karşıt örnek sunarak gösteriniz.",
+     "ornek_soru": "“Doğal sayılar kümesi çıkarma işlemine göre kapalıdır.” önermesinin yanlış olduğunu karşıt örnek sunarak gösteriniz. (10 puan)",
+     "ornek_cevap": [
+      "1. İki doğal sayı seçelim: 2 ∈ ℕ ve 9 ∈ ℕ.",
+      "2. Çıkaralım: 2 − 9 = −7.",
+      "3. −7 bir doğal sayı değildir: −7 ∉ ℕ.",
+      "4. Böylece önermenin yanlış olduğu karşıt örnekle gösterilmiş olur."
+     ],
+     "puan_ipucu": "Bu soru 2025-2026 ortak sınavında 10 puanla çıktı. Küçük sayıdan büyüğü çıkaran her doğru örnek kabul edilir. Son cümleyi yazmak cevabı tamamlar; ÖDSGM'nin örnek cevabında da var."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "hüküm",
+     "tanim": "Bir cümlenin bir şey hakkında verdiği karar."
+    },
+    {
+     "terim": "önerme",
+     "tanim": "Kesin doğru ya da kesin yanlış hüküm bildiren ifade."
+    },
+    {
+     "terim": "karşıt örnek",
+     "tanim": "Bir önermeye uymayan ve onun yanlış olduğunu gösteren tek bir örnek."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "“Doğal sayılar kümesi bölme işlemine göre kapalıdır.” önermesine bir karşıt örnek veriniz.",
+     "cevap": "Örneğin 2 ∈ ℕ, 7 ∈ ℕ ama 2 ÷ 7 = 2/7 ∉ ℕ.",
+     "ipuclari": [
+      "Bölümü doğal sayı çıkmayan iki doğal sayı ara.",
+      "Küçük sayıyı büyük sayıya bölmeyi dene.",
+      "2'yi kendisinden büyük bir doğal sayıya böl. Sonuç doğal sayı mı, bak."
+     ],
+     "yanlis_aciklama": "6 ÷ 3 = 2 gibi önermeye uyan örnek çürütmez; uymayan örnek bulmalısın."
+    },
+    {
+     "soru": "Bir önermenin yanlış olduğunu göstermek için kaç karşıt örnek yeter?",
+     "cevap": "Bir tane",
+     "ipuclari": [
+      "Rüzgârsız gün örneğini hatırla.",
+      "'Her zaman' sözünü bozmak için kaç istisna gerekir?",
+      "Rüzgârsız gün örneğinde 'her gün rüzgâr eser' sözünü kaç gün bozdu?"
+     ],
+     "yanlis_aciklama": "Tek bir uymayan örnek, 'her zaman' iddiasını bozmaya yeter."
+    }
+   ]
+  }
+ ],
+ "flashcard": [
+  {
+   "on": "ℕ, ℤ, ℚ, ℝ harfleri hangi kümeler?",
+   "arka": "ℕ doğal, ℤ tam, ℚ rasyonel, ℝ gerçek sayılar. İrrasyonel sayılar ℚ′ ile gösterilir."
+  },
+  {
+   "on": "Hangi kümelerde arada olma özelliği vardır?",
+   "arka": "ℚ ve ℝ. ℕ ve ℤ'de ardışık sayılar arasında sayı yoktur."
+  },
+  {
+   "on": "Bir küme bir işleme göre ne zaman kapalıdır?",
+   "arka": "Kümeden alınan iki sayıyla yapılan işlemin sonucu hep yine o kümedeyse."
+  },
+  {
+   "on": "ℕ hangi işlemlere göre kapalıdır?",
+   "arka": "Toplama ve çarpma. Çıkarma ve bölmeye göre kapalı değildir."
+  },
+  {
+   "on": "ℤ, ℚ ve ℝ hangi işlemlere göre kapalıdır?",
+   "arka": "Toplama, çıkarma ve çarpma. Bölmede hiçbiri kapalı değil: ℤ'de 1 ÷ 2 ∉ ℤ, ℚ ve ℝ'de 0'a bölünemez."
+  },
+  {
+   "on": "Karşıt örnek nedir?",
+   "arka": "Bir önermeye uymayan tek örnek. Önermenin yanlış olduğunu göstermeye yeter."
+  },
+  {
+   "on": "İki rasyonel sayı arasında rasyonel sayı nasıl bulunur?",
+   "arka": "İki sayının ortalaması alınır: (a + b) ÷ 2. Sonuç ikisinin arasındadır."
+  }
+ ],
+ "sik_hatalar": [
+  {
+   "hata_turu": "uyan_ornek_vermek",
+   "aciklama": "Karşıt örnek isterken önermeye uyan bir örnek yazmak (6 − 2 = 4 ∈ ℕ gibi)."
+  },
+  {
+   "hata_turu": "tek_ornekle_ispat",
+   "aciklama": "Bir önermenin doğru olduğunu tek bir örnekle kanıtladığını sanmak."
+  },
+  {
+   "hata_turu": "eksi_sayi_kume_disi",
+   "aciklama": "Eksi sonuç çıkınca ℤ'nin de çıkarmaya göre kapalı olmadığını sanmak."
+  },
+  {
+   "hata_turu": "irrasyonel_carpim",
+   "aciklama": "İki irrasyonel sayının çarpımının hep irrasyonel olduğunu sanmak (√2 · √2 = 2)."
+  },
+  {
+   "hata_turu": "eksik_adim",
+   "aciklama": "Cevapta ∈ ve ∉ sembollerini yazmayıp kümeye ait olup olmadığını göstermemek."
+  }
+ ],
+ "dogrula": [
+  "DOĞRULA: ℚ'nun a/b (b ≠ 0) tanımı ünite sayfalarında açıkça verilmiyor; önceki sınıf bilgisine dayanıyor. (ℕ ve ℤ s.39, ℝ ve ℚ′ s.40–41 ve s.65'te teyitli.)",
+  "DOĞRULA: Ortak sınavda bu konudan yalnızca 'karşıt örnekle çürütme' kalıbı görüldü (2025-11-06 sabah ve öğle, 6. soru). b1-b4'teki yazılı kalıpları kitap uygulamalarından türetildi; ortak sınavda çıkacağı kesin değil."
+ ],
+ "surum": 3,
+ "uretim": {
+  "ajan": "konu-anlatici",
+  "tarih": "2026-10-26"
+ }
+}

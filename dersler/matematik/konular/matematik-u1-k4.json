@@ -1,0 +1,691 @@
+{
+ "id": "matematik-u1-k4",
+ "ders": "matematik",
+ "baslik": "Önermeler, İşlem Özellikleri ve Özdeşlikler",
+ "harita_adi": "Gerçek Sayıların İşlem Özelliklerini Cebirsel Olarak İfade Etme",
+ "ogrenme_ciktilari": [
+  {
+   "kod": "9.1.4",
+   "metin": "Gerçek sayıların işlem özelliklerini cebirsel olarak ifade etmede analojik akıl yürütebilme"
+  }
+ ],
+ "yazili": [
+  "1D1Y"
+ ],
+ "kaynak": [
+  {
+   "tur": "ders_kitabi",
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502/",
+   "sayfa": "67-81"
+  },
+  {
+   "tur": "program",
+   "kod": "9.1.4",
+   "surec": [
+    "a",
+    "b",
+    "c"
+   ],
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-dersi_20260819_143102_154/",
+   "sayfa": "44, 47-48"
+  },
+  {
+   "tur": "ortak_sinav",
+   "dosya": "kaynaklar/meb/ortak_sinav/gecmis_sinavlar/2025_2026/metin/9_mat_1D1Y_2025-11-06_sabah/ ve _ogle/",
+   "sayfa": "4 (7. soru)"
+  },
+  {
+   "tur": "pdf_teyit",
+   "dosya": "denetim/pdf_teyit_u1.md",
+   "sayfa": "s.68 Tablo 1.1, s.72 Tablo 1.2 ve 1.3"
+  }
+ ],
+ "on_bilgi": [
+  "Üslü ve köklü gösterimler (9.1.1)",
+  "Sayı kümeleri ve işlem özellikleri (9.1.3)",
+  "Kare ve dikdörtgenin alanı"
+ ],
+ "bolumler": [
+  {
+   "id": "b1",
+   "baslik": "Önerme: kesin doğru ya da kesin yanlış",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "67-68"
+   },
+   "ornek": {
+    "baglam": "gölcük",
+    "metin": "Ali 'Gölcük, Kocaeli'nin bir ilçesidir.' diyor; bu cümle kesin doğru. Ayşe 'Gölcük sahili en güzel sahildir.' diyor; bu ise kişiye göre değişir."
+   },
+   "katmanlar": {
+    "basit": [
+     "Ali'nin cümlesine herkes aynı cevabı verir: doğru. Ayşe'nin cümlesi bir görüş, herkes aynı karara varmaz.",
+     "Bir cümlenin bir şey hakkında verdiği karara **hüküm** denir. Kesin doğru ya da kesin yanlış hüküm bildiren ifadeye **önerme** diyoruz. Yani '7 > 3' bir önerme, doğru.",
+     "'2 + 2 = 5' de önermedir ama yanlıştır. Önerme olmak için doğru olmak gerekmez, kesin olmak yeter.",
+     "Bir önermeyi doğruysa yanlış, yanlışsa doğru yapan yeni önermeye onun **değil**i denir. Yani '7 > 3' doğru, değili '7 ≤ 3' yanlıştır. İşaretlerin değili: > için ≤, < için ≥, = için ≠."
+    ],
+    "kitap": [
+     "Önermeler sözle ya da sembollerle yazılabilir. Örneğin 'tabanları aynı üslü sayılar çarpılırken üsler toplanır' cümlesi aˣ · aʸ = aˣ⁺ʸ olarak da yazılır.",
+     "Kitapta değile olumsuz da denir. Doğru bir önermenin değili yanlış, yanlış bir önermenin değili doğrudur.",
+     "Tablo 1.1'deki değiller: = yerine ≠, ∈ yerine ∉, < yerine ≥, > yerine ≤. Tersi de geçerlidir: ≤ yerine >, ≥ yerine < gelir.",
+     "Dikkat: 'x > 3' gibi harfli bir eşitsizlik tek başına önerme değildir. Doğru mu yanlış mı olduğu x'e bağlıdır."
+    ],
+    "yazilida": {
+     "kalip": "Sözel verilen önermeyi sembolik dille yazınız ve değilini bulunuz.",
+     "ornek_soru": "a) '7 sayısı 3'ten büyüktür.' b) '−2 bir doğal sayıdır.' Önermeleri ve değillerini sembolle yazınız. Her birinin doğru mu yanlış mı olduğunu belirtiniz.",
+     "ornek_cevap": [
+      "1. a) '3'ten büyüktür' → 7 > 3 yazılır. Bu önerme doğrudur.",
+      "2. a) > işaretinin değili ≤ işaretidir. Değili: 7 ≤ 3, yanlıştır.",
+      "3. b) 'doğal sayıdır' → −2 ∈ ℕ yazılır. Doğal sayılarda eksi sayı yok; önerme yanlıştır.",
+      "4. b) ∈ işaretinin değili ∉ işaretidir. Değili: −2 ∉ ℕ, doğrudur."
+     ],
+     "puan_ipucu": "Değil yazarken 'büyük'ün tersini 'küçük' sanma; eşitlik de karşı tarafa geçer (> değil → ≤)."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "hüküm",
+     "tanim": "Bir cümlenin bir şey hakkında verdiği karar."
+    },
+    {
+     "terim": "önerme",
+     "tanim": "Kesin doğru ya da kesin yanlış hüküm bildiren ifade."
+    },
+    {
+     "terim": "değil",
+     "tanim": "Bir önermeyi doğruysa yanlış, yanlışsa doğru yapan yeni önerme; olumsuzu da denir."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "'5 + 4 = 10' bir önerme midir? Doğru mu, yanlış mı?",
+     "cevap": "Önermedir. Hükmü yanlıştır, çünkü 5 + 4 = 9.",
+     "ipuclari": [
+      "Doğru ya da yanlış olması şart mı, yoksa kesin karar verilebilmesi mi?",
+      "Önce 5 + 4 işlemini yap.",
+      "5 + 4 kaç eder? Bu cümle için 'doğru' ya da 'yanlış' diye kesin karar verebiliyor musun?"
+     ],
+     "yanlis_aciklama": "Yanlış olan cümleler de önermedir; önemli olan kesin karar verilebilmesi."
+    },
+    {
+     "soru": "'8 > 2' önermesinin değilini yazınız.",
+     "cevap": "8 ≤ 2",
+     "ipuclari": [
+      "> işaretinin değilini düşün.",
+      "> işaretinin değili ≤ işaretidir.",
+      "> yerine hangi işaret gelir? 8 ile 2'nin arasına yaz."
+     ],
+     "yanlis_aciklama": "> işaretinin değili < değil, ≤ olur; eşit olma durumu da eklenir."
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "baslik": "Dağılma özelliği: sözden sembole",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "69-71, 74"
+   },
+   "ornek": {
+    "baglam": "market",
+    "metin": "Gölcük çarşısında simit 15 TL, ayran 20 TL olsun. Sen ve iki arkadaşın birer simit ve birer ayran alıyorsunuz. Hesap: 3 · (15 + 20) = 105 TL; ayrı ayrı hesaplasan 3 · 15 + 3 · 20 = 45 + 60 = 105 TL."
+   },
+   "katmanlar": {
+    "basit": [
+     "İki yoldan da 105 TL çıktı. Çarpmayı paranteze dağıtabildik.",
+     "Buna **dağılma özelliği** diyoruz. Harfle yazınca: a · (b + c) = a · b + a · c.",
+     "Harfli böyle yazılara **cebirsel ifade** denir. Yani harf, herhangi bir gerçek sayının yerini tutar."
+    ],
+    "kitap": [
+     "Kitaptaki adı: çarpma işleminin toplama işlemi üzerine dağılma özelliği. Çarpma, çıkarma üzerine de dağılır: a · (b − c) = a · b − a · c.",
+     "**Değişme özelliği**: a + b = b + a ve a · b = b · a. **Birleşme özelliği**: (a + b) + c = a + (b + c) ve (a · b) · c = a · (b · c). İkisinde de sonuç değişmez.",
+     "Çıkarma ve bölmede değişme ve birleşme özelliği yoktur. Örneğin 5 − 3 = 2 ama 3 − 5 = −2."
+    ],
+    "yazilida": {
+     "kalip": "İşlemi, gerçek sayıların işlem özelliklerini kullanarak kolay yoldan hesaplayınız. Kullandığınız özelliği yazınız.",
+     "ornek_soru": "25 · 47 + 25 · 53 işleminin sonucunu işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. İki terimde de 25 çarpanı var.",
+      "2. Dağılma özelliğini tersten kullan: 25 · 47 + 25 · 53 = 25 · (47 + 53).",
+      "3. Parantez içi: 47 + 53 = 100.",
+      "4. 25 · 100 = 2500."
+     ],
+     "puan_ipucu": "Hangi özelliği kullandığını adıyla yazmak (dağılma) gerekçe puanı kazandırır."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "dağılma özelliği",
+     "tanim": "Bir sayıyı parantezin içindeki her terimle ayrı ayrı çarpabilme kuralı."
+    },
+    {
+     "terim": "cebirsel ifade",
+     "tanim": "İçinde sayıların yerini tutan harfler bulunan matematik ifadesi."
+    },
+    {
+     "terim": "değişme özelliği",
+     "tanim": "İşlemde sayıların yeri değişse de sonucun aynı kalması."
+    },
+    {
+     "terim": "birleşme özelliği",
+     "tanim": "Üç sayıyla işlemde hangi ikilinin önce yapıldığının sonucu değiştirmemesi."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "4 · (10 + 3) işlemini dağılma özelliğiyle hesaplayınız.",
+     "cevap": "4 · 10 + 4 · 3 = 40 + 12 = 52",
+     "ipuclari": [
+      "4'ü parantezin içindeki iki sayıya da dağıt.",
+      "4 · 10 ve 4 · 3 ayrı ayrı bul.",
+      "4 · 10 = ... ve 4 · 3 = ... yaz; sonra topla."
+     ],
+     "yanlis_aciklama": "4'ü yalnızca ilk sayıyla çarpmak yetmez; parantezdeki her terimle çarpılır."
+    },
+    {
+     "soru": "2 · (7 + 5) = 2 · 7 + 2 · 5 eşitliği hangi özelliği gösterir?",
+     "cevap": "Dağılma özelliği",
+     "ipuclari": [
+      "Eşitliğin iki tarafında 2'ye ne olmuş, ona bak.",
+      "2, parantezdeki her sayıyla ayrı ayrı çarpılmış.",
+      "a · (b + c) = a · b + a · c kalıbının adını hatırla."
+     ],
+     "yanlis_aciklama": "Burada sayıların yeri değişmedi; 2 parantezdeki her sayıya dağıtıldı."
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "baslik": "0 ve 1'in özel görevleri",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "69, 71, 74"
+   },
+   "ornek": {
+    "baglam": "market",
+    "metin": "Gölcük çarşısında cüzdanında 7 TL var. Üstüne 0 TL eklersen yine 7 TL olur. 1 tane 7 TL'lik simit alırsan 1 · 7 = 7 TL ödersin."
+   },
+   "katmanlar": {
+    "basit": [
+     "Toplamada 0 sayıyı değiştirmez: 7 + 0 = 7. Çarpmada 1 sayıyı değiştirmez: 7 · 1 = 7. Bu sayılara **birim eleman** denir.",
+     "Toplayınca 0 veren sayıya **ters eleman** denir. 7'nin toplamaya göre tersi −7'dir, çünkü 7 + (−7) = 0.",
+     "Çarpmada 0 her sayıyı yutar: 7 · 0 = 0. Bu yüzden 0, çarpmanın **yutan eleman**ıdır."
+    ],
+    "kitap": [
+     "Birim eleman: a + 0 = 0 + a = a ve a · 1 = 1 · a = a. Kitapta buna etkisiz eleman da denir.",
+     "Ters eleman: a + (−a) = 0 olduğu için a'nın toplamaya göre tersi −a'dır. a ≠ 0 ise a · (1/a) = 1; çarpmaya göre tersi 1/a'dır.",
+     "Yutan eleman: a · 0 = 0. Toplama, çıkarma ve bölmenin yutan elemanı yoktur. Çıkarma ve bölmenin birim ve ters elemanı da yoktur."
+    ],
+    "yazilida": {
+     "kalip": "Verilen eşitlikte kullanılan işlem özelliğini yazınız.",
+     "ornek_soru": "Aşağıdaki eşitliklerde kullanılan özelliği yazınız. a) 12 · 1 = 12 b) (−4) + 4 = 0 c) 15 · 0 = 0",
+     "ornek_cevap": [
+      "1. a) 1 ile çarpınca 12 değişmedi: çarpmada birim eleman (1).",
+      "2. b) Toplam 0 çıktı: 4, −4'ün toplamaya göre ters elemanı.",
+      "3. c) Sonuç 0 oldu: çarpmada yutan eleman (0)."
+     ],
+     "puan_ipucu": "Özelliğin adını ve hangi sayının o görevi yaptığını birlikte yaz."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "birim eleman",
+     "tanim": "İşleme girdiği sayıyı değiştirmeyen sayı: toplamada 0, çarpmada 1."
+    },
+    {
+     "terim": "ters eleman",
+     "tanim": "Bir sayıyla işleme girince birim elemanı veren sayı."
+    },
+    {
+     "terim": "yutan eleman",
+     "tanim": "İşleme girdiği her sayıyı kendisine çeviren sayı: çarpmada 0."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "7 + 0 kaçtır? Burada 0 hangi görevi yapıyor?",
+     "cevap": "7. 0, toplamanın birim (etkisiz) elemanıdır.",
+     "ipuclari": [
+      "Bir sayıya 0 eklersen ne değişir?",
+      "Sayıyı değiştirmeyen elemana birim eleman denir.",
+      "7 + 0'ı hesapla. Sayı değişti mi? Sayıyı değiştirmeyen elemana ne denir?"
+     ],
+     "yanlis_aciklama": "0 toplamada sayıyı yutmaz, değiştirmez; yutan eleman çarpmada geçerlidir."
+    },
+    {
+     "soru": "5 sayısının toplamaya göre tersi nedir?",
+     "cevap": "−5",
+     "ipuclari": [
+      "5 ile toplayınca 0 veren sayıyı ara.",
+      "a'nın toplamaya göre tersi −a'dır.",
+      "5 + (...) = 0 olacak şekilde boşluğu doldur."
+     ],
+     "yanlis_aciklama": "1/5 çarpmaya göre terstir; toplamaya göre ters 0 vermelidir."
+    },
+    {
+     "soru": "9 · 0 kaçtır? Burada 0 hangi görevi yapıyor?",
+     "cevap": "0. 0, çarpmanın yutan elemanıdır.",
+     "ipuclari": [
+      "Bir sayıyı 0 ile çarpınca ne olur?",
+      "Her sayıyı kendisine çeviren elemana yutan eleman denir.",
+      "9 · 0'ı hesapla. Sonuçta 9'dan bir şey kaldı mı?"
+     ],
+     "yanlis_aciklama": "Çarpmada 0 sayıyı korumaz, yutar; sayıyı koruyan çarpmada 1'dir."
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "baslik": "Her ve bazı: niceleyiciler",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "72-73"
+   },
+   "ornek": {
+    "baglam": "futbol",
+    "metin": "Sınıfının futbol takımında her oyuncunun bir forma numarası var. Dün maçta bazı oyuncular gol attı, hepsi değil."
+   },
+   "katmanlar": {
+    "basit": [
+     "'Her' bütün oyuncular demek. 'Bazı' en az bir oyuncu demek.",
+     "Bu kelimelere **niceleyici** diyoruz. Matematikte 'her' için ∀, 'bazı' için ∃ yazılır.",
+     "'Her oyuncu gol attı' yanlışsa ne doğrudur? En az bir oyuncu gol atmamıştır. Değil alırken iki şey değişir: 'her' yerine 'bazı' gelir ve 'attı' yerine 'atmadı' gelir."
+    ],
+    "kitap": [
+     "Önermeleri birleştiren kelimelere **mantık bağlacı** denir. Tablo 1.2: ve (∧), veya (∨), ya da (⊻), ise (⇒), ancak ve ancak (⇔).",
+     "Değil alınırken ∀ yerine ∃, ∃ yerine ∀ gelir (Tablo 1.3). ∧ yerine ∨, ∨ yerine ∧ yazılır. İşaret de değişir: ≥ yerine < gibi.",
+     "Örnek: ∀a, b ∈ ℝ için a + b = b + a. Sözle: her a ve b gerçek sayısı için toplamada sayıların sırası değişse de sonuç değişmez."
+    ],
+    "yazilida": {
+     "kalip": "Niceleyicili önermeyi sembolle yazınız, değilini bulunuz ve doğruluğunu belirtiniz.",
+     "ornek_soru": "'Her x gerçek sayısı 3'ten büyüktür.' önermesini ve değilini sembolle yazınız. Hangisinin doğru olduğunu belirtiniz.",
+     "ornek_cevap": [
+      "1. 'Her x gerçek sayısı' → ∀x ∈ ℝ. '3'ten büyüktür' → x > 3.",
+      "2. Önerme: ∀x ∈ ℝ, x > 3.",
+      "3. Değili: ∀ yerine ∃, > yerine ≤ gelir: ∃x ∈ ℝ, x ≤ 3.",
+      "4. x = 0 için 0 > 3 sağlanmaz. Önerme yanlış, değili doğrudur."
+     ],
+     "puan_ipucu": "Niceleyiciyi ve işareti birlikte değiştir; yalnız birini değiştirmek yarım puan getirir."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "niceleyici",
+     "tanim": "Kaç tane olduğunu söyleyen 'her' (∀) ve 'bazı' (∃) kelimeleri."
+    },
+    {
+     "terim": "mantık bağlacı",
+     "tanim": "İki önermeyi bağlayan ve, veya, ya da, ise, ancak ve ancak kelimeleri."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "∀ sembolü hangi kelimenin yerine yazılır?",
+     "cevap": "her",
+     "ipuclari": [
+      "İki niceleyici var: her ve bazı.",
+      "∃ 'bazı' (en az bir) demektir.",
+      "∃ 'bazı' ise, ∀ hangi kelimenin sembolü olabilir?"
+     ],
+     "yanlis_aciklama": "∃ 'bazı', ∀ 'her' demektir; ikisini karıştırma."
+    },
+    {
+     "soru": "'Takımdaki her oyuncu gol attı.' önermesinin değili nedir?",
+     "cevap": "Takımdaki bazı (en az bir) oyuncular gol atmadı.",
+     "ipuclari": [
+      "'Her'in değili hangi niceleyici?",
+      "Değil alırken iki şey değişir: niceleyici ve 'attı'.",
+      "Önce 'her' yerine ne geleceğini yaz. Sonra 'attı'nın olumsuzunu yaz."
+     ],
+     "yanlis_aciklama": "'Hiçbir oyuncu gol atmadı' fazla güçlü; değil için en az birinin atmaması yeter."
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "baslik": "Harfle ispat",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "73-74"
+   },
+   "ornek": {
+    "baglam": "futbol",
+    "metin": "Takımda 2, 4 ve 6 numaralı formalar var. Karelerine bakalım: 2² = 4, 4² = 16, 6² = 36; hepsi çift. Her çift sayıda böyle mi olur?"
+   },
+   "katmanlar": {
+    "basit": [
+     "Birkaç sayı denemek **ispat** değildir. İspat, her durumda doğru olduğunu harfle göstermektir.",
+     "Çift sayı 2'nin katıdır. Herhangi bir çift sayıyı 2a diye yazarız (a bir doğal sayı).",
+     "(2a)² = 4a² = 2 · (2a²). Bu 2'nin katıdır, yani çift. Demek ki her çift sayının karesi çifttir."
+    ],
+    "kitap": [
+     "Harflerle genel olarak yapılan bu ispata kitapta cebirsel ispat denir. Önce verilenler (kitapta hipotez) ve ispatlanacak sonuç yazılır.",
+     "Sonuç 2 · (bir sayı) biçimine getirilirse sayının çift olduğu gösterilmiş olur."
+    ],
+    "yazilida": {
+     "kalip": "Önermeyi sembolle yazınız ve cebirsel ispatını yapınız.",
+     "ornek_soru": "'Her çift doğal sayının karesi çift sayıdır.' önermesinin cebirsel ispatını yapınız.",
+     "ornek_cevap": [
+      "1. Verilen: x çift doğal sayı. İstenen: x² çift sayı.",
+      "2. Çift sayı 2 ile bölünür, bu yüzden x = 2a yazılır (a ∈ ℕ).",
+      "3. x² = (2a)² = 4a² = 2 · (2a²).",
+      "4. 2 · (2a²) ifadesi 2'nin katıdır. Öyleyse x² çift sayıdır."
+     ],
+     "puan_ipucu": "Sadece 2² = 4, 4² = 16 gibi örnek yazmak ispat sayılmaz; x = 2a ile genel gösterim istenir."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "ispat",
+     "tanim": "Bir önermenin her durumda doğru olduğunu adım adım göstermek."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "2² = 4 ve 4² = 16 diye denemek, 'her çift sayının karesi çifttir' önermesinin ispatı mıdır?",
+     "cevap": "Hayır. Birkaç örnek denemek ispat değildir; harfle genel durum gösterilmelidir.",
+     "ipuclari": [
+      "İspatın ne demek olduğunu hatırla.",
+      "İspat her çift sayı için geçerli olmalı.",
+      "İki örnek, bütün çift sayıları kapsar mı? Düşün."
+     ],
+     "yanlis_aciklama": "Örnekler fikir verir ama her sayıyı denemek mümkün değildir; ispat harfle yapılır."
+    },
+    {
+     "soru": "Herhangi bir çift sayıyı harfle nasıl yazarız?",
+     "cevap": "2a (a bir doğal sayı)",
+     "ipuclari": [
+      "Çift sayılar hangi sayının katıdır?",
+      "Çift sayı, 2 ile bir doğal sayının çarpımıdır.",
+      "2 · 1, 2 · 2, 2 · 3 diye yaz. Her çarpımda hangi sayı sabit, hangisi değişiyor?"
+     ],
+     "yanlis_aciklama": "Yalnız 'a' yazmak her sayıyı kapsar; çift olması için 2 ile çarpılmalı."
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "baslik": "Kareyi parçala: özdeşlikler",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "74-77"
+   },
+   "ornek": {
+    "baglam": "tersane",
+    "metin": "Tersanede kenarı 13 m olan kare bir çalışma alanı döşenecek. Usta kenarı 10 m + 3 m diye bölüyor. Alan dört parçaya ayrılıyor: 10 · 10 kare, iki tane 10 · 3 dikdörtgen, 3 · 3 kare."
+   },
+   "katmanlar": {
+    "basit": [
+     "Parçaları topla: 100 + 30 + 30 + 9 = 169 m². Bütün kare de 13 · 13 = 169 m². Aynı sonuç!",
+     "10 yerine a, 3 yerine b yazalım. Büyük karenin alanı (a + b)², parçalar a², ab, ab ve b².",
+     "Yani (a + b)² = a² + 2ab + b². Hangi sayıları koyarsan koy bu eşitlik hep tutar.",
+     "Bir de iki karenin farkına bakalım: 7² − 3² = 49 − 9 = 40. (7 − 3) · (7 + 3) = 4 · 10 = 40. İkisi eşit: a² − b² = (a − b) · (a + b)."
+    ],
+    "kitap": [
+     "Değişkenlere verilen bütün gerçek sayılar için doğru olan eşitliğe **özdeşlik** denir.",
+     "İki terimin toplamının karesi: (a + b)² = a² + 2ab + b². İki terimin farkının karesi: (a − b)² = a² − 2ab + b².",
+     "İki terimin karelerinin farkı: a² − b² = (a − b) · (a + b). Sağ taraftaki çarpımı dağılma ile yaparsan sol taraf çıkar.",
+     "Farkın karesini sayıyla deneyelim. (10 − 3)² = 7² = 49. Açılımla 10² − 2 · 10 · 3 + 3² = 100 − 60 + 9 = 49 çıkar.",
+     "Kitapta ayrı tanımı verilmez; kare ya da çarpımın toplama ve çıkarmayla yazılmış hâline **açılım** denir. Ör: (x − 5)² ifadesinin açılımı x² − 10x + 25'tir."
+    ],
+    "yazilida": {
+     "kalip": "Özdeşliği geometrik model (alan) yardımıyla gösteriniz.",
+     "ornek_soru": "Bir kenarı (x + 4) birim olan kare, kenarları x ve 4 birimden bölünerek dört parçaya ayrılmıştır. Parçaların alanlarını kullanarak (x + 4)² ifadesinin açılımını bulunuz.",
+     "ornek_cevap": [
+      "1. Büyük karenin alanı: (x + 4)².",
+      "2. Parçalar: x · x = x², x · 4 = 4x, x · 4 = 4x, 4 · 4 = 16.",
+      "3. Parçaları topla: x² + 4x + 4x + 16 = x² + 8x + 16.",
+      "4. Sonuç: (x + 4)² = x² + 8x + 16."
+     ],
+     "puan_ipucu": "Ortak sınavın puanlama anahtarında adımlar tek tek yazılıyor; her parçanın alanını ayrı göster."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "özdeşlik",
+     "tanim": "Harflere hangi gerçek sayıyı verirsen ver, hep doğru kalan eşitlik."
+    },
+    {
+     "terim": "açılım",
+     "tanim": "Bir kare ya da çarpım ifadesinin toplama ve çıkarmayla yazılmış hâli."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "(x + 2)² ifadesinin açılımını yazınız.",
+     "cevap": "x² + 4x + 4",
+     "ipuclari": [
+      "(a + b)² = a² + 2ab + b² kalıbını kullan.",
+      "a = x, b = 2 al.",
+      "x² + 2 · x · 2 + 2² yaz ve sadeleştir."
+     ],
+     "yanlis_aciklama": "x² + 4 yazmak eksiktir; ortadaki 2ab terimi (4x) unutulmamalı."
+    },
+    {
+     "soru": "25 − x² ifadesini iki ifadenin çarpımı olarak yazınız.",
+     "cevap": "(5 − x) · (5 + x)",
+     "ipuclari": [
+      "25 hangi sayının karesi?",
+      "25 = 5². Şimdi a² − b² kalıbı var.",
+      "25 = a² ve x² = b² olacak şekilde a ve b'yi bul. Sonra (a − b)(a + b) kalıbına yerleştir."
+     ],
+     "yanlis_aciklama": "İki karenin farkı, farkla toplamın çarpımıdır; (5 − x)² değildir."
+    },
+    {
+     "soru": "13² sayısını (10 + 3)² açılımıyla hesaplayınız.",
+     "cevap": "100 + 60 + 9 = 169",
+     "ipuclari": [
+      "(a + b)² = a² + 2ab + b².",
+      "a = 10, b = 3.",
+      "a² = 10², 2ab = 2 · 10 · 3 ve b² = 3² değerlerini ayrı ayrı bul. Üçünü topla."
+     ],
+     "yanlis_aciklama": "10² + 3² = 109 eksik kalır; 2 · 10 · 3 = 60 eklenmelidir."
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "baslik": "Özdeşlikle kısa yoldan hesap",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "78-79"
+   },
+   "ornek": {
+    "baglam": "ev",
+    "metin": "Gölcük'te kenarı 12,5 m olan kare bir bahçe var. Ortasına kenarı 7,5 m olan kare bir seramik alan döşenecek, kalan yere çim serilecek."
+   },
+   "katmanlar": {
+    "basit": [
+     "Çim alanı = büyük kare − küçük kare = 12,5² − 7,5². Ondalık sayıların karesini almak uğraştırır.",
+     "Önceki bölümdeki a² − b² = (a − b) · (a + b) kalıbını kullanalım: (12,5 − 7,5) · (12,5 + 7,5) = 5 · 20 = 100 m².",
+     "Yani özdeşlik sadece harfler için değil, zor sayılarla hesap için de bir kısa yoldur."
+    ],
+    "kitap": [
+     "Özdeşlikler köklü ifadelerde de işe yarar. Örneğin (√5 − 1) · (√5 + 1) = (√5)² − 1² = 5 − 1 = 4.",
+     "Kitapta karesel bahçe ve tuval problemlerinde alan hesabı özdeşlikle kolaylaştırılır. Önce ifadenin hangi kalıba uyduğu bulunur, sonra kalıp uygulanır."
+    ],
+    "yazilida": {
+     "kalip": "İşlemin sonucunu özdeşliklerden yararlanarak, işlemlerinizi göstererek bulunuz.",
+     "ornek_soru": "101² − 99² işleminin sonucunu özdeşlik kullanarak bulunuz.",
+     "ornek_cevap": [
+      "1. İfade a² − b² biçiminde: a = 101, b = 99.",
+      "2. a² − b² = (a − b) · (a + b).",
+      "3. (101 − 99) · (101 + 99) = 2 · 200.",
+      "4. Sonuç: 400."
+     ],
+     "puan_ipucu": "Hangi özdeşliği kullandığını yazmak ve a, b değerlerini belirtmek adım puanı getirir."
+    }
+   },
+   "terimler": [],
+   "kontrol_sorulari": [
+    {
+     "soru": "9² − 1² işlemini iki karenin farkı özdeşliğiyle hesaplayınız.",
+     "cevap": "(9 − 1) · (9 + 1) = 8 · 10 = 80",
+     "ipuclari": [
+      "a² − b² kalıbını hatırla.",
+      "a = 9, b = 1 al; (a − b)(a + b) yaz.",
+      "Önce 9 − 1 ve 9 + 1 değerlerini bul; sonra ikisini çarp."
+     ],
+     "yanlis_aciklama": "(9 − 1)² = 64 yazmak yanlış; iki karenin farkı farkın karesi değildir."
+    },
+    {
+     "soru": "(√7 − 2) · (√7 + 2) çarpımı kaçtır?",
+     "cevap": "7 − 4 = 3",
+     "ipuclari": [
+      "(a − b)(a + b) kalıbı var.",
+      "Sonuç a² − b² olur; a = √7, b = 2.",
+      "(√7)² ve 2² değerlerini ayrı ayrı bul; sonra birinciden ikinciyi çıkar."
+     ],
+     "yanlis_aciklama": "(√7)² = 7'dir; kök ve kare birbirini götürür."
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "baslik": "Çarpım sıfırsa: denklem çözme",
+   "sure_dk": 5,
+   "kaynak": {
+    "kitap_sayfa": "71, 74, 78"
+   },
+   "ornek": {
+    "baglam": "deniz",
+    "metin": "Gölcük'te bir yelken atölyesinde iki bez var. Mavi bez x m'ye 6 m dikdörtgen, sarı bez x m'ye x m kare. Mavi bezin alanı sarıdan 9 m² fazla."
+   },
+   "katmanlar": {
+    "basit": [
+     "İki sayıyı çarptın, sonuç 0 çıktı. O zaman sayılardan en az biri 0'dır.",
+     "Bu fikirle denklem çözeriz. Önce ifadeyi çarpım şeklinde yazarız, sonra her çarpanı sıfıra eşitleriz.",
+     "Bir ifadeyi böyle çarpım şeklinde yazmaya **çarpanlarına ayırma** denir. Yani özdeşlikleri tersten kullanırız.",
+     "Örneğe dönelim. Mavi bezin alanı 6x, sarı bezin alanı x². Mavi 9 m² fazla: 6x = x² + 9.",
+     "Her şeyi bir tarafa alalım: x² − 6x + 9 = 0. Bu ifade (a − b)² = a² − 2ab + b² kalıbına benziyor.",
+     "x² = x · x ve 9 = 3 · 3. Ortadaki 6x = 2 · x · 3, yani a = x ve b = 3. Demek ki x² − 6x + 9 = (x − 3)².",
+     "Denklem (x − 3) · (x − 3) = 0 olur. Çarpım sıfırsa çarpanlardan biri sıfırdır: x − 3 = 0, yani x = 3 m."
+    ],
+    "kitap": [
+     "Sembolle: a, b ∈ ℝ olmak üzere a · b = 0 ⇔ a = 0 ∨ b = 0. Kitap bunu şöyle söyler: çarpımın sonucu sıfırsa çarpılan iki ifadeden en az biri sıfırdır.",
+     "Çarpanlardan biri 0 ise çarpımın 0 olması yutan elemandan gelir. Tersine, çarpım 0 ise çarpanlardan en az biri 0'dır.",
+     "Bulduğun sonucu kontrol et: x = 3 için mavi 18 m², sarı 9 m², fark 9 m²."
+    ],
+    "yazilida": {
+     "kalip": "Alan eşitliğinden denklem kur, ifadeyi tam kare (iki terimin farkının karesi) biçiminde yaz, x'i bul. (2025-2026 ortak yazılı 7. soru tipi, 15 puan)",
+     "ornek_soru": "Mavi kartın kenarları x cm ve 16 cm, sarı kartın kenarları x cm ve 2x cm'dir. Mavi kartın alanı sarı kartın alanından 32 cm² fazla olduğuna göre x'i işlemlerinizi göstererek bulunuz.",
+     "ornek_cevap": [
+      "1. Mavi kartın alanı: x · 16 = 16x cm². Sarı kartın alanı: x · 2x = 2x² cm².",
+      "2. Mavi, sarıdan 32 fazla: 16x = 2x² + 32.",
+      "3. Her şeyi bir tarafa topla: 2x² − 16x + 32 = 0.",
+      "4. 2 ortak çarpan parantezine alınır: 2 · (x² − 8x + 16) = 0.",
+      "5. 2 sıfır olmadığı için parantez sıfırdır: x² − 8x + 16 = 0.",
+      "6. x² = x · x, 16 = 4 · 4 ve 8x = 2 · x · 4.",
+      "7. Kalıp (a − b)² = a² − 2ab + b²: a = x, b = 4. Sol taraf (x − 4)² olur.",
+      "8. Çarpım sıfır: x − 4 = 0, x = 4 cm."
+     ],
+     "puan_ipucu": "Puanlama anahtarında 'farkın karesinin açılımıdır' cümlesi yazılı. Hangi özdeşliği tanıdığını bir cümleyle belirt."
+    }
+   },
+   "terimler": [
+    {
+     "terim": "çarpanlarına ayırma",
+     "tanim": "Bir ifadeyi iki ya da daha çok ifadenin çarpımı olarak yazmak."
+    }
+   ],
+   "kontrol_sorulari": [
+    {
+     "soru": "(x − 5) · (x + 1) = 0 ise x hangi değerleri alabilir?",
+     "cevap": "x = 5 veya x = −1",
+     "ipuclari": [
+      "Çarpım sıfırsa çarpanlardan biri sıfırdır.",
+      "x − 5 = 0 ve x + 1 = 0 denklemlerini ayrı yaz.",
+      "x − 5 = 0 için iki tarafa 5 ekle; x + 1 = 0 için iki taraftan 1 çıkar."
+     ],
+     "yanlis_aciklama": "Sadece birini bulmak eksik; her çarpanı ayrı ayrı sıfıra eşitle."
+    },
+    {
+     "soru": "x · (x − 7) = 0 ise x hangi değerleri alabilir?",
+     "cevap": "x = 0 veya x = 7",
+     "ipuclari": [
+      "Çarpım sıfırsa çarpanlardan biri sıfırdır.",
+      "x = 0 ve x − 7 = 0 denklemlerini ayrı yaz.",
+      "x − 7 = 0 → her iki tarafa 7 ekle."
+     ],
+     "yanlis_aciklama": "Çarpanlardan biri x'in kendisidir; x = 0 da bir çözümdür."
+    },
+    {
+     "soru": "(x − 4)² = 0 ise x kaçtır?",
+     "cevap": "x = 4",
+     "ipuclari": [
+      "(x − 4)² = (x − 4) · (x − 4).",
+      "Çarpım sıfırsa x − 4 = 0 olmalı.",
+      "x − 4 = 0 → her iki tarafa 4 ekle."
+     ],
+     "yanlis_aciklama": "x = −4 değil; x − 4 = 0 denkleminde 4 karşıya artı olarak geçer."
+    }
+   ]
+  }
+ ],
+ "flashcard": [
+  {
+   "on": "Önerme nedir?",
+   "arka": "Kesin doğru ya da kesin yanlış hüküm bildiren ifade."
+  },
+  {
+   "on": "x < 4 ifadesinin değili nedir?",
+   "arka": "x ≥ 4"
+  },
+  {
+   "on": "Çarpmanın yutan elemanı nedir?",
+   "arka": "0, çünkü a · 0 = 0."
+  },
+  {
+   "on": "(a + b)² = ?",
+   "arka": "a² + 2ab + b²"
+  },
+  {
+   "on": "(a − b)² = ?",
+   "arka": "a² − 2ab + b²"
+  },
+  {
+   "on": "a² − b² = ?",
+   "arka": "(a − b) · (a + b)"
+  },
+  {
+   "on": "a · b = 0 ise ne söylenebilir?",
+   "arka": "a = 0 veya b = 0 (en az biri sıfır)."
+  }
+ ],
+ "sik_hatalar": [
+  {
+   "hata_turu": "kare_dagitma",
+   "aciklama": "(a + b)² = a² + b² sanmak; ortadaki 2ab unutuluyor."
+  },
+  {
+   "hata_turu": "fark_karesi_isaret",
+   "aciklama": "(a − b)² = a² + 2ab + b² yazmak; farkın karesinde orta terim −2ab'dir."
+  },
+  {
+   "hata_turu": "isaret_hatasi",
+   "aciklama": "(a − b)² açılımında son terimi −b² yazmak; kare her zaman artıdır."
+  },
+  {
+   "hata_turu": "kare_farki_karistirma",
+   "aciklama": "a² − b² ile (a − b)² ifadesini aynı sanmak."
+  },
+  {
+   "hata_turu": "cikarma_degisme",
+   "aciklama": "Çıkarmada değişme var sanmak: 5 − 3 ile 3 − 5 eşit değildir."
+  },
+  {
+   "hata_turu": "niceleyici_degil",
+   "aciklama": "'Her'in değilini 'hiçbir' sanmak; doğrusu 'bazı (en az bir) ... değil'."
+  },
+  {
+   "hata_turu": "carpim_sifir_isaret",
+   "aciklama": "(x − 4)² = 0 için x = −4 yazmak."
+  }
+ ],
+ "dogrula": [],
+ "surum": 3,
+ "uretim": {
+  "ajan": "konu-anlatici",
+  "tarih": "2026-10-26"
+ }
+}

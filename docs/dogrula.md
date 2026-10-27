@@ -32,6 +32,18 @@ Konu düzeyindeki ayrıntılı işaretler `dersler/<ders>/harita.json` içinde h
 | 13 | Ders kitabı sayfa aralıkları | İçindekiler eşleşmesiyle otomatik çıkarıldı. Eşleşmeyen ya da zayıf olanlar konu `dogrula` alanında. Özellikle Matematik 9.2.2, 9.2.3 (kitap metninde harfler bölünmüş: "F onksiyon") | [ ] |
 | 14 | Yazılı dönemi sınırları (1D1Y ≤ 8. hafta, 1D2Y ≤ 16, 2D1Y ≤ 25) | MEB çalışma takvimi + ülke geneli tarihlerinden varsayım; okul takvimi gelince güncellenecek | [ ] |
 
+## Matematik Ünite 1 (pilot, 2026-10-27)
+
+| # | Bilgi | Nerede | Nasıl teyit edilir | Durum |
+|---|---|---|---|---|
+| 15 | Açık uçlu soruların rubrik puan dağılımı (14 soru: k1 s006, s018, s023; k2 s011–s014; k3 s008, s010–s012; k4 s007, s011, s015) bizim önerimiz; ÖDSGM cevap anahtarı kısmi puan vermiyor | `dersler/matematik/sorular/` | Ders öğretmeni | [ ] |
+| 16 | k1 s023: 1/√2 yazan cevaba yarım puan kuralı | `sorular/matematik-u1-k1.json` | Ders öğretmeni | [ ] |
+| 17 | Kesirli üslerin x^(m/n) yazımı: panelde okunurluk ve öğretmenin yazılıda kabulü (kitap üst simge kesir kullanıyor) | `konular/matematik-u1-k1.json` | Panelde göz kontrolü + öğretmen | [ ] |
+| 18 | ℚ'nun a/b (b ≠ 0) tanımı ünite sayfalarında açıkça yok | `konular/matematik-u1-k3.json` | Ders kitabı önceki bölümler / öğretmen | [ ] |
+| 19 | 9.1.3 yazılı kalıpları: ortak sınavda yalnız "karşıt örnekle çürütme" görüldü; diğer kalıplar kitap uygulamalarından türetildi | `konular/matematik-u1-k3.json` | Öğretmenin yazılıları | [ ] |
+| 20 | k3 s011, s012: Karşıt örnek olarak 0'a bölme (3 ÷ 0 tanımsız) yazılırsa puanlama | `sorular/matematik-u1-k3.json` | Ders öğretmeni | [ ] |
+| — | PDF görselinden kapatılan 17 madde (bilimsel gösterim, ⊆, ⊻, ℚ′, 0 ∈ ℕ, Tablo 1.1–1.3...) | `denetim/pdf_teyit_u1.md` | Ders kitabı PDF'i | [x] 2026-10-26 |
+
 ## Harita özet sayıları (2026-10-26, `python tools/harita_uret.py`)
 
 | Ders | Konu | DOĞRULA'lı konu | Başlıca neden |

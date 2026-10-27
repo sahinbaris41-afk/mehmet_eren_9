@@ -101,6 +101,8 @@ B9.rastgele = {
   kontrol(params) { return "8"; }                    // bağımsız hesap; gen'deki formül kopyalanmaz
 });
 ```
+- **`deger` (isteğe bağlı, gen dönüşünde ve her yanlışta):** şıkkın görüntü metninden bağımsız hesaplanan değeri: Number ya da kanonik dizge (küme/aralık için üyelikten kurulan gösterim; "en sade biçim" sorusunda biçim anahtarı). `buildQuestion` doğruya ya da birbirine değerce eşit yanlışları eler (sayıda göreli 1e-9 tolerans); `uretecDene` ise doğruya değerce eşit bir yanlışı **hata** sayar.
+- `deger` vermeyen üreteçte davranış eskisi gibidir (yalnız metin tekilleştirilir). Değeri tanımsız yazım hatası çeldiricisinde (ör. `[−∞, 3)`) `deger` boş bırakılır.
 
 ### `B9.soru` (motor/soru.js): ekranların kullandığı tek soru nesnesi
 ```js

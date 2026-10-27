@@ -1,0 +1,624 @@
+{
+ "konu_id": "matematik-u1-k3",
+ "surum": 3,
+ "sorular": [
+  {
+   "id": "matematik-u1-k3-s001",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük'teki bir tersanede kuru havuzun tabanı deniz seviyesinin 8 metre altındadır. Bu yükseklik −8 m olarak yazılır.",
+   "kok": "−8 sayısı aşağıdaki kümelerden hangisinin elemanı **değildir**?",
+   "secenekler": [
+    {
+     "metin": "Tam sayılar (ℤ)",
+     "dogru": false,
+     "hata_turu": "eksi_sayi_kume_disi",
+     "aciklama": "Tam sayılar eksi sayıları da içerir; bu yüzden −8 ∈ ℤ."
+    },
+    {
+     "metin": "Doğal sayılar (ℕ)",
+     "dogru": true
+    },
+    {
+     "metin": "Rasyonel sayılar (ℚ)",
+     "dogru": false,
+     "hata_turu": "kume_kapsama",
+     "aciklama": "−8 sayısı −8/1 diye kesir olarak yazılabilir; bu yüzden rasyonel sayıdır."
+    },
+    {
+     "metin": "Gerçek sayılar (ℝ)",
+     "dogru": false,
+     "hata_turu": "kume_kapsama",
+     "aciklama": "Gerçek sayılar bütün tam sayıları da içerir; bu yüzden −8 ∈ ℝ."
+    }
+   ],
+   "cevap": "Doğal sayılar (ℕ)",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Sayının önündeki işarete bak.",
+    "Dört kümeden hangisinde eksi sayı hiç yoktur, onu ara.",
+    "Dört kümeyi sırayla dene. Her birinde −8 var mı, yaz."
+   ],
+   "cozum_adimlari": [
+    "1. −8 eksi bir sayıdır.",
+    "2. Doğal sayılarda eksi sayı yoktur: −8 ∉ ℕ.",
+    "3. −8 bir tam sayıdır: −8 ∈ ℤ.",
+    "4. −8 = −8/1 yazılabildiği için −8 ∈ ℚ.",
+    "5. ℚ'nun her elemanı ℝ'de olduğu için −8 ∈ ℝ.",
+    "6. Cevap: Doğal sayılar (ℕ)."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksi_sayi_kume_disi",
+    "kume_kapsama"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.39 (ℕ tanımı), s.59",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s002",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "ç",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "“Doğal sayılar kümesinde arada olma özelliği yoktur, çünkü ardışık iki doğal sayı arasında başka bir doğal sayı bulunmaz.” Bu önerme doğru mu, yanlış mı?",
+   "secenekler": null,
+   "cevap": true,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "4 ile 5 arasındaki 4,5 bir doğal sayı değildir; ardışık iki doğal sayının arası boştur.",
+   "ipuclari": [
+    "Ardışık iki doğal sayı seç, örneğin 4 ve 5.",
+    "Bu ikisinin arasına yazabileceğin bir doğal sayı ara.",
+    "4'ten hemen sonra hangi doğal sayı geliyor? Arada başka doğal sayı kalıyor mu?"
+   ],
+   "cozum_adimlari": [
+    "1. Ardışık iki doğal sayı alalım: 4 ve 5.",
+    "2. 4'ten hemen sonra gelen doğal sayı 5'tir; arada doğal sayı yoktur.",
+    "3. Arada olma özelliği için her iki sayı arasında aynı kümeden bir sayı bulunmalıdır.",
+    "4. ℕ'de bu sağlanmadığı için önerme doğrudur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.62",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s003",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "c",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Ece, tam sayılarla birkaç çıkarma işlemi yapıyor: 9 − 4 = 5, 2 − 7 = −5, −3 − 6 = −9. Bazı sonuçlar eksi çıktığı için “Tam sayılar kümesi çıkarma işlemine göre kapalı değildir.” diye bir varsayımda bulunuyor.",
+   "kok": "Ece'nin varsayımı doğrudur. (Doğru / Yanlış)",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "Eksi sonuç ℤ'nin dışında değildir; −5 ve −9 da birer tam sayıdır.",
+   "ipuclari": [
+    "Ece'nin bulduğu sonuçların hangi kümede olduğuna bak.",
+    "Kapalılık için sonucun yine tam sayı olup olmadığı önemlidir, eksi olup olmadığı değil.",
+    "−5 ∈ ℤ mi? −9 ∈ ℤ mi? Önce bunu yaz."
+   ],
+   "cozum_adimlari": [
+    "1. Sonuçlar 5, −5 ve −9'dur.",
+    "2. Üçü de tam sayıdır: 5 ∈ ℤ, −5 ∈ ℤ, −9 ∈ ℤ.",
+    "3. Tam sayılar eksi sayıları da içerdiği için iki tam sayının farkı yine tam sayıdır.",
+    "4. ℤ çıkarma işlemine göre kapalıdır; Ece'nin varsayımı yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksi_sayi_kume_disi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.65",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s004",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "e",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "“Her doğal sayının yarısı da bir doğal sayıdır.” önermesinin yanlış olduğunu göstermek için 7'nin yarısının 3,5 olduğunu söylemek yeter. Önermeye uymayan böyle tek bir örneğe ______ denir.",
+   "secenekler": null,
+   "cevap": "karşıt örnek",
+   "kabul_edilenler": [
+    "karşıt örnek",
+    "karşıt",
+    "aksine örnek",
+    "karşı örnek"
+   ],
+   "yanlis_aciklama": "Bu örnek önermeye uymuyor ve onu çürütüyor; kitap buna karşıt örnek der.",
+   "ipuclari": [
+    "7 önermeye uyuyor mu, uymuyor mu, düşün.",
+    "Önermeye uymayan ve onu çürüten örneğin özel bir adı var.",
+    "Rüzgârsız gün örneğini hatırla: 'her gün rüzgâr eser' sözünü bozan o güne ne ad vermiştik?"
+   ],
+   "cozum_adimlari": [
+    "1. 7 ∈ ℕ ama 7'nin yarısı 3,5'tir ve 3,5 ∉ ℕ.",
+    "2. Yani 7 önermeye uymayan bir örnektir.",
+    "3. Önermenin yanlış olduğunu gösteren böyle tek örneğe karşıt örnek denir."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.63",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s005",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "b",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Bir futbol antrenmanında 30 metre koşuda Can'ın süresi Emre'ninkinden fazla değildir. Emre'nin süresi de Kerem'inkinden fazla değildir.",
+   "kok": "Can'ın, Emre'nin ve Kerem'in sürelerine sırasıyla a, b ve c denirse a ≤ b ve b ≤ c olur. Buna göre boşluğa gelecek sembolü yazınız: a ___ c",
+   "secenekler": null,
+   "cevap": "≤",
+   "kabul_edilenler": [
+    "≤",
+    "<=",
+    "küçük veya eşit",
+    "küçük eşit",
+    "küçük ya da eşit"
+   ],
+   "yanlis_aciklama": "a, b'yi geçmiyor; b de c'yi geçmiyor. O hâlde a da c'yi geçemez: a ≤ c.",
+   "ipuclari": [
+    "Can ile Kerem'i doğrudan karşılaştırmak için Emre'yi aradaki köprü olarak kullan.",
+    "İki bilgiyi tek zincirde yaz.",
+    "Can, Emre'den fazla değil; Emre, Kerem'den fazla değil. Can ile Kerem arasında Emre köprü olur. Köprüden geçince sıra bozulur mu?"
+   ],
+   "cozum_adimlari": [
+    "1. a ≤ b ve b ≤ c verilmiş.",
+    "2. Zincir hâlinde: a ≤ b ≤ c.",
+    "3. Sıralamanın bu özelliğine göre a ≤ b ve b ≤ c ise a ≤ c'dir.",
+    "4. Cevap: a ≤ c."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "esitsizlik_yonu"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.59",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s006",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "d",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük sahilinde deniz suyu sıcaklığı 18 °C ile 19 °C arasında ölçülüyor. Mehmet, bu iki değerin arasındaki bir sıcaklığı bulmak için 18 ile 19'un ortalamasını alıyor.",
+   "kok": "Mehmet hangi sayıyı bulur?",
+   "secenekler": [
+    {
+     "metin": "37",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "18 ile 19'u topladın ama ortalama için toplamı 2'ye bölmen gerekiyordu."
+    },
+    {
+     "metin": "1/2",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "Sayıları çıkardın; ortalamada sayılar toplanır, sonra 2'ye bölünür."
+    },
+    {
+     "metin": "55/2",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "Yalnız 19'u 2'ye böldün; önce toplamı bulup sonra toplamı 2'ye bölmelisin."
+    },
+    {
+     "metin": "37/2",
+     "dogru": true
+    }
+   ],
+   "cevap": "37/2",
+   "kabul_edilenler": [
+    "18,5"
+   ],
+   "ipuclari": [
+    "Ortalama, iki sayının tam ortasındaki sayıdır.",
+    "Ortalama = (birinci sayı + ikinci sayı) ÷ 2.",
+    "Önce 18 + 19 toplamını bul; sonra bu toplamı 2'ye bölmeyi unutma."
+   ],
+   "cozum_adimlari": [
+    "1. Ortalama: (18 + 19) ÷ 2.",
+    "2. 18 + 19 = 37.",
+    "3. 37 ÷ 2 = 37/2 = 18,5.",
+    "4. Kontrol: 18 < 18,5 < 19; bulunan sayı iki değerin arasındadır.",
+    "5. Cevap: 37/2."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksik_adim",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.61",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s007",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "Aşağıdaki önermelerden hangisi doğrudur?",
+   "secenekler": [
+    {
+     "metin": "Doğal sayılar kümesi çıkarma işlemine göre kapalıdır.",
+     "dogru": false,
+     "hata_turu": "tek_ornekle_ispat",
+     "aciklama": "9 − 5 = 4 gibi örnekler uyuyor ama 5 − 9 = −4 ∉ ℕ olduğu için bu önerme yanlıştır."
+    },
+    {
+     "metin": "Tam sayılar kümesi bölme işlemine göre kapalıdır.",
+     "dogru": false,
+     "hata_turu": "tek_ornekle_ispat",
+     "aciklama": "8 ÷ 2 = 4 uyuyor ama 1 ÷ 2 = 1/2 ∉ ℤ olduğu için bu önerme yanlıştır."
+    },
+    {
+     "metin": "Rasyonel sayılar kümesi çarpma işlemine göre kapalıdır.",
+     "dogru": true
+    },
+    {
+     "metin": "İrrasyonel sayılar kümesi çarpma işlemine göre kapalıdır.",
+     "dogru": false,
+     "hata_turu": "irrasyonel_carpim",
+     "aciklama": "√2 · √2 = 2 ve 2 irrasyonel değildir; bu tek örnek önermeyi çürütür."
+    }
+   ],
+   "cevap": "Rasyonel sayılar kümesi çarpma işlemine göre kapalıdır.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Dört önermeden yalnız biri doğru, diğer üçü yanlış.",
+    "Bir önermenin yanlış olduğunu göstermek için ona uymayan bir örnek, yani karşıt örnek bul.",
+    "İlk önermeden başla: 5 − 9 kaç? Sonuç ℕ'de mi? Sonra ℤ için 1 ÷ 2'yi dene."
+   ],
+   "cozum_adimlari": [
+    "1. ℕ çıkarmada: 5 − 9 = −4 ∉ ℕ. Önerme yanlış.",
+    "2. ℤ bölmede: 1 ÷ 2 = 1/2 ∉ ℤ. Önerme yanlış.",
+    "3. İrrasyonel sayılar çarpmada: √2 · √2 = 2 ve 2 irrasyonel değil. Önerme yanlış.",
+    "4. ℚ çarpma işlemine göre kapalıdır: iki rasyonel sayının çarpımı yine rasyoneldir.",
+    "5. Cevap: Rasyonel sayılar kümesi çarpma işlemine göre kapalıdır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "tek_ornekle_ispat",
+    "irrasyonel_carpim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.65",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s008",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "e",
+   "tip": "acik",
+   "zorluk": 2,
+   "puan": 15,
+   "baglam": "Gölcük'teki bir tersanede bir sac levhanın kalınlığı 1/4 cm, başka bir sac levhanın kalınlığı 1/3 cm'dir. Usta, kalınlığı bu iki levhanın kalınlıkları arasında olan üçüncü bir levha istiyor.",
+   "kok": "Üçüncü levhanın kalınlığı olabilecek bir rasyonel sayı bulunuz. Bulduğunuz sayının 1/4 ile 1/3 arasında olduğunu işlemlerinizi yazarak gösteriniz. (15 puan)",
+   "secenekler": null,
+   "cevap": "1. İki sayının ortalamasını alalım: (1/4 + 1/3) ÷ 2. 2. Paydaları eşitleyelim: 1/4 = 3/12, 1/3 = 4/12; toplam 7/12. 3. 7/12 ÷ 2 = 7/24. 4. Kontrol: 1/4 = 6/24 ve 1/3 = 8/24 olduğundan 6/24 < 7/24 < 8/24. 5. Üçüncü levhanın kalınlığı 7/24 cm olabilir.",
+   "kabul_edilenler": [
+    "7/24",
+    "0,3"
+   ],
+   "ipuclari": [
+    "İki sayının tam ortasındaki sayı her zaman ikisinin arasındadır.",
+    "Ortalama = (1/4 + 1/3) ÷ 2. Kesirleri toplamak için paydaları eşitle.",
+    "1/4 = 3/12 ve 1/3 = 4/12 yaz; şimdi toplamı bul ve 2'ye böl."
+   ],
+   "cozum_adimlari": [
+    "1. Ortalamayı kur: (1/4 + 1/3) ÷ 2.",
+    "2. Paydaları 12'de eşitle: 1/4 = 3/12, 1/3 = 4/12.",
+    "3. Topla: 3/12 + 4/12 = 7/12.",
+    "4. 2'ye böl: 7/12 ÷ 2 = 7/24.",
+    "5. Karşılaştırmak için paydaları 24'te eşitle: 1/4 = 6/24, 1/3 = 8/24.",
+    "6. 6/24 < 7/24 < 8/24 olduğundan 7/24 arada bir rasyonel sayıdır."
+   ],
+   "rubrik": [
+    {
+     "olcut": "Arada bir sayı bulmak için yol kurma: iki sayının ortalamasını alma (örn. (1/4 + 1/3) ÷ 2) ya da paydaları genişletip arada kesir arama. Doğru sonuca götüren tüm yollar kabul edilir.",
+     "puan": 4
+    },
+    {
+     "olcut": "Seçilen yolda işlemleri doğru yapma: payda eşitleme (1/4 = 3/12, 1/3 = 4/12, toplam 7/12 gibi) ya da ondalık gösterime çevirme (1/4 = 0,25, 1/3 = 0,333… gibi).",
+     "puan": 4
+    },
+    {
+     "olcut": "Arada bir rasyonel sayıyı doğru bulma (7/24 ya da 0,3 gibi 1/4 ile 1/3 arasındaki herhangi bir rasyonel sayı).",
+     "puan": 3
+    },
+    {
+     "olcut": "Bulunan sayının 1/4 ile 1/3 arasında olduğunu ortak payda ya da ondalık gösterimle gösterme (6/24 < 7/24 < 8/24 ya da 0,25 < 0,3 < 0,333… gibi). Sayının arada olduğunun gösterildiği tüm cevaplar kabul edilir.",
+     "puan": 4
+    }
+   ],
+   "hata_turu": [
+    "eksik_adim",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.61",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s009",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "d",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük'teki bir okul takımında üç oyuncunun 30 metre koşu süreleri şöyledir: Emre 4,9 sn, Kerem 5,3 sn, Can 4,6 sn. Kronometre geç başlatıldığı için hoca herkesin süresine 0,2 saniye ekliyor. Yeni sürelerde sıralama değişmiyor.",
+   "kok": "Sıralamanın değişmemesi gerçek sayılardaki hangi sıralama özelliği ile açıklanır?",
+   "secenekler": [
+    {
+     "metin": "a ≤ b ve b ≤ c ise a ≤ c'dir.",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Bu özellik üç sayıyı zincirleme karşılaştırır; burada ise herkese aynı sayı ekleniyor."
+    },
+    {
+     "metin": "a ≤ b ise a + c ≤ b + c'dir.",
+     "dogru": true
+    },
+    {
+     "metin": "a ≤ b ve c ≤ 0 ise a · c ≥ b · c'dir.",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Bu özellik eksi bir sayıyla çarpmayı anlatır; hoca süreleri çarpmadı, 0,2 ekledi."
+    },
+    {
+     "metin": "a ≤ b ve b ≤ a ise a = b'dir.",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Bu özellik iki sayının eşit olduğu durumu anlatır; oyuncuların süreleri birbirine eşit değil."
+    }
+   ],
+   "cevap": "a ≤ b ise a + c ≤ b + c'dir.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Hoca sürelere hangi işlemi uyguladı: toplama mı, çarpma mı?",
+    "Her süreye aynı sayı (0,2) ekleniyor; şıklarda “+ c” olan özelliği ara.",
+    "Can ile Emre'yi dene: 4,6 ≤ 4,9 iken 4,6 + 0,2 ile 4,9 + 0,2'yi karşılaştır."
+   ],
+   "cozum_adimlari": [
+    "1. Yeni süreler: Can 4,8 sn, Emre 5,1 sn, Kerem 5,5 sn.",
+    "2. Eski sıra: 4,6 < 4,9 < 5,3. Yeni sıra: 4,8 < 5,1 < 5,5. Sıra aynı.",
+    "3. Her süreye aynı c = 0,2 sayısı eklendi.",
+    "4. a ≤ b ise a + c ≤ b + c özelliği, aynı sayı eklenince sıranın bozulmadığını söyler.",
+    "5. Cevap: a ≤ b ise a + c ≤ b + c'dir."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.59, s.66 (Alıştırma 1b)",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s010",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "e",
+   "tip": "acik",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": null,
+   "kok": "“İki irrasyonel sayının çarpımı her zaman irrasyonel bir sayıdır.” önermesinin yanlış olduğunu karşıt örnek vererek gösteriniz. (10 puan)",
+   "secenekler": null,
+   "cevap": "√2 ∈ ℚ′ için √2 · √2 = 2 olur. 2 = 2/1 bir rasyonel sayıdır, yani 2 ∉ ℚ′. Böylece önermenin yanlış olduğu, karşıt örnek sunularak gösterilmiş olur. (Kitaptaki Örnek 20 da kabul edilir: √3 · √12 = √36 = 6 ∉ ℚ′.)",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Önermeye uymayan, yani çarpımı irrasyonel çıkmayan iki irrasyonel sayı ara.",
+    "Karekök içeren sayıları çarpınca kök bazen kaybolur.",
+    "Kök işaretini yok edecek iki irrasyonel çarpım dene."
+   ],
+   "cozum_adimlari": [
+    "1. İki irrasyonel sayı seçelim: √2 ∈ ℚ′ ve √2 ∈ ℚ′.",
+    "2. Çarpalım: √2 · √2 = 2.",
+    "3. 2 = 2/1 olduğu için 2 rasyoneldir: 2 ∉ ℚ′.",
+    "4. İki irrasyonel sayının çarpımı irrasyonel çıkmadı.",
+    "5. Böylece önermenin yanlış olduğu karşıt örnekle gösterilmiş olur."
+   ],
+   "rubrik": [
+    {
+     "olcut": "İki irrasyonel sayı seçip bunların irrasyonel olduğunu belirtme (√2 ∈ ℚ′ gibi; sembol yerine “irrasyoneldir” anlamına gelen ifadeler de kabul edilir).",
+     "puan": 3
+    },
+    {
+     "olcut": "Seçilen sayıların çarpımını doğru hesaplama (√2 · √2 = 2, √3 · √12 = 6 gibi).",
+     "puan": 3
+    },
+    {
+     "olcut": "Çarpımın irrasyonel olmadığını gösterme (2 ∉ ℚ′ ya da 2 ∈ ℚ). a, b ∈ ℚ′ olmak üzere a · b ∉ ℚ′ olduğunun gösterildiği tüm cevaplar doğrudur.",
+     "puan": 2
+    },
+    {
+     "olcut": "Önermenin karşıt örnekle yanlış olduğunun gösterildiğini belirten sonuç cümlesi (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    }
+   ],
+   "hata_turu": [
+    "irrasyonel_carpim",
+    "uyan_ornek_vermek",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.65 (Örnek 20)",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k3-s011",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "e",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "3'ün katı olan tam sayıların kümesi B = {x | x = 3k, k ∈ ℤ} biçiminde yazılıyor. Örneğin −6, 0, 3 ve 9 sayıları B kümesinin elemanıdır.",
+   "kok": "a) B kümesinin toplama işlemine göre kapalı olduğunu gösteriniz. b) B kümesinin bölme işlemine göre kapalı olmadığını karşıt örnek vererek gösteriniz. (15 puan)",
+   "secenekler": null,
+   "cevap": "a) B'nin herhangi iki elemanı x₁ ve x₂ olsun. a, b ∈ ℤ olmak üzere x₁ = 3a ve x₂ = 3b yazılır. x₁ + x₂ = 3a + 3b = 3(a + b) olur. a + b ∈ ℤ olduğundan 3(a + b) ∈ B'dir. Yani B toplama işlemine göre kapalıdır. b) 3 ∈ B ve 6 ∈ B için 3 ÷ 6 = 1/2 olur. 1/2 bir tam sayı olmadığı için 3'ün katı da değildir: 1/2 ∉ B. Yani B bölme işlemine göre kapalı değildir.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "a) şıkkında birkaç örnek yetmez; her iki eleman için geçerli olduğunu göstermelisin.",
+    "B'nin her elemanı 3 · (tam sayı) biçimindedir. İki elemanı 3a ve 3b diye yaz, sonra topla. b) şıkkında ise tek bir uymayan örnek yeter.",
+    "3a + 3b toplamında 3'ü ortak paranteze al: 3a + 3b = 3(...)."
+   ],
+   "cozum_adimlari": [
+    "1. a) B'den iki eleman alalım: x₁ = 3a, x₂ = 3b (a, b ∈ ℤ).",
+    "2. Toplayalım: x₁ + x₂ = 3a + 3b.",
+    "3. 3 parantezine alalım: 3a + 3b = 3(a + b).",
+    "4. a, b ∈ ℤ olduğundan a + b ∈ ℤ; o hâlde 3(a + b) ∈ B. B toplamaya göre kapalıdır.",
+    "5. b) İki eleman seçelim: 3 ∈ B ve 6 ∈ B.",
+    "6. Bölelim: 3 ÷ 6 = 1/2.",
+    "7. 1/2 tam sayı değildir, bu yüzden 3'ün katı olan bir tam sayı da değildir: 1/2 ∉ B.",
+    "8. Bu karşıt örnek, B'nin bölmeye göre kapalı olmadığını gösterir."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) B'den iki elemanı x₁ = 3a, x₂ = 3b (a, b ∈ ℤ) biçiminde genel olarak yazma.",
+     "puan": 3
+    },
+    {
+     "olcut": "a) Toplamı 3(a + b) biçimine getirip a + b ∈ ℤ olduğundan toplamın B'de olduğunu gösterme. Toplamın her zaman 3'ün katı olduğunun gösterildiği tüm cevaplar kabul edilir; yalnız sayısal örneklerle yetinen cevap bu puanı almaz.",
+     "puan": 5
+    },
+    {
+     "olcut": "b) B'den sıfırdan farklı iki eleman seçme (3 ∈ B, 6 ∈ B gibi).",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Bölümün B'de olmadığını gösterme (3 ÷ 6 = 1/2 ∉ B gibi). x₁, x₂ ∈ B olmak üzere x₁ ÷ x₂ ∉ B olduğunun gösterildiği tüm cevaplar doğrudur.",
+     "puan": 3
+    },
+    {
+     "olcut": "Sonuç: B toplama işlemine göre kapalı, bölme işlemine göre kapalı değil (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    }
+   ],
+   "hata_turu": [
+    "tek_ornekle_ispat",
+    "uyan_ornek_vermek",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.65 (Örnek 21, çift tam sayılar için aynı yöntem)",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": [
+    "DOĞRULA: Öğrenci b) şıkkında 0'a bölmeyi (örn. 3 ÷ 0 tanımsız) karşıt örnek olarak yazarsa ÖDSGM'nin bunu nasıl puanladığı bilinmiyor; öğretmene sorulmalı."
+   ]
+  },
+  {
+   "id": "matematik-u1-k3-s012",
+   "konu_id": "matematik-u1-k3",
+   "ogrenme_ciktisi": "9.1.3",
+   "surec": "f",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 10,
+   "baglam": "Matematik dersinde Deniz ve Emre, tam sayılar kümesiyle ilgili birer önerme yazıyor.\nDeniz: “Tam sayılar kümesi çıkarma işlemine göre kapalıdır.”\nEmre: “Tam sayılar kümesi bölme işlemine göre kapalıdır.”",
+   "kok": "a) Hangi öğrencinin önermesinin yanlış olduğunu belirtiniz ve bu önermenin yanlış olduğunu karşıt örnek sunarak gösteriniz. b) Bir önermenin yanlış olduğunu göstermek için tek bir karşıt örneğin neden yeterli olduğunu açıklayınız. (10 puan)",
+   "secenekler": null,
+   "cevap": "a) Emre'nin önermesi yanlıştır. 1 ∈ ℤ ve 2 ∈ ℤ için 1 ÷ 2 = 1/2 olur ve 1/2 ∉ ℤ'dir. Böylece Emre'nin önermesinin yanlış olduğu karşıt örnek sunularak gösterilmiş olur. b) Önerme, işlemin her iki tam sayı için sonucu tam sayı yaptığını söyler. Bu kurala uymayan tek bir örnek bulunursa “her zaman” iddiası bozulur; bu yüzden tek karşıt örnek yeterlidir.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Önce iki önermeyi birkaç örnekle dene; eksi sonuç çıkması tek başına kümenin dışına çıkıldığı anlamına gelmez.",
+    "Bölümü tam sayı çıkmayan iki tam sayı ara; küçük sayıyı büyük sayıya bölmek işe yarar.",
+    "Küçük tam sayıyı büyük tam sayıya bölmeyi dene. Sonuç tam sayı mı?"
+   ],
+   "cozum_adimlari": [
+    "1. Deniz'in önermesi: iki tam sayının farkı her zaman tam sayıdır (2 − 7 = −5 ∈ ℤ gibi). Önerme doğru.",
+    "2. Emre'nin önermesini dene: 1 ∈ ℤ ve 2 ∈ ℤ.",
+    "3. 1 ÷ 2 = 1/2 ve 1/2 ∉ ℤ.",
+    "4. Emre'nin önermesi yanlıştır; bu karşıt örnekle gösterildi.",
+    "5. Önerme “her” iki tam sayı için konuşur; uymayan tek örnek bu genel iddiayı bozar. Bu yüzden tek karşıt örnek yeterlidir."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) Yanlış önermenin Emre'nin önermesi olduğunu belirtme.",
+     "puan": 2
+    },
+    {
+     "olcut": "a) İki tam sayı seçip tam sayı olduklarını gösterme (1, 2 ∈ ℤ gibi).",
+     "puan": 2
+    },
+    {
+     "olcut": "a) Bölümün tam sayı olmadığını gösterme (1 ÷ 2 = 1/2 ∉ ℤ gibi). a, b ∈ ℤ olmak üzere a ÷ b ∉ ℤ olduğunun gösterildiği tüm cevaplar doğrudur.",
+     "puan": 3
+    },
+    {
+     "olcut": "b) Önermenin her durum için iddiada bulunduğunu, uymayan tek örneğin bu iddiayı bozduğunu açıklama (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 3
+    }
+   ],
+   "hata_turu": [
+    "uyan_ornek_vermek",
+    "eksi_sayi_kume_disi",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.63, s.65",
+    "ogrenme_ciktisi": "9.1.3"
+   },
+   "dogrula": [
+    "DOĞRULA: Öğrenci a) şıkkında 0'a bölmeyi (örn. 5 ÷ 0 tanımsız) karşıt örnek olarak yazarsa ÖDSGM'nin bunu nasıl puanladığı bilinmiyor; öğretmene sorulmalı."
+   ]
+  }
+ ]
+}

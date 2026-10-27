@@ -1,0 +1,676 @@
+{
+ "konu_id": "matematik-u1-k2",
+ "surum": 3,
+ "sorular": [
+  {
+   "id": "matematik-u1-k2-s001",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": "Gölcük'te kasım ayında bir gün hava sıcaklığı en az 9 °C, en çok 18 °C oldu.",
+   "kok": "Bu gün ölçülebilecek sıcaklık değerlerinin aralık gösterimi hangisidir?",
+   "secenekler": [
+    {
+     "metin": "[9, 18]",
+     "dogru": true
+    },
+    {
+     "metin": "(9, 18)",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "“En az” ve “en çok” uçları da kapsar, bu yüzden iki uçta da köşeli parantez gerekir."
+    },
+    {
+     "metin": "[9, 18)",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "18 °C “en çok” değer olduğu için dâhildir; sağ uca da köşeli parantez koymalısın."
+    },
+    {
+     "metin": "{9, 10, 11, ..., 18}",
+     "dogru": false,
+     "hata_turu": "tamsayi_sanma",
+     "aciklama": "Sıcaklık 12,5 °C gibi ara değerler de alabilir, bu yüzden tam sayıları tek tek yazmak yetmez."
+    }
+   ],
+   "cevap": "[9, 18]",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "“En az” ve “en çok” sözleri uçların dâhil olup olmadığını söyler.",
+    "Dâhil olan uçta köşeli parantez, dâhil olmayan uçta normal parantez kullanılır.",
+    "9 °C en az değer, yani 9 dâhil: [9, ile başla. Sağ ucu da aynı yolla kontrol et."
+   ],
+   "cozum_adimlari": [
+    "1. “En az 9” denmiş: 9 dâhil.",
+    "2. “En çok 18” denmiş: 18 dâhil.",
+    "3. İki uç da dâhil olduğu için iki tarafta köşeli parantez: [9, 18]."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "tamsayi_sanma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.43-44",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s002",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "b",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": "Tersanede 60 kg ve üzerindeki yükler vinçle taşınıyor. Bir öğrenci vinçle taşınan yüklerin kütlesini [60, ∞] biçiminde yazdı.",
+   "kok": "Öğrencinin yazdığı aralık gösterimi doğrudur.",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "∞ bir sayı olmadığı için yanına köşeli parantez konmaz; doğrusu [60, ∞) olur.",
+   "ipuclari": [
+    "Gösterimin iki ucuna ayrı ayrı bak.",
+    "∞ bir sayı değildir, ona ulaşılamaz; bu yüzden ∞ yanına hangi parantez gelir?",
+    "60 tarafı doğru: [60, ... Şimdi ∞ tarafının parantezini kontrol et."
+   ],
+   "cozum_adimlari": [
+    "1. “60 ve üzeri” denmiş: 60 dâhil, sol uçta köşeli parantez doğru.",
+    "2. Üst sınır yok, sağ taraf ∞ olur.",
+    "3. ∞ yanında her zaman normal parantez kullanılır.",
+    "4. Doğru gösterim [60, ∞) olduğundan ifade yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "sonsuz_koseli"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.44, 54",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s003",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "b",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "x ∈ ℝ olmak üzere x < 4 eşitsizliği (−∞, 4) aralığıyla gösterilir ve 3,9 sayısı bu aralıktadır.",
+   "secenekler": null,
+   "cevap": true,
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "İki şeyi ayrı ayrı kontrol et: gösterim doğru mu, 3,9 aralıkta mı?",
+    "< işaretinde sınır sayı dâhil değildir; sola doğru sayılar hiç bitmez.",
+    "Önce 4'ün yanına hangi parantez geldiğine bak. Sonra 3,9 ile 4'ü karşılaştır."
+   ],
+   "cozum_adimlari": [
+    "1. x < 4: 4 dâhil değil, sol tarafta sınır yok.",
+    "2. Aralık gösterimi (−∞, 4); gösterim doğru.",
+    "3. 3,9 < 4 olduğu için 3,9 aralıktadır.",
+    "4. İki kısım da doğru, ifade doğrudur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "tamsayi_sanma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.44",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s004",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "a",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "x ∈ ℝ olmak üzere −3 ≤ x < 7 cebirsel temsilinin aralık gösterimi ______ biçimindedir.",
+   "secenekler": null,
+   "cevap": "[−3, 7)",
+   "kabul_edilenler": [
+    "[−3, 7)",
+    "[−3,7)",
+    "[-3, 7)",
+    "[-3,7)"
+   ],
+   "yanlis_aciklama": "≤ olan uçta köşeli, < olan uçta normal parantez kullanılır; −3 dâhil, 7 dâhil değil.",
+   "ipuclari": [
+    "Her uç için işarete bak: ≤ mü, < mü?",
+    "≤ olan uçta köşeli, < olan uçta normal parantez kullan.",
+    "−3 ≤ x olduğu için −3 dâhil: [−3, ile başla. 7'nin yanındaki işarete de bak."
+   ],
+   "cozum_adimlari": [
+    "1. −3 ≤ x: −3 dâhil, köşeli parantez.",
+    "2. x < 7: 7 dâhil değil, normal parantez.",
+    "3. Aralık gösterimi [−3, 7); bu bir yarı açık aralıktır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.44",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s005",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": "Gölcük'te bir futbol hocası iki antrenman grubu kuruyor. A grubunda 2, 4, 6, 7, 10 numaralı formalar, B grubunda 6, 7, 8, 9, 10 numaralı formalar var.",
+   "kok": "İki grupta da çalışan oyuncuların forma numaralarından oluşan A ∩ B kümesi hangisidir?",
+   "secenekler": [
+    {
+     "metin": "{6, 7, 10}",
+     "dogru": true
+    },
+    {
+     "metin": "{2, 4, 6, 7, 8, 9, 10}",
+     "dogru": false,
+     "hata_turu": "kesisim_birlesim",
+     "aciklama": "Burada bütün numaraları yazdın, bu A ∪ B olur; ∩ yalnızca ortak olanları ister."
+    },
+    {
+     "metin": "{2, 4}",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Bunlar yalnızca A'da olan numaralar, yani A \\ B; kesişimde iki grupta da olanlar yazılır."
+    },
+    {
+     "metin": "{8, 9}",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Bunlar yalnızca B'de olan numaralar, yani B \\ A; kesişimde ortak numaralar aranır."
+    }
+   ],
+   "cevap": "{6, 7, 10}",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "∩ işareti “iki kümede de olan” demektir.",
+    "A'daki her numara için B'de de var mı diye bak.",
+    "2 ve 4 B'de yok; 6 B'de var. Kalan numaraları da kontrol et."
+   ],
+   "cozum_adimlari": [
+    "1. A'daki numaralar: 2, 4, 6, 7, 10.",
+    "2. Bunlardan B'de de olanlar: 6, 7, 10.",
+    "3. A ∩ B = {6, 7, 10}."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kesisim_birlesim",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.41",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s006",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "x ∈ ℝ olmak üzere (−∞, 2] aralığının cebirsel temsili hangisidir?",
+   "secenekler": [
+    {
+     "metin": "x ≤ 2",
+     "dogru": true
+    },
+    {
+     "metin": "x < 2",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "2'nin yanında köşeli parantez var, yani 2 dâhil; bu yüzden ≤ kullanılır."
+    },
+    {
+     "metin": "x ≥ 2",
+     "dogru": false,
+     "hata_turu": "esitsizlik_yonu",
+     "aciklama": "Aralık −∞'dan başladığı için 2'den küçük sayıları anlatır; işaretin yönü ters olmuş."
+    },
+    {
+     "metin": "−∞ ≤ x ≤ 2",
+     "dogru": false,
+     "hata_turu": "sonsuz_koseli",
+     "aciklama": "∞ bir sayı değildir, ≤ ile dâhil edilemez; sol tarafta sınır yoktur."
+    }
+   ],
+   "cevap": "x ≤ 2",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Aralık hangi yöne doğru bitmiyor?",
+    "−∞ tarafı sınırsızdır; yalnızca 2 tarafına bak.",
+    "2'nin yanında ] mi, ) mi var? Bu, 2'nin dâhil olup olmadığını söyler."
+   ],
+   "cozum_adimlari": [
+    "1. Sol taraf −∞: alt sınır yok, x 2'den küçük değerler alır.",
+    "2. 2'nin yanında köşeli parantez var: 2 dâhil.",
+    "3. Cebirsel temsil x ≤ 2."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "sonsuz_koseli",
+    "esitsizlik_yonu"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.44",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s007",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": "Tersanede kaynak ekibi saat 7 ile 15 arasında, boya ekibi saat 11 ile 19 arasında çalışıyor (uçlar dâhil). Kaynak ekibinin çalışma saatleri A = [7, 15], boya ekibininki B = [11, 19] kümesiyle gösteriliyor.",
+   "kok": "Tersanede yalnızca kaynak ekibinin bulunduğu saatleri gösteren A \\ B kümesi hangisidir?",
+   "secenekler": [
+    {
+     "metin": "[7, 11)",
+     "dogru": true
+    },
+    {
+     "metin": "[7, 11]",
+     "dogru": false,
+     "hata_turu": "fark_ucu",
+     "aciklama": "Saat 11'de boya ekibi de gelmiş, 11 B'nin elemanı olduğu için A \\ B'den çıkar."
+    },
+    {
+     "metin": "[11, 15]",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Bu iki ekibin birlikte çalıştığı saatler, yani A ∩ B; fark kümesi istendi."
+    },
+    {
+     "metin": "(15, 19]",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "Bu yalnızca boya ekibinin olduğu saatler, yani B \\ A; soru kaynak ekibini soruyor."
+    }
+   ],
+   "cevap": "[7, 11)",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "A \\ B, A'da olup B'de olmayan saatlerdir.",
+    "İki aralığı aynı sayı doğrusunda üst üste çiz; B'nin kapladığı kısmı A'dan sil.",
+    "B saat 11'de başlıyor. 11, B'nin elemanı mı? Parantezi ona göre seç."
+   ],
+   "cozum_adimlari": [
+    "1. A = [7, 15], B = [11, 19].",
+    "2. A'nın 11'den 15'e kadarki kısmı B'de de var, bu kısım çıkarılır.",
+    "3. Geriye 7'den 11'e kadar kalır; 7 dâhil.",
+    "4. 11, B'nin elemanı olduğu için dâhil değil: A \\ B = [7, 11)."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "fark_ucu",
+    "kavram_karisikligi",
+    "okuma_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.47",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s008",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": "Gölcük sahilinde bir hafta boyunca deniz suyu sıcaklığı en az 14 °C, en çok 22 °C ölçüldü.",
+   "kok": "x ∈ ℝ olmak üzere bu sıcaklık aralığını gösteren mutlak değerli eşitsizlik hangisidir?",
+   "secenekler": [
+    {
+     "metin": "|x − 18| ≤ 4",
+     "dogru": true
+    },
+    {
+     "metin": "|x − 18| ≤ 8",
+     "dogru": false,
+     "hata_turu": "mutlak_tam_uzunluk",
+     "aciklama": "8 aralığın tamamının uzunluğu; sağ tarafa orta noktadan uca olan uzaklık, yani yarısı yazılır."
+    },
+    {
+     "metin": "|x − 18| < 4",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "“En az” ve “en çok” uçları kapsadığı için < değil ≤ kullanılır."
+    },
+    {
+     "metin": "|x − 4| ≤ 18",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Orta nokta ile uzaklığın yeri değişmiş; mutlak değerin içine orta nokta olan 18 yazılır."
+    }
+   ],
+   "cevap": "|x − 18| ≤ 4",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Mutlak değer, orta noktaya olan uzaklığı gösterir.",
+    "Önce orta noktayı bul: uçları topla, 2'ye böl. Sonra uçların ortaya uzaklığını bul.",
+    "(14 + 22) / 2 = 18. Şimdi 22'nin 18'e uzaklığını hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. Aralık [14, 22], uçlar dâhil.",
+    "2. Orta nokta: (14 + 22) / 2 = 18.",
+    "3. Uzaklık: |22 − 18| = |14 − 18| = 4.",
+    "4. Uçlar dâhil olduğu için ≤: |x − 18| ≤ 4."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "mutlak_tam_uzunluk",
+    "aralik_uc",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.51",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s009",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "c",
+   "tip": "bosluk",
+   "zorluk": 2,
+   "puan": 5,
+   "baglam": null,
+   "kok": "x ∈ ℝ olmak üzere |x − 6| < 2 mutlak değerli eşitsizliğinin aralık gösterimi ______ biçimindedir.",
+   "secenekler": null,
+   "cevap": "(4, 8)",
+   "kabul_edilenler": [
+    "(4, 8)",
+    "(4,8)"
+   ],
+   "yanlis_aciklama": "6'dan 2 sola ve 2 sağa gidilir: 4 ve 8; < olduğu için uçlar dâhil değil, parantez normal olur.",
+   "ipuclari": [
+    "|x − 6| < 2, x'in 6'ya uzaklığı 2'den az demektir.",
+    "Orta nokta 6; 2 birim sola ve 2 birim sağa git. < olduğu için uçlar dâhil değil.",
+    "Sol uç 6 − 2 = 4. Sağ ucu da bul."
+   ],
+   "cozum_adimlari": [
+    "1. Orta nokta 6, uzaklık 2.",
+    "2. Sol uç: 6 − 2 = 4.",
+    "3. Sağ uç: 6 + 2 = 8.",
+    "4. < olduğu için uçlar dâhil değil: (4, 8)."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.54",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s010",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "c",
+   "tip": "dogru_yanlis",
+   "zorluk": 2,
+   "puan": 5,
+   "baglam": null,
+   "kok": "Evrensel küme ℝ ve A = [−2, 5] olmak üzere A′ = (−∞, −2) ∪ (5, ∞) olur.",
+   "secenekler": null,
+   "cevap": true,
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "A′, ℝ'de olup A'da olmayan bütün sayılardır.",
+    "Sayı doğrusunda A'nın solunda ve sağında kalan iki parçayı düşün.",
+    "−2, A'nın elemanı; bu yüzden A′'de −2'nin yanına hangi parantez gelir?"
+   ],
+   "cozum_adimlari": [
+    "1. A = [−2, 5]: −2 ve 5 A'nın elemanı.",
+    "2. Solda kalan parça: −2'den küçük sayılar, (−∞, −2).",
+    "3. Sağda kalan parça: 5'ten büyük sayılar, (5, ∞).",
+    "4. A′ = (−∞, −2) ∪ (5, ∞); ifade doğrudur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "fark_ucu",
+    "sonsuz_koseli"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.48, 54",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s011",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "a",
+   "tip": "acik",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": "Bir bisiklet tamircisi, yol bisikletinin lastik basıncının 40 psi'den fazla, en çok 65 psi olması gerektiğini söylüyor.",
+   "kok": "x ∈ ℝ olmak üzere uygun lastik basıncı değerlerini cebirsel temsil, aralık gösterimi ve küme gösterimiyle yazınız. (10 puan)",
+   "secenekler": null,
+   "cevap": "Cebirsel temsil: 40 < x ≤ 65. Aralık gösterimi: (40, 65]. Küme gösterimi: {x | 40 < x ≤ 65, x ∈ ℝ}.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Önce iki ucun dâhil olup olmadığını sözlerden bul.",
+    "“-den fazla” ucu dâhil etmez, “en çok” ucu dâhil eder.",
+    "40 dâhil değil, 65 dâhil. Cebirsel temsile 40 < x ile başla."
+   ],
+   "cozum_adimlari": [
+    "1. “40 psi'den fazla”: 40 dâhil değil.",
+    "2. “En çok 65 psi”: 65 dâhil.",
+    "3. Cebirsel temsil: 40 < x ≤ 65.",
+    "4. Aralık gösterimi: (40, 65].",
+    "5. Küme gösterimi: {x | 40 < x ≤ 65, x ∈ ℝ}."
+   ],
+   "rubrik": [
+    {
+     "olcut": "Cebirsel temsili 40 < x ≤ 65 biçiminde doğru yazma (anlamca eşdeğer yazımlar, ör. 65 ≥ x > 40, kabul edilir).",
+     "puan": 3
+    },
+    {
+     "olcut": "Aralık gösterimini (40, 65] biçiminde, uç parantezleri doğru olarak yazma.",
+     "puan": 3
+    },
+    {
+     "olcut": "Küme gösterimini {x | 40 < x ≤ 65, x ∈ ℝ} biçiminde yazma (“öyle ki” için ; ya da : kullanılan eşdeğer gösterimler kabul edilir).",
+     "puan": 4
+    }
+   ],
+   "hata_turu": [
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.43",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s012",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "b",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'teki bir tersanede iki vincin kaldırabildiği yük kütlelerinin en küçük ve en büyük değerleri aşağıda verilmiştir.\nVinç 1: en küçük 2 ton, en büyük 10 ton\nVinç 2: en küçük 6 ton, en büyük 15 ton\nVinç 1'in kaldırabildiği yük kütlelerinin aralığı A kümesiyle, Vinç 2'ninki B kümesiyle gösteriliyor.",
+   "kok": "Buna göre, A ∩ B kümesini aralık gösterimi ile yazınız. (15 puan)",
+   "secenekler": null,
+   "cevap": "A kümesinin aralık gösterimi [2, 10], B kümesinin aralık gösterimi [6, 15] olduğundan A ∩ B'nin aralık gösterimi [6, 10] biçimindedir.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Önce her vinci ayrı bir aralık olarak yaz; en küçük ve en büyük değerler dâhildir.",
+    "∩ iki aralığın ortak kısmıdır; iki aralığı aynı sayı doğrusunda üst üste çiz.",
+    "Önce her vinci [en küçük, en büyük] diye yaz. Sonra ortak kısmı ara."
+   ],
+   "cozum_adimlari": [
+    "1. A kümesinin aralık gösterimi: [2, 10].",
+    "2. B kümesinin aralık gösterimi: [6, 15].",
+    "3. Sayı doğrusunda iki aralık 6'dan 10'a kadar üst üste gelir.",
+    "4. 6 ve 10 iki kümede de var, uçlar dâhil.",
+    "5. A ∩ B = [6, 10]."
+   ],
+   "rubrik": [
+    {
+     "olcut": "A kümesini [2, 10] olarak aralık gösterimiyle yazma.",
+     "puan": 4
+    },
+    {
+     "olcut": "B kümesini [6, 15] olarak aralık gösterimiyle yazma.",
+     "puan": 4
+    },
+    {
+     "olcut": "A ∩ B kümesini [6, 10] olarak yazma (6 ≤ x ≤ 10, x ∈ ℝ ya da {x | 6 ≤ x ≤ 10, x ∈ ℝ} gibi aynı kümeyi anlatan eşdeğer gösterimler kabul edilir).",
+     "puan": 7
+    }
+   ],
+   "hata_turu": [
+    "kesisim_birlesim",
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.47",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s013",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "c",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'teki bir fırında üretilen ekmeklerin kütlesinin en az 240 g, en fazla 260 g olması gerekiyor.",
+   "kok": "Buna göre, ekmek kütlesinin aralığını mutlak değerli eşitsizlik olarak yazınız. (15 puan)",
+   "secenekler": null,
+   "cevap": "En az ve en fazla değerlerin ortalaması (240 + 260) / 2 = 250 olur. 250'nin 240 ve 260'a uzaklığı |240 − 250| = |260 − 250| = 10'dur. Buna göre ekmek kütlesinin aralığı x ∈ ℝ olmak üzere |x − 250| ≤ 10 biçiminde gösterilir.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Mutlak değerli eşitsizlik, orta noktaya olan uzaklıkla yazılır.",
+    "Önce iki ucun ortalamasını, sonra bu ortalamanın uçlara uzaklığını bul.",
+    "(240 + 260) / 2 = 250. Şimdi 260'ın 250'ye uzaklığını hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. Aralık [240, 260], uçlar dâhil.",
+    "2. Orta nokta: (240 + 260) / 2 = 500 / 2 = 250.",
+    "3. Uzaklık: |240 − 250| = |260 − 250| = 10.",
+    "4. Uçlar dâhil olduğu için ≤ kullanılır.",
+    "5. x ∈ ℝ olmak üzere |x − 250| ≤ 10."
+   ],
+   "rubrik": [
+    {
+     "olcut": "En az ve en fazla değerlerin ortalamasını 250 olarak bulma.",
+     "puan": 5
+    },
+    {
+     "olcut": "Ortalamanın uçlara uzaklığını 10 olarak bulma.",
+     "puan": 5
+    },
+    {
+     "olcut": "Mutlak değerli eşitsizliği |x − 250| ≤ 10 olarak yazma (|250 − x| ≤ 10 gibi eşdeğer gösterimler kabul edilir).",
+     "puan": 5
+    }
+   ],
+   "hata_turu": [
+    "mutlak_tam_uzunluk",
+    "aralik_uc",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.51",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u1-k2-s014",
+   "konu_id": "matematik-u1-k2",
+   "ogrenme_ciktisi": "9.1.2",
+   "surec": "c",
+   "tip": "acik",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": "Tersanede bir kaynak makinesinin ideal akımı 120 amperdir. Akım bu değerden 15 amperden fazla saparsa makine durur.",
+   "kok": "x ∈ ℝ olmak üzere makinenin durduğu akım değerlerini mutlak değerli eşitsizlik ve aralık gösterimiyle yazınız. (10 puan)",
+   "secenekler": null,
+   "cevap": "Mutlak değerli eşitsizlik: |x − 120| > 15. Aralık gösterimi: (−∞, 105) ∪ (135, ∞).",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Makine, akım 120'den uzaklaştığında duruyor; uzaklık mutlak değerle yazılır.",
+    "“15'ten fazla sapma” uzaklığın 15'ten büyük olduğu, yani > demektir. Sayı doğrusunda 120'nin iki yanına bak.",
+    "120 − 15 = 105 ve 120 + 15 = 135. Makine 105'in solunda mı, 105 ile 135 arasında mı durur?"
+   ],
+   "cozum_adimlari": [
+    "1. Akım ile 120 arasındaki fark |x − 120|.",
+    "2. Fark 15'ten fazla: |x − 120| > 15.",
+    "3. 120'den 15 birim uzaklıktaki sayılar 105 ve 135.",
+    "4. Makine 105'ten küçük ya da 135'ten büyük akımlarda durur; 105 ve 135 dâhil değil.",
+    "5. Aralık gösterimi: (−∞, 105) ∪ (135, ∞)."
+   ],
+   "rubrik": [
+    {
+     "olcut": "Mutlak değerli eşitsizliği |x − 120| > 15 olarak yazma (|120 − x| > 15 gibi eşdeğer gösterimler kabul edilir).",
+     "puan": 4
+    },
+    {
+     "olcut": "Sınır değerleri 105 ve 135 olarak bulma.",
+     "puan": 2
+    },
+    {
+     "olcut": "Aralık gösterimini (−∞, 105) ∪ (135, ∞) olarak, uçlar dâhil edilmeden ve ∪ ile yazma (x < 105 veya x > 135 anlamına gelen eşdeğer gösterimler kabul edilir).",
+     "puan": 4
+    }
+   ],
+   "hata_turu": [
+    "aralik_uc",
+    "kesisim_birlesim",
+    "sonsuz_koseli"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.51-52, 54",
+    "ogrenme_ciktisi": "9.1.2"
+   },
+   "dogrula": []
+  }
+ ]
+}
