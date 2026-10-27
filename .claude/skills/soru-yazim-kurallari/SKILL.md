@@ -110,6 +110,9 @@ Kaynak: `kaynaklar/meb/ortak_sinav/kilavuz/tymm_coktan_secmeli_soru_yazim_kilavu
 | `irrasyonel_carpim` | iki irrasyonelin çarpımının hep irrasyonel olduğunu sanmak |
 | `eksi_sayi_kume_disi` | negatif sayıyı ℤ/ℚ/ℝ dışında saymak |
 | `esitsizlik_yonu` | eşitsizliği ters yazmak ya da ters çevirmeyi unutmak |
+| `oteleme_yonu` | grafiği yanlış yöne ötelemek (f(x − r)'yi sola, +k'yı aşağı almak) |
+| `tanim_goruntu_karistirma` | tanım kümesi ile görüntü kümesini karıştırmak |
+| `egim_kesisim_karistirma` | ax + b'de eğim (a) ile sabit terimi (b) karıştırmak |
 | `kare_dagitma` | (a ± b)² = a² ± b² sanmak (orta terimi unutmak). `kare_acilim` eski ad, kullanma |
 | `fark_karesi_isaret` | (a − b)²'de orta terimin işaretini + yazmak |
 | `kare_farki_karistirma` | a² − b²'yi (a − b)² sanmak |

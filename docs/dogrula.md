@@ -44,6 +44,15 @@ Konu düzeyindeki ayrıntılı işaretler `dersler/<ders>/harita.json` içinde h
 | 20 | k3 s011, s012: Karşıt örnek olarak 0'a bölme (3 ÷ 0 tanımsız) yazılırsa puanlama | `sorular/matematik-u1-k3.json` | Ders öğretmeni | [ ] |
 | — | PDF görselinden kapatılan 17 madde (bilimsel gösterim, ⊆, ⊻, ℚ′, 0 ∈ ℕ, Tablo 1.1–1.3...) | `denetim/pdf_teyit_u1.md` | Ders kitabı PDF'i | [x] 2026-10-26 |
 
+## Matematik Ünite 2 (2026-10-27)
+
+| # | Bilgi | Nerede | Nasıl teyit edilir | Durum |
+|---|---|---|---|---|
+| 21 | 9.2.1 x ekseni ötelemesi (g(x) = a·f(x − r) + k'de r): program s.52 kapsamda sayıyor; kitapta açık kural yok (s.115 yalnız y ekseni, s.108 örtük). Kart program kaynaklı öğretiyor | `konular/matematik-u2-k1.json` | Ders öğretmeni (yazılıda soruyor mu?) | [ ] |
+| 22 | 9.2.1 "maksimum noktası" kitapta (s.96) x değeri mi, (x, f(x)) mi belirsiz; kart ikisini birlikte yazıyor | `konular/matematik-u2-k1.json` | Ders öğretmeni | [ ] |
+| 23 | 9.2.1–9.4.1: 6 Ocak ülke geneli sınavın konu-soru dağılım tablosu henüz yayımlanmadı; 15 puanlık kalıplar kitap alıştırmalarından uyarlandı (geçmiş ortak sınavlarda fonksiyon sorusu yok) | `sorular/matematik-u2-*.json` | ÖDSGM kılavuzu (sınav öncesi) | [ ] |
+| 24 | 9.2.1 sabit fonksiyonun maksimum-minimum durumu kitapta (s.110) tartışmaya bırakılmış, cevabı yok; kart bu konuya girmiyor (bilgi notu) | `konular/matematik-u2-k1.json` | Gerekmez | [x] |
+
 ## Harita özet sayıları (2026-10-26, `python tools/harita_uret.py`)
 
 | Ders | Konu | DOĞRULA'lı konu | Başlıca neden |

@@ -25,3 +25,10 @@ Kitap: `kaynaklar/meb/matematik/matematik-9sinif-ders-kitabi-1kitap_20261006_102
 | 9.1.4 | Tablo 1.2 sembolleri | ∃ bazı (en az bir), ∀ her, ∧ ve, ∨ veya, **⊻ ya da**, ⇒ ise, ⇔ ancak ve ancak (s.72) | KAPANDI. "ya da" sembolü ⊻ karta eklenebilir |
 | 9.1.4 | Tablo 1.3 | ∀ ↔ ∃, ∧ ↔ ∨ değilleri (s.72) | Bilgi |
 | 9.1.4 | Önerme tanımı | "Kesin doğru ya da kesin yanlış bir hüküm bildiren ifadelere önerme denir… değili (olumsuzu)" (s.68) | Bilgi |
+
+## Ünite 2 (2026-10-27)
+
+| Konu | Madde | Kitapta yazan (basılı sayfa) | Sonuç |
+|---|---|---|---|
+| 9.2.1 | h ve m fonksiyonlarının tanım aralıkları | h: [1, 5] (uçlar dolu nokta), m: (1, 5) (uçlar boş daire); m için "maksimum veya minimum olup olamayacağını tartışınız" (s.94) | KAPANDI |
+| 9.2.1 | 1. Örnek h fonksiyonu | h(x) = −½x; g(x) = 2x; "g'nin grafiği y eksenine, h'nin grafiği x eksenine daha yakındır" (s.101) | KAPANDI |

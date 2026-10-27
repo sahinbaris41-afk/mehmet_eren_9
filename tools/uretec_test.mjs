@@ -33,6 +33,9 @@ esit("ust", R.ust(-12), "⁻¹²");
 esit("sayi", R.sayi(2.5), "2,5");
 esit("shuffle kopya", (() => { const d = [1, 2, 3]; R.shuffle(R.rng(1), d); return d; })(), [1, 2, 3]);
 esit("rng tohumlu", R.rng(7)(), R.rng(7)());
+const yon = sandbox.B9.ekler.yonelme;
+esit("yonelme", [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, 30, 40, 50, 60, 70, 80, 90, 100, 1000, 1000000, -6, 2.5].map(yon),
+  ["0'a", "1'e", "2'ye", "3'e", "4'e", "5'e", "6'ya", "7'ye", "8'e", "9'a", "10'a", "15'e", "20'ye", "25'e", "30'a", "40'a", "50'ye", "60'a", "70'e", "80'e", "90'a", "100'e", "1000'e", "1 000 000'a", "−6'ya", "2,5'e"]);
 
 const coktan = {
   id: "t-s1", konu_id: "ornek-u1-k1", tip: "coktan", zorluk: 1, kok: "2³ kaçtır?", ipuclari: ["a", "b", "c"], cozum_adimlari: ["1.", "2."],

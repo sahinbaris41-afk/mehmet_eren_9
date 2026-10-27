@@ -65,6 +65,7 @@ def node_yukle(r: Rapor) -> dict:
 def cumleler(paragraf: str) -> int:
     # "3. dereceden", "n. kuvveti" gibi sıra sayılarındaki nokta (ardından küçük harf) cümle sonu değildir
     metin = re.sub(r"(?<!\w)(\d+|\w)\.(?=\s+\*{0,2}[a-zçğıöşü])", r"\1§", paragraf.strip())
+    metin = re.sub(r"\.{3}|…", "§", metin)  # işaret tablosundaki "..." cümle sonu değildir
     return len([c for c in re.split(r"(?<=[.!?])\s+", metin) if c.strip()])
 
 

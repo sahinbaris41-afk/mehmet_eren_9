@@ -938,4 +938,461 @@
       return "ÇÖZÜM YOK";
     },
   });
+  // =====================================================================
+  // 9.2.1 · Doğrusal fonksiyonlar (matematik-u2-k1)
+  // =====================================================================
+
+  // ax + b yazımı: katsayı 1/−1 gizlenir, b = 0 yazılmaz, a = 0 ise yalnız b.
+  const dogruYaz = (a, b) => {
+    if (a === 0) return tam(b);
+    const ax = (a === 1 ? "" : a === -1 ? EKSI : tam(a)) + "x";
+    return b === 0 ? ax : ax + (b > 0 ? " + " : " − ") + Math.abs(b);
+  };
+  // Doğruya değerce eşit yanlışı eler (uretecDene onu hata sayar); kalan farklı değerleri sayar.
+  const esitD = (u, v) => (typeof u === "number" && typeof v === "number" ? Math.abs(u - v) <= 1e-9 * Math.max(1, Math.abs(u), Math.abs(v)) : u === v);
+  const ayikla = (ys, d) => ys.filter(v => !esitD(v.deger, d));
+  const tekilSay = ys => ys.filter((v, i) => ys.findIndex(w => esitD(w.deger, v.deger)) === i).length;
+  // Bağlamlı soruda okunaklı şık: tam ya da tek ondalık basamaklı.
+  const okunakli = v => Number.isFinite(v) && Math.abs(v * 10 - Math.round(v * 10)) < 1e-9;
+  // Yönelme eki (15'e, 20'ye, 30'a): sayının okunuşundaki son sözcüğe göre (bir, iki ... on, yirmi ... yüz, bin, milyon).
+  const BIRLER_EK = ["", "e", "ye", "e", "e", "e", "ya", "ye", "e", "a"]; // bir iki üç dört beş altı yedi sekiz dokuz
+  const ONLAR_EK = ["", "a", "ye", "a", "a", "ye", "a", "e", "e", "a"]; // on yirmi otuz kırk elli altmış yetmiş seksen doksan
+  const yonelme = x => {
+    const s = sayiYaz(x), virgul = s.indexOf(",");
+    const n = virgul < 0 ? Math.abs(Math.round(x)) : Number(s.slice(virgul + 1)); // 2,5 "iki virgül beş" diye okunur
+    const ek = n === 0 ? "a" // sıfır
+      : n % 10 ? BIRLER_EK[n % 10]
+      : n % 100 ? ONLAR_EK[(n % 100) / 10]
+      : n % 1000 ? "e" // yüz
+      : n % 1e6 ? "e" // bin
+      : "a"; // milyon, milyar
+    return s + "'" + ek;
+  };
+  G.B9.ekler = { yonelme }; // birim testi için
+
+  kayit({
+    id: "mat-u2-deger-hesap", konu_id: "matematik-u2-k1", ogrenme_ciktisi: "9.2.1", zorluk: 1,
+    kaynak: { kitap: KITAP, sayfa: "102-106, 115" },
+    gen(r) {
+      const { pick } = R();
+      for (;;) {
+        const a = pick(r, [-5, -4, -3, -2, -1, 2, 3, 4, 5, 6]);
+        const b = r() < 0.15 ? 0 : pick(r, [-9, -7, -6, -5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 7, 8, 10]);
+        const ters = r() < 0.45;
+        const gx = "g(x) = " + dogruYaz(a, b);
+        if (!ters) {
+          // Sınır: c negatif (eksi · eksi), b = 0 (g(x) = ax). c = 0 yok: 3. ipucu cevabı verirdi.
+          const c = pick(r, [-4, -3, -2, -1, 1, 2, 3, 4, 5]);
+          if (Math.abs(c) === Math.abs(a)) continue; // x ile katsayı aynı sayı olunca şıklar rastlantıyla çakışıyor
+          const d = a * c + b;
+          let ys = [
+            // İşaret hatası yalnız negatif çarpan varsa gerçek bir hatadır.
+            ...(a < 0 || c < 0 ? [y(tam(-a * c + b), "isaret_hatasi", "İşaretli çarpımı yeniden yap: " + tam(a) + " · " + pt(c) + " = " + tam(a * c) + ".", -a * c + b)] : []),
+            y(tam(a + c + b), "islem_hatasi", tam(a) + "x, " + tam(a) + " ile x'in çarpımıdır; toplamı değil.", a + c + b),
+            y(tam(c + b), "kavram_karisikligi", "x'in katsayısı " + tam(a) + "; x yerine " + tam(c) + " yazınca onu da çarpmalısın.", c + b),
+          ];
+          if (b !== 0) ys.push(
+            y(tam(a * c), "eksik_adim", "Çarpımı buldun ama sabit terim " + tam(b) + " eklenmedi.", a * c),
+            y(tam(a * c - b), "isaret_hatasi", "Sabit terimi işaretiyle ekle: " + (b > 0 ? "+ " + b : "− " + -b) + ".", a * c - b),
+          );
+          ys = ayikla(ys, d);
+          if (tekilSay(ys) < 3) continue;
+          return {
+            params: { mod: "deger", a, b, c }, baglam: null,
+            kok: "g: ℝ → ℝ, " + gx + " olduğuna göre g(" + tam(c) + ") kaçtır?",
+            dogru: tam(d), deger: d, yanlislar: ys,
+            ipuclari: [
+              "g(" + tam(c) + ") için x gördüğün yere " + tam(c) + " yaz.",
+              "Önce çarpma, sonra toplama yapılır" + (b === 0 ? "; burada sabit terim yok." : "."),
+              b === 0 ? "Çarpımın işaretine dikkat: işaretler aynıysa sonuç artı, farklıysa eksidir." : "İlk adım: " + tam(a) + " · " + pt(c) + " = " + tam(a * c) + ".",
+            ],
+            cozum: [
+              "1. x yerine " + tam(c) + " yazılır: g(" + tam(c) + ") = " + tam(a) + " · " + pt(c) + (b === 0 ? "" : (b > 0 ? " + " : " − ") + Math.abs(b)) + ".",
+              "2. Çarpma: " + tam(a) + " · " + pt(c) + " = " + tam(a * c) + ".",
+              ...(b === 0 ? [] : ["3. Toplama: " + tam(a * c) + (b > 0 ? " + " : " − ") + Math.abs(b) + " = " + tam(d) + "."]),
+              (b === 0 ? "3" : "4") + ". Sonuç: g(" + tam(c) + ") = " + tam(d) + ".",
+            ],
+          };
+        }
+        // g(x) = d verilir, x istenir. Sınır: x0 = 0 (d = b), a = −1, b = 0, kesirli yanlış yollar.
+        const x0 = pick(r, [-4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6]);
+        const d = a * x0 + b;
+        const kd = (p, q) => y(kesirYaz(p, q), null, null, p / q);
+        const ek = (o, h, ac) => Object.assign(o, { hata_turu: h, aciklama: ac });
+        let ys = [
+          // İşaret hatası yalnız bölen ya da bölünen negatifse gerçek bir hatadır.
+          ...(a < 0 || d - b < 0 ? [ek(kd(-(d - b), a), "isaret_hatasi", tam(d - b) + " : " + pt(a) + " işleminde işaretler " + ((a < 0) === (d - b < 0) ? "aynı; sonuç artı" : "farklı; sonuç eksi") + " çıkar.")] : []),
+          ek(kd(d - b, 1), "eksik_adim", "x'in katsayısı " + tam(a) + " ile bölme adımı eksik kalmış."),
+          ek(kd(a * d + b, 1), "okuma_hatasi", "g(" + tam(d) + ") değerini hesapladın; soru g(x) = " + tam(d) + " olan x'i istiyor."),
+        ];
+        if (b !== 0) ys.push(
+          ek(kd(d + b, a), "isaret_hatasi", "Sabit terim karşıya işareti değişerek geçer: " + tam(d) + (b > 0 ? " − " + b : " + " + -b) + "."),
+          ek(kd(d - a * b, a), "islem_hatasi", "İki tarafı " + yonelme(a) + " bölerken sabit terim de bölünür; yalnız " + tam(d) + " bölünmüş.")
+        );
+        ys = ayikla(ys, x0);
+        if (tekilSay(ys) < 3) continue;
+        const sag = d - b;
+        return {
+          params: { mod: "ters", a, b, d }, baglam: null,
+          kok: "g: ℝ → ℝ, " + gx + " olduğuna göre g(x) = " + tam(d) + " eşitliğini sağlayan x değeri kaçtır?",
+          dogru: tam(x0), deger: x0, yanlislar: ys,
+          ipuclari: [
+            "g(x) yerine " + tam(d) + " yaz; bir denklem elde edersin.",
+            b === 0 ? "Her iki tarafı x'in katsayısı " + tam(a) + " ile böl." : "Sabit terimi işaretini değiştirerek karşıya geçir, sonra x'in katsayısına böl.",
+            "İlk adım: " + dogruYaz(a, b) + " = " + tam(d) + ".",
+          ],
+          cozum: [
+            "1. Denklem: " + dogruYaz(a, b) + " = " + tam(d) + ".",
+            ...(b === 0 ? [] : ["2. Sabit terim karşıya geçer: " + dogruYaz(a, 0) + " = " + tam(d) + (b > 0 ? " − " + b : " + " + -b) + " = " + tam(sag) + "."]),
+            (b === 0 ? "2" : "3") + ". " + tam(a) + " ile bölünür: x = " + tam(sag) + " : " + pt(a) + " = " + tam(x0) + ".",
+            (b === 0 ? "3" : "4") + ". Kontrol: g(" + tam(x0) + ") = " + tam(d) + ".",
+          ],
+        };
+      }
+    },
+    kontrol({ mod, a, b, c, d }) {
+      if (mod === "deger") { // a'yı |c| kez ekleyerek/çıkararak
+        let s = b; for (let i = 0; i < Math.abs(c); i++) s += c > 0 ? a : -a;
+        return tam(s);
+      }
+      for (let x = -50; x <= 50; x++) if (a * x + b === d) return tam(x);
+      return "ÇÖZÜM YOK";
+    },
+  });
+
+  kayit({
+    id: "mat-u2-sifir-isaret", konu_id: "matematik-u2-k1", ogrenme_ciktisi: "9.2.1", zorluk: 2,
+    kaynak: { kitap: KITAP, sayfa: "105-106, 115" },
+    gen(r) {
+      const { pick } = R();
+      const yaz = (sag, kapali, nS) => (sag ? (kapali ? "[" : "(") + nS + ", ∞)" : "(" + EKSI + "∞, " + nS + (kapali ? "]" : ")"));
+      const kanon = (sag, kapali, p, q) => (sag ? "S" : "L") + (kapali ? "k" : "a") + kesirYaz(p, q);
+      for (;;) {
+        const a = pick(r, [-5, -4, -3, -2, -1, 1, 2, 3, 4, 5]);
+        // Sınır: b = 0 (sıfır 0), sıfır kesirli (b, a'ya bölünmez), a < 0 (yön değişir).
+        const b = r() < 0.15 ? 0 : pick(r, [-12, -10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12]);
+        const rel = pick(r, [">", "<", "≥", "≤"]);
+        const pozIste = rel === ">" || rel === "≥", kapali = rel === "≥" || rel === "≤";
+        const sag = (a > 0) === pozIste; // istenen işaret sıfırın sağında mı
+        const nS = kesirYaz(-b, a);
+        const dogruD = kanon(sag, kapali, -b, a);
+        let ys = [
+          y(yaz(!sag, kapali, nS), "esitsizlik_yonu", "x'in katsayısı " + tam(a) + (a < 0 ? " negatif; g azalandır" : " pozitif; g artandır") + ". " + (pozIste ? "Pozitif" : "Negatif") + " olduğu yan sıfırın " + (sag ? "sağıdır." : "soludur."), kanon(!sag, kapali, -b, a)),
+          y(yaz(sag, !kapali, nS), "aralik_uc", kapali ? "\"Ya da sıfır\" istendi; g(" + nS + ") = 0 olduğundan x = " + nS + " aralığa girer." : "g(" + nS + ") = 0 olur; 0 ne pozitif ne negatiftir, " + nS + " dahil değildir.", kanon(sag, !kapali, -b, a)),
+        ];
+        if (b !== 0) {
+          ys.push(y(yaz(sag, kapali, kesirYaz(b, a)), "carpim_sifir_isaret", "Sabit terim karşıya işareti değişerek geçer; sıfır " + nS + " olur.", kanon(sag, kapali, b, a)));
+          if (Math.abs(a) !== 1) ys.push(y(yaz(sag, kapali, kesirYaz(-a, b)), "islem_hatasi", "Bölme ters yapılmış; " + dogruYaz(a, 0) + " = " + tam(-b) + " ise x = " + tam(-b) + " : " + pt(a) + ".", kanon(sag, kapali, -a, b)));
+        } else {
+          ys.push(y("(" + EKSI + "∞, ∞)", "kavram_karisikligi", dogruYaz(a, 0) + " her x için aynı işaretli değildir; x = 0'da işaret değiştirir.", "TUM"));
+        }
+        ys = ayikla(ys, dogruD);
+        if (tekilSay(ys) < 3) continue;
+        const ax = dogruYaz(a, 0);
+        const ISARET_AD = { ">": "pozitif", "<": "negatif", "≥": "pozitif ya da sıfır", "≤": "negatif ya da sıfır" };
+        return {
+          params: { a, b, rel }, baglam: null,
+          // Kitap dili (s.115): "pozitif olduğu aralık"; eşitsizlik çözme 9.2.3'ün konusu.
+          kok: "g: ℝ → ℝ, g(x) = " + dogruYaz(a, b) + " olduğuna göre g fonksiyonunun " + ISARET_AD[rel] + " (g(x) " + rel + " 0) olduğu aralık aşağıdakilerden hangisidir?",
+          dogru: yaz(sag, kapali, nS), deger: dogruD, yanlislar: ys,
+          ipuclari: [
+            "Önce fonksiyonun sıfırını bul: g(x) = 0 yap.",
+            "Sıfırın bir yanında g pozitif, öbür yanında negatiftir. Hangi yanda pozitif olduğunu x'in katsayısının işareti söyler.",
+            "İlk adım: " + dogruYaz(a, b) + " = 0" + (b === 0 ? "." : ", yani " + ax + " = " + tam(-b) + "."),
+          ],
+          cozum: [
+            ...(b === 0
+              ? ["Sıfır: " + ax + " = 0, yani x = 0."]
+              : ["Sıfır: " + dogruYaz(a, b) + " = 0, yani " + ax + " = " + tam(-b) + ".",
+                ...(a === 1 ? [] : ["x = " + tam(-b) + " : " + pt(a) + " = " + nS + "."])]),
+            "x'in katsayısı " + tam(a) + (a > 0 ? " > 0; g artandır." : " < 0; g azalandır."),
+            a > 0 ? "Artanda sıfırın solunda −, sağında + olur." : "Azalanda sıfırın solunda +, sağında − olur.",
+            (pozIste ? "Pozitif" : "Negatif") + " istendi: " + (pozIste ? "+" : "−") + " olan yan, sıfırın " + (sag ? "sağı" : "solu") + ".",
+            "g(" + nS + ") = 0.",
+            kapali ? "\"Ya da sıfır\" istendi; " + nS + " dahil." : "0 " + (pozIste ? "pozitif" : "negatif") + " değil; " + nS + " dahil değil.",
+            "Sonuç: " + yaz(sag, kapali, nS) + ".",
+          ].map((t, i) => i + 1 + ". " + t),
+        };
+      }
+    },
+    kontrol({ a, b, rel }) {
+      // Sıfırı 1/|a| adımlı ızgarada tamsayı eşitliğiyle bul, işareti sağdaki bir noktada değerlendir.
+      const q = Math.abs(a);
+      for (let k = -20 * q; k <= 20 * q; k++) {
+        if (a * k + b * q !== 0) continue;
+        const sagPoz = a * (k + 1) + b * q > 0;
+        const poz = rel === ">" || rel === "≥", kapali = rel === "≥" || rel === "≤";
+        const sag = sagPoz === poz, nS = kesirYaz(k, q);
+        return sag ? (kapali ? "[" : "(") + nS + ", ∞)" : "(" + EKSI + "∞, " + nS + (kapali ? "]" : ")");
+      }
+      return "SIFIR YOK";
+    },
+  });
+
+  kayit({
+    id: "mat-u2-iki-nokta", konu_id: "matematik-u2-k1", ogrenme_ciktisi: "9.2.1", zorluk: 2,
+    kaynak: { kitap: KITAP, sayfa: "109, 116-117" },
+    gen(r) {
+      const { pick, shuffle } = R();
+      for (;;) {
+        const a = pick(r, [-4, -3, -2, -1, 1, 2, 3, 4, 5]);
+        const b = r() < 0.15 ? 0 : pick(r, [-9, -7, -5, -4, -3, -2, -1, 1, 2, 3, 4, 6, 8]);
+        // Sınır: x1 = 0 (b doğrudan okunur), Δx = 1 (eğim = Δy), Δx > 1.
+        const [x1, x2] = shuffle(r, [-2, -1, 0, 1, 2, 3, 4]).slice(0, 2).sort((u, v) => u - v);
+        const y1 = a * x1 + b, y2 = a * x2 + b, dx = x2 - x1, dy = y2 - y1;
+        const fy = (p, q) => "g(x) = " + dogruYaz(p, q);
+        const yd = (p, q, h, ac) => y(fy(p, q), h, ac, p + "|" + q);
+        let ys = [
+          yd(-a, y1 + a * x1, "isaret_hatasi", "Eğimde farklar aynı sırayla alınır: (" + tam(y2) + " − " + pt(y1) + ") : (" + tam(x2) + " − " + pt(x1) + ")."),
+        ];
+        if (dx !== 1) ys.push(yd(dy, y1 - dy * x1, "eksik_adim", "y farkını x farkına (" + dx + ") bölme adımı eksik kalmış."));
+        if (b !== 0) ys.push(
+          yd(a, -b, "isaret_hatasi", "b'yi bulurken işareti koru: b = " + tam(y1) + " − " + pt(a * x1) + "."),
+          yd(b, a, "egim_kesisim_karistirma", "Eğim x'in katsayısıdır, sabit terim değil; a ile b'nin yeri değişmiş."),
+        );
+        // x2 = 0 ise g(0) = b kökte hazır; bu çeldirici bariz olur.
+        if (x1 !== 0 && x2 !== 0) ys.push(yd(a, y1, "kavram_karisikligi", "b, x = 0'daki değerdir; g(" + tam(x1) + ") değil."));
+        ys = ayikla(ys, a + "|" + b);
+        if (tekilSay(ys) < 3) continue;
+        return {
+          params: { x1, y1, x2, y2 }, baglam: null,
+          kok: "Doğrusal g fonksiyonu için g(" + tam(x1) + ") = " + tam(y1) + " ve g(" + tam(x2) + ") = " + tam(y2) + " olduğuna göre g(x) aşağıdakilerden hangisidir?",
+          dogru: fy(a, b), deger: a + "|" + b, yanlislar: ys,
+          ipuclari: [
+            "Doğrusal fonksiyon g(x) = ax + b biçimindedir; a ile b'yi bulacaksın.",
+            "Eğim a = y farkı : x farkı. Sonra bir noktayı yerine koyup b'yi bul.",
+            "İlk adım: y farkı, " + tam(y2) + " − " + pt(y1) + ".",
+          ],
+          cozum: [
+            "y farkı: " + tam(y2) + " − " + pt(y1) + " = " + tam(dy) + ".",
+            "x farkı: " + tam(x2) + " − " + pt(x1) + " = " + dx + ".",
+            "Eğim: a = " + tam(dy) + " : " + dx + " = " + tam(a) + ".",
+            ...(x1 === 0
+              ? ["g(0) = b olduğundan b = " + tam(y1) + "."]
+              : ["(" + tam(x1) + ", " + tam(y1) + ") noktasını yaz: " + tam(a) + " · " + pt(x1) + " + b = " + tam(y1) + ".",
+                tam(a * x1) + " + b = " + tam(y1) + " olur.",
+                "b = " + tam(y1) + " − " + pt(a * x1) + " = " + tam(b) + "."]),
+            "g(x) = " + dogruYaz(a, b) + ".",
+            "Kontrol: g(" + tam(x2) + ") = " + tam(a) + " · " + pt(x2) + (b ? (b > 0 ? " + " : " − ") + Math.abs(b) : "") + " = " + tam(y2) + ".",
+          ].map((t, i) => i + 1 + ". " + t),
+        };
+      }
+    },
+    kontrol({ x1, y1, x2, y2 }) {
+      const bul = [];
+      for (let a = -30; a <= 30; a++) for (let b = -60; b <= 60; b++) if (a * x1 + b === y1 && a * x2 + b === y2) bul.push("g(x) = " + dogruYaz(a, b));
+      return bul.length === 1 ? bul[0] : "ÇÖZÜM SAYISI " + bul.length;
+    },
+  });
+
+  // Fonksiyon yazımları: std ax + b, onde b ± ax (sabit önde), kay a(x − r) + k, sabit.
+  const fMetin = f => {
+    if (f.bic === "sabit") return "g(x) = " + tam(f.b);
+    if (f.bic === "std") return "g(x) = " + dogruYaz(f.a, f.b);
+    if (f.bic === "onde") return "g(x) = " + tam(f.b) + (f.a > 0 ? " + " : " − ") + (Math.abs(f.a) === 1 ? "" : Math.abs(f.a)) + "x";
+    const ic = "(x " + (f.r > 0 ? "− " + f.r : "+ " + -f.r) + ")";
+    return "g(x) = " + (f.a === 1 ? "" : f.a === -1 ? EKSI : tam(f.a)) + ic + (f.k ? (f.k > 0 ? " + " : " − ") + Math.abs(f.k) : "");
+  };
+  const fDeger = (f, x) => (f.bic === "sabit" ? f.b : f.bic === "kay" ? f.a * (x - f.r) + f.k : f.b + f.a * x);
+  const TUR_AD = { artan: "artandır", azalan: "azalandır", sabit: "sabit fonksiyondur" };
+  const KISA = { artan: "artandır", azalan: "azalandır", sabit: "sabittir" };
+  // Yer adı + bulunma eki (ses uyumu elle).
+  const YER_DE = ["Gölcük'te", "İzmit'te", "Karamürsel'de", "Değirmendere'de", "Gebze'de", "Derince'de", "Kartepe'de", "Başiskele'de"];
+
+  kayit({
+    id: "mat-u2-artan-azalan", konu_id: "matematik-u2-k1", ogrenme_ciktisi: "9.2.1", zorluk: 1,
+    kaynak: { kitap: KITAP, sayfa: "100, 110, 115" },
+    gen(r) {
+      const { pick, rint, shuffle } = R();
+      const tur = pick(r, ["artan", "azalan", "azalan", "artan", "sabit"]);
+      const m = () => rint(r, 2, 5), n = () => rint(r, 2, 9);
+      const katsayi = f => (f.bic === "sabit" ? 0 : f.a);
+      const acin = f => (f.bic === "kay" ? "parantezi açınca " + dogruYaz(f.a, fDeger(f, 0)) + " olur; " : "");
+      const egimYaz = f => acin(f) + "x'in katsayısı " + tam(katsayi(f));
+      let dogruF, tuzak;
+      for (;;) {
+        if (tur === "sabit") {
+          // Sınır: g(x) = 0 da sabit fonksiyondur.
+          const c = r() < 0.15 ? 0 : pick(r, [-6, -4, -3, -2, 2, 3, 5, 7, 8]), c2 = n();
+          dogruF = { bic: "sabit", b: c };
+          tuzak = [
+            [{ bic: "std", a: c2, b: 0 }, "kavram_karisikligi", "Bu fonksiyonda x var ve katsayısı " + c2 + "; sabit değil, artandır."],
+            [{ bic: "std", a: 1, b: c2 }, "kavram_karisikligi", "Sabit terim olması yetmez; x'in katsayısı 1, fonksiyon artandır."],
+            [{ bic: "onde", a: -1, b: c2 }, "kavram_karisikligi", "x'in katsayısı " + EKSI + "1; fonksiyon azalandır, sabit değildir."],
+            [{ bic: "std", a: -c2, b: 0 }, "kavram_karisikligi", "x'in katsayısı " + tam(-c2) + "; sabit fonksiyonda x'in katsayısı 0'dır."],
+          ];
+        } else {
+          const s = tur === "artan" ? 1 : -1;
+          const bic = pick(r, ["std", "onde", "kay"]);
+          const a = s * m(), bb = bic === "onde" ? -s * n() : pick(r, [-7, -5, -3, 0, 2, 4, 6]), rr = pick(r, [-3, -2, -1, 1, 2, 4]);
+          dogruF = bic === "kay" ? { bic, a, r: rr, k: pick(r, [-4, -1, 0, 3, 5]) } : { bic, a, b: bic === "onde" && bb === 0 ? -s * 3 : bb };
+          // Tuzaklar istenen türün tersindedir; her biri gerçek bir okuma hatası.
+          tuzak = [
+            [{ bic: "onde", a: -s * m(), b: s * n() }, "isaret_hatasi", "Baştaki sayı sabit terimdir; x'in katsayısının işaretine bak."],
+            [{ bic: "std", a: -s * m(), b: s * n() }, "egim_kesisim_karistirma", "Artan ya da azalan olmayı sabit terim değil, x'in katsayısı belirler."],
+            [{ bic: "sabit", b: s * n() }, "kavram_karisikligi", "Sabit fonksiyon ne artan ne azalandır."],
+            (kr => [{ bic: "kay", a: -s * m(), r: kr, k: s * n() }, "kavram_karisikligi",
+              "(x " + (kr > 0 ? "− " + kr : "+ " + -kr) + "): grafik " + Math.abs(kr) + " birim " + (kr > 0 ? "sağa" : "sola") + " kayar. Kayma artanlığı değiştirmez."])(s * pick(r, [1, 2, 3, 4])),
+          ];
+        }
+        tuzak = shuffle(r, tuzak).slice(0, 3); // şıkta görünen üç tuzak; çözüm hepsini tek tek açıklar
+        const anahtarlar = [dogruF, ...tuzak.map(t => t[0])].map(f => katsayi(f) + "|" + fDeger(f, 0));
+        if (new Set(anahtarlar).size === anahtarlar.length) break;
+      }
+      const kanon = f => katsayi(f) + "|" + fDeger(f, 0);
+      const yanlislar = tuzak.map(([f, h, ac]) => y(fMetin(f), h, (tur === "sabit" ? "" : egimYaz(f).replace(/^p/, "P") + ". ") + ac, kanon(f)));
+      const tumF = [dogruF, ...tuzak.map(t => t[0])];
+      const kural = f => (katsayi(f) > 0 ? "artan" : katsayi(f) < 0 ? "azalan" : "sabit");
+      return {
+        params: { tur, fonks: tumF }, baglam: null,
+        kok: "Aşağıdaki doğrusal fonksiyonlardan hangisi " + TUR_AD[tur] + "?",
+        dogru: fMetin(dogruF), deger: kanon(dogruF), yanlislar,
+        ipuclari: [
+          "Her fonksiyonu ax + b biçiminde düşün; x'in katsayısı a'yı bul.",
+          "a > 0 ise artan, a < 0 ise azalan, a = 0 ise sabit fonksiyondur.",
+          "Şıklarda x'in katsayısını işaretiyle yaz; sabit terime ve parantez içindeki sayıya bakma.",
+        ],
+        cozum: [
+          ...tumF.map(f => fMetin(f) + ": " + egimYaz(f) + "; fonksiyon " + KISA[kural(f)] + "."),
+          "Sonuç: " + fMetin(dogruF) + " " + TUR_AD[tur] + ".",
+        ].map((t, i) => i + 1 + ". " + t),
+      };
+    },
+    kontrol({ tur, fonks }) {
+      // Kuralı kullanmadan: x = 0 ve x = 1'deki değerleri karşılaştır.
+      const uyan = fonks.filter(f => {
+        const fark = fDeger(f, 1) - fDeger(f, 0);
+        return tur === "artan" ? fark > 0 : tur === "azalan" ? fark < 0 : fark === 0 && fDeger(f, 7) === fDeger(f, -3);
+      });
+      return uyan.length === 1 ? fMetin(uyan[0]) : "UYAN SAYISI " + uyan.length;
+    },
+  });
+
+  kayit({
+    id: "mat-u2-baglam-model", konu_id: "matematik-u2-k1", ogrenme_ciktisi: "9.2.1", zorluk: 3,
+    kaynak: { kitap: KITAP, sayfa: "105-106, 109, 117" },
+    gen(r) {
+      const { pick, rint } = R();
+      const mod = pick(r, ["taksi_ucret", "taksi_km", "bos_x", "bos_y", "dolum_x"]);
+      const yer = pick(r, YER_DE);
+      const sy = v => sayiYaz(v);
+      for (;;) {
+        let params, baglam, kok, d, ys, ipuclari, cozum;
+        const yv = (v, h, ac) => y(sy(v), h, ac, v);
+        if (mod.startsWith("taksi")) {
+          // 2026 için makul: açılış 40–60 TL, km 30–45 TL.
+          const A = pick(r, [40, 45, 50, 55, 60]), k = pick(r, [30, 35, 40, 45]), x = rint(r, 3, 15), U = A + k * x;
+          baglam = yer + " bir taksinin açılış ücreti " + A + " TL, kilometre başına ücreti " + k + " TL'dir.";
+          const model = "u(x) = " + k + "x + " + A;
+          if (mod === "taksi_ucret") {
+            params = { mod, A, k, x };
+            kok = "Buna göre " + x + " km yol giden bir yolcu kaç TL öder?";
+            d = U;
+            ys = [
+              yv(k * x, "eksik_adim", "Kilometre ücretini buldun ama " + A + " TL açılış ücretini eklemedin."),
+              yv(A * x + k, "kavram_karisikligi", "Açılış ücreti bir kez, kilometre ücreti her kilometre için ödenir."),
+              yv((A + k) * x, "islem_hatasi", "Açılış ücreti her kilometrede değil, yalnız bir kez eklenir."),
+            ];
+            ipuclari = [
+              "Ücret iki parçadan oluşur: bir kez ödenen açılış ücreti ve her kilometre için ödenen ücret.",
+              "Model: u(x) = (km ücreti) · x + (açılış ücreti).",
+              "İlk adım: km ücreti " + k + " TL'yi " + x + " km ile çarp.",
+            ];
+            cozum = ["Model: " + model + ".", "Kilometre ücreti: " + k + " · " + x + " = " + k * x + " TL.", "Açılış eklenir: " + k * x + " + " + A + " = " + U + " TL."];
+          } else {
+            params = { mod, A, k, U };
+            kok = "Buna göre " + U + " TL ödeyen bir yolcu kaç km yol gitmiştir?";
+            d = x;
+            ys = [
+              yv((U + A) / k, "isaret_hatasi", "Açılış ücretini toplamdan çıkarmalısın, eklememelisin."),
+              yv(U / k, "eksik_adim", "Önce " + A + " TL açılış ücretini toplamdan çıkar."),
+              yv(U - A, "eksik_adim", "Kalan " + (U - A) + " TL'yi kilometre ücretine bölme adımı eksik kalmış."),
+              yv((U - k) / A, "kavram_karisikligi", "Açılış ücreti ile kilometre ücretinin yeri değişmiş."),
+            ].filter(o => okunakli(o.deger));
+            ipuclari = [
+              "Ödenen ücret, açılış ücreti ile kilometre ücretlerinin toplamıdır.",
+              "Model u(x) = " + k + "x + " + A + "; u(x) = " + U + " denklemini çöz.",
+              "İlk adım: " + k + "x = " + U + " − " + A + ".",
+            ];
+            cozum = ["Model: " + model + ".", k + "x + " + A + " = " + U + " ⇒ " + k + "x = " + (U - A) + ".", "x = " + (U - A) + " : " + k + " = " + x + " km."];
+          }
+        } else if (mod.startsWith("bos")) {
+          const cift = [[500, 10], [600, 10], [600, 15], [600, 20], [800, 10], [800, 20], [900, 15], [1000, 20], [1000, 25], [1200, 15], [1200, 20]];
+          const [V, rr] = pick(r, cift), T = V / rr;
+          baglam = yer + " bir evin çatısındaki depoda " + V + " litre su var. Musluk açılınca depodan dakikada " + rr + " litre su akıyor.";
+          const model = "d(x) = " + V + " − " + rr + "x";
+          if (mod === "bos_y") {
+            const x = rint(r, 2, T - 2);
+            params = { mod, V, rr, x };
+            kok = "Buna göre musluk açıldıktan " + x + " dakika sonra depoda kaç litre su kalır?";
+            d = V - rr * x;
+            ys = [
+              yv(V + rr * x, "isaret_hatasi", "Depo boşalıyor; akan su eklenmez, çıkarılır."),
+              yv(rr * x, "okuma_hatasi", "Akan suyu buldun; soru depoda kalan suyu soruyor."),
+              yv(V - x, "eksik_adim", "Dakika sayısını dakikada akan " + rr + " litre ile çarpma adımı eksik kalmış."),
+            ];
+            ipuclari = [
+              "Depodaki su her dakika aynı miktarda azalıyor; bu bir doğrusal fonksiyondur.",
+              "Model: d(x) = (başlangıçtaki su) − (dakikada akan) · x.",
+              "İlk adım: dakikada akan " + rr + " litreyi " + x + " dakika ile çarp.",
+            ];
+            cozum = ["Model: " + model + ".", "Akan su: " + rr + " · " + x + " = " + rr * x + " litre.", "Kalan: " + V + " − " + rr * x + " = " + d + " litre."];
+          } else {
+            // Sınır: L = 0, fonksiyonun sıfırı (depo boşalır).
+            const x0 = r() < 0.4 ? T : rint(r, 3, T - 3), L = V - rr * x0;
+            params = { mod, V, rr, L };
+            kok = L === 0 ? "Buna göre depo kaç dakikada tamamen boşalır?" : "Buna göre musluk açıldıktan kaç dakika sonra depoda " + L + " litre su kalır?";
+            d = x0;
+            ys = [
+              yv((V + L) / rr, "isaret_hatasi", "Kalan suyu başlangıçtaki sudan çıkar: " + V + " − " + L + "."),
+              yv(V - L, "eksik_adim", "Akan " + (V - L) + " litreyi dakikada akan " + rr + " litreye bölme adımı eksik kalmış."),
+            ];
+            if (L > 0) ys.push(yv(L / rr, "okuma_hatasi", "Kalan suyu böldün; akması gereken su " + V + " − " + L + " litredir."));
+            else ys.push(
+              yv(V * rr, "islem_hatasi", "Süreyi bulmak için " + V + " litre " + yonelme(rr) + " bölünür, çarpılmaz."),
+              yv(V - rr, "islem_hatasi", "Süreyi bulmak için " + V + " litre " + yonelme(rr) + " bölünür, çıkarılmaz."),
+            );
+            ys = ys.filter(o => okunakli(o.deger));
+            ipuclari = [
+              L === 0 ? "Depo boşalınca d(x) = 0 olur; fonksiyonun sıfırını bul." : "Depoda " + L + " litre kalınca d(x) = " + L + " olur.",
+              "Model: d(x) = " + V + " − " + rr + "x. Denklemi kur ve x'i yalnız bırak.",
+              "İlk adım: " + V + " − " + rr + "x = " + L + ".",
+            ];
+            cozum = ["Model: " + model + ".", V + " − " + rr + "x = " + L + " ⇒ " + rr + "x = " + (V - L) + ".", "x = " + (V - L) + " : " + rr + " = " + x0 + " dakika."];
+          }
+        } else {
+          const b0 = pick(r, [100, 150, 200, 250, 300]), rr = pick(r, [10, 15, 20, 25]);
+          const x0 = rint(r, 8, 40), L = b0 + rr * x0;
+          if (L > 1200) continue;
+          params = { mod, b0, rr, L };
+          baglam = yer + " bir su deposunda " + b0 + " litre su var. Depoya dakikada " + rr + " litre su dolduruluyor.";
+          kok = "Buna göre kaç dakika sonra depodaki su " + L + " litre olur?";
+          d = x0;
+          ys = [
+            yv(L / rr, "eksik_adim", "Depoda baştan olan " + b0 + " litreyi hesaba katmadın."),
+            yv((L + b0) / rr, "isaret_hatasi", "Baştaki " + b0 + " litre toplamdan çıkarılır, eklenmez."),
+            yv(L - b0, "eksik_adim", "Doldurulacak " + (L - b0) + " litreyi dakikada " + rr + " litreye bölme adımı eksik kalmış."),
+          ].filter(o => okunakli(o.deger));
+          ipuclari = [
+            "Depodaki su her dakika aynı miktarda artıyor; başlangıçta da su var.",
+            "Model: h(x) = " + rr + "x + " + b0 + ". h(x) = " + L + " denklemini çöz.",
+            "İlk adım: " + rr + "x = " + L + " − " + b0 + ".",
+          ];
+          cozum = ["Model: h(x) = " + rr + "x + " + b0 + ".", rr + "x + " + b0 + " = " + L + " ⇒ " + rr + "x = " + (L - b0) + ".", "x = " + (L - b0) + " : " + rr + " = " + x0 + " dakika."];
+        }
+        ys = ayikla(ys, d);
+        if (tekilSay(ys) < 3) continue;
+        return { params, baglam, kok, dogru: sy(d), deger: d, yanlislar: ys, ipuclari, cozum: cozum.map((t, i) => i + 1 + ". " + t) };
+      }
+    },
+    kontrol(p) {
+      // Model formülü yerine adım adım benzetim: her km / dakika için tutarı güncelle.
+      let t = 0, v;
+      if (p.mod === "taksi_ucret") { v = p.A; for (; t < p.x; t++) v += p.k; return sayiYaz(v); }
+      if (p.mod === "taksi_km") { v = p.A; while (v < p.U) { v += p.k; t++; } return v === p.U ? sayiYaz(t) : "YOK"; }
+      if (p.mod === "bos_y") { v = p.V; for (; t < p.x; t++) v -= p.rr; return sayiYaz(v); }
+      if (p.mod === "bos_x") { v = p.V; while (v > p.L) { v -= p.rr; t++; } return v === p.L ? sayiYaz(t) : "YOK"; }
+      v = p.b0; while (v < p.L) { v += p.rr; t++; } return v === p.L ? sayiYaz(t) : "YOK";
+    },
+  });
 })();

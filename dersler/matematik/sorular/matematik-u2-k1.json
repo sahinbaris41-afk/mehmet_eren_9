@@ -1,0 +1,1029 @@
+{
+ "konu_id": "matematik-u2-k1",
+ "surum": 2,
+ "sorular": [
+  {
+   "id": "matematik-u2-k1-s001",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "a",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "f: ℝ → ℝ, f(x) = x olmak üzere f(−7) + f(3) toplamı ______ olur.",
+   "secenekler": null,
+   "cevap": "−4",
+   "kabul_edilenler": [
+    "−4",
+    "-4"
+   ],
+   "yanlis_aciklama": "f(x) = x sayıyı değiştirmez; f(−7) = −7 olduğu için eksi işareti korunur.",
+   "ipuclari": [
+    "f(x) = x, gelen sayıyı aynen geri verir.",
+    "Önce iki değeri ayrı ayrı bul, sonra topla.",
+    "f(−7) = −7 olur. Şimdi f(3)'ü yaz ve ikisini toplamaya hazırlan."
+   ],
+   "cozum_adimlari": [
+    "1. f(−7) = −7.",
+    "2. f(3) = 3.",
+    "3. −7 + 3 = −4."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.93",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s002",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "b",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "(−2, −2) noktası, f: ℝ → ℝ, f(x) = x fonksiyonunun grafiği üzerindedir.",
+   "secenekler": null,
+   "cevap": true,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "f(−2) = −2 olduğu için (−2, −2) noktası grafiğin üzerindedir; eksi işaretli nokta da grafiğe girer.",
+   "ipuclari": [
+    "Noktanın birinci sayısı x, ikinci sayısı f(x)'tir.",
+    "Grafikteki her noktada iki koordinat birbirine eşit olmalıdır.",
+    "x = −2 için f(−2) değerini hesapla; sonra noktanın ikinci sayısıyla karşılaştır."
+   ],
+   "cozum_adimlari": [
+    "1. Noktada x = −2 ve y = −2'dir.",
+    "2. f(−2) = −2 bulunur.",
+    "3. y = f(x) olduğundan nokta grafiğin üzerindedir.",
+    "4. İfade doğrudur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.93",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s003",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "f: [−2, 6] → ℝ, f(x) = x fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "[−2, 6]",
+     "dogru": true
+    },
+    {
+     "metin": "(−2, 6)",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "Uçlar tanım kümesine dahil; f(−2) = −2 ve f(6) = 6 da görüntüye girer."
+    },
+    {
+     "metin": "ℝ",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "Fonksiyon yalnız [−2, 6]'da tanımlı; görüntü de bu aralıktaki x'lerden gelir."
+    },
+    {
+     "metin": "[2, 6]",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "f(−2) = −2'dir; sol uçtaki eksi işareti kaybolmamalı."
+    }
+   ],
+   "cevap": "[−2, 6]",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Görüntü kümesi, f(x)'in aldığı değerlerdir.",
+    "Uçlardaki değerleri hesapla; f(x) = x artan olduğu için öteki değerler aradadır.",
+    "Önce sol uçtaki f(−2)'yi bul; köşeli parantezin ne söylediğine bak."
+   ],
+   "cozum_adimlari": [
+    "1. Tanım kümesi [−2, 6]; iki uç da dahildir.",
+    "2. f(−2) = −2.",
+    "3. f(6) = 6.",
+    "4. f artan olduğundan değerler −2 ile 6 arasında kalır.",
+    "5. Görüntü kümesi [−2, 6] olur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "okuma_hatasi",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.95",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s004",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "ğ",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük'te bir teknenin yakıt deposunda 36 litre yakıt var. Tekne her gün 3 litre yakıt harcıyor. Depoda 18 litre kalınca tekne yakıt alıyor. Gün sayısına (x) bağlı yakıt miktarı (litre) y(x) = −3x + 36 ile verilir.",
+   "kok": "Buna göre y fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "[18, 36]",
+     "dogru": true
+    },
+    {
+     "metin": "[0, 6]",
+     "dogru": false,
+     "hata_turu": "tanim_goruntu_karistirma",
+     "aciklama": "[0, 6] günleri gösteren tanım kümesidir; görüntü kümesi yakıt değerleridir."
+    },
+    {
+     "metin": "[0, 36]",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "Yakıt 0'a inmiyor; 18 litre kalınca tekne yakıt alıyor."
+    },
+    {
+     "metin": "[36, 54]",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "y(6) hesaplanırken −3 yerine 3 alınmış; yakıt artmıyor, azalıyor."
+    }
+   ],
+   "cevap": "[18, 36]",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Görüntü kümesi, yakıtın (litre) aldığı değerlerdir.",
+    "Yakıtın başladığı değeri ve indiği en düşük değeri bağlamdan bul.",
+    "Önce x = 0 için y(0) = −3 · 0 + 36 işlemini yap."
+   ],
+   "cozum_adimlari": [
+    "1. Başlangıçta y(0) = −3 · 0 + 36 = 36 litre.",
+    "2. 18 litre kalınca yakıt alınır: −3x + 36 = 18.",
+    "3. −3x = −18.",
+    "4. x = 6; tanım kümesi [0, 6] olur.",
+    "5. y azalandır; değerler 36'dan 18'e iner.",
+    "6. Görüntü kümesi [18, 36] olur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "tanim_goruntu_karistirma",
+    "okuma_hatasi",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.116",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s005",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "a",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "f: ℝ → ℝ, f(x) = x fonksiyonu, (0, ∞) aralığındaki her x için pozitiftir.",
+   "secenekler": null,
+   "cevap": true,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "(0, ∞)'da x > 0'dır; f(x) = x olduğundan f(x) de pozitiftir.",
+   "ipuclari": [
+    "Aralığın sol ucuna bak: normal parantez 0'ı dışarıda bırakır.",
+    "Aralıktaki her x, 0'dan büyük mü, düşün.",
+    "Aralıktan bir sayı seç, örneğin 0,1; f(0,1) değerini hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. (0, ∞) aralığında x > 0'dır.",
+    "2. f(x) = x olduğundan f(x) > 0'dır.",
+    "3. İfade doğrudur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.96",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s006",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "h",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": "Ece, f(x) = x için f(2) = 2 ve f(5) = 5 değerlerini hesapladı. 2 < 5 iken f(2) < f(5) çıktığını gördü.",
+   "kok": "Ece'nin bu hesabı, f fonksiyonunun gerçek sayılarda artan olduğunu kanıtlar.",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "Tek bir sayı çifti yetmez; artanlık her a < b için f(a) < f(b) gösterilerek kanıtlanır.",
+   "ipuclari": [
+    "Artan tanımındaki “her” (∀) kelimesine dikkat et.",
+    "Kanıt, seçilen her iki sayı için çalışmalıdır; bu yüzden harflerle yazılır.",
+    "Tanım 'her a, b' diyor. Ece'nin denediği sayılar 'her a, b' kadar mı?"
+   ],
+   "cozum_adimlari": [
+    "1. Tanım: ∀a, b ∈ ℝ için a < b iken f(a) < f(b) olmalıdır.",
+    "2. Ece yalnız bir sayı çifti (2 ve 5) denedi.",
+    "3. Bir örnek, bütün sayı çiftlerini göstermez.",
+    "4. İfade yanlıştır; kanıt a ve b harfleriyle yapılır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "tek_ornekle_ispat"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.96",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s007",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "h",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "g: ℝ → ℝ, g(x) = −3x fonksiyonunun artan ya da azalan olduğunu tanıma uygun gösteren seçenek hangisidir?",
+   "secenekler": [
+    {
+     "metin": "Azalandır; çünkü c < d iken −3c > −3d olur.",
+     "dogru": true
+    },
+    {
+     "metin": "Artandır; çünkü c < d iken −3c < −3d olur.",
+     "dogru": false,
+     "hata_turu": "esitsizlik_yonu",
+     "aciklama": "Eşitsizliğin iki tarafını negatif sayıyla çarpınca yön değişir."
+    },
+    {
+     "metin": "Artandır; çünkü g(−1) = −3 ve g(1) = 3 olur.",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "−3 · (−1) = 3 olur; eksi ile eksinin çarpımı artıdır."
+    },
+    {
+     "metin": "Azalandır; çünkü g(1) = −3 > g(2) = −6 olur.",
+     "dogru": false,
+     "hata_turu": "tek_ornekle_ispat",
+     "aciklama": "Sonuç doğru ama tek sayı çifti gerekçe olmaz; her c < d için gösterilmeli."
+    }
+   ],
+   "cevap": "Azalandır; çünkü c < d iken −3c > −3d olur.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Tanım, her c < d için g(c) ile g(d)'yi karşılaştırır.",
+    "c < d eşitsizliğinin iki tarafını −3 ile çarp; negatif çarpanda yöne dikkat et.",
+    "c < d yaz ve iki tarafı −3 ile çarpmaya hazırlan: −3c ? −3d."
+   ],
+   "cozum_adimlari": [
+    "1. c, d ∈ ℝ ve c < d alalım.",
+    "2. İki tarafı −3 ile çarpalım.",
+    "3. Negatif sayıyla çarpınca yön değişir: −3c > −3d.",
+    "4. Yani g(c) > g(d) olur.",
+    "5. c < d iken g(c) > g(d) olduğundan g azalandır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "esitsizlik_yonu",
+    "isaret_hatasi",
+    "tek_ornekle_ispat"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.100",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s008",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "h",
+   "tip": "acik",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": null,
+   "kok": "g: ℝ → ℝ, g(x) = 3x + 1 fonksiyonunun bire bir olduğunu tanımı kullanarak gösteriniz. (10 puan)",
+   "secenekler": null,
+   "cevap": "1. a, b ∈ ℝ için g(a) = g(b) olsun. 2. 3a + 1 = 3b + 1 yazılır. 3. İki taraftan 1 çıkarılır: 3a = 3b. 4. İki taraf 3'e bölünür: a = b. 5. g(a) = g(b) ⇒ a = b sağlandığından g bire birdir.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Bire bir tanımını hatırla: aynı çıktıyı veren iki x aynı sayı olmalıdır.",
+    "g(a) = g(b) olduğunu kabul et ve a = b'ye ulaşmaya çalış.",
+    "g(a) = g(b) kabulünü yaz; sonra iki tarafı 3a + 1 = ... biçiminde aç."
+   ],
+   "cozum_adimlari": [
+    "1. a, b ∈ ℝ için g(a) = g(b) olduğunu kabul edelim.",
+    "2. 3a + 1 = 3b + 1 yazılır.",
+    "3. İki taraftan 1 çıkarılır: 3a = 3b.",
+    "4. İki taraf 3'e bölünür: a = b.",
+    "5. g(a) = g(b) ⇒ a = b sağlandı; g bire birdir."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a, b ∈ ℝ harfleriyle g(a) = g(b) kabulünü yazma.",
+     "puan": 3
+    },
+    {
+     "olcut": "Kabulü 3a + 1 = 3b + 1 biçiminde açma.",
+     "puan": 2
+    },
+    {
+     "olcut": "Doğru işlemlerle a = b sonucuna ulaşma.",
+     "puan": 3
+    },
+    {
+     "olcut": "Tanıma göre g'nin bire bir olduğunu belirten sonuç cümlesi (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    }
+   ],
+   "puanlama_notu": "a ≠ b ⇒ g(a) ≠ g(b) yoluyla yapılan doğru gösterim de tam puan alır. Yalnız sayı örnekleriyle yapılan gösterim kabul puanı almaz.",
+   "hata_turu": [
+    "tek_ornekle_ispat"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.96, 118",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s009",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "f: (−3, 4] → ℝ, f(x) = x fonksiyonu için aşağıdakilerden hangisi doğrudur?",
+   "secenekler": [
+    {
+     "metin": "Maksimum değer 4'tür; minimum değer yoktur.",
+     "dogru": true
+    },
+    {
+     "metin": "Maksimum değer 4'tür; minimum değer −3'tür.",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "−3 tanım kümesinde yok; −3'e yaklaşan her sayıdan daha küçüğü vardır."
+    },
+    {
+     "metin": "Maksimum değer yoktur; minimum değer −3'tür.",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "Parantezler ters okunmuş; 4 dahil, −3 dahil değildir."
+    },
+    {
+     "metin": "Maksimum değer de minimum değer de yoktur.",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "Sağ uçta köşeli parantez var; 4 dahildir ve f(4) = 4 en büyük değerdir."
+    }
+   ],
+   "cevap": "Maksimum değer 4'tür; minimum değer yoktur.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Her uçta hangi parantez var, ayrı ayrı oku.",
+    "f(x) = x artan; en büyük değer sağ uçta, en küçük değer sol uçta aranır.",
+    "Sağ uç 4 köşeli parantezle verilmiş; önce f(4)'ü hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. Sağ uçta köşeli parantez var; 4 dahildir.",
+    "2. f(4) = 4 ve f artan olduğu için maksimum değer 4'tür.",
+    "3. Sol uçta normal parantez var; −3 dahil değildir.",
+    "4. −3'e yaklaşan her sayıdan daha küçüğü vardır.",
+    "5. Bu yüzden minimum değer yoktur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.94",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s010",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "d",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 10,
+   "baglam": "g: [−1, 3) → ℝ, g(x) = 2x + 1 fonksiyonu veriliyor.",
+   "kok": "g fonksiyonunun görüntü kümesini işlemlerinizi göstererek bulunuz. Maksimum ve minimum değerinin olup olmadığını açıklayınız. (10 puan)",
+   "secenekler": null,
+   "cevap": "1. a = 2 > 0 olduğu için g artandır. 2. g(−1) = 2 · (−1) + 1 = −1. 3. g(3) = 2 · 3 + 1 = 7. 4. −1 dahil, 3 dahil değil; görüntü kümesi [−1, 7). 5. Minimum değer −1'dir; x = −1'de alınır. 6. 3 tanım kümesinde olmadığı için 7 alınamaz; 7'ye yaklaşan her değerden daha büyüğü vardır. 7. Maksimum değer yoktur.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Önce uçlardaki değerleri hesapla; parantezlere dikkat et.",
+    "a = 2 > 0 olduğu için g artandır; en küçük değer sol uçtadır.",
+    "Sol uçla başla: g(−1) = 2 · (−1) + 1 işlemini yap."
+   ],
+   "cozum_adimlari": [
+    "1. a = 2 > 0 olduğu için g artandır.",
+    "2. g(−1) = 2 · (−1) + 1 = −1.",
+    "3. g(3) = 2 · 3 + 1 = 7.",
+    "4. −1 dahil, 3 dahil değil; görüntü kümesi [−1, 7) olur.",
+    "5. Minimum değer −1'dir; x = −1'de alınır.",
+    "6. 7 alınamaz; 7'ye yaklaşan her değerden daha büyüğü vardır.",
+    "7. Maksimum değer yoktur."
+   ],
+   "rubrik": [
+    {
+     "olcut": "Uç değerleri doğru hesaplama: g(−1) = −1 ve g(3) = 7.",
+     "puan": 2
+    },
+    {
+     "olcut": "g'nin artan olduğunu belirtme (a = 2 > 0).",
+     "puan": 2
+    },
+    {
+     "olcut": "Görüntü kümesini [−1, 7) olarak uç durumlarıyla doğru yazma.",
+     "puan": 2
+    },
+    {
+     "olcut": "Minimum değeri −1 olarak bulma.",
+     "puan": 2
+    },
+    {
+     "olcut": "Maksimum değer olmadığını açık uçla gerekçelendirme (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    }
+   ],
+   "puanlama_notu": "Görüntü kümesini [−1, 7] yazan öğrenci o ölçütün puanını alamaz; öteki ölçütler ayrı puanlanır.",
+   "hata_turu": [
+    "aralik_uc",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.94, 115",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s011",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "c",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "m: ℝ → ℝ, m(x) = −2x olmak üzere m(−3) = ______ olur.",
+   "secenekler": null,
+   "cevap": "6",
+   "kabul_edilenler": [
+    "6",
+    "+6"
+   ],
+   "yanlis_aciklama": "−2 · (−3) çarpımında eksi ile eksi artı verir; sonuç pozitiftir.",
+   "ipuclari": [
+    "m(x) = −2x, her sayıyı −2 katı ile eşler.",
+    "x yerine −3 yaz.",
+    "−2 · (−3) işlemini yaz; önce işaretlerin çarpımına bak."
+   ],
+   "cozum_adimlari": [
+    "1. x yerine −3 yazılır: m(−3) = −2 · (−3).",
+    "2. Eksi ile eksinin çarpımı artıdır.",
+    "3. 2 · 3 = 6; m(−3) = 6."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.98",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s012",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "g(x) = 2x − 3 doğrusu, f(x) = x doğrusundan hangi adımlarla elde edilir?",
+   "secenekler": [
+    {
+     "metin": "Önce 2x çizilir; sonra her nokta 3 birim aşağı taşınır.",
+     "dogru": true
+    },
+    {
+     "metin": "Önce 2x çizilir; sonra her nokta 3 birim yukarı taşınır.",
+     "dogru": false,
+     "hata_turu": "oteleme_yonu",
+     "aciklama": "Sabit terim −3 negatif; her nokta aşağı taşınır."
+    },
+    {
+     "metin": "Önce 3x çizilir; sonra her nokta 2 birim aşağı taşınır.",
+     "dogru": false,
+     "hata_turu": "egim_kesisim_karistirma",
+     "aciklama": "x'in katsayısı 2 doğrunun dikliğini, sabit terim −3 kaymayı belirler."
+    },
+    {
+     "metin": "Yalnız 2x çizilir; başka bir şey yapılmaz.",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "Bu adımla yalnız 2x çizilir; −3 için her nokta 3 birim aşağı taşınmalı."
+    }
+   ],
+   "cevap": "Önce 2x çizilir; sonra her nokta 3 birim aşağı taşınır.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Kitaptaki iki adımı düşün: önce ax çizilir, sonra doğru kaydırılır.",
+    "x'in katsayısı dikliği, sabit terim kaymayı verir.",
+    "Önce katsayıyı oku: 2x − 3'te x'in önünde hangi sayı var?"
+   ],
+   "cozum_adimlari": [
+    "1. x'in katsayısı 2'dir; önce m(x) = 2x çizilir.",
+    "2. Sabit terim −3'tür.",
+    "3. −3 < 0 olduğundan her nokta 3 birim aşağı taşınır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "oteleme_yonu",
+    "egim_kesisim_karistirma",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.115",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s013",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "ğ",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'te bir taksiye binince taksimetre 50 TL açılış ücreti yazıyor. Sonra her kilometre için ücrete 30 TL ekleniyor. Alınan yol x km, ödenen ücret u(x) TL'dir.",
+   "kok": "Buna göre aşağıdakileri işlemlerinizi göstererek bulunuz. a) u(x) fonksiyonunu yazınız. b) 6 km'lik yolculuğun ücretini bulunuz. c) 320 TL ödeyen yolcunun kaç km yol aldığını bulunuz. ç) u fonksiyonunun artan mı azalan mı olduğunu eğimle açıklayınız. (15 puan)",
+   "secenekler": null,
+   "cevap": "a) u(x) = 30x + 50. b) u(6) = 30 · 6 + 50 = 230 TL. c) 30x + 50 = 320 ⇒ 30x = 270 ⇒ x = 9 km. ç) Eğim 30 > 0 olduğu için u artandır; her kilometrede ücret 30 TL artar.",
+   "kabul_edilenler": [
+    "u(x) = 50 + 30x",
+    "230 TL",
+    "9 km"
+   ],
+   "ipuclari": [
+    "Sabit kalan ücret ile her kilometrede eklenen ücreti ayır.",
+    "Doğrusal model: u(x) = (km başına ücret) · x + (açılış ücreti).",
+    "Yol 0 km iken ücret ne kadar? Bu sayı sabit terim olur; önce onu yaz."
+   ],
+   "cozum_adimlari": [
+    "1. Açılış ücreti sabit terimdir: 50.",
+    "2. Km başına ücret x'in katsayısıdır: 30.",
+    "3. a) u(x) = 30x + 50.",
+    "4. b) u(6) = 30 · 6 + 50.",
+    "5. 180 + 50 = 230 TL.",
+    "6. c) 30x + 50 = 320 denklemi kurulur.",
+    "7. 30x = 320 − 50 = 270.",
+    "8. x = 270 ÷ 30 = 9 km.",
+    "9. ç) Eğim 30'dur ve 30 > 0'dır.",
+    "10. Bu yüzden u artandır; yol arttıkça ücret de artar."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) u(x) = 30x + 50 yazma (50 + 30x gibi eşdeğer yazımlar kabul edilir).",
+     "puan": 4
+    },
+    {
+     "olcut": "b) u(6) = 30 · 6 + 50 = 230 TL bulma.",
+     "puan": 3
+    },
+    {
+     "olcut": "c) 30x + 50 = 320 denklemini kurma.",
+     "puan": 2
+    },
+    {
+     "olcut": "c) Denklemi çözüp x = 9 km bulma.",
+     "puan": 2
+    },
+    {
+     "olcut": "ç) Eğimin 30 ve pozitif olduğunu belirtme.",
+     "puan": 2
+    },
+    {
+     "olcut": "ç) u'nun artan olduğunu bağlamla açıklama (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    }
+   ],
+   "puanlama_notu": "a) şıkkında model yanlış kurulup b) ve c) bu modelle doğru işlenirse b) ve c) puanları verilir.",
+   "hata_turu": [
+    "egim_kesisim_karistirma",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.105",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s014",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "e",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "g: ℝ → ℝ, g(x) = 2x − 8 fonksiyonunun sıfırı kaçtır?",
+   "secenekler": [
+    {
+     "metin": "4",
+     "dogru": true
+    },
+    {
+     "metin": "−4",
+     "dogru": false,
+     "hata_turu": "carpim_sifir_isaret",
+     "aciklama": "−8 eşitliğin öbür tarafına +8 olarak geçer; 2x = 8 olur."
+    },
+    {
+     "metin": "8",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "2x = 8 ara sonuçtur; x'i bulmak için iki taraf 2'ye bölünür."
+    },
+    {
+     "metin": "16",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "2x = 8'den x bulunurken 2'ye bölünür, 2 ile çarpılmaz."
+    }
+   ],
+   "cevap": "4",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Sıfır, g(x)'i 0 yapan x değeridir.",
+    "g(x) = 0 denklemini kur ve x'i yalnız bırak.",
+    "2x − 8 = 0 yaz; önce −8'i eşitliğin öbür tarafına geçir."
+   ],
+   "cozum_adimlari": [
+    "1. g(x) = 0 yazılır: 2x − 8 = 0.",
+    "2. −8 karşıya geçer: 2x = 8.",
+    "3. İki taraf 2'ye bölünür: x = 4."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "carpim_sifir_isaret",
+    "eksik_adim",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.106, 115",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s015",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "e",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "g: ℝ → ℝ, g(x) = −3x + 12 fonksiyonunun değerleri hangi aralıkta pozitiftir?",
+   "secenekler": [
+    {
+     "metin": "(−∞, 4)",
+     "dogru": true
+    },
+    {
+     "metin": "(4, ∞)",
+     "dogru": false,
+     "hata_turu": "esitsizlik_yonu",
+     "aciklama": "a = −3 < 0 olduğu için işaret sıfırın solunda pozitiftir; yön ters çevrilmeli."
+    },
+    {
+     "metin": "(−∞, −4)",
+     "dogru": false,
+     "hata_turu": "carpim_sifir_isaret",
+     "aciklama": "−3x + 12 = 0 denkleminden x = 4 çıkar; −4 değil."
+    },
+    {
+     "metin": "(−∞, 4]",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "g(4) = 0 olur; 0 pozitif olmadığı için 4 aralığa dahil edilmez."
+    }
+   ],
+   "cevap": "(−∞, 4)",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Önce fonksiyonun sıfırını bul.",
+    "a < 0 ise işaret tablosunda sıfırın solunda +, sağında − vardır.",
+    "−3x + 12 = 0 denklemini kur; 12'yi eşitliğin öbür tarafına geçir."
+   ],
+   "cozum_adimlari": [
+    "1. g(x) = 0 yazılır: −3x + 12 = 0.",
+    "2. −3x = −12.",
+    "3. x = 4; sıfır 4'tür.",
+    "4. a = −3 < 0'dır.",
+    "5. a < 0 için işaret sıfırın solunda pozitiftir: (−∞, 4).",
+    "6. Kontrol: g(0) = 12 > 0."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "esitsizlik_yonu",
+    "carpim_sifir_isaret",
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.115",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s016",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "g",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "“∀a > 0 için h(x) = ax + b fonksiyonu azalandır.” önermesi doğrudur.",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "a > 0 iken c < d'den ac < ad olur; bu yüzden h artandır, azalan değildir.",
+   "ipuclari": [
+    "x'in katsayısı olan a'nın işareti artanlığı belirler.",
+    "Pozitif sayıyla çarpınca eşitsizliğin yönü değişmez.",
+    "c < d yaz ve iki tarafı a ile çarp; a'nın pozitif olduğuna dikkat et."
+   ],
+   "cozum_adimlari": [
+    "1. c, d ∈ ℝ ve c < d alalım.",
+    "2. a > 0 ile çarpınca yön korunur: ac < ad.",
+    "3. İki tarafa b eklenir: ac + b < ad + b.",
+    "4. h(c) < h(d) olduğundan h artandır.",
+    "5. Önerme yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "esitsizlik_yonu"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.115",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s017",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": null,
+   "kok": "a ∈ ℝ olmak üzere g: ℝ → ℝ, g(x) = (a − 3)x + a + 5 bir sabit fonksiyondur. Buna göre g(10) kaçtır?",
+   "secenekler": [
+    {
+     "metin": "8",
+     "dogru": true
+    },
+    {
+     "metin": "3",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "a = 3 ara sonuçtur; istenen g(10) değeridir."
+    },
+    {
+     "metin": "2",
+     "dogru": false,
+     "hata_turu": "carpim_sifir_isaret",
+     "aciklama": "a − 3 = 0 denkleminden a = 3 çıkar; −3 değil."
+    },
+    {
+     "metin": "0",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Sabit fonksiyon her x için aynı değeri verir; bu değer 0 olmak zorunda değildir."
+    }
+   ],
+   "cevap": "8",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Sabit fonksiyonda sonuç x'e bağlı olmaz.",
+    "Bunun için x'in katsayısı 0 olmalıdır.",
+    "a − 3 = 0 denklemini kur ve önce a'yı bul."
+   ],
+   "cozum_adimlari": [
+    "1. Sabit fonksiyonda x'in katsayısı 0'dır: a − 3 = 0.",
+    "2. a = 3.",
+    "3. Sabit terim: a + 5 = 3 + 5 = 8.",
+    "4. g(x) = 8 olur.",
+    "5. g(10) = 8."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksik_adim",
+    "carpim_sifir_isaret",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.110",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s018",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "h",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": "Gölcük'teki bir otopark, kaç saat kalınırsa kalınsın günlük c(x) = 90 TL alıyor (x: saat).",
+   "kok": "c fonksiyonu bire bir fonksiyondur.",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "c(2) = c(6) = 90 olur; farklı x'ler aynı değere gittiği için c bire bir değildir.",
+   "ipuclari": [
+    "Bire bir fonksiyonda farklı x'ler farklı değerlere gider.",
+    "İki farklı saat sayısı seç ve ücretlerini karşılaştır.",
+    "x = 2 ve x = 6 için c(2) ile c(6)'yı yaz."
+   ],
+   "cozum_adimlari": [
+    "1. 2 ≠ 6 olan iki saat sayısı alalım.",
+    "2. c(2) = 90.",
+    "3. c(6) = 90.",
+    "4. Farklı x'ler aynı değeri verdi.",
+    "5. c bire bir değildir; ifade yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.96, 110",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s019",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "ğ",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'te bir evin çatısındaki depodan musluk açılınca su sabit hızla akıyor. Depo boşalınca musluk kapanıyor. Depodaki su: 0. dakikada 540 L, 5. dakikada 450 L, 10. dakikada 360 L.",
+   "kok": "Depodaki su miktarı d(x) = ax + b doğrusal fonksiyonudur (x: dakika, d(x): litre). Aşağıdakileri işlemlerinizi göstererek bulunuz. a) a ve b sayılarını bulunuz. b) d fonksiyonunun sıfırını bulup bağlamdaki anlamını yazınız. c) d fonksiyonunun tanım ve görüntü kümelerini yazınız. (15 puan)",
+   "secenekler": null,
+   "cevap": "a) b = d(0) = 540; 5 dakikada 540 − 450 = 90 L azalır, a = −90 ÷ 5 = −18. d(x) = −18x + 540. b) −18x + 540 = 0 ⇒ −18x = −540 ⇒ x = 30; depo 30. dakikada boşalır. c) Tanım kümesi [0, 30], görüntü kümesi [0, 540].",
+   "kabul_edilenler": [
+    "d(x) = −18x + 540",
+    "30",
+    "[0, 30]",
+    "[0, 540]"
+   ],
+   "ipuclari": [
+    "0. dakikadaki su, başlangıçtaki su miktarını verir.",
+    "b = d(0) olur. a eğimdir: y farkını x farkına böl.",
+    "Önce b'yi 0. dakikadan oku; sonra y farkı için 450 − 540 işlemini yap."
+   ],
+   "cozum_adimlari": [
+    "1. x = 0 için d(0) = b; 0. dakikada 540 L olduğundan b = 540.",
+    "2. y farkı: 450 − 540 = −90 L.",
+    "3. x farkı: 5 − 0 = 5 dk.",
+    "4. Eğim: a = −90 ÷ 5 = −18.",
+    "5. d(x) = −18x + 540; kontrol: d(10) = −180 + 540 = 360, verilenle uyuyor.",
+    "6. Sıfır için d(x) = 0: −18x + 540 = 0.",
+    "7. −18x = −540.",
+    "8. x = 30; depo 30. dakikada boşalır.",
+    "9. Zaman 0'dan 30'a kadar sürer; tanım kümesi [0, 30].",
+    "10. d(0) = 540 ve d(30) = 0; görüntü kümesi [0, 540]."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) b = 540 bulma (0. dakikadaki değerden).",
+     "puan": 2
+    },
+    {
+     "olcut": "a) a = −18 bulma (işareti negatif olmalı).",
+     "puan": 3
+    },
+    {
+     "olcut": "b) d(x) = 0 denklemini kurma: −18x + 540 = 0.",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Sıfırı x = 30 olarak bulma.",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Sıfırın anlamını yazma: depo 30. dakikada boşalır (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    },
+    {
+     "olcut": "c) Tanım kümesini [0, 30] yazma.",
+     "puan": 2
+    },
+    {
+     "olcut": "c) Görüntü kümesini [0, 540] yazma.",
+     "puan": 2
+    }
+   ],
+   "puanlama_notu": "a = 18 bulup tutarlı devam eden öğrenci a) ölçütünden puan alamaz; sonraki adımlar kendi modeline göre puanlanır.",
+   "hata_turu": [
+    "isaret_hatasi",
+    "carpim_sifir_isaret",
+    "tanim_goruntu_karistirma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.105, 106",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k1-s020",
+   "konu_id": "matematik-u2-k1",
+   "ogrenme_ciktisi": "9.2.1",
+   "surec": "ı",
+   "tip": "dogru_yanlis",
+   "zorluk": 2,
+   "puan": 5,
+   "baglam": "g(x) = ax fonksiyonunun artan ya da azalan olduğu iki yolla gösterilebilir. Birinci yol: a, c ve d harfleriyle cebirsel ispat. İkinci yol: birkaç a değeri için grafik çizmek.",
+   "kok": "Birkaç a değeri için çizilen grafikler, cebirsel ispat gibi her a için geçerli bir sonuç verir.",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "Cebirsel ispat her a için genel sonuç verir; grafik ise seçilen a değerleri için somut sonuç gösterir.",
+   "ipuclari": [
+    "Grafiği kaç farklı a değeri için çizebilirsin, düşün.",
+    "Cebirsel ispat a harfiyle yapılır; yani her a için çalışır.",
+    "İki yolu karşılaştır: hangisi harflerle, hangisi seçilen sayılarla çalışıyor?"
+   ],
+   "cozum_adimlari": [
+    "1. Cebirsel ispat c, d ve a harfleriyle yapılır.",
+    "2. Bu yüzden her a > 0 ve her a < 0 için geçerlidir.",
+    "3. Grafik yalnız çizilen a değerlerini gösterir.",
+    "4. Grafik daha somut, cebirsel ispat daha geneldir.",
+    "5. İfade yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "tek_ornekle_ispat"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.101",
+    "ogrenme_ciktisi": "9.2.1"
+   },
+   "dogrula": []
+  }
+ ]
+}

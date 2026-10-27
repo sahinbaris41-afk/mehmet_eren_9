@@ -449,8 +449,8 @@ def duzeltmeleri_uygula(h: dict, dosya: Path) -> dict:
             d = duz.get(k["id"])
             if not d:
                 continue
-            if d.get("kitap") and k.get("kitap"):
-                k["kitap"].update(d["kitap"])
+            if d.get("kitap"):  # eşleşmeyen konuya da elle teyitli sayfa verilebilir
+                k["kitap"] = {**(k.get("kitap") or {}), **d["kitap"]}
             k["dogrula"] = [x for x in k["dogrula"] if not any(s in x for s in d.get("dogrula_kaldir", []))]
             k["duzeltme"] = {"neden": d.get("neden"), "kaynak": d.get("kaynak")}
     bilinmeyen = set(duz) - {k["id"] for u in h["uniteler"] for k in u["konular"]}
