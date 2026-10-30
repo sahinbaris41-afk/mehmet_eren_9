@@ -180,7 +180,7 @@
      "kalip": "Verilen aralıkta tanımlı fonksiyonun tanım ve görüntü kümelerini bulunuz.",
      "ornek_soru": "Pompa 10. dakikadan 40. dakikaya kadar izleniyor. Basılan su f(x) = x ile veriliyor. f fonksiyonunun tanım ve görüntü kümelerini işlemlerinizi göstererek bulunuz.",
      "ornek_cevap": [
-      "1. x, 10 ile 40 arasında değişir; uçlar dahildir.",
+      "1. x, 10 ile 40 arasında değişir; uçlar dâhildir.",
       "2. Tanım kümesi [10, 40] olur.",
       "3. Uç değerleri hesaplayalım: f(10) = 10 ve f(40) = 40.",
       "4. x büyüdükçe f(x) de büyüyor; değerler 10 ile 40 arasında kalır.",
@@ -458,8 +458,8 @@
    "katmanlar": {
     "basit": [
      "Fonksiyonun alabildiği en büyük değere **maksimum değer** denir. En küçük değere **minimum değer** denir.",
-     "f(x) = x, [1, 5] aralığında tanımlı olsun. Köşeli parantez, [1, 5]'te uçların dahil olduğunu söyler. En küçük değer f(1) = 1, en büyük değer f(5) = 5 olur.",
-     "Aralık açık, yani (1, 5) ise uçlar dahil değildir. 4,9 ve 4,99 alınır ama 5 alınmaz; hep daha büyüğü vardır.",
+     "f(x) = x, [1, 5] aralığında tanımlı olsun. Köşeli parantez, [1, 5]'te uçların dâhil olduğunu söyler. En küçük değer f(1) = 1, en büyük değer f(5) = 5 olur.",
+     "Aralık açık, yani (1, 5) ise uçlar dâhil değildir. 4,9 ve 4,99 alınır ama 5 alınmaz; hep daha büyüğü vardır.",
      "Bu yüzden (1, 5)'te maksimum değer yoktur. Aynı nedenle minimum değer de yoktur.",
      "ℝ'de tanımlı f(x) = x'in de maksimumu ve minimumu yoktur. Doğru iki yönde de sonsuza gider."
     ],
@@ -478,7 +478,7 @@
       "4. Bu değer x = −3'te alınır; minimum noktası (−3, −3)'tür.",
       "5. Maksimum değer 4'tür.",
       "6. Bu değer x = 4'te alınır; maksimum noktası (4, 4)'tür.",
-      "7. c) [−3, 4)'te 4 dahil değildir; 4'e yaklaşan her sayıdan daha büyüğü vardır.",
+      "7. c) [−3, 4)'te 4 dâhil değildir; 4'e yaklaşan her sayıdan daha büyüğü vardır.",
       "8. Bu yüzden maksimum değer olmaz; minimum değer yine −3'tür."
      ],
      "puan_ipucu": "Program açık aralık durumunun yorumlanmasını özellikle istiyor (program, s.53). Köşeli ve normal parantezi dikkatle oku."
@@ -499,21 +499,21 @@
      "soru": "f(x) = x, [2, 9] aralığında tanımlı. Maksimum değeri kaçtır?",
      "cevap": "9",
      "ipuclari": [
-      "Köşeli parantez, ucun dahil olduğunu söyler.",
+      "Köşeli parantez, ucun dâhil olduğunu söyler.",
       "f(x) = x artan; en büyük değer sağ uçtadır.",
       "Sağ uçtaki sayıyı bul ve f'ye ver."
      ],
-     "yanlis_aciklama": "Artan fonksiyonda en büyük değer sağ uçta alınır; uç dahilse değer odur."
+     "yanlis_aciklama": "Artan fonksiyonda en büyük değer sağ uçta alınır; uç dâhilse değer odur."
     },
     {
      "soru": "f(x) = x, (2, 9) aralığında tanımlı. Maksimum değeri var mıdır?",
      "cevap": "Yoktur",
      "ipuclari": [
-      "Normal parantez, ucun dahil olmadığını söyler.",
+      "Normal parantez, ucun dâhil olmadığını söyler.",
       "9 alınamıyorsa 8,9; 8,99; 8,999 alınabilir mi, düşün.",
       "8,99 gibi 9'a yakın bir sayı seç. Aralıkta ondan büyük başka bir sayı var mı, ara."
      ],
-     "yanlis_aciklama": "Uç dahil değilse 9 alınmaz; 9'a yaklaşan her sayıdan daha büyüğü vardır."
+     "yanlis_aciklama": "Uç dâhil değilse 9 alınmaz; 9'a yaklaşan her sayıdan daha büyüğü vardır."
     }
    ]
   },
@@ -831,7 +831,7 @@
       "a = 1 > 0; sıfırın sağında + vardır.",
       "≥ işaretinde eşitlik de istenir. g(3) değerini hesapla ve 0'a eşit mi, bak."
      ],
-     "yanlis_aciklama": "≥ istendiği için g(3) = 0 da uyar; 3 aralığa dahildir, köşeli parantezle yazılır."
+     "yanlis_aciklama": "≥ istendiği için g(3) = 0 da uyar; 3 aralığa dâhildir, köşeli parantezle yazılır."
     },
     {
      "soru": "d(x) = −15x + 600 için d(50) pozitif mi, negatif mi?",
@@ -944,7 +944,7 @@
   },
   {
    "on": "f(x) = x, (1, 5) aralığında tanımlıysa maksimum değeri var mı?",
-   "arka": "Yoktur; 5 dahil değildir. [1, 5]'te olsaydı maksimum 5 olurdu."
+   "arka": "Yoktur; 5 dâhil değildir. [1, 5]'te olsaydı maksimum 5 olurdu."
   },
   {
    "on": "g(x) = ax + b'de a ve b neyi söyler?",
@@ -970,7 +970,7 @@
   },
   {
    "hata_turu": "aralik_uc",
-   "aciklama": "(1, 5) aralığında maksimum değeri 5 sanmak. Uç dahil değilse maksimum yoktur."
+   "aciklama": "(1, 5) aralığında maksimum değeri 5 sanmak. Uç dâhil değilse maksimum yoktur."
   },
   {
    "hata_turu": "egim_kesisim_karistirma",

@@ -18,8 +18,40 @@ const { soru: S, rastgele: R } = sandbox.B9;
 const ADET = 300;
 let basarisiz = 0;
 
+// 9.2.2: 3. ipucunun cümle ortasında cevabı söylemesi. Sayı cevapta "≤ d", "≥ d", "< d", "> d", "değeri d", "d'dır" (ve ünlü uyumlu
+// biçimleri); aralık cevapta aralığın kendisi, ucu e için "≤ e" / "≥ e" (f(x) ≥ e dâhil) ve cümle sonunda "= e".
+const kacis = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const SAYI_SINIR = "(?<![\\d,−-])", SAYI_SON = "(?![\\d,])";
+const sayiKalip = d => [
+  new RegExp("[≤≥<>]\\s*" + SAYI_SINIR + kacis(d) + SAYI_SON),
+  new RegExp("değeri\\s+" + SAYI_SINIR + kacis(d) + SAYI_SON),
+  new RegExp(SAYI_SINIR + kacis(d) + "'(dır|dir|dur|dür|tır|tir|tur|tür)"),
+];
+const sizinti = g => {
+  const h3 = g.ipuclari[2];
+  if (typeof g.deger !== "number" && h3.includes(g.dogru)) return "doğru şık metni";
+  const ar = g.dogru.match(/^[[(](.+), ∞[)\]]$/) || g.dogru.match(/^\(−∞, (.+)[)\]]$/);
+  const kaliplar = ar ? [...sayiKalip(ar[1]).slice(0, 1), new RegExp("=\\s*" + SAYI_SINIR + kacis(ar[1]) + "\\.?\\s*$")]
+    : typeof g.deger === "number" ? sayiKalip(g.dogru) : [];
+  const k = kaliplar.find(re => re.test(h3));
+  return k ? String(k) : "";
+};
+
 for (const u of sandbox.URETECLER || []) {
   const { hatalar } = S.uretecDene(u, ADET);
+  // 9.2.2: 3. ipucu cevabın kendisiyle bitmez (son "=" ya da ":" sonrası doğru şık metni/değeri olamaz).
+  if (u.id.startsWith("mat-u2-mutlak")) for (let t = 0; t < ADET; t++) {
+    const g = u.gen(R.rng(t)), h3 = g.ipuclari[2].trim().replace(/\.$/, "");
+    const son = h3.split(/[=:]/).pop().trim();
+    if (son === g.dogru || h3.endsWith(" " + g.dogru) || (son && typeof g.deger === "number" && Number(son.replace("−", "-")) === g.deger))
+      hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: 3. ipucu cevabı veriyor: ${g.ipuclari[2]}` });
+    else if (sizinti(g)) hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: 3. ipucu cevabı söylüyor (${sizinti(g)}): ${g.ipuclari[2]}` });
+    // sifir-yok: "Sıfırı yoktur" her soruda şık olarak görünür, yanında sayılı şıklar da vardır (biçimden cevap çıkmaz).
+    if (u.id === "mat-u2-mutlak-sifir-yok") {
+      const m = S.uretecten(u, t).secenekler.map(o => o.metin);
+      if (!m.includes("Sıfırı yoktur") || !m.some(x => /\d/.test(x))) hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: şık biçimi cevabı veriyor: ${m.join(" | ")}` });
+    }
+  }
   const kotu = new Set(hatalar.map(h => h.tohum)).size;
   console.log(`${u.id}: ${ADET - kotu}/${ADET} ${kotu ? "HATA" : "OK"}`);
   hatalar.slice(0, 10).forEach(h => console.log("  " + h.mesaj));

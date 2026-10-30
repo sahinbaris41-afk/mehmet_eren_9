@@ -93,7 +93,7 @@
      "metin": "(−2, 6)",
      "dogru": false,
      "hata_turu": "aralik_uc",
-     "aciklama": "Uçlar tanım kümesine dahil; f(−2) = −2 ve f(6) = 6 da görüntüye girer."
+     "aciklama": "Uçlar tanım kümesine dâhil; f(−2) = −2 ve f(6) = 6 da görüntüye girer."
     },
     {
      "metin": "ℝ",
@@ -116,7 +116,7 @@
     "Önce sol uçtaki f(−2)'yi bul; köşeli parantezin ne söylediğine bak."
    ],
    "cozum_adimlari": [
-    "1. Tanım kümesi [−2, 6]; iki uç da dahildir.",
+    "1. Tanım kümesi [−2, 6]; iki uç da dâhildir.",
     "2. f(−2) = −2.",
     "3. f(6) = 6.",
     "4. f artan olduğundan değerler −2 ile 6 arasında kalır.",
@@ -402,13 +402,13 @@
      "metin": "Maksimum değer yoktur; minimum değer −3'tür.",
      "dogru": false,
      "hata_turu": "aralik_uc",
-     "aciklama": "Parantezler ters okunmuş; 4 dahil, −3 dahil değildir."
+     "aciklama": "Parantezler ters okunmuş; 4 dâhil, −3 dâhil değildir."
     },
     {
      "metin": "Maksimum değer de minimum değer de yoktur.",
      "dogru": false,
      "hata_turu": "aralik_uc",
-     "aciklama": "Sağ uçta köşeli parantez var; 4 dahildir ve f(4) = 4 en büyük değerdir."
+     "aciklama": "Sağ uçta köşeli parantez var; 4 dâhildir ve f(4) = 4 en büyük değerdir."
     }
    ],
    "cevap": "Maksimum değer 4'tür; minimum değer yoktur.",
@@ -419,9 +419,9 @@
     "Sağ uç 4 köşeli parantezle verilmiş; önce f(4)'ü hesapla."
    ],
    "cozum_adimlari": [
-    "1. Sağ uçta köşeli parantez var; 4 dahildir.",
+    "1. Sağ uçta köşeli parantez var; 4 dâhildir.",
     "2. f(4) = 4 ve f artan olduğu için maksimum değer 4'tür.",
-    "3. Sol uçta normal parantez var; −3 dahil değildir.",
+    "3. Sol uçta normal parantez var; −3 dâhil değildir.",
     "4. −3'e yaklaşan her sayıdan daha küçüğü vardır.",
     "5. Bu yüzden minimum değer yoktur."
    ],
@@ -446,7 +446,7 @@
    "baglam": "g: [−1, 3) → ℝ, g(x) = 2x + 1 fonksiyonu veriliyor.",
    "kok": "g fonksiyonunun görüntü kümesini işlemlerinizi göstererek bulunuz. Maksimum ve minimum değerinin olup olmadığını açıklayınız. (10 puan)",
    "secenekler": null,
-   "cevap": "1. a = 2 > 0 olduğu için g artandır. 2. g(−1) = 2 · (−1) + 1 = −1. 3. g(3) = 2 · 3 + 1 = 7. 4. −1 dahil, 3 dahil değil; görüntü kümesi [−1, 7). 5. Minimum değer −1'dir; x = −1'de alınır. 6. 3 tanım kümesinde olmadığı için 7 alınamaz; 7'ye yaklaşan her değerden daha büyüğü vardır. 7. Maksimum değer yoktur.",
+   "cevap": "1. a = 2 > 0 olduğu için g artandır. 2. g(−1) = 2 · (−1) + 1 = −1. 3. g(3) = 2 · 3 + 1 = 7. 4. −1 dâhil, 3 dâhil değil; görüntü kümesi [−1, 7). 5. Minimum değer −1'dir; x = −1'de alınır. 6. 3 tanım kümesinde olmadığı için 7 alınamaz; 7'ye yaklaşan her değerden daha büyüğü vardır. 7. Maksimum değer yoktur.",
    "kabul_edilenler": [],
    "ipuclari": [
     "Önce uçlardaki değerleri hesapla; parantezlere dikkat et.",
@@ -457,7 +457,7 @@
     "1. a = 2 > 0 olduğu için g artandır.",
     "2. g(−1) = 2 · (−1) + 1 = −1.",
     "3. g(3) = 2 · 3 + 1 = 7.",
-    "4. −1 dahil, 3 dahil değil; görüntü kümesi [−1, 7) olur.",
+    "4. −1 dâhil, 3 dâhil değil; görüntü kümesi [−1, 7) olur.",
     "5. Minimum değer −1'dir; x = −1'de alınır.",
     "6. 7 alınamaz; 7'ye yaklaşan her değerden daha büyüğü vardır.",
     "7. Maksimum değer yoktur."
@@ -750,7 +750,7 @@
      "metin": "(−∞, 4]",
      "dogru": false,
      "hata_turu": "aralik_uc",
-     "aciklama": "g(4) = 0 olur; 0 pozitif olmadığı için 4 aralığa dahil edilmez."
+     "aciklama": "g(4) = 0 olur; 0 pozitif olmadığı için 4 aralığa dâhil edilmez."
     }
    ],
    "cevap": "(−∞, 4)",

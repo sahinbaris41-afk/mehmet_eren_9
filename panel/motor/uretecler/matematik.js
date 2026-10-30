@@ -948,9 +948,10 @@
     const ax = (a === 1 ? "" : a === -1 ? EKSI : tam(a)) + "x";
     return b === 0 ? ax : ax + (b > 0 ? " + " : " − ") + Math.abs(b);
   };
-  // Doğruya değerce eşit yanlışı eler (uretecDene onu hata sayar); kalan farklı değerleri sayar.
+  // Doğruya değerce eşit yanlışı (uretecDene onu hata sayar) ve önce gelen bir yanlışla aynı değerdekini eler; kalan farklı değerleri sayar.
+  // Dizideki sıra teşhis önceliğidir: insa önce karıştırıp sonra tekilleştirdiği için aksi hâlde gösterilen açıklama rastgele olurdu.
   const esitD = (u, v) => (typeof u === "number" && typeof v === "number" ? Math.abs(u - v) <= 1e-9 * Math.max(1, Math.abs(u), Math.abs(v)) : u === v);
-  const ayikla = (ys, d) => ys.filter(v => !esitD(v.deger, d));
+  const ayikla = (ys, d) => ys.filter((v, i) => !esitD(v.deger, d) && (v.deger == null || ys.findIndex(w => esitD(w.deger, v.deger)) === i));
   const tekilSay = ys => ys.filter((v, i) => ys.findIndex(w => esitD(w.deger, v.deger)) === i).length;
   // Bağlamlı soruda okunaklı şık: tam ya da tek ondalık basamaklı.
   const okunakli = v => Number.isFinite(v) && Math.abs(v * 10 - Math.round(v * 10)) < 1e-9;
@@ -1078,7 +1079,7 @@
         const dogruD = kanon(sag, kapali, -b, a);
         let ys = [
           y(yaz(!sag, kapali, nS), "esitsizlik_yonu", "x'in katsayısı " + tam(a) + (a < 0 ? " negatif; g azalandır" : " pozitif; g artandır") + ". " + (pozIste ? "Pozitif" : "Negatif") + " olduğu yan sıfırın " + (sag ? "sağıdır." : "soludur."), kanon(!sag, kapali, -b, a)),
-          y(yaz(sag, !kapali, nS), "aralik_uc", kapali ? "\"Ya da sıfır\" istendi; g(" + nS + ") = 0 olduğundan x = " + nS + " aralığa girer." : "g(" + nS + ") = 0 olur; 0 ne pozitif ne negatiftir, " + nS + " dahil değildir.", kanon(sag, !kapali, -b, a)),
+          y(yaz(sag, !kapali, nS), "aralik_uc", kapali ? "\"Ya da sıfır\" istendi; g(" + nS + ") = 0 olduğundan x = " + nS + " aralığa girer." : "g(" + nS + ") = 0 olur; 0 ne pozitif ne negatiftir, " + nS + " dâhil değildir.", kanon(sag, !kapali, -b, a)),
         ];
         if (b !== 0) {
           ys.push(y(yaz(sag, kapali, kesirYaz(b, a)), "carpim_sifir_isaret", "Sabit terim karşıya işareti değişerek geçer; sıfır " + nS + " olur.", kanon(sag, kapali, b, a)));
@@ -1109,7 +1110,7 @@
             a > 0 ? "Artanda sıfırın solunda −, sağında + olur." : "Azalanda sıfırın solunda +, sağında − olur.",
             (pozIste ? "Pozitif" : "Negatif") + " istendi: " + (pozIste ? "+" : "−") + " olan yan, sıfırın " + (sag ? "sağı" : "solu") + ".",
             "g(" + nS + ") = 0.",
-            kapali ? "\"Ya da sıfır\" istendi; " + nS + " dahil." : "0 " + (pozIste ? "pozitif" : "negatif") + " değil; " + nS + " dahil değil.",
+            kapali ? "\"Ya da sıfır\" istendi; " + nS + " dâhil." : "0 " + (pozIste ? "pozitif" : "negatif") + " değil; " + nS + " dâhil değil.",
             "Sonuç: " + yaz(sag, kapali, nS) + ".",
           ].map((t, i) => i + 1 + ". " + t),
         };
@@ -1394,5 +1395,499 @@
       if (p.mod === "bos_x") { v = p.V; while (v > p.L) { v -= p.rr; t++; } return v === p.L ? sayiYaz(t) : "YOK"; }
       v = p.b0; while (v < p.L) { v += p.rr; t++; } return v === p.L ? sayiYaz(t) : "YOK";
     },
+  });
+
+  // =====================================================================
+  // 9.2.2 · Mutlak değer fonksiyonu ve nitel özellikleri (matematik-u2-k2)
+  // =====================================================================
+  // Sözcükler: "minimum/maksimum değer", "en alt/üst nokta"; "tepe", "simetri", grafik anlamında "köşe" ve "katla" kullanılmaz.
+  // Değişken sayıdan sonra hâl eki gerekmesin diye "x = 3 noktasında", "aralığında", "ifadesinin" kalıpları kullanılır.
+  // Yanlış dizisindeki sıra teşhis önceliğidir: iki yanlış aynı değere düşerse ayikla öndekini bırakır.
+  // Zorluk soru başına verilemediği için (tur kuyruğu üreteç kaydının zorluğuna bakar) kolay alt türler ayrı kayıtla gelir.
+
+  const cEk = c => (c ? (c > 0 ? " + " : " − ") + Math.abs(c) : "");
+  const cIsaret = c => (c > 0 ? "+" : EKSI) + Math.abs(c); // "+3", "−2"
+  const mYaz = (s, a, b, c) => (s < 0 ? EKSI : "") + "|" + dogruYaz(a, b) + "|" + cEk(c); // s·|ax + b| + c
+  // a, x0 (içi 0 yapan x, tam sayı), b = −a·x0 (−0 yerine 0).
+  const mKur = (r, aH, x0H) => { const a = R().pick(r, aH), x0 = R().pick(r, x0H); return { a, x0, b: -a * x0 || 0 }; };
+  // ax + b = v denkleminin adımları, her adımda tek iş: "İki tarafa 9 eklenir: 3x = 9.", "İki taraf 3'e bölünür: x = 3."
+  const cozAdim = (a, b, v) => {
+    const l = [];
+    if (b) l.push((b > 0 ? "İki taraftan " + b + " çıkarılır: " : "İki tarafa " + -b + " eklenir: ") + dogruYaz(a, 0) + " = " + tam(v - b) + ".");
+    if (a !== 1) l.push("İki taraf " + yonelme(a) + " bölünür: x = " + kesirYaz(v - b, a) + ".");
+    return l;
+  };
+  const icXmi = (a, b) => a === 1 && b === 0;
+  // İçi 0 yapan x'i bulan çözüm adımları; a = 1, b = 0 iken x = 0'ın nereden geldiği yazılır.
+  const icSifirAdim = (a, b) => (icXmi(a, b) ? ["Mutlak değerin içi x'tir.", "İçi 0 olsun diye x = 0 alınır."] : ["İçi 0 yap: " + dogruYaz(a, b) + " = 0.", ...cozAdim(a, b, 0)]);
+  // 3. ipucu: ilk adımı somut sayılarla yapar (x0 cevap değilse x0'a kadar gider).
+  const ilkAdim = (a, b) => "İlk adım: " + (icXmi(a, b) ? "içi x olduğundan içi 0 yapan x: x = 0." : dogruYaz(a, b) + " = 0 yazılır. " + cozAdim(a, b, 0)[0]);
+  // x0 cevap olabilecekse (minmax): ilk adımı yapar, x'i bulmayı öğrenciye bırakır; ipucu bir yönergeyle biter.
+  const ilkAdimYari = (a, b) => "İlk adım: " + (icXmi(a, b) ? "mutlak değerin içi yalnız x'tir. İçi 0 olsun: x hangi sayı olmalı, düşün."
+    : dogruYaz(a, b) + " = 0 yazılır. " + (a === 1 ? "Şimdi x'i yalnız bırak: " + (b > 0 ? "iki taraftan " + b + " çıkar." : "iki tarafa " + -b + " ekle.")
+      : (b ? cozAdim(a, b, 0)[0] + " " : "") + "Şimdi iki tarafı " + yonelme(a) + " böl."));
+  // carpim_sifir_isaret açıklaması: hangi işlemde işaretin değiştiğini söyler.
+  const isaretAc = (a, b) => "İşaret ters alınmış. " + dogruYaz(a, b) + " = 0 denkleminde " + (b > 0 ? "iki taraftan " + b + " çıkarılır." : "iki tarafa " + -b + " eklenir.");
+  // kontrol için: tam sayı ızgarasında s·|ax + b| + c (x0 tam sayı olduğundan en uç değer ızgaradadır).
+  const izgara = ({ s, a, b, c }) => { const v = []; for (let x = -60; x <= 60; x++) v.push([x, s * Math.abs(a * x + b) + c]); return v; };
+  const sagA = (v, k = true) => (k ? "[" : "(") + tam(v) + ", ∞)";
+  const solA = (v, k = true) => "(" + EKSI + "∞, " + tam(v) + (k ? "]" : ")");
+  const SONSUZ_AC = "∞ bir sayı değildir, aralığa dâhil edilemez; ∞ yanında hep normal parantez kullanılır.";
+  const X0_H = [-6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6];
+  const C_H = [-6, -5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 6];
+
+  // kolay: yalnız "minimum değer kaçtır", önünde eksi yok, a = 1 (zorluk 1). Diğer kayıt bu alt türü üretmez.
+  const minmaxGen = kolay => function (r) {
+    const { pick } = R();
+    const mod = kolay ? "deger" : pick(r, ["deger", "x", "nokta"]);
+    for (;;) {
+      // Sınır: x0 = 0 (b = 0), c = 0 (öteleme yok), c < 0, a = 1 ve a > 1 (bölme adımı), önünde eksi (maksimum).
+      const { a, x0, b } = mKur(r, kolay ? [1] : [1, 1, 2, 3, 4], X0_H);
+      // Kolayda c = 0 yok (9.2.1 deger-hesap ile aynı): cevap 0 olur, 3. ipucu cevabı verirdi.
+      const s = kolay ? 1 : r() < 0.4 ? -1 : 1, c = kolay ? pick(r, C_H) : r() < 0.15 ? 0 : pick(r, C_H);
+      if (!kolay && mod === "deger" && s > 0 && a === 1) continue;
+      const V = s > 0, ad = V ? "minimum" : "maksimum", Ad = V ? "Minimum" : "Maksimum", uc = V ? "alt" : "üst";
+      const ic = dogruYaz(a, b), mic = (V ? "" : EKSI) + "|" + ic + "|";
+      const bas = "f: ℝ → ℝ, f(x) = " + mYaz(s, a, b, c) + " fonksiyonu";
+      const otele = c ? "sondaki " + cIsaret(c) + " grafiği " + Math.abs(c) + " birim " + (c > 0 ? "yukarı" : "aşağı") + " öteler" : "";
+      const enUc = "en " + (V ? "küçük" : "büyük");
+      const yok = V ? y("Minimum değer yoktur.", "maksimum_varlik", "|" + ic + "| en az 0 olur, bu yüzden V'nin bir en alt noktası vardır; o noktanın y'si minimum değerdir.", "YOK")
+        : y("Maksimum değer yoktur.", "maksimum_varlik", "Önündeki eksi V'yi ters çevirir; grafiğin bir en üst noktası vardır, o noktanın y'si maksimum değerdir.", "YOK");
+      const nk = (p, q) => "(" + tam(p) + ", " + tam(q) + ")";
+      let ys, d, dogru, kok;
+      if (mod === "deger") {
+        d = c; dogru = tam(c); kok = bas + "nun " + ad + " değeri kaçtır?";
+        const f0 = s * Math.abs(b) + c;
+        // Çakışma kuralı (tüm 9.2.2): iki yanlış aynı sayıya düşerse işlem hatası (eksik_adim, oteleme_yonu, carpim) kavram teşhisinden önce kalır.
+        ys = [
+          // b = 0 iken 0 hem x0 hem "c unutuldu"; 0'ı seçen büyük olasılıkla sondaki sayıyı unutmuştur.
+          ...(c ? [y("0", "eksik_adim", mic + " ifadesinin " + enUc + " değeri 0'dır, ama " + otele + ".", 0)] : []),
+          ...(c ? [y(tam(-c), "oteleme_yonu", "İşaret ters alınmış; sondaki " + cIsaret(c) + " olduğu gibi eklenir: 0" + cEk(c) + " = " + tam(c) + ".", -c)] : []),
+          y(tam(x0), "kavram_karisikligi", "x = " + tam(x0) + ", " + ad + " değerin alındığı x değeridir. Soru x'i değil, f'nin değerini istiyor.", x0),
+          yok,
+        ];
+        if (b) ys.push(y(tam(f0), "okuma_hatasi", "f(0) hesaplanmış; " + ad + " değer, içi 0 olan x'te bulunur.", f0));
+      } else if (mod === "x") {
+        d = x0; dogru = tam(x0); kok = bas + " " + ad + " değerini hangi x değerinde alır?";
+        ys = [
+          y(tam(-x0), "carpim_sifir_isaret", isaretAc(a, b), -x0),
+          ...(a !== 1 ? [y(tam(-b), "eksik_adim", dogruYaz(a, 0) + " = " + tam(-b) + " ara sonuçtur; iki taraf " + yonelme(a) + " bölünür.", -b)] : []),
+          y(tam(c), "kavram_karisikligi", tam(c) + ", " + ad + " değerdir (y); soru bu değerin alındığı x değerini istiyor.", c),
+          y("0", "okuma_hatasi", "0, " + mic + " ifadesinin " + enUc + " değeridir; istenen, bu değerin alındığı x değeridir.", 0),
+        ];
+      } else {
+        d = "P" + x0 + "," + c; dogru = nk(x0, c);
+        kok = bas + "nun grafiğinin en " + uc + " noktasının koordinatları aşağıdakilerden hangisidir?";
+        const yn = (p, q, h, ac) => y(nk(p, q), h, ac, "P" + p + "," + q);
+        ys = [
+          y(tam(c), "kavram_karisikligi", tam(c) + " yalnız y değeridir; nokta (x, y) biçiminde iki sayıyla yazılır.", "Y" + c),
+          yn(-x0, c, "carpim_sifir_isaret", isaretAc(a, b)),
+          ...(c ? [yn(x0, 0, "eksik_adim", mic + " ifadesinin " + enUc + " değeri 0'dır, ama " + otele + ".")] : []),
+          ...(c ? [yn(x0, -c, "oteleme_yonu", "İşaret ters alınmış; sondaki " + cIsaret(c) + " olduğu gibi eklenir: y = 0" + cEk(c) + " = " + tam(c) + ".")] : []),
+          ...(a !== 1 ? [yn(-b, c, "eksik_adim", dogruYaz(a, 0) + " = " + tam(-b) + " ara sonuçtur; iki taraf " + yonelme(a) + " bölünür.")] : []),
+          yn(c, x0, "kavram_karisikligi", "x ile y yer değiştirmiş. Nokta (x, y) yazılır: önce içi 0 yapan x, sonra o x için f'nin değeri."),
+        ];
+      }
+      ys = ayikla(ys, d);
+      if (tekilSay(ys) < 3) continue;
+      const fx0 = "f(" + tam(x0) + ") = " + (V ? "" : EKSI) + "|0|" + cEk(c) + " = " + tam(c);
+      // Kolay: "|…| en az 0, o hâlde f'nin en küçüğü c" yeter; x0 yalnız kontrol satırında geçer.
+      return {
+        params: { mod, s, a, b, c }, baglam: null, kok, dogru, deger: d, yanlislar: ys,
+        ipuclari: kolay ? [
+          "Soru f'nin en küçük değerini istiyor. |" + ic + "| en az kaç olabilir, düşün.",
+          "Önce mutlak değerli kısmın en küçük değerini bul. Sonra o değerle sondaki sayıyı topla.",
+          "İlk adım: |" + ic + "| ≥ 0 olur; en küçük değeri 0'dır. Şimdi 0 ile sondaki " + cIsaret(c) + " sayısını topla.",
+        ] : [
+          mod === "nokta" ? "En " + uc + " nokta iki sayıyla yazılır: bir x değeri ve o x için f değeri."
+            : mod === "x" ? "Soru f'nin değerini değil, " + ad + " değerin alındığı x'i istiyor."
+            : V ? "Soru f'nin en küçük değerini istiyor. |" + ic + "| en az kaç olabilir, düşün."
+            : "Soru f'nin en büyük değerini istiyor. Önündeki eksiye dikkat: grafik ters V olur.",
+          mic + " " + enUc + " değerini içi 0 iken alır. " + (mod === "x" ? "İçi 0 yapan x'i bul." : "İçi 0 yapan x'i bul, sonra f'yi bu x'te hesapla."),
+          ilkAdimYari(a, b),
+        ],
+        cozum: (kolay ? [
+          "|" + ic + "| ≥ 0 olur.",
+          "Bu yüzden |" + ic + "| ifadesinin en küçük değeri 0'dır.",
+          c ? "f'nin en küçük değeri: 0" + cEk(c) + " = " + tam(c) + "." : "Dışarıda sayı yok; f'nin en küçük değeri de 0'dır.",
+          "Kontrol: içi 0 yapan x = " + tam(x0) + " için " + fx0 + ".",
+          "Minimum değer " + tam(c) + " olur.",
+        ] : [
+          "|" + ic + "| ≥ 0 olur.",
+          ...(V ? ["Bu yüzden |" + ic + "| ifadesinin en küçük değeri 0'dır."]
+            : ["Önünde eksi var: " + mic + " ≤ 0 olur.", "Bu yüzden " + mic + " ifadesinin en büyük değeri 0'dır."]),
+          Ad + " değer, mutlak değerin içi 0 iken alınır.",
+          ...icSifirAdim(a, b),
+          fx0 + ".",
+          Ad + " değer " + tam(c) + " olur ve x = " + tam(x0) + " noktasında alınır.",
+          ...(mod === "nokta" ? ["Grafiğin en " + uc + " noktası " + nk(x0, c) + " olur."] : []),
+        ]).map((t, i) => i + 1 + ". " + t),
+      };
+    }
+  };
+  const minmaxKontrol = p => {
+    // Kuralı kullanmadan: ızgarada en küçük (önünde eksi varsa en büyük) değeri ve alındığı x'i tara.
+    const v = izgara(p), uc = (p.s > 0 ? Math.min : Math.max)(...v.map(t => t[1]));
+    const xs = v.filter(t => t[1] === uc).map(t => t[0]);
+    if (xs.length !== 1) return "UÇ NOKTA SAYISI " + xs.length;
+    return p.mod === "deger" ? tam(uc) : p.mod === "x" ? tam(xs[0]) : "(" + tam(xs[0]) + ", " + tam(uc) + ")";
+  };
+  kayit({
+    id: "mat-u2-mutlak-minmax", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 2,
+    kaynak: { kitap: KITAP, sayfa: "125, 128-129, 134" }, gen: minmaxGen(false), kontrol: minmaxKontrol,
+  });
+  kayit({
+    id: "mat-u2-mutlak-minmax-kolay", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 1,
+    kaynak: { kitap: KITAP, sayfa: "125, 128-129, 134" }, gen: minmaxGen(true), kontrol: minmaxKontrol,
+  });
+
+  kayit({
+    id: "mat-u2-mutlak-goruntu", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 2,
+    kaynak: { kitap: KITAP, sayfa: "128-129, 134" },
+    gen(r) {
+      const { pick } = R();
+      for (;;) {
+        const { a, x0, b } = mKur(r, [1, 1, 2, 3], X0_H);
+        const s = r() < 0.4 ? -1 : 1, c = r() < 0.15 ? 0 : pick(r, C_H), V = s > 0;
+        const ic = dogruYaz(a, b), mic = (V ? "" : EKSI) + "|" + ic + "|";
+        const A = (v, k) => (V ? sagA(v, k) : solA(v, k)), ters = (v, k) => (V ? solA(v, k) : sagA(v, k));
+        const dogru = A(c), es = V ? "≥" : "≤";
+        const yd = (metin, h, ac) => y(metin, h, ac, metin); // aralık yazımı kanoniktir; değer olarak metnin kendisi
+        let ys = [
+          yd(A(c, false), "aralik_uc", "f, " + tam(c) + " değerini x = " + tam(x0) + " iken alır; alınan değer aralığa dâhildir, bu uçta köşeli parantez kullanılır."),
+          yd(V ? "[" + tam(c) + ", ∞]" : "[" + EKSI + "∞, " + tam(c) + "]", "sonsuz_koseli", SONSUZ_AC),
+          V ? yd(ters(c), "esitsizlik_yonu", "Eşitsizlik ters yazılmış. Önünde eksi yok; |" + ic + "| ≥ 0 olduğundan f(x) ≥ " + tam(c) + " olur.")
+            : yd(ters(c), "eksi_mutlak_karistirma", "Önündeki eksi eşitsizliğin yönünü çevirir: " + mic + " ≤ 0, yani f(x) ≤ " + tam(c) + " olur."),
+          yd("ℝ", "tanim_goruntu_karistirma", "ℝ tanım kümesidir. Görüntü kümesi f(x) değerlerinden oluşur ve f(x) " + es + " " + tam(c) + " olur."),
+          // x0 = 0 iken A(0) hem "c unutuldu" hem "x yazıldı"; önce eksik_adim, x0 = −c iken önce oteleme_yonu.
+          ...(c ? [
+            yd(A(0), "eksik_adim", mic + " " + es + " 0 doğru, ama sondaki " + cIsaret(c) + " eklenmemiş."),
+            yd(A(-c), "oteleme_yonu", "İşaret ters alınmış; sondaki " + cIsaret(c) + " olduğu gibi eklenir."),
+          ] : []),
+          yd(A(x0), "kavram_karisikligi", tam(x0) + ", içi 0 yapan x değeridir. Görüntü kümesi x değerleriyle değil, f(x) değerleriyle yazılır."),
+        ];
+        ys = ayikla(ys, dogru);
+        if (tekilSay(ys) < 3) continue;
+        const ekle = c > 0 ? "İki tarafa " + c + " eklenir" : c < 0 ? "İki taraftan " + -c + " çıkarılır" : "Dışarıda sayı yok";
+        return {
+          params: { s, a, b, c }, baglam: null,
+          kok: "f: ℝ → ℝ, f(x) = " + mYaz(s, a, b, c) + " fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?",
+          dogru, deger: dogru, yanlislar: ys,
+          ipuclari: [
+            "Görüntü kümesi, f(x)'in alabildiği bütün değerlerdir. Önce |" + ic + "| ifadesinin alabildiği değerleri düşün.",
+            "|" + ic + "| ≥ 0 eşitsizliğinden başla." + (V ? "" : " Önündeki eksi için iki tarafı −1 ile çarp; yön değişir.")
+              + (c ? " Sonra iki tarafa sondaki " + cIsaret(c) + " sayısını ekle." : ""),
+            // c = 0 iken "|…| ≥ 0" ya da "−|…| ≤ 0" cevabın kendisidir; ilk adım eşitsizliği yazmadan durur.
+            c ? "İlk adım: |" + ic + "| ≥ 0 yazılır." + (V ? " f(x) = |" + ic + "|" + cEk(c) + " olduğu için sıra sondaki " + cIsaret(c) + " sayısında." : " İki taraf −1 ile çarpılır: " + mic + " ≤ 0.")
+              : "İlk adım: dışarıda sayı yok, f(x) = " + mic + " olur." + (V ? " Şimdi |" + ic + "| ifadesinin alabildiği en küçük değeri yaz." : " Şimdi |" + ic + "| için bildiğin eşitsizliği −1 ile çarp; yöne dikkat."),
+          ],
+          cozum: [
+            "|" + ic + "| ≥ 0 olur.",
+            ...(V ? [] : ["İki taraf −1 ile çarpılır, yön değişir: " + mic + " ≤ 0."]),
+            ekle + ": f(x) " + es + " " + tam(c) + ".",
+            ...icSifirAdim(a, b),
+            "f(" + tam(x0) + ") = " + (V ? "" : EKSI) + "|0|" + cEk(c) + " = " + tam(c) + ".",
+            "Yani " + tam(c) + " değeri de görüntü kümesindedir.",
+            "Görüntü kümesi " + dogru + " olur.",
+          ].map((t, i) => i + 1 + ". " + t),
+        };
+      }
+    },
+    kontrol(p) {
+      // Izgarada en küçük/en büyük değer ve iki uçtaki davranış: uçlar sınırsız büyüyorsa [m, ∞), küçülüyorsa (−∞, M].
+      const v = izgara(p).map(t => t[1]), m = Math.min(...v), M = Math.max(...v), sol = v[0], sag = v[v.length - 1];
+      if (sol > m + 30 && sag > m + 30) return sagA(m);
+      if (sol < M - 30 && sag < M - 30) return solA(M);
+      return "BELİRSİZ";
+    },
+  });
+
+  // Sıfır listesi yazımı: "Sıfırı yoktur", "Yalnız 3", "−2 ve 4".
+  const zSirala = l => l.slice().sort((u, v) => u - v);
+  const zYaz = l => (l.length === 0 ? "Sıfırı yoktur" : l.length === 1 ? "Yalnız " + tam(l[0]) : zSirala(l).map(tam).join(" ve "));
+  const zKey = l => "Z" + zSirala(l).join(",");
+
+  // turlar: "iki" (iki sıfır), "bir" (tek sıfır), "yok" (sıfır yok). Ana kayıt "yok" üretmez; kolay kayıt (a = 1) üçünü karıştırır,
+  // böylece "Sıfırı yoktur" bazen doğru, bazen çeldiricidir. Kolayda her türün havuzu tam 3 şıktır, üçü de görünür.
+  const sifirGen = (turlar, kolay) => function (r) {
+    const { pick, rint } = R();
+    // Sınır: en alt/üst noktanın y değeri eksenin altında (iki sıfır), tam üzerinde (bir sıfır), üstünde (sıfır yok); ters V'de tersi.
+    const tur = pick(r, turlar);
+    for (;;) {
+      const { a, x0, b } = mKur(r, kolay ? [1] : [1, 1, 2, 3], [-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5]);
+      const s = r() < 0.4 ? -1 : 1, V = s > 0, dd = rint(r, 1, 5), K = a * dd;
+      if (K > 12) continue;
+      const E = tur === "iki" ? K : tur === "yok" ? -K : 0; // |ax + b| = E
+      const c = V ? -E : E;
+      const ic = dogruYaz(a, b), ad = V ? "Minimum" : "Maksimum";
+      const f = x => s * Math.abs(a * x + b) + c;
+      const z = tur === "iki" ? [x0 - dd, x0 + dd] : tur === "bir" ? [x0] : [];
+      const yz = (l, h, ac) => y(zYaz(l), h, ac, zKey(l));
+      let ys;
+      if (tur === "iki") {
+        ys = [
+          yz([x0 + dd], "tek_sifir", "Yalnız bir durum çözülmüş: içi " + tam(E) + " ya da " + tam(-E) + " olabilir, unutulan sıfır x = " + tam(x0 - dd) + "."),
+          // Kolayda ± ayna şık yok: "bir" ve "iki"de doğrunun eksi işaretlisi görünürse cevap şıkkın biçiminden seçilirdi.
+          ...(kolay ? [] : [yz([-x0 + dd, -x0 - dd], "carpim_sifir_isaret", "İşaretler ters alınmış. Her durumda " + (b > 0 ? "iki taraftan " + b + " çıkarılır." : "iki tarafa " + -b + " eklenir."))]),
+          yz([x0], "okuma_hatasi", "f(" + tam(x0) + ") = " + tam(c) + " olur, 0 değil; " + tam(x0) + ", " + ad.toLowerCase() + " değerin alındığı x değeridir."),
+          V ? yz([], "kavram_karisikligi", "Minimum değer: " + tam(c) + ". Bu değer x ekseninin altındadır. V yukarı açık olduğu için x eksenini keser.")
+            : yz([], "eksi_mutlak_karistirma", "Maksimum değer: " + tam(c) + ". Bu değer x ekseninin üstündedir. Ters V iki yanda aşağı iner ve x eksenini keser."),
+        ];
+        if (a !== 1) ys.push(yz([E - b, -E - b], "eksik_adim", dogruYaz(a, 0) + " = " + tam(E - b) + " ve " + dogruYaz(a, 0) + " = " + tam(-E - b) + " ara sonuçtur; iki taraf " + yonelme(a) + " bölünür."));
+      } else if (tur === "yok") {
+        ys = [
+          yz([x0 - dd, x0 + dd], "isaret_hatasi", "|" + ic + "| = " + tam(E) + " yerine |" + ic + "| = " + tam(-E) + " çözülmüş; eksi işareti kaybolmuş. Bu sayılar yerine konunca 0 çıkmaz: f(" + tam(x0 + dd) + ") = " + tam(f(x0 + dd)) + "."),
+          yz([x0 - dd], "mutlak_eksi", "Mutlak değer işareti yazılmadan " + ic + " = " + tam(E) + " yazılmış. Mutlak değer eksi bir sayıya eşit olamaz."),
+          yz([x0], "kavram_karisikligi", ad + " değer: " + tam(c) + ". Bu değer x ekseninin " + (V ? "üstündedir" : "altındadır") + ". Grafik x eksenini kesmez."),
+        ];
+      } else {
+        ys = [
+          yz([], "kavram_karisikligi", ad + " değer: 0. Bu değer tam x ekseninin üzerindedir. Bu yüzden x = " + tam(x0) + " bir sıfırdır."),
+          kolay ? yz([0], "kavram_karisikligi", "Sıfır, f(x)'i 0 yapan x değeridir; x = 0 değildir. f(0) = " + tam(f(0)) + " olur.")
+            : yz([-x0], "carpim_sifir_isaret", isaretAc(a, b)),
+          yz([-x0, x0], "kavram_karisikligi", "|" + ic + "| = 0 iken içi yalnız 0 olabilir: mutlak değeri 0 olan tek sayı 0'dır. Bu yüzden tek sıfır çıkar."),
+        ];
+        if (a !== 1) ys.push(yz([-b], "eksik_adim", dogruYaz(a, 0) + " = " + tam(-b) + " ara sonuçtur; iki taraf " + yonelme(a) + " bölünür."));
+      }
+      const d = zKey(z);
+      ys = ayikla(ys, d);
+      if (tekilSay(ys) < 3) continue;
+      const fYaz = x => "f(" + tam(x) + ") = " + (V ? "" : EKSI) + "|" + tam(a * x + b) + "|" + cEk(c) + " = " + tam(f(x)) + ".";
+      // f(x) = 0'dan |ax + b| = E'ye: her adımda tek iş.
+      const bas = ["f(x) = 0 yazılır: " + mYaz(s, a, b, c) + " = 0."];
+      if (c) bas.push((c > 0 ? "İki taraftan " + c + " çıkarılır: " : "İki tarafa " + -c + " eklenir: ") + (V ? "" : EKSI) + "|" + ic + "| = " + tam(-c) + ".");
+      if (!V) bas.push("İki taraf −1 ile çarpılır: |" + ic + "| = " + tam(E) + ".");
+      const cozum = tur === "iki"
+        ? [...bas, "Birinci durum, içi " + tam(E) + ": " + ic + " = " + tam(E) + ".", ...cozAdim(a, b, E),
+          "İkinci durum, içi " + tam(-E) + ": " + ic + " = " + tam(-E) + ".", ...cozAdim(a, b, -E),
+          "Kontrol: " + fYaz(x0 + dd), "Kontrol: " + fYaz(x0 - dd), "Sıfırlar " + zYaz(z) + " olur."]
+        : tur === "yok"
+          ? [...bas, "Mutlak değer hiç eksi olmaz; |" + ic + "| = " + tam(E) + " olamaz.",
+            ad + " değer: " + tam(c) + ". Bu değer x ekseninin " + (V ? "üstündedir" : "altındadır") + ".", "Grafik x eksenini kesmez; f fonksiyonunun sıfırı yoktur."]
+          : [...bas, "Mutlak değer yalnız içi 0 iken 0 olur.", ...icSifirAdim(a, b),
+            "En " + (V ? "alt" : "üst") + " nokta (" + tam(x0) + ", 0), tam x ekseninin üzerinde; tek sıfır vardır.", "Sıfır yalnız " + tam(x0) + " olur."];
+      // İpucu örneği soru sayılarıyla çakışmaz: 15, 20, 25'ten soruda (sıfırlar, a, b, c, E) mutlak değerce geçmeyen ilki.
+      const orn = [15, 20, 25].find(n => ![...z, a, b, c, E].some(v => Math.abs(v) === n));
+      if (orn === undefined) continue;
+      return {
+        params: { s, a, b, c }, baglam: null,
+        kok: "f: ℝ → ℝ, f(x) = " + mYaz(s, a, b, c) + " fonksiyonunun sıfırları aşağıdakilerden hangisidir?",
+        dogru: zYaz(z), deger: d, yanlislar: ys,
+        ipuclari: [
+          "Sıfır, f(x)'i 0 yapan x değeridir; grafiğin x eksenini kestiği noktaları arıyorsun.",
+          "f(x) = 0 yaz ve mutlak değerli kısmı tek başına bırak. Örnek: |x| = " + orn + " ise x = " + orn + " ya da x = " + EKSI + orn + ". Mutlak değer hiç eksi olmaz.",
+          // İlk adım somut; sonucu (|…| = E) yazmaz, bir yönergeyle biter.
+          "İlk adım: " + mYaz(s, a, b, c) + " = 0 yazılır. "
+            + (c ? "Şimdi mutlak değerli kısmı yalnız bırak: " + (c > 0 ? "iki taraftan " + c + " çıkar." : "iki tarafa " + -c + " ekle.")
+              : V ? "Şimdi içini 0 yapan x'i bul." : "Şimdi iki tarafı −1 ile çarp."),
+        ],
+        cozum: cozum.map((t, i) => i + 1 + ". " + t),
+      };
+    }
+  };
+  const sifirKontrol = ({ s, a, b, c }) => {
+    // 1/12 adımlı ızgarada tam sayı aritmetiğiyle: 12·f(k/12) = s·|ak + 12b| + 12c = 0 olan noktaları say.
+    const z = [];
+    for (let k = -12 * 40; k <= 12 * 40; k++) if (s * Math.abs(a * k + 12 * b) + 12 * c === 0) z.push(k / 12);
+    return zYaz(z);
+  };
+  kayit({
+    id: "mat-u2-mutlak-sifir", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 2,
+    kaynak: { kitap: KITAP, sayfa: "125, 128-129, 134-135" }, gen: sifirGen(["iki", "iki", "bir"]), kontrol: sifirKontrol,
+  });
+  kayit({
+    id: "mat-u2-mutlak-sifir-yok", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 1,
+    kaynak: { kitap: KITAP, sayfa: "125, 128-129, 134-135" }, gen: sifirGen(["yok", "bir", "iki"], true), kontrol: sifirKontrol,
+  });
+
+  kayit({
+    id: "mat-u2-mutlak-artan-azalan", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 2,
+    kaynak: { kitap: KITAP, sayfa: "122-124, 134" },
+    gen(r) {
+      const { pick } = R();
+      const istek = pick(r, ["artan", "azalan"]);
+      for (;;) {
+        // Sınır: a < 0 (|−2x + 6| yine V), x0 = 0, c = 0; dışarıdaki c aralıkları değiştirmez.
+        const { a, x0, b } = mKur(r, [1, 1, 2, 3, 4, -1, -2, -3], X0_H);
+        if (a < 0 && b === 0) continue; // |−x| gösterimi bu konuda kafa karıştırır; a < 0 yalnız b ≠ 0 ile
+        const s = r() < 0.4 ? -1 : 1, c = r() < 0.3 ? 0 : pick(r, C_H), V = s > 0;
+        const sag = (istek === "artan") === V, A = (sg, v) => (sg ? sagA(v) : solA(v));
+        const ic = dogruYaz(a, b), dogru = A(sag, x0), ters = istek === "artan" ? "azalandır" : "artandır";
+        const yd = (metin, h, ac) => y(metin, h, ac, metin);
+        let ys = [
+          V ? yd(A(!sag, x0), "esitsizlik_yonu", "Bu aralıkta x büyürken f " + (istek === "artan" ? "küçülür" : "büyür") + "; f burada " + ters + ". Soru f'nin " + istek + " olduğu aralığı istiyor.")
+            : yd(A(!sag, x0), "eksi_mutlak_karistirma", "Önündeki eksi V'yi ters çevirir: f, x = " + tam(x0) + " noktasının solunda artan, sağında azalandır."),
+          yd(A(sag, -x0), "carpim_sifir_isaret", isaretAc(a, b)),
+          // c = −x0 ya da c = −b iken önce işlem hatası teşhisi kalır.
+          ...(Math.abs(a) !== 1 ? [yd(A(sag, -b), "eksik_adim", dogruYaz(a, 0) + " = " + tam(-b) + " ara sonuçtur; iki taraf " + yonelme(a) + " bölünür.")] : []),
+          yd(A(sag, c), "kavram_karisikligi", tam(c) + ", en " + (V ? "alt" : "üst") + " noktanın y değeridir. Aralık x değerleriyle yazılır; ucu içi 0 yapan x'tir."),
+          yd(sag ? "[" + tam(x0) + ", ∞]" : "[" + EKSI + "∞, " + tam(x0) + "]", "sonsuz_koseli", SONSUZ_AC),
+        ];
+        ys = ayikla(ys, dogru);
+        if (tekilSay(ys) < 3) continue;
+        const f = x => s * Math.abs(a * x + b) + c, xs = [x0 - 1, x0, x0 + 1];
+        // f(x)'te x yerine sayı: "f(−5) = −|−5 + 4| + 1 = 0", a ≠ 1 iken "2·(−5) + 8".
+        const ax = x => (x === 0 ? "0" : a === 1 ? tam(x) : a === -1 ? EKSI + pt(x) : tam(a) + "·" + pt(x));
+        const fSatir = x => "f(" + tam(x) + ") = " + (V ? "" : EKSI) + "|" + ax(x) + cEk(b) + "|" + cEk(c) + " = " + tam(f(x)) + ".";
+        return {
+          params: { istek, s, a, b, c }, baglam: null,
+          kok: "f: ℝ → ℝ, f(x) = " + mYaz(s, a, b, c) + " fonksiyonunun " + istek + " olduğu en geniş aralık aşağıdakilerden hangisidir?",
+          dogru, deger: dogru, yanlislar: ys,
+          ipuclari: [
+            "Aralığın ucu, grafiğin en " + (V ? "alt" : "üst") + " noktasının x değeridir. Önce o x'i bul.",
+            "Bu x'in solundan ve sağından birer sayı seç, f değerlerini karşılaştır. x büyürken f de büyüyorsa f orada artandır.",
+            ilkAdimYari(a, b),
+          ],
+          cozum: [
+            ...(a < 0 ? ["|" + ic + "| = |" + dogruYaz(-a, -b) + "| olur; x'in önündeki eksi mutlak değerin içinde olduğu için grafiğin biçimi değişmez."] : []),
+            ...icSifirAdim(a, b),
+            "Solundan bir sayı: " + fSatir(xs[0]), "İçi 0 iken: " + fSatir(xs[1]), "Sağından bir sayı: " + fSatir(xs[2]),
+            "x = " + tam(x0) + " noktasının solunda f " + (V ? "küçülür, sağında büyür." : "büyür, sağında küçülür."),
+            ...(c ? ["Sondaki " + cIsaret(c) + " grafiği yalnız yukarı ya da aşağı öteler; artan ve azalan aralıklar değişmez."] : []),
+            "f fonksiyonunun " + istek + " olduğu en geniş aralık " + dogru + " olur.",
+          ].map((t, i) => i + 1 + ". " + t),
+        };
+      }
+    },
+    kontrol(p) {
+      // Ardışık tam sayılarda farkın işaretine bak; istenen işaretin sürdüğü bölge bir uca dayanır.
+      const v = izgara(p), adim = [];
+      for (let i = 0; i + 1 < v.length; i++) {
+        const fark = v[i + 1][1] - v[i][1];
+        if (p.istek === "artan" ? fark > 0 : fark < 0) adim.push(v[i][0]);
+      }
+      const ilk = v[0][0], son = v[v.length - 2][0];
+      if (adim.includes(son) && !adim.includes(ilk)) return sagA(Math.min(...adim));
+      if (adim.includes(ilk) && !adim.includes(son)) return solA(Math.max(...adim) + 1);
+      return "BELİRSİZ";
+    },
+  });
+
+  // modlar/yerler: ana kayıt bağlamlı Vmaks, Vmin (x0 dışarıda), Tmaks (zorluk 3); ikinci kayıt (zorluk 2) Vmin x0 aralıkta ya da uçta
+  // ve düz Vmaks (kartın birebir örneği, iki hesaplık). baglamli: Vmaks hep tersane bağlamıyla mı gelir.
+  const kapaliGen = (modlar, yerler, baglamli) => function (r) {
+    const { pick, rint } = R();
+    const mod = pick(r, modlar);
+    const icx = (x, h) => tam(x) + (h > 0 ? " − " + h : h < 0 ? " + " + -h : ""); // x yerine sayı: |18 − 20|
+    const yv = (v, h, ac) => y(typeof v === "number" ? tam(v) : v, h, ac, typeof v === "number" ? v : "YOK");
+    for (;;) {
+      let h, p, q, k = 0, s = 1, baglam = null, kok, d, ys, ipuclari, cozum;
+      const fx = () => (s < 0 ? EKSI : "") + "|" + dogruYaz(1, -h) + "|" + cEk(k);
+      const tanim = () => "f: [" + tam(p) + ", " + tam(q) + "] → ℝ, f(x) = " + fx();
+      const deg = x => "f(" + tam(x) + ") = " + (s < 0 ? EKSI : "") + "|" + icx(x, h) + "|" + cEk(k) + " = " + tam(s * Math.abs(x - h) + k);
+      const araliktaMi = () => "Şimdi bu x'in [" + tam(p) + ", " + tam(q) + "] aralığında olup olmadığına bak.";
+      if (mod === "Vmaks") {
+        // Sınır: uç değerler eşit (L = R), h bir uçta (L = 0 ya da R = 0), uçlar farklı.
+        // Bağlamda hedef iç noktadır ve sapma hedefin %5'ini geçmez (120–250 mm'de en çok 6 mm).
+        const ctx = baglamli, L = rint(r, ctx ? 1 : 0, 6), Rr = r() < 0.2 ? L : rint(r, ctx ? 1 : 0, 6);
+        if (L + Rr < 2) continue;
+        h = ctx ? pick(r, [120, 150, 180, 200, 250]) : rint(r, -3, 8);
+        p = h - L; q = h + Rr; d = Math.max(L, Rr);
+        const xm = L > Rr ? [p] : L < Rr ? [q] : [p, q], xs = xm[xm.length - 1];
+        if (ctx) {
+          baglam = "Gölcük'teki bir tersanede kesilen çelik parçaların boyu " + h + " mm olmalıdır. Bir makinenin kestiği parçanın boyu x mm'dir ve x, [" + p + ", " + q + "] kapalı aralığındadır. Hedeften sapma f(x) = |x − " + h + "| fonksiyonu ile hesaplanır.";
+          kok = "Buna göre en büyük sapma, yani f fonksiyonunun maksimum değeri kaç mm'dir?";
+        } else kok = tanim() + " fonksiyonunun maksimum değeri kaçtır?";
+        ys = [
+          ctx ? yv("En büyük sapma yoktur.", "maksimum_varlik", "Parçanın boyu " + p + " ile " + q + " mm arasındadır, uçlar dâhil; en büyük sapma uçlardan birinde vardır.")
+            : yv("Maksimum değer yoktur.", "maksimum_varlik", "Kapalı aralıkta uç noktalar da tanım kümesindedir; V'nin en büyük değeri bir uçta alınır."),
+          // h uçta iken min(L, R) = 0: işlem hatası (eksik_adim) kavramdan önce kalır.
+          yv(Math.min(L, Rr), "eksik_adim", "Uçlardaki iki değerden küçüğü seçilmiş; en büyük değer istenir."),
+          yv(0, "kavram_karisikligi", ctx ? "0 mm en küçük sapmadır, parça tam " + h + " mm iken. Soru en büyük sapmayı istiyor."
+            : "0 minimum değerdir; x = " + tam(h) + " noktasında alınır. Soru en büyük değeri istiyor."),
+          yv(xs, "okuma_hatasi", ctx ? xs + " mm, parçanın boyudur; soru sapmayı istiyor."
+            : "x = " + tam(xs) + ", maksimum değerin alındığı x değeridir; soru f'nin değerini istiyor."),
+        ];
+        ipuclari = [
+          (ctx ? "Parçanın boyu x, " + p + " ile " + q + " mm arasında değer alır" : "x yalnız " + tam(p) + " ile " + tam(q) + " arasında değer alır") + "; uçlar da dâhil.",
+          "V yukarı açık; en büyük değer uç noktalardan birindedir. İki uçta f'yi hesapla, büyüğünü al.",
+          // Uç değerler farklıysa küçüğü (cevap değil) hesaplanır; eşitse sonuç yazılmaz.
+          "İlk adım: " + (L === Rr ? "f(" + tam(p) + ") = |" + icx(p, h) + "| yazılır." : deg(L < Rr ? p : q) + ".") + " Sonra öbür uçta da f'yi hesapla.",
+        ];
+        cozum = [
+          "Sol uç: " + deg(p) + ".", "Sağ uç: " + deg(q) + ".", "V yukarı açık; en büyük değer uçlardadır.",
+          "Büyüğü alınır: maksimum değer " + tam(d) + " olur.",
+          "Bu değer " + xm.map(x => "x = " + tam(x)).join(" ve ") + " " + (xm.length > 1 ? "noktalarında" : "noktasında") + " alınır.",
+          ...(ctx ? ["En büyük sapma " + d + " mm olur."] : []),
+        ];
+      } else if (mod === "Vmin") {
+        // Sınır: h içeride (min 0), h bir uçta (min 0), h dışarıda 1–3 birim (min en yakın uçta).
+        const yer = pick(r, yerler);
+        h = rint(r, -3, 8);
+        if (yer === "ic") { p = h - rint(r, 1, 5); q = h + rint(r, 1, 5); }
+        else if (yer === "uc") { const n = rint(r, 2, 6); [p, q] = r() < 0.5 ? [h, h + n] : [h - n, h]; }
+        else { const e = rint(r, 1, 3), n = rint(r, 2, 5); [p, q] = r() < 0.5 ? [h + e, h + e + n] : [h - e - n, h - e]; }
+        const dp = Math.abs(p - h), dq = Math.abs(q - h), icinde = p <= h && h <= q;
+        d = icinde ? 0 : Math.min(dp, dq);
+        const xm = icinde ? h : dp < dq ? p : q;
+        kok = tanim() + " fonksiyonunun minimum değeri kaçtır?";
+        ys = [
+          yv("Minimum değer yoktur.", "maksimum_varlik", "Uçlar aralığa dâhildir; bu yüzden en küçük değer vardır ve hesaplanabilir."),
+          yv(Math.max(dp, dq), "kavram_karisikligi", "Seçtiğin sayı uçlardaki büyük değerdir, yani maksimum değerdir. Soru en küçük değeri istiyor."),
+          // Dışarıda iken 0 hem "içi 0 yapan x aralıkta sanıldı" hem bir uç olabilir; önce kavram teşhisi.
+          ...(icinde ? [] : [yv(0, "kavram_karisikligi", "x = " + tam(h) + ", [" + tam(p) + ", " + tam(q) + "] aralığının dışındadır; f bu aralıkta 0 değerini almaz.")]),
+          yv(xm, "okuma_hatasi", "x = " + tam(xm) + ", minimum değerin alındığı x değeridir; soru f'nin değerini istiyor."),
+          ...(icinde ? [yv(Math.min(dp, dq), "kavram_karisikligi", "İçi 0 olan x = " + tam(h) + " aralıktadır; en küçük değer uçta değil, bu noktada alınır.")] : []),
+        ];
+        ipuclari = [
+          "Önce x'in hangi aralıkta olduğuna bak: " + tam(p) + " ile " + tam(q) + " arası, uçlar dâhil.",
+          "|" + dogruYaz(1, -h) + "| en küçük değerini içi 0 iken alır. İçi 0 yapan x aralıktaysa en küçük değer orada; değilse iki uçtaki değeri karşılaştır.",
+          ilkAdim(1, -h) + " " + araliktaMi(),
+        ];
+        cozum = icinde
+          ? [...icSifirAdim(1, -h), tam(h) + ", [" + tam(p) + ", " + tam(q) + "] aralığının " + (h === p || h === q ? "ucudur; aralığa dâhildir." : "içindedir."),
+            "f(" + tam(h) + ") = |0| = 0.", "|" + dogruYaz(1, -h) + "| hiç eksi olmaz; bu yüzden 0 en küçük değerdir.", "Minimum değer 0 olur ve x = " + tam(h) + " noktasında alınır."]
+          : [...icSifirAdim(1, -h), tam(h) + ", [" + tam(p) + ", " + tam(q) + "] aralığının dışındadır; f bu aralıkta 0 değerini almaz.",
+            "Sol uç: " + deg(p) + ".", "Sağ uç: " + deg(q) + ".", "Küçüğü alınır: minimum değer " + tam(d) + " olur.", "Bu değer x = " + tam(xm) + " noktasında alınır."];
+      } else {
+        // Ters V: maksimum iç noktada. Sınır: k = 0.
+        h = rint(r, -3, 6); k = rint(r, 0, 8); s = -1;
+        const L = rint(r, 1, 5), Rr = rint(r, 1, 5);
+        p = h - L; q = h + Rr; d = k;
+        kok = tanim() + " fonksiyonunun maksimum değeri kaçtır?";
+        const mx = EKSI + "|" + dogruYaz(1, -h) + "|";
+        ys = [
+          // Uçlardaki büyük değer ilk sırada: başka bir şıkla aynı sayıya düşerse bu teşhis kalır.
+          yv(k - Math.min(L, Rr), "eksik_adim", "Yalnız uçlar karşılaştırılmış. İçi 0 olan x = " + tam(h) + " noktası da aralıktadır; ters V'de en büyük değer bu noktada alınır."),
+          yv(k - Math.max(L, Rr), "kavram_karisikligi", "Seçtiğin sayı uçlardaki küçük değerdir, yani minimum değerdir. Soru en büyük değeri istiyor."),
+          yv(k + Math.max(L, Rr), "eksi_mutlak_karistirma", "Önündeki eksi V'yi ters çevirir; " + mx + " ≤ 0 olduğundan f(x) ≤ " + tam(k) + " olur."),
+          yv(h, "okuma_hatasi", "x = " + tam(h) + ", maksimum değerin alındığı x değeridir; soru f'nin değerini istiyor."),
+          yv("Maksimum değer yoktur.", "maksimum_varlik", "Ters V'nin en üst noktası x = " + tam(h) + " noktasındadır ve bu x aralıktadır; maksimum değer orada alınır."),
+        ];
+        ipuclari = [
+          "Önünde eksi var; grafik ters V biçimindedir. Soru f'nin en büyük değerini istiyor.",
+          "Ters V'de en büyük değer, içi 0 olan x'te alınır. Önce bu x'in aralıkta olup olmadığına bak, sonra f'yi orada hesapla.",
+          ilkAdim(1, -h) + " " + araliktaMi(),
+        ];
+        cozum = [
+          ...icSifirAdim(1, -h),
+          tam(h) + ", [" + tam(p) + ", " + tam(q) + "] aralığının içindedir.",
+          "f(" + tam(h) + ") = " + EKSI + "|0|" + cEk(k) + " = " + tam(k) + ".",
+          "Sol uç: " + deg(p) + ".", "Sağ uç: " + deg(q) + ".",
+          mx + " ≤ 0 olduğundan f(x) ≤ " + tam(k) + " olur.",
+          "Maksimum değer " + tam(k) + " olur ve x = " + tam(h) + " noktasında alınır.",
+        ];
+      }
+      ys = ayikla(ys, d);
+      if (tekilSay(ys) < 3) continue;
+      return {
+        params: { mod, s, h, k, p, q }, baglam, kok, dogru: tam(d), deger: d, yanlislar: ys, ipuclari,
+        cozum: cozum.map((t, i) => i + 1 + ". " + t),
+      };
+    }
+  };
+  const kapaliKontrol = ({ mod, s, h, k, p, q }) => {
+    // Tanım kümesini 0,5 adımla tara; en büyük ya da en küçük değeri doğrudan seç.
+    const v = [];
+    for (let x = p; x <= q; x += 0.5) v.push(s * Math.abs(x - h) + k);
+    return tam(mod === "Vmin" ? Math.min(...v) : Math.max(...v));
+  };
+  kayit({
+    id: "mat-u2-mutlak-kapali-aralik", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 3,
+    kaynak: { kitap: KITAP, sayfa: "126-127, 131-132" }, gen: kapaliGen(["Vmaks", "Vmin", "Tmaks"], ["dis"], true), kontrol: kapaliKontrol,
+  });
+  kayit({
+    id: "mat-u2-mutlak-kapali-min-ic", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 2,
+    kaynak: { kitap: KITAP, sayfa: "126-127, 131-132" }, gen: kapaliGen(["Vmin", "Vmin", "Vmaks"], ["ic", "ic", "uc"], false), kontrol: kapaliKontrol,
   });
 })();

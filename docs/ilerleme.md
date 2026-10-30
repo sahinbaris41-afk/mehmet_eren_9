@@ -2,7 +2,7 @@
 
 **Durum:** BOŞTA
 
-**Codex sayacı:** 1/3 (son çapraz denetim: Matematik Ünite 1, 2026-10-27. Sonraki 3 konu bitince yeniden çalışır.)
+**Codex sayacı:** 2/3 (son çapraz denetim: Matematik Ünite 1, 2026-10-27. Sonraki 3 konu bitince yeniden çalışır.)
 
 Döngü kuralı:
 - Durum "ÇALIŞIYOR" iken yeni konu başlatılmaz.
@@ -36,7 +36,8 @@ Kaynak: `dersler/*/harita.json` (`yazili` alanı).
 | Matematik | 9.1.2 Aralıklar | 1D1Y | ✓ tamam | 6 | 14 (4) | 2 | 3 + Codex | pilot |
 | Matematik | 9.1.3 Sayı kümeleri | 1D1Y | ✓ tamam | 5 | 12 (4) | 2 | 3 + Codex | pilot |
 | Matematik | 9.1.4 İşlem özellikleri ve özdeşlikler | 1D1Y | ✓ tamam | 8 | 15 (3) | 2 | 3 + Codex | pilot |
-| Matematik | 9.2.1 Doğrusal fonksiyonlar | 1D1Y, 1D2Y | ✓ tamam | 11 | 20 (4) | 5 | 3 | bu commit |
+| Matematik | 9.2.1 Doğrusal fonksiyonlar | 1D1Y, 1D2Y | ✓ tamam | 11 | 20 (4) | 5 | 3 | 1aab100 |
+| Matematik | 9.2.2 Mutlak değer fonksiyonu | 1D2Y | ✓ tamam | 14 | 20 (5) | 8 | 3 + üreteç 3 | bu commit |
 
 ## Pilot özeti (Matematik Ünite 1)
 

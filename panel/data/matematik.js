@@ -138,6 +138,30 @@
        9,
        10
       ]
+     },
+     {
+      "id": "matematik-u2-k2",
+      "ad": "Mutlak Değer Fonksiyonu ve Nitel Özellikleri",
+      "yazili": [
+       "1D2Y"
+      ],
+      "ogrenme_ciktilari": [
+       {
+        "kod": "9.2.2",
+        "metin": "Gerçek sayılarda m(x) = ± |ax ± b| ± c (a, b, c ∈ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonlarının nitel özelliklerini incelemek için doğrusal fonksiyonlara bağlı analojik akıl yürütebilme"
+       }
+      ],
+      "kitap": {
+       "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+       "basili_baslangic": 120,
+       "pdf_baslangic": 120,
+       "basili_bitis": 135,
+       "eslesme_puani": 1.0
+      },
+      "haftalar": [
+       10,
+       11
+      ]
      }
     ]
    }
@@ -3054,7 +3078,7 @@
        "kalip": "Verilen aralıkta tanımlı fonksiyonun tanım ve görüntü kümelerini bulunuz.",
        "ornek_soru": "Pompa 10. dakikadan 40. dakikaya kadar izleniyor. Basılan su f(x) = x ile veriliyor. f fonksiyonunun tanım ve görüntü kümelerini işlemlerinizi göstererek bulunuz.",
        "ornek_cevap": [
-        "1. x, 10 ile 40 arasında değişir; uçlar dahildir.",
+        "1. x, 10 ile 40 arasında değişir; uçlar dâhildir.",
         "2. Tanım kümesi [10, 40] olur.",
         "3. Uç değerleri hesaplayalım: f(10) = 10 ve f(40) = 40.",
         "4. x büyüdükçe f(x) de büyüyor; değerler 10 ile 40 arasında kalır.",
@@ -3332,8 +3356,8 @@
      "katmanlar": {
       "basit": [
        "Fonksiyonun alabildiği en büyük değere **maksimum değer** denir. En küçük değere **minimum değer** denir.",
-       "f(x) = x, [1, 5] aralığında tanımlı olsun. Köşeli parantez, [1, 5]'te uçların dahil olduğunu söyler. En küçük değer f(1) = 1, en büyük değer f(5) = 5 olur.",
-       "Aralık açık, yani (1, 5) ise uçlar dahil değildir. 4,9 ve 4,99 alınır ama 5 alınmaz; hep daha büyüğü vardır.",
+       "f(x) = x, [1, 5] aralığında tanımlı olsun. Köşeli parantez, [1, 5]'te uçların dâhil olduğunu söyler. En küçük değer f(1) = 1, en büyük değer f(5) = 5 olur.",
+       "Aralık açık, yani (1, 5) ise uçlar dâhil değildir. 4,9 ve 4,99 alınır ama 5 alınmaz; hep daha büyüğü vardır.",
        "Bu yüzden (1, 5)'te maksimum değer yoktur. Aynı nedenle minimum değer de yoktur.",
        "ℝ'de tanımlı f(x) = x'in de maksimumu ve minimumu yoktur. Doğru iki yönde de sonsuza gider."
       ],
@@ -3352,7 +3376,7 @@
         "4. Bu değer x = −3'te alınır; minimum noktası (−3, −3)'tür.",
         "5. Maksimum değer 4'tür.",
         "6. Bu değer x = 4'te alınır; maksimum noktası (4, 4)'tür.",
-        "7. c) [−3, 4)'te 4 dahil değildir; 4'e yaklaşan her sayıdan daha büyüğü vardır.",
+        "7. c) [−3, 4)'te 4 dâhil değildir; 4'e yaklaşan her sayıdan daha büyüğü vardır.",
         "8. Bu yüzden maksimum değer olmaz; minimum değer yine −3'tür."
        ],
        "puan_ipucu": "Program açık aralık durumunun yorumlanmasını özellikle istiyor (program, s.53). Köşeli ve normal parantezi dikkatle oku."
@@ -3373,21 +3397,21 @@
        "soru": "f(x) = x, [2, 9] aralığında tanımlı. Maksimum değeri kaçtır?",
        "cevap": "9",
        "ipuclari": [
-        "Köşeli parantez, ucun dahil olduğunu söyler.",
+        "Köşeli parantez, ucun dâhil olduğunu söyler.",
         "f(x) = x artan; en büyük değer sağ uçtadır.",
         "Sağ uçtaki sayıyı bul ve f'ye ver."
        ],
-       "yanlis_aciklama": "Artan fonksiyonda en büyük değer sağ uçta alınır; uç dahilse değer odur."
+       "yanlis_aciklama": "Artan fonksiyonda en büyük değer sağ uçta alınır; uç dâhilse değer odur."
       },
       {
        "soru": "f(x) = x, (2, 9) aralığında tanımlı. Maksimum değeri var mıdır?",
        "cevap": "Yoktur",
        "ipuclari": [
-        "Normal parantez, ucun dahil olmadığını söyler.",
+        "Normal parantez, ucun dâhil olmadığını söyler.",
         "9 alınamıyorsa 8,9; 8,99; 8,999 alınabilir mi, düşün.",
         "8,99 gibi 9'a yakın bir sayı seç. Aralıkta ondan büyük başka bir sayı var mı, ara."
        ],
-       "yanlis_aciklama": "Uç dahil değilse 9 alınmaz; 9'a yaklaşan her sayıdan daha büyüğü vardır."
+       "yanlis_aciklama": "Uç dâhil değilse 9 alınmaz; 9'a yaklaşan her sayıdan daha büyüğü vardır."
       }
      ]
     },
@@ -3705,7 +3729,7 @@
         "a = 1 > 0; sıfırın sağında + vardır.",
         "≥ işaretinde eşitlik de istenir. g(3) değerini hesapla ve 0'a eşit mi, bak."
        ],
-       "yanlis_aciklama": "≥ istendiği için g(3) = 0 da uyar; 3 aralığa dahildir, köşeli parantezle yazılır."
+       "yanlis_aciklama": "≥ istendiği için g(3) = 0 da uyar; 3 aralığa dâhildir, köşeli parantezle yazılır."
       },
       {
        "soru": "d(x) = −15x + 600 için d(50) pozitif mi, negatif mi?",
@@ -3818,7 +3842,7 @@
     },
     {
      "on": "f(x) = x, (1, 5) aralığında tanımlıysa maksimum değeri var mı?",
-     "arka": "Yoktur; 5 dahil değildir. [1, 5]'te olsaydı maksimum 5 olurdu."
+     "arka": "Yoktur; 5 dâhil değildir. [1, 5]'te olsaydı maksimum 5 olurdu."
     },
     {
      "on": "g(x) = ax + b'de a ve b neyi söyler?",
@@ -3844,7 +3868,7 @@
     },
     {
      "hata_turu": "aralik_uc",
-     "aciklama": "(1, 5) aralığında maksimum değeri 5 sanmak. Uç dahil değilse maksimum yoktur."
+     "aciklama": "(1, 5) aralığında maksimum değeri 5 sanmak. Uç dâhil değilse maksimum yoktur."
     },
     {
      "hata_turu": "egim_kesisim_karistirma",
@@ -3881,6 +3905,1295 @@
    "uretim": {
     "ajan": "konu-anlatici",
     "tarih": "2026-10-27"
+   }
+  },
+  "matematik-u2-k2": {
+   "id": "matematik-u2-k2",
+   "ders": "matematik",
+   "baslik": "Mutlak Değer Fonksiyonu",
+   "harita_adi": "Mutlak Değer Fonksiyonu ve Nitel Özellikleri",
+   "ogrenme_ciktilari": [
+    {
+     "kod": "9.2.2",
+     "metin": "Gerçek sayılarda m(x) = ± |ax ± b| ± c (a, b, c ∈ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonlarının nitel özelliklerini incelemek için doğrusal fonksiyonlara bağlı analojik akıl yürütebilme"
+    }
+   ],
+   "yazili": [
+    "1D2Y"
+   ],
+   "kaynak": [
+    {
+     "tur": "ders_kitabi",
+     "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502/",
+     "sayfa": "120-135"
+    },
+    {
+     "tur": "program",
+     "kod": "9.2.2",
+     "surec": [
+      "a",
+      "b",
+      "c"
+     ],
+     "dosya": "kaynaklar/meb/matematik/metin/matematik-dersi_20260819_143102_154/",
+     "sayfa": "50, 51, 54"
+    },
+    {
+     "tur": "ortak_sinav",
+     "dosya": "kaynaklar/meb/ortak_sinav/gecmis_sinavlar/2025_2026/metin/9_mat_1D1Y_2025-11-06_sabah/ ve _ogle/",
+     "sayfa": "biçim (açık uçlu, 15 puan, 'işlemlerinizi göstererek'); mutlak değer fonksiyonu sorusu yok, s.3'teki lastik basıncı sorusu 9.1 mutlak değerli eşitsizliğidir"
+    }
+   ],
+   "on_bilgi": [
+    "Mutlak değer ve sayı doğrusunda uzaklık (9.1)",
+    "Doğrusal fonksiyonlar: ax + b'nin sıfırı, işareti, artan-azalan, öteleme, görüntü kümesi, bire birlik, minimum-maksimum değer (9.2.1, matematik-u2-k1)",
+    "Aralık gösterimi: [a, b], (a, b), [0, ∞) (9.1)",
+    "Birinci dereceden bir bilinmeyenli denklem çözme"
+   ],
+   "bolumler": [
+    {
+     "id": "b1",
+     "baslik": "Mutlak değer: 0'a uzaklık",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "120-121, 126-127",
+      "program_sayfa": "50",
+      "surec": [
+       "a"
+      ]
+     },
+     "ornek": {
+      "baglam": "deniz",
+      "metin": "Gölcük iskelesinde deniz yüzeyi 0 kabul edilsin. Dalgıç 3 m aşağıda (−3), martı 3 m yukarıda (3). İkisi de yüzeye 3 m uzakta."
+     },
+     "katmanlar": {
+      "basit": [
+       "Bir sayının 0'a olan uzaklığına o sayının **mutlak değer**i denir. |−3| diye yazılır ve 3'e eşittir.",
+       "Uzaklık hiçbir zaman eksi olmaz. |3| = 3, |−3| = 3 ve |0| = 0 olur.",
+       "Her x'i |x|'e götüren kurala **mutlak değer fonksiyonu** denir. g(x) = |x| gibi bir formüle fonksiyonun **cebirsel temsil**i denir.",
+       "Tablo: x = −2, −1, 0, 1, 2 için g(x) = 2, 1, 0, 1, 2 olur. Eksi sayılar artıya döner; artılar aynı kalır.",
+       "Uzaklık fikri ölçümde de işe yarar. Tersanede boru 120 cm olmalı ama 118 cm kesildi; hedefe uzaklığı 2 cm'dir. Ölçülen değerin hedefe uzaklığına **sapma** denir; sapma da hiç eksi olmaz."
+      ],
+      "kitap": [
+       "Kitap konuya deniz seviyesinin altındaki ve üstündeki noktalarla başlar (s.120). Noktanın k doğrusundaki sayısı bağımsız, deniz seviyesine uzaklığı bağımlı değişkendir (s.121).",
+       "Bu ilişki gerçek sayılarda g(x) = |x| olarak yazılır. Kitap onu f(x) = x ile yan yana inceler (s.121-122).",
+       "Program da bu karşılaştırmayı ister: f(x) = x ile n(x) = ±|x| arasındaki benzerlik ve farklar gözlenir (program, s.50). Burada n(x), |x| ya da −|x| demektir.",
+       "Kitabın sıcaklık örneğinde sapma, ölçülen ve ortalama sıcaklık arasındaki farkın mutlak değeridir (s.126-127)."
+      ],
+      "yazilida": {
+       "kalip": "Verilen durumda bağımlı ve bağımsız değişkeni belirleyip mutlak değer fonksiyonunu yazınız.",
+       "ornek_soru": "Gölcük iskelesinde deniz yüzeyi 0 kabul ediliyor. Bir noktanın konumu x metredir (aşağısı eksi). a) Bağımlı ve bağımsız değişkeni yazınız. b) Noktanın deniz yüzeyine uzaklığını veren g fonksiyonunu yazınız. c) g(−4) ve g(2,5) değerlerini işlemlerinizi göstererek bulunuz.",
+       "ornek_cevap": [
+        "1. a) Konum (m) bağımsız değişkendir; deniz yüzeyine uzaklık (m) bağımlı değişkendir.",
+        "2. b) Uzaklık eksi olamaz; konumun mutlak değeri alınır.",
+        "3. g(x) = |x| olur.",
+        "4. c) g(−4) = |−4| = 4.",
+        "5. g(2,5) = |2,5| = 2,5.",
+        "6. −4'teki nokta 4 m, 2,5'teki nokta 2,5 m uzaktadır."
+       ],
+       "puan_ipucu": "Önce mutlak değerin içini ayrı yaz: |−4|. Sonra sonucu yaz; sınavda 'işlemlerinizi göstererek' denir."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "mutlak değer",
+       "tanim": "Bir sayının 0'a olan uzaklığı; hiçbir zaman eksi olmaz."
+      },
+      {
+       "terim": "mutlak değer fonksiyonu",
+       "tanim": "Her x'i |x|'e götüren fonksiyon; g(x) = |x| diye yazılır."
+      },
+      {
+       "terim": "cebirsel temsil",
+       "tanim": "Fonksiyonun formülle yazılmış hâli; g(x) = |x| ya da g(x) = |x − 120| gibi."
+      },
+      {
+       "terim": "sapma",
+       "tanim": "Ölçülen değerin hedef değere uzaklığı; hiç eksi olmaz. 120 cm olması gereken boru 118 cm kesilirse sapma 2 cm'dir."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "|−7| kaçtır?",
+       "cevap": "7",
+       "ipuclari": [
+        "Mutlak değer, sayının 0'a uzaklığıdır.",
+        "Uzaklık eksi olmaz; işareti düşünmeden kaç adım olduğuna bak.",
+        "Sayı doğrusunda −7'den 0'a kaç birim var, say."
+       ],
+       "yanlis_aciklama": "Mutlak değer uzaklıktır; uzaklık eksi olamaz."
+      },
+      {
+       "soru": "g(x) = |x| için g(−5) ile g(5) eşit midir?",
+       "cevap": "Evet, ikisi de 5",
+       "ipuclari": [
+        "Mutlak değer neyi ölçüyordu, hatırla.",
+        "İki sayının 0'a uzaklığını ayrı ayrı bul.",
+        "Sayı doğrusunda −5'ten 0'a kaç adım var, say."
+       ],
+       "yanlis_aciklama": "|−5| = 5 ve |5| = 5 olur; sonuçlar aynıdır."
+      }
+     ]
+    },
+    {
+     "id": "b2",
+     "baslik": "|x| grafiği: alttaki kısmı yukarı yansıt",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "121, 122, 124, 126, 127, 128, 129, 134",
+      "surec": [
+       "a"
+      ]
+     },
+     "ornek": {
+      "baglam": "deniz",
+      "metin": "b1'deki dalgıcı hatırla: −2 m'deki dalgıç yüzeye 2 m uzaktadır. x = −2, −1, 0, 1, 2 için |x| = 2, 1, 0, 1, 2 olur; f(x) = x ise −2, −1, 0, 1, 2 verir. Yalnız eksi olan iki değer değişti; 0 ve artılar aynen kaldı."
+     },
+     "katmanlar": {
+      "basit": [
+       "Önce f(x) = x doğrusunu çiz. Bu doğrunun x < 0 olan kısmı x ekseninin altında kalır.",
+       "Yalnız bu alttaki kısmı x eksenine göre yukarı çevir. Buna **yansıma** denir; (−2, −2) noktası (−2, 2) olur.",
+       "Üstteki kısım aynen kalır; bütün doğru yansıtılmaz. Sonuç V harfine benzer.",
+       "g(x) = |x| en küçük değeri olan 0'ı x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Kitabın tablosunda bu satırın adı **minimum noktası**dır. Minimum değer ise yalnız y değeridir: 0."
+      ],
+      "kitap": [
+       "Kitap |ax + b| grafiğini ax + b doğrusundan elde eder (s.129). Doğrunun negatif değer aldığı kısmın x eksenine göre yansıması alınır.",
+       "Bu yüzden grafik hiç x ekseninin altına inmez. Kitap, grafiğe bakarak g(x) = |x|'in parçalı gösterimli bir fonksiyon olduğunu söyler (s.124).",
+       "Kitaptaki nitel özellik tablolarında 'Maksimum Noktası' ve 'Minimum Noktası' satırları vardır (s.122, s.126, s.128). Tablolar boştur; bu satırları öğrenci doldurur.",
+       "Kitap 'nokta' sözünü x değeri için de kullanır: 'minimum değerini x = −b/a noktasında alır' (s.134), 'maksimum değerini 16 ve 24 noktalarında aldığı' (s.127)."
+      ],
+      "yazilida": {
+       "kalip": "f(x) = x grafiğinden yararlanarak g(x) = |x| grafiğini çiziniz; iki grafiğin benzerlik ve farklılıklarını yazınız.",
+       "ornek_soru": "f(x) = x grafiğinden yararlanarak g(x) = |x| grafiğini çiziniz. f ve g grafiklerinin bir benzerliğini ve bir farklılığını yazınız.",
+       "ornek_cevap": [
+        "1. f(x) = x için noktalar: (−2, −2), (0, 0), (2, 2).",
+        "2. x < 0 olan kısım x ekseninin altındadır; yalnız bu kısım x eksenine göre yansıtılır.",
+        "3. (−2, −2) noktası (−2, 2) olur; (0, 0) ve (2, 2) yerinde kalır.",
+        "4. Benzerlik: x ≥ 0 için iki grafik aynıdır; ikisi de (0, 0)'dan geçer.",
+        "5. Farklılık: x < 0 için f negatif, g pozitif değer alır; g'nin grafiği V biçimindedir."
+       ],
+       "puan_ipucu": "Grafikte en az üç noktayı işaretle ve koordinatını yaz. Kitabın Grafik 1 ile Grafik 2 karşılaştırması (s.121) da böyle ilerler."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "yansıma",
+       "tanim": "Grafiğin bir parçasını x eksenine göre öbür tarafa, aynı uzaklığa taşımak; x aynı kalır, y'nin işareti değişir."
+      },
+      {
+       "terim": "minimum noktası",
+       "tanim": "Fonksiyonun minimum değerini aldığı yer. |x| minimum değerini x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Minimum değer ise yalnız y'dir: 0."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "(−5, −5) noktası x eksenine göre yansıtılırsa hangi nokta olur?",
+       "cevap": "(−5, 5)",
+       "ipuclari": [
+        "x eksenine göre yansımada noktanın iki sayısından biri hiç değişmez.",
+        "x aynı kalır; yalnız y değerinin işareti değişir.",
+        "Birinci sayıyı aynen yaz: (−5, ...). Şimdi ikinci sayıyı bul."
+       ],
+       "yanlis_aciklama": "x eksenine göre yansımada x değişmez; yalnız y'nin işareti döner."
+      },
+      {
+       "soru": "g(x) = |x| fonksiyonu minimum değerini hangi x değerinde alır?",
+       "cevap": "x = 0",
+       "ipuclari": [
+        "V'nin en alt noktasına bak.",
+        "|x| en az kaç olabilir? Uzaklık eksi olmaz.",
+        "|x| = 0 eşitliğini kur; bunu sağlayan x'i ara."
+       ],
+       "yanlis_aciklama": "|x| en az 0 olur; bu da yalnız x = 0'da olur."
+      },
+      {
+       "soru": "|x| grafiğini çizerken f(x) = x doğrusunun hangi kısmı yansıtılır: x < 0 kısmı mı, x > 0 kısmı mı?",
+       "cevap": "x < 0 kısmı (x ekseninin altında kalan kısım)",
+       "ipuclari": [
+        "Yansıtılan kısım, grafikte nerede duruyor, düşün.",
+        "x ekseninin altında y değerleri eksidir.",
+        "x = −1 ve x = 1 için f(x) = x değerlerini yaz; hangisi eksi?"
+       ],
+       "yanlis_aciklama": "Yalnız eksi değer alan kısım yukarı yansıtılır; o da x < 0 kısmıdır."
+      }
+     ]
+    },
+    {
+     "id": "b3",
+     "baslik": "|x|: görüntü kümesi, sıfır, işaret",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "121-123",
+      "surec": [
+       "a",
+       "b"
+      ]
+     },
+     "ornek": {
+      "baglam": "futbol",
+      "metin": "Gölcük'te okul maçında top orta çizgiden 6 m sola ya da 6 m sağa gidiyor. İki durumda da orta çizgiye uzaklık 6 m. Uzaklık 0 ya da artı olur, eksi olmaz."
+     },
+     "katmanlar": {
+      "basit": [
+       "g(x) = |x|'te x yerine her gerçek sayı yazılabilir. Yani en geniş tanım kümesi ℝ'dir.",
+       "Fonksiyonun alabildiği bütün değerlere **görüntü kümesi** denir. |x| hiç eksi çıkmaz. Görüntü kümesi 0 ve artı sayılardır; [0, ∞) diye yazılır.",
+       "Fonksiyonu 0 yapan x'e fonksiyonun **sıfırı** denir. |x|'i 0 yapan tek x, 0'dır. f(x) = x'in sıfırı da 0'dır.",
+       "Fonksiyonun nerede +, nerede − olduğunu **işaret tablosu** gösterir. |x| için x < 0 iken +, x = 0 iken 0, x > 0 iken + olur. f(x) = x'te sol taraf −'ydi; burada + oldu."
+      ],
+      "kitap": [
+       "Kitap f(x) = x ile g(x) = |x|'i aynı tabloda karşılaştırır (s.122). Tablonun satırları tanım kümesi, görüntü kümesi, sıfır, işaret, maksimum-minimum noktası, bire birlik ve artan-azalandır.",
+       "Kitaba göre f, x < 0 için negatif, x > 0 için pozitiftir. g ise x < 0 için de x > 0 için de pozitiftir (s.123).",
+       "Kitap g'nin işaret tablosunu f'nin tablosundan elde eder (s.123). Sol taraftaki − işareti + olur."
+      ],
+      "yazilida": {
+       "kalip": "f(x) = x ve g(x) = |x| fonksiyonlarının nitel özelliklerini karşılaştırınız (tablo doldurma).",
+       "ornek_soru": "f(x) = x ve g(x) = |x| fonksiyonlarının en geniş tanım kümesini, görüntü kümesini, sıfırını ve işaretini karşılaştırarak yazınız.",
+       "ornek_cevap": [
+        "1. Tanım kümesi: ikisi için de ℝ.",
+        "2. Görüntü kümesi: f için ℝ, g için [0, ∞).",
+        "3. Sıfır: f(0) = 0 ve |0| = 0. İkisinin sıfırı da 0'dır.",
+        "4. İşaret: f, x < 0 için −, x > 0 için + olur.",
+        "5. g, x < 0 için de x > 0 için de + olur."
+       ],
+       "puan_ipucu": "Kitaptaki tablo (s.122) satır satır doldurulur. Her satıra iki fonksiyonun cevabını ayrı ayrı yaz."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "görüntü kümesi",
+       "tanim": "Fonksiyonun alabildiği bütün değerler; |x| için [0, ∞)."
+      },
+      {
+       "terim": "sıfır",
+       "tanim": "Fonksiyonun değerini 0 yapan x; |x| için x = 0."
+      },
+      {
+       "terim": "işaret tablosu",
+       "tanim": "Fonksiyonun hangi aralıkta +, hangi aralıkta − olduğunu, sıfırlarıyla birlikte gösteren tablo."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "g(x) = |x| fonksiyonunun görüntü kümesinde −2 var mıdır?",
+       "cevap": "Hayır",
+       "ipuclari": [
+        "Görüntü kümesi, g(x)'in alabildiği değerlerdir.",
+        "Mutlak değer eksi çıkabilir mi, düşün.",
+        "|x| = −2 olacak bir x arıyorsun. Uzaklık −2 olabilir mi?"
+       ],
+       "yanlis_aciklama": "|x| hiç eksi olmaz; görüntü kümesi [0, ∞)'dur."
+      },
+      {
+       "soru": "g(x) = |x| fonksiyonunun sıfırı kaçtır?",
+       "cevap": "0",
+       "ipuclari": [
+        "Sıfır, g(x)'i 0 yapan x değeridir.",
+        "|x| = 0 eşitliğini kur.",
+        "0'a uzaklığı 0 olan sayı hangisi?"
+       ],
+       "yanlis_aciklama": "Yalnız 0 sayısının 0'a uzaklığı 0'dır."
+      },
+      {
+       "soru": "g(x) = |x| için g(−9) pozitif mi, negatif mi?",
+       "cevap": "Pozitif",
+       "ipuclari": [
+        "Önce g(−9) değerini hesapla.",
+        "Mutlak değer eksi işaretini kaldırır.",
+        "|−9| = ... yaz; sonucun işaretine bak."
+       ],
+       "yanlis_aciklama": "x negatif olsa da |x| pozitiftir: |−9| = 9."
+      }
+     ]
+    },
+    {
+     "id": "b4",
+     "baslik": "|x|: azalan-artan, minimum değer, bire birlik",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "121-122, 134",
+      "surec": [
+       "a",
+       "b"
+      ]
+     },
+     "ornek": {
+      "baglam": "deniz",
+      "metin": "Bir tekne kıyı boyunca gidiyor ve yolu üstündeki Gölcük iskelesinin önünden geçiyor. İskeleye uzaklık önce azalıyor, iskelenin önünde 0 oluyor, sonra yeniden artıyor."
+     },
+     "katmanlar": {
+      "basit": [
+       "x, −3'ten 0'a giderken |x| 3, 2, 1, 0 olur; değerler küçülür. Yani |x|, (−∞, 0] aralığında azalandır.",
+       "x, 0'dan 3'e giderken |x| 0, 1, 2, 3 olur; değerler büyür. Yani |x|, [0, ∞) aralığında artandır.",
+       "En küçük değer 0'dır ve x = 0'da alınır. Kitap en küçük değere **minimum değer**, en büyük değere **maksimum değer** der. V yukarı sonsuza açılır; |x|'in maksimum değeri yoktur.",
+       "Dikkat: minimum değer yalnız y'dir, yani 0. |x| bu değeri x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Yazılıda ikisini birlikte yaz: 'x = 0'da alır, grafikte (0, 0)'.",
+       "|−2| = |2| = 2 olur. İki farklı x aynı sonucu verdiği için |x| **bire bir** değildir. f(x) = x ise bire birdi."
+      ],
+      "kitap": [
+       "Kitabın genel sonucunda (s.134) |ax + b|, x = −b/a'nın solunda azalan, sağında artandır. |x|'te a = 1, b = 0 olduğundan bu nokta x = 0'dır.",
+       "Kitaba göre bu fonksiyonun maksimum değeri yoktur. Fonksiyon minimum değerini x = −b/a noktasında alır (s.134). |x| için minimum değer 0'dır.",
+       "Kitap fonksiyonun bire bir olmadığını da yazar (s.134). Bunu göstermek için aynı sonucu veren iki farklı x yeter."
+      ],
+      "yazilida": {
+       "kalip": "Mutlak değer fonksiyonunun artan ve azalan olduğu aralıkları, minimum-maksimum değerlerini ve bire birliğini belirleyiniz.",
+       "ornek_soru": "g: ℝ → ℝ, g(x) = |x| veriliyor. a) Artan ve azalan olduğu aralıkları yazınız. b) Minimum ve maksimum değerini yazınız. c) g bire bir midir? Bir örnekle gösteriniz.",
+       "ornek_cevap": [
+        "1. a) x ≤ 0 iken x büyüdükçe |x| küçülür; g, (−∞, 0] aralığında azalandır.",
+        "2. x ≥ 0 iken x büyüdükçe |x| büyür; g, [0, ∞) aralığında artandır.",
+        "3. b) |x| ≥ 0 olduğundan minimum değer 0'dır; x = 0'da alınır.",
+        "4. Değerler sınırsız büyür; maksimum değer yoktur.",
+        "5. c) −2 ≠ 2 olduğu hâlde g(−2) = 2 ve g(2) = 2 olur.",
+        "6. Farklı x'ler aynı değeri verdiği için g bire bir değildir."
+       ],
+       "puan_ipucu": "Bire bir olmadığını göstermek için tek karşı örnek yeter. Doğrusal fonksiyon kartındaki sabit fonksiyon sorusunda da aynı yol kullanıldı."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "minimum değer",
+       "tanim": "Fonksiyonun alabildiği en küçük değer (yalnız y); |x| için 0."
+      },
+      {
+       "terim": "maksimum değer",
+       "tanim": "Fonksiyonun alabildiği en büyük değer (yalnız y); |x|'in ℝ'de maksimum değeri yoktur."
+      },
+      {
+       "terim": "bire bir",
+       "tanim": "Farklı x'lerin hep farklı sonuç verdiği fonksiyon; |x| bire bir değildir çünkü |−2| = |2|."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "g(x) = |x| için g(−3) ile g(−1)'den hangisi daha büyüktür?",
+       "cevap": "g(−3)",
+       "ipuclari": [
+        "İki değeri ayrı ayrı bul.",
+        "|−3| ve |−1| değerlerini hesapla.",
+        "İlk adım: |−3| = 3 yaz. Sonra |−1|'i yaz ve karşılaştır."
+       ],
+       "yanlis_aciklama": "Sıfırın solunda |x| azalandır; −3, 0'a daha uzak olduğu için daha büyük değer verir."
+      },
+      {
+       "soru": "g(x) = |x| fonksiyonunun minimum değeri (en küçük değeri) kaçtır?",
+       "cevap": "0",
+       "ipuclari": [
+        "Mutlak değer en az kaç olabilir?",
+        "Uzaklık eksi olamaz; en küçük uzaklık nedir?",
+        "x = 0 yaz ve |0| değerini hesapla."
+       ],
+       "yanlis_aciklama": "|x| hiç eksi olmaz; minimum değeri x = 0'da alınan 0'dır."
+      },
+      {
+       "soru": "g(x) = |x| bire bir midir?",
+       "cevap": "Hayır",
+       "ipuclari": [
+        "Bire birde farklı x'ler farklı sonuç verir.",
+        "Aynı sonucu veren iki farklı x ara.",
+        "g(−2) ve g(2) değerlerini yan yana yaz."
+       ],
+       "yanlis_aciklama": "g(−2) = g(2) = 2; farklı x'ler aynı sonucu veriyor."
+      }
+     ]
+    },
+    {
+     "id": "b5",
+     "baslik": "h(x) = −|x|: ters V",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "122-124, 130, 134",
+      "surec": [
+       "a",
+       "b"
+      ]
+     },
+     "ornek": {
+      "baglam": "deniz",
+      "metin": "Kıyıdaki bir tabelada büyük bir V harfi var. Sakin denizde bu harfin yansıması ters döner ve Λ gibi görünür. Bu kez harfin tamamı ters dönüyor."
+     },
+     "katmanlar": {
+      "basit": [
+       "h(x) = −|x|, |x|'in sonucunun işaretini değiştirir. Tablo: x = −2, −1, 0, 1, 2 için h(x) = −2, −1, 0, −1, −2 olur.",
+       "Grafik, |x| grafiğinin tamamının x eksenine göre yansımasıdır. V ters döner; en üst nokta (0, 0) olur. Kitabın tablosunda bu satırın adı **maksimum noktası**dır.",
+       "Görüntü kümesi (−∞, 0] olur. Sıfır yine 0'dır; x ≠ 0 için işaret hep −'dir.",
+       "Maksimum değer 0'dır, x = 0'da alınır; minimum değer yoktur. h, (−∞, 0]'da artan, [0, ∞)'da azalandır.",
+       "h(−1) = h(1) = −1 olur. Bu yüzden h de bire bir değildir."
+      ],
+      "kitap": [
+       "Kitap h(x) = −|x|'i, g(x) = |x|'teki mutlak değerin katsayısını −1 yaparak kurar (s.122). Grafiği, g'nin grafiğinin x eksenine göre yansımasıdır (s.130).",
+       "Kitaba göre −|ax + b|'nin görüntü kümesi (−∞, 0]'dır. Minimum değeri yoktur; maksimum değerini x = −b/a noktasında alır (s.134).",
+       "Artan-azalan durumu |ax + b|'nin tersidir: x = −b/a'nın solunda artan, sağında azalandır (s.134)."
+      ],
+      "yazilida": {
+       "kalip": "g(x) = |x| ile h(x) = −|x| fonksiyonlarının nitel özelliklerini karşılaştırınız.",
+       "ornek_soru": "g(x) = |x| ve h(x) = −|x| veriliyor. a) h'nin grafiğinin g'nin grafiğinden nasıl elde edildiğini yazınız. b) h'nin görüntü kümesini ve maksimum değerini bulunuz. c) h'nin artan ve azalan olduğu aralıkları yazınız.",
+       "ornek_cevap": [
+        "1. a) h(x) = −g(x) olduğundan her noktanın y değeri ters işaret alır.",
+        "2. Yani h'nin grafiği, g'nin grafiğinin x eksenine göre yansımasıdır.",
+        "3. b) |x| ≥ 0 olduğundan −|x| ≤ 0 olur; görüntü kümesi (−∞, 0].",
+        "4. Maksimum değer 0'dır ve x = 0'da alınır. Minimum değer yoktur.",
+        "5. c) x ≤ 0 iken x büyüdükçe h büyür; h, (−∞, 0]'da artandır.",
+        "6. x ≥ 0 iken x büyüdükçe h küçülür; h, [0, ∞)'da azalandır."
+       ],
+       "puan_ipucu": "Kitabın işaret tablosunda (s.123) g'nin satırı +, h'nin satırı − ile doldurulur. Önce g'yi bul, sonra işaretleri çevir."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "maksimum noktası",
+       "tanim": "Fonksiyonun maksimum değerini aldığı yer. −|x| maksimum değerini x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Maksimum değer ise yalnız y'dir: 0."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "h(x) = −|x| için h(−3) kaçtır?",
+       "cevap": "−3",
+       "ipuclari": [
+        "Önce mutlak değeri, sonra baştaki eksiyi uygula.",
+        "Mutlak değerin içi −3; onun 0'a uzaklığı kaç?",
+        "İlk adım: |−3| = 3. Şimdi bu sonuca baştaki işareti uygula."
+       ],
+       "yanlis_aciklama": "Önce |−3| = 3 bulunur; sonra baştaki eksi ile −3 olur."
+      },
+      {
+       "soru": "h(x) = −|x| fonksiyonunun maksimum değeri (en büyük değeri) kaçtır?",
+       "cevap": "0",
+       "ipuclari": [
+        "Grafik ters V'dir; en üst noktaya bak.",
+        "−|x| hiç artı olamaz.",
+        "x = 0 yaz ve h(0) değerini hesapla."
+       ],
+       "yanlis_aciklama": "−|x| en fazla 0 olur; bu değer x = 0'da alınır."
+      }
+     ]
+    },
+    {
+     "id": "b6",
+     "baslik": "|x| parçalı gösterimi",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "124",
+      "program_sayfa": "54",
+      "surec": [
+       "c"
+      ]
+     },
+     "ornek": {
+      "baglam": "tersane",
+      "metin": "Tersanede bir ölçü cihazı çubuğun sapmasını gösteriyor. Çubuk 3 mm kısa da olsa 3 mm uzun da olsa ekranda 3 yazıyor. Cihaz kısa için bir kural, uzun için başka bir kural kullanıyor."
+     },
+     "katmanlar": {
+      "basit": [
+       "|x| iki kuraldan oluşur. x eksiyse işaretini değiştirir: |−3| = −(−3) = 3. x 0 ya da artıysa aynen bırakır: |3| = 3.",
+       "Bunu iki satırla yazarız: x < 0 iken g(x) = −x, x ≥ 0 iken g(x) = x. Buna **parçalı gösterim** denir.",
+       "Dikkat: −x her zaman eksi değildir. x = −3 iken −x = 3 olur, yani artıdır.",
+       "h(x) = −|x| için satırlar yer değiştirir: x < 0 iken h(x) = x, x ≥ 0 iken h(x) = −x olur."
+      ],
+      "kitap": [
+       "Kitap, grafiğe bakarak g ve h'nin iki farklı cebirsel temsille yazılabileceğini gösterir (s.124). Her satırın yanına, hangi x'ler için geçerli olduğu yazılır.",
+       "Program bunu şöyle açıklar: iki farklı doğrusal fonksiyon, parçalı gösterimle tek bir ifadede toplanır (program, s.54)."
+      ],
+      "yazilida": {
+       "kalip": "Mutlak değer fonksiyonunu parçalı gösterimle yazınız.",
+       "ornek_soru": "h(x) = −|x| fonksiyonunu parçalı gösterimle yazınız. Parçalı gösterimi kullanarak h(−4) ve h(3) değerlerini bulunuz.",
+       "ornek_cevap": [
+        "1. x ≥ 0 iken |x| = x olur; h(x) = −x.",
+        "2. x < 0 iken |x| = −x olur.",
+        "3. h(x) = −(−x) = x.",
+        "4. Parçalı gösterim: x < 0 iken h(x) = x; x ≥ 0 iken h(x) = −x.",
+        "5. −4 < 0 olduğundan ilk satır kullanılır: h(−4) = −4.",
+        "6. 3 ≥ 0 olduğundan ikinci satır kullanılır: h(3) = −3."
+       ],
+       "puan_ipucu": "Her satırın yanına koşulunu yaz: x < 0, x ≥ 0. Sonucu doğrudan da kontrol et: h(−4) = −|−4| = −4."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "parçalı gösterim",
+       "tanim": "Bir fonksiyonu, x'in bulunduğu aralığa göre farklı kurallarla satır satır yazmak."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "|x| parçalı gösteriminde x = −5 için hangi satır kullanılır: −x mi, x mi?",
+       "cevap": "−x satırı",
+       "ipuclari": [
+        "Her satırın yanındaki koşula bak.",
+        "x < 0 iken −x, x ≥ 0 iken x kullanılır.",
+        "−5 sıfırdan küçük mü, büyük mü?"
+       ],
+       "yanlis_aciklama": "−5 < 0 olduğundan x < 0 satırı, yani −x kullanılır."
+      },
+      {
+       "soru": "x = −5 iken −x kaçtır?",
+       "cevap": "5",
+       "ipuclari": [
+        "−x, x'in işaretini değiştirir.",
+        "x yerine −5 yaz: −(−5).",
+        "Eksi ile eksi yan yana gelince ne olur, hatırla."
+       ],
+       "yanlis_aciklama": "−(−5) = 5 olur; −x her zaman eksi değildir."
+      }
+     ]
+    },
+    {
+     "id": "b7",
+     "baslik": "|x − 4| parçalı gösterimi",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "127, 134",
+      "program_sayfa": "54",
+      "surec": [
+       "c"
+      ]
+     },
+     "ornek": {
+      "baglam": "tersane",
+      "metin": "Tersanede bir parça 4 mm olmalı. 1 mm ölçülürse cihaz |1 − 4| = 3 yazar; 7 mm ölçülürse |7 − 4| = 3 yazar. 4'ün altı ve üstü için iki ayrı kural gerekir."
+     },
+     "katmanlar": {
+      "basit": [
+       "|x − 4| de iki satıra ayrılır. Mutlak değerin içini 0 yapan x'e **ayırma yeri** diyelim. Adım adım yapalım:",
+       "1. İçini 0 yapan x'i bul: x − 4 = 0 ise x = 4.",
+       "2. x ≥ 4 iken içi 0 ya da artıdır. Mutlak değer aynen çıkar: g(x) = x − 4.",
+       "3. x < 4 iken içi eksidir. Mutlak değer işareti değiştirir: g(x) = −(x − 4).",
+       "4. Parantezi aç: −(x − 4) = −x + 4.",
+       "5. Sonuç: x < 4 iken g(x) = −x + 4, x ≥ 4 iken g(x) = x − 4.",
+       "6. Kontrol, x = 1 için: |1 − 4| = 3 ve satırdan −1 + 4 = 3. İki yol aynı sonucu verir."
+      ],
+      "kitap": [
+       "Genel kural (s.134), a > 0 iken: x < −b/a için |ax + b| = −ax − b olur. x ≥ −b/a için |ax + b| = ax + b olur.",
+       "Kitabın sıcaklık örneğinde |x − 20| de böyle iki satıra ayrılır (s.127)."
+      ],
+      "yazilida": {
+       "kalip": "Mutlak değer fonksiyonunu parçalı gösterimle yazınız.",
+       "ornek_soru": "g(x) = |x + 3| fonksiyonunu parçalı gösterimle yazınız. Parçalı gösterimi kullanarak g(−5) ve g(1) değerlerini bulunuz.",
+       "ornek_cevap": [
+        "1. İçini sıfır yapan x'i bulalım: x + 3 = 0 ⇒ x = −3.",
+        "2. x ≥ −3 iken x + 3 ≥ 0'dır; mutlak değer aynen çıkar: g(x) = x + 3.",
+        "3. x < −3 iken x + 3 < 0'dır; işaret değişir: g(x) = −(x + 3).",
+        "4. Parantezi açalım: g(x) = −x − 3.",
+        "5. Parçalı gösterim: x < −3 iken g(x) = −x − 3; x ≥ −3 iken g(x) = x + 3.",
+        "6. −5 < −3 olduğundan ilk satır kullanılır: g(−5) = −(−5) − 3.",
+        "7. g(−5) = 5 − 3 = 2.",
+        "8. 1 ≥ −3 olduğundan ikinci satır kullanılır: g(1) = 1 + 3 = 4."
+       ],
+       "puan_ipucu": "Sonucu doğrudan da kontrol et: g(−5) = |−5 + 3| = |−2| = 2. Dikkat: |x + 3|'te ayırma yeri −3'tür, 3 değil."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "ayırma yeri",
+       "tanim": "Mutlak değerin içini 0 yapan x; parçalı gösterimin iki satırı bu x'te ayrılır. |x − 4| için x = 4."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "|x − 6| parçalı yazılırken iki satır hangi x değerinde ayrılır?",
+       "cevap": "x = 6",
+       "ipuclari": [
+        "Satırlar, mutlak değerin içinin işaret değiştirdiği yerde ayrılır.",
+        "İçini 0'a eşitle: x − 6 = 0.",
+        "Eşitliğin iki yanına 6 ekle."
+       ],
+       "yanlis_aciklama": "x − 6 = 0 ise x = 6 olur; −6 değil."
+      },
+      {
+       "soru": "|x − 6| parçalı yazılıyor. x ≥ 6 satırına hangisi yazılır: x − 6 mı, −x + 6 mı?",
+       "cevap": "x − 6",
+       "ipuclari": [
+        "x ≥ 6 iken mutlak değerin içi hangi işarette, düşün.",
+        "İçi 0 ya da artıysa mutlak değer içini aynen bırakır; eksiyse işaretini değiştirir.",
+        "Bir sayı dene: x = 8 al ve 8 − 6 işlemini yap."
+       ],
+       "yanlis_aciklama": "x ≥ 6 iken x − 6 ≥ 0 olur; mutlak değer içini aynen bırakır, satır x − 6'dır."
+      }
+     ]
+    },
+    {
+     "id": "b8",
+     "baslik": "|ax + b| grafiği",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "125, 129, 131, 134",
+      "program_sayfa": "54",
+      "surec": [
+       "a"
+      ]
+     },
+     "ornek": {
+      "baglam": "gölcük",
+      "metin": "Gölcük sahilindeki yürüyüş yolunun 3. kilometresinde bir çay bahçesi var. Yolun x. kilometresindeki birinin çay bahçesine uzaklığı |x − 3| km olur. 1. km'de de 5. km'de de uzaklık 2 km'dir."
+     },
+     "katmanlar": {
+      "basit": [
+       "|ax + b| grafiğini çizmek için önce ax + b doğrusunu çiz. Sonra yalnız x ekseninin altında kalan kısmı yukarı yansıt.",
+       "Örnek: |2x − 6|. Önce y = 2x − 6 doğrusu çizilir. 2x − 6 = 0 ise x = 3; bu sayı **doğrunun sıfırı**dır.",
+       "Doğru x = 3'te eksiden artıya geçer. x < 3 kısmı yukarı yansıyınca grafik burada V olur.",
+       "Tablo: x = 1, 2, 3, 4, 5 için |2x − 6| = 4, 2, 0, 2, 4 olur. En küçük değer 0'dır ve x = 3'te alınır.",
+       "Yani |2x − 6| minimum değerini x = 3 noktasında alır; grafikte bu nokta (3, 0)'dır. Kısa yol: doğrunun sıfırı neyse, minimum değerin alındığı x odur.",
+       "Önünde eksi varsa, yani −|2x − 6|'da, aynı nokta en üst nokta olur. Kitabın tablosunda bu satırın adı maksimum noktasıdır."
+      ],
+      "kitap": [
+       "Kitap önce f(x) = ax + b'yi çizer (s.129). Sonra f'nin negatif olduğu kısmın x eksenine göre yansımasını alır; böylece |ax + b| grafiği oluşur.",
+       "Program bu bağı özellikle ister: ±|ax + b|'nin sıfırı ile grafiği arasındaki ilişki gözlenir (program, s.54). Kitap da |ax + b|'nin minimum değerini x = −b/a noktasında aldığını yazar (s.134).",
+       "Kitabın mama örneğinde (s.131) önce y = 2x − 5 çizilir. Negatif kısmı yansıtılır, sonra grafik 3 birim yukarı ötelenir."
+      ],
+      "yazilida": {
+       "kalip": "Doğrusal fonksiyonun grafiğinden yararlanarak mutlak değer fonksiyonunun grafiğini çiziniz.",
+       "ornek_soru": "f(x) = 2x − 6 ve g(x) = |2x − 6| veriliyor. f'nin grafiğinden yararlanarak g'nin grafiğini çiziniz. g'nin grafiğinin eksenleri kestiği noktaları işlemlerinizi göstererek bulunuz.",
+       "ornek_cevap": [
+        "1. f'nin sıfırı: 2x − 6 = 0 ⇒ x = 3.",
+        "2. f, x eksenini (3, 0)'da keser.",
+        "3. f(0) = 2 · 0 − 6 = −6; f, y eksenini (0, −6)'da keser.",
+        "4. x < 3 için f negatiftir; bu kısım x eksenine göre yansıtılır.",
+        "5. (0, −6) noktası (0, 6) olur; x ≥ 3 kısmı aynen kalır.",
+        "6. g, x eksenini (3, 0)'da, y eksenini (0, 6)'da keser.",
+        "7. g minimum değerini x = 3'te alır; grafikte bu nokta (3, 0)'dır."
+       ],
+       "puan_ipucu": "Önce f'nin iki noktasını, sonra yansıyan noktayı işaretle. Kitap da çizimi bu iki adımda yapar (s.129)."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "doğrunun sıfırı",
+       "tanim": "ax + b'yi 0 yapan x; doğrunun x eksenini kestiği yer. |ax + b| minimum değerini bu x'te alır."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "|x − 5| minimum değerini hangi x değerinde alır?",
+       "cevap": "x = 5",
+       "ipuclari": [
+        "Mutlak değer en az 0 olur; içi ne zaman 0 olur, düşün.",
+        "x − 5 = 0 denklemini kur.",
+        "Eşitliğin iki yanına 5 ekle."
+       ],
+       "yanlis_aciklama": "x − 5 = 0 ise x = 5 olur; −5 değil."
+      },
+      {
+       "soru": "y = 2x − 6 doğrusundaki (0, −6) noktası x eksenine göre yansıyınca hangi nokta olur?",
+       "cevap": "(0, 6)",
+       "ipuclari": [
+        "x eksenine göre yansımada noktanın bir sayısı hiç değişmez.",
+        "x aynı kalır; y değerinin işareti değişir.",
+        "Birinci sayıyı aynen yaz: (0, ...). Şimdi ikinci sayıyı bul."
+       ],
+       "yanlis_aciklama": "Yansımada yalnız y'nin işareti döner; −6, 6 olur."
+      },
+      {
+       "soru": "g(x) = |2x − 6| için g(1) kaçtır?",
+       "cevap": "4",
+       "ipuclari": [
+        "x yerine 1 yaz.",
+        "Önce içini hesapla, sonra mutlak değerini al.",
+        "İlk adım: 2 · 1 − 6 işlemini yap."
+       ],
+       "yanlis_aciklama": "İçi 2 − 6 = −4 olur; mutlak değeri 4'tür."
+      }
+     ]
+    },
+    {
+     "id": "b9",
+     "baslik": "±|ax + b|: nitel özellikler",
+     "sure_dk": 6,
+     "kaynak": {
+      "kitap_sayfa": "125, 128-129, 134",
+      "surec": [
+       "b",
+       "c"
+      ]
+     },
+     "ornek": {
+      "baglam": "tersane",
+      "metin": "Tersanede bir çelik levha 20 mm kalınlıkta olmalı. Ölçülen kalınlık x mm ise sapma |x − 20| mm olur. 19 mm de 21 mm de 1 mm sapmadır."
+     },
+     "katmanlar": {
+      "basit": [
+       "Tanım ve görüntü kümesi, sıfır, işaret, artan-azalan, minimum-maksimum ve bire birlik fonksiyonun **nitel özellik**leridir. Şimdi bunları |x − 20| için bulalım.",
+       "|x − 20|'nin sıfırı 20'dir; levha tam 20 mm ise sapma 0'dır. 19 ile 21 aynı sapmayı verir; fonksiyon bire bir değildir.",
+       "Sapma hiç eksi olmaz; görüntü kümesi [0, ∞)'dur. Minimum değer 0'dır ve x = 20'de alınır.",
+       "x, 20'ye yaklaşırken sapma azalır, uzaklaşırken artar. Yani (−∞, 20]'de azalan, [20, ∞)'da artandır.",
+       "−|x − 20| olsaydı işaret − olur, görüntü kümesi (−∞, 0] olurdu. Önce artan sonra azalan olurdu; minimum yerine x = 20'de maksimum değer 0 gelirdi. Değişmeyenler: tanım kümesi ℝ, sıfır 20 ve bire bir olmama."
+      ],
+      "kitap": [
+       "Kitabın genel sonucu (s.134): a ≠ 0 için |ax + b|'nin tanım kümesi ℝ, görüntü kümesi [0, ∞)'dur. Sıfırı x = −b/a'dır.",
+       "İşaret, x = −b/a dışında hep pozitiftir. Maksimum değer yoktur, minimum değer x = −b/a noktasında alınır ve fonksiyon bire bir değildir (s.134).",
+       "Kitap |ax + b| ± c ve −|ax + b| ± c için de aynı satırlı nitel özellik tablosunu kullanır (s.128-129)."
+      ],
+      "yazilida": {
+       "kalip": "Mutlak değer fonksiyonunun görüntü kümesini, sıfırını, artan-azalan aralıklarını, minimum-maksimum değerlerini ve bire birliğini bulunuz.",
+       "ornek_soru": "g: ℝ → ℝ, g(x) = |x + 2| veriliyor. İşlemlerinizi göstererek a) görüntü kümesini, b) sıfırını, c) artan ve azalan olduğu aralıkları, ç) minimum ve maksimum değerlerini bulunuz. d) g bire bir midir? Açıklayınız.",
+       "ornek_cevap": [
+        "1. a) |x + 2| ≥ 0'dır; görüntü kümesi [0, ∞).",
+        "2. b) x + 2 = 0 ⇒ x = −2. Sıfır −2'dir.",
+        "3. c) g, (−∞, −2] aralığında azalandır.",
+        "4. g, [−2, ∞) aralığında artandır.",
+        "5. ç) Minimum değer 0'dır ve x = −2'de alınır; grafikte bu nokta (−2, 0)'dır.",
+        "6. x büyüdükçe değerler sınırsız büyür; maksimum değer yoktur.",
+        "7. d) g(−3) = |−3 + 2| = |−1| = 1.",
+        "8. g(−1) = |−1 + 2| = |1| = 1.",
+        "9. −3 ≠ −1 olduğu hâlde değerler eşittir; g bire bir değildir."
+       ],
+       "puan_ipucu": "Önce sıfırı bul; artan-azalan aralıkları o sayıdan ayrılır. Kitabın genel sonucu (s.134) da bu sırayla yazılmıştır."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "nitel özellik",
+       "tanim": "Fonksiyonun tanım ve görüntü kümesi, sıfırı, işareti, artan-azalanlığı, minimum-maksimumu ve bire birliği."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "g(x) = |x − 20| için g(23) kaçtır?",
+       "cevap": "3",
+       "ipuclari": [
+        "x yerine 23 yaz.",
+        "Önce içini hesapla, sonra mutlak değerini al.",
+        "İlk adım: 23 − 20 işlemini yap."
+       ],
+       "yanlis_aciklama": "23 − 20 = 3 olur; 3 artı olduğu için mutlak değeri de 3'tür."
+      },
+      {
+       "soru": "|x + 4| fonksiyonunun sıfırı kaçtır?",
+       "cevap": "−4",
+       "ipuclari": [
+        "Sıfır, mutlak değerin içini 0 yapan x'tir.",
+        "x + 4 = 0 denklemini çöz.",
+        "Eşitliğin iki yanından 4 çıkar."
+       ],
+       "yanlis_aciklama": "x + 4 = 0 ise x = −4 olur; karşıya geçen sayının işareti değişir."
+      },
+      {
+       "soru": "−|x − 1| fonksiyonunun maksimum değeri (en büyük değeri) kaçtır?",
+       "cevap": "0",
+       "ipuclari": [
+        "Baştaki eksi, grafiği ters V yapar.",
+        "−|...| hiç artı olamaz.",
+        "x = 1 yaz ve değeri hesapla."
+       ],
+       "yanlis_aciklama": "−|x − 1| en fazla 0 olur; bu değer x = 1'de alınır."
+      }
+     ]
+    },
+    {
+     "id": "b10",
+     "baslik": "Kapalı aralıkta maksimum değer",
+     "sure_dk": 6,
+     "kaynak": {
+      "kitap_sayfa": "126-127",
+      "surec": [
+       "b"
+      ]
+     },
+     "ornek": {
+      "baglam": "tersane",
+      "metin": "Tersanede levha 20 mm olmalı. Makine yalnız 18 mm ile 22 mm arasında levha üretiyor. Sapma |x − 20| en fazla kaç mm olabilir?"
+     },
+     "katmanlar": {
+      "basit": [
+       "x her sayı olabilseydi |x − 20| sınırsız büyürdü; maksimum değer olmazdı. Burada x yalnız 18 ile 22 arasında.",
+       "Uçları da içine alan aralığa **kapalı aralık** denir: [18, 22]. 18 ve 22 de aralığın içindedir.",
+       "V yukarı açık ve aralık kapalıysa en büyük değer uç noktalardadır. Bulmak için iki uçta değer hesapla, büyüğünü al. Sapma fonksiyonu g(x) = |x − 20| olsun:",
+       "1. Sol uç: g(18) = |18 − 20| = |−2| = 2.",
+       "2. Sağ uç: g(22) = |22 − 20| = 2.",
+       "3. Büyüğünü al. İkisi de 2; maksimum değer 2'dir, x = 18 ve x = 22'de alınır.",
+       "4. 20 aralığın içinde olduğu için minimum değer g(20) = 0'dır.",
+       "5. Sapma 0 ile 2 arasında kalır; görüntü kümesi [0, 2]. Yani sapma en fazla 2 mm.",
+       "Uçlar eşit çıkmayabilir. [17, 21]'de g(17) = 3, g(21) = 1 olur; maksimum değer 3'tür, x = 17'de alınır.",
+       "Ters V'de bu kural işlemez. Örnek: −|x| + 4, tanım kümesi [−2, 3] kapalı aralığı. Uçlarda −|−2| + 4 = 2 ve −|3| + 4 = 1 olur.",
+       "Ama x = 0'da −|0| + 4 = 4 olur. En büyük değer 4'tür; uçta değil, aralığın içindeki maksimum noktasında, x = 0'da alınır."
+      ],
+      "kitap": [
+       "Kitabın sıcaklık örneğinde (s.126-127) sapma g(x) = |x − 20| ile verilir ve tanım kümesi [16, 24]'tür.",
+       "Kitap grafikten minimum değeri 0, maksimum değeri 4 bulur. Maksimum değerin 16 ve 24 noktalarında alındığını yazar (s.127)."
+      ],
+      "yazilida": {
+       "kalip": "Gerçek yaşam durumunu modelleyen mutlak değer fonksiyonunun tanım ve görüntü kümesini, sıfırını, minimum-maksimum değerlerini ve bire birliğini bulunuz.",
+       "ornek_soru": "Bir tersanede levha kalınlığı 20 mm olmalıdır. Ölçülen kalınlık 18 mm ile 22 mm arasındadır (uçlar dâhil). Sapmayı veren fonksiyon g(x) = |x − 20|'dir. a) Tanım ve görüntü kümesini bulunuz. b) Sıfırını bulup anlamını yazınız. c) Minimum ve maksimum değerleri ile alındıkları x değerlerini bulunuz. ç) g bire bir midir? Açıklayınız.",
+       "ornek_cevap": [
+        "1. a) x, 18 ile 22 arasındadır; tanım kümesi [18, 22].",
+        "2. g(18) = |18 − 20| = |−2| = 2.",
+        "3. g(20) = |20 − 20| = 0.",
+        "4. g(22) = |22 − 20| = 2.",
+        "5. Sapma 0 ile 2 arasında kalır; görüntü kümesi [0, 2].",
+        "6. b) |x − 20| = 0 ⇒ x = 20. Levha tam 20 mm iken sapma yoktur.",
+        "7. c) Minimum değer 0'dır; x = 20'de alınır.",
+        "8. Maksimum değer 2'dir; x = 18 ve x = 22'de alınır.",
+        "9. ç) 18 ≠ 22 olduğu hâlde g(18) = g(22) = 2'dir. Bu yüzden g bire bir değildir."
+       ],
+       "puan_ipucu": "Kitabın sıcaklık örneği (s.127) aynı sırayla çözülür. Uçlardaki ve içteki değerleri ayrı satırlarda hesapla; görüntü kümesini en son yaz."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "kapalı aralık",
+       "tanim": "Uç sayıları da içine alan aralık; [18, 22] diye yazılır, 18 ve 22 dâhildir."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "g(x) = |x − 20| ve tanım kümesi [15, 22] ise g'nin maksimum değeri kaçtır?",
+       "cevap": "5 (x = 15'te)",
+       "ipuclari": [
+        "V yukarı açık ve aralık kapalıysa en büyük değer uç noktalardan birinde çıkar.",
+        "İki uç için g'yi ayrı ayrı hesapla, sonra büyüğünü seç.",
+        "İlk adım: g(15) = |15 − 20| işlemini yap."
+       ],
+       "yanlis_aciklama": "g(15) = 5 ve g(22) = 2 olur; büyüğü 5'tir."
+      },
+      {
+       "soru": "g(x) = |x| fonksiyonunun tanım kümesi ℝ ise maksimum değeri var mıdır?",
+       "cevap": "Hayır",
+       "ipuclari": [
+        "Tanım kümesinin bir ucu var mı, bak.",
+        "x büyüdükçe |x| ne olur, düşün.",
+        "x = 10, 100, 1000 için |x| değerlerini yaz."
+       ],
+       "yanlis_aciklama": "ℝ'de uç yoktur; |x| sınırsız büyür, maksimum değer yoktur."
+      }
+     ]
+    },
+    {
+     "id": "b11",
+     "baslik": "Hikâyeden mutlak değer: sapma",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "126-127, 133",
+      "surec": [
+       "b"
+      ]
+     },
+     "ornek": {
+      "baglam": "tersane",
+      "metin": "Tersanede boru parçaları 120 cm kesilmeli. Usta bir boruyu 118 cm, öbürünü 123 cm kesiyor. Birincisi 2 cm kısa, ikincisi 3 cm uzun."
+     },
+     "katmanlar": {
+      "basit": [
+       "Kısa da olsa uzun da olsa hata artı bir sayıyla söylenir: 2 cm, 3 cm. b1'de gördüğün gibi buna hedeften sapma denir.",
+       "Kalıp: sapma = |ölçülen − hedef|. 118 için |118 − 120| = |−2| = 2 olur.",
+       "Kesilen boy x cm ise sapma g(x) = |x − 120| olur. Mutlak değerin içine önce x, sonra eksiyle hedef yazılır. Bu formül, sapmanın cebirsel temsilidir.",
+       "Bir sayı koyup hikâyeyle karşılaştır: x = 123 için |123 − 120| = 3. Hikâyedeki 3 cm ile aynı.",
+       "Usta boruyu 110 cm ile 130 cm arasında kesiyorsa x'in aralığı [110, 130]'dur. Bu aralık fonksiyonun tanım kümesidir.",
+       "Hedef 20 ise |x − 20|, hedef 32 ise |x − 32| yazılır. Kalıp hep aynıdır."
+      ],
+      "kitap": [
+       "Kitabın sıcaklık örneğinde (s.126-127) ortalama sıcaklık 20 °C'dir. Sapma, ölçülen ve ortalama sıcaklık arasındaki farkın mutlak değeriyle bulunur: g(x) = |x − 20|.",
+       "Kitapta ölçülen sıcaklıklar tanım kümesini, sapma miktarları görüntü kümesini temsil eder (s.127).",
+       "Kitabın araştırma ödevi de aynı adımları ister: tablo kur, cebirsel temsili yaz, uygun tanım aralığını belirle (s.133)."
+      ],
+      "yazilida": {
+       "kalip": "Verilen gerçek yaşam durumunu modelleyen mutlak değer fonksiyonunun cebirsel temsilini ve tanım kümesini yazınız.",
+       "ornek_soru": "Gölcük'teki bir tersanede gemi halatları 75 m olacak şekilde kesiliyor. Kesilen bir halatın boyu x metredir ve 70 m ile 80 m arasındadır (uçlar dâhil). a) Hedeften sapmayı veren g fonksiyonunun cebirsel temsilini ve tanım kümesini yazınız. b) g(72) ve g(79) değerlerini bulup sonucu yorumlayınız.",
+       "ornek_cevap": [
+        "1. a) Sapma = |ölçülen − hedef| kalıbı kullanılır.",
+        "2. Ölçülen x, hedef 75'tir: g(x) = |x − 75|.",
+        "3. x, 70 ile 80 arasındadır; tanım kümesi [70, 80].",
+        "4. b) g(72) = |72 − 75| = |−3| = 3.",
+        "5. g(79) = |79 − 75| = |4| = 4.",
+        "6. 72 m'lik halat hedeften 3 m kısa, 79 m'lik halat 4 m uzundur."
+       ],
+       "puan_ipucu": "Fonksiyonu yazınca bir sayı koyup hikâyeyle karşılaştır. Tanım kümesini de yaz; kitap da yazar (s.127)."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "sapma",
+       "tanim": "Ölçülen değerin hedef değerden ne kadar uzak olduğu; |ölçülen − hedef| ile bulunur, hiç eksi olmaz."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "Bir zincir 30 m olmalı. x m kesilirse hedeften sapmayı veren ifade nedir?",
+       "cevap": "|x − 30|",
+       "ipuclari": [
+        "Sapma eksi olmaz; eksiyi kaldıran işlem hangisiydi, hatırla.",
+        "Kalıp: |ölçülen − hedef|. Burada ölçülen ve hedef hangileri?",
+        "Ölçülen x'tir; mutlak değerin içine önce x'i yaz."
+       ],
+       "yanlis_aciklama": "Ölçülen x, hedef 30'dur; sapma |x − 30| olur."
+      },
+      {
+       "soru": "Hedef 50 kg, tartılan 47 kg. Sapma kaç kg'dır?",
+       "cevap": "3",
+       "ipuclari": [
+        "Sapma, ölçülenin hedeften ne kadar uzak olduğudur.",
+        "|ölçülen − hedef| kalıbına sayıları koy.",
+        "İlk adım: 47 − 50 işlemini yap."
+       ],
+       "yanlis_aciklama": "47 − 50 = −3 olur; mutlak değeri 3'tür."
+      }
+     ]
+    },
+    {
+     "id": "b12",
+     "baslik": "Hikâyeden mutlak değer: gidiş-dönüş",
+     "sure_dk": 6,
+     "kaynak": {
+      "kitap_sayfa": "132-133",
+      "program_sayfa": "50",
+      "surec": [
+       "b",
+       "c"
+      ]
+     },
+     "ornek": {
+      "baglam": "deniz",
+      "metin": "Gölcük'te bir römorkör tersane rıhtımından 8 km ötedeki şamandıraya sabit hızla 2 saatte varıyor. Beklemeden aynı yoldan geri dönüyor. Şamandıraya uzaklık önce azalır, 0 olur, sonra yine artar."
+     },
+     "katmanlar": {
+      "basit": [
+       "Uzaklık önce azalıp 0 olduğu, sonra arttığı için grafik V'ye benzer. Bu hikâyeyi mutlak değerle yazarız.",
+       "Römorkör her saatte aynı yolu alıyor; buna **sabit hız** denir. Adım adım kuralım:",
+       "1. Hızı bul: 8 ÷ 2 = 4; hız saatte 4 km'dir.",
+       "2. t saat sonra alınan yol 4t km olur.",
+       "3. Gidişte şamandıraya kalan yol 8 − 4t km'dir.",
+       "4. Dönüşte şamandıradan uzaklık 4t − 8 km'dir. Bu iki ifade birbirinin işaret değiştirmiş hâlidir.",
+       "5. Mutlak değer bu iki ifadeyi tek formülde yazar: f(t) = |4t − 8|.",
+       "6. Kontrol: t = 2 için |8 − 8| = 0; römorkör şamandıradadır.",
+       "7. Gidiş 2, dönüş 2 saat sürer: 2 + 2 = 4 saat.",
+       "8. t, 0 ile 4 arasındadır; tanım kümesi [0, 4].",
+       "9. Uçlar: f(0) = |0 − 8| = 8 ve f(4) = |16 − 8| = 8.",
+       "10. İki uçta da uzaklık 8 km'dir; römorkör rıhtımdadır."
+      ],
+      "kitap": [
+       "Kitabın kurye sorusunda (s.133) kurye 5 km ötedeki eve sabit hızla 20 dakikada gider. Mola vermeden aynı yoldan döner.",
+       "Kuryenin B noktasına mesafesi zamana bağlı f fonksiyonuyla verilir. Kitap bu fonksiyonun cebirsel temsilini ve grafiğini ister (s.133).",
+       "Program, gözlemlerden nitel özellikleri bulmayı ve parçalı gösterime geçmeyi ister (program, s.50)."
+      ],
+      "yazilida": {
+       "kalip": "Hareket öyküsündeki uzaklığı zamana bağlı mutlak değer fonksiyonuyla yazınız; tanım kümesini, minimum ve maksimum değerleri bulunuz.",
+       "ornek_soru": "Bir dalış teknesi iskeleden 12 km ötedeki dalış noktasına sabit hızla 1 saatte gidiyor. Dalgıçları bırakıp beklemeden aynı yoldan iskeleye dönüyor. Teknenin dalış noktasına uzaklığı t saat sonra f(t) km'dir. a) Teknenin hızını bulunuz. b) f(t)'yi mutlak değerle yazınız ve tanım kümesini belirtiniz. c) f'nin minimum ve maksimum değerlerini, alındıkları t değerleriyle bulunuz.",
+       "ornek_cevap": [
+        "1. a) 12 km 1 saatte gidilir; hız saatte 12 km'dir.",
+        "2. b) t saatte 12t km yol alınır.",
+        "3. Gidişte dalış noktasına kalan yol 12 − 12t km'dir.",
+        "4. Dönüşte dalış noktasından uzaklık 12t − 12 km'dir.",
+        "5. İki ifade birbirinin işaret değiştirmiş hâlidir; f(t) = |12t − 12|.",
+        "6. Gidiş 1 saat, dönüş 1 saat sürer; tanım kümesi [0, 2].",
+        "7. c) İçini 0 yapalım: 12t − 12 = 0 ⇒ t = 1.",
+        "8. f(1) = 0; minimum değer 0'dır, t = 1'de alınır.",
+        "9. f(0) = |0 − 12| = 12.",
+        "10. f(2) = |24 − 12| = 12.",
+        "11. Maksimum değer 12'dir; t = 0 ve t = 2'de, tekne iskeledeyken alınır."
+       ],
+       "puan_ipucu": "f(t)'yi yazınca bir t koyup hikâyeyle karşılaştır: f(0,5) = |6 − 12| = 6. Yarım saatte yolun yarısı gidilmiş, 6 km kalmıştır."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "sabit hız",
+       "tanim": "Her saatte aynı yolu almak; 2 saatte 8 km giden, saatte 4 km gider."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "Römorkör örneğinde f(t) = |4t − 8|. f(1) kaçtır?",
+       "cevap": "4",
+       "ipuclari": [
+        "t yerine 1 yaz.",
+        "Önce mutlak değerin içini hesapla, sonra mutlak değerini al.",
+        "İlk adım: 4 · 1 = 4 yaz; sonra 4 − 8 işlemini yap."
+       ],
+       "yanlis_aciklama": "İçi 4 − 8 = −4 olur; mutlak değeri 4'tür. 1 saatte 4 km gidilmiş, 4 km kalmıştır."
+      },
+      {
+       "soru": "f(t) = |4t − 8| hangi t değerinde 0 olur? Bu an hikâyede neyi gösterir?",
+       "cevap": "t = 2; römorkör şamandıradadır",
+       "ipuclari": [
+        "Önce t'yi bul; sonra f(t) = 0'ın hikâyede ne demek olduğunu düşün.",
+        "Mutlak değerin içini 0'a eşitle: 4t − 8 = 0.",
+        "Eşitliğin iki yanına 8 ekle: 4t = 8."
+       ],
+       "yanlis_aciklama": "4t − 8 = 0 ise t = 2 olur; o anda uzaklık 0, römorkör şamandıradadır."
+      }
+     ]
+    },
+    {
+     "id": "b13",
+     "baslik": "+c: yukarı-aşağı öteleme",
+     "sure_dk": 5,
+     "kaynak": {
+      "kitap_sayfa": "128-131",
+      "program_sayfa": "50",
+      "surec": [
+       "a",
+       "b"
+      ]
+     },
+     "ornek": {
+      "baglam": "tersane",
+      "metin": "Tersanede bir vinç kancası iniyor ve 2. saniyede güverteye değip yeniden kalkıyor. Güverteye göre yüksekliği |x − 2| m (x: saniye). Güverte denizden 3 m yukarıda; denize göre yükseklik |x − 2| + 3 m olur."
+     },
+     "katmanlar": {
+      "basit": [
+       "|x − 2| + 3, |x − 2| grafiğinin her noktasını 3 birim yukarı taşır. Minimum değer 0'dan 3'e çıkar; x = 2'de alınır, grafikte nokta (2, 0)'dan (2, 3)'e geçer.",
+       "|x − 2| − 3 ise her noktayı 3 birim aşağı taşır. Minimum değer −3 olur, grafikte nokta (2, −3); V'nin bir kısmı x ekseninin altına iner.",
+       "Doğrusal fonksiyondaki ax + b'nin b'si gibi düşün. Bu kaydırmaya **öteleme** denir; şekil bozulmaz.",
+       "Tek yazım kullanacağız: |ax + b| + c. Burada c herhangi bir gerçek sayıdır ve işaretiyle alınır; |x − 2| − 3'te c = −3'tür. c > 0 ise grafik yukarı, c < 0 ise aşağı ötelenir.",
+       "Aynı kural −|ax + b| + c için de geçerlidir. −|x − 2| + 3'te c = 3; maksimum değer 3'tür, x = 2'de alınır, grafikte nokta (2, 3)."
+      ],
+      "kitap": [
+       "Kitap iki ayrı yazım kullanır: |ax + b| + c ve |ax + b| − c; orada c pozitif bir sayıdır (s.130). İlki grafiği c birim yukarı, ikincisi c birim aşağı öteler.",
+       "Program c'yi herhangi bir gerçek sayı alır: m(x) = ±|ax ± b| ± c, c ∈ ℝ (program, s.50). Kitabın |ax + b| − c yazımı, bu kartta işareti eksi olan c demektir.",
+       "−|ax + b| + c ve −|ax + b| − c de −|ax + b| grafiğinden aynı yolla elde edilir (s.130).",
+       "Kitap bir uyarı yapar (s.130). a, b, c pozitifken |ax + b| − c'de b < c ise grafik y eksenini eksi bir değerde keser. b > c ise kesim noktası artı olur."
+      ],
+      "yazilida": {
+       "kalip": "Mutlak değer fonksiyonunun grafiğini doğrusal fonksiyondan başlayarak yansıma ve öteleme ile çiziniz.",
+       "ornek_soru": "h(x) = |2x − 4| + 1 fonksiyonunun grafiğini y = 2x − 4 doğrusundan başlayarak adım adım çiziniz. Grafiğin minimum değerini, alındığı x'i ve grafiğin y eksenini kestiği noktayı işlemlerinizi göstererek bulunuz.",
+       "ornek_cevap": [
+        "1. y = 2x − 4 doğrusunu çizelim: 2x − 4 = 0 ⇒ x = 2.",
+        "2. Doğru y eksenini (0, −4)'te keser.",
+        "3. x < 2 kısmını x eksenine göre yansıtalım: |2x − 4| oluşur; minimum değer 0, x = 2'de, grafikte (2, 0).",
+        "4. c = 1 > 0 olduğundan grafiği y ekseni boyunca 1 birim yukarı öteleyelim.",
+        "5. Minimum değer 1 olur, x = 2'de alınır; grafikte nokta (2, 1).",
+        "6. h(0) = |0 − 4| + 1 = 4 + 1 = 5; grafik y eksenini (0, 5)'te keser."
+       ],
+       "puan_ipucu": "Kitabın mama örneği (s.131) aynı üç adımla çizer: doğru, yansıma, öteleme. Her adımı ayrı satırda yaz."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "öteleme",
+       "tanim": "Grafiği şeklini bozmadan kaydırmak; |ax + b| + c'de c > 0 ise yukarı, c < 0 ise aşağı öteler."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "|x| + 4 fonksiyonunun minimum değeri kaçtır?",
+       "cevap": "4",
+       "ipuclari": [
+        "|x| en az kaç olabilir, hatırla.",
+        "+4, her değeri 4 artırır.",
+        "İlk adım: x = 0 yaz; |0| kaç olur?"
+       ],
+       "yanlis_aciklama": "|x| en az 0'dır; 0 + 4 = 4 olur."
+      },
+      {
+       "soru": "|x − 1| − 2 grafiği, |x − 1| grafiğinin kaç birim aşağısındadır?",
+       "cevap": "2 birim",
+       "ipuclari": [
+        "Mutlak değerin dışındaki sayıya bak.",
+        "Dışarıdaki c eksiyse grafik aşağı kayar.",
+        "Burada c = −2'dir. İşareti yönü söyler; sayının büyüklüğü kaç birim olduğunu söyler."
+       ],
+       "yanlis_aciklama": "Dışarıdaki c = −2 grafiği 2 birim aşağı kaydırır; içerideki 1 sağa-sola yeri belirler."
+      },
+      {
+       "soru": "−|x| + 5 fonksiyonunun maksimum değeri kaçtır?",
+       "cevap": "5",
+       "ipuclari": [
+        "−|x| en fazla kaç olabilir, hatırla.",
+        "+5, her değeri 5 artırır.",
+        "İlk adım: x = 0 yaz; −|0| kaç olur?"
+       ],
+       "yanlis_aciklama": "Baştaki eksi grafiği ters çevirir; +5 en üst noktayı 5 birim yukarı taşır: 0 + 5 = 5."
+      }
+     ]
+    },
+    {
+     "id": "b14",
+     "baslik": "+c ile sıfırlar ve görüntü kümesi",
+     "sure_dk": 6,
+     "kaynak": {
+      "kitap_sayfa": "128-132, 135",
+      "program_sayfa": "50",
+      "surec": [
+       "b",
+       "c"
+      ]
+     },
+     "ornek": {
+      "baglam": "tersane",
+      "metin": "Tersanede bir kepçe denize iniyor. Deniz yüzeyine göre yüksekliği |x − 3| − 2 m (x: saniye). Kepçe 1. saniyede suya giriyor, 3. saniyede 2 m derinde en dipte, 5. saniyede sudan çıkıyor."
+     },
+     "katmanlar": {
+      "basit": [
+       "m(x) = |x − 3| − 2'de içi x = 3'te 0 olur. Minimum değer −2'dir ve x = 3'te alınır; grafikte nokta (3, −2). Görüntü kümesi [−2, ∞) olur.",
+       "Sıfırları uzaklıkla bulalım: |x − 3| − 2 = 0 ise |x − 3| = 2. Bu, 'x, 3'ten 2 birim uzakta' demektir.",
+       "1. Sağa 2 birim: 3 + 2 = 5.",
+       "2. Sola 2 birim: 3 − 2 = 1.",
+       "3. İki sıfır vardır: 1 ve 5. Kepçe 1. ve 5. saniyede su yüzeyindedir.",
+       "Sıfırların arasında, yani (1, 5)'te, işaret tablosuna − yazılır. Dışarıda + olur. Kepçe bu aralıkta su altındadır.",
+       "Kaç sıfır olduğunu V'nin en alt noktası söyler. Üç örnek:",
+       "• |x| + 3: minimum değer 3, x ekseninin üstünde. Grafik ekseni hiç kesmez; sıfır yok.",
+       "• |x|: minimum değer 0, nokta tam x ekseninin üzerinde. Tek sıfır var: x = 0.",
+       "• |x| − 3: minimum değer −3, x ekseninin altında. Grafik ekseni iki yerde keser: −3 ve 3.",
+       "Ters V'de en üst noktaya bak. Aynı üçlü:",
+       "• −|x| − 3: maksimum değer −3, x ekseninin altında. Sıfır yok.",
+       "• −|x|: maksimum değer 0, nokta tam x ekseninin üzerinde. Tek sıfır var: x = 0.",
+       "• −|x| + 3: maksimum değer 3, x ekseninin üstünde. İki sıfır var: −3 ve 3.",
+       "Kısa kural, V için: minimum değer x ekseninin üstündeyse sıfır yok, tam üzerindeyse bir sıfır, altındaysa iki sıfır var. Ters V için: maksimum değer altındaysa sıfır yok, tam üzerindeyse bir sıfır, üstündeyse iki sıfır var.",
+       "Yazımla: |ax + b| + c'nin minimum değeri c'dir; −|ax + b| + c'nin maksimum değeri c'dir. c, b13'teki gibi işaretiyle alınır."
+      ],
+      "kitap": [
+       "Kitap |ax + b| ± c ve −|ax + b| ± c için aynı nitel özellik tablosunu doldurtur (s.128-129). Tablonun satırları doğrusal fonksiyonla aynıdır.",
+       "Kitabın alıştırmasında (s.135) g(x) = |f(x)| − 3 için görüntü kümesi, sıfırlar, artan-azalan aralıklar ve min-maks istenir. Soruda 'sıfırları' denmesi, birden çok sıfır olabileceğini gösterir.",
+       "Mama örneğinde (s.131-132) x bir aralıkta tanımlıdır. Fonksiyon x = 5/2'nin iki yanında ayrı ayrı bire birdir, bütün aralıkta değildir (s.132)."
+      ],
+      "yazilida": {
+       "kalip": "m(x) = ±|ax + b| + c fonksiyonunun görüntü kümesini, sıfırlarını, artan-azalan aralıklarını ve minimum-maksimum değerlerini bulunuz.",
+       "ornek_soru": "g(x) = |2x − 2| − 4 veriliyor. İşlemlerinizi göstererek a) görüntü kümesini, b) sıfırlarını, c) artan veya azalan olduğu aralıkları, ç) minimum ve maksimum değerlerini bulunuz.",
+       "ornek_cevap": [
+        "1. İçini sıfır yapalım: 2x − 2 = 0 ⇒ x = 1.",
+        "2. g(1) = |0| − 4 = −4; minimum değer −4, x = 1'de alınır. Grafikte nokta (1, −4).",
+        "3. a) |2x − 2| ≥ 0 olduğundan g(x) ≥ −4 olur; görüntü kümesi [−4, ∞).",
+        "4. b) x ≥ 1 iken |2x − 2| = 2x − 2 olur.",
+        "5. g(x) = 2x − 2 − 4 = 2x − 6.",
+        "6. 2x − 6 = 0 ⇒ x = 3.",
+        "7. x < 1 iken |2x − 2| = −2x + 2 olur.",
+        "8. g(x) = −2x + 2 − 4 = −2x − 2.",
+        "9. −2x − 2 = 0 ⇒ x = −1.",
+        "10. 3 ≥ 1 ve −1 < 1 olduğundan iki sıfır da kendi satırına uyar. Sıfırlar −1 ve 3'tür.",
+        "11. c) g, (−∞, 1] aralığında azalan, [1, ∞) aralığında artandır.",
+        "12. ç) Minimum değer −4'tür ve x = 1'de alınır. Maksimum değer yoktur."
+       ],
+       "puan_ipucu": "Bulduğun sıfırları yerine koyarak doğrula: g(3) = |4| − 4 = 0 ve g(−1) = |−4| − 4 = 0. Minimum değer −4 eksen altında olduğu için iki sıfır beklenir; tek sıfır bulduysan diğerini ara."
+      }
+     },
+     "terimler": [
+      {
+       "terim": "işaret tablosu",
+       "tanim": "Fonksiyonun hangi aralıkta +, hangi aralıkta − olduğunu, sıfırlarıyla birlikte gösteren tablo (b3)."
+      }
+     ],
+     "kontrol_sorulari": [
+      {
+       "soru": "|x − 3| + 2 fonksiyonunun minimum değeri kaçtır?",
+       "cevap": "2",
+       "ipuclari": [
+        "|x − 3| en az kaç olabilir?",
+        "En küçük |x − 3| değerine 2 eklenir.",
+        "x = 3 yaz ve değeri hesapla."
+       ],
+       "yanlis_aciklama": "|x − 3| en az 0'dır; 0 + 2 = 2 olur."
+      },
+      {
+       "soru": "|x| − 4 fonksiyonunun sıfırları nelerdir?",
+       "cevap": "−4 ve 4",
+       "ipuclari": [
+        "Fonksiyonu 0'a eşitle ve |x|'i yalnız bırak.",
+        "|x| = 4 olur; 0'a uzaklığı 4 olan sayıları düşün.",
+        "Sayı doğrusunda 0'dan 4 adım sağa git; sonra sola da bak."
+       ],
+       "yanlis_aciklama": "Hem 4 hem −4'ün 0'a uzaklığı 4'tür; iki sıfır vardır."
+      },
+      {
+       "soru": "−|x| − 2 fonksiyonunun sıfırı var mıdır?",
+       "cevap": "Hayır",
+       "ipuclari": [
+        "Ters V'de en üst noktaya bak.",
+        "−|x| en fazla 0'dır; −2 eklenince en büyük değer kaç olur?",
+        "x = 0 yaz: −|0| − 2 kaç olur? Bu sayı eksenin altında mı, üstünde mi?"
+       ],
+       "yanlis_aciklama": "Maksimum değer −2'dir, x ekseninin altındadır; grafik ekseni hiç kesmez."
+      }
+     ]
+    }
+   ],
+   "flashcard": [
+    {
+     "on": "|x| ne demek?",
+     "arka": "x'in 0'a olan uzaklığıdır; hiç eksi olmaz. |−5| = 5, |5| = 5."
+    },
+    {
+     "on": "|ax + b| grafiği nasıl çizilir?",
+     "arka": "Önce ax + b doğrusu çizilir. Yalnız x ekseninin altında kalan kısmı x eksenine göre yansıtılır; üstteki kısım aynen kalır."
+    },
+    {
+     "on": "g(x) = |x| fonksiyonunun nitel özellikleri nelerdir?",
+     "arka": "Tanım ℝ, görüntü [0, ∞), sıfır 0. (−∞, 0]'da azalan, [0, ∞)'da artan; minimum değer 0, maksimum yok, bire bir değil."
+    },
+    {
+     "on": "h(x) = −|x| grafiği nasıldır?",
+     "arka": "|x| grafiğinin x eksenine göre yansımasıdır, ters V olur. Görüntü (−∞, 0], maksimum değer 0."
+    },
+    {
+     "on": "|x| parçalı gösterimle nasıl yazılır?",
+     "arka": "x < 0 iken −x, x ≥ 0 iken x."
+    },
+    {
+     "on": "|ax + b| minimum değerini nerede alır?",
+     "arka": "İçini 0 yapan x'te. Örnek: |2x − 6| için 2x − 6 = 0, x = 3. Minimum değer 0'dır, x = 3'te alınır; grafikte nokta (3, 0)."
+    },
+    {
+     "on": "Minimum değer ile minimum noktası arasındaki fark nedir?",
+     "arka": "Minimum değer yalnız y'dir: |x| için 0. |x| bu değeri x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Yazılıda ikisini birlikte yaz."
+    },
+    {
+     "on": "|ax + b| + c grafiğe ne yapar?",
+     "arka": "c herhangi bir gerçek sayıdır, işaretiyle alınır. c > 0 ise grafik yukarı, c < 0 ise aşağı ötelenir; şekil değişmez. |x| − 3'te c = −3, grafik 3 birim aşağı."
+    },
+    {
+     "on": "|ax + b| bire bir midir?",
+     "arka": "Hayır. İçini 0 yapan x'in iki yanında eşit uzaklıktaki x'ler aynı değeri verir: |−2| = |2|."
+    },
+    {
+     "on": "Hikâyede sapma nasıl yazılır?",
+     "arka": "Sapma = |ölçülen − hedef|. Hedef 20, ölçülen x ise |x − 20|."
+    },
+    {
+     "on": "Kapalı aralıkta |x − 20|'nin maksimum değeri nasıl bulunur?",
+     "arka": "V yukarı açık ve aralık kapalı olduğu için uç noktalarda değeri hesapla, büyüğünü al. [17, 21]'de g(17) = 3, g(21) = 1; maksimum değer 3."
+    },
+    {
+     "on": "Ters V kapalı aralıkta en büyük değeri nerede alabilir?",
+     "arka": "Aralığın içinde de alabilir. −|x| + 4, [−2, 3]: uçlarda 2 ve 1, ama x = 0'da 4. Maksimum değer 4'tür, x = 0'da alınır."
+    },
+    {
+     "on": "|x| + c ve −|x| + c'nin kaç sıfırı vardır?",
+     "arka": "En alt (V) ya da en üst (ters V) değere bak. |x| + 3: yok; |x|: bir (0); |x| − 3: iki (−3, 3). −|x| − 3: yok; −|x|: bir; −|x| + 3: iki."
+    }
+   ],
+   "sik_hatalar": [
+    {
+     "hata_turu": "mutlak_eksi",
+     "aciklama": "|−3| = −3 yazmak. Mutlak değer uzaklıktır, eksi olmaz: |−3| = 3."
+    },
+    {
+     "hata_turu": "parcali_isaret",
+     "aciklama": "Parçalı gösterimdeki −x'i hep eksi sanmak. x < 0 iken −x artıdır: x = −3 ise −x = 3."
+    },
+    {
+     "hata_turu": "yansima_kapsam",
+     "aciklama": "|ax + b| çizerken bütün doğruyu yansıtmak. Yalnız x ekseninin altındaki kısım yansıtılır."
+    },
+    {
+     "hata_turu": "carpim_sifir_isaret",
+     "aciklama": "|x − 2|'nin minimum değerini x = −2'de aldığını sanmak. İçini sıfır yapan x = 2'dir; grafikte nokta (2, 0)."
+    },
+    {
+     "hata_turu": "eksi_mutlak_karistirma",
+     "aciklama": "−|x| ile |−x|'i karıştırmak. |−x| = |x| hep 0 ya da artıdır; −|x| hep 0 ya da eksidir."
+    },
+    {
+     "hata_turu": "oteleme_yonu",
+     "aciklama": "|x| − 3'ü 3 birim sağa kaydırmak. Dışarıdaki c = −3 grafiği 3 birim aşağı öteler."
+    },
+    {
+     "hata_turu": "sifir_aralik_kontrol",
+     "aciklama": "Parçalı gösterimle bulunan sıfırın kendi satırının aralığına uyup uymadığını kontrol etmemek."
+    },
+    {
+     "hata_turu": "tek_sifir",
+     "aciklama": "|x| − 4'ün yalnız 4 sıfırını bulup −4'ü unutmak. V'de minimum değer x ekseninin altındaysa iki sıfır vardır; ters V'de maksimum değer x ekseninin üstündeyse iki sıfır vardır."
+    },
+    {
+     "hata_turu": "maksimum_varlik",
+     "aciklama": "|x|'in ℝ'de en büyük değerini aramak; V yukarı açıktır, maksimum değer yoktur. Tersine, tanım kümesi kapalı aralıksa maksimum vardır. V yukarı açıksa uç noktalarda aranır; ters V'de aralığın içindeki maksimum noktası da kontrol edilir."
+    }
+   ],
+   "dogrula": [
+    "DOĞRULA (docs/dogrula.md #22, açık): Kart minimum/maksimum noktasını iki yazımla veriyor: 'x = 0 noktasında alır' (kitabın s.127 ve s.134 yazımı) ve 'grafikte bu nokta (0, 0)' (b2, b4, b5, b8, flashcard 6-7). Öğretmenin yazılıda hangi yazımı beklediği teyit edilmeli; teyide kadar iki yazım birlikte öğretilir.",
+    "DOĞRULA: Ülke geneli 1D2Y konu-soru dağılım tablosu henüz yayımlanmadı; geçmiş ortak sınavlarda mutlak değer fonksiyonu sorusu yok (2025-26 1D1Y'deki lastik basıncı sorusu 9.1 mutlak değerli eşitsizliktir). 'Yazılıda' kalıpları kitabın uygulama, örnek ve alıştırmalarından (s.122-123, 126-127, 131-133, 135) uyarlandı (docs/dogrula.md #23).",
+    "Bilgi notu: Destekleme kitaplarında mutlak değer fonksiyonu etkinliği bulunamadı; kart destekleme kaynağı kullanmıyor.",
+    "Bilgi notu: b1, b7 ve b10-b12'deki boru, parça, levha, halat, zincir, römorkör ve dalış teknesi sayıları kurgusaldır; gerçek kurum ya da ölçüm iddiası yoktur.",
+    "Bilgi notu: Kart c'yi programdaki gibi işaretli tek yazımla verir (|ax + b| + c, c ∈ ℝ; program s.50). Kitap s.130 aynı durumu c pozitif alıp '+ c' ve '− c' diye iki yazımla anlatır; b13 kitap katmanı iki yazımı eşleştirir."
+   ],
+   "surum": 3,
+   "uretim": {
+    "ajan": "konu-anlatici",
+    "tarih": "2026-10-30"
    }
   }
  },
@@ -7186,7 +8499,7 @@
       "metin": "(−2, 6)",
       "dogru": false,
       "hata_turu": "aralik_uc",
-      "aciklama": "Uçlar tanım kümesine dahil; f(−2) = −2 ve f(6) = 6 da görüntüye girer."
+      "aciklama": "Uçlar tanım kümesine dâhil; f(−2) = −2 ve f(6) = 6 da görüntüye girer."
      },
      {
       "metin": "ℝ",
@@ -7209,7 +8522,7 @@
      "Önce sol uçtaki f(−2)'yi bul; köşeli parantezin ne söylediğine bak."
     ],
     "cozum_adimlari": [
-     "1. Tanım kümesi [−2, 6]; iki uç da dahildir.",
+     "1. Tanım kümesi [−2, 6]; iki uç da dâhildir.",
      "2. f(−2) = −2.",
      "3. f(6) = 6.",
      "4. f artan olduğundan değerler −2 ile 6 arasında kalır.",
@@ -7495,13 +8808,13 @@
       "metin": "Maksimum değer yoktur; minimum değer −3'tür.",
       "dogru": false,
       "hata_turu": "aralik_uc",
-      "aciklama": "Parantezler ters okunmuş; 4 dahil, −3 dahil değildir."
+      "aciklama": "Parantezler ters okunmuş; 4 dâhil, −3 dâhil değildir."
      },
      {
       "metin": "Maksimum değer de minimum değer de yoktur.",
       "dogru": false,
       "hata_turu": "aralik_uc",
-      "aciklama": "Sağ uçta köşeli parantez var; 4 dahildir ve f(4) = 4 en büyük değerdir."
+      "aciklama": "Sağ uçta köşeli parantez var; 4 dâhildir ve f(4) = 4 en büyük değerdir."
      }
     ],
     "cevap": "Maksimum değer 4'tür; minimum değer yoktur.",
@@ -7512,9 +8825,9 @@
      "Sağ uç 4 köşeli parantezle verilmiş; önce f(4)'ü hesapla."
     ],
     "cozum_adimlari": [
-     "1. Sağ uçta köşeli parantez var; 4 dahildir.",
+     "1. Sağ uçta köşeli parantez var; 4 dâhildir.",
      "2. f(4) = 4 ve f artan olduğu için maksimum değer 4'tür.",
-     "3. Sol uçta normal parantez var; −3 dahil değildir.",
+     "3. Sol uçta normal parantez var; −3 dâhil değildir.",
      "4. −3'e yaklaşan her sayıdan daha küçüğü vardır.",
      "5. Bu yüzden minimum değer yoktur."
     ],
@@ -7539,7 +8852,7 @@
     "baglam": "g: [−1, 3) → ℝ, g(x) = 2x + 1 fonksiyonu veriliyor.",
     "kok": "g fonksiyonunun görüntü kümesini işlemlerinizi göstererek bulunuz. Maksimum ve minimum değerinin olup olmadığını açıklayınız. (10 puan)",
     "secenekler": null,
-    "cevap": "1. a = 2 > 0 olduğu için g artandır. 2. g(−1) = 2 · (−1) + 1 = −1. 3. g(3) = 2 · 3 + 1 = 7. 4. −1 dahil, 3 dahil değil; görüntü kümesi [−1, 7). 5. Minimum değer −1'dir; x = −1'de alınır. 6. 3 tanım kümesinde olmadığı için 7 alınamaz; 7'ye yaklaşan her değerden daha büyüğü vardır. 7. Maksimum değer yoktur.",
+    "cevap": "1. a = 2 > 0 olduğu için g artandır. 2. g(−1) = 2 · (−1) + 1 = −1. 3. g(3) = 2 · 3 + 1 = 7. 4. −1 dâhil, 3 dâhil değil; görüntü kümesi [−1, 7). 5. Minimum değer −1'dir; x = −1'de alınır. 6. 3 tanım kümesinde olmadığı için 7 alınamaz; 7'ye yaklaşan her değerden daha büyüğü vardır. 7. Maksimum değer yoktur.",
     "kabul_edilenler": [],
     "ipuclari": [
      "Önce uçlardaki değerleri hesapla; parantezlere dikkat et.",
@@ -7550,7 +8863,7 @@
      "1. a = 2 > 0 olduğu için g artandır.",
      "2. g(−1) = 2 · (−1) + 1 = −1.",
      "3. g(3) = 2 · 3 + 1 = 7.",
-     "4. −1 dahil, 3 dahil değil; görüntü kümesi [−1, 7) olur.",
+     "4. −1 dâhil, 3 dâhil değil; görüntü kümesi [−1, 7) olur.",
      "5. Minimum değer −1'dir; x = −1'de alınır.",
      "6. 7 alınamaz; 7'ye yaklaşan her değerden daha büyüğü vardır.",
      "7. Maksimum değer yoktur."
@@ -7843,7 +9156,7 @@
       "metin": "(−∞, 4]",
       "dogru": false,
       "hata_turu": "aralik_uc",
-      "aciklama": "g(4) = 0 olur; 0 pozitif olmadığı için 4 aralığa dahil edilmez."
+      "aciklama": "g(4) = 0 olur; 0 pozitif olmadığı için 4 aralığa dâhil edilmez."
      }
     ],
     "cevap": "(−∞, 4)",
@@ -8117,6 +9430,1138 @@
      "ogrenme_ciktisi": "9.2.1"
     },
     "dogrula": []
+   }
+  ],
+  "matematik-u2-k2": [
+   {
+    "id": "matematik-u2-k2-s001",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "a",
+    "tip": "bosluk",
+    "zorluk": 1,
+    "puan": null,
+    "baglam": null,
+    "kok": "g: ℝ → ℝ, g(x) = |x| olmak üzere g(−6) + g(4) toplamı ______ olur.",
+    "secenekler": null,
+    "cevap": "10",
+    "kabul_edilenler": [
+     "10",
+     "+10"
+    ],
+    "yanlis_aciklama": "|−6| = 6 olur; mutlak değer bir uzaklıktır ve eksi çıkmaz.",
+    "ipuclari": [
+     "Mutlak değer, sayının 0'a olan uzaklığıdır.",
+     "Önce iki değeri ayrı ayrı bul, sonra topla.",
+     "g(−6) = |−6| yaz; −6'dan 0'a kaç birim var, say."
+    ],
+    "cozum_adimlari": [
+     "1. g(−6) = |−6| = 6.",
+     "2. g(4) = |4| = 4.",
+     "3. 6 + 4 = 10."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "mutlak_eksi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.121",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s002",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "dogru_yanlis",
+    "zorluk": 1,
+    "puan": 5,
+    "baglam": null,
+    "kok": "g: ℝ → ℝ, g(x) = |x| fonksiyonunun görüntü kümesi ℝ'dir.",
+    "secenekler": null,
+    "cevap": false,
+    "kabul_edilenler": [],
+    "yanlis_aciklama": "Tanım kümesi ℝ'dir ama |x| hiç negatif değer almaz; görüntü kümesi [0, ∞)'dur.",
+    "ipuclari": [
+     "Görüntü kümesi, g(x)'in alabildiği değerlerdir.",
+     "|x| negatif bir değer alabilir mi, düşün.",
+     "g(x) = −1 olacak bir x ara: |x| = −1 olabilir mi?"
+    ],
+    "cozum_adimlari": [
+     "1. |x| bir uzaklıktır; 0 ya da pozitiftir.",
+     "2. Örneğin −1, hiçbir x için g(x) değeri olamaz.",
+     "3. Görüntü kümesi [0, ∞)'dur.",
+     "4. İfade yanlıştır."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "tanim_goruntu_karistirma"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.122, 134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s003",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "coktan",
+    "zorluk": 1,
+    "puan": null,
+    "baglam": null,
+    "kok": "f: ℝ → ℝ, f(x) = |x − 5| fonksiyonunun sıfırı kaçtır?",
+    "secenekler": [
+     {
+      "metin": "5",
+      "dogru": true
+     },
+     {
+      "metin": "−5",
+      "dogru": false,
+      "hata_turu": "carpim_sifir_isaret",
+      "aciklama": "x − 5 = 0 denkleminde −5 karşıya +5 olarak geçer; x = 5 olur."
+     },
+     {
+      "metin": "0",
+      "dogru": false,
+      "hata_turu": "okuma_hatasi",
+      "aciklama": "0, fonksiyonun sıfır yerinde aldığı değerdir; istenen, f'yi 0 yapan x değeridir."
+     },
+     {
+      "metin": "−5 ve 5",
+      "dogru": false,
+      "hata_turu": "kavram_karisikligi",
+      "aciklama": "|x − 5| = 0 denklemi |x| = 5 ile aynı değildir; içi 0 olan tek bir x vardır."
+     }
+    ],
+    "cevap": "5",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "Fonksiyonun sıfırı, f(x)'i 0 yapan x değeridir.",
+     "Mutlak değer yalnız içi 0 iken 0 olur; içini 0'a eşitle.",
+     "x − 5 = 0 yaz; −5'i eşitliğin öbür tarafına geçir."
+    ],
+    "cozum_adimlari": [
+     "1. f(x) = 0 yazılır: |x − 5| = 0.",
+     "2. Mutlak değer yalnız içi 0 iken 0 olur: x − 5 = 0.",
+     "3. x = 5.",
+     "4. Kontrol: f(5) = |0| = 0."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "carpim_sifir_isaret",
+     "okuma_hatasi",
+     "kavram_karisikligi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s004",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "a",
+    "tip": "coktan",
+    "zorluk": 1,
+    "puan": null,
+    "baglam": null,
+    "kok": "f(x) = x doğrusundan g(x) = |x| grafiği elde edilirken doğru üzerindeki (−3, −3) noktası hangi noktaya taşınır?",
+    "secenekler": [
+     {
+      "metin": "(−3, 3)",
+      "dogru": true
+     },
+     {
+      "metin": "(3, −3)",
+      "dogru": false,
+      "hata_turu": "kavram_karisikligi",
+      "aciklama": "Yansıma x eksenine göre yapılır; x aynı kalır, yalnız y'nin işareti değişir."
+     },
+     {
+      "metin": "(3, 3)",
+      "dogru": false,
+      "hata_turu": "isaret_hatasi",
+      "aciklama": "x değeri değişmez; g(−3) hesaplanırken x hâlâ −3'tür."
+     },
+     {
+      "metin": "(−3, −3)",
+      "dogru": false,
+      "hata_turu": "eksik_adim",
+      "aciklama": "Nokta x ekseninin altındadır; bu kısım x eksenine göre yansıtılmadan bırakılmaz."
+     }
+    ],
+    "cevap": "(−3, 3)",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "Doğrunun x ekseninin altındaki kısmı x eksenine göre yansıtılır.",
+     "x eksenine göre yansımada x aynı kalır, y'nin işareti değişir.",
+     "Birinci sayıyı −3 olarak yaz; şimdi g(−3) = |−3| değerini hesapla."
+    ],
+    "cozum_adimlari": [
+     "1. (−3, −3) noktası x ekseninin altındadır.",
+     "2. Bu kısım x eksenine göre yansıtılır.",
+     "3. x = −3 aynı kalır.",
+     "4. y = |−3| = 3 olur.",
+     "5. Yeni nokta (−3, 3)'tür."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "kavram_karisikligi",
+     "isaret_hatasi",
+     "eksik_adim"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.121, 129",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s005",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "a",
+    "tip": "dogru_yanlis",
+    "zorluk": 1,
+    "puan": 5,
+    "baglam": null,
+    "kok": "h: ℝ → ℝ, h(x) = −|x| fonksiyonunun maksimum değeri 0'dır.",
+    "secenekler": null,
+    "cevap": true,
+    "kabul_edilenler": [],
+    "yanlis_aciklama": "|x| ≥ 0 olduğundan −|x| ≤ 0 olur; en büyük değer 0'dır ve x = 0'da alınır.",
+    "ipuclari": [
+     "Önce |x|'in en küçük değerini düşün.",
+     "Baştaki eksi, değerlerin işaretini çevirir; en küçük olan en büyük olur.",
+     "x = 0 yaz ve h(0) değerini hesapla; sonra h(1) ile karşılaştır."
+    ],
+    "cozum_adimlari": [
+     "1. |x| ≥ 0'dır.",
+     "2. Baştaki eksi yüzünden −|x| ≤ 0 olur.",
+     "3. h(0) = −|0| = 0.",
+     "4. En büyük değer 0'dır; ifade doğrudur."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "eksi_mutlak_karistirma"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.122, 134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s006",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "a",
+    "tip": "coktan",
+    "zorluk": 1,
+    "puan": null,
+    "baglam": null,
+    "kok": "g: ℝ → ℝ, g(x) = |x| + 4 fonksiyonunun grafiği, y = |x| grafiğinden nasıl elde edilir?",
+    "secenekler": [
+     {
+      "metin": "y ekseni boyunca 4 birim yukarı ötelenir.",
+      "dogru": true
+     },
+     {
+      "metin": "y ekseni boyunca 4 birim aşağı ötelenir.",
+      "dogru": false,
+      "hata_turu": "oteleme_yonu",
+      "aciklama": "Sondaki +4 pozitif olduğu için grafik yukarı ötelenir."
+     },
+     {
+      "metin": "x ekseni boyunca 4 birim sağa ötelenir.",
+      "dogru": false,
+      "hata_turu": "oteleme_yonu",
+      "aciklama": "+4 mutlak değerin dışında; sağa-sola değil, yukarı-aşağı öteler."
+     },
+     {
+      "metin": "x eksenine göre yansıyıp 4 birim yukarı çıkar.",
+      "dogru": false,
+      "hata_turu": "kavram_karisikligi",
+      "aciklama": "Yansıma için mutlak değerin önünde eksi olmalı; burada eksi yok."
+     }
+    ],
+    "cevap": "y ekseni boyunca 4 birim yukarı ötelenir.",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "+4 mutlak değerin içinde mi, dışında mı, bak.",
+     "Dışarıdaki sayı grafiği yukarı ya da aşağı öteler.",
+     "x = 0 için |0| + 4 kaç eder? |x|'te bu değer 0'dı; ne kadar değişti?"
+    ],
+    "cozum_adimlari": [
+     "1. +4 mutlak değerin dışındadır.",
+     "2. Her x için g(x), |x|'ten 4 fazladır.",
+     "3. Örnek: |0| = 0 iken g(0) = 4 olur.",
+     "4. Grafik y ekseni boyunca 4 birim yukarı ötelenir."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "oteleme_yonu",
+     "kavram_karisikligi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.130",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s007",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "a",
+    "tip": "bosluk",
+    "zorluk": 1,
+    "puan": null,
+    "baglam": null,
+    "kok": "f: ℝ → ℝ, f(x) = |3x − 12| olmak üzere f(2) = ______ olur.",
+    "secenekler": null,
+    "cevap": "6",
+    "kabul_edilenler": [
+     "6",
+     "+6"
+    ],
+    "yanlis_aciklama": "İçi 6 − 12 = −6 çıkar; mutlak değeri 6'dır, −6 değil.",
+    "ipuclari": [
+     "x yerine 2 yaz.",
+     "Önce mutlak değerin içini hesapla, sonra mutlak değerini al.",
+     "İlk adım: 3 · 2 − 12 işlemini yap."
+    ],
+    "cozum_adimlari": [
+     "1. f(2) = |3 · 2 − 12|.",
+     "2. 3 · 2 = 6.",
+     "3. 6 − 12 = −6.",
+     "4. |−6| = 6."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "mutlak_eksi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.129",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s008",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "c",
+    "tip": "coktan",
+    "zorluk": 1,
+    "puan": null,
+    "baglam": null,
+    "kok": "g: ℝ → ℝ, g(x) = |x| fonksiyonunun parçalı gösterimi aşağıdakilerden hangisidir?",
+    "secenekler": [
+     {
+      "metin": "x < 0 iken g(x) = −x; x ≥ 0 iken g(x) = x",
+      "dogru": true
+     },
+     {
+      "metin": "x < 0 iken g(x) = x; x ≥ 0 iken g(x) = −x",
+      "dogru": false,
+      "hata_turu": "parcali_isaret",
+      "aciklama": "Bu −|x|'in gösterimidir; x < 0 iken −x pozitiftir ve |x|'e eşittir."
+     },
+     {
+      "metin": "x < 0 iken g(x) = −x; x ≥ 0 iken g(x) = −x",
+      "dogru": false,
+      "hata_turu": "yansima_kapsam",
+      "aciklama": "Yalnız x < 0 kısmı yansıtılır; x ≥ 0 kısmı f(x) = x ile aynı kalır."
+     },
+     {
+      "metin": "x < 0 iken g(x) = x; x ≥ 0 iken g(x) = x",
+      "dogru": false,
+      "hata_turu": "eksik_adim",
+      "aciklama": "Bu f(x) = x'tir; x < 0 kısmı x eksenine göre yansıtılmamış."
+     }
+    ],
+    "cevap": "x < 0 iken g(x) = −x; x ≥ 0 iken g(x) = x",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "Her satırı bir sayıyla dene.",
+     "x < 0 için bir sayı seç ve |x| değerini hesapla.",
+     "x = −2 al: |−2| = 2. Şimdi −x ve x satırlarına −2 yazıp hangisinin 2 verdiğine bak."
+    ],
+    "cozum_adimlari": [
+     "1. x = −2 için |−2| = 2 ve −x = −(−2) = 2.",
+     "2. Demek ki x < 0 iken g(x) = −x.",
+     "3. x = 3 için |3| = 3 ve x = 3.",
+     "4. Demek ki x ≥ 0 iken g(x) = x."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "parcali_isaret",
+     "yansima_kapsam",
+     "eksik_adim"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.124",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s009",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "dogru_yanlis",
+    "zorluk": 1,
+    "puan": 5,
+    "baglam": "Gölcük iskelesinde deniz yüzeyi 0 kabul ediliyor. Bir dalgıç −3 m'de, bir martı 3 m yükseklikte. Konumu x metre olan bir noktanın deniz yüzeyine uzaklığı g(x) = |x| metredir.",
+    "kok": "Buna göre g fonksiyonu bire bir fonksiyondur.",
+    "secenekler": null,
+    "cevap": false,
+    "kabul_edilenler": [],
+    "yanlis_aciklama": "Dalgıçla martının konumları farklı ama g(−3) = g(3) = 3; bu yüzden g bire bir değildir.",
+    "ipuclari": [
+     "Bire bir fonksiyonda farklı x'ler farklı değerlere gider.",
+     "Dalgıcın ve martının deniz yüzeyine uzaklığını ayrı ayrı bul.",
+     "g(−3) = |−3| yaz; sonra g(3)'ü yaz ve karşılaştır."
+    ],
+    "cozum_adimlari": [
+     "1. Dalgıç x = −3'te, martı x = 3'te; konumlar farklıdır.",
+     "2. g(−3) = |−3| = 3.",
+     "3. g(3) = |3| = 3.",
+     "4. Farklı x'ler aynı değeri verdi.",
+     "5. g bire bir değildir; ifade yanlıştır."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "kavram_karisikligi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.120-121, 134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s010",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "coktan",
+    "zorluk": 2,
+    "puan": null,
+    "baglam": "Gölcük sahilindeki 10 km uzunluğundaki düz yürüyüş yolunun 4. kilometresinde bir büfe var. Yolun x. kilometresindeki birinin büfeye uzaklığı u(x) = |x − 4| km'dir. Ali yolun 1. kilometresinde duruyor. Can, Ali'den farklı bir yerde ama büfeye Ali ile aynı uzaklıkta.",
+    "kok": "Buna göre Can yolun kaçıncı kilometresindedir?",
+    "secenekler": [
+     {
+      "metin": "7",
+      "dogru": true
+     },
+     {
+      "metin": "3",
+      "dogru": false,
+      "hata_turu": "eksik_adim",
+      "aciklama": "3, Ali'nin büfeye uzaklığıdır; Can'ın yeri |x − 4| = 3 denkleminden bulunur."
+     },
+     {
+      "metin": "5",
+      "dogru": false,
+      "hata_turu": "kavram_karisikligi",
+      "aciklama": "5, büfenin yerine Ali'nin yeri olan 1 eklenince çıkar; eklenmesi gereken Ali'nin uzaklığı olan 3'tür."
+     },
+     {
+      "metin": "4",
+      "dogru": false,
+      "hata_turu": "okuma_hatasi",
+      "aciklama": "4. kilometre büfenin yeridir; orada uzaklık 0'dır, 3 değil."
+     }
+    ],
+    "cevap": "7",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "Önce Ali'nin büfeye uzaklığını bul.",
+     "Can için |x − 4| aynı uzaklığa eşit olmalı; bu denklemden iki x çıkar.",
+     "u(1) = |1 − 4| işlemini yap."
+    ],
+    "cozum_adimlari": [
+     "1. u(1) = |1 − 4| = |−3| = 3 km.",
+     "2. Can için |x − 4| = 3 olmalı.",
+     "3. x − 4 = 3 ⇒ x = 7.",
+     "4. x − 4 = −3 ⇒ x = 1; bu Ali'nin yeridir.",
+     "5. Can yolun 7. kilometresindedir."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "eksik_adim",
+     "kavram_karisikligi",
+     "okuma_hatasi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.126-127",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s011",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "a",
+    "tip": "coktan",
+    "zorluk": 2,
+    "puan": null,
+    "baglam": null,
+    "kok": "f: ℝ → ℝ, f(x) = |x + 3| − 2 fonksiyonu minimum değerini hangi x değerinde alır ve bu değer kaçtır?",
+    "secenekler": [
+     {
+      "metin": "x = −3'te alır; minimum değer −2'dir.",
+      "dogru": true
+     },
+     {
+      "metin": "x = 3'te alır; minimum değer −2'dir.",
+      "dogru": false,
+      "hata_turu": "carpim_sifir_isaret",
+      "aciklama": "x + 3 = 0 denkleminde +3 karşıya −3 olarak geçer; x = −3 olur."
+     },
+     {
+      "metin": "x = −3'te alır; minimum değer 2'dir.",
+      "dogru": false,
+      "hata_turu": "oteleme_yonu",
+      "aciklama": "Dışarıdaki −2 grafiği 2 birim aşağı öteler; en küçük değer 0 − 2 = −2 olur."
+     },
+     {
+      "metin": "x = −2'de alır; minimum değer −3'tür.",
+      "dogru": false,
+      "hata_turu": "kavram_karisikligi",
+      "aciklama": "x değeri mutlak değerin içinden, minimum değer dışarıdaki sayıdan gelir; ikisi yer değiştirmiş."
+     }
+    ],
+    "cevap": "x = −3'te alır; minimum değer −2'dir.",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "|x + 3| en az kaç olabilir, düşün.",
+     "|x + 3| en küçük değerini içi 0 iken alır; sonra dışarıdaki −2 eklenir.",
+     "x + 3 = 0 denklemini kur ve x'i bul."
+    ],
+    "cozum_adimlari": [
+     "1. |x + 3| ≥ 0'dır; en küçük değeri 0'dır.",
+     "2. Bu değer içi 0 iken alınır: x + 3 = 0 ⇒ x = −3.",
+     "3. f(−3) = |0| − 2 = −2.",
+     "4. f, minimum değeri olan −2'yi x = −3'te alır."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "carpim_sifir_isaret",
+     "oteleme_yonu",
+     "kavram_karisikligi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.128, 130, 134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s012",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "coktan",
+    "zorluk": 2,
+    "puan": null,
+    "baglam": null,
+    "kok": "g: ℝ → ℝ, g(x) = |x − 1| − 3 fonksiyonunun sıfırları aşağıdakilerden hangisidir?",
+    "secenekler": [
+     {
+      "metin": "−2 ve 4",
+      "dogru": true
+     },
+     {
+      "metin": "Yalnız 4",
+      "dogru": false,
+      "hata_turu": "tek_sifir",
+      "aciklama": "x − 1 = −3 durumu da 0 verir; x = −2 de bir sıfırdır."
+     },
+     {
+      "metin": "2 ve −4",
+      "dogru": false,
+      "hata_turu": "carpim_sifir_isaret",
+      "aciklama": "x − 1 = 3 ise x = 4, x − 1 = −3 ise x = −2 olur; işaretler ters alınmış."
+     },
+     {
+      "metin": "Yalnız 1",
+      "dogru": false,
+      "hata_turu": "okuma_hatasi",
+      "aciklama": "g(1) = −3 olur, 0 değil; 1, minimum değerin alındığı x değeridir."
+     }
+    ],
+    "cevap": "−2 ve 4",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "g(x) = 0 yaz ve |x − 1|'i yalnız bırak.",
+     "|x − 1| = 3 ise mutlak değerin içi 3 ya da −3 olabilir.",
+     "Önce x − 1 = 3 denklemini çöz."
+    ],
+    "cozum_adimlari": [
+     "1. |x − 1| − 3 = 0 ⇒ |x − 1| = 3.",
+     "2. x − 1 = 3 ⇒ x = 4.",
+     "3. x − 1 = −3 ⇒ x = −2.",
+     "4. Kontrol: g(4) = |3| − 3 = 0.",
+     "5. Kontrol: g(−2) = |−3| − 3 = 0.",
+     "6. Sıfırlar −2 ve 4'tür."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "tek_sifir",
+     "carpim_sifir_isaret",
+     "okuma_hatasi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.135 (Alıştırma 2b)",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s013",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "coktan",
+    "zorluk": 2,
+    "puan": null,
+    "baglam": null,
+    "kok": "f: ℝ → ℝ, f(x) = |2x − 6| fonksiyonunun artan olduğu en geniş aralık aşağıdakilerden hangisidir?",
+    "secenekler": [
+     {
+      "metin": "[3, ∞)",
+      "dogru": true
+     },
+     {
+      "metin": "(−∞, 3]",
+      "dogru": false,
+      "hata_turu": "esitsizlik_yonu",
+      "aciklama": "Bu aralıkta x büyürken f küçülür; f burada azalandır."
+     },
+     {
+      "metin": "[−3, ∞)",
+      "dogru": false,
+      "hata_turu": "carpim_sifir_isaret",
+      "aciklama": "2x − 6 = 0 denkleminden x = 3 çıkar; −3 değil."
+     },
+     {
+      "metin": "[6, ∞)",
+      "dogru": false,
+      "hata_turu": "eksik_adim",
+      "aciklama": "2x = 6 ara sonuçtur; iki taraf 2'ye bölünür ve x = 3 olur."
+     }
+    ],
+    "cevap": "[3, ∞)",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "Önce mutlak değerin içini 0 yapan x'i bul.",
+     "Bu x'in solunda f azalan, sağında artandır.",
+     "2x − 6 = 0 yaz; −6'yı eşitliğin öbür tarafına geçir."
+    ],
+    "cozum_adimlari": [
+     "1. 2x − 6 = 0 yazılır.",
+     "2. 2x = 6.",
+     "3. x = 3.",
+     "4. Tablo: x = 2, 3, 4, 5 için f(x) = 2, 0, 2, 4.",
+     "5. x, 3'ten itibaren büyüdükçe f de büyür.",
+     "6. 3'ün solunda f küçülür; artanlık 3'te başlar.",
+     "7. Artan olduğu en geniş aralık [3, ∞)'dur."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "esitsizlik_yonu",
+     "carpim_sifir_isaret",
+     "eksik_adim"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s014",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "a",
+    "tip": "dogru_yanlis",
+    "zorluk": 2,
+    "puan": 5,
+    "baglam": null,
+    "kok": "h: ℝ → ℝ, h(x) = −|x − 2| + 5 fonksiyonunun görüntü kümesi [5, ∞)'dur.",
+    "secenekler": null,
+    "cevap": false,
+    "kabul_edilenler": [],
+    "yanlis_aciklama": "Baştaki eksi yüzünden −|x − 2| ≤ 0 olur; h(x) ≤ 5'tir ve görüntü kümesi (−∞, 5]'tir.",
+    "ipuclari": [
+     "Baştaki eksi grafiği ters çevirir; önce −|x − 2|'nin alabildiği değerleri düşün.",
+     "−|x − 2| en fazla 0 olur; sonra her değere 5 eklenir.",
+     "h(2) ve h(4) değerlerini hesapla; hangisi daha büyük?"
+    ],
+    "cozum_adimlari": [
+     "1. |x − 2| ≥ 0'dır.",
+     "2. Baştaki eksi ile −|x − 2| ≤ 0 olur.",
+     "3. İki tarafa 5 eklenir: h(x) ≤ 5.",
+     "4. h(2) = 5 olduğundan 5 değeri alınır; görüntü kümesi (−∞, 5]'tir.",
+     "5. İfade yanlıştır."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "eksi_mutlak_karistirma"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.130, 134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": []
+   },
+   {
+    "id": "matematik-u2-k2-s015",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "c",
+    "tip": "acik",
+    "zorluk": 2,
+    "puan": 10,
+    "baglam": null,
+    "kok": "g: ℝ → ℝ, g(x) = |2x − 8| veriliyor. a) g fonksiyonunu parçalı gösterimle yazınız. b) Parçalı gösterimi kullanarak g(1) ve g(7) değerlerini bulunuz. c) b şıkkındaki sonuçlardan yararlanarak g'nin bire bir olup olmadığını açıklayınız. (10 puan)",
+    "secenekler": null,
+    "cevap": "1. 2x − 8 = 0 ⇒ x = 4. 2. x < 4 iken g(x) = −2x + 8; x ≥ 4 iken g(x) = 2x − 8. 3. 1 < 4: g(1) = −2 + 8 = 6. 4. 7 ≥ 4: g(7) = 14 − 8 = 6. 5. 1 ≠ 7 olduğu hâlde g(1) = g(7) = 6; g bire bir değildir.",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "Önce mutlak değerin içini 0 yapan x'i bul.",
+     "Bu x'in solunda içi negatiftir ve işareti değişir; sağında içi aynen çıkar.",
+     "2x − 8 = 0 denklemini çöz. Çıkan x'in solundan bir sayı seç ve 2x − 8'in işaretine bak."
+    ],
+    "cozum_adimlari": [
+     "1. 2x − 8 = 0 yazılır.",
+     "2. 2x = 8.",
+     "3. x = 4.",
+     "4. x ≥ 4 iken 2x − 8 ≥ 0; mutlak değer aynen çıkar: g(x) = 2x − 8.",
+     "5. x < 4 iken 2x − 8 < 0; işaret değişir: g(x) = −(2x − 8) = −2x + 8.",
+     "6. 1 < 4 olduğundan ilk satır kullanılır: g(1) = −2 · 1 + 8 = 6.",
+     "7. 7 ≥ 4 olduğundan ikinci satır kullanılır: g(7) = 2 · 7 − 8 = 6.",
+     "8. 1 ≠ 7 iken g(1) = g(7) = 6 oldu.",
+     "9. Farklı x'ler aynı değeri verdiği için g bire bir değildir."
+    ],
+    "rubrik": [
+     {
+      "olcut": "a) Mutlak değerin içini 0 yapan x = 4 değerini bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "a) x < 4 için g(x) = −2x + 8 satırını yazma (−(2x − 8) yazımı da kabul edilir).",
+      "puan": 2
+     },
+     {
+      "olcut": "a) x ≥ 4 için g(x) = 2x − 8 satırını yazma.",
+      "puan": 2
+     },
+     {
+      "olcut": "b) g(1) = 6 ve g(7) = 6 değerlerini bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "c) Farklı x'lerin aynı değeri verdiğini belirtip g'nin bire bir olmadığını yazma (bu anlama gelen ifadeler kabul edilir).",
+      "puan": 2
+     }
+    ],
+    "puanlama_notu": "x = 4'ün hangi satıra yazıldığı (x ≤ 4 / x > 4) puanı etkilemez; x = 4'te iki satır da 0 verir. b) şıkkında değerler doğrudan |2 − 8| ve |14 − 8| ile bulunursa da puan verilir.",
+    "hata_turu": [
+     "parcali_isaret",
+     "carpim_sifir_isaret",
+     "kavram_karisikligi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.124, 127, 134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": [
+     "DOĞRULA: Rubrik puan dağılımı bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #28)."
+    ]
+   },
+   {
+    "id": "matematik-u2-k2-s016",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "acik",
+    "zorluk": 3,
+    "puan": 8,
+    "baglam": "Gölcük'teki bir fırında ekmekler 250 g olacak şekilde hazırlanıyor. Kütlesi x gram olan bir ekmeğin 250 g'dan sapması s(x) gramdır.",
+    "kok": "Ekmeğin kütlesi 240 g ile 260 g arasındaki bütün değerleri alabilir; s'nin tanım kümesi [240, 260] kapalı aralığıdır. Buna göre işlemlerinizi göstererek a) s fonksiyonunun cebirsel temsilini ve görüntü kümesini yazınız. b) s'nin sıfırını bulup bağlamdaki anlamını yazınız. (8 puan)",
+    "secenekler": null,
+    "cevap": "a) s(x) = |x − 250|; s(240) = 10, s(250) = 0, s(260) = 10; görüntü kümesi [0, 10]. b) |x − 250| = 0 ⇒ x = 250; ekmek tam 250 g iken sapma yoktur.",
+    "kabul_edilenler": [
+     "s(x) = |x − 250|",
+     "s(x) = |250 − x|",
+     "[0, 10]"
+    ],
+    "ipuclari": [
+     "Sapma, kütlenin 250 g'dan ne kadar uzak olduğudur. Uzaklık eksi olamaz.",
+     "İki sayı arasındaki uzaklık mutlak değerle yazılır. Görüntü kümesi için s'yi tanım kümesinin iki ucunda ve sapmanın 0 olduğu kütlede hesapla.",
+     "Önce bir sayıyla dene: 245 g'lık ekmeğin sapması |245 − 250| = 5 g'dır. Şimdi 240 g'lık ekmek için aynı işlemi yap."
+    ],
+    "cozum_adimlari": [
+     "1. a) Sapma, kütlenin 250'den uzaklığıdır.",
+     "2. Uzaklık mutlak değerle yazılır: s(x) = |x − 250|.",
+     "3. Görüntü kümesi için s, tanım kümesinin uçlarında ve içi 0 olan yerde hesaplanır.",
+     "4. s(240) = |−10| = 10.",
+     "5. s(250) = |0| = 0.",
+     "6. s(260) = |10| = 10.",
+     "7. Sapma 0 ile 10 arasındaki bütün değerleri alır; görüntü kümesi [0, 10].",
+     "8. b) s(x) = 0 yazılır: |x − 250| = 0.",
+     "9. Mutlak değer yalnız içi 0 iken 0 olur: x − 250 = 0.",
+     "10. x = 250.",
+     "11. Anlamı: ekmek tam 250 g iken sapma yoktur."
+    ],
+    "rubrik": [
+     {
+      "olcut": "a) s(x) = |x − 250| yazma (|250 − x| de kabul edilir).",
+      "puan": 3
+     },
+     {
+      "olcut": "a) s(240) = 10, s(260) = 10 ve s(250) = 0 değerlerini hesaplama.",
+      "puan": 1
+     },
+     {
+      "olcut": "a) Bu değerlerden görüntü kümesini [0, 10] yazma.",
+      "puan": 1
+     },
+     {
+      "olcut": "b) Sıfırı x = 250 olarak bulma.",
+      "puan": 1
+     },
+     {
+      "olcut": "b) Sıfırın anlamını yazma: ekmek tam 250 g iken sapma yoktur (bu anlama gelen ifadeler kabul edilir).",
+      "puan": 2
+     }
+    ],
+    "puanlama_notu": "Uç değer hesabı gösterilmeden yalnız [0, 10] yazılırsa yalnız görüntü kümesi ölçütünün puanı verilir. Görüntü kümesi uçları açık parantezle yazılırsa ya da yalnız {0, 10} veya tam sayılar yazılırsa görüntü kümesi ölçütünün puanı verilmez; sapma 0 ile 10 arasındaki bütün değerleri alır. s(x) yanlış kurulup değerler bu formülle tutarlı hesaplanırsa hesap ölçütünün puanı verilir.",
+    "hata_turu": [
+     "tanim_goruntu_karistirma",
+     "aralik_uc",
+     "tamsayi_sanma"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.126-127 (5. Örnek), s.135 (Alıştırma 1)",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": [
+     "DOĞRULA: Rubrik puan dağılımı bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #28)."
+    ]
+   },
+   {
+    "id": "matematik-u2-k2-s019",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "acik",
+    "zorluk": 2,
+    "puan": 7,
+    "baglam": "Gölcük'teki bir fırında kütlesi x gram olan bir simidin 120 g'dan sapması s(x) = |x − 120| gramdır. Simidin kütlesi 112 g ile 128 g arasındaki bütün değerleri alabilir; s'nin tanım kümesi [112, 128] kapalı aralığıdır. Örnek ölçümler: bir gün 117 g ve 123 g'lık iki simit tartıldı.",
+    "kok": "Buna göre işlemlerinizi göstererek a) s'nin minimum ve maksimum değerlerini ve bu değerleri aldığı x değerlerini bulunuz. b) Örnek ölçümlerdeki iki simidin sapmalarını bulup s'nin bire bir olup olmadığını açıklayınız. (7 puan)",
+    "secenekler": null,
+    "cevap": "a) Minimum değer 0, x = 120'de; maksimum değer 8, x = 112 ve x = 128'de. b) s(117) = s(123) = 3; farklı kütleler aynı sapmayı verdiği için s bire bir değildir.",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "Sapma eksi olamaz; en küçük sapmanın hangi kütlede olduğunu düşün.",
+     "V yukarı açık ve tanım kümesi kapalı aralık; maksimum için iki uçta s'yi hesapla. Bire birlik için iki simidin sapmasını karşılaştır.",
+     "s(120) = |120 − 120| işlemini yap."
+    ],
+    "cozum_adimlari": [
+     "1. a) |x − 120| ≥ 0'dır.",
+     "2. s(120) = |0| = 0; minimum değer 0'dır ve x = 120'de alınır.",
+     "3. Tanım kümesi kapalı aralıktır ve V yukarı açıktır; en büyük sapma uçlardadır.",
+     "4. s(112) = |−8| = 8.",
+     "5. s(128) = |8| = 8.",
+     "6. Maksimum değer 8'dir; x = 112 ve x = 128'de alınır.",
+     "7. b) s(117) = |−3| = 3.",
+     "8. s(123) = |3| = 3.",
+     "9. 117 ≠ 123 olduğu hâlde sapmalar eşittir.",
+     "10. Farklı x'ler aynı değeri verdiği için s bire bir değildir."
+    ],
+    "rubrik": [
+     {
+      "olcut": "a) Minimum değeri 0 ve alındığı x = 120 değerini bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "a) Maksimum değeri 8 ve alındığı x = 112, x = 128 değerlerini bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "b) Örnek ölçümler için s(117) = 3 ve s(123) = 3 bulma.",
+      "puan": 1
+     },
+     {
+      "olcut": "b) Farklı kütlelerin aynı sapmayı verdiğini belirtip s'nin bire bir olmadığını yazma (bu anlama gelen ifadeler kabul edilir).",
+      "puan": 2
+     }
+    ],
+    "puanlama_notu": "Maksimum değer yalnız bir x ile verilirse 1 puan verilir. Tanım kümesi kapalı aralık ve V yukarı açık olduğu için maksimum vardır ve uçlarda alınır; 'maksimum yoktur' yazan öğrenci o ölçütün puanını alamaz. s(117) ve s(123) hesabı (1 puan) kökteki örnek ölçümlerle yapılmalıdır; bire birlik gerekçesinde (2 puan) bu çift yerine 112 ve 128 ya da başka doğru bir çift kullanılırsa da puan verilir.",
+    "hata_turu": [
+     "maksimum_varlik",
+     "kavram_karisikligi"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.126-127 (5. Örnek), s.135 (Alıştırma 1)",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": [
+     "DOĞRULA: Rubrik puan dağılımı bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #28)."
+    ]
+   },
+   {
+    "id": "matematik-u2-k2-s017",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "b",
+    "tip": "acik",
+    "zorluk": 3,
+    "puan": 15,
+    "baglam": "Gerçek sayılarda f(x) = 2x − 4 ve g(x) = |f(x)| − 2 şeklinde tanımlı fonksiyonlar veriliyor.",
+    "kok": "g fonksiyonuna göre işlemlerinizi göstererek a) görüntü kümesini, b) sıfırlarını, c) artan veya azalan olduğu aralıkları, ç) minimum ve maksimum değerlerini bulunuz. (15 puan)",
+    "secenekler": null,
+    "cevap": "g(x) = |2x − 4| − 2. 2x − 4 = 0 ⇒ x = 2. a) |2x − 4| ≥ 0 ⇒ g(x) ≥ −2; görüntü kümesi [−2, ∞). b) |2x − 4| = 2: 2x − 4 = 2 ⇒ x = 3; 2x − 4 = −2 ⇒ x = 1. Sıfırlar 1 ve 3. c) g, (−∞, 2] aralığında azalan, [2, ∞) aralığında artandır. ç) Minimum değer −2'dir ve x = 2'de alınır; maksimum değer yoktur.",
+    "kabul_edilenler": [
+     "[−2, ∞)",
+     "1 ve 3"
+    ],
+    "ipuclari": [
+     "Önce g'yi yalnız x'e bağlı yaz: g'nin içindeki f(x) yerine ne gelir, bak.",
+     "Mutlak değer en küçük değerini içi 0 iken alır; g'nin en küçük değeri de oradadır. Sıfırlar için g(x) = 0 yazıp mutlak değeri yalnız bırak.",
+     "g(x) = |2x − 4| − 2 yaz; sonra 2x − 4 = 0 denklemini çöz."
+    ],
+    "cozum_adimlari": [
+     "1. g(x) = |2x − 4| − 2 olur.",
+     "2. f'nin sıfırı için 2x − 4 = 0 yazılır.",
+     "3. 2x = 4 ⇒ x = 2.",
+     "4. a) |2x − 4| ≥ 0 olduğundan g(x) ≥ 0 − 2 = −2.",
+     "5. g(2) = |0| − 2 = −2; görüntü kümesi [−2, ∞).",
+     "6. b) g(x) = 0 ⇒ |2x − 4| = 2.",
+     "7. x ≥ 2 iken 2x − 4 = 2 denklemi kurulur.",
+     "8. 2x = 6 ⇒ x = 3.",
+     "9. 3 ≥ 2 olduğu için x = 3 uygundur.",
+     "10. x < 2 iken −(2x − 4) = 2, yani 2x − 4 = −2 olur.",
+     "11. 2x = 2 ⇒ x = 1.",
+     "12. 1 < 2 olduğu için x = 1 uygundur.",
+     "13. Kontrol: g(1) = |−2| − 2 = 0.",
+     "14. Kontrol: g(3) = |2| − 2 = 0.",
+     "15. Sıfırlar 1 ve 3'tür.",
+     "16. c) x, 2'ye yaklaşırken |2x − 4| küçülür: g, (−∞, 2] aralığında azalandır.",
+     "17. x, 2'den uzaklaşırken |2x − 4| büyür: g, [2, ∞) aralığında artandır.",
+     "18. ç) Minimum değer −2'dir ve x = 2'de alınır.",
+     "19. Değerler sınırsız büyüdüğü için maksimum değer yoktur."
+    ],
+    "rubrik": [
+     {
+      "olcut": "f'nin sıfırı x = 2'yi bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "a) Görüntü kümesini [−2, ∞) yazma.",
+      "puan": 2
+     },
+     {
+      "olcut": "b) |2x − 4| = 2 denklemini ya da parçalı gösterimdeki iki denklemi kurma.",
+      "puan": 2
+     },
+     {
+      "olcut": "b) Sıfırları 1 ve 3 olarak bulma (yalnız biri bulunursa 1 puan).",
+      "puan": 3
+     },
+     {
+      "olcut": "c) Azalan olduğu aralığı (−∞, 2] yazma.",
+      "puan": 2
+     },
+     {
+      "olcut": "c) Artan olduğu aralığı [2, ∞) yazma.",
+      "puan": 2
+     },
+     {
+      "olcut": "ç) Minimum değeri −2 bulma ve maksimum değer olmadığını belirtme (bu anlama gelen ifadeler kabul edilir).",
+      "puan": 2
+     }
+    ],
+    "puanlama_notu": "c) şıkkında x = 2 ucunun açık yazılması ((−∞, 2) ve (2, ∞)) da kabul edilir; bu aralıklarda da fonksiyon azalan ve artandır. ∞ yanına [ ya da ] koyan ya da artan-azalan aralıkları ters yazan öğrenci o ölçütün puanını alamaz.",
+    "hata_turu": [
+     "tek_sifir",
+     "esitsizlik_yonu",
+     "sonsuz_koseli",
+     "maksimum_varlik"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.135 (Alıştırma 2), s.134",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": [
+     "DOĞRULA: Rubrik puan dağılımı bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #28)."
+    ]
+   },
+   {
+    "id": "matematik-u2-k2-s018",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "c",
+    "tip": "acik",
+    "zorluk": 3,
+    "puan": 15,
+    "baglam": "Gölcük'teki bir tur teknesi iskeleden kalkıp 30 km uzaklıktaki bir koya 2 saatte gidiyor. Teknenin hızı yol boyunca sabittir. Tekne koyda beklemeden, aynı hızla ve aynı doğrusal rotadan iskeleye geri dönüyor. Yola çıktıktan t saat sonra teknenin koya uzaklığı f(t) km'dir.",
+    "kok": "Buna göre işlemlerinizi göstererek a) f fonksiyonunun cebirsel temsilini ve tanım kümesini yazınız. b) f(1) ve f(3) değerlerini bulup bağlamdaki anlamını yazınız. c) f'nin minimum ve maksimum değerlerini ve bu değerleri aldığı t değerlerini bulunuz. ç) f'nin azalan ve artan olduğu aralıkları yazıp bağlamla açıklayınız. (15 puan)",
+    "secenekler": null,
+    "cevap": "a) Hız 30 ÷ 2 = 15 km/sa. f(t) = |15t − 30|, tanım kümesi [0, 4]. b) f(1) = |−15| = 15, f(3) = |15| = 15; tekne 1. saatte giderken, 3. saatte dönerken koya 15 km uzaktadır. c) Minimum değer 0, t = 2'de (tekne koyda); maksimum değer 30, t = 0 ve t = 4'te (tekne iskelede). ç) f, [0, 2] aralığında azalan (tekne koya yaklaşıyor), [2, 4] aralığında artandır (tekne koydan uzaklaşıyor).",
+    "kabul_edilenler": [
+     "f(t) = |15t − 30|",
+     "f(t) = |30 − 15t|",
+     "[0, 4]"
+    ],
+    "ipuclari": [
+     "Önce teknenin 1 saatte kaç km gittiğini bul.",
+     "Giderken koya uzaklık 30'dan azalır, dönerken 0'dan artar; bu iki durumu tek mutlak değerle yaz.",
+     "Hız için 30 ÷ 2 işlemini yap; sonra t = 0 anında koya uzaklığın 30 km olduğunu not et."
+    ],
+    "cozum_adimlari": [
+     "1. a) Hız: 30 ÷ 2 = 15 km/sa.",
+     "2. Giderken 0 ≤ t ≤ 2 için koya uzaklık 30 − 15t olur.",
+     "3. Dönerken 2 ≤ t ≤ 4 için koya uzaklık 15t − 30 olur.",
+     "4. İkisi tek ifadede: f(t) = |15t − 30|.",
+     "5. Gidiş 2, dönüş 2 saat sürer; tanım kümesi [0, 4].",
+     "6. b) f(1) = |15 − 30| = |−15| = 15.",
+     "7. f(3) = |45 − 30| = |15| = 15.",
+     "8. Anlamı: tekne 1. saatte giderken, 3. saatte dönerken koya 15 km uzaktadır.",
+     "9. c) |15t − 30| en az 0'dır.",
+     "10. 15t − 30 = 0 ⇒ t = 2.",
+     "11. Minimum değer 0'dır ve t = 2'de alınır; tekne koydadır.",
+     "12. f(0) = |0 − 30| = 30.",
+     "13. f(4) = |60 − 30| = 30.",
+     "14. Maksimum değer 30'dur ve t = 0, t = 4'te alınır; tekne iskelededir.",
+     "15. ç) t, 0'dan 2'ye giderken f küçülür: [0, 2] aralığında azalandır; tekne koya yaklaşır.",
+     "16. t, 2'den 4'e giderken f büyür: [2, 4] aralığında artandır; tekne koydan uzaklaşır."
+    ],
+    "rubrik": [
+     {
+      "olcut": "a) Teknenin hızını 15 km/sa bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "a) f(t) = |15t − 30| yazma (|30 − 15t| ya da doğru parçalı gösterim kabul edilir).",
+      "puan": 2
+     },
+     {
+      "olcut": "a) Tanım kümesini [0, 4] yazma.",
+      "puan": 2
+     },
+     {
+      "olcut": "b) f(1) = 15 ve f(3) = 15 bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "b) Bağlamdaki anlamı yazma: giderken ve dönerken koya 15 km uzaklık (bu anlama gelen ifadeler kabul edilir).",
+      "puan": 1
+     },
+     {
+      "olcut": "c) Minimum değeri 0 ve t = 2'yi bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "c) Maksimum değeri 30 ve t = 0, t = 4'ü bulma.",
+      "puan": 2
+     },
+     {
+      "olcut": "ç) Azalan [0, 2] ve artan [2, 4] aralıklarını bağlamla açıklama (bu anlama gelen ifadeler kabul edilir).",
+      "puan": 2
+     }
+    ],
+    "puanlama_notu": "Parçalı gösterim (0 ≤ t < 2 iken 30 − 15t; 2 ≤ t ≤ 4 iken 15t − 30) mutlak değerli yazımla eşdeğerdir, tam puan alır. ç) şıkkında t = 2 ucunun açık yazılması da kabul edilir. a) şıkkında hız yanlış bulunup sonraki şıklar bu hızla tutarlı çözülürse sonraki şıkların puanları verilir.",
+    "hata_turu": [
+     "tanim_goruntu_karistirma",
+     "maksimum_varlik",
+     "esitsizlik_yonu",
+     "parcali_isaret"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap 5. Sıra Sizde (2. soru), s.132–133; s.131-132 (6. Örnek)",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": [
+     "DOĞRULA: Rubrik puan dağılımı bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #28)."
+    ]
+   },
+   {
+    "id": "matematik-u2-k2-s020",
+    "konu_id": "matematik-u2-k2",
+    "ogrenme_ciktisi": "9.2.2",
+    "surec": "a",
+    "tip": "coktan",
+    "zorluk": 2,
+    "puan": null,
+    "baglam": null,
+    "kok": "f: ℝ → ℝ, f(x) = |x − 5| + 2 fonksiyonunun grafiğinin en alt noktasının koordinatları aşağıdakilerden hangisidir?",
+    "secenekler": [
+     {
+      "metin": "(5, 2)",
+      "dogru": true
+     },
+     {
+      "metin": "2",
+      "dogru": false,
+      "hata_turu": "kavram_karisikligi",
+      "aciklama": "Minimum değer 2'dir; grafikteki nokta (5, 2)'dir ve soru bu noktanın iki koordinatını istiyor."
+     },
+     {
+      "metin": "(5, 0)",
+      "dogru": false,
+      "hata_turu": "eksik_adim",
+      "aciklama": "|x − 5|'in en küçük değeri 0'dır, ama sondaki +2 grafiği 2 birim yukarı öteler; y = 2 olur."
+     },
+     {
+      "metin": "(−5, 2)",
+      "dogru": false,
+      "hata_turu": "carpim_sifir_isaret",
+      "aciklama": "x − 5 = 0 denkleminde −5 karşıya +5 olarak geçer; x = 5 olur."
+     }
+    ],
+    "cevap": "(5, 2)",
+    "kabul_edilenler": [],
+    "ipuclari": [
+     "En alt nokta iki sayıyla yazılır: bir x değeri ve o x'teki f değeri.",
+     "|x − 5| en küçük değerini içi 0 iken alır; o x için f'yi hesapla.",
+     "x − 5 = 0 denklemini çöz."
+    ],
+    "cozum_adimlari": [
+     "1. |x − 5| ≥ 0'dır; en küçük değeri 0'dır.",
+     "2. Bu değer içi 0 iken alınır: x − 5 = 0 ⇒ x = 5.",
+     "3. f(5) = |0| + 2 = 2.",
+     "4. Minimum değer 2'dir ve x = 5'te alınır.",
+     "5. Grafiğin en alt noktası (5, 2)'dir."
+    ],
+    "rubrik": null,
+    "hata_turu": [
+     "kavram_karisikligi",
+     "eksik_adim",
+     "carpim_sifir_isaret"
+    ],
+    "kaynak": {
+     "kitap": "matematik-1kitap s.130, 134 (\"minimum değerini x = −b/a noktasında alır\")",
+     "ogrenme_ciktisi": "9.2.2"
+    },
+    "dogrula": [
+     "DOĞRULA: Kitap s.134 'x = −b/a noktasında alır' diyerek x değerini de nokta sayıyor; bu yüzden kök 'minimum noktası' yerine 'grafiğin en alt noktasının koordinatları' diye soruldu. Öğretmenin 'minimum noktası' ile x değerini mi (x, y) ikilisini mi beklediği henüz teyit edilmedi (docs/dogrula.md #22)."
+    ]
    }
   ]
  }

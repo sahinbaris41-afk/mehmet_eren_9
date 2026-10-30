@@ -120,6 +120,13 @@ Kaynak: `kaynaklar/meb/ortak_sinav/kilavuz/tymm_coktan_secmeli_soru_yazim_kilavu
 | `niceleyici_degil` | ∀/∃'nin değilini alırken niceleyiciyi değiştirmemek |
 | `degil_isaret` | > 'nin değilini < sanmak (doğrusu ≤) |
 | `carpim_sifir_isaret` | a·b = 0'dan çözüm çıkarırken işaret hatası (x − 3 = 0 → x = −3) |
+| `mutlak_eksi` | mutlak değerin sonucunu eksi yazmak (\|−3\| = −3) |
+| `eksi_mutlak_karistirma` | −\|x\| ile \|−x\|'i karıştırmak (\|−x\| = \|x\| ≥ 0, −\|x\| ≤ 0) |
+| `parcali_isaret` | parçalı gösterimdeki −x'i hep eksi sanmak (x < 0 iken −x artıdır) |
+| `sifir_aralik_kontrol` | parçalı gösterimle bulunan sıfırın kendi satırının aralığına uyup uymadığını kontrol etmemek |
+| `yansima_kapsam` | \|ax + b\| çizerken bütün doğruyu yansıtmak (yalnız x ekseninin altı yansıtılır) |
+| `tek_sifir` | iki sıfırdan yalnız birini bulmak (\|x\| − 4 = 0 → yalnız x = 4) |
+| `maksimum_varlik` | en büyük ya da en küçük değerin varlığını karıştırmak: ℝ'de V'nin maksimumunu (ters V'nin minimumunu) aramak, var olan minimum/maksimum için "yoktur" demek, kapalı aralıkta "maksimum yok" demek |
 | `birim_cevirme` | birim dönüşümü yapmamak |
 | `kavram_karisikligi` | iki benzer kavramı karıştırmak (skaler/vektörel, iklim/hava durumu) |
 | `ezber_karisikligi` | sıralama/isim/tarih karıştırmak |
