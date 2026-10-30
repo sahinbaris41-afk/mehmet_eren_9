@@ -1890,4 +1890,617 @@
     id: "mat-u2-mutlak-kapali-min-ic", konu_id: "matematik-u2-k2", ogrenme_ciktisi: "9.2.2", zorluk: 2,
     kaynak: { kitap: KITAP, sayfa: "126-127, 131-132" }, gen: kapaliGen(["Vmin", "Vmin", "Vmaks"], ["ic", "ic", "uc"], false), kontrol: kapaliKontrol,
   });
+  // =====================================================================
+  // 9.2.3 · Doğrusal denklem ve eşitsizlik problemleri (matematik-u2-k3)
+  // =====================================================================
+  // Terimler kartla aynı: "kesim noktası", "orta nokta", "tolerans", "gelir/gider/maliyet/kâr/zarar", "dâhil".
+  // Bağlamlardaki sayılar kurgusaldır; gerçek kurum ve fiyat yoktur. Yanlış dizisindeki sıra teşhis önceliğidir (ayikla öndekini bırakır).
+  // Çözümün son adımı her üreteçte ayrı bir "Kontrol" satırıdır: yerine koyma, iki değer ya da geri dönme.
+  // Zorluk soru başına verilemediği için kolay alt türler ayrı kayıtla gelir (9.2.2 ile aynı).
+  const KURGU = " (Sayılar kurgusaldır.)";
+  const kayit3 = (id, zorluk, sayfa, gen, kontrol) => kayit({
+    id: "mat-u2-problem-" + id, konu_id: "matematik-u2-k3", ogrenme_ciktisi: "9.2.3", zorluk, kaynak: { kitap: KITAP, sayfa }, gen, kontrol,
+  });
+  const numarala = l => l.map((t, i) => i + 1 + ". " + t);
+  const pozTam = v => Number.isInteger(v) && v > 0;
+  const carp = (a, x) => (a === 1 ? pt(x) : tam(a) + " · " + pt(x)); // "30 · 8"; katsayı 1 yazılmaz
+  const adimSec = (r, [lo, hi, st]) => lo + st * R().rint(r, 0, (hi - lo) / st);
+
+  // ---------- 1. Doğrusal modelden denklem: f(x) = m ----------
+  // artan: f(x) = ax + b (sabit + birim ücret); azalan: f(x) = b − ax (başlangıç − birim tüketim).
+  const DENKLEM = {
+    hat: {
+      artan: true, aH: [2, 3, 4, 5], bH: [100, 120, 150, 180, 200], xH: [10, 60, 5], x: "ek dakika sayısı", f: "fatura (TL)", sabit: "sabit ücret", birim: "dakika ücreti", her: "her ek dakikada",
+      bag: (a, b) => "Mehmet'in hat tarifesinde her ay " + b + " TL sabit ücret var. Paket bitince her ek dakika " + a + " TL tutuyor.",
+      soru: m => "Buna göre faturası " + m + " TL gelen Mehmet o ay kaç ek dakika konuşmuştur?",
+      sonuc: x => "Mehmet o ay " + x + " ek dakika konuşmuştur.",
+    },
+    kira: {
+      artan: true, aH: [3, 4, 5, 6, 8], bH: [300, 400, 500, 600, 800], xH: [20, 150, 10], x: "gidilen yol (km)", f: "toplam ücret (TL)", sabit: "sabit ücret", birim: "kilometre ücreti", her: "her kilometrede",
+      bag: (a, b) => "Kocaeli'de bir firmadan araç kiralamak için " + b + " TL sabit ücret ve her kilometre için " + a + " TL ödeniyor.",
+      soru: m => "Buna göre toplam " + m + " TL ödeyen biri kaç kilometre yol gitmiştir?",
+      sonuc: x => x + " kilometre yol gidilmiştir.",
+    },
+    sac: {
+      artan: true, aH: [6, 8, 10, 12, 15], bH: [200, 250, 300, 400, 500], xH: [10, 80, 5], x: "kesilen sac (metre)", f: "ödenen ücret (TL)", sabit: "hazırlık ücreti", birim: "metre ücreti", her: "her metrede",
+      bag: (a, b) => "Gölcük'teki bir tersane atölyesi sac kesmek için " + b + " TL hazırlık ücreti alıyor. Kesilen her metre için de " + a + " TL alıyor.",
+      soru: m => "Buna göre " + m + " TL ödendiğinde kaç metre sac kesilmiştir?",
+      sonuc: x => x + " metre sac kesilmiştir.",
+    },
+    tir: {
+      artan: false, aH: [20, 25, 30, 40], bH: [400, 500, 600, 800], xH: [2, 15, 1], x: "geçen süre (saat)", f: "depoda kalan yakıt (litre)", madde: "yakıt",
+      bag: (a, b) => "Kocaeli'den yola çıkan bir tırın deposunda " + b + " litre yakıt var. Tır her saat " + a + " litre yakıt harcıyor.",
+      soru: m => "Buna göre depoda " + m + " litre yakıt kalması için kaç saat geçmelidir?",
+      sonuc: (x, m) => x + " saat sonra depoda " + m + " litre yakıt kalır.",
+    },
+    depo: {
+      artan: false, aH: [4, 5, 6, 8, 12], bH: [240, 360, 480, 600], xH: [5, 30, 1], x: "geçen süre (dakika)", f: "depoda kalan su (litre)", madde: "su",
+      bag: (a, b) => "Gölcük'te bir su deposunda " + b + " litre su var. Depodan her dakika " + a + " litre su boşaltılıyor.",
+      soru: m => "Buna göre depoda " + m + " litre su kalması için kaç dakika geçmelidir?",
+      sonuc: (x, m) => x + " dakika sonra depoda " + m + " litre su kalır.",
+    },
+  };
+  const modelYaz = (artan, a, b) => (artan ? dogruYaz(a, b) : b + " − " + a + "x");
+  const denklemGen = turlar => function (r) {
+    const { pick } = R();
+    const tur = pick(r, turlar), B = DENKLEM[tur];
+    // a ile b'yi karıştırma çeldiricisi ((m − a) ÷ b) yalnız b, a(x − 1)'i bölünce tam sayıdır; artanda soruların ~%18'i bu kurulumdan seçilir
+    // (fazlası x'i birkaç değere sıkıştırır ve şık hep 2–3 çıkar). Öteki sorularda bu şık yalnız kendiliğinden tam sayı olunca gelir.
+    const egimIste = B.artan && r() < 0.18;
+    for (;;) {
+      // Sınır: x küçük (m sabite yakın), x büyük; azalanda m = b'ye yakın ve 0'a yakın.
+      const a = pick(r, B.aH), b = pick(r, B.bH), x = egimIste ? R().rint(r, B.xH[0], B.xH[1]) : adimSec(r, B.xH);
+      const m = B.artan ? a * x + b : b - a * x;
+      if (m <= 0) continue;
+      const mod = modelYaz(B.artan, a, b);
+      let ys;
+      if (B.artan) {
+        const isr = (m + b) / a, egm = (m - a) / b, sbt = m / a;
+        const Bas = B.sabit[0].toUpperCase() + B.sabit.slice(1);
+        ys = [
+          y(tam(m - b), "eksik_adim", dogruYaz(a, 0) + " = " + tam(m - b) + " ara sonuçtur; iki taraf " + yonelme(a) + " bölünür.", m - b),
+          // Sabiti modele katmamak: iki ücret türünü (bir kez ödenen / her birimde eklenen) ayırmamak; tamsayi'daki "maliyeti gidere katmamak" ile aynı etiket.
+          ...(pozTam(sbt) ? [y(tam(sbt), "kavram_karisikligi", b + " TL " + B.sabit + " çıkarılmadan bölünmüş; önce " + m + " − " + b + " yapılır, sonra " + yonelme(a) + " bölünür.", sbt)] : []),
+          ...(pozTam(isr) ? [y(tam(isr), "isaret_hatasi", "Karşıya geçen " + b + " çıkarılır, eklenmez: " + dogruYaz(a, 0) + " = " + m + " − " + b + " olmalı.", isr)] : []),
+          ...(pozTam(egm) ? [y(tam(egm), "egim_kesisim_karistirma", Bas + " ile " + B.birim + " yer değiştirmiş: x ile çarpılan sayı, " + B.her + " eklenen " + a + " TL'dir.", egm)] : []),
+          y(tam(a * m + b), "okuma_hatasi", "x yerine " + m + " konmuş; " + m + " TL ödenen ücrettir, bu yüzden f(x) = " + m + " denklemi çözülür.", a * m + b),
+        ];
+      } else {
+        const isr = (b + m) / a, kln = m / a;
+        ys = [
+          y(tam(b - m), "eksik_adim", (b - m) + " litre, harcanan " + B.madde + " miktarıdır; süre için " + yonelme(a) + " bölünür.", b - m),
+          // Çözüm yolu ax = b − m: m karşıya işaret değiştirmeden geçerse ax = b + m olur.
+          ...(pozTam(isr) ? [y(tam(isr), "isaret_hatasi", "İki taraftan " + m + " çıkarılır, eklenmez: " + b + " − " + m + " = " + dogruYaz(a, 0) + " olmalı.", isr)] : []),
+          y(tam(-x), "isaret_hatasi", "İki tarafa " + dogruYaz(a, 0) + " eklenince x'li terim artı kalır; artı sayı artı sayıya bölününce sonuç artıdır.", -x),
+          ...(pozTam(kln) ? [y(tam(kln), "okuma_hatasi", m + " litre kalan " + B.madde + " miktarıdır, harcanan değil; harcanan " + b + " − " + m + " olur.", kln)] : []),
+        ];
+      }
+      ys = ayikla(ys, x);
+      if (tekilSay(ys) < 3) continue;
+      if (egimIste && !ys.some(v => v.hata_turu === "egim_kesisim_karistirma")) continue;
+      const cozum = B.artan ? [
+        "x " + B.x + ", f(x) " + B.f + " olsun.",
+        "Model: f(x) = " + mod + ".",
+        "Denklem: " + mod + " = " + m + ".",
+        "İki taraftan " + b + " çıkarılır: " + dogruYaz(a, 0) + " = " + tam(m - b) + ".",
+        "İki taraf " + yonelme(a) + " bölünür: x = " + x + ".",
+        B.sonuc(x, m),
+        "Kontrol, çarpma: " + carp(a, x) + " = " + a * x + ".",
+        "Kontrol, toplama: " + a * x + " + " + b + " = " + m + "; f(" + x + ") = " + m + ", doğru.",
+      ] : [
+        "x " + B.x + ", f(x) " + B.f + " olsun.",
+        "Model: f(x) = " + mod + ".",
+        "Denklem: " + mod + " = " + m + ".",
+        "İki tarafa " + dogruYaz(a, 0) + " eklenir: " + b + " = " + m + " + " + dogruYaz(a, 0) + ".",
+        "İki taraftan " + m + " çıkarılır: " + (b - m) + " = " + dogruYaz(a, 0) + ".",
+        "İki taraf " + yonelme(a) + " bölünür: x = " + x + ".",
+        B.sonuc(x, m),
+        "Kontrol, çarpma: " + carp(a, x) + " = " + a * x + ".",
+        "Kontrol, çıkarma: " + b + " − " + a * x + " = " + m + "; f(" + x + ") = " + m + ", doğru.",
+      ];
+      return {
+        params: { tur, artan: B.artan, a, b, m }, baglam: B.bag(a, b) + KURGU, kok: B.soru(m), dogru: tam(x), deger: x, yanlislar: ys,
+        ipuclari: [
+          B.artan ? "Önce modeli kur: hangi sayı bir kez ödeniyor, hangisi her birimde ekleniyor? Sonra modeli " + m + " sayısına eşitle."
+            : "Önce modeli kur: başta ne kadar var, her birimde ne kadar azalıyor? Sonra modeli " + m + " sayısına eşitle.",
+          B.artan ? "Denklemde önce sabit sayıyı karşıya geçir, sonra iki tarafı x'in katsayısına böl."
+            : "Önce eksi x'li terimi iki tarafa ekleyerek karşıya geçir. Sonra sabit sayıyı karşıya geçir ve x'in katsayısına böl.",
+          "İlk adım: f(x) = " + mod + " olur; " + mod + " = " + m + " yazılır. Şimdi " + (B.artan ? "iki taraftan " + b + " çıkar." : "iki tarafa " + dogruYaz(a, 0) + " ekle."),
+        ],
+        cozum: numarala(cozum),
+      };
+    }
+  };
+  // Formülü çözmeden: modeli 0, 1, 2, ... için hesaplayıp m'yi veren x'i arar.
+  const denklemKontrol = ({ artan, a, b, m }) => {
+    for (let x = 0; x <= 5000; x++) if ((artan ? a * x + b : b - a * x) === m) return tam(x);
+    return "YOK";
+  };
+  kayit3("denklem-kolay", 1, "136, 139-140, 144-145", denklemGen(["hat", "kira", "sac"]), denklemKontrol);
+  kayit3("denklem", 2, "136, 139-140", denklemGen(["tir", "depo"]), denklemKontrol);
+
+  // ---------- 2. ax + b ? c eşitsizliğinin çözüm aralığı ----------
+  const TERS = { "<": ">", ">": "<", "≤": "≥", "≥": "≤" };
+  const UC_DEGIS = { "<": "≤", "≤": "<", ">": "≥", "≥": ">" };
+  const dahilMi = op => op === "≤" || op === "≥";
+  const buyukMu = op => op === ">" || op === "≥";
+  const saglar = (u, op, v) => (op === "<" ? u < v : op === "≤" ? u <= v : op === ">" ? u > v : u >= v);
+  const yariAralik = (op, k) => (buyukMu(op) ? sagA(k, dahilMi(op)) : solA(k, dahilMi(op)));
+  const koseliAralik = (op, k) => (buyukMu(op) ? (dahilMi(op) ? "[" : "(") + tam(k) + ", ∞]" : "[" + EKSI + "∞, " + tam(k) + (dahilMi(op) ? "]" : ")"));
+  const esitsizlikGen = kolay => function (r) {
+    const { pick, rint } = R();
+    for (;;) {
+      // Sınır: a < 0 (yön döner), a = −1 (−1 ile çarpma), k = 0, k < 0; dört işaretin hepsi. a = 1 yok: ilk adım cevabı verirdi.
+      const a = kolay ? rint(r, 2, 6) : r() < 0.7 ? -rint(r, 1, 6) : rint(r, 2, 6);
+      const k = rint(r, -5, 10), b = (r() < 0.5 ? -1 : 1) * rint(r, 1, 20), op = pick(r, ["<", "≤", ">", "≥"]);
+      const c = a * k + b, opx = a < 0 ? TERS[op] : op, dogru = yariAralik(opx, k), sol = dogruYaz(a, b), d = dahilMi(op);
+      const yd = (metin, h, ac) => y(metin, h, ac, metin);
+      const isr = (c + b) / a;
+      // çarpma adımı; toplama ayrı satırda. a = −1'de "−3 = −3" yerine "−x = −3" yazılır.
+      const kon = (ad, v, son) => ["Kontrol, " + ad + ": x = " + tam(v) + " için " + (a === -1 ? "−x = " + tam(-v) : carp(a, v) + " = " + tam(a * v)) + ".",
+        "Kontrol, " + ad + ": " + tam(a * v) + cEk(b) + " = " + tam(a * v + b) + "; " + tam(a * v + b) + " " + op + " " + tam(c) + " " + son];
+      let ys = [
+        yd(yariAralik(UC_DEGIS[opx], k), "aralik_uc", "x = " + tam(k) + " için " + sol + " = " + tam(c) + " olur; " + tam(c) + " " + op + " " + tam(c) + (d ? " doğru, bu yüzden " + tam(k) + " dâhildir." : " yanlış, bu yüzden " + tam(k) + " hariçtir.")),
+        yd(yariAralik(TERS[opx], k), "esitsizlik_yonu", a < 0 ? "Eksi sayıya bölünce ya da eksi sayıyla çarpınca eşitsizliğin yönü ters döner; " + op + " işareti " + opx + " olur."
+          : "Artı sayıya bölünce eşitsizliğin yönü değişmez; " + op + " işareti olduğu gibi kalır."),
+        yd(koseliAralik(opx, k), "sonsuz_koseli", SONSUZ_AC),
+        ...(Number.isInteger(isr) && isr !== k ? [yd(yariAralik(opx, isr), "isaret_hatasi", b > 0
+          ? "Karşıya geçen " + b + " çıkarılır, eklenmez: " + dogruYaz(a, 0) + " " + op + " " + tam(c) + " − " + b + " olmalı."
+          : "Karşıya geçen " + -b + " eklenir, çıkarılmaz: " + dogruYaz(a, 0) + " " + op + " " + tam(c) + " + " + -b + " olmalı.")] : []),
+        // Bölmede kalan öğrenci yönü de çevirmez: ara satır op ile okunur. a < 0'da yön doğrudan farklı olduğundan doğruyla çakışmaz; a > 0'da k = 0 iken ayikla eler.
+        ...(Math.abs(a) !== 1 ? [yd(yariAralik(op, c - b), "eksik_adim", dogruYaz(a, 0) + " " + op + " " + tam(c - b) + " satırında bölme yapılmadan bırakılmış; iki taraf " + yonelme(a) + " bölünür."
+          + (a < 0 ? " Eksi sayıya bölünce yön de ters döner." : ""))] : []),
+      ];
+      ys = ayikla(ys, dogru);
+      if (tekilSay(ys) < 3) continue;
+      const ic = buyukMu(opx) ? k + 1 : k - 1, dis = buyukMu(opx) ? k - 1 : k + 1;
+      const tasi = (b > 0 ? "iki taraftan " + b + " çıkarılır: " : "iki tarafa " + -b + " eklenir: ") + dogruYaz(a, 0) + " " + op + " " + tam(c - b) + ".";
+      const bol = a === -1 ? "iki tarafı −1 ile çarp" : "iki tarafı " + yonelme(a) + " böl";
+      return {
+        params: { a, b, c, op }, baglam: null, kok: sol + " " + op + " " + tam(c) + " eşitsizliğinin çözüm aralığı aşağıdakilerden hangisidir?",
+        dogru, deger: dogru, yanlislar: ys,
+        ipuclari: [
+          a < 0 ? "x'in katsayısı eksi bir sayı: " + tam(a) + ". Eksi sayıya bölünce eşitsizliğe ne olduğunu hatırla."
+            : "x'i yalnız bırak; sonra uçta hangi parantezin geleceğine karar ver.",
+          "Önce sabit sayıyı karşıya geçir, sonra iki tarafı x'in katsayısına böl. ≤ ve ≥ uca köşeli, < ve > normal parantez ister.",
+          // k = 0 iken ara satır (ax ? 0) cevabın ucunu söylerdi; ilk adım yönergeyle kalır.
+          k === 0 ? "İlk adım: sabit sayıyı karşıya geçir; " + (b > 0 ? "iki taraftan " + b + " çıkar." : "iki tarafa " + -b + " ekle.") + " Sonra " + bol + (a < 0 ? "; yöne dikkat." : ".")
+            : "İlk adım: " + tasi + " Şimdi " + bol + (a < 0 ? "; yöne dikkat." : "."),
+        ],
+        cozum: numarala([
+          "İ" + tasi.slice(1), // tasi hep "iki" ile başlar; toUpperCase "i"yi "I" yapardı
+          a === -1 ? "İki taraf −1 ile çarpılır; eksi sayıyla çarpınca yön değişir: x " + opx + " " + tam(k) + "."
+            : "İki taraf " + yonelme(a) + " bölünür; " + (a < 0 ? "eksi sayıya bölünce yön değişir" : "artı sayıya bölünce yön değişmez") + ": x " + opx + " " + tam(k) + ".",
+          "İşaret " + opx + " olduğu için " + tam(k) + (d ? " dâhildir." : " hariçtir."),
+          "Çözüm aralığı " + dogru + " olur.",
+          ...kon("uç", k, d ? "doğru." : "yanlış."),
+          ...kon("içeriden", ic, "doğru."),
+          ...(kolay ? [] : kon("dışarıdan", dis, "yanlış, " + tam(dis) + " aralıkta değil.")), // kolay: uç + içeriden yeter
+        ]),
+      };
+    }
+  };
+  // Kuralsız: 0,5 adımlı ızgarada eşitsizliği tek tek dener (tara).
+  const esitsizlikKontrol = ({ a, b, c, op }) => tara(x => saglar(a * x + b, op, c), [(c - b) / a]);
+  kayit3("esitsizlik-kolay", 1, "139-140", esitsizlikGen(true), esitsizlikKontrol);
+  kayit3("esitsizlik", 2, "139-140", esitsizlikGen(false), esitsizlikKontrol);
+
+  // ---------- 3. Kâr modeli, tam sayı sınır ("en az / en çok") ----------
+  // k(x) = p·x − (F + u·x). Kâr: sınırdan büyük ilk tam sayı; zarar: sınırdan küçük ilk tam sayı.
+  const SATIS = {
+    simit: {
+      urun: "simit", tekil: "simidin",
+      bag: (F, u, p) => u ? "Gölcük'te bir simit büfesinin günlük sabit gideri " + F + " TL. Her simidin malzeme maliyeti " + u + " TL, satış fiyatı " + p + " TL."
+        : "Gölcük'te bir simit büfesinin günlük gideri " + F + " TL. Her simit " + p + " TL'ye satılıyor.",
+      kar: "Buna göre büfenin kâr edebilmesi için bir günde en az kaç simit satması gerekir?",
+      zarar: "Buna göre büfe bir günde en çok kaç simit satarsa zarar eder?",
+    },
+    kurabiye: {
+      urun: "paket kurabiye", tekil: "paketin",
+      bag: (F, u, p) => u ? "Okul kermesinde kurabiye satan öğrenci kulübü stant için " + F + " TL ödedi. Her paket kurabiyenin malzeme maliyeti " + u + " TL, satış fiyatı " + p + " TL."
+        : "Okul kermesinde kurabiye satan öğrenci kulübü stant ve malzeme için toplam " + F + " TL harcadı. Her paket kurabiye " + p + " TL'ye satılıyor.",
+      kar: "Buna göre kulübün kâr edebilmesi için en az kaç paket kurabiye satması gerekir?",
+      zarar: "Buna göre kulüp en çok kaç paket kurabiye satarsa zarar eder?",
+    },
+    tost: {
+      urun: "tost", tekil: "tostun",
+      bag: (F, u, p) => u ? "Tersanedeki bir kantinin günlük sabit gideri " + F + " TL. Her tostun malzeme maliyeti " + u + " TL, satış fiyatı " + p + " TL."
+        : "Tersanedeki bir kantinin günlük gideri " + F + " TL. Her tost " + p + " TL'ye satılıyor.",
+      kar: "Buna göre kantinin kâr edebilmesi için bir günde en az kaç tost satması gerekir?",
+      zarar: "Buna göre kantin bir günde en çok kaç tost satarsa zarar eder?",
+    },
+  };
+  // tur: "kolay" (birim maliyet yok, sınır tam sayı), "tam" (birim maliyet var, sınır tam sayı), "kesir" (birim maliyet var, sınır kesir).
+  const tamsayiGen = tur => function (r) {
+    const { pick, rint } = R();
+    const ctx = pick(r, Object.keys(SATIS)), S = SATIS[ctx], kar = r() < 0.6;
+    for (;;) {
+      let p, u = 0, F;
+      if (tur === "kolay") {
+        p = pick(r, [5, 6, 8, 10, 12, 15, 20, 25]); F = p * rint(r, 12, 60);
+        if (F % 10) continue;
+      } else {
+        p = rint(r, 8, 25); u = rint(r, 2, p - 3);
+        if (tur === "tam") { F = (p - u) * rint(r, 15, 120); if (F % 10 || F > 2000 || F < 150) continue; }
+        else { F = 50 * rint(r, 4, 30); if (F % (p - u) === 0 || F / (p - u) > 150 || F / (p - u) < 10) continue; }
+      }
+      const m = p - u, k = x => m * x - F; // sadeleşmiş kâr
+      const yuvarla = (pay, payda) => (kar ? Math.floor(pay / payda) + 1 : Math.ceil(pay / payda) - 1);
+      const n = yuvarla(F, m), tamSinir = F % m === 0, Bs = F / m;
+      const kAc = v => "k(" + v + ") = " + tam(k(v)) + "; " + (k(v) === 0 ? "ne kâr ne zarar vardır." : k(v) > 0 ? "kâr var, zarar yok." : "zarar var, kâr yok.");
+      const op = kar ? ">" : "<", bolum = F + " ÷ " + m + " = " + Math.floor(F / m) + ", kalan " + F % m, alt = kar ? "altında" : "üstünde";
+      // Kesirli sınırda aralik_uc: kârda kesrin tam kısmı (sınırın altı), zararda sınırın üstündeki ilk tam sayı alınmış.
+      const ucAc = v => tamSinir ? "Sınırın kendisi alınmış: " + kAc(v)
+        : (kar ? "Kesrin yalnız tam kısmı alınmış: " : "Sınırın üstündeki tam sayı alınmış: ") + bolum + ". " + v + " için " + kAc(v);
+      let ys = [
+        y(tam(kar ? n - 1 : n + 1), "aralik_uc", ucAc(kar ? n - 1 : n + 1), kar ? n - 1 : n + 1),
+        ...(tamSinir ? [y(tam(kar ? Bs - 1 : Bs + 1), "esitsizlik_yonu", "Yanlış yöne gidilmiş: " + (kar ? Bs - 1 : Bs + 1) + ", sınır olan " + Bs + " sayısının " + alt + " kalır, " + kAc(kar ? Bs - 1 : Bs + 1), kar ? Bs - 1 : Bs + 1)] : []),
+        ...(u ? [
+          y(tam(yuvarla(F, p)), "kavram_karisikligi", "Her " + S.tekil + " " + u + " TL maliyeti de gidere girer; gider " + F + " + " + u + "x olur.", yuvarla(F, p)),
+          y(tam(yuvarla(F, p + u)), "isaret_hatasi", "Parantez açılırken eksi işareti " + u + "x'e de geçmeli: " + p + "x − (" + F + " + " + u + "x) = " + p + "x − " + F + " − " + u + "x olur.", yuvarla(F, p + u)),
+        ] : [y(tam(F), "eksik_adim", p + "x " + op + " " + F + " satırında bölme yapılmadan bırakılmış; " + F + " TL giderdir, " + S.urun + " sayısı için " + yonelme(p) + " bölünür.", F)]),
+      ].filter(v => v.deger > 0);
+      ys = ayikla(ys, n);
+      if (tekilSay(ys) < 3) continue;
+      const kurulum = u ? [
+        "Gelir: g(x) = " + p + "x.",
+        "Gider: " + F + " + " + u + "x (sabit gider + her " + S.tekil + " maliyeti).",
+        "Kâr = Gelir − Gider: k(x) = " + p + "x − (" + F + " + " + u + "x).",
+        "Parantez açılır, eksi iki terime de dağılır: k(x) = " + p + "x − " + F + " − " + u + "x.",
+        "x'li terimler birleştirilir: k(x) = " + dogruYaz(m, -F) + ".",
+      ] : ["Gelir: g(x) = " + p + "x; gider: " + F + " TL.", "Kâr = Gelir − Gider: k(x) = " + dogruYaz(m, -F) + "."];
+      // Kontrol sadeleşmiş k(x)'i kullanmaz: gelir ve gider modelden ayrı ayrı hesaplanır.
+      // u = 0'da gider sabittir (bağlamda), satırı yazılmaz; k = 0'da gelir = gider satırı kârı da söyler.
+      const kontrol = v => {
+        const g = p * v, h = F + u * v, f = g - h, e = ", " + v + " " + S.urun + ": ";
+        const gelir = "Gelir" + e + carp(p, v) + " = " + g + " TL.";
+        if (!u) return [gelir, "Kâr" + e + "gelir − gider = " + g + " − " + h + " = " + tam(f) + (f > 0 ? " > 0; kâr var." : f === 0 ? "; ne kâr ne zarar var." : " < 0; zarar var.")];
+        const gider = "Gider" + e + F + " + " + carp(u, v) + " = " + h + " TL";
+        if (f === 0) return [gelir, gider + "; gelir = gider, kâr 0."];
+        return [gelir, gider + ".", "Kâr" + e + g + " − " + h + " = " + tam(f) + (f > 0 ? " > 0; kâr var." : " < 0; zarar var.")];
+      };
+      const v1 = kar ? n - 1 : n + 1;
+      const sinir = tamSinir ? tam(Bs) : F + "/" + m; // sadeleştirme yok: bölme bir sonraki adımda kalanlı yapılır
+      return {
+        params: { ctx, kar, p, u, F }, baglam: S.bag(F, u, p) + KURGU, kok: kar ? S.kar : S.zarar, dogru: tam(n), deger: n, yanlislar: ys,
+        ipuclari: [
+          (kar ? "" : "Zarar, kârın eksi olmasıdır. ") + "Kâr = Gelir − Gider." + (u ? " Gider iki parçalıdır: sabit gider ve her " + S.tekil + " maliyeti." : ""),
+          "Kâr fonksiyonunu kur, " + (kar ? "k(x) > 0" : "k(x) < 0") + " yazıp çöz. " + S.urun[0].toUpperCase() + S.urun.slice(1) + " sayısı tam sayıdır; sınır hariçtir, sınırın doğru yanındaki ilk tam sayıyı al.",
+          u ? "İlk adım: gelir " + p + "x, gider " + F + " + " + u + "x olur; k(x) = " + p + "x − (" + F + " + " + u + "x) yazılır. Şimdi parantezi aç; eksi iki terime de dağılır."
+            : "İlk adım: gelir " + p + "x, gider " + F + " TL; " + (kar ? "kâr şartı " : "zarar şartı ") + dogruYaz(m, -F) + " " + op + " 0 yazılır. Şimdi iki tarafa " + F + " ekle.",
+        ],
+        cozum: numarala([
+          ...kurulum,
+          (kar ? "Kâr şartı: " : "Zarar şartı: ") + dogruYaz(m, -F) + " " + op + " 0.",
+          "İki tarafa " + F + " eklenir: " + dogruYaz(m, 0) + " " + op + " " + F + ".",
+          "İki taraf " + yonelme(m) + " bölünür: x " + op + " " + sinir + ".",
+          ...(tamSinir ? [tam(Bs) + " hariçtir; " + S.urun + " sayısı tam sayıdır."]
+            : [bolum + "; sınır " + Math.floor(F / m) + " ile " + Math.ceil(F / m) + " arasındadır."]),
+          "Sınırdan " + (kar ? "büyük" : "küçük") + " ilk tam sayı " + n + ".",
+          kar ? "En az " + n + " " + S.urun + " satılmalıdır." : "En çok " + n + " " + S.urun + " satılırsa zarar edilir.",
+          "Kontrol: " + v1 + " ve " + n + " " + S.urun + " için gelir ve gider ayrı hesaplanır.",
+          ...kontrol(v1),
+          ...kontrol(n),
+        ]),
+      };
+    }
+  };
+  // Formülsüz: satış sayısını birer artırarak kârın işaretinin değiştiği yeri arar.
+  const tamsayiKontrol = ({ kar, p, u, F }) => {
+    let x = 0;
+    if (kar) { while (p * x - (F + u * x) <= 0) x++; return tam(x); }
+    while (p * x - (F + u * x) < 0) x++;
+    return tam(x - 1);
+  };
+  kayit3("tamsayi-kolay", 1, "150", tamsayiGen("kolay"), tamsayiKontrol);
+  kayit3("tamsayi", 2, "150", tamsayiGen("tam"), tamsayiKontrol);
+  kayit3("tamsayi-kesir", 3, "150", tamsayiGen("kesir"), tamsayiKontrol);
+
+  // ---------- 4. İki tarife: kesim noktası ve hangisi daha ucuz ----------
+  // lo: küçük birim ücret + büyük sabit ücret; hi: tersi. Kesim noktası x* = (lo.b − hi.b) ÷ (hi.a − lo.a), pozitif tam sayı.
+  const TARIFE = {
+    hat: {
+      aH: [1, 2, 3, 4, 5, 6], bH: [40, 50, 60, 80, 100, 120], xH: [20, 30, 40, 50, 60, 80, 100], ad: "tarifesi",
+      birim: "dakika", dan: "dakikadan", nesne: "konuşmalarda", her: "Her konuşma süresinde", hic: "Hiçbir konuşma süresinde",
+      sabit: "aylık sabit ücreti", birimUcret: "dakika ücreti",
+      bag: (A, B) => "Gölcük'te iki hat tarifesi var. A tarifesinde aylık sabit ücret " + A.b + " TL, dakikası " + A.a + " TL. B tarifesinde aylık sabit ücret " + B.b + " TL, dakikası " + B.a + " TL.",
+      soruX: "Buna göre kaç dakikalık konuşmada iki tarifenin faturası eşit olur?",
+      soruY: "Buna göre iki tarifenin faturası kaç TL'de eşitlenir?",
+      soruU: e => "Buna göre A tarifesi hangi konuşma sürelerinde B tarifesinden daha " + e + "?",
+    },
+    kira: {
+      aH: [2, 3, 4, 5, 6, 8], bH: [300, 400, 500, 600, 800], xH: [50, 100, 150, 200, 250, 300], ad: "firması",
+      birim: "kilometre", dan: "kilometreden", nesne: "yolculuklarda", her: "Her yolculukta", hic: "Hiçbir yolculukta",
+      sabit: "sabit ücreti", birimUcret: "kilometre ücreti",
+      bag: (A, B) => "Kocaeli'de iki firma araç kiralıyor. A firması " + A.b + " TL sabit ücret ve kilometre başına " + A.a + " TL alıyor. B firması " + B.b + " TL sabit ücret ve kilometre başına " + B.a + " TL alıyor.",
+      soruX: "Buna göre kaç kilometrelik yolculukta iki firmanın ücreti eşit olur?",
+      soruY: "Buna göre iki firmanın ücreti kaç TL'de eşitlenir?",
+      soruU: e => "Buna göre A firması hangi yolculuklarda B firmasından daha " + e + "?",
+    },
+    sac: {
+      aH: [4, 5, 6, 8, 10, 12], bH: [200, 300, 400, 500], xH: [30, 50, 60, 100, 150], ad: "atölyesi",
+      // "kesim" yalnız doğruların kesim noktası anlamında kalır; sac işi "kesilen sac" / "iş" diye anılır.
+      birim: "metre", dan: "metreden", nesne: "işlerde", her: "Her işte", hic: "Hiçbir işte",
+      sabit: "hazırlık ücreti", birimUcret: "metre ücreti",
+      bag: (A, B) => "Tersanede sac kesen iki atölye var. A atölyesi " + A.b + " TL hazırlık ücreti ve metresi " + A.a + " TL alıyor. B atölyesi " + B.b + " TL hazırlık ücreti ve metresi " + B.a + " TL alıyor.",
+      soruX: "Buna göre kaç metre sac kesildiğinde iki atölyenin ücreti eşit olur?",
+      soruY: "Buna göre iki atölyenin ücreti kaç TL'de eşitlenir?",
+      soruU: e => "Buna göre A atölyesi hangi işlerde B atölyesinden daha " + e + "?",
+    },
+  };
+  const tarifeKur = (r, T) => {
+    const { pick } = R();
+    for (;;) {
+      const a1 = pick(r, T.aH), a2 = pick(r, T.aH);
+      if (a1 === a2) continue;
+      const x = pick(r, T.xH), hiB = pick(r, T.bH), lo = { a: Math.min(a1, a2) }, hi = { a: Math.max(a1, a2), b: hiB };
+      lo.b = hiB + (hi.a - lo.a) * x;
+      const Alo = r() < 0.5;
+      return { A: Alo ? lo : hi, B: Alo ? hi : lo, lo, hi, Alo, x, d: hi.a - lo.a, N: lo.b - hi.b, Y: lo.a * x + lo.b };
+    }
+  };
+  // A(x) rel B(x) adımları: x'li terim küçük katsayılı taraftan çıkarılır, x hep artı katsayıyla kalır.
+  const tarifeAdim = ({ A, B, Alo, d, N }, rel) => [
+    "İki taraftan " + dogruYaz(Math.min(A.a, B.a), 0) + " çıkarılır: " + (Alo ? A.b + " " + rel + " " + dogruYaz(d, B.b) : dogruYaz(d, A.b) + " " + rel + " " + B.b) + ".",
+    "İki taraftan " + (Alo ? B.b : A.b) + " çıkarılır: " + (Alo ? N + " " + rel + " " + dogruYaz(d, 0) : dogruYaz(d, 0) + " " + rel + " " + N) + ".",
+    ...(d !== 1 ? ["İki taraf " + yonelme(d) + " bölünür: " + (Alo ? N / d + " " + rel + " x" : "x " + rel + " " + N / d) + "."] : []),
+  ];
+  const fYaz = (ad, F) => ad + "(x) = " + dogruYaz(F.a, F.b);
+  const fDeg = (ad, F, x) => ad + "(" + x + ") = " + carp(F.a, x) + " + " + F.b + " = " + (F.a * x + F.b) + " TL";
+
+  const kesimGen = function (r) {
+    const { pick } = R();
+    const tur = pick(r, Object.keys(TARIFE)), T = TARIFE[tur], mod = pick(r, ["x", "x", "y"]);
+    for (;;) {
+      const t = tarifeKur(r, T), { A, B, lo, hi, x, d, N, Y } = t;
+      const xs = (lo.b + hi.b) / d, xi = N / (lo.a + hi.a), Af = v => A.a * v + A.b;
+      let ys, dogru;
+      if (mod === "x") {
+        dogru = x;
+        ys = [
+          y(tam(Y), "okuma_hatasi", Y + ", kesim noktasının y değeridir, yani eşit ücrettir (TL); soru x değerini istiyor.", Y),
+          ...(pozTam(xs) ? [y(tam(xs), "isaret_hatasi", "Sabit sayı karşıya geçerken işareti değişir: iki taraftan " + hi.b + " çıkarılır; burada " + hi.b + " eklenmiş.", xs)] : []),
+          ...(pozTam(xi) ? [y(tam(xi), "islem_hatasi", "x'ler bir tarafa toplanırken " + dogruYaz(hi.a, 0) + " − " + dogruYaz(lo.a, 0) + " yerine " + dogruYaz(hi.a, 0) + " + " + dogruYaz(lo.a, 0) + " alınmış.", xi)] : []),
+          ...(d !== 1 ? [y(tam(N), "eksik_adim", dogruYaz(d, 0) + " = " + N + " ara sonuçtur; iki taraf " + yonelme(d) + " bölünür.", N)] : []),
+        ];
+      } else {
+        dogru = Y;
+        ys = [
+          y(tam(x), "okuma_hatasi", x + ", ücretlerin eşit olduğu x değeridir (kesim noktasının x'i); ücret için bu sayı fonksiyonlardan birine konur.", x),
+          y(tam(A.a * x), "eksik_adim", "A(" + x + ") hesaplanırken " + T.sabit + " eklenmemiş; " + carp(A.a, x) + " sonucuna " + A.b + " eklenir.", A.a * x),
+          ...(pozTam(xs) ? [y(tam(Af(xs)), "isaret_hatasi", "x bulunurken sabit sayı karşıya işareti değişmeden geçmiş; x = " + xs + " çıkmış, ücret de yanlış olmuş.", Af(xs))] : []),
+          ...(pozTam(xi) ? [y(tam(Af(xi)), "islem_hatasi", "x'ler bir tarafa toplanırken katsayılar toplanmış; x = " + xi + " çıkmış, ücret de yanlış olmuş.", Af(xi))] : []),
+        ];
+      }
+      ys = ayikla(ys, dogru);
+      if (tekilSay(ys) < 3) continue;
+      const denk = dogruYaz(A.a, A.b) + " = " + dogruYaz(B.a, B.b);
+      return {
+        params: { tur, mod, A, B }, baglam: T.bag(A, B) + KURGU, kok: mod === "x" ? T.soruX : T.soruY, dogru: tam(dogru), deger: dogru, yanlislar: ys,
+        ipuclari: [
+          mod === "x" ? "İki ücretin eşit olduğu yer, iki doğrunun kesim noktasıdır. Soru bu noktanın x değerini istiyor."
+            : "İki ücretin eşit olduğu yer, iki doğrunun kesim noktasıdır. Soru bu noktanın y değerini, yani ücreti istiyor.",
+          "Ücret fonksiyonlarını yaz ve birbirine eşitle; x'leri bir tarafa, sayıları öbür tarafa topla." + (mod === "y" ? " Bulduğun x'i fonksiyonlardan birine koy." : ""),
+          "İlk adım: A(x) = B(x) yazılır: " + denk + ". Şimdi iki taraftan " + dogruYaz(lo.a, 0) + " çıkar.",
+        ],
+        cozum: numarala([
+          "Ücretler: " + fYaz("A", A) + ", " + fYaz("B", B) + ".",
+          "Eşit ücret: A(x) = B(x), yani " + denk + ".",
+          ...tarifeAdim(t, "="),
+          ...(mod === "x" ? ["x = " + x + " " + T.birim + " için iki ücret eşittir."] : [fDeg("A", A, x) + "."]),
+          ...(mod === "x" ? ["Kontrol, A: " + fDeg("A", A, x) + ".", "Kontrol, B: " + fDeg("B", B, x) + "; iki ücret eşit."]
+            : ["Kontrol: " + fDeg("B", B, x) + "; iki ücret eşit, ortak ücret " + Y + " TL."]),
+        ]),
+      };
+    }
+  };
+  kayit3("kesim", 2, "141-142, 144-146, 150", kesimGen, ({ mod, A, B }) => {
+    // Formülsüz: x = 0, 1, 2, ... için iki ücreti karşılaştırıp eşit olduğu yeri arar.
+    for (let x = 0; x <= 5000; x++) if (A.a * x + A.b === B.a * x + B.b) return tam(mod === "x" ? x : A.a * x + A.b);
+    return "YOK";
+  });
+
+  // Şık metni: "60 dakikadan uzun konuşmalarda", "60 dakika ve daha kısa konuşmalarda", "Her konuşma süresinde".
+  const ucuzMetin = (T, yon, n, dahil) => (yon === "her" ? T.her : yon === "hic" ? T.hic
+    : n + " " + (dahil ? T.birim + " ve daha " : T.dan + " ") + (yon === "uzun" ? "uzun " : "kısa ") + T.nesne);
+  const ucuzGen = function (r) {
+    const { pick } = R();
+    const tur = pick(r, Object.keys(TARIFE)), T = TARIFE[tur], ek = pick(r, ["ucuzdur", "ekonomiktir"]);
+    for (;;) {
+      const t = tarifeKur(r, T), { A, B, Alo, x, Y } = t;
+      // Alo: A'nın birim ücreti küçük, sabit ücreti büyük; kesim noktasından sonra A ucuzdur.
+      const yon = Alo ? "uzun" : "kisa", ters = Alo ? "kisa" : "uzun";
+      // Alo'da kesisim_taraf da kısa tarafı (solT) gösterir; kavram_karisikligi başka bir kısa x (x/4) seçer ki iki şık aynı sayıları yazmasın.
+      const solT = Math.floor(x / 2), sagT = x + Math.ceil(x / 2), kisaT = Alo ? Math.floor(x / 4) : solT;
+      const yu = (yn, n, dh, h, ac) => y(ucuzMetin(T, yn, n, dh), h, ac, yn + n + (dh ? "=" : ""));
+      const kars = v => "x = " + v + " için A(" + v + ") = " + (A.a * v + A.b) + " TL, B(" + v + ") = " + (B.a * v + B.b) + " TL";
+      const ucuzu = v => (A.a * v + A.b < B.a * v + B.b ? "A" : "B");
+      // y değerini sınır sanmak: yalnız doğru aralığın alt kümesi olmayan şık olarak (ikinci doğru şık doğmasın).
+      // Y = hi.a·x + hi.b > x hep (hi.b ≥ 40); Alo'da Y < x olmadığından bu şık yalnız A'nın birim ücreti büyükken çıkar.
+      const okumaVar = Alo ? Y < x : Y > x;
+      let ys = [
+        yu(ters, x, false, "kesisim_taraf", "Bu tarafta " + ucuzu(Alo ? solT : sagT) + " daha ucuzdur: " + kars(Alo ? solT : sagT) + "."),
+        yu(yon, x, true, "aralik_uc", "x = " + x + " için A(" + x + ") = B(" + x + ") = " + Y + " TL; ücretler eşitken A daha ucuz değildir."),
+        Alo ? yu("her", 0, false, "kavram_karisikligi", "A'nın " + T.birimUcret + " düşük ama " + T.sabit + " yüksek: " + kars(kisaT) + "; burada " + ucuzu(kisaT) + " daha ucuzdur.")
+          : yu("hic", 0, false, "kavram_karisikligi", "A'nın " + T.birimUcret + " yüksek ama " + T.sabit + " düşük: " + kars(kisaT) + "; burada " + ucuzu(kisaT) + " daha ucuzdur."),
+        ...(okumaVar ? [yu(yon, Y, false, "okuma_hatasi", Y + ", kesim noktasının y değeridir (TL); aralığın sınırı kesim noktasının x değeridir.")] : []),
+      ];
+      const dogru = ucuzMetin(T, yon, x, false);
+      ys = ayikla(ys, yon + x);
+      if (tekilSay(ys) < 3) continue;
+      return {
+        params: { tur, A, B }, baglam: T.bag(A, B) + KURGU, kok: T.soruU(ek), dogru, deger: yon + x, yanlislar: ys,
+        ipuclari: [
+          (ek === "ekonomiktir" ? "Daha ekonomik, daha ucuz demektir. " : "") + "Daha ucuz, daha az ödemek demektir. Aynı x için iki ücreti karşılaştır.",
+          "Eşitsizliği kur; x'leri bir tarafa, sayıları öbür tarafa topla. Sınır, iki ücretin eşit olduğu kesim noktasıdır.",
+          "İlk adım: A(x) < B(x) yazılır: " + dogruYaz(A.a, A.b) + " < " + dogruYaz(B.a, B.b) + ". Şimdi iki taraftan " + dogruYaz(Math.min(A.a, B.a), 0) + " çıkar.",
+        ],
+        cozum: numarala([
+          "Ücretler: " + fYaz("A", A) + ", " + fYaz("B", B) + ".",
+          "A daha ucuz demek A(x) < B(x): " + dogruYaz(A.a, A.b) + " < " + dogruYaz(B.a, B.b) + ".",
+          ...tarifeAdim(t, "<"),
+          ...(Alo ? [x + " < x ile x > " + x + " aynı şeydir."] : []),
+          "x = " + x + " için A(" + x + ") = B(" + x + ") = " + Y + " TL; '<' istendiği için " + x + " hariçtir.",
+          "A " + T.ad + " " + dogru + " daha ucuzdur.",
+          "Kontrol, kesim noktasının solundan: " + kars(solT) + "; " + ucuzu(solT) + " daha ucuz.",
+          "Kontrol, kesim noktasının sağından: " + kars(sagT) + "; " + ucuzu(sagT) + " daha ucuz.",
+        ]),
+      };
+    }
+  };
+  kayit3("ucuz", 2, "139, 141-142, 145-146, 150, 165-166", ucuzGen, ({ tur, A, B }) => {
+    // Formülsüz: 0'dan itibaren tam sayılarda A'nın ucuz olduğu x'leri toplar, sınırı ve tarafı okur.
+    const T = TARIFE[tur], S = [];
+    let son = 0;
+    for (let x = 0; x <= 3000; x++) { if (A.a * x + A.b < B.a * x + B.b) S.push(x); son = x; }
+    if (!S.length) return ucuzMetin(T, "hic", 0);
+    if (S.length === son + 1) return ucuzMetin(T, "her", 0);
+    const n = S[0] === 0 ? S[S.length - 1] + 1 : S[0] - 1, esit = A.a * n + A.b === B.a * n + B.b;
+    return ucuzMetin(T, S[0] === 0 ? "kisa" : "uzun", n, !esit);
+  });
+
+  // ---------- 5. Tolerans: |x − c| ≤ d (ve < d), düz ve ters yol ----------
+  // Ondalık uçlar yüzde birlik tam sayılarla tutulur (C = 100c, D = 100d): kayan nokta artığı metne sızmaz.
+  const n100 = v => sayiYaz(v / 100);
+  const ucY = v => (v === -Infinity ? EKSI + "∞" : n100(v));
+  // Ondalık uçlu aralığın yanına eşitsizlik biçimi eklenir: "[119,5, 120,5], yani 119,5 ≤ x ≤ 120,5".
+  const tolAr = (l, r, li, ri) => {
+    const s = (li ? "[" : "(") + ucY(l) + ", " + ucY(r) + (ri ? "]" : ")");
+    if (![l, r].some(v => Number.isFinite(v) && v % 100 !== 0)) return s;
+    const sag = "x " + (ri ? "≤" : "<") + " " + ucY(r);
+    return s + ", yani " + (Number.isFinite(l) ? ucY(l) + (li ? " ≤ " : " < ") + sag : sag);
+  };
+  const icMut = C => "x " + (C >= 0 ? "− " + n100(C) : "+ " + n100(-C)); // x − 120, x + 3
+  const mutDeg = (X, C) => "|" + n100(X) + (C >= 0 ? " − " + n100(C) : " + " + n100(-C)) + "|";
+  const eY = (C, D, op) => "|" + icMut(C) + "| " + op + " " + n100(D);
+  const TOLERANS = {
+    boru: {
+      cH: [100, 120, 150, 200, 250], dH: [50, 100, 150, 200], birim: "cm", dan: "cm'den",
+      bag: (c, d, inc) => "Gölcük'teki bir tersanede kesilen boruların boyu " + c + " cm olmalıdır. "
+        + (inc ? "Boyun bu değerden sapması en fazla " + d + " cm olabilir." : "Boyunun bu değerden sapması " + d + " cm'den az olan borular kabul edilir."),
+      soru: "Buna göre kabul edilen boru boyları (x cm) aşağıdakilerden hangisidir?", ne: "Kabul edilen boylar",
+    },
+    civata: {
+      cH: [30, 40, 50, 60], dH: [10, 20, 50], birim: "mm", dan: "mm'den",
+      bag: (c, d, inc) => "Kocaeli'de bir atölyede üretilen cıvataların boyu " + c + " mm olmalıdır. "
+        + (inc ? "Boyun bu değerden sapması en fazla " + d + " mm olabilir." : "Boyunun bu değerden sapması " + d + " mm'den az olan cıvatalar kabul edilir."),
+      soru: "Buna göre kabul edilen cıvata boyları (x mm) aşağıdakilerden hangisidir?", ne: "Kabul edilen boylar",
+    },
+    tahmin: {
+      cH: [500, 750, 1000], dH: [1000, 2000, 2500, 5000], birim: "gram", dan: "gramdan",
+      bag: (c, d, inc) => "Okul kermesindeki bir kavanozda " + c + " gram fındık var. "
+        + (inc ? "Gerçek kütleden en fazla " + d + " gram sapan tahmin kazanır." : "Gerçek kütleden " + d + " gramdan az sapan tahmin kazanır."),
+      soru: "Buna göre kazanan tahminler (x gram) aşağıdakilerden hangisidir?", ne: "Kazanan tahminler",
+    },
+  };
+  // kolay: bağlamsız, tam sayı, yalnız ≤. Diğeri: bağlamlı, ondalık tolerans, ≤ ya da <.
+  const toleransGen = kolay => function (r) {
+    const { pick, rint } = R();
+    for (;;) {
+      const tur = kolay ? null : pick(r, Object.keys(TOLERANS)), T = TOLERANS[tur];
+      const C = kolay ? 100 * (r() < 0.25 ? -rint(r, 1, 6) : rint(r, 1, 15)) : 100 * pick(r, T.cH);
+      const D = kolay ? 100 * rint(r, 1, 6) : pick(r, T.dH), inc = kolay || r() < 0.6, op = inc ? "≤" : "<";
+      if (kolay && C === D) continue;
+      const mut = "|" + icMut(C) + "|", dogru = tolAr(C - D, C + D, inc, inc);
+      const yA = (l, rr, li, ri, h, ac) => y(tolAr(l, rr, li, ri), h, ac, "I" + [l, rr, li, ri].join(","));
+      let ys = [
+        yA(C - 2 * D, C + 2 * D, inc, inc, "mutlak_tam_uzunluk", "Tolerans orta noktadan uca uzaklıktır, yani " + n100(D) + "; burada " + n100(2 * D) + " kullanılmış."),
+        yA(C - D, C + D, !inc, !inc, "aralik_uc", inc ? "İşaret ≤; uçlarda uzaklık tam " + n100(D) + " olur, " + n100(D) + " ≤ " + n100(D) + " doğru; köşeli parantez gerekir."
+          : "İşaret <; uçlarda uzaklık tam " + n100(D) + " olur, " + n100(D) + " < " + n100(D) + " yanlış; normal parantez gerekir."),
+        yA(-Infinity, C + D, false, inc, "eksik_adim", "Yalnız sağ uç bulunmuş; x, " + n100(C) + " sayısının solunda da kalabilir, bu yüzden sol uç da yazılır: " + n100(C - D) + "."),
+        ...(kolay ? [yA(-C - D, -C + D, inc, inc, "isaret_hatasi", "Orta noktanın işareti ters alınmış; " + mut + " ifadesinde içi 0 yapan sayı " + n100(C) + " olur.")] : []),
+        ...(kolay && C > 0 ? [yA(D - C, D + C, inc, inc, "kavram_karisikligi", "Orta nokta ile tolerans yer değiştirmiş; " + eY(C, D, op) + " ifadesinde orta nokta " + n100(C) + ", tolerans " + n100(D) + " olarak okunur.")] : []),
+        yA(-D, D, inc, inc, "kavram_karisikligi", "Bu aralık, " + icMut(C) + " ifadesinin alabileceği değerlerdir; x için " + (C >= 0 ? "iki uca da " + n100(C) + " eklenir." : "iki uçtan " + n100(-C) + " çıkarılır.")),
+      ];
+      ys = ayikla(ys, "I" + [C - D, C + D, inc, inc].join(","));
+      if (tekilSay(ys) < 3) continue;
+      const sart = eY(C, D, op), ucDeg = mutDeg(C + D, C), disDeg = mutDeg(C + 2 * D, C);
+      return {
+        params: { C, D, inc }, baglam: kolay ? null : T.bag(C / 100, n100(D), inc) + KURGU,
+        kok: kolay ? sart + " eşitsizliğinin çözüm aralığı aşağıdakilerden hangisidir?" : T.soru, dogru, deger: "I" + [C - D, C + D, inc, inc].join(","), yanlislar: ys,
+        ipuclari: [
+          kolay ? sart + ": x, " + n100(C) + " sayısına en çok " + n100(D) + " birim uzaktadır. " + n100(C) + " orta nokta, " + n100(D) + " toleranstır (orta noktadan uca uzaklık)."
+            : "Sapma " + mut + " ile yazılır. " + (inc ? "'En fazla " + n100(D) + " " + T.birim + "' sapma, " : "'" + n100(D) + " " + T.dan + " az' sapma, ") + sart + " demektir.",
+          n100(C) + " sayısından " + n100(D) + " birim sola ve " + n100(D) + " birim sağa git. Uçların dâhil olup olmadığına işaretten karar ver.",
+          "İlk adım, sol uç: " + n100(C) + " − " + n100(D) + " = " + n100(C - D) + ". Şimdi sağ ucu bul.",
+        ],
+        cozum: numarala([
+          kolay ? sart + ": x, " + n100(C) + " sayısına en çok " + n100(D) + " birim uzaktadır." : "Sapma " + mut + " olur; tolerans (orta noktadan uca uzaklık) " + n100(D) + "; şart " + sart + ".",
+          "Sol uç: " + n100(C) + " − " + n100(D) + " = " + n100(C - D) + ".",
+          "Sağ uç: " + n100(C) + " + " + n100(D) + " = " + n100(C + D) + ".",
+          inc ? "İşaret ≤; uçlar dâhildir." : "İşaret <; uçlar hariçtir.",
+          (kolay ? "Çözüm aralığı " : T.ne + ": ") + dogru + (kolay ? " olur." : "."),
+          "Kontrol, uç: " + ucDeg + " = " + n100(D) + "; " + n100(D) + " " + op + " " + n100(D) + (inc ? " doğru, uç dâhil." : " yanlış, uç hariç."),
+          "Kontrol, dışarıdan: " + disDeg + " = " + n100(2 * D) + "; " + n100(2 * D) + " " + op + " " + n100(D) + " yanlış, " + n100(C + 2 * D) + " aralıkta değil.",
+        ]),
+      };
+    }
+  };
+  // Kuralsız: yarım yüzdelik adımlarla |x − c| op d'yi dener; ilk ve son sağlayan noktadan uçları ve dâhil olup olmadığını okur.
+  const toleransKontrol = ({ C, D, inc }) => {
+    const ok = K => (inc ? Math.abs(K - 2 * C) <= 2 * D : Math.abs(K - 2 * C) < 2 * D);
+    let ilk = null, son = null;
+    for (let K = 2 * (C - 2 * D); K <= 2 * (C + 2 * D); K++) if (ok(K)) { if (ilk === null) ilk = K; son = K; }
+    if (ilk === null) return "∅";
+    return tolAr(ilk % 2 === 0 ? ilk / 2 : (ilk - 1) / 2, son % 2 === 0 ? son / 2 : (son + 1) / 2, ilk % 2 === 0, son % 2 === 0);
+  };
+  kayit3("tolerans-kolay", 1, "152-155", toleransGen(true), toleransKontrol);
+  kayit3("tolerans", 2, "152-155, 163", toleransGen(false), toleransKontrol);
+
+  const TERS_BAGLAM = {
+    sac: {
+      cH: [120, 150, 200, 250], dH: [40, 50, 100, 150, 200, 300],
+      bag: (inc, ar) => "Tersanede kesilen sac levhalarda kabul edilen genişlikler x cm'dir. Uçlar " + (inc ? "dâhildir" : "hariçtir") + ": " + ar + ".",
+    },
+    pim: {
+      cH: [20, 25, 30, 40], dH: [10, 20, 50, 100],
+      bag: (inc, ar) => "Kocaeli'de bir atölyede üretilen pimlerde kabul edilen boylar x mm'dir. Uçlar " + (inc ? "dâhildir" : "hariçtir") + ": " + ar + ".",
+    },
+  };
+  kayit3("tolerans-ters", 2, "152-154", function (r) {
+    const { pick, rint } = R();
+    for (;;) {
+      // Sınır: orta nokta eksi (|x + 3|), ondalık tolerans, uçlar hariç (<).
+      const tur = r() < 0.5 ? null : pick(r, Object.keys(TERS_BAGLAM)), T = TERS_BAGLAM[tur];
+      const C = tur ? 100 * pick(r, T.cH) : 100 * (r() < 0.25 ? -rint(r, 1, 6) : rint(r, 1, 15));
+      const D = tur ? pick(r, T.dH) : 100 * rint(r, 1, 8), inc = r() < 0.7, op = inc ? "≤" : "<", P = C - D, Q = C + D;
+      if (C === D) continue;
+      const dogru = eY(C, D, op), ar = tolAr(P, Q, inc, inc);
+      const yT = (c, d, o, h, ac) => y(eY(c, d, o), h, ac, "T" + [c, d, o].join(","));
+      let ys = [
+        yT(C, 2 * D, op, "mutlak_tam_uzunluk", n100(2 * D) + " aralığın tam uzunluğudur; tolerans, orta noktadan uca olan uzaklıktır, yani bunun yarısıdır."),
+        yT(C, D, inc ? "<" : "≤", "aralik_uc", inc ? "Köşeli parantez uçları dâhil eder; uçlardaki değerler de kabul edildiği için ≤ gerekir."
+          : "Normal parantez uçları hariç tutar; uçlardaki değerler kabul edilmediği için < gerekir."),
+        ...(C > 0 ? [yT(D, C, op, "kavram_karisikligi", "Orta nokta ile tolerans yer değiştirmiş; mutlak değerin içine orta nokta, sağa tolerans yazılır.")] : []),
+        yT(C, D, inc ? "≥" : ">", "esitsizlik_yonu", (inc ? "≥" : ">") + " işareti orta noktadan uzak değerleri anlatır; aralıktaki değerler orta noktaya yakındır."),
+        yT(-C, D, op, "isaret_hatasi", "|" + icMut(-C) + "| ifadesi x'in " + yonelme(-C / 100) + " uzaklığıdır; orta nokta " + n100(C) + " olduğu için |" + icMut(C) + "| yazılır."),
+      ];
+      ys = ayikla(ys, "T" + [C, D, op].join(","));
+      if (tekilSay(ys) < 3) continue;
+      return {
+        params: { P, Q, inc }, baglam: tur ? T.bag(inc, ar) + KURGU : null,
+        kok: tur ? "Buna göre kabul koşulunu gösteren mutlak değerli eşitsizlik aşağıdakilerden hangisidir?"
+          : ar + " aralığını gösteren mutlak değerli eşitsizlik aşağıdakilerden hangisidir?",
+        dogru, deger: "T" + [C, D, op].join(","), yanlislar: ys,
+        ipuclari: [
+          "İki sayı gerekir: aralığın orta noktası ve tolerans, yani orta noktadan uca uzaklık.",
+          "Orta nokta için uçları topla ve 2'ye böl. Tolerans için uçların farkını al ve 2'ye böl. Uçlar dâhilse ≤, hariçse < kullan.",
+          "İlk adım: uçları topla: " + n100(P) + " + " + (Q < 0 ? "(" + n100(Q) + ")" : n100(Q)) + " = " + n100(P + Q) + ". Şimdi bu toplamı 2'ye böl.",
+        ],
+        cozum: numarala([
+          "Uçları topla: " + n100(P) + " + " + (Q < 0 ? "(" + n100(Q) + ")" : n100(Q)) + " = " + n100(P + Q) + ".",
+          "Toplam 2'ye bölünür: orta nokta " + n100(C) + " olur.",
+          "Uçların farkı: " + n100(Q) + " − " + (P < 0 ? "(" + n100(P) + ")" : n100(P)) + " = " + n100(Q - P) + ".",
+          "Fark 2'ye bölünür: tolerans " + n100(D) + " olur.",
+          "Uçlar " + (inc ? "dâhil olduğu için ≤" : "hariç olduğu için <") + " kullanılır: " + dogru + ".",
+          "Kontrol, sol uç: " + n100(C) + " − " + n100(D) + " = " + n100(P) + ".",
+          "Kontrol, sağ uç: " + n100(C) + " + " + n100(D) + " = " + n100(Q) + "; verilen aralıkla aynı.",
+        ]),
+      };
+    }
+  }, ({ P, Q, inc }) => {
+    // Formülsüz: aday orta noktaları tek tek dener; iki uca eşit uzaklıkta olanı ve o uzaklığı bulur.
+    for (let c = P; c <= Q; c++) if (c - P === Q - c) return eY(c, c - P, inc ? "≤" : "<");
+    return "YOK";
+  });
 })();

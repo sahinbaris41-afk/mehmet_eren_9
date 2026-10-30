@@ -18,7 +18,7 @@ const { soru: S, rastgele: R } = sandbox.B9;
 const ADET = 300;
 let basarisiz = 0;
 
-// 9.2.2: 3. ipucunun cümle ortasında cevabı söylemesi. Sayı cevapta "≤ d", "≥ d", "< d", "> d", "değeri d", "d'dır" (ve ünlü uyumlu
+// 9.2.2 ve 9.2.3: 3. ipucunun cümle ortasında cevabı söylemesi. Sayı cevapta "≤ d", "≥ d", "< d", "> d", "değeri d", "d'dır" (ve ünlü uyumlu
 // biçimleri); aralık cevapta aralığın kendisi, ucu e için "≤ e" / "≥ e" (f(x) ≥ e dâhil) ve cümle sonunda "= e".
 const kacis = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const SAYI_SINIR = "(?<![\\d,−-])", SAYI_SON = "(?![\\d,])";
@@ -39,8 +39,8 @@ const sizinti = g => {
 
 for (const u of sandbox.URETECLER || []) {
   const { hatalar } = S.uretecDene(u, ADET);
-  // 9.2.2: 3. ipucu cevabın kendisiyle bitmez (son "=" ya da ":" sonrası doğru şık metni/değeri olamaz).
-  if (u.id.startsWith("mat-u2-mutlak")) for (let t = 0; t < ADET; t++) {
+  // 9.2.2 ve 9.2.3: 3. ipucu cevabın kendisiyle bitmez (son "=" ya da ":" sonrası doğru şık metni/değeri olamaz).
+  if (u.id.startsWith("mat-u2-mutlak") || u.id.startsWith("mat-u2-problem")) for (let t = 0; t < ADET; t++) {
     const g = u.gen(R.rng(t)), h3 = g.ipuclari[2].trim().replace(/\.$/, "");
     const son = h3.split(/[=:]/).pop().trim();
     if (son === g.dogru || h3.endsWith(" " + g.dogru) || (son && typeof g.deger === "number" && Number(son.replace("−", "-")) === g.deger))

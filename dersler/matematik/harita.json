@@ -18,7 +18,7 @@
  },
  "uretim": {
   "arac": "tools/harita_uret.py",
-  "tarih": "2026-10-27"
+  "tarih": "2026-10-30"
  },
  "dogrula": [],
  "uniteler": [
@@ -335,7 +335,13 @@
        "metin": "Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme"
       }
      ],
-     "kitap": null,
+     "kitap": {
+      "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+      "basili_baslangic": 136,
+      "pdf_baslangic": 136,
+      "basili_bitis": 160,
+      "eslesme_puani": 1.0
+     },
      "haftalar": [
       11,
       12,
@@ -355,9 +361,12 @@
       "ulke_geneli": true
      },
      "dogrula": [
-      "Ülke geneli 1D2Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli",
-      "kitap sayfası içindekilerden eşlenemedi"
-     ]
+      "Ülke geneli 1D2Y konu-soru dağılım tablosu ÖDSGM kılavuzuyla yayımlanacak; kapsam teyit edilmeli"
+     ],
+     "duzeltme": {
+      "neden": "2.3 başlığı s.136; bölüm s.160'ta biter, tema sonu ölçme s.161-169",
+      "kaynak": "ders kitabı metni: 2.3 başlığı s0136, 3. tema s0170 (içindekiler s0007 sırasıyla)"
+     }
     }
    ]
   },

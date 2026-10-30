@@ -36,5 +36,19 @@
   ],
   "neden": "2.2 başlığı s.120, 2.3 s.136",
   "kaynak": "ders kitabı metni: 2.1 başlığı s0091, 2.2 s0120, 2.3 s0136 (içindekiler s0007 sırasıyla)"
+ },
+ "matematik-u2-k3": {
+  "kitap": {
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+   "basili_baslangic": 136,
+   "pdf_baslangic": 136,
+   "basili_bitis": 160,
+   "eslesme_puani": 1.0
+  },
+  "dogrula_kaldir": [
+   "kitap sayfası içindekilerden eşlenemedi"
+  ],
+  "neden": "2.3 başlığı s.136; bölüm s.160'ta biter, tema sonu ölçme s.161-169",
+  "kaynak": "ders kitabı metni: 2.3 başlığı s0136, 3. tema s0170 (içindekiler s0007 sırasıyla)"
  }
 }

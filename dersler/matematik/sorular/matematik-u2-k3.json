@@ -1,0 +1,1119 @@
+{
+ "konu_id": "matematik-u2-k3",
+ "surum": 3,
+ "sorular": [
+  {
+   "id": "matematik-u2-k3-s001",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "İzmit Körfezi kıyısındaki bir kano kiralama noktası 60 TL sabit ücret ve her saat için 25 TL alıyor (sayılar kurgusaldır).",
+   "kok": "Buna göre x saatlik kiralama ücretini (TL) veren f fonksiyonu aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "f(x) = 25x + 60",
+     "dogru": true
+    },
+    {
+     "metin": "f(x) = 60x + 25",
+     "dogru": false,
+     "hata_turu": "egim_kesisim_karistirma",
+     "aciklama": "Burada sabit ücretle saat ücretinin yeri değişmiş; x ile çarpılan, her saat eklenen 25 TL'dir."
+    },
+    {
+     "metin": "f(x) = 85x",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "60 TL bir kez ödenir; onu da saatle çarpınca her saat yeniden ödenmiş gibi olur."
+    },
+    {
+     "metin": "f(x) = 25x − 60",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "Sabit ücret faturadan düşülmez, eklenir; işareti + olmalı."
+    }
+   ],
+   "cevap": "f(x) = 25x + 60",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Hangi ücret bir kez ödeniyor, hangisi her saat ekleniyor?",
+    "Her saat eklenen ücreti x ile çarp; bir kez ödenen ücreti sona yaz.",
+    "Saat ücreti 25 TL; x saat için 25 · x yazılır. Şimdi 60 TL'nin x ile çarpılıp çarpılmayacağına karar ver."
+   ],
+   "cozum_adimlari": [
+    "1. Değişen şey saat sayısı x; her saat 25 TL ekler: 25x.",
+    "2. Sabit ücret 60 TL bir kez eklenir.",
+    "3. f(x) = 25x + 60.",
+    "4. Kontrol (tablo ile): x = 0 için f(0) = 60. Hiç kullanmadan yalnız sabit ücret ödenir.",
+    "5. x = 2 için f(2) = 25 · 2 + 60 = 110.",
+    "6. Sözle hesap: 60 + 25 + 25 = 110. İki sonuç aynı."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "egim_kesisim_karistirma",
+    "kavram_karisikligi",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.136, 140, 144-145",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç c (program s.50, 54)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s002",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Kitaptaki depoda başlangıçta 120 litre su var ve tabandan sabit hızla su sızıyor. t dakika sonra depoda kalan su f(t) = 120 − 0,8t litredir.",
+   "kok": "Buna göre fonksiyondaki 0,8 sayısı neyi gösterir?",
+   "secenekler": [
+    {
+     "metin": "Her dakika depodan sızan su miktarını",
+     "dogru": true
+    },
+    {
+     "metin": "Depodaki suyun başlangıç miktarını",
+     "dogru": false,
+     "hata_turu": "egim_kesisim_karistirma",
+     "aciklama": "Başlangıç miktarı t = 0 iken kalan sudur, yani sabit sayı 120'dir."
+    },
+    {
+     "metin": "Depodaki suyun biteceği dakikayı",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Suyun bittiği an f(t) = 0 denkleminden bulunur; 0,8 ise dakikadaki değişimdir."
+    },
+    {
+     "metin": "Her dakika depoya eklenen su miktarını",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "t'nin katsayısı −0,8; eksi işaret suyun azaldığını gösterir, su eklenmez."
+    }
+   ],
+   "cevap": "Her dakika depodan sızan su miktarını",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Sabit sayı ile t'nin yanındaki sayının görevlerini ayır.",
+    "t'yi 1 artırınca f(t)'nin ne kadar değiştiğini hesapla.",
+    "f(0) = 120 − 0 = 120 bul; şimdi f(1)'i hesaplayıp iki değerin farkına bak."
+   ],
+   "cozum_adimlari": [
+    "1. f(t) = −0,8t + 120 biçiminde yazılınca t'nin katsayısı −0,8 olur.",
+    "2. t'nin katsayısı her dakikadaki değişimdir; eksi işaret azalma demektir.",
+    "3. 0,8, her dakika depodan sızan su miktarıdır (litre).",
+    "4. Kontrol (tablo ile): f(0) = 120 ve f(1) = 119,2. Aradaki fark 0,8 litre.",
+    "5. f(2) = 118,4. f(1) ile fark yine 0,8 litre. Her dakika 0,8 litre azalıyor, yorum doğru."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "egim_kesisim_karistirma",
+    "kavram_karisikligi",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.136",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç a (program s.50, 54)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s003",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "b",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük'te bir balıkçı teknesinin deposunda 240 litre yakıt var. Tekne saatte 15 litre yakıt harcıyor (sayılar kurgusaldır).",
+   "kok": "Buna göre depoda 90 litre yakıt kalması için tekne ______ saat çalışmalıdır.",
+   "secenekler": null,
+   "cevap": "10",
+   "kabul_edilenler": [
+    "10",
+    "10 saat"
+   ],
+   "yanlis_aciklama": "240 − 15x = 90'da önce 240 karşıya geçer (−15x = −150), sonra iki taraf −15'e bölünür.",
+   "ipuclari": [
+    "Kalan yakıtı saat sayısına bağlı bir fonksiyonla yaz.",
+    "Kalan yakıtı 90'a eşitleyen denklemi kur ve x'i yalnız bırak.",
+    "240 − 15x = 90 yaz; iki taraftan 240 çıkar: −15x = 90 − 240. Sağ tarafı hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. Kalan yakıt: f(x) = 240 − 15x; x saat sayısı.",
+    "2. Denklem: 240 − 15x = 90.",
+    "3. İki taraftan 240 çıkar: −15x = −150.",
+    "4. İki tarafı −15'e böl: x = 10.",
+    "5. Kontrol (yerine koyma ile): f(10) = 240 − 15 · 10 = 240 − 150 = 90. Sonuç doğru.",
+    "6. Kontrol (modeli sınama): f(0) = 240, başlangıçtaki yakıt. f(1) = 225, bir saatte 15 litre azalmış; model hikâyeyle aynı."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "isaret_hatasi",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.136, 139-140",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç b (program s.50, 54)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s004",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Bu soru kitaptaki asansör alıştırmasından uyarlanmıştır. Bir ilkokuldaki asansör en fazla 720 kg taşıyabiliyor. Asansöre 80 kg'lık bir refakatçiyle birlikte x çocuk biniyor. Bir çocuğun kütlesi ortalama 30 kg sayılıyor.",
+   "kok": "Buna göre asansörün aşırı yüklenmemesi koşulunu gösteren eşitsizlik aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "30x + 80 ≤ 720",
+     "dogru": true
+    },
+    {
+     "metin": "30x + 80 < 720",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "Asansör tam 720 kg'ı da taşıyabilir; 'en fazla' sınırı dâhil eder, bu yüzden ≤ gerekir."
+    },
+    {
+     "metin": "30x + 80 ≥ 720",
+     "dogru": false,
+     "hata_turu": "esitsizlik_yonu",
+     "aciklama": "'En fazla' sınırı geçmemek demektir; ≥ ise sınırı aşan yükü anlatır."
+    },
+    {
+     "metin": "80x + 30 ≤ 720",
+     "dogru": false,
+     "hata_turu": "egim_kesisim_karistirma",
+     "aciklama": "Her çocuk için 30 kg eklenir; x ile çarpılan 30'dur, 80 kg bir kez eklenir."
+    }
+   ],
+   "cevap": "30x + 80 ≤ 720",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Önce asansördeki toplam kütleyi x'e bağlı yaz.",
+    "'En fazla' sözü sınırı dâhil eder mi, düşün; işareti buna göre seç.",
+    "1 çocuk 30 kg, 2 çocuk 2 · 30 kg eder. x çocuk için aynı yolu kullan, sonra refakatçiyi kaç kez ekleyeceğine karar ver."
+   ],
+   "cozum_adimlari": [
+    "1. Toplam kütle: 30x + 80.",
+    "2. 'En fazla 720' sınırı dâhil eder: ≤.",
+    "3. Koşul: 30x + 80 ≤ 720.",
+    "4. Kontrol (yerine koyma ile): x = 10 için 30 · 10 + 80 = 380 ≤ 720. Asansör taşır.",
+    "5. x = 25 için 30 · 25 + 80 = 830 > 720. Asansör taşımaz. Eşitsizlik iki durumu doğru ayırıyor."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "esitsizlik_yonu",
+    "egim_kesisim_karistirma"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.159 (Alıştırmalar 5-6, asansör; bağlam ve sayılar oradan uyarlandı), s.139",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç c (program s.50, 54)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s005",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": null,
+   "kok": "−5x + 40 ≥ 15 eşitsizliğinin çözümü aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "x ≤ 5",
+     "dogru": true
+    },
+    {
+     "metin": "x ≥ 5",
+     "dogru": false,
+     "hata_turu": "esitsizlik_yonu",
+     "aciklama": "−5'e bölerken eşitsizliğin yönü ters döner; ≥ işareti ≤ olur."
+    },
+    {
+     "metin": "x ≤ −11",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "40 karşı tarafa geçerken eksi olur; 15 + 40 değil 15 − 40 yazılmalı."
+    },
+    {
+     "metin": "x < 5",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "Yön çevrilirken eşitlik de atılmış; x = 5 de eşitsizliği sağlar."
+    }
+   ],
+   "cevap": "x ≤ 5",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "x'in katsayısının işaretine dikkat et.",
+    "Önce sabit sayıyı karşıya geçir, sonra x'in katsayısına böl; eksi sayıya bölerken ne olduğunu hatırla.",
+    "İki taraftan 40 çıkar: −5x ≥ 15 − 40. Sağ tarafı hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. İki taraftan 40 çıkar: −5x ≥ −25.",
+    "2. İki tarafı −5'e böl ve yönü çevir: x ≤ 5.",
+    "3. Kontrol (yerine koyma ile), uç: x = 5 için −5 · 5 + 40 = 15 ≥ 15, doğru. 5 dâhil.",
+    "4. Dış değer: x = 6 için −5 · 6 + 40 = 10 < 15. 6 çözümde değil.",
+    "5. İç değer: x = 0 için −5 · 0 + 40 = 40 ≥ 15, doğru."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "esitsizlik_yonu",
+    "isaret_hatasi",
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.136, 139 (Tablo 2.2)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç b (program s.50, 54)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s006",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Tersanede bir makinenin soğutma suyu 8 °C'den başlıyor ve dakikada 3 °C ısınıyor. Su 35 °C'nin altında kaldıkça makine çalışabiliyor (sayılar kurgusaldır).",
+   "kok": "Buna göre makinenin çalışabildiği süre (dakika) hangi aralıktır?",
+   "secenekler": [
+    {
+     "metin": "[0, 9)",
+     "dogru": true
+    },
+    {
+     "metin": "[0, 9]",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "9. dakikada su tam 35 °C olur; 'altında' değildir, bu yüzden 9 hariç tutulur."
+    },
+    {
+     "metin": "[9, ∞)",
+     "dogru": false,
+     "hata_turu": "esitsizlik_yonu",
+     "aciklama": "9'dan sonra su 35 °C'yi geçer; 'altında' olduğu dakikalar 9'dan öncedir."
+    },
+    {
+     "metin": "(−∞, 9)",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "Eşitsizlik doğru çözülmüş ama zaman eksi olamaz; aralık 0'dan başlamalı."
+    }
+   ],
+   "cevap": "[0, 9)",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Sıcaklığı dakikaya bağlı yaz; 'altında' sözüne uygun işareti seç.",
+    "Eşitsizliği çöz; zaman eksi olamayacağı için sol ucu da düşün.",
+    "Sıcaklık 8 + 3x olur; 8 + 3x < 35'te iki taraftan 8 çıkar."
+   ],
+   "cozum_adimlari": [
+    "1. Sıcaklık: f(x) = 8 + 3x; x dakika.",
+    "2. 'Altında' sınırı dâhil etmez: 8 + 3x < 35.",
+    "3. İki taraftan 8 çıkar: 3x < 27.",
+    "4. 3'e böl: x < 9.",
+    "5. Zaman eksi olamaz: x ≥ 0. Çözüm aralığı [0, 9).",
+    "6. Kontrol (yerine koyma ile), uç: f(9) = 8 + 3 · 9 = 35. '35'in altında' sağlanmıyor, bu yüzden 9 hariç ve ) doğru.",
+    "7. İç değer: f(5) = 8 + 3 · 5 = 23 < 35. 5 aralığın içinde ve makine çalışıyor."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "esitsizlik_yonu",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.140 (bitki örneği, [0, 5)), s.148 (yaylı kap, [0, 38,4))",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç ç (program s.50, 54)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s007",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "a",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "f: ℝ → ℝ, f(x) = −2x + 8 olmak üzere f(x) > 0 eşitsizliğinin çözüm aralığı (4, ∞)'dur.",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "f(0) = 8 artıdır ama 0, (4, ∞) içinde yok; fonksiyon azalan olduğu için artı değerler sıfırın solundadır: (−∞, 4).",
+   "ipuclari": [
+    "Önce f'nin sıfırını bul.",
+    "Sıfırın iki yanından birer sayı dene ve f'nin işaretine bak.",
+    "−2x + 8 = 0 yaz; 8'i karşıya geçir: −2x = −8. Şimdi x'i bul."
+   ],
+   "cozum_adimlari": [
+    "1. Sıfır için denklem: −2x + 8 = 0.",
+    "2. İki taraftan 8 çıkar: −2x = −8.",
+    "3. −2'ye böl: x = 4.",
+    "4. Sıfırın solundan x = 0 dene: f(0) = 8 > 0, artı.",
+    "5. Sıfırın sağından x = 5 dene: f(5) = −10 + 8 = −2 < 0, eksi.",
+    "6. f(x) > 0'ın çözüm aralığı (−∞, 4)'tür.",
+    "7. Kontrol (cebir ile): −2x + 8 > 0'da iki taraftan 8 çıkar: −2x > −8.",
+    "8. −2'ye böl ve yönü çevir: x < 4. İşaret tablosuyla aynı aralık.",
+    "9. Verilen ifade yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "esitsizlik_yonu"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.139 (Tablo 2.2), s.140-141",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç a (program s.50, 54: f(x) > 0, işaret tablosu)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s008",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük'teki bir simit büfesi her simidi 12 TL'ye satıyor ve bir simidin maliyeti 7 TL'dir. Büfenin kira ve elektrik gibi günlük sabit gideri 400 TL'dir. Günde x simit satılıyor ve kâr eksi çıkarsa büfe zarar eder (sayılar kurgusaldır).",
+   "kok": "Buna göre büfe bir günde en çok kaç simit satarsa zarar eder?",
+   "secenekler": [
+    {
+     "metin": "79",
+     "dogru": true
+    },
+    {
+     "metin": "80",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "80 simitte gelir de gider de 960 TL'dir; kâr tam 0 olduğu için zarar yoktur."
+    },
+    {
+     "metin": "33",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "400 TL yalnız gelirle karşılaştırılmış; her simidin 7 TL maliyeti de gidere girer."
+    },
+    {
+     "metin": "21",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "12x − (400 + 7x) açılırken eksi 7x'e dağıtılmamış; doğrusu 12x − 400 − 7x olur."
+    }
+   ],
+   "cevap": "79",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Kasaya giren parayı (gelir) ve harcanan parayı (gider) ayrı ayrı yaz.",
+    "Kâr = Gelir − Gider ile k(x)'i kur ve k(x) < 0 eşitsizliğini çöz. Simit sayısı tam sayıdır.",
+    "Gelir 12x TL olur. Gider için sabit gidere x simidin maliyetini ekle."
+   ],
+   "cozum_adimlari": [
+    "1. Gelir (kasaya giren para): 12x TL.",
+    "2. Gider (harcanan para): 400 + 7x TL.",
+    "3. Kâr = Gelir − Gider: k(x) = 12x − (400 + 7x).",
+    "4. Parantezi aç: k(x) = 12x − 400 − 7x.",
+    "5. x'li terimleri birleştir: k(x) = 5x − 400.",
+    "6. Zarar, kârın eksi olmasıdır: 5x − 400 < 0.",
+    "7. İki tarafa 400 ekle: 5x < 400.",
+    "8. 5'e böl: x < 80.",
+    "9. Simit sayısı tam sayıdır. 80'den küçük en büyük tam sayı 79'dur.",
+    "10. Kontrol (yerine koyma ile), x = 79 için gelir: 12 · 79 = 948 TL.",
+    "11. x = 79 için gider: 400 + 7 · 79 = 953 TL.",
+    "12. Kâr: 948 − 953 = −5 TL. Eksi, zarar var.",
+    "13. x = 80 için gelir: 12 · 80 = 960 TL.",
+    "14. x = 80 için gider: 400 + 7 · 80 = 960 TL.",
+    "15. Kâr: 960 − 960 = 0 TL. Zarar yok. En çok 79 simitte zarar edilir."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "kavram_karisikligi",
+    "isaret_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.140-141 (f(x) < 0), s.150 (şişme bot örneği, gelir ve maliyet fonksiyonu, kâr için en az 251)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç c (program s.50, 54: f(x) < 0)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s009",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "İki kargo firmasının x kg'lık bir gönderi için aldığı ücretler (TL) A(x) = 15x + 160 ve B(x) = 25x + 40 fonksiyonlarıyla veriliyor (sayılar kurgusaldır).",
+   "kok": "Buna göre iki firmanın ücretleri kaç TL'de eşitlenir?",
+   "secenekler": [
+    {
+     "metin": "340",
+     "dogru": true
+    },
+    {
+     "metin": "12",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "12, ücretlerin eşitlendiği kilogramdır (kesim noktasının x'i); TL için 12 fonksiyonlardan birine konur."
+    },
+    {
+     "metin": "460",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "40 karşıya geçerken eksi olur: 160 − 40 = 10x; burada 160 + 40 alınmış."
+    },
+    {
+     "metin": "205",
+     "dogru": false,
+     "hata_turu": "islem_hatasi",
+     "aciklama": "x'ler bir tarafa toplanırken 25x − 15x yerine 25x + 15x alınmış."
+    }
+   ],
+   "cevap": "340",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Eşit ücret A(x) = B(x) demektir; cevabın birimini sorudan oku.",
+    "Önce eşitlikten x'i bul, sonra bu x'i fonksiyonlardan birine koy.",
+    "15x + 160 = 25x + 40 yaz; iki taraftan 15x çıkar: 160 = 10x + 40."
+   ],
+   "cozum_adimlari": [
+    "1. A(x) = B(x): 15x + 160 = 25x + 40.",
+    "2. İki taraftan 15x çıkar: 160 = 10x + 40.",
+    "3. İki taraftan 40 çıkar: 120 = 10x.",
+    "4. 10'a böl: x = 12 kg.",
+    "5. A(12) = 15 · 12 + 160 = 340 TL.",
+    "6. Kesim noktası (12, 340). Soru TL istediği için cevap 340.",
+    "7. Kontrol (öbür fonksiyonda yerine koyma ile): B(12) = 25 · 12 + 40 = 340 TL. İki ücret de 340 TL, sonuç doğru."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "okuma_hatasi",
+    "isaret_hatasi",
+    "islem_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.145-146 (ısıtma sistemi, kesim noktası), s.159 (Alıştırmalar 3-4)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç ç (program s.50, 54: f(x) = g(x) ve kesim noktası)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s010",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "ç",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük'teki bir tersane, gemi bakımında kullanmak için mobil vinç kiralayacak. A firması 9000 TL sabit ücret ve saati 3000 TL; B firması 3000 TL sabit ücret ve saati 4000 TL istiyor (sayılar kurgusaldır).",
+   "kok": "Buna göre A firması hangi kiralama sürelerinde B firmasından daha ekonomiktir?",
+   "secenekler": [
+    {
+     "metin": "6 saatten uzun kiralamalarda",
+     "dogru": true
+    },
+    {
+     "metin": "6 saatten kısa kiralamalarda",
+     "dogru": false,
+     "hata_turu": "kesisim_taraf",
+     "aciklama": "6 < x satırı x > 6 demektir; 4 saatte A 21 000 TL, B 19 000 TL ister, B ucuzdur."
+    },
+    {
+     "metin": "6 saat ve daha uzun kiralamalarda",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "6 saatte iki firma da 27 000 TL ister; ücretler eşitken A daha ekonomik değildir."
+    },
+    {
+     "metin": "Her kiralama süresinde",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "A'nın saat ücreti düşük ama sabit ücreti yüksek; 1 saatte A 12 000 TL, B 7000 TL ister."
+    }
+   ],
+   "cevap": "6 saatten uzun kiralamalarda",
+   "kabul_edilenler": [
+    "x > 6"
+   ],
+   "ipuclari": [
+    "Önce iki ücretin eşit olduğu saati bul; sınır orasıdır.",
+    "A(x) < B(x) eşitsizliğini kur ve çöz; emin olmak için sınırın iki yanından birer saat dene.",
+    "A(x) = 3000x + 9000, B(x) = 4000x + 3000 olur. 3000x + 9000 < 4000x + 3000'de iki taraftan 3000x çıkar."
+   ],
+   "cozum_adimlari": [
+    "1. A(x) = 3000x + 9000, B(x) = 4000x + 3000; x saat.",
+    "2. 'A daha ekonomik' → A(x) < B(x): 3000x + 9000 < 4000x + 3000.",
+    "3. İki taraftan 3000x çıkar: 9000 < 1000x + 3000.",
+    "4. İki taraftan 3000 çıkar: 6000 < 1000x.",
+    "5. 1000'e böl: 6 < x.",
+    "6. 6 < x ile x > 6 aynı şeydir: küçük sayı soldaysa x büyüktür.",
+    "7. 6 saatten uzun kiralamalarda A daha ekonomiktir; 6 saatte ikisi de 27 000 TL'dir.",
+    "8. Kontrol (tablo ile), kesim noktasından önce x = 4: A(4) = 12 000 + 9000 = 21 000 TL, B(4) = 16 000 + 3000 = 19 000 TL; B ucuz.",
+    "9. Kesim noktasından sonra x = 8: A(8) = 24 000 + 9000 = 33 000 TL, B(8) = 32 000 + 3000 = 35 000 TL; A ucuz. Tablo cebirle aynı tarafı gösteriyor."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kesisim_taraf",
+    "aralik_uc",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.145-146 (ısıtma sistemi: ilk 10 yıl elektrik, sonra güneş ekonomik), s.165 (soru 11)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç ç (program s.50, 54: f(x) ≤ g(x))"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s011",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "f(x) = −2x + 40 ve g(x) = 4x + 10 doğrusal fonksiyonlarının grafikleri (5, 30) noktasında kesişiyor.",
+   "kok": "Buna göre f(x) < g(x) eşitsizliğinin çözüm aralığı aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "(5, ∞)",
+     "dogru": true
+    },
+    {
+     "metin": "(−∞, 5)",
+     "dogru": false,
+     "hata_turu": "esitsizlik_yonu",
+     "aciklama": "−6x < −30'da −6'ya bölerken eşitsizliğin yönü çevrilmemiş; yön çevrilince x > 5 çıkar."
+    },
+    {
+     "metin": "[5, ∞)",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "x = 5'te f(5) = g(5) = 30; '<' istendiği için 5 hariç tutulur."
+    },
+    {
+     "metin": "(30, ∞)",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "30, kesim noktasının y değeridir; aralığın ucu x değeri olan 5'tir."
+    }
+   ],
+   "cevap": "(5, ∞)",
+   "kabul_edilenler": [
+    "x > 5"
+   ],
+   "ipuclari": [
+    "Kesim noktası sınırdır; f'nin hangi tarafta daha küçük olduğunu bul.",
+    "Eşitsizliği cebirle çöz ya da kesim noktasının sağından bir x seçip f ile g'yi karşılaştır.",
+    "x = 10 seç: f(10) = −20 + 40 = 20. Şimdi g(10)'u hesapla ve iki değeri karşılaştır."
+   ],
+   "cozum_adimlari": [
+    "1. Eşitsizlik: −2x + 40 < 4x + 10.",
+    "2. İki taraftan 4x çıkar: −6x + 40 < 10.",
+    "3. İki taraftan 40 çıkar: −6x < −30.",
+    "4. −6'ya böl ve yönü çevir: x > 5.",
+    "5. Çözüm aralığı (5, ∞); 5'te iki değer eşit olduğu için 5 hariç.",
+    "6. Kontrol (yerine koyma ile), sağdan: x = 10 için f(10) = 20, g(10) = 50. 20 < 50 sağlanıyor.",
+    "7. Soldan: x = 2 için f(2) = 36, g(2) = 18. 36 < 18 yanlış, 2 çözümde değil.",
+    "8. Kontrol (grafik ile): g artan, f azalan; kesim noktasından sonra g'nin doğrusu üstte, f'ninki altta kalır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "esitsizlik_yonu",
+    "aralik_uc",
+    "okuma_hatasi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.139, 141-142 (iki depo uygulaması), 146",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç b (program s.50, 54)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s012",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "c",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Tersanede kesilen sac levhaların genişliği x cm'dir. Kalite kontrolde genişliği [249,6, 250,4] aralığında, yani 249,6 ≤ x ≤ 250,4 olan levhalar kabul ediliyor (sayılar kurgusaldır).",
+   "kok": "Buna göre kabul koşulunu gösteren mutlak değerli eşitsizlik aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "|x − 250| ≤ 0,4",
+     "dogru": true
+    },
+    {
+     "metin": "|x − 250| ≤ 0,8",
+     "dogru": false,
+     "hata_turu": "mutlak_tam_uzunluk",
+     "aciklama": "0,8 aralığın tam uzunluğudur; tolerans, orta noktadan uca olan uzaklıktır, yani bunun yarısıdır."
+    },
+    {
+     "metin": "|x − 250| < 0,4",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "Köşeli parantez uçları dâhil eder; 249,6 cm'lik levha da kabul edildiği için ≤ gerekir."
+    },
+    {
+     "metin": "|x − 250| ≥ 0,4",
+     "dogru": false,
+     "hata_turu": "esitsizlik_yonu",
+     "aciklama": "≥, orta noktadan 0,4 ve daha uzak levhaları anlatır; kabul edilenler orta noktaya yakın olanlardır."
+    }
+   ],
+   "cevap": "|x − 250| ≤ 0,4",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Aralığın tam ortasındaki sayı (orta nokta) hedef genişliktir.",
+    "Orta noktayı ve toleransı (orta noktadan uca uzaklık) bul; uçların dâhil olup olmadığına bak.",
+    "Orta nokta için 249,6 + 250,4 toplamını bulup 2'ye böl."
+   ],
+   "cozum_adimlari": [
+    "1. Uçları topla: 249,6 + 250,4 = 500.",
+    "2. 2'ye böl: orta nokta 500 ÷ 2 = 250.",
+    "3. Tolerans (orta noktadan uca uzaklık): 250,4 − 250 = 0,4.",
+    "4. Köşeli parantez uçları dâhil eder: ≤.",
+    "5. Koşul: |x − 250| ≤ 0,4.",
+    "6. Kontrol (yerine koyma ile), uç: x = 249,6 için |249,6 − 250| = 0,4 ≤ 0,4, kabul. Aralıkta da var.",
+    "7. Dış değer: x = 251 için |251 − 250| = 1 > 0,4, ret. Aralıkta da yok."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "mutlak_tam_uzunluk",
+    "aralik_uc",
+    "esitsizlik_yonu"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.152 (|f(x)| ≤ k), s.153-155 (rulman örneği), s.163 (kutu süt)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç c (program s.50; s.54: |f(x)| ≤ g(x), g sabit; kitap s.152)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s013",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "ç",
+   "tip": "bosluk",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Kitaptaki rulman örneğinde rulmanın çapı 60 mm olmalıdır. Çapı x mm olan bir rulman |60 − x| ≤ 0,05 koşulunu sağlıyorsa kullanılabilir.",
+   "kok": "Buna göre kullanılabilecek en büyük rulman çapı ______ mm'dir.",
+   "secenekler": null,
+   "cevap": "60,05",
+   "kabul_edilenler": [
+    "60,05",
+    "60.05",
+    "60,05 mm"
+   ],
+   "yanlis_aciklama": "60,05'te sapma tam 0,05'tir ve ≤ bunu kabul eder; daha büyük bir çap sınırı aşar.",
+   "ipuclari": [
+    "|60 − x|, çapın 60'tan ne kadar saptığını gösterir.",
+    "Çap 60'tan en çok 0,05 büyük olabilir; ucun dâhil olup olmadığını işaretten anla.",
+    "Sol uç 60 − 0,05 = 59,95'tir. Şimdi sağ ucu aynı yolla bul."
+   ],
+   "cozum_adimlari": [
+    "1. |60 − x| ≤ 0,05: x, 60'a en çok 0,05 uzaktadır.",
+    "2. Sol uç: 60 − 0,05 = 59,95.",
+    "3. Sağ uç: 60 + 0,05 = 60,05.",
+    "4. ≤ olduğu için uçlar dâhil: 59,95 ≤ x ≤ 60,05, yani [59,95, 60,05].",
+    "5. En büyük çap 60,05 mm.",
+    "6. Kontrol (yerine koyma ile), uç: |60 − 60,05| = 0,05 ≤ 0,05. Rulman kullanılır.",
+    "7. Dış değer: |60 − 60,1| = 0,1 > 0,05. 60,1 mm'lik rulman kullanılamaz."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.152 (|f(x)| ≤ k), s.153-155 (rulman örneği, [59,95, 60,05])",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç ç (program s.50; s.54: |f(x)| ≤ g(x), g sabit; kitap s.152)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s014",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "a",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "|2x − 6| < 0 eşitsizliğinin çözüm kümesi (−∞, 3)'tür.",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "Mutlak değer hiç eksi olmaz; (−∞, 3), 2x − 6 < 0'ın çözümüdür, |2x − 6| < 0'ın değil.",
+   "ipuclari": [
+    "Mutlak değer bir uzaklıktır; bir uzaklığın hangi değerleri alabileceğini düşün.",
+    "Aralıktan bir sayı seçip yerine koy ve sonucu 0 ile karşılaştır.",
+    "x = 0 seç: |2 · 0 − 6| = |−6|. Bu değer 0'dan küçük mü?"
+   ],
+   "cozum_adimlari": [
+    "1. |2x − 6| bir uzaklıktır; en küçük değeri 0'dır.",
+    "2. 0'dan küçük olamaz; hiçbir x eşitsizliği sağlamaz.",
+    "3. Çözüm kümesi boş kümedir (∅).",
+    "4. Kontrol (yerine koyma ile): (−∞, 3)'ten x = 0 için |2 · 0 − 6| = 6. 6 < 0 yanlış.",
+    "5. x = 3 için |2 · 3 − 6| = 0. 0 < 0 da yanlış.",
+    "6. Verilen ifade yanlıştır."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "mutlak_eksi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.151-152 (mutlak değerli teknoloji uygulaması)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç a (program s.50, 54: |f(x)| < 0)"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s015",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 3,
+   "puan": null,
+   "baglam": null,
+   "kok": "|x − 3| = 2x − 9 denkleminin çözüm kümesi aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "{6}",
+     "dogru": true
+    },
+    {
+     "metin": "{4, 6}",
+     "dogru": false,
+     "hata_turu": "sifir_aralik_kontrol",
+     "aciklama": "x = 4, x < 3 parçasından çıktı ama bu şartı sağlamıyor; kendi parçasına uymayan kök atılır."
+    },
+    {
+     "metin": "{2, 6}",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "x < 3 iken |x − 3| = −(x − 3) = −x + 3 olur; burada −x − 3 yazılmış."
+    },
+    {
+     "metin": "{3}",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "3, mutlak değerin içini sıfır yapan sayıdır; denklemi sağlamaz: |0| = 0 ama 2 · 3 − 9 = −3."
+    }
+   ],
+   "cevap": "{6}",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Mutlak değerin içini sıfır yapan sayı işi iki parçaya böler.",
+    "Her parçada denklemi çöz, sonra bulduğun kökü o parçanın şartıyla karşılaştır.",
+    "x ≥ 3 parçasında |x − 3| = x − 3 olur: x − 3 = 2x − 9 yaz ve x'i yalnız bırak."
+   ],
+   "cozum_adimlari": [
+    "1. İçi sıfır yapan sayı: x − 3 = 0, x = 3.",
+    "2. x ≥ 3 parçası: |x − 3| = x − 3. Denklem x − 3 = 2x − 9 olur.",
+    "3. İki taraftan x çıkar: −3 = x − 9.",
+    "4. İki tarafa 9 ekle: x = 6.",
+    "5. Şart: 6 ≥ 3 sağlanıyor. Kök kabul edilir.",
+    "6. x < 3 parçası: |x − 3| = −x + 3. Denklem −x + 3 = 2x − 9 olur.",
+    "7. İki tarafa x ekle: 3 = 3x − 9.",
+    "8. İki tarafa 9 ekle: 12 = 3x.",
+    "9. İki tarafı 3'e böl: x = 4.",
+    "10. Şart: 4 < 3 değil. Bu kök kendi parçasının şartını sağlamaz, atılır.",
+    "11. Çözüm kümesi {6}.",
+    "12. Kontrol (yerine koyma ile): |6 − 3| = 3 ve 2 · 6 − 9 = 3. İki taraf eşit.",
+    "13. x = 4 için |4 − 3| = 1 ama 2 · 4 − 9 = −1. Eşit değil, atmak doğru.",
+    "14. Kontrol (grafik ile): |x − 3| grafiği (V) ile y = 2x − 9 doğrusu yalnız (6, 3) noktasında kesişir. Tek kesim noktası, tek kök."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "sifir_aralik_kontrol",
+    "isaret_hatasi",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.157-158 (kare örneği, |2x + 3| = 3x − 1)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç b (program s.50, 54: |f(x)| = g(x))"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u2-k3-s016",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "c",
+   "tip": "acik",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": "Kocaeli'deki bir lojistik deposundan yola çıkan bir tırın yakıt deposunda 480 litre yakıt var. Tır saatte 32 litre yakıt harcıyor. Güvenlik kuralına göre depoda her zaman en az 96 litre yakıt kalmalı (sayılar kurgusaldır).",
+   "kok": "Buna göre işlemlerinizi göstererek aşağıdakileri cevaplayınız.\na) x saat sonra depoda kalan yakıtı veren f fonksiyonunu yazınız.\nb) Tırın yakıt almadan yol alabileceği süreyi eşitsizlik kurarak aralık olarak bulunuz.\nc) Bulduğunuz aralığı iki değerle kontrol ediniz: biri aralığın ucu, biri aralığın dışından olsun. (10 puan)",
+   "secenekler": null,
+   "cevap": "a) f(x) = 480 − 32x. b) 480 − 32x ≥ 96 → −32x ≥ −384 → x ≤ 12; zaman eksi olamayacağı için [0, 12]. Tır yakıt almadan en çok 12 saat yol alabilir. c) f(12) = 480 − 384 = 96 ≥ 96, doğru; f(13) = 480 − 416 = 64 < 96, 13 aralığın dışında.",
+   "kabul_edilenler": [
+    "[0, 12]",
+    "0 ≤ x ≤ 12",
+    "f(x) = −32x + 480"
+   ],
+   "ipuclari": [
+    "Kalan yakıt zamanla azalır; başlangıç miktarını ve saatlik harcamayı kullan.",
+    "'En az 96' için ≥ yaz; x'in katsayısı eksi olduğu için bölerken yöne dikkat et. Kontrolde aralığın ucunu ve ucun bir birim ötesini f(x)'e koy.",
+    "1 saat sonra 480 − 32 · 1 litre kalır. x saat sonrası için aynı yolu kullanıp f(x)'i yaz, sonra 'en az 96' koşulunu kur."
+   ],
+   "cozum_adimlari": [
+    "1. a) Kalan yakıt: f(x) = 480 − 32x; x saat.",
+    "2. b) 'En az 96' → ≥: 480 − 32x ≥ 96.",
+    "3. İki taraftan 480 çıkar: −32x ≥ −384.",
+    "4. İki tarafı −32'ye böl ve yönü çevir: x ≤ 12.",
+    "5. Zaman eksi olamaz: x ≥ 0. Çözüm aralığı [0, 12]; tır yakıt almadan en çok 12 saat yol alabilir.",
+    "6. 12 dâhil, çünkü işaret ≥ ve f(12) tam 96 litredir.",
+    "7. c) Kontrol (yerine koyma ile): f(12) = 480 − 32 · 12 = 480 − 384 = 96 ≥ 96, doğru.",
+    "8. f(13) = 480 − 32 · 13 = 480 − 416 = 64 < 96; 13 aralığın dışında olmalı, öyle. Sonuç tutarlı.",
+    "9. Kontrol (modeli sınama): f(0) = 480, başlangıçtaki yakıt. f(1) = 448, bir saatte 32 litre azalmış; model hikâyeyle aynı."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) f(x) = 480 − 32x fonksiyonunu yazma (−32x + 480 kabul edilir).",
+     "puan": 2
+    },
+    {
+     "olcut": "b) 'En az 96' koşulunu 480 − 32x ≥ 96 olarak kurma.",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Eksiye bölerken yönü çevirip x ≤ 12 bulma.",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Çözüm aralığını [0, 12] yazıp bağlamda yorumlama: tır yakıt almadan en çok 12 saat yol alabilir (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    },
+    {
+     "olcut": "c) Başka bir yoldan kontrol: bir uç değer (12) ve aralık dışından bir değer (ör. 13) yerine konup sonucun tutarlı olduğu gösterilir.",
+     "puan": 2
+    }
+   ],
+   "puanlama_notu": "0 ≤ x ≤ 12 yazımı [0, 12] ile eşdeğerdir, tam puan alır. x ≤ 12 bulup x ≥ 0 şartını yazmayan öğrenci aralık ölçütünden 1 puan alır. 12 ucunu açık parantezle yazan öğrenci aralık ölçütünün puanını alamaz; 'en az' sınırı dâhil eder. Kontrolde 13 yerine aralık dışından başka bir değer (ör. 14, 15) ya da içeriden bir değerle birlikte grafik/tablo kullanılırsa da puan verilir. a) şıkkında model yanlış kurulup sonraki şıklar bu modelle tutarlı çözülürse sonraki şıkların puanları verilir.",
+   "hata_turu": [
+    "esitsizlik_yonu",
+    "aralik_uc",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.136 (depo, en az 40 litre), s.139-140",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç c, ç (program s.50; s.54: çözümler farklı bir stratejiyle kontrol edilir)"
+   },
+   "dogrula": [
+    "DOĞRULA: Rubrik puan dağılımı ve kontrol adımına verilen puan bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #32)."
+   ]
+  },
+  {
+   "id": "matematik-u2-k3-s017",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "ç",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'teki bir tersane, gemi parçalarını taşıtmak için iki nakliye firmasından teklif aldı. A firması 2400 TL sabit ücret ve kilometre başına 18 TL; B firması 1200 TL sabit ücret ve kilometre başına 24 TL istiyor (sayılar kurgusaldır).",
+   "kok": "Buna göre işlemlerinizi göstererek aşağıdakileri cevaplayınız.\na) x km'lik taşıma için iki firmanın ücret fonksiyonlarını yazınız.\nb) İki ücretin eşit olduğu uzaklığı ve bu ücreti bulunuz.\nc) A'nın daha ekonomik olduğu uzaklıkları eşitsizlik kurarak bulunuz.\nç) c şıkkındaki sonucu, kesim noktasının iki yanından birer uzaklık seçip tabloyla kontrol ediniz. (15 puan)",
+   "secenekler": null,
+   "cevap": "a) A(x) = 18x + 2400, B(x) = 24x + 1200. b) 18x + 2400 = 24x + 1200 → 1200 = 6x → x = 200 km; A(200) = B(200) = 6000 TL. c) 18x + 2400 < 24x + 1200 → 1200 < 6x → 200 < x, yani x > 200: 200 km'den uzun taşımalarda A daha ekonomiktir (tam sayı km için en az 201 km). ç) x = 100: A = 4200 TL, B = 3600 TL, B ucuz; x = 300: A = 7800 TL, B = 8400 TL, A ucuz. Tablo, kesim noktasından sonra A'nın ucuz olduğunu doğruluyor.",
+   "kabul_edilenler": [
+    "x > 200",
+    "en az 201 km",
+    "200 km'den uzun taşımalarda"
+   ],
+   "ipuclari": [
+    "Her firmada bir sabit kısım, bir de kilometre başına değişen kısım var.",
+    "Önce A(x) = B(x) ile sınırı bul; sonra A(x) < B(x) eşitsizliğini çöz ve sınırın iki yanından birer değer dene.",
+    "A(x) = 18x + 2400 olur; B(x)'i de aynı yolla yaz. Sonra 18x + 2400 = 24x + 1200'de iki taraftan 18x çıkar."
+   ],
+   "cozum_adimlari": [
+    "1. a) A(x) = 18x + 2400, B(x) = 24x + 1200; x km, ücret TL.",
+    "2. b) A(x) = B(x): 18x + 2400 = 24x + 1200.",
+    "3. İki taraftan 18x çıkar: 2400 = 6x + 1200.",
+    "4. İki taraftan 1200 çıkar: 1200 = 6x.",
+    "5. 6'ya böl: x = 200 km.",
+    "6. A(200) = 18 · 200 + 2400 = 3600 + 2400 = 6000 TL.",
+    "7. B(200) = 24 · 200 + 1200 = 4800 + 1200 = 6000 TL; kesim noktası (200, 6000).",
+    "8. c) 'A daha ekonomik' → A(x) < B(x): 18x + 2400 < 24x + 1200.",
+    "9. İki taraftan 18x çıkar: 2400 < 6x + 1200.",
+    "10. İki taraftan 1200 çıkar: 1200 < 6x.",
+    "11. 6'ya böl: 200 < x, yani x > 200.",
+    "12. 200 km'den uzun taşımalarda A daha ekonomiktir; 200 km'de iki ücret eşittir.",
+    "13. ç) Kontrol (tablo ile), kesim noktasından önce x = 100: A(100) = 1800 + 2400 = 4200 TL, B(100) = 2400 + 1200 = 3600 TL; B ucuz.",
+    "14. Kesim noktasından sonra x = 300: A(300) = 5400 + 2400 = 7800 TL, B(300) = 7200 + 1200 = 8400 TL; A ucuz.",
+    "15. Önce B, sonra A ucuz; tablo cebirdeki x > 200 sonucuyla aynı tarafı gösteriyor."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) A(x) = 18x + 2400 ve B(x) = 24x + 1200 fonksiyonlarını yazma (her biri 1 puan).",
+     "puan": 2
+    },
+    {
+     "olcut": "b) A(x) = B(x) denklemini kurma.",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Denklemi çözüp x = 200 km bulma.",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Eşit ücreti 6000 TL bulma.",
+     "puan": 2
+    },
+    {
+     "olcut": "c) A(x) < B(x) eşitsizliğini kurma.",
+     "puan": 2
+    },
+    {
+     "olcut": "c) x > 200 bulup bağlamda yorumlama: 200 km'den uzun taşımalarda A daha ekonomik ya da en az 201 km (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    },
+    {
+     "olcut": "ç) Başka bir yoldan kontrol: kesim noktasının iki yanından birer değerle iki ücreti hesaplayıp önce B'nin, sonra A'nın ucuz olduğunu tabloyla gösterme.",
+     "puan": 3
+    }
+   ],
+   "puanlama_notu": "c) şıkkında 'x > 200' de 'en az 201 km' de tam puan alır (docs/dogrula.md #30). 'x ≥ 200' ya da 'en az 200 km' yazan öğrenci yorum ölçütünün puanını alamaz; 200 km'de iki ücret eşittir. 'x < 200' yazan öğrenci de yorum ölçütünün puanını alamaz: bu öğrenci hangi doğrunun altta olduğunu ters okuyup kesim noktasından sonraki sırayı (A ucuz) kesim noktasının soluna taşımıştır ya da 1200 < 6x satırını 'x < 200' diye okumuştur. b) şıkkında yalnız 200 yazıp ücreti bulmayan öğrenci ücret ölçütünün puanını alamaz; ücret olarak 200 yazmak kesim noktasının x'i ile y'sini karıştırmaktır. ç) şıkkında kontrol grafikle yapılırsa (iki doğru çizilip 200'ün sağında A'nın doğrusunun altta kaldığı gösterilirse) da tam puan verilir; yalnız tek yandan değer seçilirse 1 puan verilir. b) şıkkında x yanlış bulunup ücret ve sonraki şıklar bu x ile tutarlı çözülürse ilgili puanlar verilir.",
+   "hata_turu": [
+    "kesisim_taraf",
+    "aralik_uc",
+    "okuma_hatasi",
+    "egim_kesisim_karistirma",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.165 (soru 11, araç kiralama), s.145-146 (ısıtma sistemi), s.150 (şişme bot, en az 251)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç b, c, ç (program s.50; s.54: f(x) = g(x), f(x) ≤ g(x), kesim noktası, çözümün farklı stratejiyle kontrolü)"
+   },
+   "dogrula": [
+    "DOĞRULA (docs/dogrula.md #30, açık): Sürekli büyüklükte (km) öğretmenin 'x > 200' mü, 'en az 201' mi beklediği bilinmiyor; kök artık 'en az kaç' diye sormuyor, rubrik ikisini de tam puan sayıyor.",
+    "DOĞRULA: Rubrik puan dağılımı ve kontrol adımına verilen puan bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #32)."
+   ]
+  },
+  {
+   "id": "matematik-u2-k3-s018",
+   "konu_id": "matematik-u2-k3",
+   "ogrenme_ciktisi": "9.2.3",
+   "surec": "c",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Gölcük'teki bir tersanede kesilen kaynak çubuklarının boyu 350 mm olmalıdır. Kalite kontrolde boyu hedeften en fazla 1,5 mm sapan çubuklar kabul ediliyor (sayılar kurgusaldır).",
+   "kok": "Buna göre işlemlerinizi göstererek aşağıdakileri cevaplayınız.\na) Boyu x mm olan bir çubuğun hedeften sapmasını veren h fonksiyonunu yazınız.\nb) Kabul edilen çubuk boylarını mutlak değerli eşitsizlik kurarak aralık olarak bulunuz.\nc) Boyu 348,2 mm ve 351,2 mm olan iki çubuğun kabul edilip edilmeyeceğini belirleyiniz.\nç) b şıkkındaki aralığı iki uç değerle ve aralığın dışından bir değerle kontrol ediniz. (15 puan)",
+   "secenekler": null,
+   "cevap": "a) h(x) = |x − 350|. b) |x − 350| ≤ 1,5. x ≥ 350 iken x − 350 ≤ 1,5 → x ≤ 351,5. x < 350 iken −x + 350 ≤ 1,5 → −x ≤ −348,5 → x ≥ 348,5. Kabul aralığı 348,5 ≤ x ≤ 351,5, yani [348,5, 351,5]. c) h(348,2) = 1,8 > 1,5, kabul edilmez. h(351,2) = 1,2 ≤ 1,5, kabul edilir. ç) h(348,5) = 1,5 ≤ 1,5 ve h(351,5) = 1,5 ≤ 1,5, iki uç da sağlıyor. h(352) = 2 > 1,5, dış değer sağlamıyor. Kontrol b'deki aralıkla tutarlı.",
+   "kabul_edilenler": [
+    "[348,5, 351,5]",
+    "348,5 ≤ x ≤ 351,5",
+    "h(x) = |350 − x|"
+   ],
+   "ipuclari": [
+    "Sapma, ölçülen boy ile 350 arasındaki uzaklıktır.",
+    "'En fazla 1,5' için ≤ kur; mutlak değerin içini sıfır yapan 350'ye göre iki parçada çöz. Kontrolde iki ucu ve dışarıdan bir sayıyı h(x)'e koy.",
+    "x ≥ 350 parçasında |x − 350| = x − 350 olur: x − 350 ≤ 1,5 yaz ve x'i yalnız bırak."
+   ],
+   "cozum_adimlari": [
+    "1. a) h(x) = |x − 350|.",
+    "2. b) 'En fazla 1,5' → ≤: |x − 350| ≤ 1,5.",
+    "3. x ≥ 350 parçası: x − 350 ≤ 1,5.",
+    "4. İki tarafa 350 ekle: x ≤ 351,5.",
+    "5. x < 350 parçası: −x + 350 ≤ 1,5.",
+    "6. İki taraftan 350 çıkar: −x ≤ −348,5.",
+    "7. −1 ile çarp ve yönü çevir: x ≥ 348,5.",
+    "8. İki parça birlikte: 348,5 ≤ x ≤ 351,5, yani [348,5, 351,5]; ≤ olduğu için uçlar dâhil.",
+    "9. Kısa yol da aynı sonucu verir: 350 − 1,5 = 348,5 ve 350 + 1,5 = 351,5.",
+    "10. c) h(348,2) = |348,2 − 350| = |−1,8| = 1,8 > 1,5; bu çubuk kabul edilmez.",
+    "11. h(351,2) = |351,2 − 350| = |1,2| = 1,2 ≤ 1,5; bu çubuk kabul edilir.",
+    "12. ç) Kontrol (yerine koyma ile), sol uç: h(348,5) = |−1,5| = 1,5 ≤ 1,5; sağlanıyor.",
+    "13. Sağ uç: h(351,5) = |1,5| = 1,5 ≤ 1,5; sağlanıyor.",
+    "14. Dış değer: h(352) = |2| = 2 > 1,5; sağlanmıyor.",
+    "15. İki uç içeride, 352 dışarıda; kontrol b'deki aralıkla tutarlı."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) h(x) = |x − 350| yazma (|350 − x| kabul edilir).",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Kabul koşulunu |x − 350| ≤ 1,5 olarak kurma.",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Sağ ucu bulma: x ≤ 351,5 (x ≥ 350 parçasından ya da 350 + 1,5 ile).",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Sol ucu bulma: x ≥ 348,5 (x < 350 parçasında yönü çevirerek ya da 350 − 1,5 ile).",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Kabul aralığını uçlar dâhil 348,5 ≤ x ≤ 351,5 ya da [348,5, 351,5] olarak yazma.",
+     "puan": 2
+    },
+    {
+     "olcut": "c) İki ölçümü değerlendirme: 348,2 mm kabul edilmez, 351,2 mm kabul edilir (her biri 1 puan).",
+     "puan": 2
+    },
+    {
+     "olcut": "ç) Başka bir yoldan kontrol: iki ucu (348,5 ve 351,5) yerine koyup h = 1,5 ≤ 1,5 olduğunu, aralığın dışından bir değerin (ör. 352) sağlamadığını gösterme (her değer 1 puan; grafikle yapılan kontrol de aynı 3 puanı alır, bu anlama gelen ifadeler kabul edilir).",
+     "puan": 3
+    }
+   ],
+   "puanlama_notu": "Kök yöntem şartı koymaz; aralığı kısa yoldan (350 − 1,5 ve 350 + 1,5) ya da parçalı gösterimle doğru bulan öğrenci uç ölçütlerinin puanlarını alır. Kitap aynı sonucu parçalı gösterimle verir (s.154); kart kısa yolu öğrettiği için iki yol eşit sayılır. 348,5 ≤ x ≤ 351,5 yazımı [348,5, 351,5] ile eşdeğerdir. Uçları açık parantezle yazan öğrenci aralık ölçütünün puanını alamaz; 'en fazla' uçları dâhil eder. Parçalı çözümde x < 350 parçasında −x + 350 yerine x − 350 yazan öğrenci (parçada işaret hatası) sol uç ölçütünün puanını alamaz. −x ≤ −348,5 satırında yönü çevirmeden x ≤ 348,5 yazan öğrenci de sol uç ölçütünün puanını alamaz; sonraki adımlar bu sonuçla tutarlıysa onların puanları verilir. ç) şıkkında her kontrol değeri 1 puandır: iki uç ve bir dış değer. Kontrol grafikle yapılırsa (V'nin y = 1,5 doğrusunun altında kaldığı ya da ona değdiği x'ler 348,5 ile 351,5 arası) da 3 puan verilir.",
+   "hata_turu": [
+    "aralik_uc",
+    "esitsizlik_yonu",
+    "parcali_isaret"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.152 (tahmin oyunu, |f(x)| ≤ k), s.153-155 (rulman örneği, parçalı çözüm ve yazılımla doğrulama), s.163 (kutu süt)",
+    "ogrenme_ciktisi": "9.2.3",
+    "program": "MAT.9.2.3 süreç a, c, ç (program s.50; s.54: |f(x)| ≤ g(x), g sabit, ve çözümün farklı stratejiyle kontrolü; kitap s.152); biçim: 2025-26 1D1Y 'mutlak değerli eşitsizlik olarak yazınız' kalıbı"
+   },
+   "dogrula": [
+    "DOĞRULA: Rubrik puan dağılımı ve kontrol adımına verilen puan bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #32)."
+   ]
+  }
+ ]
+}
