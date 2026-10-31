@@ -1,4 +1,5 @@
 import streamlit as st
+from pathlib import Path
 
 # Sayfayı tam ekran genişliğinde başlat
 st.set_page_config(page_title="Mehmet Eren Çalışma Masası", layout="wide", initial_sidebar_state="collapsed")
@@ -12,5 +13,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Sunucunun config.toml dosyasındaki enableStaticServing özelliğiyle bağlanan nihai statik yönlendirme
-st.components.v1.iframe(src="/app/static/index.html", height=1000, scrolling=True)
+# YENİ NESİL KOMUT: st.components.v1.iframe yerine st.iframe kullanıyoruz.
+# Path objesi ile statik HTML dosyasının tam yolunu belirtiyoruz.
+html_file_path = Path(__file__).parent / "static" / "index.html"
+st.iframe(html_file_path, height=1000, scrolling=True)
