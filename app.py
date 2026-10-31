@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 
 # Sayfayı tam ekran genişliğinde başlat
 st.set_page_config(page_title="Mehmet Eren Çalışma Masası", layout="wide", initial_sidebar_state="collapsed")
@@ -13,5 +12,5 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Sunucunun config.toml dosyasındaki enableStaticServing özelliğini doğrudan 'panel' klasörüne bağlayan nihai yönlendirme
-st.components.v1.iframe(src="/ststatic/index.html", height=900, scrolling=True)
+# Sunucunun config.toml dosyasındaki enableStaticServing özelliğiyle bağlanan nihai statik yönlendirme
+st.components.v1.iframe(src="/static/index.html", height=1000, scrolling=True)
