@@ -128,6 +128,9 @@ Kaynak: `kaynaklar/meb/ortak_sinav/kilavuz/tymm_coktan_secmeli_soru_yazim_kilavu
 | `tek_sifir` | iki sıfırdan yalnız birini bulmak (\|x\| − 4 = 0 → yalnız x = 4) |
 | `maksimum_varlik` | en büyük ya da en küçük değerin varlığını karıştırmak: ℝ'de V'nin maksimumunu (ters V'nin minimumunu) aramak, var olan minimum/maksimum için "yoktur" demek, kapalı aralıkta "maksimum yok" demek |
 | `kesisim_taraf` | iki doğrunun kesim noktasından sonra hangi doğrunun üstte olduğunu ters okumak; kesim noktasının bir yanındaki üst/alt sırasını öbür yana da taşımak; "a < x" satırını "x < a" diye okumak |
+| `dis_aci_komsu` | dış açıyı bulurken komşu iç açıyı eklemek ya da yanlış iki iç açıyı toplamak (dış açı = komşu olmayan iki iç açının toplamı) |
+| `aci_kenar_eslesme` | en büyük açıyı ya da en uzun kenarı karşısında olmayan kenar/açı ile eşlemek (C en büyükse AB en uzundur, AC değil) |
+| `ucgen_esitsizligi_atlama` | üçgen eşitsizliğini kontrol etmemek: üç uzunluğun üçgen kurup kurmadığına bakmadan karar vermek ya da yalnız açı bilgisini kullanıp kenar sınırını unutmak (x > 12 bulup x < 20 sınırını unutmak) |
 | `birim_cevirme` | birim dönüşümü yapmamak |
 | `kavram_karisikligi` | iki benzer kavramı karıştırmak (skaler/vektörel, iklim/hava durumu) |
 | `ezber_karisikligi` | sıralama/isim/tarih karıştırmak |

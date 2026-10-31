@@ -1,0 +1,1290 @@
+{
+ "konu_id": "matematik-u3-k1",
+ "surum": 3,
+ "sorular": [
+  {
+   "id": "matematik-u3-k1-s001",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "d₁ ve d₂ paralel iki doğrudur (d₁ // d₂). k doğrusu ikisini de kesiyor. k'nin d₁ ile yaptığı bir açı 2x + 10°, bu açının d₂'deki iç ters açısı 70°'dir.",
+   "kok": "Buna göre x kaç derecedir?",
+   "secenekler": [
+    {
+     "metin": "30°",
+     "dogru": true
+    },
+    {
+     "metin": "40°",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "10° karşı tarafa geçerken eksi olur, burada 70° + 10° alınmış."
+    },
+    {
+     "metin": "50°",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "İç ters açıların toplamı 180° değildir, ölçüleri birbirine eşittir."
+    },
+    {
+     "metin": "60°",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "2x = 60° bulunmuş, x için bir de 2'ye bölmek gerekir."
+    }
+   ],
+   "cevap": "30°",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "İç ters açıların ölçüleri arasındaki ilişkiyi hatırla.",
+    "İki açıyı birbirine eşitle, sonra x'i yalnız bırak.",
+    "Eşitliği yaz: 2x + 10° = 70°. Şimdi 2x'i yalnız bırakmak için ne yapacağına karar ver."
+   ],
+   "cozum_adimlari": [
+    "1. Gerekçe: Paralel doğrularda iç ters açıların ölçüleri eşittir.",
+    "2. 2x + 10° = 70°.",
+    "3. İki taraftan 10° çıkar: 2x = 60°.",
+    "4. İki tarafı 2'ye böl: x = 30°.",
+    "5. Kontrol (yerine koyma ile): 2 · 30 + 10 = 70. İki açı eşit çıktı, gerekçe ile tutarlı."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "isaret_hatasi",
+    "kavram_karisikligi",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.172-173 (ön değerlendirme: paralel doğrular ve kesen), s.174",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a (program s.57 temel kabul, s.58)",
+    "kart": "b1"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s002",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "a",
+   "tip": "dogru_yanlis",
+   "zorluk": 1,
+   "puan": 5,
+   "baglam": null,
+   "kok": "Bir öğrenci açıölçerle 6 farklı üçgenin iç açılarını ölçmüş ve her birinde toplamı 180° bulmuştur. Bu ölçümler, her üçgende iç açıların ölçüleri toplamının 180° olduğunu ispatlar.",
+   "secenekler": null,
+   "cevap": false,
+   "kabul_edilenler": [],
+   "yanlis_aciklama": "6 ölçüm kuralı doğrular ama bütün üçgenleri kapsamaz, ispat paralel doğru çizerek genel yolla yapılır.",
+   "ipuclari": [
+    "Ölçerek görmek ile her üçgen için göstermek arasında fark var mı, düşün.",
+    "Ölçerek doğrulama ile genel yolla ispat arasındaki farkı hatırla.",
+    "6 üçgenle hepsi arasındaki farkı yaz."
+   ],
+   "cozum_adimlari": [
+    "1. Ölçüm yalnız ölçülen 6 üçgen hakkında bilgi verir.",
+    "2. Sayısız farklı üçgen vardır, hepsi tek tek ölçülemez.",
+    "3. Bu ölçümler bir doğrulamadır, ispat değildir.",
+    "4. İspat genel yapılır: A'dan BC'ye paralel çizilir, iç ters açılar ve doğru açı kullanılır.",
+    "5. Verilen ifade yanlıştır.",
+    "6. Kontrol (ölçülmemiş bir üçgenle): Öğrencinin ölçmediği, yeni çizilecek bir üçgen düşünülür.",
+    "7. 6 ölçüm bu yeni üçgen hakkında bir şey söylemez. Onun toplamının da 180° olduğunu yalnız genel ispat garanti eder. Sonuç aynı: ifade yanlış."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "tek_ornekle_ispat"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.174-175 (teorem ve 1. Uygulama: paralel doğruyla ispat), s.184 (4. Uygulama: ölçerek doğrulama)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a (program s.57, s.58: genellemenin ispata muhtaç olduğu)",
+    "kart": "b2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s003",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "ABC üçgeninde A üstte, B sol altta, C sağ altta. A köşesinden BC kenarına paralel bir d doğrusu çiziliyor. d üzerinde A'nın B tarafında (solunda) oluşan açı x'tir. İspatın bir adımında x = m(ABC) yazılıyor.",
+   "kok": "Buna göre bu adımın gerekçesi aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "d // BC olduğundan iç ters açıların ölçüleri eşittir.",
+     "dogru": true
+    },
+    {
+     "metin": "d // BC olduğundan yöndeş açıların ölçüleri eşittir.",
+     "dogru": false,
+     "hata_turu": "ezber_karisikligi",
+     "aciklama": "Yöndeş açılar aynı yöne bakar, x ile B açısı ise Z biçiminde duran iç ters açılardır."
+    },
+    {
+     "metin": "d üzerindeki açılar doğru açı oluşturur, toplamı 180°'dir.",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Doğru açı, d üzerindeki üç açının toplamı için kullanılır, iki açının eşitliği için değil."
+    },
+    {
+     "metin": "Üçgenin iç açılarının ölçüleri toplamı 180°'dir.",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "İspatlanacak sonuç gerekçe olarak kullanılamaz, bu adımda henüz bilinmiyor."
+    }
+   ],
+   "cevap": "d // BC olduğundan iç ters açıların ölçüleri eşittir.",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "x ile B köşesindeki açının iki paralel ve bir kesen arasında nasıl durduğuna bak.",
+    "d ile BC paralel, AB kesen. İki açının Z biçiminde mi, F biçiminde mi durduğunu belirle.",
+    "Z harfini çiz: üst çizgi d, alt çizgi BC, çapraz AB. x'i Z'nin üst köşesine yaz ve B açısının nerede kaldığına bak."
+   ],
+   "cozum_adimlari": [
+    "1. d // BC ve AB iki paraleli kesen doğrudur.",
+    "2. x, d ile AB arasında, m(ABC) ise BC ile AB arasındadır.",
+    "3. İki açı kesenin iki ayrı yanında, paralellerin arasında Z biçiminde durur: iç ters açılardır.",
+    "4. Paralel doğrularda iç ters açıların ölçüleri eşittir: x = m(ABC).",
+    "5. Doğru açı bu adıma uymaz: o, ispatın sonraki adımının gerekçesidir.",
+    "6. İç açılar toplamı da uymaz: o, ispatlanacak sonucun kendisidir.",
+    "7. Kontrol (ölçerek): m(ABC) = 50° olan bir üçgen ve d doğrusu çizilirse açıölçer x için de 50° gösterir. Eşitlik ölçümle de tutarlı."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "ezber_karisikligi",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.174-175 (1. Uygulama: iç açılar toplamının ispatı), s.173",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a (program s.57, 58)",
+    "kart": "b2"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s004",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük sahilinde bir yelkenli duruyor (sayılar kurgusaldır). Direk, güverteye (teknenin üst döşemesi) dik duruyor. Bumba (yelkenin altındaki, direğe bağlı yatay çubuk) direğin dibinden sağa uzanıyor ve direkle dik açı yapıyor. Direğin üst ucundan bumbanın ucuna gerilen halat, bumbayla 38°'lik açı yapıyor.",
+   "kok": "Buna göre halatın direkle yaptığı açı kaç derecedir?",
+   "secenekler": [
+    {
+     "metin": "52°",
+     "dogru": true
+    },
+    {
+     "metin": "128°",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "90° + 38° = 128° bilinen iki açının toplamıdır, bunu 180°'den çıkarmak gerekir."
+    },
+    {
+     "metin": "142°",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "Direk ile bumba arasındaki dik açı unutulmuş, üçgende üç açı var."
+    },
+    {
+     "metin": "232°",
+     "dogru": false,
+     "hata_turu": "ezber_karisikligi",
+     "aciklama": "Üçgenin iç açılarının toplamı 360° değil, 180°'dir."
+    }
+   ],
+   "cevap": "52°",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Direk, bumba ve halat bir üçgen oluşturuyor. Bu üçgenin açılarından biri özel.",
+    "Üç iç açının toplamını kullan: bilinen iki açıyı topla, sonucu toplamdan çıkar.",
+    "Direk ile bumba arası 90°. 90° + 38° işlemini yap, sonra ne yapacağına karar ver."
+   ],
+   "cozum_adimlari": [
+    "1. Direk ile bumba arasındaki açı 90°'dir.",
+    "2. Gerekçe: Üçgenin iç açılarının ölçüleri toplamı 180°'dir.",
+    "3. Bilinen açılar: 90° + 38° = 128°.",
+    "4. Halatın direkle yaptığı açı: 180° − 128° = 52°.",
+    "5. Kontrol (açı toplamı ile): 90 + 38 + 52 = 180, toplam tuttu.",
+    "6. Kontrol (dar açılarla): Dik üçgende dar açıların toplamı 90°'dir. 38 + 52 = 90, tuttu."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksik_adim",
+    "okuma_hatasi",
+    "ezber_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.175-176 (1. Örnek: dik üçgende iç açılar toplamı), s.180-181 (4. Örnek)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57)",
+    "kart": "b3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s005",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Bir üçgenin dış açılarının ölçüleri 3x, 4x ve 5x'tir.",
+   "kok": "Buna göre en büyük dış açı kaç derecedir?",
+   "secenekler": [
+    {
+     "metin": "150°",
+     "dogru": true
+    },
+    {
+     "metin": "30°",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "30, x'in değeridir, en büyük dış açı için x'i 5 ile çarpmak gerekir."
+    },
+    {
+     "metin": "75°",
+     "dogru": false,
+     "hata_turu": "ezber_karisikligi",
+     "aciklama": "Dış açıların toplamı 180° değil, 360°'dir."
+    },
+    {
+     "metin": "225°",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "540°, üç köşedeki iç ve dış açıların hepsinin toplamıdır, yalnız dış açılar 360° eder."
+    }
+   ],
+   "cevap": "150°",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Dış açıların toplamı kaç derece, hatırla.",
+    "Üç dış açıyı topla, toplama eşitle, x'i bul ve en büyük dış açıyı hesapla.",
+    "3x + 4x + 5x = 12x olur. Şimdi 12x'i neye eşitleyeceğine karar ver."
+   ],
+   "cozum_adimlari": [
+    "1. Gerekçe: Üçgenin dış açılarının ölçüleri toplamı 360°'dir.",
+    "2. 3x + 4x + 5x = 360°.",
+    "3. x'leri topla: 12x = 360°.",
+    "4. İki tarafı 12'ye böl: x = 30°.",
+    "5. En büyük dış açı: 5 · 30 = 150°.",
+    "6. Kontrol (dış açılar): 90°, 120°, 150°. 90 + 120 + 150 = 360, tuttu.",
+    "7. Kontrol (iç açılar): 90°, 60°, 30°. 90 + 60 + 30 = 180, tuttu."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksik_adim",
+    "ezber_karisikligi",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.177 (2. Uygulama: dış açılar toplamı 360°), s.184 (Kontrol Noktası)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57, 58)",
+    "kart": "b4"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s006",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük'teki bir tersanede üçgen bir çelik levha kesiliyor (sayılar kurgusaldır). Levhanın köşeleri: A üstte, B sol altta, C sağ altta. Alt kenar BC, C'den sağa doğru D noktasına kadar uzatılıyor. m(BAC) = 46° ve m(ABC) = 72°'dir.",
+   "kok": "Buna göre C köşesinde oluşan m(ACD) dış açısı kaç derecedir?",
+   "secenekler": [
+    {
+     "metin": "118°",
+     "dogru": true
+    },
+    {
+     "metin": "134°",
+     "dogru": false,
+     "hata_turu": "dis_aci_komsu",
+     "aciklama": "62° dış açıya komşu olduğu için toplanmaz, toplanacaklar 46° ve 72°'dir."
+    },
+    {
+     "metin": "62°",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "62°, C köşesindeki iç açıdır, soru uzantıyla oluşan dış açıyı soruyor."
+    },
+    {
+     "metin": "26°",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Dış açı iki iç açının farkı değil, toplamıdır."
+    }
+   ],
+   "cevap": "118°",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "ACD dış açısı hangi köşede? Ona bitişik olmayan iç açıları bul.",
+    "Dış açı, kendisine komşu olmayan iki iç açının toplamına eşittir.",
+    "Dış açı C köşesinde. Komşu olmayan açılar A ve B köşelerinde: 46° ile 72°'yi alt alta yaz."
+   ],
+   "cozum_adimlari": [
+    "1. ACD dış açısı C köşesindedir, komşu iç açı m(ACB)'dir.",
+    "2. Komşu olmayan iç açılar m(BAC) ve m(ABC)'dir.",
+    "3. Gerekçe: Dış açı, komşu olmayan iki iç açının toplamına eşittir.",
+    "4. m(ACD) = 46° + 72° = 118°.",
+    "5. Kontrol (başka yoldan): m(ACB) = 180° − 118° = 62°.",
+    "6. İç açılar: 46 + 72 + 62 = 180, toplam tuttu."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "dis_aci_komsu",
+    "okuma_hatasi",
+    "kavram_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.178 (3. Uygulama: dış açı teoremi), s.179-180 (3. Örnek)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a (program s.57, 58)",
+    "kart": "b5"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s007",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "ABC üçgeninde m(BAC) = 2x + 15°, m(ABC) = 3x − 15° ve m(ACB) = x + 30°'dir.",
+   "kok": "Buna göre üçgenin en büyük iç açısı kaç derecedir?",
+   "secenekler": [
+    {
+     "metin": "65°",
+     "dogru": true
+    },
+    {
+     "metin": "25°",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "25, x'in değeridir, açıları bulmak için x'i her ifadeye koymak gerekir."
+    },
+    {
+     "metin": "90°",
+     "dogru": false,
+     "hata_turu": "isaret_hatasi",
+     "aciklama": "30° karşı tarafa geçerken eksi olur: 6x = 180° − 30°."
+    },
+    {
+     "metin": "150°",
+     "dogru": false,
+     "hata_turu": "ezber_karisikligi",
+     "aciklama": "Üçgenin iç açılarının toplamı 360° değil, 180°'dir."
+    }
+   ],
+   "cevap": "65°",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Üç iç açının toplamını kullan.",
+    "Üç ifadeyi topla, toplama eşitle, x'i bul, sonra her açıyı ayrı hesapla.",
+    "x'li terimler: 2x + 3x + x = 6x. Şimdi sayıları topla: 15 − 15 + 30."
+   ],
+   "cozum_adimlari": [
+    "1. Gerekçe: Üçgenin iç açılarının ölçüleri toplamı 180°'dir.",
+    "2. (2x + 15°) + (3x − 15°) + (x + 30°) = 180°.",
+    "3. x'leri topla: 2x + 3x + x = 6x.",
+    "4. Sayıları topla: 15 − 15 + 30 = 30. Denklem 6x + 30° = 180° olur.",
+    "5. İki taraftan 30° çıkar: 6x = 150°.",
+    "6. İki tarafı 6'ya böl: x = 25°.",
+    "7. m(BAC) = 2 · 25 + 15 = 65°.",
+    "8. m(ABC) = 3 · 25 − 15 = 60°.",
+    "9. m(ACB) = 25 + 30 = 55°.",
+    "10. En büyük iç açı m(BAC) = 65°.",
+    "11. Kontrol (açı toplamı ile): 65 + 60 + 55 = 180, toplam tuttu."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksik_adim",
+    "isaret_hatasi",
+    "ezber_karisikligi"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.175-176 (1. Örnek, 1. Sıra Sizde), s.180-181 (4. Örnek)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57)",
+    "kart": "b3"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s008",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük'te bir evin çatısının ön yüzü ABC üçgenidir (sayılar kurgusaldır). A üstte, B sol altta, C sağ altta. Çatının iki eğik kenarı eşittir: |AB| = |AC|. Üstteki açı m(BAC) = 44°'dir.",
+   "kok": "Buna göre çatının sol alt köşesindeki m(ABC) kaç derecedir?",
+   "secenekler": [
+    {
+     "metin": "68°",
+     "dogru": true
+    },
+    {
+     "metin": "44°",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "44°, eşit kenarların arasındaki tepe açısıdır, taban açısı değil."
+    },
+    {
+     "metin": "92°",
+     "dogru": false,
+     "hata_turu": "aci_kenar_eslesme",
+     "aciklama": "Eşit açılar A ile C değil, eşit kenarların karşısındaki B ile C'dir."
+    },
+    {
+     "metin": "136°",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "136°, iki taban açısının toplamıdır, bir taban açısı için 2'ye bölmek gerekir."
+    }
+   ],
+   "cevap": "68°",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Eşit kenarları bul, taban açıları onların karşısındadır.",
+    "180°'den tepe açısını çıkar, kalanı iki eşit taban açısına paylaştır.",
+    "Eşit kenarlar AB ve AC, aralarındaki köşe A. 180° − 44° işlemini kur."
+   ],
+   "cozum_adimlari": [
+    "1. |AB| = |AC| olduğundan eşit kenarların arasındaki A açısı tepe açısıdır.",
+    "2. Taban açıları B ve C köşelerindedir ve eşittir.",
+    "3. 180° − 44° = 136°.",
+    "4. 136° ÷ 2 = 68°, yani m(ABC) = 68°.",
+    "5. Kontrol (açı toplamı ile): 44 + 68 + 68 = 180, toplam tuttu.",
+    "6. Kontrol (eşleme ile): Eşit açılar B ve C. B'nin karşısı AC, C'nin karşısı AB. Bunlar eşit kenarlar, eşleme doğru."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi",
+    "aci_kenar_eslesme",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.180-181 (taban açıları notu, 5. Örnek: çatı), s.193 (Alıştırma 7)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57)",
+    "kart": "b6"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s009",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Kocaeli'deki bir limanda bir tekne, rıhtımdaki A direğine iki halatla bağlanıyor (sayılar kurgusaldır). Halatlar teknenin B ve C noktalarına gidiyor ve |AB| = |AC|. Çizimde A üstte, B sol altta, C sağ altta. B ile C'yi birleştiren doğru, C'den sağa D noktasına kadar uzatılıyor. m(ACD) = 112°'dir.",
+   "kok": "Buna göre iki halat arasındaki m(BAC) kaç derecedir?",
+   "secenekler": [
+    {
+     "metin": "44°",
+     "dogru": true
+    },
+    {
+     "metin": "68°",
+     "dogru": false,
+     "hata_turu": "okuma_hatasi",
+     "aciklama": "68°, C köşesindeki taban açısıdır, soru A köşesindeki açıyı soruyor."
+    },
+    {
+     "metin": "56°",
+     "dogru": false,
+     "hata_turu": "aci_kenar_eslesme",
+     "aciklama": "112° A ve B arasında eşit paylaştırılmış, oysa eşit açılar eşit kenarların karşısındaki B ile C'dir."
+    },
+    {
+     "metin": "136°",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "136°, iki taban açısının toplamıdır, tepe açısı için bunu 180°'den çıkarmak gerekir."
+    }
+   ],
+   "cevap": "44°",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Verilen 112° üçgenin dışında. Önce üçgenin içindeki açılara geçmenin yolunu düşün.",
+    "Aynı köşedeki iç ve dış açı yan yana 180° eder. Sonra eşit kenarların karşısındaki açıların eşitliğini ve iç açılar toplamını kullan.",
+    "m(ACB) = 180° − 112° işlemini kur."
+   ],
+   "cozum_adimlari": [
+    "1. m(ACB) ile m(ACD) yan yanadır: m(ACB) = 180° − 112° = 68°.",
+    "2. |AB| = |AC| olduğundan taban açıları B ve C'dedir: m(ABC) = m(ACB) = 68°.",
+    "3. Gerekçe: Üçgenin iç açılarının ölçüleri toplamı 180°'dir.",
+    "4. 68° + 68° = 136°.",
+    "5. m(BAC) = 180° − 136° = 44°.",
+    "6. Kontrol (dış açı kuralı ile): m(ACD) = m(BAC) + m(ABC).",
+    "7. 44° + 68° = 112°. Verilen değerle aynı."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "okuma_hatasi",
+    "aci_kenar_eslesme",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.180-182 (5.-7. Örnek: ikizkenar üçgen), s.178 (dış açı teoremi)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57)",
+    "kart": "b6"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s010",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük sahili açığında A, B ve C şamandıraları iplerle bağlanıp ABC üçgeni oluşturuyor (sayılar kurgusaldır). A'daki açı m(BAC) = 72°, B'deki açı m(ABC) = 40°'dir.",
+   "kok": "Buna göre şamandıralar arasındaki ip uzunluklarının büyükten küçüğe sıralanışı aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "|BC| > |AB| > |AC|",
+     "dogru": true
+    },
+    {
+     "metin": "|BC| > |AC| > |AB|",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "C açısı hesaplanmadan en küçük sayılmış, oysa m(ACB) = 68° ve 40°'den büyüktür."
+    },
+    {
+     "metin": "|AC| > |AB| > |BC|",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Sıra ters çevrilmiş, büyük açının karşısında büyük kenar bulunur."
+    },
+    {
+     "metin": "|AB| > |AC| > |BC|",
+     "dogru": false,
+     "hata_turu": "aci_kenar_eslesme",
+     "aciklama": "72° A'da olduğu için A'dan çıkan AB en uzun yazılmış, oysa en uzun kenar A köşesine değmeyen BC'dir."
+    }
+   ],
+   "cevap": "|BC| > |AB| > |AC|",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Kenarları sıralamak için önce üç açıyı da bilmen gerekir.",
+    "Üçüncü açıyı bul, açıları sırala, her açının yanına karşı kenarını yaz.",
+    "m(ACB) = 180° − (72° + 40°). Önce parantezin içini hesapla."
+   ],
+   "cozum_adimlari": [
+    "1. 72° + 40° = 112°.",
+    "2. m(ACB) = 180° − 112° = 68°.",
+    "3. Açı sırası: m(BAC) > m(ACB) > m(ABC), yani 72° > 68° > 40°.",
+    "4. Karşı kenarlar: A'nın karşısı BC, C'nin karşısı AB, B'nin karşısı AC.",
+    "5. Büyük açı karşısında büyük kenar: |BC| > |AB| > |AC|.",
+    "6. Kontrol (açı toplamı ile): 72 + 68 + 40 = 180, toplam tuttu.",
+    "7. Kontrol (harf kuralı ile): BC'de A, AB'de C, AC'de B harfi geçmiyor. Her kenar karşı açısıyla eşlendi."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "eksik_adim",
+    "kavram_karisikligi",
+    "aci_kenar_eslesme"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.174 (açı-kenar bağıntısı), s.184-185 (4. Uygulama, 8.-9. Örnek), s.190 (Kontrol Noktası)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a (program s.57 genelleme, s.58)",
+    "kart": "b7"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s011",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük sahilinde A, B ve C direkleri arasına üçgen biçiminde ip geriliyor (sayılar kurgusaldır). İp uzunlukları: |AB| = 7 m, |BC| = 5 m ve |AC| = 9 m.",
+   "kok": "Buna göre iplerin direklerde oluşturduğu iç açıların küçükten büyüğe sıralanışı aşağıdakilerden hangisidir?",
+   "secenekler": [
+    {
+     "metin": "m(BAC) < m(ACB) < m(ABC)",
+     "dogru": true
+    },
+    {
+     "metin": "m(ABC) < m(ACB) < m(BAC)",
+     "dogru": false,
+     "hata_turu": "kavram_karisikligi",
+     "aciklama": "Sıra ters çevrilmiş, en kısa kenarın karşısında en küçük açı bulunur."
+    },
+    {
+     "metin": "m(ABC) < m(BAC) < m(ACB)",
+     "dogru": false,
+     "hata_turu": "aci_kenar_eslesme",
+     "aciklama": "Her kenar kendi ucundaki bir köşeyle eşlenmiş (BC→B, AB→A, AC→C), oysa karşı köşe kenarda geçmeyen harftir."
+    },
+    {
+     "metin": "m(ACB) < m(BAC) < m(ABC)",
+     "dogru": false,
+     "hata_turu": "aci_kenar_eslesme",
+     "aciklama": "En büyük açı doğru, ama BC'nin karşısı A, AB'nin karşısı C'dir ve bu ikisi yer değiştirmiş."
+    }
+   ],
+   "cevap": "m(BAC) < m(ACB) < m(ABC)",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Kural tersten de çalışır: uzun kenarın karşısında büyük açı bulunur.",
+    "Kenarları küçükten büyüğe sırala, her kenarın yanına karşı köşesini yaz.",
+    "Kenarları küçükten büyüğe, harfleriyle yaz: |BC|, |AB|, |AC|. Her birinin karşı köşesini sırayla bul."
+   ],
+   "cozum_adimlari": [
+    "1. Kenar sırası: |BC| < |AB| < |AC|, yani 5 < 7 < 9.",
+    "2. Karşı köşeler: BC'nin karşısı A, AB'nin karşısı C, AC'nin karşısı B.",
+    "3. Uzun kenar karşısında büyük açı: m(BAC) < m(ACB) < m(ABC).",
+    "4. Kontrol (çizilebilirlik ile): 5 + 7 = 12 > 9, üçgen kurulabilir.",
+    "5. Kontrol (harf kuralı ile): BC'de A, AB'de C, AC'de B harfi geçmiyor. Eşleme doğru."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "kavram_karisikligi",
+    "aci_kenar_eslesme"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.185 (8. Örnek), s.186 (6. Sıra Sizde), s.190 (Kontrol Noktası: tersi de doğrudur)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a (program s.57 genelleme)",
+    "kart": "b8"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s012",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "ABC üçgeninde m(BAC) > 90°, |AB| = 6 cm ve |AC| = 8 cm'dir.",
+   "kok": "Buna göre |BC| kaç santimetre olabilir?",
+   "secenekler": [
+    {
+     "metin": "12",
+     "dogru": true
+    },
+    {
+     "metin": "7",
+     "dogru": false,
+     "hata_turu": "aci_kenar_eslesme",
+     "aciklama": "Geniş açının karşısındaki BC en uzun kenar olmalı, 7 cm ise 8 cm'den kısa."
+    },
+    {
+     "metin": "8",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "|BC| = |AC| olursa B açısı da A kadar büyük olur, bir üçgende iki geniş açı olamaz."
+    },
+    {
+     "metin": "15",
+     "dogru": false,
+     "hata_turu": "ucgen_esitsizligi_atlama",
+     "aciklama": "Yalnız açı şartına bakılmış, 6 + 8 = 14 < 15 olduğu için bu kenarla üçgen çizilemez."
+    }
+   ],
+   "cevap": "12",
+   "kabul_edilenler": [
+    "12 cm"
+   ],
+   "ipuclari": [
+    "90°'den büyük açı üçgende hangi açıdır? Karşısındaki kenar için ne söylenebilir?",
+    "Üçgende 90° ya da daha büyük bir açı varsa öbür iki açı küçük kalır. En büyük açı odur; karşısındaki kenar en uzun kenardır. Ayrıca bir kenar öbür ikisinin toplamından küçüktür.",
+    "Geniş açı A'da, karşısı BC. Önce |BC|'nin 8 cm ile nasıl karşılaştırılacağını yaz."
+   ],
+   "cozum_adimlari": [
+    "1. m(BAC) > 90° olduğundan öbür iki açının toplamı 90°'den azdır.",
+    "2. A açısı en büyük açıdır, karşısındaki BC en uzun kenardır: |BC| > 8.",
+    "3. Üçgen eşitsizliği: |BC| < 6 + 8 = 14.",
+    "4. |BC| 8 ile 14 arasında olmalıdır. Bu iki şart gereklidir; seçeneklerden yalnız 12 ikisini de sağlar.",
+    "5. Kontrol (üçgen eşitsizliği ile): 6 + 8 = 14 > 12, 6 + 12 = 18 > 8, 8 + 12 = 20 > 6. Üçgen çizilebilir.",
+    "6. Kontrol (sıra ile): 12, 6 ve 8'den uzun. En uzun kenar geniş açının karşısında."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aci_kenar_eslesme",
+    "aralik_uc",
+    "ucgen_esitsizligi_atlama"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.197 (ölçme 7b: kalemler, 90°'den büyük açı, uyarlandı), s.185-186, s.190 (Kontrol Noktası)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57)",
+    "kart": "b8"
+   },
+   "dogrula": [
+    "Bilgi notu: Çözüm 9.3.1 kapsamına uygun olarak yalnız gerekli şartları (|BC| > 8 ve |BC| < 14) kullanır (docs/dogrula.md #34). Yazar kontrolü (9.4.4 bilgisi, öğrenciye gösterilmez): 12 cm'lik kenarla A açısı gerçekten geniş olur (12² = 144 > 6² + 8² = 100). Üreteç notu: geniş açı şartıyla tam sayı sayımı sorulmaz, gerçek sınır |BC| > 10'dur."
+   ]
+  },
+  {
+   "id": "matematik-u3-k1-s013",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "a",
+   "tip": "coktan",
+   "zorluk": 1,
+   "puan": null,
+   "baglam": "Gölcük'teki bir okulda öğrenciler renkli çubuklarla üçgen kuruyor (sayılar kurgusaldır). Her öğrenci üç çubuk seçip uçlarını birleştirmeye çalışıyor.",
+   "kok": "Buna göre aşağıdaki çubuk üçlülerinden hangisiyle bir üçgen kurulabilir?",
+   "secenekler": [
+    {
+     "metin": "7 cm, 8 cm, 14 cm",
+     "dogru": true
+    },
+    {
+     "metin": "3 cm, 5 cm, 8 cm",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "3 + 5 = 8, toplam en uzun çubuğa eşit olunca çubuklar düz yatar, üçgen için toplam daha büyük olmalı."
+    },
+    {
+     "metin": "4 cm, 6 cm, 11 cm",
+     "dogru": false,
+     "hata_turu": "ucgen_esitsizligi_atlama",
+     "aciklama": "4 + 6 = 10, 11'den küçük, kısa çubuklar en uzun çubuğun iki ucuna yetişmez."
+    },
+    {
+     "metin": "6 cm, 6 cm, 13 cm",
+     "dogru": false,
+     "hata_turu": "ucgen_esitsizligi_atlama",
+     "aciklama": "İki çubuğun eşit olması üçgeni garanti etmez, iki kısa çubuğun toplamı 6 + 6 = 12, 13'ten küçük."
+    }
+   ],
+   "cevap": "7 cm, 8 cm, 14 cm",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Her üçlüde en uzun çubuğa bak.",
+    "Öbür iki çubuğun toplamı en uzun çubuktan büyük olmalı. Eşitlik yetmez.",
+    "3, 5, 8 üçlüsünde en uzun çubuk 8. 3 + 5 işlemini yap ve 8 ile karşılaştır, sonra öbür üçlülere aynı yolu uygula."
+   ],
+   "cozum_adimlari": [
+    "1. 3, 5, 8: 3 + 5 = 8, toplam eşit, büyük değil. Üçgen olmaz.",
+    "2. 4, 6, 11: 4 + 6 = 10 < 11. Üçgen olmaz.",
+    "3. 6, 6, 13: 6 + 6 = 12 < 13. Üçgen olmaz.",
+    "4. 7, 8, 14: 7 + 8 = 15 > 14. Üçgen kurulabilir.",
+    "5. Kontrol (öbür iki eşitsizlik): 7 + 14 = 21 > 8 ve 8 + 14 = 22 > 7.",
+    "6. Kontrol (fark yolu): 14 − 8 = 6 < 7 < 22 = 14 + 8. Sonuç tutarlı."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "ucgen_esitsizligi_atlama"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.186-187 (5. Uygulama: renkli çubuklar), s.190 (Kontrol Noktası)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a (program s.57, 58, 59: üç çubukla üçgen oluşturma)",
+    "kart": "b9"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s014",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Gölcük'teki bir tersanede bir usta, çelik çubukları uç uca kaynatarak üçgen destek yapacak (sayılar kurgusaldır). Elinde 3 m, 4 m, 6 m ve 9 m uzunluğunda birer çubuk var.",
+   "kok": "Buna göre usta bu çubuklardan herhangi üçünü kullanarak kaç farklı üçgen destek yapabilir?",
+   "secenekler": [
+    {
+     "metin": "1",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "(4, 6, 9) üçlüsü atlanmış, 4 + 6 = 10 > 9 olduğu için o da üçgen olur."
+    },
+    {
+     "metin": "2",
+     "dogru": true
+    },
+    {
+     "metin": "3",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "(3, 6, 9)'da 3 + 6 = 9, toplam eşit olunca çubuklar düz yatar, üçgen olmaz."
+    },
+    {
+     "metin": "4",
+     "dogru": false,
+     "hata_turu": "ucgen_esitsizligi_atlama",
+     "aciklama": "Dört üçlünün hepsi denenmeden sayılmış, (3, 4, 9)'da 3 + 4 = 7, 9 m'lik çubuğa yetişmez."
+    }
+   ],
+   "cevap": "2",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Dört çubuktan seçilebilecek bütün üçlüleri yaz.",
+    "Her üçlüde iki kısa çubuğun toplamını en uzun çubukla karşılaştır. Eşitlik yetmez.",
+    "Üçlüler: (3, 4, 6), (3, 4, 9), (3, 6, 9), (4, 6, 9). İlki için 3 + 4 işlemini yap ve 6 ile karşılaştır."
+   ],
+   "cozum_adimlari": [
+    "1. Dört çubuktan dört farklı üçlü seçilir: (3, 4, 6), (3, 4, 9), (3, 6, 9), (4, 6, 9).",
+    "2. (3, 4, 6): 3 + 4 = 7 > 6, üçgen olur.",
+    "3. (3, 4, 9): 3 + 4 = 7 < 9, üçgen olmaz.",
+    "4. (3, 6, 9): 3 + 6 = 9, toplam eşit, üçgen olmaz.",
+    "5. (4, 6, 9): 4 + 6 = 10 > 9, üçgen olur.",
+    "6. Usta 2 farklı üçgen destek yapabilir.",
+    "7. Kontrol (çizim fikri ile): (3, 6, 9)'da 3 m ve 6 m'lik çubuklar yan yana tam 9 m eder. Uçlar buluşur ama düz bir çizgi oluşur.",
+    "8. Kontrol (çizim fikri ile): (4, 6, 9)'da 4 + 6 = 10, 9'dan uzun. Uçlar çizginin dışında buluşur, üçgen oluşur."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "ucgen_esitsizligi_atlama",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.186-187 (5. Uygulama: renkli çubuklarla kaç farklı üçgen), s.197 (ölçme 7a: kalemler, uyarlandı)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57, 59: üç çubukla üçgen oluşturma)",
+    "kart": "b9"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s015",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 2,
+   "puan": null,
+   "baglam": "Kocaeli'deki bir limanda iskele, şamandıra ve fener aynı doğru üzerinde değildir (sayılar kurgusaldır). İskele ile şamandıra arası 6 km, iskele ile fener arası 11 km'dir.",
+   "kok": "Buna göre şamandıra ile fener arasındaki uzaklık kilometre cinsinden kaç farklı tam sayı değeri alabilir?",
+   "secenekler": [
+    {
+     "metin": "11",
+     "dogru": true
+    },
+    {
+     "metin": "12",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "17 − 5 = 12 işlemi bir ucu da sayar, uçlar hariç olduğu için 6'dan 16'ya sayılır."
+    },
+    {
+     "metin": "13",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "5 ve 17 de sayılmış, bu uzunluklarda üç nokta aynı doğru üzerine düşer ve üçgen olmaz."
+    },
+    {
+     "metin": "16",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "Yalnız toplam sınırı kullanılmış, üçüncü kenar farktan, yani 5 km'den de uzun olmalı."
+    }
+   ],
+   "cevap": "11",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "Üçüncü kenar iki sınır arasındadır: biri farktan, biri toplamdan gelir.",
+    "Aralığı yaz, sınırların dâhil olup olmadığına bak, aradaki tam sayıları say.",
+    "Fark 11 − 6 = 5. Şimdi toplamı bul ve aralığı yaz."
+   ],
+   "cozum_adimlari": [
+    "1. Şamandıra ile fener arası x km olsun. İskele, şamandıra ve fener bir üçgenin köşeleridir.",
+    "2. Fark: 11 − 6 = 5.",
+    "3. Toplam: 11 + 6 = 17.",
+    "4. Aralık: 5 < x < 17. Sınırlar dâhil değildir.",
+    "5. Tam sayılar: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16.",
+    "6. Tek tek say: 6 (1), 7 (2), 8 (3), 9 (4), 10 (5), 11 (6), 12 (7), 13 (8), 14 (9), 15 (10), 16 (11). 11 tane.",
+    "7. Kontrol 1 (alt sınır): x = 5 dene. 5 + 6 = 11, 11 > 11 değil. 5 sayılmaz.",
+    "8. Kontrol 2 (üst sınır): x = 17 dene. 6 + 11 = 17, 17 > 17 değil. 17 sayılmaz.",
+    "9. Kontrol 3 (içeriden değer): x = 6 dene. 6 + 6 = 12 > 11. 6 sayılır.",
+    "10. Kontrol 4 (içeriden değer): x = 16 dene. 6 + 11 = 17 > 16. 16 sayılır. Sayım doğru."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aralik_uc",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.187 (10. Örnek: üç ev, 4 < x < 18), s.190 (Kontrol Noktası)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57, 58)",
+    "kart": "b10"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s016",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "coktan",
+   "zorluk": 3,
+   "puan": null,
+   "baglam": "ABC üçgeninde |BC| = 12 cm, |AC| = 9 cm, |AB| = x ve m(ACB) > m(ABC)'dir.",
+   "kok": "Buna göre x'in alabileceği kaç farklı tam sayı değeri vardır?",
+   "secenekler": [
+    {
+     "metin": "11",
+     "dogru": true
+    },
+    {
+     "metin": "8",
+     "dogru": false,
+     "hata_turu": "aci_kenar_eslesme",
+     "aciklama": "B açısının karşısı BC değil, AC'dir, şart x > 12 değil x > 9 olur."
+    },
+    {
+     "metin": "17",
+     "dogru": false,
+     "hata_turu": "eksik_adim",
+     "aciklama": "Açı bilgisi kullanılmamış, m(ACB) > m(ABC) şartı x'i 9'dan büyük olmaya zorlar."
+    },
+    {
+     "metin": "12",
+     "dogru": false,
+     "hata_turu": "aralik_uc",
+     "aciklama": "9 da sayılmış, x = 9 olursa iki açı eşit olur, büyük değil."
+    }
+   ],
+   "cevap": "11",
+   "kabul_edilenler": [],
+   "ipuclari": [
+    "İki bilgi var: üçgen eşitsizliği ve açı bilgisi. İkisi de x'e sınır koyar.",
+    "Önce üçgen eşitsizliğiyle aralığı yaz. Sonra iki açının karşı kenarlarını bul. Büyük açı karşısında büyük kenar kuralını uygula. En son iki şartın kesişimini al.",
+    "Fark 12 − 9 = 3, toplam 12 + 9 = 21. Şimdi C açısının karşısındaki kenarı bul."
+   ],
+   "cozum_adimlari": [
+    "1. Üçgen eşitsizliği, fark: 12 − 9 = 3.",
+    "2. Toplam: 12 + 9 = 21.",
+    "3. 3 < x < 21.",
+    "4. C açısının karşısındaki kenar AB = x, B açısının karşısındaki kenar AC = 9.",
+    "5. m(ACB) > m(ABC) olduğundan büyük açı karşısında büyük kenar: x > 9.",
+    "6. İki şartın kesişimi: 9 < x < 21.",
+    "7. Tam sayılar: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.",
+    "8. Tek tek say: 10 (1), 11 (2), 12 (3), 13 (4), 14 (5), 15 (6), 16 (7), 17 (8), 18 (9), 19 (10), 20 (11). 11 tane.",
+    "9. Kontrol 1 (alt sınır): x = 9 olsaydı |AB| = |AC| olurdu. C ve B açıları eşit çıkardı. Oysa C büyük, 9 sayılmaz.",
+    "10. Kontrol 2 (üst sınır): x = 21 dene. 12 + 9 = 21, 21 > 21 değil. 21 sayılmaz.",
+    "11. Kontrol 3 (içeriden değer): x = 20 dene. 12 + 9 = 21 > 20 ve 20 > 9. İki şart da sağlanıyor."
+   ],
+   "rubrik": null,
+   "hata_turu": [
+    "aci_kenar_eslesme",
+    "eksik_adim",
+    "aralik_uc"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.194 (Alıştırma 8: |BC| = 11, |AC| = 8, m(BAC) > m(ACB), sayılar ve açı çifti değiştirilerek uyarlandı), s.196 (ölçme 4), s.188 (11. Örnek: kesişim)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç b (program s.57, 58)",
+    "kart": "b10, b11"
+   },
+   "dogrula": []
+  },
+  {
+   "id": "matematik-u3-k1-s017",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "acik",
+   "zorluk": 2,
+   "puan": 10,
+   "baglam": "Gölcük'teki bir tersanede bir vinç çalışıyor (sayılar kurgusaldır). Vinç kolu AB, çelik halat AC ve zemin BC bir üçgen oluşturuyor. A üstte (kolun ucu), B sol altta (kolun dibi), C sağ altta. Zemin çizgisi C'den sağa, D noktasına uzatılıyor. m(BAC) = 2x + 5°, m(ABC) = x + 20° ve m(ACD) = 4x − 15°'dir.",
+   "kok": "Buna göre işlemlerinizi göstererek aşağıdakileri cevaplayınız.\na) x'i gerekçesini yazarak bulunuz.\nb) Üçgenin iç açılarının ölçülerini bulunuz.\nc) Vinç kolu, halat ve zemin uzunluklarını büyükten küçüğe sıralayınız.\nç) Sonuçlarınızı iç açılar toplamı ve açı-kenar eşleşmesiyle kontrol ediniz. (10 puan)",
+   "secenekler": null,
+   "cevap": "a) Dış açı, komşu olmayan iki iç açının toplamıdır: 4x − 15° = (2x + 5°) + (x + 20°), 4x − 15° = 3x + 25°, x = 40°. b) m(BAC) = 85°, m(ABC) = 60°, m(ACD) = 145° olduğundan m(ACB) = 35°. c) m(BAC) > m(ABC) > m(ACB) olduğundan |BC| > |AC| > |AB|: zemin > halat > vinç kolu. ç) 85 + 60 + 35 = 180 ve 145 + 35 = 180. BC'de A, AC'de B, AB'de C harfi geçmiyor, eşleme doğru.",
+   "kabul_edilenler": [
+    "x = 40",
+    "|BC| > |AC| > |AB|",
+    "zemin > halat > vinç kolu"
+   ],
+   "ipuclari": [
+    "ACD bir dış açı. Ona komşu olmayan iki iç açıyı bul.",
+    "Dış açıyı komşu olmayan iki iç açının toplamına eşitle ve x'i bul. Sonra açıları sırala ve her açının karşı kenarını yaz.",
+    "Komşu olmayan açılar A ve B köşelerinde: 4x − 15° = (2x + 5°) + (x + 20°) yaz. Sağ taraftaki x'leri topla. Kontrol için üç iç açıyı topla ve her kenarda karşı köşenin harfinin geçmediğine bak."
+   ],
+   "cozum_adimlari": [
+    "1. a) Gerekçe: Dış açı, kendisine komşu olmayan iki iç açının toplamına eşittir.",
+    "2. ACD dış açısı C köşesindedir. Komşu olmayan iç açılar m(BAC) ve m(ABC)'dir.",
+    "3. 4x − 15° = (2x + 5°) + (x + 20°).",
+    "4. Sağ tarafı topla: 4x − 15° = 3x + 25°.",
+    "5. İki taraftan 3x çıkar: x − 15° = 25°.",
+    "6. İki tarafa 15° ekle: x = 40°.",
+    "7. b) m(BAC) = 2 · 40 + 5 = 85°.",
+    "8. m(ABC) = 40 + 20 = 60°.",
+    "9. m(ACD) = 4 · 40 − 15 = 145°.",
+    "10. m(ACB) = 180° − 145° = 35°.",
+    "11. c) Açı sırası: m(BAC) > m(ABC) > m(ACB), yani 85° > 60° > 35°.",
+    "12. Karşı kenarlar: A'nın karşısı BC (zemin), B'nin karşısı AC (halat), C'nin karşısı AB (vinç kolu).",
+    "13. Kenar sırası: |BC| > |AC| > |AB|, yani zemin > halat > vinç kolu.",
+    "14. ç) Kontrol (açı toplamı ile): 85 + 60 + 35 = 180, toplam tuttu.",
+    "15. Kontrol (doğru açı ile): 145 + 35 = 180. Dış açı ile komşu iç açı tutarlı.",
+    "16. Kontrol (harf kuralı ile): BC'de A, AC'de B, AB'de C harfi geçmiyor. En büyük açının karşısında en uzun kenar var."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) Gerekçeyi yazıp 4x − 15° = (2x + 5°) + (x + 20°) denklemini kurma (komşu olmayan iki iç açıyı doğru seçme).",
+     "puan": 2
+    },
+    {
+     "olcut": "a) Denklemi çözüp x = 40° bulma.",
+     "puan": 2
+    },
+    {
+     "olcut": "b) Üç iç açıyı bulma: 85°, 60°, 35° (üçü doğruysa 2 puan, ikisi doğruysa 1 puan).",
+     "puan": 2
+    },
+    {
+     "olcut": "c) Her açının karşı kenarını eşleyip |BC| > |AC| > |AB| sıralamasını yazma (zemin > halat > vinç kolu ya da bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    },
+    {
+     "olcut": "ç) Kontrol: iç açılar toplamının 180° olduğunu ve açı-kenar eşleşmesinin tutarlı olduğunu gösterme (her biri 1 puan).",
+     "puan": 2
+    }
+   ],
+   "puanlama_notu": "Dış açıya bitişik m(ACB)'yi toplamaya katan öğrenci (dis_aci_komsu) kurulum ölçütünün puanını alamaz. x'i başka bir yoldan bulan öğrenci tam puan alır: m(ACB) = 180° − (4x − 15°) yazıp üç iç açıyı 180°'e eşitlemek de x = 40° verir. Açılar yanlış bulunup sıralama bu açılarla tutarlı yapılırsa c) puanı verilir. Kenarlar ters sıralanırsa ya da bir açı kendi köşesinden çıkan kenarla eşlenirse (aci_kenar_eslesme) c) puanı verilmez.",
+   "hata_turu": [
+    "dis_aci_komsu",
+    "aci_kenar_eslesme",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.178-179 (3. Uygulama, 3. Örnek: dış açı teoremi), s.184-185 (4. Uygulama: açı-kenar bağıntısı), s.190 (Kontrol Noktası)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a, b (program s.57, 58)",
+    "kart": "b5, b7"
+   },
+   "dogrula": [
+    "DOĞRULA: Rubrik puan dağılımı ve Kontrol adımına verilen puan bizim önerimizdir, ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #36)."
+   ]
+  },
+  {
+   "id": "matematik-u3-k1-s018",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "b",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "Kocaeli'deki bir limanda rıhtımdaki A ve B bağlama direkleri arası 9 m'dir (sayılar kurgusaldır). A solda, B sağda, teknenin C halkası denizde, rıhtımın önündedir. C'den A'ya 14 m, B'ye x m uzunluğunda halat geriliyor. Rıhtım ve halatlar ABC üçgenini oluşturuyor. A direğindeki açı, C halkasındaki açıdan küçüktür: m(BAC) < m(ACB).",
+   "kok": "Buna göre işlemlerinizi göstererek aşağıdakileri cevaplayınız.\na) Üçgen eşitsizliğine göre x'in aralığını bulunuz.\nb) Açı bilgisini kullanarak aralığı daraltınız.\nc) x'in alabileceği tam sayı değerlerini yazınız.\nç) x en büyük tam sayı değerini aldığında üçgenin iç açılarını büyükten küçüğe sıralayınız.\nd) Bulduğunuz aralığın iki sınırını ve ç şıkkındaki üçgeni kontrol ediniz. (15 puan)",
+   "secenekler": null,
+   "cevap": "a) 14 − 9 = 5, 14 + 9 = 23, 5 < x < 23. b) A açısının karşısı BC = x, C açısının karşısı AB = 9. m(BAC) < m(ACB) olduğundan x < 9. Kesişim 5 < x < 9. c) 6, 7, 8. ç) x = 8 için |AC| = 14 > |AB| = 9 > |BC| = 8, yani m(ABC) > m(ACB) > m(BAC). d) x = 9 olsaydı |BC| = |AB| olur, A ve C açıları eşit çıkardı, 9 hariç. x = 5 için 5 + 9 = 14, toplam eşit, üç nokta aynı doğru üzerine düşer, 5 hariç. x = 8 için 8 + 9 = 17 > 14, 8 + 14 = 22 > 9, 9 + 14 = 23 > 8, üçgen çizilebilir ve m(BAC) en küçük açı, şartla tutarlı.",
+   "kabul_edilenler": [
+    "5 < x < 9",
+    "6, 7, 8",
+    "m(ABC) > m(ACB) > m(BAC)"
+   ],
+   "ipuclari": [
+    "Önce yalnız uzunluklara bak, sonra açı bilgisini ekle.",
+    "Üçgen eşitsizliği farktan büyük, toplamdan küçük der. Sonra A ve C açılarının karşı kenarlarını bul ve iki şartın kesişimini al.",
+    "Fark 14 − 9 = 5. Şimdi toplamı bul ve ilk aralığı yaz. Kontrol için her sınırı yerine koyup hangi şartın bozulduğuna bak."
+   ],
+   "cozum_adimlari": [
+    "1. a) Fark: 14 − 9 = 5.",
+    "2. Toplam: 14 + 9 = 23.",
+    "3. 5 < x < 23.",
+    "4. b) A açısının karşısındaki kenar BC = x, C açısının karşısındaki kenar AB = 9.",
+    "5. m(BAC) < m(ACB) olduğundan küçük açı karşısında küçük kenar: x < 9.",
+    "6. İki şartın kesişimi: 5 < x < 9.",
+    "7. c) Sınırlar dâhil değil. Tam sayılar: 6, 7, 8.",
+    "8. Tek tek say: 6 (1), 7 (2), 8 (3). 3 tane.",
+    "9. ç) En büyük tam sayı değeri x = 8.",
+    "10. Kenar sırası: |AC| = 14 > |AB| = 9 > |BC| = 8.",
+    "11. Karşı açılar: AC'nin karşısı B, AB'nin karşısı C, BC'nin karşısı A.",
+    "12. Açı sırası: m(ABC) > m(ACB) > m(BAC).",
+    "13. d) Kontrol 1 (üst sınır): x = 9 olsaydı |BC| = |AB| olurdu.",
+    "14. O zaman A ve C açıları eşit çıkardı. Şart \"küçük\" dediği için 9 sayılmaz.",
+    "15. Kontrol 2 (alt sınır): x = 5 dene. 5 + 9 = 14, toplam eşit, büyük değil.",
+    "16. Üç nokta aynı doğru üzerine düşer. 5 sayılmaz.",
+    "17. Kontrol 3 (çizilebilirlik): x = 8 için 8 + 9 = 17 > 14, 8 + 14 = 22 > 9, 9 + 14 = 23 > 8.",
+    "18. Üçgen çizilebilir. m(BAC) en küçük açı, verilen şartla tutarlı."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) Fark ve toplamı bulup 5 < x < 23 aralığını yazma.",
+     "puan": 3
+    },
+    {
+     "olcut": "b) A açısının karşısını BC = x, C açısının karşısını AB = 9 olarak eşleyip x < 9 şartını yazma.",
+     "puan": 3
+    },
+    {
+     "olcut": "b) İki şartın kesişimini 5 < x < 9 olarak yazma.",
+     "puan": 2
+    },
+    {
+     "olcut": "c) Tam sayı değerlerini 6, 7, 8 olarak yazma.",
+     "puan": 2
+    },
+    {
+     "olcut": "ç) x = 8 için açıları m(ABC) > m(ACB) > m(BAC) olarak sıralama (B > C > A gösterimi ya da bu anlama gelen ifadeler kabul edilir).",
+     "puan": 2
+    },
+    {
+     "olcut": "d) Kontrol: 9 sınırının açı şartı yüzünden, 5 sınırının üçgen eşitsizliği yüzünden hariç olduğunu gösterme ve x = 8 için üç eşitsizliği yazma (her biri 1 puan).",
+     "puan": 3
+    }
+   ],
+   "puanlama_notu": "Aralığı 5 ≤ x ≤ 23 ya da 5 < x ≤ 9 gibi eşitlik dâhil yazan öğrenci (aralik_uc) ilgili aralık ölçütünün puanını alamaz, toplama ya da farka eşit kenar üçgen oluşturmaz. Açı şartından x > 9 bulan öğrenci (aci_kenar_eslesme) b) eşleme ölçütünün puanını alamaz, sonraki adımlar bu sonuçla tutarlıysa onların puanları verilir. Yalnız x < 9 yazıp alt sınır 5'i kesişime almayan öğrenci (ucgen_esitsizligi_atlama) kesişim ölçütünün puanını alamaz. Tam sayılara 5 ya da 9'u katan öğrenci c) puanını alamaz.",
+   "hata_turu": [
+    "aralik_uc",
+    "aci_kenar_eslesme",
+    "ucgen_esitsizligi_atlama"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.187-188 (10.-11. Örnek), s.190 (Kontrol Noktası), s.194 (Alıştırma 8), s.196 (ölçme 4)",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a, b (program s.57, 58)",
+    "kart": "b8, b9, b10, b11"
+   },
+   "dogrula": [
+    "DOĞRULA: Rubrik puan dağılımı ve Kontrol adımına verilen puan bizim önerimizdir, ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #36)."
+   ]
+  },
+  {
+   "id": "matematik-u3-k1-s019",
+   "konu_id": "matematik-u3-k1",
+   "ogrenme_ciktisi": "9.3.1",
+   "surec": "a",
+   "tip": "acik",
+   "zorluk": 3,
+   "puan": 15,
+   "baglam": "ABC üçgeninde A üstte, B sol altta, C sağ altta. BC kenarı C'den sağa doğru D noktasına uzatılıyor. ACD açısı C köşesindeki dış açıdır.",
+   "kok": "Buna göre aşağıdakileri cevaplayınız.\na) m(ACD) = m(BAC) + m(ABC) olduğunu her adımın gerekçesini yazarak ispatlayınız.\nb) Deniz, bu kuralı açıölçerle 4 üçgende ölçüp doğruladıktan sonra \"Kural ispatlandı.\" diyor. Deniz'in vardığı sonuç doğru mudur? Nedenini yazınız.\nc) m(ACD) = 5x − 10°, m(BAC) = 2x + 15° ve m(ABC) = x + 35° ise x'i ve m(ACB)'yi işlemlerinizi göstererek bulunuz.\nç) c şıkkındaki sonucu iç açılar toplamıyla ve aynı köşedeki iç ve dış açının toplamıyla kontrol ediniz. (15 puan)",
+   "secenekler": null,
+   "cevap": "a) İç açılar toplamı: m(BAC) + m(ABC) + m(ACB) = 180°. C'de iç ve dış açı doğru açı oluşturur: m(ACB) + m(ACD) = 180°. İki toplam da 180°'dir; o hâlde birbirine eşittir: m(BAC) + m(ABC) + m(ACB) = m(ACB) + m(ACD). İki yandan m(ACB) çıkarılır: m(BAC) + m(ABC) = m(ACD). b) Deniz'in vardığı sonuç doğru değildir. 4 üçgendeki ölçüm bir doğrulamadır, ispat değildir. İspat, a şıkkındaki gibi her üçgende geçerli genel bir yolla yapılır. c) 5x − 10° = (2x + 15°) + (x + 35°), 5x − 10° = 3x + 50°, 2x = 60°, x = 30°. m(ACD) = 140°, m(ACB) = 180° − 140° = 40°. ç) m(BAC) = 75°, m(ABC) = 65°, 75 + 65 + 40 = 180 ve 140 + 40 = 180.",
+   "kabul_edilenler": [
+    "x = 30",
+    "m(ACB) = 40°"
+   ],
+   "ipuclari": [
+    "İspat için bilinen iki kural yeter: biri üçgenin içi, biri düz çizgi için.",
+    "İki eşitlik yaz: iç açılar toplamı ve C köşesindeki doğru açı. Sonra iki eşitliği birleştirmenin yolunu düşün. b şıkkı için ölçmenin kaç üçgeni kapsadığını düşün.",
+    "Birinci eşitlik: m(BAC) + m(ABC) + m(ACB) = 180°. Şimdi C'deki iç ve dış açının toplamını yaz. Kontrol için c şıkkında bulduğun x'i üç açıya da koy."
+   ],
+   "cozum_adimlari": [
+    "1. a) Gerekçe 1, iç açılar toplamı: m(BAC) + m(ABC) + m(ACB) = 180°.",
+    "2. Gerekçe 2, C'de iç ve dış açı doğru açı oluşturur: m(ACB) + m(ACD) = 180°.",
+    "3. Gerekçe 3: İki toplam da 180°'dir; o hâlde birbirine eşittir.",
+    "4. m(BAC) + m(ABC) + m(ACB) = m(ACB) + m(ACD).",
+    "5. İki yandan m(ACB)'yi çıkar: m(BAC) + m(ABC) = m(ACD).",
+    "6. b) Deniz'in vardığı sonuç doğru değildir.",
+    "7. Neden: 4 üçgendeki ölçüm yalnız o üçgenler için bir doğrulamadır. Kural her üçgen için a şıkkındaki genel yolla ispatlanır.",
+    "8. c) İspatlanan kural: 5x − 10° = (2x + 15°) + (x + 35°).",
+    "9. Sağ tarafı topla: 5x − 10° = 3x + 50°.",
+    "10. İki taraftan 3x çıkar: 2x − 10° = 50°.",
+    "11. İki tarafa 10° ekle: 2x = 60°.",
+    "12. İki tarafı 2'ye böl: x = 30°.",
+    "13. m(ACD) = 5 · 30 − 10 = 140°.",
+    "14. m(ACB) = 180° − 140° = 40°.",
+    "15. ç) Kontrol (açıları bul): m(BAC) = 2 · 30 + 15 = 75°, m(ABC) = 30 + 35 = 65°.",
+    "16. Kontrol (açı toplamı ile): 75 + 65 + 40 = 180, toplam tuttu.",
+    "17. Kontrol (doğru açı ile): m(ACD) + m(ACB) = 140 + 40 = 180, tuttu.",
+    "18. Kontrol (dış açı kuralı ile): 75 + 65 = 140, kural da tuttu."
+   ],
+   "rubrik": [
+    {
+     "olcut": "a) İç açılar toplamı eşitliğini yazma: m(BAC) + m(ABC) + m(ACB) = 180°.",
+     "puan": 1
+    },
+    {
+     "olcut": "a) Bu eşitliğin gerekçesini yazma (üçgenin iç açılarının ölçüleri toplamı 180°'dir ya da bu anlama gelen ifadeler kabul edilir).",
+     "puan": 1
+    },
+    {
+     "olcut": "a) C köşesindeki doğru açı eşitliğini yazma: m(ACB) + m(ACD) = 180°.",
+     "puan": 1
+    },
+    {
+     "olcut": "a) Bu eşitliğin gerekçesini yazma (C'deki iç ve dış açı doğru açı oluşturur ya da bu anlama gelen ifadeler kabul edilir).",
+     "puan": 1
+    },
+    {
+     "olcut": "a) İki eşitliği birleştirip iki yandan m(ACB)'yi çıkararak m(ACD) = m(BAC) + m(ABC) sonucunu yazma.",
+     "puan": 1
+    },
+    {
+     "olcut": "a) Birleştirme gerekçesini yazma (iki toplam da 180° olduğu için birbirine eşittir, ortak açı iki yandan çıkarılır ya da bu anlama gelen ifadeler kabul edilir).",
+     "puan": 1
+    },
+    {
+     "olcut": "b) Deniz'in vardığı sonucun doğru olmadığını yazma.",
+     "puan": 1
+    },
+    {
+     "olcut": "b) Nedenini yazma: ölçüm yalnız ölçülen üçgenler için doğrulamadır, ispat her üçgeni kapsayan genel bir yol gerektirir (bu anlama gelen ifadeler kabul edilir).",
+     "puan": 1
+    },
+    {
+     "olcut": "c) Dış açı kuralını kullanacağını belirtip komşu olmayan iki iç açıyı seçme.",
+     "puan": 1
+    },
+    {
+     "olcut": "c) Denklemi kurma: 5x − 10° = (2x + 15°) + (x + 35°).",
+     "puan": 1
+    },
+    {
+     "olcut": "c) x = 30° bulma.",
+     "puan": 1
+    },
+    {
+     "olcut": "c) m(ACB) = 40° bulma.",
+     "puan": 1
+    },
+    {
+     "olcut": "ç) Kontrol: m(BAC) = 75° ve m(ABC) = 65° değerlerini hesaplama.",
+     "puan": 1
+    },
+    {
+     "olcut": "ç) Kontrol: iç açılar toplamının 75 + 65 + 40 = 180 olduğunu gösterme.",
+     "puan": 1
+    },
+    {
+     "olcut": "ç) Kontrol: aynı köşedeki iç ve dış açının toplamının 140 + 40 = 180 olduğunu gösterme.",
+     "puan": 1
+    }
+   ],
+   "puanlama_notu": "a) şıkkında ispat paralel doğru çizerek de yapılabilir (kitap s.184 Kontrol Noktası). C'den AB'ye paralel çizip açı eşitliklerini gerekçesiyle yazan öğrenci a) şıkkının 6 puanını alır, puanlar aynı biçimde eşitlik ve gerekçe olarak bölünür. Eşitliği doğru yazıp gerekçesini yazmayan öğrenci yalnız o eşitliğin gerekçe puanını kaybeder. Belirli sayılarla (ör. 50°, 60°, 70°) yapılan gösterim ispat sayılmaz (tek_ornekle_ispat), a) şıkkından puan almaz. b) şıkkında yalnız \"doğru değildir\" yazıp neden yazmayan öğrenci 1 puan alır. c) şıkkında dış açıya bitişik m(ACB)'yi toplamaya katan öğrenci (dis_aci_komsu) seçme puanını alamaz. Dış açı seçimi yanlışsa ama kurulum seçilen açıyla tutarlıysa kurulum puanı verilir. x yanlış bulunup m(ACB) bu x ile tutarlı hesaplanırsa m(ACB) puanı verilir. ç) şıkkında iki kontrolün her biri ayrı puanlanır.",
+   "hata_turu": [
+    "tek_ornekle_ispat",
+    "dis_aci_komsu",
+    "eksik_adim"
+   ],
+   "kaynak": {
+    "kitap": "matematik-1kitap s.178 (3. Uygulama: dış açı teoreminin ispat tablosu), s.184 (Kontrol Noktası: paralel doğruyla ispat), s.174-175",
+    "ogrenme_ciktisi": "9.3.1",
+    "program": "MAT.9.3.1 süreç a, b (program s.57, s.58: dış açı teoremi iç ve dış açılarla ilgili ispatlardan yararlanılarak ispatlanır)",
+    "kart": "b2, b5"
+   },
+   "dogrula": [
+    "DOĞRULA: Rubrik puan dağılımı ve Kontrol adımına verilen puan bizim önerimizdir, ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #36)."
+   ]
+  }
+ ]
+}

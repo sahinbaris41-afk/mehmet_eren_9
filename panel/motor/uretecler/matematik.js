@@ -2503,4 +2503,711 @@
     for (let c = P; c <= Q; c++) if (c - P === Q - c) return eY(c, c - P, inc ? "≤" : "<");
     return "YOK";
   });
+  // =====================================================================
+  // 9.3.1 · Üçgende açı ve kenar ilişkileri (matematik-u3-k1)
+  // =====================================================================
+  // Terimler kartla aynı: "iç açı", "dış açı", "doğru açı", "komşu olmayan iç açı", "karşı kenar", "üçgen eşitsizliği",
+  // "toplam sınırı / fark sınırı", "kesişim", "dâhil". Gösterim m(BAC), |AB|; açılar tam sayı derece, kenarlar tam sayı.
+  // Kapsam yalnız açı toplamları, dış açı kuralı, üçgen eşitsizliği ve açı-kenar sıralaması; kenar karesi ve karekök yok.
+  // Çakışma: yanlış değerleri birbirine ya da doğruya eşit çıkan örnek yeniden çekilir (açıklaması kaybolan şık olmaz).
+  const kayitU3 = (id, zorluk, sayfa, gen, kontrol) => kayit({
+    id: "mat-u3-" + id, konu_id: "matematik-u3-k1", ogrenme_ciktisi: "9.3.1", zorluk, kaynak: { kitap: KITAP, sayfa }, gen, kontrol,
+  });
+  const der = n => tam(n) + "°";
+  const top = a => a.reduce((s, v) => s + v, 0);
+  const ayri = (d, ys) => { const v = [d, ...ys.map(o => o.deger)]; return new Set(v).size === v.length; };
+  const ACI = { A: "m(BAC)", B: "m(ABC)", C: "m(ACB)" };
+  const KARSI = { A: "BC", B: "AC", C: "AB" }; // köşe → karşı kenar (köşeye değmeyen kenar)
+  const KOSE = { BC: "A", AC: "B", AB: "C" };
+  // Kendi ucundaki kenarla eşleme (aci_kenar_eslesme): iki ayrı kaydırma, ikisi de karşı kenardan farklıdır.
+  const UC1 = { A: "AB", B: "BC", C: "AC" }, UC2 = { A: "AC", B: "AB", C: "BC" };
+  const UC1_K = { AB: "A", BC: "B", AC: "C" }, UC2_K = { AC: "A", AB: "B", BC: "C" };
+
+  // ---------- x'li açı ifadeleri ----------
+  const xTerim = p => (p === 1 ? "" : p) + "x";
+  const xIfade = (p, q) => xTerim(p) + (q > 0 ? " + " + q + "°" : q < 0 ? " − " + -q + "°" : "");
+  const xPar = (p, q) => (q ? "(" + xIfade(p, q) + ")" : xIfade(p, q));
+  const yerine = (p, q, x) => (p === 1 ? String(x) : p + " · " + x) + (q > 0 ? " + " + q : q < 0 ? " − " + -q : "") + " = " + der(p * x + q);
+  const sabitler = q => { const nz = q.filter(Boolean); return nz.map((v, i) => (i === 0 ? tam(v) : (v < 0 ? "− " + -v : "+ " + v))).join(" ") + " = " + tam(top(nz)); };
+  // n açılı x'li ifade: toplam T, her açı [lo, hi] içinde, açılar farklı, sabitlerin toplamı 0 değil (işaret çeldiricisi için).
+  const xUret = (r, T, n, lo, hi) => {
+    const { rint } = R();
+    for (;;) {
+      const x = rint(r, 8, 40), p = Array.from({ length: n }, () => rint(r, 1, 4)), q = p.map(() => 5 * rint(r, -4, 8));
+      q[n - 1] = T - top(p) * x - top(q.slice(0, n - 1));
+      const a = p.map((pi, i) => pi * x + q[i]);
+      if (Math.abs(q[n - 1]) > 60 || a.some(v => v < lo || v > hi) || new Set(a).size < n || top(q) === 0) continue;
+      return { x, p, q, a };
+    }
+  };
+  // Çözüm satırları: gerekçe, denklem, x'leri topla, sayıları topla, düzenle, taşı, böl, yerine koy.
+  const xCozum = (adlar, p, q, T, gerekce) => {
+    const P = top(p), Q = top(q), X = (T - Q) / P;
+    return [
+      "Gerekçe: " + gerekce,
+      p.map((pi, i) => xPar(pi, q[i])).join(" + ") + " = " + der(T) + ".",
+      "x'leri topla: " + p.map(xTerim).join(" + ") + " = " + xTerim(P) + ".",
+      ...(q.filter(Boolean).length > 1 ? ["Sayıları topla: " + sabitler(q) + "."] : []),
+      xIfade(P, Q) + " = " + der(T) + ".",
+      (Q > 0 ? "İki taraftan " + der(Q) + " çıkar: " : "İki tarafa " + der(-Q) + " ekle: ") + xTerim(P) + " = " + der(T - Q) + ".",
+      "İki tarafı " + yonelme(P) + " böl: x = " + der(X) + ".",
+      ...adlar.map((ad, i) => ad + " = " + yerine(p[i], q[i], X) + "."),
+    ];
+  };
+  // Kuralsız: x'i 1, 2, 3, ... diye dener.
+  const xBul = (p, q, T) => { for (let x = 1; x <= 400; x++) if (top(p.map((pi, i) => pi * x + q[i])) === T) return x; return null; };
+  const tamGorunum = (lo, hi) => { const l = []; for (let v = lo + 1; v < hi; v++) l.push(v); return l.length <= 12 ? l.join(", ") : l.slice(0, 3).join(", ") + ", ..., " + l[l.length - 1]; };
+  const ucgenKontrol = (k1, k2, x) => [
+    "Kontrol: x = " + x + " için " + k1 + " + " + k2 + " = " + (k1 + k2) + " > " + x + ".",
+    "Kontrol: " + k1 + " + " + x + " = " + (k1 + x) + " > " + k2 + ".",
+    "Kontrol: " + k2 + " + " + x + " = " + (k2 + x) + " > " + k1 + "; üç eşitsizlik de sağlanıyor, üçgen çizilebilir.",
+  ];
+  // Üçgen eşitsizliği satırları (kart b10): toplam sınırı, uzun kenarla fark sınırı, birleştirme.
+  const aralikCozum = (k1, k2, x = "x") => {
+    const L = Math.max(k1, k2), S = Math.min(k1, k2);
+    return [
+      "Toplam sınırı: " + x + " < " + k1 + " + " + k2 + ", yani " + x + " < " + (k1 + k2) + ".",
+      "Fark sınırı: Bilinen kenarlardan uzun olan " + L + "; " + L + " < " + S + " + " + x + ".",
+      "İki taraftan " + S + " çıkar: " + x + " > " + (L - S) + ".",
+      "Sınırlar dâhil değildir: " + (L - S) + " < " + x + " < " + (k1 + k2) + ".",
+    ];
+  };
+  const icDeger = (k1, k2) => { for (let v = Math.abs(k1 - k2) + 1; ; v++) if (v !== k1 && v !== k2) return v; };
+  const aralikIpucu3 = (k1, k2) => "İlk adım, toplam sınırı: x, " + k1 + " + " + k2 + " toplamından küçük olmalı. Şimdi fark sınırını kur.";
+
+  // ---------- 1. İç açılar toplamı: iki açı verilir, üçüncüsü ----------
+  const IC_BAGLAM = [
+    null,
+    (A, B) => "Tersanede bir vinç kolu, kule ve çelik halat bir ABC üçgeni oluşturuyor. m(BAC) = " + der(A) + " ve m(ABC) = " + der(B) + ".",
+    (A, B) => "Halı sahada Ahmet A, Burak B ve Can C noktasında duruyor; üçü bir ABC üçgeni oluşturuyor. m(BAC) = " + der(A) + " ve m(ABC) = " + der(B) + ".",
+  ];
+  kayitU3("ic-aci", 1, "175-176, 180-181", function (r) {
+    const { rint, pick } = R();
+    for (;;) {
+      // Sınır: dik üçgen (90°), geniş açılı üçgen, üçüncü açı en küçük (20°).
+      const dik = r() < 0.35, A = dik ? 90 : 5 * rint(r, 4, 24), B = 5 * rint(r, 4, 22), C = 180 - A - B;
+      if (C < 20) continue;
+      const yelken = dik && r() < 0.5, bag = yelken ? null : pick(r, IC_BAGLAM);
+      const ys = [
+        y(der(A + B), "eksik_adim", der(A) + " + " + der(B) + " = " + der(A + B) + " bilinen iki açının toplamıdır; bunu 180°'den çıkarmak gerekir.", A + B),
+        y(der(dik ? B : A), "kavram_karisikligi", "Üçgen ikizkenar verilmemiş; üçüncü açı bir açıya eşit sayılmaz, toplamdan bulunur.", dik ? B : A),
+        y(der(180 - B), yelken ? "okuma_hatasi" : "eksik_adim", yelken ? "Direk ile bumba arasındaki 90° unutulmuş; üçgende üç açı var."
+          : "Yalnız " + der(B) + " çıkarılmış; " + der(A) + " de 180°'den çıkarılır.", 180 - B),
+      ];
+      if (!ayri(C, ys)) continue;
+      return {
+        params: { A, B },
+        baglam: yelken ? "Gölcük'teki bir yelkenlide direk, bumba (yelkenin altındaki, direğe bağlı yatay çubuk) ve halat bir üçgen oluşturuyor. "
+          + "Yelken direği güverteye (teknenin üst döşemesi) dik konumdadır; bu diklik nedeniyle direk ile bumba arasındaki açı 90° olur. "
+          + "Halat ile bumba arasındaki açı " + der(B) + "." + KURGU
+          : bag ? bag(A, B) + KURGU : null,
+        kok: yelken ? "Buna göre halat ile direk arasındaki açı kaç derecedir?"
+          : bag ? "Buna göre m(ACB) kaç derecedir?" : "ABC üçgeninde m(BAC) = " + der(A) + " ve m(ABC) = " + der(B) + " olduğuna göre m(ACB) kaç derecedir?",
+        dogru: der(C), deger: C, yanlislar: ys,
+        ipuclari: [
+          yelken ? "Üçgende üç açı var; direk ile bumba arasındaki açıya da bak. Üçgenin iç açılarının ölçüleri toplamını hatırla." : "Üçgenin iç açılarının ölçüleri toplamını hatırla.",
+          "Bilinen iki açıyı topla, sonucu 180°'den çıkar.",
+          "İlk adım: eşitliği yaz: " + der(A) + " + " + der(B) + " + ? = 180°. Şimdi bilinen iki açıyı topla.",
+        ],
+        cozum: numarala([
+          ...(yelken ? ["Bağlamda verildiği gibi direk ile bumba arasındaki açı 90°."] : []),
+          "Gerekçe: Üçgenin iç açılarının ölçüleri toplamı 180°'dir.",
+          "Bilinen iki açıyı topla: " + der(A) + " + " + der(B) + " = " + der(A + B) + ".",
+          "180°'den çıkar: 180° − " + der(A + B) + " = " + der(C) + ".",
+          (yelken ? "Halat ile direk arasındaki açı " : "m(ACB) = ") + der(C) + ".",
+          "Kontrol: " + A + " + " + B + " + " + C + " = 180; açı toplamı 180°, üçgen çizilebilir.",
+        ]),
+      };
+    }
+  }, ({ A, B }) => { for (let c = 1; c < 180; c++) if (A + B + c === 180) return der(c); return "YOK"; });
+
+  // ---------- 2. Dış açılar toplamı 360° ----------
+  const DIS_BAGLAM = [
+    {
+      bag: (e1, e2) => "Bir tekne Gölcük açıklarında üçgen bir rota izliyor. Birinci köşede " + der(e1) + ", ikinci köşede " + der(e2)
+        + " dönüyor. Üçüncü köşede de dönüp başladığı yere ilk yönüne bakarak varıyor.",
+      kok: () => "Buna göre tekne üçüncü köşede kaç derece dönmüştür?",
+    },
+    {
+      bag: (e1, e2) => "Gölcük'te bir parktaki üçgen biçimli yürüyüş yolunun iki köşesindeki dış açılar " + der(e1) + " ve " + der(e2) + ".",
+      kok: () => "Buna göre üçüncü köşedeki dış açı kaç derecedir?",
+    },
+    { bag: null, kok: (e1, e2) => "Bir ABC üçgeninde A köşesindeki dış açı " + der(e1) + ", B köşesindeki dış açı " + der(e2) + ". Buna göre C köşesindeki dış açı kaç derecedir?" },
+  ];
+  kayitU3("dis-aci-toplam", 1, "177, 178, 184", function (r) {
+    const { rint, pick } = R();
+    for (;;) {
+      const A = 5 * rint(r, 4, 24), B = 5 * rint(r, 4, 22), C = 180 - A - B;
+      if (C < 20) continue;
+      const e1 = 180 - A, e2 = 180 - B, e3 = 180 - C, T = pick(r, DIS_BAGLAM), tekne = T === DIS_BAGLAM[0];
+      const k1Ad = T.bag ? "birinci köşedeki" : "A köşesindeki", k3Ad = T.bag ? "üçüncü köşedeki" : "C köşesindeki";
+      const ys = [
+        y(der(e1 + e2), "eksik_adim", der(e1) + " + " + der(e2) + " = " + der(e1 + e2) + " bilinen iki dış açının toplamıdır; bunu 360°'den çıkarmak gerekir.", e1 + e2),
+        y(der(A), "okuma_hatasi", der(A) + ", " + k1Ad + " iç açıdır; soru " + k3Ad + " " + (tekne ? "dönüşü" : "dış açıyı") + " soruyor.", A),
+        y(der(C), "okuma_hatasi", der(C) + ", " + k3Ad + " iç açıdır; soru aynı köşedeki " + (tekne ? "dönüşü" : "dış açıyı") + " soruyor.", C),
+      ];
+      if (!ayri(e3, ys)) continue;
+      return {
+        params: { e1, e2 }, baglam: T.bag ? T.bag(e1, e2) + KURGU : null, kok: T.kok(e1, e2),
+        dogru: der(e3), deger: e3, yanlislar: ys,
+        ipuclari: [
+          tekne ? "Teknenin köşelerdeki dönüşleri dış açılardır. Üçgenin dış açılarının ölçüleri toplamını hatırla." : "Üçgenin dış açılarının ölçüleri toplamını hatırla.",
+          "Bilinen iki dış açıyı topla, sonucu 360°'den çıkar.",
+          "İlk adım: eşitliği yaz: " + der(e1) + " + " + der(e2) + " + ? = 360°. Şimdi bilinen iki dış açıyı topla.",
+        ],
+        cozum: numarala([
+          "Gerekçe: Üçgenin dış açılarının ölçüleri toplamı 360°'dir.",
+          "Bilinen iki dış açıyı topla: " + der(e1) + " + " + der(e2) + " = " + der(e1 + e2) + ".",
+          "360°'den çıkar: 360° − " + der(e1 + e2) + " = " + der(e3) + ".",
+          "Üçüncü köşedeki dış açı " + der(e3) + ".",
+          "Kontrol: " + e1 + " + " + e2 + " + " + e3 + " = 360; dış açı toplamı tuttu.",
+          "Kontrol: Her dış açı 180°'den küçük; her köşedeki iç açı 0°'dan büyük kalır, üçgen çizilebilir.",
+        ]),
+      };
+    }
+  }, ({ e1, e2 }) => { for (let e = 1; e < 180; e++) if ((180 - e1) + (180 - e2) + (180 - e) === 180) return der(e); return "YOK"; });
+
+  // ---------- 3. x'li iç ya da dış açılar: en büyük açı ----------
+  kayitU3("aci-x", 2, "175-178, 180-181", function (r) {
+    const { pick } = R();
+    const dis = r() < 0.4, T = dis ? 360 : 180, T2 = dis ? 180 : 360, bagli = r() < 0.5;
+    for (;;) {
+      const { x, p, q, a } = xUret(r, T, 3, dis ? 60 : 15, dis ? 165 : 150);
+      const P = top(p), Q = top(q), M = Math.max(...a);
+      const enb = xx => Math.max(...p.map((pi, i) => pi * xx + q[i]));
+      const x2 = (T2 - Q) / P, x3 = (T + Q) / P;
+      const ys = [
+        y(der(x), "eksik_adim", "x = " + der(x) + " bulunmuş; açıları bulmak için x'i her ifadeye koymak gerekir.", x),
+        ...(Number.isInteger(x2) && x2 > 0 && enb(x2) > 0 && enb(x2) < 180 ? [y(der(enb(x2)), "ezber_karisikligi",
+          dis ? "Dış açıların ölçüleri toplamı 180° değil, 360°'dir." : "Üçgenin iç açılarının ölçüleri toplamı 360° değil, 180°'dir.", enb(x2))] : []),
+        ...(Number.isInteger(x3) && x3 > 0 && enb(x3) > 0 && enb(x3) < 180 ? [y(der(enb(x3)), "isaret_hatasi", (Q > 0 ? "İki taraftan " + der(Q) + " çıkarılır, eklenmez: " : "İki tarafa " + der(-Q) + " eklenir, çıkarılmaz: ")
+          + xTerim(P) + " = " + der(T - Q) + " olmalı.", enb(x3))] : []),
+        y(der(dis ? 180 - M : Math.min(...a)), "okuma_hatasi", dis ? "Bu, en büyük dış açının yanındaki iç açıdır; soru dış açıyı soruyor."
+          : "Bu, en küçük iç açıdır; soru en büyük açıyı soruyor.", dis ? 180 - M : Math.min(...a)),
+      ];
+      if (ys.length < 3 || !ayri(M, ys)) continue;
+      const ifade = p.map((pi, i) => xIfade(pi, q[i]));
+      const adlar = dis ? ["A'daki dış açı", "B'deki dış açı", "C'deki dış açı"] : [ACI.A, ACI.B, ACI.C];
+      const veri = dis ? "dış açıları " + ifade[0] + ", " + ifade[1] + " ve " + ifade[2] : "m(BAC) = " + ifade[0] + ", m(ABC) = " + ifade[1] + " ve m(ACB) = " + ifade[2];
+      const ne = dis ? "en büyük dış açısı" : "en büyük iç açısı";
+      return {
+        params: { dis, p, q },
+        baglam: bagli ? (dis ? "Gölcük'te bir parkta üçgen biçimli bir yürüyüş yolu var. Yolun " + veri + "."
+          : "Tersanede bir vinç kolu, kule ve çelik halat bir ABC üçgeni oluşturuyor. " + veri + ".") + KURGU : null,
+        kok: (bagli ? "" : (dis ? "Bir üçgenin " + veri : "ABC üçgeninde " + veri) + ". ") + "Buna göre üçgenin " + ne + " kaç derecedir?",
+        dogru: der(M), deger: M, yanlislar: ys,
+        ipuclari: [
+          dis ? "Üç dış açıyı topla ve dış açıların ölçüleri toplamına eşitle." : "Üç açıyı topla ve iç açıların ölçüleri toplamına eşitle.",
+          "Önce x'leri, sonra sayıları topla. Denklemi çözüp x'i her ifadeye koy; en büyüğünü seç.",
+          "İlk adım: x'leri topla: " + p.map(xTerim).join(" + ") + " = " + xTerim(P) + ". Şimdi sayıları topla.",
+        ],
+        cozum: numarala([
+          ...xCozum(adlar, p, q, T, dis ? "Üçgenin dış açılarının ölçüleri toplamı 360°'dir." : "Üçgenin iç açılarının ölçüleri toplamı 180°'dir."),
+          (dis ? "En büyük dış açı " : "En büyük iç açı ") + der(M) + ".",
+          ...(dis ? [
+            "Kontrol: " + a.join(" + ") + " = 360; dış açı toplamı tuttu.",
+            "Kontrol: Her dış açı 180°'den küçük; her köşedeki iç açı 0°'dan büyük kalır, üçgen çizilebilir.",
+          ] : ["Kontrol: " + a.join(" + ") + " = 180; açı toplamı 180°, üçgen çizilebilir."]),
+        ]),
+      };
+    }
+  }, ({ dis, p, q }) => {
+    const x = xBul(p, q, dis ? 360 : 180);
+    return x === null ? "YOK" : der(Math.max(...p.map((pi, i) => pi * x + q[i])));
+  });
+
+  // ---------- 4. Dış açı = komşu olmayan iki iç açının toplamı ----------
+  const UZAT = "BC kenarı C'den D noktasına uzatılıyor; C köşesinde ACD dış açısı oluşuyor.";
+  const DA_BAGLAM = [
+    null,
+    "Liman rıhtımında üçgen bir uyarı levhası duruyor; köşeleri A, B ve C.",
+    "Tersanede üçgen bir sac parçası kesiliyor; köşeleri A, B ve C.",
+  ];
+  const ucAci = (A, B, C) => "m(BAC) = " + der(A) + ", m(ABC) = " + der(B) + " ve m(ACB) = " + der(C);
+  kayitU3("dis-aci", 1, "178, 179, 180, 184", function (r) {
+    const { rint, pick } = R();
+    for (;;) {
+      const A = 5 * rint(r, 4, 24), B = 5 * rint(r, 4, 22), C = 180 - A - B;
+      if (C < 20) continue;
+      const bag = pick(r, DA_BAGLAM);
+      const ys = [
+        y(der(C + B), "dis_aci_komsu", "m(ACB) dış açıya komşu olduğu için toplanmaz; toplanacaklar m(BAC) ve m(ABC)'dir.", C + B),
+        y(der(C), "okuma_hatasi", der(C) + ", C köşesindeki iç açıdır; soru BC uzatılınca oluşan dış açıyı soruyor.", C),
+        y(der(Math.abs(A - B)), "kavram_karisikligi", "Dış açı iki iç açının farkı değil, toplamıdır.", Math.abs(A - B)),
+        y(der(A + C), "dis_aci_komsu", "m(ACB) dış açının yanındaki iç açıdır; toplanacak iki açı A ve B köşelerindedir.", A + C),
+      ];
+      if (!ayri(A + B, ys)) continue;
+      return {
+        params: { A, B, C },
+        baglam: bag ? bag + " " + ucAci(A, B, C) + ". " + UZAT + KURGU : null,
+        kok: bag ? "Buna göre m(ACD) kaç derecedir?" : "ABC üçgeninde " + ucAci(A, B, C) + ". " + UZAT + " Buna göre m(ACD) kaç derecedir?",
+        dogru: der(A + B), deger: A + B, yanlislar: ys,
+        ipuclari: [
+          "ACD dış açısı hangi köşede? O köşedeki iç açı ona komşudur.",
+          "Dış açı, kendisine komşu olmayan iki iç açının toplamıdır; komşu iç açıyı toplamaya katma.",
+          "İlk adım: C köşesindeki m(ACB) dış açıya komşudur, onu bir kenara ayır. Geriye kalan iki iç açıyı yaz.",
+        ],
+        cozum: numarala([
+          "Gerekçe: Dış açı, kendisine komşu olmayan iki iç açının toplamına eşittir.",
+          "ACD dış açısı C köşesindedir; komşu olmayan iç açılar m(BAC) ve m(ABC)'dir.",
+          "m(ACD) = " + der(A) + " + " + der(B) + " = " + der(A + B) + ".",
+          "Kontrol, doğru açı: m(ACD) + m(ACB) = " + (A + B) + " + " + C + " = 180.",
+          "Kontrol: " + A + " + " + B + " + " + C + " = 180; açı toplamı 180°, üçgen çizilebilir.",
+        ]),
+      };
+    }
+  }, ({ C }) => der(180 - C)); // başka yol: C'deki iç açıyla doğru açı
+
+  // ---------- 5. Ters: dış açı ve bir iç açı verilir, öbür iç açı ----------
+  kayitU3("dis-aci-ters", 1, "178, 179, 180, 184", function (r) {
+    const { rint, pick } = R();
+    for (;;) {
+      const A = 5 * rint(r, 4, 24), B = 5 * rint(r, 4, 22), C = 180 - A - B, E = A + B;
+      if (C < 20) continue;
+      const bag = pick(r, DA_BAGLAM);
+      const ys = [
+        y(der(180 - E), "okuma_hatasi", der(180 - E) + ", C köşesindeki iç açı m(ACB) olur; soru m(ABC)'yi soruyor.", 180 - E),
+        ...(E + A < 180 ? [y(der(E + A), "kavram_karisikligi", "Dış açı iki iç açının toplamıdır; bilinmeyen açı için bilinen iç açı dış açıdan çıkarılır.", E + A)] : []),
+        y(der(180 - A), "eksik_adim", "180° − " + der(A) + " = " + der(180 - A) + ", B ve C açılarının toplamıdır; m(ACB) de çıkarılmalı.", 180 - A),
+        ...(2 * E > 180 ? [y(der(2 * E - 180), "dis_aci_komsu", "Dış açıdan komşu iç açı m(ACB) çıkarılmış; çıkarılacak olan bilinen iç açı m(BAC)'dir.", 2 * E - 180)] : []),
+      ];
+      if (ys.length < 3 || !ayri(B, ys)) continue;
+      const veri = "m(ACD) = " + der(E) + " ve m(BAC) = " + der(A);
+      return {
+        params: { E, A },
+        baglam: bag ? bag + " " + UZAT + " " + veri + "." + KURGU : null,
+        kok: bag ? "Buna göre m(ABC) kaç derecedir?" : "ABC üçgeninde " + UZAT + " " + veri + " olduğuna göre m(ABC) kaç derecedir?",
+        dogru: der(B), deger: B, yanlislar: ys,
+        ipuclari: [
+          "ACD dış açısına komşu olmayan iki iç açıyı bul.",
+          "Dış açı iki iç açının toplamıdır; bilinmeyeni bulmak için bilinen iç açıyı dış açıdan çıkar.",
+          "İlk adım: eşitliğin bir tarafına m(ACD) dış açısını yaz. Şimdi öbür tarafa komşu olmayan iki iç açıyı yaz.",
+        ],
+        cozum: numarala([
+          "Gerekçe: Dış açı, kendisine komşu olmayan iki iç açının toplamına eşittir.",
+          "ACD dış açısı C köşesindedir; komşu olmayan iç açılar m(BAC) ve m(ABC)'dir.",
+          der(E) + " = " + der(A) + " + m(ABC).",
+          "İki taraftan " + der(A) + " çıkar: m(ABC) = " + der(B) + ".",
+          "C'deki iç açı: m(ACB) = 180° − " + der(E) + " = " + der(C) + ".",
+          "Kontrol: " + A + " + " + B + " + " + C + " = 180; açı toplamı 180°, üçgen çizilebilir.",
+        ]),
+      };
+    }
+  }, ({ E, A }) => { for (let b = 1; b < 180; b++) if (A + b + (180 - E) === 180) return der(b); return "YOK"; });
+
+  // ---------- 6. x'li dış açı kuralı ----------
+  kayitU3("dis-aci-x", 2, "178, 179, 180, 184", function (r) {
+    const { pick } = R();
+    for (;;) {
+      const { rint } = R(), x = rint(r, 8, 40), p = [rint(r, 1, 4), rint(r, 1, 4)], q = [5 * rint(r, -4, 8), 5 * rint(r, -4, 8)], P = top(p);
+      const a = p.map((pi, i) => pi * x + q[i]), E = top(a), Q = top(q), C = 180 - E;
+      if (a.some(v => v < 15) || a[0] === a[1] || C < 15 || Q === 0) continue;
+      const x3 = (E + Q) / P, x4 = (180 - E - Q) / P, x5 = (2 * E - 180 - q[1]) / p[1];
+      const ys = [
+        y(der(E - Q), "eksik_adim", xTerim(P) + " = " + der(E - Q) + " ara sonuçtur; iki taraf " + yonelme(P) + " bölünür.", E - Q),
+        ...(Number.isInteger(x3) && x3 > 0 ? [y(der(x3), "isaret_hatasi", (Q > 0 ? "İki taraftan " + der(Q) + " çıkarılır, eklenmez: " : "İki tarafa " + der(-Q) + " eklenir, çıkarılmaz: ")
+          + xTerim(P) + " = " + der(E - Q) + " olmalı.", x3)] : []),
+        ...(Number.isInteger(x4) && x4 > 0 ? [y(der(x4), "kavram_karisikligi", "m(ACD) dış açıdır, iç açı değil; iki iç açının toplamı m(ACD)'ye eşitlenir.", x4)] : []),
+        ...(Number.isInteger(x5) && x5 > 0 ? [y(der(x5), "dis_aci_komsu", "m(ACB) dış açıya komşudur, toplamaya girmez; toplanacaklar m(BAC) ve m(ABC)'dir.", x5)] : []),
+      ];
+      if (ys.length < 3 || !ayri(x, ys)) continue;
+      const bag = pick(r, DA_BAGLAM), veri = "m(BAC) = " + xIfade(p[0], q[0]) + ", m(ABC) = " + xIfade(p[1], q[1]) + " ve m(ACD) = " + der(E);
+      const cz = xCozum([ACI.A, ACI.B], p, q, E, "Dış açı, kendisine komşu olmayan iki iç açının toplamına eşittir.");
+      cz.splice(1, 0, "ACD dış açısı C köşesindedir; komşu olmayan iç açılar m(BAC) ve m(ABC)'dir.");
+      return {
+        params: { p, q, E },
+        baglam: bag ? bag + " " + UZAT + " " + veri + "." + KURGU : null,
+        kok: bag ? "Buna göre x kaç derecedir?" : "ABC üçgeninde " + UZAT + " " + veri + " olduğuna göre x kaç derecedir?",
+        dogru: der(x), deger: x, yanlislar: ys,
+        ipuclari: [
+          "ACD dış açısına komşu olmayan iki iç açıyı bul; dış açı bu ikisinin toplamıdır.",
+          "İki iç açının ifadesini topla ve " + der(E) + " sayısına eşitle. Sonra denklemi çöz.",
+          "İlk adım: " + der(E) + " = " + xPar(p[0], q[0]) + " + " + xPar(p[1], q[1]) + " eşitliğini yaz. Şimdi x'leri ve sayıları ayrı ayrı topla.",
+        ],
+        cozum: numarala([
+          ...cz,
+          "C'deki iç açı: m(ACB) = 180° − " + der(E) + " = " + der(C) + ".",
+          "Kontrol: " + a[0] + " + " + a[1] + " + " + C + " = 180; açı toplamı 180°, üçgen çizilebilir.",
+        ]),
+      };
+    }
+  }, ({ p, q, E }) => { const x = xBul(p, q, E); return x === null ? "YOK" : der(x); });
+
+  // ---------- 7. Üçgen eşitsizliği: üçüncü kenarın aralığı ----------
+  const KENAR_BAGLAM = [
+    { bag: (k1, k2) => "Gölcük iskelesinden bir şamandıraya " + k1 + " km, şamandıradan bir balıkçı barınağına " + k2 + " km var. Üç nokta aynı doğru üzerinde değil. İskele ile barınak arası x km.", b: "km", deniz: true },
+    { bag: (k1, k2) => "Tersanede A, B ve C vinçleri bir üçgenin köşelerinde duruyor. |AB| = " + k1 + " m, |BC| = " + k2 + " m ve |AC| = x m.", b: "m" },
+    { bag: (k1, k2) => "Halı sahada üç oyuncu üçgen biçiminde duruyor. Ahmet ile Burak arası " + k1 + " m, Burak ile Can arası " + k2 + " m, Ahmet ile Can arası x m.", b: "m" },
+    { bag: null, b: "cm" },
+  ];
+  // İki kenar: kısa a, uzun b (a ≠ b); sunuş sırası rastgele (uzun olanı seçme becerisi). Sınır: fark 1, kısa kenar 2.
+  const ikiKenar = (r, deniz) => {
+    const { rint } = R(), a = deniz ? rint(r, 2, 4) : rint(r, 2, 12), b = deniz ? rint(r, a + 1, 5) : rint(r, a + 1, Math.min(a + 12, 20));
+    return r() < 0.5 ? [a, b] : [b, a];
+  };
+  kayitU3("esitsizlik-aralik", 1, "186-188, 197", function (r) {
+    const { pick } = R();
+    const T = pick(r, KENAR_BAGLAM), [k1, k2] = ikiKenar(r, T.deniz), a = Math.min(k1, k2), b = Math.max(k1, k2), d = b - a, s = a + b;
+    const ar = (l, h, op = "<") => l + " " + op + " x " + op + " " + h;
+    const yd = (metin, h, ac) => y(metin, h, ac, metin);
+    const dogru = ar(d, s);
+    const ys = [
+      yd(ar(d, s, "≤"), "aralik_uc", "x = " + s + " olursa kenarlar düz yatar, üçgen olmaz; sınırlar dâhil değildir."),
+      yd(ar(0, s), "eksik_adim", "Yalnız toplam sınırı kullanılmış; x, iki kenarın farkından, yani " + d + " sayısından da büyük olmalı."),
+      yd(ar(b, s), "eksik_adim", b + " < " + a + " + x satırında iki taraftan " + a + " çıkarılmamış; alt sınır " + b + " − " + a + " = " + d + " olur."),
+      yd(ar(d, b), "kavram_karisikligi", "Üçüncü kenarın uzun kenardan kısa olması gerekmez; x, " + b + " sayısından büyük de olabilir."),
+    ];
+    return {
+      params: { k1, k2 },
+      baglam: T.bag ? T.bag(k1, k2) + KURGU : null,
+      kok: T.bag ? "Buna göre x'in alabileceği değerler aşağıdakilerden hangisidir?"
+        : "Bir üçgenin iki kenarı " + k1 + " cm ve " + k2 + " cm, üçüncü kenarı x cm olduğuna göre x'in alabileceği değerler aşağıdakilerden hangisidir?",
+      dogru, deger: dogru, yanlislar: ys,
+      ipuclari: [
+        "Üçgen eşitsizliği x için iki sınır verir: bir üst sınır ve bir alt sınır.",
+        "Toplam sınırı için iki kenarı topla. Fark sınırı için bilinen iki kenardan uzun olanı seç; o, öbür ikisinin toplamından küçük olmalı.",
+        aralikIpucu3(k1, k2),
+      ],
+      cozum: numarala([
+        ...aralikCozum(k1, k2),
+        "Kontrol, üst sınır: x = " + s + " için " + k1 + " + " + k2 + " = " + s + " > " + s + " doğru değil; " + s + " aralıkta yok.",
+        "Kontrol, alt sınır: x = " + d + " için " + a + " + " + d + " = " + b + " > " + b + " doğru değil; " + d + " aralıkta yok.",
+        ...ucgenKontrol(k1, k2, icDeger(k1, k2)),
+      ]),
+    };
+  }, ({ k1, k2 }) => {
+    // Kuralsız: yarım adımlarla üç eşitsizliği dener; ilk ve son sağlayan noktadan açık uçları okur.
+    let ilk = null, son = null;
+    for (let h = 1; h <= 2 * (k1 + k2) + 4; h++) {
+      const x = h / 2;
+      if (k1 + k2 > x && k1 + x > k2 && k2 + x > k1) { if (ilk === null) ilk = x; son = x; }
+    }
+    return ilk === null ? "YOK" : (ilk - 0.5) + " < x < " + (son + 0.5);
+  });
+
+  // ---------- 8. Üçgen eşitsizliği: tam sayı değer sayısı, en büyük, en küçük ----------
+  const TAM_BAGLAM = [
+    { bag: (k1, k2) => "Tersanede bir vincin iki kolu " + k1 + " m ve " + k2 + " m. Kolların uçları bir halatla bağlanıyor ve bir üçgen oluşuyor. Halatın uzunluğu x m ve x bir tam sayı." },
+    { bag: (k1, k2) => "Gölcük açıklarında bir iskele, bir şamandıra ve bir fener üçgen oluşturuyor. İskele ile şamandıra arası " + k1 + " km, iskele ile fener arası " + k2 + " km. Şamandıra ile fener arası x km ve x bir tam sayı.", deniz: true },
+    { bag: null },
+  ];
+  const TAM_SORU = { sayi: "x kaç farklı tam sayı değeri alabilir?", enb: "x'in alabileceği en büyük tam sayı değeri kaçtır?", enk: "x'in alabileceği en küçük tam sayı değeri kaçtır?" };
+  kayitU3("esitsizlik-tamsayi", 2, "187-188, 197", function (r) {
+    const { pick } = R();
+    const soru = pick(r, ["sayi", "sayi", "enb", "enk"]), T = pick(r, TAM_BAGLAM);
+    for (;;) {
+      const [k1, k2] = ikiKenar(r, T.deniz), a = Math.min(k1, k2), b = Math.max(k1, k2), d = b - a, s = a + b, n = s - d - 1;
+      const dogru = soru === "sayi" ? n : soru === "enb" ? s - 1 : d + 1;
+      const ys = (soru === "sayi" ? [
+        y(tam(s - d), "aralik_uc", s + " − " + d + " işlemi bir ucu da sayar; uçlar hariç tutularak yalnız aradaki tam sayılar sayılır.", s - d),
+        y(tam(s - d + 1), "aralik_uc", "Uçlardaki " + d + " ve " + s + " sayıları da sayılmış; bu uzunluklarda üç nokta aynı doğru üzerine düşer.", s - d + 1),
+        y(tam(s - 1), "eksik_adim", "Yalnız toplam sınırı kullanılmış; üçüncü kenar farktan, yani " + d + " sayısından da uzun olmalı.", s - 1),
+        y(tam(a - 1), "eksik_adim", b + " < " + a + " + x satırında " + a + " çıkarılmamış; alt sınır " + b + " değil, " + d + " olur.", a - 1),
+      ] : soru === "enb" ? [
+        y(tam(s), "aralik_uc", "x = " + s + " olursa kenarlar düz yatar; üçgen için x, " + s + " sayısından küçük olmalı.", s),
+        y(tam(b - 1), "kavram_karisikligi", "Üçüncü kenarın uzun kenardan kısa olması gerekmez; x, " + b + " sayısından büyük de olabilir.", b - 1),
+        y(tam(d + 1), "okuma_hatasi", "Bu, en küçük tam sayı değeridir; soru en büyük değeri soruyor.", d + 1),
+        y(tam(n), "okuma_hatasi", "Bu, tam sayı değerlerinin sayısıdır; soru en büyük değeri soruyor.", n),
+      ] : [
+        y(tam(d), "aralik_uc", "x = " + d + " olursa üç nokta aynı doğru üzerine düşer; x, " + d + " sayısından büyük olmalı.", d),
+        y(tam(b + 1), "eksik_adim", b + " < " + a + " + x satırında iki taraftan " + a + " çıkarılmamış; alt sınır " + b + " − " + a + " = " + d + " olur.", b + 1),
+        y(tam(s - 1), "okuma_hatasi", "Bu, en büyük tam sayı değeridir; soru en küçük değeri soruyor.", s - 1),
+        y("1", "eksik_adim", "Yalnız toplam sınırı kullanılmış; x, iki kenarın farkından da büyük olmalı.", 1),
+      ]).filter(v => v.deger > 0);
+      if (ys.length < 3 || !ayri(dogru, ys)) continue;
+      const son = soru === "sayi" ? ["Tam sayılar: " + tamGorunum(d, s) + ".", "Son sayıdan ilk sayıyı çıkar: " + (s - 1) + " − " + (d + 1) + " = " + (n - 1) + ".", "İlk sayıyı da say: " + (n - 1) + " + 1 = " + n + " tane."]
+        : soru === "enb" ? ["En büyük tam sayı " + (s - 1) + "."]
+        : ["En küçük tam sayı " + (d + 1) + "."];
+      return {
+        params: { k1, k2, soru },
+        baglam: T.bag ? T.bag(k1, k2) + KURGU : null,
+        kok: T.bag ? "Buna göre " + TAM_SORU[soru] : "Bir üçgenin iki kenarı " + k1 + " cm ve " + k2 + " cm, üçüncü kenarı x cm'dir. x bir tam sayı olduğuna göre " + TAM_SORU[soru],
+        dogru: tam(dogru), deger: dogru, yanlislar: ys,
+        ipuclari: [
+          "Önce x'in alabileceği aralığı bul. Üçgen eşitsizliği x için iki sınır verir.",
+          "Toplam ve fark sınırlarını bul. Sınırlar dâhil değildir; " + (soru === "sayi" ? "aradaki tam sayıları say." : "x bir sınıra eşit olamaz."),
+          soru === "sayi" ? aralikIpucu3(k1, k2)
+            : soru === "enb" ? "İlk adım, üst sınır: iki kenarı topla: " + k1 + " + " + k2 + ". x bu toplama eşit olamaz."
+            : "İlk adım, alt sınır: uzun kenardan kısa kenarı çıkar: " + b + " − " + a + ". x bu farka eşit olamaz.",
+        ],
+        cozum: numarala([
+          ...aralikCozum(k1, k2),
+          ...son,
+          soru === "enk" ? "Kontrol, sınır: x = " + d + " için " + a + " + " + d + " = " + b + " > " + b + " doğru değil; " + d + " alınmaz."
+            : "Kontrol, sınır: x = " + s + " için " + k1 + " + " + k2 + " = " + s + " > " + s + " doğru değil; " + s + " alınmaz.",
+          ...ucgenKontrol(k1, k2, icDeger(k1, k2)),
+        ]),
+      };
+    }
+  }, ({ k1, k2, soru }) => {
+    // Kuralsız: 1'den başlayıp her tam sayıyı üç eşitsizlikle dener.
+    const l = [];
+    for (let x = 1; x <= 100; x++) if (k1 + k2 > x && k1 + x > k2 && k2 + x > k1) l.push(x);
+    return tam(soru === "sayi" ? l.length : soru === "enb" ? l[l.length - 1] : l[0]);
+  });
+
+  // ---------- 9-11. Büyük açı karşısında büyük kenar (ve tersi) ----------
+  const SIRA_BAGLAM = {
+    aci: [
+      null,
+      "Liman rıhtımında üç bağlama direği A, B ve C bir üçgenin köşelerinde duruyor. Direkler arasına halat gerilmiş.",
+      "Gölcük açıklarında üç şamandıra A, B ve C bir üçgen oluşturuyor. Şamandıralar arasına ip gerilmiş.",
+    ],
+    kenar: [
+      null,
+      "Tersanede usta üçgen bir bağlantı sacı kesiyor. Sacın köşeleri A, B ve C.",
+      "Kocaeli'de A, B ve C köyleri bir üçgenin köşelerinde duruyor. Köyler arasındaki düz çizgi uzaklıkları şöyle:",
+    ],
+  };
+  const yonAd = yon => (yon === ">" ? "büyükten küçüğe" : "küçükten büyüğe");
+  const siraYaz = (l, yon) => l.join(" " + yon + " ");
+  const kenarY = s => "|" + s + "|";
+  // Açılar → kenar sırası şıkları. sirali: köşeler, istenen yönde sıralı.
+  const aciSiklari = (sirali, yon, X) => {
+    const d = siraYaz(sirali.map(v => kenarY(KARSI[v])), yon), yd = (m, h, ac) => y(m, h, ac, m);
+    return {
+      dogru: d, ys: [
+        yd(siraYaz(sirali.map(v => kenarY(UC1[v])), yon), "aci_kenar_eslesme", "En büyük açı " + X + " köşesinde; en uzun kenar " + X + " köşesine değmeyen " + kenarY(KARSI[X]) + " olur."),
+        yd(siraYaz(sirali.map(v => kenarY(UC2[v])), yon), "aci_kenar_eslesme", "Her açı kendi köşesinden çıkan kenarla eşlenmiş; karşı kenar, o köşenin harfini taşımayan kenardır."),
+        yd(siraYaz(sirali.map(v => kenarY(KARSI[v])).reverse(), yon), "kavram_karisikligi", "Sıra ters çevrilmiş; büyük açının karşısında büyük kenar bulunur."),
+      ],
+    };
+  };
+  const aciAdimlari = (aci, sirali, yon) => [
+    "Açıları sırala: " + siraYaz(sirali.map(v => ACI[v]), yon) + ", yani " + siraYaz(sirali.map(v => der(aci[v])), yon) + ".",
+    "Karşı kenarlar: A → " + kenarY("BC") + ", B → " + kenarY("AC") + ", C → " + kenarY("AB") + ".",
+    "Büyük açı karşısında büyük kenar: " + siraYaz(sirali.map(v => kenarY(KARSI[v])), yon) + ".",
+  ];
+  const aciKontrolSatiri = (aci, X) => [
+    "Kontrol: " + aci.A + " + " + aci.B + " + " + aci.C + " = 180; açı toplamı 180°, üçgen çizilebilir.",
+    "Kontrol: En büyük açı " + X + " köşesinde; karşısı " + kenarY(KARSI[X]) + " ve bu kenarda " + X + " harfi yok.",
+  ];
+  const aciKenarIpucu = [
+    "Büyük açının karşısında büyük kenar bulunur.",
+    "Her köşenin karşı kenarını yaz: karşı kenar o köşeye değmez. Sonra açıların sırasını kenarlara taşı.",
+    "İlk adım: A köşesinin karşısı BC kenarıdır. Şimdi B ve C köşelerinin karşı kenarlarını yaz.",
+  ];
+  // Farklı, 5'in katı, en az 20° üç açı. Sınır: geniş açı, iki açı arasında yalnız 5° fark.
+  const ucAciUret = r => {
+    const { rint } = R();
+    for (;;) {
+      const A = 5 * rint(r, 4, 24), B = 5 * rint(r, 4, 22), C = 180 - A - B;
+      if (C >= 20 && new Set([A, B, C]).size === 3) return { A, B, C };
+    }
+  };
+  const sirala = (aci, yon) => ["A", "B", "C"].sort((u, v) => (yon === ">" ? aci[v] - aci[u] : aci[u] - aci[v]));
+  const enBuyuk = aci => ["A", "B", "C"].reduce((m, v) => (aci[v] > aci[m] ? v : m), "A");
+  // Kuralsız sıralama: her kenar için, kenarın harflerinde geçmeyen köşedeki açıyı bulur ve kenarları o açıya göre dizer.
+  const kenarSirasiKontrol = (aci, yon) => ["AB", "BC", "AC"].map(s => [s, aci["ABC".split("").find(v => !s.includes(v))]])
+    .sort((u, v) => (yon === ">" ? v[1] - u[1] : u[1] - v[1])).map(e => "|" + e[0] + "|").join(" " + yon + " ");
+
+  kayitU3("aci-kenar", 1, "174, 184-186, 190", function (r) {
+    const { pick, rint } = R();
+    const mod = r() < 0.55 ? "aci" : "kenar", yon = r() < 0.6 ? ">" : "<", bag = pick(r, SIRA_BAGLAM[mod]);
+    if (mod === "aci") {
+      const aci = ucAciUret(r), sirali = sirala(aci, yon), X = enBuyuk(aci), { dogru, ys } = aciSiklari(sirali, yon, X);
+      const veri = ucAci(aci.A, aci.B, aci.C);
+      return {
+        params: { mod, aci, yon },
+        baglam: bag ? bag + " " + veri + "." + KURGU : null,
+        kok: (bag ? "" : "ABC üçgeninde " + veri + ". ") + "Buna göre kenar uzunluklarının " + yonAd(yon) + " sıralanışı hangisidir?",
+        dogru, deger: dogru, yanlislar: ys, ipuclari: aciKenarIpucu,
+        cozum: numarala([...aciAdimlari(aci, sirali, yon), ...aciKontrolSatiri(aci, X)]),
+      };
+    }
+    // Kenarlar → açı sırası. Sınır: en uzun kenar öbür ikisinin toplamından yalnız 1 kısa.
+    let k;
+    for (;;) {
+      const u = [rint(r, 3, 12), rint(r, 3, 12)], L = r() < 0.3 ? u[0] + u[1] - 1 : rint(r, Math.max(...u) + 1, Math.min(u[0] + u[1] - 1, 20));
+      const l = R().shuffle(r, [u[0], u[1], L]);
+      if (new Set(l).size === 3 && L <= 20 && L > Math.max(...u)) { k = { AB: l[0], BC: l[1], AC: l[2] }; break; }
+    }
+    const sirali = ["AB", "BC", "AC"].sort((u, v) => (yon === ">" ? k[v] - k[u] : k[u] - k[v]));
+    const enUzun = ["AB", "BC", "AC"].reduce((m, s) => (k[s] > k[m] ? s : m), "AB");
+    const yd = (m, h, ac) => y(m, h, ac, m), dogru = siraYaz(sirali.map(s => ACI[KOSE[s]]), yon);
+    const ys = [
+      yd(siraYaz(sirali.map(s => ACI[UC1_K[s]]), yon), "aci_kenar_eslesme", "Kenar kendi ucundaki köşeyle eşlenmiş; " + enUzun + " kenarının karşısı, " + enUzun + " içinde geçmeyen " + KOSE[enUzun] + " köşesidir."),
+      yd(siraYaz(sirali.map(s => ACI[UC2_K[s]]), yon), "aci_kenar_eslesme", "Her kenar ucundaki bir köşeyle eşlenmiş; karşı köşe, kenarın harflerinde geçmeyen köşedir."),
+      yd(siraYaz(sirali.map(s => ACI[KOSE[s]]).reverse(), yon), "kavram_karisikligi", "Sıra ters çevrilmiş; uzun kenarın karşısında büyük açı bulunur."),
+    ];
+    const veri = "|AB| = " + k.AB + " cm, |BC| = " + k.BC + " cm ve |AC| = " + k.AC + " cm";
+    const [s1, s2, s3] = ["AB", "BC", "AC"].sort((u, v) => k[u] - k[v]);
+    return {
+      params: { mod, kenar: k, yon },
+      baglam: bag ? bag + " " + (bag.includes("köyler") ? veri.replace(/ cm/g, " km") : veri) + "." + KURGU : null,
+      kok: (bag ? "" : "ABC üçgeninde " + veri + ". ") + "Buna göre iç açıların " + yonAd(yon) + " sıralanışı hangisidir?",
+      dogru, deger: dogru, yanlislar: ys,
+      ipuclari: [
+        "Uzun kenarın karşısında büyük açı bulunur.",
+        "Her kenarın karşı köşesini bul: karşı köşe, kenarın harflerinde geçmeyen köşedir. Sonra kenarların sırasını açılara taşı.",
+        "İlk adım: BC kenarının karşısı A köşesidir. Şimdi AC ve AB kenarlarının karşı köşelerini yaz.",
+      ],
+      cozum: numarala([
+        "Kenarları sırala: " + siraYaz(sirali.map(kenarY), yon) + ", yani " + siraYaz(sirali.map(s => k[s]), yon) + ".",
+        "Karşı köşeler: BC'nin karşısı A, AC'nin karşısı B, AB'nin karşısı C.",
+        "Uzun kenar karşısında büyük açı: " + dogru + ".",
+        "Kontrol: " + k[s1] + " + " + k[s2] + " = " + (k[s1] + k[s2]) + " > " + k[s3] + "; üçgen çizilebilir.",
+        "Kontrol: BC'de A, AC'de B, AB'de C harfi geçmiyor; eşleme doğru.",
+      ]),
+    };
+  }, ({ mod, aci, kenar, yon }) => {
+    if (mod === "aci") return kenarSirasiKontrol(aci, yon);
+    // Kuralsız: her köşe için, o köşenin harfini taşımayan kenarın uzunluğunu bulur ve köşeleri ona göre dizer.
+    const AD = { A: "m(BAC)", B: "m(ABC)", C: "m(ACB)" };
+    return ["A", "B", "C"].map(v => [v, kenar[Object.keys(kenar).find(s => !s.includes(v))]])
+      .sort((u, w) => (yon === ">" ? w[1] - u[1] : u[1] - w[1])).map(e => AD[e[0]]).join(" " + yon + " ");
+  });
+
+  // İki açı verilir, üçüncü hesaplanır (s010). eksik_adim: hesaplanmayan açı en küçük sayılır.
+  kayitU3("aci-kenar-hesap", 2, "174, 184-185, 190", function (r) {
+    const { pick } = R();
+    const yon = r() < 0.6 ? ">" : "<", bag = pick(r, SIRA_BAGLAM.aci);
+    for (;;) {
+      const aci = ucAciUret(r), U = pick(r, ["A", "B", "C"]), V = ["A", "B", "C"].filter(v => v !== U);
+      const sirali = sirala(aci, yon), X = enBuyuk(aci), { dogru, ys } = aciSiklari(sirali, yon, X);
+      // Üçüncü açıyı yanlış hesaplama: 360° kullanmak (180 + U) ya da bilinen açılardan yalnız birini çıkarmak (U + öbür açı).
+      // Üç açının sıralamasında doğru, ters ve iki kaydırma dolu; bu yanlış ancak komşu iki açının yer değiştirmesi olursa
+      // ayrı bir şıktır. Hiçbiri ayrı çıkmazsa (U en büyükken hep böyle) örnek yeniden çekilir.
+      const yanlisAci = Up => (Object.values({ ...aci, [U]: Up }).filter(v => v === Up).length > 1 ? null
+        : siraYaz(sirala({ ...aci, [U]: Up }, yon).map(v => kenarY(KARSI[v])), yon));
+      const hesap = [
+        [180 + aci[U], "ezber_karisikligi", ACI[U] + " bulunurken 360° kullanılmış; iç açıların ölçüleri toplamı 180°'dir."],
+        [aci[U] + aci[V[1]], "eksik_adim", ACI[U] + " bulunurken yalnız " + der(aci[V[0]]) + " çıkarılmış; iki açı da 180°'den çıkarılır."],
+        [aci[U] + aci[V[0]], "eksik_adim", ACI[U] + " bulunurken yalnız " + der(aci[V[1]]) + " çıkarılmış; iki açı da 180°'den çıkarılır."],
+      ].map(([Up, h, ac]) => { const m = yanlisAci(Up); return m && y(m, h, ac, m); }).find(o => o && ayri(dogru, [o, ...ys]));
+      if (!hesap) continue;
+      ys.splice(0, ys.length, hesap, ...R().shuffle(r, ys).slice(0, 2));
+      const veri = ACI[V[0]] + " = " + der(aci[V[0]]) + " ve " + ACI[V[1]] + " = " + der(aci[V[1]]);
+      return {
+        params: { aci: { [V[0]]: aci[V[0]], [V[1]]: aci[V[1]] }, yon },
+        baglam: bag ? bag + " " + veri + "." + KURGU : null,
+        kok: (bag ? "" : "ABC üçgeninde " + veri + ". ") + "Buna göre kenar uzunluklarının " + yonAd(yon) + " sıralanışı hangisidir?",
+        dogru, deger: dogru, yanlislar: ys,
+        ipuclari: [
+          "Üç açının hepsi gerekir; verilmeyen açıyı iç açılar toplamından bul. Büyük açının karşısında büyük kenar bulunur.",
+          aciKenarIpucu[1],
+          "İlk adım: " + ACI[U] + " = 180° − (" + der(aci[V[0]]) + " + " + der(aci[V[1]]) + ") yaz. Sonra karşı kenarları eşle.",
+        ],
+        cozum: numarala([
+          "Bilinen iki açıyı topla: " + der(aci[V[0]]) + " + " + der(aci[V[1]]) + " = " + der(aci[V[0]] + aci[V[1]]) + ".",
+          ACI[U] + " = 180° − " + der(aci[V[0]] + aci[V[1]]) + " = " + der(aci[U]) + ".",
+          ...aciAdimlari(aci, sirali, yon),
+          ...aciKontrolSatiri(aci, X),
+        ]),
+      };
+    }
+  }, ({ aci, yon }) => {
+    const k = { ...aci }, eksik = ["A", "B", "C"].find(v => !(v in k));
+    for (let t = 1; t < 180; t++) if (top(Object.values(aci)) + t === 180) { k[eksik] = t; break; }
+    return kenarSirasiKontrol(k, yon);
+  });
+
+  // Açılar x'li (b7 yazılı, 15 puan). eksik_adim: açılar hesaplanmadan x'in katsayısına göre sıralamak.
+  kayitU3("aci-kenar-x", 3, "174-176, 184-185, 190", function (r) {
+    const { pick } = R();
+    const yon = r() < 0.5 ? ">" : "<", bag = pick(r, SIRA_BAGLAM.aci);
+    for (;;) {
+      const { p, q, a } = xUret(r, 180, 3, 20, 150), aci = { A: a[0], B: a[1], C: a[2] };
+      const sirali = sirala(aci, yon), X = enBuyuk(aci), { dogru, ys } = aciSiklari(sirali, yon, X);
+      const ifadeSira = (c, ne) => {
+        if (new Set(c).size < 3) return null;
+        const m = siraYaz(sirala({ A: c[0], B: c[1], C: c[2] }, yon).map(v => kenarY(KARSI[v])), yon);
+        const o = y(m, "eksik_adim", "Açılar hesaplanmadan " + ne + " göre sıralanmış; önce x bulunup her açı hesaplanır.", m);
+        return ayri(dogru, [o, ...ys]) ? o : null;
+      };
+      // x'i yanlış bulma: toplamı 360° almak ya da sabit sayıyı yanlış yöne taşımak. Bulunan x ile açılar sıralanır.
+      const P = top(p), Q = top(q);
+      const xSira = xx => { const v = p.map((pi, i) => pi * xx + q[i]); return new Set(v).size < 3 ? null
+        : siraYaz(sirala({ A: v[0], B: v[1], C: v[2] }, yon).map(w => kenarY(KARSI[w])), yon); };
+      const xHata = [
+        [(360 - Q) / P, "ezber_karisikligi", "x bulunurken toplam 360° alınmış; iç açıların ölçüleri toplamı 180°'dir."],
+        [(180 + Q) / P, "isaret_hatasi", Q > 0 ? "Sayılar toplanınca " + der(Q) + " iki taraftan çıkarılır, eklenmez; x yanlış bulunmuş."
+          : "Sayılar toplanınca " + der(-Q) + " iki tarafa eklenir, çıkarılmaz; x yanlış bulunmuş."],
+      ].map(([xx, h, ac]) => { const m = Number.isInteger(xx) && xx > 0 ? xSira(xx) : null; return m && y(m, h, ac, m); })
+        .find(o => o && ayri(dogru, [o, ...ys]));
+      if (!xHata) continue;
+      const ek = ifadeSira(p, "x'in katsayısına") || ifadeSira(q, "sabit sayılara");
+      const kalan = R().shuffle(r, ek && ayri(dogru, [ek, xHata, ...ys]) ? [ek, ...ys] : ys);
+      ys.splice(0, ys.length, xHata, ...kalan.slice(0, 2));
+      const veri = "m(BAC) = " + xIfade(p[0], q[0]) + ", m(ABC) = " + xIfade(p[1], q[1]) + " ve m(ACB) = " + xIfade(p[2], q[2]);
+      return {
+        params: { p, q, yon },
+        baglam: bag ? bag + " " + veri + "." + KURGU : null,
+        kok: (bag ? "" : "ABC üçgeninde " + veri + ". ") + "Buna göre kenar uzunluklarının " + yonAd(yon) + " sıralanışı hangisidir?",
+        dogru, deger: dogru, yanlislar: ys,
+        ipuclari: [
+          "Önce her açının kaç derece olduğunu bul.",
+          "Üç açıyı topla, 180°'e eşitle ve x'i bul. x'i her ifadeye koy; sonra büyük açının karşısına büyük kenarı yaz.",
+          "İlk adım: x'leri topla: " + p.map(xTerim).join(" + ") + " = " + xTerim(top(p)) + ". Şimdi sayıları topla.",
+        ],
+        cozum: numarala([
+          ...xCozum([ACI.A, ACI.B, ACI.C], p, q, 180, "Üçgenin iç açılarının ölçüleri toplamı 180°'dir."),
+          ...aciAdimlari(aci, sirali, yon),
+          ...aciKontrolSatiri(aci, X),
+        ]),
+      };
+    }
+  }, ({ p, q, yon }) => {
+    const x = xBul(p, q, 180);
+    return x === null ? "YOK" : kenarSirasiKontrol({ A: p[0] * x + q[0], B: p[1] * x + q[1], C: p[2] * x + q[2] }, yon);
+  });
+
+  // ---------- 12. Açı bilgisiyle aralığı daraltma (b11) ----------
+  // |AB| = a, |BC| = b, |AC| = x. x, B açısının karşısıdır; B açısı A (karşısı BC) ya da C (karşısı AB) ile karşılaştırılır.
+  const DAR_BAGLAM = [
+    { bag: (a, b) => "Halı sahada Ahmet A, Burak B ve Can C noktasında duruyor ve bir ABC üçgeni oluşuyor. Ahmet ile Burak arası " + a + " m, Burak ile Can arası " + b + " m, Ahmet ile Can arası x m." },
+    { bag: (a, b) => "Liman rıhtımında A, B ve C bağlama direkleri arasına halat geriliyor ve ABC üçgeni oluşuyor. |AB| = " + a + " m, |BC| = " + b + " m ve |AC| = x m." },
+    { bag: null },
+  ];
+  kayitU3("aralik-daraltma", 3, "188, 194, 196", function (r) {
+    const { rint, pick } = R();
+    const T = pick(r, DAR_BAGLAM);
+    for (;;) {
+      const a = rint(r, 3, 15), b = rint(r, 3, 15), O = pick(r, ["A", "C"]), buyuk = r() < 0.5;
+      if (a === b) continue;
+      const k = O === "A" ? b : a, kd = O === "A" ? a : b, lo0 = Math.abs(a - b), hi0 = a + b;
+      const lo = buyuk ? Math.max(lo0, k) : lo0, hi = buyuk ? hi0 : Math.min(hi0, k), n = hi - lo - 1;
+      if (n < 2 || (buyuk && k <= lo0)) continue;
+      const nd = (buyuk ? hi0 - Math.max(lo0, kd) : Math.min(hi0, kd) - lo0) - 1;
+      const sart = ACI.B + (buyuk ? " > " : " < ") + ACI[O];
+      const ys = [
+        y(tam(hi0 - lo0 - 1), "eksik_adim", "Açı bilgisi kullanılmamış; " + sart + " şartı x'i " + k + " sayısından " + (buyuk ? "büyük" : "küçük") + " olmaya zorlar.", hi0 - lo0 - 1),
+        y(tam(nd), "aci_kenar_eslesme", "Karşı kenar köşeye değmez: " + ACI[O] + " açısının karşısı " + kenarY(KARSI[O]) + " = " + k + " olur.", nd),
+        y(tam(n + 1), "aralik_uc", "Uç değer olan " + k + " sayısı da sayılmış; x = " + k + " olursa iki açı eşit olur.", n + 1),
+        ...(buyuk ? [] : [y(tam(k - 1), "ucgen_esitsizligi_atlama", "Yalnız açı şartına bakılmış; x, iki kenarın farkından, yani " + lo0 + " sayısından da büyük olmalı.", k - 1)]),
+      ].filter(v => v.deger > 0);
+      if (ys.length < 3 || !ayri(n, ys)) continue;
+      const veri = sart;
+      const m = lo + 1;
+      return {
+        params: { a, b, O, buyuk },
+        baglam: T.bag ? T.bag(a, b) + " " + veri + "." + KURGU : null,
+        kok: T.bag ? "Buna göre x'in alabileceği kaç farklı tam sayı değeri vardır?"
+          : "ABC üçgeninde |AB| = " + a + " cm, |BC| = " + b + " cm ve |AC| = x cm. " + veri + " olduğuna göre x kaç farklı tam sayı değeri alabilir?",
+        dogru: tam(n), deger: n, yanlislar: ys,
+        ipuclari: [
+          "Önce üçgen eşitsizliğiyle x'in aralığını bul, sonra açı bilgisiyle bu aralığı daralt.",
+          "Karşılaştırılan iki açının karşı kenarlarını yaz; büyük açı karşısında büyük kenar bulunur. Sonra iki aralığın ortak kısmını al.",
+          aralikIpucu3(a, b),
+        ],
+        cozum: numarala([
+          ...aralikCozum(a, b),
+          "Karşı kenarlar: " + ACI.B + " açısının karşısı |AC| = x, " + ACI[O] + " açısının karşısı " + kenarY(KARSI[O]) + " = " + k + ".",
+          sart + " olduğundan " + (buyuk ? "büyük açı karşısında büyük kenar: x > " : "küçük açı karşısında küçük kenar: x < ") + k + ".",
+          "Kesişim, iki şartın ortak kısmı: " + lo + " < x < " + hi + ".",
+          "Tam sayılar: " + tamGorunum(lo, hi) + ". Bunlar " + n + " tanedir.",
+          "Kontrol, açı: x = " + k + " olsaydı |AC| = " + kenarY(KARSI[O]) + " olurdu ve iki açı eşit çıkardı; " + k + " sayılmaz.",
+          ...ucgenKontrol(a, b, m),
+        ]),
+      };
+    }
+  }, ({ a, b, O, buyuk }) => {
+    // Kuralsız: her tam sayı x için üç kenar eşitsizliğini ve açı şartını (karşı kenarları harflerden bularak) dener.
+    let say = 0;
+    for (let x = 1; x <= 100; x++) {
+      const L = { AB: a, BC: b, AC: x }, karsi = v => L[Object.keys(L).find(s => !s.includes(v))];
+      if (a + b > x && a + x > b && b + x > a && (buyuk ? karsi("B") > karsi(O) : karsi("B") < karsi(O))) say++;
+    }
+    return tam(say);
+  });
 })();

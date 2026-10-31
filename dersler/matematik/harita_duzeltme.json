@@ -50,5 +50,20 @@
   ],
   "neden": "2.3 başlığı s.136; bölüm s.160'ta biter, tema sonu ölçme s.161-169",
   "kaynak": "ders kitabı metni: 2.3 başlığı s0136, 3. tema s0170 (içindekiler s0007 sırasıyla)"
+ },
+ "matematik-u3-k1": {
+  "kitap": {
+   "dosya": "kaynaklar/meb/matematik/metin/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502",
+   "basili_baslangic": 170,
+   "pdf_baslangic": 170,
+   "basili_bitis": 194,
+   "eslesme_puani": 1.0
+  },
+  "dogrula_kaldir": [
+   "kitap sayfası zayıf eşleşme (kapsama 0.67)",
+   "kitap bitiş sayfası bilinmiyor (kitaptaki son eşlenen konu)"
+  ],
+  "neden": "3. Tema s.170'te başlar, 3.1 tek bölümdür (program: MAT.9.3 tek öğrenme çıktısı); bölüm s.194'te biter, tema sonu ölçme s.195-199, s.200 sözlük",
+  "kaynak": "ders kitabı metni: 3. tema s0170, 3.1 başlığı s0174, Ölçme ve Değerlendirme s0195-s0199, Sözlük s0200 (içindekiler s0007)"
  }
 }

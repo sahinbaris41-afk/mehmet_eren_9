@@ -2,7 +2,7 @@
 
 **Durum:** BOŞTA
 
-**Codex sayacı:** 0/3 (son çapraz denetim: Matematik Ünite 2 — 9.2.1, 9.2.2, 9.2.3 ve ortak `ayikla`, 2026-10-31, `denetim/codex_matematik_u2.md`, karar DÜZELTİLMELİ: kritik 0, önemli 5. Sonraki 3 konu bitince yeniden çalışır.)
+**Codex sayacı:** 1/3 (son çapraz denetim: Matematik Ünite 2 — 9.2.1, 9.2.2, 9.2.3 ve ortak `ayikla`, 2026-10-31, `denetim/codex_matematik_u2.md`, karar DÜZELTİLMELİ: kritik 0, önemli 5. Sonraki 3 konu bitince yeniden çalışır.)
 
 Döngü kuralı:
 - Durum "ÇALIŞIYOR" iken yeni konu başlatılmaz.
@@ -38,7 +38,8 @@ Kaynak: `dersler/*/harita.json` (`yazili` alanı).
 | Matematik | 9.1.4 İşlem özellikleri ve özdeşlikler | 1D1Y | ✓ tamam | 8 | 15 (3) | 2 | 3 + Codex | pilot |
 | Matematik | 9.2.1 Doğrusal fonksiyonlar | 1D1Y, 1D2Y | ✓ tamam | 11 | 20 (4) | 5 | 3 | 1aab100 |
 | Matematik | 9.2.2 Mutlak değer fonksiyonu | 1D2Y | ✓ tamam | 14 | 20 (5) | 8 | 3 + üreteç 3 | 00b130e |
-| Matematik | 9.2.3 Doğrusal fonksiyonlarla denklem ve eşitsizlik problemleri | 1D2Y | ✓ tamam | 13 | 18 (3) | 12 | 3 + üreteç 2 | bu commit |
+| Matematik | 9.2.3 Doğrusal fonksiyonlarla denklem ve eşitsizlik problemleri | 1D2Y | ✓ tamam | 13 | 18 (3) | 12 | 3 + üreteç 2 | cc1da62 |
+| Matematik | 9.3.1 Üçgende açı ve kenar ilişkileri | 1D2Y | ✓ tamam | 11 | 19 (3) | 12 | 3 + üreteç 2 | bu commit |
 
 ## Pilot özeti (Matematik Ünite 1)
 

@@ -42,6 +42,7 @@ const sizinti = g => {
   const ar = g.dogru.match(/^[[(](.+), ∞[)\]]$/) || g.dogru.match(/^\(−∞, (.+)[)\]]$/);
   const kaliplar = ar ? [...sayiKalip(ar[1]).slice(0, 1), new RegExp("=\\s*" + SAYI_SINIR + kacis(ar[1]) + "\\.?\\s*$")]
     : typeof g.deger === "number" ? sayiKalip(g.dogru) : [];
+  if (g.u3 && typeof g.deger === "number") kaliplar.push(new RegExp("=\\s*" + SAYI_SINIR + kacis(String(g.deger)) + "°?" + SAYI_SON));
   const k = kaliplar.find(re => re.test(h3));
   return k ? String(k) : "";
 };
@@ -49,17 +50,26 @@ const sizinti = g => {
 for (const u of sandbox.URETECLER || []) {
   const { hatalar } = S.uretecDene(u, ADET);
   // 9.2.2 ve 9.2.3: 3. ipucu cevabın kendisiyle bitmez (son "=" ya da ":" sonrası doğru şık metni/değeri olamaz).
-  if (u.id.startsWith("mat-u2-mutlak") || u.id.startsWith("mat-u2-problem")) for (let t = 0; t < ADET; t++) {
+  // 9.3.1 de: derece işaretli cevapta ("65°") sayı sınırı korunur; "180°" içindeki "80°" alarm vermez (SAYI_SINIR).
+  if (u.id.startsWith("mat-u2-mutlak") || u.id.startsWith("mat-u2-problem") || u.id.startsWith("mat-u3-")) for (let t = 0; t < ADET; t++) {
     const g = u.gen(R.rng(t)), h3 = g.ipuclari[2].trim().replace(/\.$/, "");
+    const gu = { ...g, u3: u.id.startsWith("mat-u3-") };
     const son = h3.split(/[=:]/).pop().trim();
-    if (son === g.dogru || h3.endsWith(" " + g.dogru) || (son && typeof g.deger === "number" && Number(son.replace("−", "-")) === g.deger))
+    if (son === g.dogru || h3.endsWith(" " + g.dogru) || (son && typeof g.deger === "number" && Number(son.replace("−", "-").replace(/°$/, "")) === g.deger))
       hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: 3. ipucu cevabı veriyor: ${g.ipuclari[2]}` });
-    else if (sizinti(g)) hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: 3. ipucu cevabı söylüyor (${sizinti(g)}): ${g.ipuclari[2]}` });
+    else if (sizinti(gu)) hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: 3. ipucu cevabı söylüyor (${sizinti(gu)}): ${g.ipuclari[2]}` });
     // sifir-yok: "Sıfırı yoktur" her soruda şık olarak görünür, yanında sayılı şıklar da vardır (biçimden cevap çıkmaz).
     if (u.id === "mat-u2-mutlak-sifir-yok") {
       const m = S.uretecten(u, t).secenekler.map(o => o.metin);
       if (!m.includes("Sıfırı yoktur") || !m.some(x => /\d/.test(x))) hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: şık biçimi cevabı veriyor: ${m.join(" | ")}` });
     }
+  }
+  // 9.3.1: yasak sözcükler (kapsam dışı terimler ve şapkasız "dahil") üretilen hiçbir metinde geçmez.
+  if (u.id.startsWith("mat-u3-")) for (let t = 0; t < ADET; t++) {
+    const g = u.gen(R.rng(t));
+    const metin = [g.baglam || "", g.kok, ...g.ipuclari, ...g.cozum, ...g.yanlislar.map(v => v.metin + " " + (v.aciklama || ""))].join(" ");
+    const yasak = metin.match(/Pisagor|hipotenüs|doğrusal|dahil|karekök|√|²/i);
+    if (yasak) hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: yasak sözcük: ${yasak[0]}` });
   }
   // Değerce çakışan yanlışlar: iki farklı hata aynı sayıyı veriyorsa yalnız öndekinin açıklaması görünür.
   // ayikla kullananlarda sarılmış sayaçtan, kullanmayanlarda (insa eler) havuzun kendisinden sayılır.
