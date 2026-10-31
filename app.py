@@ -10,5 +10,5 @@ html_path = os.path.join(os.path.dirname(__file__), "panel", "index.html")
 with open(html_path, "r", encoding="utf-8") as f:
     html_content = f.read()
 
-# Streamlit içinde tam ekran render et
-components.html(html_content, height=900, scroller=True)
+# Streamlit içinde tam ekran render et (Düzeltilen Satır)
+components.html(html_content, height=900, scrolling=True)
