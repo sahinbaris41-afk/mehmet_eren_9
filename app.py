@@ -4,22 +4,21 @@ from pathlib import Path
 # Sayfayı tam ekran genişliğinde başlat
 st.set_page_config(page_title="Mehmet Eren Çalışma Masası", layout="wide", initial_sidebar_state="collapsed")
 
-# Streamlit'in tüm varsayılan sınırlarını ve boşluklarını sıfırlayan kesin CSS
+# Streamlit'in tüm varsayılan sınırlarını ve boşluklarını acımasızca sıfırlayan CSS
 st.markdown("""
     <style>
-        /* Ana uygulama ve blok kapsayıcısı */
-        .stApp, .block-container { 
+        /* Tüm Streamlit kapsayıcılarını tam genişlik yap */
+        .stApp, 
+        .main, 
+        .block-container, 
+        [data-testid="stAppViewContainer"], 
+        [data-testid="stAppViewContainer"] > section {
             padding: 0rem !important; 
-            max-width: 100% !important; 
-            margin: 0 !important;
+            margin: 0rem !important; 
+            max-width: 100% !important;
         }
-        /* Iframe kapsayıcısı */
-        div[data-testid="stIFrame"] {
-            width: 100% !important;
-            height: 100vh !important;
-        }
-        /* Iframe'in kendisi */
-        iframe { 
+        /* Iframe kapsayıcısı ve kendisi */
+        div[data-testid="stIFrame"], iframe { 
             width: 100% !important; 
             height: 100vh !important; 
             border: none !important; 
