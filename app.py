@@ -13,4 +13,4 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Sunucunun config.toml dosyasındaki enableStaticServing özelliğiyle bağlanan nihai statik yönlendirme
-st.components.v1.iframe(src="/static/index.html", height=1000, scrolling=True)
+st.components.v1.iframe(src="/app/static/index.html", height=1000, scrolling=True)
