@@ -29,6 +29,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Iframe'i tam genişlik ve yükseklikte yükle
+# Iframe'i tam genişlik (stretch) ve yükseklikte yükle
 html_file_path = Path(__file__).parent / "static" / "index.html"
-st.iframe(html_file_path, width="100%", height=1000)
+st.iframe(html_file_path, width='stretch', height=1000)
