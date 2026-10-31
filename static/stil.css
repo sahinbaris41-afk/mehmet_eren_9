@@ -31,7 +31,6 @@
   --ok: #5ec997; --ok-bg: #11301f; --bad: #f28c8f; --bad-bg: #3a171b; --idle: #2a3a52; --soft: #2a2213;
   color-scheme: dark;
 }
-
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 1.0625rem; line-height: 1.6; overflow-wrap: anywhere; }
