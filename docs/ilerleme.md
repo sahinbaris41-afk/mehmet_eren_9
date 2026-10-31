@@ -2,7 +2,7 @@
 
 **Durum:** BOŞTA
 
-**Codex sayacı:** 3/3 — çapraz denetim bekliyor (9.2.1, 9.2.2, 9.2.3 ve ortak `ayikla` değişikliği; son çapraz denetim: Matematik Ünite 1, 2026-10-27). Yeni konu başlamadan önce codex-capraz-denetci çalışır, sonra sayaç 0.
+**Codex sayacı:** 0/3 (son çapraz denetim: Matematik Ünite 2 — 9.2.1, 9.2.2, 9.2.3 ve ortak `ayikla`, 2026-10-31, `denetim/codex_matematik_u2.md`, karar DÜZELTİLMELİ: kritik 0, önemli 5. Sonraki 3 konu bitince yeniden çalışır.)
 
 Döngü kuralı:
 - Durum "ÇALIŞIYOR" iken yeni konu başlatılmaz.

@@ -958,7 +958,6 @@
    "cevap": "a) A(x) = 18x + 2400, B(x) = 24x + 1200. b) 18x + 2400 = 24x + 1200 → 1200 = 6x → x = 200 km; A(200) = B(200) = 6000 TL. c) 18x + 2400 < 24x + 1200 → 1200 < 6x → 200 < x, yani x > 200: 200 km'den uzun taşımalarda A daha ekonomiktir (tam sayı km için en az 201 km). ç) x = 100: A = 4200 TL, B = 3600 TL, B ucuz; x = 300: A = 7800 TL, B = 8400 TL, A ucuz. Tablo, kesim noktasından sonra A'nın ucuz olduğunu doğruluyor.",
    "kabul_edilenler": [
     "x > 200",
-    "en az 201 km",
     "200 km'den uzun taşımalarda"
    ],
    "ipuclari": [
@@ -1005,7 +1004,7 @@
      "puan": 2
     },
     {
-     "olcut": "c) x > 200 bulup bağlamda yorumlama: 200 km'den uzun taşımalarda A daha ekonomik ya da en az 201 km (bu anlama gelen ifadeler kabul edilir).",
+     "olcut": "c) x > 200 bulup bağlamda yorumlama: 200 km'den uzun taşımalarda A daha ekonomik (bu anlama gelen ifadeler kabul edilir; km sürekli büyüklük olduğu için \"en az 201 km\" bu ölçütü karşılamaz)..",
      "puan": 2
     },
     {
@@ -1013,7 +1012,7 @@
      "puan": 3
     }
    ],
-   "puanlama_notu": "c) şıkkında 'x > 200' de 'en az 201 km' de tam puan alır (docs/dogrula.md #30). 'x ≥ 200' ya da 'en az 200 km' yazan öğrenci yorum ölçütünün puanını alamaz; 200 km'de iki ücret eşittir. 'x < 200' yazan öğrenci de yorum ölçütünün puanını alamaz: bu öğrenci hangi doğrunun altta olduğunu ters okuyup kesim noktasından sonraki sırayı (A ucuz) kesim noktasının soluna taşımıştır ya da 1200 < 6x satırını 'x < 200' diye okumuştur. b) şıkkında yalnız 200 yazıp ücreti bulmayan öğrenci ücret ölçütünün puanını alamaz; ücret olarak 200 yazmak kesim noktasının x'i ile y'sini karıştırmaktır. ç) şıkkında kontrol grafikle yapılırsa (iki doğru çizilip 200'ün sağında A'nın doğrusunun altta kaldığı gösterilirse) da tam puan verilir; yalnız tek yandan değer seçilirse 1 puan verilir. b) şıkkında x yanlış bulunup ücret ve sonraki şıklar bu x ile tutarlı çözülürse ilgili puanlar verilir.",
+   "puanlama_notu": "c) şıkkında yalnız 'x > 200' ya da '200 km'den uzun/fazla' tam puan alır. Km sürekli büyüklüktür; 'en az 201 km' 200 ile 201 arasını dışarıda bırakır, yorum ölçütünün puanını alamaz (docs/dogrula.md #30, kapandı). 'x ≥ 200' ya da 'en az 200 km' yazan öğrenci yorum ölçütünün puanını alamaz; 200 km'de iki ücret eşittir. 'x < 200' yazan öğrenci de yorum ölçütünün puanını alamaz: bu öğrenci hangi doğrunun altta olduğunu ters okuyup kesim noktasından sonraki sırayı (A ucuz) kesim noktasının soluna taşımıştır ya da 1200 < 6x satırını 'x < 200' diye okumuştur. b) şıkkında yalnız 200 yazıp ücreti bulmayan öğrenci ücret ölçütünün puanını alamaz; ücret olarak 200 yazmak kesim noktasının x'i ile y'sini karıştırmaktır. ç) şıkkında kontrol grafikle yapılırsa (iki doğru çizilip 200'ün sağında A'nın doğrusunun altta kaldığı gösterilirse) da tam puan verilir; yalnız tek yandan değer seçilirse 1 puan verilir. b) şıkkında x yanlış bulunup ücret ve sonraki şıklar bu x ile tutarlı çözülürse ilgili puanlar verilir.",
    "hata_turu": [
     "kesisim_taraf",
     "aralik_uc",
@@ -1027,7 +1026,6 @@
     "program": "MAT.9.2.3 süreç b, c, ç (program s.50; s.54: f(x) = g(x), f(x) ≤ g(x), kesim noktası, çözümün farklı stratejiyle kontrolü)"
    },
    "dogrula": [
-    "DOĞRULA (docs/dogrula.md #30, açık): Sürekli büyüklükte (km) öğretmenin 'x > 200' mü, 'en az 201' mi beklediği bilinmiyor; kök artık 'en az kaç' diye sormuyor, rubrik ikisini de tam puan sayıyor.",
     "DOĞRULA: Rubrik puan dağılımı ve kontrol adımına verilen puan bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #32)."
    ]
   },

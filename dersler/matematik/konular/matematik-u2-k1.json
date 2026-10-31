@@ -457,27 +457,30 @@
    },
    "katmanlar": {
     "basit": [
-     "Fonksiyonun alabildiği en büyük değere **maksimum değer** denir. En küçük değere **minimum değer** denir.",
+     "Fonksiyonun alabildiği en büyük değere **maksimum değer** denir. En küçük değere **minimum değer** denir. İkisi de yalnız bir y değeridir.",
      "f(x) = x, [1, 5] aralığında tanımlı olsun. Köşeli parantez, [1, 5]'te uçların dâhil olduğunu söyler. En küçük değer f(1) = 1, en büyük değer f(5) = 5 olur.",
+     "Bu değerin hangi x'te alındığı da sorulur. Buna **değerin alındığı x değeri** denir. Maksimum değer 5, x = 5 değerinde alınır.",
+     "Grafikte bu yer bir (x, y) ikilisidir. Bu ikiliye **grafikteki koordinat** denir. Maksimum değerin grafikteki koordinatı (5, 5)'tir.",
      "Aralık açık, yani (1, 5) ise uçlar dâhil değildir. 4,9 ve 4,99 alınır ama 5 alınmaz; hep daha büyüğü vardır.",
      "Bu yüzden (1, 5)'te maksimum değer yoktur. Aynı nedenle minimum değer de yoktur.",
-     "ℝ'de tanımlı f(x) = x'in de maksimumu ve minimumu yoktur. Doğru iki yönde de sonsuza gider."
+     "ℝ'de tanımlı f(x) = x'in de maksimum değeri ve minimum değeri yoktur. Doğru iki yönde de sonsuza gider."
     ],
     "kitap": [
-     "Kitap tanımı (s.96): [a, b]'deki her x için f(x) ≤ f(m) ise f(m) maksimum değerdir. Bu değeri aldığı nokta maksimum noktasıdır.",
-     "Her x için f(x) ≥ f(n) ise f(n) minimum değerdir. Bu değeri aldığı nokta minimum noktasıdır.",
-     "Kitap f(x) = x'i [1, 5] ve (1, 5) aralıklarında karşılaştırır (s.94). Açık aralıkta maksimum ve minimum olup olmadığı tartışılır."
+     "Kitap tanımı (s.96): [a, b]'deki her x için f(x) ≤ f(m) ise f(m) maksimum değerdir. Değerin alındığı x değeri burada m'dir.",
+     "Her x için f(x) ≥ f(n) ise f(n) minimum değerdir. Değerin alındığı x değeri burada n'dir.",
+     "Kitabın tanımında bu yerin adı maksimum noktası ya da minimum noktasıdır (s.96). Orada değerin alındığı x ya da grafikteki koordinat kastedilir; yazılıda hangisini yazdığını adıyla belirt.",
+     "Kitap f(x) = x'i [1, 5] ve (1, 5) aralıklarında karşılaştırır (s.94). Açık aralıkta maksimum değer ve minimum değer olup olmadığı tartışılır."
     ],
     "yazilida": {
      "kalip": "Verilen aralıkta tanımlı fonksiyonun maksimum ve minimum değerlerini bulunuz.",
-     "ornek_soru": "f: [−3, 4] → ℝ, f(x) = x veriliyor. a) Görüntü kümesini bulunuz. b) Maksimum ve minimum değerlerini ve noktalarını bulunuz. c) Tanım kümesi [−3, 4) olsaydı maksimum değer olur muydu? Açıklayınız.",
+     "ornek_soru": "f: [−3, 4] → ℝ, f(x) = x veriliyor. a) Görüntü kümesini bulunuz. b) Maksimum ve minimum değerlerini, bu değerlerin alındığı x değerlerini ve grafikteki koordinatlarını bulunuz. c) Tanım kümesi [−3, 4) olsaydı maksimum değer olur muydu? Açıklayınız.",
      "ornek_cevap": [
       "1. a) Uçlarda f(−3) = −3 ve f(4) = 4 olur.",
       "2. f(x) = x artan olduğundan görüntü kümesi [−3, 4] bulunur.",
       "3. b) Minimum değer −3'tür.",
-      "4. Bu değer x = −3'te alınır; minimum noktası (−3, −3)'tür.",
+      "4. Bu değer x = −3 değerinde alınır; grafikteki koordinatı (−3, −3)'tür.",
       "5. Maksimum değer 4'tür.",
-      "6. Bu değer x = 4'te alınır; maksimum noktası (4, 4)'tür.",
+      "6. Bu değer x = 4 değerinde alınır; grafikteki koordinatı (4, 4)'tür.",
       "7. c) [−3, 4)'te 4 dâhil değildir; 4'e yaklaşan her sayıdan daha büyüğü vardır.",
       "8. Bu yüzden maksimum değer olmaz; minimum değer yine −3'tür."
      ],
@@ -487,11 +490,19 @@
    "terimler": [
     {
      "terim": "maksimum değer",
-     "tanim": "Fonksiyonun verilen aralıkta aldığı en büyük değer."
+     "tanim": "Fonksiyonun verilen aralıkta aldığı en büyük değer; yalnız y değeridir."
     },
     {
      "terim": "minimum değer",
-     "tanim": "Fonksiyonun verilen aralıkta aldığı en küçük değer."
+     "tanim": "Fonksiyonun verilen aralıkta aldığı en küçük değer; yalnız y değeridir."
+    },
+    {
+     "terim": "değerin alındığı x değeri",
+     "tanim": "Maksimum ya da minimum değerin hangi x'te alındığı. [1, 5]'te f(x) = x için maksimum değer x = 5 değerinde alınır."
+    },
+    {
+     "terim": "grafikteki koordinat",
+     "tanim": "Bu yerin grafikteki (x, y) ikilisi. [1, 5]'te f(x) = x için maksimum değerin grafikteki koordinatı (5, 5)'tir."
     }
    ],
    "kontrol_sorulari": [
@@ -944,7 +955,7 @@
   },
   {
    "on": "f(x) = x, (1, 5) aralığında tanımlıysa maksimum değeri var mı?",
-   "arka": "Yoktur; 5 dâhil değildir. [1, 5]'te olsaydı maksimum 5 olurdu."
+   "arka": "Yoktur; 5 dâhil değildir. [1, 5]'te olsaydı maksimum değer 5 olurdu; x = 5 değerinde alınırdı, grafikteki koordinatı (5, 5) olurdu."
   },
   {
    "on": "g(x) = ax + b'de a ve b neyi söyler?",
@@ -970,7 +981,7 @@
   },
   {
    "hata_turu": "aralik_uc",
-   "aciklama": "(1, 5) aralığında maksimum değeri 5 sanmak. Uç dâhil değilse maksimum yoktur."
+   "aciklama": "(1, 5) aralığında maksimum değeri 5 sanmak. Uç dâhil değilse maksimum değer yoktur."
   },
   {
    "hata_turu": "egim_kesisim_karistirma",
@@ -999,11 +1010,11 @@
  ],
  "dogrula": [
   "DOĞRULA: x ekseni boyunca öteleme (f(x − r) grafiği r birim sağa) için kitapta açık kural yok; s.115 yalnız y ekseni ötelemesini veriyor, s.108'deki g(x) = 130x − 260 = 130(x − 2) örtük örnektir. Program s.52 r'yi açıkça kapsamda sayıyor; kart b9'daki sağa-sola öteleme anlatımı program kaynaklıdır. Öğretmen defteriyle teyit edilmeli.",
-  "DOĞRULA: 'Maksimum noktası' için kitap 'bu değeri aldığı nokta' diyor (s.96); x değeri mi, (x, f(x)) mi kastedildiği belirsiz. Kart ikisini birlikte yazdı (x = 4'te, yani (4, 4)).",
+  "Bilgi notu: #22 kararı (2026-10-31): kart üç ad kullanır — minimum/maksimum değer (y), değerin alındığı x değeri, grafikteki koordinat (x, y). Öğretmenin yazılıda 'minimum noktası' ile hangisini beklediği yine sorulabilir.",
   "DOĞRULA: Sabit fonksiyonun maksimum-minimum durumu kitapta (s.110) tartışmaya bırakılmış, cevabı yok; kart bu konuya girmedi.",
   "DOĞRULA: Elimizdeki geçmiş ortak sınavlarda (2025-26 1D1Y, 2024-25 2D1Y) doğrusal fonksiyon sorusu yok; 1D2Y ülke geneli konu-soru dağılımı da yayımlanmadı. 'Yazılıda' kalıpları kitap örnek ve alıştırmalarından (s.100, 105-106, 116-118) uyarlandı."
  ],
- "surum": 3,
+ "surum": 4,
  "uretim": {
   "ajan": "konu-anlatici",
   "tarih": "2026-10-27"

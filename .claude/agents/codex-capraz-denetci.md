@@ -23,10 +23,11 @@ codex exec --sandbox read-only --skip-git-repo-check -C . \
   "AGENTS.md kurallarına göre şu dosyayı <tur> açısından denetle: <dosya>.
    Karşılaştırma kaynağı: <kitap metni klasörü ve sayfa aralığı>.
    Yalnızca bulguları yaz: her biri için dosya, konum, sorun, kanıt (kaynak dosya + sayfa), önem (KRİTİK/ÖNEMLİ/KÜÇÜK).
-   Dosya değiştirme. Türkçe yaz."
+   Dosya değiştirme. Türkçe yaz." < /dev/null
 ```
+- `< /dev/null` zorunlu: yoksa codex stdin bekler ("Reading additional input from stdin...") ve süresiz takılır (2026-10-31 Ünite 2 denetiminde 1 saatten fazla takıldı).
 - `-o` Codex'in son mesajını rapor dosyasına yazar. `denetim/` klasörü yoksa önce `mkdir -p denetim`.
-- Model değişikliği gerekirse `-m <model>`; varsayılan Codex yapılandırması kullanılır.
+- Model: `-m gpt-6-luna` (ChatGPT hesabında varsayılan gpt-5.5 desteklenmiyor; docs/ilerleme.md).
 - Komut hata verirse (kimlik doğrulama, ağ) rapor dosyası oluşturma; hatayı aynen raporla.
 
 ## Kurallar

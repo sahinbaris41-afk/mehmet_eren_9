@@ -3380,27 +3380,30 @@
      },
      "katmanlar": {
       "basit": [
-       "Fonksiyonun alabildiği en büyük değere **maksimum değer** denir. En küçük değere **minimum değer** denir.",
+       "Fonksiyonun alabildiği en büyük değere **maksimum değer** denir. En küçük değere **minimum değer** denir. İkisi de yalnız bir y değeridir.",
        "f(x) = x, [1, 5] aralığında tanımlı olsun. Köşeli parantez, [1, 5]'te uçların dâhil olduğunu söyler. En küçük değer f(1) = 1, en büyük değer f(5) = 5 olur.",
+       "Bu değerin hangi x'te alındığı da sorulur. Buna **değerin alındığı x değeri** denir. Maksimum değer 5, x = 5 değerinde alınır.",
+       "Grafikte bu yer bir (x, y) ikilisidir. Bu ikiliye **grafikteki koordinat** denir. Maksimum değerin grafikteki koordinatı (5, 5)'tir.",
        "Aralık açık, yani (1, 5) ise uçlar dâhil değildir. 4,9 ve 4,99 alınır ama 5 alınmaz; hep daha büyüğü vardır.",
        "Bu yüzden (1, 5)'te maksimum değer yoktur. Aynı nedenle minimum değer de yoktur.",
-       "ℝ'de tanımlı f(x) = x'in de maksimumu ve minimumu yoktur. Doğru iki yönde de sonsuza gider."
+       "ℝ'de tanımlı f(x) = x'in de maksimum değeri ve minimum değeri yoktur. Doğru iki yönde de sonsuza gider."
       ],
       "kitap": [
-       "Kitap tanımı (s.96): [a, b]'deki her x için f(x) ≤ f(m) ise f(m) maksimum değerdir. Bu değeri aldığı nokta maksimum noktasıdır.",
-       "Her x için f(x) ≥ f(n) ise f(n) minimum değerdir. Bu değeri aldığı nokta minimum noktasıdır.",
-       "Kitap f(x) = x'i [1, 5] ve (1, 5) aralıklarında karşılaştırır (s.94). Açık aralıkta maksimum ve minimum olup olmadığı tartışılır."
+       "Kitap tanımı (s.96): [a, b]'deki her x için f(x) ≤ f(m) ise f(m) maksimum değerdir. Değerin alındığı x değeri burada m'dir.",
+       "Her x için f(x) ≥ f(n) ise f(n) minimum değerdir. Değerin alındığı x değeri burada n'dir.",
+       "Kitabın tanımında bu yerin adı maksimum noktası ya da minimum noktasıdır (s.96). Orada değerin alındığı x ya da grafikteki koordinat kastedilir; yazılıda hangisini yazdığını adıyla belirt.",
+       "Kitap f(x) = x'i [1, 5] ve (1, 5) aralıklarında karşılaştırır (s.94). Açık aralıkta maksimum değer ve minimum değer olup olmadığı tartışılır."
       ],
       "yazilida": {
        "kalip": "Verilen aralıkta tanımlı fonksiyonun maksimum ve minimum değerlerini bulunuz.",
-       "ornek_soru": "f: [−3, 4] → ℝ, f(x) = x veriliyor. a) Görüntü kümesini bulunuz. b) Maksimum ve minimum değerlerini ve noktalarını bulunuz. c) Tanım kümesi [−3, 4) olsaydı maksimum değer olur muydu? Açıklayınız.",
+       "ornek_soru": "f: [−3, 4] → ℝ, f(x) = x veriliyor. a) Görüntü kümesini bulunuz. b) Maksimum ve minimum değerlerini, bu değerlerin alındığı x değerlerini ve grafikteki koordinatlarını bulunuz. c) Tanım kümesi [−3, 4) olsaydı maksimum değer olur muydu? Açıklayınız.",
        "ornek_cevap": [
         "1. a) Uçlarda f(−3) = −3 ve f(4) = 4 olur.",
         "2. f(x) = x artan olduğundan görüntü kümesi [−3, 4] bulunur.",
         "3. b) Minimum değer −3'tür.",
-        "4. Bu değer x = −3'te alınır; minimum noktası (−3, −3)'tür.",
+        "4. Bu değer x = −3 değerinde alınır; grafikteki koordinatı (−3, −3)'tür.",
         "5. Maksimum değer 4'tür.",
-        "6. Bu değer x = 4'te alınır; maksimum noktası (4, 4)'tür.",
+        "6. Bu değer x = 4 değerinde alınır; grafikteki koordinatı (4, 4)'tür.",
         "7. c) [−3, 4)'te 4 dâhil değildir; 4'e yaklaşan her sayıdan daha büyüğü vardır.",
         "8. Bu yüzden maksimum değer olmaz; minimum değer yine −3'tür."
        ],
@@ -3410,11 +3413,19 @@
      "terimler": [
       {
        "terim": "maksimum değer",
-       "tanim": "Fonksiyonun verilen aralıkta aldığı en büyük değer."
+       "tanim": "Fonksiyonun verilen aralıkta aldığı en büyük değer; yalnız y değeridir."
       },
       {
        "terim": "minimum değer",
-       "tanim": "Fonksiyonun verilen aralıkta aldığı en küçük değer."
+       "tanim": "Fonksiyonun verilen aralıkta aldığı en küçük değer; yalnız y değeridir."
+      },
+      {
+       "terim": "değerin alındığı x değeri",
+       "tanim": "Maksimum ya da minimum değerin hangi x'te alındığı. [1, 5]'te f(x) = x için maksimum değer x = 5 değerinde alınır."
+      },
+      {
+       "terim": "grafikteki koordinat",
+       "tanim": "Bu yerin grafikteki (x, y) ikilisi. [1, 5]'te f(x) = x için maksimum değerin grafikteki koordinatı (5, 5)'tir."
       }
      ],
      "kontrol_sorulari": [
@@ -3867,7 +3878,7 @@
     },
     {
      "on": "f(x) = x, (1, 5) aralığında tanımlıysa maksimum değeri var mı?",
-     "arka": "Yoktur; 5 dâhil değildir. [1, 5]'te olsaydı maksimum 5 olurdu."
+     "arka": "Yoktur; 5 dâhil değildir. [1, 5]'te olsaydı maksimum değer 5 olurdu; x = 5 değerinde alınırdı, grafikteki koordinatı (5, 5) olurdu."
     },
     {
      "on": "g(x) = ax + b'de a ve b neyi söyler?",
@@ -3893,7 +3904,7 @@
     },
     {
      "hata_turu": "aralik_uc",
-     "aciklama": "(1, 5) aralığında maksimum değeri 5 sanmak. Uç dâhil değilse maksimum yoktur."
+     "aciklama": "(1, 5) aralığında maksimum değeri 5 sanmak. Uç dâhil değilse maksimum değer yoktur."
     },
     {
      "hata_turu": "egim_kesisim_karistirma",
@@ -3922,11 +3933,11 @@
    ],
    "dogrula": [
     "DOĞRULA: x ekseni boyunca öteleme (f(x − r) grafiği r birim sağa) için kitapta açık kural yok; s.115 yalnız y ekseni ötelemesini veriyor, s.108'deki g(x) = 130x − 260 = 130(x − 2) örtük örnektir. Program s.52 r'yi açıkça kapsamda sayıyor; kart b9'daki sağa-sola öteleme anlatımı program kaynaklıdır. Öğretmen defteriyle teyit edilmeli.",
-    "DOĞRULA: 'Maksimum noktası' için kitap 'bu değeri aldığı nokta' diyor (s.96); x değeri mi, (x, f(x)) mi kastedildiği belirsiz. Kart ikisini birlikte yazdı (x = 4'te, yani (4, 4)).",
+    "Bilgi notu: #22 kararı (2026-10-31): kart üç ad kullanır — minimum/maksimum değer (y), değerin alındığı x değeri, grafikteki koordinat (x, y). Öğretmenin yazılıda 'minimum noktası' ile hangisini beklediği yine sorulabilir.",
     "DOĞRULA: Sabit fonksiyonun maksimum-minimum durumu kitapta (s.110) tartışmaya bırakılmış, cevabı yok; kart bu konuya girmedi.",
     "DOĞRULA: Elimizdeki geçmiş ortak sınavlarda (2025-26 1D1Y, 2024-25 2D1Y) doğrusal fonksiyon sorusu yok; 1D2Y ülke geneli konu-soru dağılımı da yayımlanmadı. 'Yazılıda' kalıpları kitap örnek ve alıştırmalarından (s.100, 105-106, 116-118) uyarlandı."
    ],
-   "surum": 3,
+   "surum": 4,
    "uretim": {
     "ajan": "konu-anlatici",
     "tarih": "2026-10-27"
@@ -4079,13 +4090,16 @@
        "Önce f(x) = x doğrusunu çiz. Bu doğrunun x < 0 olan kısmı x ekseninin altında kalır.",
        "Yalnız bu alttaki kısmı x eksenine göre yukarı çevir. Buna **yansıma** denir; (−2, −2) noktası (−2, 2) olur.",
        "Üstteki kısım aynen kalır; bütün doğru yansıtılmaz. Sonuç V harfine benzer.",
-       "g(x) = |x| en küçük değeri olan 0'ı x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Kitabın tablosunda bu satırın adı **minimum noktası**dır. Minimum değer ise yalnız y değeridir: 0."
+       "g(x) = |x|'in en küçük değeri 0'dır. Fonksiyonun alabildiği en küçük y değerine **minimum değer** denir.",
+       "Bu değer x = 0'da alınır. Buna **değerin alındığı x değeri** denir: minimum değer x = 0 değerinde alınır.",
+       "V'nin en alt noktası grafikte (0, 0)'dadır. Bu (x, y) ikilisine **grafikteki koordinat** denir."
       ],
       "kitap": [
        "Kitap |ax + b| grafiğini ax + b doğrusundan elde eder (s.129). Doğrunun negatif değer aldığı kısmın x eksenine göre yansıması alınır.",
        "Bu yüzden grafik hiç x ekseninin altına inmez. Kitap, grafiğe bakarak g(x) = |x|'in parçalı gösterimli bir fonksiyon olduğunu söyler (s.124).",
-       "Kitaptaki nitel özellik tablolarında 'Maksimum Noktası' ve 'Minimum Noktası' satırları vardır (s.122, s.126, s.128). Tablolar boştur; bu satırları öğrenci doldurur.",
-       "Kitap 'nokta' sözünü x değeri için de kullanır: 'minimum değerini x = −b/a noktasında alır' (s.134), 'maksimum değerini 16 ve 24 noktalarında aldığı' (s.127)."
+       "Kitabın tablosunda bu satırın adı minimum noktasıdır; orada değerin alındığı x ya da grafikteki koordinat yazılır.",
+       "Aynı tablolarda maksimum için de bir satır vardır (s.122, s.126, s.128). Tablolar boştur; bu satırları öğrenci doldurur.",
+       "Kitap 'nokta' sözünü x değeri için de kullanır: 'minimum değerini x = −b/a noktasında alır' (s.134), 'maksimum değerini 16 ve 24 noktalarında aldığı' (s.127). Kart bunun yerine 'değerin alındığı x değeri' der."
       ],
       "yazilida": {
        "kalip": "f(x) = x grafiğinden yararlanarak g(x) = |x| grafiğini çiziniz; iki grafiğin benzerlik ve farklılıklarını yazınız.",
@@ -4106,8 +4120,16 @@
        "tanim": "Grafiğin bir parçasını x eksenine göre öbür tarafa, aynı uzaklığa taşımak; x aynı kalır, y'nin işareti değişir."
       },
       {
-       "terim": "minimum noktası",
-       "tanim": "Fonksiyonun minimum değerini aldığı yer. |x| minimum değerini x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Minimum değer ise yalnız y'dir: 0."
+       "terim": "minimum değer",
+       "tanim": "Fonksiyonun alabildiği en küçük değer; yalnız y değeridir. |x| için 0."
+      },
+      {
+       "terim": "değerin alındığı x değeri",
+       "tanim": "Minimum ya da maksimum değerin hangi x'te alındığı. |x| için minimum değer x = 0 değerinde alınır."
+      },
+      {
+       "terim": "grafikteki koordinat",
+       "tanim": "Bu yerin grafikteki (x, y) ikilisi. |x| için grafiğin en alt noktasının koordinatı (0, 0)'dır."
       }
      ],
      "kontrol_sorulari": [
@@ -4166,7 +4188,7 @@
        "Fonksiyonun nerede +, nerede − olduğunu **işaret tablosu** gösterir. |x| için x < 0 iken +, x = 0 iken 0, x > 0 iken + olur. f(x) = x'te sol taraf −'ydi; burada + oldu."
       ],
       "kitap": [
-       "Kitap f(x) = x ile g(x) = |x|'i aynı tabloda karşılaştırır (s.122). Tablonun satırları tanım kümesi, görüntü kümesi, sıfır, işaret, maksimum-minimum noktası, bire birlik ve artan-azalandır.",
+       "Kitap f(x) = x ile g(x) = |x|'i aynı tabloda karşılaştırır (s.122). Tablonun satırları tanım kümesi, görüntü kümesi, sıfır, işaret, maksimum-minimum, bire birlik ve artan-azalandır.",
        "Kitaba göre f, x < 0 için negatif, x > 0 için pozitiftir. g ise x < 0 için de x > 0 için de pozitiftir (s.123).",
        "Kitap g'nin işaret tablosunu f'nin tablosundan elde eder (s.123). Sol taraftaki − işareti + olur."
       ],
@@ -4249,13 +4271,13 @@
       "basit": [
        "x, −3'ten 0'a giderken |x| 3, 2, 1, 0 olur; değerler küçülür. Yani |x|, (−∞, 0] aralığında azalandır.",
        "x, 0'dan 3'e giderken |x| 0, 1, 2, 3 olur; değerler büyür. Yani |x|, [0, ∞) aralığında artandır.",
-       "En küçük değer 0'dır ve x = 0'da alınır. Kitap en küçük değere **minimum değer**, en büyük değere **maksimum değer** der. V yukarı sonsuza açılır; |x|'in maksimum değeri yoktur.",
-       "Dikkat: minimum değer yalnız y'dir, yani 0. |x| bu değeri x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Yazılıda ikisini birlikte yaz: 'x = 0'da alır, grafikte (0, 0)'.",
+       "En küçük değer 0'dır ve x = 0 değerinde alınır. Kitap en küçük değere **minimum değer**, en büyük değere **maksimum değer** der. V yukarı sonsuza açılır; |x|'in maksimum değeri yoktur.",
+       "Dikkat: minimum değer yalnız y'dir, yani 0. Değerin alındığı x değeri 0'dır; grafikteki koordinat (0, 0)'dır. Yazılıda üçünü ayrı ayrı adıyla yaz.",
        "|−2| = |2| = 2 olur. İki farklı x aynı sonucu verdiği için |x| **bire bir** değildir. f(x) = x ise bire birdi."
       ],
       "kitap": [
-       "Kitabın genel sonucunda (s.134) |ax + b|, x = −b/a'nın solunda azalan, sağında artandır. |x|'te a = 1, b = 0 olduğundan bu nokta x = 0'dır.",
-       "Kitaba göre bu fonksiyonun maksimum değeri yoktur. Fonksiyon minimum değerini x = −b/a noktasında alır (s.134). |x| için minimum değer 0'dır.",
+       "Kitabın genel sonucunda (s.134) |ax + b|, x = −b/a'nın solunda azalan, sağında artandır. |x|'te a = 1, b = 0 olduğundan bu x değeri 0'dır.",
+       "Kitaba göre bu fonksiyonun maksimum değeri yoktur. Minimum değerin alındığı x değeri x = −b/a'dır (s.134). |x| için minimum değer 0'dır.",
        "Kitap fonksiyonun bire bir olmadığını da yazar (s.134). Bunu göstermek için aynı sonucu veren iki farklı x yeter."
       ],
       "yazilida": {
@@ -4264,7 +4286,7 @@
        "ornek_cevap": [
         "1. a) x ≤ 0 iken x büyüdükçe |x| küçülür; g, (−∞, 0] aralığında azalandır.",
         "2. x ≥ 0 iken x büyüdükçe |x| büyür; g, [0, ∞) aralığında artandır.",
-        "3. b) |x| ≥ 0 olduğundan minimum değer 0'dır; x = 0'da alınır.",
+        "3. b) |x| ≥ 0 olduğundan minimum değer 0'dır; x = 0 değerinde alınır.",
         "4. Değerler sınırsız büyür; maksimum değer yoktur.",
         "5. c) −2 ≠ 2 olduğu hâlde g(−2) = 2 ve g(2) = 2 olur.",
         "6. Farklı x'ler aynı değeri verdiği için g bire bir değildir."
@@ -4305,7 +4327,7 @@
         "Uzaklık eksi olamaz; en küçük uzaklık nedir?",
         "x = 0 yaz ve |0| değerini hesapla."
        ],
-       "yanlis_aciklama": "|x| hiç eksi olmaz; minimum değeri x = 0'da alınan 0'dır."
+       "yanlis_aciklama": "|x| hiç eksi olmaz; minimum değeri x = 0 değerinde alınan 0'dır."
       },
       {
        "soru": "g(x) = |x| bire bir midir?",
@@ -4337,14 +4359,14 @@
      "katmanlar": {
       "basit": [
        "h(x) = −|x|, |x|'in sonucunun işaretini değiştirir. Tablo: x = −2, −1, 0, 1, 2 için h(x) = −2, −1, 0, −1, −2 olur.",
-       "Grafik, |x| grafiğinin tamamının x eksenine göre yansımasıdır. V ters döner; en üst nokta (0, 0) olur. Kitabın tablosunda bu satırın adı **maksimum noktası**dır.",
+       "Grafik, |x| grafiğinin tamamının x eksenine göre yansımasıdır. V ters döner; grafiğin en üst noktasının koordinatı (0, 0) olur.",
        "Görüntü kümesi (−∞, 0] olur. Sıfır yine 0'dır; x ≠ 0 için işaret hep −'dir.",
-       "Maksimum değer 0'dır, x = 0'da alınır; minimum değer yoktur. h, (−∞, 0]'da artan, [0, ∞)'da azalandır.",
+       "Maksimum değer 0'dır, x = 0 değerinde alınır; minimum değer yoktur. h, (−∞, 0]'da artan, [0, ∞)'da azalandır.",
        "h(−1) = h(1) = −1 olur. Bu yüzden h de bire bir değildir."
       ],
       "kitap": [
        "Kitap h(x) = −|x|'i, g(x) = |x|'teki mutlak değerin katsayısını −1 yaparak kurar (s.122). Grafiği, g'nin grafiğinin x eksenine göre yansımasıdır (s.130).",
-       "Kitaba göre −|ax + b|'nin görüntü kümesi (−∞, 0]'dır. Minimum değeri yoktur; maksimum değerini x = −b/a noktasında alır (s.134).",
+       "Kitaba göre −|ax + b|'nin görüntü kümesi (−∞, 0]'dır. Minimum değeri yoktur; maksimum değerin alındığı x değeri x = −b/a'dır (s.134).",
        "Artan-azalan durumu |ax + b|'nin tersidir: x = −b/a'nın solunda artan, sağında azalandır (s.134)."
       ],
       "yazilida": {
@@ -4354,19 +4376,14 @@
         "1. a) h(x) = −g(x) olduğundan her noktanın y değeri ters işaret alır.",
         "2. Yani h'nin grafiği, g'nin grafiğinin x eksenine göre yansımasıdır.",
         "3. b) |x| ≥ 0 olduğundan −|x| ≤ 0 olur; görüntü kümesi (−∞, 0].",
-        "4. Maksimum değer 0'dır ve x = 0'da alınır. Minimum değer yoktur.",
+        "4. Maksimum değer 0'dır ve x = 0 değerinde alınır. Minimum değer yoktur.",
         "5. c) x ≤ 0 iken x büyüdükçe h büyür; h, (−∞, 0]'da artandır.",
         "6. x ≥ 0 iken x büyüdükçe h küçülür; h, [0, ∞)'da azalandır."
        ],
        "puan_ipucu": "Kitabın işaret tablosunda (s.123) g'nin satırı +, h'nin satırı − ile doldurulur. Önce g'yi bul, sonra işaretleri çevir."
       }
      },
-     "terimler": [
-      {
-       "terim": "maksimum noktası",
-       "tanim": "Fonksiyonun maksimum değerini aldığı yer. −|x| maksimum değerini x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Maksimum değer ise yalnız y'dir: 0."
-      }
-     ],
+     "terimler": [],
      "kontrol_sorulari": [
       {
        "soru": "h(x) = −|x| için h(−3) kaçtır?",
@@ -4386,7 +4403,7 @@
         "−|x| hiç artı olamaz.",
         "x = 0 yaz ve h(0) değerini hesapla."
        ],
-       "yanlis_aciklama": "−|x| en fazla 0 olur; bu değer x = 0'da alınır."
+       "yanlis_aciklama": "−|x| en fazla 0 olur; bu değer x = 0 değerinde alınır."
       }
      ]
     },
@@ -4554,12 +4571,12 @@
        "Örnek: |2x − 6|. Önce y = 2x − 6 doğrusu çizilir. 2x − 6 = 0 ise x = 3; bu sayı **doğrunun sıfırı**dır.",
        "Doğru x = 3'te eksiden artıya geçer. x < 3 kısmı yukarı yansıyınca grafik burada V olur.",
        "Tablo: x = 1, 2, 3, 4, 5 için |2x − 6| = 4, 2, 0, 2, 4 olur. En küçük değer 0'dır ve x = 3'te alınır.",
-       "Yani |2x − 6| minimum değerini x = 3 noktasında alır; grafikte bu nokta (3, 0)'dır. Kısa yol: doğrunun sıfırı neyse, minimum değerin alındığı x odur.",
-       "Önünde eksi varsa, yani −|2x − 6|'da, aynı nokta en üst nokta olur. Kitabın tablosunda bu satırın adı maksimum noktasıdır."
+       "Yani |2x − 6|'nın minimum değeri 0'dır ve x = 3 değerinde alınır. Grafikteki koordinatı (3, 0)'dır. Kısa yol: doğrunun sıfırı neyse, minimum değerin alındığı x değeri odur.",
+       "Önünde eksi varsa, yani −|2x − 6|'da, (3, 0) grafiğin en üst noktasının koordinatı olur. Bu kez maksimum değer 0'dır ve x = 3 değerinde alınır."
       ],
       "kitap": [
        "Kitap önce f(x) = ax + b'yi çizer (s.129). Sonra f'nin negatif olduğu kısmın x eksenine göre yansımasını alır; böylece |ax + b| grafiği oluşur.",
-       "Program bu bağı özellikle ister: ±|ax + b|'nin sıfırı ile grafiği arasındaki ilişki gözlenir (program, s.54). Kitap da |ax + b|'nin minimum değerini x = −b/a noktasında aldığını yazar (s.134).",
+       "Program bu bağı özellikle ister: ±|ax + b|'nin sıfırı ile grafiği arasındaki ilişki gözlenir (program, s.54). Kitaba göre de |ax + b|'nin minimum değerinin alındığı x değeri x = −b/a'dır (s.134).",
        "Kitabın mama örneğinde (s.131) önce y = 2x − 5 çizilir. Negatif kısmı yansıtılır, sonra grafik 3 birim yukarı ötelenir."
       ],
       "yazilida": {
@@ -4572,7 +4589,7 @@
         "4. x < 3 için f negatiftir; bu kısım x eksenine göre yansıtılır.",
         "5. (0, −6) noktası (0, 6) olur; x ≥ 3 kısmı aynen kalır.",
         "6. g, x eksenini (3, 0)'da, y eksenini (0, 6)'da keser.",
-        "7. g minimum değerini x = 3'te alır; grafikte bu nokta (3, 0)'dır."
+        "7. g'nin minimum değeri 0'dır ve x = 3 değerinde alınır; grafikteki koordinatı (3, 0)'dır."
        ],
        "puan_ipucu": "Önce f'nin iki noktasını, sonra yansıyan noktayı işaretle. Kitap da çizimi bu iki adımda yapar (s.129)."
       }
@@ -4635,13 +4652,13 @@
       "basit": [
        "Tanım ve görüntü kümesi, sıfır, işaret, artan-azalan, minimum-maksimum ve bire birlik fonksiyonun **nitel özellik**leridir. Şimdi bunları |x − 20| için bulalım.",
        "|x − 20|'nin sıfırı 20'dir; levha tam 20 mm ise sapma 0'dır. 19 ile 21 aynı sapmayı verir; fonksiyon bire bir değildir.",
-       "Sapma hiç eksi olmaz; görüntü kümesi [0, ∞)'dur. Minimum değer 0'dır ve x = 20'de alınır.",
+       "Sapma hiç eksi olmaz; görüntü kümesi [0, ∞)'dur. Minimum değer 0'dır ve x = 20 değerinde alınır.",
        "x, 20'ye yaklaşırken sapma azalır, uzaklaşırken artar. Yani (−∞, 20]'de azalan, [20, ∞)'da artandır.",
        "−|x − 20| olsaydı işaret − olur, görüntü kümesi (−∞, 0] olurdu. Önce artan sonra azalan olurdu; minimum yerine x = 20'de maksimum değer 0 gelirdi. Değişmeyenler: tanım kümesi ℝ, sıfır 20 ve bire bir olmama."
       ],
       "kitap": [
        "Kitabın genel sonucu (s.134): a ≠ 0 için |ax + b|'nin tanım kümesi ℝ, görüntü kümesi [0, ∞)'dur. Sıfırı x = −b/a'dır.",
-       "İşaret, x = −b/a dışında hep pozitiftir. Maksimum değer yoktur, minimum değer x = −b/a noktasında alınır ve fonksiyon bire bir değildir (s.134).",
+       "İşaret, x = −b/a dışında hep pozitiftir. Maksimum değer yoktur, minimum değerin alındığı x değeri x = −b/a'dır ve fonksiyon bire bir değildir (s.134).",
        "Kitap |ax + b| ± c ve −|ax + b| ± c için de aynı satırlı nitel özellik tablosunu kullanır (s.128-129)."
       ],
       "yazilida": {
@@ -4652,7 +4669,7 @@
         "2. b) x + 2 = 0 ⇒ x = −2. Sıfır −2'dir.",
         "3. c) g, (−∞, −2] aralığında azalandır.",
         "4. g, [−2, ∞) aralığında artandır.",
-        "5. ç) Minimum değer 0'dır ve x = −2'de alınır; grafikte bu nokta (−2, 0)'dır.",
+        "5. ç) Minimum değer 0'dır ve x = −2 değerinde alınır; grafikteki koordinatı (−2, 0)'dır.",
         "6. x büyüdükçe değerler sınırsız büyür; maksimum değer yoktur.",
         "7. d) g(−3) = |−3 + 2| = |−1| = 1.",
         "8. g(−1) = |−1 + 2| = |1| = 1.",
@@ -4696,7 +4713,7 @@
         "−|...| hiç artı olamaz.",
         "x = 1 yaz ve değeri hesapla."
        ],
-       "yanlis_aciklama": "−|x − 1| en fazla 0 olur; bu değer x = 1'de alınır."
+       "yanlis_aciklama": "−|x − 1| en fazla 0 olur; bu değer x = 1 değerinde alınır."
       }
      ]
     },
@@ -4721,16 +4738,16 @@
        "V yukarı açık ve aralık kapalıysa en büyük değer uç noktalardadır. Bulmak için iki uçta değer hesapla, büyüğünü al. Sapma fonksiyonu g(x) = |x − 20| olsun:",
        "1. Sol uç: g(18) = |18 − 20| = |−2| = 2.",
        "2. Sağ uç: g(22) = |22 − 20| = 2.",
-       "3. Büyüğünü al. İkisi de 2; maksimum değer 2'dir, x = 18 ve x = 22'de alınır.",
+       "3. Büyüğünü al. İkisi de 2; maksimum değer 2'dir, x = 18 ve x = 22 değerlerinde alınır.",
        "4. 20 aralığın içinde olduğu için minimum değer g(20) = 0'dır.",
        "5. Sapma 0 ile 2 arasında kalır; görüntü kümesi [0, 2]. Yani sapma en fazla 2 mm.",
-       "Uçlar eşit çıkmayabilir. [17, 21]'de g(17) = 3, g(21) = 1 olur; maksimum değer 3'tür, x = 17'de alınır.",
+       "Uçlar eşit çıkmayabilir. [17, 21]'de g(17) = 3, g(21) = 1 olur; maksimum değer 3'tür, x = 17 değerinde alınır.",
        "Ters V'de bu kural işlemez. Örnek: −|x| + 4, tanım kümesi [−2, 3] kapalı aralığı. Uçlarda −|−2| + 4 = 2 ve −|3| + 4 = 1 olur.",
-       "Ama x = 0'da −|0| + 4 = 4 olur. En büyük değer 4'tür; uçta değil, aralığın içindeki maksimum noktasında, x = 0'da alınır."
+       "Ama x = 0'da −|0| + 4 = 4 olur. En büyük değer 4'tür; uçta değil, aralığın içinde, x = 0 değerinde alınır."
       ],
       "kitap": [
        "Kitabın sıcaklık örneğinde (s.126-127) sapma g(x) = |x − 20| ile verilir ve tanım kümesi [16, 24]'tür.",
-       "Kitap grafikten minimum değeri 0, maksimum değeri 4 bulur. Maksimum değerin 16 ve 24 noktalarında alındığını yazar (s.127)."
+       "Kitap grafikten minimum değeri 0, maksimum değeri 4 bulur. Kitabın dilinde maksimum değer '16 ve 24 noktalarında' alınır (s.127); yani değerin alındığı x değerleri 16 ve 24'tür."
       ],
       "yazilida": {
        "kalip": "Gerçek yaşam durumunu modelleyen mutlak değer fonksiyonunun tanım ve görüntü kümesini, sıfırını, minimum-maksimum değerlerini ve bire birliğini bulunuz.",
@@ -4742,8 +4759,8 @@
         "4. g(22) = |22 − 20| = 2.",
         "5. Sapma 0 ile 2 arasında kalır; görüntü kümesi [0, 2].",
         "6. b) |x − 20| = 0 ⇒ x = 20. Levha tam 20 mm iken sapma yoktur.",
-        "7. c) Minimum değer 0'dır; x = 20'de alınır.",
-        "8. Maksimum değer 2'dir; x = 18 ve x = 22'de alınır.",
+        "7. c) Minimum değer 0'dır; x = 20 değerinde alınır.",
+        "8. Maksimum değer 2'dir; x = 18 ve x = 22 değerlerinde alınır.",
         "9. ç) 18 ≠ 22 olduğu hâlde g(18) = g(22) = 2'dir. Bu yüzden g bire bir değildir."
        ],
        "puan_ipucu": "Kitabın sıcaklık örneği (s.127) aynı sırayla çözülür. Uçlardaki ve içteki değerleri ayrı satırlarda hesapla; görüntü kümesini en son yaz."
@@ -4951,11 +4968,11 @@
      },
      "katmanlar": {
       "basit": [
-       "|x − 2| + 3, |x − 2| grafiğinin her noktasını 3 birim yukarı taşır. Minimum değer 0'dan 3'e çıkar; x = 2'de alınır, grafikte nokta (2, 0)'dan (2, 3)'e geçer.",
-       "|x − 2| − 3 ise her noktayı 3 birim aşağı taşır. Minimum değer −3 olur, grafikte nokta (2, −3); V'nin bir kısmı x ekseninin altına iner.",
+       "|x − 2| + 3, |x − 2| grafiğinin her noktasını 3 birim yukarı taşır. Minimum değer 0'dan 3'e çıkar ve yine x = 2 değerinde alınır. Grafikteki koordinat (2, 0)'dan (2, 3)'e geçer.",
+       "|x − 2| − 3 ise her noktayı 3 birim aşağı taşır. Minimum değer −3 olur, grafikteki koordinatı (2, −3)'tür; V'nin bir kısmı x ekseninin altına iner.",
        "Doğrusal fonksiyondaki ax + b'nin b'si gibi düşün. Bu kaydırmaya **öteleme** denir; şekil bozulmaz.",
        "Tek yazım kullanacağız: |ax + b| + c. Burada c herhangi bir gerçek sayıdır ve işaretiyle alınır; |x − 2| − 3'te c = −3'tür. c > 0 ise grafik yukarı, c < 0 ise aşağı ötelenir.",
-       "Aynı kural −|ax + b| + c için de geçerlidir. −|x − 2| + 3'te c = 3; maksimum değer 3'tür, x = 2'de alınır, grafikte nokta (2, 3)."
+       "Aynı kural −|ax + b| + c için de geçerlidir. −|x − 2| + 3'te c = 3; maksimum değer 3'tür, x = 2 değerinde alınır, grafikteki koordinatı (2, 3)'tür."
       ],
       "kitap": [
        "Kitap iki ayrı yazım kullanır: |ax + b| + c ve |ax + b| − c; orada c pozitif bir sayıdır (s.130). İlki grafiği c birim yukarı, ikincisi c birim aşağı öteler.",
@@ -4969,9 +4986,9 @@
        "ornek_cevap": [
         "1. y = 2x − 4 doğrusunu çizelim: 2x − 4 = 0 ⇒ x = 2.",
         "2. Doğru y eksenini (0, −4)'te keser.",
-        "3. x < 2 kısmını x eksenine göre yansıtalım: |2x − 4| oluşur; minimum değer 0, x = 2'de, grafikte (2, 0).",
+        "3. x < 2 kısmını x eksenine göre yansıtalım: |2x − 4| oluşur; minimum değer 0, x = 2 değerinde alınır, grafikteki koordinatı (2, 0).",
         "4. c = 1 > 0 olduğundan grafiği y ekseni boyunca 1 birim yukarı öteleyelim.",
-        "5. Minimum değer 1 olur, x = 2'de alınır; grafikte nokta (2, 1).",
+        "5. Minimum değer 1 olur, x = 2 değerinde alınır; grafikteki koordinatı (2, 1).",
         "6. h(0) = |0 − 4| + 1 = 4 + 1 = 5; grafik y eksenini (0, 5)'te keser."
        ],
        "puan_ipucu": "Kitabın mama örneği (s.131) aynı üç adımla çizer: doğru, yansıma, öteleme. Her adımı ayrı satırda yaz."
@@ -5034,7 +5051,7 @@
      },
      "katmanlar": {
       "basit": [
-       "m(x) = |x − 3| − 2'de içi x = 3'te 0 olur. Minimum değer −2'dir ve x = 3'te alınır; grafikte nokta (3, −2). Görüntü kümesi [−2, ∞) olur.",
+       "m(x) = |x − 3| − 2'de içi x = 3'te 0 olur. Minimum değer −2'dir ve x = 3 değerinde alınır; grafikteki koordinatı (3, −2)'dir. Görüntü kümesi [−2, ∞) olur.",
        "Sıfırları uzaklıkla bulalım: |x − 3| − 2 = 0 ise |x − 3| = 2. Bu, 'x, 3'ten 2 birim uzakta' demektir.",
        "1. Sağa 2 birim: 3 + 2 = 5.",
        "2. Sola 2 birim: 3 − 2 = 1.",
@@ -5042,11 +5059,11 @@
        "Sıfırların arasında, yani (1, 5)'te, işaret tablosuna − yazılır. Dışarıda + olur. Kepçe bu aralıkta su altındadır.",
        "Kaç sıfır olduğunu V'nin en alt noktası söyler. Üç örnek:",
        "• |x| + 3: minimum değer 3, x ekseninin üstünde. Grafik ekseni hiç kesmez; sıfır yok.",
-       "• |x|: minimum değer 0, nokta tam x ekseninin üzerinde. Tek sıfır var: x = 0.",
+       "• |x|: minimum değer 0; grafiğin en alt noktası tam x ekseninin üzerinde. Tek sıfır var: x = 0.",
        "• |x| − 3: minimum değer −3, x ekseninin altında. Grafik ekseni iki yerde keser: −3 ve 3.",
        "Ters V'de en üst noktaya bak. Aynı üçlü:",
        "• −|x| − 3: maksimum değer −3, x ekseninin altında. Sıfır yok.",
-       "• −|x|: maksimum değer 0, nokta tam x ekseninin üzerinde. Tek sıfır var: x = 0.",
+       "• −|x|: maksimum değer 0; grafiğin en üst noktası tam x ekseninin üzerinde. Tek sıfır var: x = 0.",
        "• −|x| + 3: maksimum değer 3, x ekseninin üstünde. İki sıfır var: −3 ve 3.",
        "Kısa kural, V için: minimum değer x ekseninin üstündeyse sıfır yok, tam üzerindeyse bir sıfır, altındaysa iki sıfır var. Ters V için: maksimum değer altındaysa sıfır yok, tam üzerindeyse bir sıfır, üstündeyse iki sıfır var.",
        "Yazımla: |ax + b| + c'nin minimum değeri c'dir; −|ax + b| + c'nin maksimum değeri c'dir. c, b13'teki gibi işaretiyle alınır."
@@ -5061,7 +5078,7 @@
        "ornek_soru": "g(x) = |2x − 2| − 4 veriliyor. İşlemlerinizi göstererek a) görüntü kümesini, b) sıfırlarını, c) artan veya azalan olduğu aralıkları, ç) minimum ve maksimum değerlerini bulunuz.",
        "ornek_cevap": [
         "1. İçini sıfır yapalım: 2x − 2 = 0 ⇒ x = 1.",
-        "2. g(1) = |0| − 4 = −4; minimum değer −4, x = 1'de alınır. Grafikte nokta (1, −4).",
+        "2. g(1) = |0| − 4 = −4; minimum değer −4, x = 1 değerinde alınır. Grafikteki koordinatı (1, −4).",
         "3. a) |2x − 2| ≥ 0 olduğundan g(x) ≥ −4 olur; görüntü kümesi [−4, ∞).",
         "4. b) x ≥ 1 iken |2x − 2| = 2x − 2 olur.",
         "5. g(x) = 2x − 2 − 4 = 2x − 6.",
@@ -5071,7 +5088,7 @@
         "9. −2x − 2 = 0 ⇒ x = −1.",
         "10. 3 ≥ 1 ve −1 < 1 olduğundan iki sıfır da kendi satırına uyar. Sıfırlar −1 ve 3'tür.",
         "11. c) g, (−∞, 1] aralığında azalan, [1, ∞) aralığında artandır.",
-        "12. ç) Minimum değer −4'tür ve x = 1'de alınır. Maksimum değer yoktur."
+        "12. ç) Minimum değer −4'tür ve x = 1 değerinde alınır. Maksimum değer yoktur."
        ],
        "puan_ipucu": "Bulduğun sıfırları yerine koyarak doğrula: g(3) = |4| − 4 = 0 ve g(−1) = |−4| − 4 = 0. Minimum değer −4 eksen altında olduğu için iki sıfır beklenir; tek sıfır bulduysan diğerini ara."
       }
@@ -5127,7 +5144,7 @@
     },
     {
      "on": "g(x) = |x| fonksiyonunun nitel özellikleri nelerdir?",
-     "arka": "Tanım ℝ, görüntü [0, ∞), sıfır 0. (−∞, 0]'da azalan, [0, ∞)'da artan; minimum değer 0, maksimum yok, bire bir değil."
+     "arka": "Tanım ℝ, görüntü [0, ∞), sıfır 0. (−∞, 0]'da azalan, [0, ∞)'da artan; minimum değer 0, maksimum değer yok, bire bir değil."
     },
     {
      "on": "h(x) = −|x| grafiği nasıldır?",
@@ -5138,12 +5155,12 @@
      "arka": "x < 0 iken −x, x ≥ 0 iken x."
     },
     {
-     "on": "|ax + b| minimum değerini nerede alır?",
-     "arka": "İçini 0 yapan x'te. Örnek: |2x − 6| için 2x − 6 = 0, x = 3. Minimum değer 0'dır, x = 3'te alınır; grafikte nokta (3, 0)."
+     "on": "|ax + b| minimum değerini hangi x değerinde alır?",
+     "arka": "İçini 0 yapan x'te. Örnek: |2x − 6| için 2x − 6 = 0, x = 3. Minimum değer 0'dır, x = 3 değerinde alınır; grafikteki koordinatı (3, 0)."
     },
     {
-     "on": "Minimum değer ile minimum noktası arasındaki fark nedir?",
-     "arka": "Minimum değer yalnız y'dir: |x| için 0. |x| bu değeri x = 0 noktasında alır; grafikte bu nokta (0, 0)'dır. Yazılıda ikisini birlikte yaz."
+     "on": "Minimum değer, değerin alındığı x değeri ve grafikteki koordinat nasıl ayrılır?",
+     "arka": "Minimum değer yalnız y'dir: |x| için 0. Değerin alındığı x değeri 0'dır. Grafikteki koordinat (0, 0)'dır; yazılıda üçünü adıyla ayrı yaz."
     },
     {
      "on": "|ax + b| + c grafiğe ne yapar?",
@@ -5163,7 +5180,7 @@
     },
     {
      "on": "Ters V kapalı aralıkta en büyük değeri nerede alabilir?",
-     "arka": "Aralığın içinde de alabilir. −|x| + 4, [−2, 3]: uçlarda 2 ve 1, ama x = 0'da 4. Maksimum değer 4'tür, x = 0'da alınır."
+     "arka": "Aralığın içinde de alabilir. −|x| + 4, [−2, 3]: uçlarda 2 ve 1, ama x = 0'da 4. Maksimum değer 4'tür, x = 0 değerinde alınır."
     },
     {
      "on": "|x| + c ve −|x| + c'nin kaç sıfırı vardır?",
@@ -5185,7 +5202,7 @@
     },
     {
      "hata_turu": "carpim_sifir_isaret",
-     "aciklama": "|x − 2|'nin minimum değerini x = −2'de aldığını sanmak. İçini sıfır yapan x = 2'dir; grafikte nokta (2, 0)."
+     "aciklama": "|x − 2|'nin minimum değerini x = −2'de aldığını sanmak. İçini sıfır yapan x = 2'dir; grafikteki koordinatı (2, 0)."
     },
     {
      "hata_turu": "eksi_mutlak_karistirma",
@@ -5205,17 +5222,17 @@
     },
     {
      "hata_turu": "maksimum_varlik",
-     "aciklama": "|x|'in ℝ'de en büyük değerini aramak; V yukarı açıktır, maksimum değer yoktur. Tersine, tanım kümesi kapalı aralıksa maksimum vardır. V yukarı açıksa uç noktalarda aranır; ters V'de aralığın içindeki maksimum noktası da kontrol edilir."
+     "aciklama": "|x|'in ℝ'de en büyük değerini aramak; V yukarı açıktır, maksimum değer yoktur. Tersine, tanım kümesi kapalı aralıksa maksimum değer vardır. V yukarı açıksa uç noktalarda aranır; ters V'de en üst noktanın x değeri aralığın içindeyse o da kontrol edilir."
     }
    ],
    "dogrula": [
-    "DOĞRULA (docs/dogrula.md #22, açık): Kart minimum/maksimum noktasını iki yazımla veriyor: 'x = 0 noktasında alır' (kitabın s.127 ve s.134 yazımı) ve 'grafikte bu nokta (0, 0)' (b2, b4, b5, b8, flashcard 6-7). Öğretmenin yazılıda hangi yazımı beklediği teyit edilmeli; teyide kadar iki yazım birlikte öğretilir.",
+    "Bilgi notu: #22 kararı (2026-10-31): kart üç ad kullanır — minimum/maksimum değer (y), değerin alındığı x değeri, grafikteki koordinat (x, y). Öğretmenin yazılıda 'minimum noktası' ile hangisini beklediği yine sorulabilir.",
     "DOĞRULA: Ülke geneli 1D2Y konu-soru dağılım tablosu henüz yayımlanmadı; geçmiş ortak sınavlarda mutlak değer fonksiyonu sorusu yok (2025-26 1D1Y'deki lastik basıncı sorusu 9.1 mutlak değerli eşitsizliktir). 'Yazılıda' kalıpları kitabın uygulama, örnek ve alıştırmalarından (s.122-123, 126-127, 131-133, 135) uyarlandı (docs/dogrula.md #23).",
     "Bilgi notu: Destekleme kitaplarında mutlak değer fonksiyonu etkinliği bulunamadı; kart destekleme kaynağı kullanmıyor.",
     "Bilgi notu: b1, b7 ve b10-b12'deki boru, parça, levha, halat, zincir, römorkör ve dalış teknesi sayıları kurgusaldır; gerçek kurum ya da ölçüm iddiası yoktur.",
     "Bilgi notu: Kart c'yi programdaki gibi işaretli tek yazımla verir (|ax + b| + c, c ∈ ℝ; program s.50). Kitap s.130 aynı durumu c pozitif alıp '+ c' ve '− c' diye iki yazımla anlatır; b13 kitap katmanı iki yazımı eşleştirir."
    ],
-   "surum": 3,
+   "surum": 4,
    "uretim": {
     "ajan": "konu-anlatici",
     "tarih": "2026-10-30"
@@ -6051,7 +6068,7 @@
         "7. b) A(300) = 1200 + 1200 = 2400 TL; B(300) = 1800 + 800 = 2600 TL.",
         "8. 2400 < 2600; 300 > 200 için A gerçekten ucuz. Sonuç doğru."
        ],
-       "puan_ipucu": "Kesim noktası sınırdır; '<' istendiği için sınır hariç. Soru 'en az kaç km' derse kitabın şişme bot örneğindeki gibi (s.150) sınırdan büyük ilk tam sayı istenebilir: 201."
+       "puan_ipucu": "Kesim noktası sınırdır; '<' istendiği için sınır hariç. Km sürekli büyüklüktür: cevap 'x > 200' ya da '200 km'den uzun' yazılır. 'En az 251' gibi tam sayı cevap yalnız adet sorularında geçerlidir (şişme bot örneği, s.150)."
       }
      },
      "terimler": [
@@ -6570,7 +6587,7 @@
    ],
    "dogrula": [
     "Bilgi notu: #29 kapandı (2026-10-30): s.139 Tablo 2.2, s.140 [0, 5), s.148 [0, 38,4), s.154 [59,95, 60,05] PDF görseliyle teyit edildi.",
-    "DOĞRULA (docs/dogrula.md #30, açık): Sürekli büyüklüklerde (km, dakika) 'en az kaç km'de daha ekonomik' sorusuna öğretmenin 'x > 200' mü, 'en az 201' mi beklediği. Kitap adet için 251 der (s.150); tema sonu araç kiralama sorusu (s.165 ç) km için aynı kalıbı kullanır, cevabı kitapta yok. Kart b9'da ikisini birlikte veriyor.",
+    "Bilgi notu (docs/dogrula.md #30 kapandı, 2026-10-31): Sürekli büyüklüklerde (km, dakika) cevap 'x > 200' biçimindedir; 'en az 201' yalnız adet gibi tam sayı büyüklüklerde kullanılır.",
     "DOĞRULA (docs/dogrula.md #23, açık): 1D2Y ülke geneli konu-soru dağılım tablosu yok; yeni programın geçmiş ortak sınavlarında 9.2.3 sorusu yok. 'Yazılıda' kalıpları kitabın örnek ve alıştırmalarından (s.140, 145-146, 148, 150, 153-154, 158, 159, 164-166) ve 2025-26 1D1Y'deki 'mutlak değerli eşitsizlik olarak yazınız' kalıbından uyarlandı.",
     "Bilgi notu: Mutlak değerli problemler (kitap s.151-158) karta dâhil edildi. Program açıklaması (s.54) 9.2.3 kapsamında |f(x)| = g(x), |f(x)| ≤ g(x), |f(x)| < k, |f(x)| = 0 gibi biçimleri açıkça sayıyor; teyit gerekmez. |f(x)| ≤ k programda birebir geçmez; |f(x)| ≤ g(x)'in g sabit olan hâlidir ve kitapta s.152'de geçer. |f(x)| ≤ 0 programda sayılmaz; b12 kitap katmanında mutlak değerin eksi olmamasından çıkan bir sonuç olarak verildi.",
     "Bilgi notu: Kitap kârı, gelirin maliyetten büyük olduğu durum (g(x) > m(x)) olarak kullanır (s.150). Kart bunu eşdeğer biçimde Kâr = Gelir − Gider diye yazar (g(x) > m(x) ile g(x) − m(x) > 0 aynıdır). 'Zarar' günlük dildeki anlamıyla (eksi kâr) kullanıldı; matematiksel bir iddia değildir.",
@@ -12912,7 +12929,6 @@
     "cevap": "a) A(x) = 18x + 2400, B(x) = 24x + 1200. b) 18x + 2400 = 24x + 1200 → 1200 = 6x → x = 200 km; A(200) = B(200) = 6000 TL. c) 18x + 2400 < 24x + 1200 → 1200 < 6x → 200 < x, yani x > 200: 200 km'den uzun taşımalarda A daha ekonomiktir (tam sayı km için en az 201 km). ç) x = 100: A = 4200 TL, B = 3600 TL, B ucuz; x = 300: A = 7800 TL, B = 8400 TL, A ucuz. Tablo, kesim noktasından sonra A'nın ucuz olduğunu doğruluyor.",
     "kabul_edilenler": [
      "x > 200",
-     "en az 201 km",
      "200 km'den uzun taşımalarda"
     ],
     "ipuclari": [
@@ -12959,7 +12975,7 @@
       "puan": 2
      },
      {
-      "olcut": "c) x > 200 bulup bağlamda yorumlama: 200 km'den uzun taşımalarda A daha ekonomik ya da en az 201 km (bu anlama gelen ifadeler kabul edilir).",
+      "olcut": "c) x > 200 bulup bağlamda yorumlama: 200 km'den uzun taşımalarda A daha ekonomik (bu anlama gelen ifadeler kabul edilir; km sürekli büyüklük olduğu için \"en az 201 km\" bu ölçütü karşılamaz)..",
       "puan": 2
      },
      {
@@ -12967,7 +12983,7 @@
       "puan": 3
      }
     ],
-    "puanlama_notu": "c) şıkkında 'x > 200' de 'en az 201 km' de tam puan alır (docs/dogrula.md #30). 'x ≥ 200' ya da 'en az 200 km' yazan öğrenci yorum ölçütünün puanını alamaz; 200 km'de iki ücret eşittir. 'x < 200' yazan öğrenci de yorum ölçütünün puanını alamaz: bu öğrenci hangi doğrunun altta olduğunu ters okuyup kesim noktasından sonraki sırayı (A ucuz) kesim noktasının soluna taşımıştır ya da 1200 < 6x satırını 'x < 200' diye okumuştur. b) şıkkında yalnız 200 yazıp ücreti bulmayan öğrenci ücret ölçütünün puanını alamaz; ücret olarak 200 yazmak kesim noktasının x'i ile y'sini karıştırmaktır. ç) şıkkında kontrol grafikle yapılırsa (iki doğru çizilip 200'ün sağında A'nın doğrusunun altta kaldığı gösterilirse) da tam puan verilir; yalnız tek yandan değer seçilirse 1 puan verilir. b) şıkkında x yanlış bulunup ücret ve sonraki şıklar bu x ile tutarlı çözülürse ilgili puanlar verilir.",
+    "puanlama_notu": "c) şıkkında yalnız 'x > 200' ya da '200 km'den uzun/fazla' tam puan alır. Km sürekli büyüklüktür; 'en az 201 km' 200 ile 201 arasını dışarıda bırakır, yorum ölçütünün puanını alamaz (docs/dogrula.md #30, kapandı). 'x ≥ 200' ya da 'en az 200 km' yazan öğrenci yorum ölçütünün puanını alamaz; 200 km'de iki ücret eşittir. 'x < 200' yazan öğrenci de yorum ölçütünün puanını alamaz: bu öğrenci hangi doğrunun altta olduğunu ters okuyup kesim noktasından sonraki sırayı (A ucuz) kesim noktasının soluna taşımıştır ya da 1200 < 6x satırını 'x < 200' diye okumuştur. b) şıkkında yalnız 200 yazıp ücreti bulmayan öğrenci ücret ölçütünün puanını alamaz; ücret olarak 200 yazmak kesim noktasının x'i ile y'sini karıştırmaktır. ç) şıkkında kontrol grafikle yapılırsa (iki doğru çizilip 200'ün sağında A'nın doğrusunun altta kaldığı gösterilirse) da tam puan verilir; yalnız tek yandan değer seçilirse 1 puan verilir. b) şıkkında x yanlış bulunup ücret ve sonraki şıklar bu x ile tutarlı çözülürse ilgili puanlar verilir.",
     "hata_turu": [
      "kesisim_taraf",
      "aralik_uc",
@@ -12981,7 +12997,6 @@
      "program": "MAT.9.2.3 süreç b, c, ç (program s.50; s.54: f(x) = g(x), f(x) ≤ g(x), kesim noktası, çözümün farklı stratejiyle kontrolü)"
     },
     "dogrula": [
-     "DOĞRULA (docs/dogrula.md #30, açık): Sürekli büyüklükte (km) öğretmenin 'x > 200' mü, 'en az 201' mi beklediği bilinmiyor; kök artık 'en az kaç' diye sormuyor, rubrik ikisini de tam puan sayıyor.",
      "DOĞRULA: Rubrik puan dağılımı ve kontrol adımına verilen puan bizim önerimizdir; ÖDSGM cevap anahtarı kısmi puan vermiyor (docs/dogrula.md #32)."
     ]
    },

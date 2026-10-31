@@ -12,7 +12,16 @@ const yukle = f => vm.runInContext(fs.readFileSync(f, "utf8"), sandbox, { filena
 yukle(path.join(kok, "rastgele.js"));
 yukle(path.join(kok, "soru.js"));
 const uDizin = path.join(kok, "uretecler");
-fs.readdirSync(uDizin).filter(f => f.endsWith(".js")).sort().forEach(f => yukle(path.join(uDizin, f)));
+// Çakışma sayacı: ayikla'nın elediği "önce gelen yanlışla aynı değerdeki" yanlışları sayar (hata değil, uyarı).
+// Kaynak yalnız test bağlamında sarılır; panelin yüklediği dosya değişmez.
+const AYIKLA = "const ayikla = (ys, d) => ";
+sandbox.__cakisma = 0;
+fs.readdirSync(uDizin).filter(f => f.endsWith(".js")).sort().forEach(f => {
+  const yol = path.join(uDizin, f);
+  let src = fs.readFileSync(yol, "utf8");
+  if (src.includes(AYIKLA)) src = src.replace(AYIKLA, AYIKLA + "(window.__cakisma += ys.filter((v, i) => v.deger != null && !esitD(v.deger, d) && ys.findIndex(w => esitD(w.deger, v.deger)) !== i).length, 0) || ");
+  vm.runInContext(src, sandbox, { filename: yol });
+});
 
 const { soru: S, rastgele: R } = sandbox.B9;
 const ADET = 300;
@@ -52,6 +61,16 @@ for (const u of sandbox.URETECLER || []) {
       if (!m.includes("Sıfırı yoktur") || !m.some(x => /\d/.test(x))) hatalar.push({ tohum: t, mesaj: `${u.id} tohum ${t}: şık biçimi cevabı veriyor: ${m.join(" | ")}` });
     }
   }
+  // Değerce çakışan yanlışlar: iki farklı hata aynı sayıyı veriyorsa yalnız öndekinin açıklaması görünür.
+  // ayikla kullananlarda sarılmış sayaçtan, kullanmayanlarda (insa eler) havuzun kendisinden sayılır.
+  let cakisan = 0;
+  for (let t = 0; t < ADET; t++) {
+    const once = sandbox.__cakisma;
+    const g = u.gen(R.rng(t)), ys = g.yanlislar || [];
+    const havuz = ys.filter((v, i) => v.deger != null && ys.findIndex(w => S.esitDeger ? S.esitDeger(w.deger, v.deger) : w.deger === v.deger) !== i).length;
+    if (sandbox.__cakisma > once || havuz) cakisan++;
+  }
+  if (cakisan) console.log(`UYARI: Hata çakışması tespit edildi: ${u.id} ${cakisan}/${ADET} tohum (yalnız öndeki açıklama gösterilir)`);
   const kotu = new Set(hatalar.map(h => h.tohum)).size;
   console.log(`${u.id}: ${ADET - kotu}/${ADET} ${kotu ? "HATA" : "OK"}`);
   hatalar.slice(0, 10).forEach(h => console.log("  " + h.mesaj));

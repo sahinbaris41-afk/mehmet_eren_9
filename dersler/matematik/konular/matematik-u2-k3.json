@@ -828,7 +828,7 @@
       "7. b) A(300) = 1200 + 1200 = 2400 TL; B(300) = 1800 + 800 = 2600 TL.",
       "8. 2400 < 2600; 300 > 200 için A gerçekten ucuz. Sonuç doğru."
      ],
-     "puan_ipucu": "Kesim noktası sınırdır; '<' istendiği için sınır hariç. Soru 'en az kaç km' derse kitabın şişme bot örneğindeki gibi (s.150) sınırdan büyük ilk tam sayı istenebilir: 201."
+     "puan_ipucu": "Kesim noktası sınırdır; '<' istendiği için sınır hariç. Km sürekli büyüklüktür: cevap 'x > 200' ya da '200 km'den uzun' yazılır. 'En az 251' gibi tam sayı cevap yalnız adet sorularında geçerlidir (şişme bot örneği, s.150)."
     }
    },
    "terimler": [
@@ -1347,7 +1347,7 @@
  ],
  "dogrula": [
   "Bilgi notu: #29 kapandı (2026-10-30): s.139 Tablo 2.2, s.140 [0, 5), s.148 [0, 38,4), s.154 [59,95, 60,05] PDF görseliyle teyit edildi.",
-  "DOĞRULA (docs/dogrula.md #30, açık): Sürekli büyüklüklerde (km, dakika) 'en az kaç km'de daha ekonomik' sorusuna öğretmenin 'x > 200' mü, 'en az 201' mi beklediği. Kitap adet için 251 der (s.150); tema sonu araç kiralama sorusu (s.165 ç) km için aynı kalıbı kullanır, cevabı kitapta yok. Kart b9'da ikisini birlikte veriyor.",
+  "Bilgi notu (docs/dogrula.md #30 kapandı, 2026-10-31): Sürekli büyüklüklerde (km, dakika) cevap 'x > 200' biçimindedir; 'en az 201' yalnız adet gibi tam sayı büyüklüklerde kullanılır.",
   "DOĞRULA (docs/dogrula.md #23, açık): 1D2Y ülke geneli konu-soru dağılım tablosu yok; yeni programın geçmiş ortak sınavlarında 9.2.3 sorusu yok. 'Yazılıda' kalıpları kitabın örnek ve alıştırmalarından (s.140, 145-146, 148, 150, 153-154, 158, 159, 164-166) ve 2025-26 1D1Y'deki 'mutlak değerli eşitsizlik olarak yazınız' kalıbından uyarlandı.",
   "Bilgi notu: Mutlak değerli problemler (kitap s.151-158) karta dâhil edildi. Program açıklaması (s.54) 9.2.3 kapsamında |f(x)| = g(x), |f(x)| ≤ g(x), |f(x)| < k, |f(x)| = 0 gibi biçimleri açıkça sayıyor; teyit gerekmez. |f(x)| ≤ k programda birebir geçmez; |f(x)| ≤ g(x)'in g sabit olan hâlidir ve kitapta s.152'de geçer. |f(x)| ≤ 0 programda sayılmaz; b12 kitap katmanında mutlak değerin eksi olmamasından çıkan bir sonuç olarak verildi.",
   "Bilgi notu: Kitap kârı, gelirin maliyetten büyük olduğu durum (g(x) > m(x)) olarak kullanır (s.150). Kart bunu eşdeğer biçimde Kâr = Gelir − Gider diye yazar (g(x) > m(x) ile g(x) − m(x) > 0 aynıdır). 'Zarar' günlük dildeki anlamıyla (eksi kâr) kullanıldı; matematiksel bir iddia değildir.",
