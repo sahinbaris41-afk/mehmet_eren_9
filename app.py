@@ -13,7 +13,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# YENİ NESİL KOMUT: st.components.v1.iframe yerine st.iframe kullanıyoruz.
-# Path objesi ile statik HTML dosyasının tam yolunu belirtiyoruz.
+# YENİ NESİL KOMUT: st.iframe kullanıyoruz, 'scrolling' parametresi kaldırıldı.
 html_file_path = Path(__file__).parent / "static" / "index.html"
-st.iframe(html_file_path, height=1000, scrolling=True)
+st.iframe(html_file_path, height=1000)
